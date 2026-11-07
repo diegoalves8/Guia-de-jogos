@@ -24,6 +24,9 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.ScaffoldDefaults
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.statusBars
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
@@ -48,10 +51,13 @@ fun AppScreen(
     actions: @Composable () -> Unit = {},
     /** Largura máxima do conteúdo: grades usam mais espaço (tablet/carro), textos menos. */
     maxContentWidthDp: Int = AppConfig.MAX_CONTENT_WIDTH_DP,
+    /** true nas abas principais: a barra de navegação inferior já cuida do espaço de baixo. */
+    inShell: Boolean = false,
     content: @Composable (PaddingValues) -> Unit,
 ) {
     Scaffold(
         containerColor = AppColors.Background,
+        contentWindowInsets = if (inShell) WindowInsets.statusBars else ScaffoldDefaults.contentWindowInsets,
         topBar = {
             CenterAlignedTopAppBar(
                 title = {

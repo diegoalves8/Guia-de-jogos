@@ -26,6 +26,17 @@ data class GameSummary(
     val status: ContentStatus,
     /** Caminho do arquivo do jogo, relativo a content/ (ex.: "games/dandys-world.json"). */
     val file: String,
+    /** Imagem de capa do jogo (URL). */
+    val cover: String,
+    /** Números para o painel (personagens, skins/itens). */
+    val stats: GameStats,
+)
+
+data class GameStats(
+    val characters: Int,
+    val skins: Int,
+    /** Nome dos personagens neste jogo (Toons, Brawlers, Frutas...). */
+    val label: String,
 )
 
 /** Conteúdo completo de um jogo. */
@@ -35,6 +46,7 @@ data class GameDetail(
     val description: String,
     val colorHex: String,
     val emoji: String,
+    val cover: String,
     val categories: List<Category>,
 )
 
@@ -112,7 +124,11 @@ data class Toon(
     val skins: List<ToonSkin>,
     val tutorial: List<TutorialStep>,
     val videoUrl: String,
+    /** Blocos extras com título + lista (ex.: "Kit do Brawler", "Ficha"). */
+    val infoBlocks: List<InfoBlock>,
 )
+
+data class InfoBlock(val title: String, val items: List<String>)
 
 data class ToonSkin(
     val name: String,

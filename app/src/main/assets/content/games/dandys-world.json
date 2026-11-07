@@ -3,6 +3,7 @@
   "name": "Dandy's World",
   "emoji": "🌼",
   "color": "#F59E0B",
+  "cover": "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/3/34/Dandy_Full_Render.png/revision/latest/scale-to-width-down/400?cb=20250201223857",
   "description": "Jogo de terror cooperativo no Roblox, da BlushCrunch Studio. Você joga como um Toon, conserta máquinas e foge dos Twisteds dentro do Gardenview Center.",
   "categories": [
     {
@@ -4973,23 +4974,101 @@
             },
             {
               "level": "🟠 Avançado",
-              "tips": []
+              "tips": [
+                "Planeje a Maestria em ordem: alguns Toons só liberam depois da Maestria de outro (ex.: Looey pede a da Poppy; Blot pede a de Looey e Yatta). (Dandy's World Wiki)",
+                "Acompanhe o Toon da Semana: ele tem missões próprias que dão skins Douradas. (Dandy's World Wiki / Parkourdisaster2005)"
+              ]
             },
             {
               "level": "🔴 Profissional",
-              "tips": []
+              "tips": [
+                "Criadores focados em partidas longas mostram como chegar a andares altos (Parkourdisaster2005 registra recorde pessoal no andar 154). (CreatorDB)",
+                "Acompanhe o Discord oficial da BlushCrunch Studio para saber de códigos e eventos assim que saem. (games.gg)"
+              ]
             }
           ]
         }
       ]
     },
     {
-      "id": "dicas",
-      "title": "Dicas Rápidas",
-      "emoji": "💡",
-      "description": "Truques curtos para melhorar.",
-      "status": "coming_soon",
-      "sections": []
+      "id": "criadores",
+      "title": "Criadores de Conteúdo",
+      "emoji": "📺",
+      "description": "Canais e comunidades para aprender.",
+      "status": "available",
+      "updatedAt": "2026-11-07",
+      "sections": [
+        {
+          "type": "items",
+          "title": "Criadores e comunidades",
+          "items": [
+            {
+              "name": "Parkourdisaster2005",
+              "tags": [
+                "YouTube",
+                "Lives"
+              ],
+              "description": "Canal com partidas de andares altos e conteúdo do Toon da Semana; recorde pessoal no andar 154.",
+              "fields": {
+                "Fonte da indicação": "CreatorDB"
+              }
+            },
+            {
+              "name": "BlushCrunch Studio (oficial)",
+              "tags": [
+                "Discord",
+                "Roblox"
+              ],
+              "description": "Estúdio criador do jogo. O Discord oficial anuncia códigos e eventos primeiro.",
+              "fields": {
+                "Fonte da indicação": "games.gg"
+              }
+            },
+            {
+              "name": "Dandy's World Wiki",
+              "tags": [
+                "Wiki"
+              ],
+              "description": "Wiki da comunidade com todos os Toons, skins e missões (fonte dos dados deste app).",
+              "fields": {
+                "Fonte da indicação": "Fandom"
+              }
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "title": "",
+          "tone": "info",
+          "body": "Os links abrem a busca no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado."
+        },
+        {
+          "type": "links",
+          "title": "Ver vídeos",
+          "links": [
+            {
+              "label": "Parkourdisaster2005 no YouTube",
+              "url": "https://www.youtube.com/results?search_query=Parkourdisaster2005+Dandy%27s+World",
+              "official": false
+            },
+            {
+              "label": "Dandy's World no TikTok",
+              "url": "https://www.tiktok.com/search?q=Dandy%27s%20World%20dicas",
+              "official": false
+            },
+            {
+              "label": "Dandy's World dicas no YouTube",
+              "url": "https://www.youtube.com/results?search_query=Dandy%27s+World+dicas",
+              "official": false
+            },
+            {
+              "label": "Dandy's World Wiki",
+              "url": "https://dandys-world-robloxhorror.fandom.com/wiki/Dandy%27s_World_Wiki",
+              "official": false
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "atualizacoes",

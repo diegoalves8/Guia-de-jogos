@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -12,12 +14,16 @@ android {
         applicationId = "com.guiadejogos.app"
         minSdk = 26          // Android 8.0+ (celulares, tablets como o Galaxy Tab S6 Lite e multimídia BYD DiLink 3.0+/Android 9)
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.2.0"
+        // No GitHub Actions cada build ganha um número novo (usado pela atualização dentro do app).
+        val buildNumber = System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 0
+        versionCode = 100 + buildNumber
+        versionName = "1.3.$buildNumber"
 
         // URL base do conteúdo remoto (atualização sem gerar novo APK).
         // Deixe "" para usar somente o conteúdo embutido no app.
         // Veja docs/ATUALIZAR_CONTEUDO.md.
+        // Repositório usado para procurar versões novas do app (GitHub Releases).
+        buildConfigField("String", "UPDATE_REPO", "\"diegoalves8/Guia-de-jogos\"")
         buildConfigField(
             "String",
             "REMOTE_CONTENT_BASE_URL",
@@ -25,7 +31,25 @@ android {
         )
     }
 
+    // Assinatura fixa: o mesmo certificado em todo build, para permitir atualizar por cima.
+    val keyProps = Properties().apply {
+        val f = rootProject.file("keystore/keystore.properties")
+        if (f.exists()) f.inputStream().use { load(it) }
+    }
+    signingConfigs {
+        create("fixed") {
+            storeFile = file(keyProps.getProperty("storeFile", "../keystore/guia.jks"))
+            storePassword = keyProps.getProperty("storePassword")
+            keyAlias = keyProps.getProperty("keyAlias")
+            keyPassword = keyProps.getProperty("keyPassword")
+        }
+    }
+
     buildTypes {
+        debug {
+            signingConfig = signingConfigs.getByName("fixed")
+            applicationIdSuffix = ".debug"
+        }
         release {
             // Código otimizado e APK menor: roda melhor em centrais multimídia mais modestas.
             isMinifyEnabled = true
@@ -34,9 +58,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-            // Assina o release com a chave de debug para que o APK seja instalável direto.
-            // Para publicar na Play Store, troque por uma chave própria (veja README).
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = signingConfigs.getByName("fixed")
         }
     }
 

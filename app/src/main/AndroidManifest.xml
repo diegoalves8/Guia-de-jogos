@@ -3,6 +3,8 @@
 
     <!-- Usado apenas para baixar atualizações de conteúdo (JSON). -->
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Necessário para instalar a atualização do app baixada pelo próprio app. -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <!-- Não exige tela sensível ao toque nem recursos de celular: instala também
          em centrais multimídia (ex.: BYD DiLink) e outros aparelhos Android. -->
@@ -39,5 +41,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- Entrega o APK baixado ao instalador do Android. -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
     </application>
 </manifest>

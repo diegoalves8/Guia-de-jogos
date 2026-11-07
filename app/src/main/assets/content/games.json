@@ -1,5 +1,5 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 3,
   "updatedAt": "2026-11-07",
   "games": [
     {
@@ -10,7 +10,13 @@
       "emoji": "🌼",
       "color": "#F59E0B",
       "status": "available",
-      "file": "games/dandys-world.json"
+      "file": "games/dandys-world.json",
+      "cover": "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/3/34/Dandy_Full_Render.png/revision/latest/scale-to-width-down/400?cb=20250201223857",
+      "stats": {
+        "characters": 40,
+        "skins": 264,
+        "label": "Toons"
+      }
     },
     {
       "id": "brawl-stars",
@@ -19,8 +25,14 @@
       "platform": "Android / iOS",
       "emoji": "⭐",
       "color": "#FACC15",
-      "status": "coming_soon",
-      "file": "games/brawl-stars.json"
+      "status": "available",
+      "file": "games/brawl-stars.json",
+      "cover": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20251013023733",
+      "stats": {
+        "characters": 107,
+        "skins": 802,
+        "label": "Brawlers"
+      }
     },
     {
       "id": "free-fire",
@@ -29,18 +41,46 @@
       "platform": "Android / iOS",
       "emoji": "🔥",
       "color": "#F97316",
-      "status": "coming_soon",
-      "file": "games/free-fire.json"
+      "status": "available",
+      "file": "games/free-fire.json",
+      "cover": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest/scale-to-width-down/400?cb=20230131043654",
+      "stats": {
+        "characters": 49,
+        "skins": 0,
+        "label": "Personagens"
+      }
     },
     {
       "id": "murder-mystery",
-      "name": "Murder Mystery",
+      "name": "Murder Mystery 2",
       "subtitle": "Descubra quem é o assassino",
       "platform": "Roblox",
       "emoji": "🔪",
       "color": "#EF4444",
-      "status": "coming_soon",
-      "file": "games/murder-mystery.json"
+      "status": "available",
+      "file": "games/murder-mystery.json",
+      "cover": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9f/Murder-Mystery-2.png/revision/latest/scale-to-width-down/400?cb=20220209144621",
+      "stats": {
+        "characters": 156,
+        "skins": 156,
+        "label": "Armas"
+      }
+    },
+    {
+      "id": "blox-fruits",
+      "name": "Blox Fruits",
+      "subtitle": "Frutas, mares e combos",
+      "platform": "Roblox",
+      "emoji": "🍈",
+      "color": "#22C55E",
+      "status": "available",
+      "file": "games/blox-fruits.json",
+      "cover": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest/scale-to-width-down/400?cb=20250731190159",
+      "stats": {
+        "characters": 51,
+        "skins": 0,
+        "label": "Frutas"
+      }
     }
   ]
 }

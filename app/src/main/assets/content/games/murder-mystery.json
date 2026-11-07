@@ -1,78 +1,1134 @@
 {
-  "id": "murder-mystery",
-  "name": "Murder Mystery",
-  "emoji": "🔪",
-  "color": "#EF4444",
-  "description": "Jogo do Roblox em que um jogador é o assassino, outro o xerife e os demais inocentes. Conteúdo em preparação.",
-  "categories": [
+ "id": "murder-mystery",
+ "name": "Murder Mystery 2",
+ "emoji": "🔪",
+ "color": "#EF4444",
+ "cover": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9f/Murder-Mystery-2.png/revision/latest/scale-to-width-down/400?cb=20220209144621",
+ "description": "Jogo do Roblox criado por Nikilis: um Assassino, um Xerife e vários Inocentes por rodada.",
+ "categories": [
+  {
+   "id": "papeis",
+   "title": "Papéis (como jogar)",
+   "emoji": "🎭",
+   "description": "Inocente, Xerife, Assassino e Herói.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
     {
-      "id": "codigos",
-      "title": "Códigos",
-      "emoji": "🎁",
-      "description": "Quando existirem.",
-      "status": "coming_soon",
-      "sections": []
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "🙂 Inocente",
+       "tags": [
+        "Maioria dos jogadores"
+       ],
+       "description": "Fuja e se esconda do Assassino, junte moedas e ajude a descobrir quem ele é.",
+       "fields": {}
+      },
+      {
+       "name": "🔫 Xerife",
+       "tags": [
+        "1 por rodada"
+       ],
+       "description": "Tem a arma. Precisa descobrir e atirar no Assassino, trabalhando com os Inocentes.",
+       "fields": {}
+      },
+      {
+       "name": "🔪 Assassino",
+       "tags": [
+        "1 por rodada"
+       ],
+       "description": "Precisa eliminar todos sem levar tiro do Xerife.",
+       "fields": {}
+      },
+      {
+       "name": "🦸 Herói",
+       "tags": [
+        "Especial"
+       ],
+       "description": "Se o Xerife morrer, qualquer Inocente pode pegar a arma caída. Quem acertar o Assassino com ela vira Herói.",
+       "fields": {}
+      }
+     ]
     },
     {
-      "id": "guias",
-      "title": "Guias",
-      "emoji": "🧭",
-      "description": "Como jogar cada papel.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "dicas",
-      "title": "Dicas",
-      "emoji": "💡",
-      "description": "Truques para sobreviver.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "itens",
-      "title": "Skins e Itens",
-      "emoji": "🗡️",
-      "description": "Facas, armas e pets.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "atualizacoes",
-      "title": "Atualizações",
-      "emoji": "🛠️",
-      "description": "Mudanças no jogo.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "novidades",
-      "title": "Novidades",
-      "emoji": "📰",
-      "description": "Últimas notícias.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "info",
-      "title": "Links Oficiais",
-      "emoji": "🔗",
-      "description": "Fontes oficiais do jogo.",
-      "status": "available",
-      "updatedAt": "2026-11-07",
-      "sections": [
-        {
-          "type": "links",
-          "title": "",
-          "links": [
-            {
-              "label": "Murder Mystery no Roblox (busca oficial)",
-              "url": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery",
-              "official": true
-            }
-          ]
-        }
-      ]
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Murder Mystery 2 Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
     }
-  ]
+   ]
+  },
+  {
+   "id": "ancient",
+   "title": "Armas Ancient",
+   "emoji": "🟣",
+   "description": "18 facas e armas Ancient com foto.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Ancient é a raridade mais alta. A maioria veio de eventos antigos e hoje só se consegue por troca. Os valores são aproximados, de sites de valores da comunidade citados pela wiki, e mudam com o tempo."
+    },
+    {
+     "type": "gallery",
+     "title": "Ancients",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/11/NiksScytheUpdated.png/revision/latest/scale-to-width-down/300?cb=20211026061736",
+       "caption": "Nik's Scythe",
+       "subtitle": "Faca · Dado pelo criador do jogo · valor ~250,000,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/ee/Gingerscope.png/revision/latest/scale-to-width-down/300?cb=20231221055850",
+       "caption": "Gingerscope",
+       "subtitle": "Arma (gun) · Natal 2023 · Hoje só por troca · valor ~14,750"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/17/TravellersAxe.png/revision/latest/scale-to-width-down/300?cb=20231228055048",
+       "caption": "Traveler's Axe",
+       "subtitle": "Faca · Halloween 2023 · Hoje só por troca · valor ~7,900"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/db/Chroma_Emberbow.webp/revision/latest?cb=20261020032549",
+       "caption": "Chroma Emberbow",
+       "subtitle": "Arma (gun) · Halloween 2026 · Hoje só por troca · valor ~4,450"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/2c/2024Celestial.png/revision/latest/scale-to-width-down/300?cb=20241221020829",
+       "caption": "Celestial",
+       "subtitle": "Faca · Natal 2024 · Hoje só por troca · valor ~2,250"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/48/VampiresAxe.png/revision/latest/scale-to-width-down/300?cb=20241017021747",
+       "caption": "Vampire's Axe",
+       "subtitle": "Faca · Halloween 2024 · Hoje só por troca · valor ~1,650"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d6/Emberbow.png/revision/latest/scale-to-width-down/300?cb=20261019102218",
+       "caption": "Emberbow",
+       "subtitle": "Arma (gun) · Halloween 2026 · Troca · valor ~325"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8c/EmberscytheV2.webp/revision/latest?cb=20261020033114",
+       "caption": "Emberscythe",
+       "subtitle": "Faca · Halloween 2026 · Hoje só por troca · valor ~300"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b5/HarvesterImproved.png/revision/latest/scale-to-width-down/300?cb=20231013001129",
+       "caption": "Harvester",
+       "subtitle": "Arma (gun) · Halloween 2021 · Hoje só por troca · valor ~250"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/89/Icepiercer.png/revision/latest/scale-to-width-down/300?cb=20231227081854",
+       "caption": "Icepiercer",
+       "subtitle": "Arma (gun) · Natal 2022 · Hoje só por troca · valor ~165"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/eb/Icebreaker.png/revision/latest/scale-to-width-down/300?cb=20210203191357",
+       "caption": "Icebreaker",
+       "subtitle": "Faca · Natal 2020 · Hoje só por troca · valor ~70"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/5e/ElderwoodScythev2.png/revision/latest/scale-to-width-down/300?cb=20201129131723",
+       "caption": "Elderwood Scythe",
+       "subtitle": "Faca · Halloween 2019 · Hoje só por troca · valor ~50"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f8/BatwingUpdated2.png/revision/latest/scale-to-width-down/300?cb=20210906074412",
+       "caption": "Batwing",
+       "subtitle": "Faca · Hoje só por troca · valor ~45"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/93/SwirlAxe.png/revision/latest/scale-to-width-down/300?cb=20211222062459",
+       "caption": "Swirly Axe",
+       "subtitle": "Faca · Natal 2021 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/3/3e/Hallowscythe.png/revision/latest/scale-to-width-down/300?cb=20201027160056",
+       "caption": "Hallowscythe",
+       "subtitle": "Faca · Halloween 2020 · Hoje só por troca · valor ~35"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/16/Logchopper.png/revision/latest/scale-to-width-down/300?cb=20191224103030",
+       "caption": "Logchopper",
+       "subtitle": "Faca · Natal 2019 · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1a/Icewingknife.png/revision/latest/scale-to-width-down/300?cb=20210221133627",
+       "caption": "Icewing",
+       "subtitle": "Faca · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6e/FlamesUpdated.png/revision/latest/scale-to-width-down/300?cb=20210919143555",
+       "caption": "Flames",
+       "subtitle": "Faca · Hoje só por troca · valor ~7"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Murder Mystery 2 Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "godly",
+   "title": "Armas Godly",
+   "emoji": "🔴",
+   "description": "136 facas e armas Godly com foto.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Godly é a raridade logo abaixo de Ancient. Muitas vieram de caixas e eventos; as antigas só por troca. Ordenadas do maior para o menor valor aproximado."
+    },
+    {
+     "type": "gallery",
+     "title": "Godlies",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d5/Ctg3.png/revision/latest?cb=20260222171723",
+       "caption": "Chroma Traveler's Gun",
+       "subtitle": "Arma (gun) · Halloween 2023 · Hoje só por troca · valor ~140,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/83/2024BaubleChroma.png/revision/latest/scale-to-width-down/300?cb=20241221020957",
+       "caption": "Chroma Bauble",
+       "subtitle": "Arma (gun) · Natal 2024 · Hoje só por troca · valor ~31,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f9/ChromaVampiresGun.png/revision/latest/scale-to-width-down/300?cb=20241017022848",
+       "caption": "Chroma Vampire's Gun",
+       "subtitle": "Arma (gun) · Halloween 2024 · Hoje só por troca · valor ~28,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9e/Traveler%27s_Gun_2023.png/revision/latest/scale-to-width-down/300?cb=20231018105154",
+       "caption": "Traveler's Gun",
+       "subtitle": "Arma (gun) · Halloween 2023 · Hoje só por troca · valor ~5,150"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/50/Chroma_Watergun.png/revision/latest?cb=20240706075505",
+       "caption": "Chroma Watergun",
+       "subtitle": "Arma (gun) · Verão 2024 · Caixa · valor ~3,400"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/7c/2024Constellation.png/revision/latest/scale-to-width-down/300?cb=20241221020843",
+       "caption": "Constellation",
+       "subtitle": "Arma (gun) · Natal 2024 · Hoje só por troca · valor ~2,725"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6a/Alienbeam.png/revision/latest/scale-to-width-down/300?cb=20251019081134",
+       "caption": "Alienbeam",
+       "subtitle": "Faca · Halloween 2025 · Caixa · valor ~2,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/27/Turkey_2023.png/revision/latest/scale-to-width-down/300?cb=20231127080215",
+       "caption": "Turkey",
+       "subtitle": "Faca · Ação de Graças 2023 · Hoje só por troca · valor ~2,000"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c5/VampiresGun.png/revision/latest/scale-to-width-down/300?cb=20241017022828",
+       "caption": "Vampire's Gun",
+       "subtitle": "Arma (gun) · Halloween 2024 · Hoje só por troca · valor ~1,875"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c1/Darkshot.png/revision/latest/scale-to-width-down/300?cb=20231018065003",
+       "caption": "Darkshot",
+       "subtitle": "Arma (gun) · Troca · valor ~1,775"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/00/Darksword.png/revision/latest/scale-to-width-down/300?cb=20231018064103",
+       "caption": "Darksword",
+       "subtitle": "Faca · Troca · valor ~1,750"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d0/BlossomGun.png/revision/latest/scale-to-width-down/300?cb=20230205182028",
+       "caption": "Blossom",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~1,380"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f4/Sakura.png/revision/latest/scale-to-width-down/300?cb=20230203075244",
+       "caption": "Sakura",
+       "subtitle": "Faca · Hoje só por troca · valor ~1,180"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a4/Snowcannon.png/revision/latest/scale-to-width-down/300?cb=20251219023108",
+       "caption": "Snowcannon",
+       "subtitle": "Arma (gun) · Natal 2025 · Troca · valor ~675"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/48/SoulGun.png/revision/latest/scale-to-width-down/300?cb=20241017022021",
+       "caption": "Soul",
+       "subtitle": "Arma (gun) · Troca · valor ~650"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a1/SpiritKnife.png.png/revision/latest/scale-to-width-down/300?cb=20241017022100",
+       "caption": "Spirit",
+       "subtitle": "Faca · Troca · valor ~635"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e0/Xenoshot.png/revision/latest/scale-to-width-down/300?cb=20251019081237",
+       "caption": "Xenoshot",
+       "subtitle": "Arma (gun) · Ver no jogo · valor ~440"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1b/Xenoknife.png/revision/latest/scale-to-width-down/300?cb=20251019081224",
+       "caption": "Xenoknife",
+       "subtitle": "Faca · Ver no jogo · valor ~435"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0c/RainbowGun.png/revision/latest/scale-to-width-down/300?cb=20230403090859",
+       "caption": "Rainbow Gun (Godly)",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~430"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f5/RainbowKnife.png/revision/latest/scale-to-width-down/300?cb=20230403091838",
+       "caption": "Rainbow (Godly)",
+       "subtitle": "Faca · Hoje só por troca · valor ~420"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/01/Flora_Gun.png/revision/latest?cb=20250419104249",
+       "caption": "Flora",
+       "subtitle": "Arma (gun) · Troca · valor ~410"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/63/Bloom_Knife.png/revision/latest?cb=20250419104328",
+       "caption": "Bloom",
+       "subtitle": "Faca · Troca · valor ~400"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6c/Wand_Full_HD.png/revision/latest/scale-to-width-down/300?cb=20260214131117",
+       "caption": "Heart Wand",
+       "subtitle": "Faca · Namorados 2026 · Caixa · valor ~350"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/Ocean_gun.png/revision/latest/scale-to-width-down/300?cb=20230705104522",
+       "caption": "Ocean",
+       "subtitle": "Arma (gun) · Verão 2023 · Hoje só por troca · valor ~280"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a3/Waves_knife.png/revision/latest/scale-to-width-down/300?cb=20230705104524",
+       "caption": "Waves",
+       "subtitle": "Faca · Verão 2023 · Hoje só por troca · valor ~280"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bb/Flowerwoodgun.webp/revision/latest/scale-to-width-down/300?cb=20240402054334",
+       "caption": "Flowerwood Gun",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~235"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d7/Flowerwood.webp/revision/latest/scale-to-width-down/300?cb=20240402054405",
+       "caption": "Flowerwood",
+       "subtitle": "Faca · Hoje só por troca · valor ~230"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f4/WaterHun.png/revision/latest/scale-to-width-down/300?cb=20240706075912",
+       "caption": "Watergun",
+       "subtitle": "Arma (gun) · Verão 2024 · Hoje só por troca · valor ~200"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c0/SnowDagger2025.png/revision/latest?cb=20260101120412",
+       "caption": "Snow Dagger",
+       "subtitle": "Faca · Natal 2025 · Caixa · valor ~170"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/5e/Sweet_Knife.png/revision/latest/scale-to-width-down/300?cb=20260214133156",
+       "caption": "Sweet",
+       "subtitle": "Faca · Ver no jogo · valor ~155"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/85/Treat_Gun.png/revision/latest/scale-to-width-down/300?cb=20260214133244",
+       "caption": "Treat",
+       "subtitle": "Arma (gun) · Ver no jogo · valor ~155"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b7/2024Borealis.png/revision/latest/scale-to-width-down/300?cb=20241221121723",
+       "caption": "Borealis",
+       "subtitle": "Arma (gun) · Troca · valor ~140"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f5/2024Australis.png/revision/latest/scale-to-width-down/300?cb=20241221121702",
+       "caption": "Australis",
+       "subtitle": "Faca · Troca · valor ~135"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9d/Pearlshine.png/revision/latest/scale-to-width-down/300?cb=20240706095730",
+       "caption": "Pearlshine",
+       "subtitle": "Arma (gun) · Troca · valor ~105"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/ee/Seer.png/revision/latest/scale-to-width-down/300?cb=20210204082208",
+       "caption": "Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~x10 T1 Legendaries"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/73/Pearl.png/revision/latest/scale-to-width-down/300?cb=20240706095731",
+       "caption": "Pearl",
+       "subtitle": "Faca · Troca · valor ~100"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1a/Updated_Candy.png/revision/latest/scale-to-width-down/300?cb=20210520153102",
+       "caption": "Candy",
+       "subtitle": "Faca · Natal 2015 · Hoje só por troca · valor ~90"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/48/Embersickle.png/revision/latest/scale-to-width-down/300?cb=20261019200819",
+       "caption": "Embersickle",
+       "subtitle": "Faca · Halloween 2026 · Hoje só por troca · valor ~80"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d5/Chroma_Darkbringer_%28without_background%29.png/revision/latest/scale-to-width-down/300?cb=20210204081211",
+       "caption": "Chroma Darkbringer",
+       "subtitle": "Arma (gun) · Caixa · valor ~70"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/Chroma_Lightbringer_%28without_background%29.png/revision/latest/scale-to-width-down/300?cb=20210204081314",
+       "caption": "Chroma Lightbringer",
+       "subtitle": "Arma (gun) · Caixa · valor ~70"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/65/HeartBlade.png/revision/latest/scale-to-width-down/300?cb=20210310190038",
+       "caption": "Heartblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~65"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/06/Chroma_Luger.png/revision/latest/scale-to-width-down/300?cb=20201129113944",
+       "caption": "Chroma Luger",
+       "subtitle": "Arma (gun) · Caixa · valor ~48"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/22/Chromalaser-0.png/revision/latest/scale-to-width-down/300?cb=20190725092628",
+       "caption": "Chroma Laser",
+       "subtitle": "Arma (gun) · Caixa · valor ~45"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/15/ChromaElderwoodBlade.png/revision/latest/scale-to-width-down/300?cb=20221017010614",
+       "caption": "Chroma Elderwood Blade",
+       "subtitle": "Faca · Halloween 2022 · Hoje só por troca · valor ~42"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/71/CSwirl_improved.png/revision/latest/scale-to-width-down/300?cb=20220320225020",
+       "caption": "Chroma Swirly Gun",
+       "subtitle": "Arma (gun) · Natal 2021 · Hoje só por troca · valor ~42"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1e/Candleflame.png/revision/latest/scale-to-width-down/300?cb=20211023140337",
+       "caption": "Candleflame",
+       "subtitle": "Faca · Halloween 2021 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/71/Chromaslasher-0.png/revision/latest/scale-to-width-down/300?cb=20190725092436",
+       "caption": "Chroma Slasher",
+       "subtitle": "Faca · Caixa · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d1/ElderwoodBlade.png/revision/latest/scale-to-width-down/300?cb=20221020190849",
+       "caption": "Elderwood Blade",
+       "subtitle": "Faca · Halloween 2022 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8d/Elderwood_Revolver.png/revision/latest/scale-to-width-down/300?cb=20201129111939",
+       "caption": "Elderwood Revolver",
+       "subtitle": "Arma (gun) · Halloween 2019 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d1/Makeshift.png/revision/latest/scale-to-width-down/300?cb=20221017021026",
+       "caption": "Makeshift",
+       "subtitle": "Arma (gun) · Halloween 2022 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8c/Phantom2022.png/revision/latest/scale-to-width-down/300?cb=20221019163703",
+       "caption": "Phantom",
+       "subtitle": "Faca · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/90/Spectre.png/revision/latest/scale-to-width-down/300?cb=20221019163904",
+       "caption": "Spectre",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6d/Sugar_v2.png/revision/latest/scale-to-width-down/300?cb=20201129110923",
+       "caption": "Sugar",
+       "subtitle": "Arma (gun) · Natal 2015 · Hoje só por troca · valor ~40"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/96/Red_Luger.png/revision/latest/scale-to-width-down/300?cb=20201129112637",
+       "caption": "Red Luger",
+       "subtitle": "Arma (gun) · Natal 2015 · Hoje só por troca · valor ~38"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/78/Chromads.png/revision/latest/scale-to-width-down/300?cb=20190725093103",
+       "caption": "Chroma Deathshard",
+       "subtitle": "Faca · Caixa · valor ~35"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/11/DarkbringerUpdated.png/revision/latest/scale-to-width-down/300?cb=20210820005220",
+       "caption": "Darkbringer",
+       "subtitle": "Arma (gun) · Caixa · valor ~35"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/25/Iceblaster.png/revision/latest/scale-to-width-down/300?cb=20210203191538",
+       "caption": "Iceblaster",
+       "subtitle": "Arma (gun) · Natal 2020 · Hoje só por troca · valor ~35"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/4a/Chromafang_improved.png/revision/latest/scale-to-width-down/300?cb=20210614033950",
+       "caption": "Chroma Fang",
+       "subtitle": "Faca · Caixa · valor ~33"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/91/Chromagemstone.png/revision/latest/scale-to-width-down/300?cb=20201201210935",
+       "caption": "Chroma Gemstone",
+       "subtitle": "Faca · Caixa · valor ~33"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/3/37/Chromashark.png/revision/latest/scale-to-width-down/300?cb=20190725092901",
+       "caption": "Chroma Shark",
+       "subtitle": "Arma (gun) · Caixa · valor ~33"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/19/LightbringerUpdated.png/revision/latest/scale-to-width-down/300?cb=20210820005015",
+       "caption": "Lightbringer",
+       "subtitle": "Arma (gun) · Caixa · valor ~33"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/80/Chroma_Gingerblade.png/revision/latest/scale-to-width-down/300?cb=20190101184620",
+       "caption": "Chroma Gingerblade",
+       "subtitle": "Faca · Natal 2018 · Hoje só por troca · valor ~32"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8a/ChromaCookiecane.png/revision/latest/scale-to-width-down/300?cb=20230113235953",
+       "caption": "Chroma Cookiecane",
+       "subtitle": "Faca · Natal 2022 · Hoje só por troca · valor ~30"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/dc/Chroma_Heat.png/revision/latest/scale-to-width-down/300?cb=20201129114106",
+       "caption": "Chroma Heat",
+       "subtitle": "Faca · Caixa · valor ~30"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/08/Png_%282%29.png/revision/latest/scale-to-width-down/300?cb=20201025090312",
+       "caption": "Amerilaser",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/25/Chromaseer.png/revision/latest/scale-to-width-down/300?cb=20190725091616",
+       "caption": "Chroma Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/42/Chromatides-0.png/revision/latest/scale-to-width-down/300?cb=20190725093139",
+       "caption": "Chroma Tides",
+       "subtitle": "Faca · Caixa · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f5/Green_Luger.png/revision/latest/scale-to-width-down/300?cb=20170314160455",
+       "caption": "Green Luger",
+       "subtitle": "Arma (gun) · Natal 2015 · Hoje só por troca · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/ac/5877089721.png/revision/latest/scale-to-width-down/300?cb=20210120163607",
+       "caption": "Hallowgun",
+       "subtitle": "Arma (gun) · Halloween 2020 · Hoje só por troca · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bd/IceBeam.png/revision/latest/scale-to-width-down/300?cb=20211221141319",
+       "caption": "Icebeam",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~25"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/ea/LaserUpdated.png/revision/latest/scale-to-width-down/300?cb=20210903060450",
+       "caption": "Laser (Godly)",
+       "subtitle": "Arma (gun) · Caixa · valor ~23"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fd/Chromasaw-0.png/revision/latest/scale-to-width-down/300?cb=20190725092524",
+       "caption": "Chroma Saw",
+       "subtitle": "Faca · Caixa · valor ~22"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a4/Chroma_Boneblade.png/revision/latest/scale-to-width-down/300?cb=20190128130917",
+       "caption": "Chroma Boneblade",
+       "subtitle": "Faca · Halloween 2018 · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/5b/IceFlake.png/revision/latest/scale-to-width-down/300?cb=20211221141308",
+       "caption": "Iceflake",
+       "subtitle": "Faca · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/ef/NightBladeUpdated.png/revision/latest/scale-to-width-down/300?cb=20210816005853",
+       "caption": "Nightblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a9/OldGloryUpdatedV2.png/revision/latest/scale-to-width-down/300?cb=20210813155243",
+       "caption": "Old Glory",
+       "subtitle": "Faca · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/59/Plasmabeam_improved.webp/revision/latest/scale-to-width-down/300?cb=20220701193718",
+       "caption": "Plasmabeam",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/14/Shark.png/revision/latest/scale-to-width-down/300?cb=20210204081632",
+       "caption": "Shark",
+       "subtitle": "Arma (gun) · Caixa · valor ~20"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/13/BattleAxe2.2.png/revision/latest/scale-to-width-down/300?cb=20190128130815",
+       "caption": "BattleAxe II",
+       "subtitle": "Faca · Halloween 2018 · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/97/Ginger_Luger.png/revision/latest/scale-to-width-down/300?cb=20190101184713",
+       "caption": "Ginger Luger",
+       "subtitle": "Arma (gun) · Natal 2018 · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/4a/Gingerblade_improved.png/revision/latest/scale-to-width-down/300?cb=20210615220350",
+       "caption": "Gingerblade",
+       "subtitle": "Faca · Natal 2018 · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a4/PixelUpdatedV2.png/revision/latest/scale-to-width-down/300?cb=20210826030733",
+       "caption": "Pixel",
+       "subtitle": "Faca · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f2/Plasmablade_improved.webp/revision/latest/scale-to-width-down/300?cb=20220701193350",
+       "caption": "Plasmablade",
+       "subtitle": "Faca · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/4c/SwirlGun.png/revision/latest/scale-to-width-down/300?cb=20211222064112",
+       "caption": "Swirly Gun",
+       "subtitle": "Arma (gun) · Natal 2021 · Hoje só por troca · valor ~18"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/22/Png_%287%29.png/revision/latest/scale-to-width-down/300?cb=20201025091836",
+       "caption": "Blaster",
+       "subtitle": "Arma (gun) · Hoje só por troca · valor ~17"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fa/LugerUpdated.png/revision/latest/scale-to-width-down/300?cb=20210822233832",
+       "caption": "Luger",
+       "subtitle": "Arma (gun) · Caixa · valor ~17"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/58/Hdminty.png/revision/latest/scale-to-width-down/300?cb=20201025092041",
+       "caption": "Minty",
+       "subtitle": "Arma (gun) · Natal 2019 · Hoje só por troca · valor ~17"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bf/Mm2bioblade.png/revision/latest/scale-to-width-down/300?cb=20201201211421",
+       "caption": "Bioblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b1/Jinglegun_%28Transparent%29.png/revision/latest/scale-to-width-down/300?cb=20210204081429",
+       "caption": "Jinglegun",
+       "subtitle": "Arma (gun) · Natal 2020 · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/72/LugerCane.png/revision/latest/scale-to-width-down/300?cb=20201129112248",
+       "caption": "Lugercane",
+       "subtitle": "Arma (gun) · Natal 2019 · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/93/NebulaUpdated2.png/revision/latest/scale-to-width-down/300?cb=20210916144926",
+       "caption": "Nebula",
+       "subtitle": "Faca · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9a/Slasher.png/revision/latest/scale-to-width-down/300?cb=20170314155535",
+       "caption": "Slasher",
+       "subtitle": "Faca · Caixa · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/ba/Vampiresedge.png/revision/latest/scale-to-width-down/300?cb=20201129132821",
+       "caption": "Vampire's Edge",
+       "subtitle": "Faca · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0b/Virtual_improved.png/revision/latest/scale-to-width-down/300?cb=20210607230705",
+       "caption": "Virtual",
+       "subtitle": "Faca · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bb/Xmas_improved.png/revision/latest/scale-to-width-down/300?cb=20210609225930",
+       "caption": "Xmas",
+       "subtitle": "Faca · Natal 2015 · Hoje só por troca · valor ~15"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/Cookiecane.png/revision/latest/scale-to-width-down/300?cb=20221221174511",
+       "caption": "Cookiecane",
+       "subtitle": "Faca · Natal 2022 · Hoje só por troca · valor ~14"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/02/Gingermint.png/revision/latest?cb=20221221181041",
+       "caption": "Gingermint",
+       "subtitle": "Arma (gun) · Natal 2022 · Hoje só por troca · valor ~14"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d6/Battleaxe_improved.png/revision/latest/scale-to-width-down/300?cb=20210613172424",
+       "caption": "BattleAxe",
+       "subtitle": "Faca · Halloween · Hoje só por troca · valor ~13"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/72/Deathshard_Updated.png/revision/latest/scale-to-width-down/300?cb=20210731042740",
+       "caption": "Deathshard",
+       "subtitle": "Faca · Caixa · valor ~13"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8d/Eternal_Cane.png/revision/latest/scale-to-width-down/300?cb=20201129110801",
+       "caption": "Eternalcane",
+       "subtitle": "Faca · Natal 2019 · Hoje só por troca · valor ~13"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0a/Gemstone.png/revision/latest/scale-to-width-down/300?cb=20201201210714",
+       "caption": "Gemstone",
+       "subtitle": "Faca · Caixa · valor ~13"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/81/SwirlyBlade.png/revision/latest/scale-to-width-down/300?cb=20211222071826",
+       "caption": "Swirly Blade",
+       "subtitle": "Faca · Natal 2021 · Hoje só por troca · valor ~13"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/45/ChillUpdated4.png/revision/latest/scale-to-width-down/300?cb=20211023044455",
+       "caption": "Chill",
+       "subtitle": "Faca · Natal 2015 · Hoje só por troca · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/4e/ClockworkUpdatedV2.png/revision/latest/scale-to-width-down/300?cb=20210826005104",
+       "caption": "Clockwork",
+       "subtitle": "Faca · Hoje só por troca · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/84/FangUpdated.png/revision/latest/scale-to-width-down/300?cb=20210816021912",
+       "caption": "Fang",
+       "subtitle": "Faca · Caixa · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/3/32/Heatv2.png/revision/latest/scale-to-width-down/300?cb=20201129113132",
+       "caption": "Heat",
+       "subtitle": "Faca · Caixa · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/67/Pumpking_improved.png/revision/latest/scale-to-width-down/300?cb=20210612183854",
+       "caption": "Pumpking",
+       "subtitle": "Faca · Halloween 2017 · Hoje só por troca · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1d/Spider_2.png/revision/latest/scale-to-width-down/300?cb=20181223173119",
+       "caption": "Spider",
+       "subtitle": "Faca · Halloween 2015 · Hoje só por troca · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/be/Tidesv2.png/revision/latest/scale-to-width-down/300?cb=20201129113204",
+       "caption": "Tides",
+       "subtitle": "Faca · Caixa · valor ~12"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/56/EternalUpdated.png/revision/latest/scale-to-width-down/300?cb=20210822234233",
+       "caption": "Eternal",
+       "subtitle": "Faca · Hoje só por troca · valor ~10"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/af/Eternal_III.png/revision/latest/scale-to-width-down/300?cb=20201129110713",
+       "caption": "Eternal III",
+       "subtitle": "Faca · Hoje só por troca · valor ~10"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/89/Eternal_IIII.png/revision/latest/scale-to-width-down/300?cb=20201129110258",
+       "caption": "Eternal IV",
+       "subtitle": "Faca · Hoje só por troca · valor ~10"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/29/Frostsaber.png/revision/latest/scale-to-width-down/300?cb=20180727103659",
+       "caption": "Frostsaber",
+       "subtitle": "Faca · Natal 2017 · Hoje só por troca · valor ~10"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/ba/IceShard.png/revision/latest/scale-to-width-down/300?cb=20180727103709",
+       "caption": "Ice Shard",
+       "subtitle": "Faca · Inverno · Hoje só por troca · valor ~10"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0c/HallowEdgeUpdated.png/revision/latest/scale-to-width-down/300?cb=20210816023218",
+       "caption": "Hallow's Edge",
+       "subtitle": "Faca · Halloween 2016 · Hoje só por troca · valor ~9"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bb/Handsaw_Png.png/revision/latest/scale-to-width-down/300?cb=20210520152704",
+       "caption": "Handsaw",
+       "subtitle": "Faca · Natal 2015 · Hoje só por troca · valor ~9"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fc/Boneblade.png/revision/latest/scale-to-width-down/300?cb=20190128130908",
+       "caption": "Boneblade",
+       "subtitle": "Faca · Halloween 2018 · Hoje só por troca · valor ~8"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/85/Eternal_2.png/revision/latest/scale-to-width-down/300?cb=20190128130938",
+       "caption": "Eternal II",
+       "subtitle": "Faca · Hoje só por troca · valor ~8"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/10/Ghostbladev2.png/revision/latest/scale-to-width-down/300?cb=20201129115934",
+       "caption": "Ghostblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~8"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0a/Saw.png/revision/latest/scale-to-width-down/300?cb=20170314155813",
+       "caption": "Saw",
+       "subtitle": "Faca · Caixa · valor ~8"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f2/Frostbite_improved.png/revision/latest/scale-to-width-down/300?cb=20210607225926",
+       "caption": "Frostbite",
+       "subtitle": "Faca · Hoje só por troca · valor ~7"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/68/Hallowsblade.png/revision/latest/scale-to-width-down/300?cb=20201129105952",
+       "caption": "Hallow's Blade",
+       "subtitle": "Faca · Halloween 2017 · Hoje só por troca · valor ~7"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/cd/IceDragonUpdated.png/revision/latest/scale-to-width-down/300?cb=20210826105504",
+       "caption": "Ice Dragon",
+       "subtitle": "Faca · Natal 2016 · Hoje só por troca · valor ~7"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fb/WinterEdge.png/revision/latest/scale-to-width-down/300?cb=20180727103649",
+       "caption": "Winter's Edge",
+       "subtitle": "Faca · Natal 2017 · Hoje só por troca · valor ~7"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/98/Eggblade_improved.png/revision/latest/scale-to-width-down/300?cb=20210609230310",
+       "caption": "Eggblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~5"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/41/PrismaticUpdated2.png/revision/latest/scale-to-width-down/300?cb=20211026061049",
+       "caption": "Prismatic",
+       "subtitle": "Faca · Hoje só por troca · valor ~5"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f4/Cookieblade_%28transparent%29.png/revision/latest/scale-to-width-down/300?cb=20210204082105",
+       "caption": "Cookieblade",
+       "subtitle": "Faca · Hoje só por troca · valor ~4"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e8/Peppermint_Knife.png/revision/latest/scale-to-width-down/300?cb=20210204081905",
+       "caption": "Peppermint",
+       "subtitle": "Faca · Hoje só por troca · valor ~4"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/f3/1aad7564-2836-43c5-befb-686aedf7bf9b.png/revision/latest?cb=20201211142043",
+       "caption": "Blue Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~3"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/50/Purpleseer.png/revision/latest/scale-to-width-down/300?cb=20200423164120",
+       "caption": "Purple Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~3"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/dd/Redseer.png/revision/latest/scale-to-width-down/300?cb=20200123140034",
+       "caption": "Red Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~3"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c8/OrangeseerNEW.png/revision/latest/scale-to-width-down/300?cb=20200423164043",
+       "caption": "Orange Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~2"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/25/Yellowseer.png/revision/latest/scale-to-width-down/300?cb=20200423164002",
+       "caption": "Yellow Seer",
+       "subtitle": "Faca · Criação (crafting) · valor ~2"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a9/ZombieBat.png/revision/latest/scale-to-width-down/300?cb=20221017185931",
+       "caption": "Bat",
+       "subtitle": "Faca · Halloween 2022 · Hoje só por troca"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/03/Raygun.png/revision/latest/scale-to-width-down/300?cb=20251019081209",
+       "caption": "Raygun",
+       "subtitle": "Arma (gun) · Halloween 2025 · Ver no jogo"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c6/SnowstormKnife2025.png/revision/latest?cb=20260101120412",
+       "caption": "Snowstorm",
+       "subtitle": "Faca · Troca"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Murder Mystery 2 Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "codigos",
+   "title": "Códigos",
+   "emoji": "🎁",
+   "description": "Como resgatar e códigos antigos.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "steps",
+     "title": "Como resgatar",
+     "items": [
+      "Abra o Murder Mystery 2 no Roblox.",
+      "Toque no ícone de Inventário.",
+      "Procure a caixa de código, digite e confirme."
+     ]
+    },
+    {
+     "type": "codes",
+     "title": "Códigos expirados",
+     "codes": [
+      {
+       "code": "COMB4T2",
+       "reward": "Faca Combat II",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "PR1SM",
+       "reward": "Faca Prism",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "AL3X",
+       "reward": "Faca Alex",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "SUBo",
+       "reward": "Faca verde",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "D3NIS",
+       "reward": "Faca azul-escura",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "CORL",
+       "reward": "Faca azul",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "SK3TCH",
+       "reward": "Faca laranja",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "NatureUpdate",
+       "reward": "500 de ouro",
+       "status": "expired",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Não encontramos códigos ativos confirmados no momento."
+    }
+   ]
+  },
+  {
+   "id": "guias",
+   "title": "Guias e Dicas",
+   "emoji": "🧭",
+   "description": "Dicas por papel e por nível.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "levels",
+     "title": "Dicas por nível",
+     "levels": [
+      {
+       "level": "🟢 Iniciante",
+       "tips": [
+        "Aprenda os três papéis antes de tudo: Inocente, Xerife e Assassino. (Gameranx)",
+        "Como Inocente, não se mova demais: correr à toa chama atenção. (Pocket Gamer)",
+        "Conheça o mapa e planeje rotas de fuga. (Gameranx)"
+       ]
+      },
+      {
+       "level": "🟡 Intermediário",
+       "tips": [
+        "Como Inocente, fique perto de quem age normal, mas evite grupos grandes. (Guia MM2 Beginner's Tips)",
+        "Como Xerife, mantenha distância de todo mundo e só atire quando tiver certeza. (Gamepur)",
+        "Se o Xerife cair, cuidado ao buscar a arma: o Assassino costuma esperar perto dela. (Guia MM2 Beginner's Tips)"
+       ]
+      },
+      {
+       "level": "🟠 Avançado",
+       "tips": [
+        "Como Assassino, finja ser inocente e escolha bem as habilidades (perks). (Gamepur)",
+        "Se a arma estiver muito vigiada, junte moedas e espere: dá para vencer pelo tempo. (Guia MM2 Beginner's Tips)"
+       ]
+      },
+      {
+       "level": "🔴 Profissional",
+       "tips": [
+        "Fique de olho em quem anda de forma estranha para identificar o papel cedo. (Guia MM2 Beginner's Tips)",
+        "Nas trocas, pesquise o valor dos itens antes para não cair em golpe. (Guia MM2 Beginner's Tips)"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Entre parênteses está a fonte de cada dica."
+    }
+   ]
+  },
+  {
+   "id": "criadores",
+   "title": "Criadores de Conteúdo",
+   "emoji": "📺",
+   "description": "Canais de MM2.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "Criadores para acompanhar",
+     "items": [
+      {
+       "name": "FocusRBX",
+       "tags": [
+        "YouTube"
+       ],
+       "description": "Canal focado em Murder Mystery 2, com vídeos e shorts.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "The Famous People"
+       }
+      },
+      {
+       "name": "iFres",
+       "tags": [
+        "YouTube",
+        "Espanhol"
+       ],
+       "description": "Vídeos de MM2 com centenas de milhares de visualizações.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "vidIQ"
+       }
+      },
+      {
+       "name": "Nikilis",
+       "tags": [
+        "Criador do jogo"
+       ],
+       "description": "Desenvolvedor do Murder Mystery 2; acompanhe as novidades oficiais.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Rowatcher"
+       }
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
+    },
+    {
+     "type": "links",
+     "title": "Ver vídeos (YouTube e TikTok)",
+     "links": [
+      {
+       "label": "FocusRBX no YouTube",
+       "url": "https://www.youtube.com/results?search_query=FocusRBX+Murder+Mystery+2",
+       "official": false
+      },
+      {
+       "label": "FocusRBX no TikTok",
+       "url": "https://www.tiktok.com/search?q=FocusRBX%20Murder%20Mystery%202",
+       "official": false
+      },
+      {
+       "label": "iFres no YouTube",
+       "url": "https://www.youtube.com/results?search_query=iFres+Murder+Mystery+2",
+       "official": false
+      },
+      {
+       "label": "iFres no TikTok",
+       "url": "https://www.tiktok.com/search?q=iFres%20Murder%20Mystery%202",
+       "official": false
+      },
+      {
+       "label": "Nikilis no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Nikilis+Murder+Mystery+2",
+       "official": false
+      },
+      {
+       "label": "Nikilis no TikTok",
+       "url": "https://www.tiktok.com/search?q=Nikilis%20Murder%20Mystery%202",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "info",
+   "title": "Links",
+   "emoji": "🔗",
+   "description": "Wiki e página do jogo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Murder Mystery 2 no Roblox (busca oficial)",
+       "url": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery%202",
+       "official": true
+      },
+      {
+       "label": "Murder Mystery 2 Wiki",
+       "url": "https://murder-mystery-2.fandom.com/wiki/Murder_Mystery_2_Wiki",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

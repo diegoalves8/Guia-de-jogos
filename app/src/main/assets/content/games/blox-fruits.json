@@ -1,0 +1,2988 @@
+{
+ "id": "blox-fruits",
+ "name": "Blox Fruits",
+ "emoji": "🍈",
+ "color": "#22C55E",
+ "cover": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest/scale-to-width-down/400?cb=20250731190159",
+ "description": "RPG do Roblox (Gamer Robot Inc) inspirado em One Piece: frutas com poderes, três mares, espadas e estilos de luta.",
+ "categories": [
+  {
+   "id": "frutas",
+   "title": "Frutas",
+   "emoji": "🍈",
+   "description": "51 frutas com raridade, tipo e preço.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Toque em uma fruta para ver ficha, preço em Beli e Robux e o mini tutorial de como conseguir."
+    },
+    {
+     "type": "toons",
+     "title": "Frutas Míticas (17)",
+     "toons": [
+      {
+       "id": "dragon",
+       "name": "Dragon",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241222155214",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "15.000.000 Beli ou 5.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Dragon",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241222155214"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241222155214"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 15.000.000 Beli ou 5.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241222155214"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241222155214"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Dragon+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 15.000.000 Beli ou 5.000 Robux",
+          "Adicionada na atualização 13"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "control",
+       "name": "Control",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251223165924",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "9.000.000 Beli ou 4.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Control",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251223165924"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251223165924"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 9.000.000 Beli ou 4.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251223165924"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251223165924"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Control+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 9.000.000 Beli ou 4.000 Robux",
+          "Adicionada na atualização 10"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kitsune",
+       "name": "Kitsune",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162956",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "8.000.000 Beli ou 4.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kitsune",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162956"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162956"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 8.000.000 Beli ou 4.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162956"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162956"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kitsune+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 8.000.000 Beli ou 4.000 Robux",
+          "Adicionada na atualização 22"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "magnet",
+       "name": "Magnet",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260905110645",
+       "vintageImage": "",
+       "kind": "Mítica · ",
+       "cost": "6.000.000 Beli ou 3.500 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Magnet",
+         "text": "Fruta Mítica do tipo .",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260905110645"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260905110645"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 6.000.000 Beli ou 3.500 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260905110645"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260905110645"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Magnet+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: ",
+          "Preço: 6.000.000 Beli ou 3.500 Robux",
+          "Adicionada na atualização 30"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "leopard",
+       "name": "Leopard",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "5.000.000 Beli ou 3.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Leopard",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 5.000.000 Beli ou 3.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Leopard+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 5.000.000 Beli ou 3.000 Robux",
+          "Adicionada na atualização 17.3"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "tiger",
+       "name": "Tiger",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251101005924",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "5.000.000 Beli ou 3.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Tiger",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251101005924"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251101005924"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 5.000.000 Beli ou 3.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251101005924"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/300?cb=20251101005924"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Tiger+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 5.000.000 Beli ou 3.000 Robux",
+          "Adicionada na atualização 28"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "yeti",
+       "name": "Yeti",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806232444",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "5.000.000 Beli ou 3.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Yeti",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806232444"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806232444"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 5.000.000 Beli ou 3.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806232444"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806232444"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Yeti+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 5.000.000 Beli ou 3.000 Robux",
+          "Adicionada na atualização 25"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "soul",
+       "name": "Soul",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "3.400.000 Beli ou 2.550 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Soul",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 3.400.000 Beli ou 2.550 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Soul+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 3.400.000 Beli ou 2.550 Robux",
+          "Adicionada na atualização 17.1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "spirit",
+       "name": "Spirit",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "3.400.000 Beli ou 2.550 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Spirit",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 3.400.000 Beli ou 2.550 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Spirit+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 3.400.000 Beli ou 2.550 Robux",
+          "Adicionada na atualização 17.1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "gas",
+       "name": "Gas",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162315",
+       "vintageImage": "",
+       "kind": "Mítica · Elemental",
+       "cost": "3.200.000 Beli ou 2.500 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Gas",
+         "text": "Fruta Mítica do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162315"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162315"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 3.200.000 Beli ou 2.500 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162315"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/300?cb=20241223162315"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Gas+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Elemental",
+          "Preço: 3.200.000 Beli ou 2.500 Robux",
+          "Adicionada na atualização 24"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "shadow",
+       "name": "Shadow",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "2.900.000 Beli ou 2.425 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Shadow",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.900.000 Beli ou 2.425 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Shadow+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 2.900.000 Beli ou 2.425 Robux",
+          "Adicionada na atualização 16"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "dough",
+       "name": "Dough",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235727",
+       "vintageImage": "",
+       "kind": "Mítica · Elemental",
+       "cost": "2.800.000 Beli ou 2.400 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Dough",
+         "text": "Fruta Mítica do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235727"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235727"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.800.000 Beli ou 2.400 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235727"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235727"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Dough+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Elemental",
+          "Preço: 2.800.000 Beli ou 2.400 Robux",
+          "Adicionada na atualização 9"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "mammoth",
+       "name": "Mammoth",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235956",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "2.700.000 Beli ou 2.350 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Mammoth",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235956"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235956"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.700.000 Beli ou 2.350 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235956"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235956"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Mammoth+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 2.700.000 Beli ou 2.350 Robux",
+          "Adicionada na atualização 20"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "t-rex",
+       "name": "T-Rex",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220",
+       "vintageImage": "",
+       "kind": "Mítica · Besta",
+       "cost": "2.700.000 Beli ou 2.350 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça T-Rex",
+         "text": "Fruta Mítica do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.700.000 Beli ou 2.350 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=T-Rex+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Besta",
+          "Preço: 2.700.000 Beli ou 2.350 Robux",
+          "Adicionada na atualização 23"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "gravity",
+       "name": "Gravity",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030958",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "2.500.000 Beli ou 2.300 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Gravity",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030958"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030958"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.500.000 Beli ou 2.300 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030958"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030958"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Gravity+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 2.500.000 Beli ou 2.300 Robux",
+          "Adicionada na atualização 5"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "meme",
+       "name": "Meme",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037",
+       "vintageImage": "",
+       "kind": "Mítica · Natural",
+       "cost": "1 Beli",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Meme",
+         "text": "Fruta Mítica do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1 Beli.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Meme+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: Natural",
+          "Preço: 1 Beli",
+          "Adicionada na atualização 29.4"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "venom",
+       "name": "Venom",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425",
+       "vintageImage": "",
+       "kind": "Mítica · ",
+       "cost": "2.450 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Venom",
+         "text": "Fruta Mítica do tipo .",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.450 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Venom+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Mítica",
+          "Tipo: ",
+          "Preço: 2.450 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Frutas Lendárias (11)",
+     "toons": [
+      {
+       "id": "blizzard",
+       "name": "Blizzard",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313",
+       "vintageImage": "",
+       "kind": "Lendária · Elemental",
+       "cost": "2.400.000 Beli ou 2.250 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Blizzard",
+         "text": "Fruta Lendária do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.400.000 Beli ou 2.250 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Blizzard+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Elemental",
+          "Preço: 2.400.000 Beli ou 2.250 Robux",
+          "Adicionada na atualização 17.3.5"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "lightning",
+       "name": "Lightning",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235926",
+       "vintageImage": "",
+       "kind": "Lendária · Elemental",
+       "cost": "2.100.000 Beli ou 2.100 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Lightning",
+         "text": "Fruta Lendária do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235926"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235926"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.100.000 Beli ou 2.100 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235926"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235926"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Lightning+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Elemental",
+          "Preço: 2.100.000 Beli ou 2.100 Robux",
+          "Adicionada na atualização 3"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "portal",
+       "name": "Portal",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.900.000 Beli ou 2.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Portal",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.900.000 Beli ou 2.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Portal+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.900.000 Beli ou 2.000 Robux",
+          "Adicionada na atualização 17.3.5"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "phoenix",
+       "name": "Phoenix",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000100",
+       "vintageImage": "",
+       "kind": "Lendária · Besta",
+       "cost": "1.800.000 Beli ou 2.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Phoenix",
+         "text": "Fruta Lendária do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000100"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000100"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.800.000 Beli ou 2.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000100"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000100"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Phoenix+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Besta",
+          "Preço: 1.800.000 Beli ou 2.000 Robux",
+          "Adicionada na atualização 2"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "sound",
+       "name": "Sound",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.700.000 Beli ou 1.900 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Sound",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.700.000 Beli ou 1.900 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Sound+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.700.000 Beli ou 1.900 Robux",
+          "Adicionada na atualização 20"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "spider",
+       "name": "Spider",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235623",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.500.000 Beli ou 1.800 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Spider",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235623"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235623"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.500.000 Beli ou 1.800 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235623"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235623"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Spider+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.500.000 Beli ou 1.800 Robux",
+          "Adicionada na atualização 3"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "creation",
+       "name": "Creation",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260626022311",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.400.000 Beli ou 1.750 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Creation",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260626022311"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260626022311"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.400.000 Beli ou 1.750 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260626022311"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260626022311"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Creation+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.400.000 Beli ou 1.750 Robux",
+          "Adicionada na atualização 26"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "love",
+       "name": "Love",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.300.000 Beli ou 1.700 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Love",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.300.000 Beli ou 1.700 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Love+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.300.000 Beli ou 1.700 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "buddha",
+       "name": "Buddha",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325",
+       "vintageImage": "",
+       "kind": "Lendária · Besta",
+       "cost": "1.200.000 Beli ou 1.650 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Buddha",
+         "text": "Fruta Lendária do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.200.000 Beli ou 1.650 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Buddha+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Besta",
+          "Preço: 1.200.000 Beli ou 1.650 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "quake",
+       "name": "Quake",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000132",
+       "vintageImage": "",
+       "kind": "Lendária · Natural",
+       "cost": "1.000.000 Beli ou 1.500 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Quake",
+         "text": "Fruta Lendária do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000132"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000132"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 1.000.000 Beli ou 1.500 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000132"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000132"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Quake+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: Natural",
+          "Preço: 1.000.000 Beli ou 1.500 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "pain",
+       "name": "Pain",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000029",
+       "vintageImage": "",
+       "kind": "Lendária · ",
+       "cost": "2.200 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Pain",
+         "text": "Fruta Lendária do tipo .",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000029"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000029"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 2.200 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000029"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260807000029"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Pain+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Lendária",
+          "Tipo: ",
+          "Preço: 2.200 Robux",
+          "Adicionada na atualização 7"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Frutas Raras (6)",
+     "toons": [
+      {
+       "id": "magma",
+       "name": "Magma",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640",
+       "vintageImage": "",
+       "kind": "Rara · Elemental",
+       "cost": "960.000 Beli ou 1.300 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Magma",
+         "text": "Fruta Rara do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 960.000 Beli ou 1.300 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Magma+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Elemental",
+          "Preço: 960.000 Beli ou 1.300 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "door",
+       "name": "Door",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922",
+       "vintageImage": "",
+       "kind": "Rara · Natural",
+       "cost": "950.000 Beli ou 1.400 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Door",
+         "text": "Fruta Rara do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 950.000 Beli ou 1.400 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Door+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Natural",
+          "Preço: 950.000 Beli ou 1.400 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "ghost",
+       "name": "Ghost",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235824",
+       "vintageImage": "",
+       "kind": "Rara · Natural",
+       "cost": "940.000 Beli ou 1.275 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Ghost",
+         "text": "Fruta Rara do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235824"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235824"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 940.000 Beli ou 1.275 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235824"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235824"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Ghost+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Natural",
+          "Preço: 940.000 Beli ou 1.275 Robux",
+          "Adicionada na atualização 16"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "barrier",
+       "name": "Barrier",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304",
+       "vintageImage": "",
+       "kind": "Rara · Natural",
+       "cost": "800.000 Beli ou 1.250 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Barrier",
+         "text": "Fruta Rara do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 800.000 Beli ou 1.250 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Barrier+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Natural",
+          "Preço: 800.000 Beli ou 1.250 Robux",
+          "Adicionada na atualização 8"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "rubber",
+       "name": "Rubber",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046",
+       "vintageImage": "",
+       "kind": "Rara · Natural",
+       "cost": "750.000 Beli ou 1.200 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Rubber",
+         "text": "Fruta Rara do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 750.000 Beli ou 1.200 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Rubber+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Natural",
+          "Preço: 750.000 Beli ou 1.200 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "light",
+       "name": "Light",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623",
+       "vintageImage": "",
+       "kind": "Rara · Elemental",
+       "cost": "650.000 Beli ou 1.100 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Light",
+         "text": "Fruta Rara do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 650.000 Beli ou 1.100 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Light+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Rara",
+          "Tipo: Elemental",
+          "Preço: 650.000 Beli ou 1.100 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Frutas Incomums (8)",
+     "toons": [
+      {
+       "id": "diamond",
+       "name": "Diamond",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235654",
+       "vintageImage": "",
+       "kind": "Incomum · Natural",
+       "cost": "600.000 Beli ou 1.000 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Diamond",
+         "text": "Fruta Incomum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235654"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235654"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 600.000 Beli ou 1.000 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235654"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235654"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Diamond+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Natural",
+          "Preço: 600.000 Beli ou 1.000 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "eagle",
+       "name": "Eagle",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030931",
+       "vintageImage": "",
+       "kind": "Incomum · Besta",
+       "cost": "550.000 Beli ou 975 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Eagle",
+         "text": "Fruta Incomum do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030931"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030931"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 550.000 Beli ou 975 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030931"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250418030931"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Eagle+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Besta",
+          "Preço: 550.000 Beli ou 975 Robux",
+          "Adicionada na atualização 26"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "revive",
+       "name": "Revive",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017",
+       "vintageImage": "",
+       "kind": "Incomum · Blox Fruit",
+       "cost": "550.000 Beli ou 975 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Revive",
+         "text": "Fruta Incomum do tipo Blox Fruit.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 550.000 Beli ou 975 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Revive+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Blox Fruit",
+          "Preço: 550.000 Beli ou 975 Robux",
+          "Adicionada na atualização 16"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "dark",
+       "name": "Dark",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235544",
+       "vintageImage": "",
+       "kind": "Incomum · Elemental",
+       "cost": "500.000 Beli ou 950 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Dark",
+         "text": "Fruta Incomum do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235544"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235544"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 500.000 Beli ou 950 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235544"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235544"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Dark+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Elemental",
+          "Preço: 500.000 Beli ou 950 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "sand",
+       "name": "Sand",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235551",
+       "vintageImage": "",
+       "kind": "Incomum · Elemental",
+       "cost": "420.000 Beli ou 850 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Sand",
+         "text": "Fruta Incomum do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235551"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235551"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 420.000 Beli ou 850 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235551"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235551"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Sand+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Elemental",
+          "Preço: 420.000 Beli ou 850 Robux",
+          "Adicionada na atualização 4"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "ice",
+       "name": "Ice",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235854",
+       "vintageImage": "",
+       "kind": "Incomum · Elemental",
+       "cost": "350.000 Beli ou 750 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Ice",
+         "text": "Fruta Incomum do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235854"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235854"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 350.000 Beli ou 750 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235854"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/300?cb=20260806235854"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Ice+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Elemental",
+          "Preço: 350.000 Beli ou 750 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "falcon",
+       "name": "Falcon",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527",
+       "vintageImage": "",
+       "kind": "Incomum · Besta",
+       "cost": "300.000 Beli ou 650 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Falcon",
+         "text": "Fruta Incomum do tipo Besta.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 300.000 Beli ou 650 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Falcon+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Besta",
+          "Preço: 300.000 Beli ou 650 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "flame",
+       "name": "Flame",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250421150742",
+       "vintageImage": "",
+       "kind": "Incomum · Elemental",
+       "cost": "250.000 Beli ou 550 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Flame",
+         "text": "Fruta Incomum do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250421150742"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250421150742"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 250.000 Beli ou 550 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250421150742"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/300?cb=20250421150742"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Flame+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Incomum",
+          "Tipo: Elemental",
+          "Preço: 250.000 Beli ou 550 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Frutas Comums (9)",
+     "toons": [
+      {
+       "id": "spike",
+       "name": "Spike",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "180.000 Beli ou 380 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Spike",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 180.000 Beli ou 380 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Spike+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 180.000 Beli ou 380 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "smoke",
+       "name": "Smoke",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224",
+       "vintageImage": "",
+       "kind": "Comum · Elemental",
+       "cost": "100.000 Beli ou 250 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Smoke",
+         "text": "Fruta Comum do tipo Elemental.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 100.000 Beli ou 250 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Smoke+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Elemental",
+          "Preço: 100.000 Beli ou 250 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "bomb",
+       "name": "Bomb",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "80.000 Beli ou 220 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Bomb",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 80.000 Beli ou 220 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Bomb+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 80.000 Beli ou 220 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "spring",
+       "name": "Spring",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "60.000 Beli ou 180 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Spring",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 60.000 Beli ou 180 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Spring+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 60.000 Beli ou 180 Robux",
+          "Adicionada na atualização 2"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "blade",
+       "name": "Blade",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "30.000 Beli ou 100 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Blade",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 30.000 Beli ou 100 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Blade+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 30.000 Beli ou 100 Robux",
+          "Adicionada na atualização 24"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "chop",
+       "name": "Chop",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "30.000 Beli ou 100 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Chop",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 30.000 Beli ou 100 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Chop+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 30.000 Beli ou 100 Robux",
+          "Adicionada na atualização 1"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "spin",
+       "name": "Spin",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "7.500 Beli ou 75 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Spin",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 7.500 Beli ou 75 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Spin+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 7.500 Beli ou 75 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kilo",
+       "name": "Kilo",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "5.000 Beli ou 50 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kilo",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 5.000 Beli ou 50 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kilo+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 5.000 Beli ou 50 Robux",
+          "Adicionada na atualização 15"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "rocket",
+       "name": "Rocket",
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039",
+       "vintageImage": "",
+       "kind": "Comum · Natural",
+       "cost": "5.000 Beli ou 50 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Rocket",
+         "text": "Fruta Comum do tipo Natural.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039"
+        },
+        {
+         "title": "1. Junte Beli",
+         "text": "Faça missões, derrote inimigos e chefes para juntar Beli (a moeda do jogo).",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039"
+        },
+        {
+         "title": "2. Vá ao Blox Fruit Dealer",
+         "text": "O vendedor de frutas fica nas ilhas e o estoque muda de tempos em tempos. Preço: 5.000 Beli ou 50 Robux.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039"
+        },
+        {
+         "title": "3. Coma e treine",
+         "text": "Comer uma fruta troca a fruta atual. Coloque pontos no atributo Fruta (Blox Fruit) para aumentar o dano dela.",
+         "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Rocket+Blox+Fruits+combo+guia",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Raridade: Comum",
+          "Tipo: Natural",
+          "Preço: 5.000 Beli ou 50 Robux",
+          "Adicionada na atualização 20"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Blox Fruits Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "estilos",
+   "title": "Estilos de Luta",
+   "emoji": "🥋",
+   "description": "Fighting Styles.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "gallery",
+     "title": "",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/80/FightingStyleHeader.png/revision/latest/scale-to-width-down/300?cb=20230326001741",
+       "caption": "Fighting Styles",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Advanced_Combat.png/revision/latest/scale-to-width-down/300?cb=20260908095002",
+       "caption": "Advanced Combat",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7c/Combat.png/revision/latest/scale-to-width-down/300?cb=20251225111312",
+       "caption": "Combat",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/39/Dark_Step.png/revision/latest/scale-to-width-down/300?cb=20220228201917",
+       "caption": "Dark Step",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Death_Step.png/revision/latest/scale-to-width-down/300?cb=20220228233624",
+       "caption": "Death Step",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/32/Dragon_Breath.png/revision/latest/scale-to-width-down/300?cb=20220228202047",
+       "caption": "Dragon Breath",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Dragon_Talon.png/revision/latest/scale-to-width-down/300?cb=20220228215538",
+       "caption": "Dragon Talon",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Electric.png/revision/latest/scale-to-width-down/300?cb=20220228215637",
+       "caption": "Electric",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/00/Electric_Claw.png/revision/latest/scale-to-width-down/300?cb=20220228215956",
+       "caption": "Electric Claw",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/Godhuman.png/revision/latest/scale-to-width-down/300?cb=20220913103851",
+       "caption": "Godhuman",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Sanguine_Art.png/revision/latest/scale-to-width-down/300?cb=20231025151119",
+       "caption": "Sanguine Art",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Sharkman_Karate.png/revision/latest/scale-to-width-down/300?cb=20220228233224",
+       "caption": "Sharkman Karate",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ad/Superhuman.png/revision/latest/scale-to-width-down/300?cb=20220228215748",
+       "caption": "Superhuman",
+       "subtitle": "Estilo de luta"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8f/Water_Kung_Fu.png/revision/latest/scale-to-width-down/300?cb=20220228233922",
+       "caption": "Water Kung Fu",
+       "subtitle": "Estilo de luta"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Blox Fruits Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "espadas",
+   "title": "Espadas",
+   "emoji": "🗡️",
+   "description": "Swords.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "gallery",
+     "title": "",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/SwordsHeader.png/revision/latest/scale-to-width-down/300?cb=20241223040618",
+       "caption": "Swords",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/31/Bisento.png/revision/latest?cb=20241223032227",
+       "caption": "Bisento",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/62/Buddy_Sword.png/revision/latest?cb=20241223061455",
+       "caption": "Buddy Sword",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1c/Canvander.png/revision/latest?cb=20241223061500",
+       "caption": "Canvander",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Cursed_Dual_Katana.png/revision/latest?cb=20241223032242",
+       "caption": "Cursed Dual Katana",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1e/Cutlass.png/revision/latest?cb=20241223061505",
+       "caption": "Cutlass",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a0/Dark_Blade.png/revision/latest/scale-to-width-down/300?cb=20241223051659",
+       "caption": "Dark Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f8/Dark_Dagger.png/revision/latest?cb=20241223032258",
+       "caption": "Dark Dagger",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1b/DogBladeEquipped.png/revision/latest/scale-to-width-down/300?cb=20260729143614",
+       "caption": "Dog Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Dragon_Trident.png/revision/latest?cb=20241223032313",
+       "caption": "Dragon Trident",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Dragonheart.png/revision/latest?cb=20241223032328",
+       "caption": "Dragonheart",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/90/Dual_Katana.png/revision/latest?cb=20241223061511",
+       "caption": "Dual Katana",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/69/Dual-Headed_Blade.png/revision/latest?cb=20241223032343",
+       "caption": "Dual-Headed Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/Fishing_Trophy.png/revision/latest?cb=20251012210616",
+       "caption": "Fishing Trophy",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Flail.png/revision/latest?cb=20241223032358",
+       "caption": "Flail",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/ff/Fox_Lamp.png/revision/latest?cb=20241223051549",
+       "caption": "Fox Lamp",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Gravity_Blade.png/revision/latest?cb=20241223032412",
+       "caption": "Gravity Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Hallow_Scythe.png/revision/latest?cb=20241223061516",
+       "caption": "Hallow Scythe",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Iron_Mace.png/revision/latest?cb=20241223032617",
+       "caption": "Iron Mace",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Katana.png/revision/latest?cb=20241223061522",
+       "caption": "Katana",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f0/Koko.png/revision/latest?cb=20241223061527",
+       "caption": "Koko",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Longsword.png/revision/latest?cb=20241223032424",
+       "caption": "Longsword",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bf/Midnight_Blade.png/revision/latest?cb=20241223032439",
+       "caption": "Midnight Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Oroshi.png/revision/latest?cb=20250603090340",
+       "caption": "Oroshi",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Pipe.png/revision/latest?cb=20241223032506",
+       "caption": "Pipe",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b0/Pole_%281st_Form%29.png/revision/latest?cb=20241223032519",
+       "caption": "Pole (1st Form)",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Pole_%282nd_Form%29.png/revision/latest?cb=20241223032534",
+       "caption": "Pole (2nd Form)",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7d/Rengoku.png/revision/latest?cb=20241223032548",
+       "caption": "Rengoku",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/23/Saber.png/revision/latest?cb=20241223032603",
+       "caption": "Saber",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Saishi.png/revision/latest?cb=20241223032618",
+       "caption": "Saishi",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Shark_Anchor.png/revision/latest?cb=20241223143202",
+       "caption": "Shark Anchor",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ea/Shark_Saw.png/revision/latest?cb=20241223032633",
+       "caption": "Shark Saw",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/48/Shizu.png/revision/latest?cb=20241223032646",
+       "caption": "Shizu",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Soul_Cane.png/revision/latest?cb=20241223032659",
+       "caption": "Soul Cane",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3f/Spikey_Trident.png/revision/latest?cb=20241223061542",
+       "caption": "Spikey Trident",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/Trident.png/revision/latest?cb=20241223032713",
+       "caption": "Trident",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/17/Triple_Dark_Blade.png/revision/latest/scale-to-width-down/300?cb=20250427132425",
+       "caption": "Triple Dark Blade",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Triple_Katana.png/revision/latest?cb=20241223061548",
+       "caption": "Triple Katana",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b2/True_Triple_Katana.png/revision/latest?cb=20241223032727",
+       "caption": "True Triple Katana",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Tushita.png/revision/latest?cb=20241223032742",
+       "caption": "Tushita",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Twin_Hooks.png/revision/latest?cb=20241223061553",
+       "caption": "Twin Hooks",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Wardens_Sword.png/revision/latest?cb=20241223032757",
+       "caption": "Wardens Sword",
+       "subtitle": "Espada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Yama.png/revision/latest?cb=20241223032812",
+       "caption": "Yama",
+       "subtitle": "Espada"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Blox Fruits Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "racas",
+   "title": "Raças",
+   "emoji": "🧬",
+   "description": "Races.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "gallery",
+     "title": "",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/16/The_Secret_Entrance_to_go_to_Wenlocktoad.png/revision/latest/scale-to-width-down/300?cb=20200913033225",
+       "caption": "Races",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Angel.png/revision/latest/scale-to-width-down/300?cb=20240407190112",
+       "caption": "Angel",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Cyborg.png/revision/latest/scale-to-width-down/300?cb=20240407190113",
+       "caption": "Cyborg",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Draco.png/revision/latest/scale-to-width-down/300?cb=20241216212032",
+       "caption": "Draco",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e3/Ghoul.png/revision/latest/scale-to-width-down/300?cb=20240407190114",
+       "caption": "Ghoul",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/Human.png/revision/latest/scale-to-width-down/300?cb=20240407190115",
+       "caption": "Human",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fd/Rabbit.png/revision/latest/scale-to-width-down/300?cb=20240407190116",
+       "caption": "Rabbit",
+       "subtitle": "Raça"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Shark.png/revision/latest/scale-to-width-down/300?cb=20240407190116",
+       "caption": "Shark",
+       "subtitle": "Raça"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: Blox Fruits Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "guias",
+   "title": "Guias e Dicas",
+   "emoji": "🧭",
+   "description": "Do Primeiro ao Terceiro Mar.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "Os três mares",
+     "items": [
+      {
+       "name": "🌊 Primeiro Mar",
+       "tags": [
+        "Nível 1–700"
+       ],
+       "description": "Área de iniciante: foque em missões e subir de nível.",
+       "fields": {}
+      },
+      {
+       "name": "🌊 Segundo Mar",
+       "tags": [
+        "Nível 700–1500"
+       ],
+       "description": "Novas ilhas, chefes e raids.",
+       "fields": {}
+      },
+      {
+       "name": "🌊 Terceiro Mar",
+       "tags": [
+        "Nível 1500+"
+       ],
+       "description": "Conteúdo de fim de jogo.",
+       "fields": {}
+      }
+     ]
+    },
+    {
+     "type": "levels",
+     "title": "Dicas por nível",
+     "levels": [
+      {
+       "level": "🟢 Iniciante",
+       "tips": [
+        "No Primeiro Mar, foque só em missões e em subir de nível. (FruityBlox / BioBlox)",
+        "Frutas como Light, Magma ou Flame ajudam muito no começo. (BioBlox)",
+        "PvP não dá experiência: deixe para depois. (Hablamos de Gamers)",
+        "Use códigos ativos para ganhar boost de XP e reset de atributos. (BioBlox)"
+       ]
+      },
+      {
+       "level": "🟡 Intermediário",
+       "tips": [
+        "Distribua bem os pontos: Melee, Defesa e Fruta são os principais. (Guias de Blox Fruits)",
+        "Sua primeira fruta não precisa ser a definitiva; troque quando achar uma melhor. (Guia para iniciantes)"
+       ]
+      },
+      {
+       "level": "🟠 Avançado",
+       "tips": [
+        "Para frutas Elementais e de Besta, uma divisão comum é 25% Melee, 25% Defesa e 50% Fruta. (Guia de canais de estratégia)",
+        "Aprenda combos com criadores especializados (Cafazera ensina combos passo a passo). (CreatorDB)"
+       ]
+      },
+      {
+       "level": "🔴 Profissional",
+       "tips": [
+        "PvP só faz sentido com nível alto; até lá, priorize progressão. (Deltia's Gaming)",
+        "Bounty alto (como 30 milhões) exige muito PvP; estude combos e cooldowns. (CreatorDB / Cafazera)"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Entre parênteses está a fonte de cada dica."
+    }
+   ]
+  },
+  {
+   "id": "codigos",
+   "title": "Códigos",
+   "emoji": "🎁",
+   "description": "Onde encontrar códigos.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Os códigos do Blox Fruits costumam sair no X (Twitter) oficial do jogo e aparecem na wiki. Eles dão boost de XP, Beli ou reset de atributos. Ainda não temos códigos ativos confirmados para listar aqui."
+    },
+    {
+     "type": "codes",
+     "title": "Códigos ativos",
+     "codes": []
+    }
+   ]
+  },
+  {
+   "id": "criadores",
+   "title": "Criadores de Conteúdo",
+   "emoji": "📺",
+   "description": "YouTubers e tiktokers.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "Criadores para acompanhar",
+     "items": [
+      {
+       "name": "Gamer Robot",
+       "tags": [
+        "YouTube",
+        "Oficial"
+       ],
+       "description": "Canal oficial do Blox Fruits (Gamer Robot Inc), com novidades e atualizações.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "vidIQ (descrição do canal)"
+       }
+      },
+      {
+       "name": "Cafazera",
+       "tags": [
+        "YouTube",
+        "Instagram",
+        "Português"
+       ],
+       "description": "Criador brasileiro focado em Blox Fruits: tutoriais de combos, espadas e bounty.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "CreatorDB / Famous Birthdays"
+       }
+      },
+      {
+       "name": "Lucas Clash ON",
+       "tags": [
+        "YouTube",
+        "Português"
+       ],
+       "description": "Também posta tutoriais e gameplay de Blox Fruits.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Famous Birthdays"
+       }
+      },
+      {
+       "name": "AccelToWin",
+       "tags": [
+        "YouTube",
+        "Inglês"
+       ],
+       "description": "Guias de progressão do Primeiro e Segundo Mar para iniciantes.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Lista de canais de estratégia de Blox Fruits"
+       }
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
+    },
+    {
+     "type": "links",
+     "title": "Ver vídeos (YouTube e TikTok)",
+     "links": [
+      {
+       "label": "Gamer Robot no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Gamer+Robot+Blox+Fruits",
+       "official": false
+      },
+      {
+       "label": "Gamer Robot no TikTok",
+       "url": "https://www.tiktok.com/search?q=Gamer%20Robot%20Blox%20Fruits",
+       "official": false
+      },
+      {
+       "label": "Cafazera no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Cafazera+Blox+Fruits",
+       "official": false
+      },
+      {
+       "label": "Cafazera no TikTok",
+       "url": "https://www.tiktok.com/search?q=Cafazera%20Blox%20Fruits",
+       "official": false
+      },
+      {
+       "label": "Lucas Clash ON no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Lucas+Clash+ON+Blox+Fruits",
+       "official": false
+      },
+      {
+       "label": "Lucas Clash ON no TikTok",
+       "url": "https://www.tiktok.com/search?q=Lucas%20Clash%20ON%20Blox%20Fruits",
+       "official": false
+      },
+      {
+       "label": "AccelToWin no YouTube",
+       "url": "https://www.youtube.com/results?search_query=AccelToWin+Blox+Fruits",
+       "official": false
+      },
+      {
+       "label": "AccelToWin no TikTok",
+       "url": "https://www.tiktok.com/search?q=AccelToWin%20Blox%20Fruits",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "info",
+   "title": "Links",
+   "emoji": "🔗",
+   "description": "Wiki e página do jogo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Blox Fruits no Roblox (busca oficial)",
+       "url": "https://www.roblox.com/discover/?Keyword=Blox%20Fruits",
+       "official": true
+      },
+      {
+       "label": "Blox Fruits Wiki",
+       "url": "https://blox-fruits.fandom.com/wiki/Blox_Fruits_Wiki",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

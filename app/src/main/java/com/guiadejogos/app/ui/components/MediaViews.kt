@@ -64,7 +64,7 @@ fun SkinsGrid(skins: List<ToonSkin>, accent: Color) {
                     .padding(10.dp),
                 verticalArrangement = Arrangement.spacedBy(6.dp),
             ) {
-                RemoteImage(skin.image, skin.name, Modifier.fillMaxWidth().height(w * 1.25f))
+                if (skin.image.isNotBlank()) RemoteImage(skin.image, skin.name, Modifier.fillMaxWidth().height(w * 1.25f))
                 Text(skin.name, style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary, maxLines = 2, overflow = TextOverflow.Ellipsis)
                 Badge(skin.category, accent)
                 Text(skin.howTo, style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary)

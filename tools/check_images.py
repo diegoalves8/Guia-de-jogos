@@ -6,7 +6,7 @@ urls = set()
 def walk(o):
     if isinstance(o, dict):
         for k, v in o.items():
-            if k in ("image", "vintageImage") and isinstance(v, str) and v.startswith("http"): urls.add(v)
+            if k in ("image", "vintageImage", "cover") and isinstance(v, str) and v.startswith("http"): urls.add(v)
             else: walk(v)
     elif isinstance(o, list):
         for v in o: walk(v)

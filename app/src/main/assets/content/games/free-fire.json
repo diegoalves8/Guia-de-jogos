@@ -1,110 +1,2457 @@
 {
-  "id": "free-fire",
-  "name": "Free Fire",
-  "emoji": "🔥",
-  "color": "#F97316",
-  "description": "Battle royale da Garena. Conteúdo em preparação.",
-  "categories": [
+ "id": "free-fire",
+ "name": "Free Fire",
+ "emoji": "🔥",
+ "color": "#F97316",
+ "cover": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest/scale-to-width-down/400?cb=20230131043654",
+ "description": "Battle royale da Garena. Personagens com habilidades, pets, dicas e códigos pelo site oficial.",
+ "categories": [
+  {
+   "id": "personagens",
+   "title": "Personagens",
+   "emoji": "🦸",
+   "description": "49 personagens e suas habilidades.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
     {
-      "id": "codigos",
-      "title": "Códigos e Como Resgatar",
-      "emoji": "🎁",
-      "description": "Resgate pelo site oficial da Garena.",
-      "status": "available",
-      "updatedAt": "2026-11-07",
-      "sections": [
+     "type": "toons",
+     "title": "Todos os personagens",
+     "toons": [
+      {
+       "id": "a-patroa",
+       "name": "A-Patroa",
+       "image": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/300?cb=20230131051735",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
         {
-          "type": "notice",
-          "title": "",
-          "tone": "warning",
-          "body": "Use apenas o site oficial de resgate da Garena. Nunca informe sua senha em sites que prometem códigos ou diamantes grátis."
+         "title": "Conheça A-Patroa",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/300?cb=20230131051735"
         },
         {
-          "type": "codes",
-          "title": "Códigos ativos",
-          "codes": []
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/300?cb=20230131051735"
         },
         {
-          "type": "links",
-          "title": "",
-          "links": [
-            {
-              "label": "Site oficial de resgate (Garena)",
-              "url": "https://reward.ff.garena.com/",
-              "official": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "personagens",
-      "title": "Personagens",
-      "emoji": "🦸",
-      "description": "Habilidades e combinações.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "skins",
-      "title": "Skins",
-      "emoji": "👕",
-      "description": "Roupas e skins de armas.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "eventos",
-      "title": "Eventos",
-      "emoji": "🎉",
-      "description": "Eventos ativos.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "guias",
-      "title": "Guias e Dicas",
-      "emoji": "🧭",
-      "description": "Do iniciante ao pro.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "atualizacoes",
-      "title": "Atualizações",
-      "emoji": "🛠️",
-      "description": "Patches.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "novidades",
-      "title": "Novidades",
-      "emoji": "📰",
-      "description": "Últimas notícias.",
-      "status": "coming_soon",
-      "sections": []
-    },
-    {
-      "id": "info",
-      "title": "Links Oficiais",
-      "emoji": "🔗",
-      "description": "Fontes oficiais do jogo.",
-      "status": "available",
-      "updatedAt": "2026-11-07",
-      "sections": [
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/300?cb=20230131051735"
+        },
         {
-          "type": "links",
-          "title": "",
-          "links": [
-            {
-              "label": "Site oficial do Free Fire (Garena)",
-              "url": "https://ff.garena.com/",
-              "official": true
-            }
-          ]
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/300?cb=20230131051735"
         }
-      ]
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=A-Patroa+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "a124",
+       "name": "A124",
+       "image": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/300?cb=20230126105319",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça A124",
+         "text": "Habilidade: Thrill of Battle.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/300?cb=20230126105319"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/300?cb=20230126105319"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/300?cb=20230126105319"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/300?cb=20230126105319"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=A124+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Thrill of Battle"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "alok",
+       "name": "Alok",
+       "image": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/300?cb=20230130021017",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Alok",
+         "text": "Habilidade: Drop the Beat.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/300?cb=20230130021017"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/300?cb=20230130021017"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/300?cb=20230130021017"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/300?cb=20230130021017"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Alok+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Drop the Beat"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "alvaro",
+       "name": "Alvaro",
+       "image": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/300?cb=20230203092233",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Alvaro",
+         "text": "Habilidade: Art of Demolition.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/300?cb=20230203092233"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/300?cb=20230203092233"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/300?cb=20230203092233"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/300?cb=20230203092233"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Alvaro+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Art of Demolition"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "andrew",
+       "name": "Andrew",
+       "image": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/300?cb=20221111152639",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Andrew",
+         "text": "Habilidade: Armor specialist.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/300?cb=20221111152639"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/300?cb=20221111152639"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/300?cb=20221111152639"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/300?cb=20221111152639"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Andrew+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Armor specialist"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "antonio",
+       "name": "Antonio",
+       "image": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/300?cb=20230126104019",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Antonio",
+         "text": "Habilidade: Gangster's Spirit.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/300?cb=20230126104019"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/300?cb=20230126104019"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/300?cb=20230126104019"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/300?cb=20230126104019"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Antonio+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Gangster's Spirit"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "caroline",
+       "name": "Caroline",
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/300?cb=20230203091911",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Caroline",
+         "text": "Habilidade: Agility.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/300?cb=20230203091911"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/300?cb=20230203091911"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/300?cb=20230203091911"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/300?cb=20230203091911"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Caroline+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Agility"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "chrono",
+       "name": "Chrono",
+       "image": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/300?cb=20230126100534",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Chrono",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/300?cb=20230126100534"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/300?cb=20230126100534"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/300?cb=20230126100534"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/300?cb=20230126100534"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Chrono+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "clu",
+       "name": "Clu",
+       "image": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/300?cb=20230130023237",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Clu",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/300?cb=20230130023237"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/300?cb=20230130023237"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/300?cb=20230130023237"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/300?cb=20230130023237"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Clu+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "d-bee",
+       "name": "D-Bee",
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/300?cb=20230131051506",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça D-Bee",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/300?cb=20230131051506"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/300?cb=20230131051506"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/300?cb=20230131051506"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/300?cb=20230131051506"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=D-Bee+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "dasha",
+       "name": "Dasha",
+       "image": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/300?cb=20230126102818",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Dasha",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/300?cb=20230126102818"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/300?cb=20230126102818"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/300?cb=20230126102818"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/300?cb=20230126102818"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Dasha+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "dimitri",
+       "name": "Dimitri",
+       "image": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/300?cb=20230129110913",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Dimitri",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/300?cb=20230129110913"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/300?cb=20230129110913"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/300?cb=20230129110913"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/300?cb=20230129110913"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Dimitri+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "ford",
+       "name": "Ford",
+       "image": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/300?cb=20221116125815",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Ford",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/300?cb=20221116125815"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/300?cb=20221116125815"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/300?cb=20221116125815"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/300?cb=20221116125815"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Ford+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "hayato",
+       "name": "Hayato",
+       "image": "",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Hayato",
+         "text": "Habilidade: veja no jogo.",
+         "image": ""
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": ""
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": ""
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": ""
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Hayato+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "homer",
+       "name": "Homer",
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/300?cb=20221112073519",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Homer",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/300?cb=20221112073519"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/300?cb=20221112073519"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/300?cb=20221112073519"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/300?cb=20221112073519"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Homer+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "iris",
+       "name": "Iris",
+       "image": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/300?cb=20221112073453",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Iris",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/300?cb=20221112073453"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/300?cb=20221112073453"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/300?cb=20221112073453"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/300?cb=20221112073453"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Iris+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "j-beibs",
+       "name": "J.Beibs",
+       "image": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/300?cb=20230129113449",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça J.Beibs",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/300?cb=20230129113449"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/300?cb=20230129113449"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/300?cb=20230129113449"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/300?cb=20230129113449"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=J.Beibs+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "joseph",
+       "name": "Joseph",
+       "image": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/300?cb=20221112073542",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Joseph",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/300?cb=20221112073542"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/300?cb=20221112073542"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/300?cb=20221112073542"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/300?cb=20221112073542"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Joseph+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "jota",
+       "name": "Jota",
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/300?cb=20230131052234",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Jota",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/300?cb=20230131052234"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/300?cb=20230131052234"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/300?cb=20230131052234"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/300?cb=20230131052234"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Jota+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "k",
+       "name": "K",
+       "image": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/300?cb=20230130023429",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça K",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/300?cb=20230130023429"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/300?cb=20230130023429"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/300?cb=20230130023429"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/300?cb=20230130023429"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=K+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kapella",
+       "name": "Kapella",
+       "image": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/300?cb=20230127023923",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kapella",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/300?cb=20230127023923"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/300?cb=20230127023923"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/300?cb=20230127023923"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/300?cb=20230127023923"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kapella+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kelly",
+       "name": "Kelly",
+       "image": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/300?cb=20221111152406",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kelly",
+         "text": "Habilidade: Dash.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/300?cb=20221111152406"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/300?cb=20221111152406"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/300?cb=20221111152406"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/300?cb=20221111152406"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kelly+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Dash"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kenta",
+       "name": "Kenta",
+       "image": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/300?cb=20230126103404",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kenta",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/300?cb=20230126103404"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/300?cb=20230126103404"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/300?cb=20230126103404"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/300?cb=20230126103404"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kenta+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "kla",
+       "name": "Kla",
+       "image": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/300?cb=20230126103447",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Kla",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/300?cb=20230126103447"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/300?cb=20230126103447"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/300?cb=20230126103447"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/300?cb=20230126103447"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Kla+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "laura",
+       "name": "Laura",
+       "image": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/300?cb=20230126102751",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Laura",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/300?cb=20230126102751"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/300?cb=20230126102751"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/300?cb=20230126102751"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/300?cb=20230126102751"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Laura+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "leon",
+       "name": "Leon",
+       "image": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/300?cb=20230130021616",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Leon",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/300?cb=20230130021616"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/300?cb=20230130021616"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/300?cb=20230130021616"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/300?cb=20230130021616"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Leon+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "luna",
+       "name": "Luna",
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/300?cb=20230131052617",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Luna",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/300?cb=20230131052617"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/300?cb=20230131052617"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/300?cb=20230131052617"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/300?cb=20230131052617"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Luna+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "luqueta",
+       "name": "Luqueta",
+       "image": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/300?cb=20230130023000",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Luqueta",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/300?cb=20230130023000"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/300?cb=20230130023000"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/300?cb=20230130023000"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/300?cb=20230130023000"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Luqueta+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "maro",
+       "name": "Maro",
+       "image": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/300?cb=20230131050859",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Maro",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/300?cb=20230131050859"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/300?cb=20230131050859"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/300?cb=20230131050859"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/300?cb=20230131050859"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Maro+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "maxim",
+       "name": "Maxim",
+       "image": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/300?cb=20221111151753",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Maxim",
+         "text": "Habilidade: Usar Kits médico Rápido..",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/300?cb=20221111151753"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/300?cb=20221111151753"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/300?cb=20221111151753"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/300?cb=20221111151753"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Maxim+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Usar Kits médico Rápido."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "miguel",
+       "name": "Miguel",
+       "image": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/300?cb=20230130025053",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Miguel",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/300?cb=20230130025053"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/300?cb=20230130025053"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/300?cb=20230130025053"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/300?cb=20230130025053"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Miguel+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "misha",
+       "name": "Misha",
+       "image": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/300?cb=20221111152039",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Misha",
+         "text": "Habilidade: Afterburner.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/300?cb=20221111152039"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/300?cb=20221111152039"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/300?cb=20221111152039"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/300?cb=20221111152039"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Misha+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Afterburner"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "moco",
+       "name": "Moco",
+       "image": "",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Moco",
+         "text": "Habilidade: veja no jogo.",
+         "image": ""
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": ""
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": ""
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": ""
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Moco+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "nairi",
+       "name": "Nairi",
+       "image": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/300?cb=20230130022022",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Nairi",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/300?cb=20230130022022"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/300?cb=20230130022022"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/300?cb=20230130022022"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/300?cb=20230130022022"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Nairi+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "nikita",
+       "name": "Nikita",
+       "image": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/300?cb=20230130025201",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Nikita",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/300?cb=20230130025201"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/300?cb=20230130025201"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/300?cb=20230130025201"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/300?cb=20230130025201"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Nikita+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "notora",
+       "name": "Notora",
+       "image": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/300?cb=20230131045847",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Notora",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/300?cb=20230131045847"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/300?cb=20230131045847"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/300?cb=20230131045847"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/300?cb=20230131045847"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Notora+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "nulla-eve",
+       "name": "Nulla (Eve)",
+       "image": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Nulla (Eve)",
+         "text": "Habilidade: Non.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Nulla+%28Eve%29+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Non"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "olivia",
+       "name": "Olivia",
+       "image": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/300?cb=20221116125354",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Olivia",
+         "text": "Habilidade: Healing Touch.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/300?cb=20221116125354"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/300?cb=20221116125354"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/300?cb=20221116125354"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/300?cb=20221116125354"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Olivia+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Healing Touch"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "otho",
+       "name": "Otho",
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/300?cb=20230131052932",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Otho",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/300?cb=20230131052932"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/300?cb=20230131052932"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/300?cb=20230131052932"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/300?cb=20230131052932"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Otho+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "paloma",
+       "name": "Paloma",
+       "image": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/300?cb=20230130024702",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Paloma",
+         "text": "Habilidade: Arms dealing.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/300?cb=20230130024702"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/300?cb=20230130024702"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/300?cb=20230130024702"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/300?cb=20230130024702"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Paloma+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Arms dealing"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "rafael",
+       "name": "Rafael",
+       "image": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/300?cb=20230130023455",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Rafael",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/300?cb=20230130023455"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/300?cb=20230130023455"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/300?cb=20230130023455"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/300?cb=20230130023455"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Rafael+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "shani",
+       "name": "Shani",
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/300?cb=20230131050039",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Shani",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/300?cb=20230131050039"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/300?cb=20230131050039"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/300?cb=20230131050039"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/300?cb=20230131050039"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Shani+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "shirou",
+       "name": "Shirou",
+       "image": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/300?cb=20230126104157",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Shirou",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/300?cb=20230126104157"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/300?cb=20230126104157"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/300?cb=20230126104157"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/300?cb=20230126104157"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Shirou+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "skyler",
+       "name": "Skyler",
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/300?cb=20230131053055",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Skyler",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/300?cb=20230131053055"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/300?cb=20230131053055"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/300?cb=20230131053055"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/300?cb=20230131053055"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Skyler+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "steffie",
+       "name": "Steffie",
+       "image": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/300?cb=20221111143535",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Steffie",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/300?cb=20221111143535"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/300?cb=20221111143535"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/300?cb=20221111143535"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/300?cb=20221111143535"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Steffie+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "tatsuya",
+       "name": "Tatsuya",
+       "image": "",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Tatsuya",
+         "text": "Habilidade: veja no jogo.",
+         "image": ""
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": ""
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": ""
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": ""
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Tatsuya+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "thiva",
+       "name": "Thiva",
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/300?cb=20230129112548",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Thiva",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/300?cb=20230129112548"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/300?cb=20230129112548"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/300?cb=20230129112548"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/300?cb=20230129112548"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Thiva+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "wukong",
+       "name": "Wukong",
+       "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/300?cb=20230131052311",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Wukong",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/300?cb=20230131052311"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/300?cb=20230131052311"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/300?cb=20230131052311"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/300?cb=20230131052311"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Wukong+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "xayne",
+       "name": "Xayne",
+       "image": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/300?cb=20230131050418",
+       "vintageImage": "",
+       "kind": "Personagem",
+       "cost": "Loja do jogo ou eventos (varia)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Xayne",
+         "text": "Habilidade: veja no jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/300?cb=20230131050418"
+        },
+        {
+         "title": "1. Abra a aba Personagens",
+         "text": "No lobby, toque em Personagem para ver todos os personagens e suas habilidades.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/300?cb=20230131050418"
+        },
+        {
+         "title": "2. Desbloqueie",
+         "text": "Personagens podem ser liberados na loja do jogo ou em eventos. O preço e a forma mudam com o tempo; confira no próprio jogo.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/300?cb=20230131050418"
+        },
+        {
+         "title": "3. Equipe a habilidade",
+         "text": "Equipe a habilidade do personagem nos espaços de habilidade e teste no modo treino.",
+         "image": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/300?cb=20230131050418"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Xayne+Free+Fire+habilidade+como+usar",
+       "infoBlocks": [
+        {
+         "title": "✨ Habilidade",
+         "items": [
+          "Consulte no jogo."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: FreeFire Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
     }
-  ]
+   ]
+  },
+  {
+   "id": "pets",
+   "title": "Pets",
+   "emoji": "🐾",
+   "description": "Companheiros que ajudam na partida.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "gallery",
+     "title": "Pets",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/8d/Agent_Hop.png/revision/latest/scale-to-width-down/300?cb=20230130013620",
+       "caption": "Agent Hop",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/0/0e/Beaston.png/revision/latest/scale-to-width-down/300?cb=20230129120118",
+       "caption": "Beaston",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/4/4d/Detective_Panda.png/revision/latest/scale-to-width-down/300?cb=20230129115927",
+       "caption": "Detective Panda",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/1/14/Dreki.png/revision/latest/scale-to-width-down/300?cb=20230129120001",
+       "caption": "Dreki",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/c/c3/Fang.png/revision/latest/scale-to-width-down/300?cb=20230129115817",
+       "caption": "Fang",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/8/82/Fin.png/revision/latest/scale-to-width-down/300?cb=20230129115853",
+       "caption": "Fin",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/0/0e/Hoot.png/revision/latest/scale-to-width-down/300?cb=20230129120053",
+       "caption": "Hoot",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/6/61/Night_Panther.png/revision/latest/scale-to-width-down/300?cb=20230129120152",
+       "caption": "Night Panther",
+       "subtitle": "Pet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/freefire/images/b/b0/Spirit_Fox.png/revision/latest/scale-to-width-down/300?cb=20230129120228",
+       "caption": "Spirit Fox",
+       "subtitle": "Pet"
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "title": "",
+     "body": "Dados e imagens: FreeFire Wiki (Fandom, conteúdo CC BY-SA). As imagens precisam de internet na primeira vez; depois ficam salvas no aparelho."
+    }
+   ]
+  },
+  {
+   "id": "codigos",
+   "title": "Códigos e Como Resgatar",
+   "emoji": "🎁",
+   "description": "Resgate pelo site oficial da Garena.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "steps",
+     "title": "Como resgatar (site oficial)",
+     "items": [
+      "Abra o site oficial de resgate da Garena (link abaixo).",
+      "Entre com a mesma conta vinculada ao seu Free Fire (Facebook, Google, VK, X ou Apple).",
+      "Digite o código de 12 caracteres e confirme.",
+      "A recompensa chega no correio do jogo (pode demorar até 24 horas)."
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Use apenas o site oficial. Nunca informe sua senha em sites que prometem códigos ou diamantes grátis. Contas de convidado não conseguem resgatar."
+    },
+    {
+     "type": "codes",
+     "title": "Códigos ativos",
+     "codes": []
+    },
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Site oficial de resgate (Garena)",
+       "url": "https://reward.ff.garena.com/",
+       "official": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guias",
+   "title": "Guias e Dicas",
+   "emoji": "🧭",
+   "description": "Do iniciante ao profissional.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "levels",
+     "title": "Dicas por nível",
+     "levels": [
+      {
+       "level": "🟢 Iniciante",
+       "tips": [
+        "Pule em lugares com poucos jogadores para pegar itens com calma. (Buscapé / Free Fire Mania)",
+        "Ajuste os controles e a sensibilidade antes de jogar ranqueada. (Free Fire Mania)",
+        "Conheça bem a habilidade do seu personagem. (Showmetech)",
+        "Fique de olho na zona segura e não pegue loot parado no meio do caminho. (Showmetech)"
+       ]
+      },
+      {
+       "level": "🟡 Intermediário",
+       "tips": [
+        "Treine a mira e o controle de recuo no campo de treino. (Free Fire Mania)",
+        "Use o modo Contra Squad para melhorar mira, movimentação e decisões. (Free Fire Mania)",
+        "Use veículos principalmente no começo da partida. (Showmetech)"
+       ]
+      },
+      {
+       "level": "🟠 Avançado",
+       "tips": [
+        "Leia as notas de atualização: mudanças de armas e personagens mudam o meta. (Canaltech)",
+        "Domine a parede de gel para se proteger rápido em trocação. (Free Fire Mania)"
+       ]
+      },
+      {
+       "level": "🔴 Profissional",
+       "tips": [
+        "Assista aos profissionais e criadores jogando para copiar rotações e posicionamento. (Canaltech)",
+        "Jogue com o mesmo squad e combine funções antes da partida. (Free Fire Mania)"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Entre parênteses está a fonte de cada dica."
+    }
+   ]
+  },
+  {
+   "id": "criadores",
+   "title": "Criadores de Conteúdo",
+   "emoji": "📺",
+   "description": "YouTubers, tiktokers e Instagram.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "Criadores para acompanhar",
+     "items": [
+      {
+       "name": "Nobru",
+       "tags": [
+        "YouTube",
+        "TikTok",
+        "Instagram"
+       ],
+       "description": "Um dos influenciadores brasileiros mais lembrados pelos gamers; cofundador da Fluxo.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Meio & Mensagem / TheTVDB"
+       }
+      },
+      {
+       "name": "Cerol",
+       "tags": [
+        "YouTube",
+        "Instagram"
+       ],
+       "description": "Eleito melhor streamer no Prêmio eSports Brasil 2019; cofundador da Fluxo.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "TheTVDB / Fragster"
+       }
+      },
+      {
+       "name": "El Gato",
+       "tags": [
+        "YouTube",
+        "Instagram"
+       ],
+       "description": "Dono de uma das maiores organizações de esports e grande influenciador do mobile.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Fragster"
+       }
+      },
+      {
+       "name": "Thurzin",
+       "tags": [
+        "YouTube",
+        "TikTok"
+       ],
+       "description": "Streamer e jogador profissional, um dos maiores nomes da história do Free Fire.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Fragster"
+       }
+      },
+      {
+       "name": "Loud Babi",
+       "tags": [
+        "YouTube",
+        "Instagram"
+       ],
+       "description": "Uma das streamers e criadoras de Free Fire mais populares do Brasil.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "oEmbed (lista de canais)"
+       }
+      },
+      {
+       "name": "PlayHard",
+       "tags": [
+        "YouTube"
+       ],
+       "description": "Canal grande de gameplay de Free Fire.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Free Fire Mania"
+       }
+      },
+      {
+       "name": "Jefão",
+       "tags": [
+        "YouTube"
+       ],
+       "description": "Esteve no top 10 de criadores em ascensão do YouTube em 2020.",
+       "fields": {
+        "Onde encontrar": "Toque nos links abaixo",
+        "Fonte da indicação": "Free Fire Mania"
+       }
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
+    },
+    {
+     "type": "links",
+     "title": "Ver vídeos (YouTube e TikTok)",
+     "links": [
+      {
+       "label": "Nobru no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Nobru+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "Nobru no TikTok",
+       "url": "https://www.tiktok.com/search?q=Nobru%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "Cerol no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Cerol+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "Cerol no TikTok",
+       "url": "https://www.tiktok.com/search?q=Cerol%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "El Gato no YouTube",
+       "url": "https://www.youtube.com/results?search_query=El+Gato+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "El Gato no TikTok",
+       "url": "https://www.tiktok.com/search?q=El%20Gato%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "Thurzin no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Thurzin+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "Thurzin no TikTok",
+       "url": "https://www.tiktok.com/search?q=Thurzin%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "Loud Babi no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Loud+Babi+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "Loud Babi no TikTok",
+       "url": "https://www.tiktok.com/search?q=Loud%20Babi%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "PlayHard no YouTube",
+       "url": "https://www.youtube.com/results?search_query=PlayHard+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "PlayHard no TikTok",
+       "url": "https://www.tiktok.com/search?q=PlayHard%20Free%20Fire",
+       "official": false
+      },
+      {
+       "label": "Jefão no YouTube",
+       "url": "https://www.youtube.com/results?search_query=Jef%C3%A3o+Free+Fire",
+       "official": false
+      },
+      {
+       "label": "Jefão no TikTok",
+       "url": "https://www.tiktok.com/search?q=Jef%C3%A3o%20Free%20Fire",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "info",
+   "title": "Links Oficiais",
+   "emoji": "🔗",
+   "description": "Fontes oficiais.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Site oficial do Free Fire (Garena)",
+       "url": "https://ff.garena.com/",
+       "official": true
+      },
+      {
+       "label": "Site oficial de resgate (Garena)",
+       "url": "https://reward.ff.garena.com/",
+       "official": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

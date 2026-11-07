@@ -1,10 +1,19 @@
 # 🎮 Guia de Jogos
 
-Aplicativo Android que reúne **códigos, dicas, guias, skins, termos e novidades** de vários jogos — começando pelo **Dandy's World**.
+Aplicativo Android que reúne **personagens, skins, códigos, guias, dicas e criadores de conteúdo** de **Dandy's World, Brawl Stars, Free Fire, Murder Mystery 2 e Blox Fruits**, com painel e gráficos.
 
 Feito em **Kotlin + Jetpack Compose (Material 3)**, com layout adaptável para **celulares, tablets** (ex.: Galaxy Tab S6 Lite) e **multimídia de carro** (ex.: BYD King, tela giratória de 12,8"), em retrato e paisagem.
 
 ---
+
+## 🔄 Atualizar o app por dentro dele (novo)
+
+Toda alteração enviada para a `main` gera automaticamente uma **Release** (`build-<número>`) com o `GuiaDeJogos.apk`.
+No app, abra a aba **Atualizar** → **Baixar e instalar**. O Android pede confirmação (e, na primeira vez, permissão para "instalar apps desta fonte").
+
+> ⚠️ O app só enxerga as Releases se o repositório for **público**. Com o repositório privado, a aba Atualizar mostra o aviso e o APK continua disponível pela aba Actions.
+>
+> 🔑 O app é assinado com uma chave fixa (`keystore/`). Ela precisa ser sempre a mesma para a atualização funcionar — não apague. Se o repositório ficar público, qualquer pessoa poderá ver essa chave; para um app pessoal isso é aceitável, mas para publicar na Play Store crie uma chave nova e guarde em segredo.
 
 ## 📲 Como pegar o APK (sem instalar nada no PC)
 

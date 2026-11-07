@@ -107,7 +107,7 @@ private fun ToonContent(toon: Toon, accent: Color, padding: PaddingValues) {
 
         item {
             Block("🔓 Como desbloquear") {
-                Info("Custo", toon.cost.ifBlank { "—" }, accent)
+                Info("Custo / como liberar", toon.cost.ifBlank { "—" }, accent)
                 if (toon.requirements.isEmpty()) {
                     Info("Requisitos", "Nenhum além do custo.", accent)
                 } else {
@@ -116,7 +116,17 @@ private fun ToonContent(toon: Toon, accent: Color, padding: PaddingValues) {
             }
         }
 
-        item {
+        toon.infoBlocks.filter { it.items.isNotEmpty() }.forEach { block ->
+            item {
+                Block(block.title) {
+                    block.items.forEach { line ->
+                        Text("• $line", style = MaterialTheme.typography.bodyLarge, color = AppColors.TextPrimary)
+                    }
+                }
+            }
+        }
+
+        if (toon.mastery.isNotEmpty()) item {
             Block("🏅 Maestria") {
                 val wide = rememberScreenInfo().widthDp >= 600
                 val quests: @Composable (Modifier) -> Unit = { mod ->
@@ -146,7 +156,7 @@ private fun ToonContent(toon: Toon, accent: Color, padding: PaddingValues) {
             }
         }
 
-        item {
+        if (toon.skins.isNotEmpty()) item {
             Block("👕 Skins (${toon.skins.size})") {
                 SkinsGrid(toon.skins, accent)
             }
@@ -154,7 +164,7 @@ private fun ToonContent(toon: Toon, accent: Color, padding: PaddingValues) {
 
         item {
             Text(
-                "Dados e imagens: Dandy's World Wiki (Fandom) · BlushCrunch Studio.",
+                "Dados e imagens: wikis da comunidade (Fandom, CC BY-SA). Marcas e personagens pertencem aos seus donos.",
                 style = MaterialTheme.typography.bodyMedium,
                 color = AppColors.TextSecondary.copy(alpha = 0.7f),
             )
@@ -176,7 +186,7 @@ private fun ToonHeader(toon: Toon, accent: Color) {
         Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
             Text(toon.name, style = MaterialTheme.typography.headlineLarge, color = AppColors.TextPrimary)
             Badge(toon.kind, AppColors.Secondary)
-            Text("💰 ${toon.cost}", style = MaterialTheme.typography.titleMedium, color = AppColors.Accent)
+            if (toon.cost.isNotBlank()) Text("💰 ${toon.cost}", style = MaterialTheme.typography.titleMedium, color = AppColors.Accent)
         }
     }
 }

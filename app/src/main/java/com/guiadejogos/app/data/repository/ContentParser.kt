@@ -5,6 +5,8 @@ import com.guiadejogos.app.data.model.CodeStatus
 import com.guiadejogos.app.data.model.ContentStatus
 import com.guiadejogos.app.data.model.GameCode
 import com.guiadejogos.app.data.model.GameDetail
+import com.guiadejogos.app.data.model.GameStats
+import com.guiadejogos.app.data.model.InfoBlock
 import com.guiadejogos.app.data.model.GalleryImage
 import com.guiadejogos.app.data.model.GameSummary
 import com.guiadejogos.app.data.model.GamesIndex
@@ -40,6 +42,10 @@ object ContentParser {
                     colorHex = g.optString("color", "#8B5CF6"),
                     status = ContentStatus.from(g.optString("status")),
                     file = g.optString("file"),
+                    cover = g.optString("cover"),
+                    stats = g.optJSONObject("stats").let { st ->
+                        GameStats(st?.optInt("characters") ?: 0, st?.optInt("skins") ?: 0, st?.optString("label").orEmpty())
+                    },
                 )
             },
         )
@@ -53,6 +59,7 @@ object ContentParser {
             description = root.optString("description"),
             colorHex = root.optString("color", "#8B5CF6"),
             emoji = root.optString("emoji", "🎮"),
+            cover = root.optString("cover"),
             categories = root.optJSONArray("categories").objects().map { c ->
                 Category(
                     id = c.getString("id"),
@@ -140,6 +147,9 @@ object ContentParser {
             TutorialStep(s.optString("title"), s.optString("text"), s.optString("image"))
         },
         videoUrl = t.optString("videoUrl"),
+        infoBlocks = t.optJSONArray("infoBlocks").objects().map { b ->
+            InfoBlock(b.optString("title"), b.optJSONArray("items").strings())
+        },
     )
 
     private fun JSONArray?.objects(): List<JSONObject> =
