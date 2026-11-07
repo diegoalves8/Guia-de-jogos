@@ -1,0 +1,294 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Rocket|PrestigeTitle = Big sis|Rarity = Mythic|Class = Marksman|MovementSpeed =750 (Normal)<br>1400 (with Super)|HealthLabel = Health|Health = 3400|AttackRange = 4 (min range; Normal)<br>8.33 (max range; Long) |Reload = 1.5 seconds (Normal)|AttackSuperCharge = 21%|AttackLabel = Damage|Attack = 1100|AttackSpread=80° (min range)<br>15° (max range)|SuperRange = 2.67 (Short)|SuperSuperCharge = 16.8%|SuperMinion = |SuperLabel = Damage|Super = 800|AttackSpeed=3650|SuperSpeed=1500|VoiceActor=Sam Slade|SuperBullets=7|SuperDuration=6 seconds|Gadget1Name=Drop The Bass|Gadget1=176|Gadget1Label=Damage per second|Gadget1Cooldown=18 seconds|Gadget2Name=Backstage Pass|Gadget2Cooldown=16 seconds|Previous=Eve|Next=Otis|AttackHyperchargeCharge=8.4%|SuperHyperchargeCharge=6.7%|HyperchargeMultiplier=40%}}
+{{Quote|Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister [[Bonnie]], whenever she gets into trouble.}}
+{{Portrait}}
+Janet is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 12: The Stuntshow. She has moderate health and damage output, a variable attack range, and immense utility with her Super. She was the 56th Brawler added to the game. Her attack is a shockwave in a cone that narrows and lengthens the longer it is aimed. Janet's Super allows her to continuously fly over obstacles while dropping bombs onto enemies that deal very low area damage. Janet's first Gadget, Drop the Bass, deploys a loudspeaker that deals damage to enemies in a large radius. Her second Gadget, Backstage Pass, affects Janet's next attack to make her jump backwards. Her first Star Power, Stage View, allows Janet to see enemies in a large area of bushes while her Super is active. Her second Star Power, Vocal Warm Up, reduces the time of Janet's attack focusing from minimum range to maximum. Her Hypercharge, Magnum Opus, allows her Super to be controlled more easily during its duration.
+
+==Attack: High Note==
+{{Quote|Janet sings a loud note. The longer she holds the note, the more focus it will become and the farther it will fly.}}
+Janet's attack is a piercing shockwave that deals moderate damage. When initially aiming or using autofire, the attack is wide and has a short range, but the longer the attack is aimed, the less wide and the more range the attack gains, which stops upon reaching its maximum distance. If Janet has no ammo, aiming the attack will not change its shape.
+
+==Super: Crescendo==
+{{Quote|Janet uses her jetpack to take to the skies for a moment, where she attacks opponents from above for the full duration.}}Janet flies up into the sky for 6 seconds, boosting her movement speed and dropping bombs every 0.76 seconds onto enemies under her. The bombs deal area damage in a 2-tile radius. Like [[Nani]]'s Super, Janet will fly in a straight line if she is not controlled. She cannot reload or heal while her Super is active. While in the air, Janet is completely immune to all damage besides status effects and damage applied over time which were applied to her prior to using her Super. When using her Super, she cannot occupy the zone in [[Hot Zone]], she can't pick up Power Cubes in [[Showdown]], and she can't teleport with teleporters. If her final destination is an obstacle or in the middle of a lake, she will automatically be pushed to the closest ground.
+
+==Gadgets==
+===Drop The Bass===
+{{Quote|Janet deploys a speaker that deals 220 damage per second to all enemies in the area until it gets destroyed. Cooldown: 18 seconds.}}{{Gadget|1}}Upon activation, Janet drops a loudspeaker that deals 10% of Janet's main attack damage per second to enemies in its 8-tile radius. The turret has 1000 health, will be destroyed if Janet places another loudspeaker, and decays by 100 health until it's destroyed, lasting for up to 10 seconds if it doesn't take any damage. Janet cannot activate this Gadget while her Super is active.
+
+===Backstage Pass===
+{{Quote|Janet's next High Note pushes her back, even over walls. The more focused her attack is, the further she'll be pushed back. Cooldown: 16 seconds.}}{{Gadget|2}}Activating this Gadget allows Janet's next attack to make her jump backwards into the air. The longer the attack is aimed, the farther Janet travels and the longer Janet stays in the air, where she is completely immune to all damage besides status effects and damage applied over time. She can travel up to 6 tiles normally. If required to cross over a larger amount of blocks or over lakes, the distance will be increased up to a limit or to the nearest piece of ground. A Gadget symbol will glow above Janet's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after the attack is shot.
+
+==Star Powers==
+===Stage View===
+{{Quote|When in the air with her jetpack, Janet reveals a large area of bushes around herself.}}{{StarPower|1}}When Janet is using her Super, she and all allies can see all enemies in bushes 10 tiles farther than usual from Janet. 
+
+===Vocal Warm Up===
+{{Quote|Janet's attack focuses 30% faster.}}{{StarPower|2}}This Star Power causes Janet's attack to focus from minimum range to maximum range at a faster speed.
+
+==Hypercharge: Magnum Opus==
+{{Quote|Janet retains full movement control during her Super.}}{{Hypercharge}}
+When activated, for the duration of Janet's Super, she has complete control of her movement as if she was on the ground, and she also no longer automatically flies forwards during it. In addition, her Super is affected by the Hypercharge movement speed boost, and it stacks with other speed boosts, such as [[Max]]'s Super or [[Stu]]'s Speed Zone Gadget. Janet also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Janet drops way more bombs during her Crescendo, and she has an increased Super Charge.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div> With this Mutation, Janet's Super dropped bombs every 0.5 seconds, and her Super recharge rate was increased.
+
+==Tips==
+===Game Modes and Maps===
+*She is very strong in [[Gem Grab]], able to hold off gems in the countdown. It is advisable to play her as the gem carrier, and play defensively as gem collector, or offensively. She can carry all 10 gems and in the 15 second countdown she can flee and use her Super so that enemies can no longer attack her.
+*If Janet is the Big Brawler in [[Big Game]], she cannot be attacked when she uses her Super. Her Backstage Pass Gadget can let her escape the Hunters more effectively and her Drop the Bass Gadget lets her prepare against the Hunters' approach. Thus, the Hunters struggle in taking down the Big Brawler.
+
+===Recommended Build===
+*Janet's Drop The Bass Gadget is quite useful in maps covered in bushes, like [[Snake Prairie]] and [[Sapphire Plains]], as enemies in her Gadget's radius receive damage, causing them to be revealed, much like [[Grom]]'s Watchtower Gadget, [[Bo]]'s Circling Eagle Star Power, [[Rosa]]'s Unfriendly Bushes Gadget, and [[Tara]]'s Psychic Enhancer Gadget.
+*Her Drop The Bass Gadget can prevent enemies from healing, making this a very effective strategy to prevent low-health enemies from being able to recover and fight back. It has a low health, so make sure you put it behind a wall or a place where enemies can't hit it easily.
+*Keep in mind that Janet's Super does not drop a bomb directly below her, but rather firing them a short distance forward. This means that circling a stationary enemy will likely only hit them once.
+*The Backstage Pass Gadget is sometimes useful in close-range situations against quick unloading enemies since it may cause the enemy to miss all three shots when you suddenly jump when attacking, reducing the chance of getting defeated and making it easy to finish off the enemy.
+
+===Other===
+*Janet's attack special main attack ability is good for the right situation like if you need to hit your enemy from far away it's obviously better to charge it. This is not what you have to do on melee situations, because you lose time trying to get more range and only one projectile can hit the same enemy.
+
+==Voice Lines ==
+{|class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+||{{Ogg|Filename= Janet start vo 01.ogg|Filedescription = "Rocket-fueled awesomeness!"}}
+|{{Ogg|Filename = Janet lead vo 01.ogg|Filedescription = "I'm on another level."}}
+|{{Ogg|Filename = Janet hurt vo 01.ogg|Filedescription = Janet moans}}
+|{{Ogg|Filename = Janet kill vo 01.ogg|Filedescription = "I am dangerous."}}
+|{{Ogg|Filename = Janet die vo 01.ogg|Filedescription = "Catch you on the flip side."}}
+|
+|{{Ogg|Filename = Janet ulti vo 01.ogg|Filedescription = "Up, up and away!"}}
+|-
+|{{Ogg|Filename= Janet start vo 02.ogg|Filedescription = "Brace for impact."}}
+|{{Ogg|Filename = Janet lead vo 02.ogg|Filedescription = "Ice in my veins."}}
+|{{Ogg|Filename = Janet hurt vo 02.ogg|Filedescription = "You clearly aren't a fan."}}
+|{{Ogg|Filename = Janet kill vo 02.ogg|Filedescription = "Remember peeps, no points for second place."}}
+|{{Ogg|Filename = Janet die vo 02.ogg|Filedescription = "People, Janet has left the building."}}
+|
+|{{Ogg|Filename = Janet ulti vo 02.ogg|Filedescription = "Rocket Girl!"}}
+|-
+|{{Ogg|Filename= Janet start vo 03.ogg|Filedescription = "Watch the birdie!"}}
+|{{Ogg|Filename = Janet lead vo 03.ogg|Filedescription = "Seems unfair, since I'm rocket-powered!"}}
+|{{Ogg|Filename = Janet hurt vo 03.ogg|Filedescription = "What a dork!"}}
+|{{Ogg|Filename = Janet kill vo 03.ogg|Filedescription = "Sorry can't see you from up here."}}
+|{{Ogg|Filename = Janet die vo 03.ogg|Filedescription = "Total bummer."}}
+|
+|{{Ogg|Filename = Janet ulti vo 03.ogg|Filedescription = "Encore!"}}
+|-
+|{{Ogg|Filename= Janet start vo 04.ogg|Filedescription = "Flying high as a kite and ready to fight!"}}
+|{{Ogg|Filename = Janet lead vo 04.ogg|Filedescription = "Let's reach for the stars, baby."}}
+|{{Ogg|Filename = Janet hurt vo 04.ogg|Filedescription = "Not grooving."}}
+|{{Ogg|Filename = Janet kill vo 04.ogg|Filedescription = "I'm high, you're low."}}
+|{{Ogg|Filename = Janet die vo 04.ogg|Filedescription = "Peace out."}}
+|
+|{{Ogg|Filename = Janet ulti vo 04.ogg|Filedescription = "Let's drop some candies."}}
+|-
+|{{Ogg|Filename= Janet start vo 05.ogg|Filedescription = "Let's rock this out!"}}
+|{{Ogg|Filename = Janet lead vo 05.ogg|Filedescription = "I'm playing among the stars."}}
+|{{Ogg|Filename = Janet hurt vo 05.ogg|Filedescription = "Don't be a downer."}}
+|{{Ogg|Filename = Janet kill vo 05.ogg|Filedescription = "Yeahhh!"}}
+|{{Ogg|Filename = Janet die vo 05.ogg|Filedescription = "♫R.I.P. to me."}}
+|
+|{{Ogg|Filename = Janet ulti vo 05.ogg|Filedescription = "To the stars!"}}
+|-
+|{{Ogg|Filename= Janet start vo 06.ogg|Filedescription = "It's gonna be a trip."}}
+|{{Ogg|Filename = Janet lead vo 06.ogg|Filedescription = "♫Yeah, yeah, yeah!"}}
+|{{Ogg|Filename = Janet hurt vo 06.ogg|Filedescription = ♫"Pai-i-in."}}
+|
+|{{Ogg|Filename = Janet die vo 06.ogg|Filedescription = "♫I'm about to crash and burn."}}
+|
+|{{Ogg|Filename = Janet ulti vo 06.ogg|Filedescription = "Fly me to the moon."}}
+|-
+|{{Ogg|Filename= Janet start vo 07.ogg|Filedescription = "This is your pilot speaking. ♫Heyeaaah!"}}
+|
+|{{Ogg|Filename = Janet hurt vo 07.ogg|Filedescription = "I feel low."}}
+|
+|
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Janet hurt vo 08.ogg|Filedescription = "♫Pa-a-ain!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*27/04/22:
+**{{Balance|Content=Janet became available to play in the [[Training Cave]].|Change=Neutral}}
+*02/05/22:
+**{{Balance|Content=Janet and her Valkyrie skin were added to the game.|Change=Neutral}}
+*25/05/22:
+**{{Balance|Content=Janet's Vocal Warm Up Star Power was added.|Change=Neutral}}
+*30/05/22:
+**{{Balance|Content=Janet's Backstage Pass Gadget was added.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Janet can no longer activate her Drop the Bass Gadget while using her Super.|Change=Nerf}}
+**{{Balance|Content=Janet's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Janet's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Janet's health was decreased to 3400 (from 3600).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Janet's Super was increased to 6 hits (from 5).|Change=Nerf}}
+*25/10/22:
+**{{Balance|Content=Fixed an issue where Janet's Drop the Bass Gadget visual effects persisted after being teleported.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Janet's Backstage Pass Gadget aiming indicator would glitch out.|Change=Neutral}}
+*14/11/22:
+**{{Balance|Content=The G-Force Janet skin was added. It was featured as an Action Heroes skin.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Janet's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+*01/04/23:
+**{{Balance|Content=The Popstar Janet skin was added.|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Janet's health was decreased to 3200 (from 3400).|Change=Nerf}}
+*06/06/23:
+**{{Balance|Content=Janet's main attack damage was decreased to 940 (from 1000).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge her Super was increased to 7 hits (from 6).|Change=Nerf}}
+**{{Balance|Content=Janet's Drop The Bass Gadget health was decreased to 1000 (from 1500).|Change=Nerf}}
+**{{Balance|Content=Janet's Drop The Bass Gadget health decay was increased to 100 (from 75) per second.|Change=Nerf}}
+*04/07/23:
+**{{Balance|Content=The Dark Fairy Janet skin was added. It was featured as an Enchanted Woods skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=Janet's Super visual effects were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Janet's winning animation.|Change=Neutral}}
+*30/09/23:
+**{{Balance|Content=The Lunar Janet skin was added. It was featured as a Lunar Stories skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Janet's Drop The Bass Gadget damage was increased to 150 (from 100) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Janet's flavor text was changed from "Janet is the star of the show, and she's not afraid to let everyone around her know about it. If only her sister Bonnie wouldn't constantly get into trouble..." to "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Janet's main attack damage was increased to 980 (from 940).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 6 hits (from 7).|Change=Buff}}
+**{{Balance|Content=Janet's Drop The Bass Gadget damage was increased to 157 (from 150) per second.|Change=Buff}}
+**{{Balance|Content=Janet's rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+**{{Balance|Content=Janet and her skins' Super visual effects were slightly reworked.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Janet's Super damage was increased to 800 (from 600) per bomb.|Change=Buff}}
+**{{Balance|Content=Janet's Super recharge rate was increased by 33%.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Janet's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Janet's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Janet's main attack damage was increased to 1000 (from 980).|Change=Buff}}
+**{{Balance|Content=Janet's Drop The Bass Gadget damage was increased to 160 (from 157) per second.|Change=Buff}} 
+*01/07/24:
+**{{Balance|Content=Fixed a bug with Janet's Drop The Bass Gadget.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Janet's Magnum Opus Hypercharge was added.|Change=Neutral}}
+*17/12/24:
+**{{Balance|Content=The Jolly Janet skin was added. It was featured as a Brawlidays skin.|Change=Neutral}}
+*18/12/24:
+**{{Balance|Content=Janet no longer returns to the starting point of her first Super when using her Hypercharged Super just after landing.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Janet's Magnum Opus Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*04/04/25:
+**{{Balance|Content=The Firewing Janet skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Janet's level up damage was decreased to 4% (from 9%) in [[Brawl Arena]].|Change=Nerf}}
+*30/06/25:
+**{{Balance|Content=Janet's level up health was decreased to 500 (from 650) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where Janet's Super kept the Hypercharge behavior after being used once.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Fixed an issue with Janet's damage scaling in Brawl Arena.|Change=Neutral}}
+*13/08/25:
+**{{Balance|Content=Fixed an issue where Janet's Super was not working while carrying the trophy in [[Trophy Thieves]].|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=The Tricky Janet skin was added. It was featured as a Subway Surfers skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Janet's Magnum Opus Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Janet's Magnum Opus Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Janet's health was increased to 3400 (from 3200).}}
+*25/02/26:
+**{{Balance|Buff|Janet's main attack projectile speed was increased to 3650 (from 3500).}}
+**{{Balance|Buff|Janet's Drop the Bass Gadget cooldown was decreased to 18 seconds (from 20).}}
+*22/04/26:
+**{{Balance|Nerf|Janet can no longer activate her Hypercharge during her Super.}}
+**{{Balance|Neutral|Using Janet's Super is now always in the direction she is facing.}}
+*28/04/26:
+**{{Balance|Neutral|The Uravity: Janet skin was added. It was featured as a My Hero Academia skin.}}
+*01/09/26:
+**{{Balance|Buff|Janet's main attack damage was increased to 1100 (from 1000).}}
+**{{Balance|Buff|Janet's Super charge rate was increased to 77 (from 70).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Janet's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Content=Janet's level up damage was decreased to 3% (from 4%) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Neutral|Fixed Janet turning into a prop while flying during her Super.}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=G-Force|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1 = Max Force|Rarity1=Rare
+|Name2=Popstar|Cost2 = Free from Starr Nova Boxes or 79 Gems|Campaign2 = THE GOOD RANDOMS|Rarity2=Super Rare
+|Name3=Jolly|Cost3 = 79 Gems • '''S'''|Campaign3 = Brawlidays|Rarity3=Super Rare
+|Name4=Dark Fairy|Cost4 = Free from Gigi Boxes or 149 Gems|Campaign4 = Enchanted Woods|Rarity4=Epic
+|Name5=Firewing|Cost5 = Free from Cosmo Boxes or 149 Gems|Campaign5 = Supercell Make|Campaign5_2 = Brawl Unite|Rarity5=Epic
+|Name6=Tricky|Cost6 = Free from Boom Boxes or 149 Gems • '''S'''|Campaign6=Subway Surfers|Rarity6=Epic
+|Name7=Uravity|Cost7= Free from the Uravity: Janet Challenge! or 149 Gems • '''S'''|Campaign7=My Hero Academia|Rarity7=Epic
+|Name8=Lunar|Cost8 = Free from Starr Nova Boxes or 199 Gems|Campaign8=Lunar Stories|Rarity8=Mythic
+|TrueSkins = yes
+|NameP1=Valkyrie|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2 = Northern Saga|RarityP1=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Janet
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Valkyrie}}
+{{Pin Table|G-Force|GG}}
+{{Pin Table|Popstar}}
+{{Pin Table|Dark Fairy}}
+{{Pin Table|Lunar|Special}}
+{{Pin Table|Jolly|Special}}
+{{Pin Table|Firewing}}
+{{Pin Table|Tricky|Thanks}}
+{{Pin Table|Uravity|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Janet|Rarity = Common}}
+|{{Spray|Type = Janet Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Dark Fairy Janet|Rarity = Common}}
+|{{Spray|Type = Lunar Janet|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Janet1}}
+|{{Pfp|Janet2}}
+|{{Pfp|Janet3}}
+|{{Pfp|Janet4}}
+|{{Pfp|Popstar Janet}}
+|-
+|{{Pfp|Dark Fairy Janet}}
+|{{Pfp|Lunar Janet}}
+|{{Pfp|Valkyrie Janet}}
+|{{Pfp|Firewing Janet}}
+|{{Pfp|Tricky Janet}}
+|-
+|{{Pfp|Uravity Janet}}
+|
+|
+|
+|
+|}
+
+{{Navigation}}
+[[es:Janet]]
+[[ru:Джанет]]

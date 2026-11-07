@@ -1,0 +1,212 @@
+{{FutureUpdate}}{{Protection}}{{MagicWords}}
+{{Brawler Infobox
+|Title = Triple Threat
+|PrestigeTitle = Toadally Awesome 
+|Rarity = Legendary|Class = Artillery
+|MovementSpeed = 750 (Normal)
+|VoiceActor = Martin Schjøler
+<!-- Health -->
+|HealthLabel = Health|Health = 3500
+<!-- Attack -->
+|AttackRange = 8.67 (Long)|Reload = |AttackSuperCharge = |AttackSpeed = 4000<br>3500 (recall)|AttackWidth =
+|AttackLabel = Frog Damage|Attack = 480
+|AttackLabel2 = Area Damage|Attack2 = 1050
+|AttackLabel3 = Edge damage|Attack3 = 1500
+<!-- Super -->
+|SuperSpeed = |SuperRange = |SuperSuperCharge = |SuperBullets = |SuperSpread = |SuperNumber=3
+|SuperLabel = Damage|Super = 1500
+|SuperLabel2 = Central damage|Super2 = 1950
+<!-- Gadget -->
+|Gadget1Name=Double Jumpers|Gadget1Label=|Gadget1=|Gadget1Cooldown=13 seconds|Gadget1Range =
+|Gadget2Name = Soothing Shock|Gadget2Label=Healing|Gadget2=3200|Gadget2Cooldown=18 seconds
+<!-- Star Power -->
+|StarPower1Name=Leech Landing|StarPower1Label=Healing (Edge)|StarPower1=1800|StarPower1Label2=Healing (Central)|StarPower12=2340
+|StarPower2Name=|StarPower2=|StarPower2Label=
+<!-- Hypercharge -->
+|HyperchargeMultiplier=25%|AttackHyperchargeCharge=5.175%
+<!-- Other Links -->
+|Previous=Nori|Next=Kaze}}
+{{Quote|Zap, Zee and Volt are the Thunder Frogs! Gifted a magical hat by [[Ziggy]], they can now safely perform their electrifying routine. While all frogs are natural conductors, Thunder Frogs' onstage tricks REALLY shock the audience.}}{{Portrait}}
+Thunder Frogs (also known as Zap, Zee, and Volt) are a {{Rarity|Legendary}} [[Brawler]] that have moderate health, a long attack range, a variable damage output, and immense utility with their Super. They will be the 109th Brawler added to the game. Their main attack launches Zee then Volt to a target location and damages enemies in a triangle area with Zap's current location when both are thrown, with more damage at the edges. Their Super transforms them into one big frog that jumps to a location, dealing damage to enemies around them, with more damage in the center. It can be used up to three times. Thunder Frogs' first Gadget, Double Jumpers, allow their next attack to throw both frogs in a triangle formation and instantly deal damage to all enemies within the area. Their second Gadget, Soothing Attack, makes their attack heal allies. Their first Star Power, Leech Landing, partially heals Thunder Frogs after using their Super on enemies. Their second Star Power, Swamp Stomps, temporarily slows enemies that are caught on the edges of the attack. Their Hypercharge makes them leave markings where they land, and the markings connect after the three jumps, damaging enemies caught in the triangle, similar to the main attack.
+
+== Attack: Triangle Trick ==
+{{Quote|A frog jumps to a location, dealing area damage. Once the 2nd frog has jumped, electricity surges between the 3 in a triangle of area damage before they hop back together. The sides of the triangle deal more damage than the center.}}
+Thunder Frogs has two ammo bars that do not reload until all of them are used up or upon defeat, similar to [[Lumi]]. For their first ammo, Zap launches Zee to a target location, who remains at the landing spot. The second ammo launches Volt, making the triangle area between the two frogs that were launched and Zap's current location electrocute enemies in the area, dealing damage. Both frog launches deal a small amount of damage if they land directly onto enemies. If any enemies are caught at the edge, they will take extra damage.
+
+== Super: Frogzilla ==
+{{Quote|The Thunder Frogs' best trick. They combine into ONE BIG FROG, which can jump 3 times, dealing area damage (with more damage at the center). The third jump is the biggest. After the 3 jumps are used, or the timer runs out, the Thunder Frogs return to normal.}}
+Upon use, Zap, Zee, and Volt merge into one large frog. They can use the Super thrice. Thunder Frogs leap to a location and deal damage to enemies within an area, and dealing more damage to enemies at the center of the landing spot. The last jump has further range than the first two jumps. During the Super, Thunder Frogs cannot use their normal attack: the attack joystick is grayed out during the Super.
+
+== Gadgets ==
+=== Double Jumpers ===
+{{Quote|Launch two Thunder Frogs! Requires full ammo to use and uses all ammo.}}{{Gadget|1}}
+After using this Gadget, the next attack will throw Zee and Volt simultaneously in an isosceles triangle formation, dealing damage instantly to all opponents within the area. This Gadget can be used only when Thunder Frogs has two ammo and will consume both of them.
+
+=== Soothing Shock ===
+{{Quote|Thunder Frogs' next main attack triangle heals allies inside for 4000.}}
+{{Gadget|2}}
+After using this Gadget, the next triangle area created by Thunder Frogs' attack will heal all allies within the area. Thunder Frogs will also be healed.
+
+== Star Powers ==
+=== Leech Landing ===
+{{Quote|Damage from Super jumps also heals Thunder Frogs for 75% of the damage dealt.}}{{StarPower|1}}
+When jumping on enemies using Thunder Frogs' Super, they will heal by 75% of the damage dealt. Since they deal higher damage when landing directly on enemies, they also heal more if they hit enemies at the center.
+
+=== Swamp Stomps ===
+{{Quote|Sides of the main attack triangle now slow enemy movement speed by 15% for 2 seconds.}}{{StarPower|2}}
+With this Star Power equipped, Thunder Frogs' triangle area slows enemies caught on the edges by 15% for 2 seconds. Note that enemies inside the area are unaffected by this slowing bonus.
+
+== Hypercharge: Triple the Tricks ==
+{{Quote|The triangle formed by your three Super jumps deals 2100 area damage and 3000 on the sides}}{{Hypercharge}}
+Upon activation, Thunder Frogs' Super allows them to leave a triangular marking on the ground when they jump, and after the third jump, the landing spot and two marked locations will all triangulate and damage enemies on the edge or within the area, similar to the main attack. They also gain a 20% speed boost, and a 5% damage and shield boost.
+
+==Tips==
+=== Game Modes and Maps   ===
+*
+
+=== Recommended Build ===
+*
+
+=== Strategies ===
+*
+
+=== Other ===
+*
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = thunder frogs start 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|{{Ogg|Filename = thunder frogs hurt 01.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs kill 01.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs die 01.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs atk 01.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs ulti 01.ogg|Filedescription = Thunder Frogs croak}}
+|-
+|{{Ogg|Filename = thunder frogs start 02.ogg|Filedescription = Thunder Frogs croak}}
+|
+|{{Ogg|Filename = thunder frogs hurt 02.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs kill 02.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs die 02.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs atk land 01.ogg|Filedescription = Thunder Frogs croak}}
+|{{Ogg|Filename = thunder frogs ulti 02.ogg|Filedescription = Thunder Frogs croak}}
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs atk return 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs atk throw volt 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs atk throw zee 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs volt atk 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs volt atk 02.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs zap atk 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs zap atk 02.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs zee atk 01.ogg|Filedescription = Thunder Frogs croak}}
+|
+|-
+|
+|
+|
+|
+|
+|{{Ogg|Filename = thunder frogs zee atk 02.ogg|Filedescription = Thunder Frogs croak}}
+|
+|}
+
+<!--==Thunderfrogs Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Thunderfrogs}}
+
+==History==
+
+==Cosmetics==
+===Skins===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Thunderfrogs
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Thunderfrogs|Rarity = Common}}
+|{{Spray|Type = Thunderfrogs Volt|Rarity = Common}}
+|{{Spray|Type = Thunderfrogs Eye|Rarity = Common}}
+|{{Spray|Type = Thunderfrogs Hypercharge|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Thunderfrogs1}}
+|{{Pfp|Thunderfrogs2}}
+|{{Pfp|Thunderfrogs3}}
+|{{Pfp|Thunderfrogs4}}
+|}
+-->
+{{Navigation}}
+[[es:Thunderfrogs]]
+[[ru:Громожабы]]

@@ -1,0 +1,265 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Creepy|PrestigeTitle = Buggin' Out|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3400 |AttackRange = 8.33 (Long)|Reload = 1.45 seconds (Fast)|AttackSuperCharge = 26%|AttackLabel = Damage|Attack = 1100|AttackSpeed= 4000|SuperSpeed = 3200|SuperRange = 9 (Long)|SuperSuperCharge = 17%|SuperLabel = Damage|Super = 400|SuperLabel2 = Bonus damage per moth|SuperBullets=1 (Barista Barrage)<br>3 (Barista Barrage 2)<br>5 (Barrista Barrage 3)<br>7 (Barista Barrage 4)|Super2 = 20|SuperSpread = 50° (Barista Barrage 2)<br>90° (Barista Barrage 3+)|VoiceActor =Unknown |Gadget1Name=Hot Coffee|Gadget1=1760|Gadget1Label=Damage|Gadget1Cooldown=15 seconds|Gadget1Range = 9.33 (Very Long)|Gadget2Name = Metamothosis|Gadget2Cooldown=13 seconds|StarPower2Name=Bug Bandage|StarPower2=1080|StarPower2Label=Heal|HyperchargeMultiplier=30%|AttackHyperchargeCharge=7.8%|SuperHyperchargeCharge=5.001%|Previous=Cosmo|Next=Rey|AttackWidth=0.67}}
+{{Quote|Vince tends to both the espresso machine and his many-legged friends, much to his customers' dismay. He walks slowly around his Creepy Café, careful not to step on any of his beloved bugs. His companions, Mocha and Doppio, follow him everywhere.}}{{Portrait}}
+Vince is a {{Rarity|Mythic}} [[Brawler]], who has moderate health, a long attack range, an extreme damage potential, immense utility with his Super, and a fast reload speed. He is the 108th Brawler added to the game. His Trait causes collectible caterpillars to spawn in the area which strengthen his Super. His main attack fires a cup of coffee that deals moderate damage to a single target. His Super debuffs enemies and causes them to take increased damage from his main attack depending on the amount of moths in his collection. Vince's first Gadget, Hot Coffee, allows him to toss a projectile in a considerable radius that deals area damage. His second Gadget, Metamothosis, lets Vince turn nearby caterpillars into moths while doubling the amount he would normally receive. His first Star Power, Come to Papa, causes otherwise stationary caterpillars to slowly crawl towards Vince, easing collection. His second Star Power, Bug Bandage, heals Vince for each moth he collects. His Hypercharge, Bug Swarm, makes his Super spawn 6 Hypercharged around him that chase down the nearest enemies to damage them.
+
+== Trait ==
+{{Quote|Caterpillars periodically spawn near Vince. Hitting them or walking over them turns them into moths for his collection. Vince loses 50% of his moth when defeated (remaining moth are rounded down).}}{{Trait|Caterpillar}}
+A caterpillar, up to five, will spawn near Vince every few seconds. The spawn pattern is cyclical; a caterpillar spawns 4 seconds in, then 5 seconds, and finally 6. The cycle then repeats. When Vince hits them with a coffee attack or walks over, they turn into a moth in his collection. Vince loses 50% of his collection when defeated, rounded down if an odd number. There is no limit on the number of caterpillars that can be collected. Caterpillars are also specific to each Vince in the game, so collecting teammates' or enemies' caterpillars is not possible. Caterpillars don't despawn nor be destroyed, and all projectiles will phase through. Caterpillars stop spawning once Vince collects 99 of them. 
+
+== Attack: Espresso Shot ==
+{{Quote|Vince serves up a fresh cup of coffee, dealing damage.}}
+Vince fires a cup of coffee that deals moderate damage to enemies. The attack can also be fired at caterpillars to turn them into moths.
+
+== Super: Barista Barrage ==
+Vince's Super functions differently based on the amount of moths in Vince's collection, gaining a gimmick on top of previous ones for each of the Super's 4 possible stages. The main idea is that he fires one or multiple projectiles that debuffs any enemy hit, causing them to receive more damage from his main attacks. His Super first upgrades at 5 moths, then at 10, and finally at 20.
+
+===Barista Barrage===
+{{Quote|Shoots a single projectile, inflicting a caterpillar debuff. Main Attacks deal bonus damage when hitting an opponent with a Caterpillar debuff.}}
+Vince fires a projectile around the width of [[Gus]]' main attack. If hit, it deals damage (plus 5% per moth) and debuffs the enemy for 10 seconds, who will take 4.5% extra damage per moth from Vince's main attack. The projectile pierces brawlers and environment alike.
+
+===Barista Barrage 2===
+{{Quote|With 5+ moths in Vince's collection, his Super shoots 3 projectiles, inflicting a caterpillar debuff. Additionally, it reloads 1 ammo for each Brawler hit.}}
+At 5+ moths, Vince fires two additional projectiles with a slight spread, similar to [[Clancy]]'s Stage 3 attack. These projectiles cause the same effect, but Vince now reloads 1 ammo for every enemy hit. Only 1 projectile per Super can deal damage to an enemy.
+
+===Barista Barrage 3===
+{{Quote|With 10+ moths in Vince's collection, his Super shoots 5 projectiles, inflicting a caterpillar debuff. Additionally, it reloads 1 ammo for each Brawler hit and bounces to nearby enemies.}}
+At 10+ moths, Vince fires another 2 extra projectiles in a larger spread. Similarly to Barista Barrage 2, they reload Vince's ammo when hitting enemies, but they now also bounce to up to 1 nearby enemy on hit, causing the same effect.
+
+===Barista Barrage 4===
+{{Quote|With 20+ moths in Vince's collection, his Super shoots 7 projectiles, inflicting a caterpillar debuff. Additionlly, it reloads 1 ammo for each Brawler hit, bounces to nearby enemies, and slows them.}}
+Finally, at 20+ moths, Vince fires 2 more projectiles. This time, however, the overall spread stays the same and the projectiles simply become more densely packed. On impact, the projectiles do everything it does in its previous stage, but also slow affected enemies.
+
+==Gadgets==
+===Hot Coffee===
+{{Quote|Vince throws an explosive cappuccino, dealing area damage. Cooldown: 15 seconds.}}{{Gadget|1}}
+Vince throws an aimable cappuccino over walls, which deals area damage equal to one of his main attacks without any moths but is still affected by his Super's caterpillar debuff. It can also be thrown one tile further than his main attack. While not mentioned in its description, using this Gadget does consume 1 ammo. Caterpillar(s) can be collected if hit by the cappuccino, as if they were hit by a main attack.
+
+===Metamothosis===
+{{Quote|Vince turns all nearby caterpillars into moths, gaining an additional moth for each collected. Cooldown: 13 seconds.}}
+{{Gadget|2}}
+Vince collects all caterpillars within a large radius and gains 2 moths (instead of 1) for each.
+
+==Star Powers==
+===Come to Papa===
+{{Quote|Nearby caterpillars crawl towards Vince.}}{{StarPower|1}}
+Instead of being stationary, spawned caterpillars will slowly move towards Vince.
+
+===Bug Bandage===
+{{Quote|Turning a caterpillar into a moth heals Vince for 1200.}}{{StarPower|2}}
+Collecting a caterpillar heals Vince for 17.65% of his health. This also works with caterpillars collected by Metamothosis.
+
+==Hypercharge: Bug Swarm==
+{{Quote|Vince's Super is always at max power and releases 6 Hypercharged caterpillars around him.}}{{Hypercharge}}
+When activated, Vince's Super is at Barrista Barrage 4, and releases 6 Hypercharged caterpillars around him that follow and attack the closest enemies. The Hypercharged caterpillars have 2200 health, deal 500 damage each, and decay by 10% of their health per second until they're destroyed, lasting up to 10 seconds if they don't take any damage. Once the caterpillars are done, they each into moths in his collection. Vince also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*Vince excels in modes where he's given time to collect his caterpillars and is faced with little threat from other Brawlers, making him a powerhouse in both [[Knockout]] and [[Wipeout]], where both teams tend to play defensively and allow Vince to stockpile power and dominate the endgame.
+**In contrast, Vince is weak in high-intensity game modes such as [[Brawl Ball]] or [[Brawl Hockey]], where his gimmick prevents him from being at his full potential for most of the game and often puts him in skirmishes that he can't win.
+*Vince's Super has an exceptionally wide range when fully upgraded, making him quite valuable for crowd control in 5V5 game modes, especially since the longer play times and larger maps give him time and space to gather more caterpillars.
+*While he is given plenty of time to collect caterpillars in [[Brawl Arena]], Vince must be careful not to get ambushed without his Super in Brawl Arena, as his base damage scaling is rather poor. He is excellent for taking care of bot swarms or finishing off aggressive enemies with his Super.
+**Since his fully upgraded Super can bounce off of bots, which act similarly to Brawlers, Vince can use this to bounce multiple shots from a bot horde into a single Brawler, allowing him to deal monstrous amounts of damage, while his Hypercharge's caterpillars shred through the health of turrets and the kaiju alike.
+**With a defensive team or even just a teammate that offers extra survivability (such as [[Poco]] or [[Doug]]), Vince can accumulate upwards of 40 caterpillars in a single game, allowing him to out-damage the healing of more resilient Brawlers used in the game mode, such as Doug or [[Kenji]].
+*Vince's usefulness in [[Hot Zone]] depends on the map; more open maps such as Ring of Fire let him gather caterpillars and fight back more easily, while more closed maps like Parallel Plays leave him vulnerable to aggressive Brawlers and make gathering caterpillars more difficult.
+*Vince is very capable of assassinating gem carriers in [[Gem Grab]] and is a powerful defensive Brawler, making him good at supporting his team's gem carrier and stopping aggressive Brawlers diving for the gems. Owing to his poor ability to protect himself, he is a poor pick for gem carrier.
+*As his Super doesn't work on the Safe, Vince is a terrible pick in [[Heist]] as while capable of defending his own Safe, he is unable to deal substantial damage.
+*Camping in [[Showdown]] may not work effectively even without the Come to Papa Star Power because the presence of a caterpillar in the vicinity can warn other players that Vince is nearby (since they spawn near Vince). The caterpillars may also die in the poison smoke, making collection harder at later stages.
+
+===Recommended Build===
+*It is imperative that Vince stay on the field for as long as possible, so as to allow him to accumulate as many caterpillars as possible. As such, the Shield Gear is a good option for protecting him from enemy attacks and allowing him to explore more safely.
+*Since he will spend a good portion of his time gathering caterpillars, Vince will often be out of combat and needs to heal to get back into the action. As such, the Healing Gear is useful as he can quickly recuperate and assist his teammates.
+*While the Damage Gear can boost his damage enough that he can take down most Brawlers quickly with his Super-enhanced attack, he is too frail to regularly be in a comfortable position to do this, making this gear a niche pick. 
+*Come To Papa doesn't make the caterpillars move very fast, doesn't offer much needed survivability and also betrays Vince's location to enemies, making it the less ideal Star Power. It can be decent on very open maps, however, where Vince may be too busy dodging to go to their location and prevent his movement from being too predictable for enemies.
+*Hot Coffee not only extends the range of Vince's attack but also makes it deal AOE damage, making it perfect for finishing off marked mobs or taking down opponents hiding behind walls. It is best used in modes and maps wherein opponents tend to come in large mobs, such as Brawl Arena or maps with choke points, and can be used to surprise opponents that are escaping.
+**It also doesn't count as one of Vince's ammo, meaning that he can use Hot Coffee as a fourth attack, which when combined with his Super boost is often enough to finish off most Brawlers.
+*Metamothosis should be used in a pinch when Vince is being attacked but has his Super and is in an area with many caterpillars, as it will immediately buff his boosted damage and let him take out the enemy quickly. Alternatively, it is good for collecting all caterpillars nearby quickly if they're hard to access or find, and can buff his damage to change the tide.
+**Additionally, with his Bug Bandage Star Power, he can use this Gadget as a source of quick healing if there are many caterpillars nearby.
+*As Vince is rather frail and often exposes himself to danger searching for caterpillars, his Bug Bandage Star Power allows him to heal constantly while getting more of them.
+
+===Strategies===
+*Despite his immense damage potential, Vince is very weak by himself and as such, should play more passively than most Damage Dealers, collecting caterpillars, staying alive and getting occasional shots in to charge his Super. Even then he should try to use his Super to support teammates and dissuade an enemy charge.
+**Since Vince is quite frail and his attack can slightly clip through walls, one should strafe backwards while firing to charge up a Super and escape damage.
+*Vince's Super and damage are mediocre below 10 caterpillars, so play passively until you get more than 10, after which his damage and area control capabilities are raised greatly.
+*Since his Super pierces walls, Vince can team wipe with a caterpillar count of 20+ by hiding behind a wall near a chokepoint, launching his Super and then emerging to attack them.
+*Always keep your Super at the ready, as if ambushed by another Brawler it can make the difference between winning or getting defeated.
+*Ammo conservation is very important with Vince, as his ammo is used both for offence and collecting caterpillars, forcing him to conserve it carefully. As such, try to position yourself so that you can collect multiple caterpillars with a single shot, or even hit Brawlers with a shot meant for collection.
+*If fired right next to one of his caterpillars, Vince can actually make his attack pierce. This makes him able to fight off crowds when nearby caterpillars, though use cases of this are very niche.
+*After collecting twenty caterpillars, de-prioritise caterpillar collection since maximum Super power is achieved at twenty caterpillars. However collecting caterpillars may still be beneficial as the additional damage dealt scales with the number of caterpillars collected and can provide a cushion to avoid losing the Super upgrade once defeated.
+*Since Vince's Hypercharge spawns the caterpillars around him, it is useful for blocking shots or distracting assassins, making it a potent anti-aggro tool. The caterpillars are also incredibly useful for shredding immobile targets, such as the Brawl Arena turret.
+
+===Other===
+*On bushy maps, Vince's caterpillars may be hard to see. As such, try to remember roughly where they spawned, which is indicated by a green splash, and watch out for their heads peeking out of the grass from time to time.
+*While Vince's caterpillars cannot be damaged by Brawlers, they are still counted as summons and are instantly defeated by neutral sources of damage, such as the poison smoke. Take note of this in modes or maps where such threats are present, such as Showdown or Knockout.
+**Additionally, they are capable of activating Brawler-activated entities such as teleporters, launch pads, and [[Bo]]'s mines, as well as uncloaking invisible opponents near them, so take note of this when fighting against Vince or using him against such Brawlers.
+*Unlike other stockpile Brawlers, Vince can increase his power without engaging in fights, meaning that he is dangerous to ignore. Try to take him out as soon as possible, preventing him from upgrading his Super early, and keep up constant pressure to prevent him from re-accumulating caterpillars and dwindle his existing collection by taking him out.
+*Vince only has his Hypercharge to defend himself and is very weak to aggressive Brawlers, so stick near Brawlers with crowd control abilities and play defensively to limit advances. Keep his Super in reserve in case of any assassination attempts so he can finish them off quickly.
+*Vince's Super mark cannot bounce from summons and is absorbed by them, so try not to attack Brawlers hiding behind them.
+*Vince's caterpillars are visible to everyone on the map, so it's often a safe bet to camp out nearby them to ambush a Vince.
+*As the hitboxes of his caterpillars are very small when compared to other collecting Brawlers like [[Pierce]] and spawn rather far away, Vince should prioritise using his ammo to collect them instead of walking over, as the latter method is quite time consuming and can make you give up good positioning.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = vince start vo 01.ogg|Filedescription = "Welcome to Creepy Café."}}
+|{{Ogg|Filename = vince lead vo 01.ogg|Filedescription = "Master of maggots."}}
+|{{Ogg|Filename = vince hurt vo 01.ogg|Filedescription = "Careful, you'll upset the bugs."}}
+|{{Ogg|Filename = vince kill vo 01.ogg|Filedescription = "Don't let the brawl bugs bite."}}
+|{{Ogg|Filename = vince die vo 01.ogg|Filedescription = "Closing time."}}
+|{{Ogg|Filename = vince atk vo 01.ogg|Filedescription = "Larva latte to go."}}
+|{{Ogg|Filename = vince ulti vo 01.ogg|Filedescription = "Magnificent metamorphosis."}}
+|-
+|{{Ogg|Filename = vince start vo 02.ogg|Filedescription = "I saved you a seat, near the beetles."}}
+|{{Ogg|Filename = vince lead vo 02.ogg|Filedescription = "One hundred stars from the millipedes."}}
+|{{Ogg|Filename = vince hurt vo 02.ogg|Filedescription = "Please, the spiders are napping."}}
+|{{Ogg|Filename = vince kill vo 02.ogg|Filedescription = "Table's free now."}}
+|{{Ogg|Filename = vince die vo 02.ogg|Filedescription = "I'll see myself out."}}
+|{{Ogg|Filename = vince atk vo 02.ogg|Filedescription = "One doppio."}}
+|{{Ogg|Filename = vince ulti vo 02.ogg|Filedescription = "From grub to glory."}}
+|-
+|{{Ogg|Filename = vince start vo 03.ogg|Filedescription = "Mocha, Doppio, behave."}}
+|{{Ogg|Filename = vince lead vo 03.ogg|Filedescription = "King of crawlies!"}}
+|{{Ogg|Filename = vince hurt vo 03.ogg|Filedescription = "Like moth to flame, I won't forget your name."}}
+|{{Ogg|Filename = vince kill vo 03.ogg|Filedescription = "Oh, you made a big mess."}}
+|{{Ogg|Filename = vince die vo 03.ogg|Filedescription = "The maggots will feast tonight."}}
+|{{Ogg|Filename = vince atk vo 03.ogg|Filedescription = "House blend."}}
+|{{Ogg|Filename = vince ulti vo 03.ogg|Filedescription = "Beautiful, aren't they?"}}
+|-
+|{{Ogg|Filename = vince start vo 04.ogg|Filedescription = "Do say hello. They won't."}}
+|{{Ogg|Filename = vince lead vo 04.ogg|Filedescription = "The hive has spoken."}}
+|{{Ogg|Filename = vince hurt vo 04.ogg|Filedescription = "Oh! Interesting color."}}
+|{{Ogg|Filename = vince kill vo 04.ogg|Filedescription = "Please, leave a tip."}}
+|{{Ogg|Filename = vince die vo 04.ogg|Filedescription = "Time to molt."}}
+|{{Ogg|Filename = vince atk vo 04.ogg|Filedescription = "Maggot matcha."}}
+|{{Ogg|Filename = vince ulti vo 04.ogg|Filedescription = "Flutter free, and full of glee."}}
+|-
+|{{Ogg|Filename = vince start vo 05.ogg|Filedescription = "The coffee's just incidental."}}
+|{{Ogg|Filename = vince lead vo 05.ogg|Filedescription = "Leading the infestation, so proud."}}
+|{{Ogg|Filename = vince hurt vo 05.ogg|Filedescription = "I don't mind pain, I mind the mess."}}
+|{{Ogg|Filename = vince kill vo 05.ogg|Filedescription = "The bugs have been expecting you."}}
+|{{Ogg|Filename = vince die vo 05.ogg|Filedescription = "The cocoon calls my name."}}
+|{{Ogg|Filename = vince atk vo 05.ogg|Filedescription = "Medium mothy mocha."}}
+|{{Ogg|Filename = vince ulti vo 05.ogg|Filedescription = "From hungry caterpillar to voracious butterfly!"}}
+|-
+|{{Ogg|Filename = vince start vo 06.ogg|Filedescription = "The beans are fresh, the bugs are fresher."}}
+|{{Ogg|Filename = vince lead vo 06.ogg|Filedescription = "Bugs are beautiful."}}
+|{{Ogg|Filename = vince hurt vo 06.ogg|Filedescription = "Watch your steps around here."}}
+|{{Ogg|Filename = vince kill vo 06.ogg|Filedescription = "You are my special customer."}}
+|{{Ogg|Filename = vince die vo 06.ogg|Filedescription = "First I brawl, now I crawl."}}
+|{{Ogg|Filename = vince atk vo 06.ogg|Filedescription = "Cup of crawlies."}}
+|{{Ogg|Filename = vince ulti vo 06.ogg|Filedescription = "Time to wing it."}}
+|-
+|{{Ogg|Filename = vince start vo 07.ogg|Filedescription = "Oh, you found a bug in your latte. Lucky you."}}
+|{{Ogg|Filename = vince lead vo 07.ogg|Filedescription = "I might creep, I might crawl, but trust me, I do know how to brawl."}}
+|{{Ogg|Filename = vince hurt vo 07.ogg|Filedescription = "Left some larvae, right where you're standing."}}
+|{{Ogg|Filename = vince kill vo 07.ogg|Filedescription = "Complaints go into a suggestion jar. It's the one full of larvae."}}
+|{{Ogg|Filename = vince die vo 07.ogg|Filedescription = "Caught in a woeful web of wickedness."}}
+|{{Ogg|Filename = vince atk vo 07.ogg|Filedescription = "Six legs, two sugars."}}
+|{{Ogg|Filename = vince ulti vo 07.ogg|Filedescription = "From grub to glam."}}
+|-
+|{{Ogg|Filename = vince start vo 08.ogg|Filedescription = "Your table is ready. Near the hive..."}}
+|{{Ogg|Filename = vince lead vo 08.ogg|Filedescription = "Bug Stars? Oh, yes, please."}}
+|
+|{{Ogg|Filename = vince kill vo 08.ogg|Filedescription = "Eensy weensy spider crawled up the Brawler's back."}}
+|
+|{{Ogg|Filename = vince atk vo 08.ogg|Filedescription = "Enjoy."}}
+|{{Ogg|Filename = vince ulti vo 08.ogg|Filedescription = "The prettiest pain."}}
+|-
+|{{Ogg|Filename = vince start vo 09.ogg|Filedescription = "We've got a lovely corner. Very damp."}}
+|{{Ogg|Filename = vince lead vo 09.ogg|Filedescription = "Keeping it creepy and crawly."}}
+|
+|{{Ogg|Filename = vince kill vo 09.ogg|Filedescription = "They don't like loud customers."}}
+|
+|{{Ogg|Filename = vince atk vo 09.ogg|Filedescription = "Roach ristretto."}}
+|{{Ogg|Filename = vince ulti vo 09.ogg|Filedescription = "Caterpillar, final form!"}}
+|-
+|{{Ogg|Filename = vince start vo 10.ogg|Filedescription = "This blend has a nice body. Several, actually."}}
+|
+|
+|{{Ogg|Filename = vince kill vo 10.ogg|Filedescription = "Java nice day."}}
+|
+|{{Ogg|Filename = vince atk vo 10.ogg|Filedescription = "Centipede cappuccino!"}}
+|{{Ogg|Filename = vince ulti vo 10.ogg|Filedescription = "Witness the wings of wonder!"}}
+|-
+|{{Ogg|Filename = vince start vo 11.ogg|Filedescription = "We serve it black, like the widow."}}
+|
+|
+|
+|
+|{{Ogg|Filename = vince atk vo 11.ogg|Filedescription = "Ant-astic affogatto."}}
+|{{Ogg|Filename = vince ulti vo 11.ogg|Filedescription = "Fly on the wings of love."}}
+|-
+|{{Ogg|Filename = vince start vo 12.ogg|Filedescription = "Mocha, maggots and mayhem."}}
+|
+|
+|
+|
+|{{Ogg|Filename = vince atk vo 12.ogg|Filedescription = "Grub grind, extra foam."}}
+|{{Ogg|Filename = vince ulti vo 12.ogg|Filedescription = "Fly on the wings of love!"}}
+|-
+|{{Ogg|Filename = vince start vo 13.ogg|Filedescription = "Oh, don't be shy. You can pet them."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==Vince Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Vince}}
+
+==History==
+*19/10/26:
+**{{Balance|Neutral|Vince became available in [[Training Cave]].}}
+**{{Balance|Neutral|Vince could be unlocked early from [[Brawl Boxes|Vince Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).}}
+*03/11/26:
+**{{Balance|Neutral|Vince became available in the Brawler Blast.}}
+**{{Balance|Neutral|Vince's Bug Swarm Hypercharge was added.}}
+**{{Balance|Neutral|Vince's True Silver and True Gold skins were added.}}
+**{{Balance|Neutral|Fixed incorrect damage on Vince's Hot Coffee Gadget, whether or not a caterpillar was collected.}}
+**{{Balance|Neutral|Fixed a bug where Vince's Caterpillars moved to his previous position if he stood still after being pushed or pulled.}}
+**{{Balance|Neutral|Fixed damage reduction shields not reducing damage from Vince's caterpillars.}}
+**{{Balance|Neutral|Fixed a bug where Vince's Caterpillars could activate an enemy tower in Brawl Arena without pushing the lane.}}
+
+==Cosmetics==
+===Skins (2)===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Vince
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Vince|Rarity = Common}}
+|{{Spray|Type = Vince Caterpillar|Rarity = Common}}
+|{{Spray|Type = Vince Moth|Rarity = Common}}
+|{{Spray|Type = Vince Hypercharge|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Vince1}}
+|{{Pfp|Vince2}}
+|{{Pfp|Vince3}}
+|{{Pfp|Vince4}}
+|}
+
+{{Navigation}}
+[[es:Vince]]
+[[ru:Винс]]

@@ -1,0 +1,151 @@
+{{Tabber V2
+|tab1  = Dragon Breath
+|tab2  = Dragon Talon
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Dragon Breath
+|source    = Sabi
+|update    = 8
+|sea       = 2/3
+|location  = Kingdom of Rose
+|location1 = Castle on the Sea
+|fragments = 1,500
+}}
+'''Dragon Breath''' is a [[Fighting Styles|fighting style]] obtainable in the [[Second Sea]] and [[Third Sea]].
+
+Dragon Breath allows the user to deal strong damage with fiery-ash based attacks.
+
+==Obtainment==
+Dragon Breath can be learned for {{Fragment|1,500}} from [[Sabi]].
+
+The "{{Title|Dragonborn}}" [[Titles|title]] #0128 will be granted upon obtaining this specific fighting style.
+
+==Mastery==
+* '''300+ Mastery:''' Dragon Breath is one of the requirements to obtain [[Superhuman]] in [[Second Sea]] (or in [[Third Sea]]).
+* '''400+ Mastery:''' Dragon Breath can be "upgraded" to [[Dragon Talon]] in [[Third Sea]].
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Fiery Fists
+|gif      = Dragon Breath M1
+|desc     = The user punches three times before dashing forward with a double handed punch carrying a hint of an orange trail.
+}}
+
+{{Skill
+|key      = Z
+|name     = Dragon Rush
+|mastery  = 100
+|cooldown = 7
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Dragon Breath Z
+|gif1     = Dragon Claw Z landed
+|desc     = The user dashes forward twice, pausing in between to change direction, while engulfed in flames, with slicing-like particles appearing. If the second dash hits as well as the first dash, the damage of the second dash is divided by 10.
+|desc1    = If the dash lands, the user punches the opponent, before going through them.
+}}
+
+{{Skill
+|key      = X
+|name     = Dragon Flames
+|mastery  = 200
+|cooldown = 10
+|energy   = 35
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Dragon Breath X
+|desc     = The user fires two fire dragons from their fists, spiraling them in front of them and doing damage and knockback.
+}}
+
+{{Skill
+|key      = C
+|name     = Dragon Explosion
+|mastery  = 300
+|cooldown = 16
+|energy   = 70
+|break    = yes
+|instinct = Breaks instinct if close, can be dodged on the edge.
+|gif      = Dragon Breath C
+|desc     = The user buries their fists beneath them and creates an explosion with a huge radius that leaves small, fiery rocks sticking out of the ground.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Very cheap.
+* Good range.
+* Great hitboxes.
+* All moves can hit multiple enemies at once.
+* Decent damage.
+
+|'''[Z] Dragon Rush'''
+* Easy to catch people with.
+* Briefly stuns targets.
+
+|'''[X] Dragon Flames'''
+* Decent knockback.
+* Good combo starter.
+
+|'''[C] Dragon Explosion'''
+* Large hitbox.
+* High damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Slow and close-ranged, giving it a disadvantage against ranged weapons.
+* Deals heavy knockback to enemies, making it unsuitable for grinding.
+* All moves lock the user in place
+* Dashes on the fourth click (tap).
+
+|'''[Z] Dragon Rush'''
+*Slow speed.
+* Only movement skill and is still not very good for traveling.
+*Can be hard to hit against moving players.
+
+|'''[X] Dragon Flames'''
+* Short range.
+* Most players will not stay within the flames created by this move, meaning it is almost impossible to execute full damage in PvP.
+
+|'''[C] Dragon Explosion'''
+* Slow startup which does not give I-Frames.
+* Can be avoided easily by dashing or using Flash Step.
+* Terrible for PvP.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Dragon Breath Idle.gif|Idle Stance
+</gallery>
+
+==Trivia==
+* Dragon Breath is the cheapest [[fighting style]] that costs {{Fragment|Fragments}}.
+** Dragon Breath is also the only [[fighting style]] that does not require {{Money|Money}} to purchase.
+* Dragon Breath's name used to be Dragon Claw.
+* Usually, when equipping a [[fighting style]], the system message displays: 'Bought <Fighting Style> for {{Money|<Money>}} and {{Fragment|<Fragments>}}'. However, when equipping Dragon Breath, the message instead reads: 'Activated <Dragon Breath>.'
+
+==Change History==
+{{Change History|8|content=
+{{Update|17.3}}
+* Dragon Breath was reworked.
+----
+{{Update|11}}
+* Dragon Breath's cost ([[Rare Artifact]]) was replaced to {{Fragment|1,500}}.
+----
+{{Update|8}}
+* Dragon Breath was released.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[Category:Upgradable]]
+[[ru:Дыхание Дракона]]

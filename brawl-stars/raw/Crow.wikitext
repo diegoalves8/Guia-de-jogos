@@ -1,0 +1,589 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Caw caw!|PrestigeTitle = Boss of Bosses|Rarity = Legendary|Class = Assassin|MovementSpeed = 855 (Very Fast)|GadgetCharges = 3|HealthLabel = Health|Health = 2800|AttackRange = 8.67 (Long)|Reload = 1.6 seconds (Normal)|AttackBullets = 3|AttackSuperCharge = 7.875%<br>0.45% (poison)<br>0.75% (poison; with Slowing Toxin)|AttackLabel = Damage per dagger|Attack = 320|AttackLabel2 = Poison Damage|Attack2 = 80|SuperRange = 8.67 (Long)|SuperBullets = 28|SuperSuperCharge = 6%<br>0.45% (poison)|SuperLabel = Damage per dagger|Super = 320|SuperLabel2 = Poison Damage|Super2 = 80|AttackSpread=20.25°|AttackSpeed=3261|AttackWidth=|SuperSpeed=3261|Gadget1Name=Instapoison|Gadget1Cooldown=20 seconds|Gadget2Name=Slowing Toxin|Gadget2Cooldown=17 seconds|Gadget2Label=Damage|Gadget2=960|Gadget2Label2=Poison Damage|Gadget22=160|VoiceActor =John Cipriani<br>Matt Silver (Dragonkin Crow) |HyperchargeMultiplier=55%|Previous=Spike|Next=Leon|AttackHyperchargeCharge=4.325%<br>0.225% (poison)<br>0.4% (poison; with Slowing Toxin)|SuperHyperchargeCharge=3.3%<br>0.225% (poison)|Gadget1Duration=2 seconds|Gadget2Duration=2 seconds|Gadget2Range=8.33|SuperSpread=360°}}
+{{Quote|Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with [[Bull]] and [[Bibi]].}}{{Portrait}}
+Crow is a {{Rarity|Legendary}} [[Brawler]] that has low health, a normal reload speed, and a moderately low damaging attack that poisons enemies to deal extra damage over time with his long-ranged daggers. He was one of the 15 Brawlers who released at the first Beta launch. He has great mobility with his Super and his very fast movement speed. He attacks by firing 3 long-ranged daggers that inflict poison on his enemies and decrease healing. Crow's Super makes him jump, throwing poisonous daggers around him upon take-off and landing. His first Gadget, Instapoison, instantly deals remaining poison damage to all enemies, granting him a shield that absorbs damage and decays over time. His second Gadget, Slowing Toxin, throws a kunai that damages, slows, and poisons the enemy. His first Star Power, Extra Toxic, moderately decreases the damage output of a poisoned enemy. His second Star Power, Carrion Crow, makes enemies with less than half of their maximum health take much more damage from Crow's daggers. His Hypercharge, Utility Knives, makes his Super's daggers return to him upon take-off and landing.
+
+==Attack: Switchblade==
+{{Quote|Crow throws a triple threat of daggers. Enemies hit by the poisoned blades will take damage over time and have all healing effects reduced for the duration.}}Crow throws three long-ranged daggers simultaneously with a slight spread. These daggers damage enemies upon contact, while also inflicting poison to enemies over time. Poisoned enemies take a small amount of damage every second for up to 3 ticks. Poison effects do not stack with multiple daggers, but hitting an enemy that is already poisoned will refresh the poison effect's timer. Poisoned enemies have all healing sources reduced by 50%, but this doesn't affect [[Max]]'s Sneaky Sneakers Gadget. The healing reduction lasts for up to 4 seconds after the last hit from a dagger, as opposed to the poison's 3 seconds.
+
+==Super: Swoop==
+{{Quote|Crow takes to the skies, throwing a ring of poisoned daggers around him both on take-off and landing.}}Crow jumps into the air for 1 second and throws 14 daggers around him that spread out as they travel. He then lands, firing another set of 14 daggers around him upon landing, making him throw a total of 28 daggers with one Super. The daggers from his Super behave similarly to daggers from his main attack, but they have a shorter range of 7.33 tiles, and do not suppress healing. While in the air, Crow is completely immune to all damage besides status effects and damage applied over time.
+
+==Gadgets==
+===Instapoison===
+{{Quote|Crow instantly deals remaining poison damage to all Crow-poisoned enemies and gains a shield for 150% of the value. Cooldown: 20 seconds.}}{{Gadget|1}}
+Crow instantly deals remaining poison damage to all enemies, granting him a shield that is 150% of the total poison damage. The shield's health decays, and if an attack deals more damage than the shield's current health, the shield disappears and the Brawler with the shield is damaged by the remaining damage. Colette's attack and Super will deal damage based on the Brawler's max health when this shield is active. 
+
+{{Quote|Refreshes poison duration.}}{{Buffie|Gadget}}
+With the Buffie, the poison duration is also refreshed.
+
+===Slowing Toxin===
+{{Quote|Throw a kunai that damages, slows, and poisons the first enemy hit for 2 sec. Cooldown: 17 seconds.}}{{Gadget|2}}
+When aiming using the Gadget button, Crow throws a kunai that damages, poisons, and slows the enemy by 30% for 2 seconds. The poison damage is slightly higher than his regular poison and stacks on top of it, and also suppresses healing for 4 seconds.
+
+{{Quote|The kunai also bounces to nearby targets, causing the same effect.}}{{Buffie|Gadget}}
+With the Buffie, the kunai bounces toward the next nearest enemy, similarly having the same effect. The bounce range is 6.67 tiles.
+
+==Star Powers==
+===Extra Toxic===
+{{Quote|Crow's poison saps the strength of enemies, who deal 15% less damage while poisoned.}}{{StarPower|1}}
+Crow's daggers apply an attack debuff, decreasing the damage output of a poisoned enemy by 15%. This Star Power only affects damage abilities. Affected enemies have an additional visual effect to indicate that this effect is active; there will be red swords falling down on the enemy. The effect is lost when the poison wears off. 
+
+{{Quote|Crow deals 5% more damage for each enemy poisoned.}}{{Buffie|Star}}
+With the Buffie, Crow also deals 5% more damage to each enemy poisoned.
+
+===Carrion Crow===
+{{Quote|Crow deals +30% damage with his attack and Super to targets with 50% or less health.}}{{StarPower|2}}
+If an enemy has 50% of their maximum health or less, Crow deals 30% extra damage per dagger with his main attack and Super to the enemy. The poison also deals 30% extra damage, so long as the enemy has the poison first applied when they are already below half their maximum health. In addition, their health bar turns pink instead of the usual red to indicate the Star Power's activation. The effect is lost if the enemy heals back above 50% health.
+
+{{Quote|Crow's poison duration is increased by 1 sec.}}{{Buffie|Star}}
+With the Buffie, poisoned enemies take damage every second for up to 4 ticks, instead of regular 3.
+
+==Hypercharge: Utility Knives==
+{{Quote|Crow's knives are piercing and are returning like a boomerang.}}{{Hypercharge}}
+When activated, daggers from Crow's Super now return to him after reaching their maximum range, and can also pierce through enemies. This effect applies to daggers fired when jumping and landing. However, the daggers can't travel through walls when being fired, but can return to Crow through walls. Crow also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attacks also pierce and return after reaching max distance, dealing 30% less damage when returning.}}{{Buffie|Hyper}}
+With the Buffie, daggers from Crow's attack return to him after reaching their maximum range, dealing 30% less damage when returning, and piercing any enemies hit while the daggers are flying forward or traveling back to Crow like the daggers from his Hypercharged Super. Increased Hypercharge duration by 2 seconds.
+
+==Mythic Gear: Enduring Toxins==
+{{RemovedContent|section}}
+{{Quote|Increases Crow's poison damage by 30%.}}{{Gear|Filename=CrowGear}}
+With this Gear equipped, Crow's poison damage from his main attack and Super was increased by 30%, not taking into account any outside damage buffs or debuffs.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Crow's Switchblade now returns to him.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Daggers from Crow's attack returned to him after reaching their maximum range, piercing any enemies hit while the daggers are flying forward or traveling back to Crow like the daggers from his Hypercharged Super. In addition, the daggers from his normal Super also pierced, but do not return to him. The daggers could return to Crow through walls but couldn't be thrown through walls.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attacks now boomerang and return.}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Daggers from Crow's attack returned to him after reaching their maximum range, piercing any enemies hit while the daggers are flying forward or traveling back to Crow like the daggers from his Hypercharged Super. The daggers could return to Crow through walls but couldn't be thrown through walls.
+
+==Tips==
+===Game Modes and Maps===
+*Crow is niche in offense-oriented modes such as [[Showdown]], and his effectiveness in these modes is amplified with his Star Powers. Since surviving while defeating the enemies is the top priority in these modes, Extra Toxic reducing an enemy's damage is a viable tactic. Since Extra Toxic's effect is percentage-based, it also scales with a target's damage, making him better against heavyweights or enemies with a high amount of Power Cubes. Meanwhile, Carrion Crow can be very strong in 1v1 interactions. Early into the game where Power Cubes aren't abundant, Carrion Crow can provide crucial damage required to eliminate an enemy early. The Star Power of choice ultimately depends on play style: Extra Toxic is better for a sustained, controlled game of Showdown while Carrion Crow is better for an aggressive play style that capitalizes on early eliminations.
+*Although Crow is able to bring down enemies' health frequently with his attacks and poison, his low health and damage output makes him ineffective in close-mid range encounters with assassins and tanks without his super or gadget. He also struggles against long-range Brawlers like [[Brock]], [[Piper]], [[Colt]], [[Mandy]], [[8-Bit]], [[Rico]], [[Amber]], [[Bea]], and [[Nani]] on open maps, due to their high damage output and superior range. This makes Crow efficient in mid-range control and assassination, as well as providing vision to enemies hiding in bushes for his team with his poison. He also counters healers since his poison weakens the efficiency of their healing.
+*Crow can somewhat counter tanks, kiting them and dodge their supers with his very fast movement speed.
+
+===Recommended Build===
+*Crow's Extra Toxic Star Power reduces damage dealt by poisoned enemies. This also works on IKE turrets, [[Boss Fight]] Robots, and [[Big Game]] Bosses, making them overall less effective in the long run, and increasing his team's survivability.
+*Crow's Carrion Crow Star Power allows Crow to pick off low-health enemies with ease. Allow your allies to bring an enemy to half health, then poke them down until they're defeated, and the damage boost should allow this to be done quicker than usual.
+*Crow's Defense Booster Gadget should be activated after using Crow's Super to get more value and to be able to play aggressively. His Slowing Toxin Gadget, however, should be activated right before using Crow's Super to block mobility to escape from Crow's Super.
+
+===Strategies===
+*Due to Crow's fast reload speed and fast unload speed, he can unload his attack relatively frequently. This allows him to constantly apply poison and regular damage on enemies, preventing them from healing and charging up his Super all the while.
+*Crow's Super is a fitting assassination tool. Once a Brawler is on low health because of the poison, he can jump on them for a quick defeat. Because the daggers fly out around him, you should position yourself to land onto an enemy, which maximizes the Super's potential. Crow's Super also is a viable escape tool. If he is low on health with enemies approaching, you can use his Super to fly away and escape while also damaging the enemies. His Defense Booster Gadget enables better survivability while using his Super, and his Slowing Toxin Gadget also prevents enemies from chasing Crow or retreating from Crow's Super. This works best with close-ranged Brawlers, as they'll be poisoned and can't reach him to attack him due to Crow's relatively long range. Due to this, Crow excels in modes like [[Takedown]], [[Knockout]] and [[Duo Showdown]].
+*Crow's poison prevents the poisoned Brawler from self-healing for 4 seconds more than the normal healing time (3 seconds), raising the required time for auto-regeneration to be 7 seconds instead (similar to [[El Primo]]'s El Fuego Star Power) since the poison enables damage for an extended period. This exponentially hinders an enemy's ability to regroup with allies and/or recover health. The poison also reveals the enemy when they are inside bushes, so it also prevents enemies inflicted with poison from hiding and healing. For this reason, Crow is a great poker that can finish off low-health enemies or continuously prevent isolated Brawler from healing and force them to retreat.
+**Even if you only land a single dagger on an enemy, the poison can still hinder their ability to retreat and heal, and it will still chip away at their health over time. 
+*To use Crow is to take advantage of his range by poking at the enemy. Attack from a distance and back off to chip away at an enemy's health and charge his Super. While poking, use Crow's fast movement speed to dodge enemy fire. Although poking deals moderate damage each time, especially because other Brawlers are more effective in long-ranged combat than Crow, poking will slowly defeat the enemy and hinder any healing.
+**When dealing with snipers or similar brawlers such as [[Piper]] and [[Colt]], be sure to constantly zigzag while approaching them, throwing off their aim and making hitting you more difficult.
+*Crow's Super can be useful for [[Brawl Ball]]. When Crow has the ball and his Super, he can self-pass by kicking the ball in front of him, and then use his Super to jump past other Brawlers and retrieve the ball, and then attempt to score.
+*Whenever playing him on [[Showdown]] with the [[Modifier|Angry Robo]] Modifier, it's not recommended to play solo as Crow can't deal high damage to the Boss by himself; playing [[Duo Showdown]] with a high-damaging teammate is much more ideal.
+*An advanced aiming tactic is to hit 2 daggers at medium range from an enemy by aiming slightly to the edges. This gets easier the closer an enemy is to him. However, at a certain point, it's simply better to quickfire so all 3 daggers hit a target.
+*Keep in mind how many daggers and/or poison damage Crow requires for his Super. Knowing this can help you decide when to jump to eliminate an enemy and whether you should continue pursuing them as your target.
+*Crow is highly vulnerable to assassins with high mobility, such as [[Mortis]], [[Mico]], [[Buzz]], [[Stu]], [[Cordelius]], Leon, and [[Edgar]], at close range without his Super or help from allies. In these scenarios, it's best to group with them. Attack them at a range, and when they get close, quickly group with a teammate with high damage at close range, such as [[Shelly]], [[Bull]], Fang, [[Leon]], [[Spike]], [[Griff]], El Primo, Buzz, [[Doug]], and [[Darryl]], who could potentially protect him and potentially defeat the enemy.
+*A good strategy in Showdown is to play as a third-party (waiting for a fight to end, defeating the winner, and stealing all of the Power Cubes). You can ramp up Cubes quickly with this strategy. As Crow, you should keep enemies who are on low health after a fight poisoned continuously until they are defeated, since Crow is incapable of dealing high damage immediately.
+*Before using his Slowing Toxin Gadget in 3v3s, make sure that more than 1 target is currently poisoned. For the best use, poison all the three enemies and then use the Gadget to slow all the enemies to make way for teamwipes.
+*An effective strategy is to pair with a Brawler like [[Colette]], [[Surge]], Spike, [[Fang]], [[Emz]], [[Nani]], Stu, Bea, [[Penny]], Brock, Colt, or Piper (at a range) who can bring an enemy down to low health very quickly, and then use his poison and Super to eliminate them without risk of getting defeated. This works very well in modes like [[Duo Showdown]].
+*Crow's Slowing Toxin Gadget can be effective against [[Assassins]], such as [[Lily]], Cordelius, Leon, and Buzz, as well as certain [[Tanks]], such as Bull, [[Rosa]], El Primo, and Darryl, as the slowing from the Gadget can quickly disrupt any sneak attacks, prevent them from rushing you, as well as allowing you to quickly escape, move out of range, or potentially defeat them. 
+
+==Voice Lines==
+{| class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Crow start 01.ogg|Filedescription = "Let's settle this beef."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow start 01.ogg|Filedescription = "Let's settle this beef."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 01.ogg|Filedescription = "Straight from the ashes."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 02.ogg|Filedescription = "Let's settle this beef, dragon roast style!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow lead 01.ogg|Filedescription = "I'm the boss of bosses!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow lead 01.ogg|Filedescription = "I'm the boss of bosses!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 01.ogg|Filedescription = "I soar above all!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds lead vo 01.ogg|Filedescription = "I'm the Don of dragons!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 01.ogg|Filedescription = "You cockroach!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 01.ogg|Filedescription = "You cockroach!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 01.ogg|Filedescription = "You want a flame war?"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 03.ogg|Filedescription = "Hey, watch the wings!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow kills 01.ogg|Filedescription = "Nice piece of work!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow kills 01.ogg|Filedescription = "Nice piece of work!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 01.ogg|Filedescription = "You deserve far more pain!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 01.ogg|Filedescription = "I cooked, huh, you. Hahaha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow dies 01.ogg|Filedescription = "Hey, you clipped me."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow dies 01.ogg|Filedescription = "Hey, you clipped me."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 01.ogg|Filedescription = "Oh, I'm burnt out!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds die vo 01.ogg|Filedescription = "Dragon down! Caw-caw!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Crow ulti 01.ogg|Filedescription = "Ka-kaw!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow ulti vo 01.ogg|Filedescription = "Ka-kaw!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 01.ogg|Filedescription = "Is it hot in here, or is it just me?"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 06.ogg|Filedescription = "Caw caw!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Crow start 02.ogg|Filedescription = "I smell a rat."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow start 02.ogg|Filedescription = "I smell a rat."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 02.ogg|Filedescription = "I'm the spirit of revenge!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 01.ogg|Filedescription = "Will it burn? I'm here to find out."}}
+|'''Normal:'''
+{{Ogg|Filename = Crow lead 02.ogg|Filedescription = "Talk is cheap."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow lead 02.ogg|Filedescription = "Talk is cheap."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 02.ogg|Filedescription = "Just call me the godfeather."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds lead vo 02.ogg|Filedescription = "Caw caw! Top of the food chain!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 02.ogg|Filedescription = "Woah woah woah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 02.ogg|Filedescription = "Woah woah woah!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 02.ogg|Filedescription = "What? That's all you got?"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 02.ogg|Filedescription = "You messed with the wrong dragon!"}}
+|'''Normal''':
+{{Ogg|Filename = Crow kills 02.ogg|Filedescription = "Sleeping with the fishes."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow kills 02.ogg|Filedescription = "Sleeping with the fishes."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 02.ogg|Filedescription = "Feel the burn!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 02.ogg|Filedescription = "You messed with the wrong dragon!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 02.ogg|Filedescription = "Rise like a phoenix!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds die vo 02.ogg|Filedescription = "I'm dra-gone!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 02.ogg|Filedescription = "Leaping without faith!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 02.ogg|Filedescription = "Let's turn up the heat, caw caw!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Crow start 03.ogg|Filedescription = "Don't mess with my crew."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow start 03.ogg|Filedescription = "Don't mess with my crew."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 03.ogg|Filedescription = "Here we go again!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 03.ogg|Filedescription = "Alright, who ordered the apocalypse?"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 03.ogg|Filedescription = "This Crow is ready to glow."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds lead vo 03.ogg|Filedescription = "Caw! Dragon domination!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 03.ogg|Filedescription = "I'm walking here!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 03.ogg|Filedescription = "I'm walking here!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 03.ogg|Filedescription = "What are you chicken?"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 01.ogg|Filedescription = "Hey, I'm flying here! Caw!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow kills 03.ogg|Filedescription = "I always get my mark."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow kills 03.ogg|Filedescription = "I always get my mark."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 03.ogg|Filedescription = "Your time is up!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 03.ogg|Filedescription = "Feel the dragon burn!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 03.ogg|Filedescription = "Oh, too much burning!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds die vo 03.ogg|Filedescription = "Aw, sleeping with the faeries!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 03.ogg|Filedescription = "Firebird!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 03.ogg|Filedescription = "Feel the dragon burn!"}}
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 04.ogg|Filedescription = "Woah woah, one more time!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 04.ogg|Filedescription = "You can't hide from the dragon family!"}}
+||'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 04.ogg|Filedescription = "On fire, but keeping it cool."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds lead vo 04.ogg|Filedescription = "Being a drake is a piece of cake!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 04.ogg|Filedescription = "Get outta here."}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 04.ogg|Filedescription = "Get outta here."}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 04.ogg|Filedescription = "Quit ruffling my feathers!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 04.ogg|Filedescription = "You messed with the dragon fam, big mistake!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 04.ogg|Filedescription = "Oh, cry me a river!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 04.ogg|Filedescription = "No one dodges the dragon!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 04.ogg|Filedescription = "Oh, I don't fall!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds die vo 04.ogg|Filedescription = "Just when I hoped I was out, I get pulled back in!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 04.ogg|Filedescription = "I'm the fire starter!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 04.ogg|Filedescription = "Drake is gonna bake! Caw caw!"}}
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 05.ogg|Filedescription = "I can do this forever!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 05.ogg|Filedescription = "Update: still immortal!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 05.ogg|Filedescription = "I'm gonna roast ya."}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 05.ogg|Filedescription = "You looking at me?"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 05.ogg|Filedescription = "You looking at me?"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 05.ogg|Filedescription = "You're featherweight."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 05.ogg|Filedescription = "Ay, don't mess with the scales!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 05.ogg|Filedescription = "Boo-hoo!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 05.ogg|Filedescription = "You mess with the dragon, you get the fangs!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 05.ogg|Filedescription = "I've been grounded."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds die vo 05.ogg|Filedescription = "I got whacked, tagged, and bagged. Caw caw!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 05.ogg|Filedescription = "Higher than a flaming fire!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 05.ogg|Filedescription = "Watch and burn! Caw caw!"}}
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 06.ogg|Filedescription = "I can go on and on!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 06.ogg|Filedescription = "Don Scalioni in the house!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 06.ogg|Filedescription = "Feeling hot, hot, hot!"}}
+|'''Normal:'''
+{{Ogg|Filename = Crow get hit 06.ogg|Filedescription = "Hey! Watch out!"}}'''Mecha:'''
+{{Ogg|Filename = Mech crow get hit 06.ogg|Filedescription = "Hey! Watch out!"}}'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 06.ogg|Filedescription = "Someone call the fire department."}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds hurt vo 06.ogg|Filedescription = "Argh, taste the talons!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 06.ogg|Filedescription = "Burn, baby, burn!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 06.ogg|Filedescription = "Look at these fangs, they did this to you. Remember the dragon!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow die vo 06.ogg|Filedescription = "I'm gonna crack you like an egg!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow ulti vo 06.ogg|Filedescription = "I'm too hot to handle!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds ulti vo 01.ogg|Filedescription = "Full send, dragon style! Caw caw!"}}
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 07.ogg|Filedescription = "And we're rolling!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds start vo 07.ogg|Filedescription = "Welcome to Don dragons den!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 07.ogg|Filedescription = "Hotter than the sun!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 07.ogg|Filedescription = "You hurt me, emotionally!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 07.ogg|Filedescription = "Burn!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 07.ogg|Filedescription = "Welcome to Don dragons den!"}}
+|
+|
+|
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 08.ogg|Filedescription = "Weather predictions: scorch you!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow lead vo 08.ogg|Filedescription = "Eat my tail feathers!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 08.ogg|Filedescription = "Ah!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 08.ogg|Filedescription = "Roasted!"}}'''Dragonkin:'''
+{{Ogg|Filename = Crow ds kill vo 08.ogg|Filedescription = "Sorry, but you are on my hit list!"}}
+|
+|
+|
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 09.ogg|Filedescription = "Too lit to quit!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 09.ogg|Filedescription = "Oh!"}}
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow kill vo 09.ogg|Filedescription = "You got roasted!"}}
+|
+|
+|
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 10.ogg|Filedescription = "Make it look like an accident!"}}
+|
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow hurt vo 10.ogg|Filedescription = "The burning!"}}
+|
+|
+|
+|
+|-
+|'''Phoenix:'''
+{{Ogg|Filename = Phoenix crow start vo 11.ogg|Filedescription = "Let's light this place up!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*16/08/17:
+**{{Balance|Buff|Crow's main attack and Super damage was increased to 80 (from 60) per dagger.}}
+**{{Balance|Nerf|His total poison damage was decreased to 80 (from 90).}}
+*12/09/17:
+**{{Balance|Nerf|Crow's main attack range was decreased to 8.67 tiles (from 9.33).}}
+**{{Balance|Nerf|Crow's Super now charges slightly slower.}}
+*07/12/17:
+**{{Balance|Buff|Crow's Super effects were reworked and his Super speed is faster.}}
+**{{Balance|Neutral|Crow's Extra Toxic Star Power was added.}}
+**{{Balance|Neutral|The health and damage statistics of all Brawlers were multiplied by 4.}}
+*18/12/17:
+**{{Balance|Nerf|The number of hits necessary to charge Crow's Super was increased to 6 daggers + poison (from 5 daggers + poison).}}
+**{{Balance|Nerf|The poison duration from his main attack and Super was reduced to 4 seconds (from 5).}}
+*16/01/18:
+**{{Balance|Nerf|Crow's Super speed was decreased by 20%.}}
+*09/03/18:
+**{{Balance|Neutral|Crow was given voice lines.}}
+*21/03/18:
+**{{Balance|Buff|Crow's projectile size was increased.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased by 70 points, increasing Crow's base movement speed to 820 (from 750).}}
+**{{Balance|Neutral|All Brawlers' projectile speeds are increased by 9%.}}
+*09/04/18:
+**{{Balance|Nerf|Crow's main attack and Super damage was decreased to 300 (from 320) per dagger.}}
+**{{Balance|Nerf|His poison damage was decreased to 75 (from 80) per second.}}
+*21/05/18:
+**{{Balance|Nerf|The number of hits necessary to charge Crow's Super was increased to 9 daggers + poison (from 6 daggers + poison).}}
+*29/05/18:
+**{{Balance|Nerf|Crow's main attack and Super damage was decreased to 280 (from 300) per dagger.}}
+**{{Balance|Nerf|His poison damage was decreased to 70 (from 75) per second.}}
+*19/06/18:
+**{{Balance|Neutral|The Phoenix Crow skin was added.}}
+*05/12/18:
+**{{Balance|Buff|The number of hits necessary to charge Crow's Super was decreased to 8 daggers + poison (from 9 daggers + poison).}}
+*27/02/19:
+**{{Balance|Buff|Crow's reload time was decreased to 1.4 seconds (from 1.5).}}
+*15/04/19:
+**{{Balance|Buff|Crow's main attack and Super damage was increased to 300 (from 280) per dagger.}}
+**{{Balance|Buff|His poison damage was increased to 75 (from 70) per second.}}
+*26/06/19:
+**{{Balance|Neutral|The Gold Mecha and Night Mecha Crow skins were added.}}
+*12/07/19:
+**{{Balance|Neutral|The Mecha Crow skin was added.}}
+*21/08/19:
+**{{Balance|Neutral|Crow's Carrion Crow Star Power was added.}}
+*18/09/19:
+**{{Balance|Buff|Crow's Extra Toxic Star Power damage reduction was increased to 13% (from 10%).}}
+**{{Balance|Buff|His Carrion Crow Star Power bonus damage was increased to 120 (from 100).}}
+**{{Balance|Neutral|Fixed animation issues in Phoenix Crow.}}
+*09/10/19:
+**{{Balance|Buff|Crow's main attack and Super damage was increased to 320 (from 300) per dagger.}}
+**{{Balance|Buff|His poison damage was increased to 80 (from 75) per second.}}
+**{{Balance|Buff|His Extra Toxic Star Power damage reduction was increased to 16% (from 13%).}}
+*23/10/19:
+**{{Balance|Buff|Crow's Extra Toxic Star Power damage reduction was increased to 20% (from 16%).}}
+*17/03/20:
+**{{Balance|Neutral|Crow's Defense Booster Gadget was added.}}
+*07/04/20:
+**{{Balance|Nerf|Crow's Defense Booster Gadget charges were decreased to 2 (from 3).}}
+*02/07/20:
+**{{Balance|Neutral|Crow and White Crow were remodeled.}}
+*08/07/20:
+**{{Balance|Neutral|Crow's Slowing Toxin Gadget was added.}}
+*18/08/20:
+**{{Balance|Buff|Crow's Slowing Toxin Gadget duration was increased to 3.5 seconds (from 2.5).}}
+*15/12/20:
+**{{Balance|Buff|Crow's Defense Booster Gadget charges were increased to 3 (from 2).}}
+**{{Balance|Buff|Crow's Slowing Toxin Gadget duration was increased to 5 seconds (from 3.5).}}
+**{{Balance|Nerf|Crow's Defense Booster Gadget damage reduction was decreased to 40% (from 60%).}}
+**{{Balance|Neutral|Crow's Super landing indicator was added (X).}}
+**{{Balance|Neutral|Crow's True Silver and True Gold skins were added.}}
+*27/01/21:
+**{{Balance|Buff|Crow's Super charge rate was slightly increased.}}
+**{{Balance|Buff|Enemies poisoned by Crow will now receive 40% less healing from all sources.}}
+*15/03/21:
+**{{Balance|Buff|Crow's Extra Toxic Star Power damage reduction was increased to 25% (from 20%).}}
+**{{Balance|Buff|Crow's Carrion Crow damage boost was increased to 152 (from 120).}}
+**{{Balance|Neutral|Phoenix Crow's projectiles were given new effects.}}
+*27/10/21:
+**{{Balance|Neutral|Crow's class was changed to Assassin (from Toxic Assassin).}}
+*20/11/21:
+**{{Balance|Neutral|The Captain Crow skin was added. It was featured as a Brawlywood skin.}}
+*16/12/21:
+**{{Balance|Neutral|Fixed an issue where Crow was doing a T-pose after attacking.}}
+*02/03/22:
+**{{Balance|Neutral|Fixed a bug that made Captain Crow's poison stack.}}
+*29/06/22:
+**{{Balance|Neutral|Mecha Crow, Night Mecha Crow, Gold Mecha Crow, and Captain Crow's main attack visual effects were slightly reworked.}}
+**{{Balance|Neutral|Crow's flavor text was changed from "Crow fires a trio of poisoned daggers. As a Super move he leaps, firing daggers both on jump and on landing!" to "This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore."}}
+*31/08/22:
+**{{Balance|Nerf|Crow's Slowing Toxin Gadget duration was decreased to 3 seconds (from 5).}}
+*16/09/22:
+**{{Balance|Neutral|The Crowbone skin was added. It was featured as a Calamity Gang skin.}}
+*12/12/22:
+**{{Balance|Neutral|Crow's Enduring Toxins Mythic Gear was added.}}
+*25/04/23:
+**{{Balance|Neutral|Night Mecha Crow now costs 49 [[Gems]] (from 10000 [[Star Points]]).}}
+**{{Balance|Neutral|Gold Mecha Crow now costs 49 Gems (from 50000 Star Points).}}
+*27/06/23:
+**{{Balance|Neutral|Phoenix Crow was remodeled and given voice lines.}}
+*15/08/23:
+**{{Balance|Nerf|Crow's Extra Toxic Star Power damage reduction was decreased to 20% (from 25%).}}
+*05/09/23:
+**{{Balance|Nerf|Crow's Extra Toxic Star Power damage reduction was decreased to 15% (from 20%).}}
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+**{{Balance|Neutral|Phoenix Crow was slightly remodeled.}}
+**{{Balance|Neutral|Fixed an issue where Phoenix Crow's animations were glitching when using jump pads.}}
+*24/10/23:
+**{{Balance|Buff|Crow's Carrion Crow Star Power damage bonus was increased to 231 (from 152) and now scales with Power Levels.}}
+**{{Balance|Nerf|Crow's Slowing Toxin Gadget duration was decreased to 2 seconds (from 3).}}
+**{{Balance|Neutral|Crow's flavor text was changed from "This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore." to "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi."}}
+*12/12/23:
+**{{Balance|Neutral|Crow's Utility Knives Hypercharge was added.}}
+*27/02/24:
+**{{Balance|Buff|Crow's Utility Knives Hypercharge multiplier was increased to 55% (from 40%).}}
+**{{Balance|Buff|Crow's Utility Knives Hypercharge speed boost was increased to 24% (from 20%).}}
+**{{Balance|Nerf|Crow's Utility Knives Hypercharge damage boost was decreased to 25% (from 30%).}}
+**{{Balance|Nerf|Crow's Utility Knives Hypercharge shield boost was decreased to 5% (from 25%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+**{{Balance|Neutral|All Mecha Crow skins' takedown visual effects were reworked.}}
+*23/04/24:
+**{{Balance|Buff|Crow's Utility Knives Hypercharge daggers no longer despawn upon hitting walls.}}
+**{{Balance|Neutral|Phoenix Crow's takedown visual effects were reworked.}}
+*29/04/24:
+**{{Balance|Neutral|Crow's Mutation was added for a limited time.}}
+*20/05/24:
+**{{Balance|Neutral|Crow's Mutation was removed from the game.}}
+*27/08/24:
+**{{Balance|Neutral|Crow's Carrion Crow Star Power damage bonus was changed to 40% in the description (from 231).}}
+*13/09/24:
+**{{Balance|Neutral|The Moon Guardian Crow skin was added. It was featured as a Lunar Stories skin.}}
+*29/10/24:
+**{{Balance|Neutral|Crow's Carrion Crow Star Power damage bonus now stacks additively with other damage boosts instead of multiplicatively.}}
+**{{Balance|Neutral|Crow's Carrion Crow Star Power poison damage bonus now activates conditional on when the enemy was first poisoned.}}
+*31/10/24:
+**{{Balance|Nerf|Crow's poison Super charge rate was decreased by 70%.}}
+*12/12/24:
+**{{Balance|Neutral|The Maverick Crow skin was added. It was featured as a Misc skin.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Buff|Enemies poisoned by Crow will now receive 60% less healing (from 40%) from all sources.}}
+*01/05/25:
+**{{Balance|Neutral|Crow's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Crow's Wasabi Power was removed from the game.}}
+*24/06/25:
+**{{Balance|Buff|Crow's health was increased to 2800 (from 2400).}}
+**{{Balance|Neutral|Fixed a bug with Captain Crow's sound effects.}}
+*03/09/25:
+**{{Balance|Neutral|Crow's Extra Toxic Star Power visual effects were reworked.}}
+**{{Balance|Neutral|Fixed a bug where all of Crows skins' Super projectiles used the default skin effects.}}
+*02/10/25:
+**{{Balance|Neutral|The Plague Doctor, Old Hunter, and Death's Door Crow skins were added. They were featured as Brawl Pass Season 43 skins and Brawl-o-ween skins.}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Crow's Utility Knives Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Crow's Utility Knives Hypercharge damage boost from 25%.}}
+**{{Balance|Neutral|Fixed a bug where Crow's Extra Toxic Star Power was not applied to his Super.}}
+*16/12/25:
+**{{Balance|Buff|Crow's health was increased to 3000 (from 2800).}}
+*25/02/26:
+**{{Balance|Buff|Crow's main attack projectile speed was increased to 3600 (from 3261). This does not affect his Slowing Toxin Gadget.}}
+**{{Balance|Buff|Crow's Slowing Toxin Gadget cooldown was decreased to 17 seconds (from 18).}}
+**{{Balance|Neutral|Crow's Defense Booster Gadget was renamed to Instapoison and reworked from granting him a temporary damage-reducing shield to instantly dealing remaining poison damage to all enemies, granting him a shield that absorbs damage and decays over time.}}
+**{{Balance|Neutral|Crow's Slowing Toxin Gadget was reworked from slowing all poisoned enemies temporarily to throwing a kunai that damages, slows, and poisons the enemy.}}
+**{{Balance|Neutral|Crow's Enduring Toxins Mythic Gear was removed.}}
+**{{Balance|Neutral|Crow's Buffies were added.|Change=Neutral}}
+*04/03/26:
+**{{Balance|Neutral|Fixed a bug where Crow's Instapoison Gadget Buffie prevented [[Doug]] from reviving.}}
+*19/03/26:
+**{{Balance|Neutral|The Dragon, Dragon IV, Dragonkin, Dragonforged, and Ghost Dragon Crow skins were added. They were featured as Pro Pass skins.}}
+*31/03/26:
+**{{Balance|Nerf|Crow's main attack projectile speed was decreased to 3261 (from 3600).}}
+**{{Balance|Nerf|Crow's Instapoison Gadget cooldown was increased to 20 seconds (from 15).}}
+*28/04/26:
+**{{Balance|Nerf|Crow's Carrion Crow Star Power bonus damage was decreased to 30% (from 40%).}}
+**{{Balance|Nerf|Enemies poisoned by Crow will now receive 50% less healing (from 60%) from all sources.}}
+*30/06/26:
+**{{Balance|Buff|Crow's main attack damage was increased to 420 (from 320) per dagger.}}
+**{{Balance|Nerf|Crow's health was decreased to 2800 (from 3000).}}
+**{{Balance|Nerf|Crow's main attack reload time was increased to 1.6 seconds (from 1.4).}}
+**{{Balance|Nerf|Crow's Super charge rate was decreased to 75 (from 89).}}
+**{{Balance|Nerf|The poison duration from Crow's main attack and Super was decreased to 3 seconds (from 4). This does not affect the duration of the healing reduction of the main attack.}}
+**{{Balance|Nerf|Crow's Hypercharge Buffie main attack damage falloff when returning was increased to 30% (from 20%).}}
+*08/07/26:
+**{{Balance|Nerf|Crow's main attack damage was decreased to 380 (from 420) per dagger.}}
+**{{Balance|Neutral|Fixed Crow's Hypercharge poison dealing less damage than intended with Buffies and Carrion Crow Star Power equipped.}}
+*04/08/26:
+**{{Balance|Nerf|Crow's main attack damage was decreased to 320 (from 380) per dagger.}}
+**{{Balance|Nerf|Crow's Slowing Toxin Gadget damage was decreased to 1200 (from 1600).}}
+*01/09/26:
+**{{Balance|Content=Crow's level up damage was increased to 6% (from 4%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Crow's movement speed to 855 (from 820).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed inconsistent damage scaling on Crow's Buffied Extra Toxic Star Power.}}
+
+==Cosmetics==
+===Skins (19)===
+{{Skin Gallery
+|Name1=Maverick|Cost1=Free from Strangest Packs, free after reaching 750 Trophies or 29 Gems|Campaign1=Freedom!|Rarity1=Rare
+|Name2=Night Mecha|Cost2=49 Gems, available after purchasing Mecha Crow, or free from Mecha Boxes|Campaign2=Mecha Squad|Rarity2=Legendary
+|Name3=Gold Mecha|Cost3=49 Gems, available after purchasing Mecha Crow, or free from Mecha Boxes|Campaign3=Mecha Squad|Rarity3=Legendary
+|Name4=White|Cost4=Free from Classic Brawl Mega Boxes, free from Najia Boxes or 79 Gems|Campaign4=Misc|Rarity4=Super Rare
+|Name5=Captain|Cost5=79 Gems|Campaign5=Starrs of Brawlywood|Rarity5=Super Rare
+|Name6=Crowbone|Cost6=Free from Gigi Boxes. Vince Boxes or 149 Gems|Campaign6=The Calamity Gang|Rarity6=Epic
+|Name7=Moon Guardian|Cost7=199 Gems|Campaign7=Lunar Stories|Rarity7=Mythic
+|Name8=Phoenix|Cost8=299 Gems|Campaign8=Flaming|Rarity8=Legendary
+|Name9=Mecha|Cost9=299 Gems or free from Mecha Boxes|Campaign9=Mecha Squad|Rarity9=Legendary
+|TrueSkins = Yes
+|NameP1=Plague Doctor|CostP1=Brawl Pass or 2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic
+|NameP2=Old Hunter|CostP2=Brawl Pass Plus or free after purchasing Skin Set with Skin Keys|CampaignP2=Brawl Pass|CampaignP2_2=Brawl-o-ween|RarityP2=Epic
+|NameP3=Death's Door|CostP3=Brawl Pass Plus or free after purchasing Skin Set with Skin Keys|CampaignP3=Brawl Pass|CampaignP3_2=Brawl-o-ween|RarityP3=Epic
+|NamePP1=Dragon|CostPP1=Free from Pro Pass|CampaignPP1=Pro Pass
+|NamePP2=Dragon IV|CostPP2=Free from Pro Pass|CampaignPP2=Pro Pass
+|NamePP3=Dragonkin|CostPP3=Pro Pass Exclusive|CampaignPP3=Pro Pass
+|NamePP4=Dragonforged|CostPP4=Pro Pass Exclusive|CampaignPP4=Pro Pass
+|NamePP5=Ghost Dragon|CostPP5=Pro Pass Exclusive|CampaignPP5=Pro Pass
+}}
+
+===Portraits===
+<gallery>
+Crow Portrait.png|Default
+Dragon Crow Portrait.png|Dragon Crow
+</gallery>
+
+===Buffie Skins===
+<gallery>
+Crow Buffie Skin-Gadget.png|Gadget
+Crow Buffie Skin-Star.png|Star
+Crow Buffie Skin-Hyper.png|Hyper
+Crow Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Crow
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Mecha}}
+{{Pin Table|Gold Mecha}}
+{{Pin Table|Night Mecha}}
+{{Pin Table|Crowbone|GG}}
+{{Pin Table|Captain}}
+{{Pin Table|Phoenix}}
+{{Pin Table|Moon Guardian|GG}}
+{{Pin Table|White|Special}}
+{{Pin Table|Plague Doctor}}
+{{Pin Table|Old Hunter}}
+{{Pin Table|Death's Door}}
+{{Pin Table|Dragon}}
+{{Pin Table|Dragonforged|Special}}
+{{Pin Table|Ghost Dragon|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Crow|Rarity = Common}} 
+|{{Spray|Type = Crow Hypercharge|Rarity = Exclusive}} 
+|{{Spray|Type = Phoenix Crow|Rarity = Common}} 
+|{{Spray|Type = Mecha Crow|Rarity = Common}}
+|{{Spray|Type = Moon Guardian Crow|Rarity = Common}}
+|-
+|{{Spray|Type = Dragon Crow|Rarity = Exclusive}}
+|
+|
+|
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Crow1}}
+|{{Pfp|Crow2}}
+|{{Pfp|Crow3}}
+|{{Pfp|Phoenix Crow}}
+|{{Pfp|Mecha Crow}}
+|-
+|{{Pfp|Crowbone}}
+|{{Pfp|Moon Guardian Crow}}
+|{{Pfp|Plague Doctor Crow}}
+|{{Pfp|Dragon Crow}}
+|
+|}
+
+{{Navigation}}
+[[ru:Ворон]]
+[[pl:Kruk]]

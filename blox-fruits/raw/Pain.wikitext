@@ -1,0 +1,403 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Pain
+|image  = <gallery>
+Pain Fruit.png|Fruit Icon
+PainfectLoop.gif|Fruit GIF
+Pain.png|Icon
+</gallery>
+
+<!-- Fruit Information -->|type   = Natural
+|rarity = Legendary
+|M1     = Yes
+|update = 7
+
+<!-- Fruit Price -->|money  = 2,300,000
+|robux  = 2,200
+}}
+{{Quote|Inflicts pain-based attacks, causing damage over time.|Shop}}
+'''Pain''' (formerly known as '''Paw''') is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|2,300,000}} or {{Robux|2,200}} from the [[Blox Fruit Dealer]].
+
+Pain allows the user to convert damage taken and absorbed Pain Ghosts into additional power. The fruit operates more off of the emotion itself rather than an element, with its attacks being mostly energy based, specializing in range. 
+
+Upon losing all [[health]], the fruit automatically enters a '''Last Stand''', a second life that temporarily grants nearly every buff the game has to offer. It should be noted however, that in this state players '''will''' die if they do not defeat a player. This causes the fruit to give the user an immortality like perk.
+
+__TOC__{{Clr}}
+
+==Upgrading==
+Pain can be upgraded via the [[Admin Panel]].
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="article-table"
+!Ability
+!Mastery
+!Research
+!Changes
+!Cost
+|-
+|'''Infernal Endurance'''
+|200
+|The user must walk on [[lava]] for five minutes.
+It is recommended to go to [[Hot and Cold]] in the [[Second Sea]], drink 3 [[Lava Potion]]s, and walk toward the path to [[Smoke Admiral]]. While staying in the lava pool, hold w and press / to AFK. The character will not move, but the research rate will increase. If you are on console, hold down any move while moving the joystick forward. It will still count towards the research.
+|Increases the duration of the awakened form. (From 30s to 60s)
+|{{Fragment|1,000}}<br>{{Ectoplasm|2}}<br>{{Magma Ore|1}}
+|-
+|'''Agony Surge'''
+|300
+|Collect five Pain Ghosts ''at the same time'' using {{Ability|F}} ten times.
+|{{Ability|F}} held now unlocks the power of a Drop Kick explosion.
+|{{Fragment|2,500}}<br>{{Ectoplasm|4}}<br>{{Magma Ore|2}}
+|-
+|'''Torment Conductor'''
+|400
+|Defeat a [[Lightning]] user.
+|{{Ability|Z}} attack's tap version's Pain Ghosts now heat seek towards the enemy.
+|{{Nightmare Catcher|1}}<br>{{Fragment|6,000}}<br>{{Ectoplasm|5}}
+|-
+|'''Spectral Assimilation'''
+|500
+|Collect 200 Pain Ghosts.
+|{{Ability|C}} unlocks the ability to charge into a beam.
+|{{Nightmare Catcher|3}}<br>{{Fragment|9,500}}<br>{{Ectoplasm|5}}
+|}</table-progress-tracking>
+
+To fully upgrade Pain, the player needs 500 [[Mastery]], {{Fragment|19,000}}, {{Nightmare Catcher|4}}, {{Ectoplasm|16}}, and {{Magma Ore|3}}.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Pain Meter
+|meter    = Pain Meter.png
+|desc     = The user has a passive meter bar that fills up with damage taken and Pain Ghosts absorbed. Having a full meter will unlock the user's inner pain, buffing Normal Attack's damage, reducing skill cooldowns (approximately 23.43% averaging between all skills) and increasing speed. The amount of Pain Meter received when taking damage is percentage-based on the user current HP, rather than max (lasts 1 minute).
+}}
+
+{{Skill/Passive
+|name     = Last Stand
+|file     = LastStand.gif
+|desc     = Upon losing all [[health]], the user enters a berserk state with a screen-shattering effect, emitting a red aura and standing in a crooked stance. During this state, the user dashes longer, [[Air Jump]]s can jump higher, and both gain cloud-like VFX, movement speed is increased, holdable abilities charge faster, damage taken is reduced by 60%, skill cooldowns are reduced by 60% and M1 damage is nearly doubled. However, only Pain moves can be used, and the user's HP will slowly drain whilst losing the ability to heal. The state lasts for 30 seconds (60 if upgraded). When the Pain Meter runs out, the user will die instantly unless they kill a player. The transformation only [[Instinct/Break|breaks Instinct]] if an opponent is too close to the user.
+}}
+
+{{Skill/Passive
+|name     = Pain Ghosts
+|file     = PainGhost.png
+|desc     = Each time the user misses the Z, X, C [Held], F [Held] moves, it spawns in a Pain Ghost possessing a sinister smile or sad frown that has a cloud-like appearance. These can be absorbed by the user to fill up their Pain Meter and instantly reset the cooldown of {{Ability|F}}. They can also heat seek towards nearby enemies and deal damage if the user has the third upgrade, Torment Conductor unlocked. These Pain Ghosts always [[Instinct/Break|break Instinct]] upon contact with an opponent. The Pain Ghosts will heat seek faster towards opponents while the user is in Last Stand and will appear darker than normal.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|mastery  = 1
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Painful Barrage
+|gif1     = Last Barrage
+|desc     = When used normally, the user rushes and throws 2 hook punches followed by an uppercut, initiating airborne combat and ending it with a barrage of energy, knocking the enemy very far away.
+|desc1    = When used in Last Stand, the entire set gets extremely large hitboxes, much more speed and damage, and begins to hard stun opponents. The final barrage also deals enormous damage.
+}}
+
+{{Skill
+|key      = Z
+|name     = Fury Jab
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|break    = yes
+|instinct = Tapped (upgraded): [[Instinct/Break|breaks Instinct]] if hit directly by the projectile, but it can be dodged if hit indirectly; its impact (AoE) can also be dodged on the edge. Held: the projectiles break Instinct on direct hit, but they can be dodged if hit indirectly, and their impacts (AoE) can also be dodged on the edge.
+|gif      = Fury Pop
+|gif1     = Fury Flurry
+|desc     = This move has 2 variants. If tapped, the user shoots out a Pain Ghost that explodes upon contact with a surface or a player's hitbox; if the third upgrade, Torment Conductor, is unlocked, it will spawn additional Pain Ghosts that will circle around the affected area and damage anyone in its vicinity. Cooldown is reduced to approximately 5.75 seconds with a full Pain Meter, and to approximately 2.5 seconds in Last Stand.
+|desc1    = If held, the user shoots out a barrage of Pain Ghosts, lowering in damage output with each successive hit; likewise, missing will spawn Pain Ghosts, and this move gradually slows down over time.
+}}
+
+{{Skill
+|key      = X
+|name     = Rage Release
+|mastery  = 100
+|cooldown = 12
+|energy   = 60
+|break    = no
+|instinct = Tapped: the initial grab cannot be dodged, but the barrage after it can be dodged, and cannot break Instinct in any way. Held: the initial grab cannot be dodged; the small damage when grabbed can be dodged, but the beam breaks Instinct.
+|gif      = Normal Attack
+|gif1     = Rage Pulse
+|gif2     = Final Ray
+|desc     = This move has 2 variants. If tapped, the user dashes forward, and upon connection with an enemy, grabs them and starts a short combo, with an energy burst that knocks the enemy away.
+|desc1    = If held, the user builds up an aura and dashes forward, and upon connection with an enemy, grabs them, takes them upward and launches an energy beam that drags the enemy to the aimed area; this variant is similar to [[Dragon]]'s base and hybrid form {{Ability|Dragon|X}}.
+|desc2    = Charging time is shortened when in Last Stand mode. Cooldown is reduced to approximately 9.25 seconds with a full Pain Meter, and to approximately 4 seconds in Last Stand.
+}}
+
+{{Skill
+|key      = C
+|name     = Agony Nuke
+|mastery  = 200
+|cooldown = 18.5
+|energy   = 80
+|break    = yes
+|instinct = Tapped: the projectile cannot be dodged if hit directly, but the AoE after it can be dodged on the edge. Held (upgraded): the beam can be dodged on the edge, but always breaks Instinct once caught in the attack.
+|gif      = Agony Bubble
+|gif1     = Agony Ray
+|gif2     = Instant Ray
+|desc     = This move has 2 variants. If tapped, the user releases a fast, concentrated ball of energy that drags nearby enemies in, which quickly expands upon contact, with Pain Ghosts fueling it, exploding soon after and knocking pulled enemies away; this move is quite similar to [[Sand#Moveset_(V2)|Awakened Sand's]] {{Ability|Sand|V|V2}}.
+|desc1    = If held, the user covers their face and is surrounded by a blazing red aura, and upon release, a large Pain Ghost roars out a powerful beam of red energy, deals damage, and pulls enemies to the end of the beam stunning them; holding the move for longer results in an even larger Pain Ghost shooting out a larger energy beam, dealing more damage; the fourth upgrade, Spectral Assimilation, is required to use this.
+|desc2    = Charging time is shortened when in Last Stand mode. Cooldown is reduced to approximately 14.5 seconds with a full Pain Meter, and to approximately 6 seconds in Last Stand.
+}}
+
+{{Skill
+|key      = V
+|name     = Torturing Pulse
+|mastery  = 300
+|cooldown = 25
+|energy   = 100
+|break    = yes
+|instinct = Tapped: the projectile and tick damage always break Instinct no matter what. Held: the projectile can be dodged on the edge, but the tick damage, if hit, cannot be dodged.
+|gif      = Instant Torture
+|gif1     = PainVheld
+|gif2     = Absolute Torture
+|desc     = This move has 2 variants. If tapped, the user releases a quick, large ball of dense energy, showing evil pareidolia; if hit, the enemy suffers tick damage in quick succession, and experiences screen shake and distortion, having an image similar to the ball's "face"; this move is single-target. The size of the ball is based on how full the Pain Meter is; this move is multi-target. Charge time and Pain Meter cost is skipped in Last Stand. This move's cooldown does not change with the Pain Meter or in Last Stand.
+|desc1    = If held, the user holds out an enlarged throbbing ball of dense energy, having a similar design to its tapped variant, surrounded by the fog of Pain Ghosts
+|desc2    = If held variant hits, the enemy is dragged forward and suffers the same effects as the tapped variant, though this version deals slower but overall higher tick damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Torment Warp
+|mastery  = 50
+|cooldown = 6.5
+|energy   = 20
+|break    = no
+|instinct = Tapped: does not deal damage, and cannot break Instinct in any way. Held (upgraded): the slam breaks Instinct most of the time, but it can be dodged on the edge.
+|gif      = Projection Warp
+|gif1     = Agony Charge
+|gif2     = Last Lunge
+|desc     = This move has 2 variants. If tapped, the user launches forward with a longer range than other fruits; cooldown resets if a Pain Ghost is collected, which also applies to the held version.
+|desc1    = If held, the user launches into the air, then dashes toward the cursor in a chosen direction; when used mid-air, the user immediately dashes toward the cursor; this summons four Pain Ghosts, regardless of whether the move hit or missed; the second upgrade, Agony Surge, is required to use this.
+|desc2    = Charging time is shortened when in Last Stand mode. Cooldown is reduced to approximately 5 seconds with a full Pain Meter, and to approximately 2 seconds in Last Stand.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High damage.
+* Good for [[PvP]].
+* Reasonably good for grinding.
+* Most moves have long range.
+* All moves are multi-target, except {{Ability|X}} (Tapped) and {{Ability|V}} (Tapped).
+* Most moves can damage [[Sea Beast]]s.
+* Grants user a powerful second life that gives an opportunity to make a comeback, with good players being able to easily wipe entire servers, staying effectively immortal.
+** Provides a huge damage reduction (60%).
+** Grants a great speed, [[Dash|dash]] and [[Air Jump|jump]] buff.
+** Cooldowns are drastically reduced.
+
+|{{Ability|TAP}}
+* Great damage.
+* Decent combo potential.
+* '''Last Stand:''' Extremely high damage output.
+
+|{{Ability|Z}}
+* Great range.
+* Very high burst damage.
+* Very effective against large enemies as this attack ignores part of defense buffs.
+* '''Tapped (upgraded):''' Good for dealing chip damage and cancelling opponent's attacks from afar, mainly due to the additional Pain Ghosts that it spawns.
+
+|{{Ability|X}}
+* Great combo follow-up, especially with knockback skills.
+* Decent hitbox.
+* Decent mobility. 
+* High damage, especially on the held variant.
+* '''Last Stand:''' Short charge time.
+
+|{{Ability|C}}
+* Amazing range.
+* Good hitbox.
+* Great damage.
+* Great combo potential.
+* Amazing stun.
+* '''Tapped:''' Fast projectile.
+* '''Last Stand:''' Very short charge time.
+
+|{{Ability|V}}
+* High stun, especially when held.
+* Large hitbox, sometimes it lands without even being near the opponent.
+* Can be further held to increase the hitbox/AoE and damage.
+* Blinds and distorts the vision of the enemy.
+* '''Tapped:''' High range and fast projectile speed.
+* '''Last Stand:''' Doesn't consume Pain Meter.
+
+|{{Ability|F}}
+* Has a short cooldown, which makes it good for PvP and escaping one-shot combos.
+* Can be instantly refilled with '''Pain Ghosts''', allowing for quick traversal.
+* '''Tapped:''' The teleportation range is slightly longer than other fruits with similar moves.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* High mastery requirements.
+** The upgrades are expensive and have even higher mastery requirements.
+* All of the moves can leave the user vulnerable if they hold them for too long.
+* Requires precise aim at long range.
+* All moves are hard to hit in aerial combat.
+* Despite giving a second life, the user will only survive if the enemy is killed within 30 seconds. (60 when upgraded)
+** Finisher move(like [[Dragon Talon]] Z and [[Shadow]] C) and [[Water]] can bypass this passive.
+
+|{{Ability|TAP}}
+* Short range.
+* Untrue stun (Enemies can still use abilities whilst being hit).
+* Last hit deals absurdly high knockback.
+
+|{{Ability|Z}}
+* Small direct hitbox.
+* Vulnerable during prolonged usage (Should only be held for 3 seconds maximum).
+* Although this move can be held indefinitely, both the speed and damage will gradually worsen after a few seconds of the move being held.
+
+|{{Ability|X}}
+* Short dash range.
+* Opponents can still use M1 attacks while stunned.
+* '''Tapped:''' Single-target.
+** Cannot [[Instinct/Break|break Instinct]].
+* '''Held:''' The beam is not guaranteed to deal damage, although this is rare.
+
+|{{Ability|C}}
+* Medium start-up time, giving opponents the opportunity to escape.
+* Small direct hitbox.
+* The knockback trajectory can make combos more difficult, such as having to aim [[Godhuman]]'s {{Ability|Godhuman|Z}} at the enemy.
+* '''Held (upgraded):''' Takes a while to fully charge.
+** Requires practice to use in active PvP.
+
+|{{Ability|V}}
+* Low tick damage.
+* No cooldown reduction.
+* '''Tapped:''' Single-target.
+* '''Held:''' The projectiles is slow.
+** Has a long start-up.
+** Drains the Pain Meter.
+* '''Last Stand:''' Charges too quickly, and mostly executes as the held version instead.
+
+|{{Ability|F}}
+* '''Held (upgraded):''' The second part of the attack can be hard to control effectively.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:TORMENTPHYSICAL.png|Torment Physical Fruit
+File:Sadahhsadnesspain.png|Sadness Physical Fruit
+File:Frustration Pain.png|Frustration Physical Fruit
+File:Celestial Pain.png|Celestial Physical Fruit
+File:Super Spirit physical.PNG|Super Spirit Physical Fruit
+File:TormentV.png|Pain [V] with the Torment variant
+File:SadnessV.png|Pain [V] with the Sadness variant
+File:FrustrationV.png|Pain [V] with the Frustration variant
+File:CelestialV.png|Pain [V] with the Celestial variant
+File:SuperSpiritV.png|Pain [V] with the Super Spirit variant
+File:AgonyV.png|Pain [V] with the Agony variant
+File:LifesEnd.gif|Death animation of the '''Last Stand''' form.
+</gallery>
+
+==Notes==
+* {{Ability|V}} is a good [[Instinct Break]] move due to enemies taking continuous tick damage after being hit by the move. Some [[sword]] and [[gun]] users use it solely for this reason.
+* It may be more effective to use than other fruits like [[Ice]] if not a [[fruit]] main, as Ice's combos can easily be [[Instinct]]-tricked (unless they have [[Cyborg]] V3), while {{Ability|V}} makes combos impossible to [[Instinct]]-trick.
+* It is recommended to use Pain as a fruit main, as '''Last Stand''', while a useful second life, locks the player into using only the fruit, rendering their other weapons useless, which could be a huge hindrance without any [[stats]] invested into [[Blox Fruit]].
+* {{Ability|Z}} should be timed, as after a point it becomes slow and punishable. The user should try and only use it for '''3-4 seconds''' to maximize it's use.
+* Due to '''Last Stand''' being considered a transformation, the user is incapable of activating their [[Race Awakening]] after the mode activates.
+* Like other transformations, [[Race Awakening]] can still be activated before '''Last Stand''' is activated and it will persist , until it runs out or the player dies.
+* Despite '''Last Stand''' giving the user a second life, they should be wary if they are fighting a [[Cyborg]] user, as if they happen to die to their V3 [[Energy Core]] or its awakened electricity passives, it will kill the user without triggering their second life.
+* '''Last Stand''' will not activate if the user was killed by the ocean, despite water damage being able to fill the Pain Meter.
+* During a [[Raids|Raid]], the user can absorb '''Pain Ghosts''', meaning that the user can build the '''Pain Meter''' by taking damage or absorbing '''Pain Ghosts.'''
+* While '''Last Stand''' is active, there is no way to fill the Pain Meter, even if '''Pain Ghosts''' are absorbed or damage is taken.
+* There is a trick to avoid losing [[Bounty and Honor System|bounty/honor]] when the user is still in '''Last Stand''' while [[Bounty and Honor System|"In Combat - Bounty/Honor at risk!"]]. If the user lets themselves to be hit by [[Enemies|enemy]] multiple times (3 - 4 hits) right after '''Last Stand''' ends, the death will be counted as [[PvP mechanics|Suspicious Kill]].
+* Agony Nuke Held in Last Stand form can be paired with Ghoul's V3 and V4 cooldown reduction to be able to have a 1 second cooldown, making it spammable.
+* The Pain Ghost unupgraded also seeks toward enemies but shorter.
+
+==Grinding==
+* Although Pain possesses great power and potential, it is not recommended for grinding in [[First Sea]] to the early [[Second Sea]] due to the 4th M1 having very high knockback and very demanding [[mastery]].
+* However, if one wishes to grind using the Pain fruit;
+** They may repeatedly spam M1 and on the 4th one, dash and M1 again. This has a chance to pick the enemy up again and repeat the cycle again (This tactic may also be used for PvP)
+** 3 M1, Long held X, Tapped or Held C, 3 M1 (wait for NPC to come down), Held Z, Tapped V. (If don't have [V] Torturing Pulse, the user can use the 1st part of the combo)
+** 4 M1, Tapped X, Dash, 3 M1, Tapped C, Held or Tapped V, Held Z directly at the NPC, F, 4 M1, (Cycle again)
+** Use M1 and moves against a wall or high solid object.
+
+==Trivia==
+* Along with a few other [[fruits]], Pain (named Paw at the time) was in the [[Raids|Fruit Awakening]] straw poll of {{Update|14}}. 
+** However, [[Rumble]] received the most votes, resulting in Pain getting no [[Raids|awakening]], but note that Rumble now is changed to [[Lightning]] and has no awakening. Pain and [[Lightning]] both now have a [[Admin Panel]] Upgrade System.
+* Tapped {{Ability|C}} shares the same death skull effect as Acidum Rifle's {{Ability|Acidum Rifle|Z}}, the only difference being in size and color.
+* Pain has its own death animation when '''Last Stand''' is activated.
+* Pain is the second fruit to have revive/second life mechanic, the first being [[Ghost]] Fruit.
+* {{Ability|V}} has the same mesh as [[Sanguine Art]]'s {{Ability|Sanguine Art|C}}.
+* The first boss to use the reworked pain fruit is [[Agony]] (not counting the tormented bosses from the pain event).
+* The user's ability [[GUI]] gains a red hue when they're in '''Last Stand'''.
+* There is a little bit of blood on the edge of Pain Fruit's bandages.
+* The Pain Ghosts will prioritize refilling the user if they are within closer proximity, regardless if they were targeting an opponent with '''Torment Conductor''' unlocked.
+* The inventory icon is a Pain Ghost.
+* The {{CHROMATIC}} skins released in the [[Summer Gacha]] refer to emotions:
+** {{Skin|Sadness}}'s colour scheme, which consists primarily of blue, refers to how the colour blue is commonly associated with sadness or feelings of isolation.
+** {{Skin|Torment}} is an emotion that involves extreme mental distress and anguish. The dark crimson is similar to Pain's original colour scheme, both being shades of red. This is further tied in with the name of Pain's original colour {{Skin|Agony}}, which is also a synonym for severe emotional or mental suffering. The colour scheme of this chromatic is similar to blood.
+** {{Skin|Frustration}}'s colour scheme is similar to fire, referencing how both fire and anger are intense, potentially destructive, and escalate quickly.
+* The '''Last Stand''' passive is capable of outspeeding bounty hunt exploiters.
+* The Pain fruit is the only fruit in the entire game to have a variant to all of its moves.
+* Pain’s default skin, {{Skin|Agony}}, is a reference to the [[Raid Bosses|Raid Boss]], [[Agony]], which also uses the Pain [[Blox Fruits|fruit]], who rivaled [[Ashen]] in the Summer Expansion 2025 Trailer ([[Updates/27.0|Update 27]]).
+* Pain used to be considered one of the worst {{Legendary|Legendary}} fruits, but now due to its rework it is high valued and generally considered a good fruit for grinding.
+
+==Change History==
+{{Change History|7|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* Major changes made to Last Stand.
+** Last Stand keeps the user in combat while active. Health resets to maximum and drains throughout the final stand duration, and healing is disabled. Defeating another player during this window deactivates Last Stand and resets the meter to 0; NPC eliminations do not count.
+
+|-|27.2=
+{{Update|27.2}} 
+* Pain was remade available to purchase.
+* Pain was added in the [[Admin Panel]].
+* Pain's icon was changed.
+* Added {{Key|M1}} attacks.
+* All abilities were reworked.
+** {{Ability|Pain (Classic)|Z}} was renamed to {{Ability|Z}}
+** {{Ability|Pain (Classic)|X}} was renamed to {{Ability|X}}
+** {{Ability|Pain (Classic)|C}} was renamed to {{Ability|C}}
+** {{Ability|Pain (Classic)|V}} was renamed to {{Ability|V}}
+** {{Ability|Pain (Classic)|F}} was renamed to {{Ability|F}}
+*: <gallery>
+Pain Icon (Old).png|Old Pain Icon
+PawZ.gif|{{Ability|Paw|Z}}
+PawX.gif|{{Ability|Paw|X}}
+PawC.gif|{{Ability|Paw|C}}
+PawV.gif|{{Ability|Paw|V}}
+PawF.gif|{{Ability|Paw|F}}
+</gallery>
+
+|-|26=
+{{Update|26}}
+* 2025-07-04:
+** Pain was made unavailable to purchase from the [[Blox Fruit Dealer]]'s stock and Shop.
+
+|-|20=
+{{Update|20}}
+* Paw was renamed to Pain.
+** {{Ability|Paw|Z}} was renamed to {{Ability|Pain (Classic)|Z}}.
+** {{Ability|Paw|X}} was renamed to {{Ability|Pain (Classic)|X}}.
+** {{Ability|Paw|C}} was renamed to {{Ability|Pain (Classic)|C}}.
+* Paw Fruit's model was remade.
+: <gallery>
+PawIcon.png|Paw Icon
+Paw Fruit.png|Paw Fruit's icon.
+</gallery>
+
+|-|8=
+{{Update|8}}
+* Paw's visuals were enhanced.
+
+|-|7=
+{{Update|7}}
+*<nowiki> Paw was released.</nowiki>
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Боль]]

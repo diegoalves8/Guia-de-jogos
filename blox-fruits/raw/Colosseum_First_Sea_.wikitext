@@ -1,0 +1,80 @@
+{{DISPLAYTITLE:Colosseum}}
+{{MapTab}}
+{{Tabber V2
+|tab1 = Colosseum (First Sea)
+|tab2 = Colosseum (Second Sea)
+|tab3 = Friendly Arena
+}}
+{{Location Infobox
+|name       = Colosseum
+|image      = <gallery>
+Collesseum 30.png
+</gallery>
+|type       = Island
+|sea        = First Sea
+|level      = 250-300
+|music      = Into the Arena
+|prev       = Prison
+|next       = Magma Village
+}}
+The '''Colosseum''' is an island in the [[First Sea]] that hosts quests for players between Lv. 250 to 300. It is also where the [[Friendly PvP]] arena of First Sea is located.
+
+==Appearance==
+The  island itself is a relatively large, grassy area with sparse [[trees]] and rocks. The outer part of the island has a lighter color of grass, while the grass near the middle is darker. In the center is a large stone colosseum with multicolored banners hanging along the sides, with the [[Friendly PvP]] area in the center. Attached to the arena with a ramp is a wide stone path leading to the dock.
+
+==Inhabitants==
+{| class="article-table"
+!NPCS
+!Enemies
+|-
+|
+* [[Colosseum Quest Giver]]
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Home Points]]
+|
+* [[Gladiator]]
+* [[Toga Warrior]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="2" |[[Colosseum Quest Giver]]
+|[[Toga Warrior|Toga Warriors]]
+|250
+|Defeat 7 [[Toga Warrior|Toga Warriors]]
+|{{Money|7,000}}<br />{{EXP|1,100,000}}
+|-
+|[[Gladiator|Gladiators]]
+|275
+|Defeat 8 [[Gladiator|Gladiators]]
+|{{Money|7,500}}<br />{{EXP|1,300,000}}
+|}
+
+== Secret Quests ==
+
+* Head to the [[Colosseum Quest Giver]]. Around him, the player find four statues, each using one of the four weapon types. Hit each statue with the corresponding weapon type's skills or M1 to make them strike a pose. A cutscene will play after you activate all four statues.
+* After waiting an unspecified amount of time at Colosseum, the game message "The Colosseum stands are filling up - the crowd wants a show!" will appear. Head over to the colosseum, and look around the lower walls for a target that blends in with the wall, which you will have to shoot. A cutscene will play and targets will start spawning. Hit these targets with attacks before the meter runs out.And if the player doesn't interact with the said target to activate the event and the time were to run out it'd say "The Colosseum crowd has cleared out".
+* Head into the colosseum and find the Emperor NPC. Upon interacting with him, the player can start a quest to spawn 3 waves of of enemies in the arena.
+
+==Chest Locations==
+* The first chest is on one of the posts nearest to the dock on the island.
+* The second chest is in the very top-right open thermal window (open ovalish window). It is on the wall closest to the dock.
+* The last chest is in the middle row and the third column opens the thermal window. It is on the wall closest to the dock.
+
+==Trivia==
+* The Colosseum is also where some (generally friendly) [[Friendly PvP|PvP]] matches take place. This is not to be confused with [[Colosseum (Second Sea)]] though it serves practically the same purpose though considered better due to more even playing fields and a larger size.
+* The Colosseum is widely considered to be one of the blandest islands in the [[First Sea]], as it has the most basic NPCs, no [[bosses]], and no involvement with special [[Quests]]. The island's relatively simple design also contributes to this.
+* It is possible to easily farm the enemies at Colosseum by standing on the ramp leading up to the colosseum while an enemy stands on the ground below and hits them with ranged attacks. This isn't always reliable though.
+* The [[Soundtracks|soundtrack]] that plays at the Colosseum is called "''Into the Arena''".
+* It is recommended to skip the Colosseum as the [[enemies]] are extremely spread out, and do not spawn unless you get close to them. It's best to keep grinding the NPCs and Boss at [[Prison]] until Lv. 300. This 
+{{Change History|3}}
+
+==Navigation==
+{{IslandNavigation}}

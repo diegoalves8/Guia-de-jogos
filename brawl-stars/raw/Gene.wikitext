@@ -1,0 +1,312 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Talk to the Hand!|PrestigeTitle = Ablablababa|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3800|AttackRange = 5.67 (close range; Normal)<br>11.33 (max range; Very long)|Reload = 2 seconds (Slow)|AttackBullets = 1 (close range)<br>6 (max range)|AttackSuperCharge = 25% (close range)<br>4.15% (max range)|AttackLabel = Damage|Attack = 1000|AttackLabel2 = Split Damage|Attack2 = 166|SuperRange = 7.67 (Long)<br>8.67 (with Talk to the Hand Gear)|AttackSpeed=3200|AttackWidth=1 (close range)|SuperSpeed=3200 (launched)<br>2000 (grabbed)<br>3200 (grabbed; with Hypercharge)|SuperBullets=1<br>3 (with Hypercharge)|SuperWidth=1.33|AttackSpread=80° (max range)|Gadget1Name=Lamp Blowout|Gadget1Cooldown=20 seconds|Gadget2Cooldown=20 seconds|Gadget2Name=Vengeful Spirits|Gadget2=320|Gadget22=1280|Gadget2Label=Damage per shot at min. range|Gadget2Label2=Damage per shot at max. range|StarPower1Name=Magic Puffs|StarPower1=548|StarPower1Label=Heal per second|StarPower2Name=Spirit Slap|StarPower2=1800|StarPower2Label=Damage|VoiceActor=Martin Schjøler|Previous=Tara|Next=Max|HyperchargeMultiplier=35%|SuperSpread=50° (with Hypercharge)|AttackHyperchargeCharge=8.75% (close range)<br>1.45% (max range)|Gadget1Range=2.67|Gadget2Range=11}}
+{{Quote|Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.}}
+{{Portrait}}
+Gene is a {{Rarity|Mythic}} [[Brawler]] who has a moderate health and damage, and a variable range, but a slow reload speed. He was the 23rd Brawler added to the game. For his attack, his lamp spews out a ball of smoke that splits after a certain range. Gene's Super pulls an enemy and drags them to Gene's location. His first Gadget, Lamp Blowout, pushes back all nearby enemies, healing him a small amount. His second Gadget, Vengeful Spirits, fires multiple projectiles that home in on enemies in range and scale in damage the further they travel. His Mythic Gear, Talk to the Hand, increases the range of his Super. His first Star Power, Magic Puffs, slightly heals his allies over time when they're near him. His second Star Power, Spirit Slap, adds damage to his Super. His Hypercharge, Hyper Hands, makes Gene's next Super fire 3 hands.
+
+==Attack: Smoke Blast==
+{{Quote|Gene shoots a solid ball of magical smoke from his lamp. If the ball doesn't hit a target, it splits up and spreads the damage in a cone.}}Gene shoots a medium-ranged ball of smoke that deals damage and travels relatively slowly. If it doesn't hit a target, it splits up into 6 projectiles that spread out in a cone (in a similar way to [[Penny]]). The damage is equally distributed between them, and they travel for an additional 5.67 tiles. Unlike Penny, the shots don't split on contact with an enemy, but they do if it doesn't hit an enemy. Aiming his attack will only show the range of the smoke ball and not show the range of the splits.
+
+==Super: Magic Hand==
+{{Quote|Gene launches a magical hand from his lamp. If the hand hits an enemy, they get pulled back to Gene's location!}}Gene shoots a long-ranged hand that passes through obstacles. If it hits an enemy Brawler or an enemy Brawler's spawnable, it pulls the enemy to Gene, destroying all obstacles the enemy goes through in the meantime. Gene can also attack an enemy while pulling them, but the hand itself doesn't deal damage. The magical hand won't destroy obstacles if Gene doesn't grab anyone. His pull isn't interrupted if his target gets hit by a minecart in Minecart Madness. The magic hand is unique in that it can pull stationary turrets like those of [[Jessie]], [[Penny]], [[Pam]], [[8-Bit]], and [[Mr. P]], but it can't pull permanent stationary objects specific to game modes, like the IKE turret in [[Siege]], Power Cube boxes in [[Showdown]], and the safe in [[Heist]]. 
+
+==Gadgets==
+===Lamp Blowout===
+{{Quote|All enemies close to Gene are instantly pushed back. If at least one enemy Brawler is within range, Gene will also restore 10% of his max health. Cooldown: 20 seconds.}}{{Gadget|1}}Upon activation, Gene creates a wave around himself that pushes away all enemies away from him by 3 tiles while simultaneously healing Gene for 10% of his maximum health if at least one enemy Brawler is pushed. This effect can go through walls and can also override the pull from his Super. Unlike other healing abilities, Gene can still activate the Gadget at full health, and the healing does not stack with the number of enemy Brawlers pushed.
+
+===Vengeful Spirits===
+{{Quote|Gene shoots a homing missile at all visible enemies within a large area, dealing up to 1600 damage based on distance. Cooldown: 20 seconds.}}{{Gadget|2}}Upon activation, Gene shoots homing missiles towards all visible enemies within an 11-tile radius, dealing a minimum of 20% the damage of his main attack and a maximum of 80% the damage of his main attack the further they travel. The missiles have width of 0.33 tiles and 2500-point speed and they keep giving chase until they hit the enemy or a wall. This Gadget can only be used if there is an enemy in an 11-tile radius, and note that the homing missiles can't target invisible enemies or enemies hiding in bushes. This Gadget's cooldown starts 0.5 seconds after it's activated. 
+
+==Mythic Gear: Talk to the Hand==
+{{Quote|Extends the reach of Gene's Magic Hand.}}{{Gear|Filename=GeneGear}}
+With this Gear equipped, Gene's Super range is increased from 7.67 tiles to 8.67 tiles. This does not affect his Hypercharged Super.
+
+==Star Powers==
+===Magic Puffs===
+{{Quote|Gene heals all friendly Brawlers around him for 608 health per second.}}{{StarPower|1}}Within a 4 tile radius of Gene, all allied Brawlers heal 8% of his maximum health per second. This doesn't apply to Gene himself or allied spawnables. If he is in a bush, this Star Power won't reveal his hitbox to enemies, but it reveals the healing radius.
+
+===Spirit Slap===
+{{Quote|Gene's Magic Hand also damages enemies, dealing 2000 damage on hit.}}{{StarPower|2}}This Star Power adds damage to Gene's Super that is equal to his attack. This doesn't affect other aspects of his Super.
+
+==Hypercharge: Hyper Hands==
+{{Quote|Gene's Super splits into 3 different hands, each being able to grab one enemy. First goes straight, and the other 2 go diagonally.}}{{Hypercharge}}
+When activated, Gene's next Super fires 3 hands and each can pull an enemy to himself. The hands pull the target to Gene faster than normal and do not destroy obstacles when returning. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Super now homes on targets!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>Gene's Super curved towards the nearest enemy, even enemies behind walls obstructing their paths. This Wasabi Power also affected his Hypercharge. The curving effect was very strong, which made the Super virtually impossible to miss unless fired in the opposite direction.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+* In [[Duo Showdown]], Gene can be deadly when paired up with short-ranged, high-damaging Brawlers like [[El Primo]], [[Bull]], [[Shelly]], [[Darryl]], [[Fang]], [[Doug]], [[Edgar]], and [[Buzz]] as pulling someone allows teammates finish them off easily. This is made more consistent because Gene can charge his Super again with four complete attacks.
+* Gene's Super is an incredibly useful tool that can turn the tide of a game. It can target the highest-value target in modes such as [[Bounty]] and [[Gem Grab]], dragging them into your team for an easy burst-down. It's also a great way to engage low-health enemies.
+* His Super can be used very effectively in [[Big Game]] to drag the Boss toward your group of allies so that they can deal extra damage, unless your team consists of low-health Brawlers with higher damage at long range such as [[Bea]], [[Nani]], [[Brock]], [[Tick]], [[Colt]], [[Rico]], [[Dynamike]], or [[Piper]].
+* In [[Siege]], Gene can pull the Siege Robot away from the IKE with his Super. Alternatively, he can use his Lamp Blowout Gadget to instead push the Siege Robot away. These tactics can give his team more time to defeat the Siege Bot and prevent it from defeating the IKE. Gene can also pull enemies into the range of his team's turret to have the turret quickly defeat them (unless the turret is attacking another target, so it is advised to only do this when there isn't any Siege).
+
+=== Recommended Build ===
+
+* Gene's Magic Puffs Star Power is useless in Solo events due to the lack of teammates, so always use his Spirit Slap Star Power in Solo events.
+*Spirit Slap can be used as a great finish to low-health enemies, as his Super deals damage when it hits them. However, do keep in mind that if Gene uses his Super on a gem carrier with less than 1000 health while using Spirit Slap, the gems will be dropped where the enemy gem carrier was, and it make grabbing the gems harder.
+*In open maps, Gene can make great use of his Vengeful Spirits Gadget, as there are not many walls to block the missiles from it. In addition, the lack of walls will discourage the use of short-range Brawlers, which will result in more long-range Brawlers being used instead. This will allow the missiles to travel for longer and further increase their damage.
+*Lamp Blowout is versatile, especially when Gene's Super is charged. You can pull in enemies with your Super and use Lamp Blowout to regain some health while pushing enemies back. This is best used against assassins like [[Edgar]] so you can push him away to make Edgar waste his ammo.
+*Gene makes great use of the Vision Gear, as the split of his projectiles has long range and wide spread. It is also recommended to equip Gene's Mythic Gear to increase the effectiveness of his Super.
+
+=== Other ===
+*Gene can extend his Super's pull by walking backwards as soon as it launches. It is also extended if Gene uses a launch pad while firing his Super, or if he teleports.
+*While an enemy is being pulled by Gene, they are stunned and unable to do anything. It is therefore recommended to start shooting at them the moment you have grabbed them and not afterwards.
+*Gene's Super interrupts enemy attacks and Supers, so he can halt [[Carl]]'s Super and [[Frank]] from landing his Super, etc.
+*The effectiveness of Gene's Super can be amplified when used in [[Events]] with [[Modifiers]] active. It can be used to pull enemies into the area where meteors are going to land, pull them into robots, or pull them away from energy drinks and healing mushrooms. His Super can also be used to pull enemies into the poison gas.
+*When using Gene's Super, be aware of who your target is. Avoid using it on close-medium ranged Brawlers or a Brawler with a dangerous Super charged, like [[Clancy]], [[Hank]], [[Shelly]], [[Dynamike]], [[Pearl]], [[Maisie]], or Carl (if he uses his Super after you pull him with yours), and in [[Showdown]], an enemy with a large amount of Power Cubes; doing so in these situations will most likely result in backfire. If you do accidentally use your Super on the above Brawlers, make sure to use your Lamp Blowout Gadget to push them back, giving you ample time and distance to attack or escape from them.
+*Gene's pull has priority over every entity in the game, except against another Gene that is pulling someone, the knockback from his Lamp Blowout Gadget, and the knockback from Gus' Super. This means Gene can pull enemies into minecarts in [[Minecart Madness]] to deal 2000 damage to them. Gene can also make use of his Gadget Lamp Blowout to push enemies into the minecarts.
+*Since Gene's attack has a very wide spread angle, it is very effective at checking bushes. His attack is also effective at dealing small chip damage that prevents enemies from healing from a long range, similar to [[Crow]]'s and [[Angelo]]'s poison.
+*Gene is especially powerful when paired with [[Max]], as Gene can heal Max with his Magic Puffs Star Power while she provides consistent damage, and Max's speed boost from her Super allows Gene to consistently land his Supers, as well as pull them further into allied territory if caught. This combination is also extremely deadly in 3v3 modes.
+*Gene’s Super will always hit an enemy if you auto-aim at close range. But be careful—you might pull the wrong target. Aim manually if you want to hit a specific enemy or if you’re pulling from far away.
+
+==Voice Lines==
+{| class="article-table"
+! colspan="7" style="text-align: center" | General
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 01.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 02.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 02.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 01.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 03.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 03.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 04.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 04.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 05.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 05.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 06.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 06.ogg|Filedescription = Gene laughs}}	
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 07.ogg|Filedescription = Gene laughs}}	
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 08.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 07.ogg|Filedescription = Gene laughs}}	
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 09.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 08.ogg|Filedescription = Gene laughs}}		
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 10.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 09.ogg|Filedescription = Gene laughs}}	
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 11.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 10.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 12.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 11.ogg|Filedescription = Gene laughs}}	
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 13.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 12.ogg|Filedescription = Gene laughs}}
+|'''Normal:'''
+
+{{Ogg|Filename = Gene vo 14.ogg|Filedescription = Gene laughs}}'''Evil:'''
+{{Ogg|Filename = Evil gene vo 13.ogg|Filedescription = Gene laughs}}
+|}
+
+==History==
+*15/02/19:
+**{{Balance|Content=Gene was added to the game.|Change=Neutral}}
+*27/02/19:
+**{{Balance|Content=Gene's Super can now travel through obstacles and now destroys them when pulling an enemy.|Change=Buff}}
+**{{Balance|Content=His Super charges 30% faster.|Change=Buff}}
+**{{Balance|Content=His Super projectile size was increased to 1.33 tiles (from 1).|Change=Buff}}
+**{{Balance|Content=His Magic Puffs Star Power healing area is no longer shown to enemies and was increased to 200 (from 100) per second.|Change=Buff}}
+**{{Balance|Content=His Super no longer deals damage (from 300) and no longer recharges his Super.|Change=Nerf}}
+**{{Balance|Content=He was given voice lines.|Change=Neutral}}
+*01/03/19:
+**{{Balance|Content=Gene's Super can now grab pets and turrets, like [[Nita]]'s bear.|Change=Buff}}
+*15/04/19:
+**{{Balance|Content=Auto-aiming now takes into account the added range from the projectile splitting.|Change=Buff}}
+**{{Balance|Content=Gene's Super projectile speed when pulling was decreased by 37.5%.|Change=Buff}}
+**{{Balance|Content=When a pulled enemy dies during the pull, the hand no longer destroys obstacles.|Change=Neutral}}
+**{{Balance|Content=While Gene's Super is pulling a target with his Magic Hand, the target can no longer be pulled by another Gene.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that allowed Gene's Super to pull the Robot boss so that it got stuck in [[Boss Fight]].|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that caused Gene's Super pull to stick enemies inside walls when those enemies are pulled into an indestructible wall.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that didn't allow Gene's Super to pull enemies with his Magic Hand while being poisoned by [[Crow]].|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Gene's Super now interrupts the healing process of the enemy being grabbed.|Change=Buff}}
+**{{Balance|Content=His Super range was decreased to 7.67 tiles (from 9).|Change=Nerf}}
+*07/08/19:
+**{{Balance|Content=Gene's Pat on the Back Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Gene's Pat on the Back Star Power was renamed to Spirit Slap and reworked from making his Super heal 2000 to allies hit by it to making Gene's attack deal 300 more damage when his Super was charged up.|Change=Neutral}}
+*19/09/19:
+**{{Balance|Content=The Pirate Gene skin was added.|Change=Neutral}}
+*09/10/19:
+**{{Balance|Content=Gene's Magic Puffs Star Power healing was increased to 300 (from 200) per second.|Change=Buff}}
+*23/10/19:
+**{{Balance|Content=Gene's Magic Puffs Star Power healing was increased to 400 (from 300) per second.|Change=Buff}}
+*21/11/19:
+**{{Balance|Content=Gene's animations were reworked.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Gene's Lamp Blowout Gadget was added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Gene's Lamp Blowout Gadget healing was decreased to 700 (from 1000).|Change=Nerf}}
+*10/06/20:
+**{{Balance|Content=The Evil Gene skin was added.|Change=Neutral}}
+*16/06/20:
+**{{Balance|Content=Gene's Lamp Blowout Gadget charges were decreased to 2 (from 3).|Change=Nerf}}
+*02/07/20:
+**{{Balance|Content=Gene's health was decreased to 3400 (from 3600).|Change=Nerf}}
+**{{Balance|Content=Pirate Gene's Super visual effects was reworked.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Gene's Super charge rate was slightly increased, decreasing the number of hits necessary to charge Gene's Super to 3 hits (from 4) at close range.|Change=Buff}}
+*15/12/20:
+**{{Balance|Content=Gene's Lamp Blowout Gadget charges was increased to 3 (from 2).|Change=Buff}}
+**{{Balance|Content=Gene's health was decreased to 3200 (from 3400).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Gene's Super was increased to 4 hits (from 3) at close range.|Change=Nerf}}
+**{{Balance|Content=Gene's Lamp Blowout Gadget healing was decreased to 600 (from 700), and its radius was decreased to 2.67 tiles (from 4).|Change=Nerf}}
+*27/01/21:
+**{{Balance|Content=Gene's main attack damage was increased to 1080 (from 1000).|Change=Buff}}
+*26/02/21:
+**{{Balance|Content=Gene's Vengeful Spirits Gadget was added.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Gene's health was increased to 3600 (from 3200).|Change=Buff}}
+**{{Balance|Content=Gene's Super now goes through minecarts.|Change=Buff}}
+*07/04/21:	
+**{{Balance|Content=Gene and Pirate Gene received facial animations.|Change=Neutral}}
+**{{Balance|Content=Gene's True Silver and True Gold skins were added.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Gene's Vengeful Spirits Gadget max damage was increased to 1000 (from 800) per shot.|Change=Buff}}
+**{{Balance|Content=Gene's main attack damage was decreased to 960 (from 1080).|Change=Nerf}}
+**{{Balance|Content=Gene's Lamp Blowout Gadget now only heals Gene when an enemy Brawler is knocked back.|Change=Nerf}}
+*28/10/21:
+**{{Balance|Content=The Swamp Gene skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Gene and all of his skins' visual effects were slightly reworked.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Gene's Lamp Blowout Gadget visual effects were slightly reworked.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Gene's Spirit Slap Star Power was reworked from increasing Gene's attack damage by 300 once his Super is fully charged up to making his Super deal 1000 damage to enemies hit by it.|Change=Neutral}}
+**{{Balance|Content=Gene's Talk to the Hand Mythic Gear was added.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Gene's Talk to the Hand Gear range boost was increased to 1 tile (from 0.33).|Change=Buff}}
+*28/02/23:
+**{{Balance|Content=Gene's class was changed to Controller (from Support).|Change=Neutral}}
+**{{Balance|Content=Gene's Magic Puffs Star Power visual effects were slightly reworked.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Gene's Vengeful Spirits Gadget max damage was increased to 1229 (from 1000) per shot and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Gene's Magic Puffs Star Power healing was increased to 519 (from 400) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Gene's Spirit Slap Star Power damage was increased to 1728 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Gene's Lamp Blowout Gadget now heals for 10% of his maximum health (from 600).|Change=Neutral}}
+**{{Balance|Content=Gene's flavor text was changed from "Gene uses his magic lamp to shoot a splitting projectile. His super is a magical hand that grabs and pulls enemies close!" to "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot."|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Gene's main attack damage was increased to 1000 (from 960).|Change=Buff}}
+**{{Balance|Content=Gene's Vengeful Spirits Gadget max damage was increased to 1280 (from 1229) per shot.|Change=Buff}}
+**{{Balance|Content=Gene's Spirit Slap Star Power damage was increased to 1800 (from 1728).|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=Gene's Hyper Hands Hypercharge was added.|Change=Neutral}}
+*24/05/24:
+**{{Balance|Content=The Dark Samurai Gene skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Neutral|Dark Samurai Gene's winning animation was slightly reworked.}}
+*07/11/24:
+**{{Balance|Content=The Angel Gene skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=The Jungle Gene skin was added. It was featured as a Sands of Time skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Evil Gene was slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Gene's Vengeful Spirits Gadget cooldown was increased to 20 seconds (from 16).|Change=Nerf}}
+*23/04/25:
+**{{Balance|Content=Fixed Gene's Hypercharge Super aiming line.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Gene's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Gene's Wasabi Power Super charge rate bonus was increased by 15%.|Change=Buff}}
+*30/05/25:
+**{{Balance|Content=Gene's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Gene's level up health was increased to 650 (from 450) in [[Brawl Arena]].|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Gene's level up damage was increased to 6% (from 5%) in Brawl Arena.|Change=Buff}}
+*03/09/25:
+**{{Balance|Content=Gene's level up damage was increased to 7% (from 6%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Gene's level up movement speed boost was increased to 10 (from 8) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Gene's level up reload speed boost was increased to 2.5% (from 2%) in Brawl Arena.|Change=Buff}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Gene's Hyper Hands Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Gene's Hyper Hands Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Gene's health was increased to 3800 (from 3600).}}
+**{{Balance|Buff|Gene's Magic Puffs Star Power healing was increased to 548 (from 519) per second.}}
+*22/04/26:
+**{{Balance|Neutral|Fixed an issue with Gene's Super bypassing crowd control immunity.}}
+*04/06/26:
+**{{Balance|Neutral|The Super Ball, Keeper and Score Stopper Gene skins were added. They were featured as Brawl Pass Season 51 skins and Brawl Strikers skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Gene's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1 = Jungle|Cost1 = Free after reaching 750 Trophies, free from Najia Boxes or 29 Gems|Campaign1=Sands of Time|Rarity1=Rare
+|Name2 = Pirate|Cost2 = 79 Gems • '''S'''|Campaign2=Tales of the Sea|Rarity2=Super Rare
+|Name3 = Swamp|Cost3 = Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Super Rare
+|Name4 = Angel|Cost4 = Free from Angelic Drops or 79 Gems|Campaign4 = Angels vs. Demons|Rarity4 = Super Rare
+|Name5 = Evil|Cost5 = 149 Gems|Campaign5=Sands of Time|Rarity5=Epic
+|Name6 = Dark Samurai|Cost6 = 149 Gems|Campaign6=Supercell Make|Campaign6_2=Sands of Time|Rarity6=Epic
+|TrueSkins = yes
+|NameP1=Super Ball|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Brawl Strikers|RarityP1=Epic
+|NameP2=Keeper|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Brawl Strikers|RarityP2=Epic
+|NameP3=Score Stopper|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Brawl Strikers|RarityP3=Epic
+}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Gene
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Swamp}}
+{{Pin Table|Evil}}
+{{Pin Table|Dark Samurai|Special}}
+{{Pin Table|Angel|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Gene|Rarity = Common}}
+|{{Spray|Type = Gene Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Gene1}}
+|{{Pfp|Gene2}}
+|{{Pfp|Gene3}}
+|{{Pfp|Dark Samurai Gene}}
+|{{Pfp|Evil Gene}}
+|}
+{{Navigation}}
+[[ru:Джин]]

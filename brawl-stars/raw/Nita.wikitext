@@ -1,0 +1,538 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Untamed|PrestigeTitle = Wild|Rarity = Rare|Class = Damage Dealer|MovementSpeed = 720 (Normal)|VoiceActor = Marissa Lenti|HealthLabel = Health|Health = 4200|AttackRange = 6 (Normal)<br>6.67 (with Hyper Buffie)|Reload = 1.1 seconds (Very Fast)|Attack = 960|AttackLabel = Damage|AttackSuperCharge = 20.9%|SuperRange = 5|SuperSuperCharge = 10%|SuperMinion = Bear|SuperMinionRange = 2|SuperReload = 0.6 seconds<br/>0.24 seconds (with Hyper Bear)|SuperMovementSpeed = 610<br>702 (with Hypercharge)|SuperLabel = Bear Health|Super = 4300|SuperLabel2 = Bear Damage|Super2 = 400|AttackCooldown=|AttackBullets=|AttackSpeed=2718<br>3718 (with Hyper Buffie)|AttackWidth=1.67|SuperSpeed=1196|Gadget1Name = Bear Paws|Gadget1Cooldown = 13 seconds|Gadget2Name = Faux Fur|Gadget2Cooldown = 14 seconds|StarPower1Name = Bear with Me|StarPower1 = 987|StarPower1Label = Nita heal per Bear hit|Previous=Shelly|Next=Colt|HyperchargeMultiplier=50%|AttackHyperchargeCharge=10.45%|SuperHyperchargeCharge=5%|Gadget2Duration=3 seconds|StarPower1Label2=Bear heal per Nita hit|StarPower12=985}}
+{{Quote|Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.}}
+{{Portrait}}
+Nita is a {{Rarity|Rare}} [[Brawler]] who has moderately high health, a moderate damage output, a very fast reload speed, and attacks with shockwaves that have a medium range and pierce through enemies, being able to hit multiple of them at the same time. She was one of the 15 Brawlers who released at the first Beta launch. She is most notable for her Super's ability to summon Bruce, a bear that has high health and quick melee attacks that deal very low damage. Her first Gadget, Bear Paws, will briefly stun all enemies in an area around Bruce. Her second Gadget, Faux Fur, shields Bruce for a brief amount of time. Her first Star Power, Bear with Me, heals Bruce slightly but considerably whenever she herself hits an enemy with her attack, and heals her likewise whenever Bruce hits an enemy. Her second Star Power, Hyper Bear, increases Bruce's attack speed. Her Hypercharge, Hyperbearing, increases Bruce's health and movement speed.
+
+==Attack: Rupture==
+{{Quote|Nita sends forth a shockwave, damaging enemies caught in the tremor.}}Nita releases a medium-ranged shockwave that deals moderate damage and reloads very fast. It has moderate range, and the shockwave is fairly wide. The attack pierces through enemies and is able to hit multiple at the same time.
+
+==Super: Overbearing==
+{{Quote|Nita summons the spirit of Big Baby Bear to hunt down her enemies.}}Nita summons a bear named Bruce that chases down and attacks enemies. He has slightly more health than her, and he walks towards the nearest enemy even if they are in a bush and attempts to hit them with quick melee attacks that deal low damage. If Nita uses her Super a second time while Bruce is alive, he will despawn from his location and reappear where he was placed, and his health will reset. 
+
+==Gadgets==
+===Bear Paws===
+{{Quote|Nita commands her bear to slam the ground, stunning all enemies within its reach. Cooldown: 13 seconds.}}
+{{Gadget|1}}
+After a 1-second delay, Bruce will stun enemies for 0.5 seconds within a 3.33 tile radius around it, allowing him to catch up to and attack them when this Gadget is used. The Gadget can only be used while Bruce is within 12 tiles of Nita's current location on the map. 
+
+{{Quote|Her bear gains +50% damage for its next attack.}}{{Buffie|Gadget}}
+With the Buffie, Bruce will deal 50% more damage in the next attack after the stun.
+
+===Faux Fur===
+{{Quote|For the next 3 seconds, Nita's bear gets a 35% shield against damage. Cooldown: 14 seconds.}}
+{{Gadget|2}}
+Bruce gains a 35% damage reduction shield for 3 seconds. This is slightly more protective than most other shielding abilities; however, it is applied onto the bear and not the Brawler itself. The Gadget can only be used while Bruce is within 12 tiles of Nita's current location on the map. This Gadget's cooldown begins after the duration ends.
+
+{{Quote|Nita and her bear become invulnerable for 0.5 sec.}}{{Buffie|Gadget}}
+With the Buffie, Nita and Bruce become immune to damage for 0.5 seconds.
+
+==Star Powers==
+===Bear with Me===
+{{Quote|Nita recovers 1092 health whenever her bear hits an enemy Brawler. When Nita deals damage to an enemy Brawler, her bear regains 1094 health.}}
+{{StarPower|1}}
+This Star Power allows Nita to heal Bruce with each attack that lands and vice versa. The healing to Bruce is equal to 57% of Nita's damage, and the healing to Nita is equal to 137% of Bruce's damage. After Nita or Bruce attack an enemy Brawler, small green effects fly out from them to her Bear or Nita to heal them, and they can be seen even when Nita and Bruce are inside a bush or Nita is invisible. Neither Nita nor Bruce can heal from attacking spawnables, excluding the bots in [[Brawl Arena]].
+
+{{Quote|This ability can overheal Nita or her bear for 2000 health.}}{{Buffie|Star}}
+With the Buffie, Nita and Bruce can now overheal proportional to the exceeding health in the form of a shield. The shield decays after 1 second, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears, and Nita and Bruce are damaged by the remaining damage.
+
+===Hyper Bear===
+{{Quote|Nita's bear attacks faster. Time between swipes is reduced by 60%.}}
+{{StarPower|2}}
+Bruce's attack delay is decreased from 0.6 seconds to 0.24 seconds, allowing him to deal damage 2.5 times as fast.
+
+{{Quote|Summoning Nita's bear gives her +25% reload speed for 3 sec.}}{{Buffie|Star}}
+With the Buffie, Nita gains a 25% reload speed boost for the first 3 seconds after spawning Bruce.
+
+==Hypercharge: Hyperbearing==
+{{Quote|Nita Hypercharges Bruce, making him increase in size, giving him 15% increased movement speed and 20% increased health.}}{{Hypercharge}}
+When activated, Bruce will appear larger visually. The enlarged bear will walk 15% faster and have 20% more health. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Nita's attacks increase in speed, width, and range.}}{{Buffie|Hyper}}
+With the Buffie, Nita's attacks travel faster, have longer range, and they are wider. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Nita summons another Bruce.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Nita could summon an additional Bruce with her Super. Her Bear Paws and Faux Fur Gadget only affected one of the Bruces, although her Hypercharge affected both. 
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Summons two Bruces at once!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>
+Nita could summon an additional Bruce with her Super. Her Bear Paws and Faux Fur Gadget only affected one of the Bruces, although her Hypercharge affected both.
+
+==Tips==
+===Game Modes and Maps===
+*Bruce is particularly effective in [[Heist]], as you can launch the bear over enemies and obstacles to target the safe. Additionally, Nita's Hyper Bear Star Power greatly enhances her effectiveness in this game mode.
+*Utilize Nita's Super to strengthen an aggressive push in [[Gem Grab]], helping your team seize control of the gem mine. The bear can absorb damage for your team, depleting the enemy's ammo, or it can be used to weaken opponents, making it an invaluable asset in battle.
+*In [[Brawl Arena]], with the Bear with Me Star Power equipped, you can launch Bruce towards a bot without it detecting the bear. This allows Bruce to swipe at the bot, and therefore healing Nita infinitely.
+
+===Recommended Build===
+*Faux Fur's shield greatly increases Bear with Me's effectiveness. In Heist, using it with her Hyper Bear Star Power may be more favorable. In general, only use Hyper Bear in non-Heist modes when she is using Bear Paws. Bear with Me provides more consistent value in these cases.
+*Nita’s Bear Paws Gadget can come into great effect if you have her Hyper Bear Star Power. Nita will be able to stun enemies and charge her Super again extremely fast, which can be useful against high-health Brawlers. However, it also works with her Bear with Me Star Power, allowing the bear to catch up to enemies and heal Nita more.
+
+===Strategies===
+*Nita's bear can effectively prevent the enemy he is chasing from healing up. The enemy will either have to attack, stopping or preventing natural healing, or get damaged, out of which the enemy will most likely choose the former. This can be used to pressure a weakened Gem carrier or other crucial opponent into getting easily defeated by Nita and her team.
+*Bruce can also detect Brawlers hidden in bushes and pursue them. This can help Nita and her teammates locate hiding enemy Brawlers, effectively making it a scouting tool.
+*Nita's Super can be thrown over walls, so it can come in handy for dealing with enemies that are hiding behind one. You can use the Bear Paws Gadget in these situations too to get more value off of Bruce and potentially defeat the enemies hiding behind a wall.
+
+===Other===
+*Nita's attack can hit multiple enemies from a fair distance away. Take advantage of this when enemies gather close together.
+*Bruce has moderately high health, allowing Nita to create her own tank. The bear distracts enemies and absorbs fire, protecting Nita and giving her a chance to deal damage.
+*Since Nita's Super is a thrown projectile, it will summon Bruce quicker if thrown toward an area closer to Nita. This is convenient when you are being attacked by a shotgun-wielding Brawler such as [[Shelly]], [[Darryl]], or [[Bull]] since the bear can tank the projectiles, allowing Nita to escape and counterattack.
+*Nita's bear has a very short attack range, so it is best if supported or used in an enclosed area where the enemy will be unable to get past the bear.
+*Nita can use her Super to spawn the bear on a launch pad to ambush unsuspecting enemy Brawlers. 
+*Avoid hiding behind her bear when facing a [[Penny]], [[Belle]], [[Brock]], [[Emz]], [[Squeak]], or [[Jessie]] since the splash or bounce attack will have a devastating effect on Nita.
+*When facing a Brawler with non-piercing attacks, place Bruce a few tiles in front of you to make them waste their ammo on Bruce, during which you and Bruce can effectively finish them off.
+*When facing an enemy [[Frank]], always have the Bear Paws Gadget ready to cancel Frank’s Super when he’s about to stun you, Bruce, and your teammates. This will not only cancel Frank’s Super in the process, therefore defusing it, but also give ample time for teammates to defeat Frank.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Nita start vo 01.ogg|Filedescription = "Nita!"}}'''Tusked:'''
+{{Ogg|Filename = Nita start vo evil 01.ogg|Filedescription = "Nita!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 01.ogg|Filedescription = "Welcome to Hawkins. Population: doomed."}}
+|'''Normal:'''
+{{Ogg|Filename = Nita lead 01.ogg|Filedescription = Nita yells}}'''Tusked:'''
+{{Ogg|Filename = Nita lead evil 01.ogg|Filedescription = Nita yells}}'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 01.ogg|Filedescription = "I'm claw-some!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita hurt 01.ogg|Filedescription = Nita growls}}'''Tusked:'''
+{{Ogg|Filename = Nita hurt evil 01.ogg|Filedescription = Nita growls}}'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 01.ogg|Filedescription = "Vecna, leave me!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita kill vo 01.ogg|Filedescription = Nita laughs}}'''Tusked:'''
+{{Ogg|Filename = Nita kill vo evil 01.ogg|Filedescription = Nita laughs}}'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 01.ogg|Filedescription = "Hypercharge claws!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita die 01.ogg|Filedescription = "No!"}}'''Tusked:'''
+{{Ogg|Filename = Nita die evil 01.ogg|Filedescription = "No!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st die vo 01.ogg|Filedescription = "I Nita hug."}}
+|'''Normal:'''
+{{Ogg|Filename = Nita atk 01.ogg|Filedescription = "Ya!"}}'''Tusked:'''
+{{Ogg|Filename = Nita atk evil 01.ogg|Filedescription = "Ya!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita ulti vo 01.ogg|Filedescription = Nita shrieks}}'''Tusked:'''
+{{Ogg|Filename = Nita ulti vo evil 01.ogg|Filedescription = Nita shrieks}}'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 01.ogg|Filedescription = "The shadows obey me!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Nita start vo 02.ogg|Filedescription = "Mwahaha!"}}'''Tusked:'''
+{{Ogg|Filename = Nita start vo evil 02.ogg|Filedescription = "Mwahaha!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 02.ogg|Filedescription = "The upside down awakens!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita lead 02.ogg|Filedescription = "Yeah!"}}'''Tusked:'''
+{{Ogg|Filename = Nita lead evil 02.ogg|Filedescription = "Yeah!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 02.ogg|Filedescription = "Clawing my way to the top!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita hurt 02.ogg|Filedescription = Nita growls}}'''Tusked:'''
+{{Ogg|Filename = Nita hurt evil 02.ogg|Filedescription = Nita growls}}'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 02.ogg|Filedescription = "The darkness burns!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita kill vo 02.ogg|Filedescription = Nita laughs}}'''Tusked:'''
+{{Ogg|Filename = Nita kill vo evil 02.ogg|Filedescription = Nita laughs}}'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 02.ogg|Filedescription = "I smell fear, and I like it!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita die 02.ogg|Filedescription = Nita whimpers}}'''Tusked:'''
+{{Ogg|Filename = Nita die evil 02.ogg|Filedescription = Nita whimpers}}'''Dustin:'''
+{{Ogg|Filename = Nita st die vo 02.ogg|Filedescription = "Bear can't fight shadows!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita atk 02.ogg|Filedescription = Nita yells}}'''Tusked:'''
+{{Ogg|Filename = Nita atk evil 02.ogg|Filedescription = Nita yells}}
+|'''Normal:'''
+{{Ogg|Filename = Nita ulti vo 02.ogg|Filedescription = "Bear!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 02.ogg|Filedescription = "Grizz is so goated right now!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Nita start vo 03.ogg|Filedescription = "Yeah!"}}'''Tusked:'''
+{{Ogg|Filename = Nita start vo evil 03.ogg|Filedescription = "Yeah!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 03.ogg|Filedescription = "Turning beast mode up to eleven!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita lead 03.ogg|Filedescription = Nita laughs}}'''Tusked:'''
+{{Ogg|Filename = Nita lead evil 03.ogg|Filedescription = Nita laughs}}'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 03.ogg|Filedescription = "Bear witness to my fierceness!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita hurt 03.ogg|Filedescription = Nita growls}}'''Tusked:'''
+{{Ogg|Filename = Nita hurt evil 03.ogg|Filedescription = Nita growls}}'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 03.ogg|Filedescription = "Demogorgon bites harder than that!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita kill vo 03.ogg|Filedescription = Nita taunts}}'''Tusked:'''
+{{Ogg|Filename = Nita kill vo evil 03.ogg|Filedescription = Nita taunts}}'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 03.ogg|Filedescription = "The Mind Flayer approves!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st die vo 03.ogg|Filedescription = "I'm upside down!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita atk 03.ogg|Filedescription = Nita yells}}'''Tusked:'''
+{{Ogg|Filename = Nita atk evil 04.ogg|Filedescription = Nita yells}}
+|'''Normal:'''
+{{Ogg|Filename = Nita ulti vo 03.ogg|Filedescription = "Mwahahaha!"}}'''Tusked:'''
+{{Ogg|Filename = Nita ulti vo evil 02.ogg|Filedescription = "Mwahahaha!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 03.ogg|Filedescription = "Obey the hive mind!"}}
+|-
+|'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 04.ogg|Filedescription = "Let's turn this arena upside down!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 04.ogg|Filedescription = "I'm leading a pack, better stand back!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita hurt 04.ogg|Filedescription = Nita whimpers}}'''Tusked:'''
+{{Ogg|Filename = Nita hurt evil 04.ogg|Filedescription = Nita whimpers}}'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 04.ogg|Filedescription = "This is why I don't leave the arcade!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 04.ogg|Filedescription = "Demogorgon's hungry!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st die vo 04.ogg|Filedescription = "The shadows took me."}}
+|'''Normal:'''
+{{Ogg|Filename = Nita atk 04.ogg|Filedescription = Nita yells}}'''Tusked:'''
+{{Ogg|Filename = Nita atk evil 03.ogg|Filedescription = Nita yells}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 04.ogg|Filedescription = "Straight from the upside down!"}}
+|-
+|'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 05.ogg|Filedescription = "The hunt begins now!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 05.ogg|Filedescription = "Hawkins always wins!"}}
+|'''Normal:'''
+{{Ogg|Filename = Nita hurt 05.ogg|Filedescription = "Ow"}}'''Tusked:'''
+{{Ogg|Filename = Nita hurt evil 05.ogg|Filedescription = "Ow!"}}'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 05.ogg|Filedescription = "The air... Eugh, it tastes like ash."}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 05.ogg|Filedescription = "Eleven says hi!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Nita atk 05.ogg|Filedescription = Nita yells}}'''Tusked:'''
+{{Ogg|Filename = Nita atk evil 05.ogg|Filedescription = Nita yells}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 05.ogg|Filedescription = "The hunt begins!"}}
+|-
+|'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 06.ogg|Filedescription = "Predator instincts on!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 06.ogg|Filedescription = "Like Eleven, but scarier!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st hurt vo 06.ogg|Filedescription = "Wait till I get my Demogorgon!"}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 06.ogg|Filedescription = "You'd never survive Hawkins."}}
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 06.ogg|Filedescription = "One Demogorgon, coming right up!"}}
+|-
+|'''Dustin:'''
+{{Ogg|Filename = Nita st start vo 07.ogg|Filedescription = "Gotta protect Hawkins."}}
+|'''Dustin:'''
+{{Ogg|Filename = Nita st lead vo 07.ogg|Filedescription = "Call me the Mind Flayer!"}}
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 07.ogg|Filedescription = "The upside down shows no mercy!"}}
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 07.ogg|Filedescription = "Hope you like jumpscares."}}
+|-
+|
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 08.ogg|Filedescription = "Only the savage survive!"}}
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st ulti vo 08.ogg|Filedescription = "Who ordered the walking nightmare?"}}
+|-
+|
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 09.ogg|Filedescription = "I'm bear-ly trying!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Dustin:'''
+{{Ogg|Filename = Nita st kill vo 10.ogg|Filedescription = "Your skills are paw-thetic!"}}
+|
+|
+|
+|}
+
+==History==
+*20/06/17:
+**{{Balance|Buff|The health decay mechanic from Nita's bear was removed.}}
+**{{Balance|Nerf|Nita's bear health was decreased to 1000 (from 1200).}}
+*27/06/17:
+**{{Balance|Nerf|Nita's reload time was increased to 1.25 seconds (from 1).}}
+*11/08/17:
+**{{Balance|Nerf|Nita's Super recharge rate was decreased by 25%.}}
+*04/09/17:
+**{{Balance|Neutral|Nita and Panda Nita were remodeled.}}
+*07/12/17:
+**{{Balance|Buff|Nita's main attack damage was increased to 680 (from 640).}}
+**{{Balance|Neutral|Nita's Bear With Me Star Power was added.}}
+**{{Balance|Neutral|She was given voice lines.}}
+**{{Balance|Neutral|The health and damage statistics of all Brawlers were multiplied by 4.}}
+*18/12/17:
+**{{Balance|Buff|Nita's health was increased to 3400 (from 3200).}}
+**{{Balance|Buff|Her Bear With Me Star Power healing was increased to 200 (from 180).}}
+*16/01/18:
+**{{Balance|Buff|Nita's health was increased to 3800 (from 3400).}}
+**{{Balance|Buff|Her Bear's movement speed was increased to 550 (from 500).}}
+**{{Balance|Buff|Her Bear With Me Star Power healing was increased to 300 (from 200).}}
+*21/03/18:
+**{{Balance|Neutral|Every Brawler's movement speed was increased by 70 points, increasing Nita's movement speed to 720 (from 650).}}
+**{{Balance|Neutral|Nita's Bear's movement speed was also increased to 610 (from 550).}} 
+**{{Balance|Neutral|All Brawlers' projectile speeds are increased by 9%.}} 
+*23/03/18:
+**{{Balance|Buff|Nita's main attack size was increased by 25%.}} 
+*09/04/18:
+**{{Balance|Buff|Nita's main attack damage was increased to 740 (from 680).}} 
+*05/12/18:
+**{{Balance|Neutral|Nita and Panda Nita were remodeled.}} 
+*20/12/18:
+**{{Balance|Neutral|The Red Nose Nita skin was added. It was featured as a Brawlidays 2018 skin.}} 
+*29/01/19:
+**{{Balance|Buff|Nita's Bear With Me Star Power healing was increased to 500 (from 300).}} 
+**{{Balance|Neutral|Her main attack animation was reworked.}} 
+*29/04/19:
+**{{Balance|Neutral|The Shiba Nita skin was added.}} 
+*26/06/19:
+**{{Balance|Neutral|Nita's Hyper Bear Star Power was added.}} 
+*18/09/19:
+**{{Balance|Buff|Nita's Hyper Bear Star Power attack speed was increased to 60% (from 50%).}} 
+*23/10/19:
+**{{Balance|Buff|Nita's health was increased to 4000 (from 3800).}} 
+**{{Balance|Buff|Her main attack damage was increased to 800 (from 740).}} 
+*23/01/20:
+**{{Balance|Neutral|The Koala Nita skin was added to raise money for Australian bush fires.}} 
+*17/03/20:
+**{{Balance|Neutral|Nita's Bear Paws Gadget was added.}} 
+*13/05/20:
+**{{Balance|Nerf|Nita's Bear Paws Gadget charges per match were decreased to 2 (from 3).}} 
+*10/09/20:
+**{{Balance|Buff|The number of hits necessary to charge Nita's Super was decreased to 6 hits (from 7).}}
+**{{Balance|Buff|The number of hits for Nita's bear to recharge her Super was decreased to 10 hits (from 12).}}
+**{{Balance|Buff|Her Bear Paws Gadget charges per match were increased to 3 (from 2).}}
+**{{Balance|Nerf|After activating her Bear Paws Gadget, her bear will have a one second delay before stunning an enemy.}}
+*22/10/20:
+**{{Balance|Buff|Nita's reload time was decreased to 1.1 seconds (from 1.25).}}
+**{{Balance|Buff|Nita's Bear can now move and attack while activating her Gadget.}}
+*11/11/20:
+**{{Balance|Neutral|Nita's Bear will now return to Nita if there are no enemies present on the battlefield.}}
+*13/11/20:
+**{{Balance|Neutral|Nita's Faux Fur Gadget was added.}}
+*15/12/20:
+**{{Balance|Buff|Nita's main attack damage was increased to 880 (from 800).}}
+**{{Balance|Buff|Nita's Bear With Me Star Power healing was increased to 800 (from 500).}}
+**{{Balance|Nerf|Nita's Bear With Me Star Power now does not heal Nita or her bear if they hit a pet or a spawnable.}}
+*27/01/21:
+**{{Balance|Neutral|Nita and her skins received facial animations.}}
+*07/04/21:
+**{{Balance|Neutral|Nita's True Silver and True Gold skins were added.}}
+*16/07/21:
+**{{Balance|Neutral|The Whale Watch Nita skin was added. It was featured as a Supercell Make skin.}}
+*27/10/21:
+**{{Balance|Neutral|Nita's class was changed to Damage Dealer (from Fighter).}}
+*17/11/21:
+**{{Balance|Neutral|Nita's main attack and Super animation was reworked.}}
+*17/01/22:
+**{{Balance|Neutral|The Nian Nita skin was added. It was featured as a Power League skin for Brawl Pass Season 10.}}
+*31/08/22:
+**{{Balance|Buff|Nita's main attack damage was increased to 960 (from 880).}}
+**{{Balance|Buff|The number of hits necessary to charge her Super was decreased to 5 hits (from 6).}}
+*12/12/22:
+**{{Balance|Neutral|Nita's rarity was changed to Rare (from Common).}}
+*02/01/23:
+**{{Balance|Neutral|The Gummybear Nita skin was added. It was featured as a Brawl Pass Season 16 skin.}}
+*28/02/23:
+**{{Balance|Neutral|Red Nose Nita's main attack visual effects and Super animation were reworked.}}
+*25/04/23:
+**{{Balance|Neutral|Nian Nita now costs 149 [[Gems]] (from 25000 [[Star Points]]).}}
+*05/09/23:
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*24/10/23:
+**{{Balance|Buff|Nita's Bear With Me Star Power healing was increased to 936 (from 800) and now scales with Power Levels.}}
+**{{Balance|Neutral|Nita's flavor text was changed from "Nita strikes her enemies with a thunderous shockwave. Her Super summons a massive bear to fight by her side!" to "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear."}}
+*08/11/23:
+**{{Balance|Neutral|The Tusked Nita skin was added. It was featured as a Bizarre Circus skin.}}
+*12/12/23:
+**{{Balance|Neutral|Tusked Nita's bear eyes effects were reworked.}}
+*27/02/24:
+**{{Balance|Buff|Nita's bear health was increased to 4300 (from 4000).}}
+**{{Balance|Neutral|Nita, Koala Nita, Red Nose Nita, Shiba Nita, Nian Nita, True Silver Nita, True Gold Nita, and Gummybear Nita's losing animations were reworked.}}
+*23/04/24:
+**{{Balance|Neutral|Nita's Hyperbearing Hypercharge was added.}}
+**{{Balance|Neutral|The Rui Shou Nita skin was added. It was featured as a Ranked skin.}}
+*29/04/24:
+**{{Balance|Neutral|Nita's Mutation was added for a limited time.}}
+*10/05/24:
+**{{Balance|Neutral|The Mechagodzilla Nita skin was added. It was featured as a Godzilla skin.}}
+*20/05/24:
+**{{Balance|Neutral|Nita's Mutation was removed from the game.}}
+*17/12/24:
+**{{Balance|Neutral|The Reinbear Nita skin was added. It was featured as a Brawlidays skin.}}
+*02/01/25:
+**{{Balance|Neutral|The Runner Nita skin was added. It was featured as a StarrForce Assemble skin.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Neutral|Fixed an issue where Nita's Hypercharge visuals were inverted.}}
+*30/04/25: 
+**{{Balance|Neutral|Fixed Nita's visual issues on some low end Android devices.}}
+*01/05/25:
+**{{Balance|Neutral|Nita's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Nita's Wasabi Power was removed from the game.}}
+*24/06/25:
+**{{Balance|Nerf|Nita's level up damage was decreased to 5% (from 6%) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Nita's level up health was decreased to 350 (from 450) in Brawl Arena.}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Nita's Hyperbearing Hypercharge speed boost from 26%.|Change=Nerf}}
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Nita's Hyperbearing Hypercharge damage boost from 25%.}}
+**{{Balance|Change=Neutral|Content=Nita's bear now shows with Nita in the lobby and animation screens.}}
+*06/11/25:
+**{{Balance|Content=The Dustin, 80's Dustin, and Future Dustin Nita skins were added. They were featured as Stranger Things skins.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Nita's health was increased to 4200 (from 4000).}}
+**{{Balance|Buff|Nita's Bear with Me Star Power healing was increased to 983 (from 936).}}
+*25/02/26:
+**{{Balance|Neutral|Nita's Bear with Me Star Power healing now scales with damage dealt instead of Nita's total health.}}
+**{{Balance|Neutral|Nita's Epic Gear was removed.}}
+**{{Balance|Neutral|Nita's Buffies were added.}}
+*04/03/26:
+**{{Balance|Neutral|Fixed an issue where Nita's bear did not receive the damage reduction shield from her Faux Fur Gadget.}}
+*01/04/26:
+**{{Balance|Neutral|The Bruce Nita skin was added. It was featured as an April Fool's skin.}}
+*22/04/26:
+**{{Balance|Neutral|Shiba Nita's main attack visual effects and Super animation were reworked.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Nita's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed Nita's Hypercharge card showing the wrong movement speed increase for Bruce.}}
+**{{Balance|Neutral|Nita's Hypercharged Bruce now gets a percentage-based movement speed increase instead of a flat one.}}
+
+==Cosmetics==
+===Skins (18)===
+====Nita====
+{{Skin Gallery
+|Name1 = Panda|Cost1 = Free from Classic Brawl Mega Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Animal Kingdom|Rarity1 = Rare
+|Name2 = Koala|Cost2 = Free from Glowbert Boxes or 79 Gems|Campaign2=Animal Kingdom|Rarity2 = Super Rare
+|Name3 = Whale Watch|Cost3 = 79 Gems|Campaign3 = Supercell Make|Campaign3_2 = Summer of Brawl|Rarity3 = Super Rare
+|Name4 = Runner|Cost4=Available in bundles for Pizza Slices or 79 Gems • '''S'''|Campaign4=StarrForce Assemble|Rarity4=Super Rare
+|Name5 = Red Nose|Cost5 = 149 Gems • '''E'''|Campaign5 = Brawlidays|Rarity5 = Epic
+|Name6 = Shiba|Cost6 = 149 Gems|Campaign6 = Golden Kawaii|Rarity6 = Epic
+|Name7 = Nian|Cost7= 149 Gems • '''E'''|Campaign7 = Ranked|Campaign7_2 = Lunar Brawl|Rarity7 = Epic
+|Name8 = Rui Shou|Cost8= Free from Ranked Starr Drops or 149 Gems|Campaign8 = Ranked|Campaign8_2=Lunar Brawl|Rarity8 = Epic
+|Name9 = Reinbear|Cost9 = Free from Presents or 149 Gems • '''S'''|Campaign9 = Brawlidays|Rarity9 = Epic
+|Name10 = Mechagodzilla|Cost10= 199 Gems • '''E'''|Campaign10 = Godzilla|Rarity10 = Mythic
+|Name11 = Bruce|Cost11=199 Gems|Campaign11 = April Fool's|Rarity11=Mythic
+|Name12 = Tusked|Cost12= Free from Gigi Boxes, Vince Boxes or 299 Gems|Campaign12 = Bizarre Circus|Rarity12 = Legendary
+|Name13 = Dustin|Cost13=Open 60 Card Packs during the Stranger Things Event or 499 Gems • '''S'''|Campaign13=Stranger Things|Rarity13=Hypercharge
+|Name14 = 80's Dustin|Cost14=499 Gems • '''S'''|Campaign14=Stranger Things|Rarity14=Hypercharge
+|Name15 = Future Dustin|Cost15=499 Gems • '''S'''|Campaign15=Stranger Things|Rarity15=Hypercharge
+|TrueSkins = yes
+|NameP1 = Gummybear|CostP1 = Brawl Pass, free from Presents, Pumpkin Boxes, Coffin Boxes or 79 Gems|CampaignP1 = Brawl Pass|CampaignP1_2 = Sugar Rush|RarityP1 = Super Rare}}
+
+====Bruce====
+{{Skin Gallery
+|Name1 = Panda|Campaign1=Animal Kingdom|Rarity1 = Rare
+|Name2 = Koala|Campaign2=Animal Kingdom|Rarity2 = Super Rare
+|Name3 = Whale Watch|Campaign3 = Supercell Make|Campaign3_2 = Summer of Brawl|Rarity3 = Super Rare
+|Name4 = Runner|Campaign4=StarrForce Assemble|Rarity4=Super Rare
+|Name5 = Red Nose|Campaign5 = Brawlidays|Rarity5 = Epic
+|Name6 = Shiba|Campaign6 = Golden Kawaii|Rarity6 = Epic
+|Name7 = Nian|Campaign7= Ranked|Campaign7_2 = Lunar Brawl|Rarity7 = Epic
+|Name8 = Rui Shou|Campaign8= Ranked|Campaign8_2=Lunar Brawl|Rarity8 = Epic
+|Name9 = Reinbear|Campaign9 = Brawlidays|Rarity9 = Epic
+|Name10 = Mechagodzilla|Campaign10 = Godzilla|Rarity10 = Mythic
+|Name11 = Bruce|Campaign11 =April Fool's|Rarity11 = Mythic
+|Name12 = Tusked|Campaign12 = Bizarre Circus|Rarity12 = Legendary
+|Name13 = Dustin|Campaign13=Stranger Things|Rarity13=Hypercharge
+|Name14 = 80's Dustin|Campaign14=Stranger Things|Rarity14=Hypercharge
+|Name15 = Future Dustin|Campaign15=Stranger Things|Rarity15=Hypercharge
+|TrueSkins = yes
+|NameP1 = Gummybear|CampaignP1 = Brawl Pass|CampaignP1_2 = Sugar Rush|RarityP1 = Super Rare
+|For=Minion}}
+
+===Buffie Skins===
+<gallery>
+Nita Buffie Skin-Gadget.png|Gadget
+Nita Buffie Skin-Star.png|Star
+Nita Buffie Skin-Hyper.png|Hyper
+Nita Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Nita
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Red Nose}}
+{{Pin Table|Nian}}
+{{Pin Table|Shiba}}
+{{Pin Table|Gummybear}}
+{{Pin Table|Whale Watch}}
+{{Pin Table|Tusked}}
+{{Pin Table|Rui Shou}}
+{{Pin Table|Mechagodzilla|Special}}
+{{Pin Table|Reinbear}}
+{{Pin Table|Runner|Thanks}}
+{{Pin Table|Koala|Thanks}}
+{{Pin Table|Dustin}}
+{{Pin Table|80's Dustin|Special}}
+{{Pin Table|Future Dustin|Special}}
+{{Pin Table|Bruce|Happy}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Nita|Rarity = Common}}
+|{{Spray|Type = Nita Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Tusked Nita|Rarity = Common}}
+|{{Spray|Type = Mechagodzilla Nita|Rarity = Common}}
+|{{Spray|Type = Dustin Nita|Rarity = Common}}
+|-
+|{{Spray|Type = Bruce Nita|Rarity = Common}}
+|
+|
+|
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Nita1}}
+|{{Pfp|Nita2}}
+|{{Pfp|Nita3}}
+|{{Pfp|Nita4}}
+|{{Pfp|Tusked Nita}}
+|-
+|{{Pfp|Nian Nita}}
+|{{Pfp|Rui Shou Nita}}
+|{{Pfp|Mechagodzilla Nita}}
+|{{Pfp|Shiba Nita}}
+|{{Pfp|Red Nose Nita}}
+|-
+|{{Pfp|Reinbear Nita}}
+|{{Pfp|Dustin Nita}}
+|{{Pfp|Bruce Nita}}
+|
+|
+|}
+
+{{Navigation}}
+[[vi:Nita]]
+[[ru:Нита]]
+[[pl:Nita]]
+[[es:Nita]]

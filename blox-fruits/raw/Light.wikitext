@@ -1,0 +1,393 @@
+{{CombosTab}}{{About|Light|the fruit with similar name|Lightning}}
+{{Blox Fruit Infobox
+|name   = Light
+|image  = <gallery>
+Light Fruit.png|Fruit Icon
+LightGIF.gif|Fruit GIF
+Light.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Rare
+|M1     = Yes
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 650,000
+|robux  = 1,100
+}}
+{{Quote|Grants light-speed movement and powerful light-based attacks.|Shop}}
+'''Light''' is a {{Rare}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|650,000}} or {{Robux|1,100}} from the [[Blox Fruit Dealer]].
+
+Light allows the user to create, become and manipulate light itself to inflict damage to enemies; it also allows the user to fly at the speed of light, conjure a light spear, and use fast kicks & ranged rays to damage opponents.
+
+==Awakening==
+Light costs {{Fragment|14,500}} to fully [[Raids|awaken]]. 
+
+The [[Titles|title]] "{{Title|The First Light}}" #037 will be granted upon awakening the first move of the Light Fruit. 
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive/Elemental Reflex|Light Elemental Reflex.gif}}
+
+|Moveset (V1)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Light M1
+|desc     = The user hits enemies with their Light Spear, dealing damage as a fruit (can hit [[Blade]] users).
+}}
+
+{{Skill
+|key      = Z
+|name     = Light Ray
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = yes
+|instinct = Can be dodged on direct impact. Explosion [[Instinct/Break|Breaks Instinct]].
+|gif      = Unawk Light Z
+|desc     = The user shoots a high-speed beam of light from their leg in the direction of the cursor, knocking back enemies.
+}}
+
+{{Skill
+|key      = X
+|name     = Barrage of Light
+|mastery  = 40
+|cooldown = 10.5
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Unawk Light X
+|desc     = The user teleports upwards and shoots about 15 small light beams that explode upon impact in an area around their cursor. Holding the aforementioned hotkey will send more projectiles.
+}}
+
+{{Skill
+|key      = C
+|name     = Reflection Kick
+|mastery  = 80
+|cooldown = 13.5
+|energy   = 35
+|break    = yes
+|instinct = Explosion [[Instinct/Break|breaks Instinct]]. Although the user still can dodge at the edge.
+|gif      = Unawk Light C
+|desc     = The user creates a series of mirrors with beams of light between them, which teleport the user to a point above where their cursor was, after which the user shoots a beam of light downwards, creating a large explosion beneath them.
+}}
+
+{{Skill
+|key      = V
+|name     = Sky Beam Barrage
+|mastery  = 110
+|cooldown = 24
+|energy   = 50
+|break    = yes
+|instinct = The patch [[Instinct/Break|breaks Instinct]].
+|gif      = Unawk Light V
+|desc     = The user kneels and sends a large amount of light from their palm, which then causes multiple beams to be summoned from the sky in a radius shown by a circle that appears upon activating the move. These rays explode and stun enemies upon impact.
+}}
+
+{{Skill
+|key      = F
+|name     = Light Flight
+|mastery  = 10
+|cooldown = 5.5
+|energy   = 30
+|instinct = Does not deal damage.
+|gif      = LightF
+|desc     = The user turns into light and flies at a fast pace. The user cannot change the direction of the flight manually, but they can still change direction if they hit a surface (such as a wall, the ground or even an enemy). Its speed is dependent on the player's remaining health.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Light M1
+|desc     = The user hits enemies with their Light Spear, dealing damage as a fruit (can hit [[Blade]] users).
+}}
+
+{{Skill
+|key      = Z
+|name     = Divine Arrow
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|frag     = 500
+|break    = yes
+|instinct = Direct impact is [[Instinct]]-trickable, but the explosions [[Instinct/Break|break Instinct]].
+|gif      = Awk Light Z (Tap)
+|gif2     = Awk Light Z (Held)
+|desc     = The user summons a bow and an arrow made out of high-pressure light. The arrow has a long range and good stun (only stuns on precise hit, not AoE). The move can be held to generate more arrows, having a maximum of 3 arrows when fully charged which do AoE damage.
+|desc2    = The longer it's held, the more arrows will generate and the more damage it does. If it is fully held and all 3 arrows hit the enemy, it will do 2x more damage than the tap version (1 arrow).
+}}
+
+{{Skill
+|key      = X
+|name     = Hand of the Emperor
+|mastery  = 40
+|cooldown = 10.5
+|energy   = 25
+|frag     = 3,000
+|break    = yes
+|instinct = The beam [[Instinct/Break|breaks Instinct]].
+|gif      = Awk Light X
+|gif2     = HandOfGod
+|desc     = The user shoots a beam of light from their right hand, aimed at their cursor. The beam stuns opponents for the skill's duration, while dealing damage. which they can move around. If aimed correctly, it stuns the target for as long as the skill lasts and does high damage. This move can be held with the aforementioned hotkey, similar to the unawakened [X] move (multi-hit).
+|desc2    = Attack range limit in air.
+}}
+
+{{Skill
+|key      = C
+|name     = Lightspeed Destroyer
+|mastery  = 80
+|cooldown = 13.5
+|energy   = 35
+|frag     = 4,000
+|break    = yes
+|instinct = The initial grab and final slam can be dodged, but the barrage [[Instinct/Break|breaks instinct]].
+|gif      = LightSpeedDestroyer
+|desc     = The user turns into light and dashes forward. If they touch an enemy while dashing, the player consecutively kicks them around and then smashes them back onto the ground.
+}}
+
+{{Skill
+|key      = V
+|name     = Wrath of God
+|mastery  = 110
+|cooldown = 24
+|energy   = 50
+|frag     = 5,000
+|break    = no
+|instinct = Does not [[Instinct/Break|break Instinct]] in any way.
+|gif      = Awk Light V
+|desc     = The user summons a huge barrage of light beams on their cursor, falling from the air that create explosions upon impact in a radius shown by a circle that appears upon activating the move.
+}}
+
+{{Skill
+|key      = F
+|name     = Shining Flight
+|mastery  = 10
+|cooldown = 5.5
+|energy   = 30
+|frag     = 2,000
+|instinct = Does not deal damage.
+|gif      = LightV2F
+|desc     = The user turns into light and flies extremely fast, slightly faster than its unawakened counterpart. Unlike the unawakened version, this move can change direction mid-flight, but the maneuverability is poor due to its snappy nature and 45° turns.
+}}
+}}
+
+==Overview==
+<tabber> 
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Long-ranged attacks, which gives it a versatile moveset.
+* Low mastery requirements.
+* Easy to obtain.
+* Good for traveling as it is extremely fast.
+* Excellent for starter players.
+
+|'''[Z] Light Ray'''
+* Decent damage.
+* Good range.
+* Little to no startup
+
+|'''[X] Barrage of Light'''
+* Slight stun.
+* Teleports the user upwards, which is good for dodging attacks.
+
+|'''[C] Reflection Kick'''
+* Good [[Area of Effect|AoE]].
+* Good damage.
+
+|'''[V] Sky Beam Barrage'''
+* [[Instinct/Break|Breaks instinct]].
+
+|'''[F] Light Flight'''
+* One of the fastest flights in the game.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* High knockback.
+* Not good for boss fights in open spaces.
+
+|'''[Z] Light Ray'''
+* Difficult to aim on the air.
+* High and unpredictable knockback.
+
+|'''[X] Barrage of Light'''
+* Deals a very low amount of damage if laggy since projectiles bug out.
+* Difficult to hit on air.
+* Poor accuracy.
+*Projectiles are not guaranteed to hit
+
+|'''[C] Reflection Kick'''
+* High knockback, making it hard to grind with.
+* Easy to predict, as there is slight start-up, and easily able to avoid with flash step
+
+|'''[V] Sky Beam Barrage'''
+* Close range.
+* Does not work on [[water]].
+
+|'''[F] Light Flight'''
+* The lower the [[health]], the slower it will be.
+* The user cannot change direction whilst flying.
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* All moves deal high damage
+* Amazing combo potential.
+* All moves have low endlag.
+* Good for PvP against fruits with big hitbox, especially [[Buddha]].
+
+|'''[Z] Divine Arrow'''
+* Good [[AoE]].
+* Low cooldown.
+* Doesn't knockback.
+* Does nearly double the damage if held for all three arrows.
+
+|'''[X] Hand of the Emperor'''
+* Hard to dodge.
+* Makes hit enemies less mobile.
+* Specialized in short/medium range.
+
+|'''[C] Lightspeed Destroyer'''
+* Fast cooldown.
+* Slight auto-aim.
+
+|'''[V] Wrath of God'''
+* Large [[AoE]].
+* High damage.
+
+|'''[F] Shining Flight'''
+* Can control the direction.
+* Second fastest flight in the game.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Very punishing if skills are missed
+* Requires good aim
+
+|'''[Z] Divine Arrow'''
+* Difficult to hit all three projectiles in [[PvP]] unless the target is stunned.
+
+|'''[X] Hand of the Emperor'''
+* This move has end-lag (when moving the yellow beam), which puts the player at a disadvantage in combat if the move is missed.
+* Quite hard to hit without stun.
+* Creates vulnerability as the player is immobile.
+
+|'''[C] Lightspeed Destroyer'''
+* Single-target move which makes it unsuitable for PvE.
+* Small hitbox.
+* Will not deal ground smash damage if used high in the air.
+* Hard to hit from far in PvP.
+* Lacks the afterstun to work as a combo extender.
+
+|'''[V] Wrath of God'''
+* Unreliable damage.
+
+|'''[F] Shining Flight'''
+* The lower the [[health]], the slower it will be.
+* Can only turn in perfect 45° angles, which makes it snappy when compared to other flight moves.
+}}
+}}
+</tabber>
+
+==Trivia==   
+* Up until [[Updates/6|Update 6]], Light's sword (which is now a spear) used to be a separate hotbar item instead of being usable through the fruit.
+** This spear can harm [[Blade]] users, as it counts as Fruit damage, not sword damage.
+* Before [[Updates/24|Update 24]], Light had the fastest flight move in the game. 
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* Light Icon was revamped.
+: <gallery>
+Light Icon (Old).png|Old Light Fruit's icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Light Fruit's model was remade.
+: <gallery>
+Light 150x150.png|Old Light Fruit's model.
+</gallery>
+
+|-|17.3.5=
+{{Update|17.3.5}}
+* Light's sword was replaced by a spear.
+: <gallery>
+Light Sword Old.jpg|The light sword before it was changed.
+</gallery>
+* Revamped awakened Light [X] move.
+** '''[X] Swords of Judgement''' was renamed to '''[X] Hand of the Emperor'''.
+
+|-|17.3=
+{{Update|17.3}}
+* All unawakened moves were reworked.
+** Unawakened:
+*** '''[Z] Light Beam''' was renamed to '''[Z] Light Ray'''.
+*** '''[X] Light Barrage''' was renamed to '''[X] Barrage of Light'''.
+*** '''[C] Light Kick''' was renamed to '''[C] Reflection Kick'''.
+
+|-|17.2=
+{{Update|17.2}}
+* '''[X] Swords of Judgement''' (V2) was buffed.
+** {{Arrow|buff}} The range of the projectiles was increased.
+** {{Arrow|buff}} Now ignores [[Instinct]].
+
+|-|12=
+{{Update|12}}
+* Light received an [[Raids|awakening]].
+
+|-|8=
+{{Update|8}}
+* Light's visuals were reworked and/or enhanced.
+
+|-|7=
+{{Update|7}}
+* The speed of the flight move is now relative to the user's current health. (Example: 50% [[health]] = 50% speed; caps at 40% speed)
+
+|-|6=
+{{Update|6}}
+* Light's sword is no longer a move, but a passive click ability (M1), and a new [V] move have been made in place of it.
+
+|-|2=
+{{Update|2}}
+* Added Light's sword.
+
+|-|1=
+{{Update|1}}
+* Light was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Свет]]

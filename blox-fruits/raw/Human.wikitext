@@ -1,0 +1,185 @@
+{{Race Infobox
+|name   = Human
+|image  = Human.png
+|source = 
+* [[Shop]]
+* [[tort]]
+* [[Event Shop]] or [[Death King]]
+|titles = 
+* The Unleashed (V2)
+* Full Power (V3)
+* {{Title|Berserker}} (V4)
+}}
+{{Quote|Relying on natural instinct, Humans stay versatile and responsive in any fight.}}
+'''Human''' is one of the four [[races]] that players can spawn with on joining the game for the first time. It has a 62.5% chance to be granted upon first joining the game, making it the most common race obtainable through this method. 
+
+Human mainly supports damage and mobility. Due to high damage increases, Human can assist the player greatly when they wish to perform one-shot combos, and allows for an aggressive playstyle. However, mastering this race is not easy because it does not provide any defense.
+
+__TOC__{{Clr}}
+
+==Obtainment==
+{{Race Stages Table/Default
+|V3 = Defeat [[Diamond (Boss)|Diamond]].
+* Defeat [[Jeremy]].
+* Defeat [[Orbitus]].
+
+|V4 = Trial of Strength
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage will give additional buffs and won't make visual changes to the player's avatar.
+{| class="fandom-table" width="100%"
+!Stage
+!Buffs
+|-
+|<center>'''V1'''</center>
+|No buffs.
+|-
+|<center>'''V2'''</center>
+|5 buffs:
+* Increase in movement speed.
+* 2x [[Flash Step]] range, and its cooldown is lowered to 10s.
+* Extra dodge and faster dodge regeneration on [[Instinct]].
+* +10 Dash distance increase
+* 10% faster melee speed
+|-
+|<center>'''V3'''</center>
+|Unlocks an ability named [[Last Resort]]. While activated:
+* The user deals more damage depending on how low their health is during the ability (2.5% - 52.25% more damage).
+: {| class="fandom-table mw-collapsible mw-collapsed sortable"
+|+ style="white-space: nowrap;" | Damage Chart
+! HP%
+! DMG%
+|-
+| 100% || 2.5%
+|-
+| 90% || 14.025%
+|-
+| 80% || 22.1%
+|-
+| 70% || 29.225%
+|-
+| 60% || 35.4%
+|-
+| 50% || 40.625%
+|-
+| 40% || 44.9%
+|-
+| 30% || 48.225%
+|-
+| 20% || 60% ''(Max.)''
+|-
+|}
+Lasts for 6 seconds and has a universal 30 second cooldown.
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "Gears" are put in. For more information, please refer to [[Race Awakening]].
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, the user receives max stats as well as increased damage, speed, and health regeneration by 10%.
+|-
+|'''Psycho:'''
+* Flash Step now has 3 charges which, when used, temporarily make the user invisible and faster upon use. Each charge regens in 15 seconds upon use. Charges are displayed at the bottom of the screen.
+<gallery>
+Psycho Tier 1.gif
+</gallery>
+|'''Upgraded version:'''
+* Flash Step charges now regen faster (in around 12.5 seconds), dash distance increases, and moves cannot be cancelled anymore upon taking damage.
+<gallery>
+Psycho Tier 2.gif
+</gallery>
+|-
+|'''Limit Break:'''
+* Allows the user to become stronger as they fight through a rage meter.
+* Each percentage of the Meter gives an additional percentage to damage counts. The meter is capped at 100.
+<gallery>
+Limit Break.gif
+</gallery>
+|'''Upgraded version:'''
+* The rage meter now lasts longer and is uncapped to 150%.
+<gallery>
+Limit Break Tier 2.gif
+</gallery>
+|-
+| colspan="2" | '''Visual changes:'''
+* While transformed, the user moves erratically and gains a red aura that scales with Limit Break percentage.
+<gallery>
+HumanV4 Transform.gif|The transformation animation.
+HumanV4 Idle.gif|The idle animation.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Much greater [[Flash Step]] range and cooldown reduction.
+* Great pick for glass cannon or highly aggressive builds.
+
+|'''[[Last Resort]] (V3)'''
+* Could be an alternative to [[Cyborg]]'s Energy Core for one-shot combos.
+* Great damage (from 50% HP or lower).
+
+|'''Psycho (V4)'''
+* Insane mobility, useful for chasing enemies or evading.
+* Allows you to play hyper-aggressive by dashing around your opponent to intimidate and damage
+* Tier 2 comes with uncancellable attacks, making it extremely useful against anything with tick damage (e.g: T-Rex's Prey Mark, Infernal Pincer's burn damage and [[Cyborg]] as a whole).
+
+|'''Limit Break (V4)'''
+* Insane damage potential, when at high percentages, it is possible to do upwards of 7k damage (in a single hit) using the right move.
+* Makes dealing with teamers much easier because of the high damage output requiring less moves to be landed in order to get a kill.
+}}
+
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* More focused towards damage and flash step, mostly accompanying one playstyle that may not be for everyone.
+
+|'''[[Last Resort]] (V3)'''
+* Can be risky in PvP, making the player vulnerable while they are at low HP for extra damage.
+* Requires the user to already be losing the fight to use to its full extent.
+
+|'''Psycho (V4)'''
+* Still can be seen by [[Instinct]].
+
+|'''Limit Break (V4)'''
+* Takes a while to deal a large amount of damage.
+}}
+</tabber>
+
+==Notes==
+* Combining Human with the [[Kitsune Ribbon]] lowers the player's [[Flash Step]] cooldown to 7.5 seconds.
+** However, Psycho (both Tier 1 and 2) while in V4 isn't affected by the buffs granted by the accessory.
+* Human grants the user a permanent extra dodge for [[Instinct]].
+* Human can deal insane damage when used with high combo potential fruits like [[Dough]] or [[Magnet|Magnet.]]
+* The Human race, along with the [[Cyborg]] race, are the only races that do not provide buffs to the user on V1.
+
+==Change History==
+{{Change History|1|content={{Update|26}}
+* Human V4 was buffed.
+** {{Arrow|buff}} All Flash Steps of '''Psycho''' now grant the user invisibility and a speed boost.
+----
+{{Update|25}}
+* Human V4 was nerfed.
+** {{Arrow|nerf}} Only one of the three Flash Steps of '''Psycho''' grants the user invisibility and a speed boost.
+** {{Arrow|nerf}} '''Limit Break''' rage damage scaling was decreased by approximately 25%.
+----
+{{Update|24}}
+*  {{Arrow|nerf}} Increased Human V3's cooldown by 10 seconds.
+----
+{{Update|19}}
+* {{Arrow|nerf}} Slightly decreased how fast the Human V4 rage meter refills.
+----
+{{Update|1}}
+* Human was released.}}
+
+==Navigation==
+{{RaceNavigation}}
+
+[[ru:Человек]]

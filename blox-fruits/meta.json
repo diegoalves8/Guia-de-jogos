@@ -1,0 +1,2048 @@
+{
+ "domain": "blox-fruits.fandom.com",
+ "categories": {
+  "Category:Blox Fruits": [
+   "Awakened Bosses",
+   "Barrier",
+   "Blade",
+   "Blizzard",
+   "Blox Fruits",
+   "Bomb",
+   "Buddha",
+   "Chop",
+   "Control",
+   "Creation",
+   "Dark",
+   "Diamond",
+   "Door",
+   "Dough",
+   "Dragon",
+   "Dragon (Classic)",
+   "Dragon/Combos",
+   "Eagle",
+   "Empyrean",
+   "Falcon",
+   "Fiend",
+   "Flame",
+   "Gas",
+   "Ghost",
+   "Gravity",
+   "Hellfire",
+   "Ice",
+   "Kilo",
+   "Kitsune",
+   "Leopard",
+   "Light",
+   "Lightning",
+   "Love",
+   "Magma",
+   "Magnet",
+   "Mammoth",
+   "Meme",
+   "Meme (Admin)",
+   "Pain",
+   "Phoenix",
+   "Portal",
+   "Quake",
+   "Revive",
+   "Rocket",
+   "Rogue",
+   "Rubber",
+   "Sand",
+   "Shadow",
+   "Smoke",
+   "Soul",
+   "Sound",
+   "Spider",
+   "Spike",
+   "Spin",
+   "Spirit",
+   "Spring",
+   "T-Rex",
+   "Tiger",
+   "Venom",
+   "Werewolf",
+   "Yeti"
+  ],
+  "Category:Fruits": [],
+  "Category:Natural": [
+   "Natural",
+   "Barrier",
+   "Blade",
+   "Bomb",
+   "Chop",
+   "Control",
+   "Creation",
+   "Diamond",
+   "Door",
+   "Ghost",
+   "Gravity",
+   "Kilo",
+   "Love",
+   "Magnet",
+   "Meme",
+   "Pain",
+   "Portal",
+   "Quake",
+   "Revive",
+   "Rocket",
+   "Rubber",
+   "Shadow",
+   "Soul",
+   "Sound",
+   "Spider",
+   "Spike",
+   "Spin",
+   "Spirit",
+   "Spring",
+   "Venom"
+  ],
+  "Category:Elemental": [
+   "Elemental",
+   "Blizzard",
+   "Dark",
+   "Dough",
+   "Flame",
+   "Gas",
+   "Hellfire",
+   "Ice",
+   "Light",
+   "Lightning",
+   "Magma",
+   "Sand",
+   "Smoke"
+  ],
+  "Category:Beast": [
+   "Beast",
+   "Buddha",
+   "Dragon",
+   "Dragon (Classic)",
+   "Eagle",
+   "Empyrean",
+   "Falcon",
+   "Fiend",
+   "Kitsune",
+   "Leopard",
+   "Mammoth",
+   "Phoenix",
+   "T-Rex",
+   "Tiger",
+   "Werewolf",
+   "Yeti"
+  ],
+  "Category:Fighting Styles": [
+   "Fighting Styles",
+   "Advanced Combat",
+   "Combat",
+   "Dark Step",
+   "Death Step",
+   "Dragon Breath",
+   "Dragon Talon",
+   "Electric",
+   "Electric Claw",
+   "Godhuman",
+   "Sanguine Art",
+   "Sharkman Karate",
+   "Superhuman",
+   "Water Kung Fu"
+  ],
+  "Category:Swords": [
+   "Swords",
+   "Bisento",
+   "Buddy Sword",
+   "Canvander",
+   "Cursed Dual Katana",
+   "Cutlass",
+   "Dark Blade",
+   "Dark Dagger",
+   "Dog Blade",
+   "Dragon Trident",
+   "Dragonheart",
+   "Dual Katana",
+   "Dual-Headed Blade",
+   "Fishing Trophy",
+   "Flail",
+   "Fox Lamp",
+   "Gravity Blade",
+   "Hallow Scythe",
+   "Iron Mace",
+   "Katana",
+   "Koko",
+   "Longsword",
+   "Midnight Blade",
+   "Oroshi",
+   "Pipe",
+   "Pole (1st Form)",
+   "Pole (2nd Form)",
+   "Rengoku",
+   "Saber",
+   "Saishi",
+   "Shark Anchor",
+   "Shark Saw",
+   "Shizu",
+   "Soul Cane",
+   "Spikey Trident",
+   "Trident",
+   "Triple Dark Blade",
+   "Triple Katana",
+   "True Triple Katana",
+   "Tushita",
+   "Twin Hooks",
+   "Wardens Sword",
+   "Yama"
+  ],
+  "Category:Races": [
+   "Races",
+   "Angel",
+   "Cyborg",
+   "Draco",
+   "Ghoul",
+   "Human",
+   "Rabbit",
+   "Shark"
+  ],
+  "Category:Islands": [
+   "Battle of the Gods",
+   "Campfire",
+   "Castle on the Sea",
+   "Cave Island",
+   "Colosseum (First Sea)",
+   "Cursed Ship",
+   "Dark Arena",
+   "Desert",
+   "Dimensional Rift",
+   "Dimensional Shift",
+   "Dojo Vault",
+   "Dungeons",
+   "Floating Turtle",
+   "Forgotten Island",
+   "Fountain City",
+   "Freezing Hydra Island",
+   "Frozen Dimension",
+   "Frozen Village",
+   "Grand Colosseum",
+   "Graveyard Island",
+   "Great Tree",
+   "Green Zone",
+   "Haunted Castle",
+   "Haunted Shipwreck",
+   "Hot and Cold",
+   "Hydra Island",
+   "Ice Castle",
+   "Indra Island",
+   "Jean-Luc Island",
+   "Jungle",
+   "Kingdom of Rose",
+   "Kitsune Island",
+   "Liberation of Tiki Outpost",
+   "Magma Village",
+   "Marine Fortress",
+   "Marine Starter",
+   "Middle Town",
+   "Mirage Island",
+   "North Pole",
+   "Observatory",
+   "Party Realm",
+   "Pirate Starter",
+   "Pirate Village",
+   "Port Town",
+   "Prehistoric Island",
+   "Prison",
+   "Red Legion Hideout",
+   "Remote Island",
+   "Rip Family x Red Legion Arena",
+   "Sea of Treats",
+   "Simulation Hub",
+   "Skylands",
+   "Snow Mountain",
+   "Submerged Island",
+   "Swan's Room",
+   "The Pit",
+   "Tiki Outpost",
+   "Treasure Island",
+   "Underwater City",
+   "Upper Skylands",
+   "Whirlpool (Location)"
+  ]
+ },
+ "pages": {
+  "Blox Fruits": "raw/Blox_Fruits.wikitext",
+  "Fruits": "raw/Blox_Fruits.wikitext",
+  "Blox Fruit Dealer": "raw/Blox_Fruit_Dealer.wikitext",
+  "Beli": "raw/Money.wikitext",
+  "Fragments": "raw/Fragments.wikitext",
+  "Races": "raw/Races.wikitext",
+  "Fighting Styles": "raw/Fighting_Styles.wikitext",
+  "Seas": "raw/Category_Locations.wikitext",
+  "First Sea": "raw/First_Sea.wikitext",
+  "Second Sea": "raw/Second_Sea.wikitext",
+  "Third Sea": "raw/Third_Sea.wikitext",
+  "Awakened Bosses": "raw/Awakened_Bosses.wikitext",
+  "Barrier": "raw/Barrier.wikitext",
+  "Blade": "raw/Blade.wikitext",
+  "Blizzard": "raw/Blizzard.wikitext",
+  "Bomb": "raw/Bomb.wikitext",
+  "Buddha": "raw/Buddha.wikitext",
+  "Chop": "raw/Chop.wikitext",
+  "Control": "raw/Control.wikitext",
+  "Creation": "raw/Creation.wikitext",
+  "Dark": "raw/Dark.wikitext",
+  "Diamond": "raw/Diamond.wikitext",
+  "Door": "raw/Door.wikitext",
+  "Dough": "raw/Dough.wikitext",
+  "Dragon": "raw/Dragon.wikitext",
+  "Dragon (Classic)": "raw/Dragon_Classic_.wikitext",
+  "Dragon/Combos": "raw/Dragon_Combos.wikitext",
+  "Eagle": "raw/Eagle.wikitext",
+  "Empyrean": "raw/Empyrean.wikitext",
+  "Falcon": "raw/Falcon.wikitext",
+  "Fiend": "raw/Fiend.wikitext",
+  "Flame": "raw/Flame.wikitext",
+  "Gas": "raw/Gas.wikitext",
+  "Ghost": "raw/Ghost.wikitext",
+  "Gravity": "raw/Gravity.wikitext",
+  "Hellfire": "raw/Hellfire.wikitext",
+  "Ice": "raw/Ice.wikitext",
+  "Kilo": "raw/Kilo.wikitext",
+  "Kitsune": "raw/Kitsune.wikitext",
+  "Leopard": "raw/Leopard.wikitext",
+  "Light": "raw/Light.wikitext",
+  "Lightning": "raw/Lightning.wikitext",
+  "Love": "raw/Love.wikitext",
+  "Magma": "raw/Magma.wikitext",
+  "Magnet": "raw/Magnet.wikitext",
+  "Mammoth": "raw/Mammoth.wikitext",
+  "Meme": "raw/Meme.wikitext",
+  "Meme (Admin)": "raw/Meme_Admin_.wikitext",
+  "Pain": "raw/Pain.wikitext",
+  "Phoenix": "raw/Phoenix.wikitext",
+  "Portal": "raw/Portal.wikitext",
+  "Quake": "raw/Quake.wikitext",
+  "Revive": "raw/Revive.wikitext",
+  "Rocket": "raw/Rocket.wikitext",
+  "Rogue": "raw/Rogue.wikitext",
+  "Rubber": "raw/Rubber.wikitext",
+  "Sand": "raw/Sand.wikitext",
+  "Shadow": "raw/Shadow.wikitext",
+  "Smoke": "raw/Smoke.wikitext",
+  "Soul": "raw/Soul.wikitext",
+  "Sound": "raw/Sound.wikitext",
+  "Spider": "raw/Spider.wikitext",
+  "Spike": "raw/Spike.wikitext",
+  "Spin": "raw/Spin.wikitext",
+  "Spirit": "raw/Spirit.wikitext",
+  "Spring": "raw/Spring.wikitext",
+  "T-Rex": "raw/T-Rex.wikitext",
+  "Tiger": "raw/Tiger.wikitext",
+  "Venom": "raw/Venom.wikitext",
+  "Werewolf": "raw/Werewolf.wikitext",
+  "Yeti": "raw/Yeti.wikitext",
+  "Natural": "raw/Natural.wikitext",
+  "Elemental": "raw/Elemental.wikitext",
+  "Beast": "raw/Beast.wikitext",
+  "Advanced Combat": "raw/Advanced_Combat.wikitext",
+  "Combat": "raw/Combat.wikitext",
+  "Dark Step": "raw/Dark_Step.wikitext",
+  "Death Step": "raw/Death_Step.wikitext",
+  "Dragon Breath": "raw/Dragon_Breath.wikitext",
+  "Dragon Talon": "raw/Dragon_Talon.wikitext",
+  "Electric": "raw/Electric.wikitext",
+  "Electric Claw": "raw/Electric_Claw.wikitext",
+  "Godhuman": "raw/Godhuman.wikitext",
+  "Sanguine Art": "raw/Sanguine_Art.wikitext",
+  "Sharkman Karate": "raw/Sharkman_Karate.wikitext",
+  "Superhuman": "raw/Superhuman.wikitext",
+  "Water Kung Fu": "raw/Water_Kung_Fu.wikitext",
+  "Swords": "raw/Swords.wikitext",
+  "Bisento": "raw/Bisento.wikitext",
+  "Buddy Sword": "raw/Buddy_Sword.wikitext",
+  "Canvander": "raw/Canvander.wikitext",
+  "Cursed Dual Katana": "raw/Cursed_Dual_Katana.wikitext",
+  "Cutlass": "raw/Cutlass.wikitext",
+  "Dark Blade": "raw/Dark_Blade.wikitext",
+  "Dark Dagger": "raw/Dark_Dagger.wikitext",
+  "Dog Blade": "raw/Dog_Blade.wikitext",
+  "Dragon Trident": "raw/Dragon_Trident.wikitext",
+  "Dragonheart": "raw/Dragonheart.wikitext",
+  "Dual Katana": "raw/Dual_Katana.wikitext",
+  "Dual-Headed Blade": "raw/Dual-Headed_Blade.wikitext",
+  "Fishing Trophy": "raw/Fishing_Trophy.wikitext",
+  "Flail": "raw/Flail.wikitext",
+  "Fox Lamp": "raw/Fox_Lamp.wikitext",
+  "Gravity Blade": "raw/Gravity_Blade.wikitext",
+  "Hallow Scythe": "raw/Hallow_Scythe.wikitext",
+  "Iron Mace": "raw/Iron_Mace.wikitext",
+  "Katana": "raw/Katana.wikitext",
+  "Koko": "raw/Koko.wikitext",
+  "Longsword": "raw/Longsword.wikitext",
+  "Midnight Blade": "raw/Midnight_Blade.wikitext",
+  "Oroshi": "raw/Oroshi.wikitext",
+  "Pipe": "raw/Pipe.wikitext",
+  "Pole (1st Form)": "raw/Pole_1st_Form_.wikitext",
+  "Pole (2nd Form)": "raw/Pole_2nd_Form_.wikitext",
+  "Rengoku": "raw/Rengoku.wikitext",
+  "Saber": "raw/Saber.wikitext",
+  "Saishi": "raw/Saishi.wikitext",
+  "Shark Anchor": "raw/Shark_Anchor.wikitext",
+  "Shark Saw": "raw/Shark_Saw.wikitext",
+  "Shizu": "raw/Shizu.wikitext",
+  "Soul Cane": "raw/Soul_Cane.wikitext",
+  "Spikey Trident": "raw/Spikey_Trident.wikitext",
+  "Trident": "raw/Trident.wikitext",
+  "Triple Dark Blade": "raw/Triple_Dark_Blade.wikitext",
+  "Triple Katana": "raw/Triple_Katana.wikitext",
+  "True Triple Katana": "raw/True_Triple_Katana.wikitext",
+  "Tushita": "raw/Tushita.wikitext",
+  "Twin Hooks": "raw/Twin_Hooks.wikitext",
+  "Wardens Sword": "raw/Wardens_Sword.wikitext",
+  "Yama": "raw/Yama.wikitext",
+  "Angel": "raw/Angel.wikitext",
+  "Cyborg": "raw/Cyborg.wikitext",
+  "Draco": "raw/Draco.wikitext",
+  "Ghoul": "raw/Ghoul.wikitext",
+  "Human": "raw/Human.wikitext",
+  "Rabbit": "raw/Rabbit.wikitext",
+  "Shark": "raw/Shark.wikitext",
+  "Battle of the Gods": "raw/Battle_of_the_Gods.wikitext",
+  "Campfire": "raw/Campfire.wikitext",
+  "Castle on the Sea": "raw/Castle_on_the_Sea.wikitext",
+  "Cave Island": "raw/Cave_Island.wikitext",
+  "Colosseum (First Sea)": "raw/Colosseum_First_Sea_.wikitext",
+  "Cursed Ship": "raw/Cursed_Ship.wikitext",
+  "Dark Arena": "raw/Dark_Arena.wikitext",
+  "Desert": "raw/Desert.wikitext",
+  "Dimensional Rift": "raw/Dimensional_Rift.wikitext",
+  "Dimensional Shift": "raw/Dimensional_Shift.wikitext",
+  "Dojo Vault": "raw/Dojo_Vault.wikitext",
+  "Dungeons": "raw/Dungeons.wikitext",
+  "Floating Turtle": "raw/Floating_Turtle.wikitext",
+  "Forgotten Island": "raw/Forgotten_Island.wikitext",
+  "Fountain City": "raw/Fountain_City.wikitext",
+  "Freezing Hydra Island": "raw/Freezing_Hydra_Island.wikitext",
+  "Frozen Dimension": "raw/Frozen_Dimension.wikitext",
+  "Frozen Village": "raw/Frozen_Village.wikitext",
+  "Grand Colosseum": "raw/Grand_Colosseum.wikitext",
+  "Graveyard Island": "raw/Graveyard_Island.wikitext",
+  "Great Tree": "raw/Great_Tree.wikitext",
+  "Green Zone": "raw/Green_Zone.wikitext",
+  "Haunted Castle": "raw/Haunted_Castle.wikitext",
+  "Haunted Shipwreck": "raw/Haunted_Shipwreck.wikitext",
+  "Hot and Cold": "raw/Hot_and_Cold.wikitext",
+  "Hydra Island": "raw/Hydra_Island.wikitext",
+  "Ice Castle": "raw/Ice_Castle.wikitext",
+  "Indra Island": "raw/Indra_Island.wikitext",
+  "Jean-Luc Island": "raw/Jean-Luc_Island.wikitext",
+  "Jungle": "raw/Jungle.wikitext",
+  "Kingdom of Rose": "raw/Kingdom_of_Rose.wikitext",
+  "Kitsune Island": "raw/Kitsune_Island.wikitext",
+  "Liberation of Tiki Outpost": "raw/Liberation_of_Tiki_Outpost.wikitext",
+  "Magma Village": "raw/Magma_Village.wikitext",
+  "Marine Fortress": "raw/Marine_Fortress.wikitext",
+  "Marine Starter": "raw/Marine_Starter.wikitext",
+  "Middle Town": "raw/Middle_Town.wikitext",
+  "Mirage Island": "raw/Mirage_Island.wikitext",
+  "North Pole": "raw/North_Pole.wikitext",
+  "Observatory": "raw/Observatory.wikitext",
+  "Party Realm": "raw/Party_Realm.wikitext",
+  "Pirate Starter": "raw/Pirate_Starter.wikitext",
+  "Pirate Village": "raw/Pirate_Village.wikitext",
+  "Port Town": "raw/Port_Town.wikitext",
+  "Prehistoric Island": "raw/Prehistoric_Island.wikitext",
+  "Prison": "raw/Prison.wikitext",
+  "Red Legion Hideout": "raw/Red_Legion_Hideout.wikitext",
+  "Remote Island": "raw/Remote_Island.wikitext",
+  "Rip Family x Red Legion Arena": "raw/Rip_Family_x_Red_Legion_Arena.wikitext",
+  "Sea of Treats": "raw/Sea_of_Treats.wikitext",
+  "Simulation Hub": "raw/Simulation_Hub.wikitext",
+  "Skylands": "raw/Skylands.wikitext",
+  "Snow Mountain": "raw/Snow_Mountain.wikitext",
+  "Submerged Island": "raw/Submerged_Island.wikitext",
+  "Swan's Room": "raw/Swan_s_Room.wikitext",
+  "The Pit": "raw/The_Pit.wikitext",
+  "Tiki Outpost": "raw/Tiki_Outpost.wikitext",
+  "Treasure Island": "raw/Treasure_Island.wikitext",
+  "Underwater City": "raw/Underwater_City.wikitext",
+  "Upper Skylands": "raw/Upper_Skylands.wikitext",
+  "Whirlpool (Location)": "raw/Whirlpool_Location_.wikitext"
+ },
+ "pageimages": {
+  "Blox Fruits": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest?cb=20250731190159",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest/scale-to-width-down/400?cb=20250731190159"
+  },
+  "Category:Locations": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest?cb=20251224002740",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest/scale-to-width-down/400?cb=20251224002740"
+  },
+  "Dark": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest?cb=20260806235544",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235544"
+  },
+  "Light": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623"
+  },
+  "Ice": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest?cb=20260806235854",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235854"
+  },
+  "Blox Fruit Dealer": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/Blox_Fruit_Dealer.png/revision/latest?cb=20250126111944",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/Blox_Fruit_Dealer.png/revision/latest/scale-to-width-down/247?cb=20250126111944"
+  },
+  "Bomb": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914"
+  },
+  "Flame": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest?cb=20250421150742",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest/scale-to-width-down/400?cb=20250421150742"
+  },
+  "Chop": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Chop_Fruit.png/revision/latest?cb=20231027115331"
+  },
+  "Buddha": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325"
+  },
+  "Fighting Styles": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/80/FightingStyleHeader.png/revision/latest?cb=20230326001741",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/80/FightingStyleHeader.png/revision/latest/scale-to-width-down/400?cb=20230326001741"
+  },
+  "Magma": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640"
+  },
+  "Lightning": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest?cb=20260806235926",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235926"
+  },
+  "Gravity": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest?cb=20250418030958",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest/scale-to-width-down/400?cb=20250418030958"
+  },
+  "Barrier": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Barrier_Fruit.png/revision/latest?cb=20231027115304"
+  },
+  "Races": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/16/The_Secret_Entrance_to_go_to_Wenlocktoad.png/revision/latest?cb=20200913033225",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/16/The_Secret_Entrance_to_go_to_Wenlocktoad.png/revision/latest/scale-to-width-down/400?cb=20200913033225"
+  },
+  "Dough": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest?cb=20260806235727",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235727"
+  },
+  "Control": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest?cb=20251223165924",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest/scale-to-width-down/400?cb=20251223165924"
+  },
+  "Money": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Money1.png/revision/latest?cb=20211208232140",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Money1.png/revision/latest?cb=20211208232140"
+  },
+  "Fragments": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/FragmentIcon.png/revision/latest?cb=20240828233755",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/FragmentIcon.png/revision/latest?cb=20240828233755"
+  },
+  "Second Sea": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/New_Second_Sea_image.png/revision/latest?cb=20260503145733",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/New_Second_Sea_image.png/revision/latest/scale-to-width-down/400?cb=20260503145733"
+  },
+  "Dragon (Classic)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c1/Dragon_%28Classic%29_Fruit.png/revision/latest?cb=20241215120055",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c1/Dragon_%28Classic%29_Fruit.png/revision/latest?cb=20241215120055"
+  },
+  "Meme (Admin)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a9/Meme_%28Admin%29_Fruit.png/revision/latest?cb=20230825025419",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a9/Meme_%28Admin%29_Fruit.png/revision/latest?cb=20230825025419"
+  },
+  "Love": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630"
+  },
+  "Falcon": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ef/Falcon_Fruit.png/revision/latest?cb=20231027115527"
+  },
+  "Kilo": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8e/Kilo_150x150.png/revision/latest?cb=20231022214358"
+  },
+  "Diamond": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest?cb=20260806235654",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235654"
+  },
+  "Third Sea": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bc/Updatedbloxfruitsmap25.png/revision/latest?cb=20250827195858",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bc/Updatedbloxfruitsmap25.png/revision/latest/scale-to-width-down/400?cb=20250827195858"
+  },
+  "Leopard": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Leopard_Fruit.png/revision/latest?cb=20231027115615"
+  },
+  "Blizzard": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313"
+  },
+  "Door": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9f/Door_Fruit.png/revision/latest?cb=20221026093922"
+  },
+  "Dragon/Combos": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/28/Sanguine%2C_Dragon_CDK_Combo.gif/revision/latest?cb=20250710040836",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/28/Sanguine%2C_Dragon_CDK_Combo.gif/revision/latest/scale-to-width-down/400?cb=20250710040836"
+  },
+  "First Sea": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/First_Sea.png/revision/latest?cb=20261005015750",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/First_Sea.png/revision/latest/scale-to-width-down/400?cb=20261005015750"
+  },
+  "Mammoth": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest?cb=20260806235956",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235956"
+  },
+  "Pain": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest?cb=20260807000029",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260807000029"
+  },
+  "Ghost": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest?cb=20260806235824",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235824"
+  },
+  "Kitsune": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest?cb=20241223162956",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest/scale-to-width-down/400?cb=20241223162956"
+  },
+  "Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604"
+  },
+  "Gas": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest?cb=20241223162315",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest/scale-to-width-down/400?cb=20241223162315"
+  },
+  "Dragon": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest?cb=20241222155214",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4b/Dragon_%28East%29_Fruit.png/revision/latest/scale-to-width-down/400?cb=20241222155214"
+  },
+  "Creation": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest?cb=20260626022311",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260626022311"
+  },
+  "Eagle": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest?cb=20250418030931",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest/scale-to-width-down/400?cb=20250418030931"
+  },
+  "Empyrean": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Empyrean_Fruit.png/revision/latest?cb=20251225145618",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Empyrean_Fruit.png/revision/latest/scale-to-width-down/400?cb=20251225145618"
+  },
+  "Fiend": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cd/Fiend_Fruit.png/revision/latest?cb=20260806235759",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cd/Fiend_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235759"
+  },
+  "Meme": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Meme_Fruit.png/revision/latest?cb=20260402183037"
+  },
+  "Magnet": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest?cb=20260905110645",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Magnet_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260905110645"
+  },
+  "Awakened Bosses": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/Awakened_Yeti.gif/revision/latest?cb=20260917133021",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/Awakened_Yeti.gif/revision/latest/scale-to-width-down/335?cb=20260917133021"
+  },
+  "Hellfire": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Hellfire_Fruit.png/revision/latest?cb=20261103013330",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Hellfire_Fruit.png/revision/latest/scale-to-width-down/400?cb=20261103013330"
+  },
+  "Swords": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/SwordsHeader.png/revision/latest?cb=20241223040618",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/SwordsHeader.png/revision/latest/scale-to-width-down/400?cb=20241223040618"
+  },
+  "Smoke": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224"
+  },
+  "Phoenix": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest?cb=20260807000100",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260807000100"
+  },
+  "Quake": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest?cb=20260807000132",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260807000132"
+  },
+  "Spider": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest?cb=20260806235623",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235623"
+  },
+  "Combat": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7c/Combat.png/revision/latest?cb=20251225111312",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7c/Combat.png/revision/latest/scale-to-width-down/400?cb=20251225111312"
+  },
+  "Sand": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest?cb=20260806235551",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806235551"
+  },
+  "Spring": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418"
+  },
+  "Spike": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251"
+  },
+  "Dark Step": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/39/Dark_Step.png/revision/latest?cb=20220228201917",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/39/Dark_Step.png/revision/latest/scale-to-width-down/400?cb=20220228201917"
+  },
+  "Water Kung Fu": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8f/Water_Kung_Fu.png/revision/latest?cb=20220228233922",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8f/Water_Kung_Fu.png/revision/latest/scale-to-width-down/400?cb=20220228233922"
+  },
+  "Electric": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Electric.png/revision/latest?cb=20220228215637",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Electric.png/revision/latest/scale-to-width-down/400?cb=20220228215637"
+  },
+  "Dark Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a0/Dark_Blade.png/revision/latest?cb=20241223051659",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a0/Dark_Blade.png/revision/latest/scale-to-width-down/400?cb=20241223051659"
+  },
+  "Dragon Breath": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/32/Dragon_Breath.png/revision/latest?cb=20220228202047",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/32/Dragon_Breath.png/revision/latest/scale-to-width-down/400?cb=20220228202047"
+  },
+  "Superhuman": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ad/Superhuman.png/revision/latest?cb=20220228215748",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ad/Superhuman.png/revision/latest/scale-to-width-down/400?cb=20220228215748"
+  },
+  "Rubber": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046"
+  },
+  "Cutlass": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1e/Cutlass.png/revision/latest?cb=20241223061505",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1e/Cutlass.png/revision/latest?cb=20241223061505"
+  },
+  "Dual Katana": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/90/Dual_Katana.png/revision/latest?cb=20241223061511",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/90/Dual_Katana.png/revision/latest?cb=20241223061511"
+  },
+  "Bisento": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/31/Bisento.png/revision/latest?cb=20241223032227",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/31/Bisento.png/revision/latest?cb=20241223032227"
+  },
+  "Death Step": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Death_Step.png/revision/latest?cb=20220228233624",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Death_Step.png/revision/latest/scale-to-width-down/400?cb=20220228233624"
+  },
+  "Dragon Trident": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Dragon_Trident.png/revision/latest?cb=20241223032313",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Dragon_Trident.png/revision/latest?cb=20241223032313"
+  },
+  "Sharkman Karate": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Sharkman_Karate.png/revision/latest?cb=20220228233224",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Sharkman_Karate.png/revision/latest/scale-to-width-down/400?cb=20220228233224"
+  },
+  "Beast": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/35/Empyrean.png/revision/latest?cb=20260226234144",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/35/Empyrean.png/revision/latest/scale-to-width-down/400?cb=20260226234144"
+  },
+  "Venom": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425"
+  },
+  "Portal": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746"
+  },
+  "Spin": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258"
+  },
+  "Electric Claw": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/00/Electric_Claw.png/revision/latest?cb=20220228215956",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/00/Electric_Claw.png/revision/latest/scale-to-width-down/400?cb=20220228215956"
+  },
+  "Dark Dagger": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f8/Dark_Dagger.png/revision/latest?cb=20241223032258",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f8/Dark_Dagger.png/revision/latest?cb=20241223032258"
+  },
+  "Canvander": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1c/Canvander.png/revision/latest?cb=20241223061500",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1c/Canvander.png/revision/latest?cb=20241223061500"
+  },
+  "Revive": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Revive_Fruit.png/revision/latest?cb=20240906042017"
+  },
+  "Shadow": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053"
+  },
+  "Dragon Talon": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Dragon_Talon.png/revision/latest?cb=20220228215538",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Dragon_Talon.png/revision/latest/scale-to-width-down/400?cb=20220228215538"
+  },
+  "Buddy Sword": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/62/Buddy_Sword.png/revision/latest?cb=20241223061455",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/62/Buddy_Sword.png/revision/latest?cb=20241223061455"
+  },
+  "Spirit": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559"
+  },
+  "Cursed Dual Katana": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Cursed_Dual_Katana.png/revision/latest?cb=20241223032242",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Cursed_Dual_Katana.png/revision/latest?cb=20241223032242"
+  },
+  "Godhuman": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/Godhuman.png/revision/latest?cb=20220913103851",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/Godhuman.png/revision/latest/scale-to-width-down/400?cb=20220913103851"
+  },
+  "Soul": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Soul_Fruit.png/revision/latest?cb=20231022210014"
+  },
+  "Sanguine Art": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Sanguine_Art.png/revision/latest?cb=20231025151119",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Sanguine_Art.png/revision/latest/scale-to-width-down/400?cb=20231025151119"
+  },
+  "Sound": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231"
+  },
+  "Rocket": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039"
+  },
+  "T-Rex": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220"
+  },
+  "Rogue": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/Mori_Z.gif/revision/latest?cb=20240808030247",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/Mori_Z.gif/revision/latest/scale-to-width-down/400?cb=20240808030247"
+  },
+  "Dragonheart": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Dragonheart.png/revision/latest?cb=20241223032328",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Dragonheart.png/revision/latest?cb=20241223032328"
+  },
+  "Yeti": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest?cb=20260806232444",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest/scale-to-width-down/400?cb=20260806232444"
+  },
+  "Werewolf": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3f/Werewolf_Fruit.png/revision/latest?cb=20251101005947",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3f/Werewolf_Fruit.png/revision/latest/scale-to-width-down/400?cb=20251101005947"
+  },
+  "Tiger": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest?cb=20251101005924",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest/scale-to-width-down/400?cb=20251101005924"
+  },
+  "Dog Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1b/DogBladeEquipped.png/revision/latest?cb=20260729143614",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1b/DogBladeEquipped.png/revision/latest/scale-to-width-down/293?cb=20260729143614"
+  },
+  "Advanced Combat": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Advanced_Combat.png/revision/latest?cb=20260908095002",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Advanced_Combat.png/revision/latest/scale-to-width-down/400?cb=20260908095002"
+  },
+  "Shark Saw": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ea/Shark_Saw.png/revision/latest?cb=20241223032633",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ea/Shark_Saw.png/revision/latest?cb=20241223032633"
+  },
+  "Wardens Sword": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Wardens_Sword.png/revision/latest?cb=20241223032757",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/Wardens_Sword.png/revision/latest?cb=20241223032757"
+  },
+  "Saber": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/23/Saber.png/revision/latest?cb=20241223032603",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/23/Saber.png/revision/latest?cb=20241223032603"
+  },
+  "Pole (1st Form)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b0/Pole_%281st_Form%29.png/revision/latest?cb=20241223032519",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b0/Pole_%281st_Form%29.png/revision/latest?cb=20241223032519"
+  },
+  "Saishi": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Saishi.png/revision/latest?cb=20241223032618",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Saishi.png/revision/latest?cb=20241223032618"
+  },
+  "Shizu": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/48/Shizu.png/revision/latest?cb=20241223032646",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/48/Shizu.png/revision/latest?cb=20241223032646"
+  },
+  "Oroshi": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Oroshi.png/revision/latest?cb=20250603090340",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Oroshi.png/revision/latest?cb=20250603090340"
+  },
+  "True Triple Katana": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b2/True_Triple_Katana.png/revision/latest?cb=20241223032727",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b2/True_Triple_Katana.png/revision/latest?cb=20241223032727"
+  },
+  "Koko": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f0/Koko.png/revision/latest?cb=20241223061527",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f0/Koko.png/revision/latest?cb=20241223061527"
+  },
+  "Rabbit": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fd/Rabbit.png/revision/latest?cb=20240407190116",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fd/Rabbit.png/revision/latest/scale-to-width-down/400?cb=20240407190116"
+  },
+  "Desert": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/Desert_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/Desert_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Longsword": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Longsword.png/revision/latest?cb=20241223032424",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Longsword.png/revision/latest?cb=20241223032424"
+  },
+  "Katana": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Katana.png/revision/latest?cb=20241223061522",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Katana.png/revision/latest?cb=20241223061522"
+  },
+  "Iron Mace": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Iron_Mace.png/revision/latest?cb=20241223032617",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Iron_Mace.png/revision/latest?cb=20241223032617"
+  },
+  "Triple Katana": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Triple_Katana.png/revision/latest?cb=20241223061548",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/34/Triple_Katana.png/revision/latest?cb=20241223061548"
+  },
+  "Pipe": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Pipe.png/revision/latest?cb=20241223032506",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b9/Pipe.png/revision/latest?cb=20241223032506"
+  },
+  "Dual-Headed Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/69/Dual-Headed_Blade.png/revision/latest?cb=20241223032343",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/69/Dual-Headed_Blade.png/revision/latest?cb=20241223032343"
+  },
+  "Soul Cane": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Soul_Cane.png/revision/latest?cb=20241223032659",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Soul_Cane.png/revision/latest?cb=20241223032659"
+  },
+  "Trident": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/Trident.png/revision/latest?cb=20241223032713",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/Trident.png/revision/latest?cb=20241223032713"
+  },
+  "Gravity Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Gravity_Blade.png/revision/latest?cb=20241223032412",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Gravity_Blade.png/revision/latest?cb=20241223032412"
+  },
+  "Colosseum (First Sea)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/54/Collesseum_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/54/Collesseum_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Dark Arena": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c6/RobloxScreenShot20210820_104327520_%282%29.png/revision/latest?cb=20210820024737",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c6/RobloxScreenShot20210820_104327520_%282%29.png/revision/latest/scale-to-width-down/400?cb=20210820024737"
+  },
+  "Human": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/Human.png/revision/latest?cb=20240407190115",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/Human.png/revision/latest/scale-to-width-down/400?cb=20240407190115"
+  },
+  "Cursed Ship": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/Cursed_Ships.png/revision/latest?cb=20251020130645",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/Cursed_Ships.png/revision/latest/scale-to-width-down/400?cb=20251020130645"
+  },
+  "Ghoul": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e3/Ghoul.png/revision/latest?cb=20240407190114",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e3/Ghoul.png/revision/latest/scale-to-width-down/400?cb=20240407190114"
+  },
+  "Midnight Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bf/Midnight_Blade.png/revision/latest?cb=20241223032439",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bf/Midnight_Blade.png/revision/latest?cb=20241223032439"
+  },
+  "Angel": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Angel.png/revision/latest?cb=20240407190112",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Angel.png/revision/latest/scale-to-width-down/400?cb=20240407190112"
+  },
+  "Rengoku": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7d/Rengoku.png/revision/latest?cb=20241223032548",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7d/Rengoku.png/revision/latest?cb=20241223032548"
+  },
+  "Triple Dark Blade": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/17/Triple_Dark_Blade.png/revision/latest?cb=20250427132425",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/17/Triple_Dark_Blade.png/revision/latest/scale-to-width-down/400?cb=20250427132425"
+  },
+  "Pole (2nd Form)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Pole_%282nd_Form%29.png/revision/latest?cb=20241223032534",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Pole_%282nd_Form%29.png/revision/latest?cb=20241223032534"
+  },
+  "Cyborg": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Cyborg.png/revision/latest?cb=20240407190113",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Cyborg.png/revision/latest/scale-to-width-down/400?cb=20240407190113"
+  },
+  "Yama": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Yama.png/revision/latest?cb=20241223032812",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Yama.png/revision/latest?cb=20241223032812"
+  },
+  "Twin Hooks": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Twin_Hooks.png/revision/latest?cb=20241223061553",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Twin_Hooks.png/revision/latest?cb=20241223061553"
+  },
+  "Castle on the Sea": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/06/Castle_on_the_Sea.png/revision/latest?cb=20250323095424",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/06/Castle_on_the_Sea.png/revision/latest/scale-to-width-down/400?cb=20250323095424"
+  },
+  "Tushita": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Tushita.png/revision/latest?cb=20241223032742",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Tushita.png/revision/latest?cb=20241223032742"
+  },
+  "Hallow Scythe": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Hallow_Scythe.png/revision/latest?cb=20241223061516",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Hallow_Scythe.png/revision/latest?cb=20241223061516"
+  },
+  "Cave Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e8/Unknow_Island.png/revision/latest?cb=20220120010701",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e8/Unknow_Island.png/revision/latest/scale-to-width-down/400?cb=20220120010701"
+  },
+  "Shark": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Shark.png/revision/latest?cb=20240407190116",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Shark.png/revision/latest/scale-to-width-down/400?cb=20240407190116"
+  },
+  "Spikey Trident": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3f/Spikey_Trident.png/revision/latest?cb=20241223061542",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3f/Spikey_Trident.png/revision/latest?cb=20241223061542"
+  },
+  "Battle of the Gods": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/13/BattleOfTheGodsOverview.png/revision/latest?cb=20250703181546",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/13/BattleOfTheGodsOverview.png/revision/latest/scale-to-width-down/400?cb=20250703181546"
+  },
+  "Shark Anchor": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Shark_Anchor.png/revision/latest?cb=20241223143202",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Shark_Anchor.png/revision/latest?cb=20241223143202"
+  },
+  "Dimensional Shift": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/90/Dimensional_Shift.png/revision/latest?cb=20231203044144",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/90/Dimensional_Shift.png/revision/latest/scale-to-width-down/400?cb=20231203044144"
+  },
+  "Fox Lamp": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/ff/Fox_Lamp.png/revision/latest?cb=20241223051549",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/ff/Fox_Lamp.png/revision/latest?cb=20241223051549"
+  },
+  "Dimensional Rift": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7b/Dimensional_Rift.gif/revision/latest?cb=20240601165221",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7b/Dimensional_Rift.gif/revision/latest?cb=20240601165221"
+  },
+  "Flail": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Flail.png/revision/latest?cb=20241223032358",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1d/Flail.png/revision/latest?cb=20241223032358"
+  },
+  "Draco": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Draco.png/revision/latest?cb=20241216212032",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Draco.png/revision/latest/scale-to-width-down/400?cb=20241216212032"
+  },
+  "Dojo Vault": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/DojoPortal.png/revision/latest?cb=20241216025559",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/DojoPortal.png/revision/latest/scale-to-width-down/400?cb=20241216025559"
+  },
+  "Campfire": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/55/Photo_Of_the_Campfire.png/revision/latest?cb=20250922154102",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/55/Photo_Of_the_Campfire.png/revision/latest/scale-to-width-down/400?cb=20250922154102"
+  },
+  "Fishing Trophy": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/Fishing_Trophy.png/revision/latest?cb=20251012210616",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/Fishing_Trophy.png/revision/latest?cb=20251012210616"
+  },
+  "Dungeons": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest?cb=20251224002740",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest/scale-to-width-down/400?cb=20251224002740"
+  },
+  "Magma Village": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/12/Magma_Village_30.png/revision/latest?cb=20260908145151",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/12/Magma_Village_30.png/revision/latest/scale-to-width-down/400?cb=20260908145151"
+  },
+  "Pirate Starter": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6d/Pirate_Starter_30.png/revision/latest?cb=20260908154831",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6d/Pirate_Starter_30.png/revision/latest/scale-to-width-down/400?cb=20260908154831"
+  },
+  "Upper Skylands": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Upper_Skylands_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/Upper_Skylands_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Skylands": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a5/Skylands_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a5/Skylands_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Prison": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Prison_30.png/revision/latest?cb=20260908154831",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Prison_30.png/revision/latest/scale-to-width-down/400?cb=20260908154831"
+  },
+  "Jungle": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Jungle_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Jungle_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Marine Fortress": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Marine_Fort_30.png/revision/latest?cb=20260908155432",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Marine_Fort_30.png/revision/latest/scale-to-width-down/400?cb=20260908155432"
+  },
+  "Marine Starter": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d5/Marine_Starter_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d5/Marine_Starter_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Middle Town": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/ff/Middle_Town_30.png/revision/latest?cb=20260908145155",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/ff/Middle_Town_30.png/revision/latest/scale-to-width-down/400?cb=20260908145155"
+  },
+  "Frozen Village": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c8/Snow_Island_30.png/revision/latest?cb=20260908154831",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c8/Snow_Island_30.png/revision/latest/scale-to-width-down/400?cb=20260908154831"
+  },
+  "Underwater City": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/UNDC.PNG/revision/latest?cb=20260906115640",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/UNDC.PNG/revision/latest?cb=20260906115640"
+  },
+  "Pirate Village": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/Pirate_Village_30.png/revision/latest?cb=20260908154831",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/Pirate_Village_30.png/revision/latest/scale-to-width-down/400?cb=20260908154831"
+  },
+  "Graveyard Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d7/Graveyard_Island.png/revision/latest?cb=20250322150903",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d7/Graveyard_Island.png/revision/latest/scale-to-width-down/400?cb=20250322150903"
+  },
+  "Hot and Cold": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Hot_and_cold_rework.png/revision/latest?cb=20260111175026",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Hot_and_cold_rework.png/revision/latest/scale-to-width-down/400?cb=20260111175026"
+  },
+  "Snow Mountain": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7f/Snow_Mountain.png/revision/latest?cb=20250323120611",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7f/Snow_Mountain.png/revision/latest/scale-to-width-down/400?cb=20250323120611"
+  },
+  "Jean-Luc Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9d/Jean_Luc_Island_30.png/revision/latest?cb=20260908154828",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9d/Jean_Luc_Island_30.png/revision/latest/scale-to-width-down/400?cb=20260908154828"
+  },
+  "Green Zone": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/GreenZone.jpg/revision/latest?cb=20260314082012",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/GreenZone.jpg/revision/latest/scale-to-width-down/400?cb=20260314082012"
+  },
+  "Ice Castle": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Ice_Castle.png/revision/latest?cb=20250322194924",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Ice_Castle.png/revision/latest/scale-to-width-down/400?cb=20250322194924"
+  },
+  "Kingdom of Rose": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ae/KingdomOfRose.jpg/revision/latest?cb=20260314082321",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ae/KingdomOfRose.jpg/revision/latest/scale-to-width-down/400?cb=20260314082321"
+  },
+  "Forgotten Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6c/FImap.png/revision/latest?cb=20231220012058",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6c/FImap.png/revision/latest/scale-to-width-down/400?cb=20231220012058"
+  },
+  "Port Town": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/50/Port_Town_Front_View.png/revision/latest?cb=20241222145856",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/50/Port_Town_Front_View.png/revision/latest/scale-to-width-down/400?cb=20241222145856"
+  },
+  "Floating Turtle": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Floating_Turtle_%28Outside%29.png/revision/latest?cb=20210911204449",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Floating_Turtle_%28Outside%29.png/revision/latest/scale-to-width-down/400?cb=20210911204449"
+  },
+  "Great Tree": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/07/Great_Tree.png/revision/latest?cb=20241226182754",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/07/Great_Tree.png/revision/latest/scale-to-width-down/400?cb=20241226182754"
+  },
+  "Hydra Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d4/Hydra_Island.png/revision/latest?cb=20250322125033",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d4/Hydra_Island.png/revision/latest/scale-to-width-down/400?cb=20250322125033"
+  },
+  "Haunted Castle": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/63/Haunted_Castle.png/revision/latest?cb=20241226183151",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/63/Haunted_Castle.png/revision/latest/scale-to-width-down/400?cb=20241226183151"
+  },
+  "Sea of Treats": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Seen.png/revision/latest?cb=20230104104539",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Seen.png/revision/latest/scale-to-width-down/400?cb=20230104104539"
+  },
+  "Fountain City": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Fountain_City.png/revision/latest?cb=20260905235408",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/Fountain_City.png/revision/latest/scale-to-width-down/400?cb=20260905235408"
+  },
+  "Mirage Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f9/Mirage_Clear_View.png/revision/latest?cb=20230316042605",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f9/Mirage_Clear_View.png/revision/latest/scale-to-width-down/400?cb=20230316042605"
+  },
+  "Indra Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/IndraIsland.jpg/revision/latest?cb=20251204011335",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/IndraIsland.jpg/revision/latest/scale-to-width-down/400?cb=20251204011335"
+  },
+  "North Pole": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/NorthPole.png/revision/latest?cb=20241226184038",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/NorthPole.png/revision/latest/scale-to-width-down/400?cb=20241226184038"
+  },
+  "Tiki Outpost": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5a/TikiOutpostdragonupdate.png/revision/latest?cb=20241215130158",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5a/TikiOutpostdragonupdate.png/revision/latest/scale-to-width-down/400?cb=20241215130158"
+  },
+  "Treasure Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Treasure_Island_Small.png/revision/latest?cb=20240506132840",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Treasure_Island_Small.png/revision/latest/scale-to-width-down/400?cb=20240506132840"
+  },
+  "Frozen Dimension": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Frozen_Dimension.png/revision/latest?cb=20231022223922",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/Frozen_Dimension.png/revision/latest/scale-to-width-down/400?cb=20231022223922"
+  },
+  "Haunted Shipwreck": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6a/HSW_ClearVision.png/revision/latest?cb=20240409182523",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6a/HSW_ClearVision.png/revision/latest/scale-to-width-down/400?cb=20240409182523"
+  },
+  "Remote Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e1/UsoapIsland.png/revision/latest?cb=20201211093626",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e1/UsoapIsland.png/revision/latest/scale-to-width-down/400?cb=20201211093626"
+  },
+  "Kitsune Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/KitsuneIsland.png/revision/latest?cb=20240615124013",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/KitsuneIsland.png/revision/latest/scale-to-width-down/400?cb=20240615124013"
+  },
+  "Red Legion Hideout": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Red_Legion_Hideout_%28Day%29.PNG/revision/latest?cb=20260404054016",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Red_Legion_Hideout_%28Day%29.PNG/revision/latest/scale-to-width-down/400?cb=20260404054016"
+  },
+  "Rip Family x Red Legion Arena": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3c/ArenaOverview.png/revision/latest?cb=20250304182201",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3c/ArenaOverview.png/revision/latest/scale-to-width-down/400?cb=20250304182201"
+  },
+  "Prehistoric Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b1/Prehistoric_Island.png/revision/latest?cb=20241229013115",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b1/Prehistoric_Island.png/revision/latest/scale-to-width-down/400?cb=20241229013115"
+  },
+  "Freezing Hydra Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Freezing_Hydra_Island_%28Hydra_Leader_House%29.png/revision/latest?cb=20241220041129",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Freezing_Hydra_Island_%28Hydra_Leader_House%29.png/revision/latest/scale-to-width-down/400?cb=20241220041129"
+  },
+  "Whirlpool (Location)": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2a/Whirlpool_%28Location%29.png/revision/latest?cb=20250123212806",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2a/Whirlpool_%28Location%29.png/revision/latest/scale-to-width-down/400?cb=20250123212806"
+  },
+  "Liberation of Tiki Outpost": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2b/Liberation_of_Tiki_Outpost.png/revision/latest?cb=20250522115244",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2b/Liberation_of_Tiki_Outpost.png/revision/latest/scale-to-width-down/400?cb=20250522115244"
+  },
+  "Swan's Room": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cf/SwanGate.png/revision/latest?cb=20250703190231",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cf/SwanGate.png/revision/latest/scale-to-width-down/400?cb=20250703190231"
+  },
+  "Submerged Island": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/db/Submerged_Island.png/revision/latest?cb=20250907024930",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/db/Submerged_Island.png/revision/latest/scale-to-width-down/400?cb=20250907024930"
+  },
+  "Party Realm": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/Celebration_event.png/revision/latest?cb=20250928021403",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/Celebration_event.png/revision/latest/scale-to-width-down/400?cb=20250928021403"
+  },
+  "Grand Colosseum": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b8/Grandest_Party.png/revision/latest?cb=20250930080321",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b8/Grandest_Party.png/revision/latest/scale-to-width-down/400?cb=20250930080321"
+  },
+  "Observatory": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/Observatory.jpg/revision/latest?cb=20251101061606",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/Observatory.jpg/revision/latest/scale-to-width-down/400?cb=20251101061606"
+  },
+  "Simulation Hub": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest?cb=20251224002740",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ab/Dungeon.png/revision/latest/scale-to-width-down/400?cb=20251224002740"
+  },
+  "The Pit": {
+   "original": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/22/Pit.png/revision/latest?cb=20261102124838",
+   "thumb": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/22/Pit.png/revision/latest/scale-to-width-down/400?cb=20261102124838"
+  }
+ },
+ "allcategories": [
+  [
+   "Blog posts",
+   1003
+  ],
+  [
+   "Third Sea",
+   611
+  ],
+  [
+   "Pages using DynamicPageList3 parser function",
+   498
+  ],
+  [
+   "Second Sea",
+   454
+  ],
+  [
+   "NPCs",
+   412
+  ],
+  [
+   "First Sea",
+   404
+  ],
+  [
+   "Items",
+   375
+  ],
+  [
+   "Enemies",
+   216
+  ],
+  [
+   "Community Pages",
+   145
+  ],
+  [
+   "Game Mechanics",
+   140
+  ],
+  [
+   "Melee Users",
+   128
+  ],
+  [
+   "Combo Pages",
+   123
+  ],
+  [
+   "Drops",
+   120
+  ],
+  [
+   "Unavailable",
+   116
+  ],
+  [
+   "Design templates",
+   105
+  ],
+  [
+   "Rare",
+   101
+  ],
+  [
+   "Miscellaneous NPCs",
+   99
+  ],
+  [
+   "Locations",
+   96
+  ],
+  [
+   "Legendary",
+   91
+  ],
+  [
+   "Accessories",
+   90
+  ],
+  [
+   "Accessories by Rarity",
+   89
+  ],
+  [
+   "Mythical",
+   85
+  ],
+  [
+   "Hidden categories",
+   80
+  ],
+  [
+   "Uncommon",
+   78
+  ],
+  [
+   "Kingdom of Rose",
+   74
+  ],
+  [
+   "Swordsmen",
+   74
+  ],
+  [
+   "Common",
+   71
+  ],
+  [
+   "Pages with broken file links",
+   68
+  ],
+  [
+   "Upgradable",
+   68
+  ],
+  [
+   "Blox Fruits",
+   66
+  ],
+  [
+   "Materials",
+   62
+  ],
+  [
+   "Weapons",
+   62
+  ],
+  [
+   "Islands",
+   61
+  ],
+  [
+   "Fish",
+   60
+  ],
+  [
+   "Materials by Rarity",
+   60
+  ],
+  [
+   "Event-Related",
+   59
+  ],
+  [
+   "Weapons by Rarity",
+   59
+  ],
+  [
+   "Quest NPCs",
+   58
+  ],
+  [
+   "Aura Users",
+   57
+  ],
+  [
+   "Fish by Rarity",
+   57
+  ],
+  [
+   "Gorilla's Friends",
+   56
+  ],
+  [
+   "Bought",
+   55
+  ],
+  [
+   "Fruit Users",
+   55
+  ],
+  [
+   "Blox Fruits by Price",
+   53
+  ],
+  [
+   "Blox Fruits by Robux Price",
+   53
+  ],
+  [
+   "Bosses",
+   53
+  ],
+  [
+   "Floating Turtle",
+   52
+  ],
+  [
+   "Stubs",
+   48
+  ],
+  [
+   "Updates",
+   48
+  ],
+  [
+   "Hydra Island",
+   47
+  ],
+  [
+   "Shop NPCs",
+   44
+  ],
+  [
+   "Crafted",
+   43
+  ],
+  [
+   "Swords",
+   43
+  ],
+  [
+   "Swords by Rarity",
+   42
+  ],
+  [
+   "Castle on the Sea",
+   41
+  ],
+  [
+   "Miscellaneous",
+   39
+  ],
+  [
+   "Interactive Maps",
+   38
+  ],
+  [
+   "Template documentation",
+   38
+  ],
+  [
+   "Templates",
+   38
+  ],
+  [
+   "Things removed from the game",
+   38
+  ],
+  [
+   "Café",
+   34
+  ],
+  [
+   "Sea of Treats",
+   34
+  ],
+  [
+   "Upgrading Categories",
+   34
+  ],
+  [
+   "Middle Town",
+   31
+  ],
+  [
+   "Fruits over $1 million",
+   30
+  ],
+  [
+   "M1 Fruits",
+   30
+  ],
+  [
+   "Natural",
+   30
+  ],
+  [
+   "Tiki Outpost",
+   30
+  ],
+  [
+   "Discussion Moderator Application/Declined",
+   29
+  ],
+  [
+   "Pages with syntax highlighting errors",
+   29
+  ],
+  [
+   "Candidates for cleanup",
+   27
+  ],
+  [
+   "Crafting Categories",
+   27
+  ],
+  [
+   "Disambiguations",
+   27
+  ],
+  [
+   "Hot and Cold",
+   26
+  ],
+  [
+   "Raid Bosses",
+   26
+  ],
+  [
+   "Simulation Hub",
+   26
+  ],
+  [
+   "Upgrades with Leather",
+   26
+  ],
+  [
+   "Upgrades with Scrap Metal",
+   26
+  ],
+  [
+   "Community Templates",
+   25
+  ],
+  [
+   "Discussion Moderator Application",
+   25
+  ],
+  [
+   "Flight fruits",
+   25
+  ],
+  [
+   "Admin Exclusive",
+   24
+  ],
+  [
+   "Eggs",
+   24
+  ],
+  [
+   "Eggs by Rarity",
+   24
+  ],
+  [
+   "Haunted Castle",
+   24
+  ],
+  [
+   "Trinkets",
+   24
+  ],
+  [
+   "Trinkets by Rarity",
+   24
+  ],
+  [
+   "Candidates for deletion",
+   23
+  ],
+  [
+   "Consumables",
+   23
+  ],
+  [
+   "Cursed Ship",
+   23
+  ],
+  [
+   "Transformation-based Fruits",
+   23
+  ],
+  [
+   "Pages using duplicate arguments in template calls",
+   22
+  ],
+  [
+   "Abilities",
+   21
+  ],
+  [
+   "Consumables by Rarity",
+   21
+  ],
+  [
+   "Green Zone",
+   21
+  ],
+  [
+   "Guns",
+   21
+  ],
+  [
+   "Sea Events",
+   21
+  ],
+  [
+   "Blog Fruits",
+   20
+  ],
+  [
+   "Pages using deprecated source tags",
+   20
+  ],
+  [
+   "Potions",
+   20
+  ],
+  [
+   "Potions by Rarity",
+   20
+  ],
+  [
+   "Frozen Village",
+   19
+  ],
+  [
+   "AFLAH-BLOX",
+   18
+  ],
+  [
+   "Premium",
+   18
+  ],
+  [
+   "Skylands",
+   18
+  ],
+  [
+   "Upgrades with Magma Ore",
+   18
+  ],
+  [
+   "Guns by Rarity",
+   17
+  ],
+  [
+   "Mansion (Third Sea)",
+   17
+  ],
+  [
+   "Beast",
+   16
+  ],
+  [
+   "Boats",
+   16
+  ],
+  [
+   "Quests",
+   16
+  ],
+  [
+   "Skins",
+   16
+  ],
+  [
+   "Content Moderator Application/Declined",
+   15
+  ],
+  [
+   "Prison",
+   15
+  ],
+  [
+   "Fighting Styles",
+   14
+  ],
+  [
+   "GUI",
+   14
+  ],
+  [
+   "Magma Village",
+   14
+  ],
+  [
+   "Marine Fortress",
+   14
+  ],
+  [
+   "Oni Realm",
+   14
+  ],
+  [
+   "Pirate Village",
+   14
+  ],
+  [
+   "Shop",
+   14
+  ],
+  [
+   "Upper Skylands",
+   14
+  ],
+  [
+   "Celestial Domain",
+   13
+  ],
+  [
+   "Elemental",
+   13
+  ],
+  [
+   "Port Town",
+   13
+  ],
+  [
+   "Stock Pages",
+   13
+  ],
+  [
+   "Events",
+   12
+  ],
+  [
+   "Forgotten Island",
+   12
+  ],
+  [
+   "Ice Castle",
+   12
+  ],
+  [
+   "Immunity Fruits",
+   12
+  ],
+  [
+   "North Pole",
+   12
+  ],
+  [
+   "Prehistoric Island",
+   12
+  ],
+  [
+   "Submerged Island",
+   12
+  ],
+  [
+   "Awaken-Able",
+   11
+  ],
+  [
+   "Desert",
+   11
+  ],
+  [
+   "Fruit Related",
+   11
+  ],
+  [
+   "Great Tree",
+   11
+  ],
+  [
+   "Guides",
+   11
+  ],
+  [
+   "Blox Fruits Wiki",
+   10
+  ],
+  [
+   "Jungle",
+   10
+  ],
+  [
+   "Upgrades with Angel Wings",
+   10
+  ],
+  [
+   "Upgrades with Dragon Scale",
+   10
+  ],
+  [
+   "Crafted with Fool's Gold",
+   9
+  ],
+  [
+   "Dragon Dojo",
+   9
+  ],
+  [
+   "Game Passes",
+   9
+  ],
+  [
+   "Graveyard Island",
+   9
+  ],
+  [
+   "Indexed pages",
+   9
+  ],
+  [
+   "Marine Starter",
+   9
+  ],
+  [
+   "Pirate Starter",
+   9
+  ],
+  [
+   "Snow Mountain",
+   9
+  ],
+  [
+   "Upgrades with Fish Tail",
+   9
+  ],
+  [
+   "Baits",
+   8
+  ],
+  [
+   "Baits by Rarity",
+   8
+  ],
+  [
+   "Card templates",
+   8
+  ],
+  [
+   "Content Moderator Application/Accepted",
+   8
+  ],
+  [
+   "Crafted with Money",
+   8
+  ],
+  [
+   "Currencies",
+   8
+  ],
+  [
+   "Fishing Rods",
+   8
+  ],
+  [
+   "Fishing Rods by Rarity",
+   8
+  ],
+  [
+   "Races",
+   8
+  ],
+  [
+   "Underwater City",
+   8
+  ],
+  [
+   "Upgrades with Mystic Droplet",
+   8
+  ],
+  [
+   "Cake Land",
+   7
+  ],
+  [
+   "Content Moderator Application",
+   7
+  ],
+  [
+   "Fountain City",
+   7
+  ],
+  [
+   "Kitsune Island",
+   7
+  ],
+  [
+   "Mansion",
+   7
+  ],
+  [
+   "Puzzles",
+   7
+  ],
+  [
+   "Raids",
+   7
+  ],
+  [
+   "Rarities",
+   7
+  ],
+  [
+   "Second Sea Maps",
+   7
+  ],
+  [
+   "Trials",
+   7
+  ],
+  [
+   "Article management templates",
+   6
+  ],
+  [
+   "Crafted with Electric Wing",
+   6
+  ],
+  [
+   "Crafted with Leviathan Scale",
+   6
+  ],
+  [
+   "Crafted with Shark Tooth",
+   6
+  ],
+  [
+   "Halloween Event",
+   6
+  ],
+  [
+   "Indra",
+   6
+  ],
+  [
+   "Products",
+   6
+  ],
+  [
+   "Rarity Templates",
+   6
+  ],
+  [
+   "Scrolls",
+   6
+  ],
+  [
+   "Sword Dealers",
+   6
+  ],
+  [
+   "Templates/Context-link",
+   6
+  ],
+  [
+   "Upgrades with Dark Fragment",
+   6
+  ],
+  [
+   "Browse",
+   5
+  ],
+  [
+   "Chocolate Land",
+   5
+  ],
+  [
+   "Crafted with Mutant Tooth",
+   5
+  ],
+  [
+   "Dungeon",
+   5
+  ],
+  [
+   "Dungeons",
+   5
+  ],
+  [
+   "Frozen Dimension",
+   5
+  ],
+  [
+   "Holiday Gifts",
+   5
+  ],
+  [
+   "Holiday Gifts by Rarity",
+   5
+  ],
+  [
+   "Islands with multiple Quest Givers",
+   5
+  ],
+  [
+   "Keys",
+   5
+  ],
+  [
+   "Party Realm",
+   5
+  ],
+  [
+   "Race Awakening",
+   5
+  ],
+  [
+   "Temple of Time",
+   5
+  ],
+  [
+   "Upgrades with Vampire Fang",
+   5
+  ],
+  [
+   "Whirlpool",
+   5
+  ]
+ ]
+}

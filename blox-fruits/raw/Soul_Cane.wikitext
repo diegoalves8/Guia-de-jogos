@@ -1,0 +1,130 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Soul Cane
+|image     = <gallery>
+Soul Cane.png|Icon
+Soul Cane EQ.png|In-Game
+Soul Cane Held.png|Held
+Soul Cane (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->|type      = Sword
+|rarity    = Rare
+|update    = 2
+
+<!-- Weapon Obtainment -->|sea       = 1
+|location  = Magma Village
+|obtain    = Bought
+|source    = [[Living Skeleton]]
+}}
+{{Quote|Seems to be able to conjure souls. Previously belonged to a king.|Item}}
+The '''Soul Cane''' is a {{Rare}} [[sword]].
+
+The Soul Cane is well known because of its combo potential and good stun, with its '''[Z] Soul Beam''' being a great stun, and essentially the identity of the sword.
+
+However, it is hard to use due to its small hitboxes, which is why this sword is mostly seen in skill builds, usually paired with [[Acidum Rifle]] and other [[guns]].
+
+==Obtainment==
+The Soul Cane can be obtained after defeating the drill in the [[Magma Village]]'s [[Island Secrets|Secret Quest]] and talking to the [[Living Skeleton]]. It is recommended to use [[Fast Mode]] due to the entrance being hard to spot.
+
+Prior to Update 30, Soul Cane has to be bought for {{Money|750,000}} from Living Skeleton.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Soul Cane M1
+|desc     = The player does 3 swings, ending with a fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Soul Beam
+|mastery  = 40
+|cooldown = 7.5
+|energy   = 25
+|break    = Yes
+|instinct = Breaks Instinct on direct hits. However, it is possible to dodge indirect hits.
+|gif      = SoulBeaam
+|desc     = The user shoots a thin white beam in the direction of their cursor, which explodes after travelling a short distance. The explosion damages and freezes enemies hit by it for around 1.5 seconds, similar to unawakened [[Ice]]'s {{Ability|Ice|C}}. Sounds like awakened [[Light]]'s [C] Lightspeed Destroyer
+}}
+
+{{Skill
+|key      = X
+|name     = Soul Slashes
+|mastery  = 120
+|cooldown = 13.5
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = SoulSlashed
+|desc     = The user rapidly slashes with their sword, launching several air slashes that travel a short distance in the direction of their cursor, damaging enemies hit by them and stunning them for two seconds. This move is similar to [[Spider]]'s [Z] Thermal Laceration.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Very high combo potential.
+** Good for any playstyle due to having stuns.
+* Good for farming since both moves have [[AoE]] and no knockback.
+* Moves are extremely fast.
+* Low mastery requirements.
+
+|'''[Z] Soul Beam'''
+* Can [[Instinct Break|break Instinct]].
+* Stuns for a long time.
+* High speed.
+
+|'''[X] Soul Slashes'''
+* Good combo extender.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Blade]] users are immune.
+* Requires a lot of skill to utilize its full potential.
+* Required RNG to obtained, since you need to wait [[Island Secrets]] to be triggered on Magma Village.
+* Low damage compared to other swords.
+* Small hitbox.
+* Short range.
+
+|'''[Z] Soul Beam'''
+* Hard to hit.
+* Can only break [[Instinct]] if it's a headshot.
+
+|'''[X] Soul Slashes'''
+* Can be [[Instinct]]-tricked.
+* Long attack.
+* Locks the user in place, making them vulnerable.
+}}
+</tabber>
+
+==Trivia==
+* Despite being one of the earliest swords added in-game, the Soul Cane is still good for [[PvP mechanics|PvP]].
+* The Soul Cane is the second most expensive sword in the [[First Sea]], the first being [[Bisento]].
+* The way Soul Cane is held is known as the "reverse grip" (in real life combat), which is often not practiced due to the technique lacking range, protection and power in ranged combat. 
+** The Soul Cane is held the exact same way as the [[Gravity Blade]].
+
+==Change History==
+{{Change History|2|content=
+{{Update|24}}
+* Soul Cane's model was reworked.
+<gallery>
+Soul Cane Icon (Old).png|Old Soul Cane model
+</gallery>
+----
+{{Update|20}}
+* Soul Cane's moves were reworked.
+----
+{{Update|2}}
+* Soul Cane was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

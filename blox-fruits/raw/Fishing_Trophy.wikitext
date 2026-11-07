@@ -1,0 +1,51 @@
+{{Unavailable|type=[[Sword]]|desc=The [[Events#Summer_Expansion|Golden Whirlpool Event]] is over.}}
+{{Weapon Infobox
+|name      = Fishing Trophy
+|image     = <gallery>
+Fishing Trophy.png|Icon
+Fishing Trophy Unequipped.png|Equipped
+Fishing Trophy Held.PNG|Held
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Uncommon
+|update    = 27.4
+
+<!-- Weapon Obtainment -->
+|sea       = 1/2/3
+|obtain    = Place top 1000 in fishing competition.
+}}
+{{Quote|One of the finalists in the first ever fishing tournament! Super rare, good job.|Item}}
+The '''Fishing Trophy''' is an {{Uncommon}} [[sword]].
+
+==Obtainment==
+The Fishing Trophy was rewarded to everyone who placed in the top 1,000 in the 2025 Fishing Tournament.
+
+==Upgrading==
+The Fishing Trophy cannot be upgraded and can only be enchanted using [[Common Scroll]]s, just like any other non-upgraded weapon.
+
+==Moveset==
+{{Skill
+|key      = Z
+|name     = Trophy Aura
+|mastery  = 1
+|cooldown = 0.75
+|energy   = 1
+|break    = No
+|gif      = Fishing Trophy Z Ability
+|desc     = The Trophy emits a golden aura.
+}}
+
+==Trivia==
+* Even though the Fishing Trophy counts as a [[Swords|Sword]], its shape and name have no sword-like characteristics at all.
+* The Fishing Trophy is the only sword that deals no damage in any way whatsoever.
+* The Fishing Trophy does not help in [[PvP mechanics|PvP]] or grinding at all.
+* The Fishing Trophy can be considered the second rarest sword in the game, below the admin-exclusive [[Triple Dark Blade]].
+* This is one of the two [[Swords]] that cannot be [[Upgrading|upgraded]], alongside [[Dog Blade]].
+
+==Change History==
+{{Change History|27.4}}
+
+==Navigation==
+{{Sword Navbox}}

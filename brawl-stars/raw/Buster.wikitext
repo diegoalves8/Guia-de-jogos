@@ -1,0 +1,249 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Blockbuster|PrestigeTitle = Absolute Cinema|Rarity = Mythic|Class = Tank|MovementSpeed = 800 (Fast)<br>650 (while Super is active)|HealthLabel = Health|Health = 5000|AttackLabel = Damage at min. range |Attack = 1380|AttackRange = 5.33 (Normal)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 34.5–17.25% (close to max range)|SuperRange = 3 (Short)|SuperSuperCharge = |VoiceActor=Paul Moran
+|AttackCooldown=|AttackBullets=|AttackLabel2=Damage at max range|Attack2=690|SuperBullets= |SuperDuration=3 seconds|SuperMovementSpeed=|Super=800|SuperLabel=Counterattack damage|AttackSpeed=4200|AttackWidth=|SuperSpeed=4200 (counterattack projectile)|SuperWidth=0.33 (counterattack projectile)|AttackSpread=45°|SuperSpread=60°<br>360° (with Hypercharge)|Gadget1Name=Utility Belt|Gadget1=960|Gadget1Label=Heal per ally|Gadget1Cooldown=16 seconds|Gadget2Name=Slo-Mo Replay|Gadget2Cooldown=17 seconds|HyperchargeMultiplier=40%|Hypercharge|Previous=Otis|Next=Gray|AttackHyperchargeCharge=13.8–6.9% (close to max range)}}
+{{Quote|Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!}}{{Portrait}}
+
+Buster is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 15: Ghost Station. He has high health, a fast movement speed, a medium attack range, immense utility with his Super, and a potentially high damage output at close range, but a moderately slow reload speed. He was the 61st Brawler added to the game. His Trait allows Buster to passively charge his Super if an ally is within a radius of him. Buster attacks by projecting a wave of light in a cone that deals more damage up close. His Super is a barrier that blocks projectiles and converts them into a counterattack projectile. Buster's first Gadget, Utility Belt, heals allies inside his Trait radius with the healing increased with more allies in it. His second Gadget, Slo-Mo Replay, allows his next attack to pull in enemies. His first Star Power, Blockbuster, increases the damage of his attack for every ally inside his Trait radius. His second Star Power, Kevlar Vest, grants him a shield and immunity from slows, stuns, or knockbacks while his Super is active. His Hypercharge, Plot Armor, makes his Super a circular barrier that blocks projectiles and converts them into a counterattack projectile, which has increased damage.
+
+==Trait==
+{{Quote|This Brawler charges Super by staying close to teammates.}}{{Trait|Radius}}
+Buster's Trait is a 2.83-tile radius around him. All allies inside the radius charge Buster's Super. It charges his Super and Hypercharge faster if there are multiple allies inside the radius, and the amount of Super charge per second is 2.75% multiplied by one more than the number of allies present within the circle. This results in the Super charging by 5.5% per second each or over 20 seconds for one ally, and his Hypercharge by 2.2% per second each or over 50 seconds for one ally. Ally Busters will have their Trait radius shown, while enemy Busters will have their Trait radius hidden.
+
+==Attack: Lens Flare==
+{{Quote|Buster shoots a cone of light from his projector, damaging all enemies within range.}} Buster projects a wave of light in a cone shape at a medium range that pierces through enemies. Targets closer to Buster take the most damage, and targets near Buster's maximum range take significantly less damage, similar to [[Leon]]. Buster's attack has an extremely fast cooldown of 0.35 seconds.
+
+==Super: Montage==
+{{Quote|Buster projects a shield in front of him, blocking all enemy projectiles and reflecting the energy back towards enemies.}} Buster projects a reel barrier a short distance in front of himself for 3 seconds, which deletes enemy projectiles on contact. This includes projectiles that can pierce through enemies or walls. However, lobbed projectiles will simply pass over the barrier, (i.e. Brawlers of the [[Artillery]] class' attacks, or [[Brock]], [[Amber]], [[Byron]], and [[Janet]]'s Supers). The barrier can block projectiles from all directions, including from behind, but the projectiles must come directly into contact with the barrier to be blocked, so Buster can still be hit from other angles or from inside the Super. The barrier is completely ineffective against area effects like [[Hank]], [[Jacky]], or [[Doug]]'s attack, as well as single-target melee attacks like that from [[Fang]] or [[Nita|Bruce]]. The barrier also does not interfere with the movement of enemy Brawlers or spawnables in any way, so it cannot block [[Mortis]], [[Mico]], or [[Kenji]]'s attack. It also does not block projectiles from allies. 
+
+When a projectile is blocked by Buster's shield, the energy gets reflected in back in the direction the projectile came from as a counterattack projectile that takes the form of a film reel. There is a small cooldown time of 0.25 seconds between reflected attacks, and projectiles blocked by the barrier within that cooldown will not be reflected. The counterattack projectiles don't charge Buster's Super, and the damage is constant and doesn't scale with the blocked projectile's damage, [[Showdown|Power Cubes]], or outside buffs. In addition, the counterattack projectiles will not copy any additional effects that the original projectiles had, such as the pull from Gene's Super. 
+
+Bounce attacks like [[Rico]] and [[Ruffs]]' can bounce off the barrier, and attacks that spawn a splash radius or other effect at the end will have their paths cut short by the barrier but will still spawn their effects (like [[Mr. P]], [[Squeak]], or Brock's attack). [[Emz]]'s attack gets absorbed by Buster's Super but doesn't get reflected. If Buster is stunned, pulled, knocked back, or uses his main attack while his Super is active, his Super will be cancelled. While his Super is active, his movement speed is decreased, and he cannot carry the ball in [[Brawl Ball]]. 
+
+==Gadgets==
+===Utility Belt===
+{{Quote|Buster heals himself and all nearby allies for 1200 health for each ally in his Super charge area. Cooldown: 16 seconds.}}{{Gadget|1}} When activated, Buster and any allies in the radius of his Trait will instantly recover 12% of his maximum health for each ally inside of it.
+
+===Slo-Mo Replay===
+{{Quote|Buster's next Lens Flare pulls enemies towards him. Cooldown: 17 seconds.}}{{Gadget|2}} When activated, Buster's next main attack will pull enemy Brawlers towards him by 3 tiles, like [[Frank]]'s Irresistible Attraction Gadget. A Gadget symbol will glow above Buster's head signaling the Gadget's usage, as well as a glowing joystick. The Gadget's cooldown starts after using this attack.
+
+==Star Powers==
+===Blockbuster===
+{{Quote|Buster's Lens Flare deals 20% more damage for each ally in his Super charge area.}}{{StarPower|1}} Buster's attack deal an additional 20% more damage to enemies for every ally in the radius of his Trait. This damage boost stacks with more allies inside of his Trait radius, and stacks with other damage boosts such as [[8-Bit]] and [[Belle]]'s Super.
+
+===Kevlar Vest===
+{{Quote|While Montage is active Buster takes 10% less damage and is immune to knockbacks, slows and stuns.}}{{StarPower|2}} While Buster's Super is active, he gains a shield that reduces all damage he takes by 10% and immunity from slows, stuns, and knockbacks.
+
+==Hypercharge: Plot Armor==
+{{Quote|Buster's Shield is now 360 degress around him and reflected projectiles deal more damage!}}{{Hypercharge}}
+When activated, Buster projects a circular barrier for 3 seconds, which behaves identically to his normal Super. However, despite the description, the damage from the counterattack projectile is not increased. Buster also gains a 20% speed boost, as well as a 5% damage and shield boost, though the speed boost will be cancelled while the Super is active.
+
+==Tips==
+*It is recommended for Buster to close the gap between him and the enemy, as Buster's main attack does significantly more damage up close than farther away. Take advantage of bushes, obstacles, or thin choke points to ambush and defeat enemies.
+*Buster's wide and piercing attack makes it very effective against grouped-up enemies. Use this to your advantage to charge your Super faster.
+*When using his Super, make sure to point it in the direction of possible enemy attacks. Remember to strafe in the same direction as the enemy to deflect their attacks and avoid getting hit from the side. 
+*Be mindful when using Buster's Super, as it can be interrupted (unless Buster has his Kevlar Vest Star Power equipped) and will cancel Buster's Super.
+*Buster's barrier only counterattacks when it is hit, so it is possible to hit him from the side. Attacks from above, such as Artillery Brawlers, [[Willow]], and [[Berry]]'s main attack, will also not be reflected.
+*Use his Utility Belt Gadget in more supportive game modes like [[Gem Grab]] and [[Bounty]]. Buster's Slo-Mo Replay Gadget is handier in more aggressive modes like [[Brawl Ball]], where he can disarm the ball carrier.
+*Buster's Kevlar Vest is extremely useful against [[Bo]], as if you trigger a Bo's Super mine, then activate your Super you will not be knocked back, and you can withstand more damage.
+*When dealing with Brawlers with slow unload speeds, such as [[8-Bit]], [[Griff]], [[Pam]], [[Lola]], [[Rico]], and [[Eve]], you can angle your Super to be placed right in front of them, completely preventing them from dealing damage and ensuring their projectiles are reflected.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = buster start vo 01.ogg|Filedescription ="Time to start the show!"}}
+|{{Ogg|Filename = buster lead vo 01.ogg|Filedescription ="Blockbuster!"}}
+|{{Ogg|Filename = buster hurt vo 01.ogg|Filedescription ="I ain't got time for pain."}}
+|{{Ogg|Filename = buster kil vo 01.ogg|Filedescription ="Let's hope for a better sequel!"}}
+|{{Ogg|Filename = buster die vo 01.ogg|Filedescription ="Oh man, this is the worst!"}}
+|
+|{{Ogg|Filename = buster ulti vo 01.ogg|Filedescription ="I will protect you!"}}
+|-
+|{{Ogg|Filename = buster start vo 02.ogg|Filedescription ="Lights off, it's showtime!"}}
+|{{Ogg|Filename = buster lead vo 02.ogg|Filedescription ="Box office smash!"}}
+|{{Ogg|Filename = buster hurt vo 02.ogg|Filedescription ="Hanging on till the break of dawn."}}
+|{{Ogg|Filename = buster kil vo 02.ogg|Filedescription ="No talkin' during the movie!"}}
+|{{Ogg|Filename = buster die vo 02.ogg|Filedescription ="Time for a rerun."}}
+|
+|{{Ogg|Filename = buster ulti vo 02.ogg|Filedescription ="By the power of cinema!"}}
+|-
+|{{Ogg|Filename = buster start vo 03.ogg|Filedescription ="Tickets, please!"}}
+|{{Ogg|Filename = buster lead vo 03.ogg|Filedescription ="Star of my own movie."}}
+|{{Ogg|Filename = buster hurt vo 03.ogg|Filedescription ="I felt nothing!"}}
+|{{Ogg|Filename = buster kil vo 03.ogg|Filedescription ="Blinded by the light!"}}
+|{{Ogg|Filename = buster die vo 03.ogg|Filedescription ="I ran outta film!"}}
+|
+|{{Ogg|Filename = buster ulti vo 03.ogg|Filedescription ="Come with me if you wanna live."}}
+|-
+|{{Ogg|Filename = buster start vo 04.ogg|Filedescription ="Enjoy the show!"}}
+|{{Ogg|Filename = buster lead vo 04.ogg|Filedescription ="I brought the pain, I took the gain!"}}
+|{{Ogg|Filename = buster hurt vo 04.ogg|Filedescription ="Ugh, was that meant to hurt?"}}
+|{{Ogg|Filename = buster kil vo 04.ogg|Filedescription ="Hope you enjoyed your dead time story."}}
+|{{Ogg|Filename = buster die vo 04.ogg|Filedescription ="Let's rewind."}}
+|
+|{{Ogg|Filename = buster ulti vo 04.ogg|Filedescription ="Come by my side, no need to hide."}}
+|-
+|{{Ogg|Filename = buster start vo 05.ogg|Filedescription ="Welcome to the screening."}}
+|
+|{{Ogg|Filename = buster hurt vo 05.ogg|Filedescription ="No pain, no gain!"}}
+|{{Ogg|Filename = buster kil vo 05.ogg|Filedescription ="You got exposed."}}
+|{{Ogg|Filename = buster die vo 05.ogg|Filedescription ="Uh, I'm gonna need a bigger projector."}}
+|
+|
+|-
+|{{Ogg|Filename = buster start vo 06.ogg|Filedescription ="Let's go to the danger zone!"}}
+|
+|{{Ogg|Filename = buster hurt vo 06.ogg|Filedescription ="Ow!"}}
+|{{Ogg|Filename = buster kil vo 06.ogg|Filedescription ="I'm a lean, mean projection machine."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = buster kil vo 07.ogg|Filedescription ="Gone in a flash."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = buster kil vo 08.ogg|Filedescription ="Keep the change."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = buster kil vo 09.ogg|Filedescription ="Yeah!"}}
+|
+|
+|
+|}
+
+==History==
+*31/10/22:
+**{{Balance|Neutral|Buster became available to play in the [[Training Cave]].}}
+*07/11/22:
+**{{Balance|Neutral|Buster and his Chainsaw skin were added to the game.}}
+*08/11/22:
+**{{Balance|Neutral|Fixed a bug that prevented players from using Wild Card Power Points on Buster.}}
+*15/11/22:
+**{{Balance|Nerf|Buster's health was decreased to 5000 (from 5600).}}
+**{{Balance|Nerf|Buster's main attack damage was decreased to 1580 (from 1700) at close range.}}
+**{{Balance|Nerf|Buster's Utility Belt Gadget healing was decreased to 500 (from 1000).}}
+*28/11/22:
+**{{Balance|Neutral|Buster's Slo-Mo Replay Gadget and Kevlar Vest Star Power were added.}}
+*12/12/22:
+**{{Balance|Nerf|Buster's health was decreased to 4800 (from 5000).}}
+**{{Balance|Nerf|Buster's main attack damage was decreased to 1480 (from 1580) at close range.}}
+**{{Balance|Neutral|Buster's facial animations were slightly reworked.}}
+*12/01/23:
+**{{Balance|Nerf|Buster's main attack damage was decreased to 1320 (from 1480) at close range.}}
+**{{Balance|Nerf|Buster's Super duration was decreased to 3 seconds (from 6).}}
+**{{Balance|Nerf|Buster's Kevlar Vest Star Power damage reduction was decreased to 10% (from 20%).}}
+*28/02/23:
+**{{Balance|Neutral|Buster's True Silver and True Gold skins were added.}}
+*25/04/23:
+**{{Balance|Neutral|Chainsaw Buster's main attack and Super visual effects were reworked.}}
+*09/05/23:
+**{{Balance|Neutral|The Crocodile Buster skin was added. It was featured as a Rumble Jungle Heroes skin.}}
+*27/06/23:
+**{{Balance|Buff|Buster's Utility Belt Gadget healing was increased to 750 (from 500).}}
+*05/09/23:
+**{{Balance|Buff|Buster's health was increased to 5200 (from 4800).}}
+**{{Balance|Buff|Buster's main attack damage was increased to 1440 (from 1320) at close range.}}
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*24/10/23:
+**{{Balance|Buff|Buster's Utility Belt Gadget healing was increased to 9% of Buster's health (from 750).}}
+**{{Balance|Nerf|Buster's main attack damage was decreased to 1400 (from 1440) at close range.}}
+**{{Balance|Neutral|Buster's flavor text was changed from "Operating the projector at the movie theater, Buster has his favorite action movies memorized. He dreams to someday become an action hero in his own blockbuster movie." to "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!"}}
+*12/12/23:
+**{{Balance|Nerf|Buster's Slo-Mo Replay Gadget slow was removed.}}
+**{{Balance|Neutral|Buster's rarity was changed to Mythic (from Chromatic).}}
+*27/02/24:
+**{{Balance|Nerf|Buster's main attack damage was decreased to 1380 (from 1400) at close range.}}
+*27/08/24:
+**{{Balance|Nerf|Buster's health was decreased to 5000 (from 5200).}}
+*25/02/25:
+**{{Balance|Neutral|All True Gold skins were slightly remodeled.}}
+*24/03/25:
+**{{Balance|Neutral|Buster's Plot Armor Hypercharge was added.}}
+*27/03/25:
+**{{Balance|Neutral|Fixed a bug where Buster's Hypercharge could be extended.}}
+*18/04/25:
+**{{Balance|Neutral|The Equilibrium Buster skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.}}
+*30/04/25:
+**{{Balance|Nerf|Buster's health was decreased to 4800 (from 5000).}}
+*24/06/25:
+**{{Balance|Nerf|Buster's level up health was decreased to 650 (from 750) in [[Brawl Arena]].}}
+*30/06/25:
+**{{Balance|Nerf|Buster's level up damage was decreased to 3% (from 4%) in Brawl Arena.}}
+*17/07/25:
+**{{Balance|Neutral|The Blessed Buster skin was added. It was featured as an Angels vs. Demons skin.}}
+*04/09/25:
+**{{Balance|Neutral|The Biker Buster skin was added. It was featured as a City Troubles skin.}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Buster's Plot Armor Hypercharge speed boost from 25%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% shield boost, decreasing Buster's Plot Armor Hypercharge shield boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Buster's health was increased to 5000 (from 4800).}}
+*30/06/26:
+**{{Balance|Buff|Buster's level up health was increased to 750 (from 650) in Brawl Arena.}}
+**{{Balance|Buff|Buster's level up damage was increased to 4% (from 3%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Buff|Buster's Utility Belt Gadget healing was increased to 12% of Buster's health (from 9%).}}
+**{{Balance|Buff|Buster's Blockbuster bonus damage was increased to 20% (from 15%) per ally.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Buster's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Buff|The Super charge rate from Buster's Trait was increased by 10%.}}
+
+==Cosmetics==
+===Skins (7)===
+{{Skin Gallery
+|Name1=Biker|Campaign1=City Troubles|Cost1=Free from Strangest Packs, free after reaching 750 Trophies or 29 Gems|Rarity1=Rare
+|Name2=Crocodile|Campaign2=Rumble Jungle Heroes|Cost2=149 Gems|Rarity2=Epic
+|Name3=Equilibrium|Cost3=149 Gems|Campaign3=Supercell Make|Campaign3_2=Brawl Unite|Rarity3=Epic
+|Name4=Blessed|Cost4=Free after opening 100 Angelic Drops or 149 Gems|Campaign4=Angels vs. Demons|Rarity4=Epic
+|TrueSkins = Yes
+|NameP1=Chainsaw|CostP1=Brawl Pass, free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Buster
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Chainsaw}}
+{{Pin Table|Crocodile}}
+{{Pin Table|Equilibrium}}
+{{Pin Table|Blessed|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Buster|Rarity = Common}}
+|{{Spray|Type = Buster Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Crocodile Buster|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%;text-align:center" colspan=5
+|{{Pfp|Buster1}}
+|{{Pfp|Buster2}}
+|{{Pfp|Buster3}}
+|{{Pfp|Buster4}}
+|{{Pfp|Crocodile Buster}}
+|-
+|{{Pfp|Equilibrium Buster}}
+|{{Pfp|Chainsaw Buster}}
+|{{Pfp|Blessed Buster}}
+|}
+
+{{Navigation}}
+[[es:Buster]]
+[[ru:Бастер]]

@@ -1,0 +1,62 @@
+{{Character|title1 = Murderer|image1 = [[File:OldMurdererIcon.png|center|frameless|200px]]|activity = Eliminate everyone.|win_theme=[[File:Murderer Win.mp3.mp3|center|frameless]]}}
+'''Murderer''' is one of the roles of [[Murder Mystery 2]] which can be randomly given to a player for every single round.
+
+When the Murderer is shot by the [[Sheriff]] and the round is over, there will be a window that pops up showing the round’s results and has a X on their avatar.
+
+== Overview ==
+You can use [[Powers]] to help you win.
+
+The chances of becoming a Murderer start off as fairly low but will increase with each game that you don't become a Murderer. If you do become a Murderer, your knife will be given to you 10 seconds after the match starts.
+
+== Role ==
+* Eliminate everyone in order to win. If not, as much as possible.
+* Avoid being shot by either the [[Sheriff]]/[[Hero]], otherwise you will lose the round.
+== Controls ==
+=== '''PC''' ===
+* Press "1" to equip the knife.
+* Left-click the mouse or click to stab.
+* Press E/Hold left-click/click right-click to throw the knife.
+
+=== '''Mobile''' ===
+* Press the equip button to equip the knife (or tap the knife on the bottom of your inventory)
+* Press the throw button then tap a player when it is fully loaded. *Note, the throwing will only work if a green icon comes up on a player when the throw is loaded.
+* Tap the screen to stab (OR) run up to a player to auto-stab them.
+
+=== '''Xbox or PC while using Xbox controller via Bluetooth (Does not work on PS4 Bluetooth Controller)''' ===
+* Press LB to equip the knife.
+*Press LT to throw the knife.
+*Press RT to stab someone.
+
+== Tips ==
+* If the player is the murderer, deceiving the sheriff is a key goal to not being killed. Following the sheriff tends to increase suspicion! When trying to kill the sheriff, following him from behind increases the chances of not being seen.
+* [[Office 3|Office3]], [[Hotel (Season 1)|Hotel2]] and [[Mansion 2|Mansion2]] tend to be easier maps for the murderer.
+* It is also unwise if the player has the burning effect on while they are murderer (especially if they're the only one in the server who has it on); because the hero/sheriff can easily tell they are the murderer if there are burning bodies everywhere.
+* Camping is <u>NOT</u> recommended to do once the murderer kills the sheriff/hero. Not only does it annoy the innocents, but the point of being the murderer is to eliminate <u>EVERYONE</u>, and not to survive the whole round, which ends up making the player lose.
+* On certain maps you can hide behind a wall to bait the sheriff into coming close enough for you to stab them.
+* You can say things like "party party", "dance party", etc. and dance to get people to dance with you and if you get enough players to join just start to stab them but make note of that the sheriff might find it sucpicious that you are doing it and shoot you without proof.
+* If the player is the murderer, the best way to kill someone is to act casual, and when someone is near the player, they should quickly run to them, take out their knife, and kill them.
+* Another murderer playstyle is the peaceful murderer. You don't reveal yourself until you get a full bag, (you can kill some people in secret) then start killing. This makes the innocents have a chance to collect lots of coins before they get killed.
+
+== Trivia ==
+*It is possible to get Murderer multiple times in a row if you get granted admin commands from [[Nikilis]] and keep giving yourself murderer by chatting, "/murderer." Although if you don't, the chances are highly unlikely and decrease every time you get Murderer.
+*Even though you start with the perk footsteps, it is recommended to purchase a [[Powers|perk]]. Each one will give certain advantages depending on the perk. When you are the murderer, so it is up to the player to choose the one they want to equip.
+*Becoming a Murderer two times in a row may happen rarely.
+*Besides various bluetooth controllers, Murder Mystery 2 now supports all platforms and they all have special ways of murdering people.
+*It is also rare for you and the sheriff to die, let’s say, the murderer throws the knife at you and at the last second you kill them. This is probably easier if you do it with a friend.
+*The role color for the Murderer is red.
+*There is a glitch in which if both the murderer gets shot, and the sheriff/hero gets stabbed or thrown a knife at the same time, it will reveal the results but both player icons in the results will be marked with an X, but it'll mark the Sheriff as the winner.
+**In this situation, the murderer won't receive any XP for killing the sheriff/hero.
+*It is commonly believed that the winning theme was from a song called "[https://youtu.be/skCkCtx-l2E?t=94 Imagine]." This is false.
+*The win theme for the Murderer was made with GarageBand.
+**It was made with the Zippy Synth and Clock Sync Beat 01.
+
+==Gallery==
+<gallery>
+The Murderer.jpg|The description about the Murderer in [[Murder Mystery|Murder Mystery 1]].
+File:OldMurdererIcon.png|The old icon used for the role before Casual Mode was added.
+File:Murd victory.jpg|the current murderer victory icon in-game.
+File:MurdererWin.png|The old victory GUI for the murderer.
+File:Murderer icon.jpg|the icon a player receives when they are murderer.
+File:KilledMurderer.png|The image that shows when the murderer either leaves the game or gets killed by the Sheriff/Hero after a round.
+</gallery>[[Category:Roles]]
+[[Category:Features]]

@@ -1,0 +1,120 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Katana
+|image     = <gallery>
+Katana.png|Icon
+KatanaIG.png|In-Game
+KatanaIGHeld.png|Held
+Katana (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Common
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Pirate Starter
+|location1 = Marine Starter
+|obtain    = Bought
+|source    = [[Sword Dealer]]
+|price     = {{Money|1,000}}
+}}
+{{Quote|A katana made out of regular steel, something a beginner samurai would pick.|Item}}
+The '''Katana''' is a {{Common}} [[sword]].
+
+The katana allows the user to cast basic dash and slash attacks.
+
+==Obtainment==
+The Katana can be purchased for {{Money|1,000}} from the [[Sword Dealer]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Katana M1
+|desc     = The player does 3 slashes, then performs a swipe on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Quiet Rush
+|mastery  = 1
+|cooldown = 7
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = KatanaZRevamp
+|desc     = The user dashes forward, swiftly attacking enemies in their path in a teleportation-like fashion.
+}}
+
+{{Skill
+|key      = X
+|name     = Air Slash
+|mastery  = 20
+|cooldown = 10
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = KatanaXRevamp
+|desc     = The user slashes through the air, unleashing a short-range air slash that strikes all enemies in its path, forcefully knocking them back.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good option for beginners.
+* Low price.
+* Low mastery requirements.
+* Particularly useful for new players who do not have a [[Blox Fruit]].
+* Both moves have [[AoE]].
+
+|'''[Z] Quiet Rush'''
+* Quick start.
+
+|'''[X] Air Slash'''
+* Decent damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Does not [[Instinct Break|break Instinct]].
+* Very low damage output.
+* The cooldowns are very long for such a weak weapon, making it very ineffective, especially at such a low point in the game.
+* For its stage in the game, the Katana's upgrade cost is exorbitant due to the requirement of [[Angel Wings]], a [[Materials|material]] that can only be dropped by enemies in [[Upper Skylands]], which are Lv. 450+.
+
+|'''[Z] Quiet Rush'''
+* Bad range.
+
+|'''[X] Air Slash'''
+* Easy to dodge due to its small range and slow speed.
+}}
+</tabber>
+
+==Trivia==
+* The Katana used to have a price of {{Money|5,000}} instead of {{Money|1,000}}.
+* The Katana is functionally identical to the [[Cutlass]], sharing the same moveset, damage values, and cooldowns even though granted, they are different [[swords]]. The only distinction between the two weapons is their model design.
+* The Katana and [[Cutlass]] are the first obtainable swords a normal player can get.
+
+==Change History==
+{{Change History|1|content=
+{{Update|20}}
+* The Katana's moves were reworked.
+----
+{{Update|17}}
+* The Katana's slash animation was reworked.
+----
+{{Update|1}}
+* The Katana was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

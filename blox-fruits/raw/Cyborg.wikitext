@@ -1,0 +1,198 @@
+{{Tabber V2
+|link1 = Cyborg
+|tab1  = Cyborg
+|link2 = Cyborg/Puzzle
+|tab2  = Cyborg Puzzle
+}}
+{{About|the race||Cyborg (Disambiguation)}}
+{{Race Infobox
+|name   = Cyborg
+|image  = Cyborg.png
+|source = [[Cyborg Puzzle]]
+|titles = 
+* The Cyborg (V2)
+* War Machine (V3)
+* {{Title|Genesis}} (V4)
+}}
+{{Quote|Powered by technology, Cyborgs gain greater durability and energy control.}}
+'''Cyborg''' is one of three [[races]] that can be obtained through a quest.
+
+Cyborg's special abilities allow the player to fight and combo more effectively in close quarters, by quickly draining [[Instinct]] or by dealing extra damage and increasing their own defense. This race is mainly used against teamers due to its ability to deal extremely effective wide-area damage. In general, this race is great for grinding, [[PvP]] against teamers and especially breaking combos. Additionally, it is also good for [[Instinct/Break|breaking Instinct]] and doing combos with Instinct-trickable attacks. However, the V3's average range is also a slight drawback, and the V4's damage output is not a good choice in 1v1s.
+
+__TOC__{{Clr}}
+
+==Obtainment==
+{{Race Stages Table/Default
+|V1 = To obtain Cyborg, the player needs to complete the [[Cyborg/Puzzle|Cyborg Puzzle]].
+|V3 = Show [[arowe]] any physical [[Blox Fruit]]. (He does not take the fruit.)
+|V4 = Trial of the Machine
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage will give additional buffs and make visual changes to the player's avatar.
+{|class="fandom-table" width="100%"
+!Stage
+!Buffs
+!Visual changes
+!Image
+|-
+|<center>'''V1'''</center>
+|No buffs.
+|Gives the user a metallic mask on the upper left part of their head.
+|[[File:Cyborg v1.png|thumb|center]]
+|-
+|<center>'''V2'''</center>
+|'''10% defense''' against melee, sword, and gun attacks. 15% of received damage passively converts to [[Energy]].
+|No visual changes.
+|
+|-
+|<center>'''V3'''</center>
+|Gives the user an ability called [[Energy Core]], while activated:
+* Boosts the player's '''defense''' by '''30%'''.
+* Creates an '''AoE lightning effect''' around the player during the ability that does tick damage to enemies within its range. It starts at 0 damage, then does 33 ticks of damage that scales with the player’s level.
+** Example 1: Lv. 2800 = 2800 * 0.065 * 33 = 6006
+** Example 2: Lv. 2000 = 2000 * 0.065 * 33 = 4290
+** Example 3: Lv. 1500 = 1500 * 0.065 * 33 = 3217.5
+** Example 4: Lv.  1100 = 1100 * 0.065 * 33 = 2359.5
+It lasts 6.5 seconds, and has a universal 30 second cooldown. It does [[Instinct Break|break Instinct]] unless the player is just on the range border of the attack.
+|Removes the metallic mask and gives the user a pair of black and red, futuristic glasses.
+|[[File:Cyborg v3.png|thumb|center]]
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "Gears" are put in. For more information, please refer to [[Race Awakening]].
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, receive max stats as well as increased damage, speed, and health regeneration by 10%.
+|-
+|'''Energy Control:'''
+* Damage dealt now chains to nearby enemies through orbs. Allows the user to '''Super Jump''' (must have [[Instinct]] enabled).
+<gallery>
+Energy Control Tier 1.gif
+Energy Control Tier 1 Super Jump.gif
+Energy Control Tier 1 Super Dash.gif
+</gallery>
+|'''Upgraded version:'''
+* The effects of chain damage increase. Super Jump now deals damage and no longer requires [[Instinct]] to be enabled.
+|-
+|'''Aftershock: '''
+* Attacks now apply an '''electrifying effect''' that drains the opponent's [[Instinct]] dodges temporarily. It also does small amounts of tick damage.
+<gallery>
+Aftershock Tier 1.gif
+</gallery>
+|'''Upgraded version:'''
+* The electrifying effect becomes stronger and lasts longer.
+|-
+| colspan="2" | '''Visual changes:'''
+* User has a pair of blue, futuristic wings, and the visor turns blue. While transformed, the visor and wings' blue glows turn purple.
+<gallery>
+Cyborg Helmet V4.png|Mask of Cyborg V4.
+Cyborg Helmet V4 (Active).png|Mask of Cyborg V4. (active)
+CyborgV4 Loop.gif|The wings' idle animation.
+CyborgV4 Transform.gif|The transformation animation.
+CyborgV4 Idle.gif|The idle animation.
+Energy Orbs.jpg|Maximum energy orbs the user can summon.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good defense, especially with [[Energy Core]].
+* Excellent for grinding.
+* Good against fighting with two or more opponents.
+* All abilities starting from V3 have offensive capabilities ([[Energy Core]] and Aftershock have tick damage while Energy Control can transfer damage).
+* The player will almost always have [[energy]], due to the V2 passive.
+** Also makes it good with [[Phoenix]]'s huge [[energy]] drain.
+
+|'''[[Energy Core]] (V3)'''
+* Quick and easy to obtain.
+* Great for combos.
+** Deals bonus damage for free.
+** Improve one-shot combos or long combos.
+* [[Instinct/Break|Breaks Instinct]].
+* Decent damage and defense.
+* Good for canceling out enemy's combos, especially the moves that need to be held. ([[Dough]] V, [[Rubber]] C, etc.)
+* Decent for grinding.
+** Can be used to finish an enemy or boss to level up mastery on a weapon or [[Blox Fruits|fruit]] without having [[stats]] on them, as damage is based on the player's [[Levels|level]], not [[stats]].
+
+|'''Energy Control (V4)'''
+* Great mobility.
+** One of the fastest ways to travel combined with [[Skull Guitar]]'s M1s. (A technique or glitch that allows the user to dash further if the M1, jump and dash buttons are all timed together, granting even more mobility with super jump-dashes)
+* Excellent for grinding/PvP as it hits nearby enemies.
+** Can be deadly in [[PVP mechanics|PvP]] with enemy NPCs around/when fighting teamers.
+** Orbs can easily [[Instinct/Break|break Instinct]] without aiming the opponent.
+** Recommend using builds that involve dealing tick damage for maximum benefit.
+** Can easily kill enemy players with the usage of [[Portal]]'s [C] to [[locations]] where [[enemies]] are nearby, since using a wide AoE skill will result in a very high damage output to the opponent, as well as possible lag making it even harder to escape.
+* Great when paired with fruits that deal less damage to players, such as the ghosts (when using swords) that are summoned by Ghost V, or the V (Tapped) by Control.
+
+|'''Aftershock (V4)'''
+* Drains opponent's Instinct dodges.
+* Does not require to [[Instinct/Break|break Instinct]] to apply the electrifying effect.
+* The effect stacks in damage, decent damage when stacked 5 times or more.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* No movement buffs, unlike other races.
+** Using accessories that boost speed, such as [[Pilot Helmet]], is recommended.
+* No defense buffs against [[Blox Fruits]].
+* Very hard and expensive to obtain, requiring the player to obtain a [[Fist of Darkness]] and complete an entire puzzle.
+* The [[energy]] passive (V2) is not really useful.
+* None of the V4 gears can hit large objects.
+
+|'''[[Energy Core]] (V3)'''
+* Can be countered by keeping distances.
+* Requires to be close to [[Instinct/Break|break Instinct]].
+
+|'''Energy Control (V4)'''
+* Vulnerable in air, requires a solid surface to super jump.
+*Cannot be used without [[Instinct]] if only first gear.
+
+|'''Aftershock (V4)'''
+* Does not [[Instinct/Break|break Instinct]].
+** Opponents can be invincible to attacks at some times while dodging the electrifying effect.
+*** These include attacks that cannot be avoided, such as [[Godhuman]]'s [C] (Held).
+* Rendered nearly useless against [[Human#Version_4:~:text=Psycho,damage.|Human's '''Psycho''' (Tier 2)]] or Unbreakable [[Enchantments|Enchantment]].
+}}
+</tabber>
+
+==Trivia==
+* The damage reduction from Cyborg V2 (10%) and V3 (30%) combined is 37% (not 40%).
+* The Cyborg V4 Energy Control Jump (Both UP and Non-Up) works in [[Buddha]] Transformation and Shift(v2).
+* Sometimes the jump in V4 can glitch in [[Buddha]] form causing you to get the jump again while in air.
+* There is a common misconception that '''Cyborg'''<nowiki/>'s v3 makes combos impossible to [[Instinct]] trick, this is untrue, as the damage ticks on cyborg are usually too slow.
+* The '''Cyborg''' race, along with the Human race, are the only races that do not provide buffs to the user on V1.
+* The direction of the Energy Control Jump can be changed mid-jump, allowing for things like zig zags or back dashes.
+* Cyborg is the only quest race that requires you to give [[Fragments]] Every time you equip it unlike [[Ghoul]] and [[Draco]].
+* The player can farm mastery seamlessly by going to [[Sea of Treats|Chocolate Land]], equipping the weapon requiring mastery, activating V4, and using V3. It is known to deal colossal damage.
+
+==Change History==
+{{Change History|14|content=
+{{Update|17.2}}
+* Cyborg's V3 ability was reworked to create lightning that deals continuous AoE damage, burns enemies over time, causing them to take a large amount of total damage and breaks Instinct when near. It also reduces damage taken by up to 30%. But it was nerfed shortly after release:
+** Lightning damage is now equal to 6.5% of the player's current level instead of 10%. Base damage before level-based bonus also reduced from 0.1 to 0 (reduces damage per tick by 35%).
+** The number of tick dots was reduced from 44 to 33.
+** Reduces the range of lightning damage, as well as the range of Instinct break. Lightning will now no longer break Instinct when the enemy is at the edge of the lightning AOE, meaning the enemy must be closer to break Instinct.
+----
+{{Update|15}}
+* Changed how the V1 and V3 accessory looks.
+: <gallery>
+CyborgV1Old.png|Old accessory Cyborg V1.
+CyborgV3Old.png|Old accessory Cyborg V3.
+</gallery>
+----
+{{Update|14}}
+* Cyborg was released.
+}}
+
+==Navigation==
+{{RaceNavigation}}
+
+[[ru:Киборг]]

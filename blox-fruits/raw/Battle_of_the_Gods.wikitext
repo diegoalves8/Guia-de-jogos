@@ -1,0 +1,32 @@
+{{Tabber V2
+|tab1 = Castle on the Sea
+|tab2 = Battle of the Gods
+}}
+{{Location Infobox
+|name      = Battle of the Gods
+|image     = BattleOfTheGodsOverview.png
+|sea       = Third Sea
+|location  = Castle on the Sea
+|music     = Lizard Bandit Clan
+}}
+
+The '''Battle of the Gods''' is a special event location that takes place at the [[Castle on the Sea]]. It can be only triggered when [[rip_indra True Form|rip_indra (True Form)]] spawns.
+
+== Event Appearance ==
+{{Main|rip_indra True Form}}
+The event is triggered when [[rip_indra True Form]] is spawned. When this occurs, the message <span style="color:red;">'''"A barrier has been broken."'''</span> appears in the chat box and at the top of the screen. During the event, all [[islands]] and the surrounding [[sea]] are covered in a foggy ambience.
+
+<gallery>
+BattleOfTheGodsOverview.png|Overview
+BattleOfTheGodsSpawn.png|Inner View
+</gallery>
+
+== Usage in Item Obtainments ==
+{{Main|Tushita/Puzzle}}
+During the event, players can begin [[Tushita]]'s puzzle, which may lead to obtaining the sword, and eventually the [[Cursed Dual Katana]].
+
+== Trivia ==
+* The Battle of the Gods shares its soundtrack, ''Lizard Bandit Clan'', with the [[Liberation of Tiki Outpost]], [[Swan's Room]], and [[Dimensional Shift]].
+
+== Change History ==
+{{Change History|15}}

@@ -1,0 +1,226 @@
+{{CombosTab}}
+{{About|the Blox Fruit||Ghost (Disambiguation)}}
+{{Blox Fruit Infobox
+|name   = Ghost
+|image  = <gallery>
+Ghost Fruit.png|Fruit Icon
+GhostGIF.gif|Fruit GIF
+Ghost.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Rare
+|M1     = No
+|update = 16
+
+<!-- Fruit Price -->
+|money  = 940,000
+|robux  = 1,275
+}}
+{{Quote|Allows the user to transcend the barrier between life and death, granting an extra life and paranormal abilites.|Shop}}
+'''Ghost''' is a {{Rare}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|940,000}} or {{Robux|1,275}} from the [[Blox Fruit Dealer]].
+
+Ghost allows users to fight with cold attacks controlled from the dead. The user can also summon ghostly clones of themselves to attack and confuse enemies, and can rise from the dead by resurrecting as a ghost with 50% of their max health.
+
+__TOC__{{Clr}}
+
+==Abilities==
+<tabber>
+|-|Passives=
+{{Skill/Passive
+|name     = Resurrection
+|file     = Reanimation.gif
+|desc     = Once the user dies, they will resurrect with 50% of their max health. When this ability activates, the user will receive a message saying "You have been given an extra life!". Post-mortem, the user's avatar becomes translucent with a green glow.
+}}
+
+|-|Moveset=
+{{Skill
+|key      = Z
+|name     = Shivering Possession
+|mastery  = 1
+|cooldown = 9
+|energy   = 15
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Cold Touch
+|desc     = The user dashes forward, leaving a turquoise trail behind them. Any enemies hit with this move are covered in ectoplasm and frozen, causing the enemy to get stunned for 1.3 seconds before exploding. This move is similar to [[Shadow]]s [Z] move, both having the same mobility.
+}}
+
+{{Skill
+|key      = X
+|name     = Spectral Release
+|mastery  = 50
+|cooldown = 12
+|energy   = 25
+|break    = yes
+|instinct = Inside can [[Instinct/Break|Break instinct]]. However, the final explosion can be dodged.
+|gif      = Soul Release
+|desc     = The user shrieks, creating a whirlwind of ghosts which revolve around them, trapping the enemy and pushing them back slightly.
+}}
+
+{{Skill
+|key      = C
+|name     = Cries of the Underworld
+|mastery  = 100
+|cooldown = 16
+|energy   = 35
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Screams of the Damned
+|desc     = The user starts screaming, spitting ghosts that stun and push the enemy back. This move can be held to deal more damage and last longer. The first hit deals the most damage, which decreases over time. If the enemy takes continuous damage, their screen turns green with ghosts and a skull appearing at the center.
+}}
+
+{{Skill
+|key      = V
+|name     = Ghost Busters
+|mastery  = 150
+|cooldown = 23
+|energy   = 50
+|break    = yes
+|instinct = The ghosts cannot [[Instinct/Break|break Instinct]] itself. However, triggering a move that can [[Instinct/Break|break Instinct]], such as {{Ability|X}} can [[Instinct/Break|break Instinct]].
+|gif      = Ghostbustersz
+|desc     = The user creates two ghosts (also called a clone) versions of themselves who imitate their attacks, including front [[Dashing|dash]] and [[Air Jump|jumping]]. The ghost clones your moves, which will aim at the point the user aims at. After a while (slightly shorter than the cooldown - 20 seconds) they will disappear.
+* Note: The user can make the two ghosts stop attacking others by not pressing any icon ([[fighting style]], [[fruit]], [[sword]] and [[gun]]). This means when the user takes damage, or the ghost takes damage but don't press any icon, the ghost won't do anything.
+|gif1    = Dark Air Slashes
+|desc1     = The user's Ghosts are able to use any sword attack they perform. Against players, only the hitbox is tripled, not the damage. The Clones do not apply the user's [[Enchantments]].
+}}
+
+{{Skill
+|key      = F
+|name     = Wandering Soul
+|mastery  = 75
+|cooldown = 4
+|energy   = 50
+|instinct = Doesn't deal damage.
+|gif      = WanderSoul
+|desc     = The user turns into a ghost and flies, leaving a blue trail surrounded by ghosts.
+}}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{{!}} class="fandom-table"
+{{!}}-
+
+{{!}}'''General'''
+* Excellent for grinding and very good for PvP.
+* The user will resurrect with 50% of their [[Health|HP]] if the user dies.
+** The user also gains i-frames for two seconds after the resurrection.
+* Fast cooldowns.
+* Small knockback.
+* Low mastery requirements.
+* Extremely good for PvE, especially considering its price.
+{{!}}-
+
+{{!}}'''[Z] Shivering Possession'''
+* Good damage.
+* Stuns for enough time to combo extend.
+* Good mobility.
+{{!}}-
+
+{{!}}'''[X] Spectral Release'''
+* Good stun.
+* Decent [[AoE]].
+{{!}}-
+
+{{!}} '''[C] Cries of the Underworld'''
+* Great move and deals constant damage.
+* Decent range.
+* The effect can distort enemies in PvP, leading to them being confused.
+{{!}}-
+
+{{!}} '''[V] Ghost Busters'''
+* Great damage.
+* No end-lag.
+* Great for tanking damage for the user.
+* Can confuse players to attack the ghosts instead of the user.
+* The clones/ghosts' swords will share the [[Enchantments#Unique Enchantments:~:text=Strong,Grip|Strong Grip]] enchantment with the user if they have it on their currently equipped sword.
+{{!}}-
+
+{{!}}'''[F] Wandering Soul'''
+* Decent speed.
+* Useful for travel and escaping.
+* Can be used to control the user's ghosts.
+{{!}}}
+
+|-|Cons=
+{{{!}} class="fandom-table"
+{{!}}-
+
+{{!}} '''General'''
+* Lacks a good combo starter.
+* Moves lack range.
+* the finisher of {{Ability|Dragon Talon|Z}} from [[Dragon Talon]] bypasses the Resurrection passive.
+{{!}}-
+
+{{!}} '''[Z] Shivering Possession'''
+* Hard to control.
+** The distance the user travels past the enemy after hitting is inconsistent.
+* When using this move when close/mid range away from an [[enemy]], the user may get hit after using the move, which isn't useful for grinding.
+* Does not break Instinct.
+{{!}}-
+
+{{!}} '''[X] Spectral Release'''
+* Close ranged.
+{{!}}-
+
+{{!}} '''[C] Cries of the Underworld'''
+* Very low range.
+* Underwhelming damage.
+* Effect applied is only visual.
+{{!}}-
+
+{{!}} '''[V] Ghost Busters'''
+* Need to be close to enemies for the ghosts to target them.
+* 50% reduced damage to players.
+* The ghosts can increase the enemy's [[Race Awakening|V4 bar]] quickly.
+** May not be useful against V4 [[Cyborg]] users.
+* Ghosts do not copy [[Enchantments]], with the exception of Strong Grip.
+{{!}}-
+
+{{!}} '''[F] Wandering Soul'''
+* Low [[Health]] slows flight.
+* Not very good for travelling.
+{{!}}}
+</tabber>
+
+==Trivia==
+* Ghost was reworked in [[Updates/21|Update 21]], where its name was also changed from Revive to its current name.
+* The green glow from the passive effect will last forever, even if the user switches to another [[Blox Fruits|fruit]]. It only disappears when they die or exit the game. The green effect can also affect other transformed fruits or moves like unawakened [[Dough]]'s [F] move.
+* If the user dies by [[Water]], the resurrection passive will not work. The same is true when resetting your character.
+* [[Permanent Blox Fruits|Permanent]] Ghost's icon when stored in the inventory uses [[Revive]]'s icon.
+* When player use ghost [Z,F] move , their accessory will become half transparent
+* Interestingly, if the user uses '''Ghost Busters''' while using [[Dark Blade]]'s '''[X] Dark Air Slash''', the ghost use the original and non-upgraded version. Even if you have the [[Slayer Skin]] equipped.
+** The same said with [[Saber]], [[Bisento]] and possibly [[Triple Dark Blade]].
+
+== Change History ==
+{{Change History|16|content=
+<tabber>
+|-|31.4=
+{{Update|29.6}}
+* {{Arrow|Buff}} [Z] Shivering Possession cast time decreased by 50% and stun duration increased from 1 second to 1.2 seconds. 
+* {{Arrow|Buff}} [X] Spectral Release range increased by 15%.
+* {{Arrow|Buff}} [C] Cries of the Underworld knockback decreased by 30%.
+* {{Arrow|Buff}} [V] Ghost Busters can now mirror sword abilities.
+* {{Arrow|Buff}} [F] Wandering Soul cast time decreased by 50%.
+
+|-|21=
+{{Update|21}}
+* [[Revive]] was revamped and renamed to Ghost.
+** Ghost's rarity was changed from {{Uncommon}} to {{Rare}}.
+* {{Ability|Revive|Z}} was renamed to {{Ability|Z}}
+* {{Ability|Revive|X}} was renamed to {{Ability|X}}
+* {{Ability|Revive|C}} was renamed to {{Ability|C}}
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Blox Fruits]]
+[[Category:Natural]]
+[[Category:Rare]]
+[[Category:Flight fruits]]
+[[ru:Призрак]]

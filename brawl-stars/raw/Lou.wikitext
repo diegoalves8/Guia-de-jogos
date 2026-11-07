@@ -1,0 +1,397 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = is here for you!|PrestigeTitle = Brainfreeze|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3500|AttackLabel = Damage per snow cone|Attack = 440|AttackRange = 9.33 (Very Long)|Reload = 1.1 seconds (Very Fast)|AttackSuperCharge = 12.5%<br>12.5% (with Avalanche)|SuperRange = 7.67 (Long)|SuperSuperCharge = 1%|VoiceActor=John Mondelli|AttackCooldown=|AttackBullets=3|AttackLabel2=|Attack2=|SuperBullets=|SuperDuration=10 seconds|SuperMinionRange=3.67|SuperReload=|SuperMovementSpeed=|Super=40|SuperLabel=Damage per second|SuperLabel2=|SuperLabel3=|Super2=|Super3=|SuperMinion=Syrup|AttackSpeed=4000|AttackWidth=0.73|SuperSpeed=1739|Gadget1Name=Ice Block|Gadget1Cooldown=18 seconds|Gadget2Name=Avalanche|Gadget2Cooldown=24 seconds|Gadget2Label=Damage|Gadget2=800|Previous=Sprout|Next=Byron|HyperchargeMultiplier=30%|AttackHyperchargeCharge=3.75%<br>3.75% (with Avalanche)|SuperHyperchargeCharge=0.3%)|Gadget1Duration=2 seconds}}
+{{Quote|Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.}}
+{{Portrait}}
+Lou is a {{Rarity|Mythic}} [[Brawler]] who could also be unlocked as a [[Brawl Pass]] reward at Tier 30 from Season 4: Holiday Getaway. He has moderate health and damage, a long range, a very fast reload speed, and has immense utility in both his attack and Super. He was the 41st Brawler added to the game. Lou attacks by throwing snow cones at enemies, which applies Frost that fills their Frost meter, and if an enemy's Frost meter is filled, they'll be stunned. His Super creates a fairly large area of ice that slows down enemies and makes maneuvering harder. His first Gadget, Ice Block, makes him immobile but invulnerable momentarily. His second Gadget, Avalanche, throws a large snowball that partially fills up enemies' Frost meter when they get hit. His first Star Power, Cold Snap, adds more damage to frozen or stunned targets. His second Star Power, Hypothermia, decreases enemies' damage depending on their Frost. His Hypercharge, Slushie Storm, makes his Super stun nearby enemies when deployed.
+
+==Attack: Brain Freeze==
+{{Quote|Barraging opponents with snow cones, Lou can eventually freeze them in place for 1.5 seconds.}}
+[[File:Frost Meter.png|left|link=|size=80px|80x80px]]
+Lou fires 3 long-ranged snow cones in a straight line in quick succession. They deal low damage each but moderate damage when all three snow cones hit. The projectiles are 0.4 tiles in width, and the second snow cone will be offset 0.33 tiles to the side of the other two. After hitting any opposing enemy with even just one snow cone, a Frost meter appears to the left of the enemy's name, or if not a Brawler, to the left of the health bar. Each snow cone applies 14.3% of Frost, with a total of 7 snow cones needed to completely fill the meter. After the Frost meter is filled up, the enemy gets stunned for 1.5 seconds, and becomes immune to the Frost meter for that duration. If Frost isn't applied for 2.5 seconds, the Frost meter begins to deplete by 5% every second. Frost can stack with multiple Lous. This attack has a slow cooldown, and it takes 0.7 seconds to complete.
+
+The frost meter does not work against the turrets in [[Brawl Arena]].
+
+==Super: Can-Do==
+{{Quote|Lou lobs a can of freezing cold syrup that creates an icy, slippery area on the ground that also slowly freezes and damages enemies. Very tough for his opponents' fancy footwork!}}Lou lobs a can of snow cone syrup over obstacles and creates an icy, slippery area on the ground that gradually fills up enemies' Frost meters by 14% per second. Any enemy who changes direction while moving on it will have difficulty maneuvering or escaping. The syrup doesn't affect Lou or allies. The slippery area also deals minuscule amounts of damage every second to enemies who are inside it, preventing passive healing.
+
+==Gadgets==
+===Ice Block===
+{{Quote|Lou encases himself in an ice block for 2 seconds, becoming invulnerable and unable to move. Reactivate to end early. Cooldown: 18 seconds.}}{{Gadget|1}}
+
+Lou becomes completely immobile and unable to attack but impervious to all damage for 2 seconds. Pressing the Gadget button again while Ice Block is active ends it early. This Gadget's cooldown starts after it ends.
+
+{{Quote|Lou is also surrounded by slippery ice that deals 600 damage per sec and builds up freeze.}}{{Buffie|Gadget}}
+
+With the Buffie, The Gadget also creates a small syrup area around Lou for 2 seconds, which behaves identically to his Super and deals 600 damage per second. The area lasts for 2 seconds even if Lou ends Ice Block earlier.
+
+===Avalanche===
+{{Quote|Lou lobs a giant snowball that deals 1000 damage and instantly adds 50% freeze meter to opponents where it lands. Cooldown: 24 seconds.}}{{Gadget|2}}Lou throws a giant snowball that deals 113.6% of a snow cone's damage to enemies in an area and filling their Frost Meters by 50%. This Gadget consumes ammo.
+
+{{Quote|The snowball also leaves a slippery ice patch for 2 sec.}}{{Buffie|Gadget}}
+With the Buffie, the snowball also leaves a small area of syrup behind that lasts 2 seconds and behaves identically to his Super but deals no damage.
+
+==Star Powers==
+===Cold Snap===
+{{Quote|Lou deals 25% more damage to opponents that are stunned or frozen.}}{{StarPower|1}}Lou deals 25% more damage to targets that are stunned or frozen. Lou doesn't need to apply the stun himself for this effect to take effect.
+
+{{Quote|When the freeze wears off, the ice shatters and deals 800 damage around them.}}{{Buffie|Star}}
+With the Buffie, after an enemy's freeze ends, they shatter, dealing 90.9% of a snow cone's damage to themselves and all nearby enemies. This damage is increased by the Star Power's effect, bringing it up to 113.6% of a snow cone's damage.
+
+===Hypothermia===
+{{Quote|Enemies lose up to 50% of their damage based on how frozen they are from Lou's attacks.}}{{StarPower|2}}Enemies lose 7.15% damage per hit when Lou's attack applies Frost, up to a max of 50%. The damage decrease will lower as the opponent's Frost meter decays.
+
+{{Quote|Enemies on the edge of Lou's Super take an extra 80 damage per second and build up freeze faster.}}{{Buffie|Star}}
+With the Buffie, enemies on the edge of Lou's Super take the double the damage and their Frost Meter fills up twice as fast.
+
+==Hypercharge: Slushie Storm==
+{{Quote|Lou's Super instantly freezes enemies in the area.}}{{Hypercharge}}When activated, whenever Lou drops his Super, any enemy near the landing spot gets their Frost Meter set to 100%, instantly stunning them. However, this Hypercharge doesn't take effect on the currently active Super. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attacks leave small icy patches as they travel.}}{{Buffie|Hyper}}
+With the Buffie, Lou's attacks leave small icy patches as they travel that apply his Super's slippery debuff to enemies on them. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*Lou's Frost can freeze the enemy team, in which when playing certain 3v3 modes like [[Gem Grab]], it can give Lou and his team an advantage. In Gem Grab, he can freeze the enemy Gem Carrier, and the Gem Carrier will be prone to defeat. With his Super (on the Gem mine) and his Supercool Star Power, it will become riskier for the enemy team to collect Gems while allowing Lou and his allies to collect Gems with ease because enemies are more vulnerable to being stunned and defeated while on the Gem mine.
+*His Super can completely cover zones in [[Hot Zone]]. He can use this to his and team's advantage as enemies can't enter the hot zones without slowing down and being quickly defeated with ease from Lou and his teammates.
+*Lou can be powerful in [[Brawl Ball]]/[[Basket Brawl]]/[[Trophy Thieves]]/[[Hold the Trophy]] because his attack stuns enemies, making them drop the ball/trophy with 3 shots. His Super can be used to deny access to the ball/trophy, hampering enemies from retrieving it due to them slipping if they attempt to do so.
+*In Special Events such as [[Boss Fight]], [[Robo Rumble]] or [[Super City Rampage]], similarly to [[Bibi]], Lou can apply Frost and stun the robots/Boss/Mega Monster and cancel out an attack being performed, and with Lou's fast reload speed and unload speed, he can do this consistently. With his Super, he can also slow the respective enemies down, as it'll struggle to move or launch an attack. These few extra seconds from stunning the Boss can affect the outcome of the match drastically.
+**It's also a good strategy to save your ammo for the Boss's lasers and charges in Boss Fight, an angry Mega Monster in Super City Rampage, or when your teammate is in danger of being defeated by either of the above enemies. You can use your Supercool Star Power and Cryo Syrup Gadget as well to get a quick stun on the Boss/monster. In any case, this allows your teammates to heal up and get back to the fight. However, try not to wait too long for the right moment to stun the Boss/Monster as, with all ammo reloaded, you will be wasting valuable time you can be using dealing extra damage to the enemy, and every second is crucial in these game modes.
+*Lou is also useful in [[Siege]], as the stunning method also works when defending or offending. He can stun the enemy Siege Robot and prevent it from moving. He can also stun the enemy IKE, allowing teammates to destroy the IKE with ease. In addition, on maps that have obstacles in the middle lane of the IKE zone, Lou's Super can be used to trap the Siege Robot in the obstacle until his Super runs out.
+*Despite his stuns being ineffective against the Boss, Lou is still decent in [[Big Game]] as a Hunter because he can keep dealing damage to the Boss with his long range, fast reload speed, Super, and reliable damage. He is more useful as the Big Boss, as he can repeatedly stun the Hunters and prevent them from attacking him. He can also use his Super to slow down grouped-up enemies. Coupled with his fast reload speed, his attacks, and his Super, he can prove devastating to the Hunters.
+
+=== Recommended Build ===
+*Lou should use his Ice Block Gadget mainly to avoid high-damaging projectiles, like the Supers of [[Nani]], [[Tick]], [[Mandy]], and [[Dynamike]], or the potentially deadly long-range projectiles of the Boss in Boss Fight if Lou or his teammates are low on health and need to escape, or if Lou is the last teammate alive, and not to use it with low-damaging projectiles or melee attacks, because he is immobile during the Gadget's usage.
+*Lou's Ice Block Gadget can also be used very effectively against ambushers like heavyweights such as [[Bull]], [[El Primo]], and [[Darryl]], and assassins such as [[Leon]], [[Buzz]], and [[Edgar]], because these Brawlers rely on their burst damage and will therefore unload their attacks very quickly and at once. When you are ambushed by such Brawlers, use your Gadget the moment they start attacking. They will waste all their ammo on you while you take no damage, and if the Brawler doesn't reload very fast (which is most of such Brawlers except El Primo, Frank, Bibi, [[Nita]], [[Rosa]], [[Draco]], and Edgar), you will have an ammo advantage to quickly defeat them or stun them so that you can escape.
+*Lou's Frost is already devastating to enemies because it stuns them, but with his Cryo Syrup Gadget and Hypothermia Star Power, Lou can make his Super more deadly as Cryo Syrup can either freeze them instantly, leaving them vulnerable to Lou or teammates, or to increase their Frost high enough such that Hypothermia's damage debuff is significant.
+*Lou's Hypothermia Star Power reduces damage dealt by frozen enemies. This also works on Boss Fight Robots, and Big Game Bosses, effectively increasing his team's survivability.
+*Using Lou's Ice Block gadget is little to none use when facing stun attacks such as [[Frank]]'s and Buzz's Super, [[Dynamike]]'s Satchel Charge Gadget, [[Fang]]'s Roundhouse Kick Gadget, and [[Bo]]'s Snare a Bear Star Power as it stuns you afterwards.
+
+===Strategies===
+*When escaping an enemy Lou's Super, if possible, it's almost always better to turn lightly, up to 90 degrees, instead of making a U-turn as the deceleration would be limited by Lou's Super.
+
+===Other===
+*Since his Super makes enemies slow down and makes maneuvering harder, enemies will attempt to escape by moving in the same direction, which makes attacks easier to hit and enemy movement to be predictable. With his Supercool Star Power, this is better justified and is more frivolous to enemies, because if they're stacked with the attacks and Super, they'll be quickly stunned and defeated, not to mention they'll also have trouble maneuvering. Additively, the more speed a Brawler has, the more struggle they have changing directions in Lou's Super. This makes Lou an ideal counter to speedy Brawlers like tanks, assassins, and [[Max]].
+*Lou has a great synergy with Edgar and other close-ranged Brawlers. Lou can stun and slow the enemies with his attack and Super (more effective with his Supercool Star Power), and the respective close-ranged Brawler can jump onto or ambush the affected enemies and quickly defeat them.
+*Lou can stun enemies easily with 3 shots, which is useful in [[Showdown]], [[Duo Showdown]], [[Bounty]], or [[Lone Star]], because he can quickly defeat enemies or quickly escape if he's in danger.
+*When fighting Brawlers such as Edgar or El Primo, try to get at least 1/3 of the gauge filled up considering you use Ice Block as soon as Edgar or El Primo jumps, that way Lou's slow unleash speed can freeze the enemy whole.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 01.ogg|Filedescription = "Keep it frosty!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker start vo 03.ogg|Filedescription = "Time to get stuck in!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou lead vo 01.ogg|Filedescription = "Un-cone-trollable."}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 01.ogg|Filedescription = "Clean sheet for Uncle Lou!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou hurt vo 01.ogg|Filedescription = "Oh my days!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 01.ogg|Filedescription = "Oh my days!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 01.ogg|Filedescription = "Bad to the cone."}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 01.ogg|Filedescription = "Back of the net."}}
+|'''Normal:'''
+{{Ogg|Filename = Lou die vo 01.ogg|Filedescription = "I got crushed!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 01.ogg|Filedescription = "I got crushed!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 01.ogg|Filedescription = "Feel the freeze!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 01.ogg|Filedescription = "Get stuck in!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 01.ogg|Filedescription = "Slip n' slide!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 01.ogg|Filedescription = "Tackle n' twirl!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 02.ogg|Filedescription = "Try a blizz ball y'all!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker start vo 02.ogg|Filedescription = "Kick off with a blizz ball y'all!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou lead vo 02.ogg|Filedescription = "I'm in the cone zone!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 02.ogg|Filedescription = "Man of the match, that's Lou!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou hurt vo 02.ogg|Filedescription = "Gosh golly!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 02.ogg|Filedescription = "Gosh golly! That's a howler!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 02.ogg|Filedescription = "Easy breezy!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 02.ogg|Filedescription = "Total conage!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou die vo 02.ogg|Filedescription = "Shame on you!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 02.ogg|Filedescription = "Shame on you!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 02.ogg|Filedescription = "You want ice with that?"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 02.ogg|Filedescription = "Striker sorbet!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 02.ogg|Filedescription = "New and improved flavor sauce!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 02.ogg|Filedescription = "New and improved striker sauce!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 03.ogg|Filedescription = "Uncle Lou is here for you!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker start vo 01.ogg|Filedescription = "Lou's on the pitch for you!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou lead vo 03.ogg|Filedescription = "Y'all be lovin' the sour apples flavor!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 03.ogg|Filedescription = "We're top of the league!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou hurt vo 03.ogg|Filedescription = "Gee willikers!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 04.ogg|Filedescription = "Frosty foul!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 03.ogg|Filedescription = "You got coned!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 03.ogg|Filedescription = "Goal!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou die vo 03.ogg|Filedescription = Lou cries}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 03.ogg|Filedescription = Lou cries}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 03.ogg|Filedescription = "Have a blizz ball!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 03.ogg|Filedescription = "Foot-berry freeze!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 03.ogg|Filedescription = "100% certified flavor sauce!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 03.ogg|Filedescription = "Park the bus on that!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 04.ogg|Filedescription = "I'm just shootin' the freeze!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker start vo 05.ogg|Filedescription = "Dribble and dodge!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou lead vo 04.ogg|Filedescription = "Freeze frame, I'm winnin' the game!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 04.ogg|Filedescription = "Trophy time for Uncle Lou!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou hurt vo 04.ogg|Filedescription = "You're on thin ice, my friend!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 03.ogg|Filedescription = "You're on thin ice, my friend!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 04.ogg|Filedescription = "I'm frostalicious!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 04.ogg|Filedescription = "Nimble nutmeg!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou die vo 04.ogg|Filedescription = "Don't you worry, I'll be right back!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 04.ogg|Filedescription = "Don't you worry, I'll be right back!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 04.ogg|Filedescription = "Woo-hoo!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 05.ogg|Filedescription = "Woo-hoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 04.ogg|Filedescription = "Filled with vitamin G!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 04.ogg|Filedescription = "Let's go football-istic!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 05.ogg|Filedescription = "Now with 12% more goodness!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker start vo 04.ogg|Filedescription = "Now with 10% more nutmeg!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 05.ogg|Filedescription = "World Cup swirl!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou hurt vo 05.ogg|Filedescription = "B-B-B-B-Brain freeze!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 05.ogg|Filedescription = "Yellow card!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 05.ogg|Filedescription = "Raspberry crush!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 05.ogg|Filedescription = "Cinnamon symphony!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou die vo 05.ogg|Filedescription = "Uncle Lou needs a rest."}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 05.ogg|Filedescription = "See you next fixture!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 05.ogg|Filedescription = "Whoo!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 07.ogg|Filedescription = "Whoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 05.ogg|Filedescription = "I got the drip to make you slip!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 05.ogg|Filedescription = "Blizz ball bonanza!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 06.ogg|Filedescription = "Gee-whiz, try a blizz!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 06.ogg|Filedescription = "♫Oh, Lou, oh, Lou, oh, Lou, oh, Lou!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 06.ogg|Filedescription = "Grumpy grapefruit!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 06.ogg|Filedescription = "Blueberry twirl!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker kill vo 06.ogg|Filedescription = "Right in the goji berries!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 06.ogg|Filedescription = "Bring on the sub!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 06.ogg|Filedescription = "Yahoo!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 06.ogg|Filedescription = Lou laughs}}
+|'''Normal:'''
+{{Ogg|Filename = Lou ulti vo 06.ogg|Filedescription = "I got the sauce!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 06.ogg|Filedescription = "Football frenzy!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 07.ogg|Filedescription = "A frosty treat that'll keep you on your feet!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker lead vo 07.ogg|Filedescription = "Man of the match!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker hurt vo 07.ogg|Filedescription = "Soccer punched!"}}
+|'''Normal:'''
+{{Ogg|Filename = Lou kill vo 07.ogg|Filedescription = "Mango tango."}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker die vo 07.ogg|Filedescription = "Loser Lou is feeling blue."}}
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 07.ogg|Filedescription = Lou laughs}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 04.ogg|Filedescription = "Wee!"}}
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker ulti vo 07.ogg|Filedescription = "Soccer surprise!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Lou start vo 08.ogg|Filedescription = "Try a blizz ball, y'all!"}}
+|
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Lou atk vo 08.ogg|Filedescription = "Aha!"}}'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 08.ogg|Filedescription = "Whoo-hoo-hoo!"}}
+|
+|-
+|
+|
+|
+|
+|
+|'''Super Striker:'''
+{{Ogg|Filename = Lou striker atk vo 09.ogg|Filedescription = "Soccer strike!"}}
+|
+|}
+
+==History==
+*23/11/20:
+**{{Balance|Content=Lou and his King skin were added to the game.|Neutral}}
+*24/11/20:
+**{{Balance|Content=Lou's health was increased to 3100 (from 2800).|Buff}}
+**{{Balance|Content=His main attack damage was increased to 400 (from 380) per cone.|Buff}}
+**{{Balance|Content=His Supercool Star Power effectiveness was increased by 40%.|Buff}}
+*22/12/20:
+**{{Balance|Content=Lou's Hypothermia Star Power was added.|Neutral}}
+*27/01/21:
+**{{Balance|Content=Fixed an issue with Lou's Super crashing the game.|Neutral}}
+*13/02/21:
+**{{Balance|Content=The Smooth Lou skin was added. It was featured as a Brawlentine's Day skin.|Neutral}}
+*15/03/21: 
+**{{Balance|Content=Lou's health was increased to 3200 (from 3100).|Buff}}
+**{{Balance|Content=Lou's Super now deals 40 damage per second (from 0).|Buff}}
+**{{Balance|Content=Lou's Hypothermia Star Power maximum reload speed debuff was increased to 50% (from 35%).|Buff}}
+*07/04/21: 
+**{{Balance|Content=Lou's main attack damage was increased to 440 (from 400) per cone.|Buff}}
+**{{Balance|Content=Lou's main attack Frost stun duration was increased to 1.5 seconds (from 1).|Buff}}
+*16/06/21:
+**{{Balance|Content=Lou's Hypothermia Star Power maximum reload speed debuff was increased to 75% (from 50%).|Buff}}
+*28/07/21:
+**{{Balance|Content=Lou's Cryo Syrup Gadget was added.|Neutral}}
+*06/08/21:
+**{{Balance|Content=The Burger Lou skin was added.|Neutral}}
+*27/10/21:
+**{{Balance|Content=Lou's class was changed to Hybrid (from Support).|Neutral}}
+*16/12/21:
+**{{Balance|Content=Lou's True Silver and True Gold skins were added.|Neutral}}
+*27/04/22: 
+**{{Balance|Content=Lou's Super now fills 12% Frost per second (from 0%).|Buff}}
+**{{Balance|Content=Lou's Supercool Star Power was reworked from gradually freezing enemies within his Super to increasing his Super's freezing rate by 33%.|Neutral}}
+**{{Balance|Content=Lou's Hypothermia Star Power was reworked from decreasing enemies' reload speed depending on how frozen they are to decreasing the damage the enemy deals depending on how frozen they are.|Neutral}}
+*29/06/22:
+**{{Balance|Content=Lou and all of his skins' main attack visual effects were slightly reworked.|Neutral}}
+*28/02/23:
+**{{Balance|Content=Lou's class was changed to Controller (from Hybrid).|Neutral}}
+*25/04/23:
+**{{Balance|Content=Burger Lou's main attack and Super visual effects were slightly reworked.|Neutral}}
+*03/07/23:
+**{{Balance|Content=The Stone Troll Lou skin was added. It was featured as a Power League skin for Brawl Pass Season 19.|Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Neutral}}
+*24/10/23:
+**{{Balance|Content=Lou's Slushie Storm Hypercharge was added.|Neutral}}
+**{{Balance|Content=Lou's flavor text was changed from "Lou is a cool guy, literally! He can dole out all kinds of chill stuff. But watch your step on the ice, and be careful not to get brain freeze!" to "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that."|Neutral}}
+**{{Balance|Content=King Lou's face texture was slightly reworked.|Neutral}}
+*12/12/23:
+**{{Balance|Content=The number of hits necessary to charge Lou's Super was increased to 8 hits (from 7).|Nerf}}
+**{{Balance|Content=Lou's rarity was changed to Mythic (from Chromatic).|Neutral}}
+*27/02/24:
+**{{Balance|Content=Lou's Slushie Storm Hypercharge speed boost was decreased to 26% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Lou's Slushie Storm Hypercharge shield boost was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+*07/12/24:
+**{{Balance|Content=The Rude Lou skin was added. It was featured as a Cartoon Studios skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Lou's reload time was decreased to 1.1 seconds (from 1.3).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=Lou's Slushie Storm Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+**{{Balance|Content=Lou's Ice Block Gadget duration was changed to 1 seconds in the description (from 1.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=The number of hits necessary to charge Lou's Super was increased to 9 hits (from 8).|Change=Nerf}}
+*11/06/25:
+**{{Balance|Content=The Bandito Lou skin was added. It was featured as an Outlaws skin.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Lou's level up damage was increased to 4% (from 2%) in [[Brawl Arena]].|Change=Buff}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Lou's Slushie Storm Hypercharge speed boost from 26%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Lou's Slushie Storm Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Lou's health was increased to 3400 (from 3200).}}
+*25/02/26:
+**{{Balance|Buff|Lou's health was increased to 3500 (from 3400).}}
+**{{Balance|Buff|The delay before Lou's Frost begins to decay was increased to 2.5 seconds (from 2).}}
+**{{Balance|Buff|Lou's Super now fills 14% Frost per second (from 12%).}}
+**{{Balance|Nerf|Lou's Supercool Star Power effectiveness was decreased to 14% (from 33%).}}
+*04/06/26:
+**{{Balance|Neutral|The Super Striker Lou skin was added. It was featured as an Adidas skin.}}
+*30/06/26:
+**{{Balance|Buff|Lou's main attack projectile diameter was increased to 0.4 tiles (from 0.33).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Lou's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Buff|The number of hits necessary to charge Lou's Super was decreased to 8 hits (from 9).}}
+**{{Balance|Buff|Lou's Ice Block Gadget duration was increased to 2 seconds (from 1).}}
+**{{Balance|Buff|Lou's Ice Block Gadget can now be reactivated while active to cancel it.}}
+**{{Balance|Nerf|Lou's Avalanche Gadget cooldown was increased to 24 seconds (from 16).}}
+**{{Balance|Neutral|Lou's Cryo Syrup Gadget was renamed to Avalanche and reworked from immediately adding 50% Frost meter to enemies inside of Super's area-of-effect to throwing a large snowball that deal damage and fills 50% of the Frost Meter to nearby enemies upon impact.}}
+**{{Balance|Neutral|Lou's Supercool Star Power was renamed to Cold Snap and reworked from filling up the Frost meters of enemies in his Super faster to adding more damage to frozen or stunned targets.}}
+**{{Balance|Neutral|Lou's Buffies were added.}}
+**{{Balance|Neutral|Lou's Epic Gear was removed.}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1 = Bandito|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1 = Outlaws|Rarity1 = Rare
+|Name2 = Smooth|Cost2 = Free from Love Boxes or 79 Gems|Campaign2 = My Brawlentine|Rarity2 = Super Rare
+|Name3 = Burger|Cost3 = Free from Strangest Packs or 79 Gems|Campaign3 = Starry Meal|Rarity3 = Super Rare
+|Name4 = Stone Troll|Cost4 = Free from Ranked Drops or 149 Gems|Campaign4 = Ranked|Campaign4_2=Enchanted Woods|Rarity4 = Epic
+|Name5 = Rude|Cost5 = Free from Nova Drops or 199 Gems|Campaign5 = Cartoon Studios|Rarity5 = Mythic
+|Name6 = Super Striker|Cost6 = 299 Gems • '''S'''|Campaign6 = Adidas|Rarity6 = Legendary
+|TrueSkins = yes
+|NameP1 = King|CostP1 = Brawl Pass Exclusive • '''E'''|CampaignP1 = Brawl Pass|RarityP1 = Epic|CampaignP1_2=Royals}}
+
+===Buffie Skins===
+<gallery>
+Lou Buffie Skin-Gadget.png|Gadget
+Lou Buffie Skin-Star.png|Star
+Lou Buffie Skin-Hyper.png|Hyper
+Lou Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Lou
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|King}}
+{{Pin Table|Smooth}}
+{{Pin Table|Stone Troll}}
+{{Pin Table|Burger|Special}}
+{{Pin Table|Rude}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Lou|Rarity = Common}}
+|{{Spray|Type = Lou Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Rude Lou|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Lou1}}
+|{{Pfp|Lou2}}
+|{{Pfp|Lou3}}
+|{{Pfp|Stone Troll Lou}}
+|{{Pfp|Rude Lou}}
+|-
+|{{Pfp|King Lou}}
+|}
+
+{{Navigation}}
+[[pt:Lou]]
+[[ru:Лу]]
+[[nl:Lou]]

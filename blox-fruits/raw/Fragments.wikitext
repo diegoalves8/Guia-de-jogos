@@ -1,0 +1,257 @@
+{{Tabber V2
+|link1 = Money
+|tab1  = Money
+|link2 = Fragments
+|tab2  = Fragments
+|link3 = Valor
+|tab3  = Valor
+}}
+{{Game_Mechanics
+|title1 = Fragments
+|image1 = <gallery>
+FragmentIcon.png|Symbol
+Shard1.png|Icon
+</gallery>
+|date_of_addition: = [[Updates/11|July 10, 2020]]
+|purpose: = Currency
+|locations: = 
+* [[Second Sea]]
+* [[Third Sea]]
+}}
+'''Fragments''' (informally known as Frags) are a type of [[currency]] used in the [[Second Sea]] and [[Third Sea]]. 
+
+Fragments are one of the three primary currencies in the game, the others being [[Money]] and [[Valor]]. It has many uses. For example: unlocking the special or the more unique [[items]] in the game, or awakening fruits. They are also considerably more difficult to obtain, being dropped in smaller amounts and usually requiring special effort, separate from normal grinding, to gain a large amount.
+
+The {{Fragment}} symbol is a <u>[https://home.unicode.org/ unicode]</u> character named "''Latin Small Letter F with Hook''" ( '''''ƒ''''' ), its code is <code>U+0192</code>.
+
+__TOC__{{Clr}}
+
+==Obtainment==
+<tabber>
+Second Sea=
+{| class="fandom-table sortable mw-collapsible"
+|+Second Sea
+!Source
+!Amount
+!How to Obtain
+!Notes
+|-
+|[[Shop]]
+|{{Fragment|500-16,000}}
+|Buy from the [[Shop]]
+|Not recommended as it is quite simple to get {{Fragment|fragments}} without doing so.
+|-
+|[[Raids|Raid]]
+|{{Fragment|300-1,000}}
+|Stay alive until the timer runs out or until the completion of the [[Raids|raid]].
+|Requires the player to be still alive in the [[Raids|raid]].
+* {{Fragment|1,000}} - Completion of the [[Raids|raid]] with more than 3:02 mins left.
+* {{Fragment|300}} - Timer runs out at the last island.
+|-
+|[[Ship Raid]]
+|{{Fragment|200}}
+|Defeat [[Ship Raid]]
+|Requires a [[boat]] to spawn it, can only spawn in the [[Water|Sea]]. Note that [[Grand Brigade]] might not spawn if the player's boat is too large.
+* {{Fragment|50}} x2 [[Brigade]]
+* {{Fragment|100}} x1 [[Grand Brigade]]
+|-
+|[[Sea Beast]]
+|{{Fragment|250}}
+|Defeat [[Sea Beast]]
+|Requires a [[boat]] to spawn it, can only spawn in the [[Water|Sea]].
+|-
+|[[Darkbeard]]
+|{{Fragment|1,500}}
+|Defeat [[Darkbeard]]
+|Requires [[Fist of Darkness]] to spawn [[Darkbeard]].
+|-
+|[[Fishing]]
+|{{Fragment|1,000-3,000}}
+|Fish out a [[Sunken Chest]]
+|Only a purple [[Sunken Chest]] will give Fragments.
+|}
+|-|
+
+Third Sea=
+{| class="fandom-table sortable mw-collapsible"
+|+Third Sea
+!Source
+!Amount
+!How to Obtain
+!Notes
+|-
+|[[Shop]]
+|{{Fragment|500-16,000}}
+|Buy from the [[Shop]]
+|Not recommended as it is quite simple to get {{Fragment|fragments}} without doing so.
+|-
+|[[Raids|Raid]]
+|{{Fragment|60-1,000}}
+|Stay alive until the timer runs out or until the completion of the [[Raids|raid]].
+|Requires the player to be still alive in the [[Raids|raid]].
+* {{Fragment|1,000}} - Completion of the [[Raids|raid]] with more than 2:36 mins left.
+* {{Fragment|300}} - Timer runs out at the last island.
+|-
+|[[Elite Pirates|Elite Pirate]]
+|{{Fragment|100}}
+|Defeat an [[Elite Pirates|Elite Pirate]]
+|The quest from the [[Elite Hunter]] NPC is not required.
+|-
+|[[Pirate Raid]]
+|{{Fragment|100}}
+|Defeat an enemy NPC from [[Pirate Raid]].
+|The player will receive {{Fragment|fragments}} at the end of the raid.
+|-
+|[[Training Dummy]]
+|{{Fragment|200}}
+|Defeat [[Training Dummy]]
+|The quest from the [[Arena Trainer]] NPC is required.
+|-
+|[[Death King|Random Surprise]]
+|{{Fragment|100-250}}
+|Random Surprise from [[Death King]]
+|Costs {{Bones|50}} [[Bones]].
+|-
+|[[Chests#Fragment Chest|Fragment Chest]]
+|{{Fragment|100-200}}
+|Collect [[Chests#Fragment Chest|Fragment Chest]]
+|[[Chests#Fragment Chest|Fragment Chest]] can only be found on [[Treasure Island|Treasure Islands]], [[Haunted Shipwreck|Haunted Shipwrecks]] and [[Mirage Island]].
+|-
+|[[Ship Raid]]
+|{{Fragment|125}}
+|Defeat [[Ship Raid]]
+|Requires a [[boat]] to spawn it, can only spawn in the [[Water|Sea]].
+* {{Fragment|25}} x2 [[Brigade]]
+* {{Fragment|75}} x1 [[Grand Brigade]]
+|-
+|[[Sea Beast]]
+|{{Fragment|150}}
+|Defeat [[Sea Beast]]
+|Requires a [[boat]] to spawn it.<br />Can only spawn in [[Sea Danger Level|Sea Danger Level 1-6]].
+|-
+|[[Haunted Ship Raid]]
+|{{Fragment|150}}
+|Defeat the 2 ships from a [[Haunted Ship Raid]]
+|Requires a [[boat]] to spawn it.<br />Can only spawn in [[Sea Danger Level|Sea Danger Level 1-6]].
+* {{Fragment|75}} x2 ship
+|-
+|[[Terrorshark]]
+|{{Fragment|300}}
+|Defeat [[Terrorshark]]
+|Requires a [[boat]] to spawn it.<br />Can only spawn in [[Sea Danger Level|Sea Danger Level 2-6]].
+|-
+|[[Leviathan]]
+|{{Fragment|1,000}}
+|Defeat [[Leviathan]]
+|Requires [[Frozen Dimension]] to spawn [[Leviathan (Raid Boss)|Leviathan]].
+|-
+|[[rip_indra True Form]]
+|{{Fragment|1,500}}
+|Defeat [[rip_indra True Form]]
+|Requires [[God's Chalice]] to spawn [[Rip indra (Raid Boss)|rip_indra (Raid Boss)]].
+|-
+|[[Cake Prince]]
+|{{Fragment|1,000}}
+|Defeat [[Cake Prince]]
+|Requires 500 enemies defeated on [[Sea of Treats#Cake Land|Cake Land]] to spawn [[Cake Prince]].
+|-
+|[[Dough King]]
+|{{Fragment|2,000}}
+|Defeat [[Dough King]]
+|Requires 500 enemies defeated on [[Sea of Treats#Cake Land|Cake Land]] and [[Sweet Chalice]] to spawn [[Dough King]].
+|-
+|Someone with the Youtuber [[Titles|Title]]
+|{{Fragment|2,500}}
+|Defeat someone with the Youtuber [[Titles|Title]]
+|In order to get the rewards, the player must get bounty from them and thus be close enough in level to do so.
+|-
+|[[Gravestone]]
+|{{Fragment|1,000}}
+|Pray at the [[Gravestone]]
+|Very rare, gives the player [[God's Chalice]], [[Hallow Essence]] and {{Money|100,000}} as well.
+|-
+|[[Tyrant of the Skies]]
+|{{Fragment|1,500}}
+|Defeat [[Tyrant of the Skies]]
+|Requires 200 enemies defeated on [[Tiki Outpost]] (one eye lights up per every 50 enemies killed totaling at 4 eyes) and breaking all the pots 3 times to spawn [[Tyrant of the Skies]].
+|}
+|-|
+
+Events=
+{| class="fandom-table sortable mw-collapsible"
+|+Events
+!Source
+!Amount
+!How to Obtain
+!Notes
+|-
+|[[Greedy Elf]]
+|{{Fragment|200}} - {{Candy|50}} [[Candies]]<br />{{Fragment|500}} - {{Candy|100}} [[Candies]]
+|Buy from [[Greedy Elf]]
+|Only available during [[In-game Events|Christmas Events]].
+|-
+|[[Party Shop]]
+|{{Fragment|150}} - {{Confetti|100}} [[Confetti]]
+|Buy from the [[Party Shop]]
+|Only available during the [[In-game Events|Confetti Event]]. (Currently unavailable)
+|-
+|[[Easter Shop]]
+|{{Fragment|150}} - {{Candy Egg|800}} [[Candy Egg]]s
+|Buy from the [[Easter Shop]]
+|Only available during the [[Events|Easter Event]]
+|}
+|-|
+</tabber>
+
+==Purposes==
+Fragments can be used to:
+* Obtain [[Items]]
+* Unlock [[Fighting Styles|fighting styles]]
+* [[Raids|Awaken]] [[Blox Fruits]]
+* [[Change Race|Change]] [[races]]
+* [[Stat Reset|Reset]] [[stats]]
+* Unlock [[Crew]] slots
+* Upgrade [[Race Awakening]]
+* Bribe the [[Spy]]
+* Obtain [[Skins]]
+* Getting [[Aura/Skins|Aura colours]]
+
+==Trivia==
+* On console, the player will still be able to see how many fragments they have even if they haven't entered [[Second Sea]].
+* To see how much Fragments the player has, they need to hover their cursor over the [[Money]] value on PC. On console and mobile, it always displays.
+* The [[Rare Artifact]] used to fulfill some of the purposes of this [[currency]], but it was then removed in [[Updates/11|Update 11]].
+* Before [[Updates/20|Update 20]], this currency didn't appear when the player was in the [[First Sea]].
+* There are a few non renewable ways to obtain fragments, like the Horned Man's Quest, which gives an increasing amount of fragments for each boss killed, cumulating to {{Fragment|1,500}} in total.
+* The maximum amount of Fragments a player can hold is {{Fragment|1,000,000,000}}.
+* It costs {{Fragment|686,950}} to fully max everything the player can buy with [[Fragments]] (excluding [[Tort|Race Reroll]] and [[Stat Reset]])
+** {{Fragment|172,800}} to fully [[Raids|Awaken]] all [[Blox Fruits|fruits]]
+** {{Fragment|187,250}} to fully awaken [[Race Awakening|V4]] on every [[Races|race]]
+** {{Fragment|2,500}} to buy the [[Cyborg/Puzzle|Cyborg]] race for the first time (excluding potential re-purchases)
+** {{Fragment|31,500}} to unlock all [[Fighting Styles]]
+** {{Fragment|30,000}} to unlock all [[crew]] slots
+** {{Fragment|1,500}} to purchase the [[Lantern]] boat from [[Cyborg (MISC)|Cyborg]]
+** {{Fragment|1,500}} to get [[Kabucha]]
+** {{Fragment|37,500}} to get all [[Aura]] colors from [[Barista]]
+** {{Fragment|91,000}} to get all [[Dragon]] [[skins]] from [[Barista]] (both East and West variants)
+** {{Fragment|10,000}} to get the 2 [[Dragon]] seats ({{Fragment|5,000}} each from the [[Dragon Tamer]])
+** {{Fragment|15,800}} to max the [[Shipwright]] subclass
+** {{Fragment|74,600}} to upgrade [[Gravity]], [[Eagle]], [[Pain]], [[Control]] and [[Lightning]] fruits in the [[Admin Panel]]
+** {{Fragment|9,500}} to get all [[Eagle]] [[skins]] from [[Barista]]
+** {{Fragment|5,500}} to get the 2 [[titles]] "The Grandfather" and "Jack of All Trades" ([[Change Race|Race Reroll]] and [[Stat Reset|Stats Refund]])
+** {{Fragment|10,000}} to fully upgrade [[Sharkman Karate]] to V3
+** {{Fragment|6,000}} to obtain [[Shark Rod]], [[Shell Rod]], and [[Treasure Rod]]
+
+* Players are able to obtain [[Fragments]] in the [[First Sea]] by buying them from "[[Greedy Elf]]" for 50 and 100 [[Candy|Candies]] for 100 and 500 [[Fragments]] respectively only during the [[Christmas Event]].
+
+==Change History==
+{{Change History|11}}
+
+==Navigation==
+{{MiscNav}}
+
+__FORCETOC____NOEDITSECTION__
+[[Category:Currencies]]
+[[Category:Raid Item]]
+[[Category:Second Sea]]
+[[Category:Third Sea]]
+[[Category:Drops]]

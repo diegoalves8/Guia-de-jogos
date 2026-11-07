@@ -1,0 +1,212 @@
+{{Protection}}{{MagicWords}}{{SimilarTitle|Buzz|the Mythic Brawler}}{{RemovedContent}}
+{{BuzzLightyear Infobox|Title = To infinity and beyond!|Class=Damage Dealer|Rarity = Time Limited|VoiceActor=Tim Allen|MovementSpeed = 720 (Laser Mode; Normal)<br>820 (Saber Mode and Wing Mode; Very Fast)<br>907 (Laser Mode; with Hypercharge)<br>1025 (Saber Mode; with Hypercharge)<br>1017 (Wing Mode; with Hypercharge)<br>0–2160 (with Super; Wing Mode)<br>2500 (with Super; Saber Mode)<br>3000 (with Turbo Boosters)|HealthLabel = Health|Health = 6000|HealthLabel2 = Health|Health2 = 8400|HealthLabel3 = Health|Health3 = 7200
+|AttackRange1 = 9 (Long)|AttackSpeed1=4000|AttackWidth1=0.67|Reload1 = 1.4 seconds (Fast)|AttackLabel1 = Damage|AttackSuperCharge1 =18.63%<br>0.414% (fire)|Attack1 = 2160|AttackLabel12 = Damage per second|Attack12 = 160
+|AttackRange2 = 3.67 (Short)|AttackSpread2=150°|Reload2 = 1.5 seconds (Normal)|AttackLabel2 = Damage|AttackSuperCharge2 =22.5%|Attack2 = 2400
+|AttackRange3 = 6.67 (Normal)|AttackSpeed3=3500|AttackSpread3=|Reload3 = 1.9 seconds (Normal)|AttackBullets3=2|AttackLabel3 = Damage at min. range|AttackSuperCharge3 =22.5%–11.25%|Attack3 = 2000|AttackLabel32 = Damage at max. range|Attack32 = 1000
+|SuperLabel = Laser Frenzy damage per laser|SuperLabel2 = To the Rescue! damage|SuperLabel3 = Flying with Style damage per bomb
+|Super = 1000|Super2 = 1920|Super3 = 1400
+|SuperRange = 8.33 (Long)|SuperRange2 = 9 (Long)|SuperRange3 = 9 (Long)
+|SuperBullets = 5 |SuperBullets3 = 
+|SuperDuration = |SuperDuration3 = 
+|SuperSuperCharge =10%<br>0.48% (fire) |SuperSuperCharge2 =24% |SuperSuperCharge3 =15.75%<br>19.6875% (with Hypercharge) 
+|SuperSpread = 35°|SuperSpread3 = 
+|SuperSpeed = 4000|SuperSpeed2 = |SuperSpeed3 = 3000
+|HyperchargeMultiplier=45% (Laser Mode)<br>30% (Saber Mode and Wing Mode)|HyperchargeSpeed=26% (Laser Mode)<br>25% (Saber Mode)<br>24% (Wing Mode)|HyperchargeDamage=25% (Laser Mode and Wing Mode)<br>5% (Saber Mode)|HyperchargeShield=25% (Saber Mode)<br>5% (Laser Mode and Wing Mode)}}
+{{Quote|Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!}}{{Portrait}}
+Buzz Lightyear was a Time Limited {{Rarity|Legendary}} [[Brawler]] who could be unlocked as a Brawlidays 2024 gift from December 12th to December 31st and could be played during the Pizza Planet event until February 4th, 2025. Buzz Lightyear had three modes. In his first mode, he has a moderately low health, moderately high damage output, a long range, and a fast reload speed. Buzz Lightyear's attack is a laser blast that will also damage enemies over time upon contact. For his Super, he fires five lasers from left to right, that will similarly damage enemies over time upon hitting them. In his second mode, Buzz has high health, a moderately high damage output, a very fast movement speed, but a short range. Buzz attacks by swiping his saber in a wide and close-ranged arc. His Super is a jump in the air which allows him to leap over walls, and upon landing, deals damage, and knocks enemies back. In his third mode, Buzz attacks by firing two lasers that deal more damage up close. For his Super, he flies above the ground while dropping bombs onto enemies that deal area damage. Buzz's Gadget, Turbo Boosters, allows him to dash a few tiles in the direction he is facing. His Hypercharge, Bravado, gives Buzz temporary buffs.
+
+==Trait==
+===Saber Mode: Tank===
+{{Trait|Tank}}When Saber Mode is the selected mode, whenever Buzz Lightyear takes damage from enemy Brawlers or spawnables, he charges his Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Buzz Lightyear's max health of damage to charge his Super completely, and all damage is calculated after shielding and other effects.
+
+==Attacks==
+===Laser Mode: Set to Stun===
+{{Quote|Buzz Lightyear fires a laser blast that deals damage on impact and applies a burn effect, causing additional damage over time.}}Buzz Lightyear shoots a long-ranged laser that damages enemies upon contact, while also setting enemies on fire over time. Enemies take 4 ticks of 160 damage every second. Hitting an enemy that is already set on fire will refresh the fire to deal damage 4 more times.
+
+===Saber Mode: Saber Slash===
+{{Quote|Buzz Lightyear skillfully swipes his saber dealing heavy melee damage.}}Buzz Lightyear swings with his saber, hitting enemies in a wide, 150 degree arc. The attack takes a small time to wind up, at 0.15 seconds. However, he isn't immobile while attacking and there isn't any travel time, so the attack instantly takes effect after the delay.
+
+===Wing Mode: Galactic Blast===
+{{Quote|Buzz Lightyear fires two laser beams, dealing increased damage to targets at closer range.}}Buzz Lightyear fires two laser beams linearly in quick succession. Targets closer to Buzz Lightyear take the most damage, and targets near Buzz Lightyear's maximum range take significantly less damage.
+
+==Supers==
+===Laser Mode: Laser Frenzy===
+{{Quote|Buzz Lightyear fires a burst of lasers, dealing immediate damage and inflicting a burn that damages opponents over time.}}Buzz Lightyears fires five lasers from left to right that damages enemies upon contact, while also setting enemies on fire over time.
+
+===Saber Mode: To the Rescue!===
+{{Quote|Buzz Lightyear leaps into the air, charging forward with his saber, knocking back all opponents he strikes.}}Buzz Lightyear flies and briefly hovers in the air, then travels up to 9 tiles forward, knocking enemies back and dealing damage in a 2-tile radius upon landing. While in the air, Buzz Lightyear is completely immune to all damage besides status effects and damage applied over time.
+
+===Wing Mode: Flying with Style===
+{{Quote|Buzz Lightyear leaps into the sky, swooping down on opponents while dropping a payload as he's moving.}}Buzz Lightyear temporarily flies up into the sky, boosting his movement speed and dropping two bombs for every travelled distance onto enemies under him. While in the air, Buzz Lightyear is completely immune to all damage besides status effects and damage applied over time which were applied to his prior to using his Super. The Super cannot be aimed at less than max range unless it's forced to by obstacles. When using his Super, he cannot occupy the zone in [[Hot Zone]], he can't pick up Power Cubes in [[Showdown]], and he can't teleport with teleporters.
+
+==Gadget: Turbo Boosters==
+{{Quote|Buzz Lightyear activates his turbo, sprinting forward in his current direction.}}{{Gadget}}Buzz Lightyear dashes 4.33 tiles in the direction he is facing upon using this Gadget. However, it is cancelled if he is stunned, pulled, or knocked back. Buzz also cannot dash through walls or water, and the dash will be interrupted if he dashes into any of them.
+
+==Hypercharge: Bravado==
+{{Quote|Buzz Lightyear gains a boost to all his base stats, increasing his speed and strength, while his Super remains unaffected.}}{{Hypercharge}}
+When activated, Buzz Lightyear gains a 26% speed boost, 25% damage boost, as well as a 5% shield boost with his Laser Mode, a 25% speed and shield boost, as well as a 5% damage boost with his Saber Mode, or a 24% speed boost, 25% damage boost, as well as a 5% shield boost with his Wing Mode, without any changes to any of his 3 Supers.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 01.ogg|Filedescription = "Blast off!"}}
+|{{Ogg|Filename = Buzz lightyear lead vo 02.ogg|Filedescription = "Thank you, thank you. No, please, hold the applause."}}
+|{{Ogg|Filename = Buzz lightyear hurt vo 01.ogg|Filedescription = "No!"}}
+|{{Ogg|Filename = Buzz lightyear kill vo 03.ogg|Filedescription = "Yeah-heah!"}}
+|{{Ogg|Filename = Buzz lightyear die vo 01.ogg|Filedescription = "'Till we meet again."}}
+|
+|{{Ogg|Filename = Buzz lightyear ulti vo 02.ogg|Filedescription = "Maximum power!"}}
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 02.ogg|Filedescription = "Buzz Lightyear, I come in peace."}}
+|{{Ogg|Filename = Buzz lightyear lead vo 03.ogg|Filedescription = "I'd call that a success."}}
+|{{Ogg|Filename = Buzz lightyear hurt vo 02.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = Buzz lightyear kill vo 04.ogg|Filedescription = "Yes!"}}
+|{{Ogg|Filename = Buzz lightyear die vo 02.ogg|Filedescription = "This was not part of the plan."}}
+|
+|{{Ogg|Filename = Buzz lightyear ulti vo 03.ogg|Filedescription = "Let's make things interesting."}}
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 03.ogg|Filedescription = "Batteries are fully charged and ready to go."}}
+|{{Ogg|Filename = Buzz lightyear lead vo 04.ogg|Filedescription = "My mission's complete."}}
+|{{Ogg|Filename = Buzz lightyear hurt vo 03.ogg|Filedescription = "Blast!"}}
+|{{Ogg|Filename = Buzz lightyear kill vo 05.ogg|Filedescription = "Yes, yes!"}}
+|{{Ogg|Filename = Buzz lightyear die vo 03.ogg|Filedescription = "Mayday mayday mayday!"}}
+|
+|{{Ogg|Filename = Buzz lightyear ulti vo 04.ogg|Filedescription = "Turbo boost, activate!"}}
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 04.ogg|Filedescription = "Buzz Lightyear, to the rescue!"}}
+|{{Ogg|Filename = Buzz lightyear lead vo 05.ogg|Filedescription = "Mission accomplished."}}
+|{{Ogg|Filename = Buzz lightyear hurt vo 04.ogg|Filedescription = "Ow!"}}
+|
+|{{Ogg|Filename = Buzz lightyear die vo 04.ogg|Filedescription = "What was I thinking?"}}
+|
+|
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 05.ogg|Filedescription = "Buzz Lightyear at your service."}}
+|
+|{{Ogg|Filename = Buzz lightyear hurt vo 05.ogg|Filedescription = "Oh!"}}
+|
+|{{Ogg|Filename = Buzz lightyear die vo 05.ogg|Filedescription = "Aah!"}}
+|
+|
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 06.ogg|Filedescription = "To infinity and beyond!"}}
+|
+|{{Ogg|Filename = Buzz lightyear hurt vo 06.ogg|Filedescription = "Ho!"}}
+|
+|{{Ogg|Filename = Buzz lightyear die vo 06.ogg|Filedescription = "Aah!"}}
+|
+|
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 07.ogg|Filedescription = "Greetings, I'm Buzz Lightyear."}}
+|
+|{{Ogg|Filename = Buzz lightyear hurt vo 07.ogg|Filedescription = Buzz Lightyear grunts}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Buzz lightyear start vo 08.ogg|Filedescription = "Roger that."}}
+|
+|{{Ogg|Filename = Buzz lightyear hurt vo 08.ogg|Filedescription = "Hey!"}}
+|
+|
+|
+|
+|}
+
+==Space Ranger Mastery==
+{|class="article-table" style="width:90%;text-align:center"
+|-
+!Rank
+|[[File:Bronze Mastery.png|30px]]<br>Bronze I
+|[[File:Bronze Mastery.png|30px]]<br>Bronze II
+|style="border-right:3px solid"|[[File:Bronze Mastery.png|30px]]<br>Bronze III
+|[[File:Silver Mastery.png|30px]]<br>Silver I
+|[[File:Silver Mastery.png|30px]]<br>Silver II
+|style="border-right:3px solid"|[[File:Silver Mastery.png|30px]]<br>Silver III
+|[[File:Gold Mastery.png|30px]]<br>Gold I
+|[[File:Gold Mastery.png|30px]]<br>Gold II
+|[[File:Gold Mastery.png|30px]]<br>Gold III
+|-
+!Mastery Points Required
+|25 {{Icon|Mastery}}
+|100 {{Icon|Mastery}}
+|style="border-right:3px solid"|250 {{Icon|Mastery}}
+|500 {{Icon|Mastery}}
+|1000 {{Icon|Mastery}}
+|style="border-right:3px solid"|2000 {{Icon|Mastery}}
+|4000 {{Icon|Mastery}}
+|8000 {{Icon|Mastery}}
+|16000 {{Icon|Mastery}}
+|-
+!Reward
+|1000 {{Icon|Coin}}
+|500 {{Icon|Power Point}}
+|style="border-right:3px solid"|100 {{Icon|Credit}}
+|1000 {{Icon|Coin}}
+|[[File:Buzz Lightyear Pin-Angry.png|45px]]
+|style="border-right:3px solid"|[[File:Buzz Lightyear Pin-Sad.png|45px]]
+|[[File:Buzz Lightyear-Spray.png|50px]]
+|[[File:Buzz Lightyear2-pfp.png|50px]]
+|{{Title|To infinity and beyond!|Gold}}Title
+|}
+
+==History==
+*12/12/24:
+**{{Balance|Neutral|Buzz Lightyear was temporarily added to the game for the Pizza Planet event, and was available for every user to claim for free until 31/12.}}
+*18/12/24:
+**{{Balance|Nerf|Buzz Lightyear's main attack damage was decreased to 2160 (from 2320) while in Laser Mode.}}
+**{{Balance|Nerf|The number of hits necessary to charge Buzz Lightyear's Super was increased to 6 hits (from 5) while in Laser Mode.}}
+**{{Balance|Nerf|Buzz Lightyear's health was decreased to 8400 (from 9000) while in Saber Mode.}}
+**{{Balance|Nerf|The number of hits necessary to charge Buzz Lightyear's Super was increased to 5 hits (from 4) while in Saber Mode.}}
+**{{Balance|Neutral|Fixed Buzz Lightyear's Hypercharge description not displaying the correct icon for Speed stats, instead of the Health icon.}}
+**{{Balance|Neutral|Fixed a bug where winning or losing with Buzz Lightyear would display previous trophy loss or gains on the home screen.}}
+**{{Balance|Neutral|Fixed a bug where Buzz Lightyear flying out of the map would crash the game.}}
+**{{Balance|Neutral|Fixed a bug where Buzz Lightyear would play [[Surge]] Lightyear's voice lines upon being defeated.}}
+*09/01/25:
+**{{Balance|Buff|Buzz Lightyear can now immediately attack after using his Super while in Wing Mode.}}
+*04/02/25:
+**{{Balance|Neutral|Buzz Lightyear was removed from the game.}}
+*25/02/25:
+**{{Balance|Neutral|Fixed a bug where Buzz Lightyear would appear in the cosmetic bank, in the leaderboard, and in some profiles after his removal.}}
+*04/03/25:
+**{{Balance|Neutral|Fixed a bug where collected Trophies for Buzz Lightyear would still count towards total Trophies for some players.}}
+**{{Balance|Neutral|Fixed the message in inboxes saying "SHELLY the Brawler is not available anymore." instead of BUZZ LIGHTYEAR.}}
+
+==Cosmetics==
+:Note: All of Buzz Lightyear's cosmetics are Player cosmetics, except for his Neutral Pin. His default Profile Icon was also removed with his removal.
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan="12"|Buzz Lightyear
+|-
+!Skin 
+!colspan="11"|Pins
+{{Pin Table}}
+|}
+
+===Spray===
+{|class="article-table" style="width:100%;text-align:center" colspan="5"
+|-
+|{{Spray|Type = Buzz Lightyear|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan="5"
+|-
+|{{Pfp|Buzz Lightyear1}}
+|{{Pfp|Buzz Lightyear2}}
+|}
+
+{{Navigation}}
+[[pl:Buzz Astral]]
+[[ru:Базз Лайтер]]
+[[Category:Time Limited Brawlers]]
+[[Category:Removed Brawlers]]

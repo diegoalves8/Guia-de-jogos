@@ -1,0 +1,276 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = What's in the cards?|PrestigeTitle = Future Demise|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 750 (Normal)|VoiceActor=Martin Schjøler|HealthLabel = Health|Health = 3300|AttackRange = 8 (Long)|Reload = 1.8 seconds (Normal)|AttackBullets = 3|AttackSuperCharge = 8.4%|AttackLabel = Damage per card|Attack = 480|SuperRange = 6.67 (Normal)|SuperSuperCharge = 24%|SuperLabel = Damage|Super = 800|AttackSpread=25°|AttackSpeed=3152|AttackWidth=|SuperSpeed=1522|Gadget1Name=Psychic Enhancer|Gadget1Cooldown=20 seconds|Gadget1Duration=4 seconds|Gadget2Cooldown=17 seconds|Gadget2Name=Support from Beyond|Gadget2=864|Gadget22=532|Gadget2Label=Health per minion|Gadget2Label2=Damage per minion|StarPower1Name = Black Portal|StarPower2Name = Healing Shade|HyperchargeMultiplier=50%|AttackHyperchargeCharge=4.2%|SuperHyperchargeCharge=12%|Previous=Mortis|Next=Gene}}
+{{Quote|Tara has seen in the cards that great difficulties lie ahead! But don't despair... she has a terrific selection of magical trinkets for sale to help with that.}}
+{{Portrait}}
+Tara is a {{Rarity|Mythic}} [[Brawler]] with moderate health and a moderately slow reload speed, but has immense utility with her Super and a high damage output at close range. She was the 17th/18th Brawler added to the game. She attacks by throwing three long-ranged tarot cards that pierce through her enemies and spread out, therefore dealing the most damage at close range. For her Super, she throws a black hole that quickly pulls in enemies within a short range, then explodes, dealing moderate damage and destroying obstacles in a short radius. Her first Gadget, Psychic Enhancer, allows Tara and her teammates to see enemies that are hiding in bushes or invisible for a short amount of time. Her second Gadget, Support From Beyond, summons three shadowy versions of Tara with low health and damage that chase down enemies, have quick melee attacks, and disappear after a short amount of time. Her first Star Power, Black Portal, allows her Super to summon a smaller, shadowy version of Tara with moderate health and damage that chases down enemies and has quick melee attacks. Her second Star Power, Healing Shade, allows her Super to summon a shadowy figure similar to that of her first Star Power, that heals teammates. Her Hypercharge, Supermassive, increases her Super radius of effect.
+
+==Attack: Triple Tarot==
+{{Quote|Tara flicks her wrist, snapping off three tarot cards that pierce through enemies. Quite a trick!}}Tara throws three tarot cards simultaneously that can pierce through multiple targets. This attack has a long range, a slight spread, and a relatively slow reload speed. Due to the spread of her attacks, she deals the most damage at close range, though it is relatively easy to hit targets with at least two of the cards even at a range.
+
+==Super: Gravity==
+{{Quote|Tara conjures up a mind-boggling gravity well! Enemies in the area of effect get pulled in, crashing together painfully hard.}}Tara throws a card that becomes an 8-tile wide black hole that pulls every enemy up to 3 tiles inward for 0.7 seconds. After 0.7 seconds, it explodes in a 1.5-tile radius around its center, dealing damage, breaking obstacles, and knocking back enemies caught inside it.
+
+==Gadgets==
+===Psychic Enhancer===
+{{Quote|Tara and her allies are able to see all enemies, even inside bushes, for 4 seconds. Cooldown: 20 seconds.}}{{Gadget|1}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+Upon activation, this Gadget allows Tara, as well as her teammates, to see every enemy visible on their screen, including those hiding inside bushes or invisible enemies, for the next 4 seconds. However, if Tara is defeated, the effect is cut short. If an enemy is revealed while this Gadget is active, they will be notified by a small yellow eye icon, similar to [[Leon]]'s and [[Sandy]]'s visibility warning, next to their health bar. This Gadget's cooldown begins after the duration ends.
+
+===Support from Beyond===
+{{Quote|Tara surrounds herself with three weak shadows that attack enemies and disappear after 6 seconds. Cooldown: 17 seconds.}}{{Gadget|2}}When Tara uses this Gadget, she summons three shadowy figures in a triangular formation around her that follow and attack the closest enemies. They each have 17.4% of Tara's maximum health and deal 69.3% the damage as one of her cards within a range of 1.67 tiles every 0.6 seconds. These shadows automatically despawn after 6 seconds. This Gadget's cooldown begins after it is activated.
+
+==Star Powers==
+===Black Portal===
+{{Quote|Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears and attacks her enemies.}}{{StarPower|1}}When Tara uses her Super, a shadowy, smaller version of herself appears after the Super's explosion. This minion is similar to [[Nita]]'s bear, but with lower health and higher damage. This minion has 4000 health and deals 1000 damage with a range of 1.67 tiles every 0.6 seconds. It has a fast movement speed, making it an immediate threat to enemy Brawlers.
+
+===Healing Shade===
+{{Quote|Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears to heal Tara and her teammates.}}{{StarPower|2}}When Tara uses her Super, a shadowy, smaller figure of herself appears after the Super's explosion. This minion has 3000 health and heals 600 health every 0.6 seconds with a max range of 5 tiles to a single ally nearby. When nobody with missing health is nearby, it will run to the nearest teammate without maximum health. Note that the shadow only heals the ally with missing health that is closest to it, not the ally with the least amount of health.
+
+==Hypercharge: Supermassive==
+{{Quote|Gravity has 20% larger area.}}{{Hypercharge}}
+When activated, Tara's Super has a much larger area of effect. Despite the description, the 20% increase is of the diameter and not the area, so her Super's diameter is increased from 8 tiles to 9.6 tiles. In addition, the Super destroys walls and damages enemies across the whole radius instead of only in the middle. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Super summons more shadows.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>When Tara used her Super, three shadowy, smaller versions of herself appeared before the Super's explosion, and she could have up to 12 minions. These minions were similar to [[Nita]]'s bear, but with lower health and higher damage. They had 3400 health and dealt 800 damage with a range of 1.67 tiles every 0.6 seconds. They had a fast movement speed, which made them an immediate threat to enemy Brawlers.
+
+==Tips==
+===Game Modes and Maps===
+*In [[Showdown]], a strategy that can be used is to hide in a bush. After a while, find two enemy Brawlers fighting each other and strike. Use her Super to gather them together and finish them off with her main attack.
+*Tara can be effective in Brawl Ball if she has her Super after a goal has been scored, as she can take out the whole enemy team when they are clustered together at the start of a round. Her Super can also be used to drag in enemies in front of the enemy goal, potentially destroying enemy cover and setting up an opportunity to score.
+*Tara's Black Portal Star Power shadow has very low health, but has a good damage output, can run extremely fast, and can detect Brawlers hiding in bushes, making it more of a scouting tool rather than an offensive Star Power. It can also be a valuable offensive attack on the Heist safe.
+*In Brawl Ball, surprise enemies by using the destruction radius at the center of her Super to break a hole in the wall in most maps. This feature of her Super is especially useful if her teammates are long-ranged Brawlers or Brawlers with high spread, as freeing up the map allows them to control larger areas and be more effective when pressuring the enemy team.
+
+===Recommended Build===
+*Tara's Healing Shade shadow has very low health, but a decent amount of range and a high amount of healing. As long as enemies are kept away from the shadow, it can provide lots of extra health for your team. However, this might put you at a disadvantage on maps where bush concealment is crucial since the shadow will produce healing effects that reveal your location to enemies.
+**If Tara has her Healing Shade Star Power and her teammate(s) are low on health, it's better to throw a portal away from enemies so that Tara's shadow can heal longer. Throwing the portal into a crowd of people is always a great technique, but the shadow will get taken out much faster. Decide how to use her Super based on the situation, if you have this Star Power.
+*Tara's Psychic Enhancer Gadget is great in maps with lots of bushes, like [[Snake Prairie]] and [[Cavern Churn]]. It works better with teammates like [[Shelly]], [[Bull]], [[Leon]], [[El Primo]], [[Spike]], [[Griff]], [[Buzz]], or [[Darryl]], who can creep up on enemies in bushes exposed by Tara’s Gadget whilst being entirely concealed.
+*Tara's Support from Beyond Gadget is very useful in Heist. If all three shadows attack, they can deal incredibly high amounts of damage to the safe as long as no other enemy is in range, the shadow summoned from her Black Portal Star Power can add some extra damage.
+**You can also use Tara's Support from Beyond Gadget to tank shots from single target Brawlers such as [[Piper]], [[Belle]], Mandy, [[Maisie]], [[Angelo]], or [[Bea]].
+
+===Strategies===
+*When being pursued by fast Brawlers like [[Max]], tanks, or assassins, it is wise to throw Tara's Super behind them, pulling them away from you so that you can escape. If being chased by a low-health Brawler, you can then surprise them by unloading all three of your attacks quickly, as Tara deals reasonably high damage at close range. Don't try this with high health brawlers as Tara does not have enough damage and does not reload fast enough to kill them before they kill you. Instead, chip away at their health from a range, using your Super to pull them near you to finish them off.
+
+===Other===
+*Her main attack can be really useful when many rival Brawlers are gathered in a small area since it not only deals damage to more than one enemy but helps to build up her Super faster.
+*Once Tara's Super is charged, try to pull in as many enemies as possible, attacking them while they are being pulled in. Hitting enough Brawlers allows her to quickly charge another Super.
+**Try to use Tara's Super when near teammates to maximize the chance of a team wipe as well. Doing so will open up huge opportunities especially in game modes such as [[Brawl Ball]], [[Heist]], [[Gem Grab]], and [[Duo Showdown]].
+*It is crucial to conserve Tara’s ammo before using her Super. Because enemies are drawn towards the middle of her Super, they will not be able to attack for a short period; letting Tara use attacks on her opponents without being attacked. Also, bear in mind that her ammunition reload speed is rather slow, so allow extra time to pass if her ammo is exhausted and she is about to spring an attack.
+*Tara's Super is very useful if paired with other Supers, such as [[Dynamike]], [[Frank]], El Primo, [[Squeak]], [[Mandy]], Shelly, [[Barley]], [[Carl]], Griff, Spike, [[Colt]]. [[Rico]], or [[Pearl]]'s Super. Tara can draw enemies together with her Super so that her teammate can hit multiple enemies with theirs. These combos can deal a massive amount of damage and wipe out the enemy team.
+*If there are a cluster of Power Cubes, find a bush nearby and use it as bait. Wait until an enemy comes to collect them, then use Tara's Super to delay them from reaching the Power Cubes. When you collect the Power Cubes, finish them off with her main attack.
+
+==Voice Lines ==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated
+|-
+|{{Ogg|Filename = Tara start vo 01.ogg|Filedescription = Tara laughs}}
+|{{Ogg|Filename = Tara lead vo 01.ogg|Filedescription = Tara laughs}}
+|{{Ogg|Filename = Tara hurt vo 01.ogg|Filedescription = Tara shrieks}}
+|{{Ogg|Filename =  Tara kill vo 01.ogg|Filedescription = Tara laughs}}
+|{{Ogg|Filename = Tara die vo 01.ogg|Filedescription = Tara wails}}
+|-
+|{{Ogg|Filename = Tara start vo 02.ogg|Filedescription = Tara laughs}}
+|{{Ogg|Filename = Tara lead vo 02.ogg|Filedescription = Tara taunts}}
+|{{Ogg|Filename = Tara hurt vo 02.ogg|Filedescription = Tara shrieks}}
+|{{Ogg|Filename = Tara kill vo 02.ogg|Filedescription = Tara shrieks}}
+|{{Ogg|Filename = Tara die vo 02.ogg|Filedescription = Tara shrieks}}
+|-
+|{{Ogg|Filename = Tara start vo 03.ogg|Filedescription = Tara hums}}
+|{{Ogg|Filename = Tara lead vo 03.ogg|Filedescription = Tara taunts}}
+|{{Ogg|Filename = Tara hurt vo 03.ogg|Filedescription = Tara growls}}
+|{{Ogg|Filename = Tara kill vo 03.ogg|Filedescription = Tara laughs}}
+|{{Ogg|Filename = Tara die vo 03.ogg|Filedescription = Tara shrieks}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Tara kill vo 04.ogg|Filedescription = Tara cheers}}
+|{{Ogg|Filename = Tara die vo 04.ogg|Filedescription = Tara shrieks}}
+|}
+
+==History==
+*04/09/17:
+**{{Balance|Content=Tara was added to the game.|Change=Neutral}}
+*12/09/17:
+**{{Balance|Content=Tara's health was decreased to 700 (from 800).|Change=Nerf}}
+**{{Balance|Content=Her reload time was increased to 2 seconds (from 1.8).|Change=Nerf}}
+**{{Balance|Content=Her main attack range was decreased to 8 tiles (from 8.67).|Change=Nerf}}
+*05/10/17:
+**{{Balance|Content=Tara's health was increased to 800 (from 700).|Change=Buff}}
+**{{Balance|Content=Her Super damage was increased to 140 (from 100).|Change=Buff}}
+*07/12/17:
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Tara's Black Portal Star Power was added.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Tara's Black Portal Star Power minion health was increased to 2000 (from 1600).|Change=Buff}}
+**{{Balance|Content=Her Black Portal Star Power minion no longer scales with Showdown Power Cubes or when Tara is a Big Brawler in Big Game.|Change=Nerf}}
+*16/01/18:
+**{{Balance|Content=Tara's Super damage was increased to 800 (from 560).|Change=Buff}}
+*21/03/18:
+**{{Balance|Content=Tara's main attack projectile size was increased.|Change=Buff}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Tara's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds were increased by 9%.|Change=Neutral}}
+*27/09/18:
+**{{Balance|Content=Tara's main attack damage was decreased to 380 (from 400) per card.|Change=Nerf}}
+*05/12/18:
+**{{Balance|Content=The number of hits necessary to charge Tara's Super was increased to 13 hits (from 12).|Change=Nerf}}
+*29/01/19:
+**{{Balance|Content=Tara's Black Portal minion damage was increased to 400 (from 200) per hit, and its health was increased to 2400 (from 2000).|Change=Buff}}
+*26/06/19:
+**{{Balance|Content=Tara was remodeled and given voice lines.|Change=Neutral}}
+*17/07/19:
+**{{Balance|Content=Tara's Healing Shade Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Tara's Healing Shade Star Power minion no longer heals Brawlers that have full health.|Change=Neutral}}
+**{{Balance|Content=Her Black Portal minion's health was increased to 3000 (from 2400).|Change=Buff}}
+**{{Balance|Content=The Iris Tara skin was added.|Change=Neutral}}
+*09/10/19:
+**{{Balance|Content=Tara's main attack damage was increased to 420 (from 380) per card.|Change=Buff}}
+**{{Balance|Content=Her Black Portal Star Power minion damage was increased to 600 (from 400) per hit.|Change=Buff}}
+**{{Balance|Content=Her Healing Shade pet now heals invisible targets.|Change=Neutral}}
+*05/12/19:
+**{{Balance|Content=Tara's Black Portal Star Power minion damage was increased to 800 (from 600) per hit.|Change=Buff}}
+*23/01/20:
+**{{Balance|Content=Tara's class was changed to Fighter (from Skirmisher).|Change=Neutral}}
+*24/01/20:
+**{{Balance|Content=The Street Ninja Tara skin was added. It was featured as a Lunar Brawl 2020 skin.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Tara's Psychic Enhancer Gadget was added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Fixed a bug which prevented Psychic Enhancer Gadget from revealing all enemies in the map.|Change=Neutral}}
+*16/06/20:
+**{{Balance|Content=Tara's health was increased to 3400 (from 3200).|Change=Buff}}
+*02/07/20:
+**{{Balance|Content=Tara's main attack damage was increased to 460 (from 420) per card.|Change=Buff}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 12 hits (from 13).|Change=Buff}}
+*11/11/20:
+**{{Balance|Content=Tara's Black Portal Star Power minion will return to Tara if there are no enemies present on the battlefield.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Tara's health was decreased to 3200 (from 3400).|Change=Nerf}}
+**{{Balance|Content=Her Psychic Enhancer Gadget duration was decreased to 4 seconds (from 5).|Change=Nerf}}
+**{{Balance|Content=Tara's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that didn't take in account of Tara's Healing Shade Star Power for healing Quests.|Change=Neutral}}
+*05/02/21:
+**{{Balance|Content=Tara's Support from Beyond Gadget was added.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Tara, Street Ninja Tara, and Iris Tara received facial animations.|Change=Neutral}}
+*23/04/21:
+**{{Balance|Content=The Misfortune Tara skin was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Tara's class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Tara's Support from Beyond Gadget minion health was decreased to 800 (from 1000) per minion.|Change=Nerf}}
+*01/03/22:
+**{{Balance|Content=Tara's main attack damage was decreased to 440 (from 460) per card.|Change=Nerf}}
+*30/04/22:
+**{{Balance|Content=The Tempest Tara skin was added. It was featured as a Sands of Time skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Tara and her skins main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=Tara's flavor text was changed from "Tara’s triple tarot card attack pierces through enemies. Her Super is a black hole that sucks in all nearby enemies, causing damage!" to "What’s in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!"|Change=Neutral}}
+*25/11/22:
+**{{Balance|Content=The Ragequit Tara skin can be obtained by gaining 1000 points at [https://event.brawlstars.com event.brawlstars.com] during the World Finals 2022.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Tara's Super visual effects were reworked.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Iris Tara now costs 29 [[Gems]] (from 500 [[Star Points]]).|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=Tara's main attack damage was increased to 480 (from 440) per card.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 11 hits (from 12).|Change=Buff}}
+*27/06/23:
+**{{Balance|Content=Iris Tara was remodeled and renamed to Stara.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Tara's health was decreased to 3100 (from 3200).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Tara's Support from Beyond Gadget minion health were increased to 864 (from 800), their damage was increased to 532 (from 500) per second, and they now scale with Power Levels.|Change=Buff}}
+**{{Balance|Content=Tara's flavor text was changed from "What's in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!" to "Tara has seen in the cards that great difficulties lie ahead! But don't despair... she has a terrific selection of magical trinkets for sale to help with that."|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=The Urban Ninja Tara skin was added. It was featured as a Lunar Brawl skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Tara's Black Portal Star Power minion health was increased to 3400 (from 3000).|Change=Buff}}
+**{{Balance|Content=Tara's Healing Shade Star Power minion health was increased to 3000 (from 2400).|Change=Buff}}
+**{{Balance|Neutral|Tara's Supermassive Hypercharge was added.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 10 hits (from 11).|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=The Shukuteki Tara skin was added. It was featured as a Battle for Katana Kingdom skin.|Change=Neutral}}
+**{{Balance|Content=Tara's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Tara's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Tara's level up damage was decreased to 4% (from 6%) in [[Brawl Arena]].|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Tara's Support from Beyond Gadget cooldown was increased to 17 seconds (from 15).|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=Tara's Super recharge rate was increased by approximately 33%.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge her Super was increased to 12 hits (from 10).|Change=Nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Tara's Supermassive Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Tara's Supermassive Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Tara's health was increased to 3300 (from 3100).}}
+*30/06/26:
+**{{Balance|Buff|Tara's reload time was increased to 1.8 seconds (from 2).}}
+*02/07/26:
+**{{Balance|Neutral|The Tech Tara skin was added. It was featured as a Nanonoodles skin.}}
+*01/09/26:
+**{{Balance|Buff|Tara's Black Portal Star Power's shadow health was increased to 4000 (from 3400).}}
+**{{Balance|Buff|Tara's Black Portal Star Power's shadow damage was increased to 1000 (from 800).}}
+**{{Balance|Buff|Tara's Healing Shade Star Power's shadow health was increased to 4000 (from 3000).}}
+**{{Balance|Buff|Tara's Healing Shade Star Power's shadow healing was increased to 600 (from 400).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Tara's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1=Stara|Cost1=Free after reaching 750 Trophies, free from Najia Boxes or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Street Ninja|Cost2=79 Gems • '''E'''|Campaign2=Lunar Brawl|Rarity2=Super Rare
+|Name3=Misfortune|Cost3=149 Gems|Campaign3=Outlaws|Rarity3=Epic
+|Name4=Tempest|Cost4=149 Gems|Campaign4=Sands of Time|Rarity4=Epic
+|Name5=Ragequit|Cost5=Free from Brawl Stars World Finals 2022 or 149 Gems • '''S'''|Campaign5=BSC 2022|Rarity5=Epic
+|Name6=Urban Ninja|Cost6=149 Gems|Campaign6=Lunar Brawl|Rarity6=Epic
+|Name7=Shukuteki|Cost7=Free from Sushi Rolls, Nori Boxes or 149 Gems • '''S'''|Campaign7=Battle for Katana Kingdom|Rarity7=Epic
+|Name8=Tech|Cost8=Free from Nano Drops, Smoothie Drops or 199 Gems|Campaign8=Nanonoodles|Rarity8=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Tara
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Tempest}}
+{{Pin Table|Ragequit}}
+{{Pin Table|Street Ninja}}
+{{Pin Table|Urban Ninja|GG}}
+{{Pin Table|Misfortune|Thanks}}
+{{Pin Table|Shukuteki|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Tara|Rarity = Common}}
+|{{Spray|Type = Tara Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Tempest Tara|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Tara1}}
+|{{Pfp|Tara2}}
+|{{Pfp|Tara3}}
+|{{Pfp|Tara4}}
+|{{Pfp|Urban Ninja Tara}}
+|-
+|{{Pfp|Misfortune Tara}}
+|{{Pfp|Tempest Tara}}
+|{{Pfp|Ragequit Tara}}
+|{{Pfp|Shukuteki Tara}}
+|}
+
+{{Navigation}}
+[[es:Tara]]
+[[ru:Тара]]

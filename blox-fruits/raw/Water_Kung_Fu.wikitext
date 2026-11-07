@@ -1,0 +1,158 @@
+{{Tabber V2
+|tab1 = Water Kung Fu
+|tab2 = Sharkman Karate
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Water Kung Fu
+|source    = Water Kung-fu Teacher
+|update    = 5
+|sea       = 1/2/3
+|location  = Underwater City (1st sea)
+|lcoation1 = Hot and Cold
+|lcoation2 = Castle on the Sea
+|money     = 750,000
+|location1=Hot And Cold (2nd sea)|location2=Castle On The Sea (3rd sea)|fragments=N/A|materials=N/A}}
+'''Water Kung Fu (formerly known as Fishman Karate)''' is a [[Fighting Styles|fighting style]] obtainable in all seas.
+
+The style focuses on steam and water based abilities, also letting the user M1 far faster than any other fighting style.
+
+Water Kung Fu is considered by many as one of best fighting styles for grinding because the M1s have no cooldown and do not make the user lunge forward (Unlike its upgrade, [[Sharkman Karate]]).
+
+==Obtainment==
+Water Kung Fu can be learned for {{Money|750,000}} from the [[Water Kung-fu Teacher]].
+
+==Mastery==
+* '''300+ Mastery:''' Water Kung Fu is one of the requirements to obtain [[Superhuman]](in [[Second Sea]] or [[Third Sea]]).
+* '''400+ Mastery:''' Water Kung Fu can be "upgraded" to [[Sharkman Karate]] in [[Second Sea]] (or [[Third Sea]]).
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Aqua Flurry
+|gif      = Water Kung Fu M1
+|desc     = The user punches repeatedly with their water infused hands. There is no lag after the fourth M1, so this can be used infinitely without pause.
+}}
+
+{{Skill
+|key      = Z
+|name     = Steam-Charged Fist
+|mastery  = 70
+|cooldown = 6
+|energy   = ?
+|break    = yes
+|instinct = Can be dodged if not aimed correctly.
+|gif      = Water Kung Fu Z
+|desc     = The user fires a blue ring that releases steam, inflicting knockback.
+}}
+
+{{Skill
+|key      = X
+|name     = Deadly Shower
+|mastery  = 130
+|cooldown = 10
+|energy   = ?
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Water Kung Fu X
+|desc     = The user shoots many fast projectiles out of their hands; this move deals decent damage. Requires aim to be used effectively.
+}}
+
+{{Skill
+|key      = C
+|name     = Heavy Water Punch
+|mastery  = 250
+|cooldown = 15
+|energy   = ?
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Water Kung Fu C
+|desc     = The user charges water and lunges a powerful punch in the direction of the cursor, dealing high knockback. Can be used for movement.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* The M1’s don't have end-lag.
+* After [[Sharkman Karate]] got reworked, Water Kung Fu is arguably better for grinding than Sharkman Karate.
+* Great for farming, as all moves are AoE and do not have much knockback.
+* Fairly good damage, range, and hitbox.
+* With enough experience, the player can learn capable combos.
+* [[Buddha]] is good with this fighting style, since most abilities do not have any hitboxes.
+* All moves damage [[Sea Beast]]s.
+* Highly recommended for the [[First Sea]] for its damage, range, and M1.
+
+|'''[Z] Steam-Charged Fist'''
+* Decent knockback.
+* [[Instinct/Break|Breaks Instinct]] on a direct hit.
+
+|'''[X] Deadly Shower'''
+* Extremely high range.
+* High tick damage.
+
+|'''[C] Heavy Water Punch'''
+* Good range.
+* Can be used as a travel move, although not very efficient.
+** Can dodge attacks in PvP and PvE since it covers a decent range.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Not recommended in PvP because it's quite slow; its upgraded version, [[Sharkman Karate]] is more recommended because of its high combo potential.
+* Mainly requires close range. Doesn't in [[Buddha]] transformation.
+* Moves require prediction.
+* Relatively expensive for [[First Sea]] players since [[Instinct]] is the same amount of [[Money]].
+
+|'''[Z] Steam-Charged Fist'''
+* Can be hard to hit in PvP.
+* A bit of end lag which, in uncommon but not rare cases, can get the player stuck in the ground.
+* Short range.
+* Does not deal any damage if used with Transformed Buddha (v2).
+
+|'''[X] Deadly Shower'''
+* Requires good aiming skills.
+
+|'''[C] Heavy Water Punch'''
+* Can "mess up" and only hit one enemy out of a group.
+* Low endlag.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+Water Kungfu-Sharkman Idle.gif|Idle Stance
+</gallery>
+
+==Trivia==
+* Water Kung Fu is the most expensive fighting style in the [[First Sea]].
+** Additionally, it has the same price as [[Instinct]] and [[Soul Cane]].
+* The unreworked version of '''[X] Deadly Shower''' is used by [[Sea Beast]]s but much larger.
+* The '''[X] Deadly Shower''' has almost the range of the ground to the top of [[Castle on the Sea]].
+* People use this fighting style, since [[Sharkman Karate]] got nerfed with it's M1s being slow other than this being faster (In grinding, people still use this for PvP).
+* Water Kung Fu does not have any moves that cause [[Destructible Physics]].
+
+==Change History==
+{{Change History|5|content={{Update|27.3}}
+* Water Kung Fu was reworked once again. (mostly visuals)
+<gallery>
+SteamChargedFist.gif|Old '''[Z] Steam Charged Fist'''
+DeadlyShower.gif|Old '''[X] Deadly Shower'''
+HeavyWaterPunch.gif|Old '''[C] Heavy Water Punch'''
+</gallery>
+----
+{{Update|17.3}}
+* Water Kung Fu was reworked.
+----
+{{Update|5}}
+* Water Kung Fu was released.}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[Category:Upgradable]]
+[[ru:Водное Кунг-Фу]]

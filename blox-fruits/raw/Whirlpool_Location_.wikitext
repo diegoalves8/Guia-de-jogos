@@ -1,0 +1,32 @@
+{{MapTab}}
+{{About|the Whirlpool in First Sea|the Whirlpool event in Third Sea|Whirlpool}}
+{{Location Infobox
+|name     = Whirlpool
+|image    = Whirlpool (Location).png
+|type     = Island
+|sea      = First Sea
+|music    = Explorer
+}}
+The '''Whirlpool''' is an area that is used to access the [[Underwater City]].
+
+==Appearance==
+The Whirlpool consists of a large whirlpool surrounded by rocks. The rocks have small amounts of grass on them, and a dock for [[boats]].
+
+==Location==
+The Whirlpool can be found in the open ocean close to [[Frozen Village]] in the [[First Sea]] to access [[Underwater City]].
+
+==People==
+{| class="article-table"
+!NPCs
+|-
+|
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Set Home Point]]
+|}
+
+==Changes==
+{{Change History|3}}
+
+==Navigation==
+{{IslandNavigation}}

@@ -1,0 +1,472 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Tech Support 2.0|PrestigeTitle = Heavy Metal|Rarity = Legendary|Class = Tank|MovementSpeed = 855 (Very Fast)<br>1026 (with Force Field and Star Buffie)<br>750 (Mecha; Normal)|HealthLabel = Health|Health = 2400|AttackLabel = Damage per bolt|Attack = 300|AttackLabel2 = Mecha damage per bolt|Attack2 =150|AttackRange = 9 (Long)<br>7.33 (Mecha; Long)|Reload = 1.3 seconds (Very Fast)<br>1.1 seconds (Mecha; Very Fast)|AttackBullets=2<br>16 (Mecha)|AttackSuperCharge = 13.5%<br>2.703% (Mecha)|SuperRange = 4.33 (Normal)<br>6.67 (with Hypercharge)|SuperLabel = Mecha Health|Super = 3700|VoiceActor =Sheila Morris |AttackSpeed=4000<br>4500 (Mecha) |AttackWidth=1<br>2 (Mecha)|SuperLabel2=Mecha Super Damage|Super2=1700|SuperLabel3=Mecha Damage Landing|Super3=1500|SuperSpread=135°|SuperSuperCharge=21.25%<br>42.5% (with Hypercharge)|Gadget1Name=Jolting Volts|Gadget1=649.2|Gadget1Label=Heal per second|Gadget1Cooldown=17 seconds|Gadget2Name=Repurpose|Gadget2Cooldown=25 seconds|Gadget2Label=Damage|Gadget2=1280|StarPower2Name=Heavy Metal|StarPower2=1080|StarPower2Label=Healing|HyperchargeMultiplier=35%|Previous=Amber|Next=Chester|AttackSpread=9° (Mecha)|AttackHyperchargeCharge=4.725%<br>0.946% (Mecha)|SuperHyperchargeCharge=7.425%<br>14.875% (with Hypercharge)|Gadget1Duration=5 seconds<br>6 seconds (with Gadget Buffie)}}
+{{Quote|Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while [[Max]] and [[Surge]] are out entertaining the crowds.}}
+{{Portrait}}
+Meg is a {{Rarity|Legendary}} [[Brawler]] who has moderately high health and high damage output in her advanced form but can attain her alternate form that has very low damage and the second-lowest health of any Brawler. Meg has a very fast movement speed in her base form and a very long-ranged attack in both forms. She was the 51st Brawler added to the game. Meg attacks by firing two bolts in quick succession that deal low damage to enemies. Her Super transforms her into a Mecha that momentarily increases her health and modifies Meg's attack and Super, damaging and knocking nearby enemies in the process. The Mecha's attack fires two streams of bolts, while its Super deals high damage in a wide arc. Her first Gadget, Jolting Volts, momentarily heals her Mecha and her nearby allies while it is active. Her second Gadget, Repurpose, fires her Mecha in the direction Meg's facing, and damaging enemies along the way and on impact, while also automatically charging her Super overtime. Her first Star Power, Force Field, grants her a long-lasting damage reduction shield after her Mecha is taken out. Her second Star Power, Heavy Metal, heals her Mecha after using the Super. Her Hypercharge, Tungsten Toughness, increases the range of her Mecha's Super, or temporarily slow the nearby targets after she creates her Mecha.
+
+==Mecha==
+Meg starts a match and respawns in Advanced form. Once her health reaches 0, Meg will turn into Basic form with the same fraction of ammo her Mecha had and have the same health as she did before using her Basic Super. Meg can only be taken out in Basic form.
+
+==Attacks==
+===Basic: Target Acquired===
+{{Quote|Meg fires a short burst from her blaster that pokes at her enemies' patience.}}Meg fires two long-ranged bolts in quick succession that deal low damage to enemies. This attack has a very fast unload speed, taking only 0.4 seconds to complete.
+
+===Advanced: Crowd Control===
+{{Quote|A strong barrage of bullets that leaves nothing to chance. It's the quickest way to make crowds disperse!}}Meg's Mecha fires 16 bolts arranged in two staggered streams, which have a cone-shaped spread. This attack has a slow unload speed, taking 1 second to complete.
+
+==Supers==
+===Basic: Mecha Machina===
+{{Quote|Meg jumps into her Mecha for some colossal carnage! On landing, mecha damages nearby opponents by 3000.}}Meg's Super creates a Mecha after a 1-second delay, damaging and knocking nearby enemies back in the process. The Mecha has its own health and modifies Meg's attack and Super. However, Meg's movement speed, unload speed and range are reduced while she's controlling it. Meg's Super transformation can be cancelled if she is stunned, knocked back, or pulled, and she is unable to attack or move during the 1-second delay. If Meg is taken out, her Super charge will go to her Mech when she respawns. The damage does not scale with buffs or debuffs.
+
+===Advanced: Feel the Steel===
+{{Quote|The Mecha swings a formidable forearm that enemies will see and feel.}}The Mecha's Super is a secondary attack that is a wide, piercing swing that deals high damage after a 0.2-second delay, similarly to [[Bibi]]'s attack. If her Mecha is taken out while its Super is charged, Meg won't have its Super when she transforms back.
+
+==Gadgets==
+===Jolting Volts===
+{{Quote|Heal the mecha by 518 per second for 5 seconds. Can only be used in mecha form. Cooldown: 17 seconds.}}{{Gadget|1}}This Gadget heals Meg's Mecha heals for 7% of its maximum health per second for 5 seconds. This Gadget cannot be activated if her Mecha is not active. This Gadget's cooldown begins after the effect ends.
+
+{{Quote|Jolting Volts heals for +1 sec.}}{{Buffie|Gadget}}
+With the Buffie, the Gadget also heals Meg's Mecha and nearby teammates for 11% of their maximum health per second. The healing radius is centered on Meg and moves with her. In addition, the healing duration is increased from 5 to 6 seconds.
+
+===Repurpose===
+{{Quote|Meg ejects from the Mecha, launching it forward, dealing 1600 damage on the way. Charges Super after during the next 6 seconds. Cooldown: 25 seconds.}}{{Gadget|2}}Meg immediately ejects from the Mecha and launches it forward as a projectile. The Mecha deals 266% of its attack damage to enemies it hits and explodes at the end of its range, dealing the same amount of damage to and knocking back nearby enemies. In addition, Meg's Super will charge by 100% over the next 6 seconds.
+
+{{Quote|The Mecha leaves a trail of fire dealing 30% of the launched Mecha damage for 3 sec.}}{{Buffie|Gadget}}
+With the Buffie, the Mecha also leaves behind a trail of fire that deals 30% of the launched Mecha damage for 3 seconds. Enemies who touch it are set on fire to burn while they stand in the trail and for 1 second after they leave.
+
+==Star Powers==
+===Force Field===
+{{Quote|Meg is protected by a 30% shield for 5 seconds when her Mecha is destroyed.}}{{StarPower|1}}This Star Power grants Meg a 30% shield for 5 seconds after her Mecha is taken out (whether from enemies or her Repurpose Gadget). The shield duration is cut short if Meg uses her Super again.
+
+{{Quote|Meg gains +20% movement speed while the shield is active.}}{{Buffie|Star}}
+With the Buffie, Meg's movement speed is also increased by 20%, while her shield is active.
+
+===Heavy Metal===
+{{Quote|The Mecha recovers 1200 health for each enemy hit with Feel the Steel (Super in Mech).}}{{StarPower|2}}When the Mecha uses its Super, it heals for 70.59% of the damage dealt from every enemy hit. The healing stacks when more enemies are hit.
+
+{{Quote|Feel the Steel also steals 1 Ammo from enemy Brawlers. More like Feel the Steal, right??}}{{Buffie|Star}}
+With the Buffie, enemies hit by the Mecha's swing will lose one ammo. Meanwhile, the Mecha gains the stolen ammo to its own ammo bar. If an enemy Brawler's ammo bar is empty, the Mecha will not receive any more ammo even if the swing hits them, but the Mecha can still remove enemies' ammo even if his ammo bar is full. This Buffie does not work against the [[Heist]] safe or spawnables.
+
+==Hypercharge: Tungsten Toughness==
+{{Quote|Feel the Steel has increased range, and enemies hit when Meg deploys the Mecha are slowed for 1 sec.}}{{Hypercharge}}
+When activated, both of Meg's Supers get a buff depending on what form she is in when she uses the Super. While in the Mecha, the Super's range is increased by 2.33 tiles. While outside the Mecha, when she enters it, the Mecha slows the nearby targets for 1 second. Meg also gains a 20% speed boost, and a 5% damage and shield boost.
+
+{{Quote|The Mecha's Main Attack explodes, dealing 400 area damage. Outside her Mecha, Meg's Main Attack homes to enemies and fires an extra projectile.}}{{Buffie|Hyper}}
+With the Buffie, the Mecha's attacks explode on impact in a small radius, dealing 200 damage each. While outside the Mecha, Meg fires 3 projectiles instead of 2 that will curve towards the nearest enemy but have decreased projectile speed. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Meg adds 2 additional projectiles to her Target Acquired.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>With this Mutation, the number of projectiles that Meg can fire while in her Mecha was doubled with a slight spread. In addition, Meg fired three long-ranged bolts in the normal form.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attack has more range.}}<div style="float: right;">[[File:Inferno Wasabi.png|64px|link=]]</div>Meg's main attack had longer range in both her Mecha and normal forms.
+
+==Tips==
+*Meg is a dependable damage dealer when in her Mecha, making her particularly effective at dealing damage to the [[Heist]] safe or applying pressure in [[Duels]]. However, her reload speed and movement speed are reduced while in the Mecha. As a result, it’s advisable to avoid chasing down enemies in modes like [[Bounty]] or [[Knockout]].
+*Meg is an agile poker without her Mecha because of her fast movement speed and fast unload speed, but with it, she becomes a devastating fighter and control asset as she can deal high damage in large areas with her attack and secondary Super.
+*There's a slight delay before Meg hops into her Mecha, and her Super can be cancelled if she dies, gets knocked back, or gets stunned. Make sure to activate her Super where you'll be safe from attacking enemies.
+*In [[Brawl Ball]], Meg can be very viable as a defense to oncoming opponents with the ball as her Mecha has a lot of health and can be used to significantly damage opponents. She can take enemy fire and provide some area denial to help the ball carrier score an easy goal.
+*In [[Showdown]], Meg can be a force to be reckoned with due to her starting in her much stronger Mecha form. Combined with her Jolting Volts Gadget, Meg can duel even longer range Brawlers due to the Mecha's high health. However, Meg becomes much weaker after it is destroyed. Prioritize picking up Power Cubes and use her Force Field Star Power to increase Meg's survivability outside her Mecha.
+*When the various upgrades the Mecha gives Meg are needed more than usual, using Meg's Jolting Volts Gadget can keep Meg in her Mecha significantly longer against long range Brawlers that can prevent it from healing. This is useful in Heist because Meg will have a very low impact on the health of the Safe in her standard form, but can deal substantial damage onto the safe when inside her Mecha.
+*Be mindful when taking on high-responsibility roles such as the Gem carrier in [[Gem Grab]] or the ball carrier in Brawl Ball, because if Meg's Mecha is taken out, she will become an easy target. 
+*Avoid close combat and engaging with aggressive Brawlers after her Mecha is destroyed. Either Star Power can help by shielding some damage or pushing away enemies near Meg, but those won't completely save her from taking damage or being defeated.
+*Meg's advanced Super will cancel its main attack. Keep this in mind if you want to deal substantial long-range damage.
+*In her Mecha form, Meg is able to deal a lot of damage and keep control of an area with her high-damaging attack and Super. This makes her an extreme menace in modes like [[Hot Zone]] and [[Brawl Ball]]. Since her range is shorter than most long-range Brawlers, she excels in maps that require mid-lane control.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning/Mecha gets destroyed
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 01.ogg|Filedescription = "Oh! Last time I fired my gun, I was at the academy!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 01.ogg|Filedescription = "Windstock internship, field test live."}}
+|'''Normal:'''
+{{Ogg|Filename = meg lead vo 01.ogg|Filedescription = "Tech for the win!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 01.ogg|Filedescription = "Can't spell Windstock without win!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg hurt vo 01.ogg|Filedescription = "Ugh! Incorrect!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 04.ogg|Filedescription = "Stress test failed, emotionally."}}
+|'''Normal:'''
+{{Ogg|Filename = meg kill vo 01.ogg|Filedescription = "I did it!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 05.ogg|Filedescription = "Harvest season came early!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 01.ogg|Filedescription = "Ugh! I must improve!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 06.ogg|Filedescription = "Intern status? Critically humbled."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 01.ogg|Filedescription = "Hyaa!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 01.ogg|Filedescription = "Meet Rob!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 02.ogg|Filedescription = "Full send, zero emission!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 03.ogg|Filedescription = "I'm so, ready for this!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 02.ogg|Filedescription = "Bio tank full, mech tank ready."}}
+|'''Normal:'''
+{{Ogg|Filename = meg lead vo 02.ogg|Filedescription = "Out of the lab and into the lead!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 02.ogg|Filedescription = "Out of the lab and into the lead!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg hurt vo 02.ogg|Filedescription = "Hmm! There must be a glitch!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 02.ogg|Filedescription = "Ow! That's not carbon neutral!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg kill vo 02.ogg|Filedescription = "Textbook takedown!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 01.ogg|Filedescription = "Textbook takedown! Footnote, me!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 02.ogg|Filedescription = "Wrong, wrong, wrong!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 01.ogg|Filedescription = "Wrong, wrong, wrong!"}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 02.ogg|Filedescription = "Wah!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 02.ogg|Filedescription = "Tech upgrade enabled!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 04.ogg|Filedescription = "Bio-powered tech upgrade enabled!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 04.ogg|Filedescription = "Woo-hoo!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 03.ogg|Filedescription = "Sun's up, Super's charging."}}
+|'''Normal:'''
+{{Ogg|Filename = meg lead vo 03.ogg|Filedescription = "Numbers don't lie."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 05.ogg|Filedescription = "Numbers don't lie, I ran the math twice!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg hurt vo 03.ogg|Filedescription = "Debugging!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 05.ogg|Filedescription = "Argh! Bugged biotech!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg kill vo 03.ogg|Filedescription = "Yeah!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 03.ogg|Filedescription = "That's one less toxic build."}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 03.ogg|Filedescription = "Violation!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 05.ogg|Filedescription = "Should've stayed in the greenhouse."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 03.ogg|Filedescription = "Ah!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 03.ogg|Filedescription = "Engaging mech mode!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 01.ogg|Filedescription = "Engaging zero emission mech mode!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 05.ogg|Filedescription = "Oh, this is so exciting! Ha-ha-ha!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 04.ogg|Filedescription = "Finally, outdoor data!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg lead vo 04.ogg|Filedescription = "I'm winning!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 06.ogg|Filedescription = "I'm winning! Quietly, Max might hear."}}
+|'''Normal:'''
+{{Ogg|Filename = meg hurt vo 04.ogg|Filedescription = "Hmm! Not part of the manual!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 01.ogg|Filedescription = "Not part of the manual!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg kill vo 04.ogg|Filedescription = "Trust the process."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 04.ogg|Filedescription = "Trust the process. It worked!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 04.ogg|Filedescription = "I'll get my bot!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 04.ogg|Filedescription = "I'll get my bot, after respawn, obviously."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 04.ogg|Filedescription = "Ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 04.ogg|Filedescription = "Tech support 2.0!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 03.ogg|Filedescription = "Windstock firmware, don't fail me now!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 06.ogg|Filedescription = "Hey! Wait for me!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 05.ogg|Filedescription = "From greenhouse to madhouse."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 03.ogg|Filedescription = "Top of the board, sticker certified!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg hurt vo 05.ogg|Filedescription = "Ugh! Need to recalibrate!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 03.ogg|Filedescription = "Recalibrating!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg kill vo 05.ogg|Filedescription = "Did I really do that?!"}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 02.ogg|Filedescription = "Did I do that? Yes, yes, I did it!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 05.ogg|Filedescription = "Paralysis! Through analysis."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 03.ogg|Filedescription = ""Paralysis. Through analysis.}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 05.ogg|Filedescription = "Poke poke! Pair with you!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 05.ogg|Filedescription = "Robot rampage."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 05.ogg|Filedescription = "Turbine torque, ready to tango!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = meg start vo 07.ogg|Filedescription = "Good to go."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock start vo 06.ogg|Filedescription = "This internship goes hard."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 04.ogg|Filedescription = "Intern of the month, fam!"}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock hurt vo 06.ogg|Filedescription = "It's giving malfunction."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock kill vo 06.ogg|Filedescription = "Carbon sample obtained!"}}
+|'''Normal:'''
+{{Ogg|Filename = meg die vo 06.ogg|Filedescription = "Time to reboot."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 02.ogg|Filedescription = "Time to reboot. Ego's still loading."}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 06.ogg|Filedescription = "Sapling damage."}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 06.ogg|Filedescription = "Rob don't stop."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 09.ogg|Filedescription = "Bio-Rob don't stop!"}}
+|-
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 07.ogg|Filedescription = "Proof of concept? Me!"}}
+|
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock die vo 07.ogg|Filedescription = "Ugh! Back to the drawing dome!"}}
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock atk vo 07.ogg|Filedescription = "It's giving damage."}}
+|'''Normal:'''
+{{Ogg|Filename = meg ulti vo 07.ogg|Filedescription = "Robot mode."}}'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 08.ogg|Filedescription = "Main character mech mode!"}}
+|-
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 08.ogg|Filedescription = "Big W, small footprint."}}
+|
+|
+|
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 07.ogg|Filedescription = "Big mech, small carbon footprint."}}
+|-
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock lead vo 09.ogg|Filedescription = "Low-key winning! High-key stressed."}}
+|
+|
+|
+|
+|'''Mega Mecha:'''
+{{Ogg|Filename = meg windstock ulti vo 06.ogg|Filedescription = "Solar sync at 100%!"}}
+|}
+
+==History==
+*28/09/21:
+**{{Balance|Content=Meg was added to the game.|Change=Neutral}}
+*30/09/21:
+**{{Balance|Content=Meg's Super is now lost if she is defeated while activating her Super.|Change=Nerf}}
+**{{Balance|Content=Meg now spawns with no ammo after her Mecha is destroyed (from 3).|Change=Nerf}}
+**{{Balance|Content=Meg now takes longer to start healing after her Mecha is destroyed.|Change=Nerf}}
+*06/10/21:
+**{{Balance|Content=Fixed a bug where Meg's face texture would disappear when in her Mecha.|Change=Neutral}}
+*13/10/21:
+**{{Balance|Content=Meg's Self Destruction Star Power was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Meg now spawns with 1 ammo after her Mecha is destroyed (from 0).|Change=Buff}}
+**{{Balance|Content=Meg's second Star Power was renamed to Heavy Metal (from Self Destruction).|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Meg could use a teleporter again after activating her Super.|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Meg's Heavy Metal Star Power damage was increased to 1500 (from 1000).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Meg's Super was increased to 8 hits (from 6).|Change=Nerf}}
+*02/03/22:
+**{{Balance|Content=Fixed a bug where Meg visually spawns as her Mecha after respawning.|Change=Neutral}}
+*17/03/22:
+**{{Balance|Content=Fixed an issue where destroying Meg's Mecha could crash the game.|Change=Neutral}}
+*07/04/22:
+**{{Balance|Content=The Beetle Meg skin was added. It was featured as a Biodome skin.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Meg's Toolbox Gadget was added.|Change=Neutral}}
+**{{Balance|Content=Meg's True Silver and True Gold skins were added.|Change=Neutral}}
+*06/05/22:
+**{{Balance|Content=The Monster Truck Meg skin was added. It was featured as a Stunt Show skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Meg's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=The number of hits necessary to charge Meg's Super was decreased to 7 hits (from 8).|Change=Buff}}
+*25/10/22:
+**{{Balance|Content=Meg's health was increased to 2300 while in her base form (from 2200).|Change=Buff}}
+*12/12/22:
+**{{Balance|Content=Meg and Monster Truck Meg's main attack visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Meg's flavor text was changed from "Meg has a basic form and an advanced form where she hops inside her trusted Mecha. The Mecha loses health over time and has low healing ability. Destroying the Mecha returns Meg to her basic form." to "Meg has a basic form and an advanced form where she hops inside her trusted Mecha suit. The suit gradually loses health, returning Meg to her basic form when the Mecha suit is destroyed."|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Meg's class was changed to Tank (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=The health decay mechanic from the Mecha was removed.|Change=Buff}}
+**{{Balance|Content=Meg's Mecha can now regenerate health over time.|Change=Buff}}
+**{{Balance|Content=Meg's Mecha no longer receives reduced healing from outside healing sources.|Change=Buff}}
+**{{Balance|Content=Meg's Mecha health was decreased to 4000 (from 5000).|Change=Nerf}}
+**{{Balance|Content=Meg's Mecha main attack damage was decreased to 210 (from 240) per bolt.|Change=Nerf}}
+**{{Balance|Content=Meg's Mecha Super damage decreased to 1700 (from 2400).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Meg's Super was increased to 8 hits while in her base form (from 7).|Change=Nerf}}
+**{{Balance|Content=Meg now respawns with her Mecha.|Change=Neutral}}
+**{{Balance|Content=Meg's Mecha Super was changed to require 11 hits to charge (from charging automatically over 5 seconds).|Change=Neutral}}
+*01/05/23:
+**{{Balance|Content=The Jaguar Spirit Meg skin was added. It was featured as a Power League skin for Brawl Pass Season 18.|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Meg's Force Field Star Power damage reduction was decreased to 25% (from 35%).|Change=Nerf}}
+**{{Balance|Content=Meg's Force Field Star Power duration was decreased to 10 seconds (from 30).|Change=Nerf}}
+*06/06/23:
+**{{Balance|Content=Meg's Mecha health was decreased to 3700 (from 4000).|Change=Nerf}}
+**{{Balance|Content=Meg's Jolting Volts Gadget healing was decreased to 300 (from 450) per second.|Change=Nerf}}
+*27/06/23:
+**{{Balance|Content=Meg's flavor text was changed from "Meg has a basic form and an advanced form where she hops inside her trusted Mecha suit. The suit gradually loses health, returning Meg to her basic form when the Mecha suit is destroyed." to "Meg starts the game inside her trusty Mecha suit. Meg returns to her basic form when the Mecha suit is destroyed, but can use her Super to get back into it."|Change=Neutral}}
+*08/08/23:
+**{{Balance|Content=The Megalodon skin was added. It was featured as a Cursed Pirates skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Megalodon's losing animation.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Meg's Jolting Volts Gadget healing was increased to 415 (from 300) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Meg's Heavy Metal Star Power damage was increased to 2160 (from 1500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Meg's flavor text was changed from "Meg starts the game inside her trusty Mecha suit. Meg returns to her basic form when the Mecha suit is destroyed, but can use her Super to get back into it." to "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds."|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Meg's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Meg's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Meg's Mecha health was increased to 4000 (from 3700).|Change=Buff}}
+**{{Balance|Content=Meg's Mecha now fires 16 projectiles (from 8).|Change=Buff}}
+**{{Balance|Content=Meg's Mecha reload time was decreased to 1.1 seconds (from 1.5).|Change=Buff}}
+**{{Balance|Content=Meg's Jolting Volts Gadget healing was increased to 448 (from 415) per second.|Change=Buff}}
+**{{Balance|Content=Meg's Mecha attack range was decreased to 7.33 tiles (from 9).|Change=Nerf}}
+**{{Balance|Content=Meg's Mecha attack damage was decreased to 170 (from 210) per projectile.|Change=Nerf}}
+**{{Balance|Content=The number of hits required to charge Meg's Super while in Mecha form was increased to 14 (from 11).|Change=Nerf}}
+**{{Balance|Content=Meg's Metal Heavy Star Power explosion animation was reworked.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Meg's Mecha attack damage was decreased to 150 (from 170) per projectile.|Change=Nerf}}
+**{{Balance|Content=The number of hits required to charge Meg's Super while in Mecha form was increased to 15 (from 14).|Change=Nerf}}
+*04/10/24:
+**{{Balance|Content=Meg's Mecha health was decreased to 3500 (from 4000).|Change=Nerf}}
+**{{Balance|Content=Meg's Jolting Volts Gadget healing was decreased to 392 (from 448) per second.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/03/25:
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+*30/04/25:
+**{{Balance|Content=Meg's movement speed was increased 820 (from 770) while in her base form.|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Meg's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Meg's Wasabi Power was removed from the game.|Change=Neutral}}
+*23/06/25:
+**{{Balance|Content=The Whisked Meg skin was added. It was featured as a Starry Meal skin.|Change=Neutral}}
+*17/07/25:
+**{{Balance|Content=The Martyr Meg skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Buff|Content=Meg's Tungsten Toughness Hypercharge Super recharge rate was increased by 100%.}}
+*28/10/25:
+**{{Balance|Content=Meg's Mecha no longer awards XP when defeated in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Meg's Tungsten Toughness Hypercharge speed boost in her base form from 24%. This does not affect Meg in her Mecha form.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Meg's Tungsten Toughness Hypercharge damage boost in her base form from 15%. This does not affect Meg in her Mecha form.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Meg's Tungsten Toughness Hypercharge shield boost in her base form from 15%. This does not affect Meg in her Mecha form.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge speed boost in her Mecha form was increased to 20% (from 15%).|Change=Buff}}
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge damage boost in her Mecha form was decreased to 5% (from 10%).|Change=Nerf}}
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge shield boost in her Mecha form was decreased to 5% (from 25%).|Change=Nerf}}
+**{{Balance|Content=Meg's Hypercharge charge rate Power Cards were replaced with the movement speed Power Cards.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Meg's health was increased to 2400 (from 2300).}}
+**{{Balance|Buff|Meg's Mecha health was increased to 3700 (from 3500).}}
+**{{Balance|Buff|Meg's Jolting Volts Gadget healing was increased to 414 (from 392) per second.}}
+*25/02/26:
+**{{Balance|Buff|Meg's Toolbox Gadget radius was increased to 2.93 tiles (from 2.67).}}
+**{{Balance|Buff|Meg's Force Field Star Power damage reduction was increased to 30% (from 25%).}}
+*13/05/26:
+**{{Balance|Content=Fixed an issue where Meg's Mecha health didn't reset correctly.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=Meg now deals damage and knocks nearby enemies back when transforming into her Mecha.|Change=Buff}}
+**{{Balance|Content=Meg's Jolting Volts Gadget healing was increased to 649 (from 414) per second.|Change=Buff}}
+**{{Balance|Content=Meg's Jolting Volts Gadget now also heals nearby allies.|Change=Buff}}
+**{{Balance|Content=Meg's Force Field Star Power damage reduction was increased to 40% (from 30%).|Change=Buff}}
+**{{Balance|Content=Meg's Toolbox Gadget cooldown was increased to 22 seconds (from 19).|Change=Nerf}}
+**{{Balance|Content=Meg's Force Field Star Power duration was decreased to 5 seconds (from 10).|Change=Nerf}}
+**{{Balance|Content=Meg's Toolbox Gadget was reworked from placing down a toolbox that grants Meg and allies a reload speed boost inside its area-of-effect to firing her Mecha in the direction Meg's facing, and damaging enemies along the way and on impact, while also automatically charging her Super overtime.|Change=Neutral}}
+**{{Balance|Content=Meg's Heavy Metal Star Power was reworked dealing damage and knocking nearby enemies back when her Mecha gets destroyed to healing her Mecha after using the Super.|Change=Neutral}}
+**{{Balance|Content=Meg's Tungsten Toughness Hypercharge was reworked from granting her a shield that absorbs damage and decays over time after she creates her Mecha to temporarily slowing the nearby targets after creating it.|Change=Neutral}}
+**{{Balance|Content=Meg's Buffies were added.|Change=Neutral}}
+*08/07/26:
+**{{Balance|Content=The number of hits required to charge Meg's Super while in the Mecha was increased to 37 (from 15).|Change=Nerf}}
+**{{Balance|Content=Meg's Jolting Volts Buffied Gadget extra time was decreased to 1 second (from 2).|Change=Nerf}}
+**{{Balance|Content=Meg's Toolbox Gadget Super charge duration was increased to 6 seconds (from 4).|Change=Nerf}}
+**{{Balance|Content=Meg's Toolbox Gadget Super charge amount was decreased to 99% (from 100%).|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where Meg's normal form was using default Hypercharge projectiles instead of the skinned ones when Buffie is equipped.|Change=Neutral}}
+*04/08/26:
+**{{Balance|Content=Fixed an issue where Meg's Heavy Metal Star Power would trigger if her main attack projectiles hit during her Mech's Super windup.|Change=Neutral}}
+*06/08/26:
+**{{Balance|Content=The Mega Mecha Meg skin was added. It was featured as a Windstock skin.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Buff|Meg's Toolbox Gadget Super charge amount was increased to 100% (from 99%).}}
+**{{Balance|Content=Meg's Repurpose Gadget cooldown was increased to 25 seconds (from 22).|Change=Nerf}}
+**{{Balance|Content=Meg's Force Field Star Power damage reduction was decreased to 30% (from 40%).|Change=Nerf}}
+**{{Balance|Neutral|Meg now spawns with the same fraction of ammo she had after her Mecha is destroyed (from 1).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Meg's movement speed to 855 (from 820), and her Mecha's movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Meg's Toolbox Gadget was renamed to Repurpose.}}
+*16/09/26:
+**{{Balance|Nerf|Meg now knocks back enemies with the Repurpose Gadget only after explosion.}}
+**{{Balance|Neutral|Meg no longer receives an unintended respawn shield when changing forms in [[Showdown]].}}
+
+==Cosmetics==
+===Skins (7)===
+====Meg====
+{{Skin Gallery
+|Name1=Whisked|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Beetle|Cost2=79 Gems|Campaign2=Biodome|Rarity2=Super Rare
+|Name3=Monster Truck|Cost3=149 Gems|Campaign3=Stunt Show|Rarity3=Epic
+|Name4=Jaguar Spirit|Cost4=149 Gems|Campaign4=Ranked|Campaign4_2=Rumble Jungle Heroes|Rarity4=Epic
+|Name5=Martyr|Cost5=Free from Angelic Drops or 149 Gems|Campaign5=Angels vs. Demons|Rarity5=Epic
+|Name6=Megalodon|Cost6=Free from Glowbert Boxes or 199 Gems|Campaign6=Cursed Pirates|Rarity6=Mythic
+|Name7=Mega Mecha|Cost7=Free after opening 140 Smoothie Drops or 499 Gems • '''S'''|Campaign7=Windstock|Rarity7=Hypercharge
+<!--|Name8=Mega Earth Mecha|Cost8=499 Gems • '''S'''|Campaign8=Windstock|Rarity8=Hypercharge
+|Name9=Mega Corporate Mecha|Cost9=499 Gems • '''S'''|Campaign9=Windstock|Rarity9=Hypercharge}-->
+|TrueSkins = Yes}}
+
+====Mecha====
+{{Skin Gallery
+|For=Minion
+|Name1=Whisked|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Beetle|Campaign2=Biodome|Rarity2=Super Rare
+|Name3=Monster Truck|Campaign3=Stunt Show|Rarity3=Epic
+|Name4=Jaguar Spirit|Campaign4=Ranked|Campaign4_2=Rumble Jungle Heroes|Rarity4=Epic
+|Name5=Martyr|Campaign5=Angels vs. Demons|Rarity5=Epic
+|Name6=Megalodon|Campaign6=Cursed Pirates|Rarity6=Mythic
+|Name7=Mega Mecha|Campaign7=Windstock|Rarity7=Hypercharge
+<!--|Name8=Mega Earth Mecha|Campaign8=Windstock|Rarity8=Hypercharge
+|Name9=Mega Corporate Mecha|Campaign9=Windstock|Rarity9=Hypercharge}-->
+|TrueSkins = Yes}}
+
+=== Buffie Skins ===
+<gallery>
+File:Meg Buffie Skin-Gadget.png|Gadget
+File:Meg Buffie Skin-Star.png|Star
+File:Meg Buffie Skin-Hyper.png|Hyper
+File:Meg Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Meg
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Beetle|Special}}
+{{Pin Table|Monster Truck}}
+{{Pin Table|Jaguar Spirit|Happy}}
+{{Pin Table|Megalodon}}
+{{Pin Table|Martyr|Happy}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Meg|Rarity = Common}}
+|{{Spray|Type = Meg Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Megalodon|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Meg1}}
+|{{Pfp|Meg2}}
+|{{Pfp|Meg3}}
+|{{Pfp|Megalodon}}
+|{{Pfp|Jaguar Spirit Meg}}
+|-
+|{{Pfp|Monster Truck Meg}}
+|{{Pfp|Martyr Meg}}
+|}
+
+{{Navigation}}
+[[ru:Мэг]]

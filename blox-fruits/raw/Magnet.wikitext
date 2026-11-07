@@ -1,0 +1,403 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Magnet
+|image  = <gallery>
+Magnet Fruit.png|Fruit Icon
+PhysicalMagnetFruit.gif|Fruit GIF
+MagnetIconND.png|Icon
+</gallery>
+
+<!-- Fruit Information -->|type   = Natural
+|rarity = Mythical
+|M1     = Yes
+|update = 30
+|money  = 6,000,000
+|robux  = 3,500
+}}
+
+'''Magnet''' is a {{Mythical}} [[Natural]]-type of [[Blox Fruit]] that costs {{Money|6,000,000}} or {{Robux|3,500}} from the [[Blox Fruit Dealer]].
+
+Magnet grants the user the power of magnetokinesis, allowing the user to control metallic objects and manipulate magnetic forces in combat. 
+
+Collecting metal scraps fills a Magnetic Power meter; as it charges, the user's mechanical arms grow larger—boosting M1 attack speed, combo extensions, and damage reduction. When completely filled, the meter allows the user to transform into a large robot with metal and magnet-themed abilities and passives. Flight is available in both base form and when transformed.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive
+|name     = Magnetic Power
+|meter    = Magnetic Power.gif
+|desc     = Magnetic Power can be gained by collecting scraps from the ground. As the meter fills, the user's metallic arms undergo visual upgrades across three distinct stages, increasing their M1 damage and combo chain. This also increases base form damage reduction (1-20%), and jetpack flight speed. Any damage taken by the user depletes their Magnetic Power by a small amount.
+}}
+
+{{Skill/Passive
+|name     = Flux Draw
+|file     = Magnetic Pull.gif
+|desc     = User gains a magnetic field as a passive, that automatically draws nearby opponents toward the user. The pull strength and radius increase based on the user's '''Magnetic Power''' meter. This also affects the pulling radius of nearby scraps.
+|desc1    = These three distinct stages are:<br>
+* '''Stage 1:''' No magnetic pull effect.
+* '''Stage 2:''' Activates a moderate magnetic aura around the user that continuously pulls nearby targets toward them.
+* '''Stage 3:''' Significantly expands the pull radius and increases the pull speed, making it difficult for targets to dash away from the user.
+}}
+
+{{Skill/Passive
+|name     = Complete Construct
+|file     = Mech idles (1).gif
+|desc     = While transformed, the user gains a '''~62.5%''' damage reduction on all attacks and '''~70%''' damage reduction on all [[gun]] attacks. However, the user's damage reduction is reduced to '''~30%''' against lightning-based attacks. The transformed {{Ability|X}} and {{Ability|C}} moves gain hyper armor and cannot be cancelled by enemies while being used.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = The last punch in all stages [[Instinct/Break|breaks instinct]].
+|gif      = Stage 1 PUNCH (1)
+|gif1     = Stage 2 JABS (1)
+|gif2     = Stage 3 COMBO (1)
+|desc     = The user attacks with basic melee punches using their metal arms. As the '''Magnetic Power''' meter increases, the metal arms grow, increasing the overall damage and extending the M1 attack combo from basic hits to longer chain combos across three stages.<br>
+'''Stage 1:''' The user performs 3-hit combo with their metal arms.
+|desc1    = '''Stage 2:''' The arms grow bigger, and now performs 4-hit combo. 
+|desc2    = '''Stage 3:''' The arms grow much bigger, and now performs 5-hit combo. 
+}}
+
+{{Skill
+|key      = Z
+|name     = Scrap Arsenal
+|mastery  = 1
+|cooldown = 10
+|energy   = 40
+|break    = yes
+|instinct = Held version smaller beams [[Instinct/Break|breaks instinct]], but the final larger beam can be dodged.
+|gif      = Scrap Spread
+|gif1     = Scrap Construct
+|gif2      = Drone Placement
+|desc     = When tapped, the user shoots four scrap projectiles that home in on the enemy, pulling them in. 
+|desc1    = These projectiles can be stacked to increase the [[AoE]] and pull effect.
+|desc2    = When held, the user charges and fires a concentrated beams, ending with a blast via a device. Visually this move is quite similar to [[Dual Flintlock|Dual Flintlocks']] [X] Bullet Storm.
+}}
+
+{{Skill
+|key      = X
+|name     = Magnetic Overcharge
+|mastery  = 100
+|cooldown = {{TBA}}
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Overcharge Cage
+|gif1     = Super Charged Cage
+|desc     = When tapped, the user manipulates magnetic forces to construct a compact cage around targeted enemies, temporarily trapping them inside and dealing damage.
+|desc1    = When held, the user constructs a significantly larger magnetic cage over an expanded area, trapping targets within a greater range and dealing [[AoE]] damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Polarizing Drop
+|mastery  = 225
+|cooldown = {{TBA}}
+|energy   = 100
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] on initial grab and slam, but can be dodged once grabbed.
+|gif      = Polar Drop
+|gif1     = Polaring drop
+|desc     = When tapped, the user grabs an opponent, lifts them into the air, and forcefully slams them into the ground. If cast without targeting an opponent, the user performs an [[AoE]] ground slam.
+|desc1    = When held, the user emits a wide magnetic wave that draws in enemies and loose scrap across the immediate area, dealing damage and instantly absorbing the scrap to fill the '''Magnetic Power''' meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Maximum Overdrive
+|mastery  = 300
+|cooldown = {{TBA}}
+|energy   = 10
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Total Construction
+|desc     = The user attracts surrounding scrap metal and assembles them to form a mech suit. While transformed, the user loses the ability to use [[Fighting Styles]], [[Swords]] and [[Guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Polarity Drive
+|mastery  = 75
+|cooldown = {{TBA}}
+|energy   = 50
+|break    = yes
+|instinct = The initial dash is instinct trickable but still grabs, and the explosion [[Instinct/Break|breaks instinct]].
+|gif      = Driven Slam
+|gif1     = Flight Pack
+|desc     = When tapped, the user executes a swift dash before shoving the grabbed enemy away with both arms. Any target caught by the move has their currently equipped [[sword]] forcefully unequipped.
+|desc1    = When held, the user activates a magnetic jetpack, entering a free-flight mode that allows them to use skills mid-air. Taking multiple hits within 10 seconds of the startup cancels the move. Pressing {{Ability|F}} again while flying launches the jetpack forward as a projectile toward enemies.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Metal Swings
+|desc     = The user swings their arms two times unleashing an energy slash, before stomping on the ground and letting out another burst of energy.
+}}
+
+{{Skill
+|key      = Z
+|name     = Scrap Arsenal
+|mastery  = 1
+|cooldown = {{TBA}}
+|energy   = 40
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Controlled Missiles
+|gif1     = Punk Beam
+|desc     = When tapped, the user fires missiles with aim assistance at the enemy.
+|desc1    = When held, the user constructs a heavy arm cannon and fires a massive blast towards the cursor.
+}}
+
+{{Skill
+|key      = X
+|name     = Magnetic Overcharge
+|mastery  = 100
+|cooldown = {{TBA}}
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Magno Bomb
+|gif1     = Repulsion
+|desc     = When tapped, the user collects surrounding metal scrap into a ball and launches it in the direction of the cursor, pulling enemies in and dealing [[AoE]] damage.
+|desc1    = When held, metal scrap is pulled towards the user which starts orbiting them, creating a large magnetic field which pulls in surrounding enemies towards the center while continuously dealing damage. This move cannot be cancelled by enemy attacks.
+}}
+
+{{Skill
+|key      = C
+|name     = Polarizing Drop
+|mastery  = 225
+|cooldown = {{TBA}}
+|energy   = 100
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = Condesnsed Spray
+|gif1     = Spinning Takedown
+|desc     = When tapped, the user pulls nearby power scrap into a dense cluster before slamming it into the ground, dealing heavy [[AoE]] damage.
+|desc1    = When held, the user creates a giant hammer with scraps, spins around rapidly, and slams the ground in the end.
+}}
+
+{{Skill
+|key      = V
+|name     = Maximum Overdrive
+|mastery  = 300
+|cooldown = {{TBA}}
+|energy   = 10
+|break    = yes
+|instinct = [[Instinct/Break|Breaks instinct]] no matter what.
+|gif      = MagnetTransformedV(Untransform)
+|desc     = The user ejects themselves from the mech suit, leaving the frame behind. The remaining suit magnetically pulls in nearby targets before self-destructing in an explosion, dealing heavy [[AoE]] damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Polarity Drive
+|mastery  = 75
+|cooldown = {{TBA}}
+|energy   = 50
+|break    = yes
+|instinct = The initial grab can be dodged, but the explosion [[Instinct/Break|breaks instinct]] no matter what.
+|gif      = Explosion Drive
+|gif1     = Thrusters online
+|desc     = When tapped, the user dashes forward, grabbing enemies and exploding a burst of energy, while unequipping their sword temporarily. 
+|desc1    = When held, the user activates their jetpack flight, and when held for more than 3 seconds, the user enters in their Hyperspeed flight mode.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* High damage.
+* Reliable M1 with high damage [Stage 3] with manageable knockback.
+* Combo's very nicely into one-another.
+* Extremely good passive, negating knockback via magnetism reset.
+* Nearly every move breaks the enemy's [[Instinct/Break|Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Deals more damage the higher the stage.
+* Great for grinding at Stage 3.
+* Fast attack speed.
+
+|'''[Z] Scrap Arsenal'''
+* Good stun.
+* Very good hitbox.
+* Decent range.
+
+|'''[X] Magnetic Overcharge'''
+* Large AoE, even on tap.
+* Very large AoE and damage when held.
+* Low endlag.
+* Breaks instinct.
+
+|'''[C] Polarizing Drop'''
+* Extremely powerful stun.
+* Grants hyper-armor when held, making the attack un-interruptible.
+* Very low cooldown.
+* High damage.
+* Breaks instinct.
+
+|'''[V] Maximum Overdrive'''
+* Decent AoE.
+* [[Instinct/Break|Breaks Instinct]].
+* Can be used to soak hits in a pinch.
+
+|'''[F] Polarity Drive'''
+
+* Breaks instinct.
+* Low cooldown.
+* High range.
+* Very easy to combo extend/start with.
+* Good mobility.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* '''Magnetic Power''' decreases as more damage is recieved.
+* High mastery requirements, not viable for first sea players.
+* Hard to obtain as it is a newly released [[Blox Fruit]].
+
+|'''[TAP] Normal Attack'''
+* Deal very little damage at stage 1.
+* Relies heavily on '''Magnetic Power'''.
+
+|'''[Z] Scrap Arsenal'''
+* Bad damage, unless stacked to create bigger AoE.
+* Easily instinct tricked.
+
+|'''[X] Magnetic Overcharge'''
+* Bad endlag.
+* Weird travel time.
+* Underwhelming if not held.
+* High knockback.
+
+|'''[C] Polarizing Drop'''
+* Suspends user high-midair if held, making combos without [[Spikey Trident]] unreliable.
+
+|'''[V] Maximum Overdrive'''
+* Takes a long time to transform.
+
+|'''[F] Polarity Drive'''
+* Short dash distance.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Very high damage reduction.
+* Can walk on water.
+* Increased AoE. 
+* Jumps very high, similar to the [[Mammoth]] fruit.
+* Every move breaks [[Instinct/V2|Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Lower knockback than untransformed.
+* Final shockwave has good AoE.
+
+|'''[Z] Scrap Arsenal'''
+* Good, quick chip damage.
+* Tap version has good auto-tracking.
+* Held version deals great damage.
+* Has hyperarmour when held.
+
+|'''[X] Magnetic Overcharge'''
+* Big AoE.
+* Has hyperarmor when held.
+* Much higher damage when held.
+
+|'''[C] Polarizing Drop'''
+* Sends scraps flying when tapped, dealing chip damage.
+* Held version has a massive hitbox, uninterruptible, and deals high damage.
+
+|'''[V] Maximum Overdrive'''
+* Decent damage and stun.
+
+|'''[F] Polarity Drive'''
+* Fast flight speed.
+* Hyperspeed mode grants immense mobility.
+* Good projectile aoe.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Cannot gain '''Magnetic Power''' while transformed.
+* Extremely slow.
+* Locked in place for a split second after landing from a high place.
+* Loses meter extremely quickly, lasting barely 20-25 seconds.
+* [[Fighting Styles|Fighting styles]], [[swords]], [[guns]] cannot be used.
+* Takes higher damage from [[Lightning|Lightning's]] attacks.
+
+|'''[TAP] Normal Attack'''
+* Very slow chain.
+* Extremely easy to avoid.
+* Same damage as untransformed, making it pointless.
+
+|'''[Z] Scrap Arsenal'''
+* Terrible range when tapped.
+* Tap cannot break instinct.
+* Held version also lacks any meaningful range.
+
+|'''[X] Magnetic Overcharge'''
+* Barely an upgrade over untransformed.
+* No real incentive to use outside of higher damage.
+
+|'''[C] Polarizing Drop'''
+* Makes the user drop down if used midair, making it ground locked.
+* Inconsistent damage when tapped.
+* Held lacks any extension capability and wastes scrap meter.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Iron man.png|[[Magnet/Skins|Arcsteel Magnet]] Fruit Model.
+File:Full-mech-arcsteel.png|[[Magnet/Skins|Arcsteel Magnet]] transformation.
+File:Stage FLIGHT.gif|Flight mode
+File:Stage 1 ARMS.gif|Stage 1
+File:Stage 2 ARMS.gif|Stage 2
+File:Stage 3 ARMED.gif|Stage 3
+</gallery>
+
+==Trivia==
+* The [[Magnet]] Fruit has no description in the [[Blox Fruit Dealer]]'s shop.
+** It has a large number of inconsistencies, pointing to an overall rushed release.
+* While transformed, the mech suit makes a sound when the player sends a message in chat.
+* The [[Magnet]] Fruit is the first fruit to have a disarm mechanic as part of one of its abilities, '''[F] Polarity Drive'''.
+* [[Magnet]] is used by [[Awakened Bosses|awakened]] [[Cyborg (Boss)|Cyborg]].
+* The [[Magnet]] Fruit was the first [[Natural]]-type Mythical fruit to be added without being reworked since [[Updates/17.1|Update 17.1]] in 2022.
+* The [[Magnet]] Fruit is the fourth [[Natural]]-type fruit to have a transformation.
+* Much like [[Kitsune]], Magnet is considered to be superior in base form, with the transformation only being useful for hyper situational/PvE settings.
+* Currently, the Magnet fruit provides the highest damage reduction in the game (62.5%), higher than the [[Dragon]] fruit (60%).
+* [[Magnet]] has one of the first [[Skins]] to fully change the transformation model, alongside [[Fiend|Runic Fiend]] and [[Empyrean]].
+* The Stage 3 '''Flux Draw''' passive has a weaker magnetic pull and range in-game compared to its showcase in the update 30 trailer.
+* Disarming an opponent with '''[F] Polarity Drive''' is just a minor issue for the opponent, as they can just equip their [[Swords|sword]] back instantly.
+* Using magnet's '''[V] Maximum Overdrive''' while having [[Headband (Black)]] equipped, [[Shark]]'s V3 and V4 '''Leviathan's Armor''' passive active, highest [[Bounty and Honor System|Bounty/Honor]] defense buff (take damage from someone with below 500,000 bounty/honor), and [[Aura|Max Aura]] will grant the user 99.57% damage reduction, which is '''the highest defense possible''' by regular means.
+* There is a current bug with '''Magnet''' which lets the user go through obstacles (some that can't even be passed with [[Flash Step]]) if the player holds {{Ability|F}} (transformation variant only) while being close to a wall.
+* When transformed [[Power Meter|Magnetic Meter]] lasts approximately 1 minute and 56 seconds, without using any moves.
+* Metal scraps last for around 30 seconds before despawning.
+* There is currently another bug with '''Magnet''' that teleports players underneath the map when pressing '''[F] Polarity Drive.''' This notably happens in the [[Second Sea]].
+
+==Change History==
+{{Change History|30}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[ru:Магнит]]

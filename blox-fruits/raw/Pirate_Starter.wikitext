@@ -1,0 +1,67 @@
+{{Tabber V2
+|tab1 = Pirate Starter
+|tab2 = Marine Starter
+}}
+
+{{MapTab}}
+{{Location Infobox
+|name       = Pirate Starter
+|image      = Pirate Starter 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 1-10
+|music      = Explorer
+|next       = Jungle
+}}
+'''Pirate Starter''' is the starting island for players who choose the [[Pirates]] team. It is one of only two islands in the [[First Sea]] designated as a [[Safe Zone]], meaning [[PvP mechanics|PvP]] is disabled, and it features non-boss [[enemies]]. If you go here and leave the game and choose Marines, you will automatically spawn at the [[Marine Starter]].
+
+==Appearance==
+The Pirate Starter features several houses arranged in a circular layout around a central grassy area. Surrounding this circle is a larger Ring of green grass, bordered by a rocky beach, which connects to a few docks. Near one of the windmills, there are two fields where the [[Bandit]]s spawn.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+|-
+|
+* [[Bandit Quest Giver]]
+* [[Blox Fruit Dealer]]
+* [[Boat Dealer]] (2)
+* [[Luxury Boat Dealer]]
+* [[Marine Recruiter]]
+* [[Set Home Point]]
+* [[Sword Dealer]]
+|
+* [[Bandit]]
+|}
+
+== Quests ==
+{| class="article-table"
+!Enemy
+!Level Required
+!Description
+!Reward
+|-
+|[[Bandit]]
+|0
+|Defeat 5 Bandits
+|{{Money|350}}
+{{EXP|300}}
+|}
+
+==Trivia==
+* If a player leaves the island still being level 1 there will appear a message on the inferior part of the screen telling to return to it
+* Like the [[Pirate Recruiter]] on the [[Marine Starter]] island, the [[Marine Recruiter]] can be found on the Pirate Starter.
+* Originally, Pirate Starter was intended to be larger, but it was reduced in size to avoid confusing new players.
+* Pirate Starter is one of two starter islands in the game, along with [[Marine Starter Island]].
+* Pirate Starter is one of the islands that features a map.
+* Pirate Starter is the second smallest island in the [[First Sea]] before [[Jean-Luc Island]].
+* Returning to or joining a friend in [[First Sea]] from the [[Second Sea]] or [[Third Sea]] as a [[Pirates|Pirate]] will teleport the player over to the Pirate Starter.
+*If the player hasn't been to First Sea in some time their home point will also be set to Pirate Starter/[[Marine Starter]].
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{IslandNavigation}}
+[[ru:Стартер Пиратов]]

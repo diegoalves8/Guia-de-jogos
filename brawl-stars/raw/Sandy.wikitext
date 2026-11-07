@@ -1,0 +1,351 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Sleepy|PrestigeTitle = Zzzz...|Rarity = Legendary|Class = Controller|MovementSpeed = 800 (Fast)<br>1200 (with Hypercharge and Super)|HealthLabel = Health|Health = 4100|AttackRange = 6 (Normal)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 16.875%|AttackLabel = Damage|Attack = 900|SuperRange = 7.33 (Long)|SuperDuration = 9 seconds|SuperMinion = Sandstorm|SuperMinionRange = 6.67|VoiceActor = Patrick Pedraza|AttackSpread=36°|AttackSpeed=3500|AttackWidth=|SuperSpeed=2000|AttackBullets=|Gadget1Name=Sleep Stimulator|Gadget1Cooldown=11 seconds|Gadget2Name=Sweet Dreams|Gadget2Cooldown=18 seconds|StarPower1Name=Rude Sands|StarPower1=195|StarPower1Label=Damage per second|StarPower2Name=Healing Winds|StarPower2=369|StarPower2Label=Heal per second|Previous=Leon|Next=Surge|HyperchargeMultiplier=40%|AttackHyperchargeCharge=6.75%|Gadget1Duration=1.5 seconds}}
+{{Quote|On the rare occasions Sandy wakes from his slumber, he tries to help his big sister [[Tara]] around their store. But it's never long before he falls asleep again.}}
+{{Portrait}}
+Sandy is a {{Rarity|Legendary}} [[Brawler]] with moderately high health, an above-average movement speed, and immense utility with his Super but a moderately low damage output and slow reload speed. He was the 29th Brawler added to the game. He attacks by throwing pebbles at medium range that spread out and pierces through enemies. His Super summons a sandstorm that makes him and his allies invisible while inside it. His first Gadget, Sleep Stimulator, makes Sandy fall asleep momentarily to restore all of his missing health. His second Gadget, Sweet Dreams, makes his next attack apply a special stun to enemies that disappears when they take damage. His first Star Power, Rude Sands, allows his Super to slightly damage enemies inside it over time. His second Star Power, Healing Winds, allows his Super to slightly heal him and his allies inside it over time. His Hypercharge, Swift Winds, allows Sandy's next Super to increase his and allies movement speed while inside its radius. Enemies affected by Sandy's Hypercharge can't attack or use their Super, Gadget, or Hypercharge.
+
+==Attack: Pebble Blast==
+{{Quote|Sandy pelts enemies with sharp, piercing pebbles. Ouch!}}Sandy attacks by throwing piercing pebbles at his enemies that have a medium range and spreads in a wide cone formation, dealing rather low damage. The attack consists of 3 clusters of pebbles from left to right. Only one cluster can deal damage to an enemy. 
+
+==Super: Sandstorm==
+{{Quote|Sandy summons a sandstorm that lasts for 9 seconds and hides friendly Brawlers inside it.}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+Sandy throws a star-shaped object that creates a sandstorm in a large radius that lasts for 9 seconds and makes him and his allies invisible while inside it. Like [[Leon]]'s Super, invisible Brawlers are visible to nearby enemies within 4 tiles. Spawnables such as [[Nita]]'s Bear won't be concealed. 
+
+Brawlers carrying an item are still visible. Invisible Brawlers are still visible to the Siege Bot and the IKE turret in Siege. Brawlers are also still visible to robots such as those in [[Robo Rumble]], [[Boss Fight]], and the [[Modifiers|Angry Robo]] Modifier.
+
+==Gadgets==
+===Sleep Stimulator===
+{{Quote|Sandy falls asleep for 1.5 seconds and his health is fully restored. Cooldown: 11 seconds.}}{{Gadget|1}}Sandy's Gadget immobilizes him for 1.5 seconds to restore all health. This Gadget can't be activated if Sandy is already at full health. Sandy can still take damage and be defeated while the Gadget is active. This Gadget can be interrupted by knockbacks, pulls, and stuns. If Sandy is the Big Brawler in Big Game, he only heals 10% of his maximum health. This Gadget is affected by healing debuffs such as [[Crow]]'s or [[Angelo]]'s poison. This Gadget's cooldown begins after the attack is used.
+
+===Sweet Dreams===
+{{Quote|Sandy's next attack lulls opponents to sleep for 1 second. They will however wake up from any damage. Cooldown: 18 seconds.}}{{Gadget|2}}When Sandy activates this Gadget, his next attack stuns enemies for 1 second. However, if they're damaged by any source during the stun duration, the stun ends prematurely. A Gadget symbol will glow above Sandy's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+==Mythic Gear: Exhausting Storm==
+{{Quote|Enemies inside of Sandy's Sandstorm deal 20% less damage.}}{{Gear|Filename=SandyGear}}
+With this Gear equipped, enemies inside Sandy's Super will deal 20% less damage. Attacks shot from outside the Super will still deal full damage to Sandy and his allies.
+
+==Star Powers==
+===Rude Sands===
+{{Quote|Sandstorm now also damages enemies for 216 damage per second.}}{{StarPower|1}}Sandy's sandstorm now deals 12% the damage as Sandy's main attack per second to enemies inside it over 9 seconds. This effect can stack with multiple sandstorms.
+
+===Healing Winds===
+{{Quote|Sandstorm now also heals friendly Brawlers for 410 health per second.}}{{StarPower|2}}Sandy's sandstorm now heals Sandy and his allies for 5% of Sandy's maximum health per second over 9 seconds. This effect can stack with multiple sandstorms.
+
+== Hypercharge: Swift Winds==
+{{Quote|Sandy grants himself and his allies 20% increased movement speed while inside of Sandstorm. His Super will also silence enemies for 0.5 seconds when it lands.}}{{Hypercharge}}
+[[File:OtisSuperIcon.png|left|40x40px|link=]]
+When activated, Sandy's next Super prevents affected enemies from using any attacks, Supers, Gadgets, or Hypercharges, similar to [[Otis]]' Super, for 0.5 seconds. This Hypercharge doesn't affect passive effects like the [[Gears|Speed Gear]]'s speed boost or [[Bo]]'s Circling Eagle Star Power. This Hypercharge works on spawnables like [[Nita]]'s bear, [[Penny]]'s cannon, or [[Jessie]]'s turret; however, it won't affect passive turrets like [[8-Bit]]'s and [[Pam]]'s turret. For the whole duration, a red, crossed-out symbol will show above the head of the affected target, signifying that this effect is active, and if it hits an enemy Brawler, the affected Brawler's screen will turn a bit dark. This sandstorm will also increase the movement speed of Sandy and his teammates when they are in its range by 200 points (not 20%, despite the description). Sandy also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+
+* Sandy's Super is very effective in 3v3 modes because teammates can be positioned stationary while in the vicinity of his Super. His Super allows him and his allies to reach the mode objective, whether it's collecting Bolts in [[Siege]], collecting Gems in [[Gem Grab]], capturing a zone in [[Hot Zone]], and hiding from Hunters as the Boss or sneaking up on the Boss as the Hunters in [[Big Game]].
+* Sandy is useful in [[Heist]] and Siege because of his Super, but Sandy isn't too viable in Heist due to his low damage output. Sandy's Star Powers can be used on offense or defense in these events. You can either use Rude Sands to damage the safe/IKE along with you and your allies attacking, or you can use Healing Winds to heal your teammates while attacking because enemies will be attempting to stop you from attacking, and healing is especially useful in Siege because the IKE turret will continuously attack your team. In addition, in Siege, due to Sandy's above-average movement speed and health, he's ideal for obtaining Bolts. You can also use Bolts as bait for close-ranged Brawlers who can stand in his sandstorm near a Bolt, in which they're invisible, and defeat an enemy who attempts to retrieve the Bolt.
+* In [[Brawl Ball]], you can use Sandy's Super to cover the ball's vicinity. Use the ball as bait and if an enemy attempts to retrieve it, a close-ranged Brawler such as [[Bull]], El Primo, [[Fang]], or [[Darryl]] could defeat them. After they are defeated, use the time to allow a fast Brawler or self-passer such as [[Melodie]], [[Leon]], [[Max]], [[Mortis]], [[Stu]], [[Mico]], [[Crow]], or [[Edgar]] to kick the ball to the goal. In addition, Sandy has above-average movement speed, therefore making Sandy an ideal ball carrier.
+
+===Recommended Build===
+
+* Sandy's Sleep Stimulator Gadget should be used behind obstacles, in bushes, or around corners to avoid being defeated by enemies since Sandy is vulnerable to damage in this state. Using the Gadget in a sandstorm is also very effective as long as there aren't any enemies scouting the sandstorm.
+* Sandy's Sweet Dreams Gadget is very versatile, especially in certain situations. For example, you can use it to quickly escape from an enemy, to push past goal defenders in Brawl Ball to score, to stun the enemies in the zone and get quick capturing, or to even save yourself if a Brawler with a moving ability such as Mico, [[El Primo]], [[Kit]], Crow, [[Surge]], [[Buzz]], [[Chuck]], Mortis, or Edgar uses their ability to rush in and attempt to defeat you.
+* A great way to use Sandy's Sweet Dreams Gadget in Duo Showdown is to play with Dynamike with his Satchel Charge Gadget by first hitting the enemy while Dynamike stuns them again with his Gadget. This way, you can get a lot of hits and potentially kill any team in this mode.
+* Sandy's Rude Sands Star Power is much better to Healing Winds, as it stops the opponents from auto-healing within the storm. It also works to reveal where enemies are, and with the Vision Gear, can reveal enemies constantly. Healing Winds should be used if Sandy is being used more for support and concealing your teammates from attacks that can wipe them out.
+
+===Strategies===
+*When using Sandy's Super, you should place the sandstorm so that it touches the edges of bushes. This allows you and your teammates to use the sandstorm to head into bushes and access larger areas while the enemies believe you and your allies are still inside the sandstorm. Once the sandstorm disappears, the enemies will be confused and you and your allies could possibly ambush them.
+*Sandy's wide and piercing attack makes it very effective against grouped-up enemies. Use this to your advantage to charge your Super faster.
+*Sandy's Rude Sands Star Power can be used for area control, and while the damage over time is minor, the large radius and long duration prevents healing and can slowly drain the enemies' health if they enter the sandstorm and the area it's placed on, allowing you and your teammates to possibly defeat them or force the enemy to stay far from the area, which is very effective for area control-based events such as Gem Grab and Hot Zone. Sandy's Rude Sands Star Power also counters other Sandy's Supers. If you throw your Super onto their Super, the damage ticks make enemies visible. This makes it much easier for your team to fight against the opposing Sandy. Sandy's Rude Sands Star Power can also be used in maps with an abundance of bushes such as [[Snake Prairie]] or [[Cavern Churn]] to detect bush-camping enemies.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 01.ogg|Filedescription = Sandy yawns}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 01.ogg|Filedescription = "Nightfall begins with me."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy lead vo 01.ogg|Filedescription = "Did I, do something?"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 01.ogg|Filedescription = "Wake me when you get good, mmh."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 01.ogg|Filedescription = "Huh?"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos hurt vo 01.ogg|Filedescription = "Wow, that was intense."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy kill vo 01.ogg|Filedescription = "Nap-time."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 01.ogg|Filedescription = "Close your eyes forever."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy die vo 01.ogg|Filedescription = "Huh, good night."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 01.ogg|Filedescription = "Snooze button activated."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Sandy ulti vo 01.ogg|Filedescription = "Sand shroud!"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 02.ogg|Filedescription = "Drift away, mortals!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 02.ogg|Filedescription = "So tired."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 02.ogg|Filedescription = "Slumber is my weapon."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy lead vo 02.ogg|Filedescription = "Uh, amazing."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 02.ogg|Filedescription = "God of snooze just can't lose!"}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 02.ogg|Filedescription = "Hey!"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos hurt vo 02.ogg|Filedescription = "Hey! I was snoozing here."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy kill vo 02.ogg|Filedescription = "Get some rest."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 02.ogg|Filedescription = "Fall, into the void."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy die vo 02.ogg|Filedescription = Sandy snores}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 02.ogg|Filedescription = "One blink and it's over."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Sandy ulti vo 02.ogg|Filedescription = "Sandstorm!"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 01.ogg|Filedescription = "Sleepstorm!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 03.ogg|Filedescription = "Huh, I guess I'll have to do stuff..."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 03.ogg|Filedescription = "I woke up for this? Mmh."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy lead vo 03.ogg|Filedescription = "So tired of winning."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 03.ogg|Filedescription = "Living the dream." *yawns*}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 03.ogg|Filedescription = "Relax!"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos hurt vo 03.ogg|Filedescription = "Ah, rude awakening."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy kill vo 03.ogg|Filedescription = "Seriously? Shh..."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 03.ogg|Filedescription = "Welcome to the dream zone."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy die vo 03.ogg|Filedescription = "To sleep, perchance to dream."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 03.ogg|Filedescription = "Even gods hit snooze."}}
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 03.ogg|Filedescription = "Time to slow down."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 04.ogg|Filedescription = "For the win."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 04.ogg|Filedescription = "God mode: unlocked." *yawns*}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy lead vo 04.ogg|Filedescription = "So happy."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 04.ogg|Filedescription = *yawns* "Still undefeated, mhm."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 04.ogg|Filedescription = "Whoa. chill."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos hurt vo 04.ogg|Filedescription = "Ow! That almost woke me up!"}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy kill vo 04.ogg|Filedescription = "Sweet dreams!"}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 04.ogg|Filedescription = "Sleep conquers all."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy die vo 04.ogg|Filedescription = "Huh, nighty night."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 04.ogg|Filedescription = "Nighty night, everyone."}}
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 04.ogg|Filedescription = "Drift into the drowsy zone."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 05.ogg|Filedescription = "Calm down everyone."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 05.ogg|Filedescription = "Bringing that bed time energy."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy lead vo 05.ogg|Filedescription = "So cool. Yeah."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 05.ogg|Filedescription = "Crushing it, cozy style."}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 05.ogg|Filedescription = "Huh, whatever."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos hurt vo 05.ogg|Filedescription = "Bro got no chill!"}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy kill vo 05.ogg|Filedescription = "Go to sleep."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 05.ogg|Filedescription = "Dream on."}}
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 05.ogg|Filedescription = "Lullaby mode, ugh, activated."}}
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 05.ogg|Filedescription = "Desert dreams."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Sandy start vo 06.ogg|Filedescription = "Yay, woo-hoo."}}'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos start vo 06.ogg|Filedescription = "Sleep emoji, mmh."}}
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 06.ogg|Filedescription = "Snoozed, won, whatever, next!"}}
+|'''Normal:'''
+{{Ogg|Filename = Sandy hurt vo 06.ogg|Filedescription = Sandy yawns}}
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 06.ogg|Filedescription = "Divine dreams."}}
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos dies vo 06.ogg|Filedescription = "God night, everyone."}}
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 06.ogg|Filedescription = "Drift into the *yawns* drowsy zone."}}
+|-
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos lead vo 07.ogg|Filedescription = "Sleep god, no cap."}}
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 07.ogg|Filedescription = "Ah, like counting sheep."}}
+|
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos ulti vo 07.ogg|Filedescription = Sandy yawns}}
+|-
+|
+|
+|
+|'''Hypnos:'''
+{{Ogg|Filename = Sandy hypnos kill vo 08.ogg|Filedescription = "I snooze, you lose!"}}
+|
+|
+|
+|}
+
+==History==
+*18/09/19:
+**{{Balance|Content=Sandy was added to the game.|Neutral}}
+*27/09/19:
+**{{Balance|Content=The Sleepy Sandy skin was added.|Neutral}}
+*02/10/19:
+**{{Balance|Content=Sandy's Healing Winds Star Power was added.|Neutral}}
+*09/10/19:
+**{{Balance|Content=The number of hits necessary to charge Sandy's Super was increased to 6 hits (from 5).|Nerf}}
+**{{Balance|Content=His Rude Sands Star Power damage was decreased to 40 (from 200) per second.|Nerf}}
+*23/10/19:
+**{{Balance|Content=Sandy's health was decreased to 3800 (from 4000).|Nerf}}
+**{{Balance|Content=His Super duration was decreased to 9 seconds (from 12).|Nerf}}
+**{{Balance|Content=His Healing Winds Star Power healing was decreased to 250 (from 300) per second.|Nerf}}
+*05/12/19:
+**{{Balance|Content=Sandy's Rude Sands Star Power damage was increased to 120 (from 40) per second.|Buff}}
+*23/01/20:
+**{{Balance|Content=Sandy's class was changed to Support (from Fighter).|Neutral}}
+*17/03/20:
+**{{Balance|Content=Sandy's main attack damage was decreased to 840 (from 900).|Nerf}}
+**{{Balance|Content=His Rude Sands Star Power damage was decreased to 100 (from 120) per second.|Nerf}}
+**{{Balance|Content=His Sleep Stimulator Gadget was added.|Neutral}}
+*13/05/20:
+**{{Balance|Content=Sandy's main attack damage was increased to 920 (from 840).|Buff}}
+*25/09/20:
+**{{Balance|Content=The Sugar Rush Sandy skin was added.|Neutral}}
+*15/12/20:
+**{{Balance|Content=Sandy's Healing Winds Star Power healing was increased to 300 (from 250) per second.|Buff}}
+*27/01/21:
+**{{Balance|Content=The number of hits necessary to charge Sandy's Super was decreased to 5 hits (from 6).|Buff}}
+*10/04/21:
+**{{Balance|Content=The Lantern Sandy skin was added.|Neutral}}
+*19/05/21:
+**{{Balance|Content=The number of hits necessary to charge Sandy's Super was increased to 6 hits (from 5).|Nerf}}
+*01/07/21:
+**{{Balance|Content=Sandy's Sweet Dreams Gadget was added.|Neutral}}
+*25/08/21:
+**{{Balance|Content=Sandy's Sweet Dreams Gadget stun duration was decreased to 1 second (from 1.5).|Nerf}}
+**{{Balance|Content=Sandy's True Silver and True Gold skins were added.|Neutral}}
+*16/12/21:
+**{{Balance|Content=The number of hits necessary to charge Sandy's Super was increased to 7 hits (from 6).|Nerf}}
+*29/06/22:
+**{{Balance|Content=Sandy's main attack damage was decreased to 860 (from 920).|Nerf}}
+*29/07/22:
+**{{Balance|Content=The Sandy Koya skin was added. It was featured as a BT21 skin.|Neutral}}
+*12/12/22:
+**{{Balance|Content=Sandy's Exhausting Storm Mythic Gear was added.|Neutral}}
+*16/12/22:
+**{{Balance|Content=Fixed an issue with Sandy's Exhausting Storm Gear combined with his Healing Winds Star Power dealing 1 damage to enemies.|Neutral}}
+*28/02/23:
+**{{Balance|Content=Sandy's main attack damage was increased to 900 (from 860).|Buff}}
+**{{Balance|Content=Sandy's class was changed to Controller (from Support).|Neutral}}
+**{{Balance|Content=Sandy's Super now displays a new visual effect when it turns a Brawler invisible.|Neutral}}
+*27/06/23:
+**{{Balance|Content=Sandy's Sleep Stimulator Gadget delay was decreased to 1.5 seconds (from 2).|Buff}}
+*05/09/23:
+**{{Balance|Content=The number of hits necessary to charge Sandy's Super was decreased to 6 hits (from 7).|Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Neutral}}
+*24/10/23:
+**{{Balance|Content=Sandy's Rude Sands Star Power damage was increased to 185 (from 100) per second and now scales with Power Levels.|Buff}}
+**{{Balance|Content=Sandy's Healing Winds Star Power healing was increased to 325 (from 300) per second and now scales with Power Levels.|Buff}}
+**{{Balance|Content=Sandy's Exhausting Storm Mythic Gear damage reduction was increased to 20% (from 10%).|Buff}}
+**{{Balance|Content=Sandy's flavor text was changed from "Sandy is a sleep-deprived Brawler with powerful control over sand: casting sharp pebbles at enemies, and summoning a sandstorm to hide teammates." to "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again."|Neutral}}
+*27/10/23:
+**{{Balance|Content=Fixed an issue that caused Sandy's Super to crash the game.|Neutral}}
+*12/12/23:
+**{{Balance|Content=Sandy's Rude Sands Star Power damage was increased to 195 (from 185) per second.|Buff}}
+**{{Balance|Content=Sandy's Healing Winds Star Power healing was increased to 342 (from 325) per second.|Buff}}
+*23/04/24:
+**{{Balance|Content=Sandy's Swift Winds Hypercharge was added.|Change=Neutral}}
+*25/05/24:
+**{{Balance|Content=The Nightmare Sandy skin was added. It was featured as a Supercell Make skin.|Neutral}}
+*25/06/24:
+**{{Balance|Content=Sandy's Swift Winds Hypercharge multiplier was decreased to 40% (from 60%).|Nerf}}
+*01/08/24:
+**{{Balance|Content=The Jellyfish, Neon Jellyfish, and Glowing Jellyfish Sandy skins were added. They were featured as Brawl Pass Season 29 skins and Deep Sea League skins.|Neutral}}
+*27/08/24:
+**{{Balance|Content=Fixed an issue with Neon and Glowing Jellyfish Sandy's hats.|Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*03/07/25:
+**{{Balance|Content=The Hypnos Sandy skin was added. It was featured as a Legends of Hades skin.|Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Sandy's Swift Winds Hypercharge speed boost from 25%.|Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Sandy's Swift Winds Hypercharge damage boost from 25%.|Nerf}}
+*16/12/25:
+**{{Balance|Buff|Sandy's health was increased to 4100 (from 3800).}}
+**{{Balance|Buff|Sandy's Healing Winds Star Power healing was increased to 369 (from 342) per second.}}
+*30/06/26:
+**{{Balance|Buff|Sandy's level up damage was increased to 5% (from 4%) in [[Brawl Arena]].}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Sandy's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=Sleepy|Cost1 =Free after reaching 750 Trophies, free from Najia Boxes or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Sugar Rush|Cost2 = 79 Gems|Campaign2=Gift Shop|Rarity2=Super Rare
+|Name3=Lantern|Cost3=149 Gems|Campaign3=Sands of Time|Rarity3=Epic
+|Name4=Sandy Koya|Cost4=149 Gems|Campaign4=BT21|Rarity4=Epic
+|Name5=Nightmare|Cost5=Free from Angelic Drops or 149 Gems|Campaign5=Supercell Make|Campaign5_2=Sands of Time|Rarity5=Epic
+|Name6=Hypnos|Cost6=Free from Wendy Boxes or 299 Gems|Campaign6=Legends of Hades|Rarity6=Legendary
+|TrueSkins=Yes
+|NameP1=Jellyfish|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Deep Sea League|RarityP1=Epic
+|NameP2=Neon Jellyfish|CostP2=Free from Smoothie Drops, Brawl Pass Plus or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Deep Sea League|RarityP2=Epic
+|NameP3=Glowing Jellyfish|CostP3=Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Deep Sea League|RarityP3=Epic
+}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Sandy
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Sandy Koya}}
+{{Pin Table|Sugar Rush|Special}}
+{{Pin Table|Nightmare|Special}}
+{{Pin Table|Jellyfish|Special}}
+{{Pin Table|Neon Jellyfish|Special}}
+{{Pin Table|Glowing Jellyfish|Special}}
+{{Pin Table|Lantern|Special}}
+{{Pin Table|Hypnos}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Sandy|Rarity = Common}}
+|{{Spray|Type = Sandy Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Sandy Koya|Rarity = Common}}
+|{{Spray|Type = Hypnos Sandy|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Sandy1}}
+|{{Pfp|Sandy2}}
+|{{Pfp|Sandy3}}
+|{{Pfp|Sandy Koya}}
+|{{Pfp|Nightmare Sandy}}
+|-
+|{{Pfp|Jellyfish Sandy}}
+|{{Pfp|Lantern Sandy}}
+|{{Pfp|Hypnos Sandy}}
+|}
+{{Navigation}}
+[[ru:Сэнди]]
+[[pt:Sandy]]

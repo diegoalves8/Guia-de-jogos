@@ -1,0 +1,353 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Greedy|PrestigeTitle = Money, Money, Money|Rarity = Epic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3700|AttackRange = 8.33 (Long)|Reload = 1.6 seconds (Normal)<br>1.7 seconds (while Hyper Buffie is active)|AttackBullets = 9|AttackSuperCharge =7% |AttackLabel = Damage per coin|Attack = 280|SuperRange = 9 (Long)|SuperLabel = Damage per banknote at min. range|Super = 360 |SuperBullets = 5<br>10 (return; with Hypercharge)|VoiceActor =Roger Rose|AttackSpread=13.5°<br>23.9625° (with Keep the Change)|AttackSpeed=3100|AttackWidth=|SuperSpeed=3200<br>3000 (return)<br>4500 (with Hypercharge)|SuperSuperCharge=6.295–12.59% (close to max range)|SuperSpread=67.5°|SuperWidth=|SuperLabel2=Damage per banknote at max. range|Super2=720|Gadget1Name=Piggy Bank|Gadget1=1280|Gadget1Label=Damage|Gadget1Cooldown=20 seconds|Gadget2Name = Coin Shower|Gadget2Cooldown=18 seconds|Previous=Belle|Next=Ash|Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=2.1%|SuperHyperchargeCharge=1.8885–3.777% (close to max range)|Gadget1Label2=Health (with Buffie)|Gadget12=4032|Gadget1Range=7.33|Gadget1Duration=2.5 seconds|Gadget2Range=7.33|Gadget2Duration=6 seconds|Gadget2=480|Gadget2Label=Damage per second}}
+{{Quote|Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.}}
+{{Portrait}}
+Griff is an {{Rarity|Epic}} [[Brawler]] who could be unlocked early for a limited time by winning the Griff Challenge. Griff has moderately high health and long range but a high burst damage output at close range, in exchange for a moderately slow reload and unload speed. He was the 49th Brawler added to the game. He attacks by firing 3 waves of 3 coins that each spread out in a cone. His Super throws 5 banknotes that travel forward and return to him, deal more damage the farther they travel, and spread out in a cone. His first Gadget, Piggy Bank, throws a piggy bank that explodes after a delay, dealing area damage and knocking enemies back while also destroying obstacles. His second Gadget, Coin Shower, creates an shower of coins on an area of the map, dealing damage to opponents inside it. His first Star Power, Keep the Change, adds a fourth wave of coins to his attack. His second Star Power, Business Resilience, periodically and fractionally heals his missing health. His Hypercharge, Tax Rebate, allows his Super to pass through obstacles and pierce through enemies, which creates another wave of 5 banknotes when returning to him after a short delay.
+
+==Attack: Coin Toss==
+{{Quote|Angry Griff pelts opponents with coins. He throws three salvos that spread out in a cone.}}Griff fires 3 waves that each consist of 3 coins, with the coins having a long range and spreading out in a cone formation. The attack deals a high amount of damage at close range, where most or all of the coins can hit an enemy. Because his attack fires 3 waves, the unload speed is slow, taking 1 second to complete. 
+
+==Super: Cashback==
+{{Quote|Griff throws a bunch of sharp-edged banknotes in a wide cone. Too valuable to just give away, they return to him, and may cause paper cuts twice to the same target. Opponents further away take more damage.}}Griff throws 5 piercing banknotes that travel forward, spin in place for 1 second, and then return to him, dealing damage when traveling and when returning. The Super deals high damage if multiple banknotes hit an enemy. The banknotes can't travel through obstacles when thrown, but can travel through obstacles when returning. The banknotes spread out in a wide cone and deal more damage the farther they travel. If Griff can hit an opponent with his Super at point blank, all notes will hit and deal a total of 3600 damage at Power 11.
+
+==Gadgets==
+===Piggy Bank===
+{{Quote|Griff throws a firecracker-filled piggy bank that explodes after a short delay, destroying obstacles and dealing 1600 damage to opponents within range. Cooldown: 20 seconds.}}{{Gadget|1}}Griff lobs a piggy bank that explodes after a 2.5-second delay, dealing ~286% the damage as one coin and knocking enemies back while also destroying obstacles in a 2-tile radius. The enemies can be knocked back and damaged even if they were behind a wall (including indestructible walls). The piggy bank can be thrown on top of the environment such as walls and fences and will be visible to anyone. This Gadget will also charge 20% of Griff's Super per hit. The Piggy Bank's damage is not affected by the [[Gears|Damage Gear]]. 
+
+{{Quote|Griff can shoot the piggy bank to charge up and increase its explosion radius and damage! The piggy bank explodes instantly when it's fully charged.}}{{Buffie|Gadget}}
+With the Buffie, Griff's piggy bank has health equal to the damage of 9 coins, and only Griff can shoot to charge it and increase its explosion radius and damage (other Griffs cannot shoot at a piggy bank they did not throw). If its health is depleted, it becomes fully charged and the piggy bank explodes instantly. When fully charged, it can deal up to 50% more damage and destroy obstacles in up to a 30% larger radius when fully charged. The piggy bank's health scales with outside buffs such as [[Showdown|Power Cubes]]. 
+
+Do note that when Buffied, the Piggy Bank will not charge Griff's Super if it hits an enemy Brawler. Due to it now having an HP bar and acts as a temporary spawnable, it can't be thrown on top of walls and will be pushed to the nearest open space. However because of this, it can also now be hidden within bushes, allowing for a surprise explosion if an enemy doesn't notice in time.
+
+===Coin Shower===
+{{Quote|Griff throws a shower of coins at the target area, dealing 600 damage per second to opponents inside. Cooldown: 15 seconds.}}{{Gadget|2}}Griff throws a shower of coins in a 2.4-tile radius on the map that will damage enemies inside it every second, dealing 107% of a single coin from Griff's attack. The effect lasts for 6 seconds, dealing a total of 3600 damage at Power Level 11 if an opponent is inside the area for the whole duration of the Gadget.
+
+{{Quote|The coins shower grows in size throughout its duration.}}{{Buffie|Gadget}}
+With the Buffie, the radius of the shower of coins gradually increases in size for the duration, up to a radius of 4 tiles.
+
+==Star Powers==
+===Keep the Change===
+{{Quote|Griff gains a slightly wider attack and adds another row of coins to the coin toss.}}{{StarPower|1}}Griff's attack is 77.5% wider and shoots a 4th row of coins. He additionally shoots the attack faster, meaning he'll shoot the 4 rows in the same time he'll shoot 3 rows without the Star Power equipped.
+
+{{Quote|Attacking with full ammo also fires a mega coin that deals extra damage!}}{{Buffie|Star}}
+With the Buffie, when Griff has full ammo, the middle coin becomes 60% larger in width, and it deals 50% more damage.
+
+===Business Resilience===
+{{Quote|Every 2 seconds, Griff regains up to 15% of his missing health.}}{{StarPower|2}}This Star Power heals Griff for 15% of his missing health every 2 seconds, so the less health Griff has, the more he will heal. Unlike self-regeneration, this Star Power heals Griff even when attacking or taking damage. The amount of health Griff can heal can be affected by outside health buffs or healing debuffs. 
+
+{{Quote|When Griff's Super projectiles return, they heal Griff for 5% of his missing health.}}{{Buffie|Star}}
+With the Buffie, when Griff's Super projectiles return to him, they will heal Griff for 5% of his missing health. The duplicated banknotes from the Hypercharge count separately, which would heal him for 10% of the missing health in total.
+
+==Hypercharge: Tax Rebate==
+{{Quote|Griff's banknotes multiply at max range before returning, with the newly created banknotes after a delay. They also pierce the environment.}}{{Hypercharge}}
+When activated, Griff's Super passes through enemies and obstacles, and travels faster than his regular Super. In addition, his Super spawns another wave of 5 banknotes at max range that return after a 0.5-second delay, similarly passing through enemies and obstacles. Griff also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Griff's main attack also pierces enemies.}}{{Buffie|Hyper}}
+With the Buffie, Griff's attack can also pierce through targets. However, his reload speed is slightly slower while this effect is active. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*Griff's attack and Super’s high damage output coupled with his reasonable reload speed make him viable in [[Heist]]. Griff's Keep The Change Star Power greatly increases his damage, making it a lot more punishing for opponents to leave him alone with the Safe, while his Business Resilience Star Power allows him to heal and attack the Safe for longer if enemies are surrounding you in their base. His Piggy Bank Gadget is useful in defense and offense to knock enemies away from the team’s Safe or to deal extra damage to the enemy safe, and can additionally be used to destroy walls and make it easier for your team to reach the enemy Safe. 
+**Keep in mind that Griff is not viable in long range maps such as [[Bridge Too Far]], as he will struggle to reach the safe due to the map's sniper-dominated meta, which acts as a counter to Griff.
+*Griff has high damage potential high-close, making it easy for him to open Boxes and defeat Tanks and Assassins in [[Showdown]]. His Business Resilience Star Power additionally helps him survive longer during fights, while Keep the Change can easily deal with commonly found assassins who may attempt to ambush him.
+*Griff is a good pick in [[Brawl Ball]], as he is able to open maps to score easy goals with his Piggy Bank Gadget, which can also be used to knock back opponents holding the ball. His high damage output additionally helps him defeat opponents who are carrying the ball easily.
+*Griff is good in [[Basket Brawl]], as the tighter nature of the maps make his Super a lot easier to hit and recharge. His Piggy Bank Gadget is additionally able to break the walls commonly found around the map.
+*Griff is a good pick in [[Hot Zone]], and has various abilities that help him in the mode. His Super can cover the whole zone and deny access to the enemy team, and his Piggy Bank Gadget can open walls to either make access to the zone easier to your team, or destroy any hiding spots for the enemies while your team attacks them from the Zone, and his Coin Shower Gadget can help take control of the zone. Additionally, his Keep the Change Star Power makes it easier to hit enemies within the zone, and his Business Resilience Star Power allows him to stay on the zone for longer while under enemy fire. 
+*As the mode is very control-based, Griff is a good pick in [[Gem Grab]]. His Super and both of his Gadgets are helpful in keeping the enemies away from the Gem mine. He additionally deals a lot of damage, making it easier to defeat enemy Gem carriers, and his Business Resilience Star Power increases his survivability if Griff himself is carrying the gems.
+**In [[Double Swoosh]], Griff can destroy the entire enemy team's bush section with various Buffied Piggy Bank Gadgets, giving his team a big advantage if the enemy team has no way of destroying your bushes. It's recommended to use the [[Gears|Gadget Cooldown Gear]] if this is your intention. 
+
+===Recommended Build===
+*Griff's Keep the Change Star Power offers him more protection against close-ranged Brawlers as it deals more damage more quickly at close range. Griff’s Super can be combined with his attack to defend against those Brawlers.
+*Griff’s Business Resilience Star Power will heal you even when you’re attacking or taking damage. You can use this to heal while fighting, which makes it more difficult for enemies to defeat you, or to heal while working towards a mode objective as enemies will be attacking you while doing so.
+*Griff's Piggy Bank Gadget can be very useful at breaking walls in maps, making him a great supportive option alongside long-range Brawlers such as [[Brock]], [[Colt]], [[8-Bit]], [[Nani]], [[Pearl]], and [[Rico]]. This is especially useful in [[Brawl Ball]], where opening the opposing side's walls can allow for the ball to be scored easier.
+*Griff's Coin Shower Gadget can be useful for taking control of the Zone in [[Hot Zone]], or for dealing damage while you're unable to directly attack the Safe or the Turrets in [[Heist]] and [[Brawl Arena]]. It can potentially also be used to block the Gem mine in [[Gem Grab]].
+*Griff's Piggy Bank Gadget is also helpful for area control, as it will limit where the enemy can move for a few seconds if Griff doesn't hit it. It makes it easier to predict the opponents' movements and as a consequence, it makes it easier to aim and hit shots. If Buffied, Griff can also attack the Piggy Bank with a few projectiles to control more area.
+*When drafting Griff in [[Ranked]], Keep the Change is more useful against aggressive Brawlers such as [[Mortis]], [[Max]], [[Stu]], or [[Edgar]] and tanks such as [[Frank]], [[El Primo]], [[Draco]], or [[Hank]]. Business Resilience is better when fighting Brawlers with a more passive play-style or who out-range you, as it allows you to put more pressure since you don't fall back nearly as often. It also acts as a good counter to Brawlers who deal damage over time, such as [[Byron]], [[Willow]], [[Barley]], and Najia. [[Crow]]'s healing reduction and fast movement speed make it difficult for Griff to compete with him, along with the fact that Crow slightly outranges him.
+*Griff's Coin Shower Gadget has a good synergy with the [[Gears|Gadget Cooldown Gear]]. As the cooldown starts after you throw down the Gadget, once the effect ends you only need to wait just 9 seconds before you can throw another one down, giving you control of any part of the map you want very frequently throughout the match.
+
+===Strategies===
+*If enemies are hiding and taking cover behind obstacles, you can use his Piggy Bank Gadget to destroy the obstacles and burst them down afterwards.
+*If an assassin, such as [[Leon]], Edgar, or Mortis is approaching you, dropping your Piggy Bank Gadget and shooting it will push them back and deal damage to them, making it easier to avoid and defeat them. Make sure you have enough ammo to quickly detonate the Piggy Bank.
+*If you're playing [[Ranked]] or in a team, Griff can be drafted to open walls if your teammates have Brawlers who shine in open maps, such as [[Piper]], [[Pierce]], Rico, [[Bea]], or [[Najia]]. Keep in mind however to only break walls that benefit your team, as opponents can benefit from larger maps as well, depending on their Brawlers.
+*Your Piggy Bank Gadget can be used to defend yourself from Brawlers who stun and attack from close by, such as [[Kit]] or [[Buzz]]. When you see either Brawler using their Super on you, use your Piggy Bank Gadget and it will knock the opponent away, allowing you to get away from their attacks while you damage them.
+*Fighting [[Gigi]] can be very complex for Griff. As she charges her Super based on the number of projectiles within her radius, a single attack from Griff will charge nearly all of her Super. As Griff doesn't have enough health, he won't be able to do much if she teleports near him. Therefore, it is recommended to ignore her if playing in team modes.
+*If fighting [[Colette]], Griff can use his Business Resilience Star Power to counter her main attack. As the two have a similar range, it is recommended to fight in mid-range, as it will make it easier to avoid her Super, and it will allow you to hit more coins than you would at the tip of his range.
+*Make sure to save your Hypercharged Super for when you can hit 3 enemies at once, as it will be very easy to recharge. Thanks to the Buffie, the Hypercharge duration can be increased, allowing you to chain through more Supers. During [[Brawl Ball]], it's effective to save your Super for the start of a round after a team scored, so that you can team-wipe and score easily.
+*Though Griff's Hyper Buffie's main attack power up won't come in handy in most modes and situations, it can be used in [[Heist]] to attack the safe when it's being defended by the enemy team.
+
+===Other===
+*Although Griff can hit more banknotes with his Super at close range, the Super deals less damage at close range which results in less Super charge. Prioritize his Super on farther enemies to deal more damage, recharge more of his Super, and give a sufficient amount of time to reposition himself so that the banknotes hit enemies while they’re returning.
+*Griff struggles in long-ranged combat due to his slow unload speed. His attack does deal high damage, but its full potential requires Griff to be at close range. However, Griff can still be effective at long-ranged combat if he attacks enemies at the tip of his range, where he can hit most of or all of the coins.
+*Griff's Super can force enemies out of where it travelled. You can use this for area denial such as blocking off the zones in [[Hot Zone]], the Gem mine in [[Gem Grab]], or the Bolt spawns in [[Siege]].
+*Griff’s Super has high burst damage regardless of range. Because of this, his Super can be used in a lot of situations such as using it to devastate enemies directly, keeping close-ranged enemies away from you, or to quickly defeat enemy Gem carriers in Gem Grab. Griff's Super is still active even if he is defeated, dealing a little more damage and allowing for some Super recharge after being defeated.
+*Try to hit at least 2 or more opponents with his Super, as this will give Griff back more of his Super, and put most Brawlers into a range in which they can be finished off with Griff's main attack or another Super. This is rather easy to do due to the long range and wide spread of Griff's Super. Attacking 3 Brawlers at the tip of the Super's range will recharge nearly all of Griff's Super.
+*Despite his high damage, Griff's slow unload speed may betray him if he's attempting to ambush opponents. To succesfully defeat opponents in an ambush, Griff would ideally have or be close to a charged Super, as it deals more damage than his main attack up close, and shoots quicker as well. His Keep the Change Star Power allows him to ambush enemies far more easily thanks to its quick and high damage output up close.
+*Griff's Super has an odd interaction with [[Finx]]'s Super, as his banknotes will not properly come back, but rather quickly dash back and forth in the position Finx's Super area is, potentially dealing extra damage to enemies unaware of this interaction.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Griff start vo 01.ogg|Filedescription = "Open for business."}}
+|{{Ogg|Filename = Griff lead vo 01.ogg|Filedescription = "Sweet smell of success!"}}
+|{{Ogg|Filename = griff hurt vo 01.ogg|Filedescription = "That's coming out of your paycheck!"}}
+|{{Ogg|Filename = Griff kill vo 01.ogg|Filedescription = "Should have read the terms and conditions!"}}
+|{{Ogg|Filename = Griff die vo 01.ogg|Filedescription = "We are closed! Huh..."}}
+|
+|{{Ogg|Filename = Griff ulti vo 01.ogg|Filedescription = Griff laughs}}
+|-
+|{{Ogg|Filename = Griff start vo 02.ogg|Filedescription = "You break it! You bought it..."}}
+|{{Ogg|Filename = Griff lead vo 02.ogg|Filedescription = "I knew I could do it. Tuh-hee."}}
+|{{Ogg|Filename = Griff hurt vo 02.ogg|Filedescription = "Don't touch the merchandise!"}}
+|{{Ogg|Filename = Griff kill vo 02.ogg|Filedescription = "No. Refunds!"}}
+|{{Ogg|Filename = Griff die vo 02.ogg|Filedescription = "Tell the bank I'm busy..."}}
+|
+|{{Ogg|Filename = Griff ulti vo 02.ogg|Filedescription = "Money money money! Money money money!"}}
+|-
+|{{Ogg|Filename = Griff start vo 03.ogg|Filedescription = "Another day? Another dollar!"}}
+|{{Ogg|Filename = Griff lead vo 03.ogg|Filedescription = "Everyone gets a 2% discount!"}}
+|{{Ogg|Filename = Griff hurt vo 03.ogg|Filedescription = "Ooh, you cost me a sale!"}}
+|{{Ogg|Filename = Griff kill vo 03.ogg|Filedescription = "Ah-ah-ah-ahem. Are you browsing or buying?"}}
+|{{Ogg|Filename = Griff die vo 03.ogg|Filedescription = "I'll be right with you. Aha-ha-ha."}}
+|
+|{{Ogg|Filename = Griff ulti vo 03.ogg|Filedescription = "Ding ding ding ding!"}}
+|-
+|{{Ogg|Filename = Griff start vo 04.ogg|Filedescription = "All sales are final!"}}
+|{{Ogg|Filename = Griff lead vo 04.ogg|Filedescription = "Huh-ho! Ka-ching!"}}
+|{{Ogg|Filename = Griff hurt vo 04.ogg|Filedescription = "Oh! I-I have the money. Don't worry!"}}
+|{{Ogg|Filename = Griff kill vo 04.ogg|Filedescription = "You just had to refuse my final offer!"}}
+|{{Ogg|Filename = Griff die vo 04.ogg|Filedescription = "Only a minor setback."}}
+|
+|{{Ogg|Filename = Griff ulti vo 04.ogg|Filedescription = "Winner winner winner winner!"}}
+|-
+|{{Ogg|Filename = Griff start vo 05.ogg|Filedescription = "Ooh! 5% discount on selected items."}}
+|{{Ogg|Filename = Griff lead vo 05.ogg|Filedescription = "Uh-huh. It's a bling thing."}}
+|{{Ogg|Filename = Griff hurt vo 05.ogg|Filedescription = "Uh— you know, just take it up with my accountant... please?"}}
+|{{Ogg|Filename = Griff kill vo 05.ogg|Filedescription = "Cash. Only!"}}
+|{{Ogg|Filename = Griff die vo 05.ogg|Filedescription = "I can't take it anymore! Bah-h-h-h..."}}
+|
+|{{Ogg|Filename = Griff ulti vo 05.ogg|Filedescription = "Free coins!"}}
+|-
+|{{Ogg|Filename = Griff start vo 06.ogg|Filedescription = "Oh. Another customer!"}}
+|{{Ogg|Filename = Griff lead vo 06.ogg|Filedescription = "Cash is king!"}}
+|{{Ogg|Filename = Griff hurt vo 06.ogg|Filedescription = "Uh-heh-heh! Everything is fine!"}}
+|{{Ogg|Filename = Griff kill vo 06.ogg|Filedescription = "Warranty expired!"}}
+|{{Ogg|Filename = Griff die vo 06.ogg|Filedescription = "I! Owe! You!"}}
+|
+|{{Ogg|Filename = Griff ulti vo 06.ogg|Filedescription = "Ho-ho, have a refund!"}}
+|-
+|{{Ogg|Filename = Griff start vo 07.ogg|Filedescription = "Ooh! I have just what you need!"}}
+|{{Ogg|Filename = Griff lead vo 07.ogg|Filedescription = "You can't spell refund! Without fu-un!"}}
+|{{Ogg|Filename = Griff hurt vo 07.ogg|Filedescription = "Get outta my shop!"}}
+|{{Ogg|Filename = Griff kill vo 07.ogg|Filedescription = "Huh-heh-hey! Ka-ching!"}}
+|
+|
+|{{Ogg|Filename = Griff ulti vo 07.ogg|Filedescription = "Here is your refund!"}}
+|-
+|{{Ogg|Filename = Griff start vo 08.ogg|Filedescription = "Only the best deals!"}}
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Griff ulti vo 08.ogg|Filedescription = "Refunds for everyone!"}}
+|-
+|{{Ogg|Filename = Griff start vo 09.ogg|Filedescription = "How may I help you?"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Griff start vo 10.ogg|Filedescription = "Everything's for sale!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Griff start vo 11.ogg|Filedescription = "Oh yeah. Just keep buying."}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Griff start vo 12.ogg|Filedescription = "You try! You buy!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*23/07/21:
+**{{Balance|Content=Griff became available in the Griff Challenge.|Change=Neutral}}
+*27/07/21:
+**{{Balance|Content=Griff became available to play in the [[Training Cave]].|Change=Neutral}}
+*29/07/21:
+**{{Balance|Content=Griff became available in Brawl Boxes.|Change=Neutral}}
+*09/08/21:
+**{{Balance|Content=Griff's Business Resilience Star Power was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Griff's Business Resilience Star Power healing was increased to 10% of missing health (from 7%).|Change=Buff}}
+**{{Balance|Content=His class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*22/12/21:
+**{{Balance|Content=The Sleigher Griff skin was added. It was featured as a Brawlidays 2021 skin.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Griff's main attack damage was increased to 260 (from 220) per coin.|Change=Buff}}
+*27/04/22:
+**{{Balance|Content=Griff's main attack unload time was decreased to 1 second (from 1.05).|Change=Buff}} 
+**{{Balance|Content=His Business Resilience Star Power healing was increased to 15% of missing health (from 10%).|Change=Buff}}
+**{{Balance|Content=His Keep the Change Star Power unload speed decrease was decreased to 25% (from 35%).|Change=Nerf}}
+*29/06/22:
+**{{Balance|Content=Griff's main attack visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Griff's Coin Shower Gadget was added.|Change=Neutral}}
+**{{Balance|Content=Griff's True Silver and True Gold skins were added.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=The number of hits necessary to charge Griff's Super was increased to 16 hits (from 12).|Change=Nerf}}
+**{{Balance|Content=Griff's Super recharge rate was decreased by 10%.|Change=Nerf}}
+*18/01/23:
+**{{Balance|Content=The High Score Griff skin was added. It was featured as a Lunar New Year 2023 skin.|Change=Neutral}}
+*26/01/23:
+**{{Balance|Content=Fixed a bug where Griff's Super would glitch when traveling around the edge of the map.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Griff's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*14/08/23:
+**{{Balance|Content=The Sunken Chest Griff skin was added. It was featured as a Cursed Pirates skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Griff's Piggy Bank Gadget damage was increased to 1040 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Griff's flavor text was changed from "Griff is the proprietor of Starr Park's gift shop. Business is bad, but he still throws coins away - from his employees' tip jar!" to "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls."|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Griff's main attack damage was increased to 280 (from 260) per coin.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Griff's Super was decreased to 15 hits (from 16).|Change=Buff}}
+**{{Balance|Content=Griff's Piggy Bank Gadget damage was increased to 1120 (from 1040).|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=Griff's Super now deals full damage at close range when travelling away from him.|Change=Buff}}
+*10/12/24:
+**{{Balance|Content=Griff's Super damage was increased to 720 (from 660) per banknote at max range.|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*12/05/25:
+**{{Balance|Content=Griff's Tax Rebate Hypercharge was added.|Change=Neutral}}
+*14/06/25:
+**{{Balance|Content=The Intergalactic Griff skin was added. It was featured as a Kaiju Invasion skin.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=The Jackpot Griff skin was added. It was featured as a Summer of Brawl skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Griff's Tax Rebate Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Griff's Tax Rebate Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Griff's Tax Rebate Hypercharge shield boost from 15%.}}
+*16/12/25:
+**{{Balance|Buff|Griff's health was increased to 3600 (from 3400).}}
+*23/01/26:
+**{{Balance|Buff|Griff's health was increased to 3700 (from 3600).}}
+*02/04/26:
+**{{Balance|Neutral|The Dragon, Greedy and Hoarder Griff skins were added. They were featured as Brawl Pass Season 49 skins and Once Upon skins.}}
+*22/04/26:
+**{{Balance|Buff|Griff's reload time was decreased to 1.6 seconds (from 1.7). This does not affect his reload while the Hyper Buffie is active.}}
+**{{Balance|Buff|Griff's Piggy Bank Gadget can now be aimed.}}
+**{{Balance|Buff|Griff's Piggy Bank Gadget's damage was increased to 285.71% of his main attack (from 250%).}}
+**{{Balance|Nerf|Griff's Piggy Bank Gadget cooldown was increased to 20 seconds (from 16).}}
+**{{Balance|Nerf|Griff's Coin Shower Gadget cooldown was increased to 20 seconds (from 11).}}
+**{{Balance|Neutral|Griff's Coin Shower was reworked from adding a 4th wave of coins to throwing a shower of coins, creating an area effect that damages enemies in a 2.33-tile radius for 71.42% of his main attack per second for 5 seconds.}}
+**{{Balance|Neutral|Griff's Keep the Change Star Power was reworked from making Griff unload his attack faster to making his attack 50% wider and adding a 4th row of coins to his attack.}}
+**{{Balance|Neutral|Griff's Epic Gear was removed.}}
+**{{Balance|Neutral|Griff's Buffies were added.}}
+*28/04/26:
+**{{Balance|Neutral|Fixed a bug where Griff's Super dealt more damage on the way back.}}
+*13/05/26:
+**{{Balance|Neutral|Fixed a bug that would allow Griff's Super to deal double the intended damage at point blank.}}
+*30/06/26:
+**{{Balance|Buff|Griff's Coin Shower Gadget damage per second was increased to 600 (from 400).}}
+**{{Balance|Buff|Griff's Coin Shower Gadget duration was increased to 6 seconds (from 5).}}
+**{{Balance|Buff|Griff's Coin Shower Gadget cooldown was decreased to 15 seconds (from 20).}}
+**{{Balance|Buff|Griff's Keep the Change Star Power unloads his projectiles in 0.15 seconds (from 0.2).}}
+**{{Balance|Nerf|Griff's Buffied Piggy Bank Gadget maximum explosion radius was decreased to 25% (from 50%).}}
+*04/08/26:
+**{{Balance|Buff|Griff's Buffied Piggy Bank Gadget maximum explosion radius was increased to 30% (from 25%).}}
+**{{Balance|Nerf|Griff's Piggy Bank Gadget explosion radius was decreased to 2 tiles (from 2.67).}}
+**{{Balance|Nerf|Griff's Keep the Change Star Power spread was increased by 55%.}}
+*01/09/26:
+**{{Balance|Nerf|Griff's Super recharge rate was decreased to 70 (from 88).}}
+**{{Balance|Nerf|Griff's Coin Shower Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Griff's movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Fixed a bug which didn't allow Griff's Piggy Bank Gadget's damage to increase during Hypercharge.}}
+*24/10/26:
+**{{Balance|Content=The Gravestone Griff skin was added. It was featured as a Supercell Make skin and a Brawl-o-ween skin.|Change=Neutral}}
+*30/10/26:
+**{{Balance|Neutral|Griff's Buffie's Ghost Skin was added. It was featured as a Brawl-o-ween skin.}}
+*03/11/26:
+**{{Balance|Neutral|Fixed a bug where Griff's Coin Shower Gadget briefly disappeared and then dealt one extra tick of damage.}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1 = Jackpot|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Summer of Brawl|Rarity1=Rare
+|Name2 = High Score|Cost2=79 Gems • '''S'''|Campaign2=Gaming|Rarity2=Super Rare
+|Name3 = Sleigher|Cost3=Free from Presents or 149 Gems • '''S'''|Campaign3=Brawlidays|Rarity3=Epic
+|Name4 = Sunken Chest|Cost4=Free from Glowbert Boxes or 149 Gems|Campaign4=Cursed Pirates|Rarity4=Epic
+|Name5 = Intergalactic|Cost5=149 Gems|Campaign5=Kaiju Invasion|Rarity5=Epic
+|Name6 = Gravestone|Cost6=From #ScaryCoffins community event or 149 Gems|Campaign6=Supercell Make|Campaign6_2=Brawl-o-ween|Rarity6=Epic
+|TrueSkins=yes
+|NameP1 = Dragon|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Once Upon|RarityP1=Epic
+|NameP2 = Greedy|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Once Upon|RarityP2=Epic
+|NameP3 = Hoarder|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Once Upon|RarityP3=Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Griff Buffie Skin-Gadget.png|Gadget
+File:Griff Buffie Skin-Star.png|Star
+File:Griff Buffie Skin-Hyper.png|Hyper
+File:Griff Buffie Skin-Bling.png|Bling
+File:Griff Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Griff
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Sleigher}}
+{{Pin Table|High Score|Happy}}
+{{Pin Table|Sunken Chest}}
+{{Pin Table|Intergalactic|Special}}
+{{Pin Table|Dragon|Special}}
+{{Pin Table|Greedy|Special}}
+{{Pin Table|Hoarder|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Griff|Rarity = Common}}
+|{{Spray|Type = Griff Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Sunken Chest Griff|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Griff1}}
+|{{Pfp|Griff2}}
+|{{Pfp|Griff3}}
+|{{Pfp|Griff4}}
+|{{Pfp|Sunken Chest Griff}}
+|-
+|{{Pfp|Sleigher Griff}}
+|{{Pfp|Intergalactic Griff}}
+|{{Pfp|Dragon Griff}}
+|}
+
+{{Navigation}}
+[[es:Griff]]
+[[pt:Griff]]
+[[ru:Грифф]]

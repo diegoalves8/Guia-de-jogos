@@ -1,0 +1,566 @@
+'''Legendary Weapons''' are a rarity of weapons that are one tier above [[Rare Weapons|rare weapons]] and one tier below [[Godly Weapons|godly weapons]]. These types of weapons have a 5% chance of being unboxed from [[boxes]], require twelve rare [[shards]] to [[Crafting|craft]] in the crafting station, can be obtained through [[:Category:Events|events]], and can be [[Trading|traded]] among players at any time. Legendary weapons generally use more popular colors such as black, bright red, blue, green, and purple as intended by [[Nikilis]]<ref>Nikilis. (2019, March 19). ''[$3000+ USD] [hiring] graphic designers: Weapon skins''. DevForum. Retrieved October 26, 2021, from https://devforum.roblox.com/t/3000-usd-hiring-graphic-designers-weapon-skins/254136.</ref>. There are currently 57 different legendary weapons in the game, ''39'' being [[:Category:Knives|knives]] and ''18'' being [[:Category:Guns|guns]]. 
+
+{| class="wikitable" style="text-align:center; width:100%"
+!style="background:-webkit-linear-gradient(0deg, #dd000a, #830006); color:white; min-width: 25%" colspan="5" |Legendary Weapons
+|-
+!style="background:#770000; color:white; min-width: 25%"|Name
+!style="background:#770000; color:white; min-width: 25%"|Tier
+!style="background:#770000; color:white; min-width: 25%"|Type
+!style="background:#770000; color:white; min-width: 25%"|Ways to Get
+!style="background:#770000; color:white; min-width: 25%"|Image
+|-
+|[[MLG]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[MLG Box]] - Unbox (Discontinued)
+|[[File:MLG improved.png|175px]]
+|-
+|[[Rune]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Mystery Box 1]] - Unbox
+[[Trading]]
+|[[File:Rune.png|175x175px]]
+|-
+|[[Splash]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Knife Box 3]] - Unbox
+[[Trading]]
+|[[File:Splash improved.png|175x175px]]
+|-
+|[[Splash Gun|Splash]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Guns|Gun]]
+|[[Mystery Box 2]] - Unbox
+[[Trading]]
+|[[File:Splashgun.png|175px]]
+|-
+|[[Elite]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Elite Gamepass]]
+[[Trading]]
+|[[File:Elite improved.png|175px]]
+|-
+|[[Shiny]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Rainbow Box]] - Unbox
+[[Trading]]
+|[[File:Shiny improved.png|175x175px]]
+|-
+|[[Fusion]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Knife Box 5]] - Unbox
+[[Trading]]
+|[[File:Fusion improved.png|175x175px]]
+|-
+|[[Fade]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Knife Box 4]] - Unbox
+[[Trading]]
+|[[File:Fade improved.png|175x175px]]
+|-
+|[[Universe]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Guns|Gun]]
+|[[Gun Box 3]] - Unbox
+[[Trading]]
+|[[File:Universegun improved.png|175x175px]]
+|-
+|[[Overseer (Knife)|Overseer]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Knife Box 2]] - Unbox
+[[Trading]]
+|[[File:Overseer improved.png|175x175px]]
+|-
+|[[Overseer (Gun)|Overseer]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Crafting]]
+[[Trading]]
+|[[File:Gyuju.png|175x175px]]
+|-
+|[[Predator (Knife)|Predator]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[Crafting]]
+[[Trading]]
+|[[File:PredatorKnifeUpdated.png|175x175px]]
+|-
+|[[Predator (Gun)|Predator]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Guns|Gun]]
+|[[Gun Box 2]] - Unbox
+[[Trading]]
+|[[File:PredatorGun improved.png|175x175px]]
+|-
+|[[Plasmite]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Knives|Knife]]
+|[[Knife Box 1]] - Unbox
+[[Trading]]
+|[[File:Plasmiteknife2.png|175px]]
+|-
+|[[Viper]]
+|<span style="color: #DB0106">1</span>
+|[[:Category:Guns|Gun]]
+|[[Gun Box 1]] - Unbox
+[[Trading]]
+|[[File:Viper2025.png|175x175px]]
+|-
+|[[Emerald]]
+|<span style="color: #DB0106">2</span>
+| [[:Category:Knives|Knife]]
+|[[Crafting]]
+[[Trading]]
+|[[File:Emerald improved.png|175x175px]]
+|-
+|[[Sparkle]]
+| <span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Crafting]]
+[[Trading]]
+|[[File:Sparkle improved.png|175x175px]]
+|-
+|[[Midnight]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[Crafting]]
+[[Trading]]
+|[[File:Midnight improved.png|175x175px]]
+|-
+|[[JD]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|Giveaway/Buying JD Merch
+[[Trading]]
+|[[File:JD.png|175px]]
+|-
+|[[Cotton Candy]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Space Tycoon|Space Tycoon Promo]] (Formerly)
+[[Trading]]
+|[[File:CottoncandyAccurate.png|175x175px]]
+|-
+|[[Web]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2015]] - Bingo Challenge (Formerly)
+[[Trading]]
+|[[File:WebKnife improved.png|175x175px]]
+|-
+|[[Rupture]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Halloween Event 2015]] - Bingo Challenge (Formerly)
+[[Trading]]
+|[[File:Rupture improved.png|175x175px]]
+|-
+| [[Green Elite]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2015]] - [[Elite Gamepass]] (Formerly)
+[[Trading]]
+|[[File:GreenElite improved.png|175x175px]]
+|-
+|[[Tree Gun (2015)|Tree]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[2015 Christmas Gun Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:TreeGun improved.png|175x175px]]
+|-
+|[[Tree Knife (2015)|Tree]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2015 Christmas Knife Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Fgdg.png|175x175px]]
+|-
+|[[Scratch (2016)|Scratch]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2016 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Scratch.png|175px]]
+|-
+|[[Red Fire]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2017]] - Challenge (Formerly)
+[[Trading]]
+|[[File:Red Fire..png|175px]]
+|-
+|[[Scratch (2017)|Blue Scratch]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2017 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Blue Scratch.png|175px]]
+|-
+|[[Blue Elite]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2017]] - [[Elite Gamepass]] (Formerly)
+[[Trading]]
+|[[File:Be.png|175px]]
+|-
+|[[Green Fire]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2017 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Green Fire..png|175px]]
+|-
+|[[Ghost (Knife)|Ghost]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2018]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Ghostk.png|175px]]
+|-
+|[[Ghost (Gun)|Ghost]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[2018 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Ghostg.png|175px]]
+|-
+|[[Ginger Knife (2018)|Ginger]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2018 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Ginger.png|175px]]
+|-
+|[[Ginger Gun (2018)|Ginger]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2018]] - Tier Reward
+[[Trading]]
+|[[File:Ginger gun 2018.png|175px]]
+|-
+|[[Santa's Magic]]
+|<span style="color: #DB0106">3</span>
+| [[:Category:Knives|Knife]]
+|[[Christmas Event 2019]] - Santa’s Challenge (Formerly)
+[[Trading]]
+|[[File:SantasMagic improved.png|175px]]
+|-
+|[[Cavern (Knife)|Cavern]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2019]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Ggf.png|175x175px]]
+|-
+|[[Skulls (2019)|Skulls]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2019 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Skulls.png|175px]]
+|-
+|[[Witched]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2019]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Witched.png|175px]]
+|-
+|[[Santa's Spirit]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2020]] - Santa’s Challenge (Formerly)
+[[Trading]]
+|[[File:Santas spirit2.png|175px]]
+|-
+|[[Ripper (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2020]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Ripper (knife).png|175px]]
+|-
+|[[Ripper (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[2020 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Ripper (gun).png|175px]]
+|-
+|[[Icecracker]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2020 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Icecracker..png|175px]]
+|-
+|[[Icedriller]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2020]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Icedriller improved.png|175px]]
+|-
+|[[Spectral (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2021 Halloween Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:SpectralKnife.png|175px]]
+|-
+|[[Spectral (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Halloween Event 2021]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:SpectralGun.png|175px]]
+|-
+|[[Aurora Knife (2021)|Aurora (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2021 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:AuroraKnife2021.png|175px]]
+|-
+|[[Aurora Gun (2021)|Aurora (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2021]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:AuroraGun2021.png|175px]]
+|-
+|[[Vampire Gun (2022)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Halloween Event 2022]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Vampire Gun 2022.png|175px]]
+|-
+|[[Vampire Knife (2022)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2022 Halloween Box|2022 Halloween Bo]]<nowiki/>[[2022 Halloween Box|x]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Vampire Knife 2022.png|175px]]
+|-
+|[[Arctic (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2022]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:ArcticGun.png|175px]]
+|-
+|[[Arctic (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2022 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Arctic knife.png|175px]]
+|-
+|[[Broken]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[Valentines Event 2023]] - Collecting 4,000 [[Hearts (Currency)|Hearts]] {{Currency|Heart}} (Formerly)
+[[Trading]]
+|[[File:Broken.png|175px]]
+|-
+|[[Chromatic (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[Easter Event 2023]] - Collecting [[Rare Eggs]] (Formerly)
+[[Trading]]
+|[[File:Chromatic (Knife).png|175px]]
+|-
+|[[Chromatic (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Easter Event 2023]] - Collecting [[Rare Eggs]] (Formerly)
+[[Trading]]
+|[[File:Chromatic (Gun).png|175px]]
+|-
+|[[Beach]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Summer Event 2023]] - Collecting 13,200 [[Beach Balls]] {{Currency|Beach Ball}}
+[[Trading]]
+|[[File:Beach knife.png|175px]]
+|-
+|[[Traveler (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2023 Halloween Box]] -  Unbox (Formerly)
+[[Trading]]
+|[[File:Traveller.png|frameless]]
+|-
+|[[Traveler (Gun)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Halloween Event 2023]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Traveler_Gun_2023.png|frameless]]
+|-
+|[[Latte (Knife)]]
+|4
+|[[:Category:Knives|Knife]]
+|[[Thanksgiving Event 2023]] - [[Latte Gamepass]]
+[[Trading]]
+|[[File:Latte_Knife.png|frameless]]
+|-
+|[[Latte (Gun)]]
+|4
+|[[:Category:Guns|Gun]]
+|[[Thanksgiving Event 2023]] - [[Latte Gamepass]]
+[[Trading]]
+|[[File:Latte_Gun.png|frameless]]
+|-
+|[[Frostfade (Knife)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Christmas Event 2023]] - Tier Reward (Formerly)
+[[Trading]]
+|[[File:Renderfrost.png|frameless]]
+|-
+|[[Frostfade (Gun)]]
+|<span style="color: #DB0106">2</span> 
+|[[:Category:Guns|Gun]]
+|[[2023 Christmas Box]] - Unbox (Formerly)
+[[Trading]]
+|[[File:Renderfrostfade.png|frameless]]
+|-
+|[[Palms (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2024 Summer Box]] - Unbox
+[[Trading]]
+|[[File:Palms.png|frameless]]
+|-
+|[[Palms (Gun)]]
+|<span style="color: #DB0106">3</span> 
+|[[:Category:Guns|Gun]]
+|[[Summer Event 2024]] - Collect 6,000 [[Beach Balls]] {{Currency|Beach Ball}}
+[[Trading]]
+|[[File:PalmsGun.png|frameless]]
+|-
+|[[Cursed Knife (2024)|Cursed (Knife)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2024]] - Tier Reward
+[[Trading]]
+|[[File:Cursed_Knife.png|frameless]]
+|-
+|[[Cursed Gun (2024)|Cursed (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[2024 Halloween Box]] - Unbox
+[[Trading]]
+|[[File:CursedGun.png|frameless]]
+|-
+|[[Nightsky]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2024]] - Tier Reward
+[[Trading]]
+|[[File:Nightsky2024.png|frameless]]
+|-
+|[[Nightstar]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2024 Christmas Box]] - Unbox
+[[Trading]]
+|[[File:NightskyKnife2024.png|frameless]]
+|-
+|[[Bunnies]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Easter Event 2025]] - Collect 4,000 [[Eggs (Currency)|Eggs]] {{Currency|Egg2025}}
+[[Trading]]
+|[[File:BunniesKnife2025.png|frameless]]
+|-
+|[[Aquarium (Knife)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2025 Summer Box]] - Unbox
+[[Trading]]
+|[[File:Aquarium_K_2025.webp|frameless]]
+|-
+|[[Aquarium (Gun)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Guns|Gun]]
+|[[Summer Event 2025]] - Tier Reward
+[[Trading]]
+|[[File:Aquarium_G_2025.webp|frameless]]
+|-
+|[[Energized (Knife)]]
+|<span style="color: #DB0106">2</span>
+|[[:Category:Knives|Knife]]
+|[[2025 Halloween Box]] - Unbox
+[[Trading]]
+|[[File:EnergizedKnife2025.png|frameless]]
+|-
+|[[Energized (Gun)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Halloween Event 2025]] - Tier Reward
+[[Trading]]
+|[[File:EnergizedGun2025.png|frameless]]
+|-
+|[[Frozen Knife (2025)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2025 Christmas Box|Christmas Box 2025]] - Unbox
+[[Trading]]
+|[[File:FrozenKnife2025.png|frameless]]
+|-
+|[[Frozen Gun (2025)]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Guns|Gun]]
+|[[Christmas Event 2025]] - Tier Reward
+[[Trading]]
+|[[File:FrozenGun2025.png|frameless]]
+|-
+|[[Cupid]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[2026 Valentine's Box]] - Unbox
+[[Trading]]
+|[[File:Cupid 2026.png|frameless]]
+|-
+|[[Bubbles]]
+|<span style="color: #DB0106">3</span>
+|[[:Category:Knives|Knife]]
+|[[Summer Box '26|2026 Summer Box]] - Unbox
+[[Trading]]
+|[[File:Bubbles2026.png|frameless]]
+|-
+|[[Golden (Knife)|Golden]]
+|<span style="color: #DB0106">N/A</span>
+|[[:Category:Knives|Knife]]
+|[[The Hunt: Roblox 20 Event]] - [[Retro Bundle]]
+[[Trading]]
+|[[File:Golden Knife Improved.webp|175x175px]]
+|-
+|[[Shadow (Gun)|Shadow]]
+|<span style="color: #DB0106">N/A</span>
+|[[:Category:Guns|Gun]]
+|[[The Hunt: Roblox 20 Event]] - [[Retro Bundle]]
+[[Trading]]
+|[[File:Shadow Gun.webp|175x175px]]
+|}
+
+==Trivia==
+*[[Cotton Candy]] is the only legendary weapon given for owning a badge from another game.
+
+==References==
+<references />
+[[Category:Legendary]]
+[[Category:Weapons]]
+[[Category:Knives]]
+[[Category:Guns]]

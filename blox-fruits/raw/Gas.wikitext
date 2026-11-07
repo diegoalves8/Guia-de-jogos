@@ -1,0 +1,398 @@
+{{Tabber V2
+|tab1 = Gas
+|tab2 = Hellfire
+}}
+{{CombosTab}}
+
+{{Blox Fruit Infobox
+|name   = Gas
+|image  = <gallery>
+Gas Fruit.png|Fruit Icon
+Gas gif.gif|Fruit GIF
+Gas.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Mythical
+|M1     = Yes
+|update = 24
+
+<!-- Fruit Price -->
+|money  = 3,200,000
+|robux  = 2,500
+}}
+
+{{Quote|Allows the user to exhale clouds of explosive gas and transform into a powerful gaseous knight.|Shop}}
+'''Gas''' is a {{Mythical}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|3,200,000}} or {{Robux|2,500}} from the [[Blox Fruit Dealer]].
+
+Gas allows the user to create, become, and manipulate concentrated and flammable gas, unleashing devastating attacks against unfortunate foes. Additionally, the user can even transform into a Gas-Depicted [https://en.wikipedia.org/wiki/Knight knight].[https://en.wikipedia.org/wiki/Knight#HeroSection]
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Gas Meter
+|meter    = Gas Meter.png
+|desc     = The user passively gains gas. Additionally, the user gains gas by dealing damage to any NPC/player. The user can transform when the gas meter is full. In the untransformed state, the user cannot lose any of their gas meter. However, in the transformed state, the user passively consumes gas, consumption increasing when taking damage or using any attacks including the [M1] attacks. The consumption also increases while walking on water. This passive feature is very similar to the [[Fury Meter]].
+}}
+
+{{Skill/Passive
+|name     = Elemental Reflex
+|file     = Gas Reflex.gif
+|desc     = The fruit user can turn themselves into purple gas and smog, thus being unable to be hurt by any physical attacks ([[Fighting Styles|fighting style]], [[sword]], [[gun]]) from players unless the attacks are imbued with [[Aura]]. Unlike other transformations, this passive also applies when transformed as a Gas Knight. Against [[NPCs]], this immunity applies only if the player is a certain level above them. This effect is only effective against non-boss enemies.
+}}
+
+{{Skill/Passive
+|name     = Condensed Vapor
+|file     = Gas Knight dashes.gif
+|file1    = Gas Knight Air Jumps.gif
+|desc     = When Transformed as a huge Gas Knight, the user receives a 50% damage reduction, a 33% speed increase, and double jump height, double dash distance, and double movement speed. The user also gains the ability to stand and walk on water, similar to awakened [[Buddha]]. Shown here dashing while transformed.
+|desc1    = Air jumping while transformed.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = GasFencing
+|desc     = The user manifests a sword of gas, then swings it left and right, creating pink, circular slashes. The third and fourth swings are flurries of gaseous strikes that damage and pull in enemies, and the cycle ends with a final blue, fiery blast that knocks the target away, leaving a black soot mark on the floor.
+}}
+
+{{Skill
+|key      = Z
+|name     = Suffocating Fumes
+|mastery  = 1
+|cooldown = 9
+|energy   = 25
+|break    = yes
+|instinct = The initial grab [[Instinct/Break|breaks Instinct]], but the slash afterwards can be dodged.
+|gif      = GasZUntransformedHit
+|desc     = The user dashes forward, amassing cylindrical purple fumes that deal minor damage. If the target is hit within the vicinity of the initial fumes, the user will hold on to and slash them violently with a sword (akin to that of the normal attack), piercing through them and dealing substantial damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Bursting Vapor
+|mastery  = 100
+|cooldown = 12
+|energy   = 50
+|break    = yes
+|instinct = The initial grab [[Instinct/Break|breaks Instinct]], but the burst can be dodged.
+|gif      = GasXUntransformedHit
+|desc     = The user summons rings of violet gas and vapor around them to form a rotating cage of gas, flinging the target aggressively within the range and simultaneously suffocating them. Then the gas rings combust, blasting the target away.
+}}
+
+{{Skill
+|key      = C
+|name     = Smog Demons
+|mastery  = 200
+|cooldown = 15
+|energy   = 75
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = UGasC
+|gif1     = GasUntransformedCVeryLong
+|desc     = When tapped, the user summons multiple smog demons with huge mouths and red tongues, before launching a small number of them towards their target quickly in two waves, dealing poison damage over time. The demons can auto aim to some extent.
+|desc1    = When held, more demons are summoned, dealing even more damage over a longer duration.
+}}
+
+{{Skill
+|key      = V
+|name     = Vapor Condensation
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|break    = yes
+|instinct = The spiral [[Instinct/Break|breaks Instinct]], but the burst can be dodged.
+|gif      = VaporConstruction
+|desc     = The user amasses violet gas around them into a spinning vortex as they turn into a gas knight, wielding a vapor sword, while pulling in any enemies nearby, similar to the [X] move. The transformed Gas user will have a ring of smog around them, as gas is released out of the user while transformed, draining the user's gas meter passively. The user also leaves behind bluish smog when dashing or sky jumping.
+}}
+
+{{Skill
+|key      = F
+|name     = Traveling Gas
+|mastery  = 50
+|cooldown = 8
+|energy   = 25
+|break    = no
+|instinct = [[Instinct/Break|Breaks Instinct]] when hit.
+|gif      = GasTravellingUntransformed
+|gif1     = GasFUntransformedHit
+|desc     = The user transforms their legs into gas and launches themselves in the air to fly. The move can be held to continue flying like normal.
+|desc1    = This move has a variant in a small time frame that can be activated if the user points their cursor at an enemy. The user will instead be launched at a high speed towards the target, damaging them upon impact and then reverting back to normal flight. This variant can be triggered and used only during the start of the flight, and also activates if there are any players nearby, even if the user can't attack that player.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = PhantomBlade
+|desc     = The user does a series of slashes from their sword that vary from left to right, and finally, they collect a huge amount of gas that combusts, launching the enemy very far away. Each slash drains a certain amount of Gas Meter, so aiming before hitting is recommended to preserve and regenerate the Gas Meter. This ability can infinitely stun enemies if the user brings them to a tall enough wall and runs backwards while spamming them. This also works on [[Terrorshark]]s, making it extremely effective in killing them.
+}}
+
+{{Skill
+|key      = Z
+|name     = Suffocating Fumes
+|mastery  = 1
+|cooldown = 10
+|energy   = 25
+|break    = yes
+|instinct = The fumes cannot be dodged at all, will [[Instinct/Break|break Instinct]] no matter what.
+|gif      = Suffocation Fumes Form
+|desc     = The user sets suffocating and combustible fumes onto a large area that will deal tick damage to those standing in the area, disabling dashing, jumping and abilities as the enemy is too busy being suffocated, slightly healing the user. This also disorients any victim's screen. When the user's cursor hovers over a very far away piece of land, the fumes can still land on that surface, indicating that this has a lot of range. This move can be used in the air, making it a good counter to slow moving [[Dragon]]s that will most likely stand still in the fumes trying to aim a move, and get their move canceled by the fumes, giving the user an opportunity to strike back with the [X] or [C] move.
+}}
+
+{{Skill
+|key      = X
+|name     = Bursting Vapor
+|mastery  = 100
+|cooldown = 12
+|energy   = 50
+|break    = yes
+|instinct = The explosion will [[Instinct/Break|break Instinct]] no matter what.
+|gif      = Busting Vapor Form
+|gif1     = Explosive Fumes
+|desc     = The user fires a huge beam of gas that combusts, quickly sweeping it to the left, causing a large explosion and thrashing the screen of anyone nearby, leaving behind a scorch mark on the floor. If the user uses this move in the air, they cannot hit enemies below or above them. Enemies that stand very close to the user can also dodge the explosion. When used in a tight space, the beam will bounce off the wall and overlap the area of the explosion it had just passed through.
+|desc1    = If the beam travels through the fumes of the {{Ability|Z}}, it will violently explode dealing extra AoE damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Smog Demons
+|mastery  = 200
+|cooldown = 15
+|energy   = 75
+|break    = no
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Smog Demons Form
+|gif1     = Held Smog Demons Form
+|desc     = When tapped, the user raises their sword, creating several smog demons before they plunge toward their cursor. The victim will also take damage over time if the move connects. This move functions almost exactly the same as the untransformed variation.
+|desc1    = When held, this move summons more smog demons, dealing even more damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Vapor Condensation
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|instinct = Doesn't deal damage.
+|gif      = Vapor Release
+|desc     = The user amasses a purple gas to engulf them while they return back to their original form, gaining the ability to use [[Fighting Styles]], [[Swords]] and [[Guns]]. The user also loses the ability to stand on water when this happens, so be careful when using this in the ocean.
+}}
+
+{{Skill
+|key      = F
+|name     = Traveling Gas
+|mastery  = 50
+|cooldown = 8
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Travelling Gas Form
+|desc     = The user propels themselves forward and pulls any nearby enemy to the front of their sword, before stabbing them violently, knocking them back a great distance while tinting the screen with a dark blue color.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Default
+|'''General'''
+* Good combo potential.
+* Great fruit for grinding as it has [[Elemental]] Reflex and has a good M1.
+* Pretty good for [[Sea Events]].
+* High DPS and damage.
+* Can hinder opponent visibility.
+* One of the most versatile fruits, excelling in PvP, grinding, sea events, etc.
+
+|'''[TAP] Normal Attack''' 
+* Drags enemies.
+** Can infinitely stun-lock enemies if well-timed.
+* Great for combos.
+* Can damage large objects.
+
+|'''[Z] Suffocating Fumes'''
+* Can hit multiple enemies.
+* Decent damage.
+* Good knockback.
+
+|'''[X] Bursting Vapor'''
+* Grabs enemies, preventing them from attacking.
+* Decent damage.
+* Other abilities can be used while channeling the explosion.
+* Pairs well with [[Cursed Dual Katana]] Held [Z] move.
+
+|'''[C] Smog Demons'''
+* Good range.
+* Auto-aims to nearest enemy if pointing at their direction.
+* Has tick damage that prevents abilities from being charged and drains [[instinct]].
+
+|'''[V] Vapor Condensation'''
+* Fast start-up.
+* Very useful against dangerous enemies like [[Piranha]]s as it can hold them a distance away from the user.
+
+|'''[F] Traveling Gas'''
+* Good damage.
+* Decent flight.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Default
+|'''General'''
+* Moves lack [[AoE]] and range (except for C).
+* Very expensive and difficult to obtain.
+* Bad mobility for travel between islands (slow flight and no speed buffs).
+* All the attacks can be easily instinct-tricked.
+
+|'''[TAP] Normal Attack'''
+* Hard to stand still while attacking.
+* High knockback
+
+|'''[Z] Suffocating Fumes'''
+* Hard to hit during fast paced combat.
+* Knockback can sometimes allow enemies to escape in PvP.
+
+|'''[X] Bursting Vapor'''
+* Short range.
+* Bad damage.
+* Unpredictable launch trajectory.
+
+|'''[C] Smog Demons'''
+* Must hold for more damage.
+
+|'''[V] Vapor Condensation'''
+* Meter takes a while to fully charge.
+* Low damage.
+
+|'''[F] Traveling Gas'''
+* Relatively slow.
+* Deals damage for a very short period, making it hard to land.
+* Low damage.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Can stand on [[water]].
+* Grants the user a really good defense bonus (50%).
+* Movement speed is pretty fast.
+* Enhanced jumps that allow the user to go higher.
+
+|'''[TAP] Normal Attack'''
+* High knockback.
+* Can damage large enemies/[[Sea Events]]. ([[Sea Beast]], [[Leviathan]], etc.)
+
+|'''[Z] Suffocating Fumes'''
+* High [[AoE]].
+* Ability stays on the ground for a few seconds which deals damage to those who walk into it.
+* Blurs the enemies screen, making it good for escaping.
+
+|'''[X] Bursting Vapor'''
+* Very large range and AoE.
+* Deals bonus damage when used after '''[Z] Suffocating Fumes'''.
+
+|'''[C] Smog Demons'''
+* High range.
+* Applies tick damage to the target which prevents abilities from being charged, drains Instinct, and slows movement.
+* Slightly shorter charge time to reach max damage than the untransformed version.
+* Projectiles attack enemies in the vicinity of the area.
+
+|'''[F] Traveling Gas'''
+* Decent damage.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Its large size might make it hard to see opponents when fighting and makes the user easy to hit.
+* It has a lot of particles which can cause lag on old or weak devices.
+* Drains the meter rapidly, and drains passively even if the user isn't actively using the moves.
+
+|'''[TAP] Normal Attack'''
+* Mediocre hitbox.
+* High knockback on the last hit.
+* Very low damage compared to other fruit M1's.
+
+|'''[Z] Suffocating Fumes'''
+* Low lingering [[AoE]] damage.
+
+|'''[X] Bursting Vapor'''
+* Hard to hit enemies from behind the user.
+
+|'''[C] Smog Demons'''
+* Must hold for more damage
+
+|'''[F] Traveling Gas.'''
+* High knockback.
+* Doesn't break Instinct.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Gas Passive Looks.gif|User's passive appearance.
+File:GasTransformedIdle.gif|Transformed Gas's Idle.
+File:Gas Base Sword.gif|The untransformed Gas sword.
+File:Smog Demon base.png|Smog Demon (untransformed)
+File:Smog Demon Transformed.png|Smog Demon (transformed)
+File:Gas Knight sword.gif|The transformed Gas sword.
+File:Gas (transformed) holding a physical Gas fruit.png|Gas (transformed) holding a physical Gas fruit
+</gallery>
+
+==Trivia==
+* Gas has been nominated to be added to the game since [[Update 13]].
+* Gas is the most expensive [[Elemental]] fruit in the game as of [[Update 24]]
+* Gas is the first [[Elemental]] fruit to have a [[Mutations|mutation]] in Blox Fruits, being [[Hellfire]].
+* Gas' Elemental Immunity SFX is the same as [[Smoke]]'s Elemental Immunity SFX.
+* {{Ability|Gas|X}} is locked at the players location, meaning it follows the player for the move's duration. 
+* Gas is the first and only [[Elemental]] fruit that has a transformation.
+** Gas is also the fourth non-beast type fruit to have a transformation, the others being [[Venom]], [[Rubber]], and [[Diamond]].
+* Gas is the second [[Mythical]] fruit that is Elemental, the first one being [[Dough]].
+* {{Ability|Gas|F}} has the capability to cancel [[Light]]'s {{Ability|Light|F}} move.
+* Gas can infinitely stun [[Terrorshark]]s and other difficult [[bosses]] such as [[Cake Queen]] with its M1s, though a corner is needed for this to work on normal bosses and NPCs.
+* Gas is regarded as one of the best fruits for [[Raids]], though the M1 for this fruit will severely slow down a [[Raids|Raid]] if not used correctly.
+* It takes 5 minutes and 30 seconds to fill the Gas Meter without doing any damage.
+** Using the [[Kitsune Mask]], this can be reduced down to 3 minutes and 12 seconds, making it extremely useful if the user transforms often.
+* Gas's transformation lasts for 10 minutes (a full [[Nychthemeron|day cycle]]) if the user did not deal any damage to other enemies/players.
+* Gas is one of the three [[Elemental]] fruits to not have an [[Raids|awakening]], along with [[Smoke]] and [[Blizzard]].
+* When used {{Ability|Gas|C}} untransformed move against a [[Sea Beast]], they heat seek to the bottom of it, indicating that right below the water in the area below its chin is its main hitbox, explaining why they cannot be hit when they are about to dive.
+* Gas is the only [[Elemental]] fruit to have a [[Power Meter]]. The Gas meter is equivalent to [[Kitsune]]'s Tail meter in terms of how long it takes to fill up, which is about 3 normal fury meters. 
+* Gas is incredibly fast in its transformation, capable of even outrunning a Transformed [[Kitsune]] if [[Dashing|dash]]<nowiki/>[[Dashing|ing]].
+
+== Change History ==
+{{Change History|24|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+*{{Arrow|buff}} The Transformed C move now deals 30% increased damage, with a 30% lower charging time.
+*{{Arrow|buff}} The hitbox size of the transformed version of {{Ability|Z}} has been increased by 15%.
+
+|-|29=
+{{Update|29}}
+* {{Arrow|nerf}} The transformed version of {{Ability|X}} can no longer penetrate walls or buildings.
+
+|-|26.8=
+{{Update|26.8}}
+* {{Arrow|buff}} The Gas Meter gain was increased by 25%.
+* {{Arrow|buff}} The transformed version of {{Ability|TAP}}'s hitbox size was increased by 15%.
+* {{Arrow|buff}} The damage reduction while transformed was increased from 42.5% to 50%.
+
+|-|24=
+{{Update|24}}
+* Gas was released.
+</tabber>
+}}
+
+== Navigation ==
+{{Blox Fruit Navbox}}
+[[Category:Transformation-based Fruits]]
+[[Category:Over $3 million]]
+[[ru:Газ]]

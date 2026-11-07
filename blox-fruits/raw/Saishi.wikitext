@@ -1,0 +1,140 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name     = Saishi
+|image    = <gallery>
+Saishi.png|Icon
+Saishi EQ.png|In-Game
+Saishi Held.png|Held
+Saishi Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type     = Sword
+|rarity   = Legendary
+|update   = 8
+
+<!-- Weapon Obtainment -->
+|sea      = 2
+|obtain   = Buy from
+|source   = [[Legendary Sword Dealer]]
+|price    = {{Money|2,000,000}}
+}}
+{{Quote|One of the three Legendary Swords, infused with gold.|Item}}
+'''Saishi''' (formerly known as '''Saddi''') is a {{Legendary}} [[sword]].
+
+Saishi is arguably one of the best swords in the [[Second Sea]], due to its speed, damage, and rare ability among swords to stun even [[Blade]] users.
+
+It is recommended to swap swords when the player reaches [[Third Sea]] however, due to there being far better options. Even still, it is still seen in builds, especially with [[Dragon Talon]].
+
+==Obtainment==
+{{Main|Legendary Sword Dealer}}
+Saishi can be bought at the price of {{Money|2,000,000}} from the [[Legendary Sword Dealer]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = Saishi_TAP
+|desc     = The user performs 3 slashes, ending with a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Swords Dance
+|mastery  = 150
+|cooldown = 8
+|energy   = 20
+|break    = Yes
+|instinct = The initial grab breaks Instinct, but the slashes can be dodged.
+|gif      = Saishi_Z
+|desc     = The user dashes forward, leaving behind a golden trail. When in contact with an enemy, the user performs multiple vertical slashes before launching them upwards.
+}}
+
+{{Skill
+|key      = X
+|name     = True Air Slash
+|mastery  = 300
+|cooldown = 13
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Saishi_X
+|desc     = The user launches a large, golden air slash in the direction of their cursor, which damages and pushes back enemies hit by it.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Great damage.
+* A somewhat large hitbox.
+* Great combo potential.
+* Fast moves with low endlag.
+* Fast M1, making it good for raids and grinding.
+* All moves can hit [[Sea Beast]]s.
+* Long range moves.
+* Good AoE.
+
+|'''[Z] Swords Dance'''
+* Fast mobility move.
+* Good for PvP on water (If the user does not use [[Shark]]).
+* Can grab the target(s) regardless of if they have [[Instinct]] or not.
+* Decent knockback.
+* Great cooldown.
+* One of the few moves which can stun [[Blade]] users, along with [[Rengoku]].
+
+|'''[X] True Air Slash'''
+* Long range.
+* Decent knockback.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot deal damage to [[Blade]] users, but {{Ability|Z}} can stun them.
+* Dashes on the fourth swing, making it harder to farm with.
+* Both skills can be dodged with [[Instinct]].
+* High mastery requirements for players below [[Third Sea]].
+
+|'''[Z] Swords Dance'''
+* Travel distance is very short, requiring it to land if the target is close.
+* Easy to [[Instinct]] trick.
+
+|'''[X] True Air Slash'''
+* Easy to dodge.
+}}
+</tabber>
+
+==Trivia==
+* Saishi, along with [[Shizu]] and [[Oroshi]] are required (and with 300 [[mastery]] on each respectively) to obtain the [[True Triple Katana]].
+* The user can grab [[Love]]'s {{Ability|Love|V}} with {{Ability|Z}}.
+* Saishi is debated to be the best [[sword]] in the [[Second Sea]], with its main competitors being [[Rengoku]], [[Dragon Trident]], and [[Midnight Blade]].
+* {{Ability|Z}} will lock the user in place for a second after dealing damage to big targets such as [[Sea Beast]]s.
+* {{Ability|Z}} and {{Ability|X}} deal the same amount of damage. (Only if {{Ability|Z}} is used close to the target)
+* Saishi and the other [[True Triple Katana]] [[Swords]] were once had different names Saishi/Saddi.
+<gallery>
+File:Golden strength.gif|Yellow gold fused effects swirling around the user while holding '''[X] True Air Slash'''.
+</gallery>
+
+==Change History==
+{{Change History|8|content=
+{{Update|24}}
+* Saddi was remodeled and renamed to Saishi.
+<gallery>
+Saddi.png|Saishi's old model
+</gallery>
+----
+{{Update|20}}
+* Saddi's moves were reworked.
+----
+{{Update|8}}
+* Saddi was released.
+}}
+
+==Navigation==
+{{Legendary Sword Navbox}}
+{{Sword Navbox}}

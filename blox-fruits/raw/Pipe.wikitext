@@ -1,0 +1,132 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Pipe
+|image     = <gallery>
+Pipe.png|Icon
+Pipeequipped.png|In-Game
+Pipe Held.png|Held
+Pipe (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Frozen Village
+|obtain    = Bought
+|source    = [[Sword Dealer of the East]]
+|price     = {{Money|100,000}}
+}}
+{{Quote|Seems to have been broken off some boat. Is it worth it?|Item}}
+The '''Pipe''' is a {{Rare}} [[sword]].
+
+Despite being available in the [[First Sea]], Pipe is surprisingly fun to use in PvP, mostly used for trolling. 
+
+==Obtainment==
+The Pipe can be bought at the cost of {{Money|100,000}} from the [[Sword Dealer of the East]], who is located at the [[Frozen Village]] in the [[First Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Pipe M1
+|desc     = The player swings 3 times, ending with a sweep.
+}}
+
+{{Skill
+|key      = Z
+|name     = Pipe Ignition
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Pipe Z
+|desc     = This attack has two variants:
+* If it hits:
+** The user does short and swift dash towards the enemy. Upon contact, the user stuns the enemy before gathering flames in the shape of a dragon head and creating an explosion, dealing damage and releasing embers.
+
+* If it does not hit:
+** The user does a short and swift dash before expelling embers that deal low damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Dragon Blast
+|mastery  = 50
+|cooldown = 10.5
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = DragonsBlast
+|desc     = The user shoots a small dragon-like blast of flame towards where their cursor is. Any enemy caught in the projectile will be dragged with it. When it reaches its cursor's point or goes far enough, it explodes and releases a fiery burst similar to awakened [[Flame|Flame X]], causing burn damage to those that are in it.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Decent damage.
+* Good in PvP.
+* All moves can hit multiple targets at the same time.
+* Low mastery requirements.
+
+|'''[Z] Pipe Ignition'''
+* Fast mobility move.
+* Semi-Decent combo potential.
+
+|'''[X] Dragon Blast'''
+* Long range.
+* Effective for farming.
+* Can hit multiple enemies.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Slow M1's speed.
+* All moves knockback.
+* Cannot break instinct in all moves.
+
+|'''[Z] Pipe Ignition'''
+* Easy to dodge.
+* Short distance.
+
+|'''[X] Dragon Blast'''
+* Useless in air.
+* Can be dodged.
+}}
+</tabber>
+
+==Trivia==
+* Even though the Pipe is a [[sword]], its shape and name have no sword-like characteristics at all.
+* '''[X] Earth Smash''' (old move) was similar to [[Iron Mace]]'s [X] ability.
+* The Pipe's model prior to [[Updates/24|Update 24]] was an actual pipe. The name for the weapon after the update had remained unchanged which makes the item description make no sense, despite its updated appearance. This can be confusing for new players who are unfamiliar with the old Pipe model.
+* The Pipe has a similar moveset to [[Dragon Talon]], as {{Ability|Z}} and {{Ability|X}} are similar to Dragon Talon's {{Ability|Dragon Talon|Z}} and {{Ability|Dragon Talon|X}}, respectively.
+* {{Ability|X}} sounds similar to that of [[Sound]]'s [Z] Move, {{Ability|Sound|Z}}.
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Pipe's model was reworked.
+<gallery>
+Pipe Icon (Old).png|Old Pipe model
+</gallery>
+----
+{{Update|20}}
+* Pipe was reworked.
+----
+{{Update|1}}
+* Pipe was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

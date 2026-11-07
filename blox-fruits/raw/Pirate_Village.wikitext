@@ -1,0 +1,90 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Pirate Village
+|image      = Pirate Village 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 30-60
+|music      = Intensity (b)
+|prev       = Jungle
+|next       = Desert
+}}
+The '''Pirate Village''' is an island west of [[Middle Town]] that hosts quests for players [[Levels]] 30 to 60.
+
+==Appearance==
+The Pirate Village is divided into two main sections: the village and the surrounding wilderness. The village area is paved with cobblestone and features several multicolored houses, including a purple-roofed mansion with a flag. The wilderness area is characterized by jagged rocks, grassy terrain, and sparsely placed [[trees]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Sword Dealer of the West]]
+* [[Rich Man]]
+* [[Dark Step Teacher]]
+* [[Blacksmith]]
+* [[Home Points]]
+* [[Pirate Recruiter]]
+|
+* [[Pirate]]
+* [[Brute]]
+|
+* [[Chef]]
+|}
+
+== Quests ==
+{| class="fandom-table"
+|+
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" |[[Pirate Adventurer]]
+|[[Pirates]]
+|30
+|Defeat 8 [[Pirate|Pirates]]
+|{{Money|3,000}}
+
+{{EXP|13,000}}
+|-
+|[[Brute]]
+|40
+|Defeat 8 [[Brute|Brutes]]
+| {{Money|3,500}}
+{{EXP|22,000}}
+|-
+|[[Chef]]
+|55
+|Defeat [[Chef]]
+| {{Money|8,000}}
+{{EXP|45,000}}
+|}
+
+== Secret Quests ==
+
+* The windmill near the middle of the island has 5 ropes attached to the blades. Cut the 5 ropes with any sword M1 to free the windmill.
+* After waiting an unspecified amount of time at Pirate Village, a message will appear in chat saying: '''[[System Messages|''"Trouble has broken out at the tavern!"'']]'''  Breach the tavern door, there will be 3 [[Tavern Pirate|Tavern Pirates]] causing trouble in the bottom floor of the tavern where [[Chef]] spawns. Defeating them will have the Tavern Owner thank and give the player a weird brew.  After completing the quest, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) threw the punks out of the tavern!"'']]'''
+* When [[Chef]] awakens, a message will appear in chat saying:  '''[[System Messages|''"A curious smell is brewing from the Chef's kitchen at Pirate Village."'']]'''  Go to the second floor of the tavern and find the cauldron. Place the materials into the cauldron and the boss sequence will start.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) served the awakened Chef his last meal!"'']]'''
+
+== Chest Locations ==
+There are three [[Chests|Gold Chests]] and one [[Chests|Diamond Chest]]. The [[Chests|Gold Chest]] is near the [[Rich Man]], the other [[Chests|Gold Chest]] is in [[Chef]]'s house, the last [[Chests|Gold Chest]] is above the [[Set Home Point]] NPC which is the bridge, and the [[Chests|Diamond Chest]] is on the arch at the entrance to the island, being obstructed by boxes.
+
+==Port==
+The port of the Pirate Village is a medium-sized port with two docks meant to accommodate players of level 30-60. The port is able to handle two ships at a time. The port is located on the southern end of the island.
+
+==Trivia==
+* Most players in [[First Sea]] often go chest hunting on Pirate Village due to the amount of [[chests]] that can be found there.
+* All of the enemies use [[swords]], so it is recommended to use [[Blade]] because of its sword immunity.
+** A great alternative is any [[elemental]] fruit, like [[Smoke]], [[Ice]], [[Flame]], [[Dark]], [[Light]], or [[Magma]] due to their simple obtainability and AoE skills.
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{IslandNavigation}}

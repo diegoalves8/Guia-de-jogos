@@ -1,0 +1,247 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Tree hugger|PrestigeTitle = With love|Rarity = Mythic|Class = Artillery|MovementSpeed = 750 (Normal)|GadgetCharges = 3|HealthLabel = Health|Health = 3200|AttackRange = 5 (throw; Normal)<br>8.33 (after landing; Long)|Reload = 1.5 seconds (Normal)|AttackSuperCharge = 24.2%<br>26.6% (with Super Charge Gear)|AttackLabel = Damage|Attack = 1100|SuperRange = 7.67 (Long)|AttackSpeed=1700|AttackWidth=1.01|SuperSpeed=1739|SuperDuration=10 seconds|Gadget1Name=Garden Mulcher|Gadget1=1536|Gadget1Label=Heal|Gadget1Cooldown=9 seconds|Gadget2Name=Transplant|Gadget2Cooldown=15 seconds|VoiceActor=Martin Schjøler|Previous=Mr. P|Next=Lou|HyperchargeMultiplier=40%|SuperSuperCharge=12.5% (with Hypercharge)|AttackHyperchargeCharge=9.675%<br>10.625% (with Super Charge Gear)|SuperHyperchargeCharge=5% (with Hypercharge)}}
+{{Quote|Sprout appears to be a cute gardening robot who helps [[Rosa]] around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!}}
+{{Portrait}}
+Sprout is a {{Rarity|Mythic}} [[Brawler]] with moderately low health and reload speed, a variable attack range, and a moderate damage output, but immense utility with its Super. It was the 35th Brawler added to the game. It attacks by lobbing a seed bomb over obstacles that bounces on the ground and off walls. The bomb explodes on contact with enemies or after a brief period of time, dealing area damage. For its Super, Sprout throws a Super Seed, creating a temporary wall-like barrier when it lands. Its first Gadget, Garden Mulcher, makes Sprout consume a nearby bush tile and moderately heal from its consumption. Sprout's second Gadget, Transplant, destroys all active hedges from its Super to get its Super fully charged again. Its first Star Power, Overgrowth, periodically increases the blast radius of its attack. Its second Star Power, Photosynthesis, grants it a damage-reducing shield while inside a bush and for a brief time after leaving one. Its Hypercharge, Thorns, allows its Super to damage enemies.
+
+==Attack: Seed Bomb==
+{{Quote|Sprout propels a ball of seeds that bounces around before bursting with a bang! If it makes contact with enemies, it explodes on impact.}}Sprout lobs a ball of seeds over obstacles and enemies in its path that explodes upon contact with an enemy. If it doesn't immediately hit an enemy, it will travel for 3.33 tiles before exploding in an area with a 2-tile radius. The bomb will also bounce off walls, increasing its range by 1.67 tiles, similarly to [[Rico]]'s and [[Ruffs]]' attack. It takes the same amount of time for an attack to land regardless of the distance from Sprout.
+
+==Super: Hedge==
+{{Quote|Sprout uses its Super Seed to grow a thick vine hedge, creating an impassable though temporary obstacle.}}Sprout throws its Super Seed above obstacles that creates a hedge barrier. The barrier is composed of 5 wall tiles arranged in a plus sign shape and blocks enemies' and allies' paths, as well as destroying any bushes it lands on. However, if there are walls at most one tile away adjacent to where the seed was planted, the hedge will grow towards them and connect with the walls. This also applies to another of Sprout's walls and water. As with any other wall, the hedge can be destroyed by wall-breaking abilities and do not hinder lobbed projectiles. These hedges can also be destroyed on contact by Brawlers with spawning invulnerability shields.
+
+The hedges can last for a maximum of 10 seconds, and more than one hedge can be active at a time. If any entity is in the way of the hedges when spawned, they will be pushed out of the way, which also interrupts attacks or Supers (i.e. [[Frank]]'s attack and [[Meg]]'s Super) when the hedge lands. Unlike the walls spawned from [[Meeple]] or [[Damian]]'s Gadgets, these walls will be destroyed upon reaching overtime in [[Brawl Ball]]. 
+
+==Gadgets==
+===Garden Mulcher===
+{{Quote|Sprout consumes a bush to restore 1920 health. Cooldown: 9 seconds.}}{{Gadget|1}}
+Upon activation, if a bush is within 1 tile of Sprout, it gets destroyed to heal Sprout for 30% of its max health.
+
+===Transplant===
+{{Quote|Sprout destroys its current Hedge, but will instantly have its Super fully charged again. Cooldown: 15 seconds.}}{{Gadget|2}}
+Sprout instantly destroys all of its active hedges, but Sprout will have its Super charged fully again. 
+
+==Star Powers==
+===Overgrowth===
+{{Quote|Every 5 seconds, the next Seed Bomb will explode with a larger explosion radius.}}{{StarPower|1}}
+Sprout gains a charge bar that takes 5 seconds to fully charge up, and when charged the next attack's radius increases by 25%, increasing the explosion radius from 2 tiles to 2.5 tiles. After the attack is used, Sprout's charge bar resets. Unlike most other charging bars, Sprout's Overgrowth's bar starts charging immediately after its last use, and does not require all three ammo to charge, similar to [[Byron]]'s Injection Star Power's charging bar mechanics.
+
+===Photosynthesis===
+{{Quote|Sprout activates a shield, partially protecting itself from all attacks while inside a bush.}}{{StarPower|2}}
+While in a bush, Sprout shields itself from all damage by 30%. After exiting the bush, the shield lasts for another 3 seconds.
+
+==Hypercharge: Thorns==
+{{Quote|Sprout's vine hedge now damages nearby enemies.}}{{Hypercharge}}
+When activated, each tile of Sprout's Super deals 500 damage per second to enemies in a 2.67-tile wide circle for 10 seconds. Accounting for the hitbox of the wall, the damage zone extends at most 0.83 tiles away from the edge of a wall tile. The damage from each wall tile can stack. The damage area remains on the ground for the whole duration even if the hedges are destroyed or Sprout's Transplant Gadget is used. Sprout also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Sprout throws an additional Seed Bomb with each attack.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>With this Mutation, Sprout threw two Seed Bombs in quick succession with its main attack instead of one Seed Bomb. Its Overgrowth Star Power only affected the first Seed Bomb.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attack deals Area Damage with every bounce!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Sprout's main attack dealt damage after every bounce.
+
+==Tips==
+===Game Modes and Maps===
+*Sprout can prevent enemies from escaping the poison clouds with its Super in [[Showdown]]/[[Duo Showdown]], potentially knocking enemies out, and Sprout can increase the damage by attacking while the enemy can't provide counter fire. This is especially useful in [[Cavern Churn]] and other maps with an abundance of walls.
+*Sprout's walls can be used to block the ball from being shot into the goal in [[Brawl Ball]]. Paired with Transplant, Hedge can become an almost-permanent barrier. However, be wary that Hedge can be destroyed with invulnerability shields, so Sprout and its teammates should avoid running into the barrier in an attempt to defend the goal.
+*Despite his decent survivability, his lack of area control from the narrow attack makes him a poor choice in [[Hot Zone]]. Hedge does not have enough area to block a zone, and his low damage makes him an easy target from low-range Brawlers. As such, it is better to seek for other alternatives for an Artillery Brawler, such as [[Barley]], [[Grom]], [[Larry & Lawrie|Larry]], [[Dynamike]], or [[Berry]].
+
+===Recommended Build===
+*Sprout is viable in maps with a lot of bushes when its Garden Mulcher Gadget and Photosynthesis Star Power equipped, as these both make Sprout hard to defeat. As long as there is a decent amount of walls to hide behind, this shouldn't be too risky as long as ambushers are watched out for.
+*Sprout's Transplant Gadget can help it in weekend modes like [[Robo Rumble]] or [[Last Stand]] to quickly block wall cavities and hinder the bots' advance from attacking the safe or 8-Bit momentarily, especially if these targets are in places of the map with tightly packed walls, protecting them for a decent amount of time.
+
+===Strategies===
+*Aiming the Seed Bombs against walls can also help in close-range interactions. By bouncing the Seed Bombs against walls, the Seed Bombs will bounce back in Sprout's direction, effectively landing a hit on enemies close by. This strategy is effective with the Photosynthesis Starpower, allowing Sprout to tank shots while hitting enemies.
+
+===Other===
+*Sprout's Seed Bombs have a delay while in the air and can bounce uncontrollably. As a result, it's difficult for Sprout to attack enemies that are close to it unless nearby walls are used to assist them, which will allow Sprout's attacks to reach enemies easier. However, Sprout has greater damage potential at longer ranges because the attack bounces, in which hitting enemies is easier due to the range increase from the bouncing. Because of this, you can auto-aim with Sprout unlike other throwers as the attack can bounce on the ground and off walls.
+*Sprout's Seed Bombs' range increases from each bounce before exploding, just like Rico's projectiles. So, it's recommended to aim them diagonally towards walls to increase Sprout's range.
+*Sprout's Super is effective at blocking off vital choke points and essential areas, effectively leaving only one or two passages for enemies to pass through in many situations. This causes them to group together, allowing for an effective team wipe, especially with area attackers on your team such as [[Penny]], [[Brock]], [[Emz]], Barley, [[Carl]], or [[Mr. P]].
+*In maps with very narrow choke-points like [[G.G. Mortuary]] in [[Heist]] and [[Split]] in [[Hot Zone]], Sprout can use its Hedge along with its Transplant Gadget to almost permanently block those routes, preventing the enemies from reaching the important area.
+*Sprout's attack radius can damage multiple enemies, especially if it has its Overgrowth Star Power equipped. Hitting multiple opponents charges its Super faster and deals a lot more damage, despite Sprout's moderately low damage output, so always take advantage of the situation if enemies group together.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Sprout start vo 01.ogg|Filedescription = "Nature."}}
+|{{Ogg|Filename = Sprout lead vo 01.ogg|Filedescription = "Job done. Have a nice day."}}
+|{{Ogg|Filename = Sprout hurt vo 01.ogg|Filedescription = "Obstruction."}}
+|{{Ogg|Filename = Sprout kill vo 01.ogg|Filedescription = "Fertilizing."}}
+|{{Ogg|Filename = Sprout die vo 01.ogg|Filedescription = "Returning to dock."}}
+|
+|{{Ogg|Filename = Sprout ulti vo 01.ogg|Filedescription = "Planting."}}
+|-
+|{{Ogg|Filename = Sprout start vo 02.ogg|Filedescription = "I like trees."}}
+|{{Ogg|Filename = Sprout lead vo 02.ogg|Filedescription = Melody plays}}
+|{{Ogg|Filename = Sprout hurt vo 02.ogg|Filedescription = "Error."}}
+|{{Ogg|Filename = Sprout kill vo 02.ogg|Filedescription = "Task. Completed."}}
+|{{Ogg|Filename = Sprout die vo 02.ogg|Filedescription = "Programming error."}}
+|
+|{{Ogg|Filename = Sprout ulti vo 02.ogg|Filedescription = "Flower."}}
+|-
+|{{Ogg|Filename = Sprout start vo 03.ogg|Filedescription = "Hello."}}
+|{{Ogg|Filename = Sprout lead vo 03.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout hurt vo 03.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout kill vo 03.ogg|Filedescription = "Path. Cleared."}}
+|{{Ogg|Filename = Sprout die vo 03.ogg|Filedescription = Speaker plays}}
+|
+|{{Ogg|Filename = Sprout ulti vo 03.ogg|Filedescription = "Commencing assignment."}}
+|-
+|{{Ogg|Filename = Sprout start vo 04.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout lead vo 04.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout hurt vo 04.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout kill vo 04.ogg|Filedescription = Melody plays}}
+|{{Ogg|Filename = Sprout die vo 04.ogg|Filedescription = Speaker plays}}
+|
+|{{Ogg|Filename = Sprout ulti vo 04.ogg|Filedescription = Speaker plays}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Sprout kill vo 05.ogg|Filedescription = Speaker plays}}
+|{{Ogg|Filename = Sprout die vo 05.ogg|Filedescription = Speaker plays}}
+|
+|
+|}
+
+==History==
+*03/04/20:
+**{{Balance|Content=Sprout became available to play in the [[Training Cave]].|Change=Neutral}}
+*10/04/20:
+**{{Balance|Content=Sprout became available to play in matches.|Change=Neutral}}
+*15/04/20:
+**{{Balance|Content=Brawlers with invulnerability shields can now destroy Sprout's hedges.|Change=Nerf}}
+**{{Balance|Content=Sprout's Garden Mulcher Gadget healing was decreased to 2000 (from 3000).|Change=Nerf}}
+**{{Balance|Content=Sprout's Overgrowth Star Power explosion radius increase was decreased to 0.5 tiles (from 1 tile).|Change=Nerf}}
+*22/04/20:
+**{{Balance|Content=Sprout's Photosynthesis Star Power was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Sprout's main attack damage was decreased to 940 (from 1000).|Change=Nerf}}
+*22/05/20:
+**{{Balance|Content=The Tropical Sprout skin was added.|Change=Neutral}}
+*02/07/20:
+**{{Balance|Content=Sprout's Overgrowth Star Power now applies to any attack (from only affecting attacks that do not directly hit a target).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Sprout's Super was increased to 5 (from 4).|Change=Nerf}}
+**{{Balance|Content=Sprout's Overgrowth Star Power now takes 5 seconds to charge.|Change=Nerf}}
+*10/09/20:
+**{{Balance|Content=Sprout and Tropical Sprout winning animation was reworked.|Change=Neutral}}
+*28/09/20:
+**{{Balance|Content=The Lunar Sprout skin was added.|Change=Neutral}}
+*13/11/20:
+**{{Balance|Content=Sprout's Transplant Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Sprout was given an attack landing indicator (X).|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Sprout's main attack damage was increased to 1020 (from 940).|Change=Buff}}
+*07/02/21:
+**{{Balance|Content=Fixed an issue with Sprout's Super related to [[Brawl Ball]].|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Sprout's Super being able to knock back boxes in [[Showdown]].|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Sprout's main attack damage was decreased to 980 (from 1020).|Change=Nerf}}
+**{{Balance|Content=Sprout's Garden Mulcher Gadget healing was decreased to 1500 (from 2000).|Change=Nerf}}
+*01/10/21:
+**{{Balance|Content=Sprout's Emerald Prince and Ruby Prince skins were added.|Change=Neutral}}
+*03/11/21:
+**{{Balance|Content=Fixed a bug where Sprout's Super could destroy spike tiles when it landed.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Sprout's True Silver and True Gold skins were added.|Change=Neutral}}
+*17/03/22:
+**{{Balance|Content=The Corrupted Sprout skin was added. It was featured as a Biodome skin.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Sprout's Super charge rate was increased by approximately 12%.|Change=Buff}}
+*28/02/23:
+**{{Balance|Content=Sprout's class was changed to Artillery (from Support).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Sprout's Garden Mulcher Gadget healing was decreased to 1440 (from 1500) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Sprout's flavor text was changed from "Sprout was built to plant life, launching bouncy Seed Bombs with reckless love. Its Super creates a plant-based obstacle!" to "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!"|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Sprout's Thorns Hypercharge was added.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Sprout's Mutation was added for a limited time.|Change=Neutral}}
+*03/05/24:
+**{{Balance|Content=Sprout can no longer trap [[Godzilla City Smash|Godzilla]] with its Super.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Sprout's Mutation was removed from the game.|Change=Neutral}}
+*03/08/24:
+**{{Balance|Content=The Aquamarine Sprout skin was added. It was featured as a Deep Sea League skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Sprout's main attack damage was increased to 1040 (from 980).|Change=Buff}}
+*29/08/24:
+**{{Balance|Content=Fixed an issue with Sprout's Super not charging at the correct rate.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=The Tanuki Sprout skin was added. It was featured as a Battle for Katana Kingdom skin.|Change=Neutral}}
+**{{Balance|Content=Sprout's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Sprout's Wasabi Power was removed from the game.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Sprout's Thorns Hypercharge speed boost from 26%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Sprout's Thorns Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Sprout's health was increased to 3200 (from 3000).}}
+**{{Balance|Buff|Sprout's Garden Mulcher healing was increased to 1536 (from 1440).}}
+*30/06/26:
+**{{Balance|Buff|Sprout's reload time was decreased to 1.5 seconds (from 1.7).}}
+**{{Balance|Buff|Sprout's main attack damage was increased to 1100 (from 1040).}}
+**{{Balance|Neutral|Sprout, Corrupted Sprout, and its True Silver and True Gold skins were remodeled.}}
+*06/08/26:
+**{{Balance|Neutral|The Energized Sprout skin was added. It was featured as a Windstock skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Sprout's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1 = Tropical|Cost1 = Free from Pierce Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Summer of Brawl|Rarity1=Rare
+|Name2 = Emerald Prince|Cost2 = 79 Gems|Campaign2=Once Upon|Rarity2=Super Rare
+|Name3 = Ruby Prince|Cost3 = 79 Gems|Campaign3=Once Upon|Rarity3=Super Rare
+|Name4 = Corrupted|Cost4 = Free from Strangest Packs, Glowbert Boxes and Wendy Boxes, or 79 Gems|Campaign4=Biodome|Rarity4=Super Rare
+|Name5 = Lunar|Cost5=149 Gems|Campaign5=Lunar Stories|Rarity5=Epic
+|Name6 = Aquamarine|Cost6=Free from Smoothie Drops 149 Gems|Campaign6=Deep Sea League|Rarity6=Epic
+|Name7 = Tanuki|Cost7=Free from Sushi Rolls or 149 Gems • '''S'''|Campaign7=Battle for Katana Kingdom|Rarity7=Epic
+|Name8 = Energized|Cost8=Free from Smoothie Drops or 199 Gems|Campaign8=Windstock|Rarity8=Mythic
+|TrueSkins = Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Sprout
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Emerald Prince}}
+{{Pin Table|Ruby Prince}}
+{{Pin Table|Corrupted|GG}}
+{{Pin Table|Lunar|Thanks}}
+{{Pin Table|Aquamarine|Thanks}}
+{{Pin Table|Tanuki}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Sprout|Rarity = Common}}
+|{{Spray|Type = Sprout Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Sprout1}}
+|{{Pfp|Sprout2}}
+|{{Pfp|Sprout3}}
+|{{Pfp|Sprout4}}
+|{{Pfp|Lunar Sprout}}
+|-
+|{{Pfp|Aquamarine Sprout}}
+|{{Pfp|Tanuki Sprout}}
+|}
+
+{{Navigation}}
+[[ru:Спраут]]
+[[pl:Kiełek]]

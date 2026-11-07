@@ -1,0 +1,266 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Strung Up|PrestigeTitle = Ballerina|Rarity = Mythic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>1154 (with attack)|HealthLabel = Health|Health = 4100|AttackRange = 2.33 (Short)|Reload = 0.22 seconds (2.2 seconds max; Very Fast)|AttackSuperCharge =11.25%<br>14.625% (with Plié Protection)|AttackLabel = Damage|Attack = 600|AttackBullets=10 (full ammo bar)|SuperRange = 7.33 (Long)|SuperSuperCharge =43.55%<br>56.6% (with Plié Protection)|SuperLabel = Returning damage|Super = 1300|SuperDuration =3 seconds |Gadget1Name=Longer Strings|Gadget1Cooldown=18 seconds|Gadget2Name=Disappearing Act|Gadget2Cooldown=15 seconds|StarPower2Name=A Helping Hand|StarPower2=2160|StarPower2Label=Heal|VoiceActor=Katarina Kikta |Previous=Ziggy|Next=Glowy|Gadget1Duration=4 seconds|Gadget2Duration=3 seconds|HyperchargeMultiplier=35%|AttackHyperchargeCharge=3.925%<br>5.1% (with Plié Protection)|SuperHyperchargeCharge=15.225%<br>19.8% (with Plié Protection)}}
+{{Quote|A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the [[Oddities Shop]], dancing between the bookshelves.}}{{Portrait}}
+Gigi is a {{Rarity|Mythic}} [[Brawler]] who has a short range, moderate health, a consistently high damage output, a very fast movement speed, and an extremely fast reload speed. She was the 97th Brawler added to the game. Her Trait allows her to passively charge her Super if an enemy Brawler's projectile is within a radius of her. For her attack, Gigi is momentarily sent into a continuous crazy spin, increasing movement speed and allowing her to damage enemies she gets close to for its duration. For her Super, she teleports to a target after a short delay, dealing damage to enemies when she returns back. Her first Gadget, Longer Strings, temporarily increases her Trait radius. Her second Gadget, Disappearing Act, temporarily places her circus tent that turns her teammates and her invisible within her area-of-effect. Her first Star Power, Plié Protection, increases her Super charge rate after not taking damage. Her second Star Power, A Helping Hand, heals her when she teleports with her Super. Her Hypercharge, Pas de Deux, instantly deals damage when Gigi teleports to the other teleporter.
+
+==Trait==
+{{Quote|This Brawler charges their Super from staying close to opponent projectiles and melee attacks.}}{{Trait|Dodge}}Gigi's Trait is a 2.8-tile radius around her. The moment the hitbox of a projectile enters the radius, Gigi charges 6% of her Super. The Super charge is counted per projectile, so Brawlers who attack with multiple projectiles will cause Gigi to charge the Super multiple times (such as [[Spike]]'s and [[Colt]]'s attack). This includes projectiles that deal no damage (e.g. [[Damian]]'s and [[Edgar]]'s Gadget projectile), dash attacks (such as [[Mortis]] and [[Alli]]), cone-shaped attacks (such as [[Frank]] and [[Emz]]), and fan-shaped attacks (such as [[Bibi]] and [[Shade]]). This Trait doesn't work with game objects such as the ball in [[Brawl Ball]] (even if an enemy shot it), attacks with a circular [https://en.wikipedia.org/wiki/Glossary_of_video_game_terms#area_of_effect Area of Effect] (such as [[Jacky]] and [[Doug]]), or flying projectiles (like [[Dynamike]] and [[Barley]]). Allied Gigis will have their Trait radius shown, while enemy Gigis will have their Trait radius hidden.
+
+==Attack: Pirouette Power-up==
+{{Quote|Gigi spins, dealing damage to all enemies around her, and gains movement speed while spinning.}}
+Similar to [[Carl]]'s Super, Gigi continuously spins around, dealing damage to all targets she's close to, including enemies behind walls. Gigi's movement speed is increased by 35% while using her attack. There is no direction of travel to this attack, so aiming is not required. If the player taps on the attack joystick, Gigi only attacks once, and if the player aims the attack joystick, Gigi continuously attacks. Gigi stops attacking when the player lets go of the joystick or her ammo bar is depleted. Her ammo drains when she attacks and she automatically reloads the bar when not attacking. When holding the attack, the hit frequency starts slowly and progressively accelerates the less ammo she has. If the attack isn't stopped, the attack takes 1.2 seconds to complete.
+
+==Super: Shadow Puppet==
+{{Quote|Gigi charges up for 0.8 sec, then appears at the targeted area. Gigi can charge up again for 3 sec to return to her starting position, dealing damage when she leaves.}}
+Gigi creates 2 teleporters: one on top of her, and one in the direction she's aiming. After a 0.8-second delay, she teleports to the other teleporter and instantly charges her Super. Once the teleporter is activated, Gigi gains a yellow bar that takes 3 seconds to deplete. If she uses her Super again, she instantly teleports back to the first teleporter and damages enemies where she leaves in a 2.33-tile radius. If she doesn't use her Super again before the timer is up, the teleporters will despawn and she loses her Super charge.
+
+==Gadgets==
+===Longer Strings===
+{{Quote|Super charging area is bigger. Cooldown: 18 seconds.}}{{Gadget|1}}
+Activating this Gadget increases Gigi's Trait's radius by 94% (to 5.43 tiles) for 4 seconds. However, the Super charge rate will be decreased to 5% (from 6%) per projectile. This Gadget's cooldown starts after the duration ends.
+
+===Disappearing Act===
+{{Quote|Gigi creates an area that makes herself and allies invisible while inside. Lasts 3 seconds. Cooldown: 15 seconds.}}{{Gadget|2}}
+When this Gadget is activated, Gigi drops a circus tent below her that creates an area that turns her and her allies invisible in a 2-tile radius for 3 seconds. This doesn't follow Gigi when she is moving.
+
+==Star Powers==
+===Plié Protection===
+{{Quote|Increases Super charge rate by 30% if no damage has been received for 2 secs.}}{{StarPower|1}}
+After not taking damage for 2 seconds, Gigi's Super charge rate is increased by 30%.
+
+===A Helping Hand===
+{{Quote|SHADOW PUPPET now heals for 2400 after charging up.}}{{StarPower|2}}
+After teleporting initially, Gigi heals for 29.3% of her max health. However, she doesn't heal when after teleporting back to her original position.
+
+==Hypercharge: Pas de Deux==
+{{Quote|Gigi's Super deals damage when appearing at a target location, as well as returning to the original location.}}{{Hypercharge}}
+When activated, Gigi also instantly deals damage in an area around her when initially teleporting, in addition to when teleporting back. She also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Tips==
+
+=== Strategies ===
+* Attempt to charge your Super by dodging attacks from Brawlers who attack with more projectiles in one attack, such as [[8-Bit]], [[Griff]], [[Lola]], and [[Colt]], as more projectiles will enter the radius and charge your Super faster.
+
+==Voice Lines==
+{{TranslationToggle|French}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy 
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi start vo sp 01.ogg|Filedescription = "En pointe, your end is near."}}'''Voice Box:'''
+{{Ogg|Filename = gigi start vo vb 01.ogg|Filedescription = "Can you please keep me forever?"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi lead vo sp 01.ogg|Filedescription = "Waltzing through the wreckage!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi lead vo vb 01.ogg|Filedescription = "Pirouetting with joy!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi hurt vo sp 01.ogg|Filedescription = "Give me a hand! Oh, never mind."}}'''Voice Box:'''
+{{Ogg|Filename = gigi hurt vo vb 01.ogg|Filedescription = "Who pulled my string?"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 01.ogg|Filedescription = "Why is everyone running from us?"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 01.ogg|Filedescription = "Gigi loves you!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi die vo sp 01.ogg|Filedescription = "I dance into the void!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi die vo vb 01.ogg|Filedescription = "You don't want to play?"}}
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi ulti vo sp 01.ogg|Filedescription = "This tutu, is my voodoo!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi ulti vo vb 01.ogg|Filedescription = "Let's play hide and seek, hehe!"}}
+|-
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi start vo sp 02.ogg|Filedescription = "Led by thread, liberated by dance."}}'''Voice Box:'''
+{{Ogg|Filename = gigi start vo vb 02.ogg|Filedescription = "Time to gracefully return to chaos!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi lead vo sp 02.ogg|Filedescription = "Prima Brawlerina!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi lead vo vb 02.ogg|Filedescription = "Gigi likes winning!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi hurt vo sp 02.ogg|Filedescription = "Hey! Watch the threads!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi hurt vo vb 02.ogg|Filedescription = "Gigi no like-y!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 02.ogg|Filedescription = "Graceful, yes! Merciful, no!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 02.ogg|Filedescription = "Pararum!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi die vo sp 02.ogg|Filedescription = "WHO cut my strings?"}}'''Voice Box:'''
+{{Ogg|Filename = gigi die vo vb 02.ogg|Filedescription = "You.. made Gigi sad!"}}
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi ulti vo sp 02.ogg|Filedescription = {{Translate|"Plié and perish!"|"Bend and perish!"}}}}'''Voice Box:'''
+{{Ogg|Filename = gigi ulti vo vb 02.ogg|Filedescription = "Gigi loves to play."}}
+|-
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi start vo sp 03.ogg|Filedescription = "Balance between beauty and bravery!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi start vo vb 03.ogg|Filedescription = "Haha! I want to play!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi lead vo sp 03.ogg|Filedescription = "I'm pulling the strings here!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi lead vo vb 03.ogg|Filedescription = "Pirouette of perfection!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi hurt vo sp 03.ogg|Filedescription = "Master won't be happy!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi hurt vo vb 03.ogg|Filedescription = "Gigi loves pain."}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 03.ogg|Filedescription = "Adagio to allegro!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 03.ogg|Filedescription = "Curtain call!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi die vo sp 03.ogg|Filedescription = "Enjoy the sound of one hand clapping."}}'''Voice Box:'''
+{{Ogg|Filename = gigi die vo vb 03.ogg|Filedescription = "Gigi say bye-bye."}}
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi ulti vo sp 03.ogg|Filedescription = "Twinkle toes of terror!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi ulti vo vb 03.ogg|Filedescription = {{Translate|"Demi-plié, grand jeté!"|"Half bend, great leap!"}}}}
+|-
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi start vo sp 04.ogg|Filedescription = "I'll try to make it painless, but no promises!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi start vo vb 04.ogg|Filedescription = "I'm Gigi, and I'm your new best friend!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi lead vo sp 04.ogg|Filedescription = "Who is playing with who?"}}'''Voice Box:'''
+{{Ogg|Filename = gigi lead vo vb 04.ogg|Filedescription = {{Translate|"Encore, encore!"|"Again, again!"}}}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi hurt vo sp 04.ogg|Filedescription = "Such clumsy fingers! Nyah!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi hurt vo vb 04.ogg|Filedescription = "I just want to be friends!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 04.ogg|Filedescription = "I might be a puppet, but you are a muppet!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 04.ogg|Filedescription = "Pirouette.. to paradise!"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi die vo sp 04.ogg|Filedescription = "Master still loves me."}}'''Voice Box:'''
+{{Ogg|Filename = gigi die vo vb 04.ogg|Filedescription = Gigi cries}}
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi ulti vo sp 04.ogg|Filedescription = "Pirouette of pain!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi ulti vo vb 04.ogg|Filedescription = "Gigi wants to dance forever!"}}
+|-
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi start vo sp 05.ogg|Filedescription = "Every Brawlette, needs a prima Brawlerina!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi start vo vb 05.ogg|Filedescription = {{Translate|"Sauté, plié, pirouette. Enchanté!"|"Jump, bend, spin. Pleased to meet you!"}}}}
+|
+|'''Voice Box:'''
+{{Ogg|Filename = gigi hurt vo vb 05.ogg|Filedescription = "Did you really mean that?"}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 05.ogg|Filedescription = "I strung you along, hehehe!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 05.ogg|Filedescription = {{Translate|"Adieu, mon chéri!"|"Farewell, my darling!"}}}}
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi die vo sp 05.ogg|Filedescription = "The brawling must go on!"}}
+|
+|
+|-
+|
+|
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 06.ogg|Filedescription = "So dramatic, aren't we?"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 06.ogg|Filedescription = "Oopsie, all gone!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 07.ogg|Filedescription = "Next time, try with more feeling!"}}'''Voice Box:'''
+{{Ogg|Filename = gigi kill vo vb 07.ogg|Filedescription = "Gigi did a booboo!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Shadow Puppet:'''
+{{Ogg|Filename = gigi kill vo sp 08.ogg|Filedescription = "The music fades, so do you!"}}
+|
+|
+|
+|}
+
+==Gigi Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2025|Gigi}}
+
+==History==
+*20/11/25:
+**{{Balance|Content=Gigi became available to play in the [[Training Cave]].|Change=Neutral}}
+*21/11/25:
+**{{Balance|Content=Gigi could be unlocked early from [[Brawler Boxes#Gigi Boxes|Gigi Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}.|Change=Neutral}}
+**{{Balance|Content=The Scarecrow, Autumn Scarecrow, and Winter Scarecrow Gigi skins were added.|Change=Neutral}}
+*04/12/25:
+**{{Balance|Content=Gigi became available in the [[Starr Road]].|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Gigi's health was increased to 4100 (from 3800).}}
+**{{Balance|Buff|Gigi's main attack damage was increased to 550 (from 500).}}
+**{{Balance|Buff|Gigi's attack speed was increased to 20% (from 10%).}}
+**{{Balance|Content=Gigi's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Gigi's Pas de Deux Hypercharge was added.|Change=Neutral}}
+*23/01/26:
+**{{Balance|Buff|Gigi's main attack damage was increased to 600 (from 550).}}
+**{{Balance|Content=The number of hits necessary to charge Gigi's Super was decreased to 8 hits (from 10).|Change=Buff}}
+*25/02/26:
+**{{Balance|Buff|Gigi's main attack unloads faster (.45/.45/.35/.3/.2/.2/.15/.1/.15 to .3/.3/.2/.15/.1/.1/.05 seconds).}}
+**{{Balance|Buff|Gigi's main attack speed boost was increased to 30% (from 20%).}}
+**{{Balance|Nerf|Gigi's ammo slot count was decreased to 8 (from 10).}}
+**{{Balance|Content=The number of hits necessary to charge Gigi's Super was increased to 9 hits (from 8).|Change=Nerf}}
+**{{Balance|Nerf|Gigi's Super damage was decreased to 1300 (from 1500).}}
+**{{Balance|Nerf|Gigi's Super recharge rate was decreased by 13%.}}
+**{{Balance|Nerf|Gigi's level up health was decreased to 450 (from 650) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Nerf|Gigi's level up damage was decreased to 3% (from 4%) in Brawl Arena.|Change=Nerf}}
+*31/03/26:
+**{{Balance|Buff|Gigi's Trait's Super charge rate was increased by 20%. This does not affect her Trait while her Longer Strings Gadget is active.}}
+**{{Balance|Buff|Gigi's Disappearing Act Gadget cooldown was decreased to 15 seconds (from 18).}}
+**{{Balance|Buff|Gigi's Plié Protection Star Power bonus Super charge activation was decreased to 2 seconds (from 3).}}
+*22/04/26:
+**{{Balance|Buff|Gigi's main attack speed boost was increased to 35% (from 30%).}}
+**{{Balance|Buff|Gigi's ammo slot count was increased to 10 (from 8).}}
+**{{Balance|Neutral|Fixed an issue where Gigi's Super was not charging itself while enemy projectiles were fired from within the Super's charge range.}}
+*30/06/26:
+**{{Balance|Nerf|Gigi's level up reload speed was decreased to 1.5% (from 2%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Gigi's movement speed to 855 (from 820).}}
+*16/09/26:
+**{{Balance|Buff|Gigi's ring radius was increased to 2.8 tiles (from 2.4).}}
+*03/11/26:
+**{{Balance|Nerf|Gigi's level up health was decreased to 350 (from 450) in Brawl Arena.}}
+**{{Balance|Nerf|Gigi's level up movement speed was decreased to 7 (from 8) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Scarecrow|Cost1=Free from Gigi Boxes or 199 Gems|Campaign1=Brawl-o-ween|Rarity1=Mythic
+|Name2=Autumn Scarecrow|Cost2=Free from Gigi Boxes or 199 Gems|Campaign2=Brawl-o-ween|Rarity2=Mythic
+|Name3=Winter Scarecrow|Cost3=Free from Gigi Boxes or 199 Gems|Campaign3=Brawl-o-ween|Rarity3=Mythic
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Gigi
+|-
+!Skin
+!colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Scarecrow|Special}}
+{{Pin Table|Autumn Scarecrow|Special}}
+{{Pin Table|Winter Scarecrow|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Gigi|Rarity = Common}}
+|{{Spray|Type = Gigi Drill|Rarity = Common}}
+|{{Spray|Type = Gigi Hand|Rarity = Common}}
+|{{Spray|Type = Gigi Hypercharge|Rarity = Collector's}}
+|{{Spray|Type = Scarecrow Gigi|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Gigi1}}
+|{{Pfp|Gigi2}}
+|{{Pfp|Gigi3}}
+|{{Pfp|Gigi4}}
+|{{Pfp|Scarecrow Gigi}}
+|}
+
+{{Navigation}}
+[[ru:Джиджи]]

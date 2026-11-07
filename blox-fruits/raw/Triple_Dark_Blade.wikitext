@@ -1,0 +1,86 @@
+{{Admin}}
+{{Weapon Infobox
+|name   = Triple Dark Blade
+|image  = <gallery>
+Triple Dark Blade.png|Icon
+TDB Semi Green.png|In-Game
+TDB IG White.png|In-Game (Slayer Skin)
+</gallery>
+
+<!-- Weapon Information -->
+|type   = Sword
+|rarity = Mythical
+|update = 13-14
+
+<!-- Weapon Obtainment -->
+|source = '''Admins'''
+}}
+{{Quote|What happens when you triple the [[Dark Blade|strongest sword]] in the game? This.|Item}}
+The '''Triple Dark Blade''' is a {{Mythical}} admin-exclusive [[sword]].
+
+The Triple Dark Blade resembles the [[Triple Katana]], except instead of katanas, three [[Dark Blade|Dark Blades]] are wielded. It has the same skills as the original Dark Blade, though with slight modifications.
+
+==Obtainment==
+The Triple Dark Blade is not obtainable for normal players, as it is exclusive to ''Blox Fruits''<nowiki>'s</nowiki> staff and content creators in the [[Blox Fruits Star Program]]. Ways to obtain the Triple Dark Blade include:
+* Winning events hosted by admins, such as tournaments, could sometimes award the winner with the Triple Dark Blade. However, such events are no longer hosted regularly.
+* Many helpers of the ''Blox Fruits'' Discord server have the Triple Dark Blade, as well as testers.
+* All admins have the Triple Dark Blade.
+* All content creators in the ''[[Blox Fruits Star Program]]'' have the Triple Dark Blade.
+
+<blockquote>"Don't beg admins for this sword. They won't give you it." -tort.</blockquote>
+
+==Upgrading==
+{{Upgrading}}
+
+==Moveset==
+{{SkillStart}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move = One Thousand Slices
+|Desc = The user launches an instantaneous barrage of multiple green slashes, hitting enemies and stunning them for a very short period of time. This move is the same as [[Dark Blade]]'s {{Ability|Dark Blade|Z}}.
+* While held: The same move occurs, but the user dashes along with the slashes.
+|Mas  = 1
+|GIF  = TDBZ
+|GIF1 = TDBZHeld
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move = Dark Air Slash
+|Desc = The user launches three thin, tall, vertical slashes of green energy toward their opponent, which deals high damage and has a little knockback.
+This move does not [[Instinct/Break|break Instinct]].
+* When held: The same move occurs, except faster.
+|Mas  = 50
+|GIF  = TDBX
+|GIF1 = TDBXHeld
+}}
+{{SkillEnd}}
+
+==Trivia==
+* The Triple Dark Blade is infamously one of the hardest things to obtain in the game, only being given by admins.
+* The Triple Dark Blade deals the highest damage per click out of every [[Swords|sword]] in the game.
+* The Triple Dark Blade has one of the largest attacks in the game.
+* The Triple Dark Blade's description might prove to be misleading, as there is no guarantee that the [[Dark Blade]] is the strongest [[sword]] in the game.
+* The Triple Dark Blade's [[upgrading|upgrade]] requires the most amount of [[materials]] out of any weapon in the game. 
+* Since the Triple Dark Blade is rarely removed from a player unless they are in a very bad standing with ''Blox Fruits'', certain retired helpers and testers still keep their Triple Dark Blade.
+* There was a glitch where {{Ability|Z}} dealt very little damage.
+
+==Change History==
+{{Change History|13-14|content=
+August 7, 2025
+* {{Arrow|buff}} Fixed {{Ability|Triple Dark Blade|Z}}'s damage
+----
+{{Update|20}}
+* {{Arrow|neutral}} The Triple Dark Blade's model and skills were revamped.
+* {{Arrow|buff}} Added the Triple Dark Blade's [[upgrading]].
+* Fixed [[Slayer Skin]] not applying on abilities.
+----
+{{Update|14}}
+* {{Arrow|nerf}} The Triple Dark Blade has been nerfed.
+----
+{{Update|13-14}}
+* The Triple Dark Blade was silently added into the game.
+}}
+
+==Navigation==
+{{Sword Navbox}}
+[[ru:Тройной Тёмный Клинок]]

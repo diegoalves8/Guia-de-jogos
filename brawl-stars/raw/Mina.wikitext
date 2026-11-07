@@ -1,0 +1,265 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Hurricane|PrestigeTitle = Breakdancer|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 800 (Fast)<br>2500 (dash)|HealthLabel = Health |Health = 3600|AttackRange = 8 (first sequence; Long)<br>6 (second sequence; Normal)<br>4.67 (third sequence; Normal)|Reload = 1.4 seconds (Fast)|AttackSuperCharge =14.4% (first sequence)<br>18% (second sequence)<br>32.4% (third sequence) |AttackLabel = Sandal Damage|Attack = 800|AttackLabel2 = Tambourine Damage|Attack2 = 1000|AttackLabel3 = Wind Damage|Attack3 = 1800|AttackSpeed = 3000|SuperRange = 7 (Long)|SuperSuperCharge =25%<br>100% (with Capo-What?) |SuperLabel = Damage|Super = 1000|SuperSpeed = 2200<br>3000 (with Hypercharge)|Gadget1Name=Windmill|Gadget1Cooldown=22 seconds|Gadget2Name=Capo-What?|Gadget2Cooldown=22 seconds|VoiceActor=Luiza Caspary|Previous=Alli|Next=Ziggy|AttackSpread=65° (third sequence)|AttackWidth=1 (first sequence)<br>1.33 (second sequence)|SuperWidth=2.67|AttackHyperchargeCharge=4.3% (first sequence)<br>5.4% (second sequence)<br>9.7% (third sequence)|HyperchargeMultiplier=30%|SuperHyperchargeCharge=7.5%|SuperSpread=56.7° (with Hypercharge)|Gadget1Duration=1 second|SuperBullets=1<br>3 (with Hypercharge)}}
+{{Quote|Mina is a b-girl who mixes capoeira into her breakdance battles like it's second nature. She hangs out at SK8 beats with [[Ollie]] and uses his mixtapes to practice new moves!}}
+{{Portrait}}Mina is a {{Rarity|Mythic}} [[Brawler]] who has a moderate health, an above-average movement speed, a variable attack range and damage output, a fast reload speed, and immense mobility with her main attacks and Super. She was the 95th Brawler added to the game. Her attack alternates between a sandal, a tambourine, and a wave of wind in a cone, after which she dashes in the direction she moves and gains a timer that resets back to the first attack sequence if she doesn't attack in that time. In the first attack, her sandal flies off, which has a long range, but low damage. In the second attack, she fires a tambourine that deals moderate damage and has a medium range. In the third attack, she projects a wave of wind in a cone shape that deals high damage but has a short range. For her Super, Mina sends a hurricane that damages and launches enemies in the air upon hitting them. Her first Gadget, Windmill, creates a circular barrier of wind that absorbs projectiles. Her second Gadget, Capo-What?, recharges her next Super upon damaging enemy Brawlers. Her first Star Power, Zum Zum Zum, heals her on the third attack. Her second Star Power, Blown Away, roots enemies caught in her Super. Her Hypercharge, Triplecane, spawns three hurricanes in a cone that also bounce off of walls.
+
+==Attack: Capoeira Combo ==
+{{Quote|Mina can cycle through three ranged attacks in a certain time period. If she doesn't attack fast enough her combo is broken an the cycle restarts.<br>Attack 1: Long range & narrow<br>Attack 2: Medium range & medium width<br>Attack 3: Short range & wide}}
+Mina's attack sequence alternates between a sandal, a tambourine, and a wave of wind in a cone shape, and simultaneously dashes 1.83 tiles in the direction she moves. Mina will not dash if she is not moving at the time the attack is used. For her first sequence, her sandal flies off, which has a long range, but deals very low damage upon impact. For her second sequence, her tambourine flies off, which deals moderate damage, but has a shorter range. For her third sequence, she projects a wave of wind in a cone shape at a medium range that deals high damage and pierces through enemies. The third attack comes with a delay of 0.5 seconds, but Mina's dash is not delayed. For every attack, Mina gains a timer bar that lasts for 1.35 seconds. If Mina doesn't attack before the timer is up, her attack resets to the first sequence.
+
+==Super: Furacão 3000==
+{{Quote|Mina hits the air, creating a powerful hurricane which deals heavy damage and launches enemies in front of her.}}
+Mina does a spinning handstand and sends a hurricane that damages enemies and launches them in the air upon contact, pulling them towards her by 1.2 tiles. This projectile is wide enough to affect enemies behind walls, though it cannot pass through them. While in the air, the enemies can't move or use their attack, Super, Gadget, or Hypercharge, but will be completely immune to all damage besides status effects and damage applied over time. However, they are not immune to jumping Supers of [[Bonnie]], [[El Primo]], [[Edgar]], [[Crow]], [[Kit]], or [[Mico]]. Note that the Super pulls in the direction of Mina's location at the time she used the Super, not towards her current location. Just like the main attack, using the Super causes her to dash and also resets her attack timer, allowing the combo to continue, although this does not modify the Super itself.
+
+==Gadgets==
+===Windmill===
+{{Quote|Creates a wall of wind that blocks projectiles for 1 secs. Cooldown: 22 seconds.}}{{Gadget|1}}
+Mina creates a 4-tile wide circular barrier of wind that absorbs projectiles from enemies for 1 second. This Gadget is similar to [[Buster]]'s Hypercharged Super, but it doesn't follow you while you are moving nor does it reflect the energy as a counterattack projectile. It also has no effect on projectiles that can break or pass through walls. Enemies can still move through the barrier to deal damage, and attacks of allies are unaffected by the Gadget. This Gadget's cooldown begins after it's activated.
+
+===Capo-What?===
+{{Quote|Mina's next Super recharges instantly if it hits. Cooldown: 22 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Mina to recharge her Super instantly upon hitting an enemy with a Super. If the Super hits an enemy Brawler while she is defeated, it will not trigger the extra Super charge. This Gadget does not work with her Hypercharged Super. A Gadget symbol will glow above Mina's head signaling this Gadget's activation, as well as a glowing Super joystick. This Gadget's cooldown begins after the Super is used.
+
+==Star Powers==
+===Zum Zum Zum===
+{{Quote|Mina's combo Attack 3 also heals for 50% of damage done.}}{{StarPower|1}}
+When Mina's third attack sequence deals damage to enemies, she regains health equal to 50% of the damage dealt. This can stack with multiple opponents being damaged with the same attack.
+
+===Blown Away===
+{{Quote|Mina's Super also roots enemies on the spot.}}{{StarPower|2}}
+Mina's Super now roots enemies caught in it for 1.5 seconds, making them unable to move but still attack, similar to [[Lumi]]'s Super.
+
+==Hypercharge: Triplecane==
+{{Quote|Super now fires 3 hurricanes in a cone shape, which can bounce.}}{{Hypercharge}}
+When activated, Mina creates 3 hurricanes in a cone shape, which behave similarly to the one from her normal Super. However, the Hypercharged Supers have a faster projectile speed and can bounce off of walls, and also have a much stronger pulling effect of 5 tiles. Note that after the projectiles bounce off of the wall, the Super pulls towards the location where the projectile hit the wall, not towards Mina's position. She also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*In maps like [[Bridge Too Far]], Mina can use Windmill effectively. Place the Gadget right on the lane to push even farther.
+*In [[Brawl Arena]], Mina is an excellent pick. Use the middle lane as cover. Since Mina has good burst damage, she can either secure kills in the middle or quickly assassinate enemies that are too aggressive.
+
+===Recommended Build===
+*When playing Mina in maps or game modes that favor marksmen or assassins, Blown Away is usually the better Star Power. If an assassin gets too close, use her Super to root them, then finish them with attacks. Or, as an alternative, when assassins are rooted, use her attacks to place as much distance as she can between them. Dash towards marksmen and use the Super to prevent them from getting away.
+
+===Strategies===
+*Mina's attacks makes her dash in the direction she is currently facing. Use this mechanic to escape tough situations or to dodge more attacks when moving up a lane.
+**However, be cautious about where Mina is facing when attacking. Bad directions might make you end up right in front of a [[Bull]], [[Griff]], [[Shelly]], [[Spike]], [[Darryl]], or a [[Leon]].
+**When facing such brawlers, you can choose to not dash with your attack by briefly pausing in place right before you shoot your attack, as Mina doesn't dash when standing still.
+*Due to the 0.5s windup of Mina's Attack 3, using Windmill during that period can help the ability not get interrupted by a crowd control projectile.
+*Since Mina's full combo attack takes too much time to land, finish the sandal move right after using her Super. When the enemy lands, Mina can instantly deal high damage.
+*Be careful when you go against enemies who have ammo-stealing capabilities such as [[Colt]], [[Mico]], and [[Pam]], because Mina needs all three ammo to use the combo and losing even one of them will make the combo more difficult to play. Try to use the combo when the opponent used their ability.
+
+===Other===
+*Take note that Brawlers are launched into the sky when hit by Mina's Super, rendering them immune to any further attacks on the ground. Therefore, don't instantly use the second Super when using "Capo What?".
+*Since Mina's Super acts like a pull, using it at point-blank range will make it not pull the enemy and therefore not send them into the air, making it useless against Brawlers like [[Kit]] and [[El Primo]], who can jump right on top of you and nullifying any distance.
+
+==Voice Lines==
+{{TranslationToggle|Brazilian Portuguese}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Mina start vo 01.ogg|Filedescription = Mina beatboxes}}
+|{{Ogg|Filename = Mina lead vo 01.ogg|Filedescription = {{Translate|"Dim, dim, dom, o rap é o som."|"Dim, dim, dom, rap is the sound."}}}}
+|{{Ogg|Filename = Mina hurt vo 01.ogg|Filedescription = "Laugh all you want, but don't sleep on me."}}
+|{{Ogg|Filename = Mina kill vo 01.ogg|Filedescription = {{Translate|"Haha, vacilão!"|"Haha, fool!"}}}}
+|{{Ogg|Filename = Mina die vo 01.ogg|Filedescription = "Not my final road of trust."}}
+|
+|{{Ogg|Filename = Mina ulti vo 01.ogg|Filedescription = "B-girl wkwkwk-twirl!"}}
+|-
+|{{Ogg|Filename = Mina start vo 02.ogg|Filedescription = "Stay sharp, warrior. Chin up, world's watching!"}}
+|{{Ogg|Filename = Mina lead vo 02.ogg|Filedescription = "Pop that bubbly for the squad!"}}
+|{{Ogg|Filename = Mina hurt vo 02.ogg|Filedescription = {{Translate|"Pode rir, ri mas não desacredita não."|"Laugh all you want, but don't sleep on me."}}}}
+|{{Ogg|Filename = Mina kill vo 02.ogg|Filedescription = {{Translate|"Hahaha, vacilão!"|"Hahaha, fool!"}}}}
+|{{Ogg|Filename = Mina die vo 02.ogg|Filedescription = "Hey! Save me a spot! I'll be back!"}}
+|
+|{{Ogg|Filename = Mina ulti vo 02.ogg|Filedescription = "Ah!"}}
+|-
+|{{Ogg|Filename = Mina start vo 03.ogg|Filedescription = "Straight outta jungle! A lion ready to roar."}}
+|{{Ogg|Filename = Mina lead vo 03.ogg|Filedescription = "Champagne up, this one's for the crew!"}}
+|{{Ogg|Filename = Mina hurt vo 03.ogg|Filedescription = "Mess up my rhythm, I'll mess up your life."}}
+|{{Ogg|Filename = Mina kill vo 03.ogg|Filedescription = {{Translate|"Respeito é pra quem tem!"|"Respect is for those who deserve it!"}}}}
+|{{Ogg|Filename = Mina die vo 03.ogg|Filedescription = {{Translate|"Pode pá, I'll be back."|"Alright, I'll be back."}}}}
+|
+|{{Ogg|Filename = Mina ulti vo 03.ogg|Filedescription = "Ah!"}}
+|-
+|{{Ogg|Filename = Mina start vo 04.ogg|Filedescription = {{Translate|"Minha meta é dez de dez! Ih! Nove e meio nem rola."|"My goal is ten out of ten! Uh! Nine and a half doesn’t cut it."}}}}
+|{{Ogg|Filename = Mina lead vo 04.ogg|Filedescription = "Dancing queen dominating the scene!"}}
+|{{Ogg|Filename = Mina hurt vo 04.ogg|Filedescription = "That all you got? Ha ha, thought you were serious."}}
+|{{Ogg|Filename = Mina kill vo 04.ogg|Filedescription = Mina laughs}}
+|{{Ogg|Filename = Mina die vo 04.ogg|Filedescription = {{Translate|"Tudo vai, tudo é fase irmão."|"Everything goes, everything is just a phase, brother."}}}}
+|
+|{{Ogg|Filename = Mina ulti vo 04.ogg|Filedescription = "Breakdance beatdown!"}}
+|-
+|{{Ogg|Filename = Mina start vo 05.ogg|Filedescription = {{Translate|"Dim, dim, dom, o rap é o som."|"Dim, dim, dom, rap is the sound."}}}}
+|{{Ogg|Filename = Mina lead vo 05.ogg|Filedescription = {{Translate|"Tá tranquilo e favorável!"|"It’s all chill and favorable!"}}}}
+|{{Ogg|Filename = Mina hurt vo 05.ogg|Filedescription = {{Translate|"Tá tirando? Hehe, thought you were serious."|"You messing around? Hehe, thought you were serious."}}}}
+|{{Ogg|Filename = Mina kill vo 05.ogg|Filedescription = {{Translate|"Dorme com essa batida!"|"Sleep on this beat!"}}}}
+|{{Ogg|Filename = Mina die vo 05.ogg|Filedescription = Mina gasps}}
+|
+|{{Ogg|Filename = Mina ulti vo 05.ogg|Filedescription = "Watch this b-girl twirl!"}}
+|-
+|{{Ogg|Filename = Mina start vo 06.ogg|Filedescription = "São Paulo born! B-girl!"}}
+|{{Ogg|Filename = Mina lead vo 06.ogg|Filedescription = "MVP? Nah, I'm that girl."}}
+|{{Ogg|Filename = Mina hurt vo 06.ogg|Filedescription = {{Translate|"Nada como um dia após outro dia."|"Nothing like one day after another day."}}}}
+|{{Ogg|Filename = Mina kill vo 06.ogg|Filedescription = "Watch the footwork! Blink and you're gone. Ha ha!"}}
+|{{Ogg|Filename = Mina die vo 06.ogg|Filedescription = "Ah!"}}
+|
+|{{Ogg|Filename = Mina ulti vo 06.ogg|Filedescription = "B-girl twirl!"}}
+|-
+|{{Ogg|Filename = Mina start vo 07.ogg|Filedescription = "You step, I stomp. Fair warning!"}}
+|{{Ogg|Filename = Mina lead vo 07.ogg|Filedescription = "I'm that girl, ha ha!"}}
+|{{Ogg|Filename = Mina hurt vo 07.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = Mina kill vo 07.ogg|Filedescription = Mina laughs}}
+|{{Ogg|Filename = Mina die vo 07.ogg|Filedescription = Mina coughs}}
+|
+|{{Ogg|Filename = Mina ulti vo 07.ogg|Filedescription = "My dance will break your soul!"}}
+|-
+|{{Ogg|Filename = Mina start vo 08.ogg|Filedescription = {{Translate|"Nada como um dia após o outro dia."|"Nothing like one day after the other day."}}}}
+|{{Ogg|Filename = Mina lead vo 08.ogg|Filedescription = {{Translate|"I own essa parada!"|"I own this thing!"}}}}
+|{{Ogg|Filename = Mina hurt vo 08.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = Mina kill vo 08.ogg|Filedescription = {{Translate|"Ih laía!"|"Sheesh!"}}}}
+|
+|
+|{{Ogg|Filename = Mina ulti vo 08.ogg|Filedescription = "Tornado throwdown!"}}
+|-
+|{{Ogg|Filename = Mina start vo 09.ogg|Filedescription = {{Translate|"Só mais uma roda, bora vê quem cai primeiro."|"Just one more circle, let’s see who falls first."}}}}
+|{{Ogg|Filename = Mina lead vo 09.ogg|Filedescription = {{Translate|"Vibe de vitória, sempre no flow."|"Victory vibe, always in the flow."}}}}
+|{{Ogg|Filename = Mina hurt vo 09.ogg|Filedescription = Mina grunts}}
+|{{Ogg|Filename = Mina kill vo 09.ogg|Filedescription = Mina laughs}}
+|
+|
+|{{Ogg|Filename = Mina ulti vo 09.ogg|Filedescription = "Tornado!"}}
+|-
+|{{Ogg|Filename = Mina start vo 10.ogg|Filedescription = {{Translate|"Minha nota é dez, nove e meio nem rola."|"My grade is ten, nine and a half doesn’t cut it."}}}}
+|{{Ogg|Filename = Mina lead vo 10.ogg|Filedescription = "I'm breaking records, and bonds!"}}
+|{{Ogg|Filename = Mina hurt vo 10.ogg|Filedescription = Mina chokes}}
+|{{Ogg|Filename = Mina kill vo 10.ogg|Filedescription = {{Translate|"Cê é louco, tio! Hahaha."|"You’re crazy, dude! Hahaha."}}}}
+|
+|
+|{{Ogg|Filename = Mina ulti vo 10.ogg|Filedescription = "Soul sister with a twister!"}}
+|-
+|
+|{{Ogg|Filename = Mina lead vo 11.ogg|Filedescription = {{Translate|"O mundo é diferente da ponte pra cá."|"The world is different on this side of the bridge."}}}}
+|{{Ogg|Filename = Mina hurt vo 11.ogg|Filedescription = "Oh!"}}
+|{{Ogg|Filename = Mina kill vo 11.ogg|Filedescription = Mina laughs}}
+|
+|
+|
+|-
+|
+|{{Ogg|Filename = Mina lead vo 12.ogg|Filedescription = {{Translate|"É nóis que tá!"|"It’s us holding it down!"}}}}
+|{{Ogg|Filename = Mina hurt vo 12.ogg|Filedescription = {{Translate|"Toma essa!"|"Take this!"}}}}
+|
+|
+|
+|
+|-
+|
+|{{Ogg|Filename = Mina lead vo 13.ogg|Filedescription = {{Translate|"É isso memo!"|"That’s right!"}}}}
+|
+|
+|
+|
+|
+|-
+|
+|{{Ogg|Filename = Mina lead vo 14.ogg|Filedescription = {{Translate|"É isso memo, tá ligado?"|"That’s right, you feel me?"}}}}
+|
+|
+|
+|
+|
+|}{{Clr}}
+
+==Mina Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2025|Mina}}
+
+==History==
+*17/09/25:
+**{{Balance|Content=Mina became available to play in the [[Training Cave]].|Change=Neutral}}
+*18/09/25:
+**{{Balance|Content=Mina could be unlocked early from [[Brawler Boxes#Mina Boxes|Mina Boxes]] or after obtaining 14 of them.|Change=Neutral}}
+**{{Balance|Content=The Graffiti, Beatchaser, High Scorer, and Dance Dance Mina skins were added. The Graffiti Mina skin was featured as a Streetwear skin.|Change=Neutral}}
+*28/09/25:
+**{{Balance|Content=Mina became available in the Starr Road.|Change=Neutral}}
+*29/09/25:
+**{{Balance|Content=Fixed a bug where the Zum Zum Zum Star Power doesn't heal Mina with the Mythic skin.|Change=Neutral}}
+**{{Balance|Content=Fixed the description of Mina's Super incorrectly showed duration instead of damage.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|Mina's Super charge rate was decreased to 72 (from 100)}}
+**{{Balance|Nerf|Mina's third attack sequence damage was decreased to 2000 (from 2200).}}
+**{{Balance|Nerf|Mina's Windmill Gadget and Capo-What? Gadget cooldowns were increased to 20 seconds (from 18).}}
+**{{Balance|Nerf|Mina's Zum Zum Zum Star Power no longer heals her upon hitting a pet or spawnable.}}
+**{{Balance|Nerf|Mina's level up health was decreased to 400 (from 450) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Mina's level up damage was decreased to 4% (from 6%) in Brawl Arena.}}
+**{{Balance|Neutral|Mina's Triplecane Hypercharge was added.}}
+**{{Balance|Neutral|Mina's True Silver and True Gold skins were added.}}
+**{{Balance|Neutral|Fixed a bug where Mina would respawn without her Super after being defeated while her Capo-What? Gadget was active.}}
+*12/11/25:
+**{{Balance|Nerf|Mina's health was decreased to 3700 (from 4100).}}
+**{{Balance|Nerf|Mina's second attack sequence damage was decreased to 1000 (from 1400).}}
+**{{Balance|Nerf|Mina's second attack sequence Super charge rate was decreased by 29%.}}
+*16/12/25:
+**{{Balance|Nerf|Mina's health was decreased to 3600 (from 3700).}}
+**{{Balance|Nerf|Mina's Windmill Gadget and Capo-What? Gadget cooldowns were increased to 22 seconds (from 20).}}
+*23/01/26:
+**{{Balance|Nerf|Mina's Windmill Gadget barrier duration was decreased to 2 seconds (from 3).}}
+*25/02/26:
+**{{Balance|Nerf|Mina's Windmill Gadget barrier duration was decreased to 1.5 seconds (from 2).}}
+**{{Balance|Neutral|Fixed a bug where projectiles shot inside Mina's Windmill Gadget barrier would not pass through.}}
+*12/04/26:
+**{{Balance|Neutral|The Faerie Mina skin was added. It was featured as a Once Upon skin.}}
+*28/04/26:
+**{{Balance|Neutral|Fixed a bug where Mina would crash the game if she defeated a target that explodes on death with her third sequence attack while being in its explosion radius.}}
+*30/06/26:
+**{{Balance|Nerf|Mina's third attack sequence damage was decreased to 1800 (from 2000).}}
+**{{Balance|Nerf|Mina's Windmill Gadget barrier duration was decreased to 1 second (from 1.5).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Mina's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (7)===
+{{Skin Gallery
+|Name1=Graffiti|Cost1=Free from Mina Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Streetwear|Rarity1=Rare
+|Name2=Faerie|Cost2=149 Gems|Campaign2=Once Upon|Rarity2=Epic
+|Name3=Beatchaser|Cost3=Free from Mina Boxes or 199 Gems|Campaign3=Vibing|Rarity3=Mythic
+|Name4=High Scorer|Cost4=Free from Mina Boxes or 199 Gems|Campaign4=Vibing|Rarity4=Mythic
+|Name5=Dance Dance|Cost5=Free from Mina Boxes or 199 Gems|Campaign5=Vibing|Rarity5=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Mina
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Beatchaser}}
+{{Pin Table|High Scorer}}
+{{Pin Table|Dance Dance}}
+{{Pin Table|Faerie}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Mina|Rarity = Common}}
+|{{Spray|Type = Mina Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Mina Sandal|Rarity = Common}}
+|{{Spray|Type = Mina 10|Rarity = Common}}
+|{{Spray|Type = Beatchaser Mina|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Mina1}}
+|{{Pfp|Mina2}}
+|{{Pfp|Mina3}}
+|{{Pfp|Mina4}}
+|{{Pfp|Beatchaser Mina}}
+|-
+|{{Pfp|Faerie Mina}}
+|}
+
+{{Navigation}}
+[[ru:Мина]]
+[[es:Mina]]

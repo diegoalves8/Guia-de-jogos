@@ -1,0 +1,233 @@
+{{Tabber V2
+|link1 = Blox Fruits
+|tab1  = Blox Fruits
+|link2 = Fighting Styles
+|tab2  = Fighting Styles
+|link3 = Swords
+|tab3  = Swords
+|link4 = Guns
+|tab4  = Guns
+|link5 = Gears
+|tab5  = Gears
+}}
+{{Game_Mechanics
+|title1            = Fighting Styles
+|purpose:          = Close Combat
+|image1            = FightingStyleHeader.png
+|date_of_addition: = {{Release Date|Update 1}}
+|locations:        = 
+* [[First Sea]]
+* [[Second Sea]]
+* [[Third Sea]]
+}}
+'''Fighting styles''' are an essential feature of ''Blox Fruits''. They are the core mechanism of the combat system in the game, and they can be obtained from the different teachers of a specific fighting style.
+
+Compared to other weapon types, fighting styles involve mostly physical strikes, with less emphasis on weapons or super-powered abilities. Most have three combat moves, while [[Blox Fruits]] have 4-5 on average, and [[guns]]/[[swords]] have only two.
+
+Fighting styles tend to focus more on versatility and utility when compared to other weapon types with their higher move counts and greater presence of abilities like stun, movement, or even life steal, although some are capable of outputting heavy raw damage.
+
+Players who first join the game will receive [[Combat]] automatically.
+
+==List of Fighting Styles==
+<div class="mobile-hidden">
+Background Color Indicators: 
+* <font color="90EE90">'''Green'''</font> - Obtainable in the [[First Sea]].
+* <font color="04D4F0">'''Blue'''</font> - Obtainable in the [[Second Sea]].
+* <font color="FF7F7F">'''Red '''</font>- Obtainable in the [[Third Sea]].
+</div>
+
+There is a total of '''13''' fighting styles in the game:
+<center>
+{| style="background: #3e404499; margin: 5px; border-radius: 7px; box-shadow: inset #797c8366 0px 0px 10px 5px, #787c8340 0px 0px 5px 5px; border: solid 2px #75788099; padding: 5px;"
+|{{Fighting Style|Combat}}
+|{{Fighting Style|Dark Step}}
+|{{Fighting Style|Water Kung Fu}}
+|{{Fighting Style|Electric}}
+|{{Fighting Style|Dragon Breath}}
+|{{Fighting Style|Superhuman}}
+|-
+|{{Fighting Style|Advanced Combat}}
+|{{Fighting Style|Death Step}}
+|{{Fighting Style|Sharkman Karate}}
+|{{Fighting Style|Electric Claw}}
+|{{Fighting Style|Dragon Talon}}
+|{{Fighting Style|Godhuman}}
+|{{Fighting Style|Sanguine Art}}
+|}
+</center>
+
+==Locations==
+There are several locations where fighting styles can be learnt from teachers, being:
+
+<tabber>
+First Sea=
+{| class="mw-collapsible fandom-table" style="text-align: center;"
+|+ class="mobileonly" | First Sea
+! Fighting Style
+! Teacher
+! Location
+! Picture
+|-
+| [[File:Dark Step.png|100px|center|link=Dark Step]]
+| [[Dark Step Teacher]]
+| [[Pirate Village]]
+| [[File:DarkStepTeacherLocation.png|240px|center]]
+|-
+| [[File:Electric.png|100px|center|link=Electric]]
+| [[Mad Scientist]]
+| [[Skylands]]
+| [[File:MadScientistLocation.png|240px|center]]
+|-
+| [[File:Water Kung Fu.png|100px|center|link=Water Kung Fu]]
+| [[Water Kung Fu Teacher]]
+| [[Underwater City]]
+| [[File:WaterKungFuTeacherLocation.png|240px|center]]
+|-
+| [[File:Advanced Combat.png|100px|center|Advanced Combat]]
+| [[Secrets Master]]
+| [[Middle Town]]
+| [[File:PlaceHolder.png|240px|center]]
+|}
+|-|
+
+Second Sea=
+All [[First Sea]] Fighting Style Teachers can be found at [[Map:Hot and Cold|Hot and Cold]].
+{| class="mw-collapsible fandom-table" style="text-align: center;"
+|+ class="mobileonly" | Second Sea
+! Fighting Style
+! Teacher
+! Location
+! Picture
+|-
+| [[File:Dragon Breath.png|100px|center|link=Dragon Breath]]
+| [[Sabi]]
+| [[Kingdom of Rose]]
+| [[File:SabiLocation.png|240px|center]]
+|-
+| [[File:Superhuman.png|100px|center|link=Superhuman]]
+| [[Martial Arts Master]]
+| [[Snow Mountain]]
+| [[File:MartialArtsMasterLocation.png|240px|center]]
+|-
+| [[File:Death Step.png|100px|center|link=Death Step]]
+| [[Phoeyu, the Reformed]]
+| [[Ice Castle]]
+| [[File:PhoeyuLocation.png|240px|center]]
+|-
+| [[File:Sharkman Karate.png|100px|center|link=Sharkman Karate]]
+| [[Sharkman Teacher]]
+| [[Forgotten Island]]
+| [[File:SharkmanTeacherLocation.png|240px|center]]
+|}
+|-|
+
+Third Sea=
+All [[First Sea]] and [[Second Sea]] Fighting Style Teachers can be found at [[Map:Castle on the Sea|Castle on the Sea]].
+{| class="mw-collapsible fandom-table" style="text-align: center;"
+|+ class="mobileonly" | Third Sea
+! Fighting Style
+! Teacher
+! Location
+! Picture
+|-
+| [[File:Electric Claw.png|100px|center|link=Electric Claw]]
+| [[Previous Hero]]
+| [[Floating Turtle]]
+| [[File:PreviousHeroLocation.png|240px|center]]
+|-
+| [[File:Dragon Talon.png|100px|center|link=Dragon Talon]]
+| [[Uzoth]]
+| [[Hydra Island]]
+| [[File:UzothLocation.png|240px|center]]
+|-
+| [[File:Godhuman.png|100px|center|link=Godhuman]]
+| [[Ancient Monk]]
+| [[Floating Turtle]]
+| [[File:AncientMonkLocation.png|240px|center]]
+|-
+| [[File:Sanguine Art.png|100px|center|link=Sanguine Art]]
+| [[Shafi]]
+| [[Tiki Outpost]]
+| [[File:ShafiLocation.png|240px|center]]
+|}
+|-|
+</tabber>
+
+==Notes==
+* If the player had previously obtained a fighting style but switched to another one, relearning the original one will be free.
+* To obtain all fighting styles, it would cost a total of {{Money|25,400,000}} and {{Fragment|31,500}}.
+* All fighting styles will keep their [[mastery]] even when the player learns a new one. 
+* Using a Fighting Style on [[enemies]] or players that have [[Elemental]] immunity will not damage them.
+** Using [[Aura]] bypasses their intangibility.
+* Most fighting styles have less range than [[swords]].
+* Combat is the only Fighting Style that does not have the [[Destructible Physics]].
+* Instinct Breaking moves can be found [[Instinct/Break#Instinct Breakers|here]].
+
+==Trivia==
+* All fighting styles have three different moves, except [[Combat]], which has two, and [[Death Step]] and [[Dark Step]], which have four.
+** However, the extra moves on the four-skill fighting styles exist mainly to boost damage of the other abilities. 
+* [[Dragon Breath]] is currently the only fighting style having a fragment-only price.
+* [[Sanguine Art]] is the only fighting style in the game without a "V2".
+* [[Godhuman]] and [[Sanguine Art]] are the only fighting styles that require [[materials]].
+* On each fighting style other than [[Combat]], there is the letter M at the bottom left corner of their icon, along with a white or black border surrounding the icon.
+** This most likely stands for Melee, the [[Stats|Stat]] that Fighting Styles scale with.
+
+==Change History==
+{{Change History|1|content=
+{{Update|30}}
+* Added a new fighting style:
+** [[Advanced Combat]]
+----
+{{Update|20}}
+* Added a new fighting style:
+** [[Sanguine Art]]
+----
+{{Update|17.3}}
+* Added a new fighting style:
+** [[Godhuman]]
+----
+{{Update|16}}
+* Added a new fighting style:
+** [[Dragon Talon]]
+----
+{{Update|15}}
+* Added a new fighting style:
+** [[Electric Claw]]
+----
+{{Update|14}}
+* Added a new fighting style:
+** [[Sharkman Karate]]
+----
+{{Update|13}}
+* Added a new fighting style:
+** [[Death Step]]
+----
+{{Update|9}}
+* Added a new fighting style:
+** [[Superhuman]]
+----
+{{Update|8}}
+* Added a new fighting style:
+** [[Dragon Breath]]
+----
+{{Update|5}}
+* Added a new fighting style:
+** [[Water Kung Fu]]
+----
+{{Update|2}}
+* Added a new fighting style:
+** [[Electric]]
+----
+{{Update|1}}
+* Fighting styles were released with:
+** [[Combat]]
+** [[Dark Step]]
+}}
+
+==Navigation==
+{{MiscNav}}
+
+[[Category:Fighting Styles| ]]
+[[Category:Game Mechanics]]
+
+[[ru:Боевые Стили]]

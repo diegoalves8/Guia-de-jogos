@@ -1,0 +1,141 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Midnight Blade
+|image     = <gallery>
+Midnight Blade.png|Icon
+Midnight Blade DIsplay.png|In-Game
+HoldingMidnightBlade.png|Held
+Mid. Blade (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 12
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Cursed Ship
+|obtain    = Bought
+|source    = [[El Admin]]
+|price     = {{Ectoplasm|100}}
+}}
+{{Quote|A double-edged sword with powers of the night and the ability to create portals.|Item}}
+The '''Midnight Blade''' is a {{Legendary}} [[sword]].
+
+Known for its stunning visuals, the Midnight Blade is still considered to be a fairly decent sword for grinding in the [[Second Sea]]. 
+
+In PvP however, it is recommended that the player upgrades to a better sword as they progress out of the [[Second Sea]] and enter the [[Third Sea]], due to its moves infamously known for being extremely easy to [[Instinct]]-trick and punish.
+
+==Obtainment==
+The Midnight Blade can be obtained at the cost of {{Ectoplasm|100}} [[Ectoplasm]] from [[El Admin]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Midnight Blade M1
+|desc     = The player does 3 slashes, ending on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Portal Opening
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = Breaks Instinct on direct impact, but can be entirely dodged if it does not directly hit.
+|gif      = Midnight_Blade_Z
+|desc     = The user shoots a virtual image of themselves in the direction of the mouse, which the user will then slash (which the virtual version of themselves copies), and on hit will trigger a small AoE domain of quantum energy, pulling enemies in range in and barraging them for the duration of the ability. Interestingly, this move stuns [[Blade]] users through the entire animation, although does not deal damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Crescent Dash
+|mastery  = 325
+|cooldown = 13
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct on direct impact and slash, but can be dodged if it does not directly hit.
+|gif      = Midnight_Blade_X
+|desc     = The user dashes forward, leaving behind a blue trail, which on hitting an enemy will pull in nearby enemies before making the player spin around then creating an AoE explosion and throwing the enemies forwards.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High damage.
+* Good for use at close range.
+* Good stuns and mobility.
+* Great combo potential.
+* Both moves can target multiple enemies at the same time.
+* Relatively easy to obtain at any level above 1250.
+* Both moves can hit [[Sea Beast]]s.
+* No M1 dash, making it a great choice for grinding.
+
+|'''[Z] Portal Opening'''
+* Decent hitbox.
+* Can be triggered without [[Instinct/Break|breaking Instinct]].
+* Decent knockback (depends on angle).
+
+|'''[X] Cresent Dash'''
+* Decent for mobility.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot damage [[Blade]] users.
+* Small hitbox.
+* Short range.
+* Moves are hard to use with [[Buddha]]
+* Vulnerable to attacks when casting a move.
+* Both moves are easily escapable with [[Instinct]].
+
+|'''[Z] Portal Opening'''
+* Cannot be triggered without an enemy.
+* Does not true-stun, meaning it can countered during the move's animation if Instinct-tricked.
+* High knockback makes it difficult to grind with unless used as a finisher.
+
+|'''[X] Cresent Dash'''
+* Dash is quite slow and can be dodged easily.
+}}
+</tabber>
+
+==Trivia==
+* The old version of the Midnight Blade is used by the Lv. 1325 [[Raid Bosses|Raid Boss]], [[Cursed Captain]].
+* The afterimage caused by the [Z] move holds an unreleased redesign.
+* When reached 100 [[Ectoplasm]], the [[Titles|title:]] "The Ghost" #152 will be obtained.
+* Midnight Blades reworked model is one of the most controversial redesigns of a sword in-game, as its old design had much more detail and looked cleaner.
+
+==Gallery==
+<gallery>
+Mid. Blade Sword Clone.png|The afterimage when using '''[Z] Portal Opening'''
+</gallery>
+
+==Change History==
+{{Change History|12|content={{Update|24}}
+* The Midnight Blade's model was revamped.
+<gallery>
+Midnight Blade Icon (Old).png|Old Midnight Blade model
+</gallery>
+----
+{{Update|20}}
+* The Midnight Blade's moves were reworked.
+<gallery>
+MidnightBladeZ.gif|Old '''[Z] [Portal Opening'''
+MidnightBladeX.gif|Old '''[X] Crescent Dash'''
+</gallery> 
+----
+{{Update|12}}
+* The Midnight Blade was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

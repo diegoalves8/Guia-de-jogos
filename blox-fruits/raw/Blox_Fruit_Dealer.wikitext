@@ -1,0 +1,39 @@
+{{NPC Infobox
+|name      = Blox Fruit Dealer
+|image     = Blox Fruit Dealer.png
+|type      = Shop
+|sea       = 1/2/3
+|location  = Pirate Starter
+|location1 = Marine Starter
+|location2 = Middle Town
+|location3 = Kingdom of Rose
+|location4 = Café
+|location5 = Port Town
+|location6 = Mansion (Third Sea)
+}}
+The '''Blox Fruit Dealer''' is a [[Shop NPC]]. It is one of the five main ways to get [[Blox Fruits]], the others being [[Blox Fruit Gacha]], [[Ship Raid|Ship Raids]], [[Castle on the Sea]] raids, and finding them under [[Trees]]. Blox Fruits can either be bought with {{Money|Money}} or {{Robux|Robux}} from the Blox Fruit Dealer.
+
+==Appearance==
+The Blox Fruit Dealer wears a black chainmail shirt with a brown belt, and a red shirt and pants underneath it. He has brown, short hair, and wears black, cross-strapped sandals, and a black tricorn with a red lining. His skin is moderately tanned.
+
+==Overview==
+The Blox Fruit Dealer can have a minimum of 3 fruits on stock at any given moment (including [[Rocket]] and [[Spin]]), with each fruit having a different chance to appear. A player can buy any fruit that is on stock an unlimited number of times, although it will automatically replace any fruit the player already have equipped.
+
+Fruits can always be bought with Robux, and the player is always able to equip said fruit, even if it is not in the current [[Blox Fruits "Stock"|Stock]]. Fruits bought with Money are expendable, and will be lost when replaced by eating or buying a fruit. 
+
+In general, the rarer a fruit is, the less likely it is to be available, and the more costly it will be. His stock changes every four hours, and is  the same for every server, regardless of location or servers restarts.
+
+A list of fruits that he sells and their prices can be found on the [[Blox Fruits "Stock"|Stock]] page.
+
+==Time Zones==
+{{TimeZones}}
+
+==Notes==
+* The Blox Fruit Dealer is one of the only [[NPCs]] to have constantly rotating stock, including the Valentine and Confetti [[Event Shop|Event shops]].
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{NPC Navbox}}
+[[ru:Дилер Блокс Фруктов]]

@@ -1,0 +1,229 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title=Amor Fati|PrestigeTitle = Employee of the month|Rarity=Mythic|Class=Support|MovementSpeed=800 (Fast)<br>960 (with slipstream)<br>1040 (with Super)<br>1078 (with Hypercharged Super)<br>920 (with 1 ally and The Crowd Goes Mild)|HealthLabel=Health|Health=3700|AttackRange=8.33 (Long)|Reload=1.5 seconds (Normal)|AttackLabel=Dmg in work mode|Attack=750|AttackLabel2=Dmg in party mode|Attack2=850|AttackLabel3=Heal in party mode|Attack3=750|ReloadTime=|AttackSpeed=3500<br>3700 (work mode)|SuperLabel=Heal|Super=750|SuperRange=4.17|Gadget1Name=Weekend Warrior|Gadget1Cooldown=15 seconds|Gadget1Label=Projectile Damage||Gadget1Label2=Activation Damage|Gadget1=1680|Gadget12=1040|Gadget2Name=Time for a Slow Song|Gadget2Cooldown=12 seconds|Previous=Lumi|Next=Alli|AttackWidth=1.5<br>1.33 (trails)|AttackSuperCharge=0.175% (work mode)<br>0.2% (party mode)<br>0.25% (with Weekend Warrior)<br>0.175% (with Time For a Slow Song)|SuperDuration=2 seconds (speed boost)|VoiceActor=Unknown|AttackHyperchargeCharge=5.25% (work mode)<br>6% (party mode)<br>7.5% (with Weekend Warrior)<br>5.25% (with Time For a Slow Song)|HyperchargeMultiplier=3000%|Gadget1Duration=5 seconds|Gadget2Duration=5 seconds|SuperMovementSpeed=}}{{Quote|By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.}}{{Portrait}}
+Jae-yong is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a long range, a variable damage output and movement speed, and the ability to transform into multiple different modes through his Super and Gadgets. Playing as Jae-yong will replace the normal battle music with unique music for whichever mode he is in, unless he is respawning or defeated. He was the 91st Brawler added to the game. His Trait allows his Super to charge itself over time. In his work mode, he attacks with a speaker which drops slipstreams in his path, giving himself and allies a speed boost. In his party mode, he attacks with bottles that damages enemies and heals allies in his path. Jae-yong's Super switches between his party and work modes while giving allies temporary buffs: in work mode, it momentarily boosts the movement speed of his and nearby allies, and, in party mode, it instantly heals him and his allies. His first Gadget, Weekend Warrior, instantly deals damage in a circular area around him and temporarily changes his mode to increase his main attack damage. His second Gadget, Time For a Slow Song, instantly slows enemies in a circular area around him, and temporarily changes his mode to make his attacks slow down enemies. His first Star Power, The Crowd Goes Mild, increases his movement speed for every ally close to him. His second Star Power, Extra High Note, increases his main attack damage for every target it pierces. His Hypercharge, Crowd-Pleaser, reduces the cooldown of his Super, and boosts the Super activation.
+
+==Trait==
+{{Quote|This Brawler charges Super over time.}}{{Trait|Auto}}Jae-yong's Super automatically charges 15% per second, similar to [[Darryl]], and it takes approximately 6.67 seconds to fully charge. This Trait does not charge his Hypercharge. Unlike most Brawlers, he charges a miniscule percentage of his Super with his attacks.
+
+==Attack: Work Hard, Play Hard==
+{{Quote|Fires a piercing projectile, with different effects depending on Jae-yong's mode.<br>WORK: Deals less damage, but creates slipstreams with projectiles that give speed boosts to teammates and himself<br>PARTY: Heals teammates with a piercing, damaging projectile.}}In his work mode, Jae-yong throws piercing speakers that deal very low damage and drop trails of slipstreams that follow the attack's path. The slipstreams last for 2.5 seconds each, and increases his and allies' movement speed by 20% for 0.75 seconds on contact. However, they do not affect allies with a spawning invulnerability shield. In his party mode, Jae-yong throws piercing bottles that deal 13.3% more damage than work mode and heal allies in their path for 76.5% of party mode's damage. Both attacks can go through both allies and enemies.
+
+==Super: Mix It Up!==
+{{Quote|Switch between Jae-yong's Work & Party modes! Switching modes changes Jae-yong's main attack and activates the matching ability.<br>WORK: Gives all nearby teammates a temporary movement speed boost.<br>PARTY: Heals all nearby teammates.}}Jae-yong switches between his work and party modes, which changes his main attack. The attack cooldown is reduced to zero for the next attack when switching modes. When switching into his work mode, he creates a 4.17-tile radius area effect around him that increases the movement speed of his and teammates inside the area-of-effect by 30% for 2 seconds, similar to [[Max]]'s Super. However, it does not affect allies with a spawning invulnerability shield. When switching into his party mode, he instantly heals himself and allies. There is no direction of travel to this Super, so aiming is not required, though aiming can be used to show you the area-of-effect. An icon will appear beside his health bar that represents his current mode. His work mode is represented by a blue double upward-pointing chevron, and his party mode is represented by a green plus sign. This icon can be seen by all players in the game.
+
+Using the Super while either Gadget is active will instantly cancel the effects of that Gadget.
+
+==Gadgets==
+'''Note:''' When using the Super while the effects of either Gadget are active, the remaining Gadget duration is forfeited and cannot be reinstated.
+
+===Weekend Warrior===
+{{Quote|Deals area damage and increases main attack damage for 5 sec. Cooldown: 15 seconds.}}{{Gadget|1}}When activated, Jae-yong switches into his damage mode for 5 seconds, and his icon changes into that of an orange fist. The attack cooldown is reduced to zero for the next attack when switching modes. He instantly damages every target in a large 4.17-tile radius, with its damage being equal to the healing from party mode projectiles. The activation damage also charges his Super by 16.25% per hit, but does not charge his Hypercharge. In his damage mode, his main attack is changed into spoons, and the damage is increased to 40% more than work mode or 23.5% more than party mode, but won't drop speed-boosting slipstreams nor heal allies.
+
+===Time For a Slow Song===
+{{Quote|Jae-yong slows enemies around him and his attacks will leave trails of slowing paperwork for 5 sec. Cooldown: 12 seconds.}}{{Gadget|2}}When activated, Jae-yong switches to his slow mode for 5 seconds, and his icon changes to that of a yellow downward-pointing arrow. The attack cooldown is reduced to zero for the next attack when switching modes. He instantly slows every target in a large 4.17-tile radius by 30% for 2 seconds, and changes his attack to piercing speakers that deal the same damage as his work mode projectiles and drop trails of paperwork that follow the attack's path, but does not drop speed-boosting slipstreams nor heal allies. The paperwork lasts for 3.5 seconds each, and slow enemies down by 30% for 1.25 seconds on contact.
+
+==Star Powers==
+===The Crowd Goes Mild===
+{{Quote|Being near teammates gives Jae-yong a 15% speed boost per teammate in range.}}{{StarPower|1}}Jae-yong gains a 4.17-tile circle around him. His movement speed is increased by 15% for every nearby ally inside the radius. This speed boost stacks with more allies inside of the radius. Ally Jae-yongs will have their radius shown, while enemy Jae-yongs will have their radius hidden.
+
+===Extra High Note===
+{{Quote|Main Attacks now deal an additional 20% Damage per target pierced.}}{{StarPower|2}}This Star Power increases the attack projectile's damage by 20% for every target it has already hit. This Star Power affects Power Cube boxes in [[Showdown]], allowing for increased damage output if Power Cube boxes align with each other.
+
+==Hypercharge: Crowd-Pleaser==
+{{Quote|Jae's Super has a reduced cooldown during Hypercharge, and each Super activation is boosted.}}{{Hypercharge}}
+When activated, Jae-yong's Super automatically charges 6 times faster, reducing its cooldown to roughly 1.11 seconds, and the effects of each Super activated is increased by one third. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Leaves a trail that speeds up teammates. He also charges his Super faster.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Jae-yong left trails of slipstreams behind that increased the movement speed of his and his allies inside the area-of-effect. Additionally, he could charge his Super with his attacks.
+
+==Tips==
+===Game Modes and Maps===
+*Jae-yong is a great pick to support teammates in [[Bounty]] and [[Knockout]], giving fundamental boosts to them and being a good counter to commonly found snipers thanks to his speed boost.
+*Jae-yong is also a great Brawler in [[Trio Showdown]], being able to keep his teammates alive for long periods of time, which is fundamental in the Game Mode.
+*Though he lacks high HP or any way to take the Ball away from opponents holding it, Jae-yong can prove consistent speed boost to whoever on his team is holding the ball in [[Brawl Ball]]. His automatically charged Super additionally allows him to kick the ball with it without any consequence.
+*Jae-yong is great at supporting the Gem carriers in [[Gem Grab]], allowing them to heal up if under pressure or run away faster. He can additionally allow the team by starting the game aggressively by using the slipstream from his Work Mode to reach the center of the map quickly.
+
+===Recommended Build===
+*Both of Jae-yong's Gadgets find their use, therefore pick carefully based on the match up. Jae-yong's Weekend Warrior Gadget is useful against low HP Brawlers, while his Time for A Slow Song Gadget will help him avoid approaching assassins, who Jae-yong is weak against.
+**Jae-yong's Weekend Warrior Gadget can also be used to make up for his low DPS and matches nicely with the speed boost from his Super, or his Extra High Note Star Power.
+*Jae-yong's Hypercharge is charged through damage dealt rather than shots hit, meaning a shot paired with his Weekend Warrior Gadget will charge his Hypercharge more than a normal shot.
+*Jae-yong's The Crowd Goes Mild Star Power is very useful in 3v3 or 5v5 modes. It makes Jae-yong harder to kill as he becomes more evasive. As Jae-yong, you want to always stay close to your teammates to support them, and this Star Power benefits that gameplay style.
+*Jae-yong has a good synergy with almost all of the [[Gears]].
+**The [[Gears|Damage Gear]] helps Jae-yong, as it makes up with his usually low DPS, and has a good synergy with his Weekend Warrior Gadget. However, as Healer you don't wanna stay on low health for long, so if the Damage Gear doesn't fit your playstyle, the [[Gears|Shield Gear]] is another good option due to Jae-yong's average health.
+**As a Healer, it is important to often be on the battlefield to support your teammates. Therefore, the [[Gears|Health Gear]] pairs nicely with Jae-yong and helps him fulfill his role better.
+**Jae-yong's shots are very wide and easy to hit even from a distance. Therefore, if playing him in a bushy map, the [[Gears|Vision Gear]] pairs nicely with him.
+
+===Strategies===
+*At the beginning of the match, Jae-yong can attack forward to boost his and his teammates' movement speeds to control the center or to gain an advantage, such as grabbing Gems early in [[Gem Grab]] or grabbing the Blue Star in [[Bounty]]. Beware of splash damage when using this tactic.
+*Jae-yong's Super can be used frequently as it is charged every 6.67 seconds, so do not hesitate to use heal when any teammates are low on health and provide speed buffs when they have enough health to attack.
+**However, Jae-yong's Work Mode can be used to help him and teammates escape from close-range combat, so whenever there are assassins on the opponent team, keep an eye on them and swap to Work Mode whenever necessary.
+**To that end, use either Gadget, which are both effective in deterring enemies, when being surprised attacked by an opposing assassin.
+*A good strategy is to stay Party Mode and support your teammates while all 3 of you attack the enemy team. If the enemy team is forced to retreat, Jae-yong's Super will come immensively helpful by giving your team a speed bost to reach and finish your opponents off.
+**However beware that Jae-yong himself will have no way of healing up while attacking, so either poke your opponents from the back or switch to Work Mode and back again to Party Mode as soon as they're available to heal.
+*Jae-yong shines only if your teammates are playing Brawlers who actually benefit from your Supers, such as Tanks. Similarly to [[Byron]], Jae-yong pairs well with [[Ash]], being able to support him and heal him while his rage is active. Jae-yong's speed boost additionally works very well with Ash thanks to the speed he receives from his Rage Bar.
+*As both Brawlers promote staying close to your teammates, Jae-yong has a good synergy with [[Buster]]. Jae-yong can stay near Buster and charge his Super and get a speed boost thanks to his The Crowd Goes Mild Star Power, as well as support him as he closes in on enemies. Being a tank, Buster benefits greatly from Jae-yong's speed boost and heal.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super (Work)||Activating A Super (Party)||Activating The First Gadget||Activating The Second Gadget
+|-
+|{{Ogg|Filename = Jae start vo 01.ogg|Filedescription = "Melodic middle-aged mayhem."}}
+|{{Ogg|Filename = Jae lead vo 01.ogg|Filedescription = "This was just a rehearsal."}}
+|{{Ogg|Filename = Jae hurt vo 01.ogg|Filedescription = "Love has left, but I still fight."}}
+|{{Ogg|Filename = Jae kill vo 01.ogg|Filedescription = "Pitch perfect performance!"}}
+|{{Ogg|Filename = Jae dies vo 01.ogg|Filedescription = Jae-yong cries}}
+|
+|{{Ogg|Filename = Jae speed ulti vo 01.ogg|Filedescription = "Ride the rhythm of your heart!"}}
+|{{Ogg|Filename = Jae heal ulti vo 01.ogg|Filedescription = "For my fans!"}}
+|{{Ogg|Filename = Jae speed power vo 01.ogg|Filedescription = "Melody power!"}}
+|{{Ogg|Filename = Jae slow ulti vo 01.ogg|Filedescription = "Take a deep breath!"}}
+|-
+|{{Ogg|Filename = Jae start vo 02.ogg|Filedescription = "Singing king is ready to swing!"}}
+|{{Ogg|Filename = Jae lead vo 02.ogg|Filedescription = "Born to sing, built to win!"}}
+|{{Ogg|Filename = Jae hurt vo 02.ogg|Filedescription = "I should've stayed in accounting!"}}
+|{{Ogg|Filename = Jae kill vo 02.ogg|Filedescription = "This is not a duet!"}}
+|{{Ogg|Filename = Jae dies vo 02.ogg|Filedescription = "Mic drop moment." *cries*}}
+|
+|{{Ogg|Filename = Jae speed ulti vo 02.ogg|Filedescription = "Feel the moment!"}}
+|{{Ogg|Filename = Jae heal ulti vo 02.ogg|Filedescription = "I love you all!"}}
+|{{Ogg|Filename = Jae speed power vo 02.ogg|Filedescription = "Join the pain train!"}}
+|{{Ogg|Filename = Jae slow ulti vo 02.ogg|Filedescription = "Take a deep breath!"}}
+|-
+|{{Ogg|Filename = Jae start vo 03.ogg|Filedescription = "Kicking it old school, karaoke style!"}}
+|{{Ogg|Filename = Jae lead vo 03.ogg|Filedescription = "Second place is still respectable."}}
+|{{Ogg|Filename = Jae hurt vo 03.ogg|Filedescription = "If I die, play my demo."}}
+|{{Ogg|Filename = Jae kill vo 03.ogg|Filedescription = "Sing when you are winning!"}}
+|{{Ogg|Filename = Jae dies vo 03.ogg|Filedescription = "There is no ballad sad enough."}}
+|
+|{{Ogg|Filename = Jae speed ulti vo 03.ogg|Filedescription = "More passion, more energy, more footwork!"}}
+|{{Ogg|Filename = Jae heal ulti vo 03.ogg|Filedescription = "Mmm, I love you all!"}}
+|{{Ogg|Filename = Jae speed power vo 03.ogg|Filedescription = "Emotional damage."}}
+|{{Ogg|Filename = Jae slow ulti vo 03.ogg|Filedescription = "Let's take it down a notch."}}
+|-
+|{{Ogg|Filename = Jae start vo 04.ogg|Filedescription = "My love is battlefield."}}
+|{{Ogg|Filename = Jae lead vo 04.ogg|Filedescription = "I'm the real deal!"}}
+|{{Ogg|Filename = Jae hurt vo 04.ogg|Filedescription = "No! My dream can't end here!"}}
+|{{Ogg|Filename = Jae kill vo 04.ogg|Filedescription = "Time for a triumphant melody!"}}
+|{{Ogg|Filename = Jae dies vo 04.ogg|Filedescription = "Once again, I rise."}}
+|
+|{{Ogg|Filename = Jae speed ulti vo 04.ogg|Filedescription = "Show me some energy!"}}
+|{{Ogg|Filename = Jae heal ulti vo 04.ogg|Filedescription = "Let's mic this an unforgettable moment."}}
+|{{Ogg|Filename = Jae speed power vo 04.ogg|Filedescription = "Emotional damage!"}}
+|{{Ogg|Filename = Jae slow ulti vo 04.ogg|Filedescription = "Let's go nice and slow."}}
+|-
+|{{Ogg|Filename = Jae start vo 05.ogg|Filedescription = "The stage is set!"}}
+|{{Ogg|Filename = Jae lead vo 05.ogg|Filedescription = "The sweet taste of victory!"}}
+|
+|{{Ogg|Filename = Jae kill vo 05.ogg|Filedescription = "Come into my fiery heart!"}}
+|{{Ogg|Filename = Jae dies vo 05.ogg|Filedescription = "Time for an end call."}}
+|
+|{{Ogg|Filename = Jae speed ulti vo 05.ogg|Filedescription = "This is our moment!"}}
+|{{Ogg|Filename = Jae heal ulti vo 05.ogg|Filedescription = "This song is for you all."}}
+|
+|{{Ogg|Filename = Jae slow ulti vo 05.ogg|Filedescription = "Let's go nice and slow!"}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Jae kill vo 06.ogg|Filedescription = "My mic, my moment!"}}
+|
+|
+|{{Ogg|Filename = Jae speed ulti vo 06.ogg|Filedescription = "Let's go! It's party time!"}}
+|{{Ogg|Filename = Jae heal ulti vo 06.ogg|Filedescription = "This song is for you all!"}}
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Jae heal ulti vo 07.ogg|Filedescription = "I will give you all my heart."}}
+|
+|
+|}
+
+==History==
+*24/04/25:
+**{{Balance|Content=Jae-yong could be unlocked early as a bundle for $19.99.|Change=Neutral}}
+**{{Balance|Content=Jae-yong became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Jammin' Jae skin was added. It was featured as a Vibing skin.|Change=Neutral}}
+*30/04/25: 
+**{{Balance|Content=Fixed an issue with Jae-yong's voiceover.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Jae-yong became available in the Starr Road.|Change=Neutral}}
+**{{Balance|Content=Jae-yong's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Jae-yong's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Jae-yong's level up health was decreased to 550 (from 750) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Jae-yong's level up reload speed boost was decreased to 2% (from 2.5%) in Brawl Arena.|Change=Nerf}}
+*24/06/25:
+**{{Balance|Content=Jae-yong's True Silver and True Gold skins were added.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Jae-yong's level up health was decreased to 450 (from 550) in Brawl Arena.|Change=Nerf}}
+*13/10/25:
+**{{Balance|Content=Jae-yong's Crowd-Pleaser Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Jae-yong's Time For A Slow Song Gadget projectile slow was increased to 30% (from 20%), and the duration was increased to 1.25 seconds (from 0.75).|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, increasing Jae-yong's Crowd-Pleaser Hypercharge speed boost from 5%.|Change=Buff}}
+**{{Balance|Content=Jae-yong's reload time was increased to 1.5 seconds (from 1.45).|Change=Nerf}}
+**{{Balance|Content=Jae-yong's main attack unload speed was slightly decreased.|Change=Nerf}}
+**{{Balance|Content=Jae-yong's Weekend Warrior Gadget projectile damage was decreased to 1680 (from 1840).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Hypercharge with his Weekend Warrior Gadget was increased to 14 (from 13).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Jae-yong's Crowd-Pleaser Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Jae-yong's Crowd-Pleaser Hypercharge shield boost from 25%.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Buff|Jae-yong's level up health was increased to 550 (from 450) in Brawl Arena.}}
+*16/12/25:
+**{{Balance|Buff|Jae-yong's health was increased to 3500 (from 3400).}}
+*25/02/26:
+**{{Balance|Buff|Jae-yong's health was increased to 3700 (from 3500).}}
+*22/04/26:
+**{{Balance|Buff|Jae-yong's Time for a Slow Song Gadget cooldown was decreased to 12 seconds (from 15).}}
+**{{Balance|Buff|Jae-yong's level up reload speed boost was increased to 2% (from 0.02%) in Brawl Arena.}}
+*02/07/26:
+**{{Balance|Neutral|The Cyberpunk, Nano and Choom Jae-yong skins were added. They were featured as the Brawl Pass Season 52 skins and Nanonoodles skins.}}
+*01/09/26:
+**{{Balance|Buff|Jae-yong's main attack healing was increased to 750 (from 650).}}
+**{{Balance|Buff|Jae-yong's The Crowd Goes Mild Star Power movement speed boost was increased to 15% (from 10%).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Jae-yong's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Jammin' Jae|Cost1=Free from the early bundle, free from Mina Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Vibing|Rarity1=Rare
+|TrueSkins = Yes
+|NameP1=Cyberpunk|CostP1=2 Skin Keys|CampaignP1=Nanonoodles|RarityP1=Epic
+|NameP2=Nano|CostP2=Free after purchasing the Skin Set|CampaignP2_1=Brawl Pass|CampaignP2_2=Nanonoodles|RarityP2=Epic
+|NameP3=Choom|CostP3=Free after purchasing the Skin Set|CampaignP3_1=Brawl Pass|CampaignP3_2=Nanonoodles|RarityP3=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Jae-yong
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Jae-yong|Rarity = Common}}
+|{{Spray|Type = Jae-yong Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Jae-yong1}}
+|{{Pfp|Jae-yong2}}
+|{{Pfp|Jae-yong3}}
+|{{Pfp|Jae-yong4}}
+|}
+
+{{Navigation}}
+[[es:Jae-Yong]]
+[[ru:Джэ Ён]]

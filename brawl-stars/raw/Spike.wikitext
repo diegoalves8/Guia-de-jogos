@@ -1,0 +1,323 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = One of a Kind|PrestigeTitle = Speechless|Rarity = Legendary|Class = Damage Dealer|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3000|AttackRange = 7.67 (Long)|Reload = 2 seconds (Slow)|AttackBullets = 6<br>5 (with Popping Pincushion)|AttackSuperCharge = 12.975%|AttackHyperchargeCharge=3.875%|AttackLabel = Damage per spike|Attack = 540|SuperRange = 7.67 (Long)|SuperSuperCharge = 12.5%|SuperHyperchargeCharge=3.75%|SuperLabel = Damage per second|Super = 400|SuperMinion=Thorny grenade|SuperDuration=4.5 seconds|SuperMinionRange = 2.67<br>3.2 (with Hypercharge)|AttackSpeed=2174<br>3261 (spike)|AttackWidth=1<br>0.33 (spike)|SuperSpeed=1739<br>2261 (with Buffie)|HyperchargeMultiplier=30%|Gadget1Name = Popping Pincushion|Gadget1 = 480|Gadget1Label = Damage per needle at min. range|Gadget12 = 800|Gadget1Label2 = Damage per needle at max. range|Gadget1Cooldown=17 seconds|Gadget2Cooldown=20 seconds|Gadget2Name = Life Plant|Gadget2 = 2800|Gadget22 = 1440|Gadget2Label = Health|Gadget2Label2 = Heal|Previous=Ruby|Next=Crow|Gadget1Range=7.67|Gadget2Range=7.33}}
+{{Quote|Most people think Spike is [[Colt]] and [[Shelly]]'s cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma}}
+{{Portrait}}
+Spike is a {{Rarity|Legendary}} [[Brawler]] with moderately low health and long range, but a very high damage output at close range, in exchange for his slow reload speed. He was one of the 15 Brawlers who released at the first Beta launch. His attack is a cactus that explodes on impact and shoots spikes in all directions. His Super lobs a thorny projectile that creates a slowing and damaging patch of spikes on the ground. His first Gadget, Popping Pincushion, allows Spike to throw a row of spikes for his next attack. His second Gadget, Life Plant, spawns a cactus that provides cover for him and his teammates, and heals them in a radius once the cactus is destroyed. His first Star Power, Fertilize, allows Spike to heal himself when his Super damages enemies. His second Star Power, Curveball, causes the spikes shot out from his attack to curve in a circular motion. His Hypercharge, Blooming Season, increases his Super's radius.
+
+==Attack: Needle Grenade==
+{{Quote|Spike fires off a small cactus that explodes, shooting spikes in different directions.}}
+Spike shoots a long-ranged, damaging cactus that, upon impact with a target or wall, or reaching its maximum range, explodes and sends out 6 spikes radially for 4.33 tiles. The cactus itself also deals one spike's worth of damage to enemies in a 1-tile explosion radius. The spikes' pattern is fixed, with 60 degrees between each spike, and it doesn't rotate with the angle the cactus projectile is thrown. The attack deals devastating damage at point-blank range where more spikes can hit the enemy.
+
+==Super: Stick Around!==
+{{Quote|Spike lobs a thorny grenade. Enemies caught in the blast area take damage and are slowed down.}}
+Spike lobs a thorny grenade over obstacles that, upon landing, creates a circular patch of spikes on the ground that lasts for 4.5 seconds, dealing up to 5 ticks of damage. Enemies within its area of effect take damage over time and are slowed by 400 points for 1.05 seconds on contact. Spike's Super will land on the ground sooner the closer he throws it to himself.
+
+==Gadgets==
+===Popping Pincushion===
+{{Quote|Spike aims and fires a wave of needles that deal 1000 damage. Cooldown: 17 seconds.}}{{Gadget|1}}
+Spike shoots a row of 5 needles in the direction the Gadget is aimed. Each needle from this Gadget deals 92.5% of the damage as one of his main attack needles. This Gadget's cooldown begins after the attack is shot. 
+
+{{Quote|Targets that are hit with 2 needles become rooted for 1 seconds.}}{{Buffie|Gadget}}
+With the Buffie, the needles from this Gadget root enemies for one second if at least two of them hit, making the enemy unable to move but still able to attack. The Buffie also modifies the Gadget's damage to scale with distance. Targets near Spike's maximum range take the most damage, and targets closer to Spike take 60% of the damage.
+
+===Life Plant===
+{{Quote|Spike throws a large cactus with 3500 health to give cover to teammates. If destroyed, the cactus bursts, and all nearby teammates recover 1800 health. Cooldown: 20 seconds.}}{{Gadget|2}}
+Spike throws a projectile that spawns a large cactus that has 58.3% of his maximum health where it lands. Similar to [[Ruffs]]' Take Cover Gadget, it blocks non-piercing or bouncing/splitting narrow enemy fire. If the cactus is destroyed, the plant bursts and heals all allies in a 3.33-tile radius for 30% of Spike's maximum health. If Spike places down another cactus, the initial one will be destroyed and will heal allies. This Gadget's cooldown begins after the cactus is thrown. 
+
+{{Quote|When destroyed, the plant also deals 1200 area damage that pushes enemies back.}}{{Buffie|Gadget}}
+With the Buffie, the cactus' burst also deals 1200 damage to enemies and knocks them back.
+
+==Star Powers==
+===Fertilize===
+{{Quote|Super heals for 75% of damage dealt.}}{{StarPower|1}}
+This Star Power causes Spike to heal for 75% of the damage dealt from his Super. 
+
+{{Quote|Super projectile speed is 30% faster.}}{{Buffie|Star}}
+With the Buffie, the Super's projectile speed is 30% faster.
+
+===Curveball===
+{{Quote|Spikes from the cactus grenade fly in a curving motion, making it easier to hit targets.}}{{StarPower|2}}
+The spikes shot from his main attack now move in a curving clockwise motion instead of straight out, allowing Spike's attack to cover a larger effective area and ultimately hit more targets with his attack. This Star Power also effectively increases the range of the spikes.
+
+{{Quote|Curving spikes have extended range.}}{{Buffie|Star}}
+With the Buffie, the spikes now have an increased range, allowing for more coverage of area. The overall curvature of the spikes' paths is the same.
+
+==Hypercharge: Blooming Season==
+{{Quote|Stick Around has 20% larger area.}}{{Hypercharge}}
+When activated, Spike's Super area is increased. Despite the description, the 20% increase is of the radius and not the area. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attack needle grenades detonate twice!}}{{Buffie|Hyper}}
+With the Buffie, during his Hypercharge, Spike's main attack will leave an additional cactus grenade on the ground when it initially explodes. This second grenade will detonate ~0.6 seconds after the first one, acting identically to his main attack. Increased Hypercharge duration by 2 seconds.
+
+==Mythic Gear: Sticky Spikes==
+{{RemovedContent|section}}
+{{Quote|Spike's Super slows 30% more effectively.}}{{Gear|SpikeGear}}
+With this Gear equipped, Spike's Super slow was increased by 30%, from 350 to 455 points.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Spike's Needle Grenade splits into more projectiles.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>
+With this Mutation, Spike's attack split into 12 spikes radially.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Spikes from his cactus grenades travel further and curve more.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Spike's attack split into 12 spikes, which also moved in a curving clockwise motion instead of straight out, allowing his attack to cover a larger area and ultimately hit more targets with his attack. This Wasabi Power also effectively increased the range of the spikes. If the Curveball Star Power is used, the effectiveness of the curving effect was increased. Unlike the Curveball Star Power, the spikes from the Popping Pincushion also got curved.
+
+==Tips==
+===Game Modes and Maps===
+*Spike is versatile in [[Heist]] thanks to his high damage output: he can either go on defence with his unpredictable spread of attack and slowing Super, or go on the offense with his extreme damage output. Tanks who are favoured in this mode (i.e. [[Bull]], [[Darryl]], or [[El Primo]]) are countered by Spike, as without their Supers, they struggle to reach the opposing team's safe with their short range, and with Spike's slowing Super and damage, he can easily take them down at range. If Spike is positioned correctly or is at point-blank range of the safe, he can deal devastatingly high damage to it with his Popping Pincushion Gadget along with his high-damaging attack, which makes him a solid choice. Popping Pincushion can also serve as a fourth attack or during defence since Spike reloads slowly.
+*When defending a critical objective or controlling an area, Spike's Super and his Fertilize Star Power are useful for area denial, slowing and damaging enemies while healing himself. If the enemy team is fleeing with Gems in [[Gem Grab]] or attempting to score a goal in [[Brawl Ball]], you can hamper them from doing so with your Super.
+
+===Recommended Build===
+*Spike's Fertilize Star Power and Life Plant Gadget are useful for healing if your team lacks healers. If you find yourself charging your Super too often, don't hesitate to use it on yourself to heal you fully while you keep attacking enemies. If you or teammates are low on health and your Super isn't charged up, you can spawn your Life Plant Gadget down, hide behind it, and heal up. The extra healing his Life Plant provides when it's destroyed makes it even better for supporting Spike and teammates. These mechanics are also useful in [[Showdown]] when facing high-damaging enemies or in self-defense, especially in Showdown when being ambushed or pinched.
+*Spike's Curveball Star Power makes his attacks generally harder to dodge for most players, but more experienced players will have less trouble evading his attack. However, Curveball also has the ability to hit enemies behind cover in ways that his normal attack cannot.
+*A tip when playing against Spike: if the opposing Spike has Curveball Star Power equipped, here's what you can try in order to dodge his shots. Go a little left below the projectile (make sure not to collide with it, as it will split immediately and deal damage), just below the end of Spike's range, and as the shot splits, move upwards, go right, go down, and then go left (do this in quick succession). This means that you will spin in a clockwise circle. As Curveball always rotates at 75 degrees, his shots will split (in your vision) from right to left. Thus, walking from left to right allows you to just miss the spread of his attack. Going up and going down allows you to go back to the same position as you were before. This takes a lot of practice, but can be very effective when put into play.
+
+===Strategies===
+*Spike has low health and a slow reload speed. Because of this, it's best to practice shooting around obstacles, predicting his shot pattern, and predicting the enemy's movement to prevent opportunities for the enemies to damage you. However, his high damage output compensates for his low health and allows him to defeat enemies easily.
+*Spike's attack can deal devastating damage. One way to deal that maximum damage is at point-blank range of the enemy where his attack and Popping Pincushion Gadget work best at the aforementioned range. This makes him an excellent counter against close-ranged Brawlers such as [[El Primo]], [[Rosa]], [[Sam]], [[Edgar]], [[Doug]], [[Jacky]], [[Hank]], [[Kit]], [[Fang]], [[Lily]], [[Mico]], [[Kenji]], [[Bibi]], [[Buzz]], and [[Mortis]] who have to get close to Spike to damage him.
+*Spike is capable of dealing extremely high damage to grouped-up enemies due to the multiple spikes shot out from his attack on impact. His Super's area damage can also spell trouble for grouped-up enemies since they can't easily escape from Spike's attack or Popping Pincushion Gadget owing to the slow effect. This becomes more effective using his Sticky Spikes Mythic gear.
+*The 6 spikes that fly out from his attack always spread out in the same pattern (60-degree angles, or 75 degrees with Curveball) no matter what your position or rotation is. It is stable for you to practice this to know where the spikes will land, making it easier for you to hit enemies around corners and obstacles or to check bushes. This regularity comes in handy, imposing your attacks near a target is vitally impactful as it increases the chance of multiple spikes hitting the same target.
+*Use Life Plant Gadget to redirect shots such as auto-aimed shots, [[Meeple]]'s main attack, or [[Pierce]]'s attacks created by picking up his shells.
+
+==History==
+*27/06/17:
+**{{Balance|Nerf|Spike's health was decreased to 600 (from 700).}}
+*04/09/17:
+**{{Balance|Nerf|Spike's Super's slow duration now decreases once out of it's area of effect.}}
+*05/10/17:
+**{{Balance|Buff|Spike's Super projectile speed was increased.}}
+*07/12/17:
+**{{Balance|Neutral|Spike's Fertilize Star Power was added.}}
+**{{Balance|Neutral|The health and damage statistics of all Brawlers were multiplied by 4.}}
+*18/12/17:
+**{{Balance|Nerf|Spike's Fertilize Star Power healing was decreased to 500 (from 600) per second.}}
+*16/01/18:
+**{{Balance|Buff|Spike's reload time was decreased to 2 seconds (from 2.2).}}
+*21/03/18:
+**{{Balance|Buff|Spike's main attack projectile size was increased.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased by 70 points, increasing Spike's base movement speed to 720 (from 650).}}
+**{{Balance|Neutral|All Brawlers' projectile speeds were increased by 9%.}}
+*05/12/18:
+**{{Balance|Nerf|The range of the spikes in Spike's main attack was decreased to 4.33 tiles (from 5).}}
+**{{Balance|Neutral|The spikes now split in a set pattern (instead of randomly split).}}
+*29/01/19:
+**{{Balance|Neutral|Spike and Pinky Spike were remodeled, and Pinky Spike was renamed to Sakura Spike.}}
+**{{Balance|Neutral|Sakura Spike shoots flower-like projectiles instead of the normal Spike's needle grenades. Sakura Spike's Super was retextured and now has flowers.}}
+**{{Balance|Neutral|Spike's spikes were also retextured.}}
+**{{Balance|Neutral|Sakura Spike now costs 80 Gems (from 30).}}
+*15/04/19:
+**{{Balance|Buff|Quickfire now takes into account the added range from the projectile splitting.}}
+**{{Balance|Neutral|Spike's main attack effects were polished.}}
+*10/07/19:
+**{{Balance|Neutral|Spike's Curveball Star Power was added.}}
+*12/07/19:
+**{{Balance|Neutral|The Robo Spike skin was added.}}
+*29/08/19:
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 600 (from 500) per second.}}
+*23/10/19:
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 800 (from 600) per second.}}
+*07/11/19:
+**{{Balance|Nerf|Spike's Curveball Star Power angle was decreased to 50 (from 100) and the distance was decreased to 100 (from 200).}}
+*19/02/20:
+**{{Balance|Buff|Spike's main attack damage was increased to 520 (from 480) per spike.}}
+*17/03/20:
+**{{Balance|Neutral|Spike's Popping Pincushion Gadget was added.}}
+*07/04/20:
+**{{Balance|Buff|Spike's Curveball Star Power angle was increased to 75 (from 50).}}
+*13/05/20:
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget is no longer affected by his Curveball Star Power.}}
+*02/07/20:
+**{{Balance|Neutral|Spike's Popping Pincushion Gadget was retextured.}}
+*10/09/20:
+**{{Balance|Buff|Spike's main attack damage was increased to 560 (from 520) per spike.}}
+**{{Balance|Buff|His Super recharge rate was increased slightly.}}
+*18/09/20:
+**{{Balance|Neutral|The Mask Spike skin was added.}}
+*15/12/20:
+**{{Balance|Nerf|Spike's reload time was increased to 2.1 seconds (from 2).}}
+*19/02/21:
+**{{Balance|Neutral|The Dark Lord Spike skin was added. It was featured as a Lunar Brawl 2021 skin.}}
+*07/04/21:
+**{{Balance|Buff|Spike's reload time was decreased to 2 seconds (from 2.1).}}
+**{{Balance|Neutral|Spike's True Silver and True Gold skins were added.}}
+*08/07/21:
+**{{Balance|Neutral|Spike's Life Plant Gadget was added.}}
+*28/09/21:
+**{{Balance|Neutral|Fixed an issue where Spike's Life Plant Gadget would not get launched by jump pads.}}
+*27/10/21:
+**{{Balance|Neutral|Spike's class was changed to Damage Dealer (from Sharpshooter).}}
+*23/12/21:
+**{{Balance|Neutral|The Logmas Spike skin was added. It was featured as a Brawlidays 2021 skin.}}
+*27/04/22:
+**{{Balance|Nerf|Spike's Life Plant Gadget health was decreased to 1750 (from 3500).}}
+*13/05/22:
+**{{Balance|Neutral|The Pyro Spike skin was added. It was featured as a Stunt Show skin.}}
+*12/12/22:
+**{{Balance|Neutral|Spike's Sticky Spikes Mythic Gear was added.}}
+*25/04/23:
+**{{Balance|Neutral|Logmas and Pyro Spike now cost 79 Gems each (from 49).}}
+*27/06/23:
+**{{Balance|Buff|Spike's Popping Pincushion Gadget damage was increased to 800 (from 520) per needle.}}
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 1000 (from 800) per second.}}
+*05/09/23:
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*08/09/23:
+**{{Balance|Neutral|Spike's Blooming Season Hypercharge was added.}}
+*24/10/23:
+**{{Balance|Buff|Spike's Popping Pincushion Gadget damage was increased to 896 (from 800) per needle and now scales with Power Levels.}}
+**{{Balance|Buff|Spike's Life Plant Gadget health was increased to 1920 (from 1750), and its healing was increased to 1152 (from 1000). They now scale with Power Levels.}}
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 1008 (from 1000) per second and now scales with Power Levels.}}
+**{{Balance|Neutral|Spike's flavor text was changed from "Spike throws cactus grenades that send needles flying, and a show-stopping Super: a field of cactus spines that slows down and damages enemies!" to "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma"}}
+*12/12/23:
+**{{Balance|Nerf|Spike's Sticky Spikes Mythic Gear slow was decreased to 30% (from 50%).}}
+*18/12/23:
+**{{Balance|Neutral|Fixed an issue with Spike's Popping Pincushion Gadget damage.}}
+*12/01/24:
+**{{Balance|Neutral|The Toon Spike skin was added. It was featured as a Cartoon Studios skin.}}
+*27/02/24:
+**{{Balance|Buff|Spike's Blooming Season Hypercharge damage boost was increased to 25% (from 20%).}}
+**{{Balance|Nerf|Spike's Blooming Season Hypercharge multiplier was decreased to 35% (from 40%).}}
+**{{Balance|Nerf|Spike's Blooming Season Hypercharge speed boost was decreased to 26% (from 30%).}}
+**{{Balance|Nerf|Spike's Blooming Season Hypercharge shield boost was decreased to 5% (from 20%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+*01/04/24:
+**{{Balance|Neutral|The Poop Spike skin was added. It was featured as an April Fool's skin.}}
+*23/04/24:
+**{{Balance|Nerf|Spike's main attack damage was decreased to 540 (from 560) per spike.}}
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget damage was decreased to 864 (from 896) per needle.}}
+**{{Balance|Neutral|Poop Spike's main attack sound effects were reworked.}}
+*29/04/24:
+**{{Balance|Neutral|Spike's Mutation was added for a limited time.}}
+*20/05/24:
+**{{Balance|Neutral|Spike's Mutation was removed from the game.}}
+*27/08/24:
+**{{Balance|Buff|Spike's health was increased to 2600 (from 2400).}}
+**{{Balance|Buff|Spike's Life Plant Gadget health was increased to 2080 (from 1920).}}
+**{{Balance|Buff|Spike's Life Plant Gadget healing was increased to 1248 (from 1152).}}
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 1170 (from 1080).}}
+*09/11/24:
+**{{Balance|Neutral|Fixed a bug that caused Spike with his Fertilize Star Power and Demonfire Ability equipped to give him infinite healing in the trail of fire.}}
+*14/11/24:
+**{{Balance|Buff|Spike's health was increased to 2800 (from 2600).}}
+**{{Balance|Buff|Spike's Life Plant Gadget health was increased to 2240 (from 2080).}}
+**{{Balance|Buff|Spike's Life Plant Gadget healing was increased to 1344 (from 1248).}}
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 1260 (from 1170).}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Neutral|Spike's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Spike's Wasabi Power was removed from the game.}}
+*23/07/25:
+**{{Balance|Buff|Spike's Popping Pincushion Gadget cooldown was decreased to 14 seconds (from 15).}}
+**{{Balance|Buff|Spike's Life Plant Gadget cooldown was decreased to 14 seconds (from 15).}}
+*10/10/25:
+**{{Balance|Neutral|The Carreta Spike skin was added. It was featured as a Carreta skin.}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Spike's Blooming Season Hypercharge speed boost from 26%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Spike's Blooming Season Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Spike's health was increased to 3000 (from 2800).}}
+**{{Balance|Buff|Spike's Super slow was increased to 400 points (from 350).}}
+**{{Balance|Buff|Spike's Life Plant Gadget health was increased to 2800 (from 2240).}}
+**{{Balance|Buff|Spike's Life Plant Gadget healing was increased to 1440 (from 1344).}}
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget cooldown was increased to 17 seconds (from 14).}}
+**{{Balance|Nerf|Spike's Fertilize Star Power healing was decreased to 400 (from 800).}}
+**{{Balance|Content=Spike's Life Plant Gadget can now be aimed.|Change=Neutral}}
+**{{Balance|Neutral|Spike's Sticky Spikes Mythic Gear was removed, with his base Super's slow increasing by 15% (down from 30% with the Mythic Gear).}}
+**{{Balance|Neutral|Spike's Popping Pincushion Gadget was reworked from firing 3 waves of 10 spikes each to throwing a single row of 5 aimable spikes.}}
+**{{Balance|Neutral|Spike's Fertilize Star Power was reworked from healing Spike by 800 health per second while he stands in his Super to healing Spike from 50% of the damage dealt from his Super.}}
+**{{Balance|Neutral|Spike's Buffies were added.}}
+*23/01/26:
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget damage was decreased to 700 (from 864) per needle.}}
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget no longer charges his Super.}}
+**{{Balance|Nerf|Spike's Life Plant Gadget cooldown was increased to 18 seconds (from 14).}}
+*25/02/26:
+**{{Balance|Buff|Spike's Popping Pincushion Gadget damage was increased to 800 (from 700) per needle.}}
+**{{Balance|Nerf|Spike's Life Plant Gadget cooldown was increased to 20 seconds (from 18).}}
+**{{Balance|Nerf|Spike's Blooming Season Hypercharge multiplier was decreased to 30% (from 35%).}}
+**{{Balance|Nerf|Spike's Popping Pincushion Gadget now deals less damage to targets that are closer to him.}}
+*31/03/26:
+**{{Balance|Nerf|Spike's main attack damage was decreased to 490 (from 540).}}
+**{{Balance|Nerf|The number of hits necessary to charge Spike's Super was increased to 8 hits (from 7).}}
+**{{Balance|Neutral|Fixed an issue where Spike's Popping Pincushion Gadget was not applying distance-based damage scaling when not buffied.}}
+*07/05/26:
+**{{Balance|Neutral|The Starr Patrol, Starr Guardian and Starr Scout Spike skins were added. They were featured as Brawl Pass Season 50 skins and Starr Patrol skins.}}
+*30/06/26:
+**{{Balance|Buff|Spike's main attack damage was increased to 540 (fron 490).}}
+**{{Balance|Buff|Spike's Fertilize Star Power healing was increased to 75% (from 50%).}}
+**{{Balance|Nerf|Spike's Super charge rate was decreased to 94 (from 106).}}
+*08/07/26:
+**{{Balance|Neutral|Fixed missing visual effects on Spike's skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Spike's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (14)===
+{{Skin Gallery
+|Name1 = Mask|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1 = Gift Shop|Rarity1=Rare
+|Name2 = Sakura|Cost2 = Free from Classic Brawl Mega Boxes or 79 Gems|Campaign2 = Golden Kawaii|Rarity2=Super Rare
+|Name3 = Logmas|Cost3 = Free from Presents or 79 Gems • '''S'''|Campaign3 = Brawlidays|Rarity3=Super Rare
+|Name4 = Pyro|Cost4 = 79 Gems|Campaign4 = Stunt Show|Rarity4=Super Rare
+|Name5 = Robo|Cost5 = 149 Gems|Campaign5 = Max Force|Rarity5=Epic
+|Name6 = Dark Lord|Cost6 = 149 Gems • '''S'''|Campaign6 = StarrForce Assemble|Rarity6=Epic
+|Name7 = Carreta|Cost7 = 149 Gems|Campaign7 = Carreta|Rarity7=Epic
+|Name8 = Poop|Cost8 = 199 Gems|Campaign8 = April Fool's|Rarity8=Mythic
+|Name9 = Toon|Cost9 = Free from Nova Drops, free from Starr Nova Boxes or 299 Gems|Campaign9 = Cartoon Studios|Rarity9=Legendary
+|TrueSkins = Yes
+|NameP1 = Starr Patrol|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Starr Patrol|RarityP1=Epic
+|NameP2 = Starr Guardian|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Starr Patrol|RarityP2=Epic
+|NameP3 = Starr Scout|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Starr Patrol|RarityP3=Epic
+}}
+
+===Buffie Skins===
+<gallery>
+Spike Buffie Skin-Gadget.png|Gadget
+Spike Buffie Skin-Star.png|Star
+Spike Buffie Skin-Hyper.png|Hyper
+Spike Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Spike 
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Dark Lord|Happy}}
+{{Pin Table|Logmas}}
+{{Pin Table|Sakura}}
+{{Pin Table|Pyro}}
+{{Pin Table|Toon}}
+{{Pin Table|Robo|GG}}
+{{Pin Table|Poop|Special}}
+{{Pin Table|Carreta|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Spike|Rarity = Common}}
+|{{Spray|Type = Spike Hypercharge|Rarity = Exclusive}} 
+|{{Spray|Type = Toon Spike|Rarity = Common}}
+|{{Spray|Type = Poop Spike|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Spike1}}
+|{{Pfp|Spike2}}
+|{{Pfp|Spike3}}
+|{{Pfp|Toon Spike}}
+|{{Pfp|Robo Spike}}
+|-
+|{{Pfp|Poop Spike}}
+|{{Pfp|Dark Lord Spike}}
+|{{Pfp|Carreta Spike}}
+|}
+
+{{Navigation}}
+[[ru:Спайк]]
+[[pl:Spike]]

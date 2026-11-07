@@ -1,0 +1,186 @@
+{{Tabber V2
+|link1 = Electric
+|tab1  = Electric
+|link2 = Electric Claw
+|tab2  = Electric Claw
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name   = Electric
+|source = Mad Scientist
+|update = 2
+|sea    = 1/2/3
+|money  = 500,000
+|item=Lightning Bolt}}
+'''Electric''' (formerly known as Electro) is a [[Fighting Styles|fighting style]] obtainable in the [[First Sea]] (or any other sea).
+
+The style allows the user to conjure electric attacks through their hands, having some fairly decent damage, and being able to stun enemies. All of the moves are [[Area of Effect|AoE]] so that beginners can grind enemies, by grouping them up easily and hit them at once.
+
+==Obtainment==
+Electric can be learned for{{Money|500,000}} from the [[Mad Scientist]], which is located near [[Boat Dealer]] in [[Skylands]], Hot side of [[Hot and Cold|Hot And Cold]] in [[Second Sea]] and [[Castle on the Sea]] in [[Third Sea]].
+
+==Mastery==
+* '''300+ Mastery:''' Electric is one of the requirements to obtain [[Superhuman]] in [[Second Sea]] (or [[Third Sea]]).
+* '''400+ Mastery:''' Electric can be "upgraded" to [[Electric Claw]] in [[Third Sea]].
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Electric Fists
+|gif      = Electric M1
+|desc     = The user punches repeatedly three times before ending with an uppercut that deals knockback.
+}}
+
+{{Skill
+|key      = Z
+|name     = Stomp
+|mastery  = 50
+|cooldown = 6
+|energy   = 20
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]].
+|gif      = Stomp Revamp
+|desc     = The user leaps into the air. They then fill their hand with electricity and linger in the air for a short second. The user then slams down into the ground, creating a small explosion of lightning. This can be aimed by holding a direction key on startup (i.e. forward, backward, left, right etc).
+}}
+
+{{Skill
+|key      = X
+|name     = Electrical Tackle
+|mastery  = 100
+|cooldown = 10
+|energy   = 30
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]].
+|gif      = Electrical Dash Revamp
+|desc     = The user dashes forward where the cursor points, doing medium damage. Used primarily for dashing forward mid-air.
+}}
+
+{{Skill
+|key      = C
+|name     = Electrical Floor
+|mastery  = 200
+|cooldown = 15
+|energy   = 60
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]].
+|gif      = Electrical Floor Revamp
+|desc     = The user slams their fists in the ground, infusing the ground in front of them with electric rays for a few moments, doing AoE and stun.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{| class="fandom-table
+! class="mobileonly" | Pros
+|-
+|'''General'''
+* Fair click speed.
+* Excellent choice for beginners.
+* All moves can damage [[Sea Beast]]s.
+* Good choice for [[Buddha]] users.
+* Second highest damage of any V1 [[Fighting Style]], only behind [[Superhuman]]
+|-
+|'''[Z] Stomp'''
+* Can be used as a counterattack for long windup moves that the user can jump over.
+* This move will not cancel even the user takes damage from enemy.
+|-
+|'''[X] Electrical Tackle'''
+* Decent mobility.
+* Decent damage.
+* Good range.
+* Decent combo potential.
+|-
+|'''[C] Electrical Floor'''
+* Does tick damage.
+* One of the highest damaging moves in the v1 fighting styles.
+* Good combo potential as it stuns the enemy for the entire duration of the move, allowing for others to hit the target while they are stunned.
+* Long stun, allowing others to hit the target while they are stunned.
+* The user can switch to another ability to quickly link moves together.
+* Can stun many enemies at once.
+|}
+
+|-|Cons=
+{| class="fandom-table"
+! class="mobileonly" | Cons
+|-
+|'''General'''
+* Cannot hit [[Rubber]] users.
+* Second slowest click speed (First being [[Dark Step]] and not counting [[Combat]]).
+* Ground based attacks.
+|-
+|'''[Z] Stomp'''
+* Short range.
+* Long startup.
+* Ineffective in PvP.
+* Can sometimes not work on NPCs.
+* Sometimes the move doesn't go to its full height (Even if the player isn't under something), allowing for enemies to still hit them.
+* Can be hard to aim, as it only hits in a small [[AoE]] area.
+* Brings enemies to the air, making it hard to combo with in PvP.
+* Easy to dodge.
+* Easily predictable.
+|-
+|'''[X] Electrical Tackle'''
+* Very small hitbox.
+* Easy to miss.
+* Bad for PvP.
+* The user has to get close to the enemy.
+* High endlag
+|-
+|'''[C] Electrical Floor'''
+* Short range.
+* May mess up and only half of this move is affected.
+* Locks the user in place, making this move highly punishable if the user misses.
+* Instinct trickable, making it useless if the opponent has instinct on.
+|}
+
+|-|Notes=
+{| class="fandom-table"
+! class="mobileonly" | Notes
+|-
+|'''General'''
+* Electric is good in [[First Sea]] grinding, as well as [[Water Kung Fu]].
+* Electric is said to be one of the best [[fighting styles]] in the [[First Sea]].
+|-
+|'''[Z] Stomp'''
+* With good enough aim, '''[X] Electrical Tackle''' can be landed mid-air after this move.
+* Using Buddha's awakened Z move, Stomp will travel about twice as far.
+|-
+|'''[X] Electrical Tackle'''
+* While using [[Buddha]]'s [Z] move (unawakened or awakened), the hitbox will be at arm height.
+|-
+|'''[C] Electrical Floor'''
+* The user can switch to another ability to quickly link moves together, offering great combo potential.
+* While using [[Buddha]]'s [Z] move (unawakened or awakened), the hitbox of this move will be at hand height instead of being on the ground.
+* Good for [[Raids]], as the user can use this move to stun [[Bosses]] while others can freely attack them.
+|}
+</tabber>
+
+== Gallery ==
+<gallery>
+File:Electric Idle.gif|Idle Stance
+</gallery>
+
+==Trivia==
+* Due to having electrical properties, Electric cannot harm [[Rubber]] users due to [[Rubber]] being immune to electricity.
+* While Electric is equipped, the user's hands will be covered in electricity, though this is purely cosmetic.
+* There is a bug where if you try to re-equip it after buying it already, you still need {{Money|500,000}} to buy it.
+* In the event that the insufficient money bug occurs, the user must have the [[Saber/Puzzle]] Relic in their inventory.
+* The old version of Electric is used by the Shocker Enemy seen in [[Raids]].
+
+==Change History==
+{{Change History|2|content=
+{{Update|17.3}}
+* Electric was revamped.
+----
+{{Update|2}}
+* Electric was released.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[Category:Upgradable]]
+[[Category:Skylands]]
+[[ru:Электричество]]

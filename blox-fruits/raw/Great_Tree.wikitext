@@ -1,0 +1,91 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Great Tree
+|image    = <gallery>
+Great Tree.png|Overview
+GreatTree.png|Map (Old)
+</gallery>
+|type     = Island
+|sea      = Third Sea
+|level    = 1700-1775
+|music    = The Lion and the Lamb
+|prev     = Hydra Island
+|next     = Floating Turtle
+}}
+The '''Great Tree''' is the third island in [[Third Sea]].
+
+==Subareas==
+* [[Temple of Time]]
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Barista Cousin]] (sometimes)
+* [[Boat Dealer]]
+* [[Crew Captain]]
+* [[Luxury Boat Dealer]]
+* [[Marine Tree Quest Giver]]
+* [[Mysterious Force]]
+* [[Set Home Point]]
+|
+* [[Marine Commodore]]
+* [[Marine Rear Admiral]]
+|
+* [[Kilo Admiral]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+![[Elemental]] Level
+!Description
+!Reward
+|-
+| rowspan="3" | [[Marine Tree Quest Giver]]
+|Marine Commodore
+|1700
+|N/A
+|Defeat 8 [[Marine Commodore]]s
+|{{Money|13,000}}<br />{{EXP|68,000,000}}
+|-
+|Marine Rear Admiral
+|1725
+|1790
+|Defeat 8 [[Marine Rear Admiral]]s
+|{{Money|15,000}}<br />{{EXP|70,500,000}}
+|-
+|Kilo Admiral
+|1750
+|N/A
+|Defeat [[Kilo Admiral]]
+|{{Money|35,000}}<br />{{EXP|78,000,000}}
+|}
+
+==Notes==
+* [[Barista Cousin]] can spawn on the Great Tree, on a rock near the tree.
+* [[Elite Pirates]] can spawn on the Great Tree.
+* The "Banana" fruit for the [[Hungry Man Quest]] spawns on the Great Tree.
+* When climbing the Great Tree, if players use mobility moves at the top leafy part (where the purple platform is), a camera glitch may cause them to go backwards instead. It is recommended to go in first person, with a [[flight]] move, or climb the tree entirely with [[Air Jump|air jumps]].
+* If the player does not have any [[Blox Fruits]] with mobility, it is recommended to use [[Dragon Talon]] to climb the Great tree, As the {{Ability|Dragon Talon|Z}} and upgraded {{Ability|Dragon Talon|X}} can be used to fly up to the leaves. [[Electric Claw]] is a decent alternative if the player does not have upgraded Dragon talon.  
+** It is possible to climb the Great Tree without special fruits, however it is quite difficult to do so.
+** At the top of the Great Tree, the [[Mysterious Force]] [[NPCs|NPC]] can be found.
+
+*
+
+==Navigation==
+{{IslandNavigation}}
+
+==Change History==
+{{Change History|15|content=
+{{Update|24}}
+* Great Tree was revamped.
+----
+{{Update|15}}
+* Great Tree  was released.
+}}

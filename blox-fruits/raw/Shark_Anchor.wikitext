@@ -1,0 +1,149 @@
+{{CombosTab}}
+{{About|the sword from an Anchored Terrorshark||Shark (Disambiguation)}}
+{{Weapon Infobox
+|name      = Shark Anchor
+|image     = <gallery>
+Shark Anchor.png|Icon
+Shark Anchor back.png|In-Game
+SA Without aura.webp|Held
+Shark Anchor (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 20
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|obtain    = Use [[Monster Magnet]], and then Defeat [[Terrorshark#Anchored Terrorshark|Anchor Terrorshark]]
+}}
+{{Quote|An anchor empowered by the spirit of a [[Terrorshark]], capable of forcefully dragging foes into the depths.|Item}}
+The '''Shark Anchor''' is a {{Legendary}} [[sword]].
+
+The Shark Anchor is an excellent choice for Sword Mains in [[PvP mechanics|PvP]], as it provides serious damage with moves that have low cooldowns and are easy to land. 
+
+Although amazing on the ground, it loses some effectiveness in the air. However, it is not a major issue, as with practice, the moves can still be landed in the air consistently.
+
+==Obtainment==
+The Shark Anchor is dropped from defeating an [[Terrorshark#Anchored_Terrorshark|Anchored Terrorshark]]. Only the player who had their [[Monster Magnet]] consumed can obtain the Shark Anchor once they defeat the Anchored Terrorshark. The player has to also deal at least 10% of the damage to the Anchored Terrorshark.
+
+A system message will appear ("'''''Your Monster Magnet has attracted an irregular beast...'''''") upon consumption of the [[Monster Magnet]].
+
+[[File:TerrorsharkWithAnchor.png|none|thumb|A [[Terrorshark]] that has consumed the [[Monster Magnet]].]]
+
+==Upgrading==
+{{Upgrading|Shark Anchor}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Shark Anchor M1
+|desc     = The player swings 3 times, ending with a lunge.
+}}
+
+{{Skill
+|key      = Z
+|name     = Typhoon Toss
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = The explosion breaks Instinct, but the swing and drag do not.
+|gif      = Shark_Anchor_Z
+|desc     = The user starts to rapidly rotate the anchor with a chain, similar to [[Dough#Abilities|awakened Dough [C]]] then the user shoots a fast water shark in the direction of the mouse. When this projectile makes contact with something, a water tornado is formed and explodes, throwing it upwards. This attack gets bigger if the user charges this skill.
+}}
+
+{{Skill
+|key      = X
+|name     = Armor Breaker
+|mastery  = 350
+|cooldown = 13.5
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct on the initial slash, but the second slash could be Instinct-tricked.
+|gif      = Shark_Anchor_XA
+|desc     = The user dashes forward, performing an uppercut with the sword. Enemies hit will be dragged along and slammed down, creating an anchor symbol on the ground if performed close to it.
+|gif1     = Shark_Anchor_XB
+|desc1    = This move creates a pink shatter and red slash effect and deals more damage if used against big targets. These include: [[Sea Beast]]s, [[Boats|ships]], [[Terrorshark]]s, [[Factory]] Core, [[Leviathan]], and [[Lava Golem]]'s. This move also reduces armor from transformed players as [[Buddha]] users, [[Mammoth]] users, [[Dragon]] users, etc.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High damage.
+* High combo potential.
+* All moves are [[AoE]] and grab multiple enemies at the same time.
+* Good [[stun]] abilities.
+* Good for PvP.
+* Extremely good against [[Leviathan]].
+* All moves are multi-target, which can hit [[Sea Beast]]s.
+
+|'''[Z] Typhoon Toss'''
+* The explosion [[Instinct Break|breaks Instinct]].
+* Large AoE.
+** Difficult to counter.
+* Long range.
+* Low endlag.
+* Good against larger [[Transformation]] users.
+
+|'''[X] Armor Breaker'''
+* [[Instinct Break|Breaks Instinct]] on the first hit.
+* Good mobility.
+* Extremely serious damage when hitting large targets.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to obtain.
+* High [[mastery]] requirements.
+* M1 is not the best, having a slow speed and a dash on the fourth hit.
+* All moves can be [[Instinct]]-tricked.
+
+|'''[Z] Typhoon Toss'''
+* High knockback.
+* Weak in the air.
+* The pull breaks instinct, but the explosion after the pull can be Instinct-tricked.
+
+|'''[X] Armor Breaker'''
+* The slam can be dodged with [[Instinct]].
+* Can be hard to hit without stuns.
+* If aimed down at the sea, the inability to move during the slam will keep the user in the water, making them drown.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+SharkAnchorThrow.jpg|Shark Anchor’s model
+</gallery>
+
+==Trivia==
+{| class="fandom-table"
+|'''General'''
+* It is recommended to use close-ranged fruits like [[Portal]] to increase combo effectiveness instead of using long ranged [[Blox Fruits]] like [[Lightning]].
+* The Shark Anchor is the third water-related sword, the first being [[Trident]] and the second being [[Dragon Trident]].
+* The Shark Anchor's M1s have a similar sound and VFX to that of [[Sharkman Karate]] and [[Water Kung Fu]]. This does not mean that the M1s do not have any delays.
+* The Shark Anchor has the same holding animation as the [[Hallow Scythe]].
+|-
+|'''[Z] Typhoon Toss'''
+* When used near a wall, gold marks will appear on the wall.
+* Acts quite similar to [[Cursed Dual Katana]]'s [Z] and awakened [[Dough]]'s [C] move.
+* Aiming this move at the ground instead of away will briefly stun the enemy, making [[combos]] easier and more damaging.
+|-
+|'''[X] Armor Breaker'''
+* This move increases the damage on a large enemy, but that does not mean it completely ignores the defense of some transformed fruits. (Such as [[Buddha]], the untransformed user will take 300 damage with one [[Stats|stat]] level, but in the transformed form it is reduced to 200.)
+* Interestingly, Transformed [[Phoenix]], [[Venom]], [[Tiger]], and [[Dragon#Transformed (East)|Eastern Dragon]] users do not trigger the special effect of its '''[X] Armor Breaker'''.
+|}
+
+==Change History==
+{{Change History|20}}
+
+==Navigation==
+{{Sword Navbox}}
+
+[[Category:Drops]]

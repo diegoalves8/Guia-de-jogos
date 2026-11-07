@@ -1,0 +1,131 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Iron Mace
+|image     = <gallery>
+Iron Mace.png|Icon
+Iron Mace EQ.png|In-Game
+Iron Mace Held.png|Held
+Iron Mace (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Uncommon
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Pirate Village
+|obtain    = Bought
+|source    = [[Sword Dealer of the West]]
+|price     = {{Money|25,000}}
+}}
+{{Quote|Is guaranteed to knock your enemies away, although it weighs a lot.|Item}}
+The '''Iron Mace''' is an {{Uncommon}} [[sword]].
+
+Apart from the [[Area of Effect|AoE]] slam on the final m1, the sword lacks much use or utility.
+
+==Obtainment==
+The Iron Mace can be purchased for {{Money|25,000}} from the [[Sword Dealer of the West]], who is located at the [[Pirate Village]] found in the [[First Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Iron Mace M1
+|desc     = The player does 2 swipes, then performs a slam on the third.
+}}
+
+{{Skill
+|key      = Z
+|name     = Mace Smash
+|mastery  = 1
+|cooldown = 7
+|energy   = ?
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = IronmZ
+|desc     = The user smashes the mace on the ground, generating a powerful shockwave that inflicts damage to nearby enemies as well as three deep cuts in the ground.
+}}
+
+{{Skill
+|key      = X
+|name     = Killer Combo
+|mastery  = 30
+|cooldown = 11
+|energy   = ?
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = IronmX
+|desc     = The user rapidly swings the mace, dealing damage multiple times to enemies in front of them.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Cheap to obtain.
+* Good option for beginners.
+* Ideal for grinding at low levels.
+* Very low mastery requirements.
+
+|'''Normal Attack''' (Tap)
+* Large hitbox.
+
+|'''[Z] Mace Smash'''
+* Decent knockback.
+
+|'''[X] Killer Combo'''
+* Large [[AoE]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Better used in close-ranged combat, which can make it ineffective against enemies with long-ranged abilities.
+* Low damage.
+* Becomes less effective for grinding at higher levels and has limited use.
+* Lack of mobility.
+* Weak in the air.
+
+|'''[Z] Mace Smash'''
+* Needs a decent aim to use.
+* Doesn't work in the air.
+
+|'''[X] Killer Combo'''
+* Extremely terrible in the air. 
+}}
+</tabber>
+
+==Trivia==
+* The Iron Mace is the only sword that has visible spikes on it.
+* When the user holds {{Ability|X}} then rapidly unequips the Iron Mace right before the move finishes its animation, they will be rendered immobile until the user resets or leaves the game. This glitch can be useful for AFK grinding [[enemies]] by preventing the user from moving or perhaps taking knockback from attacks. (This can prove useful for lower leveled players with [[Elemental]] fruits, but does not really help that much with general grinding.)
+* The Iron Mace, despite being classified as a sword, is a Mace.
+* The Iron Mace, alongside [[Shark Saw]] and [[Bisento]] are the only swords that slam on the ground on the last M1.
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Iron Mace's model was revamped.
+<gallery>
+Iron Mace Icon (Old).png|Old Iron Mace model
+</gallery>
+----
+{{Update|20}}
+* Iron Mace's moves were revamped.
+<gallery>
+MaceSmash.gif|'''[Z] Mace Smash'''
+KillerCombo.gif|'''[X] Killer Combo'''
+</gallery>
+----
+{{Update|1}}
+* Iron Mace was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

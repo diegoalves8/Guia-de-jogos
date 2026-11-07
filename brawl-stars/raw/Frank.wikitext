@@ -1,0 +1,378 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Tank|Rarity = Epic|PrestigeTitle = Certified Lobotomy|Class = Tank|MovementSpeed = 800 (Fast)|HealthLabel = Health|Health = 6800|AttackRange = 6 (Normal)|Reload = 0.8 seconds (Very Fast)|AttackSuperCharge = 34.8%<br>31% (with Irresistible Attraction)|AttackLabel = Damage|Attack = 1160|SuperRange = 7 (Long)|SuperSuperCharge = 37.2%|SuperLabel = Damage|Super = 1240|AttackSpread=58.5°<br>20.25° (with Active Noise Cancelling)|AttackSpeed=5000|AttackWidth=|SuperSpread=58.5°<br>360° (with Hypercharge)|SuperSpeed=6000|SuperWidth=|Gadget1Name=Active Noise Canceling|Gadget1Cooldown=16 seconds|Gadget1 = 960|Gadget1Label = Damage|Gadget2Name = Irresistible Attraction|Gadget2Cooldown=20 seconds|Gadget2 = 1984|Gadget2Label= Damage|StarPower2Name = Sponge|StarPower2 = 1224|StarPower2Label = Health Increase|VoiceActor=Martin Schjøler|Previous=Pam|Next=Bibi|HyperchargeMultiplier=30%|AttackHyperchargeCharge=10.425%<br>9.3% (with Irresistible Attraction)|SuperHyperchargeCharge=11.15%|Gadget1Duration=3.5 seconds|Gadget2Range=7.33|Gadget1Range=6}}
+{{Quote|Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.}}
+{{Portrait}}
+Frank is an {{Rarity|Epic}} [[Brawler]] who has the highest health of any Brawler, a medium range, a very fast reload speed, and a high damage potential, but loses mobility when attacking or using his Super. He was the 20th/21st Brawler added to the game. His Trait allows Frank to charge his Super from enemies damaging him. His attack is a delayed swing of his hammer on the ground that sends a shockwave at full health, but the delay decreases as his health gets lower. His Super, similar to his attack, is a larger and longer-ranged shockwave that destroys obstacles and stuns enemies it hits at the expense of a longer delay. His first Gadget, Active Noise Canceling, allows him to temporarily become immune to stuns, slows, and knockbacks. His second Gadget, Irresistible Attraction, allows his next attack to pull hit enemies towards him and increases damage. His first Star Power, Power Grab, momentarily increases his damage output after defeating an enemy Brawler. His second Star Power, Sponge, increases his maximum health for the full duration of the match. His Hypercharge, Seismic Smash, makes his Super hit anyone in a circular area around him.
+
+==Trait==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Frank takes damage from an enemy Brawler and the enemy Brawler's spawnables, he charges his Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Frank's max health of damage to charge his Super completely, and all damage is calculated after shielding and other effects.
+
+==Attack: Hammer Hit==
+{{Quote|Frank takes a while to wind up his hammer blow, but the hit is so hard it sends a shockwave. His attack speed goes up when his health goes down.}}Frank slams his hammer on the ground, sending a medium-ranged shockwave that pierces enemies. The attack takes time to wind up, at 0.6 seconds. Frank has a very fast reload speed but a large attack delay of 1.2 seconds when he has full health, but the delay decreases as he loses health, causing him to attack up to 60% faster. Frank is immobile while attacking, and if hit with a stun, pull, or knockback during the delay, his attack is cancelled.
+
+==Super: Stunning Blow==
+{{Quote|Frank's greatest hit sends a shockwave that destroys environment and stuns enemies for a while.}}Frank spins in a circle, visually leaps into the air, and swings his hammer on the ground, sending a larger shockwave that travels further, destroys obstacles, and stuns enemies for 2 seconds. Enemies hit are rendered completely vulnerable to fire, at the expense of his Super having a significantly larger delay than his attack at 1.7 seconds. Just like his attack, Frank is immobile while performing his Super, and if hit with a stun, pull, or knockback during the large delay, his Super is cancelled. Unlike his attack, Frank's Super delay does not reduce with less health.
+
+==Gadgets==
+===Active Noise Canceling ===
+{{Quote|Fires a soundwave in a target direction, dealing 1200 damage to Brawlers. Frank becomes immune to Crowd Control for 3.5 secs. Cooldown: 16 seconds.}}{{Gadget|1}}Upon activation, Frank fires a narrow, piercing soundwave in the direction he aims the Gadget, dealing 51.72% of his main attack damage to enemies hit. It does not consume ammo. In addition, he becomes immune to stuns, slows, knockbacks, silences, roots, and [[Willow]]'s Hex cancelling effect for 3.5 seconds, excluding the knockback from [[Sprout]]'s Super. This Gadget can't be used while he's attacking or using his Super.
+
+{{Quote|Soundwave also destroys enemy projectiles.}}{{Buffie|Gadget}}
+With the Buffie, the soundwave also destroys enemy projectiles. Projectiles that leave an area of effect like [[Brock]]'s rockets or explode into more projectiles like [[Spike]]'s needles will still explode when destroyed.
+
+===Irresistible Attraction===
+{{Quote|Frank aims a long-range attack that pulls enemies torwards him. Consumes ammo. Does 2480 damage. Cooldown: 20 seconds.}}{{Gadget|2}}When using the Gadget to aim, Frank's next attack fires a narrow, piercing projectile that deals damage equal to his Super damage and pulls enemies towards him. This cancels any attacks and Supers, such as an opposing Frank's Super. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|Enemies are slowed for 2 sec when hit.}}{{Buffie|Gadget}}
+With the Buffie, this Gadget also slows down enemies hit by 70% for 2 seconds, allowing Frank to deal more damage with other attacks.
+
+==Star Powers==
+===Power Grab===
+{{Quote|Frank steals the power of a Brawler he defeats, increasing his damage by 15% for 12 seconds!}}{{StarPower|1}}After defeating an enemy Brawler, Frank glows purple and his damage is increased by 15% for 12 seconds while it’s active and if there aren’t any outside damage buffs or debuffs. If he defeats another enemy while it’s active, the effect doesn’t stack, but the duration is refreshed. 
+
+{{Quote|Defeating a Brawler increases attack damage by 15% for 12 secs. Heal for 4480 health over 3 secs.}}{{Buffie|Star}}
+With the Buffie, defeating an enemy Brawler also heals Frank by 4480 HP over the span of 3 seconds. Defeating more Brawlers means healing more HP and gaining a longer duration of attack power.
+
+===Sponge===
+{{Quote|Frank gains +1360 health.}}{{StarPower|2}}Frank's maximum health is increased by 10% for the full duration of the match. This also affects self-regeneration, the damage dealt in [[Modifiers|Graveyard Shift]], and [[Colette]]'s attack damage.
+
+{{Quote|Take 10% less damage when above 50% health.}}{{Buffie|Star}}
+With the Buffie, when Frank has HP greater than half of his max HP, he will take 10% less damage from any attacks. Shield HP like from [[Gus]]' Spooky Boy does not count towards his maximum HP, though Shield health will still take the 10% damage reduction if Frank is above 50% of his normal health.
+
+==Hypercharge: Seismic Smash==
+{{Quote|Frank's Super now hits an entire circle around him!}}{{Hypercharge}}
+When activated, Frank's Super hits all enemies and environment in a radius around him. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attack speed is increased to max while Frank is Hypercharged!}}{{Buffie|Hyper}}
+With the Buffie, all attacks will now have their delay set to 0.2 seconds regardless of his current HP. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Frank is faster, has more health, and his hammer hit breaks walls.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Frank's health was increased from 14000 to 15540, or 16940 with Sponge Star Power, his movement speed was increased significantly, and his main attack destroyed obstacles. However, unlike his Super, his projectiles couldn't pierce through walls after destroying them.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Has more health and movement speed. Every attack destroys cover!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Frank's health was increased by 10%. Additionally, his movement speed was increased by 20%, and his main attack destroyed obstacles. However, unlike his Super, his projectiles did not continue through walls after destroying them.
+
+==Tips==
+===Game Modes and Maps===
+*Frank is useful for [[Robo Rumble]] thanks to his high health, he can out-damage and defeat Melee and Mini Robots, while his teammates can finish around Sniper Robots. He can use his Super to stop Big Robots and his Irresistible Attraction Gadget to pull them away from the safe, therefore hindering the Robots. Frank can consistently defend the safe area owing to his fast reload and unload speed as well as his high health. His Super is better to be kept to late-game due to it can also destroy obstacles and leaving the safe open for robots to attack it and get close.
+*Frank is also viable in [[Takedown]]. With his fast movement speed, he can pick up Power Cubes and catch up to the Boss quickly and can deal massive damage to the Boss and continuously within his fast reload speed, and he can withstand countless attacks from the Boss with his already high health and the increased health from the Power Cubes.
+*Frank is also ideal in [[Hold the Trophy]]. His fast movement speed allows him to catch up to the trophy easily, and the slowing effect from the trophy won’t affect him much. Due to Frank’s extremely high health, he can easily hold the trophy and can withstand countless attacks from enemies. As a defender of the trophy holder, he’ll ruthlessly deal high damage to enemies, and he can stun the enemies, hindering them from receiving the trophy or defeating the team’s trophy holder.
+*Frank does moderately good in [[Big Game]] as a Hunter because he can still deal high damage even though his Super’s stun is ineffective against the Big Boss. However, when he is the Big Boss, Frank dominates, because he can deal massive damage to enemies, which is better justified with his Power Grab Star Power, and he can use his Super to stun enemies, therefore preventing them from defeating him.
+*A great composition when playing [[Duo Showdown]] or Brawl Ball is Frank with [[Tara]]. Once both of you have your Supers charged, then this strategy works. First, look for a group of enemy players. Tara should pull in all the enemies in range, while Frank stuns them, hindering them greatly.
+*Frank is niche in [[Hot Zone]], because he can stay in the zones longer and control the zones thanks to his enormous health pool and his high damage output. With his relatively fast Super charge rate (3 hits) and his Trait, he can stun the enemies and render them completely vulnerable to fire as they can’t hold their ground in the zones and can be defeated easily.
+*Frank’s range is relatively short, but if you’re chasing a long-ranged Brawler or playing him on an open map where long-ranged Brawlers are popular such as [[Shooting Star]] in [[Bounty]], don’t attack until your range is within the enemy and use Frank’s above-average movement speed to dodge the enemy’s shots. You should also use his Sponge Star Power if playing him on an open map, because it enables him to get to enemies without dying easily. Even so, he is most viable in maps or events with a plethora of obstacles to fight and ambush enemies in close quarters such as [[Cavern Churn]] in [[Showdown]], Brawl Ball, and Hot Zone.
+*In Brawl Ball, Frank can charge his Super easily at the beginning of a round due to how close each Brawler spawns near each other, and then break the goalpost and other goal obstacles to make scoring much easier. For the same reason, since his Super charges up easily (3 hits), he can Super the Ball into the goal easily. These abilities along with his very high health (allowing him to survive longer), his Trait, his above-average movement speed and his Active Noise Cancelling Gadget make him very viable in this event and make him an ideal Ball carrier.
+*In [[Siege]], Frank is useful because he can stun the enemy team and prevent them from obtaining Bolts. He can also stun the enemy IKE and allow his team and the Siege Bot to attack it safely but temporarily. He can also stun the enemy Siege Bot and hinder it from attacking the team IKE. With his Trait, he can easily charge his Super from enemies and carry out the above strategies. His high health and fast movement speed make him ideal for obtaining Bolts, or a tank for lower-health teammates to get control of the Bolt spawns.
+*Frank is also useful in [[Gem Grab]], because stunning the enemy team is also effective, allowing for control of the Gem mine and allows his allies to collect Gems at ease. He can also stun the enemy Gem carrier and easily defeat the enemy if they’re escaping while holding Gems. He’s also decent as the Gem carrier, because he can hold Gems easily with his high health, and he can use his Super to stun enemies who are chasing him (in which damaging Frank is detrimental to the enemies because of his Trait, in which Frank can charge his Super quicker and stun them), therefore preventing them from defeating him.
+
+===Recommended Build===
+*Frank's Power Grab Star Power is useless in [[Duels]] due to each round ending immediately after a takedown, so always use his Sponge Star Power in Duels.
+*If possible, use Frank’s Active Noise Canceling Gadget before performing his Super to prevent enemies from cancelling it with their disruptive abilities. Additionally, you can also use your Trait to hinder disruptive abilities. Allow your enemy to charge both yours and the enemy’s Supers, then allow the enemy to use their disruptive Super, then use your Super on the enemy and defeat them with your attacks, while the enemy can’t provide counter fire or cancel your Super with their attack after wasting their Super (except for [[Lou]], [[Sprout]], and [[Bibi]]). You should especially use these strategies on [[Shelly]], because her ability to chain her Super could greatly hinder Frank.
+*Frank's Irresistible Attraction Gadget can be used right after his Super to pull the enemies towards him so he can finish them off. If timed correctly, he can also use it to either pull enemy defenders away from the ball or to free up some space to score a goal more easily in Brawl Ball.
+
+===Strategies===
+*When your Super and your attacks are charged, use your Super to stun enemies first, and hold them still while you eliminate them with your attacks, and because they’re stunned, they can’t provide counter fire. If used correctly, it can allow you and your team to wipe out the enemy/enemy team.
+*Since he has the highest amount of health of any Brawler, he and [[Ruffs]] work well together, as Ruffs' Field Promotion Star Power and Super boosts Frank’s health and damage output drastically. However, be aware of Colette since she can deal incredible amounts of damage to Frank due to his boosted health.
+
+===Other===
+*Frank has a high damage potential, but a slow unload speed and immobility, meaning Frank can’t effectively chase down enemies. Because of this, you also shouldn’t attack an enemy if you’re in danger of dying and running away from them. To deal damage to an enemy without making yourself vulnerable, try to ambush them one on one from the bushes, so they won’t have much time to react.
+*It's best to be patient when considering Frank's Super. Frank's average range and poor mobility mean that he works best on maps with lots of walls, so using his Super too much may result in him having a much harder time landing attacks. This is especially important in [[Brawl Ball]], as opening up the map can make it much easier for the enemy team to score.
+*Frank is effective against longer-ranged Brawlers if he dodges their shots, but is extremely effective against tanks and other-close-ranged Brawlers such as [[Draco]], [[Fang]], [[Ash]], El Primo, [[Bull]], [[Sam]], [[Edgar]], and [[Rosa]], because he deals high damage to the close-ranged Brawlers because they need to maintain point-blank range of him in order to damage him.
+*If possible, charge up your Super and use it to stun an enemy who’s taking cover behind an obstacle. The Super deals sufficient damage while stunning the enemy, and it also destroys the obstacle, rendering it completely useless to the enemies in the future.
+*Some Brawlers have abilities that can cancel Frank's Super such as Shelly's, [[Buzz]], [[Gene]], [[Colette]], [[Nani]], [[Dynamike]], [[Bull]], or [[Pearl]]'s Super, Bibi's Home Run attack, [[Emz]]'s Friendzoner Gadget, [[Fang]]'s Roundhouse Kick Gadget, [[Bo]]'s Snare a Bear Star Power, and [[El Primo]]'s Super or his Suplex Supplement Gadget. Take caution when using Frank's Super near these Brawlers to avoid wasting your Super or utilize your Active Noise Canceling Gadget against them.
+*When facing [[Mortis]], it is better to let him unload all of his attacks on Frank before Frank starts attacking him. This will minimize chances of Mortis dodging Frank's attacks while dashing. It takes 7 attacks for Mortis to defeat Frank, which is a lot longer than it takes for Frank to defeat him in return, factoring in the reload speed of both Brawlers, even after Mortis unloads his first 3 ammo.
+
+==Voice Lines==
+{|class="article-table"
+!colspan=7 style="text-align:center"|General
+!
+|-
+|{{Ogg|Filename = Frank vo 01.ogg|Filedescription = Frank roars}}
+|{{Ogg|Filename = Frank vo 02.ogg|Filedescription = Frank taunts}}
+|{{Ogg|Filename = Frank vo 03.ogg|Filedescription = Frank groans}}
+|{{Ogg|Filename = Frank vo 04.ogg|Filedescription = Frank taunts}}
+|{{Ogg|Filename = Frank vo 05.ogg|Filedescription = Frank groans}}
+|{{Ogg|Filename = Frank vo 06.ogg|Filedescription = Frank groans}}
+|
+|
+|-
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+!Active Noise Cancelling Gadget<ref>This audio currently goes unused after Frank's Buffies were added.</ref>
+|-
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king start vo 01.ogg|Filedescription = "I'm your king!"}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king lead vo 01.ogg|Filedescription = Frank taunts}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king hurt vo 01.ogg|Filedescription = Frank groans}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king kill vo 01.ogg|Filedescription = "King, king, king, king!"}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king die vo 01.ogg|Filedescription = "King, king, king."}}
+|
+|
+|'''Normal:'''{{Ogg|Filename = Frank gadget.ogg|Filedescription = Frank hums}}
+|-
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king start vo 02.ogg|Filedescription = "King, king, king."}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king lead vo 02.ogg|Filedescription = Frank taunts}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king hurt vo 02.ogg|Filedescription = Frank groans}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king kill vo 02.ogg|Filedescription = "Hooray!"}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king die vo 02.ogg|Filedescription = Frank groans}}
+|
+|
+|
+|-
+|
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king lead vo 03.ogg|Filedescription = Frank laughs}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king hurt vo 03.ogg|Filedescription = Frank groans}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king kill vo 03.ogg|Filedescription = "Ha ha!"}}
+|'''Red/Blue King:'''
+{{Ogg|Filename = Frank king die vo 03.ogg|Filedescription = Frank groans}}
+|
+|
+|
+|}
+
+==History==
+*21/05/18:
+**{{Balance|Content=Frank was added to the game.|Change=Neutral}}
+*19/06/18:
+**{{Balance|Content=Frank's health was increased to 5800 (from 5600).|Change=Buff}}
+**{{Balance|Content=His main attack range was increased to 5.67 tiles (from 5).|Change=Buff}}
+**{{Balance|Content=The Caveman Frank skin was added.|Change=Neutral}}
+*31/08/18:
+**{{Balance|Content=Frank's main attack range was increased to 6.33 tiles (from 5.67).|Change=Buff}}
+**{{Balance|Content=His Super range was increased to 7.33 tiles (from 6.67).|Change=Buff}}
+*27/09/18:
+**{{Balance|Content=Frank's main attack range was decreased to 6 tiles (from 6.33).|Change=Nerf}}
+**{{Balance|Content=His Super range was decreased to 7 tiles (from 7.33).|Change=Nerf}}
+*29/01/19:
+**{{Balance|Content=Frank's Power Grab Star Power was reworked from giving Frank a damage boost from picking up skulls of defeated enemy Brawlers to giving Frank a damage boost whenever he defeats an enemy.|Change=Neutral}}
+**{{Balance|Content=His attack animation was reworked.|Change=Neutral}}
+*10/04/19:
+**{{Balance|Content=Frank's flavor text was changed from "Frank is a hard-hitting dude, and a real physical specimen. His Super will shock and awe!" to "Frank swings his hammer at enemies, sending a shockwave. His Super is an especially powerful blow that stuns enemies!"|Change=Neutral}}
+*15/04/19:
+**{{Balance|Content=Frank's Super was made so it only briefly stunned the IKE turret.|Change=Nerf}}
+*21/05/19:
+**{{Balance|Content=Frank's Super now stuns the IKE turret for the full duration.|Change=Buff}}
+*11/06/19:
+**{{Balance|Content=Frank's Power Grab Star Power damage boost was increased to 50% (from 40%) and now lasts for 12 seconds (from 10 seconds).|Change=Buff}}
+*17/07/19:
+**{{Balance|Content=Frank's Sponge Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Frank's Sponge Star Power health was increased to 1100 (from 1000).|Change=Buff}}
+*23/10/19:
+**{{Balance|Content=Frank was remodeled, and the DJ Frank skin was added.|Change=Neutral}}
+*07/11/19:
+**{{Balance|Content=Frank's health was increased to 6100 (from 5800).|Change=Buff}}
+*19/02/20:
+**{{Balance|Content=Frank's health was increased to 6400 (from 6100).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Frank's Active Noise Canceling Gadget was added.|Change=Neutral}}
+*26/03/20:
+**{{Balance|Content=Frank's Active Noise Canceling Gadget duration was decreased to 1.5 seconds (from 2).|Change=Nerf}}
+*07/04/20:
+**{{Balance|Content=Fixed a bug that sometimes allowed Frank to kick the ball in [[Brawl Ball]] while using his Super.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Frank's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Piper's Auto Aimer Gadget overrode Frank's Active Noise Cancelling Gadget.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Frank's health was increased to 7000 (from 6400).|Change=Buff}}
+*21/12/20:
+**{{Balance|Content=The Holiday Party Frank skin was added. It was featured as a Brawlidays 2020 skin.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Frank received facial animations.|Change=Neutral}}
+*26/02/21:
+**{{Balance|Content=Frank's Irresistible Attraction Gadget was added.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Frank's main attack and Super damage were increased to 1240 (from 1200).|Change=Buff}}
+**{{Balance|Content=His main attack Super charge and Super recharge were increased slightly.|Change=Buff}}
+*16/06/21:
+**{{Balance|Content=Frank gained a Trait where he can now charge his Super when receiving damage.|Change=Buff}}
+*17/06/21:
+**{{Balance|Content=The Super charge rate from Frank's Trait was decreased to 20% (from 30%).|Change=Nerf}}
+*25/08/21:
+**{{Balance|Content=Frank, Caveman Frank, DJ Frank, and Holiday Party Frank's main attack visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=The Super charge rate from his Trait is now based on Frank's max health.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Frank's Active Noise Cancelling Gadget now bypasses [[El Primo]]'s Suplex Supplement Gadget.|Change=Buff}}
+**{{Balance|Content=His Irresistible Attraction Gadget now makes Frank's next attack deal double the damage.|Change=Buff}}
+**{{Balance|Content=Frank's class was changed to Tank (from Heavyweight).|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=The Spirit Knight Frank skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Frank's Sponge Star Power health was increased to 1260 (from 1100) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Frank's flavor text was changed from "Frank swings his hammer at enemies, sending a shockwave. His Super is an especially powerful blow that stuns enemies!" to "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows."|Change=Neutral}}
+*14/11/23:
+**{{Balance|Content=The Vanara Frank skin was added. It was featured as a Warrior's Journey skin.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Frank's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Frank's Mutation was removed from the game.|Change=Neutral}}
+*21/06/24:
+**{{Balance|Content=The Parasol Frank skin was added. It was featured as a Summer of Brawl skin.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Frank's main attack delay now decreases whenever his health gets lower.|Change=Buff}}
+**{{Balance|Content=Frank's Seismic Smash Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Caveman Frank was remodeled.|Change=Neutral}}
+**{{Balance|Content=Caveman Frank's main attack and Super visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=The Prehistoric Frank skin was added. It was featured as a Skull Cave Clan skin.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Frank's main attack delay speed boost was decreased to 60% (from 70%).|Change=Nerf}}
+*27/08/24:
+**{{Balance|Content=Frank's health was decreased to 6700 (from 7000).|Change=Nerf}}
+**{{Balance|Content=Frank's Irresistible Gadget now makes his next attack deal 50% extra damage (from 100%).|Change=Nerf}}
+**{{Balance|Content=Frank's Sponge Star Power health was decreased to 1206 (from 1260).|Change=Nerf}}
+**{{Balance|Content=Fixed the issue with Frank's attack not working after using his Super.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Frank's main attack damage was decreased to 1160 (from 1240).|Change=Nerf}}
+**{{Balance|Content=Frank's Super charge rate was decreased slightly.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Frank's Hypercharge was increased to 8 (from 7).|Change=Nerf}}
+*10/12/24:
+**{{Balance|Content=Frank's Power Grab Star Power damage bonus was decreased to 25% (from 50%).|Change=Nerf}}
+*12/12/24:
+**{{Balance|Content=The Red and Blue King Frank skins could be obtained by redeeming them from {{Link|Supercell ID}} with 15000 Supercell ID points each. They were featured as Clash Stories skins.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*06/03/25:
+**{{Balance|Content=The Mummified, Papyrus, and Charcoal Frank skins were added. They were featured as Brawl Pass Season 36  skins and Dark Sands skins.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Frank's Seismic Smash Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Frank's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Frank's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Frank's level up damage was increased to 4% (from 2%) in [[Brawl Arena]].|Change=Buff}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Frank's Seismic Smash Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Frank's Seismic Smash Hypercharge shield boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Frank's health was increased to 7000 (from 6700).}}
+**{{Balance|Buff|Frank's Active Noise Canceling Gadget now also fires a piercing soundwave when used.}}
+**{{Balance|Buff|Frank's Active Noise Canceling Gadget duration was increased to 2.5 seconds (from 1.5).}}
+**{{Balance|Buff|Frank's Active Noise Canceling Gadget cooldown was decreased to 16 seconds (from 18).}}
+**{{Balance|Buff|Frank's Sponge Star Power health was increased to 1260 (from 1206).}}
+**{{Balance|Nerf|Frank's Active Noise Canceling Gadget can no longer be activated while using the main attack or Super or while stunned.}}
+**{{Balance|Nerf|Frank's Irresistible Attraction Gadget cooldown was increased to 20 seconds (from 15).}}
+**{{Balance|Nerf|Frank's Irresistable Attraction Gadget now makes his next attack deal 7% extra damage (from 50%).}}
+**{{Balance|Neutral|Frank's Irresistible Attraction Gadget cooldown was reworked from making Frank's next attack deal 50% more damage and pull enemies towards him to firing a narrow projectile that deals damage and pulls enemies towards him. The new projectile has longer range but a narrower spread.}}
+**{{Balance|Neutral|Frank's Buffies were added.}}
+*23/01/26:
+**{{Balance|Buff|Frank's Active Noise Canceling Gadget duration was increased to 3.5 seconds (from 2.5).}}
+**{{Balance|Nerf|Frank's Irresistible Attraction Gadget Buffie slow duration was decreased to 2 seconds (from 5).}}
+*25/02/26:
+**{{Balance|Nerf|Frank's health was decreased to 6800 (from 7000).}}
+**{{Balance|Content=Frank's Sponge Star Power health was decreased to 1224 (from 1260).|Change=Nerf}}
+**{{Balance|Nerf|Frank's Active Noise Canceling Gadget no longer charges Super.}}
+**{{Balance|Nerf|Frank's Irresistible Attraction Gadget range was decreased to 7.33 tiles (from 8).}}
+**{{Balance|Nerf|Frank's Power Grab Star Power damage bonus was decreased to 15% (from 25%).}}
+**{{Balance|Nerf|Frank's Sponge Star Power Buffie shield was decreased to 10% (from 15%).}}
+*14/04/26:
+**{{Balance|Content=The Faerie Frank skin was added. It was featured as Once Upon skin.|Change=Neutral}}
+*22/04/26:
+**{{Balance|Neutral|Fixed an issue with Frank's main attack sound triggering twice.}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where Frank triggered 3 hits with 1 ammo when his Hypercharge was active.}}
+*30/06/26:
+**{{Balance|Buff|Frank's level up health was increased to 850 (from 750) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Frank's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (15)===
+{{Skin Gallery
+|Name1=Parasol|Cost1=Free from Pierce Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Summer of Brawl|Rarity1=Rare
+|Name2=Caveman|Cost2=Free from Classic Brawl Mega Boxes or 79 Gems|Campaign2=Skull Cave Clan|Rarity2=Super Rare
+|Name3=DJ|Cost3=Free from Mina Boxes or 79 Gems|Campaign3=Vibing|Rarity3=Super Rare
+|Name4=Prehistoric|Cost4=Free from Classic Brawl Mega Boxes or 79 Gems|Campaign4=Skull Cave Clan|Rarity4=Super Rare
+|Name5=Holiday Party|Cost5=Free from Presents or 149 Gems • '''S'''|Campaign5=Brawlidays|Rarity5=Epic
+|Name6=Spirit Knight|Cost6=Free from Cosmo Boxes or 149 Gems|Campaign6=Supercell Make|Campaign6_2=Knights!|Rarity6=Epic
+|Name7=Vanara|Cost7=199 Gems|Campaign7=Warrior's Journey|Rarity7=Mythic
+|Name8=Faerie|Cost8=199 Gems|Campaign8=Once Upon|Rarity8=Mythic
+|Name9=Red King|Cost9=15000 Supercell ID points from {{Link|Supercell ID}}|Campaign9=Clash Stories|Rarity9=Legendary
+|Name10=Blue King|Cost10=15000 Supercell ID points from {{Link|Supercell ID}}|Campaign10=Clash Stories|Rarity10=Legendary
+|TrueSkins=yes
+|NameP1=Mummified|CostP1=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Dark Sands|RarityP1=Epic
+|NameP2=Papyrus|CostP2=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Dark Sands|RarityP2=Epic
+|NameP3=Charcoal|CostP3=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Dark Sands|RarityP3=Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Frank Buffie Skin-Gadget.png|Gadget
+File:Frank Buffie Skin-Star.png|Star
+File:Frank Buffie Skin-Hyper.png|Hyper
+File:Frank Buffie Skin-Bling.png|Bling
+File:Frank Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Frank
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Holiday Party|GG}}
+{{Pin Table|Spirit Knight}}
+{{Pin Table|Vanara|Special}}
+{{Pin Table|Caveman|Special}}
+{{Pin Table|Prehistoric|Special}}
+{{Pin Table|Red King}}
+{{Pin Table|Blue King}}
+{{Pin Table|Mummified|Special}}
+{{Pin Table|Papyrus|Special}}
+{{Pin Table|Charcoal|Special}}
+{{Pin Table|DJ|Special}}
+{{Pin Table|Faerie|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Frank|Rarity = Common}}
+|{{Spray|Type = Frank Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Vanara Frank|Rarity = Common}}
+|{{Spray|Type = Red King Frank|Rarity = Common}}
+|{{Spray|Type = Blue King Frank|Rarity = Common}}
+|-
+|{{Spray|Type = Faerie Frank|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Frank1}}
+|{{Pfp|Frank2}}
+|{{Pfp|Frank3}}
+|{{Pfp|Frank4}}
+|{{Pfp|Vanara Frank}}
+|-
+|{{Pfp|Spirit Knight Frank}}
+|{{Pfp|Red King Frank}}
+|{{Pfp|Blue King Frank}}
+|{{Pfp|Mummified Frank}}
+|{{Pfp|Holiday Party Frank}}
+|-
+|{{Pfp|Faerie Frank}}
+|}
+
+{{Navigation}}
+[[ru:Фрэнк]]
+[[pl:Frank]]

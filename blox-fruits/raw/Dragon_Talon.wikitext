@@ -1,0 +1,204 @@
+{{Tabber V2
+|tab1  = Dragon Breath
+|tab2  = Dragon Talon
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Dragon Talon
+|source    = Uzoth
+|update    = 16
+
+<!-- Obtainment -->
+|sea       = 3
+|location  = Dragon Dojo
+|mastery   = [[Dragon Breath]] Mas.400 or more
+|item      = Fire Essence
+|money     = 3,000,000
+|fragments = 5,000
+}}
+'''Dragon Talon''' is a [[fighting style]] that can be learned from [[Uzoth]] in the [[Third Sea]].
+
+Dragon Talon serves as a direct upgrade from [[Dragon Breath]], with attacks that resemble [[Dragon]]'s abilities—hence the name. It focuses on close-range, high-damage, area-filled combat, utilizing burning effects and distorting the opponent’s view with violent screen shakes. 
+
+However, in return, it is generally slower than most other [[Fighting Styles|fighting styles]]. Dragon Talon is mostly used for [[Raids]] and [[Dungeons]], or [[Sea Events]] due to its high damage and [[Area of Effect|AoE]] moves. Disabling screenshake also greatly aids the user, due to the high effect distortion on its moves. 
+
+==Obtainment==
+===Requirements===
+* Have given the [[Uzoth]] NPC the [[Fire Essence]].
+* At least 400 mastery on [[Dragon Breath]].
+* {{Money|3,000,000}}
+* {{Fragment|5,000}}
+
+==Mastery== 
+* At 400+ Mastery, Dragon Talon is one of the requirements to obtain [[Godhuman]] in [[Third Sea]].
+* At 500+ Mastery, Dragon Talon is required to interact with the [[Dojo Trainer]].  To get [[Draco]] you need [[Dragonstorm]] and [[Dragonheart]] and getting them to 500 Mastery.
+** After completing the [[Dojo Belt (Blue)|fifth quest]] from the [[Dojo Trainer]], the user can upgrade the style by collecting [[Blaze Ember]]s from the [[Dragon Hunter]], and then interacting with [[Uzoth]].
+
+==Upgrading==
+Dragon Talon's skillsets can be upgraded talking to [[Uzoth]] after obtaining the [[Dojo Belt (Blue)|Blue Belt]] from the [[Dojo Trainer]], prerequisite of having at least 500 Mastery on Dragon Talon. In order to obtain [[Blaze Ember]]s to upgrade Dragon Talon's skills, The player must talk to the [[Dragon Hunter]] and begin a quest, which, once completed, will reward them with [[Blaze Ember]]s.
+
+* Upgrading '''[Z] Talon Lighter''' requires {{Blaze Ember|5}} [[Blaze Ember]]s, once upgraded, it allows the user to apply an execution/finisher move when they use it on an enemy with low health.
+* Upgrading '''[X] Ember Annihilation''' requires {{Blaze Ember|7}} [[Blaze Ember]]s, which allows the user to mount with the flame dragon projectile if they hold the move.
+* Upgrading '''[C] Infernal Vortex''' requires {{Blaze Ember|10}} [[Blaze Ember]]s, allows the user to stun nearby enemies during the startup of the move.
+
+Upgrading all the moves require a total of {{Blaze Ember|22}} [[Blaze Ember]]s.
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Scorching Fists
+|gif      = Dragon Talon M1
+|desc     = The user punches three times with flame infused claws that resemble a dragon's footprint, before dashing with a double handed lunge with both hands that also has the footprint.
+}}
+
+{{Skill
+|key      = Z
+|name     = Talon Lighter
+|mastery  = 125
+|cooldown = 7.5
+|energy   = 30
+|break    = yes
+|instinct = Breaks [[Instinct]] on the initial hit if landed directly. Can be kentricked during the move or dodged if indirect.
+|gif      = Dragon Talon Z (Non-Finisher)
+|gif1     = Dragon Talon Z (Finisher)
+|desc     = The user lights their hand on fire and dashes towards the cursor. If the user collides with an enemy, the user will grab them and force-light their flames that turn from orange to blue inside of the enemy, before ending the attack with a kick, knocking them away. The move can be held to increase range.
+|desc1    = With its upgraded version, if the enemy's health is low enough to be killed with Talon Lighter, the player will perform a finisher with a flurry of fire punches at the enemy, punching overheated holes into them, before killing them with a roundhouse kick, severing their parts and scorching it. The finisher also bypasses any defensive passive (even the respective passives of the [[Pain]] and [[Ghost]] fruits), meaning that if the enemy's HP is low enough, they will die regardless.
+}}
+
+{{Skill
+|key      = X
+|name     = Ember Annihilation
+|mastery  = 250
+|cooldown = 10
+|energy   = 40
+|break    = no
+|instinct = Can be dodged most of the time.
+|gif      = DragonTalonX
+|gif1     = DragonTalonHeldX
+|desc     = If tapped, the user releases a dragon-like fire projectile towards their cursor that, upon collision with an enemy, will drag them along as it damages them. If this projectile collides with a surface or reaches its maximum distance, it will explode, dealing great damage. The explosion leaves flames on the ground that deal damage over time. It can be maneuvered using the cursor after release.
+|desc1    = If held with the upgrade, the user jumps on the dragon-like fire projectile and moves it in the direction of the mouse. If released or held for a short time, the user will immediately jump off the dragon and it will fly towards the target.
+}}
+
+{{Skill
+|key      = C
+|name     = Infernal Vortex
+|mastery  = 350
+|cooldown = 17
+|energy   = 75
+|break    = yes
+|instinct = Explosion breaks [[Instinct]] no matter what. However, turning [[Instinct]] on when you have been dragged to the top is escapable.
+|gif      = InfernalVortex
+|desc     = The user leaps high into the sky for a second, before descending down with immense force, dealing devastating area wide damage. The explosion deals heavy knockback to anyone within its range. Additionally, the move turns the screen orange during the attack. When upgraded, it will stun enemies that are near the range at the start of the move.
+}}
+
+==Overviews==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Big hitboxes and AoE.
+* High damage.
+* High combo potential.
+* All upgrades greatly aid the fighting style, only improving it.
+* Great VFX.
+* Deals high knockback to [[Lava Golem|Lava Golems]], making it easier to protect [[Ancient Relic]]. 
+
+|'''[Z] Talon Lighter'''
+* Can be used for mobility, holding it makes the player go further forward.
+* Upgraded finisher ignores all defenses and all resurrection passives.
+* Good hitbox.
+
+|'''[X] Ember Annihilation'''
+* Can curve at enemies (if the player moves the cursor) and can carry enemies to a certain distance.
+* Drags enemies away while allowing the player to throw projectiles, or do combos on them.
+* High range.
+* Extremely high stun (3 seconds).
+* Upgraded flight speed is quite fast, making it useful for traversal.
+
+|'''[C] Infernal Vortex'''
+* Very easy to land.
+* Massive upward hitbox.
+* Knocks enemies away, defending the user from combos.
+* Upgrade adds a stun, making it even easier to land.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Hard to obtain.
+* Close range.
+* Weak in sea.
+* High knockback, which can fling NPCs away (making it hard to farm) & players away, giving them a chance to escape.
+* The fourth M1 pushes the user forwards, creating difficulties for grinding.
+* Unlike [[Sharkman Karate]], upgrades cannot be turned off.
+
+|'''[Z] Talon Lighter'''
+* Single target. 
+* Small hitbox making it hard to hit.
+* Incompatible with [[Buddha]] due to its large size and hitbox, so the player has to aim down.
+* Long finishers make kill stealing easy.
+* No I-frames.
+* High knockback.
+* Low damage compared to other [[Fighting Style]] [Z] attacks.
+* Low range. (Unless held.)
+
+|'''[X] Ember Annihilation'''
+* Quite slow, making it very weak at mid-range.
+* Upgraded flight doesn't last very long.
+* Very simple to [[Instinct]] trick.
+
+|'''[C] Infernal Vortex'''
+* Long startup time.
+* The distortion effect can sometimes be annoying to users.
+* Easy to avoid.
+}}
+</tabber>
+
+==Tips & Tricks== 
+* If timed correctly, Dragon Talon can use two moves at once. By using {{Ability|Z}} and holding {{Ability|X}}, the user can ride the dragon while burning the opponent with {{Ability|Z}} (only works with the upgraded version). This is a glitch, so it might not work for some people and might get patched in a future update.
+* There is a technique known as the Dragon Talon 360, where the player can use {{Ability|X}} and then change their character's facing direction to loop the projectile around and drag the opponent back towards them. To effectively do this, the player can aim {{Ability|X}} and, as it goes up, turn their camera to the ground they are on to execute the Dragon Talon 360.
+** The trick can be followed up with the {{Ability|C}}  as a combo finisher.
+
+* {{Ability|X}}'s stun is based on the Dragon's travel time. (more travel time = lower stun) 
+** This makes it so if the player uses the skill on the ground (which makes it so it doesn't travel) the enemy cannot dash or use skills for roughly three seconds.
+*** This makes it so that long windup but massive [[Area of Effect|AoE]] skills like [[Lightning]] {{Ability|Lightning|V}} or [[Flame]] {{Ability|Flame|V}} easier to hit
+*'''[Z] Talon Lighter''' has a bug with large avatars, where it can launch players extremely high.
+
+== Gallery ==
+<gallery>
+File:Dragon Talon Idle.gif|Idle Stance
+File:Talon Z Head.png|Model of the [[T-Rex]]'s head in the new '''[Z] Talon Lighter'''.
+File:DragonTalonReworkLeak.jpg|Model of Dragon Talon's old '''[X] Ember Annihilation'''.
+File:New Dragon Talon X.png|Model of Dragon Talon's new '''[X] Ember Annihilation'''. (Closely resembles [[Dragon|East Dragon]].)
+</gallery>
+
+==Trivia==
+* Dragon Talon is famously used by [[Uzoth (Player)]], a content creator/admin of [[Blox Fruits Wiki|Blox Fruits]], and is considered to be his favourite [[Fighting Styles|fighting style]].
+* Dragon Talon is the fighting style with the highest M1 damage in the game.
+* Dragon Talon's M1 sound effects originated from [[Dragon Breath]]'s fire-based M1s, because its a predecessor to this fighting style.
+* The finisher variant of {{Ability|Z}} is a ''guaranteed kill''—bypassing all forms of resurrection (like [[Ghost]]'s and [[Pain]]'s Resurrection passives, but also [[Friendly PvP]]'s revive), defense (like [[Shark]] V3 and [[Cyborg]] V3), healing (like [[Phoenix]]'s {{Ability|Phoenix|X}} and [[Angel]] V3), and [[instinct]]-tricking. 
+** Additionally, the finisher variant of {{Ability|Z}} can ''chain'' through [[Cyborg]]'s awakened energy passives. 
+* Dragon Talon's M1s release a mark that looks like a dragon's footprint.
+* {{Ability|C}} resembles Transformed Eastern [[Dragon]]'s {{Ability|Dragon|X}}, as the user holds the enemy in place, jumps up, then slams down with devastating force.
+* Contrary to popular belief, the head seen during {{Ability|Z}}, is a faint image of [[T-Rex]]'s head, not West [[Dragon]].
+** This, combined with the fact that {{Ability|X}} uses East Dragon's model, and {{Ability|C}} resembling East Dragon's {{Ability|Dragon|X}}, Dragon Talon might have finished development prior to West Dragon.
+* When the user uses {{Ability|X}} at a thin wall like the [[Ice Castle]]'s wall, they will have a slight chance of phasing through the wall.
+* Dragon Talon is the first V2 [[Fighting Styles|Fighting Style]] to be able to be upgraded, followed by [[Sharkman Karate]].
+* Dragon Talon has a bug where if the user uses {{Ability|C}} while they are swimming, they will immediately lose all their health (even while using [[Shark]] V2 or above). This also occasionally happens outside of water.
+* When [[Instinct]] tricking {{Ability|Z}}, depending on when the user tricks it, they will either receive its traditional knockback, or simply fall out as they would when tricking most moves.
+
+==Change History==
+{{Change History|16|content=
+{{Update|24}}
+* Dragon Talon was reworked and its skillset can now be upgraded. 
+----
+{{Update|16}}
+* Dragon Talon was released.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Коготь Дракона]]

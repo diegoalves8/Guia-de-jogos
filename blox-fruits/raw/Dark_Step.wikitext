@@ -1,0 +1,195 @@
+{{Tabber V2
+|tab1 = Dark Step
+|tab2 = Death Step
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Dark Step
+|source    = Dark Step Teacher
+|update    = 1
+|sea       = 1/2/3
+|location  = Pirate Village
+|location1 = Hot and Cold
+|location2 = Castle on the Sea
+|money     = 150,000
+}}
+'''Dark Step''' (formerly known as '''Black Leg''') is a leg-based [[Fighting Styles|fighting style]] obtainable in the [[First Sea]] (or any other seas).
+
+'''Dark Step''' is the cheapest fighting style that can be purchased, having 4 abilities instead of the usual 3. It allows the user to fight using their legs. This fighting style has the ability for player to Overheat for a short period of time, making them deal more damage.
+
+The abilities on '''Dark Step''' require low [[Mastery]], so this fighting style is beginner friendly. This is also good for the [[First Sea]] if the player can't afford [[Water Kung Fu]] or [[Electric]].
+
+==Obtainment==
+Dark Step can be learned for {{Money|150,000}} from the [[Dark Step Teacher]].
+
+==Mastery==
+* '''300+ Mastery:''' Dark Step is one of the requirements to obtain [[Superhuman]] in [[Second Sea]] or [[Third Sea]].
+* '''400+ Mastery:''' Dark Step is one of the requirements to obtain [[Death Step]] in [[Second Sea]] or [[Third Sea]].
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Power Kicks
+|gif      = Dark Step M1
+|gif1     = Dark Step M1 (Overheat)
+|desc     = The user swings their legs at the opponent, swinging three times and stopping at the fourth, dealing damage at a low range.
+|desc1    = With Overheat active.
+}}
+
+{{Skill
+|key      = Z
+|name     = Flying Kick
+|mastery  = 1
+|cooldown = 10
+|energy   = 15
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Dark Step Z
+|gif1     = Dark Step Z (Overheat)
+|desc     = The user launches towards their cursor, leaving an impact. This move launches the user in an arc, with a red line showing the user where they will land (can be inaccurate if used from a long distance).
+|desc1    = If used when Overheat is active, it deals extra damage and does AoE damage upon impact.
+}}
+
+{{Skill
+|key      = X
+|name     = Breakdance
+|mastery  = 40
+|cooldown = 15
+|energy   = 25
+|break    = yes
+|instinct = Can be dodged on the edge.
+|gif      = Dark Step X
+|gif1     = Dark Step X (Overheat)
+|desc     = The user handstands, starts spinning, and attacks everything around them using their legs. Upon contact with an enemy, the user will deal damage and stun the enemy for the duration of the move. The user is unable to move during this.
+|desc1    = If used during Overheat, it deals extra damage and ignites the wind around the user.
+}}
+
+{{Skill
+|key      = C
+|name     = Barrage
+|mastery  = 80
+|cooldown = 20
+|energy   = 55
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Dark Step C
+|gif1     = Dark Step C (Overheat)
+|desc     = The user releases a barrage of kicks towards their cursor. The duration of this move will be increased if the key is held down. If the user is hit during this move, the move is canceled.
+|desc1    = If used during Overheat, it deals extra damage and the barrage will be on fire.
+}}
+
+{{Skill
+|key      = V
+|name     = Overheat
+|mastery  = 150
+|cooldown = 90
+|energy   = 100
+|break    = yes
+|instinct = Breaks Instinct only at close range; can be dodged if far enough away.
+|gif      = Overheat
+|desc     = The user spins really fast and sets both of their legs on fire, increasing Dark Step's damage by ~22% for 60 seconds. Overheat also deals damage after the leg lights on fire, but it's best not to use it for doing damage since it does the same amount of damage as a singular M1 click.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for farming in the [[First Sea]].
+* Currently the cheapest fighting style in the game (excluding [[Combat]], which is automatically given for free upon joining).
+* All moves have [[AoE]].
+* Low [[mastery]] requirements.
+*Good combo potential for its price
+
+|'''[Z] Flying Kick'''
+* Provides some form of air mobility.
+
+|'''[X] Breakdance'''
+* Decent as a combo extender.
+* Good for grinding [[Aura]] due to the high amount of individual hits.
+
+|'''[C] Barrage'''
+* Decent as a combo extender.
+* Good damage.
+
+|'''[V] Overheat'''
+* Provides a decent damage boost.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Slowest M1 speed out of all the [[Fighting Styles]], unless the player has an autoclicker ([[Combat]] is slightly faster).
+* Although it has good combo potential, its good skills which is X and C, are easily countered by [[Instinct]].
+* Pairs badly with [[Buddha]] as the M1 attack is slow and weak, and most of the '''Dark Step''' abilities cannot hit [[Enemies]] while transformed.
+* Extremely low damage.
+* Outclassed by it's successor, [[Death Step]].
+* Long cooldowns.
+
+|'''[Z] Flying Kick'''
+* Low damage.
+* Small hitbox.
+* Can't attack airbone players and NPCs.
+* Has a high startup time as the user first needs to aim the move, the flying duration, and endlag.
+
+|'''[X] Breakdance'''
+* Lowers the user's hitbox, which could be problematic, especially when paired with [[Buddha]], as it removes the invulnerability against some moves. (examples: [[Mythological Pirate]]s' [[Electric]] X) It can also drown the user if they are too close to the sea surface.
+* Locks the user in place and can be punished easily due to high endlag.
+* Small hitbox.
+
+|'''[C] Barrage'''
+* Has to be held for full damage.
+* Low range.
+
+|'''[V] Overheat'''
+* Can leave the user very vulnerable since it has a long animation.
+* Extremely long cooldown compared to buff duration  (1 minute and 30 second cooldown, versus 60 second buff).
+}}
+
+|-|Notes=
+{{Overview|Notes|
+* Dark Step is a good [[Fighting Styles|Fighting Style]] for beginners. Dark Step could theoretically also be good even until late game, since it has very high damage with '''[V] Overheat''' activated. It doesn't have much knockback either, so it can be good for grinding.
+** However, it is suggested to first purchase [[Water Kung Fu]] or [[Electric]] instead because of the more varied moves, higher damage and better M1s.
+* It is recommended to grind mastery on Dark Step last when trying to get [[Superhuman]], because it does low damage and is generally more difficult than the others.
+* When grinding with [[Buddha]], it is recommended to spam [M1] attacks rather than use the moves of Dark Step, as most of them do not work or have extremely unusual/warped hitboxes.
+* Dark Step with [[Stun]] Fruits like [[Ice]] can be used for PvP, but only its stun moves that can be used as combo extenders such as '''[C] Barrage''' or '''[X] Breakdance''' are [[Instinct]] dodged, so to [[Break Instinct]], you must use [[Cyborg]] V3 when you start to use '''[X]''' and '''[C]''' on your combos.}}
+</tabber>
+
+==Gallery==
+<gallery>
+Dark Step Idle Stance.gif|Idle Stance
+Idle Stance With Overheat.gif|Idle Stance With Overheat
+</gallery>
+
+==Trivia==
+* Dark Step is considered to be the best fighting style for grinding [[aura]] mastery. 
+* If the user uses '''[V] Overheat''' and goes into [[Light]]'s '''[F] Light Flight''', the flames will get all messed up.
+* If '''[V] Overheat''' is used over 100 times, the user will have both legs on fire upon using it again, similar to [[Death Step]]'s [V] move which doesn't have a requirement for both legs to be on fire and has it from the start upon use.
+* If the user uses '''[V] Overheat''', and then switches to another [[Fighting Styles|fighting style]], the user's legs will still be on fire without an expiration timer. Hence, it is possible to get both flame legs and flame fists by activating the move and equipping [[Dragon Talon]]. This effect only gets removed if the player dies or rejoins. This is purely cosmetic. The expiration timer is however restored if using the [V] move again.
+* The damage multiplier is only applied while using Dark Step or [[Death Step]]'s moves, so the user cannot use this to get extra damage on other moves.
+* If the player has Dark Step or [[Death Step]] equipped, their [[Aura]] stages will start at their legs, instead of their hands.
+*'''[C] Barrage''' is similar to [[Rubber]]'s '''[C] Rush'''.
+* If the user uses '''[C] Barrage''' and quickly switch fighting styles while holding it, they will be stuck in the animation.
+* Dark Step is the one of the only two [[fighting style]]s to have four moves, the other being its successor, [[Death Step]].
+* In [[Updates/9|Update 9]], Dark Step was almost renamed to ''Fire Feet''.
+* By equipping Death Step/Dark Step and climbing to a ladder, the user will climb with their legs instead of their hands, due to the user's hands being on their waist.
+* Dark Step is chronologically the first fighting style that the player can purchase.
+* Similar to [[Death Step]], Dark Step's '''[V] Overheat''' can permanently be activated by using [[Ghoul]] V3 to ignore 40% of the final cooldown time. However, for [[Death Step]], the user needs to wait until the move expires, otherwise it will only disable the flames and they will need to wait longer to be able to use it again.
+* If the player uses '''[V] Overheat''' on top of a couple [[Royal Soldier]]'s, there is a chance that the enemies will be clipped through the ground and potentially, be impossible to find without [[Instinct]].
+
+==Change History==
+{{Change History|1|content=
+{{Update|17.3}}
+* Dark Step was reworked.
+----
+{{Update|1}}
+* Dark Step was released.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[Category:Upgradable]]
+[[ru:Тёмный Шаг]]

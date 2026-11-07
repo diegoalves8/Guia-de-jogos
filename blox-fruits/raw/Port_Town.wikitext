@@ -1,0 +1,90 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Port Town
+|image    = Port Town Front View.png
+|type     = Island
+|sea      = Third Sea
+|level    = 1500-1575
+|music    = Curious Mind
+|prev     = Indra Island
+|next     = Hydra Island
+}}
+The '''Port Town''' is the first [[Locations|island]] in the [[Third Sea]].
+
+Upon first entering the [[Third Sea]], the player will be teleported to the docks of the Port Town, which is the main entrance to the island. The player can find the Port Town between [[Hydra Island]] and [[Haunted Castle]]. Going up the ramps the player will enter the main town of the island, where they will find the [[Pirate Millionaire]]s and [[Pistol Billionaire]]s. At the back of the island where the mountains are, the player should see some stairs along with a trail leading to the east side of the island where they will find [[Stone]], the [[bosses|boss]] of Port Town.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Blacksmith]]
+* [[Blox Fruit Dealer]]
+* [[Boat Dealer]]
+* [[Experienced Captain]]
+* [[Luxury Boat Dealer]] (2)
+* [[Barista Cousin]] (Sometimes)
+* [[Pirate Port Quest Giver]]
+* [[Set Home Point]]
+|
+* [[Pirate Millionaire]] (6)
+* [[Pistol Billionaire]] (8)
+* [[Urban]] (Sometimes)
+* [[Deandre]] (Sometimes)
+* [[Diablo]] (Sometimes)
+|
+* [[Stone]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Level Required
+!Immunity Level
+!Description
+!Reward
+|-
+| rowspan="3" | [[Pirate Port Quest Giver]]
+|1500
+|1552
+|Defeat 8 [[Pirate Millionaire]]s
+|{{Money|13.000}}<br />{{EXP|53,000,000}}
+|-
+|1525
+|1579
+|Defeat 8 [[Pistol Billionaire]]s
+|{{Money|15.000}}<br />{{EXP|55,500,000}}
+|-
+|1550
+|N/A
+|Defeat [[Stone]]
+|{{Money|25.000}}<br />{{EXP|60,000,000}}
+|}
+
+==Notes==
+* If an [[Elite Pirates|Elite Pirate]] spawns on the Port Town, it will only spawn behind the mountain in the back.
+* The "[[Pineapple]]" fruit, required to complete the [[Hungry Man Quest]] (for [[Instinct V2]]), spawns near the [[Pistol Billionaire]]s.
+** The player will lose the [[Pineapple]] if they die.
+* [[Pirate Millionaire]]s drop {{Scrap Metal}} [[Scrap Metal]] and [[Pistol Billionaire]]s drop {{Gunpowder}} [[Gunpowder]].
+* The Port Town is the only area in the [[Third Sea]] where the [[Blacksmith]] is located.
+* It is highly recommended to use [[Buddha]] to grind at the Port Town because of the [[enemies]] separated from each other.
+* Returning to/joining a friend in the [[Third Sea]] from the [[Second Sea]] or [[First Sea]] will teleport the player over to Port Town.
+* If the player hasn't been to the [[Third Sea]] in some time, it will also set the Port Town as the players home point.
+
+
+==Change History==
+{{Change History|15|content=
+{{Update|24}}
+* Port Town was revamped.
+<gallery>
+Port Town.png|Back of Old Port Town
+</gallery>
+----
+{{Update|15}}
+* Port Town was released.
+}}
+
+==Navigation==
+{{IslandNavigation}}

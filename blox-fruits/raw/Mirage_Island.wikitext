@@ -1,0 +1,97 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Mirage Island
+|image      = Mirage Clear View.png
+|type       = Sea Event
+|sea        = Third Sea
+|location   = [[Sea Danger Level|Sea Danger Level 2-6]]
+|music      = Mirage_Island
+|label      = Echoing Realm
+}}
+The '''Mirage Island''' is a [[Sea Events|sea event]]. 
+
+==Usage==
+The Mirage Island is a special island that functions differently from all the other islands. It is the place where the [[Advanced Fruit Dealer]], and the [[Blue Gear]] for [[Race Awakening]] are located.
+
+==Spawning==
+The Mirage Island can spawn if the player sails a [[boat]] in [[Sea Danger Level]] 2<ref>https://www.youtube.com/watch?v=iKzgDXOcrhI</ref>-6. Once spawned, the Mirage Island will despawn if: 
+* 10 minutes have passed.
+* The player who spawned it is not near Mirage Island.
+** This also means that the island will despawn if the player that spawned the island dies or disconnects.
+
+There is no cooldown for the Mirage Island to spawn again. It can only be found in the [[Third Sea]] and is one of the rarest [[Sea Events|sea events]] to occur. Each player in the [[Sea Exploration Group]] raises the chance of a Mirage Island by a little, but the chance is still low.
+
+Contrary to certain beliefs, the Mirage Island can spawn anytime, [[Nychthemeron|day or night]].
+
+==Race Awakening==
+{{Main|Race Awakening}}
+''Resonating the player's {{Icon|Mirror Fractal}} requires night time and the [[Sealed King]] quest started to work. Make sure to go to [[Temple of Time]] and then back to Sealed King''
+
+The process to get [[Race Awakening]] occurs on this island. The player needs to have a {{Icon|Mirror Fractal}} and go to a high point of the island and wait until night.
+
+If the player activates their [[Races|race]]'s ability and looks at the moon for about 5-15 seconds, the moon will shine, giving the message:
+: "Your <Mirror Fractal> has resonated with the moon."
+* Note: This does not take away the player's {{Icon|Mirror Fractal}}. The player can activate the Mirror Fractal on every stage of the moon.
+After that, the player has to find the blue glowing [[Blue Gear|gear]] before the Mirage Island despawns.
+* Note: The [[Blue Gear]] will despawn when night ends, or when the Island disappears.
+Once it is found, the player will get the message:
+: "You found a weird artifact…" and "You hear a distant chiming from the Temple of Time."
+Once the player touches it, they will now be able to pull the lever at the [[Temple of Time]].
+
+==Tips on Finding the Mirage Island==
+* If the user uses [[Buddha]], transforms, and zooms in, they can see better in Mirage Island.
+* A less frustrating way to find Mirage is by despawning [[Sea Events]] with either [[Portal]]'s V or C skill. It is also possible to have a [[Kitsune]] user distract certain [[Sea Events]], such as [[Terrorshark|Terrorshark's]].
+* It is highly recommended to look out for the Mirage and in groups, scattered in their own respective ships. The island's spawn rate will increase based on the number of ships in the area, not the number of players in a single [[Boats|ship]].
+* The optimal time to start searching for the Mirage Island is at sunrise, so that night will begin around the time the player finds the island, giving them enough time to look for the [[Blue Gear]].
+* It is recommended to use a ship with high HP/or fast speed ships (e.g. [[Miracle]]) when searching for the Mirage Island.
+** A good example of this would be the [[Lantern]], the [[Guardian]] and the [[Beast Hunter]] due to all of them having high health.
+** [[The Sentinel]] can also be recommended due to its high speed. However, it has a lower health, which may not fare well against some of the stronger sea events. It is fast enough to outrun the sea events ( e.g., [[Terrorshark]], [[Sea Beast]], and etc.) but poor ability to dodge attacks from the mentioned sea events will cause too much damage, and it would most likely bring the boat down.
+** The [[Miracle]] also works well, being able to avoid every [[Sea Events|sea event]] except for a [[Terrorshark]]. 
+* The player can use the [[Kitsune Mask]] [[accessories|accessory]] to make it easier to see in [[Sea Danger Level]] 6 making it easier to find the island. Once the player arrives, they can switch to a faster accessory like [[Pilot Helmet]] or [[Dino Hood]]. 
+* The player can enable Fast Mode, which will remove most of the darkness and smoke.
+* The highest point of the island can be easier found by traveling along the outside wall of the island, and looking for a plateau that is not covered by grass.
+* While the player is trying to find the [[Blue Gear]], if the player goes out of the island where the fog isn’t present and looks at the island, the player will be able to see the Blue Gear clearly.
+* The Mirage Island can spawn without the boat moving as long as the player is sitting on the boat itself.
+* It is recommended to have at least 2-3 people to find the [[Advanced Fruit Dealer]], as it is hard to see on the Mirage Island.
+* Using Shift Lock and going in First Person while looking at the moon can help the {{Mirror Fractal|Mirror Fractal}} resonate.
+* It is recommended to use the [[Shipwright]] subclass (with max planks) and 3-4 people to make it easy to repair the boat if it gets damaged, making finding the Mirage Island much easier to do in one attempt.
+* The player can trigger the {{Mirror Fractal|Mirror Fractal}} to resonate in both the highest peak and the center of the island.
+* Sometimes, although not always, [[Sea Beast]]s have a chance to despawn the Mirage Island if they spawn too close to it. This chance is greatly increased with [[Rumbling Waters]]. To prevent this, it is highly recommended to enter the island upon spawning it as soon as possible.
+* If the player is playing on console, it is recommended that they join a server in first person, as resonating with the moon is less consistent on console.
+
+==Notes==
+* The Mirage Island contains several {{Fragment|Fragment}} [[Chests]] (giving {{Fragment|100-250}}) and Mirage [[Chests]] (giving {{Money|7,500-13,000}}).
+* If the player has already found the [[Blue Gear]], they will not be able to see it anymore, so only players who have not found it have the ability to see and find the gear themselves.
+* When the player is on Mirage Island, they will have their vision reduced during the daytime and severe darkness during the night.
+* The player can find an Advanced Fruit Dealer on Mirage Island. The Advanced Fruit Dealer functions the same as [[Blox Fruit Dealer]] but has a separate stock that changes every two hours instead of four and has a minimum of 7 fruits in stock.
+
+==Maps of the Island==
+<gallery>
+File:Gear location latest path.png|Paths that can help the player find the blue gear on Mirage Islands.
+File:Latest gear location.png|Possible [[Blue Gear]]'s Locations (Blue <font color="Sky blue">•</font>) + Highest Peak (Red <font color="red">•</font>)
+File:Mirage island Advanced fruit dealer spawning locations.jpg|Possible [[Advanced Fruit Dealer|Dealer]]'s locations are circled with blue with a pathway to follow for easy finding.
+</gallery>
+
+==Gallery==
+<gallery>
+File:Mirage island at day time.png|A Mirage Island that has spawned at day, thus proving that it can spawn any time of day.
+</gallery>
+
+==Trivia==
+* The Mirage Island is based on a real phenomenon, called a "{{w|mirage}}".
+** The Mirage Island also has the same effect as a {{w|mirage}}, as it can only be seen from afar and fades as the person gets closer.
+* The Mirage Island used to have its [[Soundtracks|soundtrack]] removed due to a bug, making it temporarily the only [[Locations|island]] in the game without a soundtrack. But as of February 28, 2024, it was fixed and re-added after a bug fix.
+* [[Destructible Physics]] does not work in the Mirage Island.
+* Rarely, when the island despawns, the chests may occasionally remain. However, trying to loot the chest won't do anything.
+* While using [[The Sentinel]] or [[Miracle]], the Mirage Island does not affect the height level of the flying boat.
+** Exceptions: if the player found the [[Treasure Island]], the [[Haunted Shipwreck]], the [[Prehistoric Island]] or the [[Frozen Dimension]]. 
+* The 50% clearer vision buff from the [[Kitsune Mask]] does not apply to Mirage Island when you get near it. 
+
+==Change History==
+{{Change History|17.2}}
+
+==Navigation==
+{{IslandNavigation}}
+
+==References==
+{{Reflist}}

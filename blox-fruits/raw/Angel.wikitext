@@ -1,0 +1,184 @@
+{{About|the Race||Angel Wings}}
+{{Race Infobox
+|name   = Angel
+|image  = Angel.png
+|source = 
+* [[Shop]]
+* [[tort]]
+* [[Event Shop]] or [[Death King]]
+|titles = 
+* Sacred Warrior (V2)
+* Perfect Being (V3)
+* {{Title|His Majesty|outline=1}} (V4)
+}}
+{{Quote|Built for the skies, Angels possess greater jumping power and aerial mobility.}}
+'''Angel'''  is one of the four [[races]] that players can spawn with upon joining the game for the first time. It has a 12.5% chance to be granted upon first joining. 
+
+Angel largely relies on its potential to delay time in battles, providing the player with common abilities such as healing and improved jumping capabilities. The aforementioned buffs are considered by many to be easy to counter, but in return, its V4 can be effective against all races, not purely because of its powerful abilities, but thanks to the ability to break [[combos]], break [[Instinct]], and the huge damage it is capable of dealing.
+
+In general, this race is particularly dangerous when [[Race Awakening|V4]] is activated, as it performs well against all races and playstyles. The V4 is considered one of the strongest races for PvP, boasting the highest damage per second among all races, while also being capable of breaking [[Instinct]] and stunning opponents while also being very good for grinding.
+
+__TOC__{{Clr}}
+
+==Obtainment==
+{{Race Stages Table/Default
+|V3 = Killing a player with the Angel race.
+
+|V4 = Trial of the King
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage will give additional buffs and make visual changes to the player's avatar.
+{| class="fandom-table" width="100%"
+!Stage
+!Buffs
+!Visual changes
+!Image
+|-
+|<center>'''V1'''</center>
+|25% increased jump height.
+|Gives the player a pair of small, white wings.
+|[[File:SkyWingsV1.png|thumb|center]]
+|-
+|<center>'''V2'''</center>
+|The first [[Air Jump]] will go slightly higher than the other jumps. Energy while Air Jumping is reduced by 20%, and the player gains an additional Air Jump.
+|No visual changes.
+|
+|-
+|<center>'''V3'''</center>
+|The player will unlock an ability called [[Heavenly Blood]]. When activated:
+* Increases defense by 15%.
+* Heals 14% of the player's maximum health (The total percentage is averaged as 13.5%-14% in-between 12% as the lowest and 15% as the highest, since it is random each time), along with natural regeneration as well as increased energy regeneration.
+Lasts for 4.5 seconds with a universal 30-second cooldown.
+|Wings are bigger and now flap around.
+|[[File:Skypedian Doge.png|thumb|center]]
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "Gears" are put in. For more information, please refer to [[Race Awakening]].
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, receive max stats as well as increased damage, speed, and health regeneration by 10%.
+|-
+|'''Prince of the Skies:'''
+* Allows the user to glide in the air by holding the dash button and free flight by holding the jump button.
+** Pressing jump and holding dash for a while will give the player the ability to fly. (Holding dash while flying is not necessary.)
+** Jump three times (or more) ,then on the third time hold down the jump button and release, the user will gain the ability to fly in idle style. (Holding jump while flying is not necessary)
+<gallery>
+Prince Of The Skies (Normal Fly).gif
+Prince Of The Skies (Creative Mode).gif
+</gallery>
+|'''Upgraded version:'''
+* All effects are increased greatly.
+|-
+|'''King's Rule:'''
+* Adds an aura around the user with multiple effects: slowness, damage, energy drain, screen distortion, as well as stunning the enemy if they get too close, The enemy bows to the user in this case.
+<gallery>
+King's Rule (Tier 1).gif
+</gallery>
+|'''Upgraded version:'''
+* All effects are increased greatly.
+<gallery>
+King's Rule (Tier 2).gif
+</gallery>
+|-
+| colspan="2" | '''Visual changes:'''
+* Wings grow bigger. While transformed, grow another pair of wings as well as a halo.
+<gallery>
+V4 Angel.gif|The wings' idle animation.
+AngelV4 Transform.gif|The transformation animation.
+AngelV4 Idle.gif|The idle animation.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Great for sky camping. This is useful against some spammable fruits such as [[Dragon]] and [[Dough]].
+* The higher initial [[Air Jump]] makes it possible in situations where hitting a move in the air is easier, (i.e; hitting [[Dough]] (Awakened or Non-Awakened) X or [[Lightning]] [X]) its possible without wasting a teleport move.
+*Has insane damage and stuns while breaking instinct. This makes it able to counter every race and makes it one of the best races for PvP.
+
+|'''[[Heavenly Blood]] (V3)'''
+* Heals very fast, and can be used to regen during a move (such as [[Control]] V), unlike natural regen.
+** Fast health and energy regeneration is useful for PvP and boss fights.
+* Allows the user to out-heal one-shot combos.
+* Good for drawing out long fights.
+|'''Prince of the Skies (V4)'''
+* Easier access to high locations such as [[Temple of Time]].
+* Quite fast.
+** Good for traveling.
+** Can be used to escape combats.
+
+|'''King's Rule (V4)'''
+* High stun and damage.
+** Can drain [[Portal]] users' energy quickly if they use [V] Dimensional Rift, making them unable to cast abilities and move quickly.
+* Good for breaking enemies' combos, especially one-shot combos.
+* [[Instinct/Break|Breaks Instinct]].
+* Difficult to escape.
+* Good defense.
+* Great for farming, especially with M1s.
+* One of the most powerful V4 abilities out of any V4
+** Extremely effective in [[Raids]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Air Jump]] still costs [[energy]], although it is reduced.
+* Jumping doesn't really help with moving/dodging, which is important in PvP.
+
+|'''[[Heavenly Blood]] (V3)'''
+* Instead of healing immediately, it heals over time.
+* Weak defense.
+* No damage or movement buffs.
+
+|'''Prince of the Skies (V4)'''
+* Doesn't give advantages in PvP. (Although it can aid in running away)
+* Cannot be used with nearly all [[Beast]] transformations. (Including [[Gas]])
+
+|'''King's Rule (V4)'''
+* Short range.
+* Doesn't completely stun neither [[Bosses]], nor players.
+* May mess up some combos while in the air due to its tendency to stun enemies towards the ground.
+}}
+</tabber>
+
+==Tips & Tricks==
+* [[Flash Step]] and any other moves can be used in mid-air while flying with the "Prince of the Skies" V4 gear.
+
+==Trivia==
+* Unawakened [[Buddha]]'s transformation can turn the wings into golden wings. (Although they cannot be used with '''Prince of the Skies'''.)
+* The '''Prince of the Skies''' gear is disabled while any [[transformation]] is active (except [[Dragon]]’s Hybrid form).
+* If the user activates Angel V3 while standing inside Ghoul V4 domain, the healing will remain 1/sec.
+* While the user has '''V4''' on, they can stand on lava, since the idle animation is technically '''off-ground.'''
+* This race's '''V4''' is arguably one of the best '''V4''' for PvP, mostly due to the '''King's Rule''' ability.
+* When the user activates '''V4''' and stands near another player, that victim's colours become black‑and‑white, creating a fully desaturated, inverted visual effect on their screen.
+* Interestingly, if the user equips [[Eagle]] and goes '''V4''', their Angel wings disappear and are replaced with [[Eagle]]'s wings and have the exact same animation when flying/hovering (though rarely it doesn’t get replaced).
+* The tier 2 '''King's Rule''' ability does about 2500 damage per second.
+
+==Changes History==
+{{Change History|1|content={{Update|26}}
+* Angel's King's Rule got nerfed.
+** {{Arrow|nerf}} Aura stun now stuns for slightly less time.
+** {{Arrow|nerf}} Aura stun deals slightly less damage.
+----
+{{Update|24}}
+* Angel's V3 Ability ([[Heavenly Blood]]) was nerfed.
+** {{Arrow|nerf}} Duration was reduced from 6.5s to 4.5s.
+** {{Arrow|nerf}} Total healing from ability was decreased from 20% to 13.5% Max HP.
+----
+{{Update|17.3.5}}
+* Sky was renamed to Angel.
+----
+{{Update|1}}
+* Sky was released.}}
+
+==Navigation==
+{{RaceNavigation}}
+
+[[ru:Ангел]]

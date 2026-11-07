@@ -1,0 +1,71 @@
+{{Tabber V2
+|tab1 = First Sea
+|tab2 = Second Sea
+|tab3 = Third Sea
+}}
+{{MapTab}}
+{{Sea Infobox
+|name  = Third Sea
+|image = [[File:Updatedbloxfruitsmap25.png|thumb]]
+|level = 1500-MAX
+}}
+The '''Third Sea''' (also known as Sea 3) is currently the final sea that players will unlock. The Third Sea provides the keystones to many players' PvP builds, such as various powerful [[Fighting Styles|fighting styles]], [[swords]], and [[guns]]. The Third Sea is also the key for unlocking [[Race Awakening]]s.
+
+==Description==
+===Unlocking the Third Sea===
+{{Main|Third Sea/Accessing}}
+Players can get access to the Third Sea by reaching Lv. 1500 after completing the [[Colosseum Quest]], defeating [[Don Swan]] and helping [[King Red Head]] subdue [[rip_indra]] in the [[Second Sea]].
+
+===Spawning===
+Once the player finishes the [[King Red Head]] quest, they will then be teleported to the [[Café]]. Talking to [[Mr. Captain]] at the [[Green Zone]] docks near the bridge will teleport the player to the docks of [[Port Town]]. These docks also contain several important [[NPCS]].
+
+===Difficulty===
+The Third Sea is significantly harder than the [[Second Sea]] and the [[First Sea]]. [[Elemental]] Reflex is somewhat useless due to high requirements needed to gain immunity (reaching up to 100 levels above the [[NPCs]]) and the amount of [[NPCs]] using [[Aura]]. [[Enemies]] are spread out more and there are far making it very time-consuming to obtain islands than the [[First Sea]] and the [[Second Sea]], so more time on each island. The amount of time farming the player spends here is also increased, as they grind 699 levels in the [[First Sea]], 800 in the [[Second Sea]], and {{#expr:{{MaxLevel}}-1700}} or even more in the Third Sea. [[Buddha]] is also recommended for farming in the Third Sea, making it far easier than with Elemental fruits. Be sure to awaken it, as awakening it makes it much better for farming. The player should expect bounty hunters killing them often and appearing much more often than in the Second Sea, as well as scripters often exploiting or stealing kills in the Third Sea, especially in the [[Haunted Castle]], [[Sea of Treats]] and sometimes the [[Tiki Outpost]] too, so the player must be fully prepared while grinding, otherwise they will be put at a disadvantage. If the player has a private server, it is a major advantage as they will not have to deal with the exploiters and bounty hunters and also make them able to prevent kill stealing by regular players. It is recommended to get a [[Private Server]] in the Third Sea.
+
+===Design===
+The Third Sea is the newest sea in the game and receives the majority of island updates, so the islands here have far more details and precision than the ones in the previous seas. Something else to note is that the islands in the Third Sea are very far away from each other, presumably to match the far greater movement abilities possessed by those in the Third Sea, so much so that it has its own limited teleportation system, being the [[Portals]], from which you can easily teleport between the [[Hydra Island]], the [[Mansion (Third Sea)|Turtle Mansion]], and the [[Castle on the Sea]], but can only be used after killing [[rip_indra True Form]]. A third, orange portal that allows the player to move between the [[Tiki Outpost]] and the [[Castle on the Sea]] can be accessed upon defeating the [[Tyrant of the Skies]], which also allows the player to access the [[Submarine Worker]] slightly below the [[Tyrant of the Skies|Raid Boss’]] spawn, where [[Submarine Worker|he]] would take them to the [[Submerged Island]] as a reward for “fighting off bandits”. Upon traveling to the [[Submerged Island]], the player has the option to talk to the [[Submarine Worker]] again while down there to travel to any island in the sea for a hefty amount (ranging between 10k-20k beli, or free if the player is returning to the [[Tiki Outpost]]), which serves as a useful feature for anyone without access to the [[Luxury Boat Dealer]], [[Portal]], or any other mobility option that’d be just as efficient, as money is easily obtainable by venturing out into the [[Sea Danger Level|Danger Levels]]. The map is composed mainly of the [[Castle on the Sea]] surrounded by the farming islands, and the sea danger levels beyond.
+
+===Valor===
+{{Main|Valor}}
+{{Valor|Valor}} is a currency found at the [[Tiki Outpost]] and Sea Events, in the Third Sea. It is used to level up [[Shipwright]], which can be done by talking to the [[Shipwright Teacher]]. The player can also obtain {{Valor|Valor}} by completing [[Sea Events]], and the harder the Event is the more {{Valor|Valor}} it gives them.
+
+===Subclasses===
+{{Main|Subclass}}
+There is only one [[subclass]] in the game so far, and it is the [[Shipwright]], taught by the [[Shipwright Teacher]]. If the player defeats 50 [[Sea Events]], they can unlock his room. He will reward them with a [[Legendary Scroll]] and the [[Shipwright]] subclass if the player can defeat 20 [[Shark (Enemy)|Sharks]] for him. The Shipwright Subclass is used to repair [[Boat]]s. It can be leveled up by repairing [[Boats]] and gaining XP from doing so. At certain Shipwright levels, the player will unlock new abilities which make their [[Subclass]] more useful, like having more chances of getting [[Wooden Plank]]s and playing the ship minigame for more health. There will probably be more subclasses in future updates.
+
+===Sea Danger Levels=== 
+{{Main|Sea Danger Level}}
+As of {{Update|20}}, the Sea Danger Levels reside outside of the map of the Third Sea. They vary in levels from 0-6, and the difficulty increases the higher the number is.
+
+==List of Islands==
+{| class="article-table"
+!Main
+!Other
+|-
+|
+* [[Port Town]]
+* [[Hydra Island]]
+* [[Great Tree]]
+* [[Floating Turtle]]
+* [[Haunted Castle]]
+* [[Sea of Treats]]
+* [[Tiki Outpost]]
+* [[Submerged Island]]
+|
+* [[Castle on the Sea]]
+* [[Treasure Island]]
+* [[Kitsune Island]]
+* [[Mirage Island]]
+* [[Frozen Dimension]]
+* [[Prehistoric Island]]
+|}
+
+==Trivia==  
+* The Third Sea holds the title of having the least number of islands (8); however, more are to come. It also could be counted as 13 islands, as there are several mini-islands in the [[Sea of Treats]] or 17 if the [[Mirage Island]], [[Kitsune Island]], [[Treasure Island]], [[Frozen Dimension]] and [[Prehistoric Island]] are included.
+* The enemies past the [[Ice Cream Land]] (Sea of Treats) use [[Aura]], nullifying [[Elemental]] Reflex even if the player surpasses the required [[Level]].
+
+==Change History==
+{{Change History|15}}
+
+==Navigation==
+{{IslandNavigation}}

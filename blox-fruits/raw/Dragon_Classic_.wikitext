@@ -1,0 +1,300 @@
+{{CombosTab}}
+{{Removed|type=[[Blox Fruit]]|desc=It was replaced by [[Dragon]] in [[Updates/24|Update 24]].}}
+{{Blox Fruit Infobox
+|name   = Dragon (Classic)
+|image  = <gallery>
+Dragon (Classic) Fruit.png|Fruit Icon
+DragonFruitGif.gif|Fruit GIF
+Dragon (Classic).png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = No
+|update = 13
+
+<!-- Fruit Price -->
+|money  = 3,500,000
+|robux  = 2,600
+}}
+{{Quote|The king of the fruits is temporarily offsale for enhancements.<br />Stay tuned for its powerful return!|System Message (before Update 24)}} 
+'''Dragon (Classic)''' was a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that used to cost {{Money|3,500,000}} or {{Robux|2,600}} from the [[Blox Fruit Dealer]].
+
+Dragon was an incredible fruit for [[PVP mechanics|PvP]] due to its powerful AoE and [[Instinct Break]] moves. This fruit was recommended for air campers because it did high damage to them. This Blox Fruit was used to counter awakened [[Dough#Moveset (V2)|Dough]], [[Ice]], and other fruits due to its long-ranged attacks in the air. 
+
+Dragon (Classic) had a transformed mode that enhanced its attacks, similar to awakened [[Phoenix#Moveset (V2)|Phoenix]].
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Fury Meter
+|meter    = FuryMeterDragon.png
+|desc     = The user started with 50% of the "Fury Meter" bar when spawned. The user's Fury Meter needed to be full to be able to transform into a dragon. Fury was regained over time while not transformed and drained while transformed. Using moves while transformed decreased the user's Fury Meter. When taking damage while transformed, the Fury Meter would increase. The fury meter took 1 minute and 30 seconds to fill to full from 0% to 100%.
+}}
+
+{{Skill/Passive
+|name     = Dragon Armor
+|desc     = In Dragon form, the user gained a 65% damage resistance to all attacks and was able to [[Flight|fly]].
+}}
+
+{{Skill/Passive
+|name     = Multicolored
+|desc     = The user could change the color of their wings and Dragon form by flying through colored [[hoops]]. However, various mastery levels were needed:
+* <span style="color: green;">'''Green'''</span>, <span style="color: blue;">'''Blue'''</span>, and <span style="color: red;">'''Red'''</span> were unlocked by default.
+* <span style="color: orange;">'''Orange'''</span> was unlocked at '''100''' mastery.
+* <span style="color: purple;">'''Purple'''</span> was unlocked at '''200''' mastery.
+* <span style="color: brown;">'''Brown'''</span> was unlocked at '''300''' mastery.
+* <span class="Outline-B" style="color: yellow;">'''Yellow'''</span> was unlocked at '''400''' mastery.
+* <span class="Outline-B" style="color: white;">'''White'''</span> was unlocked at '''500''' mastery.
+* <span class="Outline-W" style="color: black;">'''Black'''</span> was unlocked at '''600''' mastery.
+Images of the different colored Dragon forms can be found [[Hoops#Dragon Skins|here]].
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Heatwave Beam
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|gif      = DragonZ
+|desc     = The user fired a beam of energy from their mouth, knocking enemies back. This move did not affect the Fury Meter.
+}}
+
+{{Skill
+|key      = X
+|name     = Dragonic Claw
+|mastery  = 150
+|cooldown = 10.5
+|energy   = 60
+|gif      = DragonX
+|desc     = The user harnessed a ball of fire in their right hand, then dashed toward where the cursor was. Upon reaching an enemy, the user grabbed them and dragged them along, leaving a trail of fire behind. If used in the air, the user dragged the enemy caught to the ground. The drag ended early upon colliding with a wall. The affected enemy was left with a burn DoT for 9 ticks equal to 5% of the damage of the grab, for a total of 45% grab damage. The first tick started immediately upon ending the grab. This move did not affect the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Fire Shower
+|mastery  = 250
+|cooldown = 15
+|energy   = 100
+|gif      = DragonC
+|desc     = The user jumped up into the air and began shooting fireballs towards the ground. Upon impact, the projectiles exploded, damaging enemies caught in the vicinity, knocking them back, and stunning them for a brief moment. Holding this move allowed the user to shoot fireballs for around 2.5 seconds. After an individual enemy reached a certain threshold of damage from fireballs, they would take greatly reduced damage from fireballs. This threshold was reached after about half of the total fireballs hit the enemy, meaning the user could miss some of their fireballs or end their skill early and still deal most of the damage. This move did not affect the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 350
+|cooldown = 1.5
+|energy   = 10
+|gif      = DragonV
+|desc     = If the user had a maxed Fury meter, they transformed into a dragon. Transforming consumed 15% of the Fury Meter.
+}}
+
+{{Skill
+|key      = F
+|name     = Dragon Flight
+|mastery  = 75
+|cooldown = 5
+|energy   = 50
+|gif      = Dragonflight
+|desc     = The user grew dragon wings and was able to fly (the user flew faster when aiming upward). This move did not affect the Fury Meter.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = Z
+|name     = Heatwave Beam
+|mastery  = 1
+|cooldown = 5
+|energy   = 40
+|gif      = DragonZTransform
+|desc     = The user shot a huge beam of fire from their mouth. Landing this move restored approximately 7.5% of the Fury Meter.
+}}
+
+{{Skill
+|key      = X
+|name     = Dragonic Claw
+|mastery  = 150
+|cooldown = 7
+|energy   = 60
+|gif      = DragonXTransform
+|desc     = The user opened their mouth wide open then proceeded to shoot three crescent-shaped projectiles in three directions from its claw, damaging and burning enemies it hit for a short time. Landing this move restored approximately 10% of the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Fire Shower
+|mastery  = 250
+|cooldown = 12
+|energy   = 100
+|gif      = DragonCTransform
+|desc     = A ball of raging flames formed within the user's mouth and was then unleashed. Upon hitting anything, this ball exploded and burned anything it came into contact with. Landing this move restored approximately 15% of the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 350
+|cooldown = 1.5
+|energy   = 10
+|gif      = DragonVRevert
+|desc     = The user reverted back to their avatar. This move did not affect the Fury Meter.
+}}
+
+{{Skill
+|key      = F
+|name     = Dragon Flight
+|mastery  = 75
+|gif      = 
+|desc     = This move could not be used in Transformed form.
+}}
+}}
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Good combo potential.
+
+* Good damage.
+
+|'''[Z] Heatwave Beam'''
+* Long range.
+* Large hitbox.
+* High knockback.
+
+|'''[X] Dragonic Claw'''
+* Good mobility.
+* Applies burn damage over time.
+* Can be used to make the enemy drown if used above water.
+
+|'''[C] Fire Shower'''
+* Long range.
+* Large hitbox.
+* Great stun.
+* Useful in ground PvP.
+
+|'''[V] Transformation'''
+* Quick transform.
+
+|'''[F] Dragon Flight'''
+* Decent for traveling.
+* Faster while aiming upward.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Hard to obtain.
+
+* High mastery requirements.
+* Bad for grinding normal NPCs, because of knockbacks.
+** However, Dragon was good for boss grinding.
+
+|'''[Z] Heatwave Beam'''
+* Can be dodged.
+
+|'''[X] Dragonic Claw'''
+* Single-target.
+* Goes downward after grabbing an enemy, which can make the user drown if used above water.
+
+|'''[C] Fire Shower'''
+* Less effective in air.
+
+|'''[V] Transformation'''
+* Requires full Fury Meter.
+
+|'''[F] Dragon Flight'''
+* Slow flight.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* High damage reduction.
+* Shorter cooldowns.
+
+|'''[Z] Heatwave Beam'''
+* Long range.
+* Large hitbox.
+* High knockback.
+
+|'''[X] Dragonic Claw'''
+* Long range.
+* Large hitbox.
+* High knockback.
+* Applied burn damage over time.
+
+|'''[C] Fire Shower'''
+* Extremely large hitbox.
+* Cannot be cancelled by damage.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Larger hitbox.
+* [[Cursed Dual Katana]] [X] ability partially ignored the damage reduction.
+
+|'''[Z] Heatwave Beam'''
+* Hard to aim when the enemy was too near.
+
+|'''[X] Dragonic Claw'''
+* Weak from afar.
+
+|'''[C] Fire Shower'''
+* Only fires below the user, and cannot be controlled by the cursor.
+* Makes the user vulnerable from above attacks.
+}}
+}}
+</tabber>
+
+==Trivia==
+* If the player attempted to purchase Dragon (Classic) from the [[Blox Fruit Dealer]] or [[Shop]] during [[Update 23]], they would get the message: "<font color= "#ffe533">'''The king of fruits is temporarily off sale for enhancements.'''</font> '''Stay tuned for its powerful return!'''", instead of the normal Robux purchase screen.
+* Before [[Update 24]], Dragon (Classic) was the third most expensive fruit in the game. But, from [[Update 13|Updates 13]]-[[Update 17.2|17.2]], it was the most expensive.
+* After [[Update 24]], people who ate Dragon (Classic) before the update still had it in their inventory. However, after the developers fixed the bug, the players who ate the Dragon (Classic) got either Eastern or Western Dragon.
+* Dragon (Classic) had the biggest transformed model in the game.
+* '''[C] Fire Shower''' was similar to [[Light#Moveset (V1)|Light's Unawakened]] '''[X] Barrage of Light'''.
+* In addition to the colors above, there was a pink color in game exclusive to admins.
+* The transformed dragon was an Eastern mythological dragon.
+
+==Change History==
+{{Change History|13|content=
+{{Update|24}}
+* Dragon (Classic) was removed from the game.
+** It was replaced by [[Dragon|Eastern and Western Dragons]].
+----
+{{Update|23}}
+* Dragon was made unavailable to purchase from the [[Blox Fruit Dealer]] and [[Shop]].
+** Its price was changed to "IN PROGRESS".
+----
+{{Update|20}}
+* Dragon Fruit's model's icon was remade.
+: <gallery>
+Dragon 150x150.png|Old Dragon Fruit's icon.
+</gallery>
+----
+{{Update|17.3}}
+* '''[C] Fire Shower''' and '''[X] Dragonic Claw''' were reworked.
+** Fire Shower's hitbox was reduced.
+** Both of these abilities got a small VFX rework.
+----
+{{Update|13}}
+* Dragon was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Things removed from the game]]
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[ru:Дракон (Классический)]]

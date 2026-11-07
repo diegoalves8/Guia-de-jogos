@@ -1,0 +1,346 @@
+{{Protection}}{{MagicWords}}{{SimilarTitle|Pierced|the Gem Grab map}}
+{{Brawler Infobox|Title = Peed in the pool|PrestigeTitle = Bad cop|Rarity = Legendary|Class = Marksman|MovementSpeed = 750 (Normal)<br>868 (with Slip 'n Snipe)|HealthLabel = Health|Health = 3000|AttackRange =10 (Very Long) |AttackSpeed =4000 |AttackWidth = 0.67<br>0.73 (last ammo)|Reload =3 seconds (full ammo bar; Very Slow) |SuperRange =8.33 (Long) |AttackSuperCharge =15.425%<br>24.375% (last ammo)<br>4.5–9% (pickup shell; Power Level 1–11) |AttackLabel = Damage|Attack = 950|AttackLabel2 = Last Ammo Damage|Attack2 = 1400|AttackLabel3 = Pickup Shell Damage|Attack3 = 600|SuperLabel = Damage|Super = 1400|SuperSpeed=4500|SuperSuperCharge =10.5–21% (Power Level 1–11)<br>10.5% (second projectile; with Hypercharge)|VoiceActor=Emani Shane|Gadget1Name=Bottomless Mags|Gadget1Cooldown=22 seconds|Gadget2Name=You Only Brawl Twice|Gadget2Cooldown=18 seconds|Previous=Kenji|Next=Nori|SuperWidth=0.53|HyperchargeMultiplier=40%|AttackHyperchargeCharge=6.15%<br>9.75% (last ammo)<br>3.6% (pickup shell; Power Level 11)|SuperHyperchargeCharge=8.4%<br>4.2% (second projectile; with Hypercharge)|Gadget2Range=4}}{{Quote|You know pool lifeguards? Pierce is one of those. Except he shoots people instead of saving them. OK maybe he isn't like a lifeguard at all.<br>When [[Buzz]] decides there has been too much pee in the pool, he calls in Pierce to 'clean up'.}}{{Portrait}}
+Pierce is a {{Rarity|Legendary}} [[Brawler]] who has moderately low health, a very long range, and a variable damage output, but suffers by having an extremely slow reload speed. He was the 98th Brawler added to the game. He attacks by firing water towards enemies that drop shells on the ground upon hitting a target. Upon picking the shells up, he automatically shoots towards the closest target, which passes through obstacles. For his Super, Pierce marks all targets in the radius after a delay, and then automatically attacks by shooting projectiles that home in on the enemies. His first Gadget, Bottomless Mags, makes him drop a shell on the ground, while reloading one ammo slot. His second Gadget, You Only Brawl Twice, provides a shield that absorbs shells and decays over time. His first Star Power, Mission: Swimpossible, slows enemies down if they are hit by Pierce's last ammo attack. His second Star Power, Slip 'n Snipe, grants Pierce a brief movement speed boost upon picking a shell up. His Hypercharge, Second Wave, adds a second wave of Super projectile that deals less damage than the first wave, and allows his Super projectiles to pass through obstacles and pierce through enemies.
+
+==Attack: Pool Sniper==
+{{Quote|Pierce fires a powerful long range shot. If the projectile hits an enemy, Pierce drops a shell next to himself. Collecting a shell fires a piercing shot automatically towards the nearest visible target. Pierce can only reload by collecting shells or depleting ammo. The last ammo in a clip deals extra damage.}}Pierce fires a water projectile at long range that deals low damage and drops a shell if it hits an enemy. When he only has one ammo, Pierce's ammo bar will turn yellow, and the attack will deal 47.3684% more damage. Unlike other Brawlers, Pierce cannot automatically reload; instead, he must pick up shells, which will restore one ammo to him. Picking up a shell will also shoot a water projectile at the closest enemy, dealing low damage and piercing the environment but not enemies. These shells last for 8 seconds each, and when not picked up, they will despawn. If multiple players on a team are playing as Pierce, each Pierce can only pick up their own shells, and will ignore ally Pierce's shells. He can also reload if his ammo bar is empty, which will begin to fill a bar shown under his health over 3 seconds, automatically reloading all three ammo once it fills. Unlike most Brawlers that respawn with one ammo, Pierce respawns with all three.
+
+==Super: Fish in a Barrel==
+{{Quote|Pierce marks an area, then fires at any Brawlers hit with a piercing shot. Each shot that hits will also drop a shell next to Pierce.}}Pierce marks the area in a 3-tile radius, and, after a 1-second delay, he fires homing attacks towards any enemies caught in the radius. These projectiles deal high damage, and pass through obstacles but not enemies. Similar to his attack, the Super drops shells on hit that similarly last for 8 seconds before they despawn.
+
+==Gadgets==
+===Bottomless Mags===
+{{Quote|Reload 1 ammo and drop a shell next to Pierce. Cooldown: 22 seconds.}}{{Gadget|1}}
+This Gadget instantly reloads 1 of Pierce's ammo slots and drops a shell next to him.
+
+===You Only Brawl Twice===
+{{Quote|Pierce will absorb all shells and gain 1200 shield for each one, while also pushing back nearby enemies. Cooldown: 18 seconds.}}{{Gadget|2}}[[File:Hardcore Icon.png|left|40x40px|link=]]When activated, Pierce absorbs all shells that are on the ground and grants himself a consumable shield that blocks a large amount of damage for each shell and knocks nearby enemies back by 2 tiles. The shield decays for 5% health every 0.25 seconds, similar to other decaying shield abilities. If an attack deals more damage than the shield's current health, the shield disappears, and Pierce with the shield is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on the Brawler's max health when this shield is active. Enemies damaging those with the shield on can still charge their Supers. If there are no shells on the map, Pierce can still knock enemies back within range, but no shield is created.
+
+==Star Powers==
+===Mission: Swimpossible===
+{{Quote|Pierce's last ammo also slows enemies by 25%.}}{{StarPower|1}}
+Enemies hit by Pierce's last ammo attack will also be slowed down by 25% for 1 second.
+
+===Slip 'n Snipe===
+{{Quote|When collecting a shell, Pierce gains a short burst (15%) of movement speed.}}{{StarPower|2}}
+After collecting a shell, Pierce gains a 15% movement speed boost for 1 second. This effect stacks with other speed boost abilities.
+
+==Hypercharge: Second Wave==
+{{Hypercharge}}
+{{Quote|Super fires 2 waves of projectiles, 2nd wave deals 50% less damage. Projectiles pierce Brawlers.}}
+When activated, Pierce's Super fires 2 waves of projectiles that pass through enemies and walls, with the second wave dealing 50% less damage than the first. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*Pierce's unique mechanics reward consistency in hitting your shots. As such, play conservatively until you get your Super, which will allow you to get lots of shells that allow for a much more aggressive playstyle. 
+** Alternatively, you can play a much more aggressive and close-ranged role to secure shots more easily, though keep in mind that despite his relatively high DPS, Pierce lacks the health to deal with typical aggressive Brawlers.
+*Collect the shells (or use Bottomless Mags Gadget) just after you use the last ammo so the shell gives you the yellow ammo that deals a lot more damage, which increases their effectiveness.
+*Pierce's fairly low damage when compared to other Marksmen and his high-risk-high-reward playstyle mean that he tends to be outmatched by other snipers in long-ranged maps. As such, play him in medium-ranged maps, where he's able to bully shorter-ranged brawlers that appear there more often.
+*Sometimes, it's more effective to keep only one ammo in Pierce's clip so that he can deal bonus damage. This is especially so when he's using his Mission: Swimpossible Star Power, which is one of his only ways to defend himself against aggressive Brawlers.
+*If you're fighting aggressive Brawlers, keep a cache of shells near you at all times: when approached, walk into the cache to overwhelm your attacker with shots. Keep in mind that the shells have to be renewed frequently since they despawn after some amount of time.
+*Pay attention to where you're standing: Pierce's shells may sometimes drop behind walls - the direction the shells drop is random. It might make it a hassle for him to pick them up and often cost him precious time.
+*When fighting against Pierce with a Brawler that possesses area control abilities, lay hazards near any shells near him: as Pierce is very reliant on these shells, most players will often risk picking up the shells. For Pierce players, be aware of your surroundings and avoid recklessly picking up shells especially on low health, since Pierce doesn't have much to begin with.
+*Ironically, Pierce doesn't really have any proper piercing attacks in his kit, as his shell projectiles disappear upon hitting their chosen target. As such, make it your priority to target spawner Brawlers as their pets can make you waste ammo and prevent you from loading shells, as well as shield their owners by making the attacks target them.
+*Pierce's shots drop shells when hitting base bots in brawl arena, allowing him to clear them very efficiently.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 01.ogg|Filedescription = "I smell sunscreen and bad choices."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 01.ogg|Filedescription = "I smell cologne and bad decisions."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 01.ogg|Filedescription = "Pool's clean, punks!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami lead vo 01.ogg|Filedescription = "Streets are clean, punks!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 01.ogg|Filedescription = "Hey, let's keep it above water line."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami hurt vo 01.ogg|Filedescription = "Hey, that's Italian linen."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 01.ogg|Filedescription = "Who's a bad boy?"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 01.ogg|Filedescription = "Who's a bad flamingo?"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 01.ogg|Filedescription = "Oh, you win this round, punk."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 04.ogg|Filedescription = "Shades stay on, always."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 01.ogg|Filedescription = "You're about to get shellshocked!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 01.ogg|Filedescription = "You're about to get boat shocked!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 02.ogg|Filedescription = "Pool patrol, locked and loaded."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 02.ogg|Filedescription = "Vice patrol, locked and loaded."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 02.ogg|Filedescription = "Ha, justice made a splash today!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami lead vo 02.ogg|Filedescription = "Vice patrol, locked and loaded."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 02.ogg|Filedescription = "Ah, I eat bullets for breakfast."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami hurt vo 02.ogg|Filedescription = "Careful, dry clean only!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 02.ogg|Filedescription = "You pee, you pay."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 02.ogg|Filedescription = "You vice, you pay."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 02.ogg|Filedescription = "Oh, guess I'm all washed up."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 01.ogg|Filedescription = "Oh, guess I'm all washed up."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 02.ogg|Filedescription = "Perimeter secured!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 06.ogg|Filedescription = "Everybody, freeze! Unless, you're cool."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 03.ogg|Filedescription = "Justice makes a splash."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 03.ogg|Filedescription = "Justice looks good in pastels."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 03.ogg|Filedescription = "Crime called, wrong number, buddy!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami lead vo 05.ogg|Filedescription = "If winning were a crime, I would arrest myself."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 03.ogg|Filedescription = "Ah, right in the floaties!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami hurt vo 03.ogg|Filedescription = "Right in the pastels!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 03.ogg|Filedescription = "Ha ha ha, you're in over your head."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 03.ogg|Filedescription = "Those shades won't save you now."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 03.ogg|Filedescription = "No, looks like I'm off duty."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 05.ogg|Filedescription = "Hey, uh, that's gonna leave a mark."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 03.ogg|Filedescription = "Oh, yeah! Welcome to the danger splash zone."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 02.ogg|Filedescription = "Welcome to the neon danger zone."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 04.ogg|Filedescription = "Pool justice never sleeps."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 04.ogg|Filedescription = "Vice never clocks out."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 04.ogg|Filedescription = "Ha, looks like crime is out of business."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 04.ogg|Filedescription = "Ah, don't test me!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami hurt vo 04.ogg|Filedescription = "That better come with an apology!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 04.ogg|Filedescription = "Ugh, so much paperwork."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 04.ogg|Filedescription = "I don't chase sunsets, I chase street punks."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 04.ogg|Filedescription = "I was one day away from retirement."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 02.ogg|Filedescription = "I was one day away from retirement."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 04.ogg|Filedescription = "Ha, looks like crime is out of business."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 04.ogg|Filedescription = "Boom! No speedboat is gonna save you."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 05.ogg|Filedescription = "Step aside, or step into a world of trouble."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 05.ogg|Filedescription = "Step aside, or step into a world of shoulder pads."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 05.ogg|Filedescription = "Just another day at the Velocirapids."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami lead vo 03.ogg|Filedescription = "Just another night on the strip."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 05.ogg|Filedescription = "Oh, you're swimming in trouble."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami hurt vo 05.ogg|Filedescription = "My tailor's gonna be furious!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 05.ogg|Filedescription = "Ha ha ha, case closed."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 05.ogg|Filedescription = "Your cruise ends here."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 05.ogg|Filedescription = "Someone, please, file an incident report."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 03.ogg|Filedescription = "Someone, file an incident report."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 05.ogg|Filedescription = "Ha, justice never misses."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 05.ogg|Filedescription = "Deploy excessive force, with style."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 06.ogg|Filedescription = "Crime doesn't float on my watch."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 06.ogg|Filedescription = "Crime doesn't cruise on my watch."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce lead vo 06.ogg|Filedescription = "Yeah, I came to make waves."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami lead vo 04.ogg|Filedescription = "I came to make waves. Splash."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce hurt vo 06.ogg|Filedescription = "Ah, don't make me shoot you!"}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 06.ogg|Filedescription = "Boom, headshot!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 06.ogg|Filedescription = "Ha, your alibi sank."}}
+|'''Normal:'''
+{{Ogg|Filename = Pierce die vo 06.ogg|Filedescription = "Velocirapids safety rating just dropped."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 06.ogg|Filedescription = "I dress for success, not for this."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 06.ogg|Filedescription = "Ha ha. Welcome to splash country, population zero."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami ulti vo 03.ogg|Filedescription = "Welcome to vice city, population you."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 07.ogg|Filedescription = "Freeze, dirtbag!"}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 09.ogg|Filedescription = "Shades down, stand as up."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 07.ogg|Filedescription = "Get out my way, punk."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 07.ogg|Filedescription = "Citation, excessive, existence."}}
+|'''Undercover:'''
+{{Ogg|Filename = Pierce miami die vo 07.ogg|Filedescription = "At least I went out in matching pastels."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 07.ogg|Filedescription = "Welcome to pool town, clown."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 08.ogg|Filedescription = "Where crime swims, I dive in."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 07.ogg|Filedescription = "Where vice hides, I pull up."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 08.ogg|Filedescription = "Pool's closed, punk."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 08.ogg|Filedescription = "Tell the coroner I said 'hey.'"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 08.ogg|Filedescription = "Meet your brawling bullet buddies."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 09.ogg|Filedescription = "Justice is poolproof."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 08.ogg|Filedescription = "Huh, yeah. Justice is linenproof."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 09.ogg|Filedescription = "Lights out, punk."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami kill vo 09.ogg|Filedescription = "Woo! Pastel punishment."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 09.ogg|Filedescription = "No life vest is gonna save you."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 10.ogg|Filedescription = "Mercy's on vacation, I'm taking over."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 10.ogg|Filedescription = "Smooth jazz, hard justice."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 10.ogg|Filedescription = "Tagged and bagged!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 10.ogg|Filedescription = "You can run, but you can't hide, punk!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Pierce start vo 11.ogg|Filedescription = "I floss with police tape."}}'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 11.ogg|Filedescription = "Lights, linen, liquidation."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 11.ogg|Filedescription = "You're cancelled, punk!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 11.ogg|Filedescription = "Target locked, justice incoming."}}
+|-
+|'''Undercover:'''
+{{Ogg|Filename = Pierce miami start vo 12.ogg|Filedescription = "Clear the pier, Pierce is here!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 12.ogg|Filedescription = "Case closed, casket open."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 12.ogg|Filedescription = "If you stop, you drop."}}
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 13.ogg|Filedescription = "Hooked, booked, and totally cooked!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 13.ogg|Filedescription = "Freeze! Heh, just kidding!"}}
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce kill vo 14.ogg|Filedescription = "Sunscreen won't save you now."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Pierce ulti vo 14.ogg|Filedescription = "Oh yeah! Call the cleanup crew!"}}
+|}
+
+==Pierce Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2025|Pierce}}
+
+==History==
+*18/12/25:
+**{{Balance|Content=Pierce became available to play in the [[Training Cave]].|Change=Neutral}}
+*19/12/25:
+**{{Balance|Content=Pierce could be unlocked early from [[Brawl Boxes|Pierce Boxes]], obtaining 20 of them, from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+**{{Balance|Content=The Pierce: Vampire Hunter, Edgy, and High Stakes Pierce skins were added. They were featured as Misc skins.|Change=Neutral}}
+*01/01/26:
+**{{Balance|Content=Pierce became available in the [[Starr Road]].|Change=Neutral}}
+*23/01/26:
+**{{Balance|Nerf|Pierce's Bottomless Mags Gadget cooldown was increased to 16 seconds (from 13).}}
+**{{Balance|Neutral|Fixed a bug where Pierce could hit Larry with Protocol: Protect Star Power with Lawrie could crash the game.}}
+**{{Balance|Neutral|Fixed a bug where completing Pierce’s Master Record rewarded the Box Icon instead of the Brawler Icon.}}
+*25/02/26:
+**{{Balance|Nerf|Pierce's Bottomless Mags Gadget cooldown was increased to 18 seconds (from 16).}}
+**{{Balance|Nerf|Pierce's main attack Super charge rate was decreased by 13%. This does not affect the projectiles from picking up shells.}}
+**{{Balance|Nerf|Pierce's level up health was decreased to 500 (from 550) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Pierce's level up damage was decreased to 4% (from 5%) in Brawl Arena.}}
+**{{Balance|Neutral|Pierce's True Silver and True Gold skins were added.}}
+*24/03/26:
+**{{Balance|Neutral|Pierce's Second Wave Hypercharge was added.}}
+**{{Balance|Neutral|Fixed a bug where the wrong spray was included in Pierce's Collector Pack.}}
+*22/04/26:
+**{{Balance|Nerf|Pierce's Super Damage was decreased to 1400 (from 1600).}}
+**{{Balance|Nerf|Pierce's Super recharge rate was decreased by 12.5%. This does not affect the projectiles from picking up shells.}}
+**{{Balance|Nerf|Pierce's Mission: Swimpossible Star Power slow was decreased to 25% (from 30%).}}
+**{{Balance|Nerf|Pierce's level up damage was decreased to 2% (from 4%) in Brawl Arena.}}
+**{{Balance|Neutral|Pierce's level up reload speed boost was decreased to 0.5% (from 1%) in Brawl Arena.}}
+*30/06/26:
+**{{Balance|Nerf|Pierce's Bottomless Mags Gadget cooldown was increased to 22 seconds (from 18).}}
+**{{Balance|Nerf|Pierce's You Only Brawl Twice Gadget cooldown was increased to 18 seconds (from 13).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Pierce's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Pierce's main attack last ammo damage was decreased to 1400 (from 1500).}}
+**{{Balance|Neutral|Fixed the Pierce: Vampire Hunter skin using the default area visual effects after marking.}}
+*05/11/26:
+**{{Balance|Neutral|The Undercover Pierce skin was added. It was featured as a Brawl Vice skin.}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Pierce Vampire Hunter|Cost1=From Pierce Boxes or 199 Gems|Campaign1=Misc|Rarity1=Mythic
+|Name2=Edgy|Cost2=From Pierce Boxes or 199 Gems|Campaign2=Misc|Rarity2=Mythic
+|Name3=High Stakes|Cost3=From Pierce Boxes or 199 Gems|Campaign3=Misc|Rarity3=Mythic
+|Name4=Undercover|Cost4=299 Gems|Campaign4=Brawl Vice|Rarity4=Legendary
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Pierce
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Pierce Vampire Hunter|Special}}
+{{Pin Table|Edgy|Special}}
+{{Pin Table|High Stakes|Special}}
+{{Pin Table|Undercover|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Pierce|Rarity = Common}}
+|{{Spray|Type = Pierce Footprint|Rarity = Common}}
+|{{Spray|Type = Pierce Watergun|Rarity = Common}}
+|{{Spray|Type = Pierce Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Pierce Vampire Hunter|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Pierce1}}
+|{{Pfp|Pierce2}}
+|{{Pfp|Pierce3}}
+|{{Pfp|Pierce4}}
+|{{Pfp|||Pierce: Vampire Hunter|Pierce Vampire Hunter-pfp.png}}
+|}
+
+{{Navigation}}
+[[es:Pierce]]
+[[ru:Пирс]]

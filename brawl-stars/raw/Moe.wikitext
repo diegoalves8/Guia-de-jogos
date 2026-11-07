@@ -1,0 +1,364 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Cheesy|PrestigeTitle = Say cheese!|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 800 (Fast)<br>2500 (with Super)<br>1000 (Driller; Very Fast)<br>1080 (Driller; while attacking)<br>1200 (Driller; with Speeding Ticket)<br>1400 (Driller; while attacking with Speeding Ticket)<br>2000 (with Rat Race)|HealthLabel = Health|Health = 3600|AttackRange =7.67 (Long)<br>7 (with Skipping Stones)<br>1.67 (Driller; Short)<br>3.33 (Driller; with Hypercharge)|Reload =1.5 seconds (Normal)<br>0.22 seconds (Driller; Very Fast) |AttackSuperCharge = 10%<br>15% (with Dodgy Digging)<br>5.6% (Driller)<br>8.4% (Driller; with Dodgy Digging)|AttackBullets=4 (split)<br>8 (second split)<br>12 (with Skipping Stones)|AttackLabel = Damage per stone|Attack = 500|AttackLabel2 = Driller damage per second|Attack2 = 2800|AttackSpeed=2800<br>3500 (Driller)|AttackWidth=1 (rocks)<br>0.67 (stones)<br>1.33 (Driller)|SuperRange = 7.33 (Long)<br>10.67 (with Hypercharge)|SuperSuperCharge =15%<br>22.5% (with Dodgy Digging)|SuperLabel=Underground/Destination damage|Super=600|SuperDuration=5 seconds<br>15 seconds (with Hypercharge)|Gadget1Name=Dodgy Digging|Gadget1Cooldown=13 seconds|Gadget2Name=Rat Race|Gadget2Cooldown=16 seconds|SuperSpeed=|VoiceActor=Hamish Lloyd Barnes|Previous=Clancy|Next=Juju|Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=3%<br>4.5% (with Dodgy Digging)<br>1.675% (Driller)<br>2.52% (Driller; with Dodgy Digging)|SuperHyperchargeCharge=4.5%<br>6.75% (with Dodgy Digging)|Gadget1Duration=5 seconds|Gadget2Range=3.33}}
+{{Quote|Moe is a blind rat, found living in the Starr Park sewers by [[Grom]], who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels... and also cause a bit of destruction throughout the park, much to [[Ash]]'s dismay.}}{{Portrait}}
+Moe is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a variable damage output, a long range, and a fast movement speed. In his alternate form, he has a very fast movement speed, a very high damage output, and a short range. He was the 83rd Brawler added to the game. Moe's normal form attacks by throwing a rock that fragments and spawns 4 smaller stones in all directions, which then fragments a second time on impact and shoot 4 more smaller stones in all directions. His Super makes him drill under the ground in a given direction, transforming into his alternate form, damaging enemies on his way and knocking back and damaging enemies in a large radius when he surfaces. Moe's alternate form attacks with a continuous drill at a short range. Using his Super while in his alternate form transforms him back into his normal form. His first Gadget, Dodgy Digging, temporarily increases his Super charge rate. His second Gadget, Rat Race, makes his alternate form dash forward a short distance, destroying obstacles and knocking back enemies in his way. His first Star Power, Skipping Stones, makes his normal form's attack fragment an additional time and shoot 4 more smaller rocks. His second Star Power, Speeding Ticket, increases his alternate form's movement speed while underground. His Hypercharge, The Big Cheese, increases Moe's Super range and speed when he digs under the ground, while his alternate form's range and duration will also increase.
+
+==Attacks==
+===Basic: Shovel Slinger===
+{{Quote|Moe throws a rock that bounces once, breaking into a smaller rock. Each rock smashes into stones on impact. Rocks and stones both deal damage.}}In his normal form, Moe throws a long-ranged projectile (referred to as a rock) that 4 smaller projectiles (referred to as stones) break away from in a cross pattern upon impact with a target or wall or reaching its maximum range of 5 tiles. If the rock doesn't hit anything, it turns into a visually smaller rock after splitting that travels farther, which upon impact with a target or wall or reaching its maximum range, fragments into 4 more stones in a smaller cross pattern. The stone range from the first split is 2.67 tiles, and from the second 1.67 tiles. The attack can deal high damage at point-blank range where more stones can hit the enemy. Despite the attack's description, only the stones can deal damage.
+
+===Driller: Giga Drill Break===
+{{Quote|Moe starts drilling in front of him, gaining movement speed and dealing damage to enemies in front of him.}}In his alternate form, Moe continuously drills at a short range that pierces targets and gains 200 points of movement speed while attacking. The attack utilizes a large ammo bar, like [[Amber]] and [[Draco]]'s alternate form. If the player taps on the attack joystick, Moe only consumes one ammo, and if the player aims the attack joystick, Moe continuously drills in the direction aimed. Moe stops attacking when the player lets go of the joystick or his ammo bar is depleted. His ammo drains when he attacks, and he automatically reloads the bar when not attacking. Each attack takes a tenth of a second, and if the attack isn't stopped, the attack takes 4 seconds to complete.
+
+==Supers==
+===Basic: Moe's Machine===
+{{Quote|Moe gets into his trusty Driller, drilling to targeted location, dealing damage and knocking Brawlers up at the destination. He gains a new attack in his Driller form.}}Moe digs under the ground, making him completely immune to all damage besides status effects and damage applied over time and allowing him to bypass obstacles. Upon surfacing at the end of his Super's range, Moe changes into his alternate form for 5 seconds and instantly fully reloads and charges his Super. Moe gains a modified attack and Super in this form. He damages all enemies along his way and again when he reaches the destination in a 2.67-tile radius around him, including enemies behind walls, knocking them back in the process. The amount of damage dealt while underground is the same as upon destination. If his final destination is in the middle of a lake, his charging distance is increased to the closest ground. When Moe returns to his normal form, his natural healing will be interrupted and he will lose his Super charge, and he will be left with the same proportion of ammo he had before.
+
+===Driller: Bail Out===
+{{Quote|Moe exits his Driller and returns to his normal form.}}
+If Moe uses his Super in the alternate form, he instantly transforms back into his normal form.
+
+==Gadgets==
+===Dodgy Digging===
+{{Quote|Moe digs up some 'borrowed' goods, increasing his Super charge rate by 50% for 5 seconds. Cooldown: 13 seconds.}}{{Gadget|1}}
+Moe's Super charge rate is increased by 50% for 5 seconds. This Gadget can only be activated while Moe is in his normal form. However, if Moe uses this Gadget right before getting in his alternate form, it will remain active. This Gadget's cooldown begins after the duration ends.
+
+===Rat Race===
+{{Quote|Moe dashes a short distance in his Driller, destroying walls and knocking back Brawlers in the process. Cooldown: 16 seconds.}}{{Gadget|2}}
+Moe charges forward a short distance in the direction he moves. This Gadget can only be activated while Moe is in his alternate form. He destroys obstacles he charges into and knocks back enemies in his path by 2 tiles. Moe can't use this Gadget to dash over water, but he can use it to pass through (but not destroy) invincible walls. This Gadget's cooldown begins 0.5 seconds after it's activated.
+
+==Star Powers==
+===Skipping Stones===
+{{Quote|Moe's basic attacks bounce one more time. The range of the attack remains the same.}}{{StarPower|1}}
+This Star Power allows Moe's normal form attacks to explode an additional time in 4 smaller stones in a cross pattern. The distance the attack travels before splitting is decreased by 1.33 tiles, and the distance the attack travels after splitting is increased by 0.67 tiles. Therefore, despite the Star Power's description, his attack's range overall is decreased by a small amount.
+
+===Speeding Ticket===
+{{Quote|Moe's Driller has 25% increased travel speed.}}{{StarPower|2}}
+This Star Power passively increases Moe's alternate form's movement speed by 25%.
+
+==Hypercharge: The Big Cheese==
+{{Quote|Moe's Driller has longer range and lasts for longer!}}{{Hypercharge}}
+When activated, Moe's Super will have a significantly longer range when he digs under the ground, while also dashing twice as fast, and his alternate form will last for three times as long. In addition, for the duration of the Hypercharge, his alternate form's attack will have double the range. Moe also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Driller form lasts longer and can dash faster!}}<div style="float:right">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Moe's alternate form dashed significantly faster and lasted longer. 
+
+==Tips==
+*Moe's attack splits roughly one tile from its maximum point, giving you a sweet spot where the shards intersect. As such, try to hit enemies with the side of your reticle as you can get more hits in for targets with larger hitboxes. Alternatively, shooting from point blank gives the most reliable damage output but can be difficult against Brawlers that outrange Moe.
+*Moe's attacks split into projectiles once they're shot, and because they do this multiple times, you may want to aim at an angle when attacking to hit the enemy with several of his stones with the same attack.
+*After Moe exits his Driller, his ammo count is set to the proportion he had before he used his Super. When using the Driller aggressively, always make sure to have ammo before you Super to ensure Moe is not helpless if you need to exit it.
+*Moe can barely complete his attack in the Driller form, so it is best to damage enemies for a bit and escape using the speed boost gained while attacking before he turns back into his normal form.
+*Moe's Super deals knockback in a small radius around it when he emerges, making it useful at dealing damage twice to fleeing opponents who've already been hit by Moe when he tunnels. This knockback can be useful in knocking the ball out of enemies in [[Brawl Ball]].
+*Moe's Dodgy Digging Gadget is quite similar to [[Clancy]]'s, so it's recommended to also use it while at full ammo to get the maximum efficiency.
+*Moe gets a Super to bail out of Digger when he Supers in normal form. This can be used to Super the ball into the goal from a distance in Brawl Ball.
+*Contrary to popular belief, Moe doesn't have a smaller hitbox than most other Brawlers, with his hitbox being the average size for most non-tank Brawlers. As such, be sure to exercise much caution in dodging shots even if they don't appear to hit your character model.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 01.ogg|Filedescription = "One pound your shovel, two pound your pair!"}}'''Driller:'''
+{{Ogg|Filename = moe drill start vo 01.ogg|Filedescription = "One pound your shovel, two pound your pair!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 01.ogg|Filedescription = "No hard feelings, mate, ha ha!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 01.ogg|Filedescription = "No hard feelings, mate, ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 01.ogg|Filedescription = "Are you having a laugh, mate?"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 01.ogg|Filedescription = "Are you having a laugh, mate?"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 01.ogg|Filedescription = Moe laughs}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 01.ogg|Filedescription = Moe laughs}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 01.ogg|Filedescription = "Woah, I got flushed out."}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 01.ogg|Filedescription = "Woah, I got flushed out."}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 01.ogg|Filedescription = "Ratatatat."}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 01.ogg|Filedescription = "Ratatatat."}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 01.ogg|Filedescription = "You gotta dig a tunnel or two!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 02.ogg|Filedescription = "Every day I'm shovelin'."}}'''Driller:'''
+{{Ogg|Filename = moe drill start vo 02.ogg|Filedescription = "Every day I'm shovelin'."}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 02.ogg|Filedescription = "Hoo hoo, smashed it, mate!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 02.ogg|Filedescription = "Hoo hoo, smashed it, mate!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 02.ogg|Filedescription = "Oi, leave it out."}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 02.ogg|Filedescription = "Oi, leave it out."}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 02.ogg|Filedescription = Moe laughs}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 02.ogg|Filedescription = "Back to the seweeeeeers!"}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 02.ogg|Filedescription = "Back to the seweeeeeers!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 02.ogg|Filedescription = "Rock and roller."}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 02.ogg|Filedescription = "Rock and roller."}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 02.ogg|Filedescription = "Sneak sneak, squeak squeak."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 03.ogg|Filedescription = "Sanitation rocks the nation."}}'''Driller:'''
+{{Ogg|Filename = moe drill start vo 03.ogg|Filedescription = "Sanitation rocks the nation."}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 03.ogg|Filedescription = "That was class!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 03.ogg|Filedescription = "That was class!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 03.ogg|Filedescription = "Don't mug me off!"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 03.ogg|Filedescription = "Don't mug me off!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 03.ogg|Filedescription = "Ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 03.ogg|Filedescription = "It was all a pipe dream."}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 03.ogg|Filedescription = "It was all a pipe dream."}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 03.ogg|Filedescription = "A little bit ooh, a little bit ahh."}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 03.ogg|Filedescription = "A little bit ooh, a little bit ahh."}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 03.ogg|Filedescription = "In and out, all sneaky like."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 04.ogg|Filedescription = "Let's dig up some trouble."}}'''Driller:'''
+{{Ogg|Filename = moe drill start vo 04.ogg|Filedescription = "Let's dig up some trouble."}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 04.ogg|Filedescription = "Area has been sanitized."}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 04.ogg|Filedescription = "Area has been sanitized."}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 04.ogg|Filedescription = "Oh my days!"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 04.ogg|Filedescription = "Oh my days!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 04.ogg|Filedescription = "Hoo hoo hoo!"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 02.ogg|Filedescription = "Hoo hoo hoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 04.ogg|Filedescription = "I feel like a drowned rat."}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 04.ogg|Filedescription = "I feel like a drowned rat."}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 04.ogg|Filedescription = "You want some?"}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 04.ogg|Filedescription = "You want some?"}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 04.ogg|Filedescription = "Quicker than using the apples and pears!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 05.ogg|Filedescription = "Dig, dodge and destroy."}}'''Driller:'''
+{{Ogg|Filename = moe drill start vo 05.ogg|Filedescription = "Dig, dodge and destroy."}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 05.ogg|Filedescription = "King of the rats, ha ha!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 05.ogg|Filedescription = "King of the rats, ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 05.ogg|Filedescription = "I'm dodgy, but I need to dodge better."}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 05.ogg|Filedescription = "I'm dodgy, but I need to dodge better."}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 05.ogg|Filedescription = "See you in the underworld, ha ha!"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 03.ogg|Filedescription = "See you in the underworld, ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 05.ogg|Filedescription = "Meet me outside!"}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 05.ogg|Filedescription = "Meet me outside!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 05.ogg|Filedescription = "'Ave it!"}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 05.ogg|Filedescription = "'Ave it!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 05.ogg|Filedescription = "Straight from the underground!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 06.ogg|Filedescription = "Burrow and brawl, I'll bury you all."}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 06.ogg|Filedescription = "Ha ha! Rodents rule!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 06.ogg|Filedescription = "Ha ha! Rodents rule!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 06.ogg|Filedescription = "I will have you, mate."}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 06.ogg|Filedescription = "I will have you, mate."}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 06.ogg|Filedescription = "Always cleaning up other peoples' mess."}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 04.ogg|Filedescription = "Always cleaning up other peoples' mess."}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 06.ogg|Filedescription = "I need a cuppa."}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 06.ogg|Filedescription = "I need a cuppa."}}
+|'''Normal:'''
+{{Ogg|Filename = moe atk vo 06.ogg|Filedescription = "Have some of that."}}'''Driller:'''
+{{Ogg|Filename = moe drill atk vo 06.ogg|Filedescription = "Have some of that."}}
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 06.ogg|Filedescription = "I will undermine you!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = moe start vo 07.ogg|Filedescription = "I know all your secrets!"}}'''Driler:'''
+{{Ogg|Filename = moe drill start vo 06.ogg|Filedescription = "I know all your secrets!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe lead vo 07.ogg|Filedescription = "Hoo hoo, I won the rat race!"}}'''Driller:'''
+{{Ogg|Filename = moe drill lead vo 07.ogg|Filedescription = "Hoo hoo, I won the rat race!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 07.ogg|Filedescription = "Have a go, if you think you're hard enough."}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 07.ogg|Filedescription = "Have a go, if you think you're hard enough."}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 07.ogg|Filedescription = "Job done, innit?"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 06.ogg|Filedescription = "Job done, innit?"}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 07.ogg|Filedescription = "I feel like a right plonker."}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 07.ogg|Filedescription = "I feel like a right plonker."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = moe ulti vo 07.ogg|Filedescription = "Activate tunnel vision!"}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 08.ogg|Filedescription = "Poop scoop!"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 08.ogg|Filedescription = "Poop scoop!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 08.ogg|Filedescription = "You didn't pass the inspection."}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 07.ogg|Filedescription = "You didn't pass the inspection."}}
+|'''Normal:'''
+{{Ogg|Filename = moe die vo 08.ogg|Filedescription = "Oi, that ain't fair!"}}'''Driller:'''
+{{Ogg|Filename = moe drill die vo 08.ogg|Filedescription = "Oi, that ain't fair!"}}
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 09.ogg|Filedescription = "Lulling you into a false sense of security!"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 09.ogg|Filedescription = "Lulling you into a false sense of security!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 09.ogg|Filedescription = "Waste disposal, innit?"}}
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 10.ogg|Filedescription = "Digging deep!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 10.ogg|Filedescription = "Remember to flush, ha ha!"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 08.ogg|Filedescription = "Remember to flush, ha ha!"}}
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = moe hurt vo 11.ogg|Filedescription = "I'll show you how to fight dirty!"}}'''Driller:'''
+{{Ogg|Filename = moe drill hurt vo 10.ogg|Filedescription = "I'll show you how to fight dirty!"}}
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 11.ogg|Filedescription = "I'm no sewer rat!"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 09.ogg|Filedescription = "I'm no sewer rat!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = moe kill vo 12.ogg|Filedescription = "Hoo hoo, can you dig it?"}}'''Driller:'''
+{{Ogg|Filename = moe drill kill vo 05.ogg|Filedescription = "Hoo hoo, can you dig it?"}}
+|
+|
+|
+|}
+
+==History==
+*27/08/24:
+**{{Balance|Content=Moe's main attack damage was increased to 600 (from 500) per stone while in the normal form.|Change=Buff}}
+**{{Balance|Content=Moe's main attack damage was decreased to 2800 (from 3400) per second while in Driller.|Change=Nerf}}
+**{{Balance|Content=Moe's Super damage per hit was decreased to 800 (from 1000).|Change=Nerf}}
+**{{Balance|Content=Moe became available to play in the [[Training Cave]].|Change=Neutral}}
+*29/08/24:
+**{{Balance|Content=Moe could be unlocked early as a bundle for $16.99.|Change=Neutral}}
+**{{Balance|Content=The Monterey Moe skin was added. It was featured as a Starry Meal skin.|Change=Neutral}}
+*05/09/24:
+**{{Balance|Content=Moe became available in the Starr Road.|Change=Neutral}}
+*12/09/24:
+**{{Balance|Content=After reverting from his alternate form to his normal form, Moe now has the same fraction of ammo he had, instead of the same number of ammo he had.|Change=Nerf}}
+*04/10/24:
+**{{Balance|Content=Moe's main attack damage was decreased to 540 (from 600) per stone while in the normal form.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Moe's Super was increased to 10 hits (from 7) while in the normal form.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Moe's Super was increased to 18 hits (from 15) while in Driller.|Change=Nerf}}
+*29/10/24:
+**{{Balance|Content=Moe's Dodgy Digging Gadget now adds glowing effects upon increasing his super charge rate.|Change=Neutral}}
+**{{Balance|Content=Moe's True Silver and True Gold skins were added.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Moe's main attack damage was decreased to 500 (from 540) per stone while in the normal form.|Change=Nerf}}
+**{{Balance|Content=Moe's Super charge rate was decreased slightly while in the normal form.|Change=Nerf}}
+**{{Balance|Content=Moe's main attack projectile speed was decreased to 2800 (from 3600) while in the normal form.|Change=Nerf}}
+*10/12/24:
+**{{Balance|Content=Moe's reload time was increased to 2 seconds (from 1.5).|Change=Nerf}}
+**{{Balance|Content=Moe's Super damage was decreased to 600 (from 800).|Change=Nerf}}
+**{{Balance|Content=Moe's Super recharge rate was decreased by 25%.|Change=Nerf}}
+*02/01/25:
+**{{Balance|Content=The Moon Driller Moe skin was added. It was featured as a Ranked skin for Brawl Pass Season 34 and a StarrForce Assemble skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Moe's reload time was decreased to 1.5 seconds (from 2).|Change=Buff}}
+*23/04/25:
+**{{Balance|Content=Moe's Super can now be aimed at various distances.|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Moe's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Moe's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/07/25:
+**{{Balance|Content=Moe's The Big Cheese Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Moe's The Big Cheese Hypercharge speed boost from 25%. This does not affect Moe in his alternate form.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Moe's The Big Cheese Hypercharge damage boost from 15%. This does not affect Moe in his alternate form.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Content=Moe's The Big Cheese Hypercharge speed boost in his alternate form was decreased to 20% (from 25%).|Change=Nerf}}
+**{{Balance|Content=Moe's The Big Cheese Hypercharge damage boost in his alternate form was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=Moe's Hypercharge Super now starts using ammo immediately when activated.|Change=Nerf}}
+**{{Balance|Content=Fixed a bug where Moe couldn't use ammo during his Hypercharge Super attack.|Change=Neutral}}
+**{{Balance|Content=Moe's Hypercharge charge rate Power Cards were replaced with the Shield Power Cards.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Moe's health was increased to 3600 (from 3400).}}
+*23/01/26:
+**{{Balance|Buff|Moe's Driller health was increased to 3500 (from 3400).}}
+*30/06/26:
+**{{Balance|Content=Moe's Speeding Ticket Star Power speed boost was changed to 25% (from 200 points).|Change=Buff}}
+*06/08/26:
+**{{Balance|Neutral|The Turbine Moe skin was added. It was featured as a Windstock skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Moe's movement speed to 800 (from 770).}}
+*16/09/26:
+**{{Balance|Neutral|Moe no longer receives an unintended respawn shield when changing forms in [[Showdown]].}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Monterey|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Moon Driller|Cost2=Free from Ranked Starr Drops or 149 Gems|Campaign2=Ranked|Campaign2_2=StarrForce Assemble|Rarity2=Epic
+|Name3=Turbine|Cost3=Free from Smoothie Drops or 199 Gems|Campaign3=Windstock|Rarity3=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Moe
+|-
+!Skin
+!colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Moon Driller}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Moe|Rarity = Common}}
+|{{Spray|Type = Moe Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Moe1}}
+|{{Pfp|Moe2}}
+|{{Pfp|Moe3}}
+|{{Pfp|Moe4}}
+|{{Pfp|Backward Moe}}
+|-
+|{{Pfp|Moon Driller Moe}}
+|}
+
+{{Navigation}}
+[[ru:Мо]]
+[[pl:Moe]]

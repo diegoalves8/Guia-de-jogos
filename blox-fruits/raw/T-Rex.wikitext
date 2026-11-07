@@ -1,0 +1,388 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = T-Rex
+|image  = <gallery>
+T-Rex Fruit.png|Fruit Icon
+T-RexFruitGIF.gif|Fruit GIF
+T-Rex.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Yes
+|update = 23
+
+<!-- Fruit Price -->
+|money  = 2,700,000
+|robux  = 2,350
+}}
+
+{{Quote|Transforms the user into a T-rex, granting powerful close ranged attacks.|Shop}}
+'''T-Rex''' is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|2,700,000}} or {{Robux|2,350}} from the [[Blox Fruit Dealer]].
+
+T-Rex fruit allows the user to transform into a horned {{w|Tyrannosaurus|Tyrannosaurus Rex}} covered in bones. In this form, the user can create green air blades, pull in opponents with a roar, summon meteors, and cause craters. While transformed, attacks can inflict heavy bleeding on enemies, and running exacerbates the health loss when fighting against a T-Rex.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Fury Meter
+|meter    = Fury_Meter_Bar.png
+|desc     = The user starts with 0% of the "Fury Meter" bar when spawned. The user's Fury Meter needs to be full to be able to transform into a T-Rex. Fury is regained over time while not transformed. Being transformed does not passively drain Fury Meter. Using moves or taking damage while transformed decreases the user's Fury Meter by a certain amount. When dealing damage while transformed, the Fury Meter will increase. The fury meter takes 1 minute and 30 seconds to fill to full from 0% to 100%.
+}}
+
+{{Skill/Passive
+|name     = Prehistoric Scales
+|file     = T-Rex Transformed.png
+|desc     = When transformed, the user gains approximately 43% damage reduction (55% against [[Enemies|NPCs]]) from all sources, 2x increased dash range and jump height, and a 20% speed increase.
+}}
+
+{{Skill/Passive
+|name     = Prey Mark
+|file     = T-Rex_Prey_Mark.gif
+|desc     = During transformation, the user's attacks will apply a Prey Mark to the hit opponents that lasts for around 6 seconds; the farther they are from the user, the higher the tick damage they'll receive. However, damage from the Prey Mark does not contribute to the regeneration of the Fury Meter, and also doesn't deal damage to enemies that are close enough to the user. This passive does not interact with [[Instinct]] in any way.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = yes
+|instinct = The first three M1s can be dodged. The fourth M1 (swipe) [[Instinct/Break|breaks Instinct]], but it can be dodged in the edge.
+|gif      = T-Rex_M1
+|desc     = The user initiates a set of four attacks: first, alternating strikes with the left and right claws forward; then, both claws tear into the opponent simultaneously; finally, sweeping the surroundings with the tail as a finishing move. This move is similar to [[Kitsune]]'s M1s. The damage can be doubled if hit fast enough right after the previous hit.
+}}
+
+{{Skill
+|key      = Z
+|name     = Tail Swipe
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = T-Rex_Z
+|desc     = The player sweeps forward with the tail, creating a broad, deep-green projectile that cuts through objects ahead (similar to [[Yama]] [Z] and [[Longsword]] [Z]) as well as a pair of deep-green jaws that have a large, yet close-range, hitbox.
+}}
+
+{{Skill
+|key      = X
+|name     = Predatory Screech
+|mastery  = 50
+|cooldown = 11.5
+|energy   = 50
+|break    = yes
+|instinct = In the whirlwind, it can be [[Instinct|Instinct-tricked]] if very close to the user.
+|gif      = T-Rex_X
+|desc     = The user pulls opponents from a frontal cone-shaped area towards them with the force of a raging wind, then roars and repels, similar to [[Sharkman Karate]] [C] and [[Quake#Moveset_(V2)|Awakened Quake]]'s [Z] move.
+}}
+
+{{Skill
+|key      = C
+|name     = Hunter's Rage
+|mastery  = 100
+|cooldown = 14.75
+|energy   = 75
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] at certain ranges. However, it cannot be dodged if too close to the user, but the attack can be dodged on the edge. Always [[Instinct/Break|breaks Instinct]] once grabbed.
+|gif      = T-Rex_C
+|desc     = The user pounds forward, with dark aura resembling a Tyrannosaurus rex, embracing them, tearing apart opponents with razor-sharp claws. This move is very similar to [[Tushita]] [X].
+}}
+
+{{Skill
+|key      = V
+|name     = Reptilian Scales
+|mastery  = 300
+|cooldown = 5.5
+|energy   = 50
+|break    = yes
+|instinct = The roar and meteorites [[Instinct/Break|break Instinct]]. However, it can be dodged on the edge.
+|gif      = T-Rex_V
+|desc     = The player roars skyward, transforming into a {{w|Tyrannosaurus|Tyrannosaurus rex}} as meteorites fall in their vicinity, an orange atmosphere is created for the player (and those nearby) and the ground shakes.
+}}
+
+{{Skill
+|key      = F
+|name     = Gigantic Leap
+|mastery  = 200
+|cooldown = 7
+|energy   = 50
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time, but it can be dodged on the edge.
+|gif      = T-Rex_F
+|desc     = The player leaps high into the air and, upon descending, smashes down onto the opponent, similar to [[Mammoth]] [F], [[Buddha]]'s [C] move (unawakened), and [[Rocket]]'s [C] move, adopting the same holding mechanic as said move.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = yes
+|instinct = The first three M1s can be dodged. The roar [[Instinct/Break|breaks Instinct]], but it can be dodged on the edge.
+|gif      = T-Rex_Transformed_M1
+|desc     = The user initiates a set of four attacks: A bite to the left and right with a green slash effect, then a bite, and finally a roar that creates a medium-sized AoE around the user. All 4 M1 attacks can damage [[Sea Beast]]s as well as [[Factory|Factories]], but not the [[Leviathan]] as well as [[Terrorshark|Terrorsharks]].
+}}
+
+{{Skill
+|key      = Z
+|name     = Tail Swipe
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if close. Otherwise, it can be dodged.
+|gif      = T-Rex_Transformed_Z
+|desc     = The user sweeps forward with the tail, cutting through the air ahead before launching five verdant slashing strikes and two wider long range strikes. This move consumes approximately 7% of the Fury Meter.
+}}
+
+{{Skill
+|key      = X
+|name     = Predatory Screech
+|mastery  = 50
+|cooldown = 11.5
+|energy   = 50
+|break    = yes
+|instinct = The whirlwind can be dodged/[[Instinct|Instinct-tricked]] if very close to the user.
+|gif      = T-Rex_Transformed_X
+|desc     = Bowing down, a whirlwind rises before the user, engulfing everything inside a vortex with the force of a raging wind, then briefly letting out a wrathful outcry repelling the enemy. The user inhales much more air if the move is held, pulling in the enemy closer with the same result. This move consumes approximately 8% of the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Hunter's Rage
+|mastery  = 100
+|cooldown = 14.75
+|energy   = 75
+|break    = yes
+|instinct = The initial bite [[Instinct/Break|breaks Instinct]] on direct hit, but it can be dodged on the edge or if far enough. If grabbed, the rest of the move can be [[Instinct|Instinct-tricked]]. Although the player still cannot avoid being hit by the Prey Mark passive or the screen distortion.
+|gif      = T-Rex_Transformed_C
+|desc     = The user bolts forward to the opponent, tightly biting the opponent with sharp fangs, shaking the target, and finally crashing them forcefully onto the ground causing the opponent's screen to disorient for 4.5 seconds. Similar to [[Rengoku]] Z, [[Mammoth]] C and [[Shark Anchor]] X. This move consumes approximately 9% of the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Reptilian Scales
+|mastery  = 300
+|cooldown = 5.5
+|energy   = 50
+|instinct = Does not deal damage.
+|gif      = T-Rex_Transformed_V
+|desc     = The user reverts to their human form, allowing them to use their [[swords]], [[Fighting Styles|fighting styles]] and [[guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Gigantic Leap
+|mastery  = 200
+|cooldown = 7
+|energy   = 50
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time, but it can rarely be dodged on the edge.
+|gif      = T-Rex_Transformed_F
+|desc     = The user bounds high up into the air and performs a front flip. Upon hitting the ground, a ring of scorching, piercing magma ignites around the impact, dealing a decent amount of AoE damage. Similar to [[Mammoth]] [F], [[Buddha]]'s [C] move (unawakened), and [[Rocket]]'s [C] move. This move consumes approximately 6.5% of the Fury Meter.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Good combo potential.
+* Decent damage.
+* Most moves have little to no startup and endlag.
+* Most attacks have [[Destructible Physics]], which makes it useful for farming [[Wooden Plank]]s.
+* Most moves can [[Instinct/Break|break Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Good damage if all 4 attacks hit.
+* Light stun.
+* Good for farming since NPCs get stunned infinitely.
+
+|'''[Z] Tail Swipe'''
+* Decent damage.
+* Decent combo potential.
+
+|'''[X] Predatory Screech'''
+* Can be held, dealing more damage and pulling enemies closer.
+* Can change directions when held.
+* Great combo starter.
+* High stun.
+
+|'''[C] Hunter's Rage'''
+* Medium damage.
+* Good combo extender.
+* Decent range.
+* Decent mobility.
+
+|'''[V] Reptilian Scales'''
+* The skill summons meteors which deal damage, apply prey mark, and also disrupt nearby players.
+* Covers the borders of the screen in fire (includes any players nearby).
+
+|'''[F] Gigantic Leap'''
+* Does decent damage and knocks enemies up. (Similar to [[Godhuman]] [X].)
+* Good [[Area of Effect|AoE]] and range.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Difficult and expensive to obtain.
+* High mastery requirements.
+* Generally low range.
+* All moves can be dodged with [[Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Players can use skills while stunned.
+* Moves the user forward, making it impossible to AFK farm with {{Ability|TAP}}.
+
+|'''[Z] Tail Swipe'''
+* Small hitbox.
+* Almost impossible to hit airborne enemies.
+* Does not [[Instinct/Break|break Instinct]].
+
+|'''[X] Predatory Screech'''
+* Short range.
+* Requires the user to hold the move to deal full damage.
+* Locks the user in place, making it bad when fighting against multiple people.
+* The user is vulnerable to counter-attacks if initiated very close to an opponents, as they could easily [[Instinct]]-trick and attack the user.
+
+|'''[C] Hunter's Rage'''
+* Short-ranged hitbox.
+* Not very reliable for breaking [[Instinct]].
+
+|'''[V] Reptilian Scales'''
+* Needs to be close for the meteors and roar to hit.
+
+|'''[F] Gigantic Leap'''
+* Weak in air.
+* Hard to hit when enemy is far.
+* Predictable trajectory, leaving the user vulnerable to counter-attacks when overused.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* High damage.
+* [[Fury Meter]] does not decrease when transformed unless moves are used.
+* When hitting enemies, the player inflicts Prey Mark, causing enemies to bleed, which stops players from holding moves, and deals more damage the further the enemy is from the user. Because of this, people cannot run away from the user in PvP unless they want to take extreme amounts of tick damage.
+* A lot of farming potential, due to its Prey Mark and [[Area of Effect|AoE]] moves in general. Most moves also execute really fast so the player does not have to cast it for too long, making it an excellent fruit for farming NPCs.
+* All damage-dealing moves can [[Instinct/Break|break Instinct]].
+* All moves have [[Destructible Physics]], including the [TAP] ability.
+
+|'''[TAP] Normal Attack'''
+* Great for regenerating Fury Meter.
+* Can be used while dashing.
+
+|'''[Z] Tail Swipe'''
+* Very wide hitbox.
+* Good range.
+
+|'''[X] Predatory Screech'''
+* Bigger hitbox.
+
+|'''[C] Hunter's Rage'''
+* Quite easy to hit.
+* Distorts the prey's vision.
+
+|'''[F] Gigantic Leap'''
+* Long range.
+* High [[Area of Effect|AoE]].
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Cannot use Fighting Styles, Swords, and Guns.
+* Weak when fighting in the air.
+* Large hitbox.
+* Movement speed increase is quite slow when compared to that of other transformations such as [[Kitsune]] and [[Tiger]].
+* All moves can still be dodged with [[Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Only the roar can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Tail Swipe'''
+* Cannot be aimed vertically.
+
+|'''[X] Predatory Screech'''
+* Stuns the user for the duration of the move.
+
+|'''[C] Hunter's Rage'''
+* Low range.
+* Can be Instinct-tricked.
+
+|'''[F] Gigantic Leap'''
+* Still has a predictable trajectory, and can be avoided by knowing where the user will land (although, it is a challenge).
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+T-RexConcept.jpg|Concept of the T-Rex fruit posted on Twitter by @disardo1.
+TRexTransformedAnimated.gif|Transformed T-Rex's Idle.
+</gallery>
+
+==Trivia==
+* T-Rex has been nominated to be added to the game since [[Updates/7|Update 7]].
+* T-Rex has the same price as [[Mammoth]], both costing {{Money|2,700,000}} or {{Robux|2,350}}. However, its trading value is a little higher.
+** This also makes T-Rex one of the only fruits that share a monetary value with another fruit, with the second being  [[Tiger]] and [[Yeti]].
+* T-Rex is one of the few fruits to leave effects on nearby users' screens when using a move/[[Transformations|transformation]].
+* T-Rex's Prey mark does not deal damage to transformed [[Dragon]] users.
+* The player has a tail while they have T-Rex equipped. This is only cosmetic and does not add anything, unlike [[Kitsune]]'s Tails.
+** This also adds to the fact that T-Rex is one of the only [[Beast]] [[fruits]] to add cosmetics to the user, alongside [[Eagle]].
+* Due to the infliction of tick damage on enemies during the [[transformation]], T-Rex can excel in PvP, being able to damage the enemy even at exceedingly high distances. It can also let the user see where the opponent is, making it very hard for them to escape.
+** The Prey Mark's tick damage works best when inflicting damage and then getting teleported to [[Portal]]'s {{Ability|Portal|V}}.
+** This also works surprisingly well with Portal's {{Ability|Portal|C}}.
+* T-Rex, along with [[Dragon]], [[Gas]] and [[Magnet]], are the only unawakenable [[Blox Fruits]] that have unique transformation names ({{Ability|V}} for T-Rex, {{Ability|Dragon|V}} for Dragon, {{Ability|Gas|V}} for Gas, and, '''[V] Maximum Overdrive''' for Magnet) 
+* T-Rex, [[Venom]] and [[Dragon]] are the only fruits with a [[Power Meter|Fury Meter]].
+* If the opponent stays at the edge of T-Rex's {{Ability|X}} move, they could walk out of it as they are not fully stunned. 
+* The in-game T-Rex's design bears resemblance to transformed [[Dragon]]'s western variant, due to the curved, backwards facing horns on both their heads. Their relation is further implied by the fact that both T-Rex and Dragon are linked to the [[Prehistoric Island]]. 
+* T-Rex's {{Ability|C}} can be used like [[Flash Step]] if the wall the user is trying to go through is thin enough.
+* Strangely,, while using shift lock, the {{Ability|Z}} move glitches sometimes and does not hit the opponent even while well within range. This happens more often if the user is transformed.
+* The silhouette of its beast form can be seen when using {{Ability|C}} untransformed.
+* T-Rex’s M1’s can hit [[Sea Beast]]s.
+* If the user uses Transformed {{Ability|F}} while in water, the player moves to the new area without the jumping animation (More often when using shiftlock). 
+* T-Rex is used by the [[Ancient Beast]], and is able to transform into a t-rex nearly twice as big as normal.
+* Inside [[Control]]'s domain, this fruit's VFX color turns into a teal color, very similar to the one seen in T-Rex's physical fruit model. 
+* Using {{Ability|F}} can let the user go through walls and ceilings. 
+* While transformed, the user has no double jump animation.
+* There is a very strange glitch with T-Rex that causes players to be flung out of reality and back after using [[Flash Step]] sometimes, and it can cause the user to become very slow, have delayed inputs, unable to air jump or use Flash Step, and lets them move during skills. But worry not, because this glitch can easily be fixed by untransforming.
+* Using shiftlock during {{Ability|F}} and turning around can slightly change the trajectory.
+* T-Rex is considered to be [[Mammoth]]’s rival.
+* T-Rex is one of the fruits most commonly used by scripters due to its fast M1s. Other fruits with similar M1s are [[Kitsune]] and [[Dragon]].
+* T-Rex is the only fruit with a M1 in the game that does not give a suspicious kill.
+* Pairing T-Rex Prey Mark tick damage with Cyborg V4’s Aftershock tick damage can result in a tick damage stack which is really helpful in PvP to catch runners and dealing with teamers.
+* While transforming to the T-rex form while quickly swapping to [[Smoke]], the player will be invisible. However it does not mean that the user is fully undetectable; they are still able be seen with [[Instinct]].
+==Change History==
+{{Change History|23|content=
+<tabber>
+|-|26.8=
+{{Update|26.8}} 
+* {{Arrow|buff}} Fury Meter gain increased by 25%.
+* {{Arrow|buff}} Damage reduction while transformed increased: 33% -> 43% (+10%)
+
+|-|24=
+{{Update|24}}
+* {{Arrow|buff}} Prey mark has been changed to no longer drain Fury Meter.
+
+|-|23=
+{{Update|23}}
+* T-Rex was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Т-Рекс]]

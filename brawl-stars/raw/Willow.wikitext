@@ -1,0 +1,265 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Is in your head!|PrestigeTitle = Control Freak|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3600|AttackRange =7.33 (Long) |Reload =1.8 seconds (Normal) |AttackBullets =|AttackSuperCharge = 8.5%<br>31.875% (with Spellbound)|AttackLabel = Damage per second|Attack = 400|AttackSpeed=1750|AttackWidth=|SuperHealth = |SuperRange = 8.33 (Long)|SuperSuperCharge = |SuperLabel = |Super = |SuperSpeed=4130|VoiceActor=Emma Rae|SuperWidth=1|SuperDuration=4 seconds|Gadget1Name=Spellbound|Gadget1Cooldown=13 seconds|Gadget1=480|Gadget1Label=Damage Increase|Gadget2Name=Dive|Gadget2Cooldown=16 seconds|Previous=R-T|Next=Doug|Hypercharge|HyperchargeMultiplier=40%|AttackHyperchargeCharge=3.4%<br>12.75% (with Spellbound)|SuperHyperchargeCharge=|Gadget2Duration=2 seconds}}
+{{Quote|Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.}}{{Portrait}}
+Willow is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a moderate damage output, a long range, and immense utility with her Super. She was the 66th Brawler added to the game. She attacks by lobbing a lantern which creates a small puddle on the ground that lasts for a period of time, dealing damage and then damage over time to enemies upon impact. For her Super, she shoots a tadpole that allows her to control enemy Brawlers, gaining a damage-reduction shield while controlling them. Willow's first Gadget, Spellbound, allows her next attack to deal her poison damage all at once. Her second Gadget, Dive, momentarily makes her immobile but invulnerable. Her first Star Power, Love Is Blind, moderately decreases the reload speed of a poisoned enemy. Her second Star Power, Obsession, increases the movement speed of an enemy Brawler controlled by her Super. Her Hypercharge, Psychic Safety, allows Willow to become immune while controlling enemy Brawlers.
+
+==Attack: Lantern's Curse==
+{{Quote|Willow lobs her lantern, dealing damage over time to enemies hit.}}
+Willow lobs a long-ranged lantern of liquid that shatters and leaves a puddle with a 2-tile radius, much like [[Barley]]'s attack. The attack deals three ticks of damage over 2 seconds to enemies who are splashed and standing in the puddle. The puddle only damages targets upon impact, but the damage over time effect stacks if multiple puddles hit. However, her attacks reload rather slowly and travel slowly as well. Willow's attack will land on the ground sooner the closer she throws her lantern to herself.
+
+==Super: Hex ==
+{{Quote|Willow fires a single tadpole towards an enemy Brawler, fully healing them and taking control over their mind if it hits. Willow can use the basic attack of the enemy Brawler and move them as she pleases. Mind control breaks after 4 seconds or when the Brawler reaches 30% HP.}}
+Willow fires a tadpole that, upon hitting an enemy Brawler, allows her to take control over them and gain a 50% damage reduction shield for 4 seconds. The enemy Brawler heals to full health, and Willow can move them anywhere and use their main attacks, but not their Super or Gadgets. The controlled enemy Brawler will no longer be controlled after 4 seconds, or if they fall below 30% of their maximum health, or if Willow is defeated, or if another Willow uses her Super on the controlled Brawler. When Willow is controlling an enemy Brawler, she can use the Brawler to hold the ball in [[Brawl Ball]] to score the enemies' goal, but Power Cubes picked up by the controlled Brawler in [[Solo Showdown]] or [[Duo Showdown]] will not be transferred to Willow. When Willow's Super hits a spawnable, such as [[Nita]]'s bear, [[Tick]]'s head, [[Jessie]]'s turret, or [[Penny]]'s cannon, it deals 1500 damage instead. If Big Brawler in [[Big Game]] is hit, they will only heal for 10% of their remaining health (excluding the Shield Gear). If the Big Brawler was below 30% of their maximum health when hit, they will only be controlled for a split second but still receive the healing.
+
+==Gadgets==
+===Spellbound===
+{{Quote|Willow's next Lantern's Curse deals 600 more damage and applies the entire damage instantly rather than over time. Cooldown: 13 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Willow's next attack to deal all three ticks of damage instantly, plus an additional damage worth 75% of a tick. A Gadget symbol will glow above Willow's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+===Dive===
+{{Quote|Willow dives for 2 seconds, becoming untargetable but unable to take any action for the duration. Cooldown: 16 seconds.}}{{Gadget|2}}
+Willow dives into a puddle, becoming completely immobile and unable to attack, but impervious to all damage for 2 seconds, except for damage or debuffs applied over time, similar to [[Lou]]'s Ice Block Gadget.
+
+==Star Powers==
+===Love Is Blind===
+{{Quote|Lantern's Curse also reduces reload speed of affected Brawlers by 30% for 3 seconds.}}{{StarPower|1}}
+Enemy Brawlers poisoned by Willow's attack have their reload speed decreased by 30% for 3 seconds.
+
+===Obsession===
+{{Quote|Hexed enemies gain 33% movement speed while mind controlled.}}{{StarPower|2}}
+An enemy Brawler controlled by Willow will have their movement speed increased by 33% for 4 seconds. However, the movement speed persists even if the mind control breaks before the 4 seconds are up.
+
+==Hypercharge: Psychic Safety==
+{{Quote|Willow gains an invulnerability shield on landing her Hex. She remains shielded until Hex is broken.}}{{Hypercharge}}
+When activated, Willow becomes immune upon landing her Super for 4 seconds. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*If Willow uses her Super against an enemy, she can control them to walk away to keep her and/or her allies safe or attempt to ambush them by bringing them closer (although this is not recommended with only herself).
+**With her Obsession Star Power, this strategy can be more effective.
+*Be aware that Willow is unable to control herself while controlling someone else, making her vulnerable to third party enemies or their teammates.
+**Because of this, it is advised not to use Willow's Super while being out in the open.
+*Willow's Super can be used in a lot of strategies, such as bringing closer an enemy for a high-damaging Brawler like [[Shelly]], [[Bull]], [[Darryl]], [[Spike]], [[Nani]], [[Buzz]], [[Griff]], [[Fang]], [[El Primo]], or [[Leon]] to ambush them, make enemies walk towards their own goal in [[Brawl Ball]] (although a controlled enemy couldn't self-score), bringing enemies with a huge amount of gems or stars closer to your team in [[Gem Grab]] and [[Bounty]], forcing enemies to go into the poison clouds in [[Knockout]] or [[Showdown]]/[[Duo Showdown]], or making enemies walk away from the safe in [[Heist]].
+*Similar to [[Crow]], Willow's poison damage makes her an excellent bush checker, since the poison damage reveals enemies for an extended period of time. Willow also an advantage over Crow in that she can lob her projectiles to check bushes behind the safety of walls.
+*Willow's Super can be used to undo another Willow's Super, shooting the Super at a teammate who is under the hex of another Willow.
+*Although enemy Brawlers are forced out of Willow's Super when they fall below 30% HP, it is possible for a controlled enemy to be completely defeated if the opponent's teammate manages to deal enough damage at once. 
+**This strategy is most effective against squishier Brawlers such as [[Tick]], [[Piper]], [[Colt]], [[Crow]], [[Rico]], [[Byron]], [[Barley]], or Spike, as their smaller health pool allows them to be defeated much more consistently.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+! In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = willow start vo 01.ogg|Filedescription ="I smell suffering, and I like it."}}
+|{{Ogg|Filename = willow lead vo 01.ogg|Filedescription ="Surrounded by fools."}}
+|{{Ogg|Filename = willow hurt vo 01.ogg|Filedescription ="You are playing with poison!"}}
+|{{Ogg|Filename = willow kill vo 01.ogg|Filedescription =Willow laughs}}
+|{{Ogg|Filename = willow die vo 01.ogg|Filedescription ="You won't live to regret this!"}}
+|
+|{{Ogg|Filename = willow ulti vo 01.ogg|Filedescription ="Ha ha!"}}
+|-
+|{{Ogg|Filename = willow start vo 02.ogg|Filedescription ="Are those screams of pain that I hear?"}}
+|{{Ogg|Filename = willow lead vo 02.ogg|Filedescription ="Cool, cruel and ready to rule."}}
+|{{Ogg|Filename = willow hurt vo 02.ogg|Filedescription ="That's close enough!"}}
+|{{Ogg|Filename = willow kill vo 02.ogg|Filedescription =Willow laughs}}
+|{{Ogg|Filename = willow die vo 02.ogg|Filedescription ="The swamp is calling my name."}}
+|
+|{{Ogg|Filename = willow ulti vo 02.ogg|Filedescription ="Soul seeker!"}}
+|-
+|{{Ogg|Filename = willow start vo 03.ogg|Filedescription ="Hearing people's fears is music to my ears."}}
+|{{Ogg|Filename = willow lead vo 03.ogg|Filedescription ="Bad to the bone and ready for my throne."}}
+|{{Ogg|Filename = willow hurt vo 03.ogg|Filedescription ="Slimy snails and lizard tails!"}}
+|{{Ogg|Filename = willow kill vo 03.ogg|Filedescription ="Ha ha, this is fun!"}}
+|{{Ogg|Filename = willow die vo 03.ogg|Filedescription ="I will make you beg for mercy."}}
+|
+|{{Ogg|Filename = willow ulti vo 03.ogg|Filedescription ="Find a foe!"}}
+|-
+|{{Ogg|Filename = willow start vo 04.ogg|Filedescription ="In the creepy love tunnel, only I can hear you scream!"}}
+|{{Ogg|Filename = willow lead vo 04.ogg|Filedescription ="If you're not winning, you're not me."}}
+|{{Ogg|Filename = willow hurt vo 04.ogg|Filedescription ="You had your fun? Now it's my time."}}
+|{{Ogg|Filename = willow kill vo 04.ogg|Filedescription ="Don't call me cute!"}}
+|{{Ogg|Filename = willow die vo 04.ogg|Filedescription ="My minions will find you."}}
+|
+|{{Ogg|Filename = willow ulti vo 04.ogg|Filedescription ="Brain bringer!"}}
+|-
+|{{Ogg|Filename = willow start vo 05.ogg|Filedescription ="My sloppy delights are gonna give you the frights."}}
+|{{Ogg|Filename = willow lead vo 05.ogg|Filedescription ="Ah, I love winning and watching people cry."}}
+|{{Ogg|Filename = willow hurt vo 05.ogg|Filedescription ="Eh, nothing a little mud couldn't fix."}}
+|{{Ogg|Filename = willow kill vo 05.ogg|Filedescription ="Hope I gave you the creeps!"}}
+|{{Ogg|Filename = willow die vo 05.ogg|Filedescription ="Back to the bog."}}
+|
+|{{Ogg|Filename = willow ulti success vo 01.ogg|Filedescription ="You are mine now!"}}
+|-
+|{{Ogg|Filename = willow start vo 06.ogg|Filedescription ="Please, tell me your life story. I'll add the ending!"}}
+|{{Ogg|Filename = willow lead vo 06.ogg|Filedescription ="Kneel before your queen!"}}
+|
+|{{Ogg|Filename = willow kill vo 06.ogg|Filedescription ="I'm the queen of mean!"}}
+|{{Ogg|Filename = willow die vo 06.ogg|Filedescription ="Nooooo! Ah."}}
+|
+|{{Ogg|Filename = willow ulti success vo 02.ogg|Filedescription ="Dance, my puppet, dance!"}}
+|-
+|{{Ogg|Filename = willow start vo 07.ogg|Filedescription ="I'm not your bog-standard villain."}}
+|
+|
+|{{Ogg|Filename = willow kill vo 07.ogg|Filedescription ="Your pain, my pleasure!"}}
+|
+|
+|{{Ogg|Filename = willow ulti success vo 03.ogg|Filedescription ="You're just a tool, you weak-minded fool!"}}
+|-
+|{{Ogg|Filename = willow start vo 08.ogg|Filedescription ="Your creeps are my peeps."}}
+|
+|
+|{{Ogg|Filename = willow kill vo 08.ogg|Filedescription ="I feast on fools!"}}
+|
+|
+|{{Ogg|Filename = willow ulti success vo 04.ogg|Filedescription ="Embrace the darkness!"}}
+|-
+|{{Ogg|Filename = willow start vo 09.ogg|Filedescription ="Pain dealer, soul stealer."}}
+|
+|
+|{{Ogg|Filename = willow kill vo 09.ogg|Filedescription ="Another dream crushed."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = willow start vo 10.ogg|Filedescription ="Ugh, romance? Not a chance."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*28/03/23:
+**{{Balance|Content=Willow became available to play in the [[Training Cave]].|Change=Neutral}}
+*30/03/23:
+**{{Balance|Content=Willow's main attack damage now takes effect instantly (from after 1 second).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Willow's Super was decreased to 12 hits (from 15).|Change=Buff}}
+**{{Balance|Content=Fixed some issues related to Willow's Super.|Change=Neutral}}
+*03/04/23:
+**{{Balance|Content=Willow and her Axl skin were added to the game.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Willow's visual and sound effects.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Willow's main attacks couldn't break skulls.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Willow's Super would crash the game.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Willow's Obsession Star Power speed boost was decreased to 25% (from 75%).|Change=Nerf}}
+*28/04/23:
+**{{Balance|Content=Willow's Dive Gadget and Obsession Star Power were added.|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=Willow's Super range was increased to 8.33 tiles (from 7.67).|Change=Buff}}
+**{{Balance|Content=Willow's Super now grants her a 25% damage-reduction shield while controlling an enemy.|Change=Buff}}
+**{{Balance|Content=Enemies no longer charge their Super from attacks while controlled.|Change=Buff}}
+**{{Balance|Content=Fixed an issue with Willow's mind-control in [[Brawl Ball]].|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Willow's health was increased to 2800 (from 2500).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*11/09/23:
+**{{Balance|Content=The Scorpion Willow skin was added. It was featured as a Wasteland skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Willow's Spellbound Gadget damage bonus was decreased to 480 (from 500) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Fixed some issues with Willow's Super ability.|Change=Neutral}}
+**{{Balance|Content=Willow's flavor text was changed from "Lovable? Maybe. Frightening? Without a doubt. Controlling? 100%." to "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine."|Change=Neutral}}
+*29/02/24:
+**{{Balance|Content=Fixed an issue with Willow that caused a mind-controlled [[Mico]] not to be able to move.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Willow's Love Is Blind Star Power reload speed reduction was increased to 30% (from 25%).|Change=Buff}}
+**{{Balance|Content=Willow's Obsession Star Power speed boost was increased to 33% (from 25%).|Change=Buff}}
+**{{Balance|Content=Willow's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Willow's Super damage reduction was increased to 50% (from 25%) while controlling an enemy.|Change=Buff}}
+**{{Balance|Content=Willow's poison effects were reworked.|Change=Neutral}}
+*29/08/24:
+**{{Balance|Content=Fixed an issue where Willow's poison effect was removed after a Brawler used a dash ability.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Demon Willow skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Willow's Super width was increased to 1 tile (from 0.33).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed Willow's Love is Blind Star Power not reducing the reload speed of enemies.|Change=Neutral}}
+**{{Balance|Content=Willow's Love is Blind Star Power description was reworked.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Content=Fixed an issue with Scorpion Willow's attacks looking enlarged if 2 or more of her attacks are airborne at the same time.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Fixed an issue Willow's mind-control over invisible Brawlers.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Willow's health was increased to 3100 (from 2800).|Change=Buff}}
+*12/05/25:
+**{{Balance|Content=Willow's Psychic Safety Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Willow's Psychic Safety Hypercharge speed boost from 24%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Willow's Psychic Safety Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where certain Brawler abilities were unable to cause damage to a Brawler controlled by Willow's Super.|Change=Neutral}}
+*12/11/25:
+**{{Balance|Content=Willow's level up damage was increased to 3% (from 2%) in [[Brawl Arena]].|Change=Buff}}
+*16/12/25:
+**{{Balance|Buff|Willow's health was increased to 3300 (from 3100).}}
+*17/02/26:
+**{{Balance|Neutral|Content=The Lunar Lotus Willow skin was added. It was featured as a Lunar Brawl skin.}}
+*22/04/26:
+**{{Balance|Content=Fixed an issue where throwing an item while under the control of Willow's Super prevented Brawlers from using their main attacks and Supers.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Willow's main attack did not charge her Super after using the Spellbound Gadget.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=Willow's Obsession Star Power speed boost duration was increased to 4 seconds (from 3).|Change=Buff}}
+**{{Balance|Content=Willow's Obsession Star Power speed boost was changed to 33% (from 240 points).|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Willow's movement speed to 750 (from 720).}}
+**{{Balance|Content=Fixed an issue where Willow's Love is Blind Star Power didn't reduce reload speed properly.|Change=Neutral}}
+*16/09/26:
+**{{Balance|Buff|Willow's health was increased to 3600 (from 3300).}}
+**{{Balance|Buff|Willow's reload time was decreased to 1.8 seconds (from 2).}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Axl|Cost1=Free from Strangest Packs, free from Gigi Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Scorpion|Cost2=Free from Glowbert Boxes, Najia Boxes, Vince Boxes or 79 Gems|Campaign2=Wasteland|Rarity2=Super Rare
+|Name3=Demon|Cost3=Free from Demonic Drops or 149 Gems|Campaign3=Angels vs. Demons|Rarity3=Epic
+|Name4=Lunar Lotus|Cost4=149 Gems • '''S'''|Campaign4=Lunar Brawl|Rarity4=Epic
+|TrueSkins = Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Willow
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Scorpion|Special}}
+{{Pin Table|Demon|Special}}
+{{Pin Table|Lunar Lotus|Thanks}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Willow|Rarity = Common}}
+|{{Spray|Type = Willow Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Willow1}}
+|{{Pfp|Willow2}}
+|{{Pfp|Willow3}}
+|{{Pfp|Willow4}}
+|{{Pfp|Scorpion Willow}}
+|-
+|{{Pfp|Demon Willow}}
+|{{Pfp|Lunar Lotus Willow}}
+|
+|
+|
+|}
+{{Navigation}}
+
+[[Category:Brawlers]]
+[[ru:Виллоу]]

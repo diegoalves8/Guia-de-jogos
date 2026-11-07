@@ -1,0 +1,433 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Your mom|PrestigeTitle = You got scrapped!|Rarity = Epic|Class = Support|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 5000|AttackRange = 9 (Long)|Reload = 1.3 seconds (Very Fast)|AttackBullets = 9|AttackSuperCharge = 6.75%|AttackLabel = Damage per projectile|Attack = 300|SuperRange = 5|SuperMinion = Healing turret|SuperMinionRange = 3.33|SuperLabel = Health|Super = 3300|SuperLabel2 = Healing per second|Super2 = 600|VoiceActor = Jennifer Wydra|AttackSpread=30°|AttackSpeed=4130|AttackWidth=|SuperSpeed=1196|Gadget1Name = Pulse Modulator|Gadget1 = 1600|Gadget1Label = Heal|Gadget1Cooldown=12 seconds|Gadget2Name = Scrapsucker|Gadget2Cooldown=17 seconds|StarPower1Name = Mama's Hug|StarPower1 = 90|StarPower1Label = Heal per projectile|StarPower2Name = Mama's Squeeze|StarPower2 = 900|StarPower2Label = Damage per second|Previous=Piper|Next=Frank|HyperchargeMultiplier=30%|AttackHyperchargeCharge=2%}}
+{{Quote|Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, [[Jessie]]...}}
+{{Portrait}}
+Pam is an {{Rarity|Epic}} [[Brawler]] who has high health, a long range, a very fast reload speed, a high damage output at close range, and can provide a lot of healing to her team. She was the 17th/18th Brawler added to the game. Her main attack shoots a spread-out burst of scrap metal in a sweeping pattern. Her Super deploys a turret that heals her and allies within its area of effect. Her first Gadget, Pulse Modulator, triggers her turret to emit a pulse that heals anyone in its area of effect a moderate amount. Her second Gadget, Scrapsucker, allows every piece of scrap metal from her next main attack to remove ammo from any Brawler they hit while restoring Pam's ammo. Her Mythic Gear, Super Turret, increases her Super's healing. Her first Star Power, Mama's Hug, allows her to slightly heal herself and allies in range whenever she hits an enemy with a bullet from her main attack. Her second Star Power, Mama's Squeeze, allows her healing turret to deal damage to enemies within its area of effect. Her Hypercharge, Mama's Love, provides a shield that absorbs damage and decays over time when Pam or allies stay inside her Super.
+
+==Attack: Scrapstorm==
+{{Quote|Pam sprays a large area with bursts of scrap metal. Safety goggles advised!}}Pam shoots nine pieces of long-ranged scrap metal in a spread-out volley that sweeps from left to right twice. This wide spread of her attack allows it to hit multiple enemies, but makes it very inconsistent and inaccurate when dealing with one single target at a range. However, at close range she can hit all her bullets and deal very high damage. This attack has a slow unload speed, and it takes 1.05 seconds to complete.
+
+==Super: Mama's Kiss==
+{{Quote|Pam's healing turret will fix up her and teammates who stay in its area of effect.}}Pam's Super deploys a healing turret that heals allies by 12% of Pam's maximum health each second within a small radius similar to [[8-Bit]]'s damage booster turret. However, it can't heal spawnables like [[Jessie]]'s turret, [[Penny]]'s cannon, [[8-Bit]]'s turret, [[Nita]]'s bear, [[Mr. P]]'s home base, or another Pam's healing turret.
+
+==Gadgets==
+===Pulse Modulator===
+{{Quote|Pam triggers her turret to emit a pulse that heals allies inside the turret's range, including herself, for 2000 health. Cooldown: 12 seconds.}}{{Gadget|1}}Pam will instantaneously heal any allies and herself in her healing turret's area of effect for two healing ticks. She may use it even if she isn't presently standing in the turret's area of effect. However, Pam has to be within 12 tiles of the turret to activate this Gadget. This Gadget's cooldown begins after the attack is used.
+
+===Scrapsucker===
+{{Quote|Each hit from Pam's next attack removes 25% of opposing Brawler's maximum ammo. Pam reclaims 50% of the ammo for herself. Cooldown: 17 seconds.}}{{Gadget|2}}Upon activation, the projectiles from Pam's next attack will each remove 25% of an enemies' maximum ammo. Meanwhile, Pam adds half of the stolen ammo to her own ammo bar. If an enemy Brawler's ammo bar is empty, Pam will not receive any more ammo even if the projectiles hit them, but Pam can still remove enemies' ammo even if her ammo bar is full. This Gadget does not work against the [[Heist]] safe, the IKE turret in [[Siege]], or spawnables, but it will work against the bosses/robots in [[Boss Fight]] and [[Super City Rampage]]/[[Robo Rumble]]. A Gadget symbol will glow above Pam's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used. 
+
+==Mythic Gear: Super Turret==
+{{Quote|Increases the healing of Pam's turret by 20%.}}{{Gear|Filename=PamGear}}
+With this Gear equipped, Pam's Super healing is increased by 20%.
+
+==Star Powers==
+===Mama's Hug===
+{{Quote|Whenever Pam hits enemies with Scrapstorm, she heals herself and nearby friendly Brawlers for 100 health.}}{{StarPower|1}}Every time Pam hits an enemy with a bullet from her attack, she emits a pulse in a 4-tile radius around her that heals herself and teammates for 1% of her health. This doesn't include hits on spawnables such as an enemy [[Jessie]]'s turret, [[Nita]]'s bear, an enemy Pam's healing station, [[Tara]]'s shadows, [[Larry & Lawrie|Lawrie]], or [[Mr. P]]'s robo-porters and their home base.
+
+===Mama's Squeeze===
+{{Quote|Healing turret now also damages enemies for 1000 damage per second.}}{{StarPower|2}}This allows her turret to do damage per second equal to 10% of Pam's maximum health if an enemy Brawler stands within the healing station's healing radius. This includes turrets and other spawnables.
+
+== Hypercharge: Mama's Love ==
+{{Quote|Pam's turret heals on deploy. It continues to heal Brawlers over their max health by providing them with a decaying shield.}}{{Hypercharge}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+When activated, Pam's turret heals on deploy worth three regular healing ticks. This instant healing radius is equal to the turret's radius and can be seen while aiming the Super. In addition, the turret grants her and her allies a shield, which stacks if they stay inside it more, up to a maximum of 6000. The shield health increases at a rate that is 80% of the turret healing, and decays proportional to its health at the time that it was last refreshed. If an attack deals more damage than the shield's current health, the shield disappears and they are damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on their max health when this shield is active. Enemies damaging allies with the shield on can still charge their Supers, but allies with Traits allowing them to charge Super from taking damage cannot. Neither the healing on deploy nor her Pulse Modulator Gadget can contribute to the shield. Also, the turret's health is increased to 9000. Pam also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Pam has unlimited ammo.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>
+Pam's reload time was decreased to 0.1 seconds. Mama's Hug Star Power worked well with this because Pam could continuously attack and heal at the same time.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Pam's Healing Turret can now overheal!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Pam's Super granted her and her allies a shield, which stacked if they stay inside it more, up to a maximum of 6000. The shield decayed every second until it was destroyed.
+
+==Tips==
+===Game Modes and Maps===
+*Pam is a versatile Brawler for [[Siege]]. It is recommended to place her Super near the middle of the map where bolts are spawned. Her Mama's Hug Star Power works well to keep her and her allies alive and continuously take control of the area. She can also potentially grant a great control by her Mama's Squeeze Star Power usage.
+*Pam is also useful in [[Boss Fight]] and [[Robo Rumble]], both for the high damage she can do from a safe range and for her Super and Mama's Hug Star Power.
+
+===Recommended Build===
+*Pam's Pulse Modulator Gadget is very useful in emergency situations. If you or a teammate is in need of healing, you can give them or yourself an instant heal to stay alive long enough to win an interaction or escape.
+*Pam's Mama's Hug Star Power can easily counter tick damage, such as [[Crow]]'s poison. If you can consistently land your shots, your health will regenerate faster than Crow's poison decay. The same works against [[Byron]] and [[Angelo]].
+*Pam's Mama's Hug Star Power, while not healing much, can still be a useful aspect in keeping teammates alive. Be sure to stay close to them to maximize healing. It is also useful for Pam in 1v1 situations.
+*Her Mama's Squeeze Star Power can be used to pressure Brawlers hiding behind walls provided that there no throwers on the other team to take out the turret. This very useful in maps like [[Encirclement]] where brawlers spend a lot of time behind a central wall.
+*Pam can place her healing turret on the [[Heist]] safe if she has Mama's Squeeze. This allows her to deal a very high amount of damage in total as the turret will keep dealing damage while it is alive. Coupled with her very fast reload speed and very high damage at close range, she can take out a major portion of the safe's health. Her turret's healing can also protect her other teammates and damage enemies during both offense and defense, making her very good in this mode.
+
+===Strategies===
+*Pam's attack has a set pattern: middle, left, middle, right, middle, etc. This can be used to aim where the majority of the bolts (middle will hit 5 projectile) will hit an enemy to ensure maximum possible damage. at long range. 
+
+===Other===
+*You can get close to enemy Brawlers to deal more damage to them because Pam's main attack is somewhat weak and inaccurate if she's attacking from a distance. However, be careful; close-ranged Brawlers with high burst damage such as [[El Primo]], [[Edgar]], [[Darryl]], [[Shelly]], [[Buzz]], and [[Bull]], among others can easily defeat you before you can defeat them, due to Pam's very slow attack unload speed. Only try to get close to ranged Brawlers, throwers and Brawlers with low damage.
+*Charge Pam's Super as quickly as possible and try to keep a heal station on the field at all times to effectively support your teammates and yourself.
+*Pam is mainly a defensive Brawler, healing teammates while providing cover fire. However, she can also sweep bushes with her attack, though she should be accompanied by another heavyweight or support Brawler.
+*Place Pam's healing turret behind walls, as the healing turret's radius passes through walls. This can ensure plenty of healing while keeping the turret itself safe.
+*In tight situations, Pam's Super can be quick-fired to serve as an absorbing shield, sacrificing it in the process to increase the chance of escape when being chased, similarly to [[Ruffs]]' Take Cover Gadget. However, this should be avoided when you go against [[Penny]], [[Barley]], [[Mr. P]], [[Dynamike]], [[Tick]], and [[Brock]]'s splash damage, [[Carl]], [[Tara]], [[Janet]], [[Amber]], [[Chuck]], and [[Nita]]'s piercing attack, or [[Jessie]] and [[Belle]]'s bounce shots that can still damage Pam when she is behind/around her healing station.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Pam start vo 01.ogg|Filedescription = "My tools ain't for fools!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam start vo 04.ogg|Filedescription = "Don't touch my jewels you fools!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam lead vo 01.ogg|Filedescription = "Top of the scrap heap."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam lead vo 04.ogg|Filedescription = "Evil. Never felt so good."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam hurt vo 01.ogg|Filedescription = "Oh, you'll pay for this!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam hurt vo 01.ogg|Filedescription = "Oh, you'll pay for this!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam kill vo 01.ogg|Filedescription = "Don't be crying."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam kill vo 01.ogg|Filedescription = "Suck it up!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam die vo 01.ogg|Filedescription = "No!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam die vo 01.ogg|Filedescription = "No!"}}
+|
+|'''Normal:'''
+
+{{Ogg|Filename = Pam ulti vo 01.ogg|Filedescription = "I'll fix you up!"}}'''Evil Queen:'''
+{{Ogg|Filename =  Evil pam ulti vo 01.ogg|Filedescription = "I'm magic, and you're tragic!"}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Pam start vo 02.ogg|Filedescription = "Let's get scrappy!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam start vo 02.ogg|Filedescription = "The queen is in the castle!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam lead vo 02.ogg|Filedescription = "This is my scrap yard."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam lead vo 02.ogg|Filedescription = Pam trumpets}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam hurt vo 02.ogg|Filedescription = "Nuts and bolts!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam hurt vo 02.ogg|Filedescription = "Oh, heavy is the crown!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam kill vo 02.ogg|Filedescription = "Nothing to salvage."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam kill vo 03.ogg|Filedescription = "I'm the queen and I'm mean!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam die vo 02.ogg|Filedescription = "Ah, scrap it."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam die vo 03.ogg|Filedescription = "The queen retires!"}}
+|
+|'''Normal:'''
+
+{{Ogg|Filename = Pam ulti vo 02.ogg|Filedescription = "Repair, reuse, recycle!"}}'''Evil Queen:'''
+{{Ogg|Filename =  Evil pam ulti vo 02.ogg|Filedescription = "It's good to be the queen!"}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Pam start vo 03.ogg|Filedescription = "Wham bam, here comes Pam!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam start vo 01.ogg|Filedescription = "Wham bam, here comes Evil Pam!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam lead vo 03.ogg|Filedescription = "Rubbish rampage!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam lead vo 03.ogg|Filedescription = "I'm the queen, and I'm gonna win!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam hurt vo 03.ogg|Filedescription = Pam groans}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam hurt vo 03.ogg|Filedescription = "Watch out for my jewels!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam kill vo 03.ogg|Filedescription = "Not tough enough!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam kill vo 02.ogg|Filedescription = "Not tough enough!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam die vo 03.ogg|Filedescription = "It's just a scratch."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam die vo 02.ogg|Filedescription = "Ah, it's just an eensy weensy scratch."}}
+|
+|'''Normal:'''
+
+{{Ogg|Filename =  Pam ulti vo 03.ogg|Filedescription = "Come on, we can do this!"}}'''Evil Queen:'''
+{{Ogg|Filename =  Evil pam ulti vo 03.ogg|Filedescription = "I do have a heart!"}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Pam start vo 04.ogg|Filedescription = "Come to mama!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam start vo 03.ogg|Filedescription = "Hello! My royal subjects!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam lead vo 04.ogg|Filedescription = "Who's your mama?"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam lead vo 01.ogg|Filedescription = "Who is your queen?"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam hurt vo 04.ogg|Filedescription = Pam screams}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam hurt vo 04.ogg|Filedescription = "How dare you!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam kill vo 04.ogg|Filedescription = "You got scrapped."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam kill vo 04.ogg|Filedescription = "Royal flush!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam die vo 04.ogg|Filedescription = "Ooh, mama's gotta rest."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam die vo 04.ogg|Filedescription = "But I'm royalty!"}}
+|
+|'''Normal:'''
+
+{{Ogg|Filename = Pam ulti vo 04.ogg|Filedescription = "Time to fix this mess!"}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam ulti vo 04.ogg|Filedescription = "Come to queenie!"}}
+|-
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam start vo 05.ogg|Filedescription = "Chillin' like a villain!"}}
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam lead vo 05.ogg|Filedescription = "Evil wins again!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Pam hurt vo 05.ogg|Filedescription = "Aw, banana oil."}}'''Evil Queen:'''
+{{Ogg|Filename = Evil pam hurt vo 05.ogg|Filedescription = "You're a royal pain!"}}
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam kill vo 05.ogg|Filedescription = "Hoo-hoo-hoo I'll get you my pretty!"}}
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam die vo 05.ogg|Filedescription = "Dethroned!"}}
+|
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam ulti vo 05.ogg|Filedescription = "The queen of hearts!"}}
+|-
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam start vo 06.ogg|Filedescription = "I'm sweating to the old days!"}}
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam lead vo 06.ogg|Filedescription = "The arena queen-a!"}}
+|
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam kill vo 06.ogg|Filedescription = "I curse you!"}}
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam die vo 06.ogg|Filedescription = "Who will succeed me?"}}
+|
+|
+|-
+|
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam lead vo 07.ogg|Filedescription = "Ha ha ha ha ha ha ha!"}}
+|
+|
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam die vo 07.ogg|Filedescription = "But, you're beneath me!"}}
+|
+|
+|-
+|
+|'''Evil Queen:'''
+
+{{Ogg|Filename = Evil pam lead vo 08.ogg|Filedescription = "Ha ha ha hoo-hoo he-he!"}}
+|
+|
+|
+|
+|
+|}
+
+==History==
+*04/09/17:
+**{{Balance|Content=Pam was added to the game.|Change=Neutral}}
+*12/09/17:
+**{{Balance|Content=Pam's reload time was decreased to 1.6 seconds (from 1.8).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 20 hits (from 21).|Change=Buff}}
+**{{Balance|Content=Her Super healing was increased to 80 (from 60) per second.|Change=Buff}}
+**{{Balance|Content=Her Super healing radius was increased.|Change=Buff}}
+**{{Balance|Content=Pam's main attack's spread was decreased.|Change=Neutral}}
+*07/12/17:
+**{{Balance|Content=Pam's Super healing was increased to 400 (from 320) per second.|Change=Buff}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Pam's Mama's Hug Star Power was added.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Pam's Super healing was decreased to 360 (from 400) per second.|Change=Nerf}}
+**{{Balance|Content=Fixed a bug which allowed the healing station to despawn.|Change=Neutral}}
+*16/01/18:
+**{{Balance|Content=Pam's health was increased to 4200 (from 4000).|Change=Buff}}
+**{{Balance|Content=Her reload time was decreased to 1.2 seconds (from 1.6).|Change=Buff}}
+**{{Balance|Content=The number of projectiles in each main attack was decreased to 9 (from 11).|Change=Nerf}}
+**{{Balance|Content=Her Super's health was decreased to 2800 (from 3600).|Change=Nerf}}
+**{{Balance|Content=Her Super healing was reduced to 320 (from 360) per second.|Change=Nerf}}
+*09/03/18:
+**{{Balance|Content=Pam's main attack damage was increased to 180 (from 160) per projectile.|Change=Buff}}
+* 21/03/18:
+**{{Balance|Content= Every Brawler's movement speed was increased by 70 points, increasing Pam's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content= All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Pam's main attack damage was increased to 200 (from 180) per projectile.|Change=Buff}}
+*09/04/18:
+**{{Balance|Content=Pam's main attack damage was increased to 220 (from 200) per projectile.|Change=Buff}}
+*31/08/18:
+**{{Balance|Content=Pam's main attack damage was increased to 240 (from 220) per projectile.|Change=Buff}}
+*27/09/18:
+**{{Balance|Content=Pam's main attack damage was increased to 260 (from 240) per projectile.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge her Super was decreased to 15 hits (from 16).|Change=Buff}}
+**{{Balance|Content=Her flavor text was changed from "Pam is an iron-willed lady who keeps the extended Junker family in order." to "Pam shoots from the hip, peppering targets with shrapnel. Her Super is a healing turret that restores her and teammates' health!"|Change=Neutral}}
+*05/12/18:
+**{{Balance|Content=Pam's health was increased to 4400 (from 4200).|Change=Buff}}
+*27/02/19:
+**{{Balance|Content=Pam's reload time was increased to 1.3 seconds (from 1.2).|Change=Nerf}}
+*15/04/19:
+**{{Balance|Content=Pam's health was decreased to 4300 (from 4400).|Change=Nerf}}
+**{{Balance|Content=Her main attack damage was decreased to 240 (from 260) per projectile.|Change=Nerf}}
+*24/07/19:
+**{{Balance|Content=Pam's Mama's Squeeze Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Pam's Mama's Squeeze Star Power damage was increased to 500 (from 300) per second.|Change=Buff}}
+**{{Balance|Content=Her Mama's Hug Star Power healing was increased to 40 (from 30) per hit.|Change=Buff}}
+*18/09/19:
+**{{Balance|Content=Pam's main attack damage was increased to 260 (from 240) per projectile.|Change=Buff}}
+*05/12/19:
+**{{Balance|Content=Pam's health was increased to 4500 (from 4300).|Change=Buff}}
+*23/01/20:
+**{{Balance|Content=Pam's class was changed to Support (from Healer).|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Pam's health was increased to 4800 (from 4500).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Pam's Pulse Modulator Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Pam and her turret were remodeled.|Change=Neutral}}
+*25/06/20:
+**{{Balance|Content=The Holiday Pam skin was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Pam's Pulse Modulator Gadget healing radius was reduced to 3.33 tiles (from 4).|Change=Nerf}}
+**{{Balance|Content=Her Super visual healing area was slightly decreased to match the effective healing area.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Pam's Super healing was increased to 360 (from 320) per second.|Change=Buff}}
+**{{Balance|Content=Pam's Mama's Hug Star Power healing was increased to 48 (from 40) per hit. |Change=Buff}}
+**{{Balance|Content=Pam's Mama's Squeeze Star Power damage was increased to 800 (from 500) per second.|Change=Buff}}
+**{{Balance|Content=Pam's Mama's Hug Star Power no longer heals Pam or her allies if it hits a spawnable or a pet.|Change=Nerf}}
+*28/07/21:
+**{{Balance|Content=Pam's Scrapsucker Gadget was added.|Change=Neutral}}
+*30/08/21:
+**{{Balance|Content=The Evil Queen Pam skin was added.|Change=Neutral}}
+*28/09/21:
+**{{Balance|Content=Pam's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=The Evil Queen Pam skin was given voice lines.|Change=Neutral}}
+*08/09/22:
+**{{Balance|Content=The Stonks Pam skin was added.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Stonks Pam now costs 79 [[Gems]] (from 49).|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Pam's Super Turret Mythic Gear was added.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Pam's Super healing was increased to 480 (from 360) per second.|Change=Buff}}
+**{{Balance|Content=Pam's Pulse Modulator Gadget healing was increased to 1568 (from 1200) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Pam's Mama's Hug Star Power healing was increased to 87 (from 48) per hit and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Her Mama's Squeeze Star Power damage was increased to 864 (from 800) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Pam's flavor text was changed from "Pam shoots from the hip, peppering targets with shrapnel. Her Super is a healing turret that restores her and teammates' health!" to "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie..."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Evil Queen Pam's takedown visual effects were reworked.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Pam's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Pam's Mutation was removed from the game.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=The Putrid Pam skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/04/25:
+**{{Balance|Content=The Egg Pam skin was added. It was featured as an April Fool's skin.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Pam's main attack damage was increased to 300 (from 260) per projectile.|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Pam's Wasabi Power was added for a limited time.|Change=Neutral}}
+*05/05/25:
+**{{Balance|Content=Fixed Pam's Wasabi Power not working on some of her skins.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Pam's Wasabi Power was removed from the game.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Pam's level up health was decreased to 500 (from 600) in [[Brawl Arena]].|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=Pam's Super turret's health was increased to 3040 (from 2800).|Change=Buff}}
+**{{Balance|Content=Pam's Mama's Love Hypercharge was added.|Change=Neutral}}
+*12/11/25:
+**{{Balance|Content=Fixed a server error that occurred when Pam's Hypercharged Turret was placed just before Pam was defeated.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Pam's health was increased to 5000 (from 4800).}}
+**{{Balance|Buff|Pam's Super healing was increased to 500 (from 480) per second.}}
+**{{Balance|Buff|Pam's Pulse Modulator Gadget healing was increased to 1600 (from 1568).}}
+**{{Balance|Buff|Pam's Mama's Hug Star Power healing was increased to 90 (from 87) per hit.}}
+**{{Balance|Buff|Pam's Mama's Squeeze Star Power damage was increased to 900 (from 864) per second.}}
+**{{Balance|Nerf|Pam's Mama's Love Hypercharge multiplier was decreased to 30% (from 40%).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Pam's movement speed to 750 (from 720).}}
+*16/09/26:
+**{{Balance|Buff|Pam's turret health was increased to 3300 (from 3040).}}
+**{{Balance|Buff|Pam's healing per second from the turret was increased to 600 (from 500).}}
+**{{Balance|Buff|Pam's Hypercharged turret health was increased to 9000 (from 8400).}}
+
+==Cosmetics==
+===Skins (7)===
+====Pam====
+{{Skin Gallery
+|Name1=Holiday|Cost1=Free from Pierce Boxes or 79 Gems|Campaign1=Summer of Brawl|Rarity1=Super Rare
+|Name2=Stonks|Cost2=Free from Boom Boxes or 79 Gems|Campaign2=City Troubles|Rarity2=Super Rare
+|Name3=Putrid|Cost3=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Epic
+|Name4=Egg|Cost4=199 Gems|Campaign4=April Fool's|Rarity4=Mythic
+|Name5=Evil Queen|Cost5=299 Gems|Campaign5=Once Upon|Rarity5=Legendary
+|TrueSkins=yes}}
+
+====Healing Turret====
+{{Skin Gallery|For=Minion
+|Name1 = Holiday|Campaign1=Summer of Brawl|Rarity1=Super Rare
+|Name2 = Stonks|Campaign2=City Troubles|Rarity2=Super Rare
+|Name3 = Putrid|Campaign3=Brawl-o-ween|Rarity3=Epic
+|Name4=Egg|Campaign4=April Fool's|Rarity4=Mythic
+|Name5=Evil Queen|Campaign5=Once Upon|Rarity5=Legendary
+|TrueSkins=yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Pam
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Stonks|GG}}
+{{Pin Table|Evil Queen}}
+{{Pin Table|Putrid|GG}}
+{{Pin Table|Egg}}
+{{Pin Table|Holiday|Thanks}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Pam|Rarity = Common}}
+|{{Spray|Type = Pam Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Evil Queen Pam|Rarity = Common}}
+|{{Spray|Type = Egg Pam|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Pam1}}
+|{{Pfp|Pam2}}
+|{{Pfp|Pam3}}
+|{{Pfp|Pam4}}
+|{{Pfp|Evil Queen Pam}}
+|-
+|{{Pfp|Putrid Pam}}
+|{{Pfp|Egg Pam}}
+|}
+{{Navigation}}
+[[pt:Pam]]
+[[ru:Пэм]]
+[[pl:Pam]]

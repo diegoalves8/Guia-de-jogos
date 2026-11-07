@@ -1,0 +1,222 @@
+{{CombosTab}}
+{{Removed|Blox Fruit|Spirit|17.3.5}}
+{{Blox Fruit Infobox
+|name   = Soul
+|image  = <gallery>
+Soul Fruit.png|Fruit Icon
+SoulNewPhysicalFruit.webp|Fruit Image
+Soul.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Mythical
+|M1     = Yes
+|update = 17.1
+
+<!-- Fruit Price -->
+|money  = 3,400,000
+|robux  = 2,550
+}}
+'''Soul''' was a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costed {{Money|3,400,000}} or {{Robux|2,550}} from the [[Blox Fruit Dealer]].
+
+Soul allowed the user the ability to summon souls and deal sun and thunder attacks. Soul gave the user a sun and thundercloud that allowed them to strike enemies.
+
+Soul's removal was one of the fastest in the game, barely having been around for one update. Its attacks were nearly identical to [[Spirit]], with the Soul mechanic being much more clunkier.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Soul Counter
+|meter    = Soul bar.png
+|desc     = The user always had a Soul counter on their screen. Souls could be collected using the Z move on enemies, or by killing someone with any soul move. It could then be used to summon Buddies. The maximum amount of Souls was nine. Following the revamp, the user could collect a maximum of two souls at any given time when using the Z move on multiple NPCs/players.
+* Performing the X move will increase the Calm meter.
+* Performing the Z and C move will increase the Fury meter. (Not to be confused with the [[Fury Meter]] of some [[Transformation|transformation fruits]])
+The Calm and Fury mode were unique features of the Soul Fruit. Soul counter would be shown above the Soul fruit UI that would indicate what mode the user was currently in.
+* If the marking on the meter was in the middle, the user would be in Neutral mode which provided no effect.
+* If the marking is on the Blue side of the meter, the user would be in Calm Mode. Calm mode increased the AoE of X move.
+* If the marking is on the Red side of the meter, the user would be in Fury mode. Fury mode increased the damage of C move.
+* If the marking was at the limit of increasing on any mode, the user's V move would get a significant boost in damage.
+}}
+
+{{Skill/Passive
+|name     = Sun and Cloud
+|file     = Soul (Stage 1).png
+|desc     = The user would always have 2 certain Buddies around them, the Sun and Cloud.
+* When the Calm meter reaches its maximum, The sun will have a softer light, the cloud will float lightly and be white.
+* When The Soul counter reaches half, The sun will become brighter, the cloud will darken, and there will be purple lightning.
+* When the Fury meter reaches its maximum, The sun will be brighter and looks more serious, The cloud will be dark purple, and lightning rods will appear.
+}}
+
+{{Skill/Passive
+|name     = Buddies
+|file     = Soul Buddies.webp
+|desc     = The user could use souls by left-clicking anywhere on the ground which would randomly summon one out of three Buddies:
+* Toxic Flower, which spouted out poisonous gas similar to [[Venom]]'s C skill, passively damaging enemies.
+* Cursed Tree, which could summon roots that stunned nearby enemies.
+* Candy, which healed the user a little every 2-5 seconds, could be useful when the user received damage.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Soul Snatcher
+|mastery  = 1
+|gif      = Soul-SoulZNew
+|desc     = The user mounted the Cloud, and flew towards the position of their cursor. The user then summoned a sphere that damaged and stunned the target. The user would gain 1 soul per NPC/Player grabbed.
+}}
+
+{{Skill
+|key      = X
+|name     = Wrath of Ra
+|mastery  = 150
+|gif      = Soul-SoulXNew
+|desc     = The user would send the Sun to the position of the cursor (which could be held for more range). The Sun would then explode into a pillar of fire, which damaged enemies and launched four fiery balls into the air. This move had burn damage and increased the Calm meter. If the user was in Calm mode, the AoE of this move will be increased. This move's range increased if it was held.
+}}
+
+{{Skill
+|key      = C
+|name     = Outraged Raijin
+|mastery  = 250
+|gif      = Soul-SoulCNew
+|desc     = The user mounted onto the Cloud and swiftly dashed to the cursor's location, then stomped on the Cloud. This created lightning around the user, as it was an AoE move. It also sent electricity to enemies close by, even if they were on the ground, which would stun them, and left a short DoT lightning area. This move increased the Fury meter. If the user was in Fury mode, the damage of this move would increase.
+}}
+
+{{Skill
+|key      = V
+|name     = End of Times
+|mastery  = 350
+|gif      = Soul-SoulVNew
+|desc     = The user commanded both Buddies to shoot a beam of lightning and a beam of fire toward their cursor, which would stun the enemies. The two beams would then merge, creating a large AoE explosion that brightened nearby players' screens. This move would get an increase in damage if the mood Meter completely maxed out on either the Calm side or the Fury side.
+}}
+
+{{Skill
+|key      = F
+|name     = Sky Ruler
+|mastery  = 75
+|gif      = Soul-SoulFSunNew
+|gif2     = Soul-SoulFCloudNew
+|desc     = The user would mount on one of the two Buddies, depending on the user's Mode they were in. If they were in the Calm side, they would mount on the Cloud.
+|desc2    = If they were in the Fury side, they would mount on the Sun, allowing the user to fly around.
+}}
+}}
+
+==Overview==
+<tabber> 
+Pros=
+{{Overview|Pros
+|'''General'''
+* Every move was an AoE skill, making it a decent fruit to grind with if the user was able to manage the knockback.
+* Extremely high damage.
+
+|'''[TAP] Summon Buddies'''
+* The Buddies could not be harmed but they vanished after a few seconds. The range of their perks were also not affected by the players' distance from them. (ex. If the user had a healing spirit, it will still heal them even if they were far away.
+* Good for grinding.
+* The Cursed Tree had auto-aim.
+
+|'''[Z] Soul Snatcher'''
+* Good stun.
+* Huge hitbox.
+
+|'''[X] Wrath of Ra'''
+* This move had DoT [burning], which temporarily disabled [[Instinct]] in PvP.
+* High range (when held) and high damage, comboing well into the [V] move.
+* The animation created a sudden explosion, making it almost difficult for the enemy to react in time.
+
+|'''[C] Outraged Raijin'''
+* Hard to Instinct-trick.
+* Long stun and large [[Area of Effect|AoE]].
+* Quick start and low end-lag, making it a good move to "catch" people.
+
+|'''[V] End of Times'''
+* Long stun and large [[Area of Effect|AoE]].
+* Insanely high & powerful damage, allowing the user to kill enemies with shorter combos.
+* Quick start and low end-lag, making it another good move to "catch" people.
+* Caused extreme screenshake to the opponent, making it almost impossible for them to see anything up until the explosion
+
+|'''[F] Sky Ruler'''
+* Good for sky camping.
+* Moderately Fast.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Hard to obtain.
+* Extremely high [[Mastery]] requirements for all moves.
+* Moves were considered to be relatively slow.
+* Damage could be unpredictable at times, due to certain parts of moves not hitting such as C's thunderbolts and X's fireballs.
+
+|'''[TAP] Summon Buddies'''
+* The possibility of spawning buddies was random, making it possible for the user to get buddies they did not want (Such as star instead of flying pig).
+* Buddies were useless in [[Sea Beast]] Raids, however since all moves are AoE, this was more of a minor inconvenience.
+* Toxic Mushroom was useless in PvP, since no one was going to stay inside the fog, Cursed Tree can be easily avoided by air camping or staying away.
+
+|'''[Z] Soul Snatcher'''
+* Relatively short range.
+* Has end-lag.
+
+|'''[X] Wrath of Ra'''
+* Damage could be unpredictable at times, due to certain parts of moves not hitting.
+* Had a visual bug that made it slightly harder for the user to land from afar, but it was easier to use when aiming under their avatar.
+
+|'''[V] End of Times'''
+* Can make the user vulnerable if missed. (But directing the beam’s explosion near them can help keep enemies away from comboing)
+* The screen shaking effect affected the user's combos.
+
+|'''[F] Sky Ruler'''
+* Not recommended for use in pursuit of enemies or as a platform for aerial PvP.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+BacTo_Soul (Phase 2).PNG|<center>'''Sun and Cloud (Phase 2)'''</center>
+Soul (Phase 3).PNG|<center>'''Sun and Cloud (Phase 3)'''</center>
+</gallery>
+
+==Trivia==
+* The "Cannon" buddy so far only appeared last in the leaked version. Currently, no one knows what ability the buddy has.
+* The shape of the glasses on the Roblox marketplace can be found [https://www.roblox.com/catalog/9672478749/Soul-Sunglass here].
+* {{Ability|X}} refers to [[wikipedia:Ra|Ra]], the sun god in the [[wikipedia:Egyptian mythology|Egyptian mythology]].
+* The fruit was changed because of copyright, along with many others in similar time [[updates]].
+* This Fruit has only been in the game for 1 Year, after being replaced by [[Spirit]], making it the least lasting fruit in the game.
+
+==Change History==
+{{Change History|17.1|content=
+{{Update|17.3.5}}
+* Soul was revamped and renamed to [[Spirit]].
+** '''[Z] Soul Snatcher''' was renamed to '''[Z] Frostfire Grasp'''.
+** '''[C] Outraged Raijin''' was renamed to '''[C] Wrath of Shu'''.
+* Spirit users now get buddies overtime instead of getting them from [[NPCs]] or Players.
+----
+{{Update|17.3}}
+* Soul received a balancing.
+** Changes on how Soul works:
+*** The size of '''[X] Wrath of Ra''' now scales with the blue bar.
+*** The damage of '''[C] Outraged Raijin''' now scales with the red bar.
+** Nerfed base stats of both moves.
+** Rebalanced dashes and run speed on all the races. The speed gap between [[Rabbit]] and other [[races]] shouldn't be that huge anymore.
+** Character gravity now slowly increases the further away the user is from the ground, to avoid sky camping.
+----
+{{Update|17.2}}
+* Soul was buffed.
+** Reduced cooldowns on '''[X] Wrath of Ra''', '''[C] Outraged Raijin''', '''[F] Sky Ruler''', and summoning buddies.
+*** '''[X] Wrath of Ra''' and '''[C] Outraged Raijin''' now have the same cooldown duration.
+** '''[Z] Soul Snatcher''' can now steal up to 2 souls (spirit/buddies) by hitting multiple enemies at once.
+** Slightly increased the mood damage modifier on the '''[V] End of Times''' move.
+** Buffed the damage and hitbox on '''[C] Outraged Raijin'''.
+* Soul was nerfed.
+** The damage of '''[X] Wrath of Ra''' was reduced.
+----
+{{Update|17.1}}
+* Soul was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Душа]]

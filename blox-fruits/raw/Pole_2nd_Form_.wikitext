@@ -1,0 +1,150 @@
+{{Tabber V2
+|tab1 = Pole (1st Form)
+|tab2 = Pole (2nd Form)
+}}
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Pole (2nd Form)
+|image     = <gallery>
+Pole (2nd Form).png|Icon
+Pole (2nd Form) EQ.png|Equipped
+Pole (2nd Form) Held.png|Held
+Pole 2nd Form (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 14
+
+<!-- Weapon Obtainment -->
+|sea       = 2/3
+|obtain    = Get struck by lightning in [[Rough Sea]] while holding [[Pole (1st Form)]].
+}}
+{{Quote|The second form of the [[Pole (1st Form)|Pole]], capable of controlling lightning.|Item}}
+The '''Pole (2nd Form)''' is a {{Legendary}} [[sword]].
+
+Pole (2nd Form) is an old sword, being used throughout most early builds. It has great stuns with its '''[X] Electric Prison''' having a wide hitbox and low endlag, alongside '''[Z] Hand of God''' having good burst damage and good range. It is paired best with stun-based fruits like [[Dark]], [[Ice]] and even [[Sand]]. 
+
+Despite its strong [[Stun|stuns]] and easy obtainment, swords like [[Dragon Trident]] and [[Cursed Dual Katana]] surpass it in terms of mobility, or [[Area of Effect|AoE]].
+
+==Obtainment==
+The Pole (2nd Form) can be obtained by getting struck by lightning in [[Rough Sea]] while holding [[Pole (1st Form)]].
+
+The following message will appear when the lightning strikes the user: "''' Your <[[Pole (1st Form)]]> has transformed upon reacting with the lightning... You obtained <Pole (2nd Form)>'''''."''
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Pole V2 M1
+|desc     = The player does a stab, 2 swipes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Hand of God
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = Only breaks Instinct if it hits the ground or a wall nearby.
+|gif      = Pole_(2nd_Form)_Z
+|desc     = The user fires three lightning beams from the pole towards the direction of their cursor, which deals damage to nearby enemies and stuns them. Blue lightning strike marks are left where the beams hit.
+}}
+
+{{Skill
+|key      = X
+|name     = Electric Prison
+|mastery  = 350
+|cooldown = 13.5
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Pole_(2nd_Form)_X
+|desc     = The user forms a small electric sphere at the location of their cursor, stunning enemies and pulling them in towards the centre of the sphere.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High stun and damage.
+* Unlike [[Lightning]], it can hit [[Rubber]] users.
+* Good for any build, as it has a good [[Combos|combo]] potential.
+* Very easy to obtain.
+
+|'''[Z] Hand of God''' 
+* Good stun move.
+* Good range with 3 chances to hit.
+
+|'''[X] Electric Prison'''
+* Good combo follow-up.
+* Good hitbox.
+* Okay range.
+* Pulls enemies to the middle stunning them. therefore, this provides you with a two second window to attack them.
+* Breaks [[Instinct]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* All moves cannot damage [[Sea Beast|Sea Beasts]].
+* Cannot hit [[Blade]] users.
+* The M1 attacks are slow.
+* High mastery requirement (350 Mastery).
+* No mobility moves.
+
+|'''[Z] Hand of God'''
+* Needs to hit the ground or a solid object to [[Instinct/Break|break Instinct]].
+* Low range.
+
+|'''[X] Electric Prison'''.
+* Low range. (Although, not as severe before buff.)
+* The move requires good prediction because of the decent amount of delay it brings
+}}
+</tabber>
+
+==Trivia==
+* The Pole (2nd Form) is the only sword in the game to have its obtainment completely changed.
+** The reason behind the obtainment change is the rework of Rumble to [[Lightning]], which resulted in the removal of Rumble [[raids]], the previous way of obtaining the Pole (2nd Form).
+* Prior to [[Updates/24|Update 24]], this sword used to be a trident.
+* It is important to note that on some lower end devices, it may take a couple strikes for the game to register that the user been struck by lightning.
+* The {{Ability|X}} move has the same SFX as the Rumble {{Ability|Rumble|V}} move.
+* This sword most likely has the highest amount of dash in the game. 
+* While using aura, the color of the blade spear change depends the user aura color
+
+==Change History==
+{{Change History|14|content=
+{{Update|29.6}}
+* {{Arrow|buff}} '''[Z] Hand of God''' hitbox increased by 35%.
+* {{Arrow|buff}} '''[X] Electric Prison''' end-lag decreased from 0.3 seconds to 0.15 seconds.
+* {{Arrow|buff}} '''[X] Electric Prison''' range increased by 20%. 
+* {{Arrow|buff}} '''[X] Electric Prison''' hitbox size increased by 20%.
+----
+{{Update|27.0}}
+* The obtainment of Pole (2nd Form) was changed.
+----
+{{Update|24}}
+* The model of Pole (2nd Form) was revamped.
+<gallery>
+Polev2 old.png|Old model.
+</gallery>
+----
+{{Update|20}}
+* The moves of Pole (2nd Form) were reworked.
+<gallery>
+PoleV2Z.gif|Old '''[Z] Hand of God''' 
+PoleV2X.gif|Old '''[X] Electric Prison'''
+</gallery>
+----
+{{Update|14}}
+* The Pole (2nd Form) was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

@@ -1,0 +1,366 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Buddha
+|image  = <gallery>
+Buddha Fruit.png|Fruit Icon
+BuddhaAnimated2.gif|Fruit GIF
+Buddha.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Legendary
+|M1     = No <!-- This is for the fruit itself, not for Melee/Sword/Gun. -->
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 1,200,000
+|robux  = 1,650
+}}
+{{Quote|Transforms the user into a giant Buddha, increasing the users size, power, and defense, making it perfect for farming.|Shop}}
+'''Buddha''' is a {{Legendary}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|1,200,000}} or {{Robux|1,650}} from the [[Blox Fruit Dealer]].
+
+Buddha allows the user to transform into a towering, golden, and giant {{w|Budai}} (not to be confused with {{w|The Buddha}}). While transformed, it grants the user immense size and powerful glowing attacks with huge [[AoE]], capable of causing sizeable amounts of destruction. The user can also wield [[swords]] and [[fighting styles]] with greatly increased range, making them even more deadly and useful. 
+
+==Awakening==
+Buddha requires {{Fragment|14,500}} to fully [[Raids|awaken]].
+
+Awakening at least one move of this fruit will grant the "{{Title|Colossal God}}" #042 [[Titles|title]].
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive
+|name     = Seismic Jump
+|cooldown = 2
+|break    = yes
+|instinct = When an awakened Buddha user jumps near a player, their screen shakes and their [[Instinct/Break|Instinct]] is broken.
+|desc     = If Buddha is awakened, the user creates a small [[Area of Effect|AoE]] shockwave when jumping that deals minor damage, stuns enemies and [[breaks Instinct]]. It has a cooldown of 2 seconds, and additionally makes the user jump higher than normal.
+}}
+
+{{Skill/Passive
+|name     = Divine Aura
+|file     = Buddhav2.png
+|desc     = While transformed, the user grows gigantic, gaining '''35%''' damage reduction against all attacks ('''46.4%''' against [[Enemies|NPCs]]) and 5x the range when using any [[Fighting Styles|melee]] or [[Swords|sword]] TAP attacks.
+* If Buddha is Awakened, this is increased to '''45%''' damage reduction ('''54.6%''' against NPCs), and 8x the range when using any melee or sword TAP attacks. They also gain immunity to water due to their hitbox being above the water level, unless knocked into it.
+}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Transform
+|mastery  = 1
+|cooldown = 3
+|energy   = 15
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = BuddhaV1Transform
+|desc     = A yellow light surrounds the user during the transformation, causing their avatar to turn yellow.
+|gif1     = BuddhaV1Detransform
+|desc1    = The user returns to their normal avatar appearance after detransforming.
+}}
+
+{{Skill
+|key      = X
+|name     = Impact
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|break    = Yes
+|instinct = The shining ball of light can [[Instinct/Break|break Instinct]] on hit.
+|gif      = Buddha Impact Clear
+|desc     = The user charges a shining ball of light in their right hand before touching the ground with their palm, creating a large explosion that blows nearby enemies away. However, the long startup time leaves the user vulnerable.
+}}
+
+{{Skill
+|key      = C
+|name     = Buddha Leap
+|mastery  = 100
+|cooldown = 13
+|energy   = 35
+|break    = Yes
+|instinct = Can [[Instinct/Break|break Instinct]] on impact.
+|gif      = BuddhaV1BuddhaLeap
+|desc     = The user leaps into the air, landing at the cursor's location. This creates a shockwave that damages enemies on impact, unless the user lands in [[water]]. This move has a one-second end lag. If used from high places, such as [[Upper Skylands]], the user will fall indefinitely until they hit a surface (e.g., [[Water]]). 
+}}
+
+{{Skill
+|key      = V
+|name     = Buddha Explosion
+|mastery  = 200
+|cooldown = 21
+|energy   = 50
+|break    = Yes
+|instinct = Can [[Instinct/Break|break Instinct]] with the explosion.
+|gif      = Buddha Explosions
+|desc     = The user charges for 0.5 seconds, then releases a large explosion around themselves, dealing heavy damage to nearby enemies and launching them away.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Shift
+|mastery  = 1
+|cooldown = 3
+|energy   = 15
+|frag     = 500
+|break    = Yes
+|instinct = The shift can [[Instinct/Break|break Instinct]].
+|gif      = Shifter
+|desc     = The user transforms into a giant golden Buddha surrounded by three symbol-filled rings and two squares containing Chinese Hanzi. During the transformation, a lightning bolt strikes the ground at the user's location, knocking back all nearby enemies and dealing damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Heavenly Impact
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = The Shining Ball can [[Instinct/Break|break Instinct]].
+|gif      = Heaven Impact
+|desc     = The user gathers energy in their right fist before slamming the ground. An explosion occurs afterward, with golden light erupting from the impact point. This move cannot be held.
+}}
+
+{{Skill
+|key      = C
+|name     = Light of Annihilation
+|mastery  = 100
+|cooldown = 13.5
+|energy   = 35
+|frag     = 4,000
+|break    = Yes
+|instinct = The golden light beam can [[Instinct/Break|break Instinct]].
+|gif      = Light Of Annihilation
+|desc     = The user begins gathering energy for a short period. After fully charging or releasing the move, the user fires a concentrated golden light beam toward their cursor. The beam explodes upon contact with a solid surface or after reaching its maximum distance, dealing damage to anyone caught in the explosion. Enemies hit directly by the beam receive nearly 2× more damage than those hit by the explosion. 
+}}
+
+{{Skill
+|key      = V
+|name     = Twilight of the Gods
+|mastery  = 200
+|cooldown = 22
+|energy   = 50
+|frag     = 5,000
+|break    = Yes
+|instinct = The golden light beams can [[Instinct/Break|break Instinct]] on hit.
+|gif      = Twilight Of The Gods user pov
+|desc     = The user rises up and initiates a huge barrage of golden light beams towards the ground underneath them in a wide radius that explode upon contact, stunning anyone unfortunate enough to be caught in the attack. After 3 seconds, the user sends down a big, column-like golden light ray, knocking away all nearby enemies and dealing damage to them. This move cannot be held.
+}}
+
+{{Skill
+|key      = F
+|name     = Retribution Dash
+|mastery  = 0
+|cooldown = 15
+|energy   = 30
+|frag     = 2,000
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]].
+|gif      = Retribution Dash Hit
+|desc     = The user quickly dashes forward, leaving behind golden afterimages. If an enemy is caught in the user's path, the user grabs them and slams them into the ground, launching them away. The move stuns both the user and the enemy for around 1.5 seconds, during which the user can still move and jump.
+|gif1     = Retribution Dash miss
+|desc1    = The user quickly dashes forward, leaving behind golden afterimages. If no enemy is caught in the user's path, the user continues dashing forward without performing the grab.
+}}
+
+}}
+
+==Overview==
+<tabber> 
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Not too difficult to obtain for what it is worth.
+* Good damage.
+* Most of its moves can break [[Instinct]].
+* Smaller size hitbox when compared to its Awakened version, making it easier to avoid moves.
+* Good damage reduction.
+* Offers a jump boost.
+
+|'''[Z] Transform'''
+* Nearly instant transformation.
+* Little-to-no endlag.
+
+|'''[X] Impact'''
+* Decent [[Area of Effect|AoE]].
+* Decent knockback.
+* Good damage.
+
+|'''[C] Buddha Leap'''
+* Good mobility.
+* Leaps extremely high and far.
+* Can be used for transportation in [[water]] too.
+
+|'''[V] Buddha Explosion'''
+* Decent [[Area of Effect|AoE]].
+* Good damage.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* {{Ability|Z}} must be activated before using other moves.
+* None of its moves can be held.
+* Lacks long-range attacks.
+* The transformation increases the user's hitbox, allowing enemies to hit them more easily.
+
+|'''[X] Impact'''
+* Long startup.
+* High endlag.
+* Small hitbox.
+
+|'''[C] Buddha Leap'''
+* Difficult to aim, and cannot be interrupted once started.
+* Mostly ground-based.
+* Small amount of endlag.
+
+|'''[V] Buddha Explosion'''
+* High endlag, and therefore can leave the user vulnerable to counter-attacks.
+* High knockback.
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Great damage.
+* Most of its moves have a large [[Area of Effect|AoE]].
+* Most of its moves can [[Instinct/Break|break Instinct]].
+* Offers a jump boost.
+* Gains ability to walk on [[water]] freely without taking damage.
+* Good damage reduction.
+* Increases the user's M1 hitbox even further.
+
+|'''[Z] Shift'''
+* Decent damage.
+
+|'''[X] Heavenly Impact'''
+* Good damage.
+* Decent [[Area of Effect|AoE]].
+* Fast endlag, unlike the unawakened version.
+
+|'''[C] Light of Annihilation'''
+* Extremely long range.
+* Large [[Area of Effect|AoE]] on explosion.
+* High damage on direct hit.
+* Instantly damages enemies on direct hit.
+* The beam is able to pierce through multiple enemies.
+
+|'''[V] Twilight of the Gods'''
+* Extremely big [[Area of Effect|AoE]].
+* High stun if the target is caught for the full duration of the move.
+* High damage. 
+
+|'''[F] Retribution Dash'''
+* Good distance.
+* Grabs the enemy nearly instantly.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Buddha [[Raids]] are very difficult to complete, due to the amount of damage melting your HP really easily by the NPCs and especially the Boss. Even with the fully awakened fruit, Buddha Raids are still very tricky.
+* {{Ability|Z|2}} must be active before using other moves.
+* Lacks mobility.
+
+|'''[Z] Shift'''
+* The transformation takes some time to complete.
+* High knockback.
+* High endlag.
+* Low stun.
+
+|'''[X] Heavenly Impact'''
+* Long windup.
+
+|'''[C] Light of Annihilation'''
+* Long windup.
+* The explosion has high knockback.
+* Decent endlag.
+
+|'''[V] Twilight of the Gods'''
+* The damage and stun are inconsistent at times.
+* The user is vulnerable to attacks from above while executing this move.
+* Has a long & predictable windup.
+
+|'''[F] Retribution Dash'''
+* Single target.
+* Long cooldown.
+* Doesn't break [[Instinct]].
+* Can only be aimed horizontally.
+}}
+}}
+</tabber>
+
+==Trivia==
+* Though [[Rabbit|Rabbit's]] speed boost helps with making Buddha's transformation more mobile, the speed boost is lower in percentage compared to when the user is untransformed. 
+* Buddha's unawakened total damage reduction when stacked with full body [[Aura]] is 54%, while the awakened form is 61%.
+** Using [[Water Body]] while wearing the [[Leviathan Shield]] and transforming into an awakened Buddha will stack the user's damage reduction up to 90%.
+* Unawakened Buddha moves can be used while in awakened form. However, awakened moves cannot be used in unawakened form.
+* Although this [[Blox Fruits|fruit]] is named Buddha, its icon is actually based off the [https://en.wikipedia.org/wiki/Budai Budai], the laughing monk often mistaken for the real Buddha.
+* The Traditional Chinese characters around the aura of the awakened version of {{Ability|Z|1}} mean: 草 (grass), 体 (body), 心 (heart), 魂 (soul), 火 (fire), 水 (water), 風 (wind), and 岩 (stone).
+** Similarly, the symbols in the outer circle are derived from Elder Futhark runes, and they represent ᛓ (wealth), ᚨ (god), ᚷ (gift), ᛖ (horse), ᛟ (heritage), ᛈ (pear-tree), ᛝ (the god Ingwaz), ᛗ (man), ᛢ (yew-tree), ᛉ (elk), ᛃ (good year), ᚹ (joy), ᛋ (sun), ᛞ (day), ᚱ (journey), and ᛒ (birch). The same symbols are used in the [[Colosseum Quest]].
+* Buddha's {{Ability|X}} and {{Ability|V}} uses the same sound effect as one of the [[Sea Beast#Abilities|Sea Beast]]'s Water Beam moves.
+* If the user is in Buddha's form while using [[Race Awakening]] as [[Rabbit#Version 4|Rabbit]] race, the user's hair will turn golden instead of white.
+* If the user is in Buddha's form while using [[Race Awakening]] as [[Angel]], their sets of wings will turn golden.
+* When using Buddha and turning [[Aura]] on, the user's head will not be affected by the [[Aura]]. If the user de-transforms with [[Aura]] active, their head may still not be affected.
+* In the shop, Buddha is labeled as a fruit that "Can M1" despite the fruit not having an M1. However, many say that Buddha's M1 is the fighting style, sword or gun.
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* {{Arrow|buff}} Buddha V1 received a slightly higher [[Air Jump]] (around 1.5x) compared to untransformed.
+* {{Arrow|nerf}} Buddha's range buff was nerfed.
+* Buddha icon was remade.
+: <gallery>
+BuddhaIconOld.webp|Old Buddha Fruit's icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Buddha Fruit's model was remade.
+: <gallery>
+Buddha 150x150.png|Old Buddha Fruit's model.
+</gallery>
+
+|-|19=
+{{Update|19}}
+* {{Arrow|neutral}} Human: Buddha was renamed to "Buddha".
+* {{Arrow|buff}} Awakened Buddha's abilities damage were buffed.
+
+|-|18=
+{{Update|18}}
+* {{Arrow|nerf}} While transformed, the damage of swords' and melee's M1 was nerfed.
+** {{Arrow|buff}} Human: Buddha users now deal 27.5% decreased M1 damage, only in PvP.
+
+|-|17.3=
+{{Update|17.3}}
+* '''[X] Impact''' (V1) was reworked.
+
+|-|15=
+{{Update|15}}
+* Human: Buddha received an [[Raids|awakening]].
+
+|-|1=
+{{Update|1}}
+* Human: Buddha was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Будда]]

@@ -1,0 +1,235 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Love
+|image  = <gallery>
+Love Fruit.png|Fruit Icon
+Lovefruit anim.gif|Fruit GIF
+LoveNew.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->
+|money  = 1,300,000
+|robux  = 1,700
+}}
+{{Quote|Use charming abilities to debuff enemies, and to summon your Besto Friendo.|Shop}}
+'''Love''' is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,300,000}} or {{Robux|1,700}} from the [[Blox Fruit Dealer]]. 
+
+Love allows the user to conjure and manipulate pink, heart-shaped elements depicted as "Love" into attacks that can not only damage enemies, but also significantly reduce their attacking power. The user can also summon a "Besto Friendo" that will fight for them, or ride a pink flamingo and hover in the air.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive
+|name     = Lovestruck
+|desc     = If an enemy is hit by Love's {{Ability|Love|Z}} or {{Ability|Love|C}} move, they will be "charmed" by the user, temporarily reducing their damage against the user by 25% (33% against [[Enemies|NPCs]]) for 6 seconds. At the same time, their screen will be filled with pink hearts, causing it to pulse like a heartbeat and become heavily distorted.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Heart Shot
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = Yes
+|instinct = The heart-shaped arrow can [[Instinct/Break|break Instinct]].
+|gif      = LoveZ
+|desc     = The user shoots a heart-shaped arrow towards the cursor, which grabs any enemies in its way when released and explodes upon contact, or when the maximum range is reached. It leaves a small trail behind if shot close to the ground.
+}}
+
+{{Skill
+|key      = X
+|name     = Cupid's Zone
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = Yes
+|instinct = The perfume arrow can [[Instinct/Break|break Instinct]].
+|gif      = LoveX
+|desc     = The user shoots an arching pink perfume arrow into the air toward the cursor. The arrow then explodes into a cloud of perfume with a shining heart above it, while heart-shaped arrows rain down for the duration. This creates a damage-over-time effect that damages all enemies within the "Zone" for 3 seconds, dealing approximately one tick of damage every 0.2 seconds. Additionally, all enemies within the zone are unable to [[Dashing|dash]], [[Air Jump]], or use [[Flash Step]].
+}}
+
+{{Skill
+|key      = C
+|name     = Irresistible Attraction
+|mastery  = 150
+|cooldown = 15
+|energy   = 60
+|break    = Yes
+|instinct = The pink heart can [[Instinct/Break|break Instinct]].
+|gif      = Love C (Tap)
+|desc     = The user kneels down and creates a pink beating heart above them while creating a large pink circle around themselves. When the key is released, the heart explodes, and the user spins around, pulling enemies within the circle toward them and briefly stunning them. This move can be held for up to 1 second to fully charge, increasing the circle's size and damage.
+|gif1     = Love C (Held)
+|desc1    = The user continues charging the move, causing the pink circle to grow larger and increasing its damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Besto Friendo
+|mastery  = 200
+|cooldown = 22.5
+|energy   = 100
+|break    = Yes
+|instinct = The heart-shaped arrow can [[Instinct/Break|break Instinct]].
+|gif      = LoveV
+|desc     = The user shoots a heart-shaped arrow that explodes into a large heart-shaped explosion, dealing decent damage. The explosion creates a "Friendo", a friendly NPC wielding the [[Canvander]] sword. The NPC can jump, dash, attack, and swim. The damage dealt by the NPC and its health scale with the user's level.
+* The NPC will always resemble someone from the user's friends list.
+* The summoned NPC can damage [[Blade]] users but cannot damage [[Elemental]] users.
+* The user can prevent the spawned NPC from attacking others by having no [[Fighting Style]], [[Blox Fruits|Fruit]], [[Sword]], or [[Gun]] selected. This means the Besto Friendo will not attack players or enemies, even when the user takes damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Flamingo Ride
+|mastery  = 100
+|cooldown = 2
+|energy   = 10
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]].
+|gif      = LoveF
+|desc     = The user creates a flying flamingo to ride on, allowing them to fly freely in any direction. All of Love's moves can be used without interrupting the flight while riding the flamingo, but moves from other weapons cannot be used.
+* If activated near an ally, hostile enemy, or "Friend", they will be picked up as a passenger on the flamingo. This does not work on [[Bosses]], [[Raid]] enemies, or [[Sea Event]] enemies.
+* The user can hold moves while flying, but doing so will slow down the flight.
+}}
+
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Excels in aerial combat.
+* The Lovestruck passive can heavily distort and agitate the enemy, as it is not affected by disabling screen shake.
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Heart Shot'''
+* Decent damage.
+* Good [[Area of Effect|AoE]].
+* High range.
+
+|'''[X] Cupid's Zone'''
+* Extremely long range.
+* Decent [[Area of Effect|AoE]].
+* Can be deadly if used correctly in a combo.
+* Completely disables movement abilities.
+
+|'''[C] Irresistible Attraction '''
+* Can pull enemies closer, making it really good for combos.
+* Tap is very easy to combo extend
+* Held is great to combo start.
+* Decent [[Area of Effect|AoE]].
+* Good vertical hitbox.
+
+|'''[V] Besto Friendo'''
+* Besto Friendo works as an independent entity, so its damage does not scale with the user's [[Blox Fruit|fruit]] stats. This is amazing for gun/sword mains that want to utilize Love.
+* It uses the [[Canvander]] sword, a sword whose attacks break instinct.
+* It can attack [[Blade]] users.
+
+|'''[F] Flamingo Ride'''
+* All moves can be used whilst flying.
+* Very low cooldown.
+* Can carry other players.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Overall damage is quite low.
+
+|'''[Z] Heart Shot'''
+* High and sometimes unpredictable knockback, making it unreliable in grinding.
+
+|'''[X] Cupid's Zone'''
+* Low stun.
+* Easy to dodge.
+
+|'''[C] Irresistible Attraction '''
+* Small hitbox.
+
+|'''[V] Besto Friendo'''
+* Aside from the ability to use Canvander's [Z] and [X] move while in the air, Besto Friendo is almost useless when fighting in the air.
+* [[Elemental]] users are completely immune to their attacks.
+
+|'''[F] Flamingo Ride'''
+* While using this move, the user is unable to attack with any weapon.
+* Flight speed scales with HP.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Love V No Friendo Appearance.png|'''[V] Besto Friendo''''s default appearance.
+File:LoveFlamingo.png|Flamingo
+File:NPCTakenWithFlamingo.png|A [[Gladiator]] taken with the Flamingo.
+File:Love Force.gif|Disabling screen shake cannot stop the '''Lovestruck''' effect.
+</gallery>
+
+==Trivia==
+* If the user has spawned a Friendo from Love's {{Ability|V}} and dies, the Friendo will die as well.
+* The Friendo's [[health]] and damage scale off the user's current [[level]]. For example, their health is roughly the user's level multiplied by 2, and their M1 damage is user's level divided by roughly 1.65.
+* Love was reworked in [[Updates/19|Update 19]], adding the new passive and increasing its value. 
+* {{Ability|V}} uses the avatar of one of the user's Roblox friends, picked at random. Four friends are randomly selected for this role per server, meaning only four friends can be a Friendo per server.
+* The flamingo on {{Ability|F}} wears the [[Heart Shades]] accessory.
+* This fruit's X move used to have infinite range, but this has been changed.
+
+==Change History==
+{{Change History|15|content=
+<tabber>
+|-|29.1=
+{{Update|29.1}}
+* {{Arrow|buff}} '''Lovestruck''' passive now bypasses disabled screenshake.
+
+|-|24=
+{{Update|24}}
+* Love was nerfed.
+** {{Arrow|nerf}} '''[X] Cupid's Zone''' no longer has infinite range.
+
+|-|21=
+{{Update|21}}
+* Besto Friendo could jump, dash, and swim.
+** Also, it un-aggroed when you didn't have any tools selected.
+
+|-|20=
+{{Update|20}}
+* Love Fruit's model was remade.
+: <gallery>
+Love 150x150.png|Old Love Fruit's icon.
+</gallery>
+
+|-|19=
+{{Update|19}}
+* {{Arrow|neutral}} Love's price was increased.
+** {{Rare}} -> {{Legendary}}
+** {{Money|700,000}} -> {{Money|1,300,000}}
+** {{Robux|1,150}} -> {{Robux|1,700}}
+* {{Arrow|neutral}} All moves were reworked.
+** '''[Z] Mellowing Heart''' was renamed to '''[Z] Heart Shot'''.
+** '''[X] Arrow of Imprisonment''' was renamed to '''[X] Cupid's Zone'''.
+** '''[V] Scented Kicks''' was renamed to '''[V] Besto Friendo'''.
+: <gallery>
+Love_Z_(Old).gif|'''[Z] Mellowing Heart''' (Old)
+Love_X_(Old).gif|'''[X] Arrow of Imprisonment''' (Old)
+Love_C_(Old).gif|'''[C] Irresistible Attraction''' (Old)
+Love_V_(Old).gif|'''[V] Scented Kicks''' (Old)
+</gallery>
+
+|-|15=
+{{Update|15}}
+* Love was released as a {{Rare}} [[Blox Fruit]].
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Любовь]]

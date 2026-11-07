@@ -1,0 +1,80 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Graveyard Island
+|image      = Graveyard Island.png
+|type       = Island
+|sea        = Second Sea
+|level      = 950-1000
+|music      = Deep Mist
+|prev       = Green Zone
+|next       = Snow Mountain
+}}
+The '''Graveyard Island''' is a gloomy, spiky island for players between Lv. 950 to 1000. It is home to a surprisingly large range of [[NPCs]] and [[Easter Eggs|easter eggs]], despite it being such a small island.
+
+From the docks, the player will be faced with a large spire in the center of the island surrounded by graves and [[Zombie|Zombies]]. In the sea around the island are additional spikes that protrude from the ground. As the player travels around the island, they will see a large cave with an open front that contains [[Vampire|Vampires]].
+
+Near Graveyard Island is the [[Cursed Ship]], an island for players between Lv. 1250 to 1350, which the player is not able to enter unless they are at least Lv. 1000. However, the inside of this ship is located on the sea far away; if the player tries to go near it and reset their character, they will spawn inside without even being Lv. 1000.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+|-
+|
+* [[Set Home Point]]
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Crew Captain]]
+* [[Rip indra (NPC)|rip_indra]]
+* [[Legendary Sword Dealer]] (Sometimes)
+* [[Dragon Tamer]]
+|
+* [[Zombie]]
+* [[Vampire]]
+|}
+
+==Quests==
+{| class="article-table"
+!Enemy
+!Level Required
+!Description
+!Reward
+|-
+|[[Zombie]]
+|950
+|Defeat 8 Zombies
+|{{Money|11,750}}<br />{{EXP|19,000,000}}
+|-
+|[[Vampire]]
+|975
+|Defeat 8 Vampires
+|{{Money|12,000}}<br />{{EXP|20,500,000}}
+|}
+
+==Graveyard Door==
+[[File:Graveyard Door.png|thumb]]
+The Graveyard Door is used to obtain the [[Dark Blade/Slayer Skin|Slayer skin]] of [[Dark Blade]].
+
+The only way to use the Graveyard door is to click on the button next to the door while meeting the requirements of the [[Dark Blade]]'s Slayer Skin obtainment.
+
+When the Graveyard door opens, the following [[System Messages|system message]] will be shown to everyone in the player's server at the top of their screens:
+:{{System Message|A NEW SLAYER HAS BEEN BORN...}}
+
+===Notes===
+* The Graveyard door cannot be used twice on the same server, meaning that only one player can use this door and obtain [[Dark Blade/Slayer Skin|Slayer Skin]] until the server restarts.
+** The Graveyard door will appear as a white door if someone has already used it.
+
+==Trivia==
+* The [[Flowers|Blue Flower]] can be found on Graveyard Island.
+* The theme of the Graveyard Island is called Deep Mist, the same as [[Haunted Shipwreck]].
+* The [[Death King]], which was added in [[Updates/16|Update 16]], then removed in [[Updates/17|Update 17]], used to be found on Graveyard Island.
+* Two named graves can be found on Graveyard Island: one belonging to [[Wenlocktoad]] and the other to fudd10.
+* Graveyard Island is the smallest major island in the [[Second Sea]].
+* Graveyard Island requires only '''50''' levels of grinding before reaching the next island, making it the quickest one to progress through in the [[Second Sea]].
+* PvPing a [[Control]] user on this island can be quite difficult, primarily due to the fruit's [X] move, which allows the user to levitate the island's giant pillars and hurl them as massive [[Area of Effect|AoE]] explosions.
+
+==Change History==
+{{Change History|8}}
+
+==Navigation==
+{{IslandNavigation}}

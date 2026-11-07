@@ -1,0 +1,225 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Shadow
+|image  = <gallery>
+Shadow Fruit.png|Fruit Icon
+ShadowFruitGIF.gif|Fruit GIF
+Shadow.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Mythical
+|M1     = No
+|update = 16
+
+<!-- Fruit Price -->
+|money  = 2,900,000
+|robux  = 2,425
+}}
+{{Quote|Grants life-leeching abilities, useful for tactical takedowns of your enemies.|Shop}}
+'''Shadow''' is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|2,900,000}} or {{Robux|2,425}} from the [[Blox Fruit Dealer]].
+
+Shadow allows the user to control crow-like shadows and cast umbra-based attacks with [[Life Leech]] properties that damage foes. Shadow is quite similar to [[Dark]] in some cases.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Umbra Meter
+|meter    = Umbra Meter.png
+|desc     = The user will always have an Umbra Meter bar on their screen. The meter fills up by dealing damage with Shadow abilities to enemies, and it fills up automatically at night. The Umbra Meter can only be drained by using {{Ability|V}}. The user will also get a ghastly shadow aura surrounding themselves that will be bigger and darker, depending on the amount of Umbra Meter they have. (Note: The Shadow aura does not deal damage to anyone, make any noise, and is purely cosmetic.)
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Somber Rebellion
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 40
+|break    = yes
+|instinct = Only [[breaks Instinct]] at the initial hit.
+|gif      = Somber Assault
+|desc     = The user turns into a small dark orb of shadow, then dashes towards their cursor. Upon contact with an opponent, the user will turn into a swarm of crows and damage the enemy, then launch themselves upward, leaving the enemy on the ground. The user will receive i-frames during the duration of the move if they land it. This move is similar to [[Godhuman]]'s {{Ability|Godhuman|Z}}.
+}}
+
+{{Skill
+|key      = X
+|name     = Shade Nest
+|mastery  = 100
+|cooldown = 12.5
+|energy   = 60
+|break    = yes
+|instinct = Only [[breaks Instinct]] if aimed properly.
+|gif      = Bat_Nest
+|desc     = The user shoots a swarm of crows towards the cursor. Upon surface contact, the swarm will explode, dealing damage and sending a few small crows which will then fly to a nearby enemy and damage them. The crows have slight auto-aim, and will attempt to fly towards the target if close enough. (Note: Multiple crows can attack the same target.)
+}}
+
+{{Skill
+|key      = C
+|name     = Nightmare Leech
+|mastery  = 200
+|cooldown = 16.5
+|energy   = 80
+|break    = yes
+|instinct = [[Breaks Instinct]] no matter what.
+|gif      = Rush Leech
+|gif1     = Nightmare Leech Finisher
+|desc     = The user lunges forward. If the user makes contact with an enemy, the user grabs them and holds them upward, while regaining 20% of their max [[health]] and dealing good damage to the enemy, knocking them back. This move is similar to [[Sanguine Art]]'s {{Ability|Sanguine Art|Z}} but the range is shorter and has high end-lag. This move can also distort the user's screen slightly.
+|desc1    = This move has a finisher variant, which makes the enemy instantly explode on contact (the enemy's health must be at maximum half the damage of the move to activate).
+}}
+
+{{Skill
+|key      = V
+|name     = Corvus Torment
+|mastery  = 300
+|cooldown = 22
+|energy   = 100
+|break    = no
+|instinct = Cannot [[break Instinct]] in any way.
+|gif      = Max Shadow
+|gif1     = Dynamax Shadow
+|desc     = The user inflates their body into a giant dark sphere, after which, they will explode, draining the entirety of their Umbra Meter and forming an "umbral" cloud. The explosion will do a burst of damage and leave behind a swarm of crows, which will deal passive damage to any enemies inside the cloud. The enemies' vision will also get slightly distorted if they get hit by the explosion. The remains of the explosion don't really stun; instead, it pulls the enemies back inside the remains of the move. However, it is possible to escape the explosion's remains using certain teleportation moves. This move darkens enemies' screen similar to that of [[Dark]]'s Awakened X, C and V, while also inverting their colours to a black and white shade.
+|desc1    = The size of the black hole and explosion when the Umbra Meter is full, showing a much larger aura.
+}}
+
+{{Skill
+|key      = F
+|name     = Umbrage
+|mastery  = 50
+|cooldown = 7
+|energy   = 40
+|break    = no
+|instinct = Cannot [[break Instinct]] in any way.
+|gif      = Shadow Form
+|desc     = The user transforms into a swarm of crows, giving the user the ability to fly at a medium pace. Flying close to enemies will project crows at them, dealing damage. After 10 seconds, the user will return to normal. This move projects 50 crows if fully held.
+}}
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* High combo potential.
+* High damage on all moves.
+* Good mobility.
+* Not too difficult to obtain compared to other {{Mythical}} fruits.
+* Pairs perfectly with [[Godhuman]] or [[Sanguine Art]].
+* Pairs very well with the [[Cyborg]] race.
+* Moves can drain lots of [[Instinct]] if dodged.
+
+|'''[Z] Somber Rebellion'''
+* Can be used to escape combos (if timed correctly), as it flings the user into the air.
+* Decent speed.
+* Great for combo starting.
+* Good to avoid other attacks like [[Gravity Blade]]'s [Z] move or [[Portal]]'s [Z] move as it gives I-frame protection.
+
+|'''[X] Shade Nest'''
+* The bats have auto-aim and will fly towards the target if they're not too far away.
+* Good range.
+* Can stun enemies.
+* Little to no endlag.
+
+|'''[C] Nightmare Leech'''
+* Heals the user by 20% of their max [[health]] when PvP, which can be extremely useful when the player is low on [[health]].
+* Kills [[Pain]] and [[Ghost]] users before they revive.
+* Breaks [[Instinct]] no matter what.
+* Can be used almost exactly like [[Sanguine Art]]s [Z] move, but with more endlag.
+* Briefly stuns opponents.
+
+|'''[V] Corvus Torment'''
+* Very high damage.
+* Relatively low cooldown, especially considering its strength.
+* Huge hitbox, [[AoE]], and stun especially when used with full Umbra Meter.
+* Great for grinding, as most [[Enemies]] will not escape the explosion.
+* Drains [[Instinct]] if dodged.
+* Great combo potential if the victim is trapped inside.
+
+|'''[F] Umbrage'''
+* Great for grinding and pairs really well with [[Cyborg]] V3 ([[Energy Core]]).
+** This can be used to hold players inside of the [V].
+* Makes the user's hitbox extremely small, making it useful for evasion in many situations.
+* Extremely high damage if fully held.
+}}
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* High mastery requirements.
+* Passive quite inconvenient during the day.
+* Bad for some [[Sea Events]].
+* Moves are hard to hit, all needing at least a stun to hit in PvP.
+* Moves can be [[Instinct]]-tricked.
+
+|'''[Z] Somber Rebellion'''
+* Single target.
+* Small hitbox.
+* Sends the user upwards, which sometimes can be annoying for starting/extending a combo.
+
+|'''[X] Shade Nest'''
+* Relatively slow speed.
+* Small hitbox.
+* Unlikely to break [[Instinct]] due to it needing precise aim.
+* Mostly single-target. (Unless aimed differently.)
+
+|'''[C] Nightmare Leech'''
+* Single target.
+* Low range, along with end-lag if the user misses.
+* While it 'can' kill [[Pain]] and [[Ghost]] users, the move has short range and significant endlag.
+* Longer than average end-lag.
+* No I-frames, meaning the user can be damaged by an enemy if using the move on something already.
+
+|'''[V] Corvus Torment'''
+* Most players can escape the explosion's radius, making it almost impossible to deal full damage in PvP without a proper stun/holder.
+* Doesn't break [[Instinct]].
+* Quite small [[AoE]] if Umbra Meter isn't full.
+
+|'''[F] Umbrage'''
+* Can only be held for 10 seconds, making it less reliable for mobility.
+* Slow flight speed.
+* Not viable for PvP.
+}}
+</tabber>
+
+==Trivia==
+* Shadow was the only fruit that allows the user to utilize the life drain mechanic (just like [[Ghoul]]'s life leech) by using {{Ability|C}}.
+* It is one of the only fruits that have wings on their physical fruit model, along with [[Eagle]], [[Spirit]] and [[Phoenix]]. 
+* "Umbra" in Latin means "shade" and/or "shadow", and "Corvus" in Latin refers to a raven or a crow, both being types of birds. This ties into how many of the fruit's abilities have to do with crows/ravens flying at the enemy.
+* Shadow's [Z], [X], [C] moves are quite similar to [[Godhuman]]'s [Z], [X] (Tap Variant) and [C], having nearly identical range, cooldowns, and energy usage.
+* Shadow is the rarest and most expensive fruit obtainable from a [[Fruit Box]].
+* Shadow does not construct the user's body out of shadows, but rather, uses them in the form of attacks, hence why Shadow isn't [[Elemental]], but rather a [[Natural]] [[Blox Fruits|fruit]]. 
+* Despite its physical appearance resembling a bat, the attacks use crows.
+* Shadow’s [C] is the only move with a finisher that makes the target burst on contact. Shadow and [[Dragon Talon]] are also the only abilities with finisher‑style variants in the game.
+* Shadows [V] move is the only [V] move of a [[Mythical]] fruit that can be dodged no matter what. However, its damage and stun makes it extremely deadly if hit.
+** Interestingly, Shadow, [[Diamond]], and [[Awakenings Expert|Awakened]] [[Light]] are the only [[Blox Fruits]] thats [V] move can be dodged no matter what with [[Instinct]].
+* Shadow is confirmed to be getting a rework in future updates.
+* Interestingly, if user used {{Ability|V}} while a [[Ghost]] user uses {{Ability|Ghost|V}}, they would be able to see the darkness effect from the [V] move and see how it can invert colours and create darkness, and lasts until the move ends.
+
+==Gallery==
+<gallery>
+File:Screenshot 2026-06-10 193117.png|[[Plastic Fruits|Plastic]] Shadow on the ground.
+File:Shadows Crow.png|Crows seen from [X], [V] and [F]
+</gallery>
+
+==Change History==
+{{Change History|16|content=<tabber>
+|-|20=
+{{Update|20}}
+* Shadow Fruit's model was remade.
+: <gallery>
+Shadow 150x150.png|Old Shadow Fruit's icon.
+</gallery>
+
+|-|16=
+{{Update|16}}
+* Shadow was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Тень]]

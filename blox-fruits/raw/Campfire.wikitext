@@ -1,0 +1,34 @@
+{{Location Infobox
+|name      = Campfire
+|image     = Photo Of the Campfire.png
+|sea       = Any
+}}
+The '''Campfire''' allows players to craft [[Potions]] and other consumables with unlocked recipes, which are obtained from the Note in a Bottle through [[Fishing]]. It can be crafted in the inventory using one [[Wooden Plank]], and expires after 5 minutes.
+
+== Crafting Menu ==
+There are six available recipes, which include the [[Fish Kebab]], [[Lava Potion]], [[Aggro Elixir]], [[Loot Seeker]], [[Berserkers Elixir]], and [[Fortune Elixir]].  
+<div class="mw-collapsible mw-collapsed">
+[[File:Campfire_menu.png|500px|The Campfire Crafting Menu]]
+</div>
+
+== Oni Campfire ==
+A special version, the '''Oni Campfire''', exists in the [[Oni Realm]]. It has a red flame instead of an orange one and allows crafting of the [[Oni Soul]], [[Monk Potion]], and [[Invisibility Potion]]. Unlike regular campfires, the Oni Campfire does not expire.
+
+== Celestial Campfire ==
+A special version, the '''Celestial Campfire''', exists in the [[Celestial Domain]]. It has a red flame instead of an orange one and allows crafting of the [[Gate Potion]], [[Materials Elixir]], and [[Fragments Elixir]]. Unlike regular campfires, the Celestial Campfire does not expire.
+
+== Trivia ==
+* Campfires can be used early in the game, since wooden planks can be obtained at a low chance without the [[Shipwright]] subclass as of [[Updates/27.0|Update 27]].  
+* When a campfire is about to expire, a message appears: ''"Your campfire's flames have been extinguished..."''  
+* Other players can use a campfire placed by someone else.  
+* If the Craft Menu is open and the player walks away, the menu will close automatically.  
+* There are currently six available recipes as of Update 27.0.  
+* Crafting every recipe once requires 18 [[Fish]] (1 [[Rare]], 4 [[Uncommon]], and 13 [[Common]]), 1 [[Leather]], 1 [[Scrap Metal]], and 1 [[Fish Tail]].  
+* The [[Monk Potion]], [[Invisibility Potion]], and [[Oni Soul]] are exclusive to the Oni Campfire.  
+* The [[Gate Potion]], [[Fragments Elixir]] and [[Materials Elixir]] are exclusive to the Celestial Campfire.  
+
+== Change History ==
+{{Change History|27.0}}  
+
+== Navigation ==
+{{MiscNav}}

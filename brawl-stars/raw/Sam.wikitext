@@ -1,0 +1,273 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = In your face!|PrestigeTitle = Done & Dusted|Rarity = Epic|Class = Assassin|MovementSpeed = 800 (Fast)<br>1000 (after throwing Knuckle Busters; Very Fast)|HealthLabel = Health|Health = 5700|AttackLabel = Damage per punch with Knuckle Busters|Attack =800 |AttackRange = 3 (Short)|Reload =1.6 seconds (with Knuckle Busters; Normal)<br> 0.9 seconds (without Knuckle Busters; Very Fast) |AttackSuperCharge =20% (with Knuckle Busters)<br>12.5% (without Knuckle Busters) |SuperRange = 8.67 (throwing Knuckle Busters; Long)|SuperSuperCharge =35% (throwing Knuckle Busters)<br>17.5% (retrieving Knuckle Busters)<br>105% (throwing Knuckle Busters with Hypercharge) |VoiceActor=Joe French|AttackCooldown=|AttackBullets=2|AttackLabel2=Damage per punch without Knuckle Busters|Attack2=500|SuperBullets=|SuperDuration=|SuperMovementSpeed=|Super=1400|SuperLabel=Damage while throwing Knuckle Busters|SuperLabel2=Damage while retrieving Knuckle Busters|Super2=700||AttackSpeed=5000 (with Knuckle Busters)<br>3261 (without Knuckle Busters)|AttackWidth=|SuperSpeed=2900 (throwing Knuckle Busters)<br>3600 (retrieving Knuckle Busters)<br>3600 (throwing Knuckle Busters with Hypercharge)<br>4400 (retrieving Knuckle Busters with Hypercharge)|SuperWidth=1.67 (throwing Knuckle Busters)<br>0.67 (retrieving Knuckle Busters)|AttackSpread=50° (with Knuckle Busters)<br> 25° (without Knuckle Busters)|Gadget1Name=Magnetic Field|Gadget1Cooldown=17 seconds|Gadget2Name=Pulse Repellent|Gadget2Cooldown=11 seconds|HyperchargeMultiplier=25%|Hypercharge|Previous=Bonnie|Next=Mandy|AttackHyperchargeCharge=5% (with Knuckle Busters)<br>3.125% (without Knuckle Busters)|SuperHyperchargeCharge=8.75% (throwing Knuckle Busters)<br>4.375% (retrieving Knuckle Busters)<br>26.25% (throwing Knuckle Busters with Hypercharge)}}
+{{Quote|A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure [[Belle]] doesn't go too far on their latest heist!}}
+{{Portrait}}
+Sam is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 14: Robot Factory. He has a short range, very high health, and a variable damage output, movement and reload speed. He was the 59th Brawler added to the game. His Trait lets him start a match with his Super already charged. He attacks by punching enemies with two quick punches that deal more damage if Sam has his Knuckle Busters equipped. For his Super, Sam throws his Knuckle Busters or makes them fly back to him, damaging enemies in its path, altering his attack and giving him an increased movement, reload and unload speed. Sam can also charge his Super by picking up his Knuckle Busters from the ground. Sam's first Gadget, Magnetic Field, pulls in enemies around his Knuckle Busters. His second Gadget, Pulse Repellent, makes his next Super knock back enemies around the Knuckle Busters when they land. His first Star Power, Hearty Recovery, heals part of Sam's lost health when picking up his Knuckle Busters. His second Star Power, Remote Recharge, automatically charges Sam's Super if enemies are near his Knuckle Busters while they're on the ground. His Hypercharge, Hyper Fist, makes his Knuckle Busters travel faster, and instantly charges his Super when they damage enemies in its path.
+
+==Trait==
+{{Quote|Always spawns with a fully charged Super.}}{{Trait|Full}}Sam's Trait allows him to start a match or respawn with a fully charged Super.
+
+==Attack: Heavy Haymakers==
+{{Quote|Sam unleashes a double dose of hard-hitting punches. With his gloves on, he deals a lot more damage.}} With his Knuckle Busters equipped, Sam attacks enemies with two short-ranged piercing punches in a wide cone, and without his Knuckle Busters equipped, Sam's attack deal less damage but attacks quicker and in a smaller spread. Sam's reload speed also changes; with his Knuckle Busters, Sam reloads slower, and he reloads faster without them equipped. Sam's attack takes 0.6 seconds to complete with his Knuckles Busters and 0.3 seconds without them.
+
+==Super: Knuckle Busters==
+{{Quote|Sam throws his Knuckle Busters dealing damage to all enemies hit before landing on the ground. His next Super will return them back to his hands and also deals damage.}}
+If Sam has his Knuckle Busters equipped, he throws them in front of him, piercing through enemies along the way before landing on the ground. After throwing his Knuckle Busters, Sam also boosts his movement speed by 25% for 2.5 seconds. Without his Knuckle Busters, Sam can charge his Super by either dealing damage to enemies, by picking them up, or by using his Remote Recharge Star Power; activating his Super makes his Knuckle Busters fly back to him, piercing through walls and enemies along the way and damaging them for half the damage they do when leaving Sam's hands. Sam can pick up his Knuckle Busters if they are on the ground, which will instantly charge his Super. There is a 1-second cooldown after they land on the ground before Sam can pick them up, though his Magnetic Field Gadget can be activated during the cooldown. The Knuckle Busters stay on the ground until Sam picks them up, they fly back to him, when he is defeated, a round is over in [[Knockout]], or a goal is scored in [[Brawl Ball]]. If Sam uses his Super to kick the ball in Brawl Ball or in another sports mode, the ball will consume his Super but will, however, keep his Knuckle Busters in his main attack.
+
+==Gadgets==
+===Magnetic Field===
+{{Quote|While the Knuckle Busters are on the ground, Sam can activate them to pull in nearby enemies. Cooldown: 17 seconds.}}{{Gadget|1}}
+Upon activation, enemies within a small radius around Sam's Knuckle Busters will be pulled into them. The pull strength is 2 tiles and the area effect radius is 2.33 tiles. This Gadget can only be activated if Sam's Knuckle Busters are on the ground and within 14 tiles of his location. This Gadget's cooldown starts 2.5 seconds after it is activated.
+
+===Pulse Repellent===
+{{Quote|Upon landing on the ground, Sam's next deployed Knuckle Busters releases an electric pulse that knocks back enemies. Cooldown: 11 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Sam's next Super to knock back enemies in a small radius around his Knuckle Busters when they land. The knockback strength is 3 tiles and the area effect radius is 2.17 tiles. This can only be activated if Sam has his Knuckle Busters and his Super charged up. A Gadget symbol will glow above Sam's head signaling the Gadget's usage, as well as a glowing Super joystick. This Gadget's cooldown starts 2.5 seconds after it is activated.
+
+==Star Powers==
+===Hearty Recovery===
+{{Quote|Upon recalling his Knuckle Busters, Sam instantly recovers 20% of his missing health.}}{{StarPower|1}}
+Every time Sam retrieves his Knuckle Busters, he heals for 20% of his missing health. The amount of health Sam can heal can be affected by outside health buffs or healing debuffs.
+
+===Remote Recharge===
+{{Quote|While the Knuckle Busters are on the ground and near enemies, they will charge up Sam's Super.}}{{StarPower|2}}
+When Sam's Knuckle Busters are on the ground, enemies in a 2.17-tile radius around them passively charge's Sam's Super, similar to [[Buzz]]'s Trait. It charges his Super and Hypercharge faster if there are multiple enemies inside the radius, and the amount of Super charge per second is 5% multiplied by one more than the number of enemies present within the circle. This results in the Super charging by 10% per second each or over 10 seconds for one enemy, and his Hypercharge by 2.5% per second each or over 40 seconds for one enemy. His Super still charges even with invisible or bush-camping enemies. Ally Sams will have their Star Power radius shown, while enemy Sams will have their Star Power radius hidden.
+
+==Hypercharge: Hyper Fist==
+{{Quote|Sam's Knuckle Busters travel faster and will fully charge his Super if they hit an enemy Brawler during the Hypercharge.}}{{Hypercharge}}
+When activated, Sam's Knuckle Busters will travel faster while both throwing them and returning them. The Super recharge rate is tripled while throwing them, which will instantly charge his Super upon damaging an enemy. Sam also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Tips==
+
+===Game Modes and Maps===
+*Sam's Trait makes him very useful in [[Brawl Ball]], since he starts the match with his Super charged up and unless he uses his Super, he can use that to get the ball and have a super-kick ready to go.
+
+===Recommended Build===
+*Sam's Magnetic Field Gadget makes his Super amazing for area control, since he can activate the Gadget when enemies bunch up together in the [[Hot Zone]]. He can also use Magnetic Field as a temporary stun to confirm kills since it can interrupt wind-up Brawlers like [[Bibi]], [[Ash]], and [[Frank]]'s attack and pull them into a predictable position for Sam to kill.
+*Sam's Pulse Repellant Gadget is also good for area control, since he can get enemies away from a spot, like the Gem Spawn in [[Gem Grab]], without much difficulty. Pulse Repellant is also good for close up fights. By throwing your Knuckle Busters at a pinned enemy against a wall, to knock them back.
+*Sam's Hearty Recovery Star Power is the primary Star Power to use. It allows you to heal up during a fight if you throw your knuckles near a wall. It is good because it allows you to survive indefinitely if the enemy lacks damage; this synergizes well with his base kit because Sam is also speeded up after throwing his knuckles. Which makes Sam harder to hit. This allows Sam to waste the enemy's resources, so Sam's teammates are going to have an easier time taking them out.
+*Sam's Remote Recharge Star Power may help Sam get his Knuckle Busters in situations where you can't just go and get them normally, but most of the time the enemies are not going to stand near Sams's Knuckle Busters for 10 seconds.
+
+===Other===
+*When Sam attacks with his Knuckle Busters on he hits twice, first to the very left of the cone range of the attack and then to the very right. Moving counter-clockwise around him can effectively make one of his attacks miss, so to counter that - to make both punches land - don't stand too close to the enemy and move clockwise around the enemy.
+*Since Sam's ammo recharges faster without his Knuckle Busters, try reloading all his ammo before retrieving his Knuckle Busters.
+*Since Sam starts the game with his Super already charged up and it gives him a short speed boost after using it, he can use his Super at the very start of a game to get to a specific part of the map or to reach a specific thing faster than other [[:Category:Brawlers|Brawlers]] such as the Gem Mine, the Blue [[Bounty]] Star, etc. Be careful however, because throwing your Knuckle Busters close to where enemies are can make them difficult to collect. Due to this, this strategy works best in [[Showdown]] due to the large amount of space in Showdown maps.
+*Sam's Knuckle Busters do not extend their range if their endpoint is water, making it possible to be unable to manually collect them. Be careful throwing them around bodies of water, as accidentally throwing the Knuckle Busters into large enough water bodies will force Sam to fight without them until he can recall them, greatly hindering his damage output and making his Gadgets useless. This can be partially remedied with his Remote Recharge Star Power if the location of the water is close to enemies or if the enemy can walk on water.
+==Voice Lines==
+{| class="article-table"
+!Spawning 
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = sam start vo 01.ogg|Filedescription ="Time to hit them with the old one-two!"}}
+|{{Ogg|Filename = sam lead vo 01.ogg|Filedescription ="Undefeated Brawler!"}}
+|{{Ogg|Filename = sam hurt vo 01.ogg|Filedescription ="I'm on the ropes!"}}
+|{{Ogg|Filename = sam kill vo 01.ogg|Filedescription ="It's a knockout!"}}
+|{{Ogg|Filename = sam die vo 01.ogg|Filedescription ="I got knocked out."}}
+|{{Ogg|Filename = sam atk vo 01.ogg|Filedescription ="Hook!"}}
+|{{Ogg|Filename = sam ulti vo 01.ogg|Filedescription ="Sucker punch!"}}
+|-
+|{{Ogg|Filename = sam start vo 02.ogg|Filedescription ="Let's go beat up some bots!"}}
+|{{Ogg|Filename = sam lead vo 02.ogg|Filedescription ="I'll beat you all to the punch."}}
+|{{Ogg|Filename = sam hurt vo 02.ogg|Filedescription ="Roll with the punches."}}
+|{{Ogg|Filename = sam kill vo 02.ogg|Filedescription ="3, 2, 1, you're done, mate."}}
+|{{Ogg|Filename = sam die vo 02.ogg|Filedescription ="T.K.O."}}
+|{{Ogg|Filename = sam atk vo 02.ogg|Filedescription ="Jab!"}}
+|{{Ogg|Filename = sam ulti vo 02.ogg|Filedescription ="Sam's hammer!" }}
+|-
+|{{Ogg|Filename = sam start vo 03.ogg|Filedescription ="Time to show the kids how it's done!" }}
+|{{Ogg|Filename = sam lead vo 03.ogg|Filedescription ="This one's for Belle."}}
+|{{Ogg|Filename = sam hurt vo 03.ogg|Filedescription ="Saved by the bell."}}
+|{{Ogg|Filename = sam kill vo 03.ogg|Filedescription ="Look kids, that's how it's done."}}
+|{{Ogg|Filename = sam die vo 03.ogg|Filedescription ="Oh, that was a low blow!"}}
+|{{Ogg|Filename = sam atk vo 03.ogg|Filedescription ="Counterpunch!"}}
+|{{Ogg|Filename = sam ulti vo 03.ogg|Filedescription ="In your face!"}}
+|-
+|{{Ogg|Filename = sam start vo 04.ogg|Filedescription ="Put up your jukes."}}
+|{{Ogg|Filename = sam lead vo 04.ogg|Filedescription ="Winner, winner, chicken dinner!"}}
+|{{Ogg|Filename = sam hurt vo 04.ogg|Filedescription ="Oh, feeling groggy."}}
+|{{Ogg|Filename = sam kill vo 04.ogg|Filedescription ="You're brown-bread!"}}
+|{{Ogg|Filename = sam die vo 04.ogg|Filedescription ="Throwing in the towel!"}}
+|{{Ogg|Filename = sam atk vo 04.ogg|Filedescription ="Kidney punch!"}}
+|{{Ogg|Filename = sam ulti vo 04.ogg|Filedescription ="Get 'em jabbers!"}}
+|-
+|{{Ogg|Filename = sam start vo 05.ogg|Filedescription ="Playtime's over, kids."}}
+|{{Ogg|Filename = sam lead vo 05.ogg|Filedescription ="Champion!"}}
+|{{Ogg|Filename = sam hurt vo 05.ogg|Filedescription ="Kids got my back. Yeah, right."}}
+|{{Ogg|Filename = sam kill vo 05.ogg|Filedescription ="Time for bed!"}}
+|{{Ogg|Filename = sam die vo 05.ogg|Filedescription ="I'll get you next round!"}}
+|{{Ogg|Filename = sam atk vo 05.ogg|Filedescription ="Cross!"}}
+|{{Ogg|Filename = sam ulti vo 05.ogg|Filedescription ="Gloves are off."}}
+|-
+|{{Ogg|Filename = sam start vo 06.ogg|Filedescription ="Time for an argy bargy!"}}
+|{{Ogg|Filename = sam lead vo 06.ogg|Filedescription =Sam laughs}}
+|{{Ogg|Filename = sam hurt vo 06.ogg|Filedescription ="Ah, youth of today..."}}
+|{{Ogg|Filename = sam kill vo 06.ogg|Filedescription ="Sleepy time!"}}
+|{{Ogg|Filename = sam die vo 06.ogg|Filedescription ="It's all gone Pete Tong!"}}
+|{{Ogg|Filename = sam atk vo 06.ogg|Filedescription ="Uppercut!"}}
+|{{Ogg|Filename = sam ulti vo 06.ogg|Filedescription ="Ha ha!"}}
+|-
+|{{Ogg|Filename = sam start vo 07.ogg|Filedescription ="Alright jabbers, let's do it!"}}
+|
+|{{Ogg|Filename = sam hurt vo 07.ogg|Filedescription ="Nice one! I'll give you that."}}
+|{{Ogg|Filename = sam kill vo 07.ogg|Filedescription ="You were outclassed."}}
+|{{Ogg|Filename = sam die vo 07.ogg|Filedescription ="Too many kids!"}}
+|{{Ogg|Filename = sam atk vo 07.ogg|Filedescription ="Kidney punch!"}}
+|
+|-
+|
+|
+|{{Ogg|Filename = sam hurt vo 08.ogg|Filedescription ="Oi! Leave it out!"}}
+|
+|{{Ogg|Filename = sam die vo 08.ogg|Filedescription ="My Be-e-lle!"}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = sam hurt vo 09.ogg|Filedescription ="You're having a laugh."}}
+|
+|{{Ogg|Filename = sam die vo 09.ogg|Filedescription ="That was shambolic."}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = sam hurt vo 10.ogg|Filedescription ="Bang out of order, mate."}}
+|
+|
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = sam hurt vo 11.ogg|Filedescription ="Proper naughty..."}}
+|
+|
+|
+|
+|}
+
+==History==
+*31/08/22:
+**{{Balance|Content=Sam became available to play in the [[Training Cave]].|Change=Neutral}}
+*05/09/22:
+**{{Balance|Content=Sam and his Caesar skin were added to the game.|Change=Neutral}}
+*21/09/22:
+**{{Balance|Content=Sam's Pulse Repellent Gadget was added.|Change=Neutral}}
+*04/10/22:
+**{{Balance|Content=Sam's Remote Recharge Star Power was added.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Sam's Hearty Recovery Star Power healing was decreased to 20% of missing health (from 30%).|Change=Nerf}}
+*12/12/22:
+**{{Balance|Content=Sam's health was increased to 5400 (from 5200).|Change=Buff}}
+*17/12/22:
+**{{Balance|Content=The Yeti Sam skin was added. It was featured as a Dark Brawlidays skin.|Change=Neutral}}
+*14/02/23:
+**{{Balance|Content=The Sam The Teddy skin was added. It was featured as a Brawlentine's skin.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Sam's Super damage while throwing his Knuckle Busters was decreased to 1200 (from 1400).|Change=Nerf}}
+**{{Balance|Content=Sam's Super recharge rate was decreased slightly, increasing the number of hits required to recharge his Super while throwing his Knuckle Busters to 4 (from 3).|Change=Nerf}}
+**{{Balance|Content=Sam's class was changed to Assassin (from Damage Dealer).|Change=Neutral}}
+**{{Balance|Content=Sam's True Silver and True Gold skins were added.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Sam's flavor text was changed from "A former factory hand, Sam Bronson has a vendetta against ALL robots. He's the brawn behind the brains of the Goldarm Gang, always happy to take the loot and give robots the boot!" to "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!"|Change=Neutral}}
+*06/11/23:
+**{{Balance|Content=The Dark Clown Sam skin was added. It was featured as a Bizarre Circus skin.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Sam's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Sam's Super damage while throwing his Knuckle Busters was increased to 1400 (from 1200).|Change=Buff}}
+**{{Balance|Content=Sam's Super recharge rate was increased slightly, decreasing the number of hits required to recharge his Super while throwing his Knuckle Busters to 3 (from 4).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=Sam's Knuckle Busters can now be recalled mid-air.|Change=Buff}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed an edge case where Sam's Knuckle Busters would sometimes go in a strange angle when shooting over water or certain objects.|Change=Neutral}}
+**{{Balance|Content=Fixed Sam briefly losing upper body animation if his Super was activated when moving.|Change=Neutral}}
+**{{Balance|Content=Caesar Sam and Dark Clown Sam's Super visual effects were slightly reworked.|Change=Neutral}}
+*12/03/25:
+**{{Balance|Content=Fixed a bug where Sam defeating an opponent that has a knockback ability to crash the game.|Change=Neutral}}
+*24/03/25:
+**{{Balance|Content=Sam's Hyper Fist Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Sam's Hyper Fist Hypercharge multiplier was decreased to 20% (from 40%).|Change=Nerf}}
+*12/04/25:
+**{{Balance|Content=The Spectaculor Sam skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Sam's Hyper Fist Hypercharge multiplier was increased to 25% (from 20%).|Change=Buff}}
+*28/10/25:
+**{{Balance|Content=Sam's main attack damage without his Knuckle Busters was increased to 500 per punch (from 400).|Change=Buff}}
+**{{Balance|Content=The number of hits required to recharge his Super without his Knuckle Busters was decreased to 8 (from 10).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Sam's Hyper Fist Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Sam's Hyper Fist Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Sam's health was increased to 5700 (from 5400).}}
+*03/01/26:
+**{{Balance|Content=The Peaky Sam skin was added. It was featured as a Steampunk skin.|Change=Neutral}}
+*25/02/26:
+**{{Balance|Content=Fixed an issue where Sam would pick up his Knuckle Busters during Hypercharge and crashed the game.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=Sam's level up damage was increased to 5% (from 4%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Sam's level up health was increased to 500 (from 450) in Brawl Arena.|Change=Buff}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Sam's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Sam The Teddy|Cost1=Free from Presents, free from Love Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=My Brawlentine|Rarity1=Rare
+|Name2=Dark Clown|Cost2=Free from Strangest Packs, Gigi Boxes, Vince Boxes or 79 Gems|Campaign2=Bizarre Circus|Rarity2=Super Rare
+|Name3=Yeti|Cost3=Free from Presents or 149 Gems|Campaign3=Dark Winter Tales|Rarity3=Epic
+|Name4=Spectaculor|Cost4=149 Gems|Campaign4=Supercell Make|Campaign4_2=Brawl Unite|Rarity4=Epic
+|Name5=Peaky|Cost5=149 Gems|Campaign5=Steampunk|Rarity5=Epic
+|TrueSkins = yes
+|NameP1=Caesar|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Legends of Olympus|RarityP1=Epic}}
+
+=== Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Sam
+|-
+!Skin
+! colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Caesar}}
+{{Pin Table|Yeti}}
+{{Pin Table|Sam The Teddy}}
+{{Pin Table|Dark Clown|Special}}
+{{Pin Table|Spectaculor|Special}}
+{{Pin Table|Peaky|Phew}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Sam|Rarity = Common}}
+|{{Spray|Type = Sam Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Sam1}}
+|{{Pfp|Sam2}}
+|{{Pfp|Sam3}}
+|{{Pfp|Sam4}}
+|{{Pfp|Caesar Sam}}
+|-
+|{{Pfp|Yeti Sam}}
+|{{Pfp|Spectaculor Sam}}
+|{{Pfp|Peaky Sam}}
+|
+|
+|}
+
+{{Navigation}}
+
+[[ru:Сэм]]

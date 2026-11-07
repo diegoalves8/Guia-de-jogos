@@ -1,0 +1,470 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Dough
+|image  = <gallery>
+Dough Fruit.png|Fruit Icon
+DoughFruitGIF.gif|Fruit GIF
+Dough.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Mythical
+|M1     = Awakened
+|update = 9
+
+<!-- Fruit Price -->
+|money  = 2,800,000
+|robux  = 2,400
+}}
+{{Quote|Provides sticky and flexible dough-based attacks.|Shop}}
+'''Dough''' is a {{Mythical}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|2,800,000}} or {{Robux|2,400}} from the [[Blox Fruit Dealer]].
+
+Dough enables the user to create, become and manipulate pastry dough, delivering sharp and sticky attacks that deal significant damage, with moves ranging from tall, hardened spikes to destructive melee attacks visually enhanced by [[Aura]].
+
+==Awakening==
+Dough costs {{Fragment|18,500}} to fully [[Raids|awaken]].
+
+The "{{Title|Bread Chaser}}" [[Titles|title]] #045 will be granted upon awakening at least one ability of this fruit. 
+
+{{Awakening Price Table
+|move1 = Z  | 500
+|move2 = F  | 2,000
+|move3 = X  | 3,000
+|move4 = C  | 4,000
+|move5 = M1 | 4,000
+|move6 = V  | 5,000
+}}
+
+===Unlocking Dough Raids===
+# The player must have the {{Icon|God's Chalice|25}} and {{Conjured Cocoa|10}} [[Conjured Cocoa]]s.
+#* It is recommended to grind [[Conjured Cocoa]]s while waiting for other things to spawn, such as [[Elite Pirates]] or [[God's Chalice]] from a [[chest]] in order to save time.
+# The player must use the [[materials]] collected above to trade for the [[Sweet Chalice]] from the [[Sweet Crafter]] located at the [[Chocolate Land]] in the [[Sea of Treats]].
+# The player must talk to [[drip_mama]] after 500 [[enemies]] have been defeated at [[Cake Land]] to summon [[Dough King]] using the [[Sweet Chalice]].
+#* It is recommended to do this in a [[Private Servers|private server]] with a few friends, as trollers or exploiters could spawn the [[Cake Prince]] instead.
+#* The player who has the [[Sweet Chalice]] should be the one checking [[drip_mama]] and opening the portal while other players kill [[enemies]], as the [[Sweet Chalice]] will be lost upon death or disconnection of the player owning it which would be devastating.
+# Once defeated, the [[Dough King]] will drop the [[Red Key]] (assuming the player did 10% or more of the total damage to Dough King).
+# The player can use the [[Red Key]] to permanently unlock the door inside the [[Cake Scientist|Cake Castle]] at the [[Cake Land]].
+#* Even if the player disconnects or dies with the [[Red Key]], they will still be able to buy Dough [[Raids|Raid]] [[Microchip]]s unless they never obtained it.
+Talk to the [[Cake Scientist]] to buy a Dough [[Raids|Raid]] [[Microchip]] at the cost of {{Fragment|1,000}} every 2 hours, or a physical [[Blox Fruit]] that is worth at least {{Money|1,000,000}}. Players will now be able to buy Dough [[Raids|Raid]] [[Microchip]]s from the [[Mysterious Scientist]] upon completing the previous steps.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Elemental Reflex
+|file     = Dough Elemental Reflex.gif
+|desc     = The fruit user is immune to all physical attacks ([[Fighting Styles|fighting style]], [[Swords|sword]], [[Guns|gun]]) from players unless the attacks are imbued with [[Aura]]. Against [[NPCs]], this immunity applies only if the player is a certain level above them. This effect is only effective against non-boss enemies.
+}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Fried Dough
+|break    = yes
+|instinct = Direct impact can be dodged, and also at the drag. Explosion [[Instinct/Break|breaks Instinct]] most of the time, but it can be dodged on the edge. (The player will still be knocked back by the explosion).
+|mastery  = 1
+|gif      = Frying Dough
+|desc     = The user's arm turns into a reddish-orange, oval-shaped blazing piece of dough and shoots it in the direction of the cursor. If the dough hits the ground or is at its max range, it will explode, dealing [[Area of Effect|AoE]] damage. Landing this move directly on the player's hitbox will push them back.
+}}
+
+{{Skill
+|key      = X
+|name     = Sticky Dough
+|break    = yes
+|instinct = The grab and the toss [[Instinct/Break|break Instinct]] no matter what.
+|mastery  = 100
+|gif      = Sticking Dough
+|desc     = The user creates a long lasso made out of dough. If the lasso is launched at a nearby enemy, the target will get grabbed, lifted up and then slammed down. The lasso can be aimed while holding the enemy.
+}}
+
+{{Skill
+|key      = C
+|name     = Carved Dough
+|break    = yes
+|instinct = The donut can be dodged. The slam [[Instinct/Break|breaks Instinct]] most of the time, but it can rarely be dodged on the edge. (The player will still get knocked up).
+|mastery  = 200
+|gif      = Carving Dough
+|desc     = The user turns into a big donut and starts rolling forward, and when the [C] key is released, the user turns their right hand into a black spiked and fried, dough-like club and slams down on the target, knocking their target up. Although it can be used to travel, it's not recommended because of the short travel time of just 3.5 seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Restless Dough Barrage
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time. The small damage when grabbed on the edge can be dodged.
+|mastery  = 300
+|gif      = RestLess Dough Barrage
+|desc     = The user creates multiple rings around their cursor. After a short while, [[Aura]]-imbued fists start coming out of said rings, punching in the direction of the cursor and stunning any enemy caught in the barrage for the duration of the move. The user can slightly change the position of their victims caught in the attack. This move can be cancelled either if the user stops holding the move or if the user gets damaged. This move lasts for 4.5 seconds when fully held. This attack is not affected by Aura [[Colors|colors]].
+}}
+
+{{Skill
+|key      = F
+|name     = Roller Donut
+|break    = no
+|mastery  = 50
+|gif      = Rolling Donut
+|desc     = The user turns into a donut and starts rolling at a decent pace, being able to travel for 30 seconds. This move also makes the user accelerate on slopes extremely quickly.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time. However, the damage of [[Area of Effect|AoE]] slams (against the ground) can rarely be dodged. (The player will still get stunned).
+|cooldown = 1
+|frag     = 4,000
+|gif      = KneadingPunches
+|gif1     = KneadingBlow
+|desc     = When held, the user pulls one of their arms back slightly and summons a tendril of dough from the ground by their correlating arm and loops it into a donut. The user then punches, and as they do that, a sticky dough fist comes out of said donut and punches in the direction of the cursor, knocking back any enemies in its way. The user can perform this attack 3 times in total until it restarts. When the donuts are not used, they will float around the user for 20 seconds, before dissipating. The longer the move is held, the further the punch goes and the more damage it deals. Having [[Aura]] active makes the attack get imbued with the user's Aura, and slightly increases the attack's range and damage. If an enemy is pushed against a solid surface (like a wall or floor), they will be stuck to the surface and briefly stunned. Fully charging this attack requires holding the move for 1 second, and while held, the user can move and jump, but they cannot [[Dashing|dash]], [[Air Jump]], and [[Flash Step]].
+|desc1     = Holding the M1.
+}}
+
+{{Skill
+|key      = Z
+|name     = Missile Jab
+|break    = yes
+|instinct = The explosion [[Instinct/Break|breaks Instinct]] most of the time, but it can be dodged on the edge. Can also be dodged on direct impact and also at the drag.
+|mastery  = 1
+|cooldown = 9
+|frag     = 500
+|gif      = MissileJabsHeld
+|desc     = The user's right arm turns into a chunk of dough, and when released, the user fires a hot dough missile in the direction of the cursor, dragging any enemy in its way and then causing an [[Area of Effect|AoE]] explosion upon contact with a solid surface, or when it reaches its maximum range. Holding the move for at least 1 second will increase the missile's size, range, [[Area of Effect|AoE]] and damage - enemies dragged by the projectile will receive more damage than enemies hit by just the explosion. The user will also get launched back upon releasing the move, depending on how long it was held.
+}}
+
+{{Skill
+|key      = X
+|name     = Pastry River
+|break    = yes
+|instinct = '''Ground variant:'''
+* Initial grab by the spike [[Instinct/Break|breaks Instinct]] most of the time, but it can rarely be dodged on the edge. The damage from the spike going down can also be dodged.
+'''Air variant:'''
+* The initial grab [[Instinct/Break|breaks Instinct]] no matter what, but the barrage can be dodged (will still stun). The [[Area of Effect|AoE]] ground slam can be dodged on the edge. (The player will still get knocked back).
+|mastery  = 100
+|cooldown = 13
+|frag     = 3,000
+|gif      = PastryRiver Spike Held
+|gif1     = PastryRiver Punches
+|desc     = When used on the ground, the user kneels down and, upon releasing the move, summons a tall spiky statuette of dough from the ground at where the cursor is pointing, impaling and stunning any enemies in its way upwards. After a moment, the statuette plummets back into the ground with the enemies, stunning them. This move can be held for 1 second to increase its overall size.
+|desc1    = When used in the air, the user turns their arm into stretchy and sticky dough. Upon releasing the move, the user stretches their arm forward in the direction of the cursor. If an enemy is hit, the user grabs them and sends them through a barrage of donuts, and finishes off by punching the enemy into the ground. Holding the move for at least 1 second will significantly increase its range and hitbox. This version deals slightly more damage than the ground version.
+}}
+
+{{Skill
+|key      = C
+|name     = Piercing Clothesline
+|break    = yes
+|instinct = The slam [[Instinct/Break|breaks Instinct]], but the donut that activates the move can be dodged. The start-up (donut) of the move [[Instinct/Break|breaks Instinct]] most of the time if too close to it, but it can be dodged on the edge.
+|mastery  = 200
+|cooldown = 17
+|frag     = 4,000
+|gif      = Spinning ClothesLine
+|desc     = The user turns into a big spiky donut, rolling at great speeds, upon collision with an enemy, the user entraps the opponent in a lump of spiked dough emerging from the user's arm, stunning the opponent. Then, the user swings their arm around in circles through the air, catching any enemies nearby, then smashes the enemy down from a great height, crushing enemies and launching debris, as well as launching both parties into the air. The move can only be held for 4 seconds, and the entire swing-to-smash animation lasts around 3 seconds. This is one of the best combo extenders in the game.
+}}
+
+{{Skill
+|key      = V
+|name     = Dough Fist Fusillade
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time. However, the small damage when grabbed on the edge can be dodged.
+|mastery  = 300
+|cooldown = 23
+|frag     = 5,000
+|gif      = Dough Fists Fussilade-
+|desc     = The user summons multiple donuts around their cursor and starts punching, and after a short while, arms made of dough emerge and extend from the donuts and start rapidly punching in the direction of the cursor, pummeling anyone unfortunate enough to get caught in the barrage. While the move is performed, neither the user nor the stunned enemy may move unless the move is stopped by the user or if their move gets cancelled if the user gets damaged. The user can also change the direction at which the donuts punch, and therefore can change the position of their victims caught in their attack. This move has a duration of around 5 seconds when fully held. This move is good for opening, extending, and closing combos.
+}}
+
+{{Skill
+|key      = F
+|name     = Scorching Donut
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|mastery  = 50
+|cooldown = 7
+|frag     = 2,000
+|gif      = Scorching Donut Terrain
+|gif1     = Scorching Donut Water
+|gif2     = Scorching Donut Lava
+|desc     = The user turns into a spiked donut that starts rolling at fast speeds. This move is great for traveling, as it can roll on both [[water]] and [[lava]], climb walls and damage anyone that it touches while moving (unlike its unawakened version). This skill can stun forever, as long as the user keeps hitting them (although the enemy can attack while they are getting stunned).
+|desc1    = Scorching Donut on [[Water]].
+|desc2    = Scorching Donut on [[Lava]].
+}}
+}}
+
+==Overview==
+<tabber>
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Good damage and stuns.
+* All moves [[Instinct/Break|break Instinct]].
+
+|{{Ability|Z}}
+* Good [[AoE]].
+
+|{{Ability|X}}
+* Possesses auto-aim when the user aims near an enemy, similar to [[Godhuman#Moveset|Godhuman]]’s C.
+
+|{{Ability|C}}
+* Decent damage.
+* The user doesn't have to hit their target to initiate the slam, unlike the awakened version.
+
+|{{Ability|V}}
+* High stun and damage.
+* Can slightly move enemies trapped in the attack.
+
+|{{Ability|F}}
+* Decent mobility.
+* Decent speed.
+* Climbs slopes very fast.
+* Speed is always maintained even if the user has low [[health]].
+
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Not recommended for grinding.
+* Hard to obtain.
+* High mastery requirements.
+* Lack of mobility.
+* Extremely outdated animations, even more so for a [[Mythical]] fruit. 
+
+|{{Ability|Z}}
+* May be hard to aim.
+* Slow speed.
+
+|{{Ability|X}}
+* The user stands still while holding the move, making it easy for someone to hit them.
+* Cannot allow the user to stay airborne, unlike many other holdable moves.
+* Single-target.
+
+|{{Ability|C}}
+* Move will be canceled by being damaged while in donut form.
+* Requires the user to get close to their targets.
+* May leave the user vulnerable to attacks if missed.
+
+|{{Ability|V}}
+* User is immobile while holding the move, leaving room for a punishing attack.
+* Races like [[Cyborg]] and [[Draco]] can counter it with their V3 ability, as it is a holding move.
+
+|{{Ability|F}}
+* Cannot roll in water, unless the user is [[Shark#Version 1-3|Shark V2]] or above.
+* Can only be held for 30 seconds, making it hard to use for traveling between islands, even if the user has [[Shark]] V2.
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Extremely high [[Combos|combo]] potential.
+* Phenomenal for PvP.
+** Multiple long combos that are hard for people to escape, and hence, easy for the user to repeat.
+* Decent for grinding, as it is an [[Elemental]] type [[Blox Fruits|Blox Fruit]] and the skills are mostly [[Area of Effect|AoE]] and multi-target.
+* Extremely long stuns, which makes it sometimes possible to counter the ability of the [[Water Body|Shark V3]].
+* Extremely versatile and works whether the user is a [[Blox Fruits|fruit]], [[Swords|sword]], or [[Guns|gun]] main.
+* All moves can damage [[Sea Events]] (including the M1 move).
+* Excellent damage.
+* All moves have [[Area of Effect|AoE]].
+* Most moves can [[Instinct/Break|break Instinct]].
+* All moves have destructible physics.
+
+|{{Ability|TAP|1}}
+* Long range when held.
+* Decent stun.
+* Could be used for keeping distance from big targets, like [[Buddha]] users.
+* Easily extends as a quick tap after holding [V].
+
+|{{Ability|Z|1}}
+* Extremely long range.
+* Charge time is only .5 seconds, and improves speed and AoE.
+* Good [[Area of Effect|AoE]], especially when held.
+* Great damage if the enemy gets hit by both the projectile and the explosion.
+* Could be used as a combo starter, since the explosion stuns enemies hit by it.
+* No end-lag.
+
+|{{Ability|X|1}}
+* Both variants (ground and air) gain a noticeably bigger hitbox when held.
+* Auto-aims on the air variant.
+* The air variant is good against sky campers.
+* Can be combo extended into a range of different moves.
+* Good stun.
+* Air variant will always pin opponents to the floor, even if [[Instinct]] tricked.
+* Both versions are true stuns.
+* Air variant has very low endlag, and can be chained instantly into [C].
+
+|{{Ability|C|1}}
+* The donut can go on [[water]] and [[lava]].
+* Good roll speed.
+* Can grab multiple [[Enemies|NPCs]]/players, making it powerful and useful when encountering teamers.
+* While spinning, the player will gain invulnerability to damage from other players for the duration of the attack, and they will also not receive damage from [[water]] or [[lava]].
+* The spin has a big [[Area of Effect|AoE]].
+* Works midair.
+* Very long stun animation, allowing most attacks to go off of cooldown before it ends.
+
+|{{Ability|V|1}}
+* High stuns, making escape harder for enemies.
+* Extremely high damage.
+* Little startup.
+* Chains into every single ability.
+* Great range if used with prediction.
+* Short cooldown compared to most other [V] attacks.
+* Extremely long stun duration, causing the [Z] and [X] abilities to finish their cooldowns mid move.
+* Little to no end-lag.
+
+|{{Ability|F|1}}
+* Can go on [[water]] and [[lava]].
+* Can climb walls.
+* Decent speed.
+* Speed is always maintained even if the user has low [[health]].
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Dough raids are extremely hard to complete, due to the amount of damage and stun the raid NPCs and the Boss does. And very high [[Fragments]] cost to fully awaken the fruit. And for one to host a Dough Raid, they have to defeat the [[Dough King]] just to do so.
+* Although Dough provides extremely powerful stuns, this fruit's moves require relatively close range. Dough can be countered by [[Blox Fruits|fruits]] that have the ability to continuously cancel, like [[T-Rex]], [[Pain]], or [[Eagle]]. [[Draco#Version 4|Draco V4]] (Thorn Mail) and [[Cyborg (race)|Cyborg]] are also a suitable choice to counter this.
+* Elemental Reflex is no longer versatile in the [[Third Sea|Third]] and [[Second Sea]].
+* Heavy lack of mobility, which can be a problem against runners.
+* Despite its powerful stuns, the moves require precision due to the lack of [[AoE]] on this fruit.
+* Most of Dough’s moves and combos are easy to interrupted by others who are not hit by the move, thus hindering Dough’s crowd control ability.
+** This is not an issue if used with the [[Human]] race however.
+
+|{{Ability|TAP|1}}
+* More punches does not mean x2, x3 damage.
+* No stuns if it is not hit on the ground.
+* The user loses their ability to [[Dash]], [[Air Jump]] continuously, and [[Flash Step]] as well as using some other mechanics when held.
+* Higher end-lag the further the punch goes.
+* Generally difficult to hit players from afar.
+* Can leave the user vulnerable to attacks if missed.
+* Quite low damage when tapped.
+
+|{{Ability|Z|1}}
+* Direct hit cannot break instinct.
+* Harder to hit aerial targets.
+
+|{{Ability|X|1}}
+* Both variants can be easily [[Instinct]]-tricked.
+* The user is vulnerable to teaming while using both versions due to the move not having i-frames.
+* The ground version does not work in the [[water]].
+
+|{{Ability|C|1}}
+* The donut can be canceled by simply shooting it with a [[Guns|gun]], or any damaging attack.
+* Can be hard to hit in air, as the user falls through the air significantly fast.
+* Requires the user to get close to their targets and hit them.
+* Can get canceled by falling from a great height into the [[water]], unless they user has [[Shark#Version 1-3|Shark V2]] or above.
+* Can only be held for 4 seconds.
+
+|{{Ability|V|1}}
+* The user is left immobile for the duration of the move. It can also be dodged with a well-timed [[Flash Step]] before the user executes the move.
+* Lacks the ability to inflict shock damage, leading to opponents susceptible to steal the user's kills.
+* Higher knockback when compared to the unawakened version in grinding.
+* Can be canceled if damaged.
+* Races like [[Cyborg]] and [[Draco]] are able to counter it with their V3 abilities, as this move needs to be held.
+** In the case of [[Cyborg]] however, the user can simply move them away during the barrage.
+
+|{{Ability|F|1}}
+* Can get canceled if the user falls from a great height into the [[water]], unless they have [[Shark#Version 1-3|Shark V2]] or above.
+* Quite low damage per hit.
+}}
+}}
+</tabber>
+
+==Tips & Tricks==
+* While in the [[Water|Sea]], using {{Ability|V}} or {{Ability|V|1}} on somebody will make them stop and take damage from the [[water]]. (Unless they are using [[Shark|Shark V2]] or above.)
+* {{Ability|F}} can be used on the [[water]] if the player has the [[Shark]] [[Races|race]] upgraded to V2 or higher.
+* Falling from a great height while using the {{Ability|F|1}} ability into the [[water]] can sometimes deactivate the ability, unless the user is using [[Shark#Version 1-3|Shark V2]] or above.
+* {{Ability|F}} climbs slope much faster, but it cannot climb walls. (Not to be mistaken for {{Ability|F|1}}, which can climb walls, but climbs slopes slower).
+* {{Ability|Z|1}} has a bigger explosion and will knock the player further back when held. Since being fully held only takes about a second, so unless used in a combo, it is better to hold it.
+* If the user holds {{Ability|X|1}}'s ground variation, it becomes slightly taller and has a bigger overall look and hitbox. It does not deal more damage.
+* It is recommended to use [[Angel]] V4's '''King's Rule''' [[gear]] while using {{Ability|C|1}}, since the opponent is damaged by the King's Rule aura at the start and the end, dealing more damage. Using [[Cyborg]]'s V3 ability, [[Energy Core]], can produce similar results. Using the {{Ability|V|1}} while having King's Rule aura can damage the enemy even more when the user brings them close enough.
+* {{Ability|F|1}} and {{Ability|C|1}} abilities look similar, with the only differences being their size and speed, so it is recommended to keep distance. (Note: {{Ability|C|1}}'s donut at a long distance can be [[Instinct]] dodged or just damage the donut in any way without being hit. [Using a long-range attack or [[gun]] is recommended.])
+* [[Human#Version 4|Human]] V4's '''Psycho''' Tier 2 ability allows the player to hold down moves without their moves being interrupted/canceled when damaged. This is really useful as some of Dough's moves are easily cancelable by other moves and this allows the player to hold down an ability like the {{Ability|V|1}} without getting interrupted.
+* As Dough itself is weak in air, a [[fighting styles|fighting style]] that has good mobility/combo starter in air, like [[Godhuman]], is recommended.
+* Using [[Spikey Trident]] or [[Cursed Dual Katana]] is very good to pair with Dough because they both have good mobility moves and moves that can grab an enemy (such as  [[Spikey Trident]] z or [[Cursed Dual Katana]] X). This is useful during {{Ability|C|1}}.
+* A good alternative is [[Sanguine Art]] or [[Yama]], since both of them are very strong in the air, and [[Yama]] can give the user insane movement when pairing with the [[Skull Guitar]] dash tech and also providing a very solid stun/combo starter ([[Yama]] x). Be aware that the user needs to be close to the opponent to deal damage due to most of [[Sanguine Art]] and [[Yama]]'s move are close-ranged.
+
+==Trivia==
+* Dough is the priciest fruit awakening, alongside [[Phoenix]] with them both being [[Raids#Raid Types|Advanced fruit awakenings]].
+* All of the awakened abilities are affected by [[Skins|Aura Colors]], changing the outline in all the moves and "electricity" effects (the only other fruits in which the moves are affected by the Aura Color being [[Rubber]] and [[Spider]]).
+* Dough is the only fruit in the entire game where its attacks are buffed by [[Aura]], specifically its '''[TAP] Normal Attack''' and {{Ability|Z|1}} when awakened.
+** Additionally, depending on whether the user has [[Aura]] activated or not, the sound effects of Dough's '''[TAP] Normal Attack''' and {{Ability|V|1}} will be different.
+* When the user uses {{Ability|Z|1}} or {{Ability|X|1}} (Air variant), they can see that their arm disappears but rebuilds itself with mass.
+* Dough's unawakened {{Ability|C}} and {{Ability|C|1}} abilities bear a visual resemblance to an ability from an old game made by [[Mygame43 (Player)|mygame43]], [https://www.roblox.com/games/566399244/SOLAR-Elemental-Battlegrounds Elemental Battlegrounds].
+* If the user uses {{Ability|C|1}} while not using any [[Skins|Aura Colors]], the effects will be red by default.
+* Dough’s {{Ability|C|1}} (awakened/unawakened) can be used as an alternative for its '''[F] Scorching Donut move (awakened/unawakened), but only for up to four seconds.'''
+* {{Ability|V|1}} will appear with bigger hands when used with [[aura]], while without it will appear significantly skinnier.
+* Dough is the only [[Mythical]] fruit that can be awakened.
+* Dough is the first {{Mythical}} [[Elemental]] fruit, while the second is [[Gas]].
+** Dough used to be a [[Natural]] fruit that had the Elemental Reflex passive only if the user's [[Instinct]] was turned on, but this was later changed, and Dough was made entirely [[Elemental]].
+* Awakened Dough's {{Ability|Z|1}} ability projectile is actually a small [[aura]]-covered fist after being fired.
+* Repeatedly using '''[TAP] Normal Attack''' and/or aiming {{Ability|V|1}} in the same spot will leave a crack on the ground, which increases in size the more the user punches in that spot. When using {{Ability|V|1}}, the crack will briefly appear "scorched".
+* When using '''[X] Pastry River''' (Air variant), the opponent gets trapped inside a ball made out of dough that explodes when the fist pushes it towards the ground, ending the move.
+
+==Change History==
+----
+{{Change History|9|content=
+<tabber>
+|-|29.4=
+{{Update|29.4}}
+* Dough V2 was heavily buffed.
+* {{Arrow|buff}} '''[Z] Missile Jab'''
+** Hitbox size increased by 15% (tap and held); speed increased by 20% (held).
+* {{Arrow|buff}} '''[X] Pastry River'''
+**On-hit end-lag decreased by 20%; hitbox size increased by 20% on both variants.
+* {{Arrow|buff}} '''[C] Piercing Clothesline'''
+**Hitbox size increased by 25%; stun duration increased by 40%.
+* {{Arrow|buff}} '''[V] Dough Fist Fusillade'''
+**Maximum hold duration increased from 3 seconds to 4 seconds; cast time decreased by 20%.
+
+|-|24=
+{{Update|24}}
+* Dough Fruit's icon was remade.
+<gallery>
+Dough Icon (Old).png|Old Dough Icon
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Dough Fruit's model was remade.
+: <gallery>
+Dough 150x150.png|Old Dough Fruit's icon.
+</gallery>
+
+|-|19=
+{{Update|19}}
+* {{Arrow|nerf}} '''[C] Piercing Clothesline''' now needs to hit a player or an [[Enemies|enemy]] to activate.
+
+|-|18=
+{{Update|18}}
+* '''[C] Piercing Clothesline''' 
+** Automatically activates the skill even if it doesn't hit anyone.
+** Now adjusts to the user's [[Aura]] color.
+* {{Arrow|nerf}} '''[X] Pastry River''' was nerfed. (Lost the auto aim ability and hit more targets)
+
+|-|17.3=
+{{Update|17.3}}
+* Dough received an [[Raids|awakening]].
+
+|-|11=
+{{Update|11}}
+* Dough received a slight buff.
+** {{Arrow|buff}} Slightly reduced the delay on '''[V] Restless Dough Barrage'''.
+** {{Arrow|buff}} Slightly increased the hitbox on '''[X] Sticky Dough''' and '''[C] Carved Dough'''.
+
+|-|10=
+{{Update|10}}
+* {{Arrow|nerf}} Dough was nerfed.
+
+|-|9=
+{{Update|9}}
+* Dough was released as a special [[Natural]]-type [[Blox Fruit]].
+** Dough had [[Elemental]] Reflex passive but required the user to have [[Instinct]] on.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+[[ru:Тесто]]

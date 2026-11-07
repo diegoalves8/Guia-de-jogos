@@ -1,0 +1,311 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = You got served!|PrestigeTitle = Last Call|Rarity = Rare|Class = Artillery|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 2700|AttackRange = 7.33 (Long)|Reload = 2 seconds (Slow)|AttackSuperCharge = 18%|AttackLabel = Damage per second|Attack = 800|SuperRange = 9.33 (Very Long)|SuperBullets = 5<br>3 (with Hypercharge)|SuperSuperCharge = 14.8%|SuperLabel = Damage per second|Super = 800|AttackSpeed=1750|SuperSpeed=1700<br>2300 (with Hypercharge)|Gadget1Name = Sticky Syrup Mixer|Gadget1Cooldown = 18 seconds|Gadget2Name = Herbal Tonic|Gadget2 = 648|Gadget2Label = Heal per second|Gadget2Cooldown = 17 seconds|StarPower1Name = Medical Use|StarPower1 = 486|StarPower1Label = Heal|VoiceActor=Phillip Lockwood|Previous=El Primo|Next=Poco|HyperchargeMultiplier=30%|AttackHyperchargeCharge=5.4%|SuperHyperchargeCharge=4.425%|Gadget1Range=3.33|Gadget1Duration=4 seconds|Gadget2Range=10|Gadget2Duration=5 seconds}}
+{{Quote|A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.}}
+
+{{Portrait}}
+Barley is a {{Rarity|Rare}} [[Brawler]] who has low health and slow reload speed, but a high burst damage potential and a long range. He was one of the 15 Brawlers who released at the first Beta launch. He attacks by lobbing a bottle of harmful liquid that splashes onto the ground and creates a small puddle on the ground that lasts for a period of time, dealing damage to enemies splashed and inside the puddle over time. His Super lobs five similar bottles on fire. These bottles travel further, cover a greater area, persist for a longer period of time, and they do not set a burning effect. His first Gadget, Sticky Syrup Mixer, creates a sticky puddle around himself that slows enemies inside it down. His second Gadget, Herbal Tonic, throws bottles around himself and teammates that heal them if they stand on the puddles. His first Star Power, Medical Use, heals him slightly when he lobs his bottle with his attack. His second Star Power, Extra Noxious, increases his main attack's damage per second. His Hypercharge, Bottled-Up Rage, makes his Super lob three big bottles of liquid that covers a larger area than his normal Super, destroying bushes in the process. Barley and his Wizard skin can be unlocked for free by linking an account to Supercell ID.
+
+==Attack: Undiluted==
+{{Quote|Barley lobs a bottle, breaking it on the ground. Enemies take damage from the splash, and more damage over time if they stay in the puddle.}}Barley lobs a long-ranged bottle of liquid that shatters and leaves a puddle, dealing damage to enemies who are splashed and standing in the 2-tile radius puddle. The damage can hit twice if the enemy remains standing on the puddle of liquid, and the damage from multiple puddles stacks. After 1 second, the liquid disappears. However, his attacks reload rather slowly and travel slowly as well. Barley's attack will land on the ground sooner the closer he throws his bottle to himself.
+
+==Super: Last Call==
+{{Quote|Barley hurls a flurry of fiery bottles, covering a huge area in flames. This one's on the house!}}Barley lobs five longer-ranged bottles of flaming liquid at 0.2-second intervals that together cover a very large area. They deal the same amount of damage per tick as his main attack, but persist for twice as long, so each puddle deals damage four times. Standing on multiple puddles does not cause the damage to stack. The spread of the bottles slightly increases the farther they are thrown. His Super has a very long cooldown and takes 1.5 seconds to complete. However, he can't attack or reload while using his Super, and it is cancelled if Barley is knocked back, pulled. stunned, or if he uses his Herbal Tonic Gadget.
+
+==Gadgets==
+===Sticky Syrup Mixer===
+{{Quote|Barley drops a sticky concoction that leaves a puddle, slowing down all enemies that make contact with it. Cooldown: 18 seconds.}}
+{{Gadget|1}}
+Barley drops a bottle of liquid at his feet that slows down enemies that walk into it by 400 points. The puddle lasts for 4 seconds and affects enemies in a 3.33-tile radius. The puddle remains even after Barley is defeated. This Gadget can be used while using his Super and it will not cancel it. This Gadget's cooldown begins after the attack is used.
+
+===Herbal Tonic===
+{{Quote|Barley throws a healing potion at nearby allies that creates an area that heals for 810 health per second. Cooldown: 17 seconds.}}
+{{Gadget|2}}
+Barley drops a bottle of liquid at himself and each of his teammates' within 10 tiles of his location that heals for 15% of Barley's maximum health per second. The puddles last for 4.5 seconds and affect all Brawlers in a 2.67-tile radius. The puddles remain even after Barley is defeated. Allies can heal for a total of 5 ticks, resulting in 3600 healing total as they heal allies immediately upon landing. Multiple healing puddles in the same area will not stack. Using this Gadget while using his Super will interrupt his Super. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Medical Use===
+{{Quote|Barley regains 540 health from each attack.}}
+{{StarPower|1}}
+Whenever Barley lobs a bottle with his main attack, he regains 10% of his maximum health. The healing occurs even if Barley doesn't hit an enemy with the attack.
+
+===Extra Noxious===
+{{Quote|Adds +200 damage per second to Barley's attack.}}
+{{StarPower|2}}
+Barley's main attack's damage is increased by 200 damage per tick. Unlike other Star Powers, this number is the same even at lower power levels.
+
+==Hypercharge: Bottled-Up Rage==
+{{Quote|Barley hurls 3 big brews that also destroy all bushes on impact.}}{{Hypercharge}}
+When activated, Barley's Super throws 3 big bottles of liquid that covers a larger area than his normal Super, with a radius of 3.67 tiles each. Bushes that are caught in the area are destroyed. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Puddles from his main attacks last longer!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Barley's main attacks lasted for an additional 2 seconds on the ground. The damage could hit 4 times if the enemy remained standing on the puddle of liquid.
+
+==Tips==
+===Game Modes and Maps===
+*Barley can be effective in [[Heist]], if used correctly. Barley's Super has an incredibly long range, allowing it to safely deal damage to the Heist safe. Since the safe is a stationary target, it’ll take both ticks of damage from his main attack as well as all four ticks from his Super. This is very effective when spawn-camping or supporting a rush attack, allowing you to stack Supers together.
+*Barley is a great [[Siege]] Brawler mainly because he’s a control Brawler, excellent at area denial. He can force the enemies back with his long-lasting attacks and Super so that his team can retrieve the Bolts. When playing Barley in Siege, try to stay alive when your Siege Bot spawns. Barley is usually the primary damage dealer to the IKE. Additionally, Barley's Super has an extremely long range, making it able to reach the IKE without entering its range.
+*Barley is a menace in [[Duo Showdown]] if he is paired with a heavyweight. You can follow your teammate around and use Barley's attack to damage enemies while the tank finishes them off. The same applies to Power Cubes; if there are multiple boxes near your spawn, you can use your attacks to break them by stacking their damage.
+
+===Recommended Build===
+*Barley's Sticky Syrup Mixer Gadget can be more useful than one would assume. It can be used when defending a goal in [[Brawl Ball]] and can discourage tanks from chasing you. Surprisingly, you can use this to bush-camp with Barley. Hide in a bush, and when an enemy walks by, use your Sticky Syrup Mixer Gadget to slow them and burst them down. If done correctly, this either takes out the enemy or deals tremendous amounts of damage, forcing them to retreat. Barley's Sticky Syrup Mixer Gadget is especially useful against tanks and close-ranged assassins since it usually slows them down enough to where Barley can outrange and deal a large amount of damage to them.
+**When enemies are behind a wall, Barley can use his Sticky Syrup Mixer Gadget to slow them down. Then, he can follow up with three attacks to take them out. This close-range strategy works even better with bushes, where his damage is surprisingly high.
+*His Medical Use Star Power is more map-dependent, best used in game modes where controlling the field is more important than eliminating enemy Brawlers. This includes events such as Gem Grab, Heist, and Siege. Medical Use increases his survivability, allowing you to continuously attack instead of retreating, and giving up ground to heal up. This Star Power can be paired with his Herbal Tonic Gadget to provide healing when there aren't other healers on your team.
+*Barley's Extra Noxious Star Power allows Barley's attacks to deal more damage. This makes Barley to become a more aggressive Brawler, especially from behind walls. This Star Power enables Barley to become very strong on modes like Heist and Siege.
+
+===Strategies===
+*Like most other throwers, aiming two attacks at an enemy, two on either side of them, will force them to move up or down, potentially making it easier to separate them from their allies. They can also choose to move into the attacks and force them to take damage from Barley's attacks.
+*Combining Barley's Super with [[Spike]] or [[Lou]]'s can deal huge damage to enemies trapped by both. Spike and Lou's Super slows the enemy's movement speed and deal damage, hindering them from escaping while Barley's Super deals massive damage.
+*Barley's attack can be used for area control, deeming it effective to discourage enemy movement through certain choke points or paths. Take advantage of this to keep enemies out of critical areas of the map, such as the Gem mine in [[Gem Grab]], the zones in [[Hot Zone]], or the Bolts in Siege.
+*It is extremely important to recognize that your Super's spread gets bigger, not the actual bottles, the further away you are from it. This also means that the top, bottom, and sides may not be covered. If you want to concentrate your attack onto a chokepoint or area, like Hot Zone or Heist, it is recommended to shrink it a little to cover efficiently, and if you want to generalize an area with multiple targets to walk backwards while using it.
+*Barley's Super can be interrupted during casting. Try to avoid this, as you might as well just have lobbed your basic attacks.
+*Barley is surprisingly good in tight areas with a few blocks in between, as attacks are almost guaranteed to 2-hit, and your Stick Syrup Gadget can confirm the kill.
+
+===Other===
+*Like [[Berry]], [[Willow]], and other throwers, his attacks can be lobbed over obstacles. It’s recommended to attack from behind walls where the enemies can’t hit you as easily than if you’re out in the open. It is even better to attack from behind unbreakable walls where enemies cannot destroy your cover.
+*Barley's Super can deal massive amounts of damage if an enemy is unable to quickly escape from the liquid. Try to aim the Super to have it land within the enemy standing in the middle of it or trapped against a wall, and use your Sticky Syrup Mixer Gadget to prolong and maximize your damage output.
+*Auto-aiming with Barley often causes you to miss your shot or only deal 1 tick of damage. Because Barley's attacks last for two ticks, if you aim the shot in front of where an enemy will head, you’ll either hinder their movement or cause them to take two ticks of damage.
+*If an enemy is hit with the first tick of the first puddle of Barley's Super, remains standing on the liquid, and is hit with the last tick of the last puddle, the Super can deal five ticks of damage instead of four.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Barley start 01.ogg|Filedescription = "I'm ready to serve."}}
+|{{Ogg|Filename = Barley lead 01.ogg|Filedescription = "Happy to serve!"}}
+|{{Ogg|Filename = Barley hurt 01.ogg|Filedescription = "What was that?"}}
+|{{Ogg|Filename = Barley kill 01.ogg|Filedescription = "Awfully sorry."}}
+|{{Ogg|Filename = Barley die 01.ogg|Filedescription = "It's been a pleasure"}}
+|{{Ogg|Filename = Barley throw 01.ogg|Filedescription = "Oops, my bad."}}
+|{{Ogg|Filename = Barley ulti 01.ogg|Filedescription = "Bottoms up!"}}
+|-
+|{{Ogg|Filename = Barley start 02.ogg|Filedescription = "Another round?"}}
+|
+|{{Ogg|Filename = Barley hurt 02.ogg|Filedescription = "Ouch."}}
+|{{Ogg|Filename = Barley kill 02.ogg|Filedescription = "A little… strong?"}}
+|{{Ogg|Filename = Barley die 02.ogg|Filedescription = "It's been lovely."}}
+|{{Ogg|Filename = Barley throw 02.ogg|Filedescription = "Whoopsie!"}}
+|{{Ogg|Filename = Barley ulti 02.ogg|Filedescription = "This one's on the house!"}}
+|-
+|{{Ogg|Filename = Barley start 03.ogg|Filedescription = "Ready for another?"}}
+|
+|{{Ogg|Filename = Barley hurt 03.ogg|Filedescription = "That hurt."}}
+|{{Ogg|Filename = Barley kill 03.ogg|Filedescription = Barley laughs}}
+|
+|
+|
+|-
+|{{Ogg|Filename = Barley start 04.ogg|Filedescription = "New customers."}}
+|
+|{{Ogg|Filename = Barley hurt 04.ogg|Filedescription = "Ah! Another customer!"}}
+|{{Ogg|Filename = Barley kill 04.ogg|Filedescription = "You've been served."}}
+|
+|
+|}
+
+==History==
+*03/07/17:
+**{{Balance|Content=Fixed a bug where Barley's main attack did not destroy vases/bones.|Change=Neutral}}
+*16/08/17:
+**{{Balance|Content=Barley's main attack and Super damage were increased to 140 (from 120) per hit.|Change=Buff}}
+**{{Balance|Content=His main attack projectile speed was increased by 16%.|Change=Buff}}
+**{{Balance|Content=His Super projectile speed was increased by 8%.|Change=Buff}}
+*04/09/17:
+**{{Balance|Content=Barley's rarity was changed to Rare (from Super Rare).|Change=Neutral}}
+*05/10/17:
+**{{Balance|Content=Barley's Super damage was decreased to 120 (from 140) per hit.|Change=Nerf}}
+*07/12/17:
+**{{Balance|Content=Barley's Super recharge rate was decreased by 33%.|Change=Nerf}}
+**{{Balance|Content=Barley's Medical Use Star Power was added.|Change=Neutral}}
+**{{Balance|Content=He was given voice lines.|Change=Neutral}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+*16/01/18:
+**{{Balance|Content=His Medical Use Star Power healing was increased to 200 (from 100).|Change=Buff}}
+**{{Balance|Content=Barley's main attack projectile speed was decreased by 15%.|Change=Nerf}}
+*21/03/18:
+**{{Balance|Content=Barley's main attack projectile speed was increased by 14%.|Change=Buff}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Barley's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Barley's main attack projectile speed was increased by 6%.|Change=Buff}}
+*09/04/18:
+**{{Balance|Content=Barley's main attack projectile speed was increased by 20%.|Change=Buff}}
+*21/05/18:
+**{{Balance|Content=Barley's main attack damage was increased to 600 (from 560) per hit.|Change=Buff}}
+*05/12/18:
+**{{Balance|Content=Barley and his Golden skin were remodeled, and the Wizard Barley skin was added.|Change=Neutral}}
+*29/01/19:
+**{{Balance|Content=His main attack damage was increased to 640 (from 600) per hit.|Change=Buff}}
+**{{Balance|Content=His Super damage was increased to 640 (from 480) per hit.|Change=Buff}}
+**{{Balance|Content=Barley's Medical Use Star Power healing was increased to 300 (from 200).|Change=Buff}}
+**{{Balance|Content=The damage from the Super's different bottles no longer stack.|Change=Nerf}}
+**{{Balance|Content=The spread of Barley's Super was increased when thrown near him.|Change=Neutral}}
+*27/02/19:
+**{{Balance|Content=Barley's main attack and Super damage was increased to 680 (from 640) per hit.|Change=Buff}}
+*15/04/19:
+**{{Balance|Content=Golden Barley's projectile was retextured.|Change=Neutral}}
+*01/06/19:
+**{{Balance|Content=The Bakesale Barley skin was added.|Change=Neutral}}
+*14/06/19:
+**{{Balance|Content=The Maple Barley skin was added.|Change=Neutral}}
+*17/07/19:
+**{{Balance|Content=Barley's Extra Noxious Star Power was added.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Barley's Medical Use Star Power healing was increased to 400 (from 300).|Change=Buff}}
+**{{Balance|Content=The Red Wizard Barley skin was added.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Barley's Sticky Syrup Mixer Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Barley's Sticky Syrup Mixer Gadget slow area radius was increased to 3.33 tiles (from 2.67 tiles).|Change=Buff}}
+**{{Balance|Content=Barley's Sticky Syrup Mixer Gadget slow area duration was increased to 4 seconds (from 3).|Change=Buff}}
+**{{Balance|Content=His Sticky Syrup Mixer Gadget no longer deals damage.|Change=Nerf}}
+**{{Balance|Content=His Super bottle pattern is now fixed instead of random.|Change=Neutral}}
+*26/08/20:
+**{{Balance|Content=Barley's Herbal Tonic Gadget was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Barley's Super recharge rate was increased slightly.|Change=Buff}}
+*22/10/20:
+**{{Balance|Content=Barley's True Silver and True Gold skins were added.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Barley’s Extra Noxious Star Power damage bonus was increased to 200 (from 140).|Change=Buff}}
+*07/04/21:
+**{{Balance|Content=Barley's main attack damage was increased to 700 (from 680) per hit.|Change=Buff}}
+**{{Balance|Content=Barley's main attack range was increased to 8 tiles (from 7.33).|Change=Buff}}
+**{{Balance|Content=Barley, Wizard Barley, Golden Barley, Maple Barley, Bakesale Barley, and Red Wizard Barley received facial animations.|Change=Neutral}}
+*19/05/21:
+**{{Balance|Content=Barley's main attack range was decreased to 7.33 tiles (from 8).|Change=Nerf}}
+*10/09/21:
+**{{Balance|Content=The Unicorn Knight Barley skin was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Barley's class was changed to Damage Dealer (from Thrower).|Change=Neutral}}
+*19/01/22:
+**{{Balance|Content=The Sway Master Barley Skin was added. It was featured as a Year of the Tiger skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Barley’s flavor text was changed from "Barley's attacks by lobbing bottles at enemies, doing splash damage. His Super is a huge barrage of burning bottles!" to "Barley readily serves up the finest beverages in Starr Park. Dirty his bar though and steam comes out and bottles start flying!"|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Barley's main attack damage was increased to 760 (from 700) per hit.|Change=Buff}}
+*12/12/22:
+**{{Balance|Content=Wizard Barley's main attack visual effects were slightly reworked.|Change=Neutral}} 
+**{{Balance|Content=Barley’s flavor text was changed from "Barley readily serves up the finest beverages in Starr Park. Dirty his bar though and steam comes out and bottles start flying!" to "Barley serves the finest beverages in Starr Park. But dirty his bar up and steam comes out and bottles start flying!"|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Barley's class was changed to Artillery (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Red Wizard Barley now costs 29 [[Gems]] (from 2500 [[Star Points]]).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Barley's Herbal Tonic Gadget healing was increased to 576 (from 500) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Barley's Medical Use Star Power healing was increased to 432 (from 400) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Barley's flavor text was changed from "Barley serves the finest beverages in Starr Park. But dirty his bar up and steam comes out and bottles start flying!" to "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess."|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Barley's Super damage was increased to 760 (from 680) per hit.|Change=Buff}}
+**{{Balance|Content=Barley's Super recharge rate was increased by 12%.|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=Barley's main attack damage was increased to 800 (from 760) per hit.|Change=Buff}}
+**{{Balance|Content=Barley's Super damage was increased to 800 (from 760) per hit.|Change=Buff}}
+**{{Balance|Content=Barley's Super recharge rate was increased by 5%.|Change=Buff}}
+*25/06/24:
+**{{Balance|Content=Barley's Bottled-Up Rage Hypercharge was added.|Change=Neutral}}
+*23/08/24:
+**{{Balance|Content=The Buccaneer Barley skin was added. It was featured as a Tales of the Sea skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Barley was slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Barley's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Barley's Wasabi Power was removed from the game.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Barley's level up health was decreased to 450 (from 550) in [[Brawl Arena]].|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Barley's level up damage was decreased to 2% (from 3%) in Brawl Arena.|Change=Nerf}}
+*29/09/25:
+**{{Balance|Content=The Eldritch Professor Barley skin was added. It was featured as a Brawl Academy skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Barley's Bottled-Up Rage Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Barley's Bottled-Up Rage Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Barley's health was increased to 2700 (from 2400).}}
+**{{Balance|Buff|Barley's Herbal Tonic Gadget healing was increased to 648 (from 576).}}
+**{{Balance|Buff|Barley's Medical Use Star Power healing was increased to 486 (from 432).}}
+**{{Balance|Content=Wizard Barley and Red Wizard Barley were slightly remodeled.|Change=Neutral}}
+*25/02/26:
+**{{Balance|Content=Golden Barley and Maple Barley were slightly remodeled.|Change=Neutral}}
+*22/04/26:
+**{{Balance|Content=Barley's Sticky Syrup Mixer Gadget slow was increased to 400 points (from 350).|Change=Buff}}
+**{{Balance|Content=Barley's Sticky Syrup Mixer Gadget slow visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Unicorn Knight Barley was slightly remodeled.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Change=Buff|Content=Barley’s Super projectile speed was increased to 1700 (from 1504).}}
+**{{Balance|Change=Buff|Content=Barley’s Hypercharged Super projectile speed was increased to 2300 (from 2104).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Barley's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed audio and animation issues with Barley's Hypercharged Super.}}
+*05/11/26:
+**{{Balance|Neutral|The Black Market Barley skin was added. It was featured as a Brawl Vice skin.}}
+
+==Cosmetics==
+===Skins (12)===
+{{Skin Gallery
+|Name1 = Wizard|Cost1 = Free for linking Supercell ID|Campaign1 = Clash Stories
+|Name2 = Golden|Cost2 = Free from Classic Brawl Mega Boxes, free after reaching 750 Trophies or 29 Gems|Campaign2=Outlaws|Rarity2=Rare
+|Name3 = Red Wizard|Cost3 = 29 Gems, available after unlocking Wizard Barley|Campaign3=Clash Stories|Rarity3=Super Rare
+|Name4 = Maple|Cost4 = 79 Gems|Campaign4=Starry Meal|Rarity4=Super Rare
+|Name5 = Unicorn Knight|Cost5 = Free from Damian Boxes, Cosmo Boxes or 79 Gems|Campaign5=Knights!|Rarity5=Super Rare
+|Name6 = Bakesale|Cost6=149 Gems • '''S'''|Campaign6=Retropolis Nights|Rarity6=Epic
+|Name7 = Sway Master|Cost7 = 149 Gems • '''S'''|Campaign7 = Lunar Brawl|Rarity7=Epic
+|Name8 = Buccaneer|Cost8 = 149 Gems • '''S'''|Campaign8 = Tales of the Sea|Rarity8=Epic
+|Name9 = Eldritch Professor|Cost9 = 149 Gems|Campaign9 = Brawl Academy|Rarity9=Epic
+|Name10=Black Market|Cost10=199 Gems|Campaign10=Brawl Vice|Rarity10=Mythic
+|TrueSkins = yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Barley
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Bakesale}}
+{{Pin Table|Sway Master}}
+{{Pin Table|Maple}}
+{{Pin Table|Unicorn Knight}}
+{{Pin Table|Buccaneer|Special}}
+{{Pin Table|Wizard|Special}}
+{{Pin Table|Eldritch Professor}}
+{{Pin Table|Black Market|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Barley|Rarity = Common}}
+|{{Spray|Type = Barley Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Barley1}}
+|{{Pfp|Barley2}}
+|{{Pfp|Barley3}}
+|{{Pfp|Barley4}}
+|{{Pfp|Bakesale Barley}}
+|-
+|{{Pfp|Buccaneer Barley}}
+|{{Pfp|Eldritch Professor Barley}}
+|{{Pfp|Sway Master Barley}}
+|}
+
+{{Navigation}}
+[[ru:Барли]]
+[[pl:Barley]]

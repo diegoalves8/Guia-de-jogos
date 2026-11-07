@@ -1,0 +1,173 @@
+{{About|the Race||Shark (Disambiguation)}}
+{{Race Infobox
+|name   = Shark
+|image  = Shark.png
+|source = 
+* [[Shop]]
+* [[tort]]
+* [[Event Shop]] or [[Death King]]
+|titles = 
+* Sea Monster (V2)
+* Warrior of the Sea (V3)
+* {{Title|Leviathan}} (V4)
+}}
+{{Quote|Born for the sea, Sharks move through water without restraint.}}
+Shark (formerly known as Fish) is one of the four [[races]] available to new players when joining the game for the first time. It has a 12.5% chance of being assigned at initial spawn.
+
+The Shark race provides significant damage reduction and allows the user to swim in water without taking damage, making it highly defensive. It is recommended for players participating in [[Sea Events|sea events]] for the first time without the [[Leviathan Shield]] accessory or for first-time bounty hunting. Shark is strong against one-shot combos, but its mobility and damage output are lower than other races, making it less suitable for advanced play.
+
+__TOC__{{Clr}}
+
+==Obtainment==
+{{Race Stages Table/Default
+|V3 = Defeat a naturally spawned [[Sea Beast]].
+
+|V4 = Trial of Water
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage will give additional buffs and make visual changes to the player's avatar.
+{| class="fandom-table" width="100%"
+!Stage
+!Buffs
+!Visual changes
+!Image
+|-
+|<center>'''V1'''</center>
+|Decreases the damage the player takes while in [[water]] as a [[Blox Fruits|Blox Fruit]] user, as well as increasing their speed while in water.
+|Gives the player a blue shark fin on their back.
+|[[File:Fishmantransparent.png|thumb|center]]
+|-
+|<center>'''V2'''</center>
+|Increases the player's speed in and out of [[water]], as well as completely removing damage taken from [[water]] as a [[Blox Fruits|Blox Fruit]] user.
+|No visual changes.
+|
+|-
+|<center>'''V3'''</center>
+|Unlocks an ability named [[Water Body]]. While activated:
+* Decreases damage taken from players and NPCs by 65%. Lasts for 5 seconds with a 34.5 second cooldown that begins immediately upon activation.
+|Gives the player two extra fins on both their arms. Can have clipping issues.(Works best with a cubic avatar.)
+|[[File:V3Shark Visual.png|thumb|center]]
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "Gears" are put in. For more information, please refer to [[Race Awakening]].
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, receive max stats as well as increased damage, speed, and health regeneration by 10%.
+|-
+|'''Leviathan's Armor:'''
+* Gain overflow that regenerates by dealing damage (regenerates less when dealing damage on NPCs).
+** The overflow blocks 85% of the damage dealt to the user.
+** The overflow's health can go up to 30% of the user's max [[health]] (Although the leviathan armor ratio is equivalent to 21% HP, the actual amount of armor is around x1.43 times the displayed ratio).
+[[File:Leviathan's Armor (Tier 1).PNG|thumb|center|<center>The Health bar.</center>]]
+|'''Upgraded version:'''
+* The overflow capacity is increased. The overflow regeneration is increased greatly as well
+** The overflow's health can go up to 60% of the user's max [[health]] (same thing when the overflow amount seems to be 35%, but the actual amount is up to 60%).
+** The Overflow regenerates more upon dealing damage (up to 2/3 damage dealt will be converted to overflow).
+[[File:Leviathan's Armor(2) .jpg|thumb|center|<center>The Health bar. (Upgraded)</center>]]
+|-
+|'''Whirlpool:'''
+* Hits apply a water debuff on enemies, slowing their speed, reduce enemies' defense by 5%, and Enemies hit by the whirlpool have their damage decreased by 20%. Speed debuff effect stacks Up to around 40% reduction of their speed. 
+<gallery>
+Shark v4 whirpool showcase.gif
+</gallery>
+|'''Upgraded version:'''
+* The whirlpool debuff now lasts longer (3s -> 5s) and can stack up to 60% reduction.
+|-
+| colspan="2" | '''Visual changes:'''
+* The player grows an extra tail-like fin. All fins, as well as the player's hair, turn white while transformed. 
+* The player gains a blue aura/layer if they use Leviathan's Armor.
+<gallery>
+SharkV4 Loop.gif|The tail's idle animation.
+Bloxfruitsharkv4tailanimationback.gif|The tail's idle animation seen from the back.
+SharkV4 Transform.gif|The transformation animation.
+SharkV4 Idle.gif|The idle animation.
+Leviathan's Armor (Aura).gif|The idle animation with Leviathan's Armor active.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* [[Water]] immunity (or damage reduction for V1).
+* Can give a high damage reduction (especially with Awakened [[Buddha]] + [[Water Body]]).
+* Great for PvP beginners.
+
+|'''[[Water Body]] (V3)'''
+* Good for enduring attacks or combos, virtually rendering a combo useless.
+
+|'''Leviathan's Armor (V4)'''
+* Useful against teamers, spammers or trappers for surviving combos.
+* Considered the only defense against Gravity's C and V held.
+
+|'''Whirlpool (V4)'''
+* Very useful against runners.
+* Makes enemies easier to aim.
+* Decreases enemies' defense, making them more vulnerable.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Ice]]'s '''Frost Walker''' passive, Awakened [[Magma]]'s '''Magmatic Feet''' passive, Awakened [[Buddha]]'s [Z] ('''Shift'''), Awakened [[Dough]]'s [F] ('''Scorching Donut'''), [[Kitsune]]'s Transformation, [[Gas]]'s Transformation and [[Yeti]]'s Transformation can walk/roll on [[water]], rendering Shark's passive abilities not that useful. However, it still protects from being dragged underwater with these fruits.
+* Crossing oceans can be faster with air dashing + use of mobility skill than swimming.
+* Non-[[Blox Fruit]] and [[Leviathan Shield]] users might not benefit from the water immunity.
+* No movement buff, which makes the player sluggish.
+* Considered to be outclassed by several other races in the community. (After being nerfed)
+**This is likely false due to the recent changes.
+
+|'''[[Water Body]] (V3)'''
+* Some longer [[combos]] can easily counter.
+
+|'''Leviathan's Armor (V4)'''
+* Can be ignored by [[Lava]] but somehow takes around half damage and survives longer without reducing overflow.
+
+|'''Whirlpool (V4)'''
+* Less useful against enemies that are not running or air campers.
+}}
+</tabber>
+
+==Notes==
+* The V1 extra swim speed is faster than the [[Dinghy]], but slower than the [[Sloop]].
+* If the player has put 0 stats in defense, the passive of V1 will make it so you take 1 damage, and the player's health will be stuck at 99/100 hp. Note that this will only work with no defense and also no health-buffing accessories
+* The V2 swim speed is slightly faster than the [[Brigade]].
+* The Leviathan's Armor effect will sometimes surround the user with a blue aura or a blue layer, depending on the avatar the user is using.
+* The Leviathan's Armor aura/layer will get brighter when the overflow bar decreases and disappear when it is gone.
+* Leviathan's Armor can be considered as the only defense that [[Gravity]]'s upgraded [V], [C] and Piercing enchantment can't ignore, since it's more of a shield that grants the player extra HP than an actual defense buff measured in units such as percentages.
+* This is one of the two races that turns your hair white when in V4, with the other being [[Rabbit]].
+* When swimming in the sea with Shark V1, if your health is at 100 MAX (level 1 stats), you will not take any damage if you have a fruit equipped unless you use abilities, in which case you lose a very small amount of health, which will slowly (slower than usual) get back to 99.
+
+==Change History==
+{{Change History|1|content={{Update|29.2}}
+* Shark was rebalanced
+** Water Body
+*** {{Arrow|buff}} Duration increased from 4.5 seconds to 5 seconds.
+*** {{Arrow|nerf}} Cooldown has been increased by 15% (34.5 Seconds)
+** Version 4:
+*** {{Arrow|buff}} The overflow's health can go up to 60% of the user's max health (was 50%)
+*** {{Arrow|buff}} Enemies hit by the whirlpool have their damage decreased by 20%.
+----
+{{Update|21}}
+* Shark was nerfed.
+** {{Arrow|nerf}} Reduced speed debuffs and max overflow on [[Race Awakening|awakened passives]].
+** {{Arrow|nerf}} The overflow passive now only protects against 85% of the damage received, instead of 100%.
+** V3:
+*** {{Arrow|nerf}} Defense: 80% -> 70%
+*** {{Arrow|nerf}} Duration: 6.5s -> 4.5s
+----
+{{Update|17.3.5}}
+* Fish was renamed to Shark.
+----
+{{Update|1}}
+* Fish was released as a race.}}
+
+==Navigation==
+{{RaceNavigation}}
+
+[[ru:Акула]]

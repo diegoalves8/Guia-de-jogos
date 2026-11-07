@@ -1,0 +1,64 @@
+{{Character
+|title1 = [[File:OldSheriffIcon.png|center|frameless|150px]]
+|image1 = SheriffRenderFiredworks.png
+|activity = Kill the [[Murderer]], save the day
+|win_theme = [[File:Sherrif Win.mp3|center|frameless]]
+}}
+'''Sheriff''' is one of the three roles in [[Murder Mystery 2]] that is randomly assigned to a player each round. Their role is to find and shoot the [[Murderer]] with their gun, and work with [[Innocent]]s to find out who the murderer is. If the sheriff is killed by the murderer, their gun may be retrieved by any innocent who could then becomes the [[Hero]] if they successfully shoot the murderer.
+
+== Tips ==
+* Larger maps like [[Mil-Base]], [[Bio Lab]], and [[Factory]] tend to be easier maps for the sheriff.
+* It is recommended to keep the player's identity as sheriff a secret, as the murderer will most likely target the sheriff if the sheriff poses a threat to them.
+* If a player is the sheriff, they should try to go into open areas with a ton of people (try not to stand too close to the crowd of people) and monitor them. It is most likely that the murderer will be in that crowd, and if the player spots the murderer kill someone, they can easily shoot them.
+*Sheriffs should be extremely careful of where they shoot as it is possible to accidentally shoot an innocent. This results in both the sheriff and innocent to die.
+*The sheriff's gun must reload after every shot. It is quite inaccurate, so it's recommended to be mainly used in mid-range/close quarters combat.
+*Like the Innocents, do not trust anyone. If you see someone walking to you and you don’t know if they're the murderer, it is safest to walk the other direction, as the gun is valuable.
+
+== Controls ==
+
+=== PC ===
+
+* Press 1 to equip the gun.
+* Move mouse to aim your crosshair on someone.
+* Left-click to shoot.
+
+=== Mobile (phone) ===
+
+* Press equip button or tap the gun in your inventory to equip it.
+* Tap a person to shoot them.
+
+=== Mobile (tablet) ===
+
+* Press equip button or tap gun in your inventory to equip it.
+* In third person, tap someone to shoot them.
+* In first person, swipe the crosshair on someone, let go of it, and then tap the person to shoot.
+
+=== Xbox (Doesn't work on PS4 Bluetooth Controller) ===
+
+* Press LB to equip the gun.
+* Crosshair does not move, so to aim, move RS to position the crosshair properly on a person.
+* Press RT to shoot. 
+
+== Trivia ==
+*It is the second hardest role to get because the role is assigned randomly. The chance of becoming a sheriff is determined by the amount of players in the round, not by an increase in percentage like the murderer.
+*If the sheriff shoots the murderer, the title "Victory!" will display above their head.
+* If the sheriff shoots an innocent, both of them will die.
+*If the sheriff leaves the game during a round, the weapon will spawn somewhere on the map.
+**The weapon used to disappear from the round completely, making the round much easier for the murderer.
+*There is a glitch where if both the murderer gets shot and the sheriff/hero gets murdered at the same time, it will reveal the results but both player icons will be marked with an X, but it'll mark the Sheriff as the winner.
+*The two guns in the "VICTORY!" frame are unevenly aligned.
+*Another glitch can occur when the sheriff gets killed near another person. This results in the other person's dead body picking up the gun and making it disappear.
+*There is also a glitch where when you get killed by the murderer and you spectate the round, the red crosshair (found only on mobile) which is used to choose a certain person to shoot will only be shown on the murderer. It does not show on the innocents.
+*Before season 1, if murderer leaves the game during a round, sheriff gets xp for "shooting the murderer". After season 1, sheriff gets nothing.
+*Pay attention, some innocents can use [[Key Toy|Scary Key]] to trick you, since you might think it's a knife.
+*Sheriff's win music is called [https://www.youtube.com/watch?v=KYNjmIuK_CM Anthem Mayhem (outdated)].
+
+== Gallery ==
+<gallery>
+The Sheriff.jpg|thumb|The description for the Sheriff in [[Murder Mystery|Murder Mystery 1]].
+OldSheriffIcon.png|The old icon used before Casual Mode was added.
+VictorySheriff.png|The "Victory" shown for sheriffs if they win a round.
+Sheriff victory text.png|The "Victory" text that appears above a sheriff's head if they win a round.
+</gallery>
+[[Category:Roles]]
+[[Category:Features]]

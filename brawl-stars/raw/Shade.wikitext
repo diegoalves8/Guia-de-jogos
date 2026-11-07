@@ -1,0 +1,288 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Ghosted|PrestigeTitle = Ghosting you|Rarity = Epic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>3000 (Super dash)<br>1112 (with Super)<br>1026 (with Spooky Speedster)|HealthLabel = Health|Health = 3400|AttackRange = 3.67 (Short)<br>5.33 (with Longarms)|Reload = 0.8 seconds (Very Fast)|AttackSuperCharge =17.6% |AttackLabel = Damage|Attack = 800|AttackLabel2 = Center Hug Damage|Attack2 = 1600|AttackSpread=135°|SuperRange=3.33 (Short)|SuperWidth=2|SuperDuration = 4 seconds<br>5 seconds (with Hardened Hoodie and Star Buffie)|Gadget1Name=Longarms|Gadget1Cooldown=20 seconds|Gadget2Name=Jump Scare|Gadget2Cooldown=24 seconds|Previous=Berry|Next=Meeple|VoiceActor=Martin Schjøler|Hypercharge|HyperchargeMultiplier=34%|AttackHyperchargeCharge=6.8%|SuperHyperchargeCharge=|Gadget2Range=2<br>3.67 (jump)|Gadget2Duration=1 second}}
+{{Quote|Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by [[Gus]], Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.}}{{Portrait}}
+Shade is an {{Rarity|Epic}} [[Brawler]] who has a short attack range, moderate health, a very fast movement and reload speed, a variable damage output, and immense utility with its attack and Super. It was the 86th Brawler added to the game. Its Traits allow Shade to passively charge its Super if an enemy Brawler is within a radius of it, and move over water. Shade attacks by hugging in a wide and close-ranged arc, that deals double damage in the center. For its Super, it dashes forward and momentarily passes through obstacles. Its first Gadget, Longarms, increases the range of its next attack. Its second Gadget, Jump Scare, jumps a short distance, and temporarily fears enemies upon landing. Its first Star Power, Spooky Speedster, temporarily increases Shade's movement when it hits an enemy in the center of its attacks. Its second Star Power, Hardened Hoodie, reduces incoming damage for the duration of its Super. Its Hypercharge, The Frightener, heals Shade for every second spent inside a wall for the duration of its Super.
+
+==Traits==
+===Radius===
+{{Quote|This Brawler charges Super from staying close to opposing enemies.}}{{Trait|Radius}}
+Shade's first Trait is a 6-tile circle around it. Similar to [[Buzz]], [[Cordelius]], and [[Lily]], all enemy Brawlers within this circle charge Shade's Super. It charges its Super and Hypercharge faster if there are multiple enemies inside the radius, and the amount of Super charge per second is ~2.52% multiplied by one more than the number of enemies present within the circle. This results in the Super charging by ~5.05% per second each or over 20 seconds for one enemy, and its Hypercharge by ~1.67% per second each or over 60 seconds for one enemy. Its Super and Hypercharge still charge even with invisible or bush-camping enemies. Ally Shades will have their Trait radius shown, while enemy Shades will have their Trait radius hidden.
+
+===Water===
+{{Quote|This Brawler can move over water.}}{{Trait|Water}}
+Shade's other Trait allows it to be able to move on water.
+
+==Attack: Haunted Hug==
+{{Quote|Shade hugs its opponents with a wide embrace, accidentally dealing damage, and doing more damage to those caught in the center of the hug. It can also hug enemies through walls!}}
+Shade swings its arms, hugging enemies in a wide, 135-degree arc, including enemies behind walls. The attack, much like [[Frank]]'s, [[Bibi]]'s, and [[Ash]]'s, takes time to wind up, at 0.5 seconds. However, Shade isn't immobile while attacking and there isn't any travel time, so the attack instantly takes effect after the delay. In addition, if enemies are in the center of Shade's attacks, it doubles the damage. If Shade is hit with a stun, pull, or knockback during the delay, its attack is cancelled, but if it happens during the first 0.35 seconds of the delay, its ammo is retained. Shade's attack has a moderate cooldown, taking 0.6 seconds to complete. 
+
+==Super: Incorporeal Form==
+{{Quote|Shade leaves the physical world and can move directly through the environment. It also gains a movement speed boost.}}
+Shade's Super is a short dash that travels through obstacles. In addition, Shade gains 30% movement speed and the ability to pass through obstacles for 4 seconds, along with an altered appearance. The 4-second timer starts at the beginning of the dash. After 4 seconds, Shade transforms back to normal. If Shade is in an obstacle when its Super ends, it will automatically be pushed to the closest piece of ground (despite being able to go over water). If while its Super is active Shade uses another, the duration of the Super will refresh.
+
+==Gadgets==
+===Longarms===
+{{Quote|The next main attack has 50% longer range. Cooldown: 20 seconds.}}{{Gadget|1}}
+Upon activation, Shade's next attack range is increased by 1.67 tiles. A Gadget symbol will glow above Shade's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|Damaged enemies are pulled to the center of the hug.}}{{Buffie|Gadget}}
+With the Buffie, enemies hit by the attack are pulled slightly closer to the center of Shade's hugs.
+
+===Jump Scare===
+{{Quote|Shade jumps a short distance, fearing enemies for 1 sec when landing. Cooldown: 24 seconds.}}{{Gadget|2}}
+Shade jumps up to 3.67 tiles in the aimed direction, allowing it to jump over walls. Any enemy in the landing area will be feared. Feared enemies will run away and their movement speed will be slowed down by 40% for 1 second, and they can't use their attacks, Super or Hypercharge. If required to cross over a larger amount of blocks, its jumping distance will be increased up to a limit or to the nearest piece of ground. However, if Shade was using the Super, its jumping distance will not increase due to walls and it will be able to land inside the walls. While in the air, Shade is completely immune to all damage besides status effects and damage applied over time. Auto-aiming this Gadget will aim it in your direction of movement.
+
+{{Quote|Shade gains a 800 shield when jumping.}}{{Buffie|Gadget}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+With the Buffie, after jumping, Shade receives a shield that starts at 11.7647% of its health. The shield decays by 5% of its health every 0.5 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Shade is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on Shade's max health when this shield is active. Enemies damaging Shade while the shield is active can still charge their Supers.
+
+==Star Powers==
+===Spooky Speedster===
+{{Quote|Hitting opponents with the center of Shade's main attack gives a short movement speed boost.}}{{StarPower|1}}
+When Shade hits an enemy in the center of its hugs, it gains a 20% movement speed buff for 2 seconds. The speed buff stacks if Shade hits more enemies in the center.
+
+{{Quote|Hitting opponents also reduces Gadget cooldown by 15%.}}{{Buffie|Star}}
+With the Buffie, the Gadget cooldown is decreased by 15%, after hitting enemies.
+
+===Hardened Hoodie===
+{{Quote|Shade gets 20% damage reduction while in its Incorporeal Form.}}{{StarPower|2}}
+Shade gains a shield that reduces all damage it takes by 20% for the duration of its Super.
+
+{{Quote|Shade's stays in its incorporeal form lasts for an extra 1 sec.}}{{Buffie|Star}}
+With the Buffie, Shade's Super duration is increased from 4 seconds to 5 seconds.
+
+==Hypercharge: The Frightener==
+{{Quote|Shade heals 1000 for every sec spent inside a wall.}}{{Hypercharge}}
+When activated, Shade's Super heals for 1000 health for every second that Shade spent inside an obstacle. Shade also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|The center of Shade's hugs have increased damage and size.}}{{Buffie|Hyper}}
+With the Buffie, the center damage of Shade's main attack is increased by 15% (plus the 5% from the Hypercharge), and its size is increased by 50%. However, if the Hypercharged Super is active after the Hypercharge is over, the main attack damage returns to normal. Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Hugging an opponent in the center activates Shade's Super for a short time and charges his [sic] Super faster!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>When Shade hit an enemy in the center of its hugs, it triggered its Super for 1 second and the Super charged faster.
+
+==Tips==
+===Game Modes and Maps===
+*Shade is viable in most of [[Brawl Arena]] as its Radius trait is fully functional on bots. This allows for consistent Super cycling.
+**Especially, [[The Smackdome]] favors Shade heavily due to the wide distribution of unbreakable walls. On the other hand, [[Kaiju Lake]], with its relatively open terrain, tends to be one of Shade's weaker maps.
+*It also has a niche on [[Parallel Plays]] in [[Hot Zone]] as a result of its ability to reach beyond walls. Its Super also makes Shade hard to attack if used into a wall. However, it might struggle initially against other ranged options on this map because of its lack of range, such as [[Sirius]], if Shade is unable to charge a Super.
+*In a light of its ability to attack through obstacles and its short range, Shade is terrifically durable in closed maps with a lot of walls as it can stay behind walls from time to time to elude from most enemies' attacks while consistently attacking them without being touched.
+
+===Recommended Build===
+*Longarms is the better Gadget in most cases, as it helps fix Shade's biggest weakness - lack of range - and allows you to charge your Super faster from a safe distance. Jump Scare is mainly used for its ability to fear enemies, which usually results in an easy kill. However, because Shade's attack and Super already bypass walls, there is less of a need to use this Gadget.
+*Hardened Hoodie is usually the preferred Star Power to use, as it provides additional protection to Shade when it needs it most. The speed boost from Spooky Speedster is nice, however, and can be used if you are confident in hitting the center attack.
+*Shield and Damage Gears are the best gears for Shade overall, although Speed Gear could be used on more bushy maps to exaggerate Shade's already fast speed.
+
+===Other===
+*The best way to use Shade's Super is to pressure enemies by dashing into and hiding in a wall nearby them. Most enemies are unable to hit Shade for as long as it stands in the wall, allowing you to freely damage and push them back. However, be wary of enemies that can outrange you and still hit you, namely throwers (except [[Sprout]] and [[Grom]]), [[Mr. P]], [[Hank]], [[Doug]], [[Trunk]], [[Brock]], [[Mico]], and [[Jacky]].
+*When attacking through walls, make sure to monitor Shade's remaining Super duration, as if it ends in a bad position, Shade may be pushed into the enemies you were just attacking, essentially guaranteeing death. As your Super ends, make sure you either use it again (if you were able to charge it) or retreat to safety.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = shade start vo 01.ogg|Filedescription = "Weeoo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt start vo 01.ogg|Filedescription = "Weeoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade lead vo 01.ogg|Filedescription = "Wohoheeo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt lead vo 01.ogg|Filedescription = "Wohoheeo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade hurt vo 01.ogg|Filedescription = "Wah!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt hurt vo 01.ogg|Filedescription = "Wah!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade kill vo 01.ogg|Filedescription = "Weeoo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt kill vo 01.ogg|Filedescription = "Weeoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade die vo 01.ogg|Filedescription = "Ooo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt die vo 01.ogg|Filedescription = "Ooo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade atk vo 01.ogg|Filedescription = "Hah!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt atk vo 01.ogg|Filedescription = "Hah!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade ulti vo 01.ogg|Filedescription = "Boo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt ulti vo 01.ogg|Filedescription = "Boo!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = shade start vo 02.ogg|Filedescription = "Hooo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt start vo 02.ogg|Filedescription = "Hooo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade lead vo 02.ogg|Filedescription = "Ha ha ha!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt lead vo 02.ogg|Filedescription = "Ha ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade hurt vo 02.ogg|Filedescription = "Hehehoo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt hurt vo 02.ogg|Filedescription = "Hehehoo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade kill vo 02.ogg|Filedescription = Shade laughs}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt kill vo 02.ogg|Filedescription = Shade laughs}}
+|'''Normal:'''
+{{Ogg|Filename = shade die vo 02.ogg|Filedescription = "Ah!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt die vo 02.ogg|Filedescription = "Ah!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade atk vo 02.ogg|Filedescription = "Poh!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt atk vo 02.ogg|Filedescription = "Poh!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade ulti vo 02.ogg|Filedescription = "Heh-hey!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt ulti vo 02.ogg|Filedescription = "Heh-hey!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = shade start vo 03.ogg|Filedescription = "Weee!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt start vo 03.ogg|Filedescription = "Weee!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade lead vo 03.ogg|Filedescription = Shade laughs}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt lead vo 03.ogg|Filedescription = Shade laughs}}
+|'''Normal:'''
+{{Ogg|Filename = shade hurt vo 03.ogg|Filedescription = "Aha!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt hurt vo 03.ogg|Filedescription = "Aha!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade kill vo 03.ogg|Filedescription = "Pahee!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade die vo 03.ogg|Filedescription = "Ooo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt die vo 03.ogg|Filedescription = "Ooo!"}}
+|'''Normal:'''
+{{Ogg|Filename = shade atk vo 03.ogg|Filedescription = "Hyaa!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt atk vo 03.ogg|Filedescription = "Hyaa!"}}
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = shade start vo 04.ogg|Filedescription = "Ha!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt start vo 04.ogg|Filedescription = "Ha!"}}
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = shade die vo 04.ogg|Filedescription = "Ooo!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt die vo 04.ogg|Filedescription = "Ooo!"}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = shade start vo 05.ogg|Filedescription = "Haye!"}}'''Brawlentine's Bear:'''
+{{Ogg|Filename = shade bt start vo 05.ogg|Filedescription = "Haye!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*28/11/24:
+**{{Balance|Content=Shade could be unlocked early as a bundle for $14.99.|Change=Neutral}}
+**{{Balance|Content=Shade became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Cinema Shade skin was added.|Change=Neutral}}
+*05/12/24:
+**{{Balance|Content=Shade became available in the Starr Road.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=The Cinema Shade skin became available regularly.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=Shade's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Shade's facial animations were reworked for the winning animation.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Shade's Jump Scare Gadget cooldown was decreased to 9 seconds (from 11).|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Shade's Wasabi Power was added for a limited time.|Change=Neutral}}
+*19/05/25:
+**{{Balance|Content=The Street Shade skin was added. It was featured as a Brawl Stars Championship 2025 skin.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Shade's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Shade's Super speed boost no longer stacks with itself.|Change=Nerf}}
+*03/07/25:
+**{{Balance|Content=Shade's The Frightener Hypercharge was added.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Shade's The Frightener Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Shade's level up damage was decreased to 3% (from 5%) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Shade's level up reload speed buff was decreased to 1.5% (from 2%) in Brawl Arena.|Change=Nerf}}
+*12/09/25:
+**{{Balance|Content=Fixed Shade's The Frightener Hypercharge multiplier.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Shade's The Frightener Hypercharge speed boost from 25%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Shade's The Frightener Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Shade's health was increased to 3700 (from 3500).}}
+*04/02/26:
+**{{Balance|Neutral|The Brawlentine's Bear Shade skin was added. It was featured as a My Brawlentine skin.}}
+*22/04/26:
+**{{Balance|Nerf|Shade's level up health was decreased to 350 (from 450) in Brawl Arena.}}
+*30/06/26:
+**{{Balance|Nerf|Shade's The Frightener Hypercharge multiplier was decreased to 34% (from 40%).}}
+**{{Balance|Nerf|Shade's level up reload speed was decreased to 1.25% (from 1.5%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Buff|Shade's Spooky Speedster Star Power movement speed boost was increased to 20% (from 15%).}}
+**{{Balance|Buff|Shade's Spooky Speedster Star Power movement speed boost duration was increased to 2 seconds (from 1).}}
+**{{Balance|Nerf|Shade's Longarms Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Nerf|Shade's Jump Scare Gadget cooldown was increased to 18 seconds (from 9).}}
+**{{Balance|Neutral|Shade's Jump Scare Gadget was reworked from slowing enemies within 3.33 tiles by 20% for 4 seconds to being able to aim a 3.67-tile jump, fearing enemies within 3.33 tiles for 1 second upon landing.}}
+**{{Balance|Neutral|Shade's The Frightener Hypercharge was reworked from doing the increased damage from his attack every time during its Super to healing Shade 1000 health per second while inside a wall during its Super.}}
+**{{Balance|Neutral|Shade's The Frightener Hypercharge icon was changed.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Shade's movement speed to 855 (from 820).}}
+**{{Balance|Neutral|Shade's Buffies were added.}}
+*16/09/26:
+**{{Balance|Nerf|Shade's Radius Trait Super charge rate was decreased by 15%.}}
+**{{Balance|Nerf|Shade's Longarms Gadget cooldown was increased to 20 seconds (from 18).}}
+**{{Balance|Nerf|Shade's Jump Scare Gadget fear radius was decreased to 2 tiles (from 3.33).}}
+**{{Balance|Nerf|Shade's The Frightener Hypercharge Buffied main attack bonus damage was decreased to 15% (from 37.5%).}}
+*01/10/26:
+**{{Balance|Neutral|The Cursed, Creepy and Jolly Ghost Shade skins were added. They were featured as Brawl Pass Season 55 skins and Brawl-o-ween skins.}}
+*03/11/26:
+**{{Balance|Nerf|Shade's health was decreased to 3400 (from 3700).}}
+**{{Balance|Nerf|Shade's Radius Trait Super charge rate was decreased by 12%.}}
+**{{Balance|Nerf|The number of hits necessary to charge Shade's Super was increased to 6 hits (from 5).}}
+**{{Balance|Nerf|Shade's Super duration was decreased to 4 seconds (from 6).}}
+**{{Balance|Nerf|Shade's Jump Scare Gadget cooldown was increased to 24 seconds (from 18).}}
+**{{Balance|Nerf|Shade's Buffied Jump Scare Gadget shield was decreased to 11.7647% (from 27.027%).}}
+**{{Balance|Nerf|Shade's Hardened Hoodie Star Power damage reduction was decreased to 20% (from 30%).}}
+**{{Balance|Neutral|Fixed Shade's Buffied Hypercharge using the same value for its main attack's bonus damage and size.}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Cinema|Cost1=Free from the early bundle, free from Boom Boxes, free from Mina Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Street|Cost2=79 Gems • '''S'''|Campaign2=BSC 2025|Rarity2=Super Rare
+|Name3=Brawlentine's Bear|Cost3=Free from Love Boxes or 299 Gems|Campaign3=My Brawlentine|Rarity3=Legendary
+|TrueSkins=Yes
+|NameP1=Cursed|CostP1=1 Skin Key|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic
+|NameP2=Creepy|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Brawl-o-ween|RarityP2=Epic
+|NameP3=Jolly Ghost|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Brawl-o-ween|RarityP3=Epic
+}}
+
+===Buffie Skins===
+<gallery>
+File:Shade Buffie Skin-Gadget.png|Gadget
+File:Shade Buffie Skin-Star.png|Star
+File:Shade Buffie Skin-Hyper.png|Hyper
+File:Shade Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Shade
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Street|Special}}
+{{Pin Table|Brawlentine's Bear}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Shade|Rarity = Common}}
+|{{Spray|Type = Shade Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Brawlentine's Bear Shade|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Shade1}}
+|{{Pfp|Shade2}}
+|{{Pfp|Shade3}}
+|{{Pfp|Brawlentine's Bear Shade}}
+|}
+
+{{Navigation}}
+[[es:Shade]]
+[[ru:Шейд]]

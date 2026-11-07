@@ -1,0 +1,206 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Sleeps with the fishes|PrestigeTitle = Needs a friend|Rarity = Mythic|Class = Support|MovementSpeed = 800 (Fast)<br>2300 (with Slippery Savior)|HealthLabel = Health|Health = 3900|AttackRange =7.33 (Normal)|AttackSpeed =5000 |AttackWidth = 1|Reload =1.7 seconds (Normal)|SuperRange =5.67 (Normal)<br>4.67 (with Hypercharge)|AttackSuperCharge =3.5% (initial damage)<br>1.375% (damage)<br>0.675–1.35% (heal; Power Level 1–11)<br>0.5–0.675% (with Parasitism; Power Level 9–11)<br>25–31.25% (with Slippery Savior; Power Level 7–11) |AttackLabel = Initial damage|Attack = 280|AttackLabel2 = Damage per second|Attack2 = 550|AttackLabel3 = Heal per second|Attack3 = 450|SuperLabel = Damage|Super = 750|SuperDuration = 2 seconds|SuperSpeed=5000|SuperSuperCharge =18.75%|VoiceActor=Mpilo May|Gadget1Name=Slippery Savior|Gadget1Cooldown=17 seconds|Gadget2Name=More Lumens!|Gadget2Cooldown=13 seconds|Previous=Gigi|Next=Najia|SuperSpread=99°<br>360° (with Hypercharge)|Gadget1Range=4.33|Gadget1=2000|Gadget1Label=Heal|Gadget2Duration=2.5 seconds|HyperchargeMultiplier=35%|AttackHyperchargeCharge=1.225% (initial damage)<br>0.48125% (damage)<br>0.4725% (heal)<br>0.225% (with Parasitism)<br>10.9375% (with Slippery Savior)|SuperHyperchargeCharge=6.55%}}{{Quote|A marine biologist working at the Starr Park aquarium, Glowy is obsessed with sea life, wanting to introduce it to as many visitors as he can.<br>Although he might seem a bit creepy, he's actually a nice guy! Maybe.}}{{Portrait}}
+Glowy (formerly Glowbert) is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health and low reload speed, but has immense utility with his Super, a long range, a fast movement speed, and can provide consistently low burst damage to enemies and healing to allies. He was the 99th Brawler added to the game. His trait allows him to charge his Super by healing himself and his allies. His attack is a long-ranged glow beam that damages enemies and heals allies over time. For his Super, Glowy reveals his face in a wide cone that deals low damage while also temporarily scaring them. Feared enemies will run away, have their movement speed slowed down, and can't use their attacks, Super or Hypercharge. His first Gadget, Slippery Savior, he quickly dashes and heals himself and nearby allies. His second Gadget, More Lumens!, temporarily doubles the attack's damage/healing. His first Star Power, Biotic Ecosystem, reduces the enemy's damage and increases the ally's damage when Glowy's attack is tethered to both of them simultaneously. His second Star Power, Parasitism, makes his shot heal him when he tethers to an enemy. His Hypercharge, You Need a Friend, makes his Super fire in all directions, which marks enemies that temporarily increases any damage dealt to those enemies.
+
+==Trait==
+{{Quote|This Brawler charges Super from healing done.}}{{Trait|Heal SC}}
+Glowy can charge his Super by healing himself and his allies, similar to [[Berry]] and [[Doug]]. The Super charge per heal on an ally is proportional to the healing done; healing an ally gives the same amount of Super charge as damaging an enemy for the same amount. Unlike charging Super through damage, the amount of Super charged through healing depends on the actual amount of healing done, not the nominal healing value. The Super charge rate of this Trait scales with Power Levels, and also with any damage buff or debuff.
+
+==Attack: Glowbeam==
+{{Quote|Glowy fires a glow beam. If it hits, it creates a tether which damages enemies and heals teammates. Glowy can be tethered to an enemy and one teammate at the same time. If the tethered target is too far away or out of Glowy's line of sight, the tether breaks.}}Glowy fires a long-ranged glowbeam, creating a tether that deals a tick of damage over time to enemies every 0.2 seconds. However, if the glowbeam hits an ally, it instead heals them for health that is slightly less than the damage dealt to an enemy. The damage/healing effects don't stack, meaning you can't attack/heal the same target multiple times to increase its effect. However, attaching to a different target will switch the target that is being damaged/healed. Additionally, hitting the initial target multiple times can deal extra burst damage compared to simply using one ammo; the subsequent attacks still deal the initial damage for every hit. Glowbeams can be established on exactly one enemy and exactly one ally at the same time. 
+
+The tether will flicker if the targets are out of range or if Glowy is behind an obstacle for 1.5 seconds, causing it to despawn, although he can reconnect to them during that time. However, while the tether is being flickered, no healing or damage will be done. If the tethered enemy is flying (e.g. [[Mico]] or [[Alli]]'s jumping attack), the damage will be momentarily stopped and resume once they are back on ground; the tether will still be retained.
+
+==Super: Creep from the Deep==
+{{Quote|Glowy reveals his face, causing any enemies facing him to become feared, and run away! He will also fire damaging and slowing projectiles.}}After a 0.325-second delay, Glowy reveals his face, dealing low damage and piercing through enemies in a very wide cone shape. Feared enemies will run away and their movement speed will be slowed down by 40% for 2 seconds, and they can't use their attacks, Super or Hypercharge. However, only enemies facing Glowy's direction will become feared, but the damage and slow effect still apply. The Super does not apply to enemies that were flying when the Super were used.
+
+==Gadgets==
+===Slippery Savior===
+{{Quote|Glowy dashes in a target direction, healing himself and teammates 2500 HP on arrival. Cooldown: 17 seconds.}}{{Gadget|1}}
+Glowy dashes in the aimed direction (or the direction he's facing when the gadget is pressed) for up to 4.33 tiles and, after finishing the dash, he heals himself and allies in a 3.33-tile radius around himself, for 32% of Glowy's maximum health. However, if Glowy's dash get interrupted due to stuns, walls or water, then Glowy will not heal himself and his teammates.
+
+===More Lumens!===
+{{Quote|Glowy supercharges his glowbeam tethers, doubling damage/healing for 2.5 secs. Cooldown: 13 seconds.}}{{Gadget|2}}When activated, Glowy halves the time between each tick of damage/heal from the tether, from 0.2 seconds to 0.1 seconds, for 2.5 seconds.
+
+==Star Powers==
+===Biotic Ecosystem===
+{{Quote|If Glowy is tethered to an enemy and teammate at the same time, it will reduce enemy damage by 20% and increase the teammates damage by 20%.}}{{StarPower|1}}
+When Glowy is tethered to an enemy and an ally simultaneously, it decreases the damage output of the enemy by 20%, while increasing the damage output of the ally by the same amount.
+
+===Parasitism===
+{{Quote|Tethering to an enemy also heals Glowy for 50% of the damage dealt.}}{{StarPower|2}}
+When tethered to an enemy, Glowy will heal for 50% of the damage dealt by his tether, but not including the initial hit.
+
+==Hypercharge: You Need a Friend==
+{{Hypercharge}}
+{{Quote|Super now surrounds Glowy, and any enemies hit will be feared! Feared targets now take 25% extra damage from all sources.}}
+When activated, Glowy fires his Super in all directions and fears any enemy hit, no matter the direction they're facing. Feared enemies will also be marked for 2 seconds, making the damage taken by them increase by 25% from any source. However, the radius will be slightly shorter than the normal Super. Glowy also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+=== Recommended Build ===
+
+=== Other ===
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Glowbert start vo 01.ogg|Filedescription = "Ahoo, lights on!"}}
+|{{Ogg|Filename = Glowbert lead vo 01.ogg|Filedescription = "Wee-hoo! I'm glowing with oceanic enthusiasm!"}}
+|{{Ogg|Filename = Glowbert hurt vo 01.ogg|Filedescription = "Starfish can regrow limbs! Oh, give it a try!"}}
+|{{Ogg|Filename = Glowbert kill vo 01.ogg|Filedescription = "It should be awesome sea creatures, not monsters!"}}
+|{{Ogg|Filename = Glowbert die vo 01.ogg|Filedescription = "Oh, guess I'm not resilliant enough!"}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 01.ogg|Filedescription = "Woo-hoo! I'm sure you'll love this!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 02.ogg|Filedescription = "Blue whale hearts weigh almost a tonne."}}
+|{{Ogg|Filename = Glowbert lead vo 02.ogg|Filedescription = "This tour is going swimmingly, ha!"}}
+|{{Ogg|Filename = Glowbert hurt vo 02.ogg|Filedescription = "Clownfish aren't actually that funny!"}}
+|{{Ogg|Filename = Glowbert kill vo 02.ogg|Filedescription = "Sorry, I didn't mean to scare you."}}
+|{{Ogg|Filename = Glowbert die vo 02.ogg|Filedescription = "Oh, the tides have turned!"}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 02.ogg|Filedescription = "Prepare for a whale of a time!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 03.ogg|Filedescription = "Clams can live up to 100 years!"}}
+|{{Ogg|Filename = Glowbert lead vo 03.ogg|Filedescription = "Hey, I'm sea-riously making waves! Oh, yeah!"}}
+|{{Ogg|Filename = Glowbert hurt vo 03.ogg|Filedescription = "Oh, I'm feeling a little crabby!"}}
+|{{Ogg|Filename = Glowbert kill vo 03.ogg|Filedescription = "Ah, don't panic. It's only sea slime."}}
+|{{Ogg|Filename = Glowbert die vo 03.ogg|Filedescription = "Oh, guess I've hit rock bottom!"}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 03.ogg|Filedescription = "Behold! The blinding brilliance of aquatic awesomeness!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 04.ogg|Filedescription = "Dolphins recognize themselves in the mirror!"}}
+|{{Ogg|Filename = Glowbert lead vo 04.ogg|Filedescription = "Woo-hoo! Guess I'm the catch of the day!"}}
+|{{Ogg|Filename = Glowbert hurt vo 04.ogg|Filedescription = "Got to stay clam, and battle on!"}}
+|{{Ogg|Filename = Glowbert kill vo 04.ogg|Filedescription = "Jellyfish have no brains! Relatable? Ha ha!"}}
+|{{Ogg|Filename = Glowbert die vo 04.ogg|Filedescription = "Please, take care of my specimens!"}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 04.ogg|Filedescription = "That was off the scales!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 05.ogg|Filedescription = "Let's dive into some fun facts!"}}
+|{{Ogg|Filename = Glowbert lead vo 05.ogg|Filedescription = "I'm swimming in success! Hoo-hoo-hoo!"}}
+|{{Ogg|Filename = Glowbert hurt vo 05.ogg|Filedescription = "Oh, I'm leaking confidence!"}}
+|{{Ogg|Filename = Glowbert kill vo 05.ogg|Filedescription = "Ha ha! That's one for the ecosystem!"}}
+|{{Ogg|Filename = Glowbert die vo 05.ogg|Filedescription = "Oh, just another part of the ecosystem."}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 05.ogg|Filedescription = "From the depths, comes enlightenment!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 06.ogg|Filedescription = "Time for some aquatic awesomeness!"}}
+|{{Ogg|Filename = Glowbert lead vo 06.ogg|Filedescription = "Guess I'm not a bottom feeder, huh?"}}
+|{{Ogg|Filename = Glowbert hurt vo 06.ogg|Filedescription = "Don't be a mock-topus!"}}
+|{{Ogg|Filename = Glowbert kill vo 06.ogg|Filedescription = "Wasn't that fin-tastic?"}}
+|{{Ogg|Filename = Glowbert die vo 06.ogg|Filedescription = "Oh, the deep sea is calling me!"}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 06.ogg|Filedescription = "Let the abyss illuminate your fears!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 07.ogg|Filedescription = "Oh, did you know squids have three hearts?"}}
+|
+|{{Ogg|Filename = Glowbert hurt vo 07.ogg|Filedescription = "This isn't failure, it's data collection!"}}
+|{{Ogg|Filename = Glowbert kill vo 07.ogg|Filedescription = "Oh, you just got krilled!"}}
+|{{Ogg|Filename = Glowbert die vo 07.ogg|Filedescription = "Huh, my hypothesis regarding my demise was correct."}}
+|
+|{{Ogg|Filename = Glowbert ulti vo 07.ogg|Filedescription = "Deep sea flashbang, coming up!"}}
+|-
+|{{Ogg|Filename = Glowbert start vo 08.ogg|Filedescription = "I'm 80% water, and 100% ready!"}}
+|
+|
+|{{Ogg|Filename = Glowbert kill vo 08.ogg|Filedescription = "Hook, line, and sinker!"}}
+|
+|
+|{{Ogg|Filename = Glowbert ulti vo 08.ogg|Filedescription = "Witness a breakthrough in photosynthetic intimidation."}}
+|-
+|{{Ogg|Filename = Glowbert start vo 09.ogg|Filedescription = "Sharks existed before trees!"}}
+|
+|
+|{{Ogg|Filename = Glowbert kill vo 09.ogg|Filedescription = "Please, exit through the gift shop."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = Glowbert start vo 10.ogg|Filedescription = "Another day, another scientific breakthrough!"}}
+|
+|
+|{{Ogg|Filename = Glowbert kill vo 10.ogg|Filedescription = "Ding ding ding ding! One less anomaly!"}}
+|
+|
+|
+|}
+
+==Glowbert Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Glowbert}}
+
+==History==
+*22/01/26:
+**{{Balance|Content=Glowbert became available to play in the [[Training Cave]].|Change=Neutral}}
+*23/01/26:
+**{{Balance|Buff|Glowbert's health was increased to 3900 (from 3400).}}
+**{{Balance|Content=Glowbert could be unlocked early from [[Brawl Boxes|Glowbert Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+*05/02/26:
+**{{Balance|Change=Neutral|Content=Glowbert became available in the [[Starr Road]].}}
+*25/02/26:
+**{{Balance|Content=Glowy's level up health was decreased to 450 (from 650) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Change=Neutral|Content=Glowbert was renamed to Glowy, and his upcoming Bertglow skin was renamed to Ywolg.}}
+**{{Balance|Change=Neutral|Content=Glowy's True Silver and True Gold skins were added.}}
+**{{Balance|Change=Neutral|Content=Fixed a bug where Glowy gained double XP in Brawl Arena.}}
+*24/03/26:
+**{{Balance|Neutral|Glowy's You Need a Friend Hypercharge was added.}}
+*31/03/26:
+**{{Balance|Nerf|Glowy's main attack range was decreased to 6.67 tiles (from 8).}}
+*01/04/26:
+**{{Balance|Neutral|The Ywolg skin was added. It was featured as an April Fool's skin.}}
+*22/04/26:
+**{{Balance|Buff|Glowy's main attack range was increased to 7.33 tiles (from 6.67).}}
+**{{Balance|Neutral|Glowy's attack damage stat and next level DPS stats are now displayed correctly.}}
+*13/05/26:
+**{{Balance|Content=Fixed an issue where Glowy's Super went missing when thrown after a main attack.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Glowy's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed the Ywolg skin showing default visual effects when his main attack tethers.}}
+
+==Cosmetics==
+===Skins (3)===
+{{Skin Gallery
+|Name1=Ywolg|Cost1=199 Gems|Campaign1=April Fool's|Rarity1=Mythic
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Glowy
+|-
+!Skin
+!colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Ywolg|Happy}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Glowy|Rarity = Common}}
+|{{Spray|Type = Glowy Mask|Rarity = Common}}
+|{{Spray|Type = Glowy Esca|Rarity = Common}}
+|{{Spray|Type = Glowy Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Ywolg|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Glowy1}}
+|{{Pfp|Glowy2}}
+|{{Pfp|Glowy3}}
+|{{Pfp|Glowy4}}
+|{{Pfp|Ywolg}}
+|}
+
+{{Navigation}}
+[[ru:Глоуи]]

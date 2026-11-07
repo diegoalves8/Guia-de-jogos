@@ -1,0 +1,110 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Upper Skylands
+|image      = Upper Skylands 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 450-625
+|music      = Natural Innovation
+|prev       = Underwater City
+|next       = Fountain City
+}}
+The '''Upper Skylands''' is a section of the [[Skylands]] in the [[First Sea]] that hosts quests for players from Lv. 450 to 625, consisting of two main areas.
+
+==Appearance==
+===Upper Skylands Entrance===
+The entrance to the Upper Skylands, found in the [[Skylands]], is a medium-sized worn-down temple, surrounded by some grass and trees. This is also where the player will find [[God's Guard]]s and the [[Mole]]. Inside the temple is a large pit filled with clouds, which when destroyed, gives access to the Upper Skylands.
+
+===First Sub-Island===
+The First Area is a grassy plateau with some houses and a few [[NPCs]], along with a [[Home Points|Home Point NPC]] and a house with a glowing white door that teleports the player back down to the Upper Skylands Entrance. [[Wysper]], the first boss of the Upper Skylands, can be found Across the main tree root. Going across the suspended tree root will lead the player to the Second Area. 
+
+===Second Sub-Island===
+The Second Area can be found across the tree root and is much larger than the First. The quests are given here by the [[Sky Quest Giver 2]]. The area is again separated by the giant tree roots, along with a giant bell in the middle section. To the back of this area is a large temple where the [[Instinct Teacher]] is found. There are breakable walls on the sides, which lead to a secret room with eight chests. The walls can only be destroyed by moves that have [[Destructible Physics]], or the player can just Flash Step into it. 
+[[File:Temple secret chests.png|thumb]]
+To the left of the temple is a giant open area. Here, the second and final boss of the Upper Skylands spawns, the [[Thunder God]], who spawns every 30 minutes and uses [[Rumble|Lightning]] and [[Pole (1st Form)]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Instinct Teacher]]
+* [[Set Home Point]]
+|
+* [[God's Guard]]
+* [[Shanda]]
+* [[Royal Squad]]
+* [[Royal Soldier]]
+|
+* [[Sky Warlord]]
+* [[Lightning God]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest 
+!Level Required
+!Description 
+!Reward
+|-
+| rowspan="3" |[[Quests|Mole]]
+|[[God's Guard]]
+|450
+|Defeat 7 [[God's Guard]]s
+|{{Money|8,750}}<br />{{EXP|4,250,000}}
+|-
+|[[Shanda]]
+|475
+|Defeat 9 [[Shanda]]s
+|{{Money|9,000}}<br />{{EXP|5,000,000}}
+|-
+|[[Sky Warlord]]
+|500
+|Defeat [[Sky Warlord]]
+|{{Money|15,000}}<br />{{EXP|5,700,000}}
+|-
+| rowspan="3" |[[Sky Quest Giver 2]]
+|[[Royal Squad]]
+|525
+|Defeat 8 [[Royal Squad]]
+|{{Money|9,500}}<br />{{EXP|5,800,000}}
+|-
+|[[Royal Soldier]]
+|550
+|Defeat 8 [[Royal Soldier]]s
+|{{Money|9,750}}<br />{{EXP|6,300,000}}
+|-
+|[[Thunder God]]
+|575
+|Defeat [[Thunder God]]
+|{{Money|20,000}}<br />{{EXP|8,000,000}}
+|}
+
+== Secret Quests ==
+
+* Interact with [[Sky Quest Giver 2]] to start the old temple quest, they will tell the player to enter the temple. To enter the temple, head slightly left or right to the large staircase where there will be a destructible wall blocking off the entrance. In the center of the room there will be towers the player can interact with. Tap the towers so the electric currents are all feeding into the next one, like a circle. When they are all connected, a cutscene will play, where the Relic moves around the room and then into the player's inventory. After that, run back to the quest giver while dodging the Lightning God's attacks.
+* When [[Sky Warlord]] awakens, a message will appear in chat saying: '''[[System Messages|''"A storm brews in the upper skylands..."'']]'''  Attack the dark lightning clouds above the structure the Sky Warlord spawns in, this will start the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) toppled the awakened Wysper!"'']]'''
+* When [[Lightning God]] awakens, a message will appear in chat saying:  '''[[System Messages|''"The bell shimmers in upper skylands..."'']]'''  The player must go to the bell and strike it. On the bell, there will be pop-ups of a gun, sword, or melee icon. The player must strike the bell with the respective weapon show in the pop-up 6 times in a row, this will play a cutscene starting the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) struck down the awakened Lighting God"'']] 
+
+==Accessing==
+[[File:Upper Skylands Entrance.png|thumb|The small entrance, marked with an arrow sign.]]
+Accessing the Upper Skylands requires going to the Upper Skylands Entrance, which is a sky island at the top of the regular [[Skylands]] and can be accessed by using [[Air Jump]] while in the regular [[Skylands]].
+* After locating the entrance, the player go through the small hole in one of the corners marked with an arrow, or break the cloud covering it with a [[Destructible Physics]] attack. Then, they can jump in.
+This information is only true before update 30
+
+==Trivia==
+* It is possible to access the Upper Skylands without going through the main entrance, by flying up with a fruit such as [[Light]], or by teleporting up with [[Portal]].
+* Before [[Updates/23|Update 23]], The Second [[Quests|Quest]] Giver on the Upper Skylands was called "Gan Fall Adventurer" but now replaced by "Sky Quest Giver 2" due to the copyright.
+* The Upper Skylands requires the most grinding out of all islands in [[First Sea]].
+* [[Sky Warlord]] used to be called [[Wysper]] but changed names after [[Updates/30|Update 30]]
+
+==Change History==
+{{Change History|3}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Islands with multiple Quest Givers]]

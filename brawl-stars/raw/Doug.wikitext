@@ -1,0 +1,272 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Wiener|PrestigeTitle = Chill, bro|Rarity = Mythic|Class = Support|MovementSpeed = 800 (Fast)|HealthLabel = Health|Health = 5200|AttackRange = 3.33 (Short)|Reload = 1.5 seconds (Normal)|AttackSuperCharge = 21%<br>42% (with Extra Mustard)<br>6.3–12.6% (heal; Power Level 1–11)<br>25.2% (heal; with Double Sausage)<br>4.525–5.025% (self-heal; with Self Service; Power Level 9–11)|AttackLabel = Damage|Attack = 1200|AttackLabel2 = Heal|AttackSpread=360°|Attack2 = 600|SuperRange = 9.33 (Very Long)|SuperSuperCharge =0–150% (with Fast Food) |SuperLabel = |Super =|SuperSpread=|SuperSpeed=4500|SuperWidth=1.33|Gadget1Name=Double Sausage|Gadget1Cooldown=15 seconds|Gadget2Name=Extra Mustard|Gadget2Cooldown=15 seconds|StarPower2Name = Self Service|StarPower2=432|StarPower2Label=Heal|VoiceActor=Austen Moret|SuperDuration=5 seconds|Previous=Willow|Next=Chuck|Hypercharge|HyperchargeMultiplier=50%|AttackHyperchargeCharge=10.5%<br>21% (with Extra Mustard)<br>6.3% (heal)<br>12.6% (heal; with Double Sausage)<br>2.5% (self-heal; with Self Service)|SuperHyperchargeCharge=}}
+{{Quote|Doug's hot dogs will extend your friends' shelf life.}}{{Portrait}}
+Doug is a {{Rarity|Mythic}} [[Brawler]] who has high health, a short attack range, a consistently high damage output, a fast movement speed, and can provide immense healing to allies and himself. He was the 70th Brawler added to the game. His Trait allows him to charge his Super by healing himself and his allies. He attacks by splashing the ground, dealing damage to enemies and healing allies in a circular area around him. Doug's Super spawns a hot dog that allows him or allies to respawn where they were when defeated. His first Gadget, Double Sausage, doubles the healing of his next attack at the expense of not dealing damage. His second Gadget, Extra Mustard, doubles the damage of his next attack at the expense of not healing. His first Star Power, Fast Food, allows Doug to heal to full health when an ally is revived. His second Star Power, Self Service, slightly heals him when he attacks. His Hypercharge, Free Toppings, makes Doug's Super to spawn a hot dog that makes his allies mirror his attacks.
+
+==Trait==
+{{Quote|This Brawler charges Super from healing done.}}{{Trait|Heal SC}}
+Doug can charge his Super by healing himself and his allies, similar to [[Berry]]. The Super charge per heal on an ally is proportional to the healing done; healing an ally gives the 1.2 times the amount of Super charge as damaging an enemy for the same amount. Unlike charging Super through damage, the amount of Super charged through healing depends on the actual amount of healing done, not the nominal healing value. The Super charge rate of this Trait scales with Power Levels, and also with any damage buff or debuff.
+
+==Attack: Snack Attack==
+{{Quote|Fresh food for friends, expired for others. Heals allies and damages enemies.}}
+Similar to [[Jacky]], Doug damages all enemies in a radius around him, including enemies behind walls. However, if any allies are in Doug's radius, it instead heals them for health that is 50% of the damage dealt to an enemy. The damage/heal is dealt immediately without any travel time, but Doug has a mediocre reload speed and attack cooldown. There is no direction of travel to this attack, so aiming is not required, though aiming can be used to show you the area-of-effect. The heal does not scale with buffs/debuffs. Doug's attack takes 0.5 seconds to complete.
+
+==Super: Second Serving==
+{{Quote|A special spiced up hot dog for a target ally or Doug himself. When a buffed Brawler is defeated they will come back with 100% health after a short delay.}}
+Doug shoots out a hot dog that can pass through walls and home in on allies, granting a friendly Brawler hit a hot dog buff. If the Brawler is defeated with the hot dog, they will revive after a 2-second delay with no invulnerability shield. The player can give teammates the hot dog by aiming the Super or give it to Doug by auto-aiming it. The hot dog automatically despawns if it's not used within 5 seconds. Brawlers being revived can still reload normally. In game modes such as [[Gem Grab]], and [[Showdown]], allies with the hot dog will not drop Gems or Power Cubes upon defeat. The effect is active if he is the Big Brawler in [[Big Game]].
+
+==Gadgets==
+===Double Sausage===
+{{Quote|The next Snack Attack only heals allies but doubles the amount. Cooldown: 15 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Doug's next attack to heal for 2400 health, but it won't deal damage. His Super will also be charged twice as much. Despite the description, the healing is a flat 2400 and also does not change with levels or outside buffs. A Gadget symbol will glow above Doug's head signaling this Gadget's activation, as well as a pulsing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+===Extra Mustard===
+{{Quote|The next Snack Attack only damages enemies but doubles the amount. Cooldown: 15 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Doug's next attack to deal double the damage, but it won't heal allies. His Super will also be charged twice as much. A Gadget symbol will glow above Doug's head signaling this Gadget's activation, as well as a pulsing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Fast Food ===
+{{Quote|When Doug revives an ally successfully, he will heal for 100% of his maximum health.}}{{StarPower|1}}
+When Doug's allies respawn with his Super, Doug heals for 100% of his maximum health. The Super charge from this Star Power doesn't contribute to charging his Hypercharge.
+
+===Self Service===
+{{Quote|Snack Attack also heals Doug by 480.}}{{StarPower|2}}
+Whenever Doug uses his main attack, he heals for 20% of the damage of his main attack. The healing occurs even if Doug doesn't hit anyone with the attack. This Star Power doesn't stack with damage boosts, such as his Hypercharge, or [[8-Bit]]'s and [[Belle]]'s Super, and it doesn't stack either of his Gadgets. The healing from this Star Power contributes to charging Doug's Super and Hypercharge.
+
+==Hypercharge: Free Toppings==
+{{Quote|Doug's Snack Attack is also mirrored for the ally buffed with the Second Serving.}}{{Hypercharge}}
+When activated, after Doug uses his Super on a friendly Brawler, said friendly Brawler will use Doug's attack every time he uses his attack. However, if Doug uses the Super on himself, he will not have two attacks at the same time. The mirrored attack works with both of his Gadgets and his Self Service Star Power will heal the buffed ally. The mirrored attack will charge Super for the ally, not Doug himself. The mirrored attack charges Super at a rate proportional to the damage; damaging enemies with the mirrored attack or the ally's regular attack for the same amount will charge the same amount of Super. Doug also gains a 20% speed boost, as well as a 5% damage and shield boost, but the damage boost will not apply to the mirrored attack.
+
+==Tips==
+===Game Modes and Maps===
+
+===Recommended Build===
+*When playing Doug, you should almost always be running his Extra Mustard Gadget as it changes many of his interactions, and helps him get his super very quickly. Only use Double Sausage when in a team comp built around Doug healing.
+*Doug's Self Service Star Power is frequently the better option because although 480 healing doesn't seem like a lot, it adds up over time, and since he charges super from healing, it is even stronger.
+
+===Strategies===
+*On bushy maps, push up with your team to gain control of the mid lanes as soon as possible. On more open maps, stay back to heal your teammates until you get your Super/Hyper at which point you can begin playing more aggressively.
+*Do not use your Hypercharged Super on yourself; it wastes the Hypercharge's effect. Instead, place it on a teammate with high mobility, especially assassins and tanks. This allows you to burst down many enemies at once as well as doubling your healing.
+*If you use your Gadget (Extra Mustard), it will double the damage of a teammate with your Hypercharged Super, as well as your own. With the Hyper stat buffs, you and your teammate can deal 10800 damage with one attack!
+*Use your Super on the gem carrier when there are 5 or less seconds left on the countdown as it will prevent the carrier from dropping the gems when killed, and even if it runs out, the match will be over.
+*Use your hot dog at the right time. Too early will cause the opponent to wait out the timer, but too late will cause the hotdog's activation lag to miss out on resurrection.
+*Remember to use your hot dog on teammates, they are theoretically more useful than resurrecting yourself, as they may have a Super which they can use.
+
+===Other===
+*Doug's short range limits his offensive and defensive capabilities, but he has enough range to attack enemies and heal allies that are at most a tile behind walls, which he can use to his advantage by attacking enemies and healing allies behind walls. This strictly limits throwers, [[Berry]], and [[Willow]], who can otherwise take cover behind walls.
+*When aiming to defeat a specific enemy or group of enemies, Doug can simply use his Super and charge towards the group to attack, because getting defeated under the effects of the Super will not drop any collectibles that puts his team in a losing situation. Make sure to take note of the duration of his Super when using this strategy.
+*Choose your Gadgets based on the map layout. In maps where you need to stay back, such as long range maps, consider using Double Sausage so you can help yourself and allies better. Otherwise, equip Extra Mustard.
+*When surprising high-damage enemies from bushes, such as [[Shelly]], [[Bull]], [[Darryl]], [[El Primo]], [[Spike]], [[Griff]], [[Buzz]], or [[Leon]], use your Super around one second in to prevent dying immediately.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = doug start vo 01.ogg|Filedescription ="Dude, I'm not a fighter. I'm a floater."}}
+|{{Ogg|Filename = doug lead vo 01.ogg|Filedescription ="Ay, check it out! I got more moves than the synchronized swim team!"}}
+|{{Ogg|Filename = doug hurt vo 01.ogg|Filedescription ="I'm only here for the sunscreen!"}}
+|{{Ogg|Filename = doug kill vo 01.ogg|Filedescription ="Ay, kiddie pool, other way."}}
+|{{Ogg|Filename = doug die vo 01.ogg|Filedescription ="Uh, I think I left my sunscreen at home."}}
+|
+|{{Ogg|Filename = doug ulti vo 01.ogg|Filedescription ="Hot-Doug!"}}
+|-
+|{{Ogg|Filename = doug start vo 02.ogg|Filedescription ="Going in at the deep end, my dudes."}}
+|{{Ogg|Filename = doug lead vo 02.ogg|Filedescription ="Riding the wave of victory, brohemians!"}}
+|{{Ogg|Filename = doug hurt vo 02.ogg|Filedescription ="Stay chill bro."}}
+|{{Ogg|Filename = doug kill vo 02.ogg|Filedescription ="Ooh, the tide is turning!"}}
+|{{Ogg|Filename = doug die vo 02.ogg|Filedescription ="Nope, not feeling it."}}
+|
+|{{Ogg|Filename = doug ulti vo 02.ogg|Filedescription ="Ha ho! Food fight!"}}
+|-
+|{{Ogg|Filename = doug start vo 03.ogg|Filedescription ="Let's dive into this splashy showdown."}}
+|{{Ogg|Filename = doug lead vo 03.ogg|Filedescription ="I dived into battle and came out splashing!"}}
+|{{Ogg|Filename = doug hurt vo 03.ogg|Filedescription ="Ugh, let's just hang."}}
+|{{Ogg|Filename = doug kill vo 03.ogg|Filedescription ="Just when you thought it was safe, I arrived!"}}
+|{{Ogg|Filename = doug die vo 03.ogg|Filedescription ="I'm like toast with no jam."}}
+|
+|{{Ogg|Filename = doug ulti vo 03.ogg|Filedescription ="Sausage of salvation!"}}
+|-
+|{{Ogg|Filename = doug start vo 04.ogg|Filedescription ="Yo! Be prepared for some mildly effective life guarding."}}
+|{{Ogg|Filename = doug lead vo 04.ogg|Filedescription ="I'm jamming bro!"}}
+|{{Ogg|Filename = doug hurt vo 04.ogg|Filedescription ="Feeling the salt crunch!"}}
+|{{Ogg|Filename = doug kill vo 04.ogg|Filedescription ="Splash damage!"}}
+|{{Ogg|Filename = doug die vo 04.ogg|Filedescription ="Like a burnt chicken nugget."}}
+|
+|{{Ogg|Filename = doug ulti vo 04.ogg|Filedescription ="Protein power!"}}
+|-
+|{{Ogg|Filename = doug start vo 05.ogg|Filedescription ="Come with me, little swimmers. Time for an adventure!"}}
+|{{Ogg|Filename = doug lead vo 05.ogg|Filedescription ="My milkshake brings all the kids to the pool!"}}
+|{{Ogg|Filename = doug hurt vo 05.ogg|Filedescription ="Go easy, keep it cheesy."}}
+|{{Ogg|Filename = doug kill vo 05.ogg|Filedescription ="Don't choke on your food bro."}}
+|{{Ogg|Filename = doug die vo 05.ogg|Filedescription ="Ay, gotta give credit where due."}}
+|
+|{{Ogg|Filename = doug ulti vo 05.ogg|Filedescription ="You've been served!"}}
+|-
+|{{Ogg|Filename = doug start vo 06.ogg|Filedescription ="Yo! I got the munchies."}}
+|{{Ogg|Filename = doug lead vo 06.ogg|Filedescription ="Eh, light work."}}
+|{{Ogg|Filename = doug hurt vo 06.ogg|Filedescription ="Dude!"}}
+|{{Ogg|Filename = doug kill vo 06.ogg|Filedescription ="Snack attack!"}}
+|{{Ogg|Filename = doug die vo 06.ogg|Filedescription ="Ahh, snack break."}}
+|
+|{{Ogg|Filename = doug ulti vo 06.ogg|Filedescription ="Munch the meaty goodness bro!"}}
+|-
+|{{Ogg|Filename = doug start vo 07.ogg|Filedescription ="Whoa, my dudes!"}}
+|
+|{{Ogg|Filename = doug hurt vo 07.ogg|Filedescription ="Dude!"}}
+|{{Ogg|Filename = doug kill vo 07.ogg|Filedescription ="Mmm, keeping it crispy."}}
+|{{Ogg|Filename = doug die vo 07.ogg|Filedescription ="Taking the L."}}
+|
+|{{Ogg|Filename = doug ulti vo 07.ogg|Filedescription ="Ha ha! Devour the Doug!"}}
+|-
+|{{Ogg|Filename = doug start vo 08.ogg|Filedescription ="Yo! Where my peeps at?"}}
+|
+|{{Ogg|Filename = doug hurt vo 08.ogg|Filedescription ="Ay, take it easy bro."}}
+|{{Ogg|Filename = doug kill vo 08.ogg|Filedescription ="Eh, easy pickens."}}
+|{{Ogg|Filename = doug die vo 08.ogg|Filedescription ="Duuude!"}}
+|
+|{{Ogg|Filename = doug ulti vo 08.ogg|Filedescription ="Mighty meat treat that'll keep you on your feet."}}
+|-
+|{{Ogg|Filename = doug start vo 09.ogg|Filedescription ="Come at me bro!"}}
+|
+|{{Ogg|Filename = doug hurt vo 09.ogg|Filedescription ="Ay!"}}
+|{{Ogg|Filename = doug kill vo 09.ogg|Filedescription ="Dude, that was clutch."}}
+|{{Ogg|Filename = doug die vo 09.ogg|Filedescription ="Duuude!"}}
+|
+|{{Ogg|Filename = doug ulti vo 09.ogg|Filedescription ="Daggy dog!"}}
+|-
+|
+|
+|{{Ogg|Filename = doug hurt vo 10.ogg|Filedescription ="It's not that serious bro!"}}
+|
+|{{Ogg|Filename = doug die vo 10.ogg|Filedescription ="Duuude!"}}
+|
+|{{Ogg|Filename = doug ulti vo 10.ogg|Filedescription ="All toppings!"}}
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = doug die vo 11.ogg|Filedescription ="Why me bro?"}}
+|
+|{{Ogg|Filename = doug ulti vo 11.ogg|Filedescription ="A wiener is you!"}}
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = doug die vo 12.ogg|Filedescription ="Oh, that was not my moment."}}
+|
+|{{Ogg|Filename = doug ulti vo 12.ogg|Filedescription ="Yo! Don't be a whiner, have a wiener!"}}
+|}
+
+==History==
+* 25/07/23:
+**{{Balance|Content=Doug became available to play in the [[Training Cave]].|Change=Neutral}}
+*01/08/23:
+**{{Balance|Content=Doug and his Draco skin were added to the game.|Change=Neutral}}
+*15/08/23:
+**{{Balance|Content=Doug's health was increased to 5000 (from 4800).|Change=Buff}}
+**{{Balance|Content=His Super can now go through walls.|Change=Buff}} 
+**{{Balance|Content=Doug's Super now allows himself or allies to respawn with full health (from 50%).|Change=Buff}}
+**{{Balance|Content=Doug's Super charge rate was decreased by 15%.|Change=Nerf}}
+* 05/09/23: 
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23: 
+**{{Balance|Content=Doug's Super range was increased to 9.33 tiles (from 6.67), and its width was increased to 1.33 tiles (from 0.33).|Change=Buff}} 
+*27/02/24: 
+**{{Balance|Content=Doug's main attack damage/heal is now fixed on all ranges.|Change=Buff}}
+**{{Balance|Content=Doug's True Silver and True Gold skins were added.|Change=Neutral}}
+*29/02/24:
+**{{Balance|Content=Fixed an issue with Doug's healing scaling improperly.|Change=Neutral}}
+* 04/03/24:
+**{{Balance|Content=Fixed an issue with Doug that caused his main attack to heal double the intended amount.|Change=Neutral}}
+*19/08/24:
+**{{Balance|Content=The Man-o-war Doug skin was added. It was featured as a Tales of the Sea skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Doug's Self Service Star Power healing was changed to 432 in the description (from 20% of main attack damage).|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with the Man-o-war Doug skin that caused his main attack to heal double the intended amount.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Fixed an issue with the Revengeance Ability affecting Doug's Super.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Doug gained a Trait where he can charge his Super from healing allies.|Change=Buff}}
+**{{Balance|Content=Doug's Super now homes in on allies.|Change=Buff}}
+**{{Balance|Content=Doug's Fast Food Star Power was reworked from granting allies revived by Doug's Super 100 points of movement speed for 3 seconds to healing Doug to full health when an ally is revived.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Fixed an issue where Doug's Double Sausage Gadget was also being applied to allies if they were under effect of Doug's Hypercharge.|Change=Neutral}}
+*03/07/25:
+**{{Balance|Content=Doug's Free Toppings Hypercharge was added.|Change=Neutral}}
+*16/08/25:
+**{{Balance|Content=The Knight Doug skin could be obtained after purchasing the Quests for Quests Critical offers for 10 Coins. it was featured as a Knights! skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Doug's level up health was decreased to 450 (from 500) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Doug's level up reload speed boost was decreased to 2% (from 2.5%) in Brawl Arena.|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Doug's Free Toppings Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Doug's Free Toppings Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=Doug's Super now cleanses status effects upon reviving with it.|Change=Buff}}
+*16/12/25:
+**{{Balance|Buff|Doug's health was increased to 5200 (from 5000).}}
+*14/03/26:
+**{{Balance|Neutral|The Dynasty Doug skin was added. it was featured as a Dark Sands skin.}}
+*22/04/26:
+**{{Balance|Nerf|Doug's Hypercharge no longer works on airborne Brawlers.}}
+*30/06/26:
+**{{Balance|Buff|Doug's level up health was increased to 550 (from 450) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Doug's movement speed to 800 (from 770).}}
+*12/09/26:
+**{{Balance|Neutral|The Jörmungandr Doug skin was unlockable by winning the SC Make Skin in-game Challenge. It was featured as a Supercell Make skin and a Northern Saga skin.}}
+*03/11/26:
+**{{Balance|Buff|Doug's level up damage was increased to 3% (from 2%) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (7)===
+{{Skin Gallery
+|Name1=Draco|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Once Upon|Rarity1=Rare
+|Name2=Man-o-war|Cost2=149 Gems • '''S'''|Campaign2=Tales of the Sea|Rarity2=Epic
+|Name3=Knight|Cost3=10 Coins from the Quests for Quests Critical offers, free from Pierce Boxes or 149 Gems|Campaign3=Knights!|Rarity3=Epic
+|Name4=Jörmungandr|Cost4=Free from SC Make Challenge|Campaign4=Supercell Make|Campaign4_2=Northern Saga|Rarity4=Epic
+|Name5=Dynasty|Cost5=199 Gems|Campaign5=Dark Sands|Rarity5=Mythic
+|TrueSkins = Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Doug
+|-
+!Skin||colspan=11|Pins 
+{{Pin Table}}
+{{Pin Table|Man-o-war|Special}}
+{{Pin Table|Knight|Angry}}
+{{Pin Table|Dynasty|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Doug|Rarity = Common}}
+|{{Spray|Type = Doug Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Dynasty Doug|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Doug1}}
+|{{Pfp|Doug2}}
+|{{Pfp|Doug3}}
+|{{Pfp|Doug4}}
+|{{Pfp|Man-o-war Doug}}
+|-
+|{{Pfp|Knight Doug}}
+|{{Pfp|Dynasty Doug}}
+|}
+
+{{Navigation}}
+[[ru:Даг]]

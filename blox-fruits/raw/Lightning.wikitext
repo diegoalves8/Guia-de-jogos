@@ -1,0 +1,430 @@
+{{CombosTab}}
+{{About|Lightning|the fruit with a similar name|Light}}
+{{Blox Fruit Infobox
+|name   = Lightning
+|image  = <gallery>
+Lightning Fruit.png|Fruit Icon
+Lightning Fruit Model.gif|Fruit GIF
+Lightning.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Legendary
+|M1     = Yes
+|update = 3
+
+<!-- Fruit Price -->
+|money  = 2,100,000
+|robux  = 2,100
+}}
+{{Quote|Provides electric-based attacks, which have stun-based effects.|Shop}}
+'''Lightning''' (formerly known as '''[[Rumble]]''') is a {{Legendary}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|2,100,000}} or {{Robux|2,100}} from the [[Blox Fruit Dealer]].
+
+Lightning grants the user the ability to create, become and manipulate lightning. This allows them to summon rumbling thunderstorms capable of paralyzing their enemies. The user can also move at lightning-fast speeds, effectively teleporting across the battlefield.
+
+==Upgrading==
+Lightning can be upgraded via the [[Admin Panel]]:
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="article-table"
+!Ability
+!Mastery
+!Research
+!Changes
+!Cost
+|-
+|'''Arc Discharge Protocol'''
+|200
+|Defeat 25 [[enemies]] with {{Ability|TAP}}.
+|Lightning Orbs recharge faster.
+|{{Fragment|1,500}} <br> {{Angel Wings|3}}
+|-
+|'''Predator Circuit Breaker'''
+|300
+|Defeat 30 [[Piranha]]s.
+|{{Ability|X}}<nowiki/>'s clouds can absorb the user's Lightning Orbs to extend its duration.
+| {{Fragment|3,000}} <br> {{Electric Wing|3}}
+|-
+|'''Capacitor Overload Test'''
+|400
+|Use a total of 200 Charges.
+|A fully charged {{Ability|Z}}'s third variant can now grab players.
+| {{Fragment|6,000}} <br> {{Volt Capsule|1}} <br> {{Electric Wing|5}}
+|-
+|'''Conductor's Resonance'''
+|500
+|Eat a Lightning Fruit, with research quest activated.
+(Lightning physical skins are accepted)
+|Sending a fully charged '''[Z]''' 's third variant into '''[X]''' 's clouds will now send out a dragon from the clouds towards your cursor.
+|{{Fragment|11,000}} <br> {{Volt Capsule|3}} <br> {{Electric Wing|5}}
+|}</table-progress-tracking>
+
+To fully upgrade Lightning, the player needs 500 [[Mastery]] on the fruit, {{Fragment|21,500}}, {{Volt Capsule|4}}, {{Electric Wing|13}}, {{Angel Wings|3}}, and an extra physical Lightning fruit.
+
+==Moveset==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Elemental Reflex
+|file     = LightningsCharged.gif
+
+|desc     = The wielder is immune to all physical attacks ([[Fighting Styles|fighting style]], [[Swords|sword]], [[Guns|gun]]) from players unless the attacks are imbued with [[Aura]]. Against [[NPCs]], this immunity applies unless they are of a higher level. This effect is only effective against non-boss enemies.
+}}
+
+{{Skill/Passive
+|name     = Orb Charge
+|file     = LightningPassive.gif
+|file1    = LightningPassiveRecharge.gif
+|desc     = The user has 4 round electric orbs that spawn behind them. {{Ability|Z}}, {{Ability|V}} and {{Ability|F}} all consume an orb. {{Ability|Z}} and {{Ability|F}} cannot be used without them.
+|desc1    = Orbs take 5 seconds (3 seconds if upgraded) to recharge.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 3.5
+|energy   = 25
+|break    = Yes
+|instinct = Always [[Instinct/Break|breaks Instinct]] if hit.
+|gif      = PowerStreak
+|desc     = The player continuously shoots out short bursts of lightning that deal low damage and stun. This attack can chain through multiple enemies. When hitting an enemy, your lightning orbs charge significantly faster.
+}}
+
+{{Skill
+|key      = Z
+|name     = Lightning Orb
+|mastery  = 1
+|cooldown = 5 (3 upgraded)
+|energy   = 15
+|break    = Yes
+|instinct = Varies by variant:
+* '''Z1:''' Cannot Break Instinct.
+* '''Z2:''' Both orb and explosion break.
+* '''Z3:''' Explosion breaks most of the time; upgrade combo breaks on 1st/last strike.
+|gif      = LightningOrbv1z
+|gif1     = LightningOrbsv2z
+|gif2     = LightningOrbsv3z
+|gif3     = LightningOrbsv4z
+|desc     = '''If tapped (Z1):''' The user shoots one of their charged orbs toward the aimed area. Consecutive orbs deal reduced damage. This variation uses 1 orb.
+|desc1    = '''If short-held (Z2):''' Upon holding the move for 0.5 seconds, the user creates an electrified sphere and throws it toward the cursor, pulling enemies in before exploding. This variation uses 1 orb.
+|desc2    = '''If fully held (Z3):''' Upon holding the move for at least 1.5 seconds, the user summons an electric dragon. After releasing the move, the user launches the dragon forward, which explodes on contact, or when it reaches max distance, dealing decent damage. If used on a group of enemies, the dragon will instead dash between each enemy in a certain area once before finally rising to the sky and disappearing. The latter variant deals slightly less damage and knockback, and sometimes instead gathers the enemies that are hit. If used in a crowd of nearby enemies, it chains and damages by traveling around and hitting the enemies and blasts.
+|desc3    = '''If fully held (Upgraded) (Z3):''' When upgraded, the user comes into contact with an enemy while dashing, the user grabs them, performing a 5-strike combo before knocking them away.
+}}
+
+{{Skill
+|key      = X
+|name     = Thunderstorm
+|mastery  = 90
+|cooldown = 13
+|energy   = 25
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if the target is on or near the ground/on direct hit. Can be dodged in the air.
+|gif1     = Thunderstorm Base
+|gif2     = Thunderstorm fully extended
+|gif3     = ThunderstormBeastX
+|desc     = This move has two variations that can be activated by using {{Ability|Z}} on the cloud:
+|desc1    = The user conjures a thundercloud from the sky.
+|desc2    = '''Z1 (tap):''' Each orb extends the duration of the ability by around 5 seconds.
+|desc3    = '''Z3 (hold):''' The user summons an electric dragon that bursts out from the cloud and crashes to the ground in the direction of the cursor. When used from higher altitudes, its targeting range increases.
+}}
+
+{{Skill
+|key      = C
+|name     = Sky Judgement
+|mastery  = 160
+|cooldown = 19
+|energy   = 35
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] On the initial hit. Can be dodged on the edge or after the initial hit.
+|gif      = Judgement of the Sky
+|desc     = The user conjures a thundercloud from the sky that shoots down a harmless beam as a warning before discharging electricity in a bigger beam about 0.75s later. Enemies affected are pulled upwards and are stunned for 1 second. This move is similar to [[Blizzard]]s [C] move but bigger and lasts shorter.
+}}
+
+{{Skill
+|key      = V
+|name     = Thunderball Destruction
+|mastery  = 250
+|cooldown = 30
+|energy   = 50
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time. The explosion can rarely be dodged on the edge.
+|gif      = Thunder Destruction ball
+|gif1     = Maximum Thunderball Destruction
+|desc     = The user compresses multiple clouds into a ball made out of lightning that can be dropped like a bomb. The energy ball expands before detonating, dealing high damage.
+|desc1    = Holding the move down consumes orbs and can be charged up to 4 times, increasing the hitbox and damage significantly.
+}}
+
+{{Skill
+|key      = F
+|name     = Electric Flash
+|mastery  = 30
+|cooldown = 0-4
+|energy   = 30
+|break    = No
+|instinct = Cannot [[Instinct/Break|Break Instinct]] in any way. (Charged variation breaks instinct).
+|gif1     = ElectricFlashesF
+|gif2     = Electric Dashing
+|desc     = This move possesses two variations: 
+|desc1    = '''If tapped:''' The user zaps forward, consuming an orb. Any enemies in the user's way will be briefly stunned and damaged.
+|desc2    = '''If held:''' The user performs continuous teleporting strikes if multiple enemies are standing close to each other.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Amazing combo potential.
+* One of the best stun support fruits in the game for [[Swords]] and [[Guns]].
+* Spectacular for grinding.
+* Most moves [[Instinct/Break|break Instinct]].
+* Some moves have low endlag.
+* Overall very versatile.
+* Very good against [[Magnet]] users
+
+|{{Ability|TAP}}
+* Can be held infinitely.
+* Can hit multiple targets.
+* Can be used very quickly as a tap up close to break [[Instinct]].
+
+|{{Ability|Z}}
+* Can be spammed.
+* Possesses auto-aim when the user aims near an enemy, similar to [[Godhuman]]’s {{Ability|Godhuman|C}}.
+* Good for disrupting combos.
+* Z2 breaks instinct and pulls enemies toward the player.
+* Z3 chains and damages nearby enemies, making it useful for grinding.
+
+|{{Ability|X}}
+* Large [[Area of Effect|AoE]].
+* Extremely reliable stun, perfect set up for a [[Sword]] or [[Gun]] attack.
+* Long stun (can be further increased by adding Z1 orbs to the cloud).
+* Extremely good against enemies with large hitboxes.
+* Extremely good for killing [[Sea Beast|Sea Beasts]] when used with the Z1 orbs.
+*If used with Z3 with great aim and prediction, can hit midair opponents within its range.
+* [[instinct/Break|Breaks Instinct]] on ground.
+* Extended storm makes grinding very easy, even allowing the player to use any [[Fighting Style]] or [[Sword]], as the enemies are stunned by the shower of thunderbolts.
+
+|{{Ability|C}}
+* Large [[Area of Effect|AoE]].
+* Pulls enemies upwards while stunning them.
+* Great for countering air campers.
+* Hitbox extends downwards, even if aimed upward.
+* Great combo starter and follow-up.
+
+|{{Ability|V}}
+* Extremely large [[Area of Effect|AoE]], even after the recent nerfs.
+* Extremely long range.
+* Lands on [[Beast]] fruits even midair.
+* Quick start-up. (Tap version)
+* Fully held version deals insane damage.
+* [[Instinct/Break|Breaks Instinct]].
+* Quite easy to hit.
+* Great combo starter/finisher.
+
+|{{Ability|F}}
+* Quick mobility.
+* Very convenient for traversal.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Obsolete against [[Rubber]] users.
+* Predictable.
+* Not very good at aerial combat, as [X] and [V] often do not land/are extremely inconvenient to use.
+* Passive 'charges' on the user's back heavily drop FPS, making them an overall nuisance during gameplay.
+* All moves deal damage at separate parts, often making damage dealt low and inconsistent.
+* Moves have bad endlag.
+
+|{{Ability|TAP}}
+* Almost useless in active PvP.
+* Very low damage.
+* Terrible range.
+
+|{{Ability|Z}}
+* Uses charges, making it very tedious to conserve charges for [F].
+* Z1's damage is scaled lower when spammed.
+* Z1 is largely useless, automatically needing Z2.
+* Z3 takes time to charge, and is often outclassed by Z2.
+
+|{{Ability|X}}
+* Stun is escapable.
+* Has a decent endlag, making it very punishable if missed.
+* If the user is not wary, the move is very predictable.
+* Hard to land midair, as the storm always forms directly in front of, and under the user.
+* Extended version via Z1 is easy to avoid in active PvP.
+* Extended beast via Z3 has extremely bad hitboxes and knockback, while also not working midair, making it largely useless.
+
+|{{Ability|C}}
+* Bad vertical range. 
+* Very easy to [[Instinct]] trick.
+* Endlag is punishable if missed.
+
+|{{Ability|V}}
+* Very long cooldown.
+* Predictable, even more so when held.
+* Although it ''can'' land midair, the angle the move is launched at is off center (due to its tendency to sink), making it nearly impossible to land consistently.
+* High knockback.
+
+|{{Ability|F}}
+* No longer carries momentum.
+* May not teleport if spammed too quickly.
+* Held variation is useless, as the damage is extremely low, and just wastes a charge.
+}}
+
+|-|Notes=
+{{Overview|Notes|
+* Lightning's [X] move cannot be used in any place with a low roof, or any kind of cover. (Buildings, [[Magma Admiral]]'s volcano, etc)
+** However, both [X] and [C] can still work normally if the roof is high enough (such as the roof of the [[Factory]]). 
+* [X] Thunderstorm could be used in places with a roof before [[Updates/20|Update 20]], where it was changed to act like [C].
+* After the rework, due to the new mechanics on [V] Thunderball Destruction, it too cannot be used under some places with roofs, as it will detonate instantly.
+* Due to Lightning being easily countered in aerial combat (with the only reliable functional move being [C] Sky Judgement), it is recommended to use it as a supporting stun fruit for [[Swords]] and [[Guns]] instead.
+* It is highly recommended to use [Z] Soul Shaker of the [[Skull Guitar]] after using [V] Thunderball Destruction, as it negates the knockback.
+* The final panel upgrade, Conductor's Resonance, is extremely pricey, and requires the user to eat an additional physical Lightning, whilst already having Lightning activated, essentially wasting an entire fruit.
+** Unless absolutely needed for completion purposes, it is highly recommended to ignore this upgrade outright, as the extended beast is nearly useless in both PvP and PvE, due to its terrible hitbox and awful damage, even being unable to hit enemies midair.
+}}
+</tabber>
+
+==Chromatic Showcase==
+<gallery>
+File:Physical Purple Lightning.PNG|Purple Lightning Physical Fruit
+File:Physical Green Lightning.PNG|Green Lightning Physical Fruit
+File:Yellow Physical Lightning.PNG|Yellow Lightning Physical Fruit
+File:Lightning-Red's Physical.PNG|Red Lightning Physical Fruit
+File:Blue orbs.png|Passive Orbs with the default Lightning
+File:Purpleorbs.png|Passive Orbs with the Purple Lightning
+File:Green orbs.png|Passive Orbs with the Green Lightning
+File:Yellow orbs.png|Passive Orbs with the Yellow Lightning
+File:Red orbs.png|Passive Orbs with the Red Lightning
+File:LightningMultiColoredOrbs.png|Passive Orbs with All Lightning Colors (Except Blue)
+</gallery>
+
+==Gallery==
+<gallery>
+File:LightningStorm.webp|Lightning's Rework came in [https://gamerrobot.com/blogs/news/the-blox-bulletin-014 The Blox Bulletin #014]
+File:LightningZ3 Ricochet.gif|The 'chain' variant of the non upgraded '''[Z] Lightning Orb 3'''.
+File:Thunderstorm Beasts Range.gif|Range of the Thunderstorm z3 variant.
+File:Rumble Dragon V1 model.png|Old '''[Z] Rumble Dragon''''s model.
+File:Lightning Beast v2 model.png|Old '''[Z] Lightning Beast''''s model.
+File:Lightning orb z3 model.PNG|New '''[Z] Lightning Orb 3''''s model.
+</gallery>
+
+==Trivia== 
+* [[Ashen]] is the first boss to utilize the reworked Lightning [[Blox Fruits|fruit]].
+* Lightning is the only fruit to be completely negated via immunity, said fruit being [[Rubber]].
+** [[Rubber]] users are also immune to the stuns, not just damage.
+* Lightning is the only fruit that does not display a full cooldown with its move {{Ability|Z}} and {{Ability|F}}.
+* Before the release of [[Updates/27.0|Update 27.0]], players who had Rumble fully awakened (V2) received three upgrades on the [[Admin Panel]] for free.
+* Before its rework, Lightning was used almost exclusively as a stun support for [[Swords]] and [[Guns]].
+* The reworked version of Lightning combines aspects from the old V1 and V2 of Rumble. 
+** The '''[X] Thunderstorm''' resembling the V1 '''[X] Sky Thunder''', while functioning like V2.
+** The '''[C] Sky Judgement''' being a much stronger and faster version of V1 '''[C] Sky Beam'''.
+** The '''[V] Thunderball Destruction''' having V2's size and startup, but taking V1's '''[V] Thunder Bomb''' speed and range.
+* [[Rumble]] [[raids]] are the first and only raids to be removed from ''Blox Fruits'' entirely (previously the [[Swords|sword]] [[Pole (2nd Form)]] was inaccessible after the removal of [[Rumble]] [[raids]], but now it can be obtained by getting struck by a lightning in [[Rough Sea]] while holding [[Pole (1st Form)]].
+* All of Lightning’s moves are all redesigned and reworked Awakened [[Rumble]].
+* Lightning has four reskin variants — {{Skin|Yellow}}, {{Skin|Purple}}, {{Skin|Green}} and {{Skin|Red}}. Each one is considered a separate [[Blox Fruits|fruit]] and has its own distinct physical appearance.
+** Upon eating any Lightning [[Blox Fruits|fruit]] [[Skins|skin]], the user is granted the corresponding permanent {{CHROMATIC}} [[skins|skin]].
+* {{Ability|V}} is the first ever ability in Blox Fruits to have five variants; all scaled between orb usage from 0-4 orbs.
+* Charging {{Ability|X}} with 3-4 Z1 orbs can [[stun]] [[Enemies|NPCs]] for over 10 seconds, allowing the user to use [[Fighting Styles|fighting style]] M1s on them to deal extra damage. This is good for grinding since it can easily kill a group of enemies.
+* When using {{Ability|F}}, a distinct 'pop' sound effect, almost like a bubble, can be heard.
+* Due to a glitch, Lightning's cosmetic orbs do not appear in the [[Dungeons|Dungeon]] Hub.
+* A fully charged {{Ability|V}} can almost cover the entirety of the [[Jungle]].
+* The user can eat any of the Lightning [[skins]] for the final research challenge (Conductor's Resonance). They will receive the [[Lightning/Skins|skin]],  and the [[Quests|quest]] will be completed.
+* The lightning ring of {{Ability|V}} stays in place when moving in a [[Boats|boat]].
+* The {{Ability|TAP}} skill of this fruit causes great amounts of FPS lag if held for over a minute. (This can be used to badly lag servers in some cases)
+* Lightning's {{Ability|Z}} + {{Ability|X}} is the single highest ranged attack in the entire game, being able to hit across entire islands.
+* Even after the name change, most players still call it Rumble.
+* There is a glitch where if you use {{Ability|Lightning|F}} until the player uses all of the charges, and then quickly activate V3, the player will gain a few more charges, making this good for escaping PvP.
+* Lightning's [[Elemental|Elemental Reflex]] has no SFX.
+* The non-upgraded Z3 move can chain and damage nearby enemies, which is very useful in grinding and consists of no cooldowns.
+* Lightning's obtainment was disabled outside of the events and using {{Robux|Robux}}, up until {{Update|29.3}}, where it was finally made obtainable via natural spawning, and the [[Blox Fruit Gacha]].
+* There is currently an un-released '''White Lightning''' [[Skins|skin]], only being teased by rip_indra. The skin is primarily white, with '''''black''''' accents, making it the only color besides {{Skin|Purple}} and Default to have two shades.
+* Lightning is highly recommended when doing sea events due to the large aoe and how fast the ability '''[X] Thunderstorm''' can kill a [[Sea Beast|Sea beasts]]. 
+* Every since this fruit got reworked, it's trading value increased significantly, but currently value is unstable. 
+<gallery>
+File:Lightning roll.jpg|Physical Lightning, rolled via the [[Blox Fruit Gacha|Gacha]].
+File:Physical Lightning Spawn.png|A naturally spawned, physical Lightning.
+File:White Sky Judgement.gif|The teased '''White''' skin.
+</gallery>
+
+==Change History==
+{{Change History|3|content=<tabber>
+|-|29.6=
+{{Update|29.6}}
+* Lightning was nerfed.
+** {{Arrow|Nerf}} '''[V] ThunderBall Destruction's''' AoE was heavily reduced and size gainned per orb is also heavily decreased.
+
+|-|29=
+{{Update|29}}
+* Lightning was made available to roll in the [[Blox Fruit Gacha]].
+* Lightning was made stockable by the [[Blox Fruit Dealer]].
+* Lightning was made spawnable in the wild.
+
+|-|27.0=
+{{Update|27.0}}
+* [[Rumble]] was renamed to Lightning.
+* Lightning was remade available to purchase.
+* [[Rumble]] V1/V2 movesets were removed.
+* Rumble raids were removed. 
+* Lightning was added in the [[Admin Panel]].
+* All moves were reworked.
+** Added [M1] attack
+** '''[Z] Lightning Beast''' was renamed to {{Ability|Z}}
+* Rumble V1:
+*: <gallery>
+RumbleV1Z.gif|'''[Z] Lightning Dragon'''
+RumbleV1X.gif|'''[X] Sky Thunder'''
+RumbleV1C.gif|'''[C] Sky Beam'''
+RumbleV1V.gif|'''[V] Thunder Bomb'''
+RumbleV1F.gif|'''[F] Lightning Dash'''
+</gallery>
+* Rumble V2:
+*: <gallery>
+RumbleV2Z.gif|'''[Z] Lighting Beast'''
+RumbleXRework.gif|{{Ability|X}}'
+RumbleV2C.gif|{{Ability|C}}' 
+RumbleV2V.gif|{{Ability|V}} 
+RumbleV2F.gif|'''[F] Electric Flash'''
+</gallery>
+
+|-|24=
+{{Update|24}}
+* Rumble's icon was remade.
+: <gallery>
+Rumble Icon (Old).png|'''Old Rumble icon'''
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Rumble Fruit's model was remade.
+: <gallery>
+Rumble 150x150.png|Old Rumble Fruit's model.
+</gallery>
+
+|-|18=
+{{Update|18}}
+* {{Ability|V}} (V2) now fires faster and deals reduced knockback.
+
+|-|17.2=
+{{Update|17.2}}
+* Improved the visual effects on some Rumble V2 abilities.
+
+|-|14=
+{{Update|14}}
+* Rumble received an [[Raids|awakening]].
+
+|-|5=
+{{Update|5}}
+* Rumble [V] and [F] moves were nerfed.
+
+|-|3=
+{{Update|3}}
+* Rumble was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+[[Category:Immunity Fruits]]
+[[ru:Молния]]

@@ -1,0 +1,163 @@
+{{CombosTab}}
+{{Removed|Blox Fruit|Blade|24}}
+{{Blox Fruit Infobox
+|name   = Chop
+|image  = <gallery>
+Chop Fruit.png|Fruit Icon
+ChopFruitGIF.gif|Fruit GIF
+Chop.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 30,000
+|robux  = 100
+}}
+'''Chop''' was a {{Common}} [[Natural]]-type [[Blox Fruit]] that costed {{Money|30,000}} or {{Robux|100}} from the [[Blox Fruit Dealer]].
+
+Chop allowed the user to separate their body parts, utilizing them to dodge swords, deal close range attacks, and fly.
+
+Chop had gained significant value due to its passive immunity to [[swords|sword]] damage, even when imbued with [[Aura]], making the user extremely effective against players who primarily use [[swords]] in [[PvP mechanics|PvP]]. However, most of its skills suffer from limited range and below-average damage, making it more suitable as a "supporting" [[Blox Fruit]] rather than a primary choice for combat.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Body Separation
+|file     = Chop passive.gif
+|desc     = Similar to an [[Elemental]], Chop users had complete immunity to all [[swords]], even those with [[Aura]]. This applied to Sword Users and NPCs if the NPC was lower level than the user as if it worked as an [[Elemental]]. Exception: [[Bosses]] and [[Raid Bosses]].
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Tackle
+|mastery  = 1
+|cooldown = 4
+|energy   = 15
+|gif      = ChopTackle
+|desc     = The user separated their upper torso and launches it forward, dealing damage to enemies it hit.
+}}
+
+{{Skill
+|key      = X
+|name     = Dance
+|mastery  = 20
+|cooldown = 9
+|energy   = 25
+|gif      = Dance
+|desc     = Separated the user's entire body except their torso and their head for an attack that dealt chip damage and stunned all enemies in a circular radius around the user.
+}}
+
+{{Skill
+|key      = C
+|name     = Party
+|mastery  = 50
+|cooldown = 12
+|energy   = 35
+|gif      = Party
+|desc     = The user attacked their opponent with a barrage of floating fists. This move lasted longer if held. This move was similar to [[Rubber]] C move.
+}}
+
+{{Skill
+|key      = F
+|name     = Helicopter
+|mastery  = 80
+|cooldown = 4.5
+|energy   = 35
+|gif      = Helicopter
+|desc     = The user separated their arms and legs and started spinning them to achieve flight, similar to [[Spin]] flight. The flight did not constantly decrease [[Energy]].
+}}
+}}
+
+==Chop Immunity Chart==
+{{Chop Immunity Chart}}
+
+==Overview==
+<tabber> 
+Pros=
+{{Overview|Pros
+|'''General'''
+* Chop was the best fruit to use when fighting with another sword user.
+* Chop's passive ability granted immunity to all attacks from [[Swords|swords]], including attacks from all players and [[NPC's]] with [[Aura]] as long as the user was ~105% - 106% of the [[NPC's]] level, similar to [[Elemental]] effects.
+* Fairly cheap.
+* Decent damage.
+
+|'''[Z] Tackle'''
+* Decent damage and relatively short cooldown.
+
+|'''[X] Dance'''
+* Good stun.
+
+|'''[C] Party'''
+* Decent stun.
+
+|'''[F] Helicopter'''
+* A low-mastery flight move.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* All of Chop's moves had a very limited range and were relatively easy to avoid.
+* Weak in air.
+* Some sword moves can still stun the user. An example of this is [[Rengoku]]'s '''[Z] Demon Slayer''' move.
+* [[Ice]], [[Light]] and the [[Canvander]] sword of Besto Friendo from [[Love]]'s melee attacks bypassed Chop's passive ability as they count as [[Blox Fruits|fruit]] attacks.
+* [[Bosses]] and [[Raid Bosses]] were not affected by the passive ability.
+
+|'''[Z] Tackle'''
+* Extremely bad range.
+
+|'''[X] Dance'''
+* The user could not cancel the move once it was used, which made it very easy to counter back if not hit the enemy.
+* Extremely slow.
+
+|'''[C] Party'''
+* Bad range.
+
+|'''[F] Helicopter'''
+* Low speed.
+* Not recommended to use for transportation.
+}}
+</tabber>
+
+==Trivia== 
+* Although Chop's passive function was to avoid damage from sword slashes, Chop could also avoid swords that can create fire, freeze, cause electric shock, and even magic damage.
+* Chop was mostly known because of its sword immunity.
+* It was recommended to become a sword main instead of a fruit user when using Chop.
+* Most attacks looked weird with R15 and layered clothing since the user's body stretched and did not disconnect.
+* Chop was a very good replacement for [[elemental]] fruits to use at a low level since most enemies use swords in the [[First Sea]], although it got bad quickly, getting outclassed in every way by higher rarity fruits because of its lack of abilities, and the fact that later NPCs ([[Second Sea]] and [[Third Sea]]) more commonly use [[Fighting Styles]].
+* Chop's X move was similar to [[Shark Saw]]'s [X] move.
+* [[Bobby]], a Lv. 55 [[Boss]], used Chop before [[Updates/26|Update 26]].
+* Chop and [[Rocket]] were the only fruits in which the [F] move has the highest mastery requirements out of all the other move.
+* Chop is one of the only fruits whose reworks completely removed it from the game as [[Chef]] (Reworked [[Bobby]]) no longer uses it.
+* This fruit has the same fruit design even if it was reworked, similar to [https://blox-fruits.fandom.com/wiki/Rumble Rumble] (Now [[Lightning]]).
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Chop was replaced by [[Blade]].
+----
+{{Update|20}}
+* Chop Fruit's model was remade.
+: <gallery>
+Chop 150x150.png|Old Chop Fruit's icon.
+</gallery>
+----
+{{Update|1}}
+* Chop was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Резня]]

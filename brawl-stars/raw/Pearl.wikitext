@@ -1,0 +1,256 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Let Me Cook!|PrestigeTitle = Cookie Lover|Rarity = Epic|Class = Damage Dealer|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 4300|AttackRange =9 (Long)|Reload =1.5 seconds (Normal)|AttackSuperCharge =6.5%<br>0.975% (fire; with Overcooked)|AttackLabel = Minimum damage per cookie|Attack = 280|AttackSpeed =4000|AttackSpread=18°|AttackWidth=|AttackBullets=6|SuperRange =3.33 (Short)|SuperSuperCharge = 38.75%<br>10% (fire; with Hypercharge)|SuperLabel = Minimum damage|Super =1550|SuperSpread=360°|SuperSpeed=|SuperWidth=|VoiceActor=Barbara Coyle|Name=Pearl|SuperDuration=|SuperLabel2=Maximum damage|Super2=2712|AttackLabel2=Maximum damage per cookie|Attack2=490|Gadget1Name = Overcooked|Gadget1=832|Gadget1Label=Minimum damage|Gadget12=1456|Gadget1Label2=Maximum damage|Gadget1Cooldown=15 seconds|Gadget2Cooldown=11 seconds|Gadget2Name = Made With Love|Gadget2=2240|Gadget2Label=Healing|Previous=Hank|Next=Larry & Lawrie|HyperchargeMultiplier=40%|AttackHyperchargeCharge=2.6%<br>0.375% (fire; with Overcooked)|SuperHyperchargeCharge=15.5%<br>4% (fire; with Hypercharge)}}
+{{Quote|Against all odds, Pearl found her way into [[Belle]]'s and [[Sam]]'s hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?}}{{Portrait}}
+Pearl is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 20: Back to Ranger Ranch. She has moderately high health, a long range, and a variable damage output. She was the 71st Brawler added to the game. Pearl's Heat bar charges over time, and allows her to deal more damage the more it is charged. She attacks by shooting a spread-out burst of cookies in a sweeping pattern that gradually depletes her Heat. Her Super is a shockwave that deals very high damage and knocks surviving enemies back in a large radius while also destroying obstacles. Her first Gadget, Overcooked, allows her next attack to fire burning cookies at an enemy. If one of the cookies hit, it damages them over time. Her second Gadget, Made With Love, allows her next attack to heal allies over time. Her first Star Power, Heat Retention, decreases the Heat bar's reduction when using her Super. Her second Star Power, Heat Shield, reduces incoming damage while charging her Heat. Her Hypercharge, Pyrolitic, allows her Super to leave a burning area on the ground, burning enemies if they touch it.
+
+==Trait==
+{{Quote|This Brawler's damage increases slowly over time.}}{{Trait|Dmg Increase}}
+Pearl has a Heat bar that charges over time, will deplete when Pearl uses her main attack, and will reset when she uses her Super. Her Heat bar takes 9 seconds to charge up, and it gives Pearl up to a 75% damage boost to both her main attack and Super, depending on how much it's charged. 
+
+==Attack: Hot Cookies==
+{{Quote|Rapid fire hot cookies directly out from the oven, slightly cooling the oven while damaging enemies on hit. The higher the Heat the higher the damage.}}
+Pearl shoots six long-ranged cookies in a spread-out volley that sweeps from left to right. This wide spread of her attack allows it to hit multiple enemies, but makes it very inconsistent and inaccurate when dealing with one single target at a range. However, at close range she can hit all her bullets and deal very high damage. Each cookie fired will decrease her Heat bar by an equivalent of 0.38 seconds of charging time, so the damage per bullet gradually decreases within the same attack. The attack has a long cooldown, taking 0.75 seconds to complete.
+
+==Super: Let Out Some Steam==
+{{Quote|Consume and release all the built up Heat in an explosion, damaging all nearby enemies. The higher the Heat the higher the damage.}}
+After a 0.3-second delay, Pearl creates a shockwave that deals very high damage to enemies, knocks them back, and destroys cover in its 3.33-tile blast radius. If Pearl is hit with a stun, pull, or knockback during the delay, her Super is cancelled.
+
+==Gadgets==
+===Overcooked===
+{{Quote|Next basic attack shoots burning cookies, dealing 1040 extra damage over time. Cooldown: 15 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Pearl's next attack to fire six burning cookies. If one of them hits, the fire deals half a cookie's damage every second for 4 ticks. A Gadget symbol will glow above Pearl's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+===Made With Love===
+{{Quote|Next basic attack shoots perfectly baked cookies ignoring enemies and healing allies for 2800 over time instead. Cooldown: 11 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Pearl's next attack to heal allies. If one of the cookies hit, it heals for 8.9% of Pearl's maximum health every second (700 health per second at Power 11) for 4 ticks. The attack's projectiles will also turn green during the Gadget's activation. A Gadget symbol will glow above Pearl's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Heat Retention===
+{{Quote|Super will consume 50% less Heat when used.}}{{StarPower|1}}
+When using her Super, her Heat will be reduced to half of its remaining amount.
+
+===Heat Shield===
+{{Quote|While the Heat is over 80%, reduce damage taken by 20%.}}{{StarPower|2}}
+When Pearl's Heat bar is charged over 80%, she shields herself from all damage by 20%. The effect is lost if the bar is under 80%.
+
+==Hypercharge: Pyrolitic==
+{{Quote|Let Out Some Steam leaves a burning area behind for 4.5 seconds.}}{{Hypercharge}}
+When activated, Pearl's Super leaves a burning area on the ground that lasts for 4.5 seconds. It deals 800 damage, and it can hit 5 times if the enemy remains standing on the area. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attacks don't consume Heat. Start at max Heat!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>Pearl's main attack and Super always dealt maximum damage, without depleting the Heat bar.
+
+==Tips==
+===Game Modes and Maps===
+*Pearl is incredibly reliable in [[Heist]], as with enough heat built up, she can deal tremendous damage to the enemy safe, either with her basic attack or her super. Furthermore, the burn from her Overcooked gadget also works on the safe, allowing for even more damage.
+*Using her Super against the goal barrier in [[Brawl Ball]] will instantly destroy it, allowing for an easy goal for the remainder of the match.
+
+===Recommended Build===
+
+* Overcooked is easily the better of her two gadgets, as with a fully charged heat gauge, the burn from the gadget supplements her already incredible damage output to outrageous amounts. On the contrary, Made With Love is incredibly discouraged, as it has zero niche or main usage since Pearl is meant to function as an aggressive damage dealer and not a healer/support.
+
+===Other===
+*Never waste Pearl's heat. Her heat takes a fairly long time to charge up and wasting ammo will result in little damage output and not game altering at all. Instead, save up her heat and fire a burst of attacks at enemies to take most of them down. Her Heat Retention Star Power will further boost this and allow for a direct Super onto enemies and a quick burst of attacks shortly after.
+
+==Voice Lines==
+{| class="article-table"
+|+
+!Spawning
+!In the Lead 
+! Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+|-
+|{{Ogg|Filename = pearl start vo 01.ogg|Filedescription ="Let's turn up the heat and serve some justice!"}}
+|{{Ogg|Filename = pearl lead vo 01.ogg|Filedescription ="I am one yummy mommy."}}
+|{{Ogg|Filename = pearl hurt vo 01.ogg|Filedescription ="Mommy still loves you!"}}
+|{{Ogg|Filename = pearl kill vo 01.ogg|Filedescription ="That was a piece of cake."}}
+|{{Ogg|Filename = pearl die vo 01.ogg|Filedescription ="Time to cook up a new plan."}}
+|{{Ogg|Filename = pearl atk vo 01.ogg|Filedescription ="Have a cookie!"}}
+|-
+|{{Ogg|Filename = pearl start vo 02.ogg|Filedescription ="Ready to roast the competition!"}}
+|{{Ogg|Filename = pearl lead vo 02.ogg|Filedescription ="Too hot to handle."}}
+|{{Ogg|Filename = pearl hurt vo 02.ogg|Filedescription ="Always so needy!"}}
+|{{Ogg|Filename = pearl kill vo 02.ogg|Filedescription ="You've been served."}}
+|{{Ogg|Filename = pearl die vo 02.ogg|Filedescription ="I went in half-baked."}}
+|{{Ogg|Filename = pearl atk vo 02.ogg|Filedescription ="Filled with pain, but gluten-free!"}}
+|-
+|{{Ogg|Filename = pearl start vo 03.ogg|Filedescription ="Broil, boil, bake, and destroy!"}}
+|{{Ogg|Filename = pearl lead vo 03.ogg|Filedescription ="Mommy is always right."}}
+|{{Ogg|Filename = pearl hurt vo 03.ogg|Filedescription ="Settle."}}
+|{{Ogg|Filename = pearl kill vo 03.ogg|Filedescription ="You got oven'd."}}
+|{{Ogg|Filename = pearl die vo 03.ogg|Filedescription ="That's how the cookie crumbles."}}
+|{{Ogg|Filename = pearl atk vo 03.ogg|Filedescription ="Dish and dash!"}}
+|-
+|{{Ogg|Filename = pearl start vo 04.ogg|Filedescription ="Cooking up some carnage and serving it piping hot!"}}
+|{{Ogg|Filename = pearl lead vo 04.ogg|Filedescription ="Total momination."}}
+|{{Ogg|Filename = pearl hurt vo 04.ogg|Filedescription ="I'll batter ya!"}}
+|{{Ogg|Filename = pearl kill vo 04.ogg|Filedescription ="Grill to thrill!"}}
+|{{Ogg|Filename = pearl die vo 04.ogg|Filedescription ="Bruised, braised, dazed, and glazed!"}}
+|{{Ogg|Filename = pearl atk vo 04.ogg|Filedescription ="Bake and blast!"}}
+|-
+|{{Ogg|Filename = pearl start vo 05.ogg|Filedescription ="Furnace of finger-licking fury!"}}
+|{{Ogg|Filename = pearl lead vo 05.ogg|Filedescription ="Time for a nice cup of tea."}}
+|{{Ogg|Filename = pearl hurt vo 05.ogg|Filedescription ="I'm boiling over!"}}
+|{{Ogg|Filename = pearl kill vo 05.ogg|Filedescription ="You inhaled a bakery!"}}
+|{{Ogg|Filename = pearl die vo 05.ogg|Filedescription ="Time to get baked!"}}
+|{{Ogg|Filename = pearl atk vo 05.ogg|Filedescription ="Taste the love!"}}
+|-
+|{{Ogg|Filename = pearl start vo 06.ogg|Filedescription ="Dealing out delicious damage."}}
+|{{Ogg|Filename = pearl lead vo 06.ogg|Filedescription ="Revenge is a dish best served straight from the oven."}}
+|
+|{{Ogg|Filename = pearl kill vo 06.ogg|Filedescription ="Greedy guts!"}}
+|
+|{{Ogg|Filename = pearl atk vo 06.ogg|Filedescription ="Free diabetes!"}}
+|-
+|{{Ogg|Filename = pearl start vo 07.ogg|Filedescription ="I've got the recipe for destruction!"}}
+|
+|
+|{{Ogg|Filename = pearl kill vo 07.ogg|Filedescription ="Suitably satiated."}}
+|
+|{{Ogg|Filename = pearl atk vo 07.ogg|Filedescription ="Delicious destruction!"}}
+|-
+|{{Ogg|Filename = pearl start vo 08.ogg|Filedescription ="I'm more than an oven timer."}}
+|
+|
+|{{Ogg|Filename = pearl kill vo 08.ogg|Filedescription ="Carbs of carnage!"}}
+|
+|{{Ogg|Filename = pearl atk vo 08.ogg|Filedescription ="Yeast!"}}
+|-
+|{{Ogg|Filename = pearl start vo 09.ogg|Filedescription ="Heating up a serving - of misfortune cookies!"}}
+|
+|
+|
+|
+|{{Ogg|Filename = pearl atk vo 09.ogg|Filedescription ="Want milk with that?"}}
+|-
+|{{Ogg|Filename = pearl start vo 10.ogg|Filedescription ="A mom on a mission!"}}
+|
+|
+|
+|
+|{{Ogg|Filename = pearl atk vo 10.ogg|Filedescription ="Cremation station!"}}
+|-
+|{{Ogg|Filename = pearl start vo 11.ogg|Filedescription ="So many kids, so few cookies."}}
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = pearl start vo 12.ogg|Filedescription ="Home baker, world shaker!"}}
+|
+|
+|
+|
+|
+|}
+
+==History== 
+*05/09/23: 
+**{{Balance|Content=Pearl became available to play in the [[Training Cave]].|Change=Neutral}} 
+*11/09/23:
+**{{Balance|Content=Pearl, her Vintage, and her Periscope skins were added to the game.|Change=Neutral}}
+*24/10/23: 
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus was decreased to 33% (from 60%).|Change=Nerf}}
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus no longer charges her Super.|Change=Nerf}}
+**{{Balance|Content=Pearl's Overcooked and Made With Love Gadgets visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Pearl's [[Mastery]] Title was changed from "Just dough it!" to "Let Me Cook!".|Change=Neutral}} 
+**{{Balance|Content=Fixed an issue with Pearl's Hypercharge area.|Change=Neutral}}
+*27/10/23:
+**{{Balance|Content=Fixed an issue where Pearl's Super damage was not taking accumulated Heat into account.|Change=Neutral}} 
+*12/12/23:
+**{{Balance|Content=Pearl's movement speed was increased to 720 (from 670).|Change=Buff}}
+**{{Balance|Content=Pearl's rarity was changed to Epic (from Chromatic).|Change=Neutral}} 
+*27/02/24:
+**{{Balance|Content=Pearl's Pyrolitic Hypercharge damage boost was increased to 25% (from 20%).|Change=Buff}}
+**{{Balance|Content=Pearl's health was decreased to 3900 (from 4200).|Change=Nerf}}
+**{{Balance|Content=Pearl's Pyrolitic Hypercharge speed boost was decreased to 26% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Pearl's Pyrolitic Hypercharge shield boost was decreased to 5% (from 20%).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+**{{Balance|Content=Pearl's True Silver and True Gold skins were added.|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus was decreased to 25% (from 33%).|Change=Nerf}}
+*14/10/24: 
+**{{Balance|Content=The Dark Keep Pearl skin was added. It was featured as a Once Upon skin.|Change=Neutral}}
+*29/10/24: 
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus and Made With Love Gadget healing now last for 4 ticks (from 3).|Change=Buff}}
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus now takes effect instantly (from after 1 second).|Change=Buff}}
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus now charges her Super and Hypercharge.|Change=Buff}}
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus was changed to 832 (from 25% of main attack damage).|Change=Buff}}
+**{{Balance|Content=Pearl's Made With Love Gadget healing was changed to 2240 (from 25% of main attack damage).|Change=Buff}}
+**{{Balance|Content=Pearl's Made With Love Gadget healing no longer stacks with multiple hits.|Change=Nerf}}
+*31/10/24: 
+**{{Balance|Content=Pearl's Overcooked Gadget damage bonus Super and Hypercharge rate was decreased by 70%.|Change=Nerf}}
+**{{Balance|Content=Fixed an issue with Pearl's Made with Love Gadget healing ally Brawlers' pets.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Pearl's Made With Love Gadget healing no longer takes accumulated Heat into account.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Pearl's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Pearl's Wasabi Power was removed from the game.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Fixed Pearl's Hypercharged Super not dealing damage after she was defeated.|Change=Neutral}}
+*05/10/25:
+**{{Balance|Content=The Porcelain Pearl skin was added. It was featured as a Lunar Stories skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Pearl's Heat bar now charges in 11 seconds (from 12).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Pearl's Pyrolitic Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Pearl's Pyrolitic Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Pearl's health was increased to 4300 (from 3900).}}
+**{{Balance|Buff|Pearl's Heat bar now charges in 9 seconds (from 11).}}
+*25/02/25:
+**{{Balance|Buff|Pearl's minimum damage was increased to 280 per cookie (from 260).}}
+**{{Balance|Buff|Pearl's maximum damage was increased to 490 per cookie (from 455).}}
+**{{Balance|Nerf|Pearl's main attack Super charge was decreased to 93 (from 100).}}
+*30/06/26:
+**{{Balance|Buff|Pearl now uses 0.38 seconds of heat charge time per cookie (from 0.45).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Pearl's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Vintage|Cost1=Free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Dark Keep|Cost2=Free from Bolt Boxes or 79 Gems|Campaign2=Once Upon|Rarity2=Super Rare
+|Name3 = Porcelain|Cost3 = 199 Gems|Campaign3=Lunar Stories|Rarity3=Mythic
+|TrueSkins=yes
+|NameP1=Periscope|CostP1=Brawl Pass, free from Wendy Boxes or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Deep Sea League|RarityP1=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Pearl
+|-
+!Skin
+!colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Periscope}}
+{{Pin Table|Dark Keep|Angry}}
+{{Pin Table|Porcelain}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Pearl|Rarity = Common}}
+|{{Spray|Type = Pearl Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Porcelain Pearl|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Pearl1}}
+|{{Pfp|Pearl2}}
+|{{Pfp|Pearl3}}
+|{{Pfp|Periscope Pearl}}
+|{{Pfp|Porcelain Pearl}}
+|}
+
+{{Navigation}}
+[[ru:Перл]]

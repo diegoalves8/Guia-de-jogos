@@ -1,0 +1,577 @@
+{{Tabber V2
+|tab1  = Tiger
+|tab2  = Werewolf
+}}
+{{CombosTab}}
+{{About|the [[Tiger]] fruit's [[mutation]]|the [[Raid Boss]]|Unbound Werewolf}}
+{{Mutation Infobox
+|name   = Werewolf
+|image  = <gallery>
+Werewolf Fruit.png|Fruit Icon
+WerewolfFruit.gif|Fruit GIF
+Werewolf.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Transformed
+|update = 28
+}}
+
+'''Werewolf''' is a {{Mythical}} [[mutation]] of [[Tiger]]. 
+
+Werewolf allows the user to transform into an anthropomorphic wolf, granting them aggressive and powerful attacks as well as enhanced speed, agility, and offense.  Compared to [[Tiger]], it has reduced speed, accuracy, and hitboxes, in exchange for excellent offensive and self-sustain capabilities. This is largely due to its '''[Z] Finger Revolver''' ability, which deals spread damage, its passive life leech while transformed, and its Blazing Form, which heals 30% of the user's maximum health upon activation and fully restores the user’s [[health]] upon defeating another player.
+
+Werewolf also possesses a custom cutscene on its '''[C] Afterimage Assault'''. The move has less knockback and a wider hitbox (albeit slightly shorter) than its [[Tiger]] counterpart, making it good for PvP.
+
+==Obtainment==
+As a [[Mutation]], Werewolf has different obtainment methods compared to ordinary [[Blox Fruits]]. Players are able to obtain it by:
+* Rolling it through the limited-time [[Halloween Gacha Dealer|Halloween Gacha]].
+* Buying it with{{Robux|1,500}} from the mutation section of the [[Tiger]] fruit. (Must own [[Permanent Blox Fruits|Permanent]] [[Tiger]] first).
+* Buying the [[shop|Hunter Bundle]] during the 2025 Halloween event.
+* [[Trading]].
+* Randomly spawning across the map like how normal [[Blox Fruits]] spawn during the [[Events|2025 Halloween event.]]
+* Small chance by defeating the [[Unbound Werewolf|Werewolf Boss]] during the hourly [[Trick or Treating|Trick or Treat]] event.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Fire Meter
+|meter    = Fire Meter.png
+|desc     = The wielder has a meter which they start gaining during their transformation passively or landing Werewolf's moves. This allows the user to use {{Ability|C}}'s held/cutscene variant at 75% Fire Meter, and their Blazing Form at 100% (Full Meter).
+}}
+
+{{Skill/Passive
+|name     = Lava Immunity
+|file     = Hex Protection.gif
+|desc     = Once transformed, the user becomes immune to [[Lava]] puddles found on [[Hot and Cold]] and [[Magma Village]], as well as in [[Flame]] and [[Magma]] [[raids]], but not to the Lava found in [[Prehistoric Island]].
+}}
+
+{{Skill/Passive
+|name     = Overheat
+|file     = Werewolf Overheat.gif
+|desc     = The wielder enters this state after usage of the Blazing Form, by running out of Fire Meter or by untransforming early. In this state, their transformation is completely disabled. Its duration depends on how long the user was in Blazing Form. Their speed is also reduced by roughly 30%.
+}}
+
+{{Skill/Passive
+|name     = Ferocious Canine
+|file     = Ferocious Canine.gif
+|desc     = The wielder can transform into a Wolf-Human Hybrid. While in this form, they gain 3% lifesteal from damage dealt. Defeating an enemy while transformed fully makes the user "devour" them, restoring the wielder's [[health]], 33% cooldown reduction, a ~70% speed boost, a jump boost, a dash boost, and 30% damage reduction. They cannot switch to a fighting style, sword, or gun, and they cannot activate Race V4 while transformed. The wielder is incapable of going into this form whilst being Overheated.
+}}
+
+{{Skill/Passive
+|name     = Blazing Form
+|file     = werewolf blazing form.gif
+|desc     = The wielder can further push past their limits by transforming a second time after their Fire Meter is maxed out. In this form, the user's moveset changes, cooldowns are reduced by 50% of base form, and all bonuses from the earlier transformation are nearly doubled. This form lasts for 60 seconds. The wielder goes into Overheat stage after running out of Fire Meter or after untransforming.
+}}
+
+|Moveset (Normal)|
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 13.5
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The blast can [[Instinct/Break|break Instinct]], but it can be dodged on the edge.
+|gif      = Hell Hound
+|gif1     = Hell Hounds held
+|desc     = The user shoots out an explosive, purple spectral wolf head.
+|desc1    = If the move is held, the user shoots out multiple smaller, unstable wolf heads that heat-seek toward enemies and stun them briefly, and finally shoots the larger head.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 18
+|energy   = 40
+|break    = yes
+|instinct = The initial hit [[Instinct/Break|breaks Instinct]], but the second hit can be dodged.
+|gif      = Razor Winde
+|gif1     = Aerial Razor Wind
+|desc     = On ground, the user performs a 540° kick, creating a vertical forward-spinning saw-like blade of purple air that drags enemies, [[Instinct/Break|breaking Instinct]]. After the drag, the blade bursts into particles, dealing good damage.
+|desc1    = On air, the user performs a 360° tornado kick, creating a horizontal forward-spinning saw-like blade of purple air having the same properties as its ground counterpart.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 22
+|energy   = 80
+|break    = yes
+|instinct = The first few dashes can be dodged with [[Instinct]]. The slam (roar) after them can [[Instinct/Break|break Instinct]], but it can be dodged on the edge.
+|gif      = Mad Assault
+|desc     = The user rapidly teleports randomly, moving forward, then smashes the ground in a burst of purple fire creating rubble and short peaks.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = The start-up can [[Instinct/Break|break Instinct]], but it can rarely be dodged on the edge.
+|gif      = Moonlight
+|desc     = The user bathes themselves under the light of a full moon during a local nighttime lasting for a few frames, allowing them to transform into a Wolf-Human hybrid, howling and unleashing omni-directional slashes, [[Instinct/Break|breaking Instinct]].
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 13.5
+|energy   = 60
+|break    = yes
+|instinct = Does not [[Instinct/Break|break Instinct]]. However, the move grabs regardless.
+|gif      = Werewolf F (Travel)
+|gif1     = Werewolf F (Hit)
+|desc     = The user teleports behind the enemy, exactly opposite to the direction they were headed from and kicks them in a burst of energy, knocking them far away. This variant is very similar to [[Yeti]]'s {{Ability|Yeti|C}}.
+|desc1    = The moment of impact on the enemy.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = The first three M1s can rarely be dodged on the edge, but the roar [[Instinct/Break|breaks Instinct]].
+|gif      = Werewolf M1 (Transformed)
+|desc     = The user performs a close-range combo consisting of swings with alternating claws twice, following with a swift kick forward and roaring, dealing high damage in total and [[Instinct/Break|breaking Instinct]].
+}}
+
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 13.5
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The blast can be dodged on the edge and/or if far enough.
+|gif      = HellHound 2
+|gif1     = HellHounds 2
+|desc     = The user shoots out a larger explosive, purple spectral wolf head. This has larger [[AoE]] and range than its untransformed counterpart.
+|desc1    = If the move is held, the user shoots out multiple smaller, unstable wolf heads that heat-seek toward enemies and stun them briefly, and finally shoots the larger head.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = yes
+|instinct = The projectile and the explosion can be dodged on the edge. [[Instinct/Break|Breaks Instinct]] if hit directly by the projectile and if too close to the explosion.
+|gif      = Werewolf X Ground (Transformed)
+|gif1     = Werewolf X Air (Transformed)
+|desc     = On ground, the user performs a 540° kick, creating a vertical forward-spinning, fierce saw-like blade of purple air that drags enemies, [[Instinct/Break|breaking Instinct]]. After the drag, the blade explodes, dealing good damage. This is much faster than its untransformed counterpart.
+|desc1    = On air, the user performs a 360° tornado kick, creating a horizontal forward-spinning, fierce saw-like blade of purple air that drags enemies, [[Instinct/Break|breaking Instinct]] and exploding into an upward spiral, dealing good damage. This, too, is much faster than its untransformed counterpart.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 20
+|energy   = 80
+|break    = yes
+|instinct = Both the tap and held version [[Instinct/Break|break Instinct]].
+|gif      = Madness Assault
+|gif1     = Werewolf C Held (Transformed)
+|desc     = If tapped, the user moves forward in a frenzy, gashing and clawing all that is nearby them, then smashes the ground in a burst of purple flames and energy creating similar rubble to its untransformed counterpart. Using this variation will grant the user a purple fire effect on their body, similar to how Overheat looks, giving the user a 35% speed buff for 3-4 seconds.
+|desc1    = If held, the user enters a stance under fierce purple aura. Upon release, a cutscene initiates in which the user deals a knee to the gut of the enemy and slashes three times, kicking them away and dealing very high damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 4.5
+|energy   = 20
+|break    = yes
+|instinct = The explosion when entering blazing form [[Instinct/Break|breaks Instinct]], but it can be dodged on the edge.
+|gif      = Werewolf V Meterless (Transformed)
+|gif1     = Second Flame
+|desc     = The user transforms back into their human form instantly. This reverts the user to their normal state, removing their ability to use Werewolf's transformed moves, but in turn restores their ability to use Fighting Styles, Swords, and Guns.
+|desc1    = Alternatively, if the user's Fire Meter is full, they will transform into their Blazing Form.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = no
+|instinct = Does not [[Instinct/Break|break Instinct]]. However, the move grabs regardless.
+|gif      = Body Step
+|gif1     = Werewolf F Hit (Transformed)
+|desc     = The user teleports behind the enemy, exactly opposite to the direction they were headed from and kicks them in a burst of energy, knocking them far away. This variant is very similar to [[Yeti]]'s {{Ability|Yeti|C}}.
+|desc1    = The moment of impact on the enemy.
+}}
+
+|Moveset (Blazing Form)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = The first three M1s can rarely be dodged on the edge, but the roar [[Instinct/Break|breaks Instinct]].
+|gif      = Werewolf M1 (Blazing)
+|desc     = The user performs a combo consisting of two claw slashes with alternating claws, a slash upward and an intense roar, dealing high damage in total and [[Instinct/Break|breaking Instinct]].
+}}
+
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The blast can be dodged on the edge and/or if far enough.
+|gif      = HuntingHound
+|gif1     = HuntingHounds
+|desc     = The user shoots out an explosive, purple spectral wolf head.
+|desc1    = If the move is held, the user shoots out multiple smaller, unstable wolf heads that heat-seek toward enemies and stun them briefly, and finally shoots the larger head, exploding into purple-green flames. All the heads are even larger and the attack speed is even faster than the transformed version.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = The projectile and the explosion can be dodged on the edge. [[Instinct/Break|Breaks Instinct]] if hit directly by the projectile and if too close to the explosion.
+|gif      = Night Shade
+|desc     = The user shoots out a large purple wolf head projectile similar to {{Ability|Z}}'s, that flies out at a high speed and explodes into purple-green flames on impact, or once it has reached its range.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 11
+|energy   = 80
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = MirageAssault
+|desc     = The user rushes forward in a fast frenzy, gashing and clawing all that is nearby them, then smashes the ground in a burst of purple-green flames and energy creating similar rubble to the other counterparts. This move is faster and deals higher damage than the transformed version. Using this move will also grant the user a purple fire effect on their body, similar to how Overheat looks, giving the user a 35% speed buff for 3-4 seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3.3
+|energy   = 20
+|instinct = Does not deal any damage.
+|gif      = Werewolf V (Blazing)
+|desc     = The user transforms back into their human form instantly, igniting the user on fire, overheating the user. This reverts the user to their normal state, removing their ability to use Werewolf's transformed moves, but in turn restores their ability to use Fighting Styles, Swords, and Guns.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Werewolf F Travel (Blazing)
+|gif1     = Werewolf F Hit (Blazing)
+|desc     = The user blitzes the enemy, going upward and punches them downward in a burst of phantomic flames, dealing good damage.
+|desc1    = The moment of impact on the enemy.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* High trade value. 
+* Most moves have low-end lag maneuvers.
+* High damage.
+* Great mobility.
+* All moves are multi-target and most can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Finger Revolver'''
+* Great range.
+* Okay [[Area of Effect|AoE]].
+* High effective up close, being able to deal extreme damage.
+* Heat-seeks. (towards the Users mouse).
+
+|'''[X] Spiraling Kick'''
+* Decent [[Area of Effect|AoE]].
+* Long range.
+* High speed.
+* Low endlag.
+* Great combo potential, enemy hitbox is visually displaced similar to how [[Cursed Dual Katana]]'s {{Ability|Cursed Dual Katana|Z}} works.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Good damage.
+
+|'''[V] Transformation'''
+* Decent damage.
+* Quick transformation.
+
+|'''[F] Body Flicker'''
+* Decent mobility.
+* Decent for extending combos.
+* Animation can make the move harder to punish when Instinct-tricked.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Not recommended for [[First Sea|First]] / Early [[Second Sea]] players due to its high mastery requirements and mediocre grinding capabilities.
+* Very expensive and difficult to obtain.
+* Long cooldowns in base compared to other [[Beast]]-type fruits.
+* Because of its strong close-range and underground abilities, Werewolf can easily be countered by [[Ice]] because Werewolf does not replenish its [[health]] or stun ability effectively.
+* All moves can be dodged with [[Instinct]].
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+* Extremely hard to hit at a distance 
+* Heat-seeking can be unreliable, and the final head requires near-perfect aim.
+
+|'''[X] Spiraling Kick'''
+* Quite high knockback.
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* The first few dashes can be dodged using [[Instinct]].
+* The opponent can punish it if timed correctly.
+* Still has bad knockback.
+
+|'''[V] Transformation'''
+* Does not grant i-frames while transforming.
+
+|'''[F] Body Flicker'''
+* The range is quite low, so the move is hard to hit.
+* Takes a bit of time to fully execute after hitting an enemy, possibly leaving the user vulnerable to damage if used against a group of [[Enemies|NPCs]].
+* Camera warp can be annoying to non-shiftlock users.
+* Knockback applied is exactly opposite from the angle the opponent is first hit with the move, which can be very disorienting to extend from due to the camera angle not adjusting accordingly.
+* Slow compared to its transformed variants.
+}}
+}}
+
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Provides a small damage reduction. (Roughly 30%)
+* Gain a speed buff (~70%) and a [[Air Jump|jump]] buff.
+* Moves deal more damage and have lower cooldowns.
+* Easy to use. 
+* Small hitbox compared to other transformations.
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Fast M1.
+* Decent damage.
+* The roar has decent [[Area of Effect|AoE]].
+
+|'''[Z] Finger Revolver'''
+* Very high reach.
+* Extreme damage up-close.
+* Heat-seeks. (towards the Users mouse)
+
+|'''[X] Spiraling Kick'''
+* Long range.
+* Very high speed.
+* Good combo extender/starter.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Boosts the user's speed for a while.
+* Huge damage (when held).
+* The held version has little-to-no end-lag.
+* Has less knockback than [[Tiger]] held [C], making it easier to extend from.
+
+|'''[F] Body Flicker'''
+* Good mobility.
+* Lesser knockback than [[Tiger]], making it better for combos.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Cannot use [[Fighting Styles|fighting styles]], [[swords]], or [[guns]] while transformed.
+* Most moves can be dodged with [[Instinct]].
+* Not recommended for water travel while transformed, since over water its dashes become quite short, and the C move is its main source of mobility.
+* Movement speed is slower than [[Tiger]].
+* Spammy and not many combos are possible with it.
+* Although it is said that the Werewolf is stronger than the Tiger fruit, the damage seems to be the same in mlst of the attacks, with only the Z and Blazing Form C being stronger than the Tiger's (However, Tiger's Z is still overall better because it is easier to hit.)
+
+|'''[TAP] Normal Attack'''
+* Short range, so it is not recommended to spam with it in PvP.
+* Might be difficult to use in grinding due to knockback.
+
+|'''[Z] Finger Revolver'''
+* Still hard to hit compared to [[Tiger|Tiger's]] [Z].
+
+|'''[X] Spiraling Kick'''
+* Quite high knockback, making it difficult to use in combos and grinding.
+* Not difficult to avoid.
+* Hard to aim when on the ground (the kick is vertical instead of horizontal)
+* Can be Instinct-Tricked with Instinct.
+
+|'''[C] Afterimage Assault'''
+* The held version requires precision to hit and it has very low range.
+* The held version requires a huge chunk of the Fire Meter in order to execute.
+* The user doesn't gain i-frames whilst holding the move, making them vulnerable to attacks, which is bad for 2v1 fights.
+
+|'''[F] Body Flicker'''
+* Although having a longer range and hitbox, this move is still hard to hit.
+* Can be disorienting.
+* Does not break Instinct.
+}}
+}}
+
+|-|Blazing Form=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Blazing Form
+|'''General'''
+* Cooldowns are reduced even more.
+* Even greater speed, dash, and jump buff.
+* Defeating a player during the Blazing Form fully restores the user's [[health]].
+* Faster move speed.
+* Extremely powerful in un-organized FFA/wars, as the Devour passive heals user's HP to max upon getting a kill.
+
+|'''[TAP] Normal Attack'''
+* Deals higher damage.
+* Large [[Area of Effect|AoE]].
+
+|'''[Z] Finger Revolver'''
+* The held version's projectiles have auto-aim, making them easier to hit.
+* Extreme damage.
+* Long range.
+* Heat-seeks. (towards the Users mouse)
+
+|'''[X] Spiraling Kick'''
+* Very long range.
+* Good stun.
+* Decent [[Area of Effect|AoE]].
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Insane damage.
+
+|'''[V] Transformation'''
+* Decent damage.
+* Decent [[Area of Effect|AoE]].
+
+|'''[F] Body Flicker'''
+* Decent mobility.
+* High damage.
+* Grants i-frames during the move.
+* Can bypass [[Ghost|Ghost's]] Resurrection passive. (''Needs testing'')
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Blazing Form
+|'''General'''
+* Requires full Fire Meter in order to transform.
+* Lasts for only 60 seconds.
+* Not good for grinding due to most moves having high knockback.
+* Untransforming grants the '''Overheat''' status, lowering the user's speed and disadvantaging them mid-fight.
+* All moves can still be dodged with [[Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Still has short range.
+* Might be difficult to use in grinding.
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+* Strange hitboxes.
+
+|'''[X] Spiraling Kick'''
+* High knockback, making it bad for combos and grinding.
+* Requires decent skill to aim.
+* Somewhat slow compared to Tiger's version.
+
+|'''[C] Afterimage Assault'''
+* Makes the user vulnerable if missed.
+* Not the best move for grinding.
+
+|'''[F] Body Flicker'''
+* Still might be difficult to hit.
+* Decent end-lag.
+}}
+}}
+</tabber>
+
+== Trivia ==
+* Werewolf is the first [[Mutations|Mutation]] added to the game.
+** This is evident in the fact that the moves share names with [[Tiger]] ,while newer ones (like [[Empyrean]]) do not. And it only really has 1 'mutated' move.
+*** '''[F] Body Flicker''' barely has a difference, simply having a slightly altered animation, and lowered knockback.
+* Upon defeating players in Blazing Form, the user’s health fully regenerates.
+* The user lets out a loud howl after 'devouring' an enemy in the Blazing Form. This does have an animation, but it is extremely short and is barely noticable.
+* Transforming disables the user's ability to sit down on a [[boats|boat]] and/or [[Shipwright|repair]] it.
+* Werewolf's {{Ability|V}} removes fog effects for the duration of the roar.
+** This can be very useful in areas like the [[Mirage Island]], since it has a low cooldown, and illuminates the area, making the user finding [[Advanced Fruit Dealer]] or [[Blue Gear]] more easier.
+** Sometimes, the user will be abruptly teleported to a nearby location after briefly teleporting to the [[sea]], rather than their exact position prior to the glitch happening. When at [[Castle on the Sea]], [[Hydra Island]], or near [[Mansion (Third Sea)|Mansion]], the user may be teleported to the [[Third Sea|third sea]] [[portals]], causing them to go back and forth between islands if they have access.
+** There is also a very rare chance the user will not be teleported back and will be stranded at [[sea]].
+** Sometimes, the fruit's icon does not show in the [[inventory]]. (Fixed) 
+** Although Z's skill (Transformed and Blazing Version) is known for having a ridiculous hit rate, using this skill very close to the opponent (precisely from up to down) can almost one-hit kill any player, as its damage is absurdly broken. It is probably why the move functions in such a unique manner.
+*Despite not being entirely related, Werewolf seems to be more parallel to [[Yeti]], both being mythical, wild beasts.
+*The Werewolf skin had a tag named "Feral". This was available before the configurator update.
+
+==Gallery==
+<gallery>
+File:WerewolfUnderATree.jpg|A player finding a physical Werewolf fruit under a tree.
+</gallery>
+
+==Change History==
+{{Change History|28|content={{Update|29.2}}
+* Werewolf was heavily buffed.
+** New passive: Rabies 
+***  User heals 3% HP of all dmg dealt when transformed.
+** Transformed
+*** {{Arrow|buff}} [Z] Final head damage increased by 30%, hitbox increased by 5%
+*** {{Arrow|buff}} [X] windup removed, hitbox increased by 10%
+*** {{Arrow|buff}} [C] range increased by 20%, hitbox increased by 10%
+*** {{Arrow|buff}} [C] hold cast time reduced, hitbox increased by 10%
+*** {{Arrow|neutral}} [F] no longer breaks instinct. 10% more range, cooldown reduced.
+** Blazing form
+*** {{Arrow|buff}} [Z] knockback decreased by 30%
+*** {{Arrow|buff}} [X] speed increased by 20%
+*** {{Arrow|buff}} [C] damage increased by 20%, speed increased by 15%, hitbox increased by 15%
+*** {{Arrow|buff}} [V] heals 30% of maximum HP when effected by rabies.
+*** {{Arrow|buff}} [F] windup decreased by 30%
+----
+{{Update|28}}
+*Werewolf was released.
+**Werewolf was buffed.
+** {{Arrow|buff}} M1s now break [[Instinct]].
+** {{Arrow|buff}} [Z] Finger Revolver: Final projectile breaks Instinct, has larger [[AoE]] and hitbox. Blazing Form’s final strike has increased range.
+** {{Arrow|buff}} [X] Spiraling Kick: Now breaks Instinct (both grounded and aerial).
+** {{Arrow|buff}} [C] Afterimage Assault: Improved hitboxes for both versions.
+** {{Arrow|buff}} [F] Body Flicker: While in Blazing Form, user has frames while performing the move.
+**{{Arrow|buff}} Blazing Form’s [X] damage buffed 80%.
+***{{Arrow|buff}} Blazing Form’s [X] hitbox drag buffed.
+****{{Arrow|buff}} Blazing Form’s [X] no longer traps targets in ground or walls.
+**{{Arrow|buff}} Blazing Form’s [C] Damage Buffed.
+**{{Arrow|buff}} Blazing Form’s [F] Damage Buffed.
+***{{Arrow|buff}} Blazing Form’s [F] Breaks [[instinct]].
+**{{Arrow|buff}} Blazing Form [C] breaks [[instinct]].
+**{{Arrow|buff}} M1 Push-Forward reduced 50%.
+**{{Arrow|buff}} Werewolf life-steal passive buffed: Defeating an enemy with any move while in Blazing Form will now fully restore the user’s [[Health]].}}
+
+==Navigation==
+{{Mutation Navbox}}
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[Category:Mutated Fruits]]
+[[ru:Оборотень]]

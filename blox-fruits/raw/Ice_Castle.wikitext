@@ -1,0 +1,105 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Ice Castle
+|image    = Ice Castle.png
+|type     = Island
+|sea      = Second Sea
+|level    = 1350-1425
+|music    = Uneasy Peace
+|prev     = Cursed Ship
+|next     = Forgotten Island
+}}
+The '''Ice Castle''' (also known as '''Winter Castle''' on [[Portal]]'s '''[C] World Warp''' GUI) is an [[Locations|island]] in [[Second Sea]].
+
+==Appearance==
+The Ice Castle is vast, with a massive castle towering over the island. There are chunks of flat ice cubes lying around the island on the water and in front of the island.
+
+==Location==
+The Ice Castle is located north of [[Dark Arena]], in the [[Second Sea]]. 
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Set Home Point]]
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Frost Quest Giver]]
+* [[Phoeyu, the Reformed]]
+* [[Barista Cousin]] (Sometimes) 
+|
+* [[Arctic Warrior]]
+* [[Snow Lurker]]
+|
+* [[Awakened Ice Admiral]]
+|}
+
+==Obtainable Items==
+{| class="article-table"
+!Item
+!Source
+|-
+|[[Library Key]]
+|[[Awakened Ice Admiral]]
+|-
+|[[Hidden Key]]
+|
+* [[Arctic Warrior]]
+* [[Snow Lurker]]
+* [[Awakened Ice Admiral]]
+|-
+|[[Rengoku]]
+|[[Hidden Key]]
+|-
+|[[Death Step]]
+|[[Phoeyu, the Reformed]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" |[[Frost Quest Giver]]
+|[[Arctic Warrior]]
+|1350
+|Defeat 8 [[Arctic Warrior]]s.
+|{{Money|12,250}}<br />{{EXP|41,000,000}}
+|-
+|[[Snow Lurker]]
+|1375
+|Defeat 8 [[Snow Lurker]]s.
+|{{Money|12,500}}<br />{{EXP|43,000,000}}
+|-
+|[[Awakened Ice Admiral]]
+|1400
+|Defeat [[Awakened Ice Admiral]].
+|{{Money|20,000}}<br />{{EXP|45,000,000}}
+|}
+
+==Chests==
+There are a total of 9 chests:
+* 1 Diamond Chest
+* 5 Golden Chests
+* 3 Silver Chests
+
+==Notes==
+* Once using the [[Library Key]] on the door in the castle to access the NPC [[Phoeyu The Reformed]], it will save, which means that the player can come back whenever they want, even after leaving the game.
+* The [[Hidden Key]] and [[Library Key]] obtained from any of the NPCs do '''NOT''' save on the players [[inventory]] if they leave the game.
+* The [[Hidden Key]] can be used by going underneath the side of the stairs [[Awakened Ice Admiral]] spawns on, then after going through the wall, the player can find a black colored [[Chests|chest]] with a keyhole, use the Key on it, and they will be rewarded with the {{Legendary}} sword, [[Rengoku]].
+* The Ice Castle is commonly visited by high-level players to get a [[Hidden Key]] for [[Rengoku]], so the player should be careful when grinding here.
+
+==Trivia==
+* Until [[Updates/24|Update 24]], the player could fly through [[Hoops]] to change their appearance if they were using the [[Dragon]] fruit.
+
+==Change History==
+{{Change History|13}}
+
+==Navigation==
+{{IslandNavigation}}

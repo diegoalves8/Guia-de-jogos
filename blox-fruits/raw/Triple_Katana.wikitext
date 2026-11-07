@@ -1,0 +1,120 @@
+{{CombosTab}}
+{{About|the {{Uncommon}} sword|the {{Mythical}} sword|True Triple Katana}}
+{{Weapon Infobox
+|name     = Triple Katana
+|image    = <gallery>
+TripleKatana.png|Icon
+Triple Katana EQ.png|In-Game
+Triple Katana Held.png|Held
+Triple Katana (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type     = Sword
+|rarity   = Uncommon
+|update   = 1
+
+<!-- Weapon Obtainment -->
+|sea      = 1
+|location = Frozen Village
+|obtain   = Buy from
+|source   = [[Sword Dealer of the East]]
+|price    = {{Money|60,000}}
+}}
+{{Quote|Where would you fit a fourth one, anyway?|Item}}
+The '''Triple Katana''' is an {{Uncommon}} [[sword]].
+
+Usually bought by [[First Sea]] players, it remains decent for early grinding, as it is very cheap, and has small upgrade costs, however, it has a dash at the fourth m1, slightly reducing the efectiveness for grinding with this sword.
+
+==Obtainment==
+The Triple Katana can be bought for {{Money|60,000}} from the [[Sword Dealer of the East]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Triple Katana M1
+|desc     = The player does 3 slashes, then performs a dash on the fourth. (The dash can stun enemies for a brief amount of time if you hit them with it)
+}}
+
+{{Skill
+|key      = Z
+|name     = Air Slashes Barrage
+|mastery  = 20
+|cooldown = 7.5
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = New_air_slashes_barrage
+|desc     = The user swings their swords in front of them, releasing blue air slashes in the direction of their cursor. These air slashes will damage enemies upon contact.
+}}
+
+{{Skill
+|key      = X
+|name     = Violent Rush
+|mastery  = 60
+|cooldown = 12
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = ViolentRushs
+|desc     = The user lifts their swords and charges forward, leaving behind a trail of blue-colored air slashes. These slashes will damage enemies upon contact.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Affordable price.
+* Decent option for beginners.
+* Low mastery requirements.
+
+|'''[Z] Air Slashes Barrage'''
+* Quick start.
+* Moderately fast projectiles.
+* Good combo starter for early [[First Sea]] weapons.
+* Deals [[AoE]] damage.
+
+|'''[X] Violent Rush'''
+* Good mobility.
+* Deals [[AoE]] damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Dash at the fourth swing, making it not very suitable for grinding.
+* Slower swing speed and only slightly higher damage compared to its predecessor, [[Dual Katana]].
+* Cannot hit [[Blade]] users.
+
+|'''[Z] Air Slashes Barrage'''
+* Short ranged.
+
+|'''[X] Violent Rush'''
+* Short ranged.
+* Slight end-lag, making it not very suitable for PvP.
+}}
+</tabber>
+
+==Trivia==
+* The [[Vice Admiral]], [[Fishman Commando]]s, [[Marine Captain]]s, and [[Cake Guard]]s use the Triple Katana as their weapon.
+* The Triple Katana is one of the only three [[Swords]] in the game that have three [[Swords]] combined to form one. (Triple Katana, [[True Triple Katana]] and [[Triple Dark Blade]]).
+* Most people consider this as a "fake" or "walmart" [[True Triple Katana]], however, this [[Swords|sword]] was released BEFORE [[True Triple Katana]].
+* Strangely, this [[Swords|sword]] is much pricier than three separate [[Katana|katanas]], whereas 3 [[Katana|katanas]] would have cost{{Money|15,000}}, this [[Swords|sword]]'s price is {{Money|60,000}}, making this 4x more expensive.
+* The Triple Katana shares the same holding animation as The [[Triple Dark Blade]] and The [[True Triple Katana]] due to all of them being three swords being held at the same time.
+
+==Change History==
+{{Change History|1|content=
+{{Update|20}}
+* Triple Katana was reworked.
+----
+{{Update|1}}
+* Triple Katana was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

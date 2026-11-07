@@ -1,0 +1,148 @@
+{{Tabber V2
+|tab1 = Combat
+|tab2 = Advanced Combat
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name     = Advanced Combat
+|sea      = 1 
+|update   = 30
+|source   = Secrets Master
+|location = Middle Town
+}}
+'''Advanced Combat''' is a [[Fighting Styles|Fighting Style]] obtainable in the [[First Sea]], which serves as a direct successor to [[Combat]]. It has several time-based obtainment steps and a lot of random spawns, making it arguably the most time-consuming and the hardest fighting style to obtain in Blox Fruits across all seas.
+
+==Obtainment==
+# The player has to interact with the [[Secrets Master]] after completing all [[Island Secrets]] in the First Sea. That NPC will tell the player three stories when they choose the "Tell me some stories" option, each one describing an island.
+# It should be able to, then, use the [[Middle Town]]'s teleporter to go to the islands in the order that the Secret Master gave. Afterward, the Middle Town's fountain water will turn off for the player, making the option at Secrets Master disappear.
+# The teleporter must now be used to select the islands in the following order: [[Pirate Starter]] or [[Marine Starter]], [[Jungle]], [[Pirate Village]], [[Desert]], [[Frozen Village]], [[Marine Fortress]], [[Skylands|Lower Skylands]], [[Prison]], [[Colosseum (First Sea)|Colosseum]], [[Magma Village]], [[Underwater City]], [[Upper Skylands]], [[Fountain City]]. Then the user should teleport back to the Starter Island to receive the final secret and unlock access to the advanced combat puzzle.
+# The player must now go to the [[Remove Blox Fruit]] NPC at the top of [[Prison]] to remove their fruit. Talk to the NPC again and select the new option: "Remove my Fighting Style". This will give the player the Combat fighting style.
+# The player must defeat one of each [[Awakened Bosses|Awakened boss]] using [[Combat]] only, with each kill restoring parts of the fountain. After the fountain is restored back to normal, the Secrets Master will now be able to give Advanced Combat, as well as let the player swap back to Combat whenever they want.
+
+Upon obtaining Advanced Combat, the player will receive the [[Titles|title]], {{Title|Class S|outline=1}} (#151).
+
+==Tips==
+* There is no level requirement for unlocking Advanced Combat besides the levels you earn from completing the Island Secrets.
+** This also applies to all the steps mentioned above including talking the [[Remove Blox Fruit]] [[NPCs|NPC]].
+* Server hopping or restarting a private server is recommended for completing the step for killing every awakened boss with Combat.
+** Upper Skylands has 2 awakened bosses. You'll know which one awakens as they both have 2 different hints from the Secrets Master tied to their awakening minigame. Such as for Sky warlord, the secret master's hint is  "Forecast for a storm at Upper Skylands" while for Lightning god  "It's a beautiful day at Upper Skylands."
+* [[Private Servers]] are recommended for completing time-based island secrets events as the player can choose which island an event will spawn on.
+* The player can use [[Ghost]]'s "V" ability, [[Buddha]], [[Cyborg]] V3's [[Energy Core]], [[Angel]] V4's [[Angel|King's Rule]], and [[Draco]] V3's [[Flash Step]] passive to make killing each awakened boss significantly easier.
+** The player can use Ghost's "V" to spawn clones that will also use Combat to deal damage, as long as the player is holding Combat out. The player must be careful to not swap to a [[Sword]] or [[Gun]], as the clones will start to use that instead, resulting in the attempt failing.
+* Other players can help the player to kill the Awakened Bosses. As long as the player uses only Combat, the other players do not need to use Combat as well, although they won't get credit for Advanced Combat.
+
+==Abilities==
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = No
+|gif      = Combat 30 M1
+|desc     = The user punches with their fists 4 times. Right hook, left hook, uppercut and a punch. These are the exact same as Combat.
+}}
+
+{{Skill
+|key      = Z
+|name     = Meteor Tackle
+|mastery  = 1
+|energy   = 15
+|cooldown = ~8
+|break    = No
+|instinct = Cannot break [[Instinct]] in any way.
+|gif      = Meteor Tackle
+|desc     = The user shortly dashes forward, tackling any enemies ahead and dealing decent damage. This move is very similar to Combat [Z], except it can be aimed in any direction.
+}}
+
+{{Skill
+|key      = X
+|name     = Ground Breaker
+|mastery  = 100
+|energy   = 30
+|cooldown = ~13
+|break    = Yes
+|instinct = Only breaks [[Instinct]] on the first hit, the rest is [[Instinct]]-trickable.
+|gif      = Ground Breaker miss
+|gif2     = Ground Breaker
+|desc     = The user slams the ground, creating a crater, sending rocks flying. This is purely visual and only occurs when the user misses.
+|desc2    = The user slams the ground, creating a crater, and sending the opponent comically flying into rocks due to the sheer force of the slam before they get slammed back down.
+}}
+
+{{Skill
+|key      = C
+|name     = Charged Punch
+|mastery  = 200
+|cooldown = ~17
+|energy   = 50
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if the opponent is extremely close to the user. If distant, the move can be easily dodged.
+|gif      = Charged Punch
+|gif2     = Charged Punch 2
+|desc     = The user pulls back their fist and punches, creating a shockwave.
+|desc2    = Holding the move down for 2 seconds makes the shockwave larger and longer when released.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Most attacks can be good for grinding.
+* Requires no mastery in other fighting styles to obtain.
+
+|'''[Z] Meteor Tackle'''
+* Considerably short cooldown.
+* Good mobility, especially midair.
+
+|'''[X] Ground Breaker'''
+* Highest damage out of any single melee move.
+* Can be used as a stun when teaming.
+* Drains plenty of dodges if instinct-tricked.
+* Applies a small soft stun after the final slam, allowing the user to extend should they have a fast enough move (e.g: Sand Coffin) to do so.
+
+|'''[C] Charged Punch'''
+* Good finisher for combos.
+* Good reversal.
+* High damage and AoE if held.
+* Can chain directly into Ground Breaker if aimed downwards.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Extremely hard to obtain for most players.
+* Slow M1 speed.
+* Incredibly low range.
+* Mostly instinct-trickable
+
+|'''[Z] Meteor Tackle'''
+* Can be dodged with [[Instinct]].
+* Low damage.
+
+|'''[X] Ground Breaker'''
+* Hard to hit.
+* Small AoE.
+* Enemy's landing point is random, requiring the user to actively watch where the opponent lands to utilize in a combo.
+* Won't pin enemies down if Instinct-tricked up high, midair.
+* Can be instinct-tricked.
+* Very high endlag if hit, which can be a great issue when fighting multiple enemies.
+* Endlag extends 0.2 seconds after the stun has ended, making it nearly useless against a well timed [[Flash Step]].
+
+|'''[C] Charged Punch'''
+* Breaks Instinct only at closest range.
+* High knockback.
+* Low range.
+* Long cooldown.
+* Long charge time.
+}}
+</tabber>
+
+==Trivia==
+* This is the only improved version of a fighting style without a [[Mastery|mastery]] requirement from its previous version, which is Combat.
+* The player can acquire this fighting style at any level. However, the minimum [[Level]] a user can have to get this fighting style is 196, due to the levels given by completing all of the Island Secrets.
+* Using [X] Ground Breaker in longer lasting AoE moves can hit during the stun breaking Instinct, which allows it to become true.
+** Only moves that break Instinct and have a long duration can do this. For example [[Skull Guitar]] [X] or [[Venom]] [C].
+
+==Change History==
+{{Change History|30}}
+
+==Navigation==
+{{Fighting Style Navbox}}

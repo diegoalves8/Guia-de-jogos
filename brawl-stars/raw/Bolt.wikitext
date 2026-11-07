@@ -1,0 +1,212 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title=Baller|PrestigeTitle=Battle Bumper|Rarity=Epic|Class=Tank|MovementSpeed=545 (Very Slow)<br>1635 (full speed)|HealthLabel=Health|Health=5000|Reload=2.2 seconds (Very Slow)|AttackSuperCharge=6.525–9.25%<br>19.575–27.75% (with attack)|AttackLabel=Min. Damage|Attack=524|AttackLabel2=Max. Damage|Attack2=740|SuperSuperCharge=4.725%<br>7.075% (with attack)|SuperLabel=Damage per second|Super=700|SuperDuration=4 seconds|VoiceActor=Martin Schjøler|Gadget1Name=Oil Change|Gadget1Cooldown=15 seconds|Gadget2Name=Bouncy Ball|Gadget2=960|Gadget2Label=Damage|Gadget2Cooldown=20 seconds|Previous=Trunk|Next=Mortis|Gadget2Range=4|Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=1.95%–2.775%<br>5.85%–8.325% (with attack)|SuperHyperchargeCharge=1.4%<br>2.1% (with attack)}}
+{{Quote|Bolt is a toy from the Battle Bumperz line, designed to deal damage by rolling into things. He was built to battle, but always wanted to be a race car, so he reaches dangerous speeds to live out his dreams. Don't get in his way!}}{{Portrait}}
+Bolt is an {{Rarity|Epic}} [[Brawler]] who has high health, a variable damage output, and great mobility with his movement speed, but suffers from having a very slow reload speed and initial movement speed. He was the 104th Brawler added to the game. His Traits allow Bolt to charge his Super while moving, and to increase his movement speed by moving. He attacks by rolling into enemies, as well as being able to consume ammo to double his damage. The faster his movement speed is, the more damage he deals. His Super temporarily sends him into overdrive, gaining speed and a damage reduction shield in the process, while also leaving behind a trail of lightning, burning enemies if they touch it. His first Gadget, Oil Change, grants him a shield that absorbs damage and decays over time, which is based of his current movement speed. His second Gadget, Bouncy Ball, makes him jump, deal damage and break obstacles upon landing, at the expense of losing all of his movement speed. His first Star Power, Toss Up, knocks enemies back after reaching top speed. His second Star Power, Unstoppaball, makes him immune to crowd control for 1 second and gains a movement speed boost while his Super is active. His Hypercharge, Bowling Bolt, makes his Super destroy obstacles when in contact.
+
+==Traits==
+===Move===
+{{Quote|Charges their Super while moving.}}{{Trait|Move}}Whenever Bolt moves, he charges his Super and Hypercharge. To fully charge his Super, Bolt needs to move 240 tiles.
+
+===Speed===
+{{Quote|Movement speed increases while moving.}}{{Trait|Speed}}Bolt has a meter consisting of 7 lights underneath his health bar. He also has a needle in front of him that shows the direction he is currently moving, accompanied by an indicator that is centered in the direction he was moving a short moment ago. The indicator has 7 sections, each corresponding to a range of angles. Bolt's movement speed initially starts very slow, but as he moves forward in a straight-ish line (indicated by the needle staying within the indicator's center section), his movement speed will gradually increase, filling each light in the meter as it does so. More specifically, it takes 0.65 seconds of moving forwards to charge 1 light, or 4.55 seconds to fully charge it. After charging 7 lights he will reach maximum speed and the bar will turn yellow. If Bolt takes a sharp turn (indicated by the needle moving out of the indicator's center section), the lights will start to deplete and his speed will rapidly decrease until it moves back into the center section.
+
+The lights are only a visual indicator of how much speed he has; the lights themselves do not give him the increased movement speed. If Bolt stops moving, all lights deplete, and he must begin moving again to regain them. In [[Brawl Ball]], Bolt's speed is restricted to three and a half lights while carrying the ball.
+
+==Attack: Battle Bumper==
+{{Quote|Bolt can deal damage by rolling into other Brawlers! The faster his movement speed is, the higher his damage.<br>With his main attack Bolt vents excess heat, dealing double damage and gaining speed!}}
+Unlike other Brawlers, Bolt does not damage with an ammo consuming attack, and instead deals damage by coming into contact with enemy Brawlers. Once his hitbox comes in contact with the enemies' hitbox, he will deal moderate damage to them, with a significant cooldown between hits (1.25 seconds). The more speed he has, the higher is the damage; however, the damage only scales with the speed Bolt gains, not from any external speed buffs. Bolt can also continue healing from auto-regeneration even after dealing damage this way, as long as he doesn't use ammo. The Super charge from rolling into enemies scales with Power Levels, and also with any damage buff or debuff.
+
+Bolt still has ammo like other Brawlers; using this ammo doubles the damage Bolt deals for the next 0.8 seconds and grants him 2 more lights on his speed bar if he is moving. In addition, for that duration Bolt's Super charge rate will be increased by 50% from what it otherwise would have been. However, Bolt only has 2 ammo slots and a slow reload speed.
+
+==Super: Overdrive==
+{{Quote|Bolt goes into overdrive, gaining speed and damage reduction, leaving a damaging trail behind him.}}
+Bolt goes into overdrive for 4 seconds, granting him a 30% damage reduction shield, and leaving behind a trail of lightning as he moves. The Super does not grant a speed boost but rather it allows his lights to automatically fill much quicker than normal if he is moving (from 0.65 to 0.1 seconds). Enemies who touch the trail are set on fire to burn while they stand in the lightning and for 1 more tick after they leave. The trail lasts for 3.9 seconds and deals damage every 1.05 seconds. If enemies touch it more than once, the burn duration doesn't stack but resets, similar to [[Stu]]'s Super.
+
+==Gadgets==
+===Oil Change===
+{{Quote|Bolt gains a 2000 - 4000 health shield based on his current speed. Cooldown: 15 seconds.}}{{Gadget|1}}[[File:Hardcore Icon.png|left|40px|link=]]
+Bolt instantly gains a consumable shield that blocks a large amount of damage, and the health is based off his current speed. The shield decays for 5% health every 0.5 seconds, similar to [[Gus]]' Super or [[Edgar]]'s Hardcore Gadget. If an attack deals more damage than the shield's current health, the shield disappears and Bolt with the shield is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on his max health when this shield is active. Enemies damaging Bolt with the shield on can still charge their Supers. The maximum and minimum amount of shield generated by this Gadget does not change with the Power Level.
+
+===Bouncy Ball===
+{{Quote|Bolt jumps to a target location and deals area damage. Breaks environments but loses all speed when landing. Cooldown: 20 seconds.}}{{Gadget|2}}
+When aiming using the Gadget button, Bolt jumps a short distance. Upon landing, he deals moderate low damage in a small 2-tile radius and destroys all obstacles around it, at the expense of losing all speed. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Bolt is completely immune to all damage besides status effects and damage applied over time. Despite the description, Bolt loses all speed upon Gadget activation, not upon landing.
+
+==Star Powers==
+===Toss Up===
+{{Quote|Bolt will knock all enemies upwards when he's at full speed.}}{{StarPower|1}}
+When Bolt is at full speed, he will knock enemies into the air (like [[Draco]]'s Uppercut Gadget) when coming into contact with them. This Star Power doesn't take effect if Bolt isn't at full speed.
+
+===Unstoppaball===
+{{Quote|Bolt is immune to crowd control for 1 sec after activating his Super.}}{{StarPower|2}}
+When using his Super, Bolt is immune to negative effects for 1 second.
+
+==Hypercharge: Bowling Bolt==
+{{Hypercharge}}
+{{Quote|Bolt's Super will destroy all walls!}}
+When activated, Bolt's Super will destroy obstacles when he runs into them. Additionally, he will also destroy bushes, contrary to the description only stating walls. However, Bolt cannot destroy invincible walls and loses some of his speed after destroying a wall. He also gains 20% speed boost, as well as 5% damage and shield boost.
+
+==Tips==
+===Game Mode and Maps===
+*Play maps with few walls and water so you don't collide with them and lose all your speed.
+*In a map with very long lines of bushes, you can hit-and-run the opponents in the bushes easily.
+*In [[Brawl Ball]] and [[Bounty]], you can quickly move to the middle to collect the ball/blue star.
+**Note that in Brawl Ball, your maximum speed is reduced to 3 lights of speed while you have the ball. However, you are still able to damage opponents. 
+**Activate Oil Change right before you get the ball to increase the chances of scoring.
+*Bolt is only useful in the later half of the game for [[Brawl Arena]], where his damage is high enough to eliminate most enemies. Instead, focus on poking, clearing off bot hordes and finishing off retreating enemies for the first half of the game and only chase other Brawlers when strong enough.
+
+===Recommended Build===
+*Bouncy Ball can be used to finish 1 vs. 1 interactions or escape by going over a wall. However, ensure you can definitely win the interaction or escape, because you will be very vulnerable.
+*Oil Change should be used when you're charging into a loosely dispersed group at high speeds, as it may require some sharp turns that will decrease your momentum. Hence, using the gadget may buy you some extra time to fight back or escape.
+*Toss Up would only be best if you know your enemies cannot stop you, however the extra speed from Unstoppaball would be more preferred to allow better Super cycling.
+*Bolt can heal while rolling, so the Healing Gear is recommended so that he can reliably retreat and get back in action.
+*Bolt requires direct contact with enemies to deal damage to his opponents, and often deals small amounts of chip damage. As such, use the Shield Gear to protect yourself from accumulated chip damage and enemy retaliation.
+
+===Strategies===
+*Make sure you have a clear path in mind before taking action.
+*Use your Super when you don't want an opponent to be chasing you. If they follow you, they will be inflicted of the damage over time from the Super.
+*Be careful of enemies that have slow, stun, and knockback abilities as they can easily thwart your charge.
+*Bolt is very slow without his speed and it is needed to charge the Super, so try not to lose your momentum.
+*Bolt relies entirely on his own speed, so make sure you don't run into walls or make turns that are too sharp or you will lose all your speed.
+**When you need to make a sharp turn, use your Super so the speed boost from the Super mitigates the speed loss from the sharp turn.
+
+===Other===
+*Bolt is best paired with Brawlers that can break walls (e.g. [[Colt]], [[Brock]], [[Frank]], [[Bull]]) and Brawlers that are stronger in open maps (e.g. [[Melodie]], [[Belle]], [[Bea]], [[Nani]]) but not with Brawlers that rely on the environment (e.g. [[Alli]], [[Carl]], [[Rico]], [[Doug]]).
+*You can heal as long as you don't use your main attack, so don't stop moving.
+*Take caution when going up against [[Pearl]], as since you're constantly trying to roll into enemies to damage them, there's a high likelihood you'll make yourself incredibly suspectable to being hit by her Super at close range, which, if she has max heat, will not only deal incredibly high damage to you but also knock you back and presumably make you lose all your speed. Even if the Super doesn't defeat you, her high burst damage from her basic attack will likely finish the job.
+**Likewise, also be careful if going against [[Jacky]], as her super can pull you in and easily make you lose all your speed, and much like Pearl's Super, the fact you're trying to roll into her to deal damage will make you more likely to be pulled in by the Super. Though her damage is usually quite mediocre, she can still leave you vulnerable to attacks from other opponents.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = bolt start vo 01.ogg|Filedescription = "Buckle up, it's gonna be a bumpy ride."}}
+|{{Ogg|Filename = bolt lead vo 01.ogg|Filedescription = "P1 as usual."}}
+|{{Ogg|Filename = bolt hurt vo 01.ogg|Filedescription = "Fumes of fury!"}}
+|{{Ogg|Filename = bolt kill vo 01.ogg|Filedescription = "End of the road for you."}}
+|{{Ogg|Filename = bolt die vo 01.ogg|Filedescription = "Call the tow truck."}}
+|
+|{{Ogg|Filename = bolt ulti vo 01.ogg|Filedescription = "Engaging power core."}}
+|-
+|{{Ogg|Filename = bolt start vo 02.ogg|Filedescription = "Full throttle, zero mercy."}}
+|{{Ogg|Filename = bolt lead vo 02.ogg|Filedescription = "Pole position."}}
+|{{Ogg|Filename = bolt hurt vo 02.ogg|Filedescription = "You boil my oil!"}}
+|{{Ogg|Filename = bolt kill vo 02.ogg|Filedescription = "You ran out of gas."}}
+|{{Ogg|Filename = bolt die vo 02.ogg|Filedescription = "Engine failure!"}}
+|
+|{{Ogg|Filename = bolt ulti vo 02.ogg|Filedescription = "Maximum speed vortex!"}}
+|-
+|{{Ogg|Filename = bolt start vo 03.ogg|Filedescription = "Honk if you like pain. Beep beep!"}}
+|{{Ogg|Filename = bolt lead vo 03.ogg|Filedescription = "Pine scented perfection."}}
+|{{Ogg|Filename = bolt hurt vo 03.ogg|Filedescription = "Stay in your lane!"}}
+|{{Ogg|Filename = bolt kill vo 03.ogg|Filedescription = "You got lapped!"}}
+|{{Ogg|Filename = bolt die vo 03.ogg|Filedescription = "Time for the safety car."}}
+|
+|{{Ogg|Filename = bolt ulti vo 03.ogg|Filedescription = "Road rage!"}}
+|-
+|{{Ogg|Filename = bolt start vo 04.ogg|Filedescription = "Brake pedal? What's that?"}}
+|{{Ogg|Filename = bolt lead vo 04.ogg|Filedescription = "Be-be-be-beep-be-beep!"}}
+|{{Ogg|Filename = bolt hurt vo 04.ogg|Filedescription = "Ah, time for a pit stop."}}
+|{{Ogg|Filename = bolt kill vo 04.ogg|Filedescription = "No pit crew is gonna save you."}}
+|{{Ogg|Filename = bolt die vo 04.ogg|Filedescription = "Fatal fusion."}}
+|
+|{{Ogg|Filename = bolt ulti vo 04.ogg|Filedescription = "Crash and brawl!"}}
+|-
+|{{Ogg|Filename = bolt start vo 05.ogg|Filedescription = "Vroom vroom, meet your doom."}}
+|
+|{{Ogg|Filename = bolt hurt vo 05.ogg|Filedescription = "Just a small bump in the road."}}
+|{{Ogg|Filename = bolt kill vo 05.ogg|Filedescription = "Box, box, you done."}}
+|{{Ogg|Filename = bolt die vo 05.ogg|Filedescription = "I spun out!"}}
+|
+|{{Ogg|Filename = bolt ulti vo 05.ogg|Filedescription = "Time to wreck and roll."}}
+|-
+|{{Ogg|Filename = bolt start vo 06.ogg|Filedescription = "3, 2, 1, go!"}}
+|
+|{{Ogg|Filename = bolt hurt vo 06.ogg|Filedescription = "Road rage!"}}
+|{{Ogg|Filename = bolt kill vo 06.ogg|Filedescription = "Bolt and jolt."}}
+|
+|
+|{{Ogg|Filename = bolt ulti vo 06.ogg|Filedescription = "Total carnage!"}}
+|-
+|{{Ogg|Filename = bolt start vo 07.ogg|Filedescription = "Let's put the pedal to the metal."}}
+|
+|{{Ogg|Filename = bolt hurt vo 07.ogg|Filedescription = "Eat my skid marks."}}
+|
+|
+|
+|{{Ogg|Filename = bolt ulti vo 07.ogg|Filedescription = "Cruise and crash!"}}
+|-
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = bolt ulti vo 08.ogg|Filedescription = "Brawler burnout!"}}
+|}
+
+==Bolt Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Bolt}}
+
+==History==
+*11/06/26:
+**{{Balance|Neutral|Bolt became available in [[Training Cave]].}}
+**{{Balance|Neutral|Bolt could be unlocked early from [[Brawl Boxes|Bolt Boxes]], obtaining 12 of them, or from the {{Link|Supercell Store}}, or in the Shop for $9.99 (standard pack) or $14.99 (premium pack).}}
+*30/06/26:
+**{{Balance|Buff|Bolt's main attack now also increases the Super charge rate by 50%.}}
+**{{Balance|Buff|Bolt's Super damage was increased to 700 (from 550).}}
+**{{Balance|Buff|Bolt's minimum damage from moving was increased to 522 (from 500).}}
+**{{Balance|Nerf|Bolt's maximum damage from moving was decreased to 740 (from 900).}}
+**{{Balance|Nerf|Bolt's health was decreased to 5000 (from 5400).}}
+**{{Balance|Nerf|Bolt's Super damage no longer scales with damage buffs.}}
+**{{Balance|Nerf|Bolt's Super damage interval was increased to 1.05 seconds (from 1).}}
+**{{Balance|Nerf|Bolt's Super recharge rate was decreased from 100 to 90.}}
+**{{Balance|Nerf|Bolt's Super recharge rate no longer scales with Power Levels.}}
+**{{Balance|Nerf|Bolt's Unstoppaball Star Power crowd control immunity duration was decreased to 1 second (from 4).}}
+**{{Balance|Nerf|Bolt's Unstoppaball Star Power no longer grants a 15% movement speed boost.}}
+**{{Balance|Neutral|Bolt became available in the Starr Road.}}
+**{{Balance|Neutral|Bolt's Bowling Bolt Hypercharge was added.}}
+**{{Balance|Neutral|Bolt's True Silver and True Gold skins were added.}}
+*04/08/26:
+**{{Balance|Nerf|Bolt's Super damage reduction was decreased to 30% (from 40%).}}
+**{{Balance|Nerf|Bolt's Super charge from moving was decreased by 22% (14 to 18).}}
+*01/09/26:
+**{{Balance|Nerf|Bolt's acceleration time was increased to 0.65 seconds (from 0.5) per light.}}
+**{{Balance|Nerf|Bolt's maximum speed was decreased to 3x (from 3.2x).}}
+**{{Balance|Nerf|Bolt's level up damage was decreased to 3% (from 5%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Bolt's movement speed to 545 (from 540).}}
+
+==Cosmetics==
+===Skins (2)===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Bolt
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Bolt|Rarity = Common}}
+|{{Spray|Type = Bolt 8|Rarity = Common}}
+|{{Spray|Type = Bolt Pine|Rarity = Common}}
+|{{Spray|Type = Bolt Hypercharge|Rarity = Exclusive}}
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Bolt1}}
+|{{Pfp|Bolt2}}
+|{{Pfp|Bolt3}}
+|{{Pfp|Bolt4}}
+|}
+
+{{Navigation}}
+[[es:Bolt]]
+[[ru:Болт]]

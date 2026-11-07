@@ -1,0 +1,143 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Dragonheart
+|image     = <gallery>
+Dragonheart.png|Icon
+Dragonheart EQ.png|In-Game
+Dragonheart Held.png|Held
+Dragonheart Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 24
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Hydra Island
+|obtain    = Crafted
+|source    = [[Dragon Hunter]]
+|price     = {{Dragon Egg|1}} {{Dinosaur Bones|6}} {{Blaze Ember|15}}
+}}
+{{Quote|A spear that burns with eternal fury, rumored to carry the soul of a dragon's final roar.|Item}}
+'''Dragonheart''' is a {{Legendary}} [[sword]].
+
+==Obtainment==
+To unlock Dragonheart's crafting recipe, the player must obtain the [[Dojo Belt (Red)]]. However, in order to obtain the [[Dragon Egg]], an item required in the recipe, the player must have the [[Dojo Belt (Black)]], and the [[Dragon Tether]] ability, meaning they are unable to craft it right after they unlock the recipe.
+{{Craft}}
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dragonheart m1s
+|desc     = The player does 3 swipes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Draconic Blitz
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = DragonHeartZ
+|desc     = The user summons a dragon that swirls in an almost zig-zag path, which is carried by the user as they lunge forward, carrying the enemy as well whilst the dragon burns away and crackles, similar to an ignited fuse.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Catastrophe
+|mastery  = 350
+|cooldown = 13.5
+|energy   = 60
+|break    = Yes
+|instinct = The initial hit breaks Instinct, but the explosion can be dodged.
+|gif      = DragonHeartX
+|desc     = The user holds Dragonheart upwards, creating a large flaming ball similar to [[Flame]]'s [V] move, then launches it at the aimed position, resulting in an extreme shockwave and fiery explosion, leaving a trail of flames and dealing massive damage.
+|gif1     = DragonHeartX_Hold
+|desc1    = When the move is held, the user's screen slightly shifts into red with embers scattered awaft, the ball of fire grows larger, and a circle of flames and embers surround the user, dealing damage to any enemies within it. The explosion also tends to "latch onto" walls if it makes contact with one.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High damage and [[AoE]].
+* Very compatible with air PvP.
+
+|'''[Z] Draconic Blitz'''
+* Good combo starter.
+* Decent mobility.
+* Incredible hitbox (larger than the "dragon" itself).
+* Good stun.
+* The damage does not decrease as the move reaches its end, meaning that this move will still deal full damage even if it only hit on the last second.
+* The "dragon" is quite easy to control.
+* Compatible with air PvP.
+
+|'''[X] Infernal Catastrophe'''
+* Long range.
+* Slight stun.
+* Big hitbox.
+* Good [[AoE]].
+* Fast projectile, making it easy to hit moving targets.
+* Useful to damage runners.
+* Compatible with air PvP.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Difficult to obtain.
+
+|'''[Z] Draconic Blitz'''
+* Requires good vision to chain combos.
+* Does not break [[Instinct]].
+
+|'''[X] Infernal Catastrophe'''
+* High mastery requirement.
+* The damage and stun are dodgeable.
+* When held, can be easily punished by long-range moves, such as {{Ability|Skull Guitar|Z}} as long as the player stays out of this move's range.
+* Can be [[Instinct]] tricked.
+* Has endlag.
+}}
+</tabber>
+
+==Trivia==
+* Dragonheart was initially considered to be included in the new kit of the reworked [[Dragon]] fruit.
+* Dragonheart is the only [[sword]] in the game that requires the player to craft it.
+* Despite the recipe being available after obtaining [[Dojo Belt (Red)]], Dragonheart cannot be obtained until the player has [[Dragon Tether]] as it requires a [[Dragon Egg]].
+* 500 [[Mastery]] is needed on this sword to light one of the lamps on [[Hydra Island]], which is required to obtain [[Draco]] V4.
+* The sound of the M1 when hitting an enemy is the exact same as [[Dragon Talon]], [[Dragon Breath]], and [[Fox Lamp]]'s M1 sound effects.
+* Similar to [[Dragonstorm]], this is the only sword having a {{w|Neologism#Background|compound neologism}} as its name. The term "Dragonheart" is not an English word and is the juxtaposition of the nouns "dragon" and "heart".
+* {{Ability|X}}'s fire ring stays in place while moving on [[boats]].
+** Those are also the only two [[weapons]] related to dragons and infernal power, with very similar textures and visual effects.
+* The fiery effects from {{Ability|X}} is the same as [[Rengoku]]'s held {{Ability|Rengoku|X}}.
+* If the user uses {{Ability|Z}} during high ping, the player will be able to fly for a short while, before teleporting back to the place where the user started the move.
+<gallery>
+File:Soul fire.gif|Fire identical to [[Dragon]]'s surging in the user as they hold '''[Z] Draconic Blitz'''.
+</gallery>
+
+==Change History==
+{{Change History|24|content=
+{{Update|29.6}}
+* Dragonheart was nerfed.
+**{{Arrow|nerf}} {{Ability|Z}} [[Instinct]] drain decreased by 50% for the initial hits.
+----
+{{Update|26.8}}
+* Dragonheart was nerfed.
+**{{Arrow|nerf}} {{Ability|Z}} no longer breaks [[Instinct]].
+** {{Arrow|nerf}} Added endlag to {{Ability|X}}.
+----
+{{Update|24}}
+* Dragonheart was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

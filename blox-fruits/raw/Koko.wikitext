@@ -1,0 +1,149 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Koko
+|image     = <gallery>
+Koko.png|Icon
+Koko_Equip.png|In-Game
+Koko_Equipped.png|Held
+Koko (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 10
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Hot and Cold
+|obtain    = Dropped
+|source    = [[Order]]
+}}
+{{Quote|A large katana with a hilt made of white fur, previously carried by a [[Order|career surgeon]].|Item}}
+'''Koko''' is a {{Legendary}} [[sword]].
+
+Koko is not seen much in builds, but it is a really good sword for hybrids. Especially when paired with [[Control]], where it gets heavily buffed, making it a versatile option.
+
+==Obtainment==
+Koko can be dropped after defeating [[Order]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Koko M1
+|desc     = The player does 2 swipes, a dash on the third, before ending it off with a sweep.
+}}
+
+{{Skill
+|key      = Z
+|name     = Electric Stab
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Injection Stabbing
+|desc     = The user charges forward with the power of electricity, damaging and shocking any opponents in the way, and launching them upwards.
+|gif1     = ControlledElectricStab
+|desc1    = If used in [[Control]]'s field, the dash will be longer and with an extended hitbox.
+}}
+
+{{Skill
+|key      = X
+|name     = Injection Shot
+|mastery  = 325
+|cooldown = 13.5
+|energy   = 50
+|break    = Yes
+|instinct = The blast breaks Instinct.
+|gif      = Koko Snipe
+|desc     = A rotating crosshair appears in front of the player. When released, a swift lightning projectile shoots out of the sword (does not have projectile mechanics), which damages and shocks any opponents hit by it, while also knocking them back slightly. 
+|gif1     = ControlledInjectionShot
+|desc1    = When used in [[Control]]'s room, the move's range is boosted to hit anywhere in the field, while also having an extreme aim assist. The shot resembles a laser.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Great damage.
+* Very good for hybrids, especially with [[Control]].
+** The moves' range will increase when being inside [[Control]]'s [Z].
+* Good for combos.
+* Very fast M1s.
+* Decent choice for grinding with [[Buddha]].
+* Both moves can hit multiple targets.
+* Really good upgrade to [[Shizu]] because Koko's moves are instant.
+
+|'''[Z] Electric Stab'''
+* Stuns the target(s) hit for a brief second.
+* Decent knockback.
+* Mobility move.
+* Has a somewhat large hitbox, making it easy to hit.
+
+|'''[X] Injection Shot'''
+* Great range.
+* Can hit anywhere inside the user's [[Control]] Area.
+* Will always [[break Instinct]].
+* Stuns the target(s) hit for a split second with a little knockback.
+* Slow start-up allows the user to aim somewhere else while releasing the key, making the hitbox player's cursor.
+}}
+
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Needs a bit of aiming skills and a lot of prediction skills to hit in PvP.
+* Swords like [[Dragonheart]] and [[True Triple Katana]] outperform it, at least in terms of hitbox, range and damage. Although [[Control]] Z may fix problems with the range of the sword, the damage and hitbox unfortunately remain the same. 
+* Very short stun.
+* Very hard to obtain.
+* High mastery requirements.
+* Dashes at the third M1, making it unreliable for grinding.
+
+|'''[Z] Electric Stab'''
+* Hitbox is strangely modified by Awakened [[Buddha]].
+* Not an instant dash, thus making it hard to hit.
+* Weird knockback may make it difficult to use in combos.
+* Slight end-lag.
+
+|'''[X] Injection Shot'''
+* Slightly long wind-up.
+}}
+</tabber>
+
+==Trivia==
+* Koko is used by the Lv. 1250 [[Raid Bosses|raid boss]], [[Order]].
+* Both moves deal the exact same damage.
+* Despite being called a katana, Koko itself is an ''[[wikipedia:Ōdachi|ōdachi]]'', which is longer and larger than a normal katana.
+* {{Ability|Z}} can be used to no-clip through thin walls and doors.
+* Koko is the first sword to be buffed by a [[fruit]] other than [[Buddha]], which is [[Control]].
+* The hitbox of {{Ability|X}} is at the player's cursor, not the visual, meaning if the player moves the cursor to somewhere else, then the move's hitbox will move as well. For instance, if the player first aimed the {{Ability|X}} in front of themselves but aimed to the right after releasing the move, the target(s) to the right will be affected. (Does not work if the player held the move instead of tapping the move.)
+* Koko is not curved like a normal ''ōdachi,'' instead it is straight. This suggests that after forging koko was not drenched in water, rather it was left to cool off, which ideally would result in a weaker katana. 
+<gallery>
+File:Controlled windup.gif|Wind gushing as the user holds '''[Z] Electric Stab'''.
+</gallery>
+
+==Change History==
+{{Change History|10|content=
+{{Update|20}}
+* {{Arrow|neutral}} Koko's moves were reworked.
+: <gallery>
+Koko Z Old.gif|Old '''[Z] Electric Stab'''
+Koko X Old.gif|Old '''[X] Injection Shot'''
+</gallery>
+----
+{{Update|17.2}}
+* {{Arrow|buff}} {{Ability|X}}'s range was increased to cover anywhere inside [[Control]]'s Area as long as the area is active.
+----
+{{Update|10}}
+* Koko was released.
+}}
+
+==Navigation== 
+{{Sword Navbox}}

@@ -1,0 +1,159 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Rengoku
+|image     = <gallery>
+Rengoku.png|Icon
+Rengoku EQ.png|In-Game
+Rengoku Held.png|Held
+Rengoku (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 13
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Ice Castle
+|obtain    = Use [[Hidden Key]]
+}}
+{{Quote|A katana made of fiery metals, forged by demons.|Item}}
+'''Rengoku''' is a {{Legendary}} [[sword]].
+
+Rengoku is considered as one of the strongest swords in the [[Second Sea]], due to its simple obtainment and ability to stun [[Blade]] users, a very rare trait among swords.
+
+Rengoku could be considered the [[Second Sea]] counterpart to [[Bisento]], as both possess high damage and very strong combos.
+
+==Obtainment==
+Rengoku can be obtained by using the [[Hidden Key]] to unlock a chest at the [[Ice Castle]], located in the [[Second Sea]]. The chest is hidden under the staircase, right below the [[Awakened Ice Admiral]], the entrance of which can be found to the right.
+
+The "Samurai" [[Titles|title]] #131 will be granted upon equipping Rengoku.
+
+<gallery>
+RengokuLocation.png|Location of Rengoku's chest.
+</gallery>
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Rengoku M1
+|desc     = The player does 3 slashes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Demon Slayer
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = Yes
+|instinct = Final slash breaks Instinct.
+|gif      = Rengoku_Z
+|desc     = The user dashes forward, leaving a trail of orange and red flames. If the user hits an enemy, the user slashes the enemy rapidly and finally releases three fire-like slashes, dealing tick damage with a burn effect. The burn lasts for around 2 seconds.
+}}
+
+{{Skill
+|key      = X
+|name     = Burning Slash
+|mastery  = 350
+|cooldown = 13.5
+|energy   = 30
+|break    = Yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Rengoku_XA
+|desc     = This move offers two distinct variations:
+* If tapped:
+** The user releases a horizontal slash of flame, which leaves a trail of flame on the ground. If the slash hits an enemy, it damages them and causes burns that cause tick damage over time.
+|gif1     = Rengoku_XB
+|desc1    = * If held:
+** The user's screen will first turn red like flame, then releases a huge wave of flame that deals widespread damage. Deals tick damage over time, similar to the tap variation.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Extremely high damage.
+* Good combo potential.
+* Good knockback, which is useful in PvP.
+* Both moves [[break Instinct]].
+* Insane damage in short duration, making [[Shark]] and [[Cyborg (race)|Cyborg]] users take a lot of damage before they can turn on their Race ability.
+
+|'''[Z] Demon Slayer'''
+* Dash is very fast.
+* Almost no end lag.
+* Can target multiple players.
+* Damage is still dealt as long as the target has been caught in the dash (Unless "[[Instinct]]-Tricked").
+* Deals damage over time.
+* Good range.
+* Can stun [[Blade]] users along with [[Saishi]].
+
+|'''[X] Burning Slash'''
+* The flames [[break Instinct]].
+* [[Breaks Instinct]] on direct contact.
+* Decent [[AoE]] when held.
+* No end-lag.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot damage [[Blade]] users.
+* Low drop chance for the [[Hidden Key]].
+* Bad for in-water combat.
+* Difficult to grind due to dashing from the fourth slash.
+* High mastery requirements.
+
+|'''[Z] Demon Slayer'''
+* Single target. (Though the flames can damage nearby enemies if they are close)
+
+|'''[X] Burning Slash'''
+* The flame trail can be dodged easily if not stunned.
+* This move, along with its two variations, does not have any [[AoE]] burn when used aerially, making it significantly harder to hit (the tap variation works similarly and has a similar hitbox to awakened [[Dark]]'s {{Ability|Dark|Z|1}}, the held variation works the same, just vertically).
+}}
+</tabber>
+
+==Trivia==
+* Rengoku is an [[Easter Eggs|easter egg]] that the devs added at [[Updates/13|Update 13]].
+* Before the rework in [[Updates/20|Update 20]], {{Ability|Z}} did not do burn damage. 
+* Rengoku's moveset post-rework is similar to the [[Pipe]].
+* Rengoku is the only katana to be out of its hilt in its icon. 
+* {{Ability|Z}} can sometimes glitch the player out of the map if the flooring is thin like in [[Kingdom of Rose]].
+* Rengoku is completely different from its icon when it's equipped (not held) because it has its cover on
+<gallery>
+File:Demon flames.gif|The held vfx of '''[X] Burning Slash''', tinting the screen red and sending embers flying across.
+</gallery>
+
+==Change History==
+{{Change History|13|content={{Update|24}}
+* Rengoku's passive idle stance was revamped again.
+* Rengoku's model was revamped.
+<gallery>
+Rengoku Icon (Old).png|Old Rengoku model
+</gallery>
+----
+{{Update|21}}
+* {{Arrow|nerf}} Rengoku's damage was nerfed.
+----
+{{Update|20}}
+* Rengoku's moves were reworked.
+** {{Arrow|buff}} Added burn damage to '''[Z] Demon Slayer'''.
+----
+{{Update|17.3}}
+* Rengoku's passive idle stance was revamped.
+----
+{{Update|13}}
+* Rengoku was released.
+: <gallery>
+RengokuZ.gif|Old '''[Z] Demon Slayer'''
+RengokuX.gif|Old '''[X] Burning Slash'''
+</gallery>}}
+
+==Navigation==
+{{Sword Navbox}}

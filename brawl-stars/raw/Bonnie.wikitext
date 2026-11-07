@@ -1,0 +1,304 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Reckless|PrestigeTitle = Toothbreaker|Rarity = Epic|Class = Marksman|MovementSpeed = 630 (Clyde; Slow)<br>819 (with Sugar Rush)<br>855 (Bonnie; Very Fast)<br>2000 (with Crash Test)|HealthLabel = Clyde Health|Health = 5000|AttackLabel = Damage (Clyde)|Attack = 1220|AttackLabel2 = Damage per grenade (Bonnie)|Attack2 = 580|AttackRange = 9 (Clyde; Long)<br> 5 (Bonnie; Normal)|Reload = 1 second (Clyde; Very Fast)<br>0.769 seconds (with Sugar Rush)<br>2 seconds (Bonnie; Slow)|AttackBullets=1 (Clyde)<br>3 (Bonnie)|AttackSuperCharge = 22.95%<br>25.25% (with Super Charge Gear)<br>5.725% (split projectiles; with Wisdom Tooth)<br>6.3% (split projectiles; with Wisdom Tooth and Super Charge Gear)<br>11.875% (Bonnie)|AttackSpread=20º (Bonnie)|SuperRange = 7.33 (Long)<br>10 (with Black Powder)|SuperLabel = Damage on landing|Super = 1000|VoiceActor = Bindy Coda|AttackSpeed=3800 (Clyde)<br>3261 (split projectiles; with Wisdom Tooth)<br>3000 (Bonnie) |AttackWidth=1<br>0.33 (split projectiles; with Wisdom Tooth)<br>0.67 (Bonnie)|SuperLabel2=Bonnie Health|Super2=3100|SuperSpread=|SuperSpeed=|Gadget1Name=Sugar Rush|Gadget1Cooldown=16 seconds|Gadget2Cooldown=10 seconds|Gadget2Name=Crash Test|Gadget2=1856|Gadget2Label=Damage|Previous=Grom|Next=Sam|SuperLabel3=Heal (from Bonnie)|Super3=1900|Hypercharge|HyperchargeMultiplier=43%|AttackHyperchargeCharge=9.85% (Clyde)<br>10.85% (Clyde; with Super Charge Gear)<br>2.45% (split projectiles; with Wisdom Tooth)<br>2.7% (split projectiles; with Wisdom Tooth and Super Charge Gear)<br>5.1% (Bonnie)|SuperHyperchargeCharge=2.875% (teeth; with Hypercharge)|SuperSuperCharge=6.25% (teeth; with Hypercharge)|Gadget1Duration=5 seconds|Gadget2Range=2}}
+{{Quote|Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!}}
+{{Portrait}}
+Bonnie is an {{Rarity|Epic}} [[Brawler]] who has very high health and fast reload speed and a long range in her cannon form but can attain an alternate form that can deal very high damage while having low health and slow reload speed. She was the 57th Brawler added to the game. Bonnie has a slow movement speed in her cannon form but a very fast movement speed in her alternate form. In her cannon form, she fires a fast, long-ranged tooth. Her Super shoots Bonnie out of the cannon, transforming into her alternate form and dealing area damage upon landing. Bonnie's alternate form attacks by firing three shells which deal massive damage at a short range. Her alternate form's Super transforms her back into Bonnie's cannon form. Her first Gadget, Sugar Rush, momentarily increases Bonnie's movement and reload speed when inside her cannon form. Her second Gadget, Crash Test, allows Bonnie to dash a few tiles in the direction she is facing, knocking back and dealing damage to enemies in the way. Her first Star Power, Black Powder, increases Bonnie's cannon form's Super range. Her second Star Power, Wisdom Tooth, allows her cannon form's attack to split into 4 smaller projectiles upon hitting an enemy or obstacle. Her Hypercharge, Daredevil, fires teeth on all directions after her Super shoots Bonnie out of the cannon and Bonnie lands, while also temporarily stunning nearby enemies upon takeoff and landing.
+
+==Attacks==
+===Cannon: Loose Tooth===
+{{Quote|Bonnie shoots a HUGE tooth from Clyde towards her enemies.}}In her cannon form, Bonnie fires a long-ranged tooth that deals moderate damage to enemies. Like [[Carl]], [[Bea]], or [[Charlie]], it has only one ammo slot, so kicking the ball in [[Brawl Ball]] does not consume ammo. The attack has a moderate cooldown, and it takes 0.5 seconds to complete.
+
+===Bonnie: Bomber Jacket===
+{{Quote|Bonnie flings a cluster of small grenades from her sleeves.}}In her alternate form, Bonnie fires three shells in small spread from left to right. The shells each explode in a small 0.67-tile radius upon impact. The attack has an extremely short cooldown, and it takes 0.3 seconds to complete.
+
+==Supers==
+===Cannon: Star Launcher===
+{{Quote|Clyde launches Bonnie into the air. She can fly over obstacles and deals damage to nearby enemies on landing.}} Bonnie blasts into the air over obstacles, staying airborne for 1.2 seconds. Upon landing, Bonnie changes into her alternate form, which modifies her attack and Super. It also deals damage to nearby enemies in a 2.33-tile radius, but this does not charge Bonnie's Super. Bonnie always lands with all three ammo slots full, and maintains her previous health from her cannon form, but is capped off by her Bonnie form's maximum health. 
+
+===Bonnie: Clyde===
+{{Quote|Bonnie calls Clyde and jumps into it, taking control of the cannon.}}Bonnie transforms back into her cannon form after a 0.5-second delay, and her ammo is set to be one-third full. She heals for up to 37.5% of Clyde’s maximum health, maintaining the previous amount of missing health from her alternate form. Similar to [[Meg]], if she is stunned, knocked back, or pulled during the transformation, her Super will be cancelled. It is not required to aim this Super. This Super automatically charges 87.5% per second, and it takes about 1.14 seconds to fully charge. If a Super is used to throw an item like the Brawl Ball, the Super will automatically recharge again. 
+
+==Gadgets==
+===Sugar Rush===
+{{Quote|Clyde's movement and reload speed are increased by 30% for 5 seconds. Cooldown: 16 seconds.}}{{Gadget|1}}Upon activation, Bonnie appears red and both her movement and reload speed are increased by 30% for 5 seconds. This Gadget starts its cooldown after the duration ends, and can only be activated while Bonnie is in her cannon form. If Bonnie uses her Super in her cannon form while the Gadget is active, she loses her movement and reload speed boosts, but the Gadget will remain active.
+
+===Crash Test===
+{{Quote|Bonnie dashes forward, knocking back enemies and dealing 2320 damage on hit. Cooldown: 10 seconds.}}{{Gadget|2}}Bonnie dashes 2 tiles in the direction she is facing when she uses this Gadget, knocking back and dealing damage double that of one shell to enemies in her path. Dashing into walls or water will cut the dash short, and this Gadget can only be activated while Bonnie is in her alternate form.
+
+==Star Powers==
+===Black Powder===
+{{Quote|The range of Bonnie's Star Launcher is increased by 36%.}}{{StarPower|1}}Bonnie's cannon form's Super range is increased from 7.33 tiles to 10 tiles.
+
+===Wisdom Tooth===
+{{Quote|Loose Tooth shatters on hit, dealing 25% extra damage to nearby enemies.}}{{StarPower|2}}This Star Power allows Bonnie's cannon form's attack to split in 4 smaller projectiles in a cross pattern that deal 25% of her attack damage to enemies, similar to [[Surge]]'s attack. Also like Surge's attack, the split projectiles cannot damage the same enemy the main projectile hit. The split projectiles travel diagonally to the angle of the main projectile and have a range of 2 tiles.
+
+==Hypercharge: Daredevil==
+{{Quote|Bonnie stuns enemies for 1 secs when firing and landing from Clyde, plus she splits damage dealing teeth around her.}}{{Hypercharge}}
+When activated, Bonnie's Super stuns nearby enemies for 1 second in a radius of 2.67 tiles, both when she blasts into the air and when she lands. In addition, upon both takeoff and landing, Bonnie sends out 6 smaller teeth radially that travel for 6.67 tiles. Similar to [[Spike]]'s attack, the pattern is fixed, with 60 degrees between each tooth, and it doesn't rotate with the direction Bonnie is moving. The teeth have a 3.33-tile wide blind spot at the center, so they cannot all hit an enemy at point-blank range. Bonnie also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Bonnie's Loose Tooth fires 2 additional projectiles, and her star launcher stuns on impact.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Bonnie fired three attacks in a cone shape when in her Clyde form. When she used her Super in Clyde form, she stunned enemies she landed on for 0.5 seconds.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+* Bonnie can be good in [[Heist]] or [[Siege]], as once she has her Super charged, she can use it to jump on the safe or the IKE turret and unleash all three ammo, dealing some 12440 damage to the target. This can take out about 25% of the IKE turret's health before she's knocked down by it in Siege, and she can stay in the fight longer with healers like [[Pam]], [[Byron]], [[Doug]], [[Berry]], or [[Poco]].
+
+=== Recommended Build ===
+
+* Speed and Damage are two fitting Gears for Bonnie. Speed can help provide extra agility in her Cannon form and can help Bonnie close in on enemies in her close range form. Damage, on the other hand, helps her deal extra damage in her cannon form, seeing how much health she has in her Clyde form, and helps her deal a lot of extra damage in her close range Bonnie form, since she acts like an assassin.
+* Super Charge and Health Gears are very strong Gears for Bonnie, because in her cannon form she can get her Super in 4 hits instead of 5, and she can also get her Hypercharge in 10 hits instead of 11. Health Gear pairs well witu Bonnie because she has a lot of health fot a Marksman, and although she has less health in her alternate form, she can still get her health back faster.
+* Easily the better build, Black Powder Star Power and Sugar Rush Gadget make up for Bonnie's movement weakness immensely, being almost essential to playing the usually slow yet assassin-like Brawler. This is mainly because Wisdom Tooth, which never hits and deals almost no damage, and Crash Test, where Bonnie is almost never in launched form due to Super recharge, have zero niche or main usage.
+* Due to the spammable nature of the Sugar Rush Gadget, Bonnie can make excellent use of the Gadget Cooldown Gear. Being able to activate it more frequently will ensure that Bonnie is in her boosted state for more time within the match. However, this Gear is less useful with her Crash Test Gadget, as there will not be any situations where it can be useful to be activated repeatedly.
+
+=== Strategies ===
+
+=== Other ===
+*In Bonnie's cannon form, she can pressure enemies due to her long attack range and high health. In her alternate form, Bonnie can pick off enemy Brawlers with her high burst damage. But since she has a short range in her alternate form, her Super with her Black Powder Star Power allows her to get close to enemies. Try not to rush into a group of enemies in Bonnie's alternate form, as despite having a very fast movement speed, her short range and moderately low health makes it risky to run away from or towards enemy Brawlers, who could easily corner or outrange her.
+*In her Bonnie form, Bonnie has very slow reload speed and short range, so it is a bad idea to waste ammo to "tag" or intimidate an opponent if you are under attack.
+*Bonnie's attacks are similar to [[Bo]]'s attacks. Bonnie shoots three bombs from left to right, so you can take advantage of this to control the spread of the bombs. If you want to concentrate fire in a small area, move left while firing, allowing more arrows to hit a single target. For an attack with more spread, move right. The space between each bomb will be increased, giving the attack a wider spread.
+*Even though it seems counter-intuitive, Bonnie should transform into cannon form even if she is currently fighting someone. She can continue charging her Super to escape, heals a bit to gain an edge, and with her Sugar Rush gadget, she can quickly out-distance the attacker.
+* Use the Cannon form if you're fighting against long-range enemies, as it gives you a long range and high health. Conversely, it is better to use the alternate form when fighting short-range enemies, as they usually have high health and the alternate form does a lot of damage. If they hit you, you can quickly escape because of her high movement speed.
+
+{{Clr}}
+
+==Voice Lines==
+{| class="article-table"
+!Spawning/Invoking Clyde
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename= Bonni start vo 01.ogg|Filedescription = "Check this out, Janet!"}}
+|{{Ogg|Filename = Bonni lead vo 01.ogg|Filedescription = "That's going on the highlight reel."}}
+|{{Ogg|Filename = Bonni hurt vo 01.ogg|Filedescription = "Haven't got time for this!"}}
+|{{Ogg|Filename = Bonni kill vo 01.ogg|Filedescription = "See you later."}}
+|{{Ogg|Filename = Bonni die vo 01.ogg|Filedescription = "I get knocked down, but I get up again."}}
+|
+|{{Ogg|Filename = Bonni ulti vo 01.ogg|Filedescription = "Boom boom boom, let's shake the room!"}}
+|-
+|{{Ogg|Filename= Bonni start vo 02.ogg|Filedescription = "Young and reckless coming through."}}
+|{{Ogg|Filename = Bonni lead vo 02.ogg|Filedescription = "Janet! Are you seeing this?"}}
+|{{Ogg|Filename = Bonni hurt vo 02.ogg|Filedescription = "You're gonna knock out another tooth!"}}
+|{{Ogg|Filename = Bonni kill vo 02.ogg|Filedescription = "Don't mess with Clyde."}}
+|{{Ogg|Filename = Bonni die vo 02.ogg|Filedescription = "I'll be better next time."}}
+|
+|{{Ogg|Filename = Bonni ulti vo 02.ogg|Filedescription = "Cannonball!"}}
+|-
+|{{Ogg|Filename= Bonni start vo 03.ogg|Filedescription = "My time, my show."}}
+|{{Ogg|Filename = Bonni lead vo 03.ogg|Filedescription = "Adrenaline for the win."}}
+|{{Ogg|Filename = Bonni hurt vo 03.ogg|Filedescription = "I'm telling uncle Stu!"}}
+|{{Ogg|Filename = Bonni kill vo 03.ogg|Filedescription = "Wooohh!"}}
+|{{Ogg|Filename = Bonni die vo 03.ogg|Filedescription = "Trying to bounce back."}}
+|
+|{{Ogg|Filename = Bonni ulti vo 03.ogg|Filedescription = "Yippee!"}}
+|-
+|{{Ogg|Filename= Bonni start vo 04.ogg|Filedescription = "Rolling out!"}}
+|{{Ogg|Filename = Bonni lead vo 04.ogg|Filedescription = "Adrenaline rush!"}}
+|{{Ogg|Filename = Bonni hurt vo 04.ogg|Filedescription = Bonnie groans}}
+|{{Ogg|Filename = Bonni kill vo 04.ogg|Filedescription = Bonnie screams}}
+|{{Ogg|Filename = Bonni die vo 04.ogg|Filedescription = "This is an occupational hazard."}}
+|
+|{{Ogg|Filename = Bonni ulti vo 04.ogg|Filedescription = "Look at all those explosions."}}
+|-
+|{{Ogg|Filename= Bonni start vo 05.ogg|Filedescription = "Bonnie and Clyde are going for a ride."}}
+|{{Ogg|Filename = Bonni lead vo 05.ogg|Filedescription = "Light the fuse!"}}
+|{{Ogg|Filename = Bonni hurt vo 05.ogg|Filedescription = "Watch out, Clyde."}}
+|{{Ogg|Filename = Bonni kill vo 05.ogg|Filedescription = "I got you good."}}
+|{{Ogg|Filename = Bonni die vo 05.ogg|Filedescription = "You kaboom'd me?"}}
+|
+|{{Ogg|Filename = Bonni ulti vo 05.ogg|Filedescription = "Let's light this party up."}}
+|-
+|{{Ogg|Filename= Bonni start vo 06.ogg|Filedescription = "Did someone say danger?"}}
+|{{Ogg|Filename = Bonni lead vo 06.ogg|Filedescription = "My greatest stunt yet!"}}
+|{{Ogg|Filename = Bonni hurt vo 06.ogg|Filedescription = "You okay, Clyde?"}}
+|{{Ogg|Filename = Bonni kill vo 06.ogg|Filedescription = "You can't hide from Bonnie and Clyde!"}}
+|{{Ogg|Filename = Bonni die vo 06.ogg|Filedescription = Bonnie cries}}
+|
+|{{Ogg|Filename = Bonni ulti vo 06.ogg|Filedescription = "It's Bonnie and Clyde, time to hide!"}}
+|-
+|{{Ogg|Filename= Bonni start vo 07.ogg|Filedescription = "Exciting!"}}
+|
+|
+|{{Ogg|Filename = Bonni kill vo 07.ogg|Filedescription = "Looks like you could use a stunt double."}}
+|{{Ogg|Filename = Bonni die vo 07.ogg|Filedescription = Bonnie gags}}
+|
+|{{Ogg|Filename=Bonni ulti vo 07.ogg|Filedescription="I'm lit!"}}
+|-
+|{{Ogg|Filename=Bonni start vo 08.ogg|Filedescription="We got this, Clyde!"}}
+|
+|
+|{{Ogg|Filename = Bonni kill vo 08.ogg|Filedescription = "Shots fired."}}
+|{{Ogg|Filename = Bonni die vo 08.ogg|Filedescription = "We'll get them next time."}}
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = Bonni kill vo 09.ogg|Filedescription = "I got two words for you. Brush your teeth!"}}
+|
+|
+|
+|}
+
+==History==
+*05/06/22:
+**{{Balance|Content=Bonnie became available to play in the [[Training Cave]].|Change=Neutral}}
+*06/06/22:
+**{{Balance|Content=Bonnie became available to play in matches.|Change=Neutral}}
+*08/06/22:
+**{{Balance|Content=The Empress Bonnie skin was added. It was featured as a Worst Bunch skin.|Change=Neutral}}
+*15/06/22:
+**{{Balance|Content=Bonnie's Crash Test Gadget was added.|Change=Neutral}}
+*17/06/22:
+**{{Balance|Content=Bonnie's Wisdom Tooth Star Power was added.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Empress Bonnie's main attack visual effects were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=Bonnie's Crash Test Gadget visual effects were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=Bonnie's True Silver and True Gold skins were added.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Bonnie's health was decreased to 4800 (from 5200) while in Clyde.|Change=Nerf}}
+*27/10/22:
+**{{Balance|Content=Fixed a bug that caused Bonnie with her [[Gears|Super Charge Gear]] equipped to crash the game.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Bonnie's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Bonnie's Crash Test Gadget damage was increased to 1000 (from 300).|Change=Buff}}
+*29/06/23:
+**{{Balance|Content=Fixed an issue with Bonnie's default skin.|Change=Neutral}}
+*13/07/23:
+**{{Balance|Content=The Unicorn Bonnie skin was added.|Change=Neutral}}
+*20/07/23:
+**{{Balance|Content=The FootBonnie skin was added. It was featured as a Golden Brawl Ball skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Bonnie's main attack projectile speed was decreased to 3800 (from 4000) while in Clyde.|Change=Nerf}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Bonnie's Crash Test Gadget damage was increased to 1856 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Bonnie's flavor text was changed from "Bonnie and her inanimate cannon "Clyde" are usually up to no good. Who would have thought that this cute little girl would have caused so much mayhem?" to "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!"|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Bonnie's main attack damage was increased to 1120 (from 1000) while in Clyde.|Change=Buff}}
+**{{Balance|Content=Bonnie's Super charge rate was increased by 23.2%, which allows Bonnie to charge her Super in 3 hits with the Super Charge Gear equipped.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Bonnie's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Bonnie's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=The Tentacle Bonnie skin was added. It was featured as a Deep Sea League skin.|Change=Neutral}}
+*17/12/24:
+**{{Balance|Content=The Reindeer Bonnie skin was added. It was featured as a Brawlidays skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Bonnie's Super now recharges automatically in 1.14 seconds (from 16).|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Bonnie can now charge Super while in Bonnie form.|Change=Buff}}
+*03/07/25: 
+**{{Balance|Content=The Icarus Bonnie skin was unlockable by winning the Icarus Bonnie Skin in-game Challenge. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+**{{Balance|Content=Bonnie's Daredevil Hypercharge was added.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Bonnie's Daredevil Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+**{{Balance|Content=Bonnie's level up damage was decreased to 7% (from 9%) while in Clyde in [[Brawl Arena]].|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=Bonnie's Daredevil Hypercharge multiplier was increased to 46% (from 35%).|Change=Buff}}
+**{{Balance|Nerf|The number of hits necessary to charge Bonnie's Super in Clyde form was increased to 6 hits (from 4).}}
+**{{Balance|Content=Bonnie's Super charge rate was decreased by 40% in Bonnie form.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Bonnie's Daredevil Hypercharge speed boost from 25%. This does not affect Bonnie in her alternate form.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Bonnie's Daredevil Hypercharge damage boost from 25%. This does not affect Bonnie in her alternate form.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Content=Bonnie's Daredevil Hypercharge speed boost in her alternate form was decreased to 20% (from 25%).|Change=Nerf}}
+**{{Balance|Content=Bonnie's Daredevil Hypercharge damage boost in her alternate form was decreased to 5% (from 25%).|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Bonnie's health was increased to 5000 (from 4800) while in Clyde.}}
+*23/01/26:
+**{{Balance|Content=Bonnie's health was increased to 3100 (from 3000) while in Bonnie form.|Change=Buff}}
+*25/02/26:
+**{{Balance|Buff|The number of hits necessary to charge Bonnie's Super in Clyde was decreased to 5 hits (from 6).}}
+**{{Balance|Content=Bonnie's Super charge rate was increased by 24% in Bonnie form.|Change=Buff}}
+**{{Balance|Content=Bonnie's Daredevil Hypercharge multiplier was decreased to 43% (from 46%).|Change=Nerf}}
+*02/04/26:
+**{{Balance|Neutral|The Faerie, Dark Faerie and Bright Faerie Bonnie skins were added. They were featured as Brawl Pass Season 49 skins and Once Upon skins.}}
+*08/07/26:
+**{{Balance|Buff|Bonnie's main attack damage was increased to 1220 (from 1120) while in Clyde.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Bonnie's movement speed to 630 (from 620) while in Clyde, and her alternate form's movement speed to 855 (from 820).}}
+*16/09/26:
+**{{Balance|Neutral|Bonnie no longer receives an unintended respawn shield when changing forms in [[Showdown]].}}
+
+==Cosmetics==
+===Skins (11)===
+====Clyde====
+{{Skin Gallery
+|Name1=Unicorn|Cost1=Free from Presents, free after reaching 750 Trophies or 29 Gems|Campaign1=Sugar Rush|Rarity1=Rare
+|Name2=FootBonnie|Cost2=29 Gems • '''S'''|Campaign2=Golden Brawl Ball|Rarity2=Rare
+|Name3=Tentacle|Cost3=Free from Smoothie Drops or 79 Gems|Campaign3=Deep Sea League|Rarity3=Super Rare
+|Name4=Icarus|Cost4=Free from the Icarus Bonnie Skin Challenge or 79 Gems|Campaign4=Legends of Olympus|Rarity4=Super Rare
+|Name5=Empress|Cost5=149 Gems|Campaign5=The Worst Bunch|Rarity5=Epic
+|Name6=Reindeer|Cost6=149 Gems • '''S'''|Campaign6=Brawlidays|Rarity6=Epic
+|TrueSkins=yes
+|NameP1=Faerie|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Once Upon|RarityP1=Epic
+|NameP2=Dark Faerie|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Once Upon|RarityP2=Epic
+|NameP3=Bright Faerie|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Once Upon|RarityP3=Epic}}
+
+====Bonnie====
+{{Skin Gallery|For=Minion
+|Name1=Unicorn|Campaign1=Sugar Rush|Rarity1=Rare
+|Name2=FootBonnie|Campaign2=Golden Brawl Ball|Rarity2=Rare
+|Name3=Tentacle|Campaign3=Deep Sea League|Rarity3=Super Rare
+|Name4=Icarus|Campaign4=Legends of Olympus|Rarity4=Super Rare
+|Name5=Empress|Campaign5=The Worst Bunch|Rarity5=Epic
+|Name6=Reindeer|Campaign6=Brawlidays|Rarity6=Epic
+|TrueSkins=yes
+|NameP1=Faerie|CampaignP1=Brawl Pass|CampaignP1_2=Once Upon|RarityP1=Epic
+|NameP2=Dark Faerie|CampaignP2=Brawl Pass|CampaignP2_2=Once Upon|RarityP2=Epic
+|NameP3=Bright Faerie|CampaignP3=Brawl Pass|CampaignP3_2=Once Upon|RarityP3=Epic
+}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Bonnie
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Empress}}
+{{Pin Table|Tentacle|GG}}
+{{Pin Table|Reindeer|Happy}}
+{{Pin Table|Icarus}}
+{{Pin Table|Faerie}}
+{{Pin Table|Dark Faerie}}
+{{Pin Table|Bright Faerie}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Bonnie|Rarity = Common}}
+|{{Spray|Type = Bonnie Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Bonnie1}}
+|{{Pfp|Bonnie2}}
+|{{Pfp|Bonnie3}}
+|{{Pfp|Bonnie4}}
+|{{Pfp|Empress Bonnie}}
+|-
+|{{Pfp|Reindeer Bonnie}}
+|{{Pfp|Faerie Bonnie}}
+|}
+{{Navigation}}
+[[uk:Бонні]]
+[[ru:Бонни]]
+[[es:Bonnie]]
+[[nl:Bonnie]]
+[[pl:Bonnie]]

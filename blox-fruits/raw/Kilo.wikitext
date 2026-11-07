@@ -1,0 +1,141 @@
+{{CombosTab}}
+{{Removed|Blox Fruit|Rocket|20}}
+{{Admin}}
+{{Blox Fruit Infobox
+|name   = Kilo
+|image  = <gallery>
+Kilo_150x150.png|Physical Fruit
+Kilo.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->
+|money  = 5,000
+|robux  = 50
+}}
+'''Kilo''' was a {{Common}} [[Natural]]-type [[Blox Fruits|Blox Fruit]] that costed {{Money|5,000}} or {{Robux|50}} from the [[Blox Fruit Dealer]]. It is currently an admin/mod-exclusive Blox Fruit.
+
+A physical Kilo fruit could be purchased from [[Dog House (Wenlock)|Wenlock]] at the cost of {{Robux|97}}. This option is still available, but instead of Kilo being available, it is now [[Rocket]]. [[Dog House (Wenlock)|Wenlock's]] dialogue convinces the player to buy it to use for a [[Microchip|Raid microchip]], though it is not recommended.
+
+Currently, Kilo can be obtained via admin [[commands]].
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = 10,000KG
+|mastery  = 1
+|energy   = 15
+|gif      = Kilo_Z
+|desc     = Changes the user's weight to 10,000 KG, causing damage with an area of effect (AoE).
+}}
+
+{{Skill
+|key      = X
+|name     = 20,000KG
+|mastery  = 20
+|energy   = 25
+|gif      = Kilo_X
+|desc     = Changing the weight of the user's legs to 20,000 KG, performing a stomp on the ground, resulting in a shockwave directed forward. This sends boulders into the air, knocking back enemies in front of the user and dealing damage.
+}}
+
+{{Skill
+|key      = C
+|name     = 50,000KG
+|mastery  = 50
+|energy   = 35
+|gif      = Kilo_C
+|desc     = Changes the user's weight to 50,000 KG, the user performs a ground slam, inflicting damage in an area of effect (AOE). Additionally, this attack stuns all enemies hit with it.
+}}
+
+{{Skill
+|key      = F
+|name     = Lighten
+|mastery  = 75
+|energy   = 35
+|gif      = Kilo_F
+|desc     = Reduces the user's weight, making the user available to float in the air. This flight is achieved by an umbrella. Unlike other flight moves, this move can only go upwards (and slightly forwards).
+}}
+
+==Overview==
+<tabber>
+Pros=
+{| class="fandom-table"
+|Offers exceptional aerial maneuverability, effectively countering sky camping strategies.
+|-
+|Available at an extremely affordable cost.
+|-
+|Every move, excluding F, possesses area-of-effect (AoE) capabilities.
+|-
+|Its moves exhibit remarkable speed.
+|-
+|Due to its common availability, it can be utilized for purchasing raid chips.
+|-
+|Each move had the ability to disrupt or [[Instinct Break|break Instinct]].
+|}
+
+|-|Cons=
+{| class="fandom-table"
+|Lacking dash moves, it can be challenging to keep up with enemies despite its impressive air mobility. To enhance mobility, one strategy is to employ Lighten initially and then perform aerial dashes.
+|-
+|Its sole ranged move is "20,000 KG."
+|-
+|Using the Z, X, or C move above water triggers a condition where, if the user possesses the [[Shark]] race, they will become immobilized in the water for 5 seconds. However, without the [[Shark]] race, the user will drown in this scenario.
+|-
+|With the exception of the F move, all other moves require contact with the ground or a solid object to be executed and cannot be landed in mid-air. However, there is one move that deviates from this pattern, as its impact is triggered after 5 seconds of falling.
+|}
+
+|-|Notes=
+{| class="fandom-table"
+|Engaging in aerial attacks does not enhance the damage output for all moves.
+|-
+|Each move, except for F, has a maximum falling time of 5 seconds. To trigger their impact, the moves either need to hit the ground or a solid object or wait for the 5-second interval.
+|}
+
+|-|Tips=
+{| class="fandom-table"
+|This fruit stands out as one of the few capable of countering airborne opponents, granting users a strategic advantage.
+|-
+|Hitting opponents while they are off the ground poses a significant challenge.
+|-
+|[[Rabbit]] and [[Shark]] are the suggested races for optimal fruit utilization. [[Rabbit]] enhances ground mobility, dash distance, and provides the ability to stall in the air. [[Shark]] offers protection in water, allowing users to seek refuge in the ocean if their moves fail to land. However, being trapped underwater for approximately 5 seconds put the user at a considerable disadvantage, making it advisable to opt for either [[Shark]] or [[Rabbit]] races.
+|}
+</tabber>
+
+==Gallery==
+<gallery>
+Mod-Admin-Exclusive Kilo.webp
+</gallery>
+
+==Trivia==
+* This was the cheapest [[Blox Fruits|Blox Fruit]] in game.
+* The [[Kilo Admiral]] uses Kilo.
+* A physical Kilo Fruit could be obtained by purchasing it from the [[Dog House (Wenlock)|Doghouse]] next to [[Arowe]] in the [[Second Sea]] or near of [[Forest Pirate|Forest Pirates]], for {{Robux|97}}, exclusive for trading with the [[Mysterious Scientist]]. 
+* Kilo was the only [[Blox Fruits|Blox Fruit]] available for purchase in its physical form.
+* The notion of this [[Blox Fruits|Blox Fruit]] being "The best fruit in Blox Fruits" is often joked about due to its affordability and ease of acquisition.
+* Unique among [[Blox Fruits]], Kilo possessed a mobility ability that enabled vertical movement, with a slight forward component in the case of the [F] move.
+* Previously, this fruit inflicted increased damage when used from a high altitude and descending. However, it no longer received a damage buff from this particular maneuver.
+* The player could use the [F] move to get up to the [[Mysterious Force]] in [[Great Tree]] very easily for [[Race Awakening]].
+* Kilo is not able to be used by players after it got reworked to [[Rocket]]. However, the [[Kilo Admiral]] still uses this fruit, similar to how the [[Smoke Admiral]] uses the old [[Smoke]].
+
+==Change History==
+{{Change History|15|content=
+{{Update|20}}
+* Kilo was replaced by [[Rocket]].
+----
+{{Update|15}}
+* Kilo was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Things removed from the game]]
+[[ru:Кило]]

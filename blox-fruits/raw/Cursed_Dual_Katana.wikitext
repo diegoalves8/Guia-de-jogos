@@ -1,0 +1,161 @@
+{{CombosTab}}
+{{About|the {{Mythical}} sword|the {{Common}} sword|Dual Katana}}
+{{Weapon Infobox
+|name      = Cursed Dual Katana
+|image     = <gallery>
+Cursed Dual Katana.png|Icon
+Cursed Dual Katana EQ.png|In-Game
+Cursed Dual Katana Held.png|Held
+CDK (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Mythical
+|update    = 17.3
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Floating Turtle
+|obtain    = Dropped
+|source    = [[Cursed Skeleton Boss]]
+|source1   = [[Cursed Dual Katana/Puzzle|Puzzle]]
+}}
+{{Quote|Forged in the fires of both heaven and hell. Beware, for those who wield it risk being consumed by its curse.|Item}}
+The '''Cursed Dual Katana''' is a {{Mythical}} [[sword]].
+
+The Cursed Dual Katana features high damage output and long-range hitboxes, though its effectiveness depends on landing precise combos. Its moves are excellent, but are very easy to [[Instinct]] trick and do not offer true stuns, making it easy for the user to get punished. It has extremely long range, mostly used for its impeccable ability to defeat [[Dragon]] users with '''[X]''' '''Slayer of Goliath'''.
+
+The Cursed Dual Katana is a great sword for grinding, often regarded as one of the best in the game due to its high damage [M1] attacks being very compatible with [[Buddha]], and having no dash.
+
+==Obtainment==
+{{Main|Cursed Dual Katana/Puzzle}}
+# The player must be level 2200+ and have '''350''' [[mastery]] on both [[Yama]] and [[Tushita]].
+# After this, the player must complete the [[Cursed Dual Katana/Puzzle|Cursed Dual Katana Puzzle]]. To begin the puzzle, the player must be Lv. 2200 or above.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Cursed Dual Katana M1
+|desc     = The player does 2 slashes, then they spin and do as they do a slash, then ending on the fourth with a cross slash.
+}}
+
+{{Skill
+|key      = Z
+|name     = Revolving Ravager
+|mastery  = 175
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = Always breaks Instinct when it is held.
+|gif      = Cursed_Dual_Katana_ZA
+|desc     = The user spins around, zooming their view out and forming a red and black tornado that stuns and damages targets that are near it. Afterwards, the user will unleash the tornado, which pulls enemies away and captures and drags any enemies in its path, and then explodes, which will fling enemies towards the user.
+|gif1     = Cursed_Dual_Katana_ZB
+|desc1    = While this move is held, the tornado will stay in place for some time, dealing extra damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Slayer of Goliath
+|mastery  = 375
+|cooldown = 14
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct on direct hit, but can be dodged otherwise. The second impact can also be dodged.
+|gif      = Cursed_Dual_Katana_XA
+|desc     = The user executes a backflip before crossing their swords in an X pattern, dashing towards the enemy(s) at high speed, and slicing them, dealing high damage.
+|gif1     = Cursed_Dual_Katana_XB
+|desc1    = This move can be held to go further and deal more damage. Additionally, when hit, a second explosion will occur, dealing slightly less damage and knocking the target back.
+|gif2     = Slayer Of Goliath Victim PoV
+|desc2    = Finally, the target will see a large quickly spinning X obstructing their screen when hit. This move can bypass the protection granted by [[Dragon]] and only a % of [[Buddha]] transformations.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High combo potential.
+* Very high damage.
+* All moves are multi-target.
+* All moves can damage [[enemies]] in [[Sea Events]].
+*Very good for [[PvP]]  if used correctly.
+* Great for grinding because of its high damage, fast [M1] attack speed, [[Area of Effect|AoE]], and no forward dash on [M1] attacks.
+
+|'''[Z] Revolving Ravager'''
+* Long stun if held.
+* Big vertical hitbox.
+* Great combo starter.
+* Extends the enemy's hitbox, making the player capable of extending combos with short range moves.
+
+|'''[X] Slayer of Goliath'''
+* Great mobility.
+* Very long range if held.
+* Great combo potential.
+* Bypasses some of [[Buddha]]'s defense and ignores [[Dragon]]'s defense buffs.
+* The tap version can be used to punish players for missing their moves if the user has good aim since the tap version breaks Instinct if landed directly and has very little startup and endlag.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to obtain, as the player needs both [[Tushita]] and [[Yama]], both swords with 350 mastery to start the [[Cursed Dual Katana/Puzzle|Cursed Dual Katana puzzle]], which is quite time-consuming on its own. [[Tushita]] requires [[rip_indra True Form]] spawned to start the puzzle for it.
+* High mastery requirements.
+* All moves are [[Instinct]] Trickable.
+* A highly used sword, thus, very well known on how to counter.
+
+|'''[Z] Revolving Ravager'''
+* Not recommended for grinding, as the tornado does not drag multiple enemies when released. However, the explosion can hit multiple enemies.
+* [[Instinct]] trickable.
+
+|'''[X] Slayer of Goliath'''
+* Small hitbox.
+* Hard to hit moving opponents.
+* The second explosion does not occur against multiple enemies. It can only occur to one enemy.
+* Second highest mastery requirement for a skill in the game (375), behind death step (400).
+* Players often trick Cursed Dual Katana users, as they wait the user to hold the entire X, and when the user travels to the target, they can get surprised by the opponent's sudden or instant moves (Like Ice's V).
+}}
+</tabber>
+
+==Trivia==
+* Cursed Dual Katana is often abbreviated as "CDK" by players.
+* It is the only sword the [[Ghost]] '''[V] Ghostbusters''' clones are unable to use, due it being cursed to the user alone.
+* The Cursed Dual Katana deals the fourth-highest damage per click out of every [[sword]] in the game (the third is [[True Triple Katana]], the second is [[Bisento]] V2, and the first is [[Triple Dark Blade]]).
+* {{Ability|Z}} is as fast as [[Dark Blade]]'s {{Ability|Dark Blade|X}} move, but [[Dark Blade]]’s {{Ability|Dark Blade|X}} move has more range.
+* {{Ability|X}} requires 375 [[Mastery]], the second-highest move mastery requirement in the game. Only [[Death Step]]'s {{Ability|Death Step|V}} is higher, at 400 Mastery.
+** Despite this, once a player reaches [[Sea of Treats|Cake Land]], enemies yield relatively more mastery, making it easier to grind past this point.
+** If timed perfectly, it is possible to [[Flash Step]] out of both moves.
+* Using [[Godhuman]]'s {{Ability|Godhuman|Z}} move while the opponent is trapped inside the tornado from Cursed Dual Katana's {{Ability|Cursed Dual Katana|Z}} move will cause the move's animation to follow the opponent who is trapped inside the tornado.
+* The Cursed Dual Katana was considered one of the best [[swords]] in the game by the community due to its versatility and attack power, but many more recent weapons outshine it in most fields.
+* The Cursed Dual Katana, along with [[Shark Anchor]], are the only swords in the game that ignore [[Dragon]]'s defense buff.
+** This is likely due to the One Piece counterpart, Enma, was the only sword to have ever cut Kaido, who the East Dragon variant was based off of.
+* There was a  glitch that allowed the player to use {{Ability|X}} and immediately unequip the sword from their hotbar will freeze the target in place, rendering them unable to move until they die or switch teams. This has been patched on the Dragon Update.
+* When the player is holding Cursed Dual Katana, it is noticeable that [[Yama]]'s handle has two small demonic wings flapping around, whereas [[Tushita]] has two small angelical wings flapping around; however, the animation is easily missable.
+<gallery>
+File:Cursed power.gif|The energy compressing into the user while holding '''[X] Slayer of Goliath'''.
+</gallery>
+
+==Change History==
+{{Change History|17.3|content=
+{{Update|24}}
+* Cursed Dual Katana's model was reworked.
+<gallery>
+Cursed Dual Katana Icon (Old).png|Old Cursed Dual Katana's model
+Cursed Dual Katana IG Aura.gif|Pre-update 24 exclusive aura effect
+</gallery>
+----
+{{Update|18}}
+* '''[X] Slayer of Goliath''' received a small visual change, altering the spinning X that appears on the target's screen.
+----
+{{Update|17.3}}
+* Cursed Dual Katana was released.
+}}
+
+==Navigation==
+{{Cursed Katana Navbox}}
+{{Sword Navbox}}

@@ -1,0 +1,321 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Dark
+|image  = <gallery>
+Dark Fruit.png|Fruit Icon
+Dark fruit gif.gif|Fruit GIF
+Dark.png|Icon‎
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Uncommon
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 500,000
+|robux  = 950
+}}
+{{Quote|Provides darkness-based abilities which pull enemies in closer to you.|Shop}}
+'''Dark''' is an {{Uncommon}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|500,000}} or {{Robux|950}} from the [[Blox Fruit Dealer]].
+
+Dark enables the user to create, become and manipulate darkness, delivering powerful attacks that deal significant damage, while also pulling in and immobilizing enemies. It's somewhat similar to [[Shadow]].
+
+==Awakening==
+Dark costs {{Fragment|14,500}} to fully [[Raids|awaken]].
+
+The {{Title|Dark Lord}} [[Titles|title]] #038 will be granted upon awakening at least one move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive/Elemental Reflex|Dark Passive.gif}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Dark Rocks
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = DarkRocks
+|desc     = The user pushes their hand forward, grabbing rocks from the ground and leaving a crater as rocks with a black aura are fired towards the direction they aimed at.
+}}
+
+{{Skill
+|key      = X
+|name     = Black Spiral
+|mastery  = 40
+|cooldown = 12
+|energy   = 25
+|break    = No
+|instinct = Being sucked in can be mostly dodged, but once in, cannot break [[Instinct]].
+|gif      = BlackSpiral
+|desc     = The user creates a black hole on their cursor, trapping anyone caught in it and dealing damage to them before they are launched away. This move does more damage and causes longer stun the longer it is held, and can be held for 3 seconds.
+}}
+
+{{Skill
+|key      = C
+|name     = Black Hole
+|mastery  = 80
+|cooldown = 21
+|energy   = 30
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = BlackHole
+|desc     = The user opens up a large black hole around them, causing damage to anyone who gets trapped in it. This move also levitates its target.
+}}
+
+{{Skill
+|key      = V
+|name     = Dark Bomb
+|mastery  = 110
+|cooldown = 27
+|energy   = 50
+|break    = Yes
+|instinct = Only the initial hit [[Instinct/Break|breaks Instinct]]. The pull and the explosion can be dodged.
+|gif      = DarkBomb
+|desc     = The user manifests a large orb of darkness, launching it towards their cursor, dragging targets inside of it, and dealing damage.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Dimensional Slash
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|frag     = 500
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Black Warp
+|desc     = The user summons a dark sword and launches a small vertical slash toward their cursor. If landed, the user teleports near the target, and cuts them with the sword, dealing damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Abyssal Darkness
+|mastery  = 40
+|cooldown = 10.5
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = Breaks [[Instinct]] no matter what.
+|gif      = Abyss Darkness
+|desc     = The user creates a vortex within their hand that lashes out dark tentacles in front of them. Thus, stunning and pulling in targets when holding the move.
+}}
+
+{{Skill
+|key      = C
+|name     = Endless Hole
+|mastery  = 80
+|cooldown = 15
+|energy   = 35
+|frag     = 4,000
+|break    = Yes
+|instinct = Can be rarely dodged on the edge.
+|gif      = EndlessHole
+|desc     = The user creates a large dark hole that stuns targets, dealing rapid damage while getting bigger the longer it is held.
+}}
+
+{{Skill
+|key      = V
+|name     = World of Darkness
+|mastery  = 110
+|cooldown = 26.5
+|energy   = 50
+|frag     = 5,000
+|break    = Yes
+|instinct = [[Instinct/Break|Break Instinct]] when sucked in, this move can only be dodged at the explosion.
+|gif      = Black World
+|desc     = The user manifests a ravenous, spikey, dark sphere and launches it at their cursor. Afterwards, the sphere pulls targets towards it before imploding and launching them away, dealing damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Ghastly Step
+|mastery  = 0
+|cooldown = 6
+|energy   = 25
+|frag     = 2,000
+|gif      = Shadow Swap
+|desc     = The user teleports, leaving behind a purple afterimage of themselves, allowing them to avoid incoming attacks.
+}}
+}}
+
+==Overview==
+{{Tabber
+|Unawakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Low mastery requirements.
+
+|'''[Z] Dark Rocks'''
+* Good range.
+
+|'''[X] Black Spiral'''
+* Good stun.
+* High range.
+
+|'''[C] Black Hole'''
+* Good stun.
+
+|'''[V] Dark Bomb'''
+* High stun.
+}}
+
+|Cons|
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Most of its moves have high endlag, so if the enemy dodges, the player can be easily hit.
+* Some of its moves can be easily dodged with [[Instinct]].
+* The range and damage are very low compared to other options, even when awakened.
+* All moves can be punished if missed.
+
+|'''[Z] Dark Rocks'''
+* Small hitboxes.
+* No stun.
+* Rocks have slow travel speed.
+* Doesn't [[Instinct/Break|break Instinct]].
+
+|'''[X] Black Spiral'''
+* Hard to hit.
+* Decent end-lag.
+* High knockback.
+* Doesn't [[Instinct/Break|break Instinct]].
+
+|'''[C] Black Hole'''
+* Small hitboxes.
+* Hard to hit.
+
+|'''[V] Dark Bomb'''
+* Bad range.
+* Enemies can still attack while stunned.
+* High knockback.
+* Long start-up
+}}
+}}
+
+|Awakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Great stuns.
+* Large hitboxes.
+* Almost all moves break Instinct.
+
+|'''[Z] Dimensional Slash'''
+* Good range.
+* Slight stun.
+
+|'''[X] Abyssal Darkness'''
+* Decent range.
+* Good stun.
+
+|'''[C] Endless Hole'''
+* Good stun.
+* Decent [[AoE]].
+
+|'''[V] World of Darkness'''
+* Good range.
+* High stun.
+* Big [[AoE]].
+
+|'''[F] Ghastly Step'''
+* Short cooldown.
+}}
+
+|Cons|
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Requires skill and aim to use - Moves are punishing if missed
+* Low damage in comparison to fruits of similar rarity.
+* Low mobility.
+
+|'''[Z] Dimensional Slash'''
+* Small hitbox.
+* Distorts screen when hit, making it disruptive to combo extend.
+
+|'''[X] Abyssal Darkness'''
+* Snaps toward the target while aiming.
+* Cannot be steered after activation.
+* Can be punished if missed.
+
+|'''[C] Endless Hole'''
+* Small range when the move starts, and only increases when held.
+* Can be punished if missed.
+
+|'''[V] World of Darkness'''
+* Has endlag
+* Difficult to land.
+* Low damage.
+
+|'''[F] Ghastly Step'''
+* Short range.
+}}
+}}
+}}
+
+==Trivia==
+* Some old Dark moves are still used by many NPCs, such as the [[Raid Bosses|Raid Boss]], [[Darkbeard]] and the Dark [[Raids|Raid]] NPCs, nicknamed Darkness users.
+* Awakened Dark's {{Ability|Z|1}} uses the same sound effects as [[Dark Blade]]'s {{Ability|Dark Blade|X}}.
+* Admin E cleared confusion of the weapon [[Zioles (Player)|Zioles]] was holding in the [[Control]] rework trailer, revealing it to be the Dark Fruit, and not the [[Hallow Scythe]].
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} '''[Z] Dimensional Slash''' No longer self-stuns; range increased by 25%; hitbox size increased by 25%.
+* {{Arrow|buff}} '''[X] Abyssal Darkness''' Now breaks Instinct; end-lag decreased by 25%.
+* {{Arrow|buff}} '''[C] Endless Hole''' Hitbox size increased by 15%. When fully held, stun duration on the final hit increased by 50%.
+* {{Arrow|buff}} '''[V] World of Darkness''' Cast time decreased by 25%; end-lag decreased by 25%; travel speed increased by 20%.
+
+|-|24=
+{{Update|24}}
+* Dark's icon was revamped.
+: <gallery>
+DarkIcon (Old).png|Old Dark's icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Dark Fruit's model was revamped.
+: <gallery>
+Dark 150x150.png|Old Dark Fruit's icon.
+</gallery>
+
+|-|17.2=
+{{Update|17.2}}
+* Dark was nerfed.
+** {{Arrow|nerf}} The hitbox of '''[X] Abyssal Darkness''' (V2) was reduced.
+
+|-|12=
+{{Update|12}}
+* Dark received an [[Raids|awakening]].
+
+|-|1=
+{{Update|1}}
+* Dark was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Immunity Fruits]]
+[[ru:Тьма]]

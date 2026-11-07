@@ -1,0 +1,428 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Cool Cat|PrestigeTitle = Grand Slam|Rarity = Epic|Class = Tank|MovementSpeed = 855 (Very Fast)<br>958 (with Home Run)|GadgetCharges = 3|HealthLabel = Health|Health = 5000|AttackRange = 3.67 (Short)|Reload = 0.8 seconds (Very Fast)|AttackSuperCharge = 31.5%|AttackLabel = Damage|Attack = 1400|SuperRange = 40 (Very Long)|SuperSuperCharge = 25.2%|SuperDuration=4 seconds|SuperLabel = Damage|Super = 900|VoiceActor = Bindy Coda|AttackSpread=135°|SuperSpeed=3000|SuperWidth=1.67|Gadget1Name=Vitamin Booster|Gadget1=800|Gadget1Label=Heal per second|Gadget1Cooldown=20 seconds|Gadget2Name = Extra Sticky|Gadget2Cooldown=21 seconds|Previous=Frank|Next=Emz|HyperchargeMultiplier=40%|SuperSpread=40° (with Hypercharge)|AttackHyperchargeCharge=12.6%|SuperHyperchargeCharge=10.08%|Gadget2Range=5.67}}
+{{Quote|Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!}}
+{{Portrait}}
+Bibi is an {{Rarity|Epic}} [[Brawler]] who has high health, a high damage output, and a very fast movement and reload speed, but a short range. She was the 26th Brawler added to the game. Bibi attacks by swinging her baseball bat in a wide and close-ranged arc. In addition, she charges her Home Run bar, and charging it makes her next attack knock enemies back. Bibi's Super sends out a bubble that keeps traveling and bouncing off walls until it disappears. Her first Gadget, Vitamin Booster, heals her over time. Her second Gadget, Extra Sticky, allows her to throw bubble gum that slows enemies inside it down. Her first Star Power, Home Run, increases her movement speed when her Home Run bar is charged. Her second Star Power, Batting Stance, grants her a shield when her Home Run Bar is charged. Her Hypercharge, Out of Bounds, allows her Super to split into two bubbles when it hits a target.
+
+==Attack: Three Strikes==
+{{Quote|Bibi swings her baseball bat. Once her Home Run bar is fully charged, her next swing will knock back enemies!}}Bibi swings with her baseball bat, hitting enemies in a wide, 135 degree arc. The attack, much like [[Frank]]'s, takes time to wind up, at 0.6 seconds. However, she isn’t immobile while attacking and there isn’t any travel time, so the attack instantly takes effect after the delay. Bibi has a Home Run bar (not to be confused with her Home Run Star Power) that takes 2 seconds to charge up, and when fully charged, it causes Bibi's next attack to knock enemies back 4 tiles. However, its damage output remains the same. Kicking the ball in [[Brawl Ball]] with her Home Run bar charged will reset the bar, but won't affect the distance the ball travels. The attack has a long cooldown, taking 0.66 seconds to complete.
+
+==Super: Spitball==
+{{Quote|Bibi bats a bouncing ball of bubble gum that can go through enemies, and even hit the same target multiple times!}}Bibi sends out a large bubble that keeps travelling until it disappears after 4 seconds. This bubble is able to pierce through enemies and bounce off walls, and unlike the bullets from [[Rico]]'s Super, can hit enemies multiple times. Using her Super again while the previous one is active won’t cancel either bubble. If an enemy is moving along with the bubble so that their hitboxes overlap for an extended period of time, the bubble can deal repeated damage at a rate of every 0.5 seconds.
+
+==Gadgets==
+===Vitamin Booster===
+{{Quote|Bibi heals 1000 health per second for 4 seconds. Cooldown: 20 seconds.}}{{Gadget|1}}By using this Gadget, Bibi heals 10% of her maximum health every second for 4 seconds. This Gadget can be activated when Bibi is at full health. This Gadget's cooldown begins after the active duration of the Gadget ends. 
+
+{{Quote|Instantly charges Bibi's Home run bar and her next attack restores 50% damage as health.}}{{Buffie|Gadget}}
+With the Buffie, Bibi's Home Run bar gets instantly charged, turning blue, and her next main attack heals her for 50% of the damage dealt. A Gadget symbol will glow above Bibi's head signaling this Gadget's usage, as well as a pulsing attack joystick. This Gadget's cooldown starts after this attack is used.
+
+===Extra Sticky===
+{{Quote|Bibi throws bubble gum that slows all enemies in it by 20%. Cooldown: 21 seconds.}}{{Gadget|2}}When aiming using the Gadget button, Bibi lobs bubble gum that slows down enemies that walk into it by 20%. The gum lasts for 3.9 seconds and affects enemies in a 2.5-tile radius.
+
+{{Quote|The slowing effect increases the longer the gum stays on the ground.}}{{Buffie|Gadget}}
+With the Buffie, the slow effectiveness increases over time. After two seconds the slow increases to 30%, and after three seconds to 40%. In addition, the slow effect lingers for 1 second after an enemy leaves the radius instead of disappearing immediately.
+
+==Star Powers==
+===Home Run===
+{{Quote|Bibi's movement speed is increased by 12% when her Home Run bar is fully charged.}}{{StarPower|1}}When Bibi's Home Run bar is full, her movement speed is increased from 855 points to 958 points. A sound effect plays to indicate that this Star Power is active. However, Bibi moves normally again after using her Home Run swing.
+
+{{Quote|Home Run attack deals +15% damage.}}{{Buffie|Star}}
+With the Buffie, Bibi's attack with her Home Run bar charged deals 15% more damage.
+
+===Batting Stance===
+{{Quote|When Bibi's Homerun bar is fully charged, she shields herself from all damage by 20%.}}{{StarPower|2}}When Bibi's Home Run Bar is full, she gains a shield that reduces all damage she takes by 20%. A sound effect plays to indicate that this Star Power is active. The shield disappears after Bibi uses her Home Run swing.
+
+{{Quote|Bibi gains a shield for 5 seconds when her Super hits an enemy Brawler.}}{{Buffie|Star}}
+With the Buffie, when Bibi's Super hits an enemy Brawler, she gains a shield that reduces all damage she takes by 20% for 5 seconds. The duration doesn't stack if the Super hits more enemy Brawlers or the same target multiple times.
+
+==Hypercharge: Out of Bounds==
+{{Quote|Bibi's bouncing ball splits when hitting an enemy.}}{{Hypercharge}}
+When activated, Bibi's Super splits into two large bubbles upon hitting a target, which travel angled to the left and right, and deal the same amount of damage. They travel for 33.33 tiles after the split. She also gains a 20% speed boost, as well as 5% damage and shield boost.
+
+{{Quote|Hypercharged main attack has a shorter wind-up time.}}{{Buffie|Hyper}}
+With the Buffie, Bibi's attack takes only 0.2 seconds to wind up. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*In [[Brawl Ball]], Bibi can knock the ball out of an enemy’s grasp, allowing her to steal the ball or prevent enemies from scoring a goal. This makes her an excellent goalkeeper of some sort because she can protect the goal as well as grab the ball and kick it away with her fast movement speed and fast reload speed. In addition, both of her Star Powers are useful in Brawl Ball. Her Home Run Star Power allows Bibi to reach the ball or reach the enemy team's goal much faster when her Home Run Bar is full. Her Batting Stance Star Power allows her to take less damage, which is useful when enemies are attempting to steal the ball from her or when she needs to walk the ball into the enemy goal. In addition, Bibi is also useful for pushing forward on the enemy team, as when her Home Run Bar is full, she can push the enemies back, leaving them little room to defend your attack.
+*In [[Payload]], try to play passive-aggressive to prevent the enemy team from getting 100%. Most likely, one of your teammates will stay at your payload to gain progress, but if not then stay at your cart and always try to stay behind your cart as Bibi’s attack can go through the Payload, like [[Jacky]], [[Hank]], and [[Doug]]'s attack. When Bibi’s Home Run Bar is fully charged, this can help prevent enemies from getting to your cart or stop their own progression.
+*You can increase the effectiveness of her Home Run's knockback mechanic in [[Events]] with [[Modifiers]] active. For instance, Bibi can knock targets towards the destination of Meteors or away from Healing Mushrooms and Energy Drinks.
+**In maps with the Energy Drink Modifier, Bibi can hide in a bush near an energy drink. When an enemy approaches it, get out of the bush and knock the enemy back, collecting the Energy Drink in the process. Unless the enemy in question has a large amount of Power Cubes, Bibi can finish off the enemy with the damage boost.
+
+===Recommended Build===
+*In most cases, Vitamin Booster is a better choice. It is able to provide significant healing for Bibi and increases her survivability greatly. She can use the Gadget to get back into the fight fast, or use it when fighting Brawlers with insufficient burst damage at melee range. While Extra Sticky can slow down enemies, her super is usually not used as a long-range aggressive projectile due to its somewhat slow travel speed and inefficient damage. Even if the enemy is slowed, Bibi struggles to get up close to them, especially if she is facing long-ranged Brawlers like [[Piper]], [[Brock]], [[Angelo]], [[Bea]], [[Colt]], [[Rico]], [[Mandy]], and [[Nani]], who can deal significant damage from afar and protect themselves if Bibi gets close. Overall, Vitamin Booster is a better choice.
+*Both Star Powers are useful. Home Run can improve Bibi's movement speed significantly, make it a good choice in [[Brawl Ball]] and other modes where speed is required. Batting Stance can shield Bibi from some damage, and she can use this to get closer to the enemy or retreat with more ease. It depends on the mode and map to choose.
+
+===Strategies===
+*As Bibi's attack requires a while for its full animation to take place, in Brawl Ball you can time your attack animation to begin just as you pick up the ball, essentially allowing you to deal damage while maintaining control. This is effective if you are facing off aggressive opponents at low health, and if your Home Run bar is full, it is also useful to fend off tanks such as [[Bull]], [[Darryl]], and [[El Primo]], whose playstyles mainly revolve around quick assassinations and thus are likely to be near unattended balls, especially in bushes.
+*Using her Super directly after starting the swing to knock an enemy back can result in the bubble hitting them twice, usually securing a defeat against low-health Brawlers. The timing is difficult and requires practice.
+*When fighting another Bibi, you can start your attack before you get in range, and because Bibi's attack takes time to take effect, you can knockback or hit the opposing Bibi before their swing goes off. You can see that the enemy Bibi's Brawler model leans a little as the enemy starts to attack, which you can use to help time your attack or to retreat. This same mechanic of knocking the enemy back before you get in range can be applied when fighting other Brawlers. It takes a bit of practice to learn the correct timing, but using this trick greatly increases your skill and ability with Bibi.
+
+===Other===
+*Bibi's ability to knock enemies back when her Home Run bar is charged can be used to avoid contact from short-ranged Brawlers, which allows you to escape, and to stop dangerous attacks and Supers before they fully execute, like the Supers of [[Frank]] and [[Carl]].
+*Knocking enemies back can also be a disadvantage if she pushes them away from enemy fire, especially for medium to long-ranged Brawlers who can still hit her from that greater distance, and it’s especially dangerous to you for certain Brawlers that deal more damage in mid-long range such as [[Emz]] and [[Draco]]. It is useful to work out in advance if using the knockback is beneficial in a certain situation, and to either discard the knockback by attacking the air, or conserving ammo and storing the knock back ability. You can deliberately discard your knockback from a charged Home Run bar by swinging Bibi's bat prematurely, if your next move is to only attack enemies which you don't want to knockback. In order to avoid helping a target escape from her Home Run’s knockback, Bibi can knock them into a nearby wall and then go up to them and defeat them.
+*Bibi's knockback, just like [[Gale]]’s Super and [[Colette]]'s Push It Star Power, can be used to push enemies away from vital objectives of the gamemode or pushing enemies away from teammates. For example, she can knock defending enemies away from either yours or the enemies' safe in [[Heist]], she can knock back the bot in [[Siege]] or knock enemies' away from their IKE, to knock enemies' away from the bolts in Siege, knock enemies' away the the goal or ball in [[Brawl Ball]], the zone in [[Hot Zone]], the gems in [[Gem Grab]], or the blue star in [[Bounty]].
+*If aimed correctly, Bibi's Super can repeatedly bounce off walls to deal a lot of damage to a safe in walled maps such as [[Turnaround]]. Her Super is also able to bounce off of the other wall edge and hit an IKE turret twice in Siege while being out of the IKE’s range. Her Super is also useful to defeat low-health Brawlers.
+
+==Voice Lines==
+{{TranslationToggle|Japanese}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+! Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 01.ogg|Filedescription = "Batter up!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 08.ogg|Filedescription = "Batter up! Brawlers down!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi lead vo 01.ogg|Filedescription = "Home run!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin lead vo 01.ogg|Filedescription = "Thor who? I'm the goddess!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi hurt vo 01.ogg|Filedescription = "Hey, show some respect."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 01.ogg|Filedescription = "You better run!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi kill vo 01.ogg|Filedescription = "Yes!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin kill vo 01.ogg|Filedescription = "You are not worthy!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi die vo 01.ogg|Filedescription = "Bibi bye bye..."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin die vo 01.ogg|Filedescription = "This low-key sucks!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Bibi ulti vo 01.ogg|Filedescription = "Chew on this!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin ulti vo 01.ogg|Filedescription = "Stop! Hammer time!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 02.ogg|Filedescription = "Smack attack!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 03.ogg|Filedescription = "I'm the goddess of glam, ready to slam!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi lead vo 02.ogg|Filedescription = "Brilliant Bibi."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin lead vo 02.ogg|Filedescription = "By Odin's beard, I'm fierce!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi hurt vo 02.ogg|Filedescription = "You made a big mistake!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 02.ogg|Filedescription = "A storm is brewing!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi kill vo 02.ogg|Filedescription = "I'm a cool cat."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin kill vo 02.ogg|Filedescription = "You got hammered!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi die vo 02.ogg|Filedescription = "Oh my gosh!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin die vo 02.ogg|Filedescription = "Valhalla vibes!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Bibi ulti vo 02.ogg|Filedescription = "Bubble trouble!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin ulti vo 02.ogg|Filedescription = "Thunderstruck!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 03.ogg|Filedescription = "Tough as nails, hard as a rock."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 01.ogg|Filedescription = "Tough as nails, hard as a hammer!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi lead vo 03.ogg|Filedescription = "Can't touch this."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin lead vo 03.ogg|Filedescription = "Bested some foes, now I'm striking a pose!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi hurt vo 03.ogg|Filedescription = "Cool it!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 03.ogg|Filedescription = "For the Gods!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi kill vo 03.ogg|Filedescription = "Mr. Bat says hi!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin kill vo 03.ogg|Filedescription = "Thunder might be loud, but lightning is lethal!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Bibi die vo 03.ogg|Filedescription = "Swing and a miss."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin die vo 03.ogg|Filedescription = "Thunderous rage!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Bibi ulti vo 03.ogg|Filedescription = {{Translate|"こんにち-whack!("Konnichi-whack!")|"Today-whack!"}}}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin ulti vo 03.ogg|Filedescription = "Baseball queen, hammer your spleen!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 04.ogg|Filedescription = "Let's play!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 04.ogg|Filedescription = "Thunder and lightning, I'm very frightening."}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi lead vo 04.ogg|Filedescription = "I love you Mr. Bat."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin lead vo 04.ogg|Filedescription = "Wham bam, super slam!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi hurt vo 04.ogg|Filedescription = "Watch it nerd!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 04.ogg|Filedescription = "Surge of anger!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi kill vo 04.ogg|Filedescription = {{Translate|"さよなら!" ("Sayonara!")|"Good bye!"}}}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin kill vo 04.ogg|Filedescription = "The bat makes your face flat!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bibi die vo 04.ogg|Filedescription = "Strike out."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin die vo 04.ogg|Filedescription = Bibi screams}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Bibi ulti vo 04.ogg|Filedescription = "Base bubble!"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin ulti vo 04.ogg|Filedescription = "Mjölnir says hi!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 05.ogg|Filedescription = "Somebody order a knuckle sandwich?"}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 05.ogg|Filedescription = "Bibi has a new bam bam!"}}
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin lead vo 05.ogg|Filedescription = "Too legit to quit!"}}
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 05.ogg|Filedescription = "I'm gonna smite you to bits!"}}
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin kill vo 05.ogg|Filedescription = "Another smashing performance!"}}
+|
+|
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin ulti vo 05.ogg|Filedescription = "Whom run hammer!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bibi start vo 06.ogg|Filedescription = "Mr. Bat wants to play."}}'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 06.ogg|Filedescription = "Calamity be: 'Yo, that's me.'"}}
+|
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin hurt vo 06.ogg|Filedescription = Bibi grunts}}
+|
+|
+|
+|
+|-
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 07.ogg|Filedescription = "Stepping up to the plate!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 02.ogg|Filedescription = "Bringing the valkyrie vibes!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Thor:'''
+{{Ogg|Filename = Bibi thor skin start vo 09.ogg|Filedescription = "My hammer is my homie!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+== History==
+*21/05/19:
+**{{Balance|Content=Bibi was available to play in the [[Training Cave]].|Change=Neutral}} 
+*22/05/19:
+**{{Balance|Content=Bibi was available to play in matches.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Bibi's health was increased to 4400 (from 4200).|Change=Buff}}
+**{{Balance|Content=She no longer uses her Home Run bar when using her Super to kick the ball in [[Brawl Ball]].|Change=Buff}}
+**{{Balance|Content=Her Home Run Star Power speed boost was decreased to 15% (from 19%).|Change=Nerf}}
+*26/06/19:
+**{{Balance|Content=Bibi's bat's face was added back for iOS.|Change=Neutral}}
+**{{Balance|Content=Bibi received voice lines.|Change=Neutral}} 
+*07/08/19:
+**{{Balance|Content=Bibi's Batting Stance Star Power was added.|Change=Neutral}} 
+*29/08/19: 
+**{{Balance|Content=Bibi's Batting Stance Star Power damage reduction was increased to 40% (from 30%).|Change=Buff}}
+**{{Balance|Content=Bibi's Home Run Star Power bar turns blue/red when it is fully charged and a camera shake effect was added for Bibi when she swings her bat.|Change=Neutral}} 
+*18/09/19:
+**{{Balance|Content=Bibi's Home Run Star Power speed boost was decreased to 12% (from 15%).|Change=Nerf}}
+*09/10/19:
+**{{Balance|Content=Bibi's health was decreased to 4300 (from 4400).|Change=Nerf}}
+**{{Balance|Content=Her Batting Stance Star Power damage reduction was decreased to 30% (from 40%).|Change=Nerf}}
+*23/10/19:
+**{{Balance|Content=Bibi's health was decreased to 4200 (from 4300).|Change=Nerf}} 
+**{{Balance|Content=Her Super damage was decreased to 900 (from 1000) per hit.|Change=Nerf}}
+*28/01/20: 
+**{{Balance|Content=The Heroine Bibi skin was added. It was featured as a Lunar Brawl 2020 skin.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Bibi's Vitamin Booster Gadget was added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Bibi's movement speed was increased to 820 (from 770).|Change=Buff}}
+*13/05/20:
+**{{Balance|Content=Bibi's health was decreased to 4000 (from 4200).|Change=Nerf}}
+*16/06/20:
+**{{Balance|Content=Bibi's health was decreased to 3800 (from 4000).|Change=Nerf}}
+*27/10/20:
+**{{Balance|Content=The ZomBibi skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Bibi's health was increased to 4200 (from 3800).|Change=Buff}}
+**{{Balance|Content=Bibi's and Heroine Bibi's facial animations were reworked.|Change=Neutral}}
+*19/03/21:
+**{{Balance|Content=The Bibilante skin was added.|Change=Neutral}} 
+*07/04/21: 
+**{{Balance|Content=Bibi's Batting Stance Star Power damage reduction was decreased to 20% (from 30%).|Change=Nerf}}
+*13/08/21: 
+**{{Balance|Content=The Vicious Bibi skin was unlockable by winning the Bad Randoms in-game Challenge.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Bibi's Vitamin Booster Gadget can be used when Bibi is at full health.|Change=Buff}}
+*27/10/21:
+**{{Balance|Content=Bibi's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Her class was changed to Damage Dealer (from Batter).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Bibi’s Extra Sticky Gadget was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Bibi's health was increased to 4400 (from 4200).|Change=Buff}}
+**{{Balance|Content=Bibi's main attack damage was increased to 1400 (from 1300).|Change=Buff}}
+**{{Balance|Content=Vicious Bibi's attack visual effects were reworked.|Change=Neutral}} 
+**{{Balance|Content=Fixed an issue where Bibi's knockback attack is canceled but the visual remained.|Change=Neutral}}
+*29/07/22:
+**{{Balance|Content=The Bibi RJ skin was added. It was featured as a BT21 skin.|Change=Neutral}} 
+*31/08/22:
+**{{Balance|Content=Bibi's Extra Sticky Gadget can now be activated without requiring her Super.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Bibi's health was increased to 4600 (from 4400).|Change=Buff}}
+*28/02/23:
+**{{Balance|Content=Bibi's class was changed to Tank (from Damage Dealer).|Change=Neutral}} 
+*25/04/23:
+**{{Balance|Content=Bibilante and Vicious Bibi now cost 79 [[Gems]] each (from 49).|Change=Neutral}}
+*11/05/23:
+**{{Balance|Content=The Bubblegum Bibi skin was added.|Change=Neutral}} 
+*27/06/23: 
+**{{Balance|Content=Bibi's Extra Sticky Gadget duration was increased to 3 seconds (from 2).|Change=Buff}}
+*12/08/23:
+**{{Balance|Content=The Cursed Pirate Bibi skin was added. It was featured as a Cursed Pirates skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Bibi's health was increased to 4800 (from 4600).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Bibi's Vitamin Booster Gadget healing was increased to 768 (from 600) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Bibi's flavor text was changed from "Batter up! Bibi's got a sweet swing that can knock back enemies when her Home Run bar is charged. Her Super is a bouncing ball of gum that deals damage." to "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!"|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Bibi's Out of Bounds Hypercharge was added.|Change=Neutral}}
+*05/04/24:
+**{{Balance|Content=The Thor Bibi skin was added. It was featured as a Northern Saga skin.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Thor Bibi's Super visual effects were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=The Gamer Bibi skin was added. It was featured as a Lunar Brawl skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Fixed an issue with Bibi's Super not following in the same direction as the aim.|Change=Neutral}}
+*14/12/24:
+**{{Balance|Content=The Bo Peep Bibi skin was added. It was featured as a Toy Story skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Heroine Bibi was slightly remodeled.|Change=Neutral}}
+*03/04/25:
+**{{Balance|Content=The Justice Smasher, Injustice Smasher, and Virtue Smasher Bibi skins were added. They were featured as Brawl Pass Season 37 skins and Brawl Unite skins.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Fixed an issue with Bibi's Extra Sticky Gadget not applying to her Hypercharged Super.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Bibi's Home Run bar no longer requires all 3 ammo to begin charging.|Change=Buff}}
+**{{Balance|Content=Bibi was slightly remodeled.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Bibi's Out of Bounds Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Bibi's Out of Bounds Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Bibi's health was increased to 5000 (from 4800).}}
+*25/02/26:
+**{{Balance|Nerf|Bibi's Extra Sticky Gadget cooldown was increased to 21 seconds (from 10).}}
+**{{Balance|Neutral|Bibi's Extra Sticky Gadget was reworked from making her next Super slow enemies for 3 seconds to throwing bubble gum that slows enemies inside for 4 seconds.}}
+**{{Balance|Neutral|Bibi's Buffies were added.}}
+*04/03/26:
+**{{Balance|Nerf|Bibi's Extra Sticky Gadget range was decreased to 5.67 tiles (from 9.33).}}
+**{{Balance|Neutral|Fixed an issue with Bibi's Vitamin Booster Gadget healing 20% of her maximum health instead of 10%.}}
+**{{Balance|Neutral|Fixed an issue with Bibi's Vitamin Booster Gadget having a cooldown of 10 seconds instead of 15 when Buffied.}}
+**{{Balance|Neutral|Fixed an issue with Bibi's Vitamin Booster Gadget activating on her next attack instead of activating immediately.}}
+**{{Balance|Neutral|Fixed an issue with Bibi's Extra Sticky Gadget icon missing during matches.}}
+*07/03/26:
+**{{Balance|Content=The Bodyguard Bibi skin was added. It was featured as a Dark Sands skin.|Change=Neutral}}
+*31/03/26:
+**{{Balance|Change=Nerf|Content=The number of hits necessary to charge Bibi's Super was increased to 4 hits (from 3).}}
+**{{Balance|Change=Nerf|Content=Bibi's Hypercharge multiplier was decreased to 40% (from 50%).}}
+**{{Balance|Change=Nerf|Content=Bibi's Vitamin Booster Gadget cooldown was increased to 20 seconds (from 15).}}
+*22/04/26:
+**{{Balance|Nerf|Bibi's Buffied Vitamin Booster Gadget healing from next attack was decreased to 50% (from 60%).}}
+**{{Balance|Nerf|Bibi's Buffied Home Run Star Power damage bonus was decreased to 15% (from 20%).}}
+**{{Balance|Nerf|Bibi's level up health was decreased to 650 (from 750) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Bibi's level up damage was decreased to 3% (from 4%) in Brawl Arena.}}
+**{{Balance|Content=Bibi's Extra Sticky Gadget slow visual effects were reworked.|Change=Neutral}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where Bibi triggered 3 hits with 1 ammo when her Hypercharge was active.}}
+*30/06/26:
+**{{Balance|Content=Bibi's Home Run Star Power speed boost was changed to 12% (from 100 points).|Change=Nerf}}
+**{{Balance|Buff|Bibi's level up health was increased to 750 (from 650) in Brawl Arena.}}
+**{{Balance|Buff|Bibi's level up damage was increased to 4% (from 3%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Bibi's movement speed to 855 (from 820).}}
+
+==Cosmetics==
+===Skins (16)===
+{{Skin Gallery
+|Name1=Bubblegum|Cost1=Free from Presents, Pumpkin Boxes, Coffin Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Sugar Rush|Rarity1=Rare
+|Name2=Vicious|Cost2 = Free from the Bad Randoms Challenge, free from Ziggy Boxes or 79 Gems|Campaign2=THE BAD RANDOMS|Rarity2=Super Rare
+|Name3=ZomBibi|Cost3 = Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems|Campaign3=Supercell Make|Campaign3_2 = Brawl-o-ween|Rarity3=Super Rare
+|Name4=Bibilante|Cost4 = Free from Strangest Packs or 79 Gems|Campaign4=Max Force|Rarity4=Super Rare
+|Name5=Heroine|Cost5=149 Gems • '''E'''|Campaign5=Gaming|Rarity5=Epic
+|Name6=Bibi RJ|Cost6=149 Gems|Campaign6=BT21|Rarity6=Epic
+|Name7=Cursed Pirate|Cost7=Free from Glowbert Boxes or 149 Gems|Campaign7=Cursed Pirates|Rarity7=Epic
+|Name8=Bo Peep|Cost8=149 Gems or $7.99 • '''E'''|Campaign8=Toy Story|Rarity8=Epic
+|Name9=Bodyguard|Cost9=149 Gems|Campaign9=Dark Sands|Rarity9=Epic
+|Name10=Gamer|Cost10=Free from Bolt Boxes or 199 Gems|Campaign10=Gaming|Rarity10=Mythic
+|Name11=Thor|Cost11=299 Gems|Campaign11=Northern Saga|Rarity11=Legendary
+|TrueSkins=Yes
+|NameP1=Justice Smasher|CostP1=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Brawl Unite|RarityP1=Epic
+|NameP2=Injustice Smasher|CostP2=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Brawl Unite|RarityP2=Epic
+|NameP3=Virtue Smasher|CostP3=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Brawl Unite|RarityP3=Epic}}
+
+===Buffie Skins===
+<gallery>
+Bibi Buffie Skin-Gadget.png|Gadget
+Bibi Buffie Skin-Star.png|Star
+Bibi Buffie Skin-Hyper.png|Hyper
+Bibi Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Bibi
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Bibi RJ}}
+{{Pin Table|ZomBibi}}
+{{Pin Table|Bibilante}}
+{{Pin Table|Cursed Pirate}}
+{{Pin Table|Heroine}}
+{{Pin Table|Thor}}
+{{Pin Table|Gamer|Thanks}}
+{{Pin Table|Bo Peep|Thanks}}
+{{Pin Table|Justice Smasher|Angry}}
+{{Pin Table|Injustice Smasher|Angry}}
+{{Pin Table|Virtue Smasher|Angry}}
+{{Pin Table|Bodyguard|GG}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Bibi|Rarity = Common}}
+|{{Spray|Type = Bibi Hypercharge|Rarity = Exclusive}} 
+|{{Spray|Type = Bibi RJ|Rarity = Common}}
+|{{Spray|Type = Cursed Pirate Bibi|Rarity = Common}}
+|{{Spray|Type = Thor Bibi|Rarity = Common}}
+|-
+|{{Spray|Type = Gamer Bibi|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Bibi1}}
+|{{Pfp|Bibi2}}
+|{{Pfp|Bibi3}}
+|{{Pfp|Bibi4}}
+|{{Pfp|Bibi RJ}}
+|-
+|{{Pfp|Cursed Pirate Bibi}}
+|{{Pfp|Thor Bibi}}
+|{{Pfp|Gamer Bibi}}
+|{{Pfp|Heroine Bibi}}
+|{{Pfp|Bo Peep Bibi}}
+|-
+|{{Pfp|Justice Smasher Bibi}}
+|{{Pfp|Bodyguard Bibi}}
+|}
+
+{{Navigation}}
+[[pt:Bibi]]
+[[ru:Биби]]

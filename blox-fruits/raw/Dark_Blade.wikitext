@@ -1,0 +1,288 @@
+{{Tabber V2
+|tab1 = Dark Blade
+|tab2 = Slayer Skin
+}}
+{{CombosTab}}
+{{About|Dark Blade|the sword with a similar name|Dog Blade}}
+{{Weapon Infobox
+|name   = Dark Blade
+|image  = <gallery>
+Dark Blade.png|Icon
+DarkBlade1.png|Equipped
+DarkBladeHeld.png|Held
+Dark Blade (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type   = Sword
+|rarity = Mythical
+|update = 1
+
+<!-- Weapon Obtainment -->
+|sea    = 1/2/3
+|obtain = 
+* Purchase from [[Shop]]
+* By [[Trading]]
+* Obtaining from [[Gifting]]
+|source = [[Dark Blade (Gamepass)]]
+|price  = {{Robux|1,200}}
+}}
+{{Quote|A mythical blade, forged from the darkest of metals and wielded by the strongest swordsman in the world.|Item}}
+The '''Dark Blade''' is a {{Mythical}} [[sword]].
+
+The Dark Blade stands as being a decent choice for PvP with great damage and a lot of combo potential if used with prediction. It requires, to some extent, skill to use the full potential of the sword.
+
+==Obtainment==
+The Dark Blade can be obtained in three different ways:
+# Purchasing it for {{Robux|1,200}} from the [[Shop]].
+# Being gifted the [[Dark Blade (Gamepass)]] by another player.
+# Obtaining the [[Dark Blade (Gamepass)]] from a trade done with another player.
+
+===Version 2===
+The Dark Blade can be upgraded to its second version by completing [[The Son Quest]].
+
+===Slayer Skin===
+The Dark Blade has a third version known as the [[Slayer Skin]] where whenever the user activates [[Aura]], everything that was once green and black, turns to white and black. Unlocking this skin also rewards the {{Title|Slayer of God|outline=1|no=1}}.
+
+==Upgrading==
+{{Upgrading}}
+
+==Moveset==
+{{Tabber
+|Moveset (V1)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dark Blade M1
+|desc     = The user does 3 slashes, then performs a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = One Thousand Slices
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 20
+|break    = yes
+|instinct = Initial ticks [[Instinct/Break|break Instinct]] at close range, but can be dodged after that or at a distance.
+|gif      = Dark_Blade_V1_Z
+|desc     = The user executes a near instantaneous barrage of several green slashes, dealing high damage, hitting enemies, and stunning them for a short amount of time. This [[Instinct/Break|breaks Instinct]] if the first attack hits the opponent.
+}}
+
+{{Skill
+|key      = X
+|name     = Dark Air Slash
+|mastery  = 50
+|cooldown = 13
+|energy   = 40
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Dark_Blade_V1_X
+|desc     = The user launches a thin, tall, vertical slash of green energy towards the direction the are facing, which deals high damage and has a little knockback. This move doesn't [[Instinct/Break|break Instinct]].
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dark Blade M1
+|desc     = The player does 3 slashes, then performs a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = One Thousand Slices
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 20
+|break    = yes
+|instinct = Initial ticks [[Instinct/Break|break Instinct]] at close range, but can be dodged after that or at a distance.
+|gif      = Thousand Cuts hdr
+|gif1     = Held Thousand Cuts
+|desc     = The user execute a near instantaneous barrage of several green slashes that travel forward slightly, dealing high damage, hitting enemies, and stunning them for a short amount of time. This [[Instinct/Break|breaks Instinct]] if the first attack hits the opponent.
+|desc1     = When held the same move occurs, but the user dashes along with the slashes. (Note: This effect only applies after evolving via [[The Son Quest]].)
+}}
+
+{{Skill
+|key      = X
+|name     = Dark Air Slash
+|mastery  = 50
+|cooldown = 13
+|energy   = 40
+|break    = yes
+|instinct = Held only [[Instinct/Break|breaks Instinct]] on direct hits. Tap and Held (when hit indirectly) can be dodged with [[Instinct]].
+|gif      = Dark Slash hdr
+|gif1     = Charged Dark Slash hdr
+|desc     = The user launches a thin, tall, vertical slash of green energy toward the direction they are facing, which deals high damage and has a little knockback. This move doesn't [[Instinct/Break|break Instinct]].
+|desc1     = When held the same move occurs, but the slash goes faster, and farther. (Note: This effect also only applies after evolving via [[The Son Quest]].) This move does [[Instinct Break|break Instinct]] but does not break objects.
+}}
+
+|Moveset (Slayer Skin)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Slayer dark blade m1s
+e m1s|desc     = The player does 3 slashes, then performs a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = One Thousand Slices
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 20
+|break    = yes
+|instinct = Initial ticks [[Instinct/Break|break Instinct]] at close range, but can be dodged after that or at a distance.
+|gif      = Slayer Cuts hdr
+|gif1     = Held Slayers Cuts
+|desc     = The user executes a near instantaneous barrage of several black and white slashes, dealing high damage, hitting enemies, and stunning them for a short amount of time.
+|desc1     = When held the same move occurs, but the user dashes along with the slashes. (Note: This effect only applies after evolving via [[The Son Quest]].)
+}}
+
+{{Skill
+|key      = X
+|name     = Dark Air Slash
+|mastery  = 50
+|cooldown = 13
+|energy   = 40
+|break    = yes
+|instinct = Held only [[Instinct/Break|breaks Instinct]] on direct hits. Tap and Held (when hit indirectly) can be dodged with [[Instinct]].
+|gif      = Slayer Slash hdr
+|gif1     = Charged Slayer Slash hdr
+|desc     = The user launches a thin, tall, vertical slash of black energy toward their cursor which deals high damage and has a little knockback. 
+|desc1     = When held the same move occurs, but the slash goes faster, and farther. (Note: This effect also only applies after evolving via [[The Son Quest]].) This move does [[Instinct Break|break Instinct]] but does not break objects.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Could be really good when paired with good stunning fruits such as [[Ice]], [[Dark]], [[Lightning]], etc.
+* High damage.
+* Excellent for beginners.
+* All moves can damage large objects.
+* Good combo potential.
+** Both skills combo into each other.
+* Low mastery requirements.
+
+|'''[Z] One Thousand Slices'''
+* Stuns the enemy for an approximate duration of ~1 sec.
+* Decent range.
+* No needed [[mastery]].
+
+|'''[X] Dark Air Slash'''
+* Has extremely long range.
+* Very fast. (If held)
+* Low mastery.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Blade]] is immune to it.
+* Very expensive to obtain.
+** Costs ≈$15 (USD)/£10/€12 to obtain, unless the player obtained the {{Robux|Robux}} from a premium payout or got it from [[trading]]/getting gifted it.
+* Does not have a lot of [[combos]], and it instead depends a lot on reaction time and skills most of the time.
+* Dash move on the fourth click move.
+
+|'''[Z] One Thousand Slices'''
+* Poor mobility.
+
+|'''[X] Dark Air Slash'''
+* Predictable if not held.
+* When holding this move, the opponent could punish the user by getting close with fast [[teleportation]] moves and start a [[Combos|combo]].
+}}
+</tabber>
+
+==Trivia==
+* The Dark Blade's in-game icon is inaccurate, as ever since the change to [[Aura]] in [[Updates/24|Update 24]], the sword no longer lights up.
+* The Dark Blade makes the user spin when they do an [[Air Jump]] or side [[Dashing|dash]]. The user will also do a roll when they back dash.
+* The Dark Blade was previously called the "Yoru", which was then changed to Dark Blade.
+* There is a triple version of the Dark Blade, named the [[Triple Dark Blade]].
+** This version is only usable by admins or people they granted it to.
+* The Dark Blade is the only [[sword]] that requires obtaining a [[Game Pass]] to obtain.
+* The [[Brazil Cube]] allowed the first player who touched it to receive Dark Blade. However, it could only be spawned in by an admin.
+* The Dark Blade is one of the few items in the game to have its [[rarity]] altered.
+* The Dark Blade is often abbreviated as "DB". ''Check [[Dictionary]] for more info about such abbreviations.''
+* The Dark Blade is recommended for all seas as it has high damage, low mastery requirements, and is comparable to swords like [[Cursed Dual Katana]], [[True Triple Katana]], or [[Shark Anchor]].
+* Unlike other swords and weapons, Dark Blade's idle does not overlap with custom idles.
+* The Dark Blade and [[Dog Blade]] are currently the only tradable swords in the game.
+* The Dark Blade is the first sword obtained by a gamepass. It is also the first sword obtained by a gamepass with skins.
+* Dark Blade's loss of lighting up is confirmed to be a 'low priority bug' by Admin E, meaning it is not intentional.
+* There is a myth where defeating [[Rip indra]] will drop a Dark Blade, but it is impossible to confirm. 
+*:<gallery>
+File:DarkBlade V4 idle.png|An example of Dark Blade's idle not canceling out [[Rabbit|Mink]] [[Race Awakening|V4]]’s idle.
+File:Dark force.gif|Dark, green energy surging into the user as they hold '''[X] Dark Air Slash'''.
+</gallery>
+
+==Change History==
+{{Change History|1|content={{Update|29.6}}
+* Darkblade was buffed.
+** [Z] hold charge reduced by 10%, endlag removed, range and hitbox increased by 10%
+* Added custom Slayer Icon.
+----
+{{Update|27.5}}
+* The SFX for Dark Blade V2's {{Ability|Z}} now changes when used on different surfaces.
+----
+{{Update|26.8}}
+* {{Arrow|buff}} Dark Blade V2's {{Ability|X}}'s range when held was buffed by 15%.
+----
+{{Update|24}}
+* Changed the visuals for the [X] ability.
+----
+{{Update|21}}
+* {{Arrow|nerf}} The strength of Dark Blade's Upgrading was nerfed.
+** 10% -> 8% Damage Boost.
+----
+{{Update|20}}
+* The Dark Blade received a new model.
+* {{Arrow|buff}} The damage and speed of {{Ability|X}} V2 when held were increased.
+: <gallery>
+OldDarkBlade.png|Old Dark Blade's icon.
+Dark Blade slayer vs default difference (reuploaded).webp|Old Dark Blade In-Game
+</gallery>
+----
+{{Update|17.2}}
+* Improved the visual effects on the Dark Blade's abilities.
+<gallery>
+DBZ.gif|Old {{Ability|Z}}
+DBZHeld.gif|Old {{Ability|Z}} held
+DBX.gif|Old {{Ability|X}}
+</gallery>
+----
+{{Update|15}}
+* {{Arrow|buff}} Reduced end-lag on the {{Ability|Z}} ability.
+----
+{{Update|11}}
+* {{Arrow|neutral}} The Dark Blade was reworked:
+** New model.
+** New and faster combat animations.
+** Alternative abilities (V2-exclusive):
+*** Holding the {{Ability|Z}} ability for at least 0.25s will move the player forward.
+*** The {{Ability|X}} ability can be charged for up to 0.4s for a slightly faster attack, and to [[break Instinct]].
+----
+{{Update|9}}
+* {{Arrow|buff}} The Dark Blade was slightly buffed.
+----
+{{Update|8}}
+* The Dark Blade's rarity was changed to {{Mythical}}.
+----
+{{Update|5}}
+* {{Arrow|nerf}} The {{Ability|Z}} followed by {{Ability|X}} combo is no longer inescapable.
+----
+{{Update|4}}
+* Added the Dark Blade's V2.
+----
+{{Update|2}}
+* {{Arrow|nerf}} The Dark Blade was nerfed.
+----
+{{Update|1}}
+* The Dark Blade was released as a {{Legendary}} sword.}}
+
+==Navigation==
+{{Sword Navbox}}
+
+[[Category:Game Passes]]
+[[ru:Тёмный Клинок]]

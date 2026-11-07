@@ -1,0 +1,50 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Green Zone
+|image      = GreenZone.jpg
+|type       = Island
+|sea        = Second Sea
+|level      = 875-950
+|music      = The Living Forest
+|prev       = Kingdom of Rose
+|next       = Graveyard Island
+}}
+The '''Green Zone'''  is an island in the [[Second Sea]].
+
+==Appearance==
+The Green Zone is wrapped by a shallow, rocky beach, and is connected to [[Kingdom of Rose]] by the [[Bridge]]. The island is mostly covered in grass, with a small number of paths and rocks. Large amounts of vegetation can also be seen, including huge flowers and vines, some of which extend great distances into the sky.
+
+==Inhabitants==
+{| class="article-table"
+! NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Alchemist]]
+* [[Angler (NPC)|Angler]]
+* [[Barista Cousin]] (sometimes) 
+* [[Boat Dealer]]
+* [[Legendary Sword Dealer]] (sometimes) 
+* [[Mr. Captain]]
+* [[Mysterious Man]]
+* [[Set Home Point]]
+|
+* [[Marine Lieutenant]]
+* [[Marine Captain]]
+|
+* [[Orbitus]] (Previously [[Fajita]])
+|}
+
+==Trivia==
+* Some of the leaf wings at the Green Zone have a hitbox to stand on, while some do not, which can be quite confusing.
+** Because of this, [[Flight]] abilities are recommended for the purpose of reaching the top of the vine.
+* The Green Zone has one of the highest points of altitude in the [[Second Sea]].
+* This island has a small area where the {{Flower|Red}} Flower can spawn.
+* The Green Zone is not a place that the player can directly teleport to using [[Portal]], so the player can instead teleport to Dock 3, which is connected to the island.
+
+==Change History==
+{{Change History|8}}
+
+==Navigation==
+{{IslandNavigation}}

@@ -1,0 +1,336 @@
+{{CombosTab}}
+{{Unavailable|[[Blox Fruit]]|[[Tiger]]|28|type=[[Blox Fruit]]|desc=It was replaced by [[Tiger]] in Update 28}}
+{{Blox Fruit Infobox
+|name   = Leopard
+|image  = <gallery>
+Leopard Fruit.png|Fruit Icon
+Leopard Fruit Gif.gif|Fruit GIF
+Leopard.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Transformed
+|update = 17.3
+
+<!-- Fruit Price -->
+|money  = 5,000,000
+|robux  = 3,000
+}}
+{{Quote|Allows the user to turn into a leopard, granting enhanced agility and powerful melee attacks.|Shop}}
+'''Leopard''' was a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that used to cost {{Money|5,000,000}} or {{Robux|3,000}} from the [[Blox Fruit Dealer]].
+
+Leopard allowed the user to acquire powerful and violent attacks, as well as to transform into an anthropomorphic {{w|leopard}}, granting them speed, agility and offense. This fruit was easily abusable due to it having no Fury Meter and low cooldown moves that could be spammed, which allowed the user to rapidly cast out attacks to easily kill another player in PvP. 
+
+Leopard was the third-most expensive fruit and was widely considered to be a decent choice for [[PvP mechanics|PvP]]. It was the first fruit to have a Robux value that exceeded the [[Fruit Notifier]]. This fruit had a strong demand in trading due to its PvP potential, cost, and rarity, often referred to as the "King of Spam" by players, due to its low cooldowns and fast moves. 
+
+Despite having an M1 and [[Area of Effect|AoE]] attacks, Leopard was considered decent to mediocre for grinding. The M1 hitboxes were often inconsistent and hard to hit. Moreover, the attacks were generally frustrating to use due to their high knockback and lack of stuns. However, this fruit remained a good choice for [[Sea Events]], [[Raids]], and fighting tough [[Bosses]].
+
+__TOC__{{Clr|what is this}}
+
+==Abilities==
+{{Tabber
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The fireball also can be dodged if hit directly. Explosion can [[Instinct/Break|break Instinct]], but it can rarely be dodged on the edge.
+|gif      = Leopard_ZA
+|gif2     = Leopard_ZB
+|desc     = The user shot a fireball from their finger.
+|desc2    = If the key is held, they would send a barrage of ghostly index pointing hands first, firing the blazing projectile after a short moment. If damage was taken while the move was held, the final projectile would be fired early.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Leopard_X
+|desc     = The user created and sent a large, powerful air-blade in the shape of a swirl with their legs, which is impelled at the cursor like a razor blade and slashes the target several times upon hitting while dragging them along for a few moments, and then shoots them upward in an updraft. The updraft remained there after the move is finished and walking in the path of it with [[Instinct]] disabled or holding a move will caused the user to be blasted up. This move was great for combos.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 15
+|energy   = 80
+|break    = yes
+|instinct = The first few dashes can be dodged using [[Instinct]]. The roar (slam) after them can [[Instinct/Break|break Instinct]]. It can also be dodged on the edge.
+|gif      = Leopard_C
+|desc     = The user teleported a couple times in their cursor's direction, then let out a roar that dealt damage and knockback. If the user was on the ground then they would smash the ground instead, [[Instinct/Break|breaking Instinct]] in the process.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 4.5
+|energy   = 20
+|break    = yes
+|instinct = The start-up can [[Instinct/Break|break Instinct]], but it can rarely be dodged on the edge.
+|gif      = Leopard_V
+|desc     = The user transformed into a Leopard-Human hybrid, unleashing a roar which did damage and [[Instinct/Break|breaks Instinct]].
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Leopard_F
+|desc     = The user moved forward a short distance very fast (like a mini [[Flash Step]]) and if there was a target in front of the user, they'd knock them back with a swift kick and deal a good amount of damage. This move [[Instinct/Break|breaks Instinct]].
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = Can only [[Instinct/Break|break Instinct]] at the roar, which can rarely be dodged on the edge. Can only be used while transformed.
+|gif      = Leopard_Transformed_M1
+|desc     = The user swung and punched with their limbs three times before letting out a roar which [[Instinct Break|breaks Instinct]] and dealt AoE damage.
+}}
+
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 6
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The fireball also can be dodged if hit directly. Explosion can [[Instinct/Break|break Instinct]], but it can rarely be dodged on the edge.
+|gif      = Leopard_Transformed_ZA
+|gif2     = Leopard_Transformed_ZB
+|desc     = The user shot out a blazing projectile out of the user's hand (supposedly their finger) where their cursor is aiming. After a while this projectile exploded.
+|desc2    = If the key is held down, it would send a barrage of ghostly index-pointing hands where their cursor is aiming, then after a short moment the blazing projectile would be fired. If the user took damage while holding this move, they would automatically shoot the final projectile, similar to other held moves.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 8
+|energy   = 40
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Leopard_Transformed_X
+|desc     = The user produced a slice of wind with their leg. If this ability hit, it sent out a thin, saw-like blade hitting their opponent multiple times, then shot them upward in an updraft. The updraft remained there after the move was finished, and walking in the path of it with Instinct disabled or holding a move will resulted in the enemy being caught in the updraft.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 10
+|energy   = 80
+|break    = yes
+|instinct = The first few dashes can be dodged using [[Instinct]]. The roar (slam) after them can [[Instinct/Break|break Instinct]]. It can also be dodged on the edge.
+|gif      = Leopard_Transformed_C
+|desc     = The user teleported towards the location of the user's cursor, then let out a furious roar. If this move was used on the ground, the user also smashed the ground with a great slam at the end of it. This move also added a fire effect (cosmetic) which increased speed by 40% for 3-4 seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3
+|energy   = 20
+|gif      = Leopard_Transformed_V
+|desc     = The user transformed back into their human form instantly, sending out a shower of particles. This reverted the user into their normal state, removing their ability to use Leopard's transformed moves, but in turn restores their ability to use Fighting Styles, Swords and Guns.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 6
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Leopard_Transformed_F
+|desc     = The user teleported forward a short distance in the blink of an eye (Sort of like a mini flash-step.) Anyone hit by this move would be hit with a swift kick which dealt good damage and high knockback. This move was faster than it's untransformed counterpart. This move [[Instinct/Break|breaks Instinct]].
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* All move have low endlag maneuvers.
+* High damage.
+* Low cooldowns.
+* Great mobility. 
+
+|'''[Z] Finger Revolver'''
+* Last projectile had a large hitbox.
+* Could glide across the surfaces.
+* Quite long range.
+
+|'''[X] Spiraling Kick'''
+* Decent [[Area of Effect|AoE]].
+* Long range.
+* Could linger for a bit after it ends, damaging anyone who walked into it.
+* Could glide across the surfaces.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+
+|'''[V] Transformation'''
+* Decent damage.
+* Quick transformation.
+
+|'''[F] Body Flicker'''
+* Decent mobility.
+* Decent for extending combos.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Was not recommended for [[First Sea|First]] / Early [[Second Sea]] players due to its high mastery requirements and bad grinding capabilities.
+* Was very expensive and difficult to obtain.
+* Because of its strong close-range and underground abilities, Leopard could easily be countered by [[Ice]] because Leopard did not replenish its [[health]] or stun ability effectively.
+* Some moves were close ranged and are possible to dodge with [[Instinct]].
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+
+|'''[X] Spiraling Kick'''
+* Could be dodged with [[Instinct]].
+* Quite high knockback. (Making it hard to do combos and grind)
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* The first few dashes could be dodged using [[Instinct]].
+* The opponent could punish it if timed correctly.
+
+|'''[F] Body Flicker'''
+* The range was quite low so the move is hard to hit.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Provided a small damage reduction. (Roughly 10%)
+* Gained a speed buff (~66.6%) and a slight [[Air Jump|jump]] buff.
+* Moves dealt more damage and have much lower cooldowns.
+* Very easy to use. 
+* Small hitbox compared to other transformations. 
+
+|'''[TAP] Normal Attack'''
+* Fast M1.
+* Decent stun.
+* Last attack being a roar that [[Instinct Break|breaks Instinct]] and did [[Area of Effect|AoE]] damage.
+* Could be weaved inbetween other abilities, allowing for more pressure.
+
+|'''[Z] Finger Revolver'''
+* Long stun if held.
+* The fire ball had larger [[Area of Effect|AoE]], making it easier to hit.
+
+|'''[X] Spiraling Kick'''
+* The wind increased AoE.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Boosted the user's speed for a while.
+
+|'''[F] Body Flicker'''
+* Good mobility.
+* Good for extending combos.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Weak defense.
+* Could not use [[Fighting Styles|fighting styles]], [[swords]] or [[guns]] while transformed.
+* Leopard's Transformation was widely known how to counter.
+
+|'''[TAP] Normal Attack'''
+* Short range, so it was not recommended to use in PvP.
+* Difficult to use for grinding groups of enemies.
+* The hitboxes were inconsistent at times.
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+
+|'''[X] Spiraling Kick'''
+* Could be dodged with [[Instinct]].
+* Quite high knockback, making it bad for combos and grinding.
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* The first few dashes could be dodged by [[Instinct]].
+
+|'''[F] Body Flicker'''
+* Although having longer range and hitbox, this move was still hard to hit.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+Leopard Transformed.gif|Transformed Leopard's Idle.
+Leopard Outline.png|Leopard outline while transforming.
+Leopard (From YETI and TIGER SHOWCASE - Gamer Robot).png|Leopard's appearance in the Blox Fruits [[Yeti]] and [[Tiger]] showcase.
+</gallery>
+
+==Trivia==
+* During Leopard's '''[V] Transformation''', the user gained a moderate speed boost/buff. Using [[Rabbit V3]] and the [[Pilot Helmet]] added up even more speed buffs. Combining all of them made the user surpass the speed of Awakened [[Light|Light's]] '''[F] Shining Flight''', which is the second fastest flight move in the game.
+* When transformed, the user was 'immune' to all environment [[lava]] puddles, such as those found in [[Raids]] or on the island [[Hot and Cold]] (This was because the hitbox when transforming is above the lava, preventing the user from taking damage). The user, however, could be harmed by the lava puddles by being dragged down by an ability such as [[Flame|Flame's]] {{Ability|Flame|V}} move.
+* After the usage of {{Ability|Leopard|C}}, the user gained a temporary but strong speed boost/buff and giving them slightly faster M1's while being lit on fire. Keep in mind that this effect will not change any other attribute/aspect of the user. (Damage, Defense, Health, etc.)
+** This move could also be added onto the transformation combination to make it even faster.
+* [[Mammoth]], [[Buddha]], [[Yeti]], [[Phoenix]], and Leopard [[Transformation|transformations]] did not have a time limit or [[Fury Meter]] unlike fruits such as [[Dragon]], [[Venom]], [[T-Rex]], [[Gas]] or [[Kitsune]] without getting damaged, which means the user could stay transformed for as long as they like.
+** The exception is [[Phoenix]]'s transformation, since it depends from amount of energy and HP the player has.
+* Jumping into {{Ability|X}}while it is moving caused it to carry the player forward for a short distance. Do note that this most often worked on devices with poor connections.
+* When transforming, a faint leopard ghost appeared above the user with red glowing eyes for a few milliseconds. If the player was entering the server for the first time, the leopard model sometimes appeared T-posing.
+* Leopard's [M1] attacks could damage [[Sea Beast]]s.
+* Leopard was widely considered a ''spammable'' fruit. Using the combination of [[Zebra Cap]] (or [[Oni Helmet]]), [[Ghoul]] V3/V4, which has the ability to reduce cooldowns, would massively contribute to the fruit's ''spammability'', so much that if used properly, the player could almost use the moves continuously.
+* While transformed, the player kept their hair/hat.
+* [[Yeti]] and Leopard were the third pair of fruits to share the same price, the second being [[Gas]] and [[Control]], and the first being [[Mammoth]] and [[T-Rex]].
+* [[Yeti]] was considered the rival of this fruit, until it 'evolved' to [[Tiger]] to challenge it.
+* {{Ability|Z}}and {{Ability|X}}could fling fruits on the ground.
+* There used to be a glitch where using {{Ability|X}} would reset the players [[Air Jump]] count.
+* There also used to be a glitch with {{Ability|X}} where, if lined up correctly with another player, it could kick players out of a [[Safe Zone]] despite them not being [[PvP mechanics|in combat]].
+* This is the only removed Fruit to appear in a update banner ([[Updates/17.3|Update 17.3]]).
+
+==Change History==
+{{Change History|17.3|content={{Update|28}}
+* Leopard was replaced by [[Tiger]].
+----
+{{Update|27.5}}
+* Leopard was made unavailable to purchase from the [[Blox Fruit Dealer]]’s stock and [[Shop]].
+----
+{{Update|20}}
+* Leopard Fruit's model was remade.
+: <gallery>
+Leopard 150x150.png|Old Leopard Fruit's icon.
+</gallery>
+----
+{{Update|17.3}}
+* Leopard was released.}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[Category:Things removed from the game]]
+[[ru:Леопард]]

@@ -1,0 +1,313 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Lost|PrestigeTitle = Balloon Boy|Rarity = Super Rare|Class = Support|MovementSpeed = 750 (Normal)<br>863 (with Spirit Animal + Star Buffie)|HealthLabel = Health|Health = 3300|AttackLabel = Damage per balloon |Attack =1080 |AttackRange = 9.33 (Very Long)|Reload =1.5 seconds (Normal) |AttackSuperCharge =23.345%<br>5.83625% (with Knockback Spirit)|SuperRange = 9.33 (Very Long)|SuperSuperCharge =4.5% (spirits; with Hypercharge) |VoiceActor=Patrick Pedraza|AttackCooldown=|AttackBullets=1|Attack2=800|SuperBullets=1<br>10 (with Hypercharge)|SuperDuration=|SuperMinionRange=|SuperReload=|SuperMovementSpeed=|SuperLabel=Shield Health|SuperLabel2=|AttackSpeed=4000|AttackWidth=1|SuperSpeed=3600|SuperSpread=360° (with Hypercharge)|SuperWidth=1.33|AttackLabel2=Heal per spirit|AttackLabel3=|AttackSpread=|Super=2600|Gadget1Name = Kooky Popper|Gadget1 = 1728|Gadget1Label= Damage per spirit|Gadget1Cooldown=16 seconds|Gadget2Name=Knockback Spirit|Gadget2=416|Gadget2Label=Damage|Gadget2Range=6.67|Gadget2Cooldown=26 seconds|Previous=Jacky|Next=Bo|Hypercharge|HyperchargeMultiplier=35%|AttackHyperchargeCharge=8.17075%|SuperHyperchargeCharge=1.575% (spirits; with Hypercharge)|Gadget1Range=14}}
+{{Quote|Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.}}
+{{Portrait}}
+Gus is a {{Rarity|Super Rare}} [[Brawler]] who has moderate health and damage, but with a very long range, immense utility with his Super, and unique healing capabilities. He was the 60th Brawler added to the game. He attacks by throwing a long-ranged balloon at enemies, dealing moderate damage. Gus charges up a bar by hitting enemy Brawlers, and charging it makes his next attack spawn a spirit that heals him or allies that pick it up. His Super grants him or a teammate a shield that absorbs damage and decays over time, pushing all nearby enemies back. His first Gadget, Kooky Popper, instantly explodes all active spirits. His second Gadget, Knockback Spirit, fires a spirit that damages and knocks enemies back. Gus' first Star Power, Health Bonanza, significantly increases the healing from his spirits. His second Star Power, Spirit Animal, momentarily increases the damage of whoever receives Gus' Super. His Hypercharge, Spooky Pop, shoots spirits that damage enemies and heal allies in all directions when Gus uses his Super on himself, and curves the spirits in a circular motion when he uses his Super on teammates.
+
+==Attack: Loony Balloons==
+{{Quote|Gus shoots balloons at enemies. After several hits, a spirit will drop. Collected spirits will restore some health to Gus or his teammates.}}Gus fires a long-ranged balloon in a straight line. Each attack that hits an enemy Brawler fills a bar by one third. After the bar is filled, the next attack that hits an enemy Brawler or mobile spawnable empties the bar and spawns a spirit at the enemy location. Spirits can be collected by Gus or his allies, healing them, but the healing doesn't scale with [[Showdown|Power Cubes]] or outside buffs. Up to 3 spirits will remain in place indefinitely until collected. Spawning more spirits causes the others to disappear in the same order they appeared. Gus' attack has a moderate cooldown of 0.5 seconds. 
+
+==Super: Spooky Boy==
+{{Quote|Gus uses Spooky (a balloon creation and also his best friend), to create a shield around himself or one of his teammates and pushes nearby enemies back.}}[[File:Hardcore Icon.png|left|40x40px|link=]]Gus launches a long-ranged balloon dog that can pass through walls and grants himself or allies a consumable shield that blocks a large amount of damage and knocks nearby enemies back. The shield decays for 5% health every 0.5 seconds, similar to [[Edgar]]'s Hardcore Gadget. The player can give teammates the shield by aiming the Super or give it to Gus himself by auto-aiming it. If an attack deals more damage than the shield's current health, the shield disappears and the Brawler with the shield is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on the Brawler's max health when this shield is active. Enemies damaging those with the shield on can still charge their Supers, but allies with Traits allowing them to charge Super from taking damage cannot.
+
+==Gadgets==
+===Kooky Popper===
+{{Quote|Explode all uncollected spirits, dealing 2160 damage to nearby enemies. Cooldown: 16 seconds.}}{{Gadget|1}}
+When activated, all spirits within 14 tiles of Gus' location explode, dealing the same amount of damage as Gus' main attack to enemies within 2 tiles. The amount of damage dealt can stack with other spirits. This Gadget can only be activated if there is at least 1 spirit on the battlefield close enough. This Gadget's cooldown starts 2.5 seconds after the button is pressed.
+
+{{Quote|Nearby enemies lose 1 ammo.}}{{Buffie|Gadget}}
+With the Buffie, enemies damaged by the explosion lose 1 ammo.
+
+===Knockback Spirit===
+{{Quote|Gus throws a spirit, knocking back enemies and dealing 520 damage. Cooldown: 26 seconds.}}{{Gadget|2}}
+Gus throws a piercing projectile which spawns a spirit at the end of its range, knocks enemies back and deals 24.07% of his main attack damage. This Gadget does not consume ammo.
+
+{{Quote|Create a spirit for each enemy hit.}}{{Buffie|Gadget}}
+With the Buffie, the Gadget spawns a spirit whenever it hits an enemy.
+
+==Star Powers==
+===Health Bonanza===
+{{Quote|Healing gained from spirits is increased by 50%.}}{{StarPower|1}}
+This Star Power increases the healing by 50% from picking up a spirit.
+
+{{Quote|Spirits move toward the nearest ally.}}{{Buffie|Star}}
+With the Buffie, the spirits slowly move toward the nearest ally, including through walls. The spirits remain stationary if there are no allies to follow.
+
+===Spirit Animal===
+{{Quote|Spooky increases the damage of a teammate by 25% for 5 seconds.}}{{StarPower|2}}
+Gus or allies affected by his Super will also deal 25% more damage for 5 seconds after gaining the shield. The damage boost lasts for 5 seconds even if the shield wears off sooner.
+
+{{Quote|Spooky also gives a teammate a 15% speed boost for 5 sec.}}{{Buffie|Star}}
+With the Buffie, the Super also grants Gus or allies a 15% movement speed boost for 5 seconds.
+
+==Hypercharge: Spooky Pop==
+{{Quote|On impact, Gus' Super will drop spirits in all directions that deal damage to enemies and heal teammates!}}{{Hypercharge}}
+When activated, Gus' Super shoots a wave of 10 spirits for 10 tiles in all directions that damage enemies and heal allies. The spirits have a 3.33-tile wide blind spot at the center, so they cannot all hit an enemy at point-blank range. If Gus uses his Super on himself, they travel straight out, but if he uses his Super on teammates, the spirits move in a curving clockwise motion instead, similar to [[Spike]]'s Curveball Star Power. This allows them to cover a larger area and ultimately hit more targets, and it also effectively increases the range of the spirits. Gus also gains a 20% speed boost, as well as a 5% damage and shield boost. 
+
+{{Quote|Gus' main attack becomes larger and can go through walls!}}{{Buffie|Hyper}}
+With the Buffie, Gus's main attacks become larger, and can pass through obstacles. Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attacks drop spirits with every hit!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>Gus' next attack spawned a spirit on every target hit.
+
+==Tips==
+===Game Modes and Maps===
+*Gus' Super can be used to protect the teammate who has the most Gems or is worth the most [[Bounty]] Stars so they do not die and lose their Gems/ give the opponents Stars. It can also be used to protect whoever is holding the Ball in [[Brawl Ball]].
+**In addition, if Gus or his teammate is the Gem carrier or is worth many [[Bounty]] Stars, and they're pursued by aggressive Brawlers like El Primo, [[Bull]], [[Fang]], [[Buzz]], [[Shelly]], [[Darryl]], or [[Mortis]], Gus can use his Super to knock them back and run away or stay out of their range to continue attacking.
+*Gus is better used defensively and for supporting teammates. Because of this, he is more useful in 3v3 modes or [[Duo Showdown]], where he can take more advantages of his abilities.
+*Gus shouldn't be underestimated when going offensive, either. With his Spirit Animal Star Power, Super, and Kooky Popper Gadget, he can deal high total damage combo, and his own survivability is ensured with his Super.
+
+===Recommended Build===
+*Gus' spirits can be very useful for area control if he's using his Kooky Popper Gadget, since he can hit enemies when they're close to the Gem Spawn in [[Gem Grab]] and put spirits in said area. Then, when enemies get close to the spawn to grab Gems, he can use the Gadget to pop the spirits and deal damage to the enemies.
+*However, Knockback Spirit is generally the better Gadget, as it not only allows for very quick, immense healing, especially when paired with his Health Bonanza Starpower, but it can also be used as an anti-aggro tool whenever your Super is unavailable.
+*Both Health Bonanza and Spirit Animal are suitable for Gus. When playing offensive, use his Spirit Animal Star Power to gain a damage boost when in a tight situation. This can allow Gus to finish off the enemies. If playing supportively, use the Health Bonanza Star Power as it will heal teammates a lot more. This is especially useful if your teammates are melee Brawlers e.g. Edgar, [[Rosa]], [[Kit]], [[Bibi]], Fang, Buzz, [[Sam]], [[Lily]], or [[El Primo]], as they will be close to the spirits that spawn and can heal themselves by collecting the spirits.
+
+===Strategies===
+*If playing Showdown modes with Gus e.g. [[Showdown|Solo Showdown]], he can use his Super to knock enemies into the poison gas for extra damage. This may even allow Gus to make use of the spirits he may have placed down earlier to deal more damage if using his Kooky Popper Gadget.
+*Gus' Super is used best on assassins with lower health and can quickly approach enemies such as [[Leon]], [[Crow]], Mortis, [[Mico]], [[Stu]], [[Cordelius]], [[Shade]], and [[Edgar]], as they can get close to the enemies with less risk of dying quickly, and are able to wipe out the entire team.
+**This could be a very effective strategy in game modes such as Brawl Ball, and gives your team enough time to easily score the ball.
+**In game modes like Gem Grab or Bounty, this can be used to turn the tables on the enemy as Gus' team will get a lot of Gems/Stars.
+
+===Other===
+*Gus' Super has to be used immediately, either offensively or defensively, after activating it, since its health decays very rapidly. After a couple seconds, it won't be useful anymore.
+*If giving Gus' Super shield to a teammate, aim carefully as it may miss them due to mistimed movements on both Gus' and his teammates sides. Alternatively, go closer to them so you have less chance of missing.
+*It is better to pair Gus with melee [[:Category:Brawlers|Brawlers]], since his spirits are usually positioned in the enemies' side, where the close-ranged teammates could get close and receive the heal from the spirits.
+*He is surprisingly able to do lots of damage at close-range and survive because he can use his shield for instant health, not to mention his ghosts that give him health. By rushing on enemies who cannot burst, he is more likely to win.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Gus start vo 01.ogg|Filedescription = "This could get dangerous."}}
+|{{Ogg|Filename = Gus lead vo 01.ogg|Filedescription = "Maybe, I'll get to meet Spike!"}}
+|{{Ogg|Filename = Gus hurt vo 01.ogg|Filedescription = "I miss the ghost train."}}
+|{{Ogg|Filename = Gus kill vo 01.ogg|Filedescription = "Good for me, bad for you."}}
+|{{Ogg|Filename = Gus die vo 01.ogg|Filedescription = "Am I a ghost?"}}
+|{{Ogg|Filename = Gus atk vo 01.ogg|Filedescription = Gus shouts}}
+|{{Ogg|Filename = Gus ulti vo 01.ogg|Filedescription = "Get 'em, Spooky!"}}
+|-
+|{{Ogg|Filename = Gus start vo 02.ogg|Filedescription = "Here we go again."}}
+|{{Ogg|Filename = Gus lead vo 02.ogg|Filedescription = "I really hope Spike is watching this!"}}
+|{{Ogg|Filename = Gus hurt vo 02.ogg|Filedescription = "Ugh, this place is scary."}}
+|{{Ogg|Filename = Gus kill vo 02.ogg|Filedescription = "You should be more careful."}}
+|{{Ogg|Filename = Gus die vo 02.ogg|Filedescription = "Why me?"}}
+|{{Ogg|Filename = Gus atk vo 02.ogg|Filedescription = Gus shouts twice}}
+|{{Ogg|Filename = Gus ulti vo 02.ogg|Filedescription = "Spooky, fetch!"}}
+|-
+|{{Ogg|Filename = Gus start vo 03.ogg|Filedescription = "Words aren't always enough."}}
+|{{Ogg|Filename = Gus lead vo 03.ogg|Filedescription = "Wow, I'm in the lead!"}}
+|{{Ogg|Filename = Gus hurt vo 03.ogg|Filedescription = "Don't be mean."}}
+|{{Ogg|Filename = Gus kill vo 03.ogg|Filedescription = "Costly mistake."}}
+|{{Ogg|Filename = Gus die vo 03.ogg|Filedescription = "I will haunt you!"}}
+|{{Ogg|Filename = Gus atk vo 03.ogg|Filedescription = Gus chuckles}}
+|{{Ogg|Filename = Gus ulti vo 03.ogg|Filedescription = "Who is frightened now?"}}
+|-
+|{{Ogg|Filename = Gus start vo 04.ogg|Filedescription = "Sometimes, you gotta fight."}}
+|{{Ogg|Filename = Gus lead vo 04.ogg|Filedescription = "Uh, stop looking at me!"}}
+|{{Ogg|Filename = Gus hurt vo 04.ogg|Filedescription = "W-What was that?"}}
+|{{Ogg|Filename = Gus kill vo 04.ogg|Filedescription = "You got bested by a child."}}
+|{{Ogg|Filename = Gus die vo 04.ogg|Filedescription = Gus whimpers}}
+|{{Ogg|Filename = Gus atk vo 04.ogg|Filedescription = Gus groans}}
+|{{Ogg|Filename = Gus ulti vo 04.ogg|Filedescription = "Go, fetch!"}}
+|-
+|{{Ogg|Filename = Gus start vo 05.ogg|Filedescription = "Is that Spike?"}}
+|{{Ogg|Filename = Gus lead vo 05.ogg|Filedescription = "We made it, Spooky."}}
+|{{Ogg|Filename = Gus hurt vo 05.ogg|Filedescription = "Hey, I'm just a kid."}}
+|{{Ogg|Filename = Gus kill vo 05.ogg|Filedescription = "My balloon!"}}
+|{{Ogg|Filename = Gus die vo 05.ogg|Filedescription = "You didn't have to do that!"}}
+|
+|{{Ogg|Filename = Gus ulti vo 05.ogg|Filedescription = "Spooky is gonna get you!"}}
+|-
+|{{Ogg|Filename = Gus start vo 06.ogg|Filedescription = "Time to take Spooky for a walk."}}
+|{{Ogg|Filename = Gus lead vo 06.ogg|Filedescription = "We made it, Spooky!"}}
+|{{Ogg|Filename = Gus hurt vo 06.ogg|Filedescription = "Ugh, wait till I get Spooky!"}}
+|{{Ogg|Filename = Gus kill vo 06.ogg|Filedescription = "Ha, you got spooked!"}}
+|
+|
+|
+|-
+|{{Ogg|Filename = Gus start vo 07.ogg|Filedescription = "Gotta stay calm."}}
+|
+|{{Ogg|Filename = Gus hurt vo 07.ogg|Filedescription = "You scared me!"}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Gus start vo 08.ogg|Filedescription = "Oo-o-oh..."}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Gus start vo 09.ogg|Filedescription = "Come on Spooky."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*19/09/22:
+**{{Balance|Content=Gus' main attack damage was increased to 940 (from 920).|Change=Buff}}
+**{{Balance|Content=His reload time was decreased to 1.5 seconds (from 1.6).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge his Super was decreased to 4 hits (from 5).|Change=Buff}}
+*20/09/22:
+**{{Balance|Content=Gus became available to play in the [[Training Cave]].|Change=Neutral}}
+*23/09/22:
+**{{Balance|Content=Gus became available to play in matches.|Change=Neutral}}
+*10/10/22:
+**{{Balance|Content=Gus' Soul Switcher Gadget was added.|Change=Neutral}}
+*14/10/22:
+**{{Balance|Content=Gus' Spirit Animal Star Power was added.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Gus' Super projectile speed was increased to 3600 (from 3200).|Change=Buff}}
+**{{Balance|Content=His Super can now go through walls.|Change=Buff}}
+**{{Balance|Content=Gus' Soul Switcher Gadget health reduction was decreased to 15% (from 30%).|Change=Buff}}
+**{{Balance|Content=Gus' Kooky Popper Gadget damage was decreased to 1400 (from 1800) per spirit.|Change=Nerf}}
+**{{Balance|Content=Gus' main attack healing was decreased to 800 (from 1000) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Gus' Super shield health was decreased to 2600 (from 3600) but now scales with Power Levels.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Gus' flavor text was changed from "Hanging out in a long forgotten and abandoned train ride. Gus loves balloons. He's a master at crafting balloon animals, which he uses to pass the time and to keep himself company." to "Calling an abandoned train ride home, Gus loves balloons. As legend has it, one day, he followed a floating balloon dog too far, got lost, and has been there ever since."|Change=Neutral}}
+*13/12/22:
+**{{Balance|Content=The World Champion Gus skin was added. It was featured as a World Champions 2022 skin.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Gus' True Silver and True Gold skins were added.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Gus' Soul Switcher Gadget health reduction was decreased to 5% (from 15%).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Gus' Kooky Popper Gadget damage was increased to 1504 (from 1400) per spirit and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Gus' Kooky Popper Gadget no longer knocks enemies back.|Change=Nerf}}
+**{{Balance|Content=Fixed an issue with Gus' winning animation.|Change=Neutral}}
+**{{Balance|Content=Gus' flavor text was changed from "Calling an abandoned train ride home, Gus loves balloons. As legend has it, one day, he followed a floating balloon dog too far, got lost, and has been there ever since." to "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared."|Change=Neutral}}
+*25/10/23:
+**{{Balance|Content=The Boy Scout Gus skin was added.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Gus' main attack damage was increased to 1000 (from 940).|Change=Buff}}
+**{{Balance|Content=Gus' Kooky Popper Gadget damage was increased to 1600 (from 1504) per spirit.|Change=Buff}}
+*03/03/24:
+**{{Balance|Content=The Balloon Sally skin was added. It was featured as a Brown & Friends skin.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Gus' Super now knocks nearby enemies back.|Change=Buff}}
+*27/08/24:
+**{{Balance|Content=Gus' main attack damage was increased to 1120 (from 1000).|Change=Buff}}
+**{{Balance|Content=Gus' Kooky Popper Gadget damage was increased to 1792 (from 1600) per spirit.|Change=Buff}}
+*24/10/24: 
+**{{Balance|Content=The Gruesome Gus skin was unlockable by winning the Gruesome in-game Challenge. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Gus' main attack damage was decreased to 1080 (from 1120).|Change=Nerf}}
+**{{Balance|Content=Gus' Kooky Pooper Gadget damage was decreased to 1728 (from 1792) per spirit.|Change=Nerf}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed an edge case where Gus' main attack would sometimes go in a strange angle when shooting over water or certain objects.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Gus' Wasabi Power was added for a limited time.|Change=Neutral}}
+*05/05/25:
+**{{Balance|Content=Gus' Spooky Pop Hypercharge was added.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Gus' Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Gus' level up health was increased to 650 (from 600) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Gus' level up damage was increased to 4% (from 3%) in Brawl Arena.|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Gus' level up health was increased to 700 (from 650) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Gus' level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Gus' Spooky Pop Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+*21/08/25:
+**{{Balance|Content=The Grim Gus skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Gus' Spooky Pop Hypercharge speed boost from 25%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Gus' Spooky Pop Hypercharge damage boost from 15%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% shield boost, decreasing Gus' Spooky Pop Hypercharge shield boost from 15%.}}
+*06/11/25:
+**{{Balance|Neutral|The Will Gus skin was added. It was featured as a Stranger Things skin.}}
+*16/12/25:
+**{{Balance|Buff|Gus' health was increased to 3300 (from 3200).}}
+*28/04/26:
+**{{Balance|Neutral|The Tomura Shigaraki: Gus skin was added. It was featured as a My Hero Academia skin.}}
+*13/05/26:
+**{{Balance|Neutral|Tomura Shigaraki: Gus' Super visual effects were reworked.}}
+*01/09/26:
+**{{Balance|Neutral|Gus' Kooky Popper Gadget sound effects were reworked.}}
+**{{Balance|Neutral|Gus' Soul Switcher Gadget was renamed to Knockback Spirit, and reworked from instantly charging his bar in exchange for 5% of his current health to throwing a piercing attack that deals 1080 damage, knocks enemies back, and spawning a spirit at the end of its 6.67-tile-range.}}
+**{{Balance|Neutral|Gus' Knockback Spirit Gadget icon was changed.}}
+**{{Balance|Neutral|World Champion Gus' Super visual effects were reworked.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Gus' movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Gus' Buffies were added.}}
+*16/09/26:
+**{{Balance|Nerf|Gus' Knockback Spirit Gadget cooldown was increased to 18 seconds (from 10).}}
+**{{Balance|Nerf|Gus' Health Bonanza Star Power extra healing was decreased to 75% (from 100%).}}
+*03/11/26:
+**{{Balance|Nerf|The maximum number of spirits that Gus can spawn with his attack was decreased to 3 (from 10).}}
+**{{Balance|Nerf|The number of hits necessary to charge Gus' Super was increased to 5 hits (from 4).}}
+**{{Balance|Nerf|Gus' Knockback Spirit Gadget cooldown was increased to 26 seconds (from 18).}}
+**{{Balance|Nerf|Gus' Knockback Spirit Gadget damage was decreased to 416 (from 864).}}
+**{{Balance|Nerf|Gus' Health Bonanza Star Power extra healing was decreased to 50% (from 75%).}}
+**{{Balance|Nerf|Gus' Buffied Health Bonanza Star Power spirit movement speed was decreased by 50%.}}
+**{{Balance|Nerf|Gus' Buffied Hypercharge main attack projectile size was decreased by 15%.}}
+**{{Balance|Neutral|Fixed Gus' Spirit Animal Star Power not buffing Gus when he shields himself.}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Boy Scout|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Balloon Sally|Cost2=79 Gems|Campaign2=Brown & Friends|Rarity2=Super Rare
+|Name3=Gruesome|Cost3=Free from the Gruesome Challenge, Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Super Rare
+|Name4=World Champion|Cost4=149 Gems • '''S'''|Campaign4=World Champions 2022|Rarity4=Epic
+|Name5=Grim|Cost5=Free from Demonic Drops or 149 Gems|Campaign5=Angels vs. Demons|Rarity5=Epic
+|Name6=Will|Cost6=Free from Strangest Packs or 149 Gems • '''S'''|Campaign6=Stranger Things|Rarity6=Epic
+|Name7=Tomura Shigaraki|Cost7=199 Gems • '''S'''|Campaign7=My Hero Academia|Rarity7=Mythic
+|TrueSkins=Yes}}
+
+===Buffie Skins===
+<gallery>
+File:Gus Buffie Skin-Gadget.png|Gadget
+File:Gus Buffie Skin-Star.png|Star
+File:Gus Buffie Skin-Hyper.png|Hyper
+File:Gus Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Gus
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|World Champion}}
+{{Pin Table|Balloon Sally|Special}}
+{{Pin Table|Gruesome|Happy}}
+{{Pin Table|Grim|Special}}
+{{Pin Table|Will|Happy}}
+{{Pin Table|Tomura Shigaraki|Happy}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Gus|Rarity = Common}}
+|{{Spray|Type = Gus Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Tomura Shigaraki Gus|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Gus1}}
+|{{Pfp|Gus2}}
+|{{Pfp|Gus3}}
+|{{Pfp|Gus4}}
+|{{Pfp|World Champion Gus}}
+|-
+|{{Pfp|Grim Gus}}
+|{{Pfp|Will Gus}}
+|{{Pfp|Tomura Shigaraki Gus}}
+|}
+
+{{Navigation}}
+[[es:Gus]]
+[[ru:Гас]]

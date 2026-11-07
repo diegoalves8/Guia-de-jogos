@@ -1,0 +1,231 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Sea of Treats
+|image    = Seen.png
+|type     = Island
+|sea      = Third Sea
+|level    = 2075-2450
+|music    = Childhood Sketches
+|prev     = Haunted Castle
+|next     = Tiki Outpost
+}}
+The '''Sea of Treats''' is a set of five islands.
+
+
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+!Raid Bosses
+|-
+|
+* [[Set Home Point]]
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Sick Scientist]]
+* [[Cake Scientist]]
+* [[drip_mama]]
+* [[Sweet Crafter]]
+|
+* [[Peanut Scout]]
+* [[Peanut President]]
+* [[Ice Cream Chef]]
+* [[Ice Cream Commander]]
+* [[Cookie Crafter]]
+* [[Cake Guard]]
+* [[Baking Staff]]
+* [[Head Baker]]
+* [[Cocoa Warrior]]
+* [[Chocolate Bar Battler]]
+* [[Sweet Thief]]
+* [[Candy Rebel]]
+* [[Candy Pirate]]
+* [[Snow Demon]]
+|
+* [[Cake Queen]]
+|
+* [[Cake Prince]]
+* [[Dough King]]
+|}
+
+==Notable Features==
+* The [[Cake Scientist]] (needed for unlocking the [[Raids|Dough Raid]]) is located in the largest building at [[Sea of Treats#Cake Land|Cake Land]], in the left room.
+* The [[Sick Scientist]] (needed for unlocking the [[Raids|Phoenix Raid]]) is located near the [[Cookie Crafter]]s and behind the largest building at [[Cake Land]] facing towards the [[Water]].
+* [[drip_mama]] will give the player a quest to kill 500 enemies on Cake Land to spawn [[Cake Prince]], after talking to drip_mama about your quest completion, the npc will spawn in the [[Dimensional Shift]]. If a player has the [[Sweet Chalice]] which can be crafted with a [[God's Chalice]] and 10 [[Conjured Cocoa]]s, [[Dough King]] can be spawned with the [[Sweet Chalice]].
+
+==Islands==
+<tabber>
+Peanut Land=
+[[File:PeanutLand.png|thumb|240px|Peanut Land]]
+<br>
+The '''Peanut Land''' is a sub-island and is the first island in the Sea of Treats.
+
+It hosts quests for players between the levels 2075 to 2125.
+
+===Quests===
+{| class="article-table"
+|+
+!'''Quest Giver'''
+!'''Quest'''
+!'''Lv. Required'''
+!'''Reward'''
+|-
+| rowspan="2" |Peanut Quest Giver
+|[[Peanut Scout]]
+|Lv. 2075
+|{{EXP|100,000,000}}<br />{{Money|14,000}}
+|-
+|[[Peanut President]]
+|Lv. 2100
+|{{EXP|102,500,000}}<br />{{Money|14,100}}
+|}
+
+|-|Ice Cream Land=
+[[File:IceCreamLand.png|thumb|240px|Ice Cream Land]][[File:Icecreamland.png|thumb|240px|Ice Cream Land]]
+<br>
+The '''Ice Cream Land''' is a sub-island and is the second island in the Sea of Treats.
+
+It hosts quests for players between the levels 2125 to 2200.
+
+===Quests===
+{| class="article-table"
+!'''Quest Giver'''
+!'''Quest'''
+!'''Lv. Required'''
+!'''Reward'''
+|-
+| rowspan="3" |Ice Cream Quest Giver
+|[[Ice Cream Chef]]
+|Lv. 2125
+|{{EXP|105,000,000}}<br />{{Money|14,200}}
+|-
+|[[Ice Cream Commander]]
+|Lv. 2150
+|{{EXP|107,500,000}}<br />{{Money|14,300}}
+|-
+|[[Cake Queen]]
+|Lv. 2175
+|{{EXP|112,500,000}}<br />{{Money|30,000}}
+|}
+|-|Cake Land=
+[[File:CakeLand.png|thumb|240px|Cake Land]]
+<br>
+The '''Cake Land''' is a sub-island and is the third island in the Sea of Treats. 
+
+It hosts quests for players between the levels 2200 to 2300. There is another area called [[Dimensional Shift]].
+
+===Quests===
+{| class="article-table"
+!'''Quest Giver'''
+!'''Quest'''
+!'''Lv. Required'''
+!'''Reward'''
+|-
+| rowspan="2" |Cake Quest Giver
+|[[Cookie Crafter]]
+|2200
+|{{EXP|110,000,000}}<br />{{Money|14,400}}
+|-
+|[[Cake Guard]]
+|2225
+|{{EXP|112,500,000}}<br />{{Money|14,300}}
+|-
+| rowspan="2" |Cake Quest Giver 2
+|[[Baking Staff]]
+|2250
+|{{EXP|115,000,000}}<br />{{Money|14,400}}
+|-
+|[[Head Baker]]
+|2275
+|{{EXP|117,500,000}}<br />{{Money|14,500}}
+|}
+|-|Chocolate Land=
+[[File:ChocolateLand.png|thumb|240px|Chocolate Land]][[File:Chocolate Land.png|thumb|240px|Chocolate Land]]
+<br>
+The '''Chocolate Land''' is a sub-island and is the fourth island in the Sea of Treats.
+
+It hosts quests for players between the levels 2300 to 2400.
+
+[[Cocoa Warrior]] and [[Chocolate Bar Battler]] drop [[Conjured Cocoa]] which is used for upgrading swords and crafting the [[Sweet Chalice]].
+
+===Quests===
+{| class="article-table"
+!'''Quest Giver'''
+!'''Quest'''
+!'''Lv. Required'''
+!'''Reward'''
+|-
+| rowspan="2" |Chocolate Quest Giver 1
+|[[Cocoa Warrior]]
+|2300
+|{{EXP|120,000,000}}<br />{{Money|14,600}}
+|-
+|[[Chocolate Bar Battler]]
+|2325
+|{{EXP|122,500,000}}<br />{{Money|14,700}}
+|-
+| rowspan="2" |Chocolate Quest Giver 2
+|[[Sweet Thief]]
+|2350
+|{{EXP|125,000,000}}<br />{{Money|14,800}}
+|-
+|[[Candy Rebel]]
+|2375
+|{{EXP|127,500,000}}<br />{{Money|14,900}}
+|}
+|-|Candy Cane Land=
+[[File:CandyLand.png|thumb|240px|Candy Cane Land]][[File:Candyland.png|thumb|240px|Candy Cane Land]]
+<br>
+The '''Candy Cane Land''' is the last sub-island in the Sea of Treats. 
+
+It hosts quests for players between the levels 2400 to 2450.
+
+It is not accessible from [[Portal]]'s World Warp ability.
+
+===Quests===
+{| class="article-table"
+!'''Quest Giver'''
+!'''Quest'''
+!'''Lv. Required'''
+!'''Reward'''
+|-
+| rowspan="2" |Candy Cane Quest Giver
+|[[Candy Pirate]]
+|2400
+|{{EXP|129,000,000}}<br />{{Money|14,800}}
+|-
+|[[Snow Demon]]
+|2425
+|{{EXP|131,500,000}}<br />{{Money|14,900}}
+|}
+</tabber>
+
+==Chest Locations==
+* Three Diamond Chests can be found in the Sea of Treats:
+** Inside one of the [[trees]] that resemble a stone in [[#Peanut Land|Peanut Land]].
+** On top of a building next to [[Cake Queen]]'s castle on [[Ice Cream Land]].
+** On top of a building surrounded by [[Cake Guard]]s on [[Sea of Treats#Cake Land|Cake Land]]
+
+==Tips/Notes==
+* If used correctly, Chocolate Island can be considered one of the '''best islands for mastery farming'''. Players can start by grinding from the [[Sweet Thief]]s, then moving on to the [[Candy Rebel]]s then back to grinding the three [[Cocoa Warrior]]s standing in a circle. Repeating this cycle helps players increase mastery fast.
+** Alternatively, if the player has V4 ([[Cyborg]] or [[Draco]] recommended) and [[Buddha]], they can start with the [[Cocoa Warrior]]s, then move on to the [[Chocolate Bar Battler]]s, followed by the [[Sweet Thief|Sweet Thieve]]s, and finally [[Candy Rebel]]s—then repeat. This is considered the fastest method to gain mastery quickly.
+* The best island to farm on for the '''Christmas Update''' is the [[North Pole]], because the entire island has a [[Safe Zone|safe zone]], meaning that nobody can attack the player, except if they're in combat.
+* It is recommended to get out of the Sea of Treats as soon as possible as this is the place most exploiters will be farming. (Other places where the player can find a lot of exploiters are the [[Forgotten Island]] and the [[Haunted Castle]])
+** Due to the large number of exploiters, the Sea of Treats is also one of the best places to kill them and get free [[Bounty and Honor System|Bounty/Honor]].
+** If the player is tired of farming at the Sea of Treats because of exploiters, they can purchase or join a [[Private Servers|private server]].
+
+==Trivia==
+* The Candy Cane Land also appears in all seas during [[Christmas Event]]s under the name of [[North Pole]].
+** Weirdly, it is still called that now even if it is not Christmas.
+* Despite the size of the Sea of Treats, there is only one boss that naturally spawns, which is the [[Cake Queen]].
+* The Sea of Treats leveling-up range is extremely lengthy (375 [[levels]]), which makes the Sea of Treats have the largest [[Levels|level]] range in the entire game. (Lv. 2075-2450)
+
+==Change History==
+{{Change History|17}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Islands with multiple Quest Givers]]

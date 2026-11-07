@@ -1,0 +1,341 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = #haters|PrestigeTitle = ratio|Rarity = Epic|Class = Controller|MovementSpeed = 750 (Normal|VoiceActor = Sandra Espinoza|HealthLabel = Health|Health = 3900|AttackRange = 6.67 (Normal)|Reload = 2 seconds (Slow)|AttackSuperCharge = 10.075%<br>14% (with Acid Spray)<br>1.075% (poison; with Hyper Buffie)|AttackLabel = Damage per tick|Attack = 560|SuperRange = 5.67 (Normal)|SuperDuration = 5 seconds|SuperSuperCharge = 4.55%|SuperLabel = Damage per second|Super = 240|AttackCooldown=|AttackBullets=|AttackLabel2=|Attack2=|SuperBullets=|SuperMinionRange=|SuperReload=|SuperMovementSpeed=|SuperLabel2=|SuperLabel3=|Super2=|Super3=|AttackSpread=36°<br>45° (with Hyper Buffie)|AttackSpeed=1500|AttackWidth=2.13 (with Friendzoner)|Gadget1Name = Friendzoner|Gadget1 = 400|Gadget1Cooldown=19 seconds|Gadget2Name=Acid Spray|Gadget2Cooldown=16 seconds|Gadget1Label= Damage|Gadget2= 896|Gadget2Label = Damage|StarPower2Name = Hype|StarPower2 = 562|StarPower2Label = Heal per second|Previous=Bibi|Next=Bea|HyperchargeMultiplier=40%|AttackHyperchargeCharge=4.025%<br>5.6% (with Acid Spray)<br>0.425% (poison; with Hyper Buffie)|SuperHyperchargeCharge=1.8%|SuperSpread=360°|Gadget1Range=5}}
+{{Quote|Emz supposedly works for her uncle [[Mortis]] at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.}}
+{{Portrait}}
+Emz is an {{Rarity|Epic}} [[Brawler]] who has moderately high health and a medium range but a high burst damage potential, in exchange for her moderately slow reload speed. She was the 30th Brawler added to the game. Her attack is a wide shot of hair spray that deals damage over time and deals the most damage if the enemy is in the middle of the attack. Her Super creates a temporary cloud in a large radius around her that slows down and deals damage over time to enemies inside it. Her first Gadget, Friendzoner, fires hairspray that damages and pushes enemies away. Her second Gadget, Acid Spray, makes her next attack go through walls. Her first Star Power, Bad Karma, makes each tick from her attack additively increase in damage. Emz's second Star Power, Hype, slightly heals her every second her Super damages an enemy. Her Hypercharge, Overhyped Haze, allows her next Super to push nearby enemies away from her and sends a wave of her spray around her.
+
+==Attack: Spray==
+{{Quote|Emz gives you a blast of her hair spray! It's strong enough to melt your face.}}Emz fires a shot of hairspray at a medium range that can pierce multiple enemies at once, dealing damage depending on how far the enemies are away from her. Her hairspray lingers at the end of its range, dealing tick damage every 0.35 seconds (despite the description). Thus, the end of her attack cloud deals 2 ticks of damage, its middle deals 3 ticks and near Emz it deals 1 tick.
+
+==Super: Caustic Charisma==
+{{Quote|Emz creates a cloud of toxicity around herself, slowing down the movement of enemies and damaging them.}}Emz creates a cloud of toxicity in a large radius around herself that moves with her, slowing down by 350 points and dealing low damage per second to enemies inside the radius. Her Super can’t be interrupted by stuns, pulls, or knockbacks. There is no direction of travel to this Super, so aiming is not required, though aiming can be used to show you the area-of-effect. Unlike [[Shade]]'s Super, Emz's Super cannot be used if the Super is already active.
+
+==Gadgets==
+===Friendzoner===
+
+{{Quote|Emz fires off some hairspray that pushes enemies back. Deals 500 damage. Cooldown: 19 seconds.}}{{Gadget|1}}
+When aiming using the Gadget button, Emz sprays a rectangular wave of hairspray, dealing 44.64% of one tick of damage and knocking enemies back. Unlike her main attack, it can't do multiple ticks of damage. The Gadget's cooldown begins after the attack is shot.
+
+{{Quote|Knocks enemies back farther and stuns them for 1 sec if knocked into a wall.}}{{Buffie|Gadget}}
+With the Buffie, the knockback is increased, and enemies are stunned for 1 second if they are knocked into a wall.
+
+===Acid Spray===
+{{Quote|Emz squirts out hairspray that goes through walls! Deals 1120 damage. Cooldown: 16 seconds.}}{{Gadget|2}}
+When aiming using the Gadget button, Emz's next attack can pass through obstacles. The hairspray is otherwise identical to her main attack. This Gadget's cooldown starts after this attack is shot.
+
+{{Quote|Slows enemies on hit.}}{{Buffie|Gadget}}
+With the Buffie, this Gadget also slows enemies down by 30% for 3 seconds.
+
+==Star Powers==
+===Bad Karma===
+{{Quote|Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, 25% per hit.}}
+{{StarPower|1}}
+Enemies hit by Emz's attack take 25% more damage for each tick than the previous tick of damage before the attack disappears.
+
+{{Quote|Reduce damage dealt by enemies hit by Emz's main attack by 15% for 4 sec.}}{{Buffie|Star}}
+With the Buffie, enemies hit by Emz's main attack deal 15% less damage for 4 seconds.
+
+===Hype===
+{{Quote|Emz recovers 624 health per second for each enemy Brawler inside her Super's area of effect.}}
+{{StarPower|2}}
+Enemy Brawlers damaged by Emz's Super will heal Emz for 8% of her maximum health per second for each enemy damaged.
+
+{{Quote|Emz takes no damage for 0.5 sec when activating her Super.}}{{Buffie|Star}}
+With the Buffie, Emz is also immune to damage for the first 0.5 seconds of her Super. She can still take knockback, slows, and stuns while invulnerable.
+
+==Hypercharge: Overhyped Haze==
+{{Quote|Emz pushes enemies to the outer edge of her Super on activation and follows up with a dose of her spray.}}{{Hypercharge}}
+When activated, Emz's next Super pushes enemies away from her in a 4-tile radius and sends a wave of her spray around her, consisting of 18 individual sprays, each dealing 241 damage. The sprays' range is 5 tiles, and their damage is affected by her Bad Karma Star Power. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Sprays will poison enemies!}}{{Buffie|Hyper}}
+With the Buffie, Emz's main attack also deals poison damage over time, for 4 ticks total. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*Emz is better in open maps with ample space, so you should play her in maps like [[Massive Attack]] or [[Skull Creek]], where her Super can maintain area control and her attack has an advantage in the moderately spaced field.
+*Emz is a great control Brawler in [[Gem Grab]], [[Brawl Ball]] and especially [[Hot Zone]] due to her lingering attack. Use Emz to push your enemies to the opposing side while consistently collect gems in Gem Grab, keep enemies slowed down when they’re carrying the Ball in Brawl Ball or cover an area of the zone for a long time in Hot Zone.
+*Emz can deal insane amounts of damage in [[Heist]] with Quickfire modifier, as every tick of damage from her lingering attack will add to her ammo. Once Emz gets in range, as long as she isn't defeated immediately, she can release her attacks in rapid succession, with each ammo adding to the other. Combined with her Bad Karma Star Power, Hypercharge, and Damage Gear, she can destroy the safe in about twenty seconds. If you see the opposing team with an Emz, be sure to keep her away from your team's safe at all time, as the game will end very quickly otherwise (unless you have a clear advantage).
+
+=== Recommended Build ===
+*Friendzoner is very effective for keeping distance and protecting Emz from assassins and close-ranged Brawlers like [[Edgar]], [[Mortis]], [[Sam]], El Primo, Bibi, [[Fang]], [[Rosa]], [[Shade]], Kit, or [[Lily]]. When they get in range, use the Gadget to distance yourself and quickly fire your shots. As Emz can deal most damage with the mid of her attack, this combo can usually kill the said enemy. Plus, by releasing your shot and then immediately using Friendzoner, you can push the enemy into the fray of your attacks and deal an extra tick of damage (4 instead of 3).
+*Emz's second Star Power, Hype, can heal her significantly when multiple enemies are in her Super's range. This gives her much less pressure when fighting back, and as the enemies are slowed with her Super's area-of-effect, she is able to hit her shots easier and take down enemies in no time. This gives her a clear advantage in modes like [[Brawl Ball]] or [[Gem Grab]], where survivability and area control is the key to winning.
+
+=== Strategies ===
+*Similar to [[Gene]] using his Lamp Blowout Gadget to score in Brawl Ball, you can also try this strategy by scoring with your Friendzoner Gadget. Firstly, get directly close to the enemy goal’s side walls, which should have enemy defenders blocking the goal. If you have the Ball, immediately kick it towards the nearest enemy, because the enemy should be carrying it in order for this to work. Then, use your Friendzoner Gadget to push the enemy back, which knocks the Ball out of their grasp, and if you’re near the side wall, it’ll push the Ball into the goal unless an enemy is inside the goal to circumvent this strategy and block the Ball.
+*Despite its small range and radius, Emz's Friendzoner Gadget can be used to either knock the Ball out of a Brawler's grasp in Brawl Ball, cancel [[Frank]]'s, [[Carl]]’s, or [[Meg]]'s Super(s) or, in [[Showdown]], push enemies into the poison gas if positioned accurately.
+*Perhaps the largest weakness Emz has is that she cannot deal sufficient damage if a Brawler is close to her. Her Friendzoner Gadget covers this weakness. If an enemy Brawler is in close-quarters with you, you can use it to push them back. However, it’s less useful against Brawlers with Supers that allow them to move such as Bull as they can re-approach you.
+*Emz can fire an attack at an enemy close to her and then use her Friendzoner Gadget immediately afterwards to push the enemy into the lingering area of her attack. While it requires very precise timing, this can cause enemies to take one extra tick of damage, which is beneficial in defeating enemies faster.
+*When using Emz's Super, try to position so that the enemy is near the edge of your Super range. This way, when you attack, the enemy will be slowed and forced to suffer from all 3 ticks of your attack.
+*Emz can deal the most damage in mid-long range so don't approach close-ranged Brawlers where they would have an advantage over you. In [[Bibi]]'s case, however, you can use her knockback against her, which is opportunistic provided that you survived Bibi's knockback attack, and then you can spam your lingering spray, which will force Bibi to retreat or be eliminated.
+
+===Other===
+*Emz can perform guerrilla tactics that both consist of firing hairspray and running for cover in quick succession because of her attack’s lingering. However, unlike her Super, her main attacks don’t go through walls and open space is required for these tactics to work.
+*When using her Super, try to damage enemies behind walls so that you can damage them while they're unable to do so. This strategy, however, can circumvent when facing throwers such as [[Barley]], [[Dynamike]], [[Sprout]], [[Grom]], or [[Tick]] who can still attack you regardless of walls in the way.
+*As another Brawler, if Emz is chasing you, running away will allow you to outrange her attack due to its slow travel time, however, getting closer to her, especially when she is low on ammo, will allow you to defeat her easily.. One good example is Mortis, if you know how to dash, you can easily approach Emz without taking too much damage and quickly take her down. Be warned that experienced players will save their Super and Friendzoner Gadget to counter this tactic, therefore more caution is needed when using other Brawlers to get close to Emz.
+*Emz is very effective at mid-long range. Try to keep the enemy you are attacking at about 2/3 of the attack range, as this causes the enemy to take the full amount of 3 ticks of damage. However, if the enemy is in very close proximity to you, you’ll only be able to deal 1 tick of damage, and if the enemy is at the far range of your attack, it’ll only do two. This makes Emz very vulnerable to close-ranged Brawlers who get close enough to her, especially airborne Brawlers like [[El Primo]], Edgar, [[Kit]], and [[Mico]], and this requires her to use her Friendzoner Gadget to distance her from such Brawlers.
+*Emz can be useful when chasing down low-health Brawlers since her lingering attack can stack up to massive amounts of damage and her Super can slow down Brawlers who are escaping. This attribute is beneficial during desperate situations in [[Bounty]], Brawl ball, Hot zone or Gem Grab.
+*Emz's attack speed is fast enough for her to fire another hairspray cloud before her previous attack has fully dissipated. The damage from both attacks stack on top of each other, effectively doubling her damage per tick. However, she reloads slowly, so try not to waste shots in the excitement of dealing high burst damage.
+*Try to avoid engaging [[Buzz]], as he’s a major counter to Emz. His Super can stun Emz and pull him towards her, allowing Buzz to easily eliminate her, and despite his short range, his Trait enables him to charge his Super passively, which allows him to play passive around obstacles to charge his Super. If you’re facing Buzz and have Emz's Friendzoner Gadget, you can carefully time when Buzz uses his Super, and if he does end up latching onto you, push him away once he's moderately close to you, cancelling his Super and knocking him back into your attack's range.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Emz start vo 01.ogg|Filedescription = "They say, 'she's too wrapped up in herself.' Ugh, hashtag haters."}}
+|{{Ogg|Filename = Emz lead vo 02.ogg|Filedescription = "Look at me! Ugh, not from that angle!"}}
+|{{Ogg|Filename = Emz hurt vo 01.ogg|Filedescription = "And I oop."}}
+|{{Ogg|Filename = Emz kill vo 07.ogg|Filedescription = "Hashtag loser."}}
+|{{Ogg|Filename = Emz die vo 02.ogg|Filedescription = "You're like totally not getting a friendship bracelet!"}}
+|{{Ogg|Filename = Emz atk vo 01.ogg|Filedescription = "Hah, try my new perfume!"}}
+|{{Ogg|Filename = Emz ulti vo 01.ogg|Filedescription = Emz giggles}}
+|-
+|{{Ogg|Filename = Emz start vo 02.ogg|Filedescription = "Hashtag I'm so gonna win everything."}}
+|{{Ogg|Filename = Emz lead vo 03.ogg|Filedescription = "Hashtag winning!"}}
+|{{Ogg|Filename = Emz hurt vo 02.ogg|Filedescription = "Sksksksk."}}
+|{{Ogg|Filename = Emz kill vo 02.ogg|Filedescription = "You are so bad. Oh my God!"}}
+|{{Ogg|Filename = Emz die vo 03.ogg|Filedescription = "Are you serious?!"}}
+|{{Ogg|Filename = Emz atk vo 02.ogg|Filedescription = "Gotta get rid of that smell."}}
+|{{Ogg|Filename = Emz ulti vo 02.ogg|Filedescription = Emz laughs}}
+|-
+|{{Ogg|Filename = Emz start vo 03.ogg|Filedescription = "I'm so overpowered, upvote this."}}
+|{{Ogg|Filename = Emz lead vo 04.ogg|Filedescription = "Time to update my blog."}}
+|{{Ogg|Filename = Emz hurt vo 03.ogg|Filedescription = "Take a chill pill."}}
+|{{Ogg|Filename = Emz kill vo 03.ogg|Filedescription = "Hashtag no filter!"}}
+|{{Ogg|Filename = Emz die vo 04.ogg|Filedescription = "I won't like your next post!"}}
+|{{Ogg|Filename = Emz atk vo 03.ogg|Filedescription = "Try some Zom-bie, by me!"}}
+|
+|-
+|{{Ogg|Filename =  Emz start vo 04.ogg|Filedescription = "I'm only here for the trophies."}}
+|
+|{{Ogg|Filename = Emz hurt vo 04.ogg|Filedescription = "I will destroy you!"}}
+|{{Ogg|Filename = Emz kill vo 04.ogg|Filedescription = "You totally deserved that."}}
+|
+|{{Ogg|Filename = Emz atk vo 04.ogg|Filedescription = "I can finally breathe again!"}}
+|
+|-
+|{{Ogg|Filename =  Emz start vo 05.ogg|Filedescription = "Ugh, did someone here unfollow me?"}}
+|
+|{{Ogg|Filename = Emz hurt vo 05.ogg|Filedescription = Emz whimpers}}
+|{{Ogg|Filename = Emz kill vo 05.ogg|Filedescription = "Hashtag boring."}}
+|
+|{{Ogg|Filename = Emz atk vo 05.ogg|Filedescription = "Time for a detox."}}
+|
+|-
+|
+|
+|{{Ogg|Filename = Emz hurt vo 06.ogg|Filedescription = "Hashtag stop the hate!"}}
+|{{Ogg|Filename = Emz kill vo 06.ogg|Filedescription = "Eat my scrunchie!"}}
+|
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Emz hurt vo 07.ogg|Filedescription = "I'm like feeling so attacked right now."}}
+|
+|
+|
+|
+|}
+
+==History==
+*23/10/19:
+**{{Balance|Content=Emz was added to the game.|Change=Neutral}}
+*06/11/19:
+**{{Balance|Content=Emz's Hype Star Power was added.|Change=Neutral}}
+*21/11/19:
+**{{Balance|Content=A range indicator when using her Super was added.|Change=Neutral}}
+*05/12/19:
+**{{Balance|Content=Emz's Hype Star Power healing was increased to 300 (from 200) per enemy hit.|Change=Buff}}
+*19/02/20:
+**{{Balance|Content=Emz's Health was increased to 3800 (from 3600).|Change=Buff}}
+**{{Balance|Content=Her Hype Star Power healing was increased to 400 (from 300) per enemy hit.|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Emz's Friendzoner Gadget and the College Emz skin were added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Emz's Friendzoner Gadget charges were decreased to 2 (from 3).|Change=Nerf}}
+*13/05/20:
+**{{Balance|Content=Emz's Hype healing was decreased to 320 (from 400) per enemy hit.|Change=Nerf}}
+*02/07/20:
+**{{Balance|Content=Emz's Friendzoner Gadget charges were increased to 3 (from 2).|Change=Buff}}
+**{{Balance|Content=Emz's Health was decreased to 3600 (from 3800).|Change=Nerf}}
+**{{Balance|Content=Her Friendzoner Gadget push back distance was decreased to 2 tiles (from 3).|Change=Nerf}}
+**{{Balance|Content=Her Friendzoner Gadget radius was decreased to 2.67 tiles (from 4).|Change=Nerf}}
+**{{Balance|Content=Emz's True Silver and True Gold skins were added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge Emz's Super was decreased to 9 hits (from 10).|Change=Buff}}
+*11/09/20:
+**{{Balance|Content=The Super Fan Emz skin was added.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Emz's Reload time was decreased to 2 seconds (from 2.1).|Change=Buff}}
+*15/12/20:
+**{{Balance|Content=Emz's Main attack damage was increased to 520 (from 500) per hit.|Change=Buff}}
+**{{Balance|Content=Emz's Super damage was increased to 240 (from 200) per hit.|Change=Buff}}
+**{{Balance|Content=Emz's Hype Star Power healing was increased to 420 (from 320).|Change=Buff}}
+**{{Balance|Content=Emz's Hype Star Power no longer heals Emz when hitting a spawnable or pet.|Change=Nerf}}
+*16/12/20:
+**{{Balance|Content=Fixed an issue which caused Emz's Super ability to deal less damage than intended.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Emz's Bad Karma Star Power damage bonus was increased to 25% (from 20%).|Change=Buff}}
+**{{Balance|Content=Emz, College Emz, and Super Fan Emz received facial animations.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Emz's class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Emz's Acid Spray Gadget was added.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Emz's Friendzoner Gadget visual effects were slightly reworked.|Change=Neutral}}
+*12/08/22:
+**{{Balance|Content=The DJ 3.M.Z skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=DJ 3.M.Z's main attack visual effects were reworked.|Change=Neutral}}
+*19/09/22:
+**{{Balance|Content=Fixed an issue with DJ 3.M.Z's main attack visual effects.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Emz's rarity was changed to Epic (from Common).|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Emz's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=College Emz now costs 29 Gems (from 500 [[Star Points]]).|Change=Neutral}}
+*29/04/23:
+**{{Balance|Content=The Harajuku Emz skin was added. It was featured as a Golden Kawaii skin.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Emz's Acid Spray Gadget damage falloff was decreased to 10% (from 20%).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=College Emz was remodeled and renamed to Mean Girl Emz.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Emz's Friendzoner Gadget damage was increased to 541 (from 500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Emz's Hype Star Power healing was increased to 519 (from 420) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Emz's flavor text was changed from "Emz attacks with blasts of hair spray that deal damage over time, and slows down opponents with her Super." to "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online."|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Emz's Overhyped Haze Hypercharge was added.|Change=Neutral}}
+*04/07/24:
+**{{Balance|Content=The Medusa, Ruby Medusa, and Sapphire Medusa Emz skins were added. They were featured as Brawl Pass Season 28 skins and Legends of Olympus skins.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Demon Emz skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Demon Emz's Super visual effects were slightly reworked.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Emz's Overhyped Haze Hypercharge multiplier was increased to 40% (from 30%).|Change=Buff}}
+*24/06/25:
+**{{Balance|Change=Buff|Content=Emz's main attack damage was increased to 560 (from 520).}}
+**{{Balance|Content=Emz's Friendzoner Gadget damage was increased to 582 (from 541).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Emz's Super was increased to 10 hits (from 9).|Change=Nerf}}
+*23/07/25:
+**{{Balance|Content=The number of hits necessary to charge Emz's Super was decreased to 8 hits (from 10).|Change=Buff}}
+*04/09/25:
+**{{Balance|Content=The Streetwear, Techwear, and Hypebeast Emz skins were added. They were featured as Brawl Pass Season 42  skins and Streetwear skins.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Emz's Overhyped Haze Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Emz's Overhyped Haze Hypercharge damage boost from 25%.}}
+**{{Balance|Change=Neutral|Content=Emz was slightly remodeled.}}
+*16/12/25:
+**{{Balance|Buff|Emz's health was increased to 3900 (from 3600).}}
+**{{Balance|Buff|Emz's Acid Spray Gadget no longer deals reduced damage (from 10% less).}}
+**{{Balance|Content=Emz's Acid Spray Gadget no longer consumes ammo.|Change=Buff}}
+**{{Balance|Content=Emz's Acid Spray Gadget now increases her Super charge rate.|Change=Buff}}
+**{{Balance|Buff|Emz's Hype Star Power healing was increased to 562 (from 519).}}
+**{{Balance|Nerf|Emz's Friendzoner Gadget cooldown was increased to 19 seconds (from 18).}}
+**{{Balance|Nerf|Emz's Acid Spray Gadget cooldown was increased to 12 seconds (from 11).}}
+**{{Balance|Neutral|Emz's Friendzoner Gadget was reworked from dealing damage to enemies and pushing them away to causing her to fire hairspray that deals damage and pushes enemies away.}}
+**{{Balance|Neutral|Emz's Buffies were added.}}
+*23/01/26:
+**{{Balance|Nerf|Emz's Friendzoner Gadget damage was decreased to 800 (from 960).}}
+**{{Balance|Nerf|Emz's Friendzoner Gadget knockback range was decreased by 20%.}}
+**{{Balance|Nerf|Emz's Acid Spray Gadget now consumes ammo.}}
+**{{Balance|Nerf|Emz's Hype Star Power Buffie invincibility was decreased to 0.5 seconds (from 1).}}
+*25/02/26:
+**{{Balance|Content=The number of hits necessary to charge Emz's Super was increased to 10 hits (from 8).|Change=Nerf}}
+**{{Balance|Nerf|Emz's Friendzoner Gadget no longer charges her Super.}}
+*31/03/26:
+**{{Balance|Nerf|Emz's Friendzoner Gadget damage was decreased to 400 (from 800).}}
+**{{Balance|Nerf|Emz's Acid Spray Gadget cooldown was increased to 16 seconds (from 12).}}
+*22/04/26:
+**{{Balance|Nerf|Emz's level up damage was decreased to 1% (from 2%) in [[Brawl Arena]].}}
+*01/09/26:
+**{{Balance|Nerf|Emz's level up health was decreased to 350 (from 450) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Emz's level up reload speed was decreased to 1.5% (from 2%) in Brawl Arena.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Emz's movement speed to 750 (from 720).}}
+*05/11/26:
+**{{Balance|Neutral|The City Days and City Nights Emz skins were added. They were featured as a Brawl Vice skins.}}
+
+==Cosmetics==
+===Skins (15)===
+{{Skin Gallery
+|Name1 = Mean Girl|Cost1 = Free from Strangest Packs, free after reaching 750 Trophies or 29 Gems|Campaign1=Brawl Academy|Rarity1 = Rare
+|Name2 = Harajuku|Cost2 = 79 Gems|Campaign2 = Golden Kawaii|Rarity2 = Super Rare
+|Name3 = Super Fan|Cost3 = 149 Gems|Campaign3 = Gift Shop|Rarity3 = Epic
+|Name4 = DJ 3.M.Z|Cost4 = Free from Mina Boxes or 149 Gems|Campaign4 = Supercell Make|Campaign4_2 = Vibing|Rarity4 = Epic
+|Name5 = Demon|Cost5 = Free from Demonic Drops or 149 Gems|Campaign5 = Angels vs. Demons|Rarity5 = Epic
+|Name6=City Days|Cost6=199 Gems|Campaign6=Brawl Vice|Rarity6=Mythic
+|Name7=City Nights|Cost7=199 Gems|Campaign7=Brawl Vice|Rarity7=Mythic
+|TrueSkins = Yes
+|NameP1 = Medusa|CostP1 = Brawl Pass or 149 Gems|CampaignP1 = Brawl Pass|CampaignP1_2 = Legends of Hades|RarityP1 = Epic
+|NameP2 = Ruby Medusa|CostP2 = Brawl Pass Plus or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Legends of Hades|RarityP2 = Epic
+|NameP3 = Sapphire Medusa|CostP3 = Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Legends of Hades|RarityP3 = Epic
+|NameP4 = Streetwear|CostP4 = Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP4 = Brawl Pass|CampaignP4_2 = Streetwear|RarityP4 = Epic
+|NameP5 = Techwear|CostP5 = Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP5=Brawl Pass|CampaignP5_2=Streetwear|RarityP5 = Epic
+|NameP6 = Hypebeast|CostP6 = Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP6=Brawl Pass|CampaignP6_2=Streetwear|RarityP6 = Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Emz Buffie Skin-Gadget.png|Gadget
+File:Emz Buffie Skin-Star.png|Star
+File:Emz Buffie Skin-Hyper.png|Hyper
+File:Emz Buffie Skin-Bling.png|Bling
+File:Emz Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Emz
+|-
+!Skin
+! colspan="11" |Pins 
+{{Pin Table}}
+{{Pin Table|DJ 3.M.Z}}
+{{Pin Table|Super Fan}}
+{{Pin Table|Harajuku}}
+{{Pin Table|Medusa|GG}}
+{{Pin Table|Ruby Medusa|GG}}
+{{Pin Table|Sapphire Medusa|GG}}
+{{Pin Table|Demon|Special}}
+{{Pin Table|Streetwear|GG}}
+{{Pin Table|Techwear|GG}}
+{{Pin Table|Hypebeast|GG}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Emz|Rarity = Common}}
+|{{Spray|Type = Emz Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Harajuku Emz|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Emz1}}
+|{{Pfp|Emz2}}
+|{{Pfp|Emz3}}
+|{{Pfp|Emz4}}
+|{{Pfp|Harajuku Emz}}
+|-
+|{{Pfp|Super Fan Emz}}
+|{{Pfp|DJ 3.M.Z}}
+|{{Pfp|Medusa Emz}}
+|{{Pfp|Demon Emz}}
+|{{Pfp|Streetwear Emz}}
+|}
+{{Navigation}}
+[[pt:Emz]]
+[[ru:Эмз]]

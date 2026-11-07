@@ -1,0 +1,404 @@
+{{CombosTab}}
+{{About|the Blox Fruit|the hazard|Lava}}
+{{Blox Fruit Infobox
+|name   = Magma
+|image  = <gallery>
+Magma Fruit.png|Fruit Icon
+held magma.gif|Fruit GIF
+Magma.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Rare
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 960,000
+|robux  = 1,300
+}}
+{{Quote|Grants magma-based attacks that deal high damage and burn enemies.|Shop}}
+'''Magma''' is a {{Rare}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|960,000}} or {{Robux|1,300}} from the [[Blox Fruit Dealer]].
+
+Magma allows the user to create, become and manipulate magma, shooting out magma projectiles, and allowing hot residual magma to burn enemies on surfaces.
+
+==Awakening==
+Magma costs {{Fragment|14,500}} to fully [[Raids|awaken]].
+
+"The Red Dog" [[Titles|title]] #041 will be granted upon awakening the first move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive/Elemental Reflex|Magma Reflex.gif}}
+
+{{Skill/Passive
+|name     = Lava Immunity
+|file     = Lava Immunity.gif
+|desc     = The user is immune to the [[Lava]] puddles found on the [[Hot and Cold]] and [[Magma Village]] islands, as well as the ones in [[Flame]] and Magma [[raids]]. The user is also immune to all lava on [[Prehistoric Island]], with the exception of the pool at the top of the volcano.
+}}
+
+{{Skill/Passive
+|name     = Magmatic Walker
+|file     = Magmafeet.jpeg
+|desc     = Once the player awakens at least one of the Magma skills, it grants the user the ability to walk on [[water]] by passively creating small magma puddles to walk on, similar to the [[Ice]] Fruit. Each puddle consumes about 4 [[energy]].
+}}
+
+{{Skill/Passive
+|name     = Scorching Puddles
+|file     = Scorching Puddles.gif
+|desc     = Almost all of Magma's moves leave behind lava puddles of varying sizes, which deal damage over time. These puddles do not [[Instinct/Break|break Instinct]], unless they come from [[Raids|Awakened]] moves.
+}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Magma Clap
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|instinct = Can be dodged if far enough or on the edge.
+|gif      = MagmaFist
+|desc     = The user creates two magma hands over their own, and after a very short delay, will clap them once, dealing damage to any enemy within the vicinity. The hitbox of the clap is deceptively big (extending quite far forward), considering the relatively small size of the hands.
+}}
+
+{{Skill
+|key      = X
+|name     = Magma Eruption
+|mastery  = 45
+|cooldown = 10.5
+|energy   = 25
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if in the center of the eruption. The windup can be dodged if high enough.
+|gif      = MagmaColumn
+|desc     = The user will create a magma eruption at the cursor. Enemies in its direct vicinity and above it are launched into the air and dealt moderate damage, while the eruption leaves damaging lava pools that last for a few seconds. There can be 1-3 lava pools that can spawn at a time. The range of which the eruption can be used only extends a short distance from the user, both vertically and horizontally.
+}}
+
+{{Skill
+|key      = C
+|name     = Magma Fist
+|mastery  = 95
+|cooldown = 13.5
+|energy   = 35
+|break    = yes
+|instinct = The projectile and its explosion [[Instinct/Break|breaks Instinct]].
+|gif      = MagmaWolf
+|desc     = The user creates a large mass of magma and launches it in the direction of the cursor. Upon hitting a target, a surface or reaching maximum distance, it will explode, dealing high damage, and stay at the impact location, causing damage over time to enemies touching it.
+}}
+
+{{Skill
+|key      = V
+|name     = Magma Meteors
+|mastery  = 140
+|cooldown = 24
+|energy   = 50
+|break    = yes
+|instinct = The full barrage [[Instinct/Break|breaks Instinct]] no matter what.
+|gif      = MagmaMeteors
+|desc     = The user creates 4-5 "meteors" of lava that are launched in the direction of their cursor. Hitting a surface or target will cause these projectiles to explode into smaller pieces that deal damage over time. The split projectiles from this move deals high damage over time. The "meteors" take a set time to land, so if it is aimed at the user, there will be a short travel time before it hits, unlike [C] Magma Fist.
+}}
+
+{{Skill
+|key      = F
+|name     = Magma Floor
+|mastery  = 10
+|cooldown = 6
+|energy   = 75
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = MagmaFlight
+|desc     = The user turns into moving lava pools that lasts for about one second when tapped. A trail of lava pools follow behind the user, thus spinning around in one location can deal high damage to enemies in the vicinity, as the lava pools stack on each other. If released, the player will erupt out of the floor, dealing moderate damage and launching enemies above the user upward. This skill cannot be used on sea, nor air, and is extremely slow. The hurtbox of the player stays above ground while using the move, so enemies can still damage the player while it is used, though it isn't cancelled.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Magma Shower
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|frag     = 500
+|break    = yes
+|instinct = The projectiles can be dodged. The explosions [[Instinct/Break|breaks Instinct]].
+|gif      = Red Storm
+|desc     = The user unleashes a massive amount of magma rocks towards the cursor, dealing heavy damage when everything hits and leaving behind multiple magma puddles with high damage over time. The move can be aimed freely, allowing the projectiles to fall naturally if fired upward, and has an extremely long range. This move can be held to release a larger amount of projectiles.
+}}
+
+{{Skill
+|key      = X
+|name     = Volcanic Assault
+|mastery  = 45
+|cooldown = 10.5
+|energy   = 25
+|frag     = 3,000
+|break    = yes
+|instinct = Direct hit [[Instinct/Break|breaks Instinct]]. Can be dodged if hit indirectly and after the initial hit.
+|gif      = Forced Grasp
+|desc     = The user dashes, leaking magma onto the ground If they hit an opponent, they will fire multiple continuous blasts of searing hot magma from their palm, and then finish it off with a stronger blast that deals knockback and great damage. The opponent's screen will turn to a shade of dark orange during the duration of this move.
+}}
+
+{{Skill
+|key      = C
+|name     = Great Magma Hound
+|mastery  = 95
+|cooldown = 13.5
+|energy   = 35
+|frag     = 4,000
+|break    = yes
+|instinct = The small damage when grabbed can be dodged, but the explosion [[Instinct/Break|breaks Instinct]], and the player will still get dragged by the projectile.
+|gif      = Red Hound
+|desc     = The user launches a large hound-like magma projectile that deals large damage and leaves magma puddles under it. This move can drag enemies or [[NPCs]] a certain distance and stun for brief moment if directly cast on an enemy.
+}}
+
+{{Skill
+|key      = V
+|name     = Volcanic Storm
+|mastery  = 140
+|cooldown = 24
+|energy   = 50
+|frag     = 5,000
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Volcanic Overload
+|desc     = The user creates a great amount of scorching-hot magma on their right hand along with some steam, before throwing it all out towards the cursor as all of the magma hits a surface and causes a great explosion of magma puddles while dealing extreme damage to anyone they hit, while also dealing damage over time to enemies inside the puddles. Anyone near the explosion will have their screen's color change to a shade of dark red.
+}}
+
+{{Skill
+|key      = F
+|name     = Beast Ride
+|mastery  = 10
+|cooldown = 6
+|energy   = 75
+|frag     = 2,000
+|break    = yes
+|instinct = The explosion [[Instinct/Break|breaks Instinct]]. 
+|gif      = Red Beast
+|desc     = The user creates a beast made from magma below then sits on top of it and takes off, leaving trails of burning hot magma behind. If released, the beast turns into puddles of lava that deal good damage on contact. The user can only fly for 26 seconds, however. This move can be used as an attack (if near the enemy and aimed properly) and a good means of transportation.
+}}
+}}
+
+==Overview==
+<tabber>
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Immune to [[lava]].
+* Not too hard to obtain, nor is it too expensive for most [[First Sea]] players {{Money|960,000}}
+* Low mastery requirements.
+* Can be good for grinding if enemies are grouped together and do not have high mobility moves (e.g. [[Raider|Raiders]] utilize [[Combat|Combat's]] old [Z] move, making them hard to grind with Magma since the damage over time cannot land).
+* Moderately short cooldowns.
+
+|'''[Z] Magma Clap'''
+* Quick start.
+* Decent and deceptively big hitbox.
+* Decent damage.
+
+|'''[X] Magma Eruption'''
+* Decent hitbox.
+* Drops puddles that are easily predictable to land, unlike the Awakened version.
+* There is a bug/glitch where the puddles can stun [[Enemies|NPCs]] until they disappear, making it good for boss hunting and grinding if used properly, similar to [V] Magma Meteors.
+
+|'''[C] Magma Fist'''
+* Decent hitbox.
+* Good range and stun.
+* Decent damage and moderate damage over time.
+
+|'''[V] Magma Meteors'''
+* The player can use this move on themselves, making it a good tactic to escape a combo or a click combo by an [[NPC]].
+* High damage and damage over time.
+* The damage over time from the split projectiles can stack considerably.
+* There is a bug/glitch where the puddles can stun [[Enemies|NPCs]] until they disappear, making it good for boss hunting and grinding if used properly, similar to [X] Magma Eruption.
+
+|'''[F] Magma Floor'''
+* Very good for grinding if Elemental Immunity is active.
+* Cannot be cancelled even if the user takes damage from enemies (unless travelling into sea or grabbed by a move).
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Most of the moves have high end-lag and startup, so the player can be punished if they miss the moves or when using the moves.
+* Most moves render the user immobile when being used, making them easily punishable.
+* Most moves have a range or hitbox that is hard to hit moving or far-away enemies.
+* Moves have slow projectiles and bad range, making them able to be easily dodged with [[Flash Step]] or even [[dashing]].
+* All moves are either unusable or hard to use in air because of slow speed, small hitboxes and short range, making it completely unviable for aerial combat.
+
+|'''[Z] Magma Clap'''
+* Short range.
+* Low damage compared to the other moves.
+* Moderate startup.
+* No damage over time unlike other moves.
+
+|'''[X] Magma Eruption'''
+* Short range.
+* Tiny hitbox that can be punished if missed.
+* Slight startup and end lag.
+
+|'''[C] Magma Fist'''
+* Easy to avoid.
+* Slow speed.
+* Hitbox is hard to hit moving or airborne enemies.
+
+|'''[V] Magma Meteors'''
+* Extremely weak at long range.
+* High end-lag.
+* Projectiles are slow, so it is hard to use on players and enemies that are moving, unless they are next to the user. 
+
+|'''[F] Magma Floor'''
+
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Extremely high burst damage.
+* Extremely versatile due to its many passives.
+* Can walk on water after awakening at least one move.
+* Really good at defeating players with big hitboxes like Buddha users or sometimes Dragon and other Transformation fruits if used correctly.
+* Widely considered by the [https://www.roblox.com/games/2753915549/Blox-Fruits Blox Fruits] community as one of, if not the best fruit for [[Sea Events]] due to its ability to walk on water and its extremely high damage over time.
+
+|'''[Z] Magma Shower'''
+* Possibly the highest damage in the game out of all fruits if every tick of damage lands. (Other than [[Empyrean]]'s [Z] move fully held)
+* Can easily drain [[Instinct]] dodges during aerial combat.
+* Enemies loses their ability to dash and cancels their skills instantly when inside the puddles.
+* Moderately fast projectiles.
+
+|'''[X] Volcanic Assault'''
+* Decent mobility move.
+* Decent combo potential.
+* High damage and leaves puddles.
+
+|'''[C] Great Magma Hound'''
+* Can grab and stun enemies, even when Instinct-tricked.
+* Good for starting Magma combos.
+* High damage.
+
+|'''[V] Volcanic Storm'''
+* Can disable the enemy's ability to dash and use skills.
+* Extremely high damage especially if all of the projectiles land.
+* Can [[Instinct/Break|break instinct]].
+* The puddles take a long time to disappear, dealing high damage over time.
+
+|'''[F] Beast Ride'''
+* Decent damage when released.
+* Cannot be canceled even if the user takes damage.
+* Low cooldown.
+* Decent flight speed for short distance travelling, such as from enemy to [https://blox-fruits.fandom.com/wiki/NPCs#Quest_NPCs quest-giver].
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* All moves are difficult to aim in the air, making it unviable for aerial combat.
+* Most of the moves hold the user in place for a short time.
+* The user can get stuck and drown if they flash step on water.
+
+|'''[Z] Magma Shower'''
+* Extremely hard to land outside combo or when the opponent is sky camping.
+* Hard to hit mobile enemies.
+* Hard to deal full damage especially on airborne or moving enemies.
+
+|'''[X] Volcanic Assault'''
+* Single target attack.
+* High end-lag.
+* Unlike the unawakened [X] Magma Eruption, this move cannot hit large objects, including The Leviathan and Sea Beasts. 
+
+|'''[C] Great Magma Hound'''
+* Cannot break Instinct if not connected to the ground.
+* Low range and travel speed.
+
+|'''[V] Volcanic Storm'''
+* Extremely hard to land or hit when the opponent is sky camping.
+* Easy to avoid from afar.
+
+|'''[F] Beast Ride'''
+* Relatively slow speed, especially when compared to other [[Blox Fruits|fruits']] [[flight]] skills.
+* Travels slightly slower when the user's [[health]] is low.
+* Has a time limit.
+}}
+}}
+</tabber>
+
+==Trivia==
+* Unawakened Magma was reworked in Update 17.3, changing the ability visuals and generally updating them.
+** The [[Magma Admiral]] and the [[Lava Pirate]] use the old, unawakened version of Magma.
+* If a [[Boats|boat]] collides with a magma puddle created by a Magma user, it will immediately stop.
+* Awakened Magma's {{Ability|F|1}} move uses the same sound effect as a [[Sea Beast]]'s roar.
+* Awakened {{Ability|Z|1}} has an incredible range, as the projectiles do not despawn even at 2500+ meters.
+* The Scorching Puddles reappear and disappear faster when the player is holding a move.
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* Magma's Icon was revamped.
+: <gallery>
+MagmaIconOld.webp|Old Magma Fruit's icon.
+</gallery>
+
+|-|21=
+{{Update|21}}
+* Magma's money price was increased.
+** {{Money|850,000}} -> {{Money|960,000}}
+
+|-|20=
+{{Update|20}}
+* Magma Fruit's model was remade.
+: <gallery>
+Magma 150x150.png|Old Magma Fruit's model.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* All unawakened moves were reworked.
+
+|-|17.2=
+{{Update|17.2}}
+* Awakened:
+** {{Arrow|buff}} User can walk on [[water]].
+** {{Arrow|buff}} The Magma balls (big version of Scorching Puddles) deal way higher tick damage.
+** {{Arrow|buff}} Slightly buffed explosion damage on [Z].
+** {{Arrow|buff}} The [C] move can ignore [[Instinct]].
+
+|-|16=
+{{Update|16}}
+* Reduced the range of the [Z] move Awakened.
+
+|-|15=
+{{Update|15}}
+* Magma received an [[Raids|awakening]].
+----
+|-|8=
+{{Update|8}}
+* Magma's visuals were reworked and/or enhanced.
+
+|-|6=
+{{Update|6}}
+* Magma's [Z] and [C] have been reworked.
+* Magma's [V] was aimable.
+
+|-|1=
+{{Update|1}}
+* Magma was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Магма]]

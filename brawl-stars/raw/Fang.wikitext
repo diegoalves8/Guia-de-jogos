@@ -1,0 +1,315 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Sneaker Artist|PrestigeTitle = One Kick Man|Rarity = Mythic|Class = Assassin|MovementSpeed = 800 (Fast)<br>4000 (with Super)|HealthLabel = Health|Health = 4800|AttackRange = 2.67 (kick; Short)<br>9.33 (shoe; Very Long)|Reload = 1 second (Very Fast)|AttackBullets = |AttackSuperCharge = 25.5%|AttackLabel = Kick Damage|Attack = 1360|AttackLabel2 = Shoe Damage|Attack2=340|SuperRange = 10 (Very Long)|SuperSuperCharge = 25.125%|SuperMinion = |SuperMovementSpeed = |SuperLabel = Damage|Super = 1500|AttackSpeed=3200 (kick)<br>4500 (shoe)|SuperSpeed=|VoiceActor=Nicholas Contreras|AttackWidth=1–2 (kick)<br>0.67 (shoe)|Gadget1Name=Corn-Fu|Gadget1=871|Gadget1Label=Damage per kernel|Gadget1Cooldown=15 seconds|Gadget2Name=Roundhouse Kick|Gadget2Cooldown=15 seconds|StarPower2Name=Divine Soles|StarPower2=864|StarPower2Label=Maximum Damage Reduction|Previous=Buzz|Next=Eve|HyperchargeMultiplier=20%|AttackHyperchargeCharge=5.1%|SuperHyperchargeCharge=5.025%|Gadget2Range=2.33|Gadget1Range=5|Gadget2Duration=0.5 seconds}}
+{{Quote|Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!}}
+{{Portrait}}
+Fang is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 10: Year of the Tiger. He has high health, a high damage output at close range, a very fast reload speed, a variable attack range, and great mobility with his Super and his fast movement speed. He was the 54th Brawler added to the game. His attack is a kick that deals high damage, but is short in range. If he doesn't hit an enemy with his kick, his shoe flies off, gaining additional range but dealing a lot less damage. His Super is a powerful kick that makes him fly and deal damage to enemies. If an enemy is nearby the targeted enemy, Fang bounces to them, and he can hit a maximum of 4 enemies with one Super. Fang's first Gadget, Corn-Fu, throws popcorn bags around Fang that explode into popcorn kernels on the ground that explode on contact or after a brief period of time. His second Gadget, Roundhouse Kick, makes Fang spin around fast, briefly stunning nearby enemies. His first Star Power, Fresh Kicks, allows Fang to recharge his Super instantly after defeating an enemy Brawler using his Super. His second Star Power, Divine Soles, periodically grants Fang a special shield that partially reduces damage from the next enemy attack. His Hypercharge, Dragon Kick, makes his Super go through walls and drop pieces of popcorn that behave identically to his first Gadget, each dealing more damage.
+
+==Attack: Wu-Shoe==
+{{Quote|Fang unleashes a swift kick with a hidden trick. If the kick misses the target, his shoe will fly off his foot!}}
+Fang unleashes a single short-ranged kick that upon hit deals high damage to enemies. The projectile does not pierce, unlike most melee attacks, and increases in size with distance. If the attack doesn't hit anything initially, his shoe will fly off, increasing the range of the attack by an extra 6.67 tiles. The shoe only deals 25% as much damage, but it charges as much of his Super as a regular kick would. Aiming his attack shows both the kick range and the shoe range. Fang's attack has a long cooldown, taking 0.63 seconds to complete. 
+
+==Super: Sneak Ahead==
+{{Quote|Fang flies into a nasty kick that upon contact, can chain a further 3 consecutive kicks to near by enemies.}}
+Fang dashes forward up to 10 tiles, dealing high damage. After hitting a target, if there is another target (not behind a wall) in a 7 tile radius, Fang bounces to them. Fang can hit up to 4 enemies with one Super. While using his Super, Fang can still take damage or be stunned or slowed. If his final destination is in the middle of a lake, he will automatically be pushed to the closest ground. The Super will ignore Brawlers with an invincibility shield (respawn or otherwise), and Fang will simply pass through them without dealing damage or bouncing.
+
+==Gadgets==
+===Corn-Fu===
+{{Quote|Fang tosses a handful of corn kernels into the air, making it rain popcorn! Each kernel pop deals 1088 damage. Cooldown: 15 seconds.}}{{Gadget|1}}
+Fang throws 8 bags of popcorn in a circle formation around him that each explode into 3 small pieces of popcorn. Each kernel deals 40% of Fang's kick damage. The bags have a range of 5 tiles and explode after 0.9 seconds, and the popcorn pieces spread out 2 tiles from their bag's explosion location. The first bag spawns to the right, and each bag after spawns 50 degrees clockwise of the previous. Similar to [[Tick]]'s attack, the kernels explode upon contact or after two seconds, in a splash radius of 1.56 tiles.
+
+===Roundhouse Kick===
+{{Quote|Fang spins and hits all enemies around him, stunning them for 0.5 seconds. Cooldown: 15 seconds.}}{{Gadget|2}}
+Fang spins around, stunning enemies within a 2.33-tile radius for 0.5 seconds, but not enemies behind walls. Fang can still move but can't use his attack while using this Gadget.
+
+==Star Powers==
+===Fresh Kicks===
+{{Quote|When Fang defeats an enemy with his Super, it's recharged instantly, allowing him to use his Super again!}}{{StarPower|1}}
+When Fang defeats an enemy with his Super, it recharges instantly, even if he is defeated while using his Super. This Star Power does not charge Fang's Hypercharge.
+
+===Divine Soles===
+{{Quote|Reduce 960 damage from incoming hits once every 3 seconds. Maximum reduction is 90% of the incoming damage.}}{{StarPower|2}}
+Fang gains a bar below his ammo bar that takes 3 seconds to fully charge and turns red when full. Once it's ready, Fang gains a special shield that reduces the next enemy attack damage by 90%. However, if the attack's damage is more than 10% of Fang's max HP, the damage from the attack will instead be reduced by 10% of his max health. This effect is applied before the [[Gears|Shield Gear]].
+
+==Hypercharge: Dragon Kick==
+{{Quote|Charge through walls while dropping popcorn on the way.}}{{Hypercharge}}
+When activated, Fang's Super can go through walls. In addition, he drops pieces of popcorn that follow the Super’s path, which behave identically to those of his Corn-Fu Gadget, but each deals 1500 damage. Fang gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Fang's extra Super kicks have much longer range, he has more health, AND he charges his Super faster!}}<div style="float: right;">[[File:Inferno Wasabi.png|64px|link=]]</div>Fang's Super had much longer range, his Super charge rate was increased, and his health was increased by 15%. 
+
+== Tips ==
+
+=== Recommended Build ===
+
+* Fang's Corn-Fu Gadget is a great area denial ability, but it can also be used to deal additional damage to enemies fairly close to him. Use this effectively against Brawlers who depend on movement to attack, such as [[Mortis]], [[Kenji]], [[Alli]], or [[Mico]], or also as a surprise against throwers who assume you cannot attack them through or over walls. It can even be used against other Fang players. 
+*Fang's Fresh Kicks Star Power allows Fang to recharge his Super when defeating an enemy. This is especially useful against clumps of low-health enemy Brawlers.
+*With Fang's Roundhouse Kick Gadget, Fang can now guarantee a kill easily. Try to take out the most important enemy such as the Gem carrier.
+*Fang's Super is similar to [[Colette]]'s Super, as it doesn't go directly toward where you aimed, so be aware or else you can Super into a wall.
+*Fang's Roundhouse Kick Gadget and Super both reset his attack delay. A good strategy is to use the Super, then attack, then stun, then attack once more. This strategy allows you to do a ton of damage really quickly.
+
+=== Other ===
+*Fang's health is quite high, so it's easy to face enemies at close range, although not nearly as high as a tank's, so know when to retreat, especially with his Super.
+*Unlike other melee Brawlers, Fang's attack does not pierce through targets, so it's not ideal to engage with a group of enemies unless your Super is charged.
+*Although Fang's shoe deals low damage, consider that it travels a long distance at a good speed. This is useful for chipping away at enemies that normally out-range Fang's kick, not to mention that it charges as much of his Super as his kick. He can use this mechanic to charge his Super and travel towards enemies.
+*Try to utilize Fang's Super better, try to Super on to a tank so you chain and land on a sharpshooter, this is way more effective than ending your Super on a tank.
+*Though Fang's Super is most notable for its ability to chain on targets, it can be used for a normal kill as he can travel towards an enemy and defeat them with his kicks, or as an escape when Fang's on low health.
+*Fang's Super is similar to [[Bull]]'s Super, but much faster and doesn't knockback and destroy obstacles. Take advantage of enemy tanks to bounce off them and hit lower health Brawlers, like throwers, sharpshooters, and assassins.
+*Don't be too aggressive while playing Fang, as he'll be very vulnerable along with the fact that he has a slow unload speed. Instead, try and target one enemy at a time and retreat to heal up afterwards.
+*Before using his Super on higher-health Brawlers, make sure that you have a good amount of health because he is most likely to get hit by enemy attacks as he cannot dodge while using his Super.
+*When you use your Super, try to first use your shoe attack, then right away use your Super. This will have your Super charged again faster, so that you can use it to get away and heal, or to make another kill.
+*An easy way to kill mostly all Brawlers is first by kicking once, then use your Super immediately so you only need two more shots to charge another Super, then kick again and quickly use your Gadget (both will work, but Roundhouse Kick works better) so you can kick again without taking damage, now your Super is charged again and you dealt 8520 damage, which most Brawlers would already die at, and now you can use your Super to either finish the Brawler or run away if your health is low.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Fang start vo 01.ogg|Filedescription ="Hahaha, wanna fight the Fang?"}}
+|{{Ogg|Filename = Fang lead vo 01.ogg|Filedescription ="No one defeats the Fang!"}}
+|{{Ogg|Filename = Fang hurt vo 01.ogg|Filedescription ="Fang it!"}}
+|{{Ogg|Filename = Fang kill vo 01.ogg|Filedescription ="Fangtastic!"}}
+|{{Ogg|Filename = Fang die vo 01.ogg|Filedescription ="Enjoy it while you can..."}}
+|{{Ogg|Filename = Fang atk vo 01.ogg|Filedescription =Fang shouts}}
+|{{Ogg|Filename = Fang ulti vo 01.ogg|Filedescription ="The heat is on!"}}
+|-
+|{{Ogg|Filename = Fang start vo 02.ogg|Filedescription ="Hahaha, It's time for some action!"}}
+|{{Ogg|Filename = Fang lead vo 02.ogg|Filedescription ="It's popcorn time!"}}
+|{{Ogg|Filename = Fang hurt vo 02.ogg|Filedescription ="Furious Fang!"}}
+|{{Ogg|Filename = Fang kill vo 02.ogg|Filedescription ="Oh, you got fanged!"}}
+|{{Ogg|Filename = Fang die vo 02.ogg|Filedescription ="You're so corny!"}}
+|{{Ogg|Filename = Fang atk vo 02.ogg|Filedescription =Fang shouts}}
+|{{Ogg|Filename = Fang ulti vo 02.ogg|Filedescription ="Dragon Fang!"}}
+|-
+|{{Ogg|Filename = Fang start vo 03.ogg|Filedescription ="Ok, challenge accepted."}}
+|{{Ogg|Filename = Fang lead vo 03.ogg|Filedescription ="I'm popping off, losers!"}}
+|{{Ogg|Filename = Fang hurt vo 03.ogg|Filedescription ="A worthy adversary."}}
+|{{Ogg|Filename = Fang kill vo 03.ogg|Filedescription ="Fear the Fang!"}}
+|{{Ogg|Filename = Fang die vo 03.ogg|Filedescription ="We shall meet again, my friend!"}}
+|{{Ogg|Filename = Fang atk vo 03.ogg|Filedescription =Fang shouts}}
+|{{Ogg|Filename = Fang ulti vo 03.ogg|Filedescription ="Draaggoonn Fang!!!!!!"}}
+|-
+|{{Ogg|Filename = Fang start vo 04.ogg|Filedescription ="My foot, your face, it's on!"}}
+|{{Ogg|Filename = Fang lead vo 04.ogg|Filedescription ="Ay, enough about you! Let's focus on me!"}}
+|{{Ogg|Filename = Fang hurt vo 04.ogg|Filedescription ="Alright, impressive!"}}
+|{{Ogg|Filename = Fang kill vo 04.ogg|Filedescription ="Check me out! I've got moves."}}
+|{{Ogg|Filename = Fang die vo 04.ogg|Filedescription ="Huh...how do I look?"}}
+|{{Ogg|Filename = Fang atk vo 04.ogg|Filedescription =Fang shouts}}
+|{{Ogg|Filename = Fang ulti vo 04.ogg|Filedescription ="Power Fang!"}}
+|-
+|{{Ogg|Filename = Fang start vo 05.ogg|Filedescription="Alright! You'll get a kick out of this!"}}
+|{{Ogg|Filename = Fang lead vo 05.ogg|Filedescription ="Golden Fang."}}
+|{{Ogg|Filename = Fang hurt vo 05.ogg|Filedescription ="Wooh! That was too close..."}}
+|{{Ogg|Filename = Fang kill vo 05.ogg|Filedescription ="You butter believe it! Ha ha ha!"}}
+|
+|
+|{{Ogg|Filename = Fang ulti vo 05.ogg|Filedescription ="Can I kick it?"}}
+|-
+|{{Ogg|Filename = Fang start vo 06.ogg|Filedescription ="Wooh! Pop and chop!"}}
+|{{Ogg|Filename = Fang lead vo 06.ogg|Filedescription ="Buttery smooth moves!"}}
+|{{Ogg|Filename = Fang hurt vo 06.ogg|Filedescription =Fang groans}}
+|
+|
+|
+|{{Ogg|Filename = Fang ulti vo 06.ogg|Filedescription ="Super jump kick dash!"}}
+|-
+|{{Ogg|Filename = Fang start vo 07.ogg|Filedescription ="Free refills on foot punch!"}}
+|
+|{{Ogg|Filename = Fang hurt vo 07.ogg|Filedescription =Fang groans}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Fang start vo 08.ogg|Filedescription ="A-salt and buttery!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Fang start vo 09.ogg|Filedescription ="Wooh! Snack run!"}}
+|
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*10/01/22:
+**{{Balance|Content=Fang became available to play in the [[Training Cave]].|Change=Neutral}}
+*17/01/22:
+**{{Balance|Content=Fang and his Furious skin were added to the game.|Change=Neutral}}
+*16/02/22:
+**{{Balance|Content=Fang's Divine Soles Star Power was added.|Change=Neutral}}
+*18/02/22:
+**{{Balance|Content=Fixed some of Fang's visual effects.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Fang's Roundhouse Kick Gadget was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Fang's health was decreased to 4300 (from 4500).|Change=Nerf}}
+**{{Balance|Content=Fang's Super damage was decreased to 1000 (from 1200).|Change=Nerf}}
+**{{Balance|Content=The number of hits required to recharge Fang's Super was increased to 5 hits (from 4).|Change=Nerf}}
+**{{Balance|Content=Fang's Roundhouse Kick Gadget stun duration was decreased to 0.5 seconds (from 1).|Change=Nerf}}
+**{{Balance|Content=Fang's Fresh Kicks Star Power no longer charges his Super when a pet or spawnable is defeated.|Change=Nerf}}
+*29/06/22:
+**{{Balance|Content=Fang's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Fang and Furious Fang's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*08/07/22:
+**{{Balance|Content=The Octo Fang skin was added. It was featured as a Deep Sea League skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Fang's Super visual effects were slightly reworked.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Fang's class was changed to Assassin (from Damage Dealer).|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Fang's Corn-Fu Gadget damage was increased to 750 (from 500) per kernel.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=Fang's Super damage was increased to 1200 (from 1000).|Change=Buff}}
+**{{Balance|Content=The number of hits required to recharge Fang's Super was decreased to 4 hits (from 5).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Fang's Corn-Fu Gadget damage was increased to 871 (from 750) per kernel and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Fang's Divine Soles Star Power maximum damage reduction was increased to 620 (from 500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Fang's main attack kick damage was decreased to 1360 (from 1400).|Change=Nerf}}
+**{{Balance|Content=Fang's flavor text was changed from "Fang kicks first and he kicks fast. His main attack is a hefty kick that sends his shoe flying! Fang's Super is a powerful kick that will chain hit multiple enemies who are close together." to "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!"|Change=Neutral}}
+*31/10/23:
+**{{Balance|Content=The Kabocha Fang skin was added. It was featured as a Supercell Make skin and a Brawl-o-ween skin.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Fang's Dragon Kick Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Fang's rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+*18/12/23:
+**{{Balance|Content=Fang's Dragon Kick Hypercharge multiplier was decreased to 20% (from 40%).|Change=Nerf}}
+**{{Balance|Content=Fang's Dragon Kick Hypercharge shield boost was decreased to 15% (from 25%).|Change=Nerf}}
+*03/02/24:
+**{{Balance|Content=The Ferocious Fang skin was added. It was featured as a Lunar Brawl skin.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Fang's Fresh Kicks Star Power no longer charges his Hypercharge.|Change=Nerf}}
+**{{Balance|Content=Fang's Dragon Kick Hypercharge damage boost was decreased to 15% (from 20%).|Change=Nerf}}
+**{{Balance|Content=Fang's Dragon Kick Hypercharge popcorn no longer charges his Super.|Change=Nerf}}
+**{{Balance|Content=Fang's Dragon Kick Hypercharge damage was decreased to 1200 (from 2400) per popcorn.|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+*28/03/24:
+**{{Balance|Content=Fang's Red Pitcher and Blue Pitcher skins were added. They were featured as Super Brawl skins.|Change=Neutral}}
+*08/06/24:
+**{{Balance|Content=The Fanguard skin was added. It was featured as as a CyberBrawl skin.|Change=Neutral}}
+*28/09/24:
+**{{Balance|Content=The Fans' Fang skin was added. It was featured as a Brawl Stars Championship 2024 skin.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Neutral|Fanguard was slightly remodeled.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*21/03/25:
+**{{Balance|Content=The First Mate Fang skin was added. It was featured as an Outlaws skin.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Fang's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Fang's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Fang's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}         
+**{{Balance|Content=Fang's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+*24/06/25: 
+**{{Balance|Content=Fang's Super damage was increased to 1500 (from 1200).|Change=Buff}}
+**{{Balance|Content=Fang's Dragon Kick Hypercharge damage was increased to 1500 (from 1200) per popcorn.|Change=Buff}}
+**{{Balance|Content=Fang's level up reload speed boost was increased to 2.5% (from 2%) in Brawl Arena.|Change=Buff}}
+*30/06/25:
+**{{Balance|Content=Fixed a bug where Fang's Super didn't recharge properly.|Change=Neutral}}
+*21/08/25:
+**{{Balance|Content=The Infernal Fang skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Fang's Dragon Kick Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Fang's Dragon Kick Hypercharge damage boost from 15%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Fang's Dragon Kick Hypercharge shield boost from 15%.|Change=Nerf}}
+*25/11/25:
+**{{Balance|Content=Replaced Fang's Damage Gives +30% Temporary Shield Power Card with Shield +25% Power Card.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Fang's health was increased to 4500 (from 4300).}}
+**{{Balance|Buff|Fang's Divine Soles Star Power damage reduction was increased to 648 (from 620).}}
+*23/01/25:
+**{{Balance|Buff|Fang's Divine Soles Star Power damage reduction was increased to 10% of his maximum health (from 8%).}}
+*22/04/26:
+**{{Balance|Buff|Fang's health was increased to 4800 (from 4500).}}
+**{{Balance|Neutral|Fang's basic attack indicator now displays the additional range granted by his shoe.}}
+*28/04/26:
+**{{Balance|Neutral|The Deku Fang skin was added. It was featured as a My Hero Academia skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Fang's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Buff|Fang's level up damage was decreased to 6% (from 5%) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (13)===
+{{Skin Gallery
+|Name1=First Mate|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Outlaws|Rarity1=Rare
+|Name2=Octo|Cost2=Free from Smoothie Drops or 79 Gems|Campaign2=Deep Sea League|Rarity2=Super Rare
+|Name3=Kabocha|Cost3=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems|Campaign3=Supercell Make|Campaign3_2=Brawl-o-ween|Rarity3=Epic
+|Name4=Ferocious|Cost4=149 Gems • '''S'''|Campaign4=Lunar Brawl|Rarity4=Epic
+|Name5=Red Pitcher|Cost5=149 Gems|Campaign5=Super Brawl|Rarity5=Epic
+|Name6=Blue Pitcher|Cost6=149 Gems|Campaign6=Super Brawl|Rarity6=Epic
+|Name7=The Fans'|Cost7=149 Gems • '''S'''|Campaign7=BSC 2024|Rarity7=Epic
+|Name8=Infernal|Cost8=Free after opening 100 Demonic Drops or 149 Gems|Campaign8=Angels vs. Demons|Rarity8=Epic
+|Name9=Deku|Cost9=149 Gems  • '''S'''|Campaign9=My Hero Academia|Rarity9=Epic
+|Name10=Fanguard|Cost10=199 Gems|Campaign10=CyberBrawl|Rarity10=Mythic
+|TrueSkins = Yes
+|NameP1=Furious|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|RarityP1=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Fang
+|-
+!Skin
+!colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Furious}}
+{{Pin Table|Octo}}
+{{Pin Table|Kabocha|Thanks}}
+{{Pin Table|Ferocious|Special}}
+{{Pin Table|Red Pitcher|Special}}
+{{Pin Table|Blue Pitcher|Special}}
+{{Pin Table|Fanguard|Special}}
+{{Pin Table|The Fans'|Special}}
+{{Pin Table|Infernal}}
+{{Pin Table|Deku}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Fang|Rarity = Common}}
+|{{Spray|Type = Fang Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Fanguard|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Fang1}}
+|{{Pfp|Fang2}}
+|{{Pfp|Fang3}}
+|{{Pfp|Kabocha Fang}}
+|{{Pfp|Ferocious Fang}}
+|-
+|{{Pfp|Red Pitcher Fang}}
+|{{Pfp|Blue Pitcher Fang}}
+|{{Pfp|Fanguard}} 
+|{{Pfp|The Fans' Fang}}
+|{{Pfp|Furious Fang}}
+|-
+|{{Pfp|Infernal Fang}}
+|{{Pfp|Deku Fang}}
+|}
+{{Navigation}}
+[[ru:Фэнг]]
+[[uk:Фенґ]]
+[[nl:Fang]]
+[[pl:Kieł]]

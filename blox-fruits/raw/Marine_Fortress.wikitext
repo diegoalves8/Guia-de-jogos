@@ -1,0 +1,107 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Marine Fortress
+|image      = Marine Fort 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 120-150
+|music      = Marshall Strength
+|prev       = Frozen Village
+|next       = Skylands
+}}
+The '''Marine Fortress''' is a crescent-shaped (now anchor shaped) island northwest of [[Marine Starter Island]] that offers [[quests]] for players from [[Levels|level]] 120 to 150.
+
+==Appearance==
+The Marine Fortress is a anchor-shaped island surrounded by stone walls. The upper section of the crescent contains grassy terrain, trees, and various buildings. Four large guard towers are positioned at each corner of the structure.
+
+The inner curve of the crescent contains a dock that leads to a tall central building where the [[Vice Admiral]] is located. Inside this building, there is an unevenly placed truss. In the frontmost left corner of the fortress, a hidden entrance leads to an area where the [[Black Cape]] accessory can be purchased.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+!Raid Bosses
+|-
+|
+* [[Parlus]]
+* [[Advanced Weapon Dealer]]
+* [[Marine]]
+|
+* [[Chief Petty Officer]]
+|
+* [[Vice Admiral]]
+|
+* [[Greybeard]]
+|}
+
+== Quests ==
+{| class="fandom-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="2" |[[Marine]]
+|[[Chief Petty Officer|Chief Petty Officers]]
+|120
+|Defeat 8 [[Prisoner|Chief Petty Officers]]
+|{{Money|6,000}}
+{{EXP|225,000}}
+|-
+|[[Vice Admiral]]
+|130
+|Defeat [[Vice Admiral]]
+|{{Money|15,000}}
+{{EXP|415,000}}
+|}
+
+== Secret Quests ==
+
+* Upon landing at the docks, turn right and head up the watchtower to find [[Parlus]]. They will ask the player to find rope to hang up his flag. The rope can be found on the most left part of the island from the dock, near a small trade stand structure and a Chief Petty Officer. After grabbing the rope, head to the flagpole next to the [[Marine]] quest-giver. The player must do a minigame where they stay in a circle to pull the flag up the pole, while being fired at by cannons.
+* After waiting an 1 hour of time at Marine Fortress, a message will appear in chat saying: '''[[System Messages|''"Enemy ships are closing in on the Marine Fortress!"'']]'''  Talking to [[Parlus]] after this message appears grants a new dialogue option. When the new option is chosen, pirate [[Brigade|brigades]] will spawn outside the Marine Fortress and the player can use the turrets to shoot down every ship.  After the quest is completed, two messages will appear in chat saying:  '''[[System Messages|''"The raiders have been repelled! The Marine Fortress stands."'']]'''  '''[[System Messages|''"(Roblox username) drove the pirate brigade off the fortress!"'']]'''
+* When [[Vice Admiral]] awakens, a message will appear in chat saying:  '''[[System Messages|''"An alarm has sounded at Marine Fortress!"'']]'''  The fort cannons will start firing, destroy the top half of the center building to stop the cannons. This will start the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) defeated the awakened Vice Admiral!"'']]'''
+
+==Collectibles==
+* [[Black Cape]] is purchasable for {{Money|50,000}}. [[Parlus]] sells it in the Southeast tower (from the picture).
+* Love Letter #3 for [[the Son Quest]] can be obtained by traversing through a maze under the castle. (The entrance is behind the castle, where a part of the rock is discolored, which can be broken with [[Instinct/Break|instinct breaking]] moves)
+* Guns like [[Cannon]] ,[[Refined Slingshot]] and [[Dual Flintlock]] are being purchased here by the [[Advanced Weapon Dealer]]
+
+==Raid Boss==
+Every six hours (four hours on a new server), a message will appear in chat saying:
+
+{{System Message|Loud tremors are being heard across the seas...}}
+
+This message means that the raid boss [[Greybeard]] has spawned. If the player kills him when they have obtained the [[Bisento]], it will be upgraded into [[Bisento]] V2. In order to upgrade it, the player must deal at least 10% damage. The [[Bisento]] does not have to be equipped in order for it to be upgraded.
+
+== Gallery ==
+<gallery>
+File:Fortress top half broken.png|The Marine Fortress's top half blown off
+</gallery>
+
+==Trivia==
+* Blade fruit is recommended to grind here beacuse of the immunity and long-ranged M1.
+* If the player chooses the [[Marines]] side at the start of the game, they will be teleported right next to the castle. But for [[Pirates]], the player will spawn left or right at the end of the crescent.
+** It is recommended to use the [[Marines]] side to grind the [[Vice Admiral]] here because it is closer to the castle.
+* Like the [[Military Soldier]]s at [[Magma Village]], the player can get the [[Chief Petty Officer]]s stuck near the edge of the stairs and attack them while they are unable to hit the player.
+* Boats on the Marine Fortress cost cheaper, even if the player is a Pirate.
+* Grinding the [[Vice Admiral]] is one of the best ways to grind money in the [[First Sea]].
+* The last island of a [[Phoenix]] raid is similar to Marine Fortress, but smaller.
+* Before [[Update 10]], there was a scaffold and the floor texture was made of stone instead of grass.
+* This island is the only island that has 2 quests but not both of them are NPCs. The first one is a [[Chief Petty Officer|NPC]] quest and the other one is a [[Vice Admiral|Boss]] quest. Many people quit here because there is no secondary NPC making it boring for new players.
+* Note that the level of [[Greybeard]] is 750 which makes it difficult to defeat for [[First Sea]] players as they deal low damage to the boss.
+* As of [[Updates/30|Update 30]], the island was reworked and is no longer cresent shaped.
+
+==Change History==
+{{Change History|1|content={{Update|30}}
+* Marine Fortress has been completely revamped.
+<gallery>
+MarineFortress.png|Old Marine Fortress
+</gallery>
+----
+{{Update|1}}
+* Marine Fortress was released.}}
+
+==Navigation==
+{{IslandNavigation}}

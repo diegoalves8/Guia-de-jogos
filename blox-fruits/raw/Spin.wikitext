@@ -1,0 +1,166 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Spin
+|image  = <gallery>
+Spin Fruit.png|Fruit Icon
+Spin fruit gif.gif|Fruit GIF
+SpinIconBlue.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->
+|money  = 7,500
+|robux  = 75
+}}
+{{Quote|Provides spinning attacks which will injure enemies with razor sharp wind slashes.|Shop}}
+'''Spin''' is a {{Common}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|7,500}} or {{Robux|75}} from the [[Blox Fruit Dealer]].
+
+Spin allows the user to spin rapidly, turning the air into sharp and fast attacks that can stun and damage opponents.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Razor Wind
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Razor Winds
+|desc     = The user spins their arms and makes many wind slashes that do damage and stun anyone caught in the attack. This move can be held to deal more damage and stun enemies for longer. This move is similar to [[Oroshi]]'s {{Ability|Oroshi|Z}}.
+}}
+
+{{Skill
+|key      = X
+|name     = Tornado Assault
+|mastery  = 50
+|cooldown = 11
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Tornadus Assault
+|desc     = The user spins at high speeds and follows the cursor, stunning and slicing anyone in their path in a whirlwind-like fashion.
+}}
+
+{{Skill
+|key      = C
+|name     = Air Slasher
+|mastery  = 90
+|cooldown = 14.25
+|energy   = 35
+|break    = Yes
+|instinct = Can be dodged on the edge of the explosions.
+|gif      = Air Slashers
+|desc     = The user spins and unleashes a barrage of sharp air slashes before unleashing a stronger slash that slightly knocks their opponent back. This move is very similar to [[Triple Katana]]’s {{Ability|Triple Katana|Z}}.
+}}
+
+{{Skill
+|key      = F
+|name     = Helicopter Flight
+|mastery  = 25
+|cooldown = 7.5
+|energy   = 50
+|gif      = Helicopters
+|desc     = The user spins their hands at a rapid rate to start flying toward their cursor at a slow pace.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Large hitboxes.
+* Decent mobility.
+* Easy to obtain.
+* All moves can [[Instinct/Break|break Instinct]].
+* Decent for PvP.
+
+|'''[Z] Razor Wind'''
+* Decent damage if held.
+* Great stun.
+* Has good follow-up combo potential.
+
+|'''[X] Tornado Assault'''
+* Somewhat decent combo potential.
+* Decent stun.
+* Direction where the target gets knocked into can be manipulated by turning the camera to where the user would want to get them launched (they still will go up), however, it is inconsistent.
+
+|'''[C] Air Slasher'''
+* Decent knockback.
+* Good range.
+* Good damage if all slashes hit.
+* Has aim-assist.
+
+|'''[F] Helicopter Flight'''
+* Good pace of flight. (For a {{Common}} fruit)
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Lack of range.
+* Low damage.
+* Even though [[Rocket]] is less rare, it is still superior in terms of damage and grinding.
+* Higher mastery requirement than [[Blade]] and [[Rocket]].
+
+|'''[Z] Razor Wind'''
+* Short range.
+* Can be punished if missed because of the end lag.
+
+|'''[X] Tornado Assault'''
+* Very low damage if the full attack does not hit.
+* Hard to control.
+* Knocks up the target into the air makes it hard to land combos.
+
+|'''[C] Air Slasher'''
+* Can be punished if missed.
+* Difficult to land all slashes in PvP.
+
+|'''[F] Helicopter Flight'''
+* Not fast enough to be viable in [[PvP]] or travel.
+}}
+</tabber>
+
+==Trivia==
+* Spin’s fruit shape is based on a twisted prism, a geometric design that helps reduce wind resistance.
+* Spin, along with [[Rocket]], are the only fruits to always be in Stock.
+* Spin's pre-rework variant is used by the [[Marine Rear Admiral]]s at the [[Great Tree]] in the [[Third Sea]].
+* Spin's {{Ability|X}} is similar to [[Shark Saw]]´s {{Ability|Shark Saw|X}}.
+
+==Change History==
+{{Change History|15|content=<tabber>
+|-|20=
+{{Update|20}}
+* Spin was reworked.
+** Changed Spin's icon and reverted back to the old icon.
+* Spin Fruit's model was remade.
+: <gallery>
+File:SpinIconOrange.webp|Old Spin Fruit’s Icon
+Spin 150x150.png|Old Spin Fruit’s Model
+</gallery>
+* '''[C] Spinning Bomber''' was renamed to {{Ability|Spin|C}} and was reworked.
+
+|-|17.3=
+{{Update|17.3}}
+* Spin was visually enhanced.
+* Spin's price was decreased.
+** {{Money|180,000}} -> {{Money|7,500}}
+** {{Robux|380}} -> {{Robux|75}}
+
+|-|15=
+{{Update|15}}
+* Spin was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Вращение]]

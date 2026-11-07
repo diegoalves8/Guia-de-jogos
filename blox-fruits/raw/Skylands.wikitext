@@ -1,0 +1,91 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Skylands
+|image      = Skylands 30.png
+|type       = Flying Island
+|sea        = First Sea
+|level      = 150-190
+|music      = Natural Innovation
+|prev       = Marine Fortress
+|next       = Prison
+}}
+The '''Skylands''' are a group of cloud-based islands located in the [[First Sea]]. They begin at sea level like other islands but gradually rise into the sky. Most areas are accessible without [[flight]], as the islands are connected by small bridges.
+
+==Appearance==
+
+===First Island===
+The first island of the Skylands is a crescent-shaped, grounded island. The island is mostly covered in grass and is dotted with rocks. When the player goes at the back side of the first or the base island, they will find two big rocks and one of the two rocks has the [[Mad Scientist]], who sells the [[Electric]] fighting style. There is also a small lake, supplied by a waterfall from higher islands.
+
+In the lake there is also a mini wharf with 3 NPC’s: [[Angler (NPC)|Angler]], [[Luxury Boat Dealer]], [[Boat Dealer]].
+
+===Second Island===
+[[File:NewSkybandit.PNG|thumb|<center>Sky Bandits Area]]
+The second island of the Skylands is the first island to be on a cloud and above sea level. It has [[Sky Bandit]]s on it, along with a large temple near the back of the island. On top of the temple is [[Yoshi]], who sells the [[Tomoe Ring]]. The island is entirely devoid of grass.
+
+===Third Island===
+The third island of the Skylands is also the smallest, being a tiny area with six trees and four [[Dark Master]]s. The island is covered with grass and some trees, and there is a large, flat-shaped rock on the side of the island.
+
+===Fourth Island===
+The fourth island of the Skylands features the most [[NPCs]] out of all of them. It includes the [[Sky Adventurer]] ([[Quests|Quest Giver]]), the [[Set Home Point]], and the [[Master Sword Dealer]]. This island is covered with grass and trees, has paths, and features numerous houses. It also has a waterfall flowing down to the first island. There is a building with a door that can be destroyed by [[Dark Blade]] Z, which has one of the three [[The Son Quest|Love Letters]] in it. Behind a yellow house is the [[Angel Guard]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+|-
+|
+* [[Mad Scientist]]
+* [[Master Sword Dealer]]
+* [[Set Home Point]]
+* [[Quests|Quest Giver]]
+* [[Yoshi]]
+* [[Angler (NPC)|Angler]]
+* [[Angel Guard]]
+|
+* [[Sky Bandit]]
+* [[Dark Master]]
+|}
+
+==Quests==
+{| class="article-table"
+!Enemy
+!Level Required
+!Description
+!Rewards
+|-
+|[[Sky Bandit]]
+|150
+|Defeat 7 Sky Bandits
+|{{Money|7,000}} <br> {{EXP|315,000}}
+|-
+|[[Dark Master]]
+|175
+|Defeat 8 Dark Masters
+|{{Money|7,500}} <br> {{EXP|450,000}}
+|}
+
+== Secret Quests ==
+
+* Upon entering the island by docks, turn 90 degrees left, to the [[Mad Scientist]]. They will ask the player for a [[Lightning Bolt]]. To find a Lightning Bolt, climb up the island and find a cloud that flashes dark gray. Break the flashing cloud with any attack and the player will get the Lightning Bolt. Return to the Mad Scientist and give him the Lightning Bolt.
+* After waiting an unspecified amount of time on Lower Skylands, the game message, "Sky Bandits have invaded the Sky Castle" will appear. Go to the castle, break through the large brown roof piece, defeat the enemies, pick up the paper near the entrance, and use the code on the vault in the castle’s center.
+* After an unspecified amount of time on Lower Skylands, a yellow cloud will start flying around the islands. If the player passes through it or attacks it, a chest will fall. Repeat that 3 times to drop a diamond chest, find and interact with the chest. This will spawn a group of enemies the player needs to kill, the final one will give the player a key to open the chest.
+
+==Upper Skylands==
+To access the Upper Skylands, it is recommended to jump on the tallest tree near the island, then air jump 7-9 times and use dashes to get to the island (or just use a flight move) containing the temple that teleports to this location. The upper part of the Skylands, nicknamed the '[[Upper Skylands]]', has areas that are so massive that there is a separate page for it, accessible [[Upper Skylands|here]].
+
+==Trivia==
+* The Skylands are a group of islands with the second highest amount of separate landmasses, beaten out only by the [[Sea of Treats]], which has five islands.
+* Since [[Updates/17.2|Update 17.2]], the Skylands (excluding the [[Upper Skylands]]) now connect with each other with bridges. The player no longer needs to [[Flight|Fly]] or [[Air Jump]] up there.
+* It is recommended to skip the [[Sky Bandit]]s quest by server hopping [[Vice Admiral]] at [[Marine Fortress]].
+* Until [[Updates/24|Update 24]], the player could fly through [[Hoops]] to change their appearance if they were using the [[Dragon (Classic)]] fruit.
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Islands]]
+[[Category:Locations]]
+[[Category:First Sea]]
+[[Category:Skylands]]

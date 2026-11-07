@@ -1,0 +1,252 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Watcher|PrestigeTitle = Watching you|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 750 (Normal)<br>850 (split)|HealthLabel = Health|Health = 4100|AttackRange = 10 (Very Long)<br> 3.33 (split; Short)|Reload =1.5 seconds (Normal)<br>1.8 seconds (split; Normal)|AttackBullets = |AttackSuperCharge = 25.375%<br>44.95% (split)|AttackLabel = Damage|Attack = 700 |AttackLabel2 = Split damage|Attack2 = 1240|AttackSpeed=4500|AttackWidth=0.33|AttackSpread=360° (split)|SuperHealth = 3900|SuperRange = |SuperSuperCharge = |SuperLabel = Health|Super = 3900|SuperSpeed=|VoiceActor=Martin Schjøler|Gadget1Name=Out of Line|Gadget1Cooldown=20 seconds|Gadget2Name=Hacks!|Gadget2Cooldown=15 seconds|Previous=Gray|Next=Willow|Hypercharge|HyperchargeMultiplier=25%|AttackHyperchargeCharge=6.325%<br>11.225% (split)|SuperHyperchargeCharge=}}
+{{Quote|R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.}}{{Portrait}}
+R-T is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 17: Mystery At The Hub. He has moderately high health, a normal movement speed, a variable damage output, and a very long range in his normal form. In his alternate form, he has a very fast movement speed, a high damage output, a moderately slow reload speed, and a short range. He was the 65th Brawler added to the game. R-T's normal form attacks by shooting a siren that marks enemies, increasing all damage dealt to that enemy. His Super detaches his head from his stationary legs, transforming into his alternate form. In this form, R-T gains a Trait that allows him to move over water. R-T's alternate form attacks with his signal, instantly dealing damage in a circular area around him and his legs, which also marks enemies for additional damage. His alternate form's Super teleports and transforms him back into R-T's normal form, healing him in the process. His first Gadget, Out of Line, charges his Super instantly. His second Gadget, Hacks!, instantly deals damage to all enemies with active marks. His first Star Power, Quick Maths, increases the duration of his marks. His second Star Power, Recording, passively reduces all damage R-T takes when in his alternate form. His Hypercharge, 360-Degree Surveillance, small radars revolve around R-T's head and legs when he transforms into his alternate form, each dealing high damage.
+
+==Trait==
+{{Quote|R-T can move over water when split from the legs.}}{{Trait|Water}}
+When R-T's Super is active, he is able to float over water. If his legs manage to somehow be moved, they can also be on water, but teleporting back to the legs will push R-T to the nearest land.
+
+==Attacks==
+===Basic: Tap Target===
+{{Quote|R-T fires a single projectile, that upon impact with a brawler marks them. Any damage dealt to a marked target consumes the mark and deals extra damage.}}
+R-T fires a long-ranged siren projectile that does very low damage and marks a target for 5 seconds, indicated by a siren over them. R-T can mark multiple enemies at once. When R-T or his allies hit a marked target, they will deal additional damage (equal to his normal form's attack damage) in his normal form. If R-T hits the marked target, the duration of the mark will refresh, but if his allies hit it, the mark will disappear. The mark's damage does not increase with damage buffs. The attack has a mediocre reload speed and attack cooldown. R-T takes 0.5 seconds to complete his attack.
+
+===Split: Eat Static===
+{{Quote|R-T and his legs blast a strong signal, damaging all targets around them. Both R-T and his legs can still mark targets.}}
+R-T's head and legs send out a circular signal around them that damages and marks targets. Similar to [[Jacky]] and [[Doug]]'s attack, the damage is dealt immediately and can go through walls, but R-T has a relatively slow reload speed and attack cooldown in this form. There is no direction of travel to this attack, so aiming is not required, though aiming can be used to show you the area-of-effect. R-T takes 0.65 seconds to complete his attack.
+
+==Supers==
+===Basic: Hide And Seek===
+{{Quote|R-T splits into two. R-T's legs are left behind while both R-T and his legs gain a short ranged, powerful attack that marks enemies. R-T moves faster while split.}}
+R-T separates his head from his legs, allowing the head to move independently of his legs, and changing his attack and Super. His head will have the same amount of health as he did at the time of this Super's activation, while his legs will have less health. Both parts can auto-regenerate health, however, the Health [[Gears|Gear]] does not affect R-T's legs. R-T's head's movement speed is increased by 100 points while his Super is active, and it can move over water, while his legs remain stationary and gains a shield that reduces all damage it takes by 29%. Enemies cannot charge their Super off of attacking R-T's legs. If either part is taken out, R-T will be defeated.
+
+===Split: Radar Waves===
+{{Quote|R-T instantly teleports to his legs and becomes whole again, healing for 1000.}}
+R-T instantly teleports his head back to his legs' location, returns to his normal form and heals for 1000 health, excluding any healing buffs or debuffs.
+
+==Gadgets==
+===Out of Line===
+{{Quote|Instantly charges R-T's Super. Cooldown: 20 seconds.}}{{Gadget|1}}
+Activating this Gadget charges R-T's Super instantly. This Gadget does not charge his Hypercharge. R-T can’t use this Gadget if his Super is already charged.
+
+===Hacks!===
+{{Quote|Instantly trigger all active marks on all enemy brawlers, dealing their damage. Cooldown: 15 seconds.}}{{Gadget|2}}
+When activated, all active marks will be triggered, dealing the same damage as usual. The amount of damage dealt cannot stack with other marks. This Gadget can only be activated if there is at least 1 marked enemy on the battlefield.
+
+==Star Powers==
+===Quick Maths===
+{{Quote|Marks created last 3 seconds longer.}}{{StarPower|1}}
+With this Star Power equipped, R-T's marks last 3 seconds longer, increasing his marks' duration from 5 to 8 seconds.
+
+===Recording===
+{{Quote|R-T and his legs take 25% less damage when split.}}{{StarPower|2}}
+When in his alternate form, this Star Power grants R-T's head a shield that reduces all incoming damage by 25%, and increases the strength of his legs' shield from 29% to 55%.
+
+==Hypercharge: 360-Degree Surveillance==
+{{Quote|Damaging security lasers surround R-T and his legs after using a Hypercharged Super.}}{{Hypercharge}}
+When activated, R-T's head and legs each get 4 sets of 2 small radars that quickly revolve around them, which deal 700 damage and mark enemies hit. After the Hypercharge is over, the radars despawn. Contrary to the description, the Hypercharge can be activated during a Super and will give the rotating orbs. R-T also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*Be careful about choosing where to place R-T's Super, as leaving his legs unprotected for too long enables enemies to defeat R-T by shooting a stationary target.
+*R-T should only use his Super when he's at full health or near full health, as both of his parts start out with the same amount of HP that he has before using his Super. Using his Super while low on health is very risky as any projectile hitting either part of him would defeat him.
+*R-T should primarily use his Super against short-ranged brawlers. This is because the range of his Super's attack is very short, leaving him vulnerable to brawlers with long ranges. 
+**If a close range brawler gets close to R-T, he can use his Super and position himself so that both his head and legs are damaging the attacking brawler. This does devastating damage to them and will almost certainly defeat them. Using the Recording Star Power increases R-T's survival when using this tactic. 
+*Using R-T's Super against a Brawler with piercing attacks like [[Ash]], [[Kit]], [[Kenji]], [[Amber]], [[Poco]], [[Grom]], [[Emz]], [[Sandy]], [[Chuck]], [[Mortis]], [[Bibi]], [[Frank]], [[Carl]], [[Shade]], [[Draco]], or [[Janet]] is almost useless, as they can simultaneously damage him and his legs.
+**Be especially aware of [[Penny]], as her main attack can splash after hitting either R-T's head or legs.
+*Beware of turrets when R-T is in his alternate form, like Penny's or [[Jessie]]'s, as they can outrange R-T and possibly defeat it without the help of his other part.
+*When using his Super in [[Showdown]], use his alternate form to burst down enemies behind walls, and his normal form to engage longer-ranged enemies. His Super's teleportation can be a helpful escape strategy but be wary of where his legs were placed; as the legs are stationary, the gas limits R-T's time in his alternate form, so while bursting enemies try to get your super as fast as possible for immediate use. 
+*Using R-T's alternate form's extra speed can be very effective, for example to score a goal in [[Brawl Ball]], quickly taking a few Gems in [[Gem Grab]], or trying to get a last-second kill in [[Bounty]].
+*R-T's Hacks! Gadget can be used to defeat marked targets that have very low health and are hiding behind a wall. 
+*In [[Hot Zone]], R-T's mobile body part has to be in the zone's radius to make progress in capturing the zone. Just legs will not charge it, but if you get inside of it with head or in normal form, progress will be gained. 
+
+==Voice Lines==
+{|class="article-table"
+!Spawning ||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = rt start vo 01.ogg|Filedescription ="Live from Starr Park!"}}
+|{{Ogg|Filename = rt lead vo 01.ogg|Filedescription ="All eyes on me!"}}
+|{{Ogg|Filename = rt hurt vo 01.ogg|Filedescription ="We're going to need a small break."}}
+|{{Ogg|Filename = rt kill vo 01.ogg|Filedescription ="Please, be mindful of your surroundings."}}
+|{{Ogg|Filename = rt die vo 01.ogg|Filedescription ="This is normal!"}}
+|
+|{{Ogg|Filename = rt ulti vo 01.ogg|Filedescription ="Ahead of the game!"}}
+|-
+|{{Ogg|Filename = rt start vo 02.ogg|Filedescription ="On air."}}
+|{{Ogg|Filename = rt lead vo 02.ogg|Filedescription ="Scanning."}}
+|{{Ogg|Filename = rt hurt vo 02.ogg|Filedescription ="Accessing anger management module."}}
+|{{Ogg|Filename = rt kill vo 02.ogg|Filedescription ="I am watching you!"}}
+|{{Ogg|Filename = rt die vo 02.ogg|Filedescription ="Re-boot-ing!"}}
+|
+|{{Ogg|Filename = rt ulti vo 02.ogg|Filedescription ="Nobody can stop me!"}}
+|-
+|{{Ogg|Filename = rt start vo 03.ogg|Filedescription ="Recording!"}}
+|{{Ogg|Filename = rt lead vo 03.ogg|Filedescription ="Verified victory!"}}
+|{{Ogg|Filename = rt hurt vo 03.ogg|Filedescription ="Contemplating, calculating."}}
+|{{Ogg|Filename = rt kill vo 03.ogg|Filedescription ="Hope to see you soon again."}}
+|{{Ogg|Filename = rt die vo 03.ogg|Filedescription ="All is well."}}
+|
+|{{Ogg|Filename = rt ulti vo 03.ogg|Filedescription ="Weeeeeeeee!"}}
+|-
+|{{Ogg|Filename = rt start vo 04.ogg|Filedescription ="Initializing systems."}}
+|{{Ogg|Filename = rt lead vo 04.ogg|Filedescription ="R-T in the place to be, do it for the robot family."}}
+|{{Ogg|Filename = rt hurt vo 04.ogg|Filedescription ="This is fine!"}}
+|{{Ogg|Filename = rt kill vo 04.ogg|Filedescription ="Oh, you went the wrong way."}}
+|{{Ogg|Filename = rt die vo 04.ogg|Filedescription ="Everything is OK."}}
+|
+|{{Ogg|Filename = rt ulti vo 04.ogg|Filedescription ="Weee, I'm losing my mind!"}}
+|-
+|{{Ogg|Filename = rt start vo 05.ogg|Filedescription ="Cute robot mode, engaged."}}
+|{{Ogg|Filename = rt lead vo 05.ogg|Filedescription ="Showing myself the way to victory."}}
+|{{Ogg|Filename = rt hurt vo 05.ogg|Filedescription ="Having minor technical issues."}}
+|{{Ogg|Filename = rt kill vo 05.ogg|Filedescription ="Please, do not ignore my instructions."}}
+|{{Ogg|Filename = rt die vo 05.ogg|Filedescription ="R-T requesting extraction."}}
+|
+|{{Ogg|Filename = rt ulti vo 05.ogg|Filedescription ="Don't mind me!"}}
+|-
+|{{Ogg|Filename = rt start vo 06.ogg|Filedescription =*boots up* "Welcome to Starr Park!"}}
+|{{Ogg|Filename = rt lead vo 06.ogg|Filedescription =R-T laughs}}
+|{{Ogg|Filename = rt hurt vo 06.ogg|Filedescription =Speaker plays}}
+|{{Ogg|Filename = rt kill vo 06.ogg|Filedescription ="Glad to be of service."}}
+|{{Ogg|Filename = rt die vo 06.ogg|Filedescription ="Sorry, major malfunction."}}
+|
+|{{Ogg|Filename = rt ulti vo 06.ogg|Filedescription ="Mindful mayhem!"}}
+|-
+|{{Ogg|Filename = rt start vo 07.ogg|Filedescription ="How may I help you?"}}
+|{{Ogg|Filename = rt lead vo 07.ogg|Filedescription =R-T sings}}
+|{{Ogg|Filename = rt hurt vo 07.ogg|Filedescription =Speaker plays}}
+|{{Ogg|Filename = rt kill vo 07.ogg|Filedescription ="Have a fantastic day!"}}
+|{{Ogg|Filename = rt die vo 07.ogg|Filedescription ="In my absence, please read the Starr Park FAQ."}}
+|
+|{{Ogg|Filename = rt ulti vo 07.ogg|Filedescription ="Ha ha!"}}
+|-
+|{{Ogg|Filename = rt start vo 08.ogg|Filedescription ="Please, ask me anything!"}}
+|{{Ogg|Filename = rt lead vo 08.ogg|Filedescription =Speaker plays}}
+|
+|{{Ogg|Filename = rt kill vo 08.ogg|Filedescription ="Oh, you seem lost!"}}
+|{{Ogg|Filename = rt die vo 08.ogg|Filedescription =Speaker plays}}
+|
+|
+|-
+|{{Ogg|Filename = rt start vo 09.ogg|Filedescription =Walkie-talkie plays}}
+|
+|
+|{{Ogg|Filename = rt kill vo 09.ogg|Filedescription ="You seem in need of directions."}}
+|{{Ogg|Filename = rt die vo 09.ogg|Filedescription =Speaker plays}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = rt die vo 10.ogg|Filedescription =Morse code}}
+|
+|
+|}
+
+==History==
+*28/02/23:
+**{{Balance|Content=R-T became available to play in the [[Training Cave]].|Change=Neutral}}
+*06/03/23:
+**{{Balance|Content=R-T, his Crimson, and his Patrol skins were added to the game.|Change=Neutral}}
+*27/03/23:
+**{{Balance|Content=R-T's Hacks! Gadget and Recording Star Power were added.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=R-T's health was decreased to 3900 in both forms (from 4100).|Change=Nerf}}
+**{{Balance|Content=R-T's delay between attacks was increased to 500ms (from 250ms) while in his alternate form.|Change=Nerf}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*07/09/23:
+**{{Balance|Content=Fixed an issue with the Crimson R-T skin having extra abilities.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=R-T's In Line Gadget damage was increased to 560 (from 500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=R-T's flavor text was changed from "Lost in Starr Park? No worries, friend! R-T is watching you! Erm, no. He's watching OVER you. Yes. That. Totally." to "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=R-T's rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=R-T's True Silver and True Gold skins were added.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=R-T's In Line Gadget was renamed to Out of Line and reworked from firing a piercing siren projectile from his head to his legs while in his alternate form that passes through obstacles and slows and damages enemies to charging his Super instantly.|Change=Neutral}}
+*11/07/24:
+**{{Balance|Content=The Poseidon R-T skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Fixed an issue that caused R-T's Hacks! Gadget not dealing damage to airborne opponents.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=R-T gained a Trait where he can now float over water when split from his legs.|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Fixed an issue where R-T was able to mark the [[Heist]] safe.|Change=Neutral}}
+*24/07/25:
+**{{Balance|Content=R-T's 360-Degree Surveillance Hypercharge was added.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=R-T's 360-Degree Surveillance speed boost was decreased to 15% (from 25%).|Change=Nerf}}
+**{{Balance|Content=R-T's 360-Degree Surveillance shield boost was decreased to 15% (from 25%).|Change=Nerf}}
+**{{Balance|Content=R-T's level up damage was decreased to 2% (from 4%) in [[Brawl Arena]].|Change=Nerf}}
+*02/10/25:
+**{{Balance|Content=The Gargoyle R-T skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, increasing R-T's 360-Degree Surveillance Hypercharge speed boost from 15%.|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing R-T's 360-Degree Surveillance Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing R-T's 360-Degree Surveillance Hypercharge shield boost from 15%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|R-T's health in his normal form was increased to 4100 (from 3900).}}
+*28/04/26:
+**{{Balance|Nerf|As a temporary fix for a bug, R-T's damage in his split form was decreased to 740 (from 1240).}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where R-T's split form dealt double the damage when marking targets.}}
+*30/06/26:
+**{{Balance|Buff|R-T's damage in his split form was increased to 1240 (from 740).}}
+**{{Balance|Buff|R-T's level up damage was increased to 3% (from 2%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing R-T's movement speed to 750 (from 720).}}
+*16/09/26:
+**{{Balance|Buff|R-T's Recording Star Power damage reduction was increased to 25% (from 20%).}}
+*03/11/26:
+**{{Balance|Buff|R-T's main attack projectile size was increased by 15%.}}
+**{{Balance|Neutral|Fixed R-T's skins showing the default area effect instead of the skin's own effect.}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Patrol|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Max Force|Rarity1=Rare
+|Name2=Poseidon|Cost2=199 Gems|Campaign2=Legends of Olympus|Rarity2=Mythic
+|Name3=Gargoyle|Cost3=Free from Pumpkin Boxes, Coffin Boxes or 199 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Mythic
+|TrueSkins = Yes
+|NameP1=Crimson|CostP1=Brawl Pass, free from Demonic Drops, free from Ziggy Boxes or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Once Upon|RarityP1=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|R-T
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Crimson}}
+{{Pin Table|Poseidon|Happy}}
+{{Pin Table|Gargoyle}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = R-T|Rarity = Common}}
+|{{Spray|Type = R-T Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Poseidon R-T|Rarity = Common}}
+|{{Spray|Type = Gargoyle R-T|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|R-T1}}
+|{{Pfp|R-T2}}
+|{{Pfp|R-T3}}
+|{{Pfp|Crimson R-T}}
+|{{Pfp|Poseidon R-T}}
+|-
+|{{Pfp|Gargoyle R-T}}
+|}
+
+{{Navigation}}
+[[ru:R-T]]

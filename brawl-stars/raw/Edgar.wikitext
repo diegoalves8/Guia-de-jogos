@@ -1,0 +1,479 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = CEO of Brawl Stars|PrestigeTitle = EZ|Rarity = Epic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>1055 (after Super)|HealthLabel = Health|Health = 3700|AttackLabel = Damage per punch|Attack = 540|AttackRange = 2 (Short)<br>4 (additional projectiles; with Hyper Buffie)|Reload = 0.7 seconds (Very Fast)<br>0.467 seconds (with Hypercharge)|AttackSuperCharge = 8.775%<br>21.925% (with Hypercharge)|SuperRange = 6.67 (Normal)|SuperSuperCharge =25% (direct hit; with Hard Landing and Buffie)<br>62.5% (direct hit; with Hard Landing and Buffie and Hypercharge) |VoiceActor=David Autovino|AttackSpeed=3500<br>7000 (additional projectiles; with Hyper Buffie)|AttackWidth=2|AttackBullets=2|AttackLabel2=Heal per punch|Attack2=189|Gadget1Name=Let's Fly|Gadget1Cooldown=18 seconds|Gadget2Cooldown=17 seconds|Gadget2Name=Hardcore|Gadget2=2960|Gadget2Label=Health|StarPower1Name=Hard Landing|StarPower1=1341|StarPower1Label=Damage|HyperchargeMultiplier=33%|Previous=Colette|Next=Stu|AttackHyperchargeCharge=3.5%<br>8.75% (with Hypercharge)|Gadget1Range=6.67|SuperDuration=2.5 seconds (speed boost)|SuperHyperchargeCharge=10% (direct hit; with Hard Landing and Buffie)<br>25% (direct hit; with Hard Landing and Buffie and Hypercharge)|StarPower1Label2=Direct Hit Damage|StarPower12=2682}}
+{{Quote|Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.}}
+{{Portrait}}
+Edgar is an {{Rarity|Epic}} [[Brawler]] who could be unlocked for free as a Brawlidays 2020 gift from December 19th to January 7th. He has moderate health, a very fast reload speed, a potentially high burst damage, and great mobility with his Super and his very fast movement speed, but a short attack range. He was the 43rd Brawler added to the game. His Trait allows his Super and Hypercharge to charge itself over time. He attacks with two quick short-ranged punches with an extremely short cooldown and reload speed that also slightly heal him per hit on an enemy Brawler. His Super is a quick jump over obstacles that grants him a speed boost upon landing. His first Gadget, Let's Fly, throws a scarf that Edgar jumps to if it hits an enemy or wall. His second Gadget, Hardcore, provides him a shield that absorbs damage and decays over time. His first Star Power, Hard Landing, allows his Super to deal damage to enemies in his Super's landing area of effect. His second Star Power, Fisticuffs, increases the amount he heals per punch. His Hypercharge, Outburst, increases his Super charge rate and reload speed after using his Super.
+
+==Trait==
+{{Quote|This Brawler charges Super over time.}}{{Trait|Auto}}Edgar's Super and Hypercharge charge automatically over time, similar to [[Darryl]]. His Super charges 3.3% per second from his Trait alone, and his Hypercharge charges 1.3% per second due to rounding errors, so it takes roughly 30.3 seconds to fully charge his Super and 1 minute and 16.9 seconds to fully charge his Hypercharge.
+
+==Attack: Fight Club==
+{{Quote|Hits enemies with quick punches from his scarf, healing himself for each landed punch.}}Edgar throws out two short-ranged, piercing punches from his scarf, healing himself for 35% of the damage dealt per punch. The attack cooldown is extremely short, and it takes 0.4 seconds to complete. The amount healed scales with [[Showdown|Power Cubes]] or other outside buffs such as [[Ruffs]]' power-up or [[8-Bit]] and [[Belle]]'s Super.
+
+==Super: Vault==
+{{Quote|Edgar jumps over any obstacle and gets a temporary speed boost. His Super will slowly charge over time.}}Edgar jumps into the air and over obstacles briefly for approximately 0.86 seconds before landing onto the area where the Super was aimed. If there are lakes, his jump range is extended to the nearest ground. While in the air, Edgar is completely immune to all damage besides status effects and damage applied over time. On landing, he boosts his movement speed by 200 points for 2.5 seconds. 
+
+==Gadgets==
+===Let's Fly===
+{{Quote|Edgar's scarf grabs the closest Brawler and he jumps behind them. His scarf can also pull him towards walls. Cooldown: 18 seconds.}}{{Gadget|1}}Edgar throws his scarf up to 6.67 tiles in the direction the Gadget is aimed. If it connects to a Brawler or wall, Edgar jumps towards the end destination of the scarf, and will land on the other side of the target from where the scarf connected. The jump is identical to the jump from his Super, except it does not grant a speed boost, and if the Hard Landing Star Power is equipped, the impact deals 50% less damage. Edgar can only jump over one tile of obstacles with the Gadget. If the wall is more than one tile wide from the place where the Gadget connects, he will not jump over it. [[Frank]]'s Active Noise Cancelling Gadget is capable of destroying the projectile when the Gadget Buffie is owned, so if done so, Edgar will jump to where it was destroyed. 
+
+{{Quote|Edgar also gets +25% speed for 2.5 sec when grabbing a Brawler or wall.}}{{Buffie|Gadget}}
+With the Buffie, after landing, Edgar's movement speed is increased by 25% for 2.5 seconds. 
+
+===Hardcore===
+{{Quote|Edgar gets a shield that protects him from the next 3700 damage. The shield gets weaker over time. Cooldown: 17 seconds.}}{{Gadget|2}}[[File:Hardcore Icon.png|left|40x40px|link=]]Edgar receives a shield that starts at 50% of his maximum health. The shield decays by 5% of its health every 0.35 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Edgar is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on Edgar's max health when this shield is active. Enemies damaging Edgar with Hardcore can still charge their Supers.
+
+{{Quote|Edgar also gains immunity to Crowd Control for 1 sec.}}{{Buffie|Gadget}}
+With the Buffie, Edgar gains immunity to all crowd control, such as stuns, knockbacks, and effects such as [[Otis]]'s Silent Seabed for 1 second after the Gadget is activated. 
+
+==Star Powers==
+===Hard Landing===
+{{Quote|Edgar's Super and Let's Fly Gadget will also deal 1490 damage to nearby enemies upon landing, or 2980 damage on a direct hit.}}{{StarPower|1}}Upon landing from his Super or Let's Fly Gadget, Edgar deals damage equal to 138% of a main attack projectile in a 3-tile radius around him. In addition, if he lands within 1.17 tiles of an enemy with the Super, the damage is doubled. However, despite the description, jumping with the Let's Fly Gadget deals only half the damage. An altered landing indicator shows the area-of-effect.
+
+{{Quote|A direct hit also charges his Super by 25%.}}{{Buffie|Star}}
+With the Buffie, Edgar receives 25% Super charge when he lands on an enemy directly, charging his Hypercharge accordingly. This effect stacks when directly hitting multiple enemies.
+
+===Fisticuffs===
+{{Quote|Edgar receives 30% more healing from the damage he deals.}}{{StarPower|2}}Edgar receives 30% more healing per punch. This increases his healing rate per punch from his base 35% to 45.5%.
+
+{{Quote|Taking down a Brawler instantly heals Edgar for 20% of his max health.}}{{Buffie|Star}}
+With the Buffie, Edgar heals for 20% of his maximum health when he defeats an enemy.
+
+==Hypercharge: Outburst==
+{{Quote|After using Super gain charging speed and reload speed for a few seconds.}}{{Hypercharge}}
+When activated, after using his Super, Edgar's appearance will turn red, and he increases his Super charge rate by 150% and his reload speed by 50% for the rest of the Hypercharge's duration. This also affects the Super charge speed from his Trait. Using the Let's Fly Gadget during Hypercharge does not trigger this effect. Edgar also gains a 5% damage and shield boost, as well as a 20% speed boost. 
+
+{{Quote|Edgar's main attack has two extra scarf punches with longer range, but -50% damage.}}{{Buffie|Hyper}}
+With the Buffie, Edgar's attack punches two additional times. The additional punches have increased range, but deal 50% less damage. This also increases the unload time of his attack. Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Super has longer range and a faster jump.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Edgar's Super range was increased from 6.67 to 16.67 tiles, and he jumped 14.3% faster.
+
+==Tips==
+===Game Modes and Maps===
+*Edgar is not often recommended in [[Bounty]] since long-ranged Brawlers dominate the mode and his short range makes him disadvantageous. If playing him in Bounty, focus on pressuring enemies in the back of the map, and perform hit-and-run attacks using your Super. However, don't play him in open Bounty maps like [[Purple Paradise]] as he's more vulnerable to longer-ranged Brawlers.
+*In [[Boss Fight]], Edgar can utilize his mechanics (his sheer burst damage/healing and great mobility) to provide nearly-unparalleled offense/defense. In this mode, he's best used as the Power Cube carrier since it grants him more survivability along with his healing and amplifies his already high damage. His Fisticuffs Star Power is more effective in this mode since he can dive into swarms of bots and heal more effectively than he already would and overall survive longer whereas Hard Landing, even with the additional damage it dishes out, it's still insufficient against higher-health entities.
+*Aside from Power Cubes and Fisticuffs, additional buffs will also benefit Edgar; [[8-Bit]], [[Ruffs]], Pam, [[Stu]], and [[Max]] all amplify Edgar's effectiveness in Boss Fight.
+*Edgar is a niche asset in [[Heist]] due to his consistent and high burst damage, allowing him to rapidly damage the safe with his punches along with his Hard Landing Star Power.
+*His speed boost after his Super can also be utilized well in [[Gem Grab]] or [[Siege]] as he can jump onto the Gem mine or into the Bolt spawns, which then he can steal Gems or Bolts and quickly retreat. He can also use this to escape more effectively when he's in danger.
+*However, his low health and lack of range diminish his viability in the above modes due to his inability to deal with long-ranged enemies with control abilities that are versatile in the above modes. With his Hardcore Gadget and a Shield [[Gears|Gear]], Edgar can take more damage before having to retreat.
+*Edgar is an incredibly great ambusher and camper in offense-oriented modes like [[Showdown]]. Though he has low health, he heals each time he lands a successful punch, and his reload and unload speed are extremely fast. When playing Edgar, it's best to use him in enclosed maps such as [[Cavern Churn]], in which these are what he dominates in. In [[Duo Showdown]], he can be paired up with healers like [[Poco]], Pam, Doug, [[Berry]], or [[Byron]], similarly to with tanks and other assassins to increase the chances of victory.
+*Edgar is an outstanding choice in speed-based modes like [[Brawl Ball]] because of his very fast movement speed and great mobility. He can kick the ball/trophy ahead of him and then use his Super to jump to the ball/trophy and grab it again (self-passing), similarly to [[El Primo]]. After self-passing, he can then quickly shoot the ball/trophy into the designated area. Edgar is also aided by the speed boost that he gains after his Super. Keep in mind that Edgar has low health so be careful while performing this.
+
+===Recommended Build===
+===Strategies===
+*Edgar’s reworked Let’s Fly Gadget allows for a “Double Jump”, which can be used to reach enemies further away or counter defensive or evasive abilities. It can also let you get away safely, by using one jump to attack and the other to escape.
+*When trying to fight high-damaging Brawlers like El Primo, [[Shelly]], Fang, Griff, Bull, [[Darryl]], [[Doug]], Buzz, [[Nani]], Leon, Rosa, [[Bibi]], or [[Spike]], wait for them to use some of or all of their ammo, and then jump on them. Since they have the disadvantage of little to no ammo, Edgar can attack them with ease without taking much damage. Even if he takes damage when the enemy reloads, his attack heals him and offsets the enemy's previous damage, allowing him to secure a defeat. His Hardcore Gadget allows him to survive longer if he takes more damage.
+**Additionally, most of said brawlers deal the most damage at point-blank while Edgar, despite his short range, has greater flexibility when fighting them. As such, keep a short bit of distance between you and your target, advancing and retreating occasionally to make use of your superior movement and unload speed or your enemy's slower unload speed.
+*Against brawlers with high damage and slow unload speeds, Edgar can easily outmaneuvre them. As such, run circles around them so that they will struggle to keep up with you.
+
+*Edgar vs. Edgar matchups are quite common in Showdown due to Edgar's viability in the game mode. Since Edgar can heal from punches and displace others with his Super, the outcome of an Edgar vs. Edgar fight is usually unpredictable. However, there are some tactics you can perform to typically guarantee yourself a victory (unless the opposing Edgar does the same or has an advantage that you don't).
+**The first tactic is to run away from the enemy while attacking to "extend" your attack's range. Due to Edgar's quick unload and reload speed, the enemy will be low on health, if not dead, before realizing their mistake. Conversely, when facing another Edgar performing this tactic, use your Super to jump ahead of the enemy (if the opposing Edgar doesn't have their Super) or retreat (allowing you to use the same strategy in case the enemy Edgar follows you).
+**The second tactic is to auto-aim your Super in the middle of the fight to avoid a few punches. In an Edgar vs Edgar matchup, every ammo counts and therefore avoiding a few punches gives you an advantage. If the Edgar uses this strategy against you, either use your Super to escape or perform the first tactic. Also, if you are low on health, never use your Super before the enemy Edgar. Once you Super, you have no means of escape and he can simply jump on you and defeat you.
+
+===Other===
+*Although he's able to counter high-health Brawlers with slow unload speeds such as [[8-Bit]], [[Pam]], [[Rosa]], [[Buzz]], [[Ash]], and [[Frank]], Edgar doesn't have the health to easily outmatch tanks. Because of that, it's better to focus on other targets, specifically weaker ones like throwers and sharpshooters.
+*His healing however, along with his Fisticuffs Star Power (if you have it equipped), greatly help him take on tanks. It's still best to take caution when fighting them since they can 2-shot or 3-shot Edgar's low health, so be sure to use your Super to avoid some attacks and land as much punches so as to out-heal the tanks' damage.
+*Edgar has the shortest attack range in the game, so it's necessary to maintain close range with enemies. If you don't have your Super, you can utilize cover to steadily advance to enemies. If you do have your Super charged up, use it to jump directly onto (ambush) an enemy. It's also niche to bush-camp and wait for an enemy to head near the bush, and then quickly exit the bush and attack them.
+*If fighting against Frank, it's recommended to attack and use Edgar's speed to your advantage. Each time Frank attacks, there's a delay, where Edgar can move behind Frank and deal damage while taking none and healing. You may also use your Super to evade Frank's devastating Super, therefore wasting it. Attacking works better with his Fisticuffs Star Power because of the boosted healing.
+*Brawlers with slow unload speeds like Pam, Rosa, Ash, Buzz, and 8-Bit can be defeated by Edgar at close-quarters combat despite their high health since Edgar can unload all his attacks much quicker than them and heal himself in the process. Due to their slow unload and Edgar's speed boost after his Super, Edgar can strafe away from the majority of the fire. However, note that if Edgar incorrectly strafes, he might take the attack's full damage, dealing immense damage to him if not defeating him. Because of this, it's necessary to analyze all of your options and the enemy's before committing a jump on them.
+*Edgar is vulnerable to Brawlers with high burst damage or knockback abilities like [[Spike]], [[Griff]], Buzz, [[Emz]], [[Surge]], Shelly, El Primo, [[Bull]], Darryl, [[Colt]], [[Leon]], Nani, 8-Bit, or [[Brock]] because they can use those abilities to evade Edgar and/or easily defeat him. When facing these Brawlers, it's best to use his Hardcore Gadget to reduce their damage once they use their defensive ability on him so he can survive longer and won't be easily defeated.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 01.ogg|Filedescription = "This is so lame."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 01.ogg|Filedescription = "This is so lame."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 01.ogg|Filedescription = "Alright, who needs divine intervention?"}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar lead vo 01.ogg|Filedescription = "Don't look at me!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar lead vo 01.ogg|Filedescription = "Don't look at me!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 01.ogg|Filedescription = "Maximum aura points!"}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 01.ogg|Filedescription = "Leave me alone!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 01.ogg|Filedescription = "Leave me alone!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 01.ogg|Filedescription = "This is ruining my beautfiul aura."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar kill vo 01.ogg|Filedescription = "Lol."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar kill vo 01.ogg|Filedescription = "Lol."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 01.ogg|Filedescription = "Smite mode engaged, I guess."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 01.ogg|Filedescription = "This is so unfair!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 01.ogg|Filedescription = "This is so unfair!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar die vo 01.ogg|Filedescription = "I hear angels sing."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Edgar ulti vo 01.ogg|Filedescription = Edgar screams}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar ulti vo 01.ogg|Filedescription = Edgar screams}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar ulti vo 01.ogg|Filedescription = Edgar sings}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 02.ogg|Filedescription = "Huh, can't believe I have to do this."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 02.ogg|Filedescription = "Huh, can't believe I have to do this."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 02.ogg|Filedescription = "Another day, another demon, whatever."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar lead vo 02.ogg|Filedescription = "CEO of Brawl Stars."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar lead vo 02.ogg|Filedescription = "CEO of Brawl Stars."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 02.ogg|Filedescription = "God tier!"}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 02.ogg|Filedescription = "Get away from me!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 02.ogg|Filedescription = "Get away from me!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 02.ogg|Filedescription = "I'm too angelic for this."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar kill vo 02.ogg|Filedescription = "So awesome."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar kill vo 02.ogg|Filedescription = "So awesome."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 02.ogg|Filedescription = "Ugh, I'm so blessed."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 02.ogg|Filedescription = "What?"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 02.ogg|Filedescription = "What?"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar die vo 02.ogg|Filedescription = "Angels need breaks too, you know?"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Edgar ulti vo 02.ogg|Filedescription = Edgar shrieks}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar ulti vo 02.ogg|Filedescription = Edgar shrieks}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar ulti vo 02.ogg|Filedescription = Edgar sings}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 03.ogg|Filedescription = "Boring."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 03.ogg|Filedescription = "Boring."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 03.ogg|Filedescription = "Smite first, complain later, I guess."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar lead vo 03.ogg|Filedescription = "I low-key wanna win this game."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar lead vo 03.ogg|Filedescription = "I low-key wanna win this game."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 03.ogg|Filedescription = "Angel of the metaverse!"}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 03.ogg|Filedescription = "Don't touch the scarf!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 03.ogg|Filedescription = "Don't touch the scarf!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 03.ogg|Filedescription = "Angel tears."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar kill vo 03.ogg|Filedescription = "Whatever."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar kill vo 03.ogg|Filedescription = "Whatever."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 03.ogg|Filedescription = "That was so epic."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 03.ogg|Filedescription = "No way!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 03.ogg|Filedescription = "No way!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar die vo 03.ogg|Filedescription = "I'm so out of this world!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Edgar ulti vo 03.ogg|Filedescription = Edgar screams}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 04.ogg|Filedescription = "Yolo! Wooh!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 04.ogg|Filedescription = "Yolo! Wooh!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 04.ogg|Filedescription = "Divine lethargy flows through me."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar lead vo 04.ogg|Filedescription = "Great. Now everyone hates me."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar lead vo 04.ogg|Filedescription = "Great. Now everyone hates me."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 04.ogg|Filedescription = "Mythical moment, wow."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 04.ogg|Filedescription = "Ew!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 04.ogg|Filedescription = "Ew!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 04.ogg|Filedescription = "Could use a miracle here."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar kill vo 04.ogg|Filedescription = "Eh."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar kill vo 04.ogg|Filedescription = "Eh."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 04.ogg|Filedescription = "Try again, or maybe don't."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 04.ogg|Filedescription = "So much tryharding."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 04.ogg|Filedescription = "So much tryharding."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar die vo 04.ogg|Filedescription = "Guess I'm grounded now."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Edgar ulti vo 04.ogg|Filedescription = Edgar cries}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar ulti vo 02.ogg|Filedescription = Edgar cries}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 05.ogg|Filedescription = "Uh, back on the grind."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 05.ogg|Filedescription = "Uh, back on the grind."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 05.ogg|Filedescription = "Uh, guess I have to be heroic."}}
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 05.ogg|Filedescription = "Winning is my divine calling, clearly."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 05.ogg|Filedescription = "Don't be salty."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 05.ogg|Filedescription = "Don't be salty."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 05.ogg|Filedescription = "Divine intervention, anyone?"}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar kill vo 05.ogg|Filedescription = "Wow, hardcore."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar kill vo 05.ogg|Filedescription = "Wow, hardcore."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 05.ogg|Filedescription = "Angels-1, demons-0."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 05.ogg|Filedescription = "Wow, you are so awesome."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 05.ogg|Filedescription = "Wow, you are so awesome."}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar die vo 05.ogg|Filedescription = "Halo and goodbye!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Edgar ulti vo 05.ogg|Filedescription = Edgar screams}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar ulti vo 04.ogg|Filedescription = Edgar screams}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 06.ogg|Filedescription = "Pssh, I could do this if I wanted to!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 06.ogg|Filedescription = "Pssh, I could do this if I wanted to!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 06.ogg|Filedescription = "Here to save you, again."}}
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 06.ogg|Filedescription = "I guess, miracles do happen."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 06.ogg|Filedescription = "Big yikes!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 06.ogg|Filedescription = "Big yikes!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar hurt vo 06.ogg|Filedescription = "Giving angelic angst."}}
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 06.ogg|Filedescription = "Light work."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 06.ogg|Filedescription = "So lame."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 06.ogg|Filedescription = "So lame."}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Edgar start vo 07.ogg|Filedescription = "You can't make me!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar start vo 07.ogg|Filedescription = "You can't make me!"}}'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 07.ogg|Filedescription = "You've met your divine match."}}
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar lead vo 07.ogg|Filedescription = "Giving celestial vibes."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar hurt vo 07.ogg|Filedescription = "I'm lagging!"}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar hurt vo 07.ogg|Filedescription = "I'm lagging!"}}
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar kill vo 07.ogg|Filedescription = "In the name of reluctant righteousness."}}
+|'''Normal:'''
+{{Ogg|Filename = Edgar die vo 07.ogg|Filedescription = "I'm shook."}}'''Mecha:'''
+{{Ogg|Filename = Mech edgar die vo 07.ogg|Filedescription = "I'm shook."}}
+|
+|
+|-
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 08.ogg|Filedescription = "Can I smite you from here?"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 09.ogg|Filedescription = "I'll wing it. Literally."}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 10.ogg|Filedescription = "Why am I always involved?"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Dark Angel:'''
+{{Ogg|Filename = Angelic edgar start vo 11.ogg|Filedescription = "Prepare to face divine disinterest."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*19/12/20:
+**{{Balance|Neutral|Edgar was added to the game and was available for every user to claim for free until 07/01/21.}}
+*14/01/21:
+**{{Balance|Buff|Edgar's Let's Fly Gadget Super charge duration was increased to 4 seconds (from 3).}}
+**{{Balance|Nerf| Edgar's Let's Fly Gadget Super charge speed was decreased to 525% (from 700%).}}
+*18/01/21:
+**{{Balance|Neutral|Edgar's Fisticuffs Star Power was added.}}
+*08/02/21:
+**{{Balance|Nerf|The number of hits necessary to charge Edgar's Super was increased to 12 hits (from 10).}}
+* 15/03/21:
+**{{Balance|Nerf|Edgar's health was decreased to 2800 (from 3000).}}
+*07/05/21:
+**{{Balance|Neutral|The Quickdraw Edgar skin was added.}}
+*08/07/21:
+**{{Balance|Neutral|Edgar's Hardcore Gadget was added.}}
+**{{Balance|Neutral|Fixed a bug that Edgar would remain in the battle after the round is over when using his Hardcore Gadget.}}
+*25/08/21:
+**{{Balance|Buff|Edgar's main attack healing was increased to 35% (from 25%).}}
+*28/09/21:
+**{{Balance|Neutral|Fixed an issue where Edgar's Fisticuffs Star Power increases his movement speed after jumping.}}
+*27/10/21:
+**{{Balance|Neutral|Edgar's flavor text was changed from "Let's face it, this is an angry kid. He also loves parkour." to "Edgy and with a hands-off attitude, Edgar prefers to throw punches with his scarf. With his Super, Edgar jumps into the fray swinging his scarf around himself."}}
+*17/12/21:
+**{{Balance|Neutral|Fixed a bug where Edgar's eyes turned yellow.}}
+*26/01/22:
+**{{Balance|Neutral|The Orochi Edgar skin was added. It was featured as a Year of the Tiger skin.}}
+*10/03/22:
+**{{Balance|Neutral|The Doctor Edgar skin was added. It was featured as a Biodome skin.}}
+*29/07/22:
+**{{Balance|Neutral|The Edgar Tata skin was added. It was featured as a BT21 skin.}}
+*31/08/22:
+**{{Balance|Neutral|Edgar's True Silver and True Gold skins were added.}}
+*25/04/23:
+**{{Balance|Buff|Edgar's health was increased to 3000 (from 2800).}}
+*11/05/23:
+**{{Balance|Neutral|The Blackbird Edgar skin was added.}}
+*05/09/23:
+**{{Balance|Buff|Edgar's health was increased to 3300 (from 3000).}}
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*06/10/23:
+**{{Balance|Neutral|The Mecha Edgar skin was added. It was featured as a Mecha Squad skin.}}
+*24/10/23:
+**{{Balance|Buff|Edgar's Hardcore Gadget health was increased to 2640 (from 2000) and now scales with Power Levels.}}
+**{{Balance|Buff|Edgar's Hard Landing Star Power damage was increased to 1215 (from 1000) and now scales with Power Levels.}}
+**{{Balance|Neutral|The Mecha Edgar Unit-00 and Unit-01 skins were added. They were featured as Mecha Squad skins.}}
+**{{Balance|Neutral|Edgar's flavor text was changed from "Edgy and with a hands-off attitude, Edgar prefers to throw punches with his scarf. With his Super, Edgar jumps into the fray swinging his scarf around himself." to "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal."}}
+*12/12/23:
+**{{Balance|Neutral|Edgar's Outburst Hypercharge was added.}}
+*18/12/23:
+**{{Balance|Nerf|Edgar's Outburst Hypercharge multiplier was decreased to 25% (from 40%).}}
+*27/02/24:
+**{{Balance|Buff|Edgar's Outburst Hypercharge multiplier was increased to 40% (from 25%).}}
+**{{Balance|Buff|Edgar's Outburst Hypercharge speed boost was increased to 24% (from 20%).}}
+**{{Balance|Nerf|Edgar's Let's Fly Gadget no longer charges his Hypercharge.}}
+**{{Balance|Nerf|Edgar's Outburst Hypercharge damage boost was decreased to 15% (from 25%).}}
+**{{Balance|Nerf|Edgar's Outburst Hypercharge shield boost was decreased to 15% (from 25%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+*14/03/24:
+**{{Balance|Neutral|The Thief Edgar skin was added. It was featured as a Sands of Time skin.}}
+*29/10/24:
+**{{Balance|Neutral|Edgar's Let's Fly Gadget and Outburst Hypercharge now add glowing effects upon increasing his Super charge rate.}}
+*07/11/24:
+**{{Balance|Neutral|The Dark Angel, Lightbearer, and Nightbringer Edgar skins were added. They were featured as Angels vs. Demons skins.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Buff|Edgar's Let's Fly Gadget cooldown was decreased to 21 seconds (from 23).}}
+**{{Balance|Buff|Edgar's Hardcore Gadget cooldown was decreased to 17 seconds (from 19).}}
+*01/05/25
+**{{Balance|Neutral|Edgar's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Edgar's Wasabi Power was removed from the game.}}
+*05/06/25:
+**{{Balance|Neutral|The Shin, Drift, and Masked Edgar skins were added. They were featured as Brawl Pass Season 39 skins and Kaiju Invasion skins.}}
+*24/06/25:
+**{{Balance|Buff|Edgar's level up health was increased to 350 (from 250) in [[Brawl Arena]].}}
+*28/10/25:
+**{{Balance|Buff|Edgar's Hard Landing Star Power damage was increased to 1341 (from 1215).}}
+**{{Balance|Buff|Edgar's Fisticuffs Star Power healing boost was increased to 30% (from 25%).}}
+**{{Balance|Buff|Edgar's level up health was increased to 450 (from 350) in Brawl Arena.}}
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Edgar's Outburst Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Edgar's Outburst Hypercharge damage boost from 15%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% shield boost, decreasing Edgar's Outburst Hypercharge shield boost from 15%.}}
+*16/12/25:
+**{{Balance|Buff|Edgar's health was increased to 3600 (from 3300).}}
+**{{Balance|Buff|Edgar's Hardcore Gadget health was increased to 2880 (from 2640).}}
+*23/01/26:
+**{{Balance|Buff|Edgar's health was increased to 3700 (from 3600).}}
+**{{Balance|Buff|Edgar's Hardcore Gadget health was increased to 2960 (from 2880).}}
+*22/04/26:
+**{{Balance|Buff|Edgar's main attack Super charge rate was increased by 5%.}}
+**{{Balance|Buff|Edgar's Let's Fly Gadget cooldown was decreased to 14 seconds (from 21).}}
+**{{Balance|Buff|Edgar's Hard Landing Star Power now deals double damage to enemies in a 1.17-tile radius.}}
+**{{Balance|Neutral|Edgar's Let's Fly Gadget was reworked from increasing his Super charge rate to 525% for 4 seconds to throwing a scarf that Edgar jumps to when it hits an enemy or wall.}}
+**{{Balance|Neutral|Edgar's Super Charge Epic Gear was removed.}}
+**{{Balance|Neutral|Edgar's Buffies were added.}}
+*28/04/26:
+**{{Balance|Neutral|The Bakugo: Edgar skin was added. It was featured as My Hero Academia skin.}}
+*30/06/26:
+**{{Balance|Nerf|Edgar's Let's Fly Gadget cooldown was increased to 18 seconds (from 14).}}
+**{{Balance|Nerf|Edgar's Fisticuffs Star Power Buffie healing from takedowns was decreased to 20% (from 30%).}}
+**{{Balance|Nerf|Edgar's Outburst Hypercharge multiplier was decreased to 33% (from 40%).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Edgar's movement speed to 855 (from 820).}}
+
+==Cosmetics==
+===Skins (18)===
+{{Skin Gallery
+|Name1=Blackbird|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Max Force|Rarity1=Rare
+|Name2=Mecha (Unit-00)|Cost2=49 Gems, available after purchasing Mecha Edgar, or free from Mecha Boxes|Campaign2=Mecha Squad|Rarity2=Legendary
+|Name3=Mecha (Unit-01)|Cost3=49 Gems, available after purchasing Mecha Edgar, or free from Mecha Boxes|Campaign3=Mecha Squad|Rarity3=Legendary
+|Name4=Quickdraw|Cost4=Free from Nano Drops or 79 Gems|Campaign4=Outlaws|Rarity4=Super Rare
+|Name5=Orochi|Cost5=149 Gems • '''S'''|Campaign5=Lunar Brawl|Rarity5=Epic
+|Name6=Doctor|Cost6=Free from Strangest Packs or 149 Gems|Campaign6=Biodome|Rarity6=Epic
+|Name7=Edgar Tata|Cost7=149 Gems|Campaign7=BT21|Rarity7=Epic
+|Name8=Thief|Cost8=Free from Najia Boxes or 199 Gems|Campaign8=Sands of Time|Rarity8=Mythic
+|Name9=Bakugo|Cost9=199 Gems • '''S'''|Campaign9=My Hero Academia|Rarity9=Mythic
+|Name10=Mecha|Cost10=299 Gems or free from Mecha Boxes|Campaign10=Mecha Squad|Rarity10=Legendary
+|Name11=Dark Angel|Cost11=Through chain offer, free from Angelic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign11=Angels vs. Demons|Rarity11=Hypercharge
+|Name12=Lightbearer|Cost12=Through chain offer after obtaining Dark Angel Edgar, free from Angelic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign12=Angels vs. Demons|Rarity12=Hypercharge
+|Name13=Nightbringer|Cost13=Through chain offer after obtaining Dark Angel Edgar and Lightbearer Edgar, free from Angelic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign14=Angels vs. Demons|Rarity13=Hypercharge
+|TrueSkins=yes
+|NameP1=Shin|CostP1 = Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1 = Brawl Pass|CampaignP1_2 = Kaiju Invasion|RarityP1 = Epic
+|NameP2=Drift|CostP2 = Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Kaiju Invasion|RarityP2 = Epic
+|NameP3=Masked|CostP3 = Brawl Pass Plus or free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Kaiju Invasion|RarityP3 = Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Edgar Buffie Skin-Gadget.png|Gadget
+File:Edgar Buffie Skin-Star.png|Star
+File:Edgar Buffie Skin-Hyper.png|Hyper
+File:Edgar Buffie Skin-Bling.png|Bling
+File:Edgar Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Edgar
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Orochi|Happy}}
+{{Pin Table|Doctor}}
+{{Pin Table|Edgar Tata}}
+{{Pin Table|Quickdraw}}
+{{Pin Table|Mecha}}
+{{Pin Table|Mecha (Unit-00)}}
+{{Pin Table|Mecha (Unit-01)}}
+{{Pin Table|Thief|Special}}
+{{Pin Table|Dark Angel}}
+{{Pin Table|Lightbearer|Special}}
+{{Pin Table|Nightbringer|Special}}
+{{Pin Table|Shin|Special}}
+{{Pin Table|Drift|Special}}
+{{Pin Table|Masked|Special}}
+{{Pin Table|Bakugo|GG}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Edgar|Rarity = Common}}
+|{{Spray|Type = Edgar Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Edgar Tata|Rarity = Common}}
+|{{Spray|Type = Mecha Edgar|Rarity = Common}}
+|{{Spray|Type = Thief Edgar|Rarity = Common}}
+|-
+|{{Spray|Type = Dark Angel Edgar|Rarity = Common}}
+|{{Spray|Type = Bakugo Edgar|Rarity = Common}}
+|
+|
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Edgar1}}
+|{{Pfp|Edgar2}}
+|{{Pfp|Edgar3}}
+|{{Pfp|Edgar4}}
+|{{Pfp|Edgar Tata}}
+|-
+|{{Pfp|Mecha Edgar}}
+|{{Pfp|Thief Edgar}}
+|{{Pfp|Orochi Edgar}}
+|{{Pfp|Dark Angel Edgar}}
+|{{Pfp|Doctor Edgar}}
+|-
+|{{Pfp|Shin Edgar}}
+|{{Pfp|Bakugo Edgar}}
+|}
+
+{{Navigation}}
+[[pt:Edgar]]
+[[ru:Эдгар]]

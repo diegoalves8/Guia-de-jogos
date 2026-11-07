@@ -1,0 +1,399 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The beat says YEAH!|PrestigeTitle = Gladiator|Rarity = Mythic|Class = Tank|MovementSpeed = 800 (Fast)<br>1040 (when using charged attack)<br>2400 (jump)|HealthLabel = Health|Health = 5600|AttackRange = 2.67 (Short)|Reload = 1.2 seconds (Very Fast)|AttackSuperCharge = 10.5%<br>12% (charged)<br>2.76%–5.52% (explosion; Power Level 1–11)|AttackLabel = Damage|Attack = 800|AttackLabel2 = Empowered Attack Damage|Attack2 = 880|AttackLabel3 = Explosion Damage|Attack3 = 400|AttackSpeed=5000|SuperSpeed = 1196|SuperRange = 6 (Normal)|SuperSuperCharge = 5%|SuperLabel = Damage|Super = 400|VoiceActor = Steven Jobson|Gadget1Name=Spiritual Healing|Gadget1Label=Heal|Gadget1 = 2560|Gadget1Cooldown=15 seconds|Gadget2Name = Wall of Sound|Gadget2Cooldown=20 seconds|Previous=Najia|Next=Starr Nova|AttackWidth=0.4–2|HyperchargeMultiplier=35%|AttackHyperchargeCharge=3.675%<br>4.197% (charged)<br>1.93% (explosion)|SuperHyperchargeCharge=1.75%|Gadget1Range=7.33|Gadget2Range=7.33|Gadget2Duration=7 seconds|SuperMinionRange=5|SuperMinion=Mosh pit}}
+{{Quote|Damian LOVES to make noise. He fronts a band with his brother, [[Draco]], but music puts him into an uncontrollable rage, where he destroys anything in sight! His shows usually end with him smashing everything near the stage... including other Brawlers.}}{{Portrait}}
+Damian is a {{Rarity|Mythic}} [[Brawler]] who has a variable damage output, high health, great mobility with his fast movement speed, attack and Super, and a very fast reload speed, but a short range. He was the 102nd Brawler added to the game. Damian's Trait allows him to charge his Super from enemies damaging him. He attacks throwing a punch that charges his bar; once it charges, the next attack knocks enemies back, and, after a short delay, they explode. Enemies caught in the radius will explode in a chain reaction. For his Super, he jumps over obstacles, and enemies will be trapped in a large radius when he lands. For his first Gadget, Spiritual Healing, he lobs a microphone that, upon being picked up, heals himself and allies. For his second Gadget, Wall of Sound, he throws a wall of 3 unbreakable speakers. His first Star Power, Crowdkill, temporarily stuns enemies after being knocked back to a wall by his charged attack. His second Star Power, Vulgar Display of Punch, instantly charges his bar during his Super. His Hypercharge, Jump in the Fire, allows his Super to leave a burning area inside the mosh pit, burning enemies in the process.
+
+==Trait==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Damian takes damage from enemy Brawlers or spawnables, he charges his Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Damian's max health of damage to charge his Super completely, and all damage is calculated after shielding and other effects.
+
+==Attack: Power Trio==
+{{Quote|Damian throws a vicious punch. After 2 punches in a row, his next attack is an explosive kick that knocks back enemies sets them on fire. After a delay, this fire explodes and spreads to nearby enemies.}}
+Damian initially throws a close-ranged, piercing punch that deals low damage. When Damian hits a punch, he will fill a bar by 50%, and if he hits the next punch, the bar will fill, empowering his next attack. This causes the next attack to deal extra damage, knock back enemies 4 tiles, and marking them. This mark causes an 2.67-tile radius explosion centered on the enemy after a 1.5-second delay, or instantly if they die from the punch. Any other target that is hit by the explosion but survives will also be marked and explode themselves after the delay. However, if they are defeated from other sources of damage during the delay, or if Damian himself is defeated, the explosion will not trigger. The explosion's Super charge rate scales with Power Levels, and also with any damage buff or debuff.
+
+When it's charged up and ready, the bar slowly depletes over a 5-second time span, and once it's empty, he loses the empowered attack and must charge it again. However, the bar does not decay while partially charged. Hitting multiple enemies in one attack will instantly charge the bar, though it will not instantly use the empowered attack if three or more enemies are hit. Missing an attack will fully deplete the bar regardless of its progress, meaning Damian can waste his empowered attack if he hits no enemies. Despite that, he gains a 30% speed boost for 1.5 seconds when he uses the empowered attack, regardless of whether it lands or not.
+
+For both attacks, the projectile increases in width the farther it travels. Both of the attacks have an extremely short cooldown, taking 0.2 seconds to complete.
+
+==Super: Mosh Pit==
+{{Quote|Damian leaps and creates a personal Mosh Pit lasting 5 seconds. Inside the pit, enemies are knocked back when hitting speakers, dealing 800 Damage.}}
+Damian jumps a long distance, staying airborne for 1 second, regardless of the distance traveled. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Damian is completely immune to all damage besides status effects and damage applied over time. Upon landing, he creates a mosh pit in a large circle centered on him, with the boundaries of the circle consisting of 10 sets of speakers. The speakers are similar to walls, except they only last 5 seconds, do not impede the movement or projectiles of Damian and his teammates, and can be destroyed, having 1500 health. Since they are actually spawnables with health, attacks that can break walls will not instantly destroy the speakers, instead both piercing and damaging them. Using another Super or being defeated will instantly make the current set of speakers disappear. 
+
+The speakers have an effect on Brawlers that touch them depending on their position: if they are outside the mosh pit, they are knocked away with no damage, but if they are inside it, they take moderate damage and are launched in the air and pushed towards the center by 1.4 tiles. The speakers will also knockback Brawlers they spawn on top of toward the center, increasing the Super's effective range. While in the air, the enemies can't move or use their attack, Super, Gadget, or Hypercharge, but will be completely immune to all damage besides status effects and damage applied over time. Enemies can be pulled over walls and other obstacles; if required to cross over a larger amount of blocks or over lakes (including the speakers themselves), their travelling distance will be increased up to a limit or to the nearest piece of ground. The speakers will break instantly when knocking back an enemy from the inside, but not when pushing them from the outside.
+
+==Gadgets==
+===Spiritual Healing===
+{{Quote|Damian throws his microphone to a target location. The first teammate to pick it up is healed for 3200 health. Cooldown: 15 seconds.}}{{Gadget|1}}
+When aiming using the Gadget button, Damian lobs a microphone that heals himself and allies when picked up after a short delay. The microphone can be picked up even if the player that picked it up is at full health.
+
+===Wall of Sound===
+{{Quote|Damian summons a temporary wall of indestructible amps! Cooldown: 20 seconds.}}{{Gadget|2}}
+When aiming using the Gadget button, Damian creates a wall of 3 speakers each covering a tile that lasts for 7 seconds. Despite what the description may imply, this wall acts like any other wall in the game and can be destroyed with wall-breaking abilities. The spawn pattern of the walls is always a line, roughly perpendicular to the direction he throws them. Unlike [[Sprout]]'s walls, these walls will not be destroyed upon reaching overtime in [[Brawl Ball]]. 
+
+==Star Powers==
+===Crowdkill===
+{{Quote|Knocking a target onto a wall stuns them for 0.5 sec.}}{{StarPower|1}}
+When Damian knocks a target onto a wall with the charged attack, they will be stunned for 0.5 seconds. The speakers from his Super do not count for this effect.
+
+===Vulgar Display of Punch===
+{{Quote|Damian has a flaming fist during his Super, which burns enemies.}}{{StarPower|2}}
+When Damian uses his Super, he instantly charges his bar and his next attack is empowered.
+
+==Hypercharge: Jump in the Fire==
+{{Hypercharge}}
+{{Quote|Damian's Super also sets the ground on fire when he lands, dealing 1200 damage per sec to enemies caught in his mosh pit!}}
+When activated, Damian's Super leaves a burning area on the ground that lasts for 4 seconds, dealing 1200 damage every second while an enemy remains standing on the area. Just like his super, the burning area disappears when Damian is defeated. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*At the start of the match, try to use the Tank trait to get your first Super. Once you have the Super, you can launch yourself into the enemies to easily attack and regain another Super.
+*When you are using the Wall of Sound Gadget, make sure the rotation of the wall is correct (horizontal or vertical).
+*If you are playing [[Gem Grab]] and you are the Gem carrier, you can use the Super to defend yourself by moving to a safe place. The walls created by the Super will impede the opponents from reaching you.
+**Alternatively, you can use the Super to move to the place with a lot of enemies to make it difficult for them to leave the area, which will lessen the number of opponents your team's Gem carrier has to deal with. 
+*Try to land the Super in such a way that the enemies are located on the rim of the Super so they take damage and get knocked in to you for colliding with the boomboxes.
+*In [[Brawl Arena]], make full use of the bots to chain your explosions off of; not only can the do immense chain damage when positioned near a turret, but they can function as handy ways of spreading the explosions to opponents just out of your reach, seeing as they're launched slightly further than brawlers. All of these explosions also help Damian charge his Super extremely fast.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 01.ogg|Filedescription = "Ooh ahaha! Bringing that berserker energy!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 01.ogg|Filedescription = "Metal heart ready for launch!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 01.ogg|Filedescription = "The arena is mine!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 01.ogg|Filedescription = "This orbit is mine!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 01.ogg|Filedescription = "Ooh, is that your best?"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space hurt vo 01.ogg|Filedescription = "Whole scratch, nothing more."}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 01.ogg|Filedescription = "The crowd wants more!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 06.ogg|Filedescription = "The crowd wants a moonwalk!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 01.ogg|Filedescription = "The arena fades!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 01.ogg|Filedescription = "Mission control falls silent!"}}
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space atk vo 01.ogg|Filedescription = "Orbital strike!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 01.ogg|Filedescription = "Berserker bro!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 01.ogg|Filedescription = "Thrusters of fury!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 02.ogg|Filedescription = "Ooh, another match, another legend!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 10.ogg|Filedescription = "Another mission, another legend!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 02.ogg|Filedescription = "Now, try to keep up, little brothers."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 03.ogg|Filedescription = "Tough as moon rock!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 02.ogg|Filedescription = "Haha, you'll pay for that."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space hurt vo 02.ogg|Filedescription = "Barely felt it through the suit."}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 02.ogg|Filedescription = "One down, crowd's screaming!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 02.ogg|Filedescription = "Eat space dust!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 02.ogg|Filedescription = "The crowd falls silent!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 02.ogg|Filedescription = "Ground control the metal heart, ugh."}}
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space atk vo 02.ogg|Filedescription = "Thruster punch!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 02.ogg|Filedescription = "Behold the metal heart!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 02.ogg|Filedescription = "Thruster overload!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 03.ogg|Filedescription = "Let's get physical!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 03.ogg|Filedescription = "Even the stars are on my side!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 03.ogg|Filedescription = "Another arena, another conquest!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 02.ogg|Filedescription = "Another galaxy, another conquest!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 03.ogg|Filedescription = "That all you got?"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space hurt vo 03.ogg|Filedescription = "I used to rock. Now, I'm rattled!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 03.ogg|Filedescription = "Yeah, berserker bro beats Brawler!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 03.ogg|Filedescription = "Zero-G, zero chance!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 03.ogg|Filedescription = "Just... a dramatic pause!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 03.ogg|Filedescription = "Losing thruster control!"}}
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space atk vo 03.ogg|Filedescription = "Comet kick!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 03.ogg|Filedescription = "Berserker mode engaaaaaged!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 03.ogg|Filedescription = "Going orbital!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 04.ogg|Filedescription = "Metal heart, ready to start!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 04.ogg|Filedescription = "Encore? Nah, you're spaced."}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 04.ogg|Filedescription = "Tough as a rock, sharp as steel."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 04.ogg|Filedescription = "Ground control goes wild!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 04.ogg|Filedescription = "Ohohoho, lucky shot, won't happen again!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space hurt vo 04.ogg|Filedescription = "Back off, or I'll go supernova!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 04.ogg|Filedescription = "Ah, you got too close. Nap time."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 04.ogg|Filedescription = "Orbital knockout!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 04.ogg|Filedescription = "Brothers, I'll be back!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 04.ogg|Filedescription = "Uh, oxygen low!"}}
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space atk vo 04.ogg|Filedescription = "Meteor mash!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 04.ogg|Filedescription = "Flames of furyyyy!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 04.ogg|Filedescription = "Mission overdrive!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 05.ogg|Filedescription = "Another round, another roar." *roars*}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 12.ogg|Filedescription = "Another orbit, another roar." *roars*}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 05.ogg|Filedescription = "Haha, the crowd goes wild!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 05.ogg|Filedescription = "Zero-G belongs to me!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 05.ogg|Filedescription = "Nice try, my turn!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space hurt vo 05.ogg|Filedescription = "Still floating, still fighting!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 05.ogg|Filedescription = "Sorry, I don't know my own strength!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 05.ogg|Filedescription = "Enjoy the vacuum!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 05.ogg|Filedescription = "That was just the intro!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 05.ogg|Filedescription = "Oxygen low!"}}
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space atk vo 05.ogg|Filedescription = "Gravity smash!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 05.ogg|Filedescription = "Unleash the berserk bro!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 05.ogg|Filedescription = "Space rage!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 06.ogg|Filedescription = "MadEvil Manor in the house!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 06.ogg|Filedescription = "Metal heart still beating in a vacuum."}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 06.ogg|Filedescription = "Still standing, still swinging!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 06.ogg|Filedescription = "Orbital rock star in the house!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 06.ogg|Filedescription = "Ooh, you're gonna regret that."}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 06.ogg|Filedescription = "Stay down, show's over."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 01.ogg|Filedescription = "Oh, stand down. Mission's over."}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 06.ogg|Filedescription = "Metal heart, ready to restart!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 06.ogg|Filedescription = Damian screams}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 06.ogg|Filedescription = "Hear the beat, feel the fury!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 06.ogg|Filedescription = ''Gravity crush!''}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 07.ogg|Filedescription = "Brothers watching, got to represent!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 07.ogg|Filedescription = "Ground control to metal heart!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 07.ogg|Filedescription = "Who's the strongest, now?"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space lead vo 07.ogg|Filedescription = "Top of the flight log!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 07.ogg|Filedescription = "My heart is unbreakable, but keep trying!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 07.ogg|Filedescription = "My bad, I'll be gentle next time!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 07.ogg|Filedescription = "Brothers saw that from ground control!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 07.ogg|Filedescription = "Metal heart torn apart!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space dies vo 07.ogg|Filedescription = Damian screams}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 07.ogg|Filedescription = "No holding baaaack!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 07.ogg|Filedescription = "Supernova slam!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 08.ogg|Filedescription = "Crowd's waiting, so am I!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 08.ogg|Filedescription = "Commander Damian reporting!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 08.ogg|Filedescription = "Even the pits are on my side!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 08.ogg|Filedescription = "Barely felt it!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 08.ogg|Filedescription = "Brothers are gonna love this."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 08.ogg|Filedescription = "Don't mess with the space bro!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 08.ogg|Filedescription = "Argh, see you in the next round."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 08.ogg|Filedescription = "Berserker broooo!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space ulti vo 08.ogg|Filedescription = "Space bro!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 09.ogg|Filedescription = "Hitting the stage, and hitting them hard!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 09.ogg|Filedescription = "Bringing that Zero-G energy!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian lead vo 09.ogg|Filedescription = "Oh, look! I'm amazing."}}
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 09.ogg|Filedescription = "Metal heart never taps out."}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 09.ogg|Filedescription = "Encore? Nah, you're done."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space kill vo 09.ogg|Filedescription = "Zero gravity, zero mercy!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 09.ogg|Filedescription = "Applause for the comeback!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 09.ogg|Filedescription = "Rhythm and raaaage!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 10.ogg|Filedescription = "Mmm, let's make some noise!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 05.ogg|Filedescription = "Re-entry rage!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian hurt vo 10.ogg|Filedescription = "Back off, or I'll go berserk!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 10.ogg|Filedescription = "And be seeing ya!"}}
+|'''Normal:'''
+{{Ogg|Filename = damian dies vo 10.ogg|Filedescription = "Time for another bro to steal the show."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 10.ogg|Filedescription = "MadEvil maniac!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 11.ogg|Filedescription = "This bro is ready for the show!"}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 11.ogg|Filedescription = "I'm ready for launch!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 11.ogg|Filedescription = "Don't mess with a brawling berserker, bro!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 11.ogg|Filedescription = "Heart made of steel, nothing feels more real!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = damian start vo 12.ogg|Filedescription = "Ha ha ha! Draco and Lumi sitting in a tree."}}'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 02.ogg|Filedescription = "Draco and Lumi, sitting in a rocket."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = damian kill vo 12.ogg|Filedescription = "Ah, two thumbs down for you!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = damian ulti vo 12.ogg|Filedescription = "Mosh pit!"}}
+|-
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 13.ogg|Filedescription = "MadEvil Manor into stratosphere!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 14.ogg|Filedescription = "In space, everyone can hear Damian roar!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 15.ogg|Filedescription = "This bro is ready for liftoff!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Terrornaut:'''
+{{Ogg|Filename = damian space start vo 16.ogg|Filedescription = "Let's get orbital!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==Damian Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Damian}}
+
+==History==
+*23/04/26:
+**{{Balance|Content=Damian became available in [[Training Cave]].|Change=Neutral}}
+*24/04/26:
+**{{Balance|Content=Damian could be unlocked early from [[Brawl Boxes|Damian Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+**{{Balance|Neutral|Damian's Jump in the Fire Hypercharge was added.}}
+*28/04/26:
+**{{Balance|Nerf|Damian's Super damage was decreased to 600 (from 700).}}
+**{{Balance|Nerf|Damian's Super jump range was decreased to 6 tiles (from 8.67).}}
+**{{Balance|Nerf|Damian's main attack explosion damage was decreased to 500 (from 800).}}
+**{{Balance|Neutral|Fixed a server error that could occur when Damian's Super was held at the top corner of the map.}}
+**{{Balance|Neutral|Fixed Damian's Super wall damage bypassing damage reduction, immunity, and Shield Gear.}}
+**{{Balance|Neutral|The visuals for Damian's bar were reworked.}}
+*05/05/26:
+**{{Balance|Neutral|Damian became available in the Starr Road.}}
+*13/05/26:
+**{{Balance|Buff|Damian's Hypercharge multiplier was increased to 35% (from 20%).}}
+**{{Balance|Nerf|The number of his necessary to charge Damian's Super with his normal attacks was increased to 10 hits (from 7).}}
+**{{Balance|Nerf|Damian's empowered attack damage was decreased to 1000 (from 1200).}}
+**{{Balance|Nerf|Damian's empowered attack Super charge rate was decreased by 25%.}}
+**{{Balance|Nerf|Damian's Super charge rate from explosions was decreased by 65.5%.}}
+**{{Balance|Nerf|Damian's main attack explosion delay was increased to 1.5 seconds (from 0.75).}}
+**{{Balance|Nerf|Damian no longer reloads faster while his charged attack is active.}}
+**{{Balance|Nerf|Damian's level up damage was decreased to 3% (from 5%) in [[Brawl Arena]].}}
+*30/06/26:
+**{{Balance|Buff|Damian's Super damage was increased to 800 (from 600) per bounce.}}
+**{{Balance|Buff|Damian's Hypercharged Super damage was increased to 1200 per second (from 800).}}
+**{{Balance|Nerf|Speakers created by Damian's Super break after one bounce.}}
+**{{Balance|Nerf|Damian's level up damage was decreased to 1% (from 3%) in Brawl Arena.}}
+**{{Balance|Nerf|Damian's level up health was decreased to 500 (from 750) in Brawl Arena.}}
+**{{Balance|Neutral|Damian's True Silver and True Gold skins were added.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed a bug where Damian's empowered attack had no unload speed after a main attack.}}
+**{{Balance|Neutral|Fixed a bug where Damian's empowered attack would not occur if he unloaded his main attacks too quickly.}}
+*04/08/26:
+**{{Balance|Nerf|Damian's empowered attack damage was decreased to 800 (from 1000).}}
+**{{Balance|Nerf|Damian's main attack explosion damage was decreased to 400 (from 500).}}
+**{{Balance|Nerf|Damian's speaker damage was decreased to 400 (from 800).}}
+**{{Balance|Nerf|Damian's speaker health was decreased to 1500 (from 2000).}}
+*01/09/26:
+**{{Balance|Buff|Damian's Hypercharged Super burning area can now hit up to 4 times (from 3).}}
+**{{Balance|Nerf|Damian's Hypercharged Super burning area now disappears when Damian is defeated.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Damian's movement speed to 800 (from 770).}}
+*01/10/26:
+**{{Balance|Neutral|The Terrornaut Damian skin was added. It was featured as a Brawl-o-ween skin.}}
+*03/11/26:
+**{{Balance|Buff|Damian's main attack damage was increased to 800 (from 700).}}
+**{{Balance|Buff|Damian's empowered attack damage was increased to 880 (from 800).}}
+**{{Balance|Nerf|Damian's Super jump speed was decreased to 2400 (from 3000).}}
+**{{Balance|Neutral|Fixed Terrornaut Damian's hair in-game.}}
+
+==Cosmetics==
+===Skins (3)===
+{{Skin Gallery
+|Name1=Terrornaut|Cost1=Free from Coffin Boxes or 299 Gems • '''S'''|Campaign1=Brawl-o-ween|Rarity1=Legendary
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Damian
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Damian|Rarity = Common}}
+|{{Spray|Type = Damian Dragon|Rarity = Common}}
+|{{Spray|Type = Damian Boombox|Rarity = Common}}
+|{{Spray|Type = Damian Hypercharge|Rarity = Exclusive}}
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Damian1}}
+|{{Pfp|Damian2}}
+|{{Pfp|Damian3}}
+|{{Pfp|Damian4}}
+|}
+
+{{Navigation}}
+[[Category:Brawlers]]
+[[Category:Mythic Brawlers]]
+[[Category:Tank Brawlers]]
+[[ru:Дамиан]]

@@ -1,0 +1,332 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Quake
+|image  = <gallery>
+Quake Fruit.png|Fruit Icon
+New quake fruit gif.gif|Fruit GIF
+Quake.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = no
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 1,000,000
+|robux  = 1,500
+}}
+{{Quote|Provides the ability to create shockwaves, dealing massive area damage.|Shop}}
+'''Quake''' is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,000,000}} or {{Robux|1,500}} from the [[Blox Fruit Dealer]].
+
+Quake grants the user the ability to create shockwave attacks, causing devastating damage. With these powers, the user can cause tsunamis that can sweep away entire islands of enemies. 
+
+==Awakening==
+Quake costs {{Fragment|17,000}} to fully [[Raids|awaken]].
+
+{{Title|The Strongest One}} (#033) [[Titles|title]] will be granted upon awakening at least one move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z | 1,000
+|move3 = X | 3,000
+|move4 = C | 5,000
+|move5 = V | 8,000
+}}
+
+==Abilities==
+{{Tabber
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Quake Punch
+|mastery  = 1
+|cooldown = 10.5
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged if far enough. Can also rarely be dodged on the edge.
+|gif      = QuakeV1Zmove
+|desc     = The player charges an energy ball and cracks the air, dealing decent damage. This move also shakes the enemy's screen and has high knockback. However, the hitbox is relatively small and has a small startup, making it harder to land on players.
+}}
+
+{{Skill
+|key      = X
+|name     = Quake Wave
+|mastery  = 50
+|cooldown = 13.5
+|energy   = 25
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Quake_skill_c
+|desc     = The player charges an energy ball on their hand and launches a huge quake sphere towards the target that does decent amount of damage. The move shakes the opponent's screen in the process. The sphere is slow-moving and pushes away enemies slightly.
+}}
+
+{{Skill
+|key      = C
+|name     = Quake Erupt
+|mastery  = 100
+|cooldown = 18
+|energy   = 35
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = QuakeV1C
+|desc     = The player holds two quake spheres on their hands and smashes the ground, doing great damage in an area around them. This move has a small startup.
+}}
+
+{{Skill
+|key      = V
+|name     = Dual Tsunami
+|mastery  = 150
+|cooldown = 31.5
+|energy   = 50
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Quake_skill_v
+|gif2     = Quake_V1_Dual_Tsunami_Full_Preview
+|desc     = The player creates a quake sphere in their right arm and then cracks the air. After a while, two tsunamis from both sides will come, dealing high damage to anyone in their way.
+|desc2    = The tsunami.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Fatal Demolisher
+|mastery  = 1
+|cooldown = 10
+|energy   = 15
+|frag     = 1,000
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Fatal Blow
+|desc     = The user pulls their opponent towards them, dealing very low damage at first, then punches them, leaving cracks on both parties' screen and turning their screen blue, and then finally launches the opponent away from them dealing high damage to the target and shaking both parties' screen. When the user launches the target away from them, the screen will turn red for both players and will also leave cracks on their screen.
+}}
+
+{{Skill
+|key      = X
+|name     = Air Crusher
+|mastery  = 50
+|cooldown = 12.75
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Air Bend-
+|desc     = The user charges an energy ball in their left hand and then launches a large spherical orb of energy at the target, dealing medium-high damage and shaking the opponent's screen.
+}}
+
+{{Skill
+|key      = C
+|name     = Spatial Shockwave
+|mastery  = 100
+|cooldown = 17.25
+|energy   = 35
+|frag     = 5,000
+|break    = Yes
+|instinct = Can rarely be dodged on the edge.
+|gif      = Spatial Shove
+|desc     = The user grasps two balls of energy in their hands. After 0.75 seconds, the user creates a large shockwave around themselves which deals heavy damage and high knockback. This move causes intense shaking to anyone within the move's hitbox.
+}}
+
+{{Skill
+|key      = V
+|name     = Seaquake
+|mastery  = 150
+|cooldown = 28.5
+|energy   = 50
+|frag     = 8,000
+|break    = Yes
+|instinct = The stun and the waves [[Instinct/Break|break Instinct]] no matter what. However, if used in the air, the user falling to the ground can rarely be dodged on the edge.
+|gif      = Sea Tremble
+|desc     = The user smashes the ground, stunning the opponent(s) and dealing damage while also bringing forth four slightly bigger tsunamis, each coming from every direction (causes stuns and shaking). If this move is used in the air, the user will come down onto the ground at a high speed and then smash the ground, pulling anyone in their way down with them. If the user isn't able to touch the ground (e.g. if they're above the [[Water|Sea]]), the tsunamis and ground smash won't show, thus making the move useless.
+}}
+}}
+
+==Overview==
+<tabber> 
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Good damage.
+* Most moves have powerful knockbacks.
+* All moves can [[Instinct/Break|break Instinct]].
+* Very easy to use.
+
+|'''[Z] Quake Punch'''
+* Decent [[Area of Effect|AoE]]
+* Quite wide hitbox compared to its visuals.
+
+|'''[X] Quake Wave'''
+* Good range.
+
+|'''[C] Quake Erupt'''
+* Decent [[Area of Effect|AoE]].
+
+|'''[V] Dual Tsunami'''
+* Extremely large [[Area of Effect|AoE]].
+* Breaks Instinct no matter what.
+* Very high damage.
+* Tsunami are not bound to physics, and can be summoned at any height.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* No mobility.
+* Long cooldown on all moves.
+* Mostly close-ranged.
+* Hard to use in [[Water]], unless the user has [[Shark]] V2 and above.
+* Quake moves also shake the users’ screen while they're being used.
+* Knockback makes it less viable in grinding.
+* Moves have long delays, making the player vulnerable.
+
+|'''[Z] Quake Punch'''
+* Long start-up.
+* Huge knockback.
+
+|'''[X] Quake Wave'''
+* The energy ball is slow.
+
+|'''[C] Quake Erupt'''
+* High knockback.
+
+|'''[V] Dual Tsunami'''
+* Can be easily dodged with any move that has vertical mobility.
+* Needs to be close to a surface, so the move doesn't fail.
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Shorter cooldowns compared to its Unawakened version.
+* All moves deal extreme damage, depleting opponent HP very quickly if not careful.
+* All moves can [[Instinct/Break|break Instinct]], and cannot be instinct tricked.
+* All moves have large hitboxes.
+
+|'''[Z] Fatal Demolisher'''
+* Gives damage immunity when the user hits a target.
+* No endlag.
+* Short cooldown.
+* Strong hitscan.
+* Perfect combo starter, ender, and extender.
+
+|'''[X] Air Crusher'''
+* Good [[Area of Effect|AoE]].
+* Good range.
+* Slightly stuns the opponent at the push.
+* Extends roughly 30% farther than its visuals.
+* Very high damage.
+
+|'''[C] Spatial Shockwave'''
+* Good [[Area of Effect|AoE]].
+* Can be used as a counter move if the opponent comes too close to the user.
+* Very high damage.
+
+|'''[V] Seaquake'''
+* High stun. (1.5 seconds), often ending fights once landed.
+* Extremely high damage, with both the slam and tsunamis combined easily dealing over half a player's HP.
+* The ground slam and the waves have an extremely wide hitbox.
+* Can be used aerially, dragging opponents down with the user if near them.
+* Good damage.
+* Largest [[Area of Effect|AoE]] in the game.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* No mobility.
+* Hard to use in [[water]], unless the user has [[Shark]] V2 and above.
+* All moves have decent or high knockback.
+
+|'''[Z] Fatal Demolisher'''
+* Single-target.
+* Cannot hit [[Sea Beast]]s.
+
+|'''[X] Air Crusher'''
+* Unfairly forced end-lag. (About 0.5 seconds).
+** If the user uses flashstep to avoid it, they will be teleported back.
+* The energy ball is not very quick.
+
+|'''[C] Spatial Shockwave'''
+* Bad start-up.
+* Vulnerable to counterattack if missed.
+* As of recent updates. [[AoE]] is not considered very remarkable.
+
+|'''[V] Seaquake'''
+* Needs to be close to the ground.
+* Tsunami can be easily dodged with a mobility move.
+* Due to the heights battles take place at, the move often never gets to hit the floor on its own, requiring support via [[Sword]] or [[Flash Step]].
+}}
+}}
+</tabber>
+
+==Trivia==
+* Although Quake's awakened {{Ability|V|1}} has two extra tsunamis, they do less total damage than Quake's unawakened {{Ability|V}}. 
+* Quake shares its price with [[Bisento]].
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} '''[Z] Fatal Demolisher''' damage increased by 20%; end-lag decreased by 70%.
+* {{Arrow|buff}} '''[X] Air Crusher''' damage increased by 40%; wind-up decreased by 30%; end-lag decreased by 30%.
+* {{Arrow|buff}} '''[C] Spatial Shockwave''' damage increased by 40%; wind-up decreased by 30%; end-lag decreased by 30%.
+* {{Arrow|buff}} '''[V] Seaquake''' damage increased by 20%.
+
+|-|24=
+{{Update|24}}
+* Quake Icon was remade.
+: <gallery>
+Quake Icon (Old).png|Old Quake Fruit's icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Quake Fruit's model was remade.
+: <gallery>
+Quake 150x150.png|Old Quake Fruit's model.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Unawakened Quake's moves were reworked.
+
+|-|12=
+{{Update|15}}
+* {{Arrow|buff}} Awakened [V]'s cooldown has been reduced.
+
+|-|12=
+{{Update|12}}
+* Awakened Quake was nerfed.
+** {{Arrow|nerf}} Slightly reduced damage.
+** {{Arrow|nerf}} Added some end-lag to '''[Z] Fatal Demolisher''' (V2).
+** {{Arrow|nerf}} '''[X] Air Crusher''' and '''[C] Spatial Shockwave''' (V2) has a longer wind up.
+** {{Arrow|nerf}} Decreased the hitbox and speed of '''[X] Air Crusher''' (V2).
+
+|-|11=
+{{Update|11}}
+* Tremor-Tremor was renamed to Quake.
+* Quake received an [[Raids|awakening]].
+* {{Arrow|buff}} Decreased the cooldown of '''[V] Dual Tsunami'''.
+|-|3.5=
+{{Update|3.5}}
+* {{Arrow|buff}} '''[X] Tremor-Tremor Wave''' now [[Instinct/Break|breaks instinct]].
+
+|-|2=
+{{Update|2}}
+* {{Arrow|neutral}} Increased cooldown, and decreased range.
+* {{Arrow|buff}} Decreased the cooldown of '''[V] Dual Tsunami'''.
+
+|-|1=
+{{Update|1}}
+* Tremor-Tremor was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Дрожь]]

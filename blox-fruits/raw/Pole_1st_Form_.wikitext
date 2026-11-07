@@ -1,0 +1,131 @@
+{{Tabber V2
+|tab1 = Pole (1st Form)
+|tab2 = Pole (2nd Form)
+}}
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Pole (1st Form)
+|image     = <gallery>
+Pole (1st Form).png|Icon
+Polenewupdate1.png|In-Game
+polenewupdate2.png|Held
+Pole (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 3
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Upper Skylands
+|obtain    = Dropped
+|source    = [[Lightning God]]
+|chance    = 6%
+}}
+{{Quote|Gives off a feint buzz of electricity. Very blunt.|Item}}
+The '''Pole (1st Form)''' is a {{Legendary}} [[sword]].
+
+Despite it being {{Legendary}} rarity, it is outclassed by almost all other swords of its rarity, worse than even most {{Rare}} swords, and comparable to {{Uncommon}} swords at best.
+
+It has extremely slow attacks, with subpar range and endlag. It is often only used to obtain [[Pole (2nd Form)]].
+
+==Obtainment==
+The Pole (1st Form) can be obtained with a 6% chance after defeating [[Thunder God]], who is located at the [[Upper Skylands]] in the [[First Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Pole V1 M1
+|desc     = The player swings 3 times, ending with a sweep.
+}}
+
+{{Skill
+|key      = Z
+|name     = Explosive Cloud
+|mastery  = 80
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Pole Z
+|desc     = The user waves the pole in the air, shooting out a small dark cloud from the top in the direction of their cursor. Once it reaches its maximum distance or hits a surface, it will create an electric explosion that deals decent damage and stuns the enemy for a bit.
+}}
+
+{{Skill
+|key      = X
+|name     = Lightning Rain
+|mastery  = 180
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Pole X
+|desc     = The user waves the pole in the air, creating a small cloud at their cursor. The cloud will then strike down three bolts of lightning which hit enemies below it, dealing decent damage.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Decent damage.
+* Low mastery requirements.
+* Long model, allowing the user to hit their enemies from a longer distance.
+
+|'''[Z] Explosive Cloud'''
+* Decent [[AoE]].
+* Decent stun.
+
+|'''[X] Lightning Rain'''
+* Decent stun.
+* Can be used as a combo starter.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Blade]] users are immune.
+* Mediocre stuns.
+* Moves have small [[AoE]].
+* Slow M1 attacks.
+* Moves can be easily escaped from.
+* Weak in PvP.
+
+|'''[Z] Explosive Cloud'''
+* Very easy to dodge.
+* Long cast delay.
+
+|'''[X] Lightning Rain'''
+* Useless when used under buildings with low roofs, similar to [[Lightning]]'s [X] move.
+* Terrible damage.
+}}
+</tabber>
+
+==Trivia==
+* The Pole (1st Form) can be upgraded to its second form [[Pole (2nd Form)]] by getting struck by a lightning in [[Rough Sea]] while holding Pole (1st Form).
+* You need at least 180 mastery on Pole (1st Form) to get [[Pole (2nd Form)]].
+* The inventory description states the [[Swords|sword]] is blunt, but due to the revamped model, it appears sharp, like a spear.
+
+==Change History==
+{{Change History|3|content=
+{{Update|24}}
+* The Pole's model was revamped.
+<gallery>
+Pole (1st Form) Icon (Old).png|Old Pole's model.
+</gallery>
+----
+{{Update|20}}
+* The Pole's moves were revamped.
+----
+{{Update|3}}
+* The Pole was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

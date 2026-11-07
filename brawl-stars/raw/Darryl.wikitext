@@ -1,0 +1,338 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Pirrrate!|PrestigeTitle = The Captain|Rarity = Super Rare|Class = Tank|MovementSpeed = 800 (Fast)<br>2400 (with Super)|HealthLabel = Health|Health = 5500|AttackRange = 6 (Normal)|Reload = 1.8 seconds (Normal)<br>0.9 seconds (with Rolling Reload)|AttackBullets = 10|AttackSuperCharge = 5.1%|AttackLabel = Damage per shell|Attack = 240|SuperRange = 7 (Long)|SuperSuperCharge = 9.075%|SuperLabel = Damage|Super = 720|SuperNumber = 2|AttackSpread=40°|AttackSpeed=4000|VoiceActor=Martin Schjøler|Gadget1Name = Recoiling Rotator|Gadget1 = 480|Gadget1Label= Damage per bullet|Gadget1Cooldown = 12 seconds|Gadget2Name = Tar Barrel|Gadget2Cooldown = 15 seconds|HyperchargeMultiplier=30%|Previous=Rico|Next=Penny|AttackHyperchargeCharge=1.525%|SuperHyperchargeCharge=2.7%|Gadget2Range=2.33|Gadget1Range=8.33}}
+{{Quote|Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?}}
+{{Portrait}}
+Darryl is a {{Rarity|Super Rare}} [[Brawler]] who has high health, great mobility with his fast movement speed and his Super, a medium range, and a high damage output at close range, but a moderately slow reload speed. He was the 19th Brawler added to the game. His Trait allows his Super and Hypercharge to charge automatically over time. He attacks by shooting shotgun shells that deal very high damage at close-range. His Super allows him to roll a long distance, damaging enemies, bouncing off of walls, gaining a significant damage-reduction shield while rolling, and has two rolls that can be individually used. His first Gadget, Recoiling Rotator, allows Darryl to spin around and shoot a barrage of pellets around him that slightly charge his Super. His second Gadget, Tar Barrel, emits tar around him that slows enemies. His first Star Power, Steel Hoops, grants him a small shield for a couple of seconds after his Super finishes rolling. His second Star Power, Rolling Reload, momentarily doubles his reload speed after using his Super. His Hypercharge, Barrel o' Bullets, makes Darryl's Super shoot a barrage of pellets around him that behave identically to his first Gadget.
+
+==Trait==
+{{Quote|This Brawler charges Super over time.}}{{Trait|Auto}}Darryl's Super will charge itself over time. His Super charges 3.3% per second, but his Hypercharge charges 0.9% per second due to rounding errors, so it takes roughly 30.3 seconds to fully charge his Super and 1 minute and 51.1 seconds to fully charge his Hypercharge without other Super-charging abilities.
+
+==Attack: Double Deuce==
+{{Quote|Darryl's double barrel shotguns fire two staggered blasts of heavy close-range damage.}}Darryl fires 10 medium-ranged shells in 2 waves from his shotguns that deal medium-high damage. This attack deals more damage at close range because more shells can hit the enemy, dealing heavy damage at point-blank range. This attack has a moderate cooldown, and it takes 0.55 seconds to complete.
+
+==Super: Barrel Roll==
+{{Quote|Darryl rolls forward inside his barrel, knocking back enemies, reducing incoming damage and bouncing off walls. His Super recharges over time!}}Darryl rapidly rolls a distance of 7 tiles, bouncing off walls and gaining a 50% damage reduction shield for 0.9 seconds. He can roll over water, but not through rope fences or other obstacles. Rolling over water can extend his Super range to a certain amount. Enemies hit by a rolling Darryl get knocked back and take minor damage. Darryl can pierce through multiple enemies in one roll and can damage the same enemy multiple times by bouncing off walls. He can use his Super twice after it is charged. A number under the Super icon indicates how many rolls are left to be used. His Super will deactivate once he uses all two rolls.
+
+==Gadgets==
+===Recoiling Rotator===
+{{Quote|Darryl spins around and sprays a barrage of shots in all directions. Each shot deals 600 damage and recharges his Super by 25% if it hits enemies!  Cooldown: 12 seconds.}}{{Gadget|1}}Darryl spins in a circle, quickly unloading 15 single shells around himself. Each shell deals 25% more damage than one from his attack, has a range of 8.33 tiles, and charges 25% of his Super if it hits an enemy. The first shell shoots directly to the right, and each one after is shot 25 degrees clockwise of the previous. This Gadget can cancel his attack when it is used, and does not contribute to charging his Hypercharge. 
+
+===Tar Barrel===
+{{Quote|Darryl creates a slowing area around himself for 5 seconds. Cooldown: 15 seconds.}}{{Gadget|2}}Darryl emits a 2.33-tile radius of slowing tar all around him that moves with him. The tar lasts for 4 seconds, and slows for 350 points for 1 second on contact, resulting in up to 5 seconds total of slowing. Tar Barrel cannot be used while Darryl is rolling, but his Super does not cancel Tar Barrel. 
+
+==Star Powers==
+===Steel Hoops===
+{{Quote|After Barrel Roll all damage Darryl takes is reduced by 25% for 2 seconds.}}{{StarPower|1}}After Darryl uses his Super, he gains a 25% damage reduction shield for 2 seconds. 
+
+===Rolling Reload===
+{{Quote|When Darryl uses his Super, he doubles his reload speed for 5 seconds.}}{{StarPower|2}}After Darryl uses his Super, he doubles his reload speed for 5 seconds, along with a slightly larger and reddened appearance. 
+
+==Hypercharge: Barrel o' Bullets==
+{{Quote|Shoots his shotguns around himself during a Barrel Roll. Each shot does 600 damage each.}}{{Hypercharge}}When activated, Darryl quickly unloads 15 single shells around himself in a circle during his next Super, behaving like his Recoiling Rotator Gadget. Each shell deals 600 damage, has a range of 4.33 tiles, and charges 12% of his Super if it hits an enemy. The first shell is fired in the direction of his Super, and the rest of them follow a clockwise order. The shields from both his Super and his Steel Hoops Star Power gain an altered appearance. He also gains a 20% speed, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*Using his Super, Darryl can deal significant damage to the turret in [[Spirit Wars]] by rolling in and shooting at it, taking minimal damage because of the shield he gets from rolling. However, he shouldn't do this in situations where his teammates don't have sufficient control of the Amulet-spawning areas and should instead support his teammates in racking up Amulets.
+*In [[Brawl Ball]], he can be quite useful by kicking the ball forward and using his Super to roll into and retrieve the Ball. You can use it for retrieving the Ball from the center after either team scores, though it will put him in the middle of the fight and likely results in him being defeated. You can also use his Super on an enemy who's carrying the Ball, which knocks it from their possession and knocks them back. This can be used to defend the goal by delaying an enemy who's about to score.
+**Note that Darryl is also an exceptionally good goal scorer for Brawl Ball. He can throw the ball forward and Super into it two times, allowing him to cover significant distance. This is a good strategy to use if there is no counter near the goal or the enemy team is near your goal.
+
+===Recommended Build===
+*In maps with a lot of bushes, use Darryl's Recoiling Rotator Gadget to scout out the area. You can find enemies easier that way. The Gadget is also very useful for attacking the enemy safe in [[Heist]]. Position yourself right in the center of the safe and activate the Gadget as quickly as possible, moving clockwise a little to ensure that as many shells as possible hits.
+*Darryl's Steel Hoops Star Power can act as a secondary shield in numerous situations. He can use it to roll onto enemies normally so he's shielded while attacking them after rolling or use it in Siege to stay alive longer while attacking the IKE in Siege.
+*Darryl's Rolling Reload Star Power allows him to ambush and defeat tanks more easily with his Super, because it can drastically increase his damage output. He can also use this to roll onto the enemy safe in Heist and deal extreme amounts of damage. Rolling Reload is also handy if you can't directly hit a Brawler with your Super, allowing you to potentially chip them down from further away with your increased reload speed. It also helps when you desperately need to roll onto someone but have no ammo left.
+
+===Strategies===
+*Hitting a brawler with the edge of Darryl's Super can momentarily knock them back, and Darryl can deal significant damage while they are still knocked back.
+*If timed properly while rolling onto an opponent, Darryl's Super can cancel an enemy's Super due to the knockback, like how [[Frank]]'s Super can be cancelled with [[Shelly]], [[El Primo]], [[Dynamike]], [[Surge]], [[Jacky]], [[Gene]], or [[Bull]]'s Super. This becomes useful when attacking other Brawlers with Darryl who have their Supers ready (like Frank).
+
+===Other===
+*Darryl moves slightly faster than most other Brawlers since he is a tank. Due to this, retreating/approaching is easier and often safer.
+*His Super is great for quickly escaping enemies/dangerous situations or getting closer to enemies along with the fact that Darryl rolls extremely quickly and is shielded while rolling. It's also worth noting that you can increase the range of his roll if you happen to roll over water. This is vital when escaping enemies, as the water could help in getting away from tough situations (in maps like [[Acid Lakes]] or [[Canal Grande]], etc.).
+*Darryl's Super can hit multiple times when fighting in confined areas (which is optimal for Darryl as a tank). Aim his Super to bounce off walls and rack up damage on your enemies.
+*When confronting enemies at point-blank range, be mindful of your positioning and don't go through them as the second shot of Darryl's attack can completely miss.
+*Darryl's main attack deals a lot of damage but not consistently. When targeting someone with his Super, make sure he actually rolls into them and hits them. If he's too close, he might roll over them. If he's too far, he can hit them but won't be within bursting range. Tar Barrel's slowing effect allows him to catch up to enemies in case his Super misses by a few tiles.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Darryl start vo 01.ogg|Filedescription = "Yo ho ho ho ho!"}}
+|{{Ogg|Filename = Darryl lead vo 01.ogg|Filedescription = "Party on the poop deck!"}}
+|{{Ogg|Filename = Darryl hurt vo 01.ogg|Filedescription = "Scuttling scallywag!"}}
+|{{Ogg|Filename = Darryl kill vo 01.ogg|Filedescription = "You got pwned by a pirate."}}
+|{{Ogg|Filename = Darryl die vo 01.ogg|Filedescription = "Son of a biscuit eater!"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 01.ogg|Filedescription = "Shiver me limber timbers!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 02.ogg|Filedescription = "Yo ho ho!"}}
+|{{Ogg|Filename = Darryl lead vo 02.ogg|Filedescription = "It's all about boats and booty."}}
+|{{Ogg|Filename = Darryl hurt vo 02.ogg|Filedescription = "I blast ye!"}}
+|{{Ogg|Filename = Darryl kill vo 02.ogg|Filedescription = "Har har har yar!"}}
+|{{Ogg|Filename = Darryl die vo 02.ogg|Filedescription = "Abandon ship! Abandon ship!"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 02.ogg|Filedescription = "Roll the planks!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 03.ogg|Filedescription = "Yolo ho and a bottle of barnacles!"}}
+|{{Ogg|Filename = Darryl lead vo 03.ogg|Filedescription = "I got booty in me barrel!"}}
+|{{Ogg|Filename = Darryl hurt vo 03.ogg|Filedescription = "You slimy sea urchin!"}}
+|{{Ogg|Filename = Darryl kill vo 03.ogg|Filedescription = "Har har har yar!"}}
+|{{Ogg|Filename = Darryl die vo 03.ogg|Filedescription = "Yo ho, oh no!"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 03.ogg|Filedescription = "Roll the R!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 04.ogg|Filedescription = "Ahoy mateys!"}}
+|{{Ogg|Filename = Darryl lead vo 04.ogg|Filedescription = "Show me the booty!"}}
+|{{Ogg|Filename = Darryl hurt vo 04.ogg|Filedescription = "You salty sea dog!"}}
+|{{Ogg|Filename = Darryl kill vo 04.ogg|Filedescription = "Pirate pwnage!"}}
+|{{Ogg|Filename = Darryl die vo 04.ogg|Filedescription = "Crusty crab sticks!"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 04.ogg|Filedescription = "Yo ho roll!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 05.ogg|Filedescription = "100% certified pirate."}}
+|{{Ogg|Filename = Darryl lead vo 05.ogg|Filedescription = "Behold! My bountiful booty."}}
+|{{Ogg|Filename = Darryl hurt vo 05.ogg|Filedescription = "Argh, you peg-legged parrot!"}}
+|{{Ogg|Filename = Darryl kill vo 05.ogg|Filedescription = "Double barrel Darryl, for the win!"}}
+|{{Ogg|Filename = Darryl die vo 05.ogg|Filedescription = "Jumping jellyfish!"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 05.ogg|Filedescription = "You see me rolling!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 06.ogg|Filedescription = "Totally legit pirate over here!"}}
+|{{Ogg|Filename = Darryl lead vo 06.ogg|Filedescription = "Yo! Double B.D. in the sea, that's me!"}}
+|{{Ogg|Filename = Darryl hurt vo 06.ogg|Filedescription = "You smelly seagull!"}}
+|{{Ogg|Filename = Darryl kill vo 06.ogg|Filedescription = Darryl whistles}}
+|{{Ogg|Filename = Darryl die vo 06.ogg|Filedescription = "Arr you kidding me?"}}
+|
+|{{Ogg|Filename = Darryl ulti vo 06.ogg|Filedescription = "That's how I roll!"}}
+|-
+|{{Ogg|Filename = Darryl start vo 07.ogg|Filedescription = Darryl whistles}}
+|{{Ogg|Filename = Darryl lead vo 07.ogg|Filedescription = Darryl whistles}}
+|
+|
+|
+|
+|{{Ogg|Filename = Darryl ulti vo 07.ogg|Filedescription = "Respect the roll!"}}
+|}
+
+==History==
+
+*07/12/17:
+**{{Balance|Content=Darryl was added to the game.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Darryl's health was increased to 4600 (from 4400).|Change=Buff}}
+**{{Balance|Content=His Steel Hoops Star Power damage reduction was increased to 80% (from 70%).|Change=Buff}}
+**{{Balance|Content=His Super roll speed decreased slightly to 2400 (from 2800).|Change=Nerf}}
+**{{Balance|Content=His main attack shots are fired a bit closer together.|Change=Neutral}}
+*22/12/17:
+**{{Balance|Content=Darryl's movement speed was increased to 700 (from 650).|Change=Buff}}
+*16/01/18:
+**{{Balance|Content=Darryl's health was increased to 5000 (from 4600).|Change=Buff}}
+**{{Balance|Content=Darryl's main attack damage was increased to 360 (from 320) per shell.|Change=Buff}}
+*27/01/18:
+**{{Balance|Content=The number of hits necessary to charge Darryl's Super was increased to 13 hits (from 10).|Change=Nerf}}
+*21/03/18:
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Darryl's base movement speed to 770 (from 700).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*21/05/18:
+**{{Balance|Content=Darryl's reload time was decreased to 1.8 seconds (from 2).|Change=Buff}}
+*05/12/18:
+**{{Balance|Content=The number of hits necessary to charge Darryl's Super was decreased to 11 hits (from 13).|Change=Buff}}
+**{{Balance|Content=Darryl's Super now charges automatically over 20 seconds.|Change=Buff}}
+**{{Balance|Content=Darryl's Steel Hoops Star Power shield now lasts for 3.5 seconds.|Change=Buff}}
+**{{Balance|Content=Darryl's health was decreased to 4000 (from 5000).|Change=Nerf}}
+**{{Balance|Content=His main attack damage was decreased to 260 (from 360) per shell.|Change=Nerf}}
+**{{Balance|Content=His Super damage was decreased to 400 (from 640) per hit.|Change=Nerf}}
+**{{Balance|Content=His Super range was decreased to 7 tiles (from 23.3).|Change=Nerf}}
+**{{Balance|Content=Darryl's Steel Hoops Star Power damage reduction was decreased to 30% (from 80%).|Change=Nerf}}
+*29/01/19:
+**{{Balance|Content=His main attack damage was increased to 280 (from 260) per shell.|Change=Buff}}
+**{{Balance|Content=Darryl's Steel Hoops Star Power damage reduction was increased to 40% (from 30%).|Change=Buff}}
+**{{Balance|Content=Darryl was slightly remodeled.|Change=Neutral}}
+*31/01/19:
+**{{Balance|Content=The Dumpling Darryl skin was added. It was featured as a Lunar New Year 2019 skin.|Change=Neutral}}
+*27/02/19:
+**{{Balance|Content=Darryl's Super auto-charging time was increased to 30 seconds (from 20).|Change=Nerf}}
+*15/04/19:
+**{{Balance|Content=Darryl's health was increased to 4200 (from 4000).|Change=Buff}}
+*11/06/19:
+**{{Balance|Content=Darryl's health was increased to 4600 (from 4200).|Change=Buff}}
+**{{Balance|Content=His Steel Hoops Star Power damage reduction was decreased to 30% (from 40%).|Change=Nerf}}
+*31/07/19:
+**{{Balance|Content=Darryl's Rolling Reload Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Darryl's Steel Hoops Star Power damage reduction was decreased to 25% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Darryl now fires from the center of his hitbox.|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=Darryl's Steel Hoops Star Power damage reduction was increased to 30% (from 25%).|Change=Buff}}
+**{{Balance|Content=His Rolling Reload Star Power was reworked from granting him 3 ammo after each Super to doubling Darryl's reload speed for 5 seconds.|Change=Neutral}}
+*07/11/19:
+**{{Balance|Content=Darryl's health was increased to 4800 (from 4600).|Change=Buff}}
+**{{Balance|Content=His main attack damage was increased to 300 (from 280) per shell.|Change=Buff}}
+*05/12/19:
+**{{Balance|Content=Darryl's Steel Hoops Star Power shield duration was decreased to 3 seconds (from 3.5).|Change=Nerf}}
+*18/12/19:
+**{{Balance|Content=Darryl now fires 5 shells instead of 4 but the damage has been reduced from 300 to 240 per shell. Total damage remains unchanged.|Change=Neutral}}
+*23/01/20:
+**{{Balance|Content=Darryl's Steel Hoops Star Power shield duration was decreased to 2.5 seconds (from 3).|Change=Nerf}}
+*19/02/20:
+**{{Balance|Content=Darryl's Steel Hoops Star Power shield duration was decreased to 0.9 seconds (from 2.5).|Change=Nerf}}
+*25/02/20:
+**{{Balance|Content=Darryl's Steel Hoops Star Power damage reduction was increased to 90% (from 30%).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Darryl and his Dumpling skin were remodeled, and his Recoiling Rotator Gadget was added.|Change=Neutral}}
+*18/03/20:
+**{{Balance|Content=The Mascot Darryl skin was added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Fixed a bug which prevented Darryl from destroying decorations with his Super.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Darryl's Recoiling Rotator Gadget no longer stops Darryl from moving and now charges 25% of his Super per enemy hit.|Change=Buff}}
+**{{Balance|Content=His Recoiling Rotator Gadget damage was decreased to 400 (from 700) per pellet.|Change=Nerf}}
+**{{Balance|Content=Darryl was given voice lines, and the Dumpling Darryl skin was remodeled.|Change=Neutral}}
+*08/07/20:
+**{{Balance|Content=Fixed a bug which prevented Darryl from rolling over water with his Super.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Darryl's health was increased to 5000 (from 4800).|Change=Buff}}
+*30/10/20:
+**{{Balance|Content=Darryl's Tar Barrel Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Darryl's Tar Barrel Gadget duration was increased to 5 seconds (from 4).|Change=Buff}}
+**{{Balance|Content=Darryl's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Fixed an issue with Darryl getting stuck on water after using his Super.|Change=Neutral}}
+*01/02/21:
+**{{Balance|Content=The D4R-RY1 skin was added. It was featured as a Brawl Pass Season 5 exclusive skin.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Darryl, Dumpling Darryl, and Mascot Darryl received facial animations.|Change=Neutral}}
+*17/06/21:
+**{{Balance|Content=The Mega Box Darryl skin became available to every user until 01/07/21. It was featured to celebrate the 1st anniversary of the launch of Brawl Stars in China.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Darryl's health was increased to 5300 (from 5000).|Change=Buff}}
+*27/10/21:   
+**{{Balance|Content=Darryl's class was changed to Hybrid (from Heavyweight).|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Darryl's Super now grants him a 90% damage-reduction shield while rolling.|Change=Buff}}
+**{{Balance|Content=Darryl's Steel Hoops was reworked from granting Darryl a 90% damage-reduction shield while using his Super to granting him a 25% damage-reduction shield for 2 seconds after using his Super.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Darryl's Super damage reduction was decreased to 50% (from 90%).|Change=Nerf}}
+*02/05/22:
+**{{Balance|Content=The Crash Test Darryl skin was added. It was featured as a Power League skin for Brawl Pass Season 12.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Darryl and his skins' main attack visual effects were slightly reworked.|Change=Neutral}}
+*08/12/22:
+**{{Balance|Content=The Omega Box Darryl skin became available to every user until 12/12/22. It was featured to celebrate the arrival of the Omega Box.|Change=Neutral}}
+*06/01/23:
+**{{Balance|Content=The Cupcake Darryl skin was added. It was featured as a Sugar Rush skin.|Change=Neutral}} 
+*28/02/23:
+**{{Balance|Content=Darryl's class was changed to Tank (from Hybrid).|Change=Neutral}} 
+**{{Balance|Content=Crash Test Darryl's main attack and Super visual effects were reworked.|Change=Neutral}} 
+*25/04/23:
+**{{Balance|Content=Crash Test Darryl now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Darryl's Recoiling Rotator Gadget damage was increased to 480 (from 400) per bullet and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Darryl's flavor text was changed from "Darryl has a powerful double-shotgun attack. His Super move is a reckless roll inside his bouncy barrel!" to "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?"|Change=Neutral}}
+*11/01/24:
+**{{Balance|Content=Darryl's main attack projectile speed was increased to 4000 (from 3044).|Change=Buff}}
+*27/08/24:
+**{{Balance|Content=Darryl now has 2 Supers that can be used individually.|Change=Buff}}
+*05/09/24:
+**{{Balance|Content=The Plankton Darryl skin was added. It was featured as a SpongeBob skin.|Change=Neutral}}
+*04/10/24:
+**{{Balance|Content=The number of hits necessary to charge Darryl's Super was increased to 20 hits (from 15).|Change=Nerf}}
+*04/11/24:
+**{{Balance|Content=Darryl's Barrel o' Bullets Hypercharge was added.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=The Pop-Up Darryl skin was added. It was featured as a Come Play With Us! skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Darryl's Tar Barrel Gadget duration was changed to 5 seconds (from 5.0) in the description.|Change=Neutral}}
+**{{Balance|Content=Darryl's Rolling Reload Star Power duration was changed to 5 seconds (from 5.0) in the description.|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Darryl's level up health was increased to 800 (from 750) in [[Brawl Arena]].|Change=Buff}}
+*03/07/25:
+**{{Balance|Content=The Sheepish Darryl skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Darryl's level up health was increased to 900 (from 800) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Darryl's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Darryl's Barrel o' Bullets Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Darryl's Barrel o' Bullets Hypercharge shield boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Darryl's health was increased to 5500 (from 5300).}}
+*22/04/26:
+**{{Balance|Buff|Darryl's Super Damage was increased to 660 (from 400).}}
+**{{Balance|Nerf|His Super recharge rate was decreased by 24%.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Darryl's movement speed to 800 (from 770).}}
+*27/09/26:
+**{{Balance|Neutral|The Trash Goblin Darryl skin was added. It was featured as a Brawl Academy skin.}}
+*03/11/26:
+**{{Balance|Buff|Darryl's Super damage was increased to 720 (from 660).}}
+**{{Balance|Buff|Darryl no longer respawns without losing any remaining Super uses.}}
+
+==Cosmetics==
+===Skins (13)===
+{{Skin Gallery
+|Name1 = Mega Box|Cost1= Free for Brawl Stars China anniversary • '''E'''|Campaign1 = The Mega|Rarity1=Epic
+|Name2 = Omega Box|Cost2 = Free for defeating 4 billion enemies • '''E'''|Campaign2 = The Omega|Rarity2=Epic
+|Name3 = Pop-Up|Cost3 = Free from Presents, free after reaching 750 Trophies or 29 Gems|Campaign3 = Come Play With Us!|Rarity3 = Rare
+|Name4 = Dumpling|Cost4 = 79 Gems • '''E'''|Campaign4 = Lunar Brawl|Rarity4=Super Rare
+|Name5 = Mascot|Cost5=Free from Bolt Boxes or 79 Gems|Campaign5=Golden Brawl Ball|Rarity5=Super Rare
+|Name6 = Crash Test|Cost6=Free from Bolt Boxes or 149 Gems|Campaign6=Ranked|Campaign6_2=Stunt Show|Rarity6=Epic
+|Name7 = Cupcake|Cost7=Free from Presents or 149 Gems|Campaign7=Sugar Rush|Rarity7=Epic
+|Name8 = Plankton|Cost8=Available in bundles for Krusty Kash or $7.99 • '''E'''|Campaign8=SpongeBob|Rarity8=Epic
+|Name9 = Sheepish|Cost9=149 Gems|Campaign9=Legends of Olympus|Rarity9=Epic
+|Name10 = Trash Goblin|Cost10=Free from Duolingo Event or 199 Gems|Campaign10=Brawl Academy|Rarity10=Mythic
+|TrueSkins = yes
+|NameP1 = D4R-RY1|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|RarityP1=Super Rare|CampaignP1_2=StarrForce Assemble}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Darryl
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Mega Box|Special}}
+{{Pin Table|Crash Test}}
+{{Pin Table|Omega Box|GG}}
+{{Pin Table|Cupcake}}
+{{Pin Table|Dumpling|Thanks}}
+{{Pin Table|Plankton|Happy}}
+{{Pin Table|Mascot|Special}}
+{{Pin Table|Sheepish|Happy}}
+{{Pin Table|D4R-RY1|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Darryl|Rarity = Common}}
+|{{Spray|Type = Darryl Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Darryl1}}
+|{{Pfp|Darryl2}}
+|{{Pfp|Darryl3}}
+|{{Pfp|Darryl4}}
+|{{Pfp|Crash Test Darryl}}
+|-
+|{{Pfp|Cupcake Darryl}}
+|{{Pfp|Plankton Darryl}}
+|{{Pfp|Mega Box Darryl}}
+|{{Pfp|Omega Box Darryl}}
+|{{Pfp|Sheepish Darryl}}
+|}
+{{Navigation}}
+[[ru:Дэррил]]
+[[pl:Darryl]]

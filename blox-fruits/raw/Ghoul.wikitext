@@ -1,0 +1,179 @@
+{{Race Infobox
+|name   = Ghoul
+|image  = Ghoul.png
+|source = [[Experimic]]
+|titles = * The Ghost (100 Ectoplasm)
+* The Ghoul (V2)
+* Hell Hound (V3)
+* {{Title|Nightwalker|outline=1}} (V4)
+}}
+{{Quote|Empowered after dark, Ghouls gain speed and strength through combat.}}
+'''Ghoul''' is one of only three [[races]] that can be obtained through a quest.
+
+Ghoul provides various stat boosts, most notably increasing the user’s speed during the [[Nychthemeron|night]] and allowing the player to leech health from other players, making it excellent for survivability and overall combat effectiveness. It is a great choice for PvP due to its ability to reduce cooldowns quickly and enhance mobility, alongside powerful [[Life Leech|life leech]] when awakened to V4. This race is strong in almost every aspect except for relatively weak armour support, which is compensated for by its [[Life Leech|life leech]] abilities. Ghoul does not require switching to another race after obtaining it from the [[Experimic]], similar to [[Draco]] and [[Cyborg]].
+
+__TOC__{{Clr}}
+
+==Obtainment==
+{{Race Stages Table/Default
+|V1 = To obtain Ghoul, the player needs:
+* 100 [[Ectoplasm]].
+* 1 [[Hellfire Torch]].
+|V3 = Kill five players 
+** Bounty does not need to be taken from the defeated players, however suspicious kills and friendly pvp (on private servers) do not count.
+** The defeated players don't have to be around the player's level, defeated players must be level 700 or higher to count as a kill.
+** One player can be killed multiple times.
+** When doing the quest, extra players may need to be killed because of a glitch that can happen where the kill does not register.
+|V4 = Trial of Carnage
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage will give additional buffs and make visual changes to the player's avatar.
+{| class="fandom-table" width="100%"
+!Stage
+!Buffs
+!Visual changes
+!Image
+|-
+|<center>'''V1'''</center>
+|Slightly increased [[health]] regeneration approx 20%, 30% extra run speed during the night.
+|Gives the player a pair of short black horns.
+|[[File:Ghoul V1.png|thumb|center]]
+|-
+|<center>'''V2'''</center>
+|[[Life Leech]] is enabled;
+* Each time the user hits a player using a [[fighting styles|fighting style]], the user heals back 25% of the damage done to the player.
+* Same thing with [[Enemies|NPC enemies]], except the user heals back 5% of the damage to NPCs.
+|No visual changes.
+|
+|-
+|<center>'''V3'''</center>
+|Unlocks an ability named [[Heightened Senses]]. While activated:
+* Buffs the player's overall damage by 5%, speed by 20% and defense by 15%.
+* Cooldown is reduced slightly. Lets the player use moves when at 40% cooldown. This does not include M1s.
+Lasts for 8 seconds, and has a 30 second universal cooldown.
+|<center>Lengthens the horns.<center>
+|[[File:Ghoul V2.png|thumb|center]]
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "Gears" are put in. For more information, please refer to [[Race Awakening]].
+
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, receive max stats as well as increased damage, speed, and health regeneration by 10%, reset all skills with less than 40% cooldown remaining.
+|-
+|'''Blood Siphon:'''
+* All attacks gain life leech that stacks with the V2 passive.
+** ~10% on [[Enemies|NPC enemies]].
+** ~20% on players. (~45% if using a [[Fighting Styles|fighting style]])
+|'''Upgraded version:'''
+* The life leech effect is increased greatly.
+** ~17% on [[Enemies|NPC enemies]].
+** ~30% on players. (~55% if using a [[Fighting Styles|fighting style]])
+|-
+|'''Domain Expansion:'''
+* Adds a dark field around the user that slows enemies and negates their health regen significantly (to a point where the healing is so slow that they can keep track of it going up one HP at a time) and applies partial blindness on enemies within the field. All night passives become available during the day and cooldowns are reduced by 40% (estimated).
+<gallery>
+Domain Expansion (Tier 1).gif
+</gallery>
+|'''Upgraded version:'''
+* Upon dashing, crows will attack nearby enemies. Increases the field range.
+<gallery>
+Domain Expansion (Tier 2).gif
+</gallery>
+|-
+| colspan="2" | '''Visual changes:'''
+* A spikey, glowing red halo is added. While transformed, the player grows six black wings on their back.
+<gallery>
+Ghoul Idle.png|The red halo.
+GhoulV4 Transform.gif|The transformation animation.
+GhoulV4 Idle.gif|The idle animation.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Faster health regeneration and fast speed at night, although speed still slower than the [[Rabbit]] race.
+* The player can change their race back to Ghoul whenever they'd like; no need to pay anything.
+* Very good with [[Buddha]] due to the race's life leech. ([[Sanguine Art]] is also recommended due to additional life leech.) Also, with the second blue gear crows can lure nearby npcs easily, making grinding easier principally with [[Buddha]].
+* It can be considered as a mixture of all [[Races]], having faster [[health]] regeneration ([[Angel]]) and faster speed ([[Rabbit]]) at night, as well as extra defense ([[Shark]]/[[Cyborg]]), extra damage (not by much however) ([[Human]]/[[Cyborg]]), and area control/support. ([[Draco]]) These benefits help in making it a good choice for people who can't decide on which race they want to use.
+* Any moves in cooldown below 40% will be renewed when awakening.
+
+|'''[[Heightened Senses]] (V3)'''
+* Nearly halves cooldowns (-40%), making moves very spammable and allowing for quick comebacks in PvP.
+* Offers decent mobility, especially when paired with the nighttime speed boost.
+* Balanced ability, as it buffs damage, speed, and defense.
+* Lasts for 8 seconds.
+
+|'''Blood Siphon (V4)'''
+* Gives life leech for all damage sources.
+* Good for long fights.
+** Makes fights against [[bosses]] easier.
+* Great for healing quickly.
+* Good for PvP scenarios where there is more than one opponent.
+* Can reduce the effectiveness of [[Draco#Changes_of_Stages|Draco]]'s Thorn Mail, although the life leech will be lost.
+* Provides strong healing in PvE scenarios when consistently dealing damage, making it highly useful in [[Raids]], particularly for [[Buddha]] users.
+
+|'''Domain Expansion (V4)'''
+* Reduces cooldowns.
+* Grants speed buffs during daytime, rivaling even races like [[Rabbit]] with certain [[accessories]].
+* Negates enemies' [[health]] regen by a significant amount, rendering them only capable of healing 1 [[Health]] point at a time, to the point where each gain in health is countable.
+* Deals damage to close enemies while dashing. Repeatedly dashing around the enemy can deal significant damage in just a few seconds.
+* Crows consume enemy [[Instinct]], and can completely drain it during combos.
+** Can deal damage to sky campers up until a certain height limit.
+* Can easily lure [[NPCs]] with the crows just by dashing near them
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Life Leech]] only affects [[Fighting Styles]], making it less useful for other builds.
+** Heals 5 times less on [[Enemies|enemy NPCs]].
+* More tedious to obtain than some other [[races]]. (Hellfire Torch is chance-based, and can only be obtained by defeating a raid boss.)
+
+|'''[[Heightened Senses]] (V3)'''
+* Rather weak defense.
+
+|'''Blood Siphon (V4)'''
+* Gives life leech for all damage sources but doesn't guarantee full heals and can be minimal sometimes.
+
+|'''Domain Expansion (V4)'''
+* Can be countered by keeping distance.
+* Requires dashing around the enemy multiple times to deal high damage.
+* Dark effects can negatively affect allies.
+}}
+</tabber>
+
+==Trivia==
+
+* A Ghoul V3 user having the [[Dino Hood]] equipped can outrun a [[Rabbit]] V3 user having the [[Pilot Helmet]] equipped. But cannot outrun a Rabbit v3 who also has the Dino Hood.
+* Ghoul V3 does not allow you to bypass the automatic cooldown placed on (V) moves upon spawning in.
+* This is the only race that allows the user to reset all moves when awakening (similar to the race's skill)
+* When in V4 with the Ghoul race, the user has visible black skulls floating upward on the player. This relates to ghouls race logo found in the Temple of Time.
+
+==Change History==
+{{Change History|12|content={{Update|29.2}}
+* Ghoul race has been nerfed.
+** Version 4
+*** Lifesteal decreased by 7%
+*** Crows no longer break instinct, rather, drain it.
+*** Crows deal lower damage.
+----
+{{Update|19}}
+* Ghoul v4's Domain Expansion gear now has a passive that reduces cooldown.
+----
+{{Update|18}}
+* {{Arrow|buff}} Buffed Ghoul V4's slowness passive.
+----}}
+
+==Navigation==
+{{Race Navbox}}
+
+[[ru:Гуль]]

@@ -1,0 +1,69 @@
+{{About|April Fool's Event exclusive Meme Fruit|the admin-exclusive fruit|Meme (Admin)}}
+{{Unavailable|type=[[Blox Fruits|Blox Fruit]]|desc=The Easter Event has ended.}}
+{{Blox Fruit Infobox
+|name   = Meme
+|image  = <gallery>
+Meme Fruit.png|Fruit Icon
+Meme.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|update = 29.4
+|rarity = Mythical
+|M1     = No
+|type   = Natural
+
+<!-- Fruit Price -->
+|money  = 1
+|robux  = N/A
+}}
+'''Meme''' (Meme-Meme while performing a trade) is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1}} and is unobtainable from any shop. It is exclusive to the [[Events#April Fools 2026|April Fools Event]]. 
+
+The Meme fruit allows the user to place down fake [[Blox Fruits]] and explosive traffic cones, as well as fly using traffic cones.
+
+==Obtainment==
+* The limited "''REALLY GOOD gacha''" from [[Luckymaxer (NPC)|Luckymaxer]] after defeating the [[Luckymaxer (Raid Boss)|Luckymaxer Raid Boss]].
+* [[Trading]]
+{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Traffic Cone
+|mastery  = 1
+|cooldown = 3
+|energy   = 1
+|break    = Yes
+|instinct = [[Breaks Instinct]] on explosion.
+|gif      = MemeObtainable_Z
+|desc     = The user creates a fake fruit at their cursor, which explodes upon contact with an enemy, dealing extremely low damage.
+* This move has an infinite range.
+* The possible fake fruits are [[Buddha]], [[Gravity]], [[Mammoth]], [[Gas]], [[Yeti]], [[Kitsune]], [[Dragon (East)]], and [[Dragon (West)]].
+}}
+
+{{Skill
+|key      = X
+|name     = Cone Flight
+|mastery  = 5
+|cooldown = 8
+|energy   = 5
+|gif      = MemeObtainable_X
+|desc     = The user creates rotating orange and black blades on their raised right arm, generating upward propulsion to fly using a cone.
+}}
+
+
+==Trivia==
+* This fruit is almost identical to the original [[Meme (Admin)|Meme]], an admin-exclusive fruit.
+* Mastery obtained on this fruit does count towards the Fruits Mastered Count Statistic on [[Player Profile|player profiles]] (previously was thought to not count to Fruits Mastered Statistic).
+* The {{Ability|X}} move is almost identical to [[Blade]]'s {{Ability|Blade|F}}.
+* The energy cost for both moves are identical to their mastery requirement.
+* The [[Meme]] is the cheapest item in the game, costing only {{Money|1}}.
+** Despite it not being worth {{Money|1,000,000}}, [[Trevor]] still accepts it as a valid fruit for their quest.
+* There is no way to obtain a [[Permanent Blox Fruits|permanent]] version of this fruit.
+* The {{Ability|Z}} move has an infinite range.
+
+==Change History==
+{{Change History|29.4}}
+
+==Navigation==
+{{Blox Fruit Navbox}}

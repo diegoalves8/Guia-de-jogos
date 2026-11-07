@@ -1,0 +1,138 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Tushita
+|image     = <gallery>
+Tushita.png|Icon
+Tushita EQ.png|In-Game
+Tushita Held.png|Held
+Tushita (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 15
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Floating Turtle
+|obtain    = Dropped
+|source    = [[Longma]]
+}}
+{{Quote|A legendary katana with the power of the skies and their stars.|Item}}
+'''Tushita''' is a {{Legendary}} [[sword]].
+
+Tushita provides great damage with fast moves and little to no endlag on both of its moves. However, it is a very difficult sword to get, especially in public servers. It also has smaller hitboxes compared to other late-game [[swords]] and has less combo potential. 
+
+==Obtainment==
+Tushita can be obtained by completing the [[Tushita/Puzzle|Tushita puzzle]].
+
+Upon equipping Tushita, the user will be given the "{{Title|Celestial Swordsman|outline=1}}" [[title]].
+
+==Usage==
+Getting both Tushita and [[Yama]] to 350 mastery and being Lv. 2200 or higher will grant the player access to the [[Cursed Dual Katana/Puzzle|Cursed Dual Katana puzzle]] and allow them obtain [[Cursed Dual Katana]] once they have completed the puzzle.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Tushita M1
+|desc     = The player does 3 slashes, then performs a lunge stab on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heavenly Lunges
+|mastery  = 150
+|cooldown = 9
+|energy   = 15
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Tushita_Z
+|desc     = The user stabs repeatedly in front of them, stunning any enemy it hits. Holding the button makes it last longer. It then ends with a strong large stab which has a longer range, does more damage, and knocks enemies away.
+}}
+
+{{Skill
+|key      = X
+|name     = Celestial Ravager
+|mastery  = 300
+|cooldown = 14
+|energy   = 30
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Tushita_X
+|desc     = The user dashes and creates multiple red slashes with incredible speed, dealing high damage and leaving a brief "X" mark on the affected surface. This move has two separate slashes; if the player's cursor is facing a different direction after the first slash, they will slash in that direction instead of straight.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Great combo potential.
+* Pretty easy to hit the attacks even without a stun.
+* Good grinding capabilities.
+* Fast attacks with high damage, making it a great sword in [[PvP mechanics|PvP]] and [[Raids]]. 
+* Higher damage than [[Yama]].
+
+|'''[Z] Heavenly Lunges'''
+* [[Instinct/Break|Breaks Instinct]] upon landing the final, large hit.
+* Long stun if not dodged.
+* Large [[AoE]].
+* Very high damage.
+
+|'''[X] Celestial Ravager'''
+* Good range.
+* Great mobility.
+* High knockback.
+* Breaks [[Instinct]] upon direct hit at close range.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Difficult to obtain.
+* Cannot hit [[Blade]] users.
+* Dashes on the fourth click, making it harder to grind with.
+* All moves can be dodged.
+* Weak at long range.
+* Both moves can be difficult to properly extend off of.
+
+|'''[Z] Heavenly Lunges'''
+* Can be exploited if the user holds it for too long, making their opponent able to land attacks if they are not careful.
+* If the initial hits are dodged, the enemy is not stunned by the following barrage of hits.
+
+|'''[X] Celestial Ravager'''
+* High knockback.
+* Hard to aim the second set of slashes, heavily fluctuating the damage.
+}}
+</tabber>
+
+==Trivia==
+* Tushita is named after Tusita, one of the six deva-worlds of the Desire Realm in {{w|Buddhism}}.
+* "Tushita" cannot be said in Roblox chat. This is due to it having a swear word in it. This means that the player has to say an alternative such as "Tusita" or "Tushi ta".
+* There is a glitch where if the user uses the {{Ability|Tushita|Z}} move a split second after unequipping Tushita, they will be stuck in an infinite loop of animation where their arm keeps lunging. The user can not move while doing this and the only way to stop is by resetting.
+* Because of [[Yama]]'s recent nerf, people are now choosing Tushita in [[PvP mechanics|PvP]] due to [[Instinct|Instinct breaking]] moves, such as '''[X] Celestial Ravager''' breaking it no matter what.
+* Both [[Yama]] and Tushita share the exact same upgrade requirements.
+
+==Change History==
+{{Change History|15|content=
+{{Update|24}}
+* Tushita's model was revamped.
+<gallery>
+Tushita Icon (Old).png|Old Tushita model
+</gallery>
+----
+{{Update|20}}
+* Tushita's abilities were revamped.
+----
+{{Update|15}}
+* Tushita was released.
+}}
+
+==Navigation==
+{{Cursed Katana Navbox}}
+{{Sword Navbox}}

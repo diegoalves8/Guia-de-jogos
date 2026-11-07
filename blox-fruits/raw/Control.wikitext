@@ -1,0 +1,669 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Control
+|image  = <gallery>
+Control Fruit.png|Fruit Icon
+ControlFruit.gif|Fruit GIF
+Control.png|Icon
+ControlActivated.png|Icon (Activated)
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Mythical
+|M1     = Yes
+|update = 10
+
+<!-- Fruit Price -->
+|money  = 9,000,000
+|robux  = 4,000
+}}
+
+{{Quote|Allows the user to control objects and enemies within a specified area.|Shop}}
+
+'''Control''' is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|9,000,000}} or {{Robux|4,000}} from the [[Blox Fruit Dealer]].
+
+Control allows the user to manipulate enemies and objects within a designated area, combining exceptional utility, combo pressure, powerful stuns, and devastating damage. Its defining ability is the '''Domain''', a large spherical area in which the user can freely manipulate the environment and gain access to Control's full arsenal.
+
+Control has three distinct combat modes: '''Base Mode''', '''Dagger Mode''', and '''Fist Mode'''. Outside the Domain, Base Mode primarily relies on its daggers and spatial manipulation to pressure and stun opponents. Once inside the Domain, the user can switch between Dagger and Fist Mode, each specializing in a different aspect of combat.
+
+==Upgrading==
+Control can be upgraded via the [[Admin Panel]]:
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="article-table"
+!Ability
+!Mastery
+!Research
+!Changes
+!Cost
+|-
+|'''Spatial Cut Authorization'''
+|200
+|Complete one [[Dungeon|Simulation Dungeon Raid]] on Normal difficulty.
+|Upgrades the Daggers Mode's [M1] ability, allowing the player to deal damage to players when holding and flicking [M1].
+|{{Fragment|500}} <br> {{Simulation Data|100}} <br> {{Scrap Metal|30}}
+|-
+|'''Room Relocation Protocol'''
+|300
+|Complete 3 [[Dungeon|Simulation Dungeon raids]].
+|Upgrades {{Ability|Z}} ability, allowing the user to relocate the Domain with themselves at the center after exiting the Domain by tapping {{Ability|Z}}. The user's domain is slightly bigger.
+|{{Fragment|2,000}} <br> {{Simulation Data|200}} <br> {{Scrap Metal|20}}
+|-
+|'''Total Control Override'''
+|500
+|This upgrade has two research quests: 
+* Cut enemies with  the Dagger Mode’s M1 100 times
+* Eat a Physical Control fruit, with research quest activated.
+|Upgrades {{Ability|V}} ability, allowing the player to trigger a cutscene when {{Ability|V}} is held if the Meter is full. Guaranteed hit if the opponent is in the player's domain.
+|{{Fragment|10,000}} <br> {{Simulation Data|2000}}
+|}</table-progress-tracking>
+To fully upgrade Control, the player requires {{Fragment|12,500}}, {{Simulation Data|2,300}}, {{Scrap Metal|50}} and an extra physical Control fruit in total.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Domain Amplification
+|file     = Amplified Movement.gif
+|file1    = ControlDomainFlashStep.gif
+|desc     = Control's abilities vary in terms of being inside or outside their Domain. Outside of it (Base Mode), the player can use a separate moveset consisting of only X, C and F, while inside of it the player can use two other movesets (Fist and Dagger Modes), which both include all moves each. They also gain new animations for Air Jumps, Dashes, and Flash Steps alongside buffs for them, shown here with buffed movement. While inside of the domain, the attacks for the [[Koko]] sword are all heavily buffed.
+|desc1    = The buffed Flash Step animation while inside the domain.
+}}
+
+{{Skill/Passive
+|name     = Mode Meter
+|meter    = Complete Control.gif
+|desc     = Having a Domain active gives the user a [[Power Meter|Meter]] on their fruit slot. This meter shows which mode (Dagger or Fist) the user is on, and also shows progress for meter required to use {{Ability|V}} held (requires full meter). Going outside of the Domain doesn't affect the meter, but if the Domain deactivates, the meter too resets and disappears, reappearing in the next use. Meter is gained passively at a fixed rate, and landing moves or getting hit by moves doesn't increase or decrease meter gain.
+}}
+
+{{Skill/Passive
+|name     = Anti-Drowning Protocol
+|file     = ControlWaterwalk.gif
+|desc     = The user creates hexagonal platforms they can stand on each time they touch the [[sea]]. This passive does not cost [[Energy]] and domain activation is not necessary. However, Dash distance is decreased (could be a bug or an issue with the hitboxes).
+}}
+
+{{Skill/Passive
+|name     = Slicing Execution
+|file     = ControlBisection.png
+|desc     = Base and Dagger mode moves as well as {{Ability|V}} do not kill the enemy like most other fruits/weapons do. The enemy is bisected horizontally, revealing a neon-bluish cross-section. Due to this, enemies do not lose all of their HP once defeated through Dagger Mode or Base Mode.
+}}
+
+|Moveset (Base Mode)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = no
+|instinct = The slashes do not [[Instinct/Break|break Instinct]] in any way.
+|gif      = DaggerCombo
+|desc     = The user swipes the air with their daggers, creating black-and-blue slashes while moving forward slightly. On the fourth M1, the user swipes using both daggers to create a cross shape instead. This version is used both in Base form and in Dagger mode if tapped.
+}}
+
+{{Skill
+|key      = Z
+|name     = Domain Control
+|mastery  = 1
+|cooldown = 1.3
+|energy   = 40
+|break    = yes
+|instinct = Deals a little damage and [[Instinct/Break|breaks Instinct]] if standing too close to the user while activating.
+|gif      = Domain Expansion lite
+|gif1     = Room Summon
+|desc     = The user assumes a stance, being surrounded by two daggers and text resembling UI on their screen, creating a large spherical area (the Domain) indicated by an intangible tinted blue barrier having a pattern consisting of constantly shifting hexagonal tiles. If an enemy is close enough to the user when the domain is activated, then they will be stunned for a short period of time and be dealt a low amount of damage, with their body being disassembled and reassembled. Air Jumps, Dashes and Flash Steps are buffed when the user is inside the domain. Having a domain active reveals a Domain Meter. Holding the move anywhere deactivates the domain. Being outside of the domain for a certain amount of time will automatically deactivate the domain. Holding the move when creating the domain does not increase the size of it.
+|desc1    = Recasting the move outside of the domain summons it at the user's current position if the user has the Room Relocation Protocol upgrade.
+}}
+
+{{Skill
+|key      = X
+|name     = Slice N' Dice
+|mastery  = 150
+|cooldown = 10.8
+|energy   = 60
+|break    = yes
+|instinct = The initial dash is dodgeable, but the body being split apart [[Instinct/Break|breaks Instinct]]. However, the move will still hit even if the dash is dodged.
+|gif      = Slice Dice lite
+|gif1     = Slice N Dice Victim PoV
+|desc     = The user dashes forward. If hit, the user teleports behind the enemy, sending out a slash toward them that blitzes them and disassembles their body. If landed, the move will automatically turn the user's camera by 180°, which is useful to land combos. After the attack, their body reassembles, dealing good damage.
+|desc1    = The opponent's point of view during the move.
+}}
+
+{{Skill
+|key      = C
+|name     = Gamma Blade
+|mastery  = 250
+|cooldown = 10.8
+|energy   = 100
+|break    = yes
+|instinct = The spinning blade [[Instinct/Break|breaks Instinct]].
+|gif      = Gamma Dagger lite
+|desc     = The user spins a dagger in their hand. When released, the dagger is thrown forward and slices horizontally, pulling opponents. The user is free to move anywhere and once the dagger reaches maximum distance, a crosshair appears on the user. This indicates and ensures that no matter where, the affected opponent will be pulled toward the user at M1 range. If the dagger hits objects such as [[trees]], they will get vertically split apart.
+}}
+
+{{Skill
+|key      = F
+|name     = Transmutation
+|mastery  = 75
+|cooldown = 7.75
+|energy   = 50
+|break    = yes
+|instinct = The dagger is dodgeable, but will still grab. The barrage of slashes can be dodged but the last hit always [[Instinct/Break|breaks Instinct]].
+|gif      = Teleports
+|gif1     = Dagger Throw lite
+|desc     = The user throws out one of their daggers which teleports them to the area the dagger landed at. If hit, the user unleashes a series of skillful slashes, knocking the enemy away and disassembling their body. The damage is increased by roughly 50% while inside the domain.
+|desc1    = The dagger being thrown before the user teleports to it.
+}}
+
+|Moveset (Dagger Mode)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = no
+|instinct = The slashes do not [[Instinct/Break|break Instinct]] in any way.
+|gif      = DomainDaggercombo
+|gif1     = Spatial Cutting
+|gif2     = Space Slashes lite
+|desc     = When tapped, the user swipes the air with their daggers, creating black-and-blue slashes while moving forward slightly. On the fourth M1, the user swipes using both daggers to create a cross shape instead. This version is used both in Base form and in Dagger mode if tapped.
+|desc1    = When held, the user can slash objects or even players using a line having inverted colors (appearing only in their screen) which can have its angle controlled by rotating the cursor. Cutting players requires the Spatial Cut Authorization upgrade.
+|desc2    = The cut objects can be tapped and thrown all at once afterward.
+}}
+
+{{Skill
+|key      = Z
+|name     = Domain Control
+|mastery  = 1
+|cooldown = 1.3
+|energy   = 40
+|instinct = Doesn't deal damage in any way.
+|gif      = Dagger Mode switcher
+|gif1     = Room Summon
+|desc     = When tapped and the user is inside their domain, the user switches to Fist Mode. Holding deactivates the domain.
+|desc1    = Tapping when outside the domain summons it to the user's current position, requiring the Room Relocation Protocol upgrade.
+}}
+
+{{Skill
+|key      = X
+|name     = Slice N' Dice
+|mastery  = 150
+|cooldown = 10.8
+|energy   = 40
+|break    = yes
+|instinct = The initial dash is dodgeable, but still grabs. The final slam [[Instinct/Break|breaks Instinct]].
+|gif      = Dagger Dice lite
+|desc     = The user creates five cubes and dashes forward in a zigzag motion, using four of the five cubes as footholds. If hit, the enemy is slammed toward the fifth cube and the user creates another cube to dive down with a slash, unleashing a barrage of slashes with their daggers afterward making a blue grid-like surface.
+}}
+
+{{Skill
+|key      = C
+|name     = Gamma Blade
+|mastery  = 250
+|cooldown = 10.8
+|energy   = 100
+|break    = yes
+|instinct = The initial slashes are dodgeable, but the AoE bursts [[Instinct/Break|break Instinct]].
+|gif      = ControlDaggerC1
+|gif1     = Gamma Slashes lite
+|desc     = The user sends three spacial slices forward. If the slices are not separated, they combine and create one large circular field of slices, with a large 4-pointed star at its center, dealing tick damage in a large AoE, placing soft stun, and applying a 4-pointed star mark to any hit opponents that implode after a second, slicing the opponents into multiple floating pieces and dealing slight damage.
+|desc1    = If the slices are separated, they create three or two smaller versions of the fused field (depending on if two of the three slices are fused), dealing the same slash damage but excluding the 4-pointed star mark damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Total Concentration
+|mastery  = 350
+|cooldown = 31
+|energy   = 10
+|break    = yes
+|instinct = The entire moveset can be dodged but the last slash always [[Instinct/Break|breaks Instinct]]. It can rarely be dodged at the final tick damage. If held, breaks Instinct no matter what.
+|gif      = ControlVTap
+|gif1     = ControlVHeld
+|desc     = This move can only be used in the Domain created by the user. If tapped, the Domain turns purple, and slightly damaging cubes rise from below. After a short startup, the user dashes forward and leaves a purple trail. If hit, the enemy is hard-stunned; the camera zooms out; the user continuously bounces off summoned cubes, dealing good tick damage to all opponents inside the Domain. After ~4 seconds, the camera pans back to the user who then sends two large, crossed purple slashes towards the initial enemy hit, pushing them forward and destroying the Domain. The user is invincible during the duration of this move. If missed, the Domain walls remain purple for a moment and are not destroyed, and the only damage dealt is by the summoned cubes.
+|desc1    = If held, after charging the attack for at least 3 seconds, the user creates a digital world and teleports all enemies and themselves into it. Afterwards, the user fabricates cubes, then bounces off them multiple times, dealing massive amounts of damage. Finally, the user cuts the digital world in half, dealing high damage to the initial target and destroying the world and Domain alike. Using this variant requires the Total Control Override upgrade.
+}}
+
+{{Skill
+|key      = F
+|name     = Transmutation
+|mastery  = 75
+|cooldown = 7.75
+|energy   = 20
+|break    = yes
+|instinct = The dagger is dodgeable, but will still grab. The barrage of slashes can be dodged but the last hit always [[Instinct/Break|breaks Instinct]].
+|gif      = Teleports
+|gif1     = Dagger Throw lite
+|desc     = The user throws out one of their daggers which teleports them to the area the dagger landed at. If hit, the user unleashes a series of skillful slashes, knocking the enemy away and disassembling their body. Using this on a cube formed by Fist Mode's M1 ability can supercharge it, making it deal 50% more damage. Multiple cubes nearby each other will be supercharged as well.
+|desc1    = The dagger being thrown before the user teleports to it.
+}}
+
+|Moveset (Fist Mode)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = The falling blocks [[Instinct/Break|break Instinct]].
+|gif      = Levitation
+|gif1     = Charged Levitation
+|desc     = The user summons a cube out of the surface they tapped/clicked on. The user can select a singular or multiple cubes to throw at the designated area. The user can also use {{Ability|F}} on a cube to supercharge it, making it deal 50% more damage. The cubes remain dormant for 15 seconds before self-destructing and becoming unusable.
+|desc1    = If held, the cube can grow up to threefold its dimensions. The larger the cube, the higher damage it deals.
+}}
+
+{{Skill
+|key      = Z
+|name     = Domain Control
+|mastery  = 1
+|cooldown = 1.5
+|energy   = 40
+|instinct = Doesn't deal damage in any way.
+|gif      = Fist Mode switcher
+|gif1     = Room Summon
+|desc     = When tapped and the user is inside their domain, the user switches to Daggers Mode. Holding deactivates the domain.
+|desc1    = Tapping when outside the domain summons it to the user's current position, requiring the Room Relocation Protocol upgrade.
+}}
+
+{{Skill
+|key      = X
+|name     = Slice N' Dice
+|mastery  = 150
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] when hit directly but the rest of the move can be dodged.
+|gif      = Controlled Slams lite
+|gif1     = Slice N Dice Fist Miss
+|desc     = If hit, the user sends forward a blue, single-target, outwardly expanding conical shockwave. If hit, the enemy is sent upward, ricocheting between eight black cubes. All eight cubes merge together, slamming the enemy toward the ground, dealing AoE damage. There is no endlag delivered to the user after landing the move.
+|desc1    = If missed, the user pulls out five cubes from the surface below which they can aim anywhere inside the Domain. After a short time, all cubes are smashed into the area the user aimed at.
+}}
+
+{{Skill
+|key      = C
+|name     = Gamma Blade
+|mastery  = 250
+|break    = yes
+|instinct = The falling pillars [[Instinct/Break|break Instinct]].
+|gif      = Construct Smash
+|desc     = The user pulls four hexagonal prisms off of the Domain's barrier. Upon release, all prisms are sent flying toward the aimed area(s) (depending on whether or not the player moves the position of their cursor post-release), smashing any enemy in range and dealing extremely high damage. Each prism deals about the same damage. Due to having collision properties, using this skill under low roofs will stop the prisms from hitting the desired area.
+}}
+
+{{Skill
+|key      = V
+|name     = Total Concentration
+|mastery  = 350
+|break    = yes
+|instinct = The entire moveset can be dodged but the last slash always [[Instinct/Break|breaks Instinct]]. It can rarely be dodged at the final tick damage. If held, the attack will break Instinct no matter what.
+|gif      = ControlVTap
+|gif1     = ControlVHeld
+|desc     = This move can only be used in the Domain created by the user. If tapped, the Domain turns purple, and slightly damaging cubes rise from below. After a short startup, the user dashes forward and leaves a purple trail. If hit, the enemy is hard-stunned; the camera zooms out; the user continuously bounces off summoned cubes, dealing good tick damage to all opponents inside the Domain. After ~4 seconds, the camera pans back to the user who then sends two large, crossed purple slashes towards the initial enemy hit, pushing them forward and destroying the Domain. The user is invincible during the duration of this move. If missed, the Domain walls remain purple for a moment and are not destroyed, and the only damage dealt is by the summoned cubes.
+|desc1    = If held, after charging the attack for at least 3 seconds, the user creates a digital world and teleports all enemies and themselves into it. Afterwards, the user fabricates cubes, then bounces off them multiple times, dealing massive amounts of damage. Finally, the user cuts the digital world in half, dealing extreme damage to the initial target and destroying the world and domain alike. Using this variant requires the Total Control Override upgrade.
+}}
+
+{{Skill
+|key      = F
+|name     = Transmutation
+|mastery  = 75
+|break    = yes
+|instinct = The dagger is dodgeable, but will still grab. The barrage of slashes can be dodged but the last hit always [[Instinct/Break|breaks Instinct]].
+|gif      = Teleports
+|gif1     = Dagger Throw lite
+|desc     = The user throws out one of their daggers which teleports them to the area the dagger landed at. If hit, the user unleashes a series of skillful slashes, knocking the enemy away and disassembling their body. Using this on a cube formed by the M1 ability can supercharge it, making it deal 50% more damage. Multiple cubes nearby each other will be supercharged as well.
+|desc1    = The dagger being thrown before the user teleports to it.
+}}
+}}
+
+==Overview==
+<tabber>
+|-|Base Form=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Base
+|'''General'''
+* Good for every stat build such as [[Blox Fruits|fruit]] mains, [[sword]] mains, [[gun]] mains, and even hybrid builds. This is due to its great stuns, mobility, and high combo potential.
+* Excellent damage.
+* Nearly all moves are un-escapable and break [[Instinct]], making it the single most deadliest fruit to counter.
+* Every single move can combo into each other.
+* All moves can extend besides [F].
+* Useful for sea events due to the water platforms passive.
+* Very fun to use.
+* Widely considered the best PvP fruit due to its combo extenders
+
+|'''[TAP] Normal Attack'''
+* No end-lag.
+* Stuns ennemies
+
+|'''[Z] Domain Control'''
+* No end-lag. 
+* Increases [[Koko]]'s range (Z move's range is increased slightly and the X move range is based on the range of the room.)
+* Can be brought to the user if they move out of the domain instantly, although this requires the Room Relocation Protocol upgrade.
+* The domain lasts as long as the user is inside of it.
+* Can stun enemies for a short amount of time.
+
+|'''[X] Slice N Dice'''
+* No end-lag.
+* No start-up.
+* Is a true stun (stuns even when [[Instinct]] dodged)
+* Immediately flicks the camera backwards after the dash to help extend combos.
+
+|'''[C] Gamma Blade'''
+* No end-lag.
+* Breaks [[Instinct]].
+* Very good range, especially considering it's cooldown.
+* Amazing for extending combos.
+* Deals insane damage when the user is moving away from the enemy. In fact, the user can use the portals in [[Third Sea]], or an ally using [[Portal]], to teleport away from the enemy, and drag them to the other side of the map.
+
+|'''[F] Transmutation'''
+* Long ranged attack.
+* Breaks [[Instinct]].
+* Good damage.
+* Very high mobility.
+* Grants i-frames.
+* Although it has endlag, it is impossible to punish, due to the stun lasting longer.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Base
+|'''General'''
+* High mastery requirements.
+* The user's domain will be a massive giveaway for those who are extremely skilled bounty hunters, especially if the user is low-level and weak to bounty hunters.
+* Requires some aim and precision.
+* Moves are very easy to avoid, and have mediocre AoE.
+
+|'''[TAP] Normal Attack'''
+* Short range.
+* Insanely low damage (around 700 per hit with maxed stats and mastery)
+
+|'''[Z] Domain Control'''
+* User is vulnerable while setting up the domain.
+
+|'''[X] Slice N Dice'''
+* Short ranged dash.
+
+|'''[C] Gamma Blade'''
+* Small hitbox.
+* The stun into 2 parts, the push and the pull, enemies can escape by using a move quickly enough in the transition (Between the stuns).
+
+|'''[F] Transmutation'''
+* The teleport can be canceled if the user is hit right after throwing a dagger.
+}}
+}}
+
+|-|Dagger Mode=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Dagger
+|'''General'''
+* Fast moves.
+* Very good combo potential.
+* Nearly impossible to escape from once in a combo.
+* All moves break [[Instinct]].
+* All moves are true stuns.
+* Can cut and weaponize [[Destructible Physics|objects]].
+
+|'''[TAP] Spatial Cut'''
+* Long range (equal to the room's scale), and are executed quickly.
+* Drains opponent's instinct near instantly.
+* Completely stun-locks opponents, making escape basically impossible once their [[Instinct]] is drained (in only 8 consecutive cuts).
+* Surprisingly high damage.
+* Amazing for AFK farming with auto software like TinyTask.
+
+|'''[X] Slice N' Dice'''
+* Can hit [[Sea Beast]]s.
+* Perfect for starting combos.
+* Extremely powerful auto-aim. almost impossible to miss if even looking in the general direction of the opponent.
+* Can drowns opponents when used over the sea.
+* Breaks [[Instinct]].
+* Chains in [V], [C], and almost any other ability.
+
+|'''[C] Gamma Blade'''
+* Can hit [[Sea Beast|Sea Beasts]].
+* High damage, which makes it good for grinding.
+* Can be easily aimed at mid-air foes.
+* Extremely easy to use in-between combos, and deals very high damage.
+
+|'''[V] Total Concentration'''
+* Insane damage.
+* High stun.
+* Damages everyone in the domain in both variants.
+* Has hit-scan.
+* Easily extendable if the user has good ping, as it throws them diagonally.
+* During the held animation, all the abilities can cooldown.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Dagger
+|'''General'''
+* Causes heavy lag on low end devices.
+
+|'''[TAP] Spatial Cut'''
+* Low end devices will not be able to execute cuts nearly as quickly.
+* Hard to use on mobile, as it may cause the screen to spin uncontrollably.
+
+|'''[X] Slice N Dice'''
+* Single target.
+* The slicing part can cause very high lag on low end devices.
+* The damage falls off when used above water.
+
+|'''[C] Gamma Blade'''
+* Escapable, so it cannot deal full damage in PvP.
+
+|'''[V] Total Concentration'''
+* Hard to hit.
+* Due to the high endlag, missing it leaves the player vulnerable. 
+* High startup requires this move to be used in combos or predicting the enemy's movement.
+* Ends the domain.
+* The tap version has significantly reduced damage to players, making it largely pointless.
+}}
+}}
+
+|-|Fist Mode=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Fist
+|'''General'''
+* Decent to good at grinding.
+* Deals much more damage than Dagger Form.
+
+|'''[TAP] Normal Attack'''
+* Large AoE.
+* Damage gets bigger based on how large the cube is. (Size of cubes is based on how long it is held.) 
+* Large cubes can be stacked and launched at the same time, dealing insane amounts of damage.
+* Supercharging with [F] buffs damage by 50%.
+
+|'''[X] Slice N Dice'''
+* Extremely easy to combo extend off of.
+* Can bring mid-air enemies to the ground.
+
+|'''[C] Gamma Blade'''
+* Deals insane damage.
+* Can hit [[Sea Beast]]s.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Fist
+|'''General'''
+* Hard to use on mobile devices.
+* Doesn't have a reliable combo starter.
+* Somewhat slower than Dagger Mode.
+* Hard to use against the Core in the Factory Raid.
+*Laggy for low end devices
+
+|'''[TAP] Levitate'''
+* Cannot hit players in mid-air.
+* While charging the cube, the user cannot [[Dashing|dash]], [[Air Jump]], [[Flash Step]] or use moves, leaving them vulnerable.
+* Hard to use on mobile, as the user will need to go behind the cube and launch it in the direction they are facing.
+
+|'''[X] Slice N Dice'''
+* Is almost entirely [[Instinct]]-dodgeable.
+* The cubes that it summons after missing don't deal much damage, and are easy to avoid.
+
+|'''[C] Gamma Blade'''
+* Cannot be used on mid-air opponents.
+* Deals lower damage and hard to aim if the opponent is far away.
+* The pillars can be blocked by other objects.
+* Extremely high lag if nearby the pillars on low end devices.
+}}
+}}
+</tabber>
+
+==Tips & Tricks==
+* It is highly recommended to have high mastery on the fruit since unlike all other fruits, it also significantly increases the domain size and the ranges of both Dagger and Fist mode skills of '''[M1]''' , '''[C]''', and '''[V]''' and more space to move around inside the room.
+* When first entering a server, Control's move-set is disabled. the player should equip it and wait just around 2 seconds before using a move. This is because, unlike any other fruit, Control loads it's animations every time it enters a server.
+* Before using the fruit, the player should be aware of their devices limitations, as Control has extremely high VFX, and often never works properly on low end devices, which may heavily hamper the user's experience. This can also work in reverse, if the user has a high-end device.
+* To grind with Control using the M1, it is recommended to click 3 times and wait before clicking again, as the fourth click has high knockback which is not ideal for grinding. Otherwise, '''M1 (Fist Mode)''' seems to be a better candidate for this as it can deal high, continuous damage to NPCs infinitely (if you keep materializing and tossing cubes onto the NPCs), also creating distance in the meantime.
+* {{Ability|C}} (Base Mode) can be punished if the opponent spams moves like [[Portal]] {{Ability|Portal|X}} or [[Skull Guitar]] {{Ability|Skull Guitar|X}} fast enough.
+* {{Ability|V}} may occasionally make the user stuck, giving a free kill to the opponent.
+* Players can jump on the cubes created in fist mode, effectively creating platforms in the air.
+* {{Ability|V}} (held) has lower damage than the tap variation.
+* Players can charge cubes made by '''M1 (Fist Mode)''' with {{Ability|F}} to deal 50% more damage.
+* If the player uses {{Ability|F}} and then activates any other move, the teleport will be '''Ghost''' led. This can trick enemies into thinking the player is about to teleport to that spot, making it a great bait for combos if they fall for it.
+* If the user's own device is strong enough, the combination of [[Draco]] V4, paired with [[Primordial Reign]], used with held {{Ability|V}} can completely lag out/disconnect other players in the server.
+* Control is especially a good fruit for [[Raids]], as its high-damaging AOE moves, decently far range, high stun potential, and the fact that you can stand over the floating cubes you create from your '''Fist Mode M1'''<nowiki/>'s makes you practically almost untouchable while being able to deal solid damage to enemies from a distance.
+* There is a trick to use '''Control X (Mode: Dagger)''' outside domain, by using {{Ability|F}} then use it again then instantly using {{Ability|X}}. However, this is a difficult trick to master.
+* During [[Sea Events]] if a [[Terrorshark]] or [[Shark (Enemy)|Sharks]] spawn, the user can lead them to a tall rock on the water. The player will have to stand on the top away from the [[Terrorshark|Terrorshark's]] attack range and then can spam the  '''M1 (Dagger Mode)'''. This can work better with [[Pale Scarf]] and best with [[Leviathan Crown]] accessory. Since these tall rocks are so common and easy to find in seconds, Control is considered to be one of the best fruits for [[Terrorshark|Terrorsharks]].
+* During the without room '''[X] Slice N' Dice''' stun, the user can use any '''M1''' to deal more damage during a combo. 
+
+==Gallery==
+<gallery>
+File:ControlDomain idle.gif|The idle animation while '''[Z] Domain Control is active'''
+File:Control Draco flight.gif|The boosted [[Draco]] v2 (and v4) flight, when '''[Z] Domain Control''' is active.
+File:Order Nuke Graveyard.png|The flung part of [[Laboratory]], thrown all the way to [[Graveyard Island]].
+File:Gamma Knife Shenanigins.gif|One of the towers of [[Castle on the Sea]] split in half by using Base Form {{Ability|Control|C}}.
+File:DeviceKiller.gif|The highest lag-inducing attack in the game.
+File:Control In stock.png|Control can be stocked via [[Blox Fruit Dealer]].
+</gallery>
+==Trivia==
+{| class="fandom-table"
+|'''General'''
+* Old Control is used by the Lv. 1250 [[Raid Bosses|Raid Boss]], [[Order]].
+* Control and [[Buddha]] are the only fruits that buff weapons.
+* '''Dagger Form'''<nowiki>'s</nowiki> {{Ability|TAPMode}}'s Hold/swipe variant cannot be used while using shift lock on pc.
+* Control is the second fruit that buffs [[swords]], the first being [[Buddha]].
+* The largest item Control's '''[X] (Levitate)''' could lift before its rework was over half of the entire lines of the bridge connecting [[Green Zone]] and the [[Kingdom of Rose]], the resulting explosion is almost as large as the [[Snow Mountain]]s itself, being able to easily devastate the entire area.
+* Prior to the rework, Control users could use a glitch with '''[V] Gamma Rush''', where if the move was held for long enough, the user gained the ability to move while holding down the move.
+* With a price totaling {{Money|9,000,000}} (formerly {{Money|3,200,000}}), Control is the second most expensive fruit in the game, surpassing [[Kitsune]] and [[Magnet]] and sitting right below [[Dragon]] in value.
+* Contrary to popular belief, control can actually be in the normal blox fruits stock.
+* Permanent Control shares the same price of {{Robux|4,000}} with Permanent [[Kitsune]].
+* Control is the second fruit to have a unique background image in the shop, the first being [[Dragon]].
+* The objects that are cut down by the '''Dagger mode''' hold M1s lose their collision physics, but can be stood upon.
+* The Control is the second fruit to have an appearance that changes when the physical fruit is held. The first is the physical fruit of [[Barrier]] before [[Updates/20|Update 20]].
+* Even after the rework, Control is ineffective for sea events. Moves like '''[X]''' (out of domain) and '''[V]''' cannot hit enemies, so relying on its abilities is not recommended.
+* Old Control's [Z] move could be held while casting to make the Area even larger.
+* Defeated enemies can still activate their [[Race Awakening]] (V4) even after being bisected. This doesn't stop them from respawning or saving them in any way, though.
+* [[Order]] uses the old un-reworked control fruit, while the reworked version is used by [[Zero]].
+* For some unknown reason, [[Order]] is able to slice a huge chunk of the Factory on the [[Hot and Cold|Cold]] island, using the old un-reworked Control's '''[X] Levitate'''. This part is very jittery, and has actual physics to it. It also cannot be cut further, and won't detonate if Order despawns. The part can also be flung any and everywhere on the map, reaching a size comparable to [[Bridge]].
+** Using [[Dough]]'s Awakened '''[F] Scorching Donut''' on said part completely bugs it out, flinging it far off into the distance.
+* The user can only create/cut 8 cubes at a time at any point. They can see this with small glowing cubes hovering over their avatar.
+*The [[Kitsune Mask]] visually boosts the meter gain, however it does not actually make it till up any faster.
+* Without the final research, Control is the only fruit to have a [[Power Meter]] with no use.
+* Control is the second fruit that had a problem with its price ({{Money|3,200,000}}) after its rework. The first being [[Creation]] ({{Money|800,000}}), both maintaining their old value after the rework.
+* Despite there being an ‘activated’ icon for the field, it is entirely unused in actual gameplay. This is due to an oversight.
+
+|-
+|'''[Z] Domain Control'''
+* This move used to last for 35 seconds, then increased to 55 seconds before Update 29. Currently, there is no time limit, however it will disappear after 7 consecutive seconds of leaving the room. Relocating the room using upgrade 2 will not reset the Control meter.
+* [[Draco]] V2 flight gains more height while inside of the domain.
+* Due to the absurd amount of particles and VFX used in the domain's meshes, it regularly results in major FPS drops and ping spikes, making it an absolute nuisance for medium-lower end devices, even with Fast Mode.
+|-
+|'''[C] Gamma Blade'''
+* The initial VFX on the user's hand can remain stuck if they are laggy.
+* Base Form can theoretically do an infinite amount of damage as when it starts pulling back enemies, the user can teleport via a [[Portal]]. This results in a large distance between the enemy stuck in the move and the user, causing the move to keep pulling and damaging the player infinitely. This also cannot be Instinct-tricked.
+* Despite Base Form being quite a small blade, it is able to cut extremely huge structures, with the biggest (yet) being the 4 towers around [[Castle on the Sea]].
+* Despite Fist Form also being called 'Gamma Blade', it has nothing to do with it whatsoever.
+|-
+|'''[V] Total Concentration'''
+* This is the only move in the game with two cutscenes.
+* Before the rework, Control was the first fruit in the game to feature a cutscene.
+* This move has the highest mastery requirement for a fruit alongside [[Dragon]] and [[Spirit]], which is 350. Including the upgrade for {{Ability|V}}'s held version makes it 500.
+* The tap version of {{Ability|V}} causing a pink/purple domain after missing is confirmed to be a bug by the developers, although a majority of people believe it was a reasonable and intentional design.
+* Using the held version will activate the cutscene regardless of whether enemies are present in the domain or not, and it doesn't have to be aimed, as it affects all enemies within the domain. This probably justifies the lower damage than the tap version.
+* Due to a glitch, the tap variant may deal lower damage when targeting players, making the move largely pointless as of now.
+|-
+|'''[F] Transmutation'''
+* This move has a longer range than the fully charged [X] move of the [[Cursed Dual Katana|Cursed Dual Katanas]].
+* Does more damage when used inside the room than when used outside.
+* This is one of the, if not the only move that doesn't halt the passive regeneration of your stamina/health while holding it down.
+|}
+
+==Change History==
+{{Change History|10|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|nerf}} Control was nerfed.
+** {{Arrow|buff}} Control is now purchasable from the [[Blox Fruit Dealer]]
+*** Base Form
+**** {{Arrow|nerf}} [X] cooldown increased, hitbox reduced by 10%.
+**** {{Arrow|nerf}} [C] cooldown increased.
+**** {{Arrow|nerf}} Added minor endlag to [F] upon a successful hit.
+*** Dagger Mode
+**** {{Arrow|neutral}} [M1] damage increased by 350% (450% original) cooldown increased by 250% (350% the original).
+**** {{Arrow|nerf}} [X] endlag increased; range decreased by 10%; hitbox size decreased by 10%.
+**** {{Arrow|nerf}} [C] endlag increased; range decreased by 10%; hitbox size decreased by 20%.
+* Control made available to appear in stock.
+
+|-|29=
+{{Update|29}}
+* Control was added to the [[Admin Panel]].
+* Control was remade available to purchase.
+* Control’s model was slightly remade.
+* Control’s icon was remade.
+** Added Base, Fist, and Daggers Mode.
+** Added an M1 attack.
+* All moves were reworked.
+** '''[Z] Control Area''' was renamed to '''[Z] Domain Control'''.
+** '''[X] Levitate''' was renamed to '''[X] Slice N' Dice''' and requires 150 mastery to unlock instead of 1 mastery.
+** '''[C] Echo Knife''' was renamed to '''[C] Gamma Blade'''.
+** '''[V] Gamma Rush''' was renamed to '''[V] Total Concentration'''.
+** '''[F] Teleport''' was renamed to '''[F] Transmutation'''.
+: <gallery>
+OldControlFruit.png|Old Control's inventory icon.
+OldControlIcon.png|Old Control's fruit icon.
+ControlActivatedIcon.png|Old Control's activated icon.
+<gallery>
+Control ZA.gif|Old '''[Z] Control Area''' Tap
+Control ZB.gif|Old '''[Z] Control Area''' Held
+Control XA.gif|Old '''[X] Levitate''' A
+Control XB.gif|Old '''[X] Levitate''' B
+Control CA.gif|Old '''[C] Echo Knife''' Attacker’s POV
+Control CB.gif|Old '''[C] Echo Knife''' Victim’s POV
+Control VA.gif|Old '''[V] Gamma Rush''' Attacker’s POV
+Control VB.gif|Old '''[V] Gamma Rush''' Victim’s POV
+Control F.gif|Old '''[F] Teleport
+</gallery>
+
+|-|28=
+{{Update|28}}
+* Control was made unavailable to purchase from the [[Blox Fruit Dealer]]’s stock and [[Shop]].
+
+|-|20=
+{{Update|20}}
+* Control Fruit's model was remade.
+: <gallery>
+Control 150x150.png|Old Control Fruit's icon.
+</gallery>
+
+|-|17.2=
+{{Update|17.2}}
+* Control was buffed.
+** '''[Z] Control Area''' now lasts longer.
+** Lowered cooldown on '''[X] Levitate''' and '''[F] Teleport'''.
+** Increased the damage of '''[V] Gamma Rush''', and it no longer shrinks after catching a player, and doesn't disappear after the move.
+
+|-|16=
+{{Update|16}}
+* Control was buffed.
+** Increased the damage of '''[X] Levitate'''
+
+|-|14=
+{{Update|14}}
+* Control was buffed.
+** Increased the stun on '''[C] Echo Knife'''.
+** Slightly increased damage on '''[V] Gamma Rush'''.
+
+|-|11=
+{{Update|11}}
+* Control was buffed.
+** Decreased the end-lag on '''[C] Echo Knife'''.
+
+|-|10=
+{{Update|10}}
+* Control was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+[[ru:Контроль]]

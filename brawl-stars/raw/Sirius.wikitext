@@ -1,0 +1,238 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Banished|PrestigeTitle = In the shadows|Rarity = Ultra|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3400|AttackRange = 7.33 (Long)|AttackSpeed = 2500<br>3800 (with A Starr is Born)|AttackWidth = 0.47|Reload = 1.6 seconds (Normal)|SuperRange = 10 (Very Long)|AttackSuperCharge = 25.05%|AttackBullets=2|AttackLabel = Bomb Damage|Attack = 600|AttackLabel2 = Strike Damage|Attack2 = 600|SuperSuperCharge = 0% |SuperSpeed = 29000|VoiceActor=Jack Ayres|Gadget1Name=A Starr is Born|Gadget1Cooldown=20 seconds|Gadget2Name=Master of Shadows|Gadget2Cooldown=13 seconds|AttackHyperchargeCharge=3.5%|SuperHyperchargeCharge=|HyperchargeMultiplier=14%|Previous=Kaze|Gadget1Range=9}}{{Quote|His identity is as mysterious as his powers. He had the very first attraction at Starr Park, but rumor has it he was kicked out unfairly, and banned from ever returning. Now... he's back for REVENGE.}}{{Portrait}}
+Sirius is an {{Rarity|Ultra}} [[Brawler]] who has moderate health, a long range, a low damage output, and immense utility with his Super. He was the 100th Brawler added to the game, and during his initial release he could be unlocked for free early by winning one match each with the previous 99 Brawlers. His Trait allows his Super to charge itself over time. His attack fires two projectiles at the same time, which consist of a long ranged Shadow Strike and a Starr Bomb that explodes onto the ground in a small radius. The attacks charge his Brawler Shadows. For his Super, Sirius spawns all collected Brawler Shadows, which have less health and less damage than their Brawler counterparts. He can use it to direct the Shadows into attacking other targets or send them back to him. His first Gadget, A Starr Is Born, spawns a Shadow upon impact, temporarily slowing them down in the process. His second Gadget, Master of Shadows, summons the Shadows back to Sirius, healing them in the process. His first Star Power, Dusk Runners, increases the movement speed of the Shadows. His second Star Power, The Darkest Starr, increases the amount of hits with the Shadow Strike. His Hypercharge, Unlimited Power!, increases the Shadows' health and damage.
+
+==Trait==
+{{Quote|This Brawler charges Super over time.}}{{Trait|Auto}}
+Sirius' Super charges automatically over time. His Super charges 75% per second from his Trait alone, and it takes 1.33 seconds to fully charge his Super. Sirius can only charge his Hypercharge by landing attacks. Much like [[Jae-yong]], his main attack adds an insignificant amount of charge to his Super.
+
+== Ultra Trait ==
+{{Quote|Control Brawler Shadows! Tap to summon the copies or drag to command them}}{{Trait|Sirius}}
+Sirius' Ultra Trait is to gain Shadows with his attack, and spawn and control them with his Super. Every fourth damaging hit from a Starr Bomb or Shadow Strike will collect a Brawler Shadow that matches the enemy Brawler hit. Enemies hit for the first-third attacks have no effect on what shadow is collected. Sirius can hold up to three Shadows and the amount of collected shadows is shown under the Super button. Up to six Shadows can be active at once. If Sirius is defeated, all stored Shadows remain stored, but all active Shadows disappear and any partial collection progress will be removed.
+
+Shadows have the same attack and movement speed as their Brawler counterpart and use the skin of the extracted brawler. If the Brawler has multiple forms, the created Shadow will match the form when they were hit. They have 60% of the extracted brawler's health, deal 55% of their damage, can not use their Supers, Gadgets, Star Powers, Hypercharges, nor Buffies, and they can not charge Sirius' Hypercharge. Like [[Lawrie]], Shadows will attempt to strafe around enemy projectiles rather than running straight toward the enemy. The Shadow's strength in Power Levels is based on the Power Level of the opponent that is playing as the Brawler and not Sirius' own Power Level, so opponents playing Power Level 11 Brawlers will make the Shadow's strength based on their Power Level 11 stats, even if Sirius is not at Power Level 11. 
+
+Spawnables from other Brawlers and stationary mode-specific targets like the [[Heist]] safe cannot have their shadows extracted, nor do they build up progress for shadow collection. Certain computer-controlled enemies can add to the Shadow collection meter depending on the mode; for example, [[Brawl Bosses]] can add to the meter-which will spawn a Shadow of Sirius using his selected skin, but not the robots in [[Brawl Arena]]. Shadows can not pick up items like the ball in [[Brawl Ball]], [[Power Cube]]s, or stars in [[Bounty]].
+
+==Attack: Binary Starr==
+{{Quote|Sirius conjures two projectiles, a Starr Bomb that deals area damage and a Shadow Strike that hits a single target. Sirius will collect a Brawler Shadow on every 4th hit. Sirius can store 3 Brawler Shadows at a time.}}
+Sirius fires two projectiles, which consist of lobbing a Starr Bomb that deals area damage and can go over walls, and a Shadow Strike that goes in a straight line to hit a single target. Both projectiles have the same trajectory, damage, and range. If both projectiles hit simultaneously, both will add points to the Shadow collection meter. 
+
+==Super: Shadow Summon==
+{{Quote|Sirius unleashes all collected Brawler Shadows into the world. Shadows will take on the characteristics of their Brawler counterpart, like attacks and health.<br>Sirius can instruct Shadows to his bidding! Tap for them to return and follow Sirius, or aim to give them an area to guard.<br><br>Brawler Shadow stats are a % of their base Brawler.}}
+Sirius spawns all currently collected Brawler Shadows. When there is at least 1 shadow up, the Super also serves to relocate the shadows; auto-aiming will cause the shadows to run towards Sirius, and aiming it will move them to the center of the aiming circle. Shadows set to a location will patrol a large area marked by the aiming circle, while Shadows not set to a location will have an identically-sized patrol location set to Sirius' position, which moves with Sirius. The relocation is done after any shadows are summoned, meaning that any shadows spawned by the Super will immediately obey the command issued. If no Shadows are on the map, he cannot use his Super until he has at least one Brawler Shadow collected, and it will be grayed out when not available. Sirius can store up to three Shadows with his Super. If Sirius already has six Shadows active, spawning another Shadow will despawn the oldest Shadow.
+
+==Gadgets==
+===A Starr is Born===
+{{Quote|Sirius fires a projectile that summons a Shadow on hit, also slowing the hit target by 20% for 2 sec. Cooldown: 20 seconds.}}{{Gadget|1}}
+Sirius fires a projectile that summons a Shadow of the enemy brawler hit upon impact, slowing the enemies hit down by 20% for 2 seconds. The projectile itself does not deal any damage. The projectile can slow spawnables and deployables even though it cannot create shadows of them. If Sirius had used his Super to set a patrol location for his Shadows, the Shadow spawned from this Gadget will go towards that patrol location. 
+
+===Master of Shadows===
+{{Quote|Summoned Shadows return to Sirius, who heals them for 25% of their health. Cooldown: 13 seconds.}}{{Gadget|2}}
+Activating this Gadget teleports all Shadows back to Sirius, healing them for 25% of their health.
+
+==Star Powers==
+===Dusk Runners===
+{{Quote|Shadows have +15% movement speed.}}{{StarPower|1}}
+Brawler Shadows will have their movement speed increased by 15%.
+
+===The Darkest Starr===
+{{Quote|Each hit with a Shadow Strike counts as 2 to collect Brawler Shadows, instead of 1.}}{{StarPower|2}}
+Each Shadow Strike's counter for collecting Brawler Shadows is doubled. As Starr Bomb still only adds one to the counter, this allows for shadows to be collected 50% faster. This can overfill the meter, meaning that if Sirius is 1 hit away from a shadow, a Shadow Strike hit will extract the shadow and fill the shadow collection meter by 1.
+
+==Hypercharge: Unlimited Power!==
+{{Quote|Shadows summoned during Hypercharge have increased damage and health.}}{{Hypercharge}}
+When activated, Sirius summons Shadows that have more health and deal more damage. A Hypercharged Shadow will have 85% of the health and deal 70% of the damage of the Brawler counterpart. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+
+* If you are playing [[Brawl Ball]], use the Super to kick the ball since it recharges very quickly. Keep in mind that you need at least one active Shadow to be able to use the Super.
+* Try to use Sirius' Hypercharge when three Shadows are saved to create three powerful Shadows, as the Hypercharge only take effect on the shadows summoned within its duration.
+* Use Sirius' Master of Shadows Gadget when you get ambushed, so you will have many Shadows to defend against the surprise attack.
+* [[Janet]] Shadows don't know how to charge an attack, so try to avoid collecting Shadows from her, by attacking a different opponent when the next attack collects a Shadow. 
+* When playing in bushy maps, you may stack up to six Shadows by directing them to your spawn location. Then use his Master of Shadows Gadget to perform a surprise attack when opponents get close.
+* When using Sirius' Super, be mindful of splash damage like [[Nita]], [[Tara]], [[Carl]], [[Emz]], or [[Penny]] as they can still damage Sirius and destroy the Shadows in just a few hits. Penny and Emz in particular are very dangerous for Sirius, as their splash attack can wipe out his Shadows and even take out Sirius himself if he's using them as shields.
+* Sirius' lackluster HP and relatively low damage make him weak in 1-on-1 situations, so try to tag along with teammates instead of going alone when collecting Shadows.
+
+==Voice Lines==
+{{TranslationToggle|French}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Sirius start vo 01.ogg|Filedescription = "My circus has plenty of space for everyone."}}
+|{{Ogg|Filename = Sirius lead vo 01.ogg|Filedescription = "Ahahaha, I am the only real Brawl Star!"}}
+|{{Ogg|Filename = Sirius hurt vo 01.ogg|Filedescription = "Don't worry, I will make you join me."}}
+|{{Ogg|Filename = Sirius kill vo 01.ogg|Filedescription = {{Translate|"This is for you, Charlie, ma petite étincelle."|"This is for you, Charlie, my little spark."}}}}
+|{{Ogg|Filename = Sirius die vo 01.ogg|Filedescription = "Ugh, the show's not over, clowns!"}}
+|
+|{{Ogg|Filename = Sirius ulti vo 01.ogg|Filedescription = "Behold my grandest illusion!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 02.ogg|Filedescription = "Here comes the sun and the moon."}}
+|{{Ogg|Filename = Sirius lead vo 02.ogg|Filedescription = "Another arena, another conquest!"}}
+|{{Ogg|Filename = Sirius hurt vo 02.ogg|Filedescription = "The difference between us is night and day."}}
+|{{Ogg|Filename = Sirius kill vo 02.ogg|Filedescription = "You're weak!"}}
+|{{Ogg|Filename = Sirius die vo 02.ogg|Filedescription = "You'll see, the star always returns."}}
+|
+|{{Ogg|Filename = Sirius ulti vo 02.ogg|Filedescription = "Let the Shadows take the stage!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 03.ogg|Filedescription = "Ah, the cycle of pain begins."}}
+|{{Ogg|Filename = Sirius lead vo 03.ogg|Filedescription = "Such weakness."}}
+|{{Ogg|Filename = Sirius hurt vo 03.ogg|Filedescription = "You are in serious trouble."}}
+|{{Ogg|Filename = Sirius kill vo 03.ogg|Filedescription = "Ha, I prefer the Shadow you."}}
+|{{Ogg|Filename = Sirius die vo 03.ogg|Filedescription = "What? I am mortal?"}}
+|
+|{{Ogg|Filename = Sirius ulti vo 03.ogg|Filedescription = "The circus of Shadows begins!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 04.ogg|Filedescription = "A star is born."}}
+|{{Ogg|Filename = Sirius lead vo 04.ogg|Filedescription = "This is my circus!"}}
+|{{Ogg|Filename = Sirius hurt vo 04.ogg|Filedescription = "Ha, was that your best?"}}
+|{{Ogg|Filename = Sirius kill vo 04.ogg|Filedescription = "Your defeat fuels my power!"}}
+|{{Ogg|Filename = Sirius die vo 04.ogg|Filedescription = "Just... a dramatic pause!"}}
+|
+|{{Ogg|Filename = Sirius ulti vo 04.ogg|Filedescription = "Now, starring: your worst nightmare!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 05.ogg|Filedescription = "Fear, hahaha, is my finest weapon."}}
+|{{Ogg|Filename = Sirius lead vo 05.ogg|Filedescription = "I am the shiniest star!"}}
+|{{Ogg|Filename = Sirius hurt vo 05.ogg|Filedescription = "You'll pay for that with your life!"}}
+|{{Ogg|Filename = Sirius kill vo 05.ogg|Filedescription = "Let the weak be crushed!"}}
+|{{Ogg|Filename = Sirius die vo 05.ogg|Filedescription = "Fools, I am inevitable!"}}
+|
+|{{Ogg|Filename = Sirius ulti vo 05.ogg|Filedescription = "Welcome to the Shadow show!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 06.ogg|Filedescription = "Who ordered the boss battle?"}}
+|{{Ogg|Filename = Sirius lead vo 06.ogg|Filedescription = "Clowns, try to keep up."}}
+|{{Ogg|Filename = Sirius hurt vo 06.ogg|Filedescription = "Your pain will be my pleasure."}}
+|{{Ogg|Filename = Sirius kill vo 06.ogg|Filedescription = "Ha, you are but a clown in my circus."}}
+|{{Ogg|Filename = Sirius die vo 06.ogg|Filedescription = "My spotlight never fades."}}
+|
+|{{Ogg|Filename = Sirius ulti vo 06.ogg|Filedescription = "Ah, welcome to the Sirius' Shadow show!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 07.ogg|Filedescription = "Such audacity from a mere clown!"}}
+|{{Ogg|Filename = Sirius lead vo 07.ogg|Filedescription = "Ooo-hoo, even my Shadow's impressed!"}}
+|{{Ogg|Filename = Sirius hurt vo 07.ogg|Filedescription = "Such audacity from a mere clown!"}}
+|{{Ogg|Filename = Sirius kill vo 07.ogg|Filedescription = "Your existence is pointless."}}
+|{{Ogg|Filename = Sirius die vo 07.ogg|Filedescription = "Ha, that was part of the show."}}
+|
+|{{Ogg|Filename = Sirius ulti vo 07.ogg|Filedescription = "Every clown gets a free copy!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 08.ogg|Filedescription = "Step right up to your doom!"}}
+|{{Ogg|Filename = Sirius lead vo 08.ogg|Filedescription = "Try harder, clowns! I'm bored." *yawns*}}
+|{{Ogg|Filename = Sirius hurt vo 08.ogg|Filedescription = "You'll regret that, foolish clown!"}}
+|{{Ogg|Filename = Sirius kill vo 08.ogg|Filedescription = "Cry, waa, like a tiny, little baby."}}
+|{{Ogg|Filename = Sirius die vo 08.ogg|Filedescription = "Hahahaha. Applause for my resurrection."}}
+|
+|{{Ogg|Filename = Sirius ulti vo 08.ogg|Filedescription = "Release the Shadows!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 09.ogg|Filedescription = "Light, Shadows, and total domination!"}}
+|{{Ogg|Filename = Sirius lead vo 09.ogg|Filedescription = "Too fast, too fabulous, hahaha, I'm both!"}}
+|{{Ogg|Filename = Sirius hurt vo 09.ogg|Filedescription = "This isn't your act, fool!"}}
+|{{Ogg|Filename = Sirius kill vo 09.ogg|Filedescription = "Join my circus of souls!"}}
+|
+|
+|{{Ogg|Filename = Sirius ulti vo 09.ogg|Filedescription = "Shadow army, assemble!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 10.ogg|Filedescription = "Time to steal the spotlight, ha, and some souls."}}
+|{{Ogg|Filename = Sirius lead vo 10.ogg|Filedescription = "Oh, look! I'm amazing, again!"}}
+|
+|{{Ogg|Filename = Sirius kill vo 10.ogg|Filedescription = "Hahahahaha, another Brawler joins my circus."}}
+|
+|
+|{{Ogg|Filename = Sirius ulti vo 10.ogg|Filedescription = "Behold my grandest illusion!"}}
+|-
+|{{Ogg|Filename = Sirius start vo 11.ogg|Filedescription = "Has anyone seen my little sparkle?"}}
+|
+|
+|{{Ogg|Filename = Sirius kill vo 11.ogg|Filedescription = Sirius laughs}}
+|
+|
+|{{Ogg|Filename = Sirius ulti vo 11.ogg|Filedescription = "Clones, chaos, carnage, and... confetti."}}
+|-
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Sirius ulti vo 12.ogg|Filedescription = Sirius laughs}}
+|}
+
+==Sirius Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Sirius}}
+
+==History==
+*25/02/26:
+**{{Balance|Content=Sirius became available in [[Training Cave]].|Change=Neutral}}
+*26/02/26:
+**{{Balance|Content=Sirius could be unlocked early by completing a special quest required to win one battle with all the previous 99 Brawlers until 05/03/26, from [[Brawler Boxes#Sirius Boxes|Sirius Boxes]], obtaining 20 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+*05/03/26:
+**{{Balance|Change=Neutral|Content=Sirius became available in the Starr Road.}}
+*19/03/26:
+**{{Balance|Change=Nerf|Content=Sirius' movement speed was decreased to 720 (from 770).}}
+**{{Balance|Change=Nerf|Content=Sirius' attack projectile speed was decreased by 20%.}}
+**{{Balance|Change=Nerf|Content=Sirius' A Starr is Born Gadget cooldown was increased to 20 seconds (from 17).}}
+**{{Balance|Change=Nerf|Content=All summoned Shadows now disappear instantly if Sirius is defeated.}}
+*22/04/26:
+**{{Balance|Nerf|Sirius' level up movement speed was decreased to 6 (from 8) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Sirius' True Silver and True Gold skins were added.}}
+**{{Balance|Neutral|Fixed an issue where summoned Shadows could attack indefinitely when copying a Brawler with multiple attack types.}}
+*28/04/26:
+**{{Balance|Nerf|Sirius' Shadow clone health was decreased to 60% of the copied Brawler's health (from 70%).}}
+*13/05/26:
+**{{Balance|Nerf|Sirius' health was decreased to 3400 (from 3700).}}
+*30/06/26:
+**{{Balance|Buff|Sirius' level up damage was increased to 3% (from 2%) in Brawl Arena.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed a bug where Sirius' Shadows health was based on 60% of Sirius' health instead of 60% of the enemy Brawler's health.}}
+*01/09/26:
+**{{Balance|Neutral|Sirius' rarity was changed to Ultra (from Ultra Legendary).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Sirius' movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (2)===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=|TrueSkins=Yes}}
+
+=== Portraits ===
+<gallery>
+File:Sirius Portrait.png|Default
+File:Sirius Alternate Default Portrait.png|Alternate Default
+</gallery>
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Sirius
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Sirius|Rarity = Common}}
+|{{Spray|Type = Sirius Mask|Rarity = Common}}
+|{{Spray|Type = Sirius Skull|Rarity = Common}}
+|{{Spray|Type = Sirius Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Sirius1}}
+|{{Pfp|Sirius2}}
+|{{Pfp|Sirius3}}
+|{{Pfp|Sirius4}}
+|}
+
+{{Navigation}}
+[[es:Sirius]]
+[[ru:Сириус]]
+[[pt:Sirius]]

@@ -1,0 +1,184 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Backstabber|PrestigeTitle = Right behind you|Rarity = Mythic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>983 (with Vigilance)|HealthLabel = Health|Health = 4200|AttackRange = 2 (Short)|Reload = 0.8 seconds (Very Fast)|AttackSuperCharge = 26.5%|AttackLabel = Damage|Attack = 1060|AttackSpeed = 3500|AttackWidth = 2|SuperRange = 9 (Long)|SuperSuperCharge = 12.5%<br>25% (with Repot)|SuperLabel = Damage|Super = 500|SuperSpeed=3800<br>2000 (with Repot)<br>5000 (with Hypercharge)|SuperWidth=1.33|Gadget1Name=Vanish|Gadget1Cooldown=22 seconds|Gadget2Name=Repot|Gadget2Cooldown=10 seconds|StarPower1Name=Spiky|StarPower1=954|StarPower1Label=Damage Increase|Previous=Melodie|Next=Clancy|Hypercharge|HyperchargeMultiplier=35%|AttackHyperchargeCharge=9.275%|SuperHyperchargeCharge=4.375%<br>8.75% (with Repot)|Gadget1Duration=3 seconds}}{{Quote|A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...}}{{Portrait}}
+Lily is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health, a potentially high damage output, and a very fast reload and movement speed, but a short attack range. She was the 79th Brawler added to the game. Her Trait allows her to passively charge her Super if an enemy Brawler is within her radius. Lily attacks by jabbing a short-ranged thorn at enemies. She has 2 ammo with a fast reload speed. For her Super, she shoots a large fruit that, upon hitting an enemy Brawler, teleports her behind them, dealing damage in the process. Her first Gadget, Vanish, temporarily transports her to the Shadow Realm. Her second Gadget, Repot, makes her next Super lob over obstacles, teleporting her to where it lands, and dealing splash damage to enemies. Her first Star Power, Spiky, adds damage to her next attack after she teleports. Her second Star Power, Vigilance, increases her movement speed if an enemy is inside her Trait's Super charging area. Her Hypercharge, Germinate, allows her Super to bounce off of walls and temporarily transport to the Shadow Realm. Lily and enemies affected by her Hypercharged Super can't use or charge their Super, Gadgets, or Hypercharge.
+
+==Trait==
+{{Quote|This Brawler charges Super from staying close to opposing Brawlers}}{{Trait|Radius}}Lily's Trait is a 6-tile circle around her. Like [[Buzz]] and [[Cordelius]], all enemy Brawlers within this circle charge Lily's Super. She charges her Super and Hypercharge faster if there are multiple enemies inside the radius, and the amount of Super charge per second is 3.375% multiplied by one more than the number of enemies present within the circle. This results in the Super charging by 6.75% per second each or over 15 seconds for one enemy, and her Hypercharge by 2.3625% per second each or over 43 seconds for one enemy. Her Super and Hypercharge still charge even with invisible or bush-camping enemies, but they do not charge when inside the Shadow Realm. Ally Lilys will have their Trait radius shown, while enemy Lilys will have their Trait radius hidden.
+
+==Attack: Thorn in the Side==
+{{Quote|Lily stabs in front of her with her thorns, dealing damage.}}
+Lily throws out a short-ranged, piercing thorn. The attack cooldown is extremely short, and it takes 0.15 seconds to complete. Lily has two ammo slots.
+
+==Super: Flourish==
+{{Quote|Throw a seed in a straight line. If it hits an enemy, Lily teleports behind them.}}
+Lily shoots a large fruit forward, that upon hitting an enemy Brawler, instantly teleports her opposite wherever the target Brawler was facing, and deals a small amount of damage. However, she will not teleport if the Super does not hit an enemy. The Super ignores pets and spawnables, and the projectile will simply pass through them.
+
+==Gadgets==
+===Vanish===
+{{Quote|Lily enters the Shadow Realm for 3 seconds. Cooldown: 22 seconds.}}{{Gadget|1}}
+Lily goes into the Shadow Realm for 3 seconds. Lily will turn invisible, but her allies can see where she's moving within the Shadow Realm, but she cannot see where they are. Unlike [[Cordelius]], she cannot bring anyone else with her. If a Cordelius uses his Super on a Brawler, or another Lily Vanishes into there, she can use this Gadget to temporarily join the fight with them in the Shadow Realm. This Gadget's cooldown begins 0.25 seconds after the button is pressed.
+
+===Repot===
+{{Quote|The next Flourish, becomes a thrown attack, and Lily teleports to the destination on impact. Cooldown: 10 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Lily's next Super to throw a slower moving fruit over obstacles that, upon landing, will teleport Lily to the fruit even if it does not hit an enemy. The projectile deals splash damage in a 1.5-tile radius, dealing double the damage of a regular Super and also recharging double the Super. A Gadget symbol will glow above Lily's head signaling this Gadget's activation, as well as a glowing Super joystick. Using this Gadget while Hypercharged will cancel the effects her Hypercharged Super has. This Gadget's cooldown begins after the Super is used.
+
+==Star Powers==
+===Spiky===
+{{Quote|After teleporting to an enemy, Lily's next attack deals 1060 more damage.}}{{StarPower|1}}
+After teleporting to an enemy, Lily's next attack damage is increased by 50%. The damage increase disappears the frame the attack deals damage, so it only affects the first targets hit by her attack. The Star Power will be active even if Lily misses and will persist until she hits an enemy. Because it scales with Lily's attack damage, the damage increase will be more or less depending on her Power Level.
+
+===Vigilance===
+{{Quote|Gain 15% movement speed while an enemy is in her Super charge radius.}}{{StarPower|2}}
+This Star Power increases Lily's movement speed by 15% when an enemy Brawler is inside her Trait's Super charging area. This effect doesn't stack when more enemy Brawlers are inside her charging area, but does stack with other speed boosts, such as the Speed [[Gears|Gear]], [[Stu]]'s Speed Zone Gadget, or [[Max]]'s Super.
+
+==Hypercharge: Germinate==
+{{Quote|Lily's Flourish now bounces off walls, and transports the enemy and Lily to the Shadow Realm for 5 seconds.}}{{Hypercharge}}
+When activated, Lily's Super bounces off of walls and, upon hitting enemies, it teleports Lily to the enemy hit and transports both of them to the Shadow Realm for 5 seconds, where they are isolated from other players. The projectile speed is also greatly increased. Similar to [[Rico]]'s and [[Ruffs]]' main attacks, Lily's Super will gain 3.33 tiles of additional range for the first 5 bounces. If Lily throws her Hypercharged Super then uses her Vanish Gadget, she will disappear into the Shadow Realm for three seconds, but if the Super hits an enemy, the duration will refresh and start counting down from 5 seconds, and Lily will teleport to the enemy hit.
+
+In the Shadow Realm, similar to [[Cordelius]]' Super, a countdown will appear on screen, the enemy Brawler can use their main attacks, but neither of them can use their Supers, Gadgets, or Hypercharges. After 5 seconds, or if Lily or her enemy is defeated, they will no longer be in the Shadow Realm, and the countdown will stop. The Shadow Realm's environment will glow a purple tone, while Lily and her enemy will glow a pinkish-purple tone. Lily cannot charge her Super by any means in her Shadow Realm even though her Trait radius is visible. Her opponent also cannot charge their Super, except if they have a Trait that allows them to charge Super from taking damage, such as [[Jacky]], [[El Primo]], [[Bull]], [[Frank]], [[Rosa]], [[Hank]], [[Trunk]], [[Ollie]], or [[Draco]]. Both Brawlers' allies can see where their equivalent location is in the normal environment. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Her Super can bounce multiple times.}}<div style="float:right">[[File:Hot Wasabi.png|64px|link=]]</div>
+Lily's Super range increased to 16.67 tiles. The projectile could also bounce off of walls and gain an additional 16.67 tiles for the first 8 bounces, for a total Super range of 150 tiles. When using her Repot Gadget, the range was greatly increased as well, meaning Lily could teleport to it's location after a long waiting period of it dropping. In addition, her Super charged automatically over 20 seconds and her Hypercharge over 57.15 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*Lily is good in Gem Grab since you can teleport to the enemy gem carrier, kill them, then escape using her Vanish gadget. However, you cannot see where enemies are when in the Shadow Realm, so be careful where you emerge. Since your Super only works if it hits an enemy, don’t rely on that to escape.
+*Lily excels in Brawl Arena, where the bot swarms allow her to passively charge her Super and Hypercharge extremely quickly. Her Vanish Gadget can be used to bypass enemy surveillance and bot swarms easily, or to escape from hairy situations, while her Hypercharge is exceptionally useful at taking down high-level brawlers.
+
+===Recommended Build===
+*Lily's Vanish Gadget is essential. It is a powerful tool to launch surprise attacks, escape battles, and dodge enemy attacks or even Supers (like [[Buzz]], [[Surge]], [[Chuck]], [[Colette]], [[Bull]], [[El Primo]], [[Fang]], [[Tick]], [[Mandy]], [[Kit]], [[Dynamike]], or [[Frank]]’s). As a result, it is advisable to use the Gadget Cooldown [[Gears|Gear]].
+**The Vanish Gadget can be used to temporarily ignore enemy Brawlers and their spawnables like [[Nita]]'s bear or [[Jessie]]'s turret, as a means of escaping from them, or to walk through them. For example, in [[Heist]], you can use this Gadget to walk freely to the enemy team's safe without being harmed.
+**You can also hide in a bush and wait for an enemy Brawler coming. You will know when an enemy is coming when your Super begins to automatically charge. You can then do 2120 damage or more and escape with your Vanish Gadget. This works especially well in Solo [[Showdown]].
+**You can use the Vanish Gadget to sneak into the enemy back lines without them noticing. There, you can ambush them after emerging from the Shadow Realm, taking them by surprise and dealing high damage to if not killing them.
+**When you use the Vanish Gadget, try to remember where your opponents were and predict where they will be when you emerge from the Shadow Realm. This way, you can either avoid reappearing right next to a strong Brawler that will overpower you at close range, or purposefully reappear on a weak brawler and catch them by surprise.
+***When playing against Lily and she uses her Vanish Gadget at low health to escape, try to predict where she will run to, so you can follow her there and be ready to finish her off once she reappears.
+***Vanish's long cooldown means that, when playing against Lily, you can easily punish her for being too aggressive. If there is a Lily on the enemy team, space out at the start of the game to ensure Lily cannot hit all of you at once, but not too far that you cannot react if a teammate gets ambushed.
+***When playing against Lily as [[Cordelius]], using your Super on any opposing player will also expose Lily to you if she used her Vanish Gadget.
+*Although Repot is a fantastic Gadget that enables Lily to use her Super to make unexpected plays or cover vast distances, it requires her to get a Super, which can be difficult even with her Trait due to her extremely short range. Vanish is simply a far better Gadget that allows Lily to get into key positions without being seen and allows for surprise attacks early into the match. Furthermore, Repot's slow speed allows enemies to easily evade the projectile.
+**If you insist on using Repot, use it on maps where enemies are likely to remain in Lily's Trait range and have areas where Lily can remain unseen until it is charged, such as [[Center Stage]], and use it only at close range so enemies can't dodge it. 
+*Lily's Vigilance Star Power is the best choice in modes where movement is the priority, like [[Brawl Ball]] and [[Showdown]]. However, the damage boost given by the Spiky Star Power can make it a better choice in other modes like [[Bounty]] or [[Heist]].
+*Due to how essential Vanish is to Lily, Gadget Cooldown Gear is recommended, reducing its cooldown from 22 seconds to 18.7 seconds. 
+* Damage Gear is also recommended to allow Lily to defeat enemies with less ammo. Due to Lily's short range, she will often go below half health during combat, allowing this Gear to activate. 
+
+===Strategies===
+*A good way to play Lily is to follow enemies to allow your Super to charge, while staying behind walls or hidden in bushes. Once it is charged, you can emerge and use her Super followed by spamming her attack to deal enough quick damage to take down most Brawlers.
+**With her Spiky Star Power, a Super followed by two attacks deals lots of damage almost instantly. After that, her quick unload and reload speed, plus her rapid Super charge, can keep up the damage enough to eliminate most Brawlers quickly.
+**If you teleport to a tank, do the same until you are low on health, then use your Vanish Gadget to go to the Shadow Realm and escape.
+
+===Other===
+*Lily's Trait, like [[Buzz]], [[Cordelius]], or [[Shade]]'s, is a great scouting tool for bush-filled areas or maps like [[Snake Prairie]], since her Super will start charging up if an invisible or bush-camping enemy is within its radius.
+**Because of this, if there are bushes near you or you are playing against a [[Leon]], [[Shelly]], [[Rosa]], or Kit. it is ideal not to hold on to a fully charged Super, because then you will not know if someone sneaks up on you.
+*Since you do not reload while using her Super, make sure that you have all your ammo beforehand. This allows you to deal high damage instantly after teleporting, especially if you have the Spiky Star Power equipped.
+
+==History==
+*24/04/24:
+**{{Balance|Neutral|Lily could be unlocked early as a bundle for $19.99.}}
+**{{Balance|Neutral|Lily became available to play in the [[Training Cave]].}}
+**{{Balance|Neutral|The Strawberry Lily skin was added.}}
+*25/04/24:
+**{{Balance|Neutral|Fixed a game crash caused by Lily.}}
+*02/05/24:
+**{{Balance|Neutral|Lily became available in the Starr Road.}}
+*25/06/24:
+**{{Balance|Buff|Lily's ammo slot was increased to 2 (from 1).}}
+**{{Balance|Nerf|Lily's Super damage was decreased to 500 (from 1000). This does not affect her Super with Repot Gadget active.}}
+**{{Balance|Nerf|Lily's Super recharge rate was decreased by 50%. This does not affect her Super with Repot Gadget active.}}
+**{{Balance|Neutral|Lily's True Silver and True Gold skins were added.}}
+*01/07/24:
+**{{Balance|Nerf|Lily's health was decreased to 4100 (from 4200).}}
+**{{Balance|Nerf|Lily's main attack damage was decreased to 1060 (from 1200).}}
+**{{Balance|Nerf|Lily's Super charge rate was decreased by approximately 8%.}}
+*27/08/24:
+**{{Balance|Neutral|Fixed the issue with Lily's Repot Gadget altering her Super until she is defeated.}}
+*07/11/24:
+**{{Balance|Neutral|The Angel Lily skin was added. It was featured as a Ranked skin for Brawl Pass Season 32 and an Angels vs. Demons skin.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Neutral|Fixed an issue where Lily could teleport to enemies with her Super while in the Shadow Realm.}}
+*01/05/25:
+**{{Balance|Neutral|Lily's Wasabi Power was added for a limited time.}}
+*05/05/25:
+**{{Balance|Neutral|Lily's Germinate Hypercharge was added.}}
+*20/05/25:
+**{{Balance|Buff|Lily's Wasabi Power now charges her Super and Hypercharge automatically over time.}}
+*30/05/25:
+**{{Balance|Neutral|Lily's Wasabi Power was removed from the game.}}
+*09/08/25:
+**{{Balance|Neutral|The Knight Lily skin was added. It was featured as a Knights! skin.}}
+*03/09/25:
+**{{Balance|Nerf|Lily's Germinate Hypercharge Super projectile speed was decreased to 5000 (from 5600).}}
+*28/10/25:
+**{{Balance|Nerf|Lily's level up damage was decreased to 3% (from 4%) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Lily's level up health was decreased to 400 (from 450) in Brawl Arena.}}
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Lily's Germinate Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Lily's Germinate Hypercharge damage boost from 25%.}}
+*12/11/25:
+**{{Balance|Change=Nerf|Content=Lily's legendary Gadget cooldown Power Card buff was reduced from 50% to 40%.}}
+*16/12/25:
+**{{Balance|Buff|Lily's health was increased to 4200 (from 4100).}}
+*05/03/26:
+**{{Balance|Neutral|The Sandstalker, Sandwalker, and Night Sands Lily skins were added. They were featured as Brawl Pass Season 48 skins and Dark Sands skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Lily's movement speed to 855 (from 820).}}
+*12/09/26:
+**{{Balance|Neutral|The Twilight Queen Lily skin was added. It was featured as a Supercell Make skin and a Biodome skin.}}
+*03/11/26:
+**{{Balance|Neutral|Fixed a bug that where Lily's Super affected by the Repot Gadget did not trigger the Spiky Star Power when hitting at the outer edge of the indicator.}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Strawberry|Cost1=Free from the early bundle, free from Glowbert Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Biodome|Rarity1=Rare
+|Name2=Angel|Cost2=Free from Ranked Starr Drops, free from Angelic Drops or 149 Gems|Campaign2=Ranked|Campaign2_2=Angels vs. Demons|Rarity2=Epic
+|Name3=Knight|Cost3=199 Gems|Campaign3=Knights!|Rarity3=Mythic
+|Name4=Twilight Queen|Cost4=199 Gems|Campaign4=Supercell Make|Campaign4_2=Biodome|Rarity4=Mythic
+|TrueSkins = yes
+|NameP1=Sandstalker|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=Dark Sands|RarityP1=Epic
+|NameP2=Sandwalker|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Dark Sands|RarityP2=Epic
+|NameP3=Night Sands|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Dark Sands|RarityP3=Epic
+}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Lily
+|-
+!Skin
+! colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Angel|Sad}}
+{{Pin Table|Knight|GG}}
+{{Pin Table|Sandstalker|GG}}
+{{Pin Table|Sandwalker|GG}}
+{{Pin Table|Night Sands|GG}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Lily|Rarity = Common}}
+|{{Spray|Type = Lily Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Knight Lily|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Lily1}}
+|{{Pfp|Lily2}}
+|{{Pfp|Lily3}}
+|{{Pfp|Lily4}}
+|{{Pfp|Angel Lily}}
+|-
+|{{Pfp|Knight Lily}}
+|{{Pfp|Sandstalker Lily}}
+|
+|
+|
+|}
+{{Navigation}}
+[[ru:Лили]]

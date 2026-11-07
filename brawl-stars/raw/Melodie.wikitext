@@ -1,0 +1,283 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Fearless|PrestigeTitle = Melodian|Rarity = Mythic|Class = Assassin|MovementSpeed = 750 (Normal)<br>810 (with Fast Beats and one monster note)<br>870 (with Fast Beats and two monster notes)<br>930 (with Fast Beats and three monster notes)<br>990 (with Fast Beats and four monster notes)<br>1050 (with Fast Beats and five monster notes)<br>1110 (with Fast Beats and six monster notes)<br>3700 (with Super)|HealthLabel = Health|Health = 4000|AttackRange = 8 (Long)<br>2.17 (monster notes)<br>3.47 (monster notes; with Perfect Pitch)|Reload = 1.5 seconds (Normal)|AttackSuperCharge = 20.7%|AttackLabel = Damage|Attack = 500|AttackLabel2 = Damage per note|Attack2 = 1000|AttackSpeed=4500<br>860 (monster notes)<br>1161 (monster notes; with Perfect Pitch)|AttackWidth = 0.83|AttackSpread=360° (monster notes)|SuperRange = 5.33 (Normal)|Gadget1Name=Perfect Pitch|Gadget1Cooldown=10 seconds|Gadget2Name=Interlude|Gadget2Cooldown=19 seconds|SuperNumber=3|SuperWidth=2|VoiceActor=Lisa Kelley|Previous=Mico|Next=Lily|HyperchargeMultiplier=25%|AttackHyperchargeCharge=5.175%|SuperSuperCharge=3% (monster notes; with Hypercharge)|SuperHyperchargeCharge=0.75% (monster notes; with Hypercharge)}}
+{{Quote|When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.}}{{Portrait}}
+Melodie is a {{Rarity|Mythic}} [[Brawler]] who has great mobility with her Super, a long range, moderate health, and a variable damage output. She was the 78th Brawler added to the game. Her attack is a long-ranged monster note that deals very low damage. When she hits a target, notes appear and revolve around her, each dealing moderately high damage. Her Super has three dashes that can be individually used. Her first Gadget, Perfect Pitch, temporarily increases her notes' rotation speed and radius. Her second Gadget, Interlude, provides Melodie a shield based on the number of notes that revolve around her, which absorbs damage and decays over time. Her first Star Power, Fast Beats, increases Melodie's movement speed based on the number of notes that revolve around her. Her second Star Power, Extended Mix, increases her notes' duration. Her Hypercharge, Flash Mob, allows her Super to spawn a Hypercharge note around her after every use.
+
+==Attack: Monster Notes==
+{{Quote|Melodie shoots tiny monster notes from her mic, damaging enemies and spawning orbiting notes around her on hit.}}
+Melodie shoots a long-ranged monster note that deals very low damage. Upon hitting a target, a note revolves around her in a radius of 2 tiles, dealing double the damage of a long range attack note if they hit an enemy. Melodie can have a maximum of 3 notes orbiting her at any time. Her notes will disappear in the order they spawned after 8 seconds. She can also charge her Super and Hypercharge by attacking with the notes. When entering or exiting [[Cordelius]]' Shadow Realm, existing orbiting notes disappear, and Melodie has to hit to spawn them again. When hitting an enemy when there already is three notes, the duration of the note with the shortest remaining duration will be refreshed. Hitting an enemy with the notes charges as much Super as hitting an enemy with the main attack.
+
+==Super: Catchy Chorus==
+{{Quote|Melodie can dash forward multiple times to catch her enemies.}}
+Melodie dashes forward a distance of 5.33 tiles. She can use her Super thrice after it is charged. A number under the Super icon indicates how many dashes are left to be used. Her Super can only be recharged after she uses all three dashes.
+
+==Gadgets==
+===Perfect Pitch===
+{{Quote|Melodie's notes get 35% increased movement speed and 70% wider orbit for 5 seconds. Cooldown: 10 seconds.}}{{Gadget|1}}
+Upon activation, Melodie's monster notes' rotation speed is increased by 35%, and their orbit radius is increased by 70% for 5 seconds. 
+
+===Interlude===
+{{Quote|Melodie gains 10% Shield from each note orbiting her. Cooldown: 19 seconds.}}{{Gadget|2}}[[File:Hardcore Icon.png|left|40x40px|link=]]When Melodie has a monster note that revolves around her, she receives a shield that initially blocks the 10% of her health dealt to her. The shield's health is increased by an additional 10%, if there are more notes, up until the shield blocks 30% (60% with her Hypercharge) of her health dealt to her. However, despite the description, the increase in Melodie's health due to [[Brawl Arena]] level ups do not increase the shield amount. The shield decays by 5% every 0.35 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Melodie is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on Melodie's max health when this shield is active. Enemies damaging Melodie with Interlude can still charge their Supers.
+
+==Star Powers==
+===Fast Beats===
+{{Quote|Melodie gains 6% increased movement speed from each note orbiting her.}}{{StarPower|1}}
+When Melodie has a monster note that revolves around her, her movement speed is increased by 6%. Her movement speed is increased by the same amount if there are more notes, up to a maximum of 18% (36% with her Hypercharge) speed boost.
+
+===Extended Mix===
+{{Quote|Melodie's notes last for 25% longer before vanishing.}}{{StarPower|2}}
+With this Star Power equipped, Melodie's notes last 25% longer, increasing their duration from 8 to 10 seconds.
+
+==Hypercharge: Flash Mob==
+{{Quote|Melodie adds up to 3 Hypercharge notes using Catchy Chorus. Hypercharge notes do 504 damage.}}{{Hypercharge}}
+When activated, every time Melodie uses a Super during the duration of the Hypercharge, a Hypercharge note revolves around her in a radius of 2 tiles, which acts identically to a regular note but has a reduced damage of 480, or 504 damage with the Hypercharge damage boost. Melodie can have a maximum of 3 Hypercharge notes orbiting her at any time, which overrides the normal note limit, allowing her to have up to 6 notes. The Hypercharge notes also affect Melodie's Interlude Gadget and Fast Beats Star Power, but cannot have their duration extended with the Extended Mix Star Power. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Melodie can have 2 additions notes orbiting her, and her notes last longer.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>
+The amount of notes Melodie could have orbiting her was increased from 3 to 5, and each note had its duration increased from 8 to 15 seconds. Melodie's Extended Mix Star Power did not increase the duration of these notes.<div></div>
+
+==Tips==
+===Game Modes and Maps===
+*Melodie in [[Brawl Ball]] is able to deal damage when she has the ball. Since her damage output with her monster notes is where the majority of the damage comes from, she is extremely viable for Brawl Ball.
+*Melodie can dribble/pass the ball in Brawl Ball and Basket Brawl even more effectively than [[Mortis]] or [[Kenji]] since she uses her Super instead of her ammo to dash, which allows her to bring the ball across the map in a few seconds.
+*Try not to play maps where there are a lot of water and walls because they can easily interrupt the Super dash.
+*The Super dashes' extremely long total length allows her to conduct a surprise attack against the opponent's [[Heist]] safe because she can approach it very quickly from a far distance.
+
+===Recommended Build===
+*The Interlude Gadget is more often the more useful Gadget because Melodie's playstyle involves dashing to the opponent with notes where having a shield is more beneficial.
+**In those cases, the Perfect Pitch Gadget often goes against the playstyle. After approaching the enemies, the enemies will likely to be close to her and making the notes further away will make it harder to hit the enemies.
+**Bear in mind that the shield from the Interlude Gadget decays quite quickly, so it's often a good idea to use the Shield Gear for additional protection.
+*The Hypercharge can increase the damage output of one rotation of the notes by almost 30%. It also doubles the effectiveness of Interlude Gadget and Fast Beats Star Power as there are twice as many notes. All of these boosts are very helpful to win many interactions.
+**Do not rely on the Hypercharge notes themselves for the damage as they aren't a major source of damage. It's important to couple them with regular notes to reap the best value out of them. As such, try to activate the Hypercharge once she has three regular notes.
+
+===Strategies===
+*When hitting enemies with Melodie's notes, it is better to walk around the Brawler in a counterclockwise motion to increase the number of hits per unit time. This is even easier to perform with the Fast Beats Star Power.
+*When approaching enemies that fire projectile(s) in a line as an attack (e.g. [[Piper]], [[Mandy]], [[Bonnie]], [[Brock]], [[Maisie]]), try not to dash in a straight line because the enemies can autoaim and land a hit easily. Instead, try to dash in a slight zig-zag pattern to avoid the shots better.
+*When engaging in head-to-head combat, it's usually better to keep a distance, land three shots to get three notes, and then dash back into the enemies. This way, she can start the combat by unlocking full damage potential.
+*When going against an enemy that can do area scan damage (e.g. Maisie's, [[Shelly]]'s, and [[Frank]]'s Super), Melodie can use the Super to first dash away from the enemy to avoid that attack and then dash back in.
+*When you are very close to an enemy, try to dash in such a way that she passes through the point that is next to the enemy so the notes have a chance to hit them while you are dashing.
+
+===Other===
+*Melodie's notes spawn from out of her not to the side of her, meaning at point blank her note can deal damage even if it's not in the notes rotation.
+
+==Voice Lines==
+{{TranslationToggle|Korean}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = melodie start vo 01.ogg|Filedescription ="Chi-chi, Yo-yo, stand by."}}
+|{{Ogg|Filename = melodie lead vo 01.ogg|Filedescription ="Reload, reline, keep this moment on my mind."}}
+|{{Ogg|Filename = melodie hurt vo 01.ogg|Filedescription ="Fake love!"}}
+|{{Ogg|Filename = melodie kill vo 01.ogg|Filedescription ="That was pitch perfect."}}
+|{{Ogg|Filename = melodie die vo 01.ogg|Filedescription ="This was rehearsal, right?"}}
+|
+|{{Ogg|Filename = melodie ulti vo 01.ogg|Filedescription ="Let's go, Melodians!"}}
+|-
+|{{Ogg|Filename = melodie start vo 02.ogg|Filedescription ="Harmony brings melody."}}
+|{{Ogg|Filename = melodie lead vo 02.ogg|Filedescription ="Woo! I just slayed."}}
+|{{Ogg|Filename = melodie hurt vo 02.ogg|Filedescription ="Worst concert ever!"}}
+|{{Ogg|Filename = melodie kill vo 02.ogg|Filedescription ="For my Melodians!"}}
+|{{Ogg|Filename = melodie die vo 02.ogg|Filedescription ="Stars never stop sparkling."}}
+|
+|{{Ogg|Filename = melodie ulti vo 02.ogg|Filedescription ="Shooting stars!"}}
+|-
+|{{Ogg|Filename = melodie start vo 03.ogg|Filedescription ="Don't miss the show."}}
+|{{Ogg|Filename = melodie lead vo 03.ogg|Filedescription ="Shoutout to my Melodians!"}}
+|{{Ogg|Filename = melodie hurt vo 03.ogg|Filedescription ="K-drama alert!"}}
+|{{Ogg|Filename = melodie kill vo 03.ogg|Filedescription ="K-pop don't stop 'til I reach the top."}}
+|{{Ogg|Filename = melodie die vo 03.ogg|Filedescription ="Even a fallen star still shines."}}
+|
+|{{Ogg|Filename = melodie ulti vo 03.ogg|Filedescription ="Everybody, scream!"}}
+|-
+|{{Ogg|Filename = melodie start vo 04.ogg|Filedescription ="Gonna rise to the top, watch my enemies drop."}}
+|{{Ogg|Filename = melodie lead vo 04.ogg|Filedescription ="Dreams come true!"}}
+|{{Ogg|Filename = melodie hurt vo 04.ogg|Filedescription ="This is the real K-pop."}}
+|{{Ogg|Filename = melodie kill vo 04.ogg|Filedescription ="You'll remember this melody forever."}}
+|{{Ogg|Filename = melodie die vo 04.ogg|Filedescription ="Don't let it get to your head."}}
+|
+|{{Ogg|Filename = melodie ulti vo 04.ogg|Filedescription ="Remember my name. Yeah!"}}
+|-
+|{{Ogg|Filename = melodie start vo 05.ogg|Filedescription ="♫So many songs to sing, so much joy to bring!"}}
+|{{Ogg|Filename = melodie lead vo 05.ogg|Filedescription ="I'm your idol."}}
+|{{Ogg|Filename = melodie hurt vo 05.ogg|Filedescription ="I don't dress to impress!"}}
+|{{Ogg|Filename = melodie kill vo 05.ogg|Filedescription ="I might be your idol, but you don't own me."}}
+|{{Ogg|Filename = melodie die vo 05 kr.ogg|Filedescription ={{Translate|"아! 킹받네!" ("a! kingbadne!")|"Uh! So annoying!"}}}}
+|
+|{{Ogg|Filename = melodie ulti vo 05.ogg|Filedescription ="Idol mode, on."}}
+|-
+|{{Ogg|Filename = melodie start vo 06.ogg|Filedescription ="Melodians! Are you ready to rock?"}}
+|{{Ogg|Filename = melodie lead vo 06.ogg|Filedescription ="I'm glitter, I'm gold, I'm a legend to behold."}}
+|{{Ogg|Filename = melodie hurt vo 06 kr.ogg|Filedescription ={{Translate|"미쳤어?" ("michyeoss-eo?")|Are you crazy?}}}}
+|{{Ogg|Filename = melodie kill vo 06.ogg|Filedescription ="Want to play? That's okay. Get in my way, then you'll pay."}}
+|{{Ogg|Filename = melodie die vo 06 kr.ogg|Filedescription ={{Translate|"Melodians, 탈덕안돼...아!" ("Melodians, taldeog-andwae...a!")|"Melodians, don't leave me... Uh!"}}}}
+|
+|{{Ogg|Filename = melodie ulti vo 06 kr.ogg|Filedescription ={{Translate|"음색깡패 나가신다!" ("eumsaegkkangpae nagasinda!") |"Tone Gangster is coming!"}}}}
+|-
+|{{Ogg|Filename = melodie start vo 07.ogg|Filedescription ="Big shoutout to all my Melodie minions."}}
+|{{Ogg|Filename = melodie lead vo 07.ogg|Filedescription ="Straight to the top."}}
+|{{Ogg|Filename = melodie hurt vo 07 kr.ogg|Filedescription ={{Translate|"Humph, that was unexpected! 칭찬해?" ("Humph, that was unexpected! chingchanhae?")|"Humph, that was unexpected! Praise me?"}}}}
+|{{Ogg|Filename = melodie kill vo 07.ogg|Filedescription ="See you when you grow up."}}
+|{{Ogg|Filename = melodie die vo 07 kr.ogg|Filedescription ={{Translate|"너 누구니? 신인이니?" ("neo nuguni? sin-in-ini?")|"Who are you? Are you a newcomer?"}}}}
+|
+|{{Ogg|Filename = melodie ulti vo 07 kr.ogg|Filedescription ={{Translate|"도망쳐!" ("domangchyeo"|"Run away!"}}}}
+|-
+|{{Ogg|Filename = melodie start vo 08 kr.ogg|Filedescription ={{Translate|"Mic check, 하나, 둘, 셋!" ("Mic check, hana, dul, ses!")|"Mic check, 1, 2, 3!"}}}}
+|{{Ogg|Filename = melodie lead vo 08 kr.ogg|Filedescription ={{Translate|"내가 엔딩요정. 짜잔~" ("naega ending-yojeong. jjajan~")|"I'm the ending fairy. Ta-da~"}}}}
+|{{Ogg|Filename = melodie hurt vo 08 kr.ogg|Filedescription ={{Translate|"선 넘네!" ("seon neomne!")|"You're crossing the line!"}}}}
+|{{Ogg|Filename = melodie kill vo 08 kr.ogg|Filedescription ={{Translate|"우아! 대박!" ("우아! 대박!")|"Wow! Awesome!"}}}}
+|
+|
+|{{Ogg|Filename = melodie ulti vo 08 kr.ogg|Filedescription ={{Translate|"It's 눈 정화 time!" ("It's nun jeonghwa time!")|"It's eye cleansing time!"}}}}
+|-
+|{{Ogg|Filename = melodie start vo 09 kr.ogg|Filedescription ={{Translate|"멜며들 준비 됐어?" ("melmyeodeul junbi dwaess-eo?")|"Melodians, are you ready?"}}}}
+|{{Ogg|Filename = melodie lead vo 09 kr.ogg|Filedescription ={{Translate|"우우! 찢었다!" ("uu! jjij-eossda!")|"Wow! That was crazy!"}}}}
+|{{Ogg|Filename = melodie hurt vo 09 kr.ogg|Filedescription ={{Translate|"급발진 뭐야?" ("uu! jjij-eossda!")|"What with the sudden acceleration?"}}}}
+|{{Ogg|Filename = melodie kill vo 09 kr.ogg|Filedescription ={{Translate|"어우, 폼 미쳤다!" ("eou, pom michyeossda!")|"Wow, the form is crazy!"}}}}
+|
+|
+|{{Ogg|Filename = melodie ulti vo 09 kr.ogg|Filedescription ={{Translate|"Catch my 역조공!" ("Catch my yeogjogong!")|"Catch my reverse pass!"}}}}
+|-
+|{{Ogg|Filename = melodie start vo 10 kr.ogg|Filedescription ={{Translate|"가보자고!" ("gabojago!")|"Let's go!"}}}}
+|{{Ogg|Filename = melodie lead vo 10 kr.ogg|Filedescription ={{Translate|"오늘 멜로디가 쏜다!" ("oneul mellodiga ssonda!")|"Today, Melodie is paying!"}}}}
+|{{Ogg|Filename = melodie hurt vo 10 kr.ogg|Filedescription ={{Translate|"너 T야?" ("neo Tya?")|"Are you a T?"}}}}
+|{{Ogg|Filename = melodie kill vo 10 kr.ogg|Filedescription ={{Translate|"까불지마!" ("kkabuljima!")|"Don't fool around!"}}}}
+|
+|
+|
+|-
+|{{Ogg|Filename = melodie start vo 11 kr.ogg|Filedescription ={{Translate|"많관부!" ("manhgwanbu!")|"Please give me a lot of attention!"}}}}
+|
+|{{Ogg|Filename = melodie hurt vo 11 kr.ogg|Filedescription ={{Translate|"너 좀 친다?" ("neo jom chinda?")|"Are you hitting me?"}}}}
+|{{Ogg|Filename = melodie kill vo 11 kr.ogg|Filedescription ={{Translate|"어우~ 덕통사고!" ("eou~ deogtongsago!")|"Oh~ it was an accident!"}}}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = melodie kill vo 12 kr.ogg|Filedescription ={{Translate|"올킬! 우우!" ("olkil! uu!")|"Bullseye! Wow!"}}}}
+|
+|
+|
+|}
+
+==History==
+*27/03/24:
+**{{Balance|Neutral|Melodie could be unlocked early as a bundle for $19.99.}}
+**{{Balance|Neutral|Melodie became available to play in the [[Training Cave]].}}
+**{{Balance|Neutral|The Sif Melodie skin was added.}}
+*04/04/24:
+**{{Balance|Neutral|Melodie became available in the Starr Road.}}
+*23/04/24:
+**{{Balance|Nerf|Melodie's Interlude Gadget shield was decreased to 10% of her health (from 15%) per note.}}
+**{{Balance|Nerf|Melodie's Fast Beats Star Power speed boost was decreased to 6% (from 8%) per note.}}
+*29/04/24:
+**{{Balance|Neutral|Melodie's Mutation was added for a limited time.}}
+*20/05/24:
+**{{Balance|Neutral|Melodie's Mutation was removed from the game.}}
+*25/06/24:
+**{{Balance|Nerf|Melodie's health was decreased to 3600 (from 4100).}}
+**{{Balance|Neutral|Melodie's True Silver and True Gold skins were added.}}
+*04/07/24:
+**{{Balance|Neutral|The Harpy Melodie skin was added. It was featured as a Ranked skin for Brawl Pass Season 28 and a Legends of Olympus skin.}}
+*27/08/24:
+**{{Balance|Neutral|Fixed an issue with Melodie's auto attacks causing her Super to be triggered.}}
+**{{Balance|Neutral|Fixed the issue causing Melodie's Fast Beats Star Power not to work properly with the Harpy Melodie skin.}}
+*10/12/24:
+**{{Balance|Nerf|The number of hits necessary to charge Melodie's Super was increased to 5 hits (from 4).|Change=Nerf}}
+**{{Balance|Neutral|Melodie's Flash Mob Hypercharge was added.}}
+*18/12/24:
+**{{Balance|Neutral|Fixed Melodie's Super dash animation while and after Hypercharged.}}
+*06/02/25:
+**{{Balance|Neutral|The Pop, Blackgreen, and Redwhite Melodie skins were added. They were featured as Brawl Pass Season 35  skins and Good Randoms skins.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Pop Melodie's main attack sound effects.|Change=Neutral}}
+**{{Balance|Content=Fixed Pop Melodie's Super dash animation after using her Hypercharge.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Nerf|Melodie's Flash Mob Hypercharge multiplier was decreased to 25% (from 35%).}}
+*23/04/25:
+**{{Balance|Content=Melodie and her skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Melodie and her skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Neutral|Harpy Melodie was slightly remodeled.}}
+*28/10/25:
+**{{Balance|Buff|Melodie's health was increased to 3700 (from 3600).}}
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Melodie's Flash Mob Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Melodie's Flash Mob Hypercharge damage boost from 25%.}}
+*19/11/25:
+**{{Balance|Neutral|The Pump It Melodie skin was added. It was featured as a Gym Rats skin.}}
+*16/12/25:
+**{{Balance|Buff|Melodie's health was increased to 3800 (from 3700).}}
+*01/04/26:
+**{{Balance|Neutral|The Inflatable Melodie skin was added. It was featured as an April Fool's skin.}}
+*22/04/26:
+**{{Balance|Neutral|Fixed an issue with Inflatable Melodie sound effects missing.}}
+*01/09/26:
+**{{Balance|Buff|Melodie's health was increased to 4000 (from 3800).}}
+**{{Balance|Buff|Melodie's Perfect Pitch Gadget cooldown was decreased to 10 seconds (from 14).}}
+**{{Balance|Buff|Melodie's Perfect Pitch Gadget movement speed was increased to 35% (from 25%).}}
+**{{Balance|Buff|Melodie's Perfect Pitch Gadget range was increased to 70% (from 60%).}}
+**{{Balance|Buff|Melodie's level up damage was increased to 5% (from 4%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Melodie's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Buff|Melodie's main attack damage was increased to 500 (from 460).}}
+**{{Balance|Buff|Melodie's damage was increased to 1000 (from 920) per note.}}
+**{{Balance|Buff|Melodie no longer respawns without losing any remaining Super uses.}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Sif|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Northern Saga|Rarity1=Rare
+|Name2=Harpy|Cost2=Free from Ranked Starr Drops, free from Starr Nova Boxes or 149 Gems|Campaign2=Ranked|Campaign2_2=Legends of Hades|Rarity2=Epic
+|Name3=Pump It|Cost3=149 Gems|Campaign3=Gym Rats|Rarity3=Epic
+|Name4=Inflatable|Cost4=149 Gems|Campaign4=April Fool's|Rarity4=Epic
+|TrueSkins = yes
+|NameP1 = Pop|CostP1 = Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1 = Brawl Pass|CampaignP1_2 = THE GOOD RANDOMS|RarityP1 = Epic
+|NameP2 = Blackgreen|CostP2 = Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=THE GOOD RANDOMS|RarityP2 = Epic
+|NameP3 = Redwhite|CostP3 = Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=THE GOOD RANDOMS|RarityP3 = Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Melodie
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Harpy|Thanks}}
+{{Pin Table|Pop|Special}}
+{{Pin Table|Blackgreen|Special}}
+{{Pin Table|Redwhite|Special}}
+{{Pin Table|Pump It|Special}}
+{{Pin Table|Inflatable|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Melodie|Rarity = Common}}
+|{{Spray|Type = Melodie Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Melodie1}}
+|{{Pfp|Melodie2}}
+|{{Pfp|Melodie3}}
+|{{Pfp|Melodie4}}
+|{{Pfp|Harpy Melodie}}
+|-
+|{{Pfp|Pop Melodie}}
+|{{Pfp|Pump It Melodie}}
+|{{Pfp|Inflatable Melodie}}
+|
+|
+|}
+
+{{Navigation}}
+[[ru:Мелоди]]
+[[nl:Melodie]]
+[[es:Melodie]]
+[[pt:Melodie]]

@@ -1,0 +1,258 @@
+{{FutureUpdate}}{{Protection}}{{SimilarTitle|Rey|the Brawler being released alongside Ruby}}{{Brawler Infobox|Title=The House Always Wins|PrestigeTitle=Poker Face|Rarity=Mythic|Class=Damage Dealer|MovementSpeed=750 (Normal)|HealthLabel=Health|Health=3300|AttackRange=9.67 (Very Long)|Reload=1.4 seconds (Fast)|AttackSuperCharge=|AttackLabel=Damage|Attack=400|AttackLabel2 = Damage at intersection|Attack2 = 1200|AttackBullets=2|AttackSpeed=3600|SuperSpeed=2000|SuperRange=9 (Long)|SuperSuperCharge=|SuperBullets=6<br>8 (with Lucky Number)|SuperSpread=360°|SuperDuration=4 seconds|VoiceActor=Elsa Perusin|Gadget1Name=Shuffle and Cut|Gadget1=1280|Gadget1Label=Heal per projectile|Gadget1Cooldown=20 seconds|Gadget1Range=|Gadget2Name=Stack the Deck|Gadget2=320|Gadget2Label=Damage per projectile|Gadget2Cooldown=21 seconds|StarPower2Name=|StarPower2=|StarPower2Label=|Previous=Rey|Next=Spike|AttackWidth=|Super=500|SuperLabel=Minimum damage|SuperLabel2=Damage to special targets|Super2=1200}}{{Quote|Ruby is Queen of Toyland, presiding over how every game is played and every rule is honored. She is well respected by other Brawlers, and her husband [[Rey]], the king, is utterly smitten with her.}}{{MagicWords}}{{Portrait}}
+
+Ruby is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a long attack range, a variable damage output, immense utility with her Super, a fast reload speed, and a powerful synergy with [[Rey]]. She is the 110th/111th Brawler added to the game, alongside Rey. Her Trait allows her to heal and move faster towards an ally Rey when he is on the field. She attacks by throwing a club and a diamond card in a double helix formation, which deals more damage at the intersection. Her Super is an area that temporarily grounds and summons swirling projectiles in five directions, damaging any enemies in its path based on their maximum health. Her first Gadget, Shuffle and Cut, fires a projectile that splits that splits into smaller projectiles after hitting an enemy or reaching max range, healing allies and damaging any enemies in its path based on their maximum health. Her second Gadget, Stack the Deck, fires a stream of 4 suits in quick succession that knock enemies back and deal low damage. Her first Star Power, Lucky Number, increases the number of swirling projectiles. Her second Star Power, Double or Nothing, deals additional damage after hitting a target when her attack hits at intersection. Her Hypercharge, All In!, makes her Super grow in size and spread out the curving projectiles. Enemies caught by the projectiles will shoot in a chain reaction.
+
+== Trait ==
+{{Quote|POWER COUPLE <br><br> Ruby's main attacks heal Rey for 800 health. She also moves 10% faster towards him}}When an ally Rey is on the field, Ruby gains the ability to heal him and will also move towards him faster, able to reach each other quickly if both are approaching each other.{{Trait|Ruby-Power Couple}}
+
+== Attack: Draw Two ==
+{{Quote|Ruby throws a Club and Diamond in a figure-eight pattern. Hitting with both simultaneously adds extra damage.}}Ruby throws a club and a diamond card that travel similar to [[Nani]]'s main attack but only with two projectiles and two intersection points. These projectiles can pierce enemies, and the places of intersection deals high damage.
+
+== Super: Royal Flush ==
+{{Quote|Ruby creates an area, lasting for 4 seconds, that grounds enemies. Swirling shots fill the area and deal 15% max health damage.}}Ruby creates an area that grounds enemies inside it, and summons swirling projectiles in five directions, lasting for 4 seconds. The Super deals damage to enemies equivalent to 15% of their max health.
+
+== Gadgets ==
+=== Shuffle and Cut ===
+{{Quote|Ruby fires a suit that splits into 5. These projectiles heal teammates for 1600 and deal damage equal to 15% of an enemy's health.}}{{Gadget|1}}Ruby fires a projectile that splits into 5 when hitting an enemy or after it reaches max range, similar to the main attack of [[Penny]]'s or [[Gene]]'s. These projectiles heal allies and deals damage to enemies equivalent to 15% of their max health.
+
+=== Stack the Deck ===
+{{Quote|Ruby fires a stream of 4 bouncing suits that knock enemies back and deal 400 damage.}}Ruby fires a stream of 4 suits in quick succession that knocks enemies back and deal 400 damage. The attack can bounce off walls and increase range when it does.{{Gadget|2}}
+
+== Star Powers ==
+=== Lucky Number ===
+{{Quote|Ruby’s Super fills the area with 7 projectiles.}}{{StarPower|1}}This Star Power increases the number of swirling projectiles from her Super from 5 to 7.
+
+=== Double or Nothing ===
+{{Quote|Main attacks that hit with both projectiles cause the enemy to lose 10% max health per sec for 1 sec.}}{{StarPower|2}}If Ruby hits the enemy Brawler with both her projectiles with her attack, it causes them to lose 10% of their max health per second for 1 second.
+
+== Hypercharge: All In! ==
+{{Quote|Ruby’s Super grows in size and causes enemies hit by the shots to explode, firing even more projectiles.}}{{Hypercharge}}When activated, Ruby's Super expands in size and spreads out the curving projectiles. Enemies caught by the projectiles will shoot in a chain reaction. 
+
+== Tips ==
+
+* With Royal Flush, you can deal high damage to high health brawlers, especially tanks.
+* Aiming Stack the Deck to a wall can increase the range, which is very useful to enemies from afar.
+* With Double or nothing, the damage can be very high when hit on a Tank brawler.
+*
+==Voice Lines==
+{{TranslationToggle|French}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Giving Rey Life||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = ruby start vo 01.ogg|Filedescription = "Toyland missed its queen."}}
+|{{Ogg|Filename = ruby lead vo 01.ogg|Filedescription = "Oh, look at us! Perfect symmetry!"}}
+|{{Ogg|Filename = ruby hurt vo 01.ogg|Filedescription = "Called my bluff."}}
+|{{Ogg|Filename = ruby kill vo 01.ogg|Filedescription = "Straight to the ban list."}}
+|{{Ogg|Filename = ruby die vo 01.ogg|Filedescription = "The queen folds."}}
+|{{Ogg|Filename = ruby givesreylife vo 01.ogg|Filedescription = {{Translate|"Oh mon roi! A gift of life!"|"Oh, my king! A gift of life!"}}}}
+|{{Ogg|Filename = ruby atk vo 01.ogg|Filedescription = "An ace for your face!"}}
+|{{Ogg|Filename = ruby ulti vo 01.ogg|Filedescription = "Cards storm! Deal with it!"}}
+|-
+|{{Ogg|Filename = ruby start vo 02.ogg|Filedescription = "Atatatata! Rules first, then fun."}}
+|{{Ogg|Filename = ruby lead vo 03.ogg|Filedescription = "The ban list grows, so does my smile!"}}
+|{{Ogg|Filename = ruby hurt vo 02.ogg|Filedescription = "Oh, you call that flirting?"}}
+|{{Ogg|Filename = ruby kill vo 02.ogg|Filedescription = "Right tracks, I terminate."}}
+|{{Ogg|Filename = ruby die vo 02.ogg|Filedescription = "The cards were stacked against me!"}}
+|{{Ogg|Filename = ruby givesreylife vo 02.ogg|Filedescription = "Oh, bleeding doesn't suit you. Winning does!"}}
+|{{Ogg|Filename = ruby atk vo 02.ogg|Filedescription = "Clubs!"}}
+|{{Ogg|Filename = ruby ulti vo 02.ogg|Filedescription = "Shuffle and scatter!"}}
+|-
+|{{Ogg|Filename = ruby start vo 03.ogg|Filedescription = "Rey, try not to swoon. We're working."}}
+|{{Ogg|Filename = ruby lead vo 04.ogg|Filedescription = "They play, we reign!"}}
+|{{Ogg|Filename = ruby hurt vo 03.ogg|Filedescription = "Mmm, rude!"}}
+|{{Ogg|Filename = ruby kill vo 03.ogg|Filedescription = "Dealer wins, always."}}
+|{{Ogg|Filename = ruby die vo 03.ogg|Filedescription = "Darling, don't cry."}}
+|{{Ogg|Filename = ruby givesreylife vo 03.ogg|Filedescription = "Rey, please stay."}}
+|{{Ogg|Filename = ruby atk vo 03.ogg|Filedescription = "Spades!"}}
+|{{Ogg|Filename = ruby ulti vo 03.ogg|Filedescription = "Hold still, I'm dealing!"}}
+|-
+|{{Ogg|Filename = ruby start vo 05.ogg|Filedescription = "Huh, the board's crooked. Let's straighten it."}}
+|{{Ogg|Filename = ruby lead vo 06.ogg|Filedescription = "Order restored."}}
+|{{Ogg|Filename = ruby hurt vo 04.ogg|Filedescription = "That wasn't legally regal."}}
+|{{Ogg|Filename = ruby kill vo 04.ogg|Filedescription = "Cute try, bad ending."}}
+|{{Ogg|Filename = ruby die vo 04.ogg|Filedescription = "Meeple, never."}}
+|{{Ogg|Filename = ruby givesreylife vo 04.ogg|Filedescription = "You captured my heart, now let me heal yours."}}
+|{{Ogg|Filename = ruby atk vo 04.ogg|Filedescription = "Hearts!"}}
+|{{Ogg|Filename = ruby ulti vo 04.ogg|Filedescription = "Watch the board, it's sending to chaos!"}}
+|-
+|{{Ogg|Filename = ruby start vo 06.ogg|Filedescription = "Meeple's shift is over."}}
+|{{Ogg|Filename = ruby lead vo 07.ogg|Filedescription = "Mmm, winning suits me."}}
+|{{Ogg|Filename = ruby hurt vo 05.ogg|Filedescription = "Cute, try again, I dare you."}}
+|{{Ogg|Filename = ruby kill vo 05.ogg|Filedescription = "You wilted so gracefully."}}
+|{{Ogg|Filename = ruby die vo 05.ogg|Filedescription = "Without you, Rey, only torture."}}
+|{{Ogg|Filename = ruby givesreylife vo 05.ogg|Filedescription = "This is no time to die, darling!"}}
+|{{Ogg|Filename = ruby atk vo 05.ogg|Filedescription = "Diamonds, darling!"}}
+|{{Ogg|Filename = ruby ulti vo 05.ogg|Filedescription = "Many cards, one lesson, in pain!"}}
+|-
+|{{Ogg|Filename = ruby start vo 07.ogg|Filedescription = "Delightful dealer of damage."}}
+|{{Ogg|Filename = ruby lead vo 08.ogg|Filedescription = "We're ahead. How... predictable."}}
+|{{Ogg|Filename = ruby hurt vo 06.ogg|Filedescription = "Ugh, but a scratch."}}
+|{{Ogg|Filename = ruby kill vo 06.ogg|Filedescription = {{Translate|"Straight to the ban list. Adieu."|"Straight to the ban list. Bye."}}}}
+|{{Ogg|Filename = ruby die vo 06.ogg|Filedescription = "I will miss you, Rey."}}
+|{{Ogg|Filename = ruby givesreylife vo 06.ogg|Filedescription = "Sealed with a kiss. Mwah."}}
+|{{Ogg|Filename = ruby atk vo 06.ogg|Filedescription = {{Translate|"Trèfle !"|"Club!"}}}}
+|{{Ogg|Filename = ruby ulti vo 06.ogg|Filedescription = {{Translate|"Tempête de cartes !"|"Card storm!"}}}}
+|-
+|{{Ogg|Filename = ruby start vo 08.ogg|Filedescription = "King and queen back on the scene."}}
+|{{Ogg|Filename = ruby lead vo 09.ogg|Filedescription = "Mmm, the ban list blooms, like black roses."}}
+|{{Ogg|Filename = ruby hurt vo 07.ogg|Filedescription = "Keep going, I'm taking notes."}}
+|{{Ogg|Filename = ruby kill vo 07.ogg|Filedescription = {{Translate|"Adieu."|"Bye."}}}}
+|{{Ogg|Filename = ruby die vo 07.ogg|Filedescription = "Pan them from my grave."}}
+|
+|{{Ogg|Filename = ruby atk vo 07.ogg|Filedescription = {{Translate|"Pique !"|"Spades!"}}}}
+|{{Ogg|Filename = ruby ulti vo 07.ogg|Filedescription = {{Translate|"Je mélange, je disperse !"|"I shuffle, I scatter!"}}}}
+|-
+|{{Ogg|Filename = ruby start vo 10.ogg|Filedescription = "Nonchalant, but unforgiving."}}
+|{{Ogg|Filename = ruby lead vo 10.ogg|Filedescription = "Ah, boredom is my only weakness."}}
+|{{Ogg|Filename = ruby hurt vo 08.ogg|Filedescription = "They touched the queen, how bold!"}}
+|{{Ogg|Filename = ruby kill vo 08.ogg|Filedescription = "Poisoned, punished, perfect."}}
+|{{Ogg|Filename = ruby die vo 08.ogg|Filedescription = "The cards scatter like petals."}}
+|
+|{{Ogg|Filename = ruby atk vo 08.ogg|Filedescription = {{Translate|"Coeur !"|"Heart!"}}}}
+|{{Ogg|Filename = ruby ulti vo 08.ogg|Filedescription = {{Translate|"Ne bouge pas, je donne !"|"Don't move, I deal!"}}}}
+|-
+|{{Ogg|Filename = ruby start vo 11.ogg|Filedescription = "Rules like roses are best when thorned."}}
+|{{Ogg|Filename = ruby lead vo 11.ogg|Filedescription = {{Translate|"Ils jouent, nous reignons."|"They play, we reign."}}}}
+|{{Ogg|Filename = ruby hurt vo 09.ogg|Filedescription = "A scratch, like a lover's mail."}}
+|{{Ogg|Filename = ruby kill vo 09.ogg|Filedescription = "Rey marks them, I collect the souls."}}
+|{{Ogg|Filename = ruby die vo 09.ogg|Filedescription = "Still yours, in shadow."}}
+|
+|{{Ogg|Filename = ruby atk vo 09.ogg|Filedescription = {{Translate|"Carreau, chéri !"|"Diamonds, darling!"}}}}
+|{{Ogg|Filename = ruby ulti vo 09.ogg|Filedescription = {{Translate|"Plusieurs cartes, une leçon."|"A lot of cards, one lesson."}}}}
+|-
+|{{Ogg|Filename = ruby start vo 12.ogg|Filedescription = "Meeple's little reign, how quaint, how over."}}
+|{{Ogg|Filename = ruby lead vo 12.ogg|Filedescription = {{Translate|"L'ennui est ma seule faiblesse."|"Boredom is my only weakness."}}}}
+|{{Ogg|Filename = ruby hurt vo 10.ogg|Filedescription = "Darling, they're being rude."}}
+|{{Ogg|Filename = ruby kill vo 10.ogg|Filedescription = "That's the cost of cheating."}}
+|{{Ogg|Filename = ruby die vo 10.ogg|Filedescription = "Failed into moonlight."}}
+|
+|{{Ogg|Filename = ruby atk vo 10.ogg|Filedescription = {{Translate|"As !"|"Ace!"}}}}
+|{{Ogg|Filename = ruby ulti vo 10.ogg|Filedescription = {{Translate|"Débrouillez-vous !"|"Figure it out yourself!"}}}}
+|-
+|{{Ogg|Filename = ruby start vo 13.ogg|Filedescription = "Let's shuffle the board!"}}
+|{{Ogg|Filename = ruby lead vo 13.ogg|Filedescription = {{Translate|"Regarde-nous, mon roi !"|"Look at us, my king!"}}}}
+|{{Ogg|Filename = ruby hurt vo 11.ogg|Filedescription = "Oh, how darling. They think this hurts."}}
+|{{Ogg|Filename = ruby kill vo 11.ogg|Filedescription = "One less piece on our board."}}
+|{{Ogg|Filename = ruby die vo 11.ogg|Filedescription = "Rey, avenge me, slowly."}}
+|
+|{{Ogg|Filename = ruby atk vo 11.ogg|Filedescription = {{Translate|"Donne !"|"Deal!"}}}}
+|
+|-
+|{{Ogg|Filename = ruby start vo 14.ogg|Filedescription = "Fair play, or a funeral. I'm easy."}}
+|{{Ogg|Filename = ruby lead vo 14.ogg|Filedescription = {{Translate|"Mmmh, gagner me va si bien !"|"Mmmh, winning suits me!"}}}}
+|{{Ogg|Filename = ruby hurt vo 12.ogg|Filedescription = {{Translate|"Oh, comme c'est impoli."|"Oh, how impolite."}}}}
+|{{Ogg|Filename = ruby kill vo 12.ogg|Filedescription = "Another petal falls. How romantic."}}
+|{{Ogg|Filename = ruby die vo 12.ogg|Filedescription = {{Translate|"La reine va se coucher !"|"The queen is going to discard!"}}}}
+|
+|{{Ogg|Filename = ruby atk vo 12.ogg|Filedescription = {{Translate|"Coupe !"|"Cut!"}}}}
+|
+|-
+|{{Ogg|Filename = ruby start vo 15.ogg|Filedescription = "Passion, punishment, and poetry in motion."}}
+|
+|{{Ogg|Filename = ruby hurt vo 13.ogg|Filedescription = {{Translate|"Ce n'était pas légal."|"That was not legal."}}}}
+|{{Ogg|Filename = ruby kill vo 13.ogg|Filedescription = "Folded like a cheap suit."}}
+|{{Ogg|Filename = ruby die vo 13.ogg|Filedescription = {{Translate|"Mon roi, ne pleure pas."|"My king, don't cry."}}}}
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 16.ogg|Filedescription = {{Translate|"Le pays des jouets s'ennuyait de sa reine !"|"Toyland missed their queen!"}}}}
+|
+|{{Ogg|Filename = ruby hurt vo 14.ogg|Filedescription = {{Translate|"Une égratinure, rien du tout."|"Just a scratch, nothing at all."}}}}
+|{{Ogg|Filename = ruby kill vo 14.ogg|Filedescription = {{Translate|"Interdit, pour de bon."|"Forbidden, for good."}}}}
+|{{Ogg|Filename = ruby die vo 14.ogg|Filedescription = {{Translate|"Toujours à toi !"|"Forever yours!"}}}}
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 17.ogg|Filedescription = {{Translate|"Ah ah ah! D'abord les règles, ensuite l'amour ."|"Ah ah ah! First the rules, then love."}}}}
+|
+|{{Ogg|Filename = ruby hurt vo 15.ogg|Filedescription = {{Translate|"Ils ont touché la reine, quel culot !"|"They touched the queen, the nerve!"}}}}
+|{{Ogg|Filename = ruby kill vo 15.ogg|Filedescription = {{Translate|"Le croupier gagne, toujours !"|"The dealer wins, as always!"}}}}
+|{{Ogg|Filename = ruby die vo 15.ogg|Filedescription = {{Translate|"Venge moi, lentement."|"Avenge me, slowly."}}}}
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 18.ogg|Filedescription = {{Translate|"Je suis le croupier, tu es la mise."|"I am the dealer, you are the bet."}}}}
+|
+|{{Ogg|Filename = ruby hurt vo 16.ogg|Filedescription = {{Translate|"Oh, ça pique! J'adore."|"Oh, that stings! I love it."}}}}
+|{{Ogg|Filename = ruby kill vo 16.ogg|Filedescription = {{Translate|"Pique, trèfle, la fin."|"Spades, club, the end."}}}}
+|{{Ogg|Filename = ruby die vo 16.ogg|Filedescription = {{Translate|"Je n'éteins, mon roi."|"I'm fading, my king."}}}}
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 19.ogg|Filedescription = {{Translate|"Jeu équitable, ou adieu."|"Fair play, or farewell."}}}}
+|
+|{{Ogg|Filename = ruby hurt vo 17.ogg|Filedescription = {{Translate|"Mmmh, dure, vraiment."|"Mmmh, tough, really."}}}}
+|{{Ogg|Filename = ruby kill vo 17.ogg|Filedescription = {{Translate|"Mmmh, t'es flou. Comme c'est gracieux."|"Mmmh, you're blurry. How gracious."}}}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 20.ogg|Filedescription = {{Translate|"Mon roi, leur problème."|"My king, their problem."}}}}
+|
+|
+|{{Ogg|Filename = ruby kill vo 18.ogg|Filedescription = {{Translate|"Trompé? Puni, parfait !"|"Deceived? Punished, perfect!"}}}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 22.ogg|Filedescription = {{Translate|"Les roses ont des épines, moi aussi."|"Roses have thorns, me too."}}}}
+|
+|
+|{{Ogg|Filename = ruby kill vo 19.ogg|Filedescription = {{Translate|"Ils marquent, je récolte"|"They score, I collect."}}}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = ruby start vo 23.ogg|Filedescription = {{Translate|"Passion, punition, poésie."|"Passion, punishment, poetry."}}}}
+|
+|
+|
+|
+|
+|
+|
+|}
+
+<!--==Rey Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Ruby}}
+
+==History==
+==Cosmetics==
+===Skins===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Ruby
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Ruby|Rarity = Common}}
+|{{Spray|Type = Ruby Hand|Rarity = Common}}
+|{{Spray|Type = Ruby Hearts|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Ruby1}}
+|{{Pfp|Ruby2}}
+|
+|{{Pfp|Ruby4}}
+|}-->
+
+{{Navigation}}
+
+[[ru:Руби]]

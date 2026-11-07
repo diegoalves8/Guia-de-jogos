@@ -1,0 +1,417 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = SYS 64738|PrestigeTitle = Game Over|Rarity = Super Rare|Class = Damage Dealer|MovementSpeed = 600 (Very Slow)<br>750 (with Plugged In)|HealthLabel = Health|Health = 5200|AttackRange = 10 (Very Long)|Reload = 1.35 seconds (Very Fast)<br>0.1 seconds (while Hyper Buffie is active)|AttackBullets = 6<br>18 (with Extra Credits)|AttackSuperCharge = 6.67%|AttackLabel = Damage per beam|Attack = 340|SuperRange = 5|SuperMinion = Damage Booster|SuperMinionRange = 3.33<br>5 (with Boosted Booster)<br>9 (turret attacks; with Hypercharge)|SuperLabel = Health|Super = 2800|VoiceActor=Martin Schjøler|AttackCooldown=|AttackLabel2=|Attack2=|SuperBullets=|SuperDuration=|SuperSuperCharge=5.45% (turret attacks; with Hypercharge)|SuperReload=0.25 seconds (turret attacks; with Hypercharge)|SuperMovementSpeed=|SuperLabel2=|SuperLabel3=|Super2=|Super3=|AttackSpread=8.1°|AttackSpeed=4500|AttackWidth=0.33|SuperSpeed=1196<br>4500 (turret attacks; with Hypercharge)|Gadget1Name = Cheat Cartridge|Gadget1Cooldown = 18 seconds|Gadget2Name = Extra Credits|Gadget2Cooldown = 18 seconds|Previous=Tick|Next=Jacky|HyperchargeMultiplier=30%|SuperWidth=0.33 (turret attacks; with Hypercharge)|SuperSpread=13.5° (turret attacks; with Hypercharge)|AttackHyperchargeCharge=2.001%|SuperHyperchargeCharge=1.635% (turret attacks; with Hypercharge)}}
+{{Quote|An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.}}
+{{Portrait}}
+8-Bit is a {{Rarity|Super Rare}} [[Brawler]] who has high health, a very fast reload speed, immense utility with his Super, and a high burst damage potential, but suffers by having the second slowest movement speed of any Brawler. He was the 28th Brawler added to the game. He attacks by firing six very long-ranged laser beams. His Super spawns a Damage Booster which boosts the damage of him and his allies within its radius. His first Gadget, Cheat Cartridge, instantly teleports him to his Damage Booster. His second Gadget, Extra Credits, triples the amount of lasers his next attack fires. His first Star Power, Boosted Booster, significantly increases his Damage Booster range and damage boost. His second Star Power, Plugged In, increases his movement speed while within a radius around the Damage Booster. His Hypercharge, Aimbot, increases his turret's health and makes it fire long-ranged laser beams with moderate damage output that excels at attacking, distracting, and defending.
+
+==Attack: Blaster Beams==
+{{Quote|Shoots a burst of Blaster Beams that damage any opponent they hit. The beams have a slight spread.}}8-Bit shoots a long-ranged burst of six laser beams with a small spread that each deal little damage. If all 6 beams hit, he can deal a high amount of damage. The attack has a slow unload speed, taking 0.8 seconds to complete. 
+
+==Super: Damage Booster==
+{{Quote|Deploys a turret that increases the damage output of all friendly Brawlers in its area of effect.}}8-Bit deploys a turret that increases the damage output of himself and allies inside its radius by 35%. This also increases healing attacks and healing Supers, but doesn’t affect spawnables or other entities (such as [[Nita]]'s bear, [[Jessie]] and [[Penny]]'s turret, [[Tara]]'s clones, the Siege Bot, the IKE Turret, etc.). It doesn’t stack with other 8-Bit’s Supers, nor does it affect Gadgets or Star Powers. If a Brawler is knockbacked or pulled as such to make them move out of the radius, and they were previously inside the Booster, then the damage boost is applied. For an allied [[Colette]], Damage Booster buffs are applied after her base damage is calculated.
+
+==Gadgets==
+===Cheat Cartridge===
+{{Quote|8-Bit instantly teleports to his Damage Booster. Cooldown: 18 seconds.}}
+{{Gadget|1}}
+8-Bit instantly teleports to the location of his booster. He has to be within 12 tiles of his booster to be able to use this Gadget. He retains any status effects while teleporting.
+
+{{Quote|Heals himself for 3600, and repairs the booster by 100%.}}{{Buffie|Gadget}}
+With the Buffie, after teleportation, 8-Bit heals himself for 34.62% of his max health, while his turret reverts to full health.
+
+===Extra Credits===
+{{Quote|8-Bit fires 18 projectiles. Consumes ammo. Cooldown: 18 seconds.}}
+{{Gadget|2}}
+When targeting or pressing the Gadget button, 8-Bit will shoot an extra attack with 18 lasers instead of 6 from his tail, dealing 3 times the damage of his normal attack in a single attack if all of the lasers hit. 8-Bit can still attack while using the Gadget, allowing him to shoot in two directions at the same time. Auto-aiming will make 8-Bit shoot at the nearest target. This Gadget's cooldown starts after this attack is shot.
+
+{{Quote|These projectiles bounce to nearby enemies.}}{{Buffie|Gadget}}
+With the Buffie, when the extra attack with 18 lasers hits an enemy, the lasers bounce up to 6.67 tiles toward the next nearest enemy, even enemies who are outside their range, behind walls or inside bushes, similar to [[Jessie]] and [[Belle]]'s attack. They can bounce up to 2 times more after that and hit 3 enemies in total before disappearing. The lasers deal 40% less damage per bounce, but their Super charge rate is the same.
+
+==Star Powers==
+===Boosted Booster===
+{{Quote|Increases the Damage Booster's range by 50% and boosts damage by an additional 15%.}}
+{{StarPower|1}}
+This increases the radius of the Damage Booster to from 3.33 tiles to 5 tiles, allowing it to cover more ground. It also increases the damage boost from 35% to 50%.
+
+{{Quote|Every 5 sec, the Damage Booster spawns an ammo clip lasting 8 sec and reloading 1 ammo.}}{{Buffie|Star}}
+With the Buffie, the Damage Booster spawns an ammo clip every 5 seconds clockwise that, when picked up, it instantly reloads 8-Bit's and his allies' one ammo. These ammo clips last for 8 seconds each, and when not picked up, they will despawn. 8-Bit and his allies with full ammo cannot pick up the clips. The clips do not despawn when the turret was placed down again.
+
+===Plugged In===
+{{Quote|While near the Damage Booster, 8-Bit gains +25% Movement Speed.}}
+{{StarPower|2}}
+When 8-Bit is within 7 tiles of his Damage Booster, he will move 25% faster, increasing his movement speed from 580 points to 725 points. The area of effect from this Star Power covers the damage boost area of effect, so staying inside his Damage Booster's range boosts both his speed and damage output. After exiting his Damage Booster, the movement speed boost lasts for another second. This Star Power connects 8-Bit to his Super through a wire which is visible to enemies even if he is inside a bush.
+
+{{Quote|Teammates get a 10% Speed Boost.}}{{Buffie|Star}}
+With the Buffie, the allies' movement speed will also increase by 10%.
+
+==Hypercharge: Aimbot==
+{{Quote|8-Bit's turret now has a laser that shoot nearby enemies. Shots do 230 damage.}}{{Hypercharge}}When activated, 8-Bit deploys his turret that fires laser beams at enemies up to 9 tiles away. The shots themselves deal 230 damage but the quick firing speed gives it a decent damage potential. In addition, the turret's health is increased to 7400. 8-Bit also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|During Hypercharge, 8-Bit gains infinite ammo and can interrupt his current Main Attack with another one.}}{{Buffie|Hyper}}
+With the Buffie, 8-Bit's reload time is decreased to 0.1 seconds, and he can interrupt his current attack with another one. Increased Hypercharge duration by 2 seconds. 
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|8-Bit can have multiple turrets that also have more health!}}<div style="float:right">[[File:Hot Wasabi.png|64px|link=]]</div>8-Bit could spawn up to 6 turrets at the same time that had 2000 additional health. His Super charge rate was also increased by 60.38%. Using the Cheat Cartridge Gadget only teleported 8-Bit to the first turret he placed, even if there were other turrets in range.
+
+==Tips==
+===Game Modes and Maps===
+*In [[Super City Rampage]], 8-Bit's damage booster can be used as a last-resort meatshield to escape from the monster during the anger stages as the monster will attack any turrets and spawnables such as Jessie, Penny, [[Pam]], or Mr. P's turret and [[Nita]]'s Bear, Tara's Clones, or [[Larry & Lawrie|Lawrie]]. Unless the monster is distracted, 8-Bit can’t escape because of his very slow movement speed.
+*8-Bit’s is very vulnerable to fast Brawlers such as [[Crow]], [[Mortis]], Mico, Edgar, Kenji, [[Cordelius]], and [[Leon]]. At the start of Showdown matches, focus first on defeating these Brawlers at a distance before they get closer and can deal higher damage. 8-Bit has one of the longest ranges in the game to compensate for his slow movement, so keep your distance from enemy Brawlers and outrange them, and if an enemy is chasing you, deal as much damage as you can to them from a distance to force the enemy to retreat. Additionally, you can also escape by using your Cheat Cartridge Gadget to teleport back to your booster and far away from enemies. However, be cautious of airborne Brawlers like [[El Primo]], Surge, [[Mico]], Crow, [[Gale]], [[Kit]], [[Bonnie]], and [[Edgar]] who are also fast and can close the distance with their jumps and easily defeat 8-Bit at close range.
+*Other than his very slow movement speed, 8-Bit has all that one would require from a Brawler - high health, high damage output, long range, reasonable reload speed, area control, and even some support abilities, so he functions well in most game modes. However, he is most viable in [[Heist]], [[Gem Grab]], [[Hot Zone]], and [[Siege]] due to his high damage output and area control capabilities. In [[Bounty]], [[Showdown]], [[Knockout]], Special Events, and speed-based events such as [[Brawl Ball]], his slow movement speed hinders his survivability, but his high health, long range, and high damage output compensates for that, making him still viable in these modes.
+*Despite his slow movement speed, 8-Bit's high DPS and significant bulk make him a formidable area control Brawler when paired with his booster. As such, 8-Bit can be an excellent goalkeeper in more open Brawl Ball maps and can assist in chipping away at enemy health in Knockout should one be cautious with aiming him. During the latter, hide behind your turret as much as possible since the snipers commonly used in Knockout are unable to pierce.
+
+===Recommended Build===
+*8-Bit's Cheat Cartridge Gadget can be used to rush and surprise an enemy by throwing his booster over the wall towards the enemy before teleporting to attack them with increased damage, since he normally can’t rush an enemy due to his very slow movement speed. It can also be used to escape enemies by teleporting away if you're low on health or if you’re being cornered. Because of this Gadget's versatility, it is the typically better choice over the more specific Extra Credit Gadget.
+*8-Bit's Extra Credits Gadget combined with his Super would deal enough damage to eliminate almost all Brawlers in-game without losing ammo, but it can be easily avoided, and can even be detrimental due to being unable to adjust your aim. Use it exclusively on modes with stationary targets like Heist and Siege, with it dealing devastating damage to these above examples. Extra Credits also allows for a recovery attack if you miss an attack and aim it at an opponent, and works for more area control. You may also use it in Special Events to deal extra damage to the Bosses in each event, but note that mobility is very important in Super City Rampage and might justify the usage of Cheat Cartridge.
+*When deciding on your Star Power, think about the enemies you will be facing. Brawlers with significant movement abilities or attacks with multiple projectiles. such as Rico or Colt, could be very effective against a slow brawler like 8-Bit. In this case, it may be better to use Plugged In. If these movement abilities are not necessary, typically choose Boosted Booster to better support your team and focus on your damage.
+*8-Bit's slow speed makes him vulnerable to being unable to retreat and heal. As such, the recommended gears to equip are the Health and Speed Gears, allowing for 8-Bit to heal up or reach the locations he needs to be in much faster. Alternatively, in maps with choke points the Reload Gear can be used instead, allowing 8-Bit to constantly mow down opponents.
+*8-Bit’s most valuable asset is his sheer damage, so oftentimes the Damage Gear is best for him to optimize the amount of damage he can deal, especially considering his decent health pool. As 8-Bit’s slow unload speed makes him vulnerable to being rushed down and defeated by Brawlers with quick unload speeds, this Gear would also allow 8-Bit to defeat opponents with as little bullets as possible, or at least make them easier for teammates to take down if he is defeated.
+
+===Strategies===
+*An effective trap you can use, especially in Showdown, is to place your booster so that one side is behind a wall and a bush and the other is out in the open. When an enemy Brawler comes to destroy your booster, you can use your Cheat Cartridge Gadget to rush in and quickly eliminate the enemy, and if the enemy manages to destroy it, the damage dealt would’ve charged your Super back again, so you can pull off the trap again. If it’s a Brawler with moving abilities (Edgar, El Primo, Crow, Kit, etc.), use your long range to your advantage and aim your attack onto them if they do escape with their ability. This ensures them on low health or even defeats them.
+*It is typically a good idea to place your booster behind a wall (unless attacking where you can tank damage with the booster) because it’ll be harder to destroy it. This is even more effective with Boosted Booster as it can provide more area of damage boost when keeping the booster behind a wall makes it hard to stay near it. However, this strategy is countered by throwers, [[Squeak]], [[Jacky]], [[Doug]], [[Hank]], [[Shade]], Brock, Mr. P, and Mico as they can hit the booster regardless of any walls in their way.
+*Thanks to the slight spread of his attacks, 8-Bit does not fare well against long-ranged marksmen as his bullets are less accurate at a distance. As such, prioritize attacking mid to short ranged Brawlers first to build up your Super, before deploying it to act as a shield and increase the damage of your bullets against longer-ranged Brawlers.
+**When fighting enemies hiding behind walls, angle your shots slightly away from the walls before firing. If they're close enough to the edge, this will allow your bullets to hit them owing to their slanted angle.
+*While 8-Bit is bulky, has good range and deals decent damage, his slow speed and inconsistent accuracy at his range's peak make him unsuitable for leading pushes against opposing teams. As such, try to stay slightly behind and offer additional chip damage while you charge your Super, or sneak up via bushes and finish off weakened Brawlers.
+*In Hot Zone maps such as [[Ring of Fire]], 8-Bit's damage and the choke points present allow him to function as a sort of pseudo-assassin. As such, you should give your booster to your teammates on the Hot Zone while 8-Bit remains in the bushes to ambush opposing brawlers attempting to make a push.
+*8-Bit’s slow unload speed makes him vulnerable to assassins or Brawlers with quick firing rates like [[Max]], [[Kenji]], Mortis, Mico, Leon, [[Stu]], and Edgar. As such, try to stay in the open to maintain range superiority and avoid walls from which they can rush you. This can be further worsened if one uses the Extra Credits Gadget but misses, as it takes much longer to unload, while you are completely vulnerable to any attack for more time.
+**If you have your booster spawned, you can use your Cheat Cartridge gadget to quickly escape an ambush from an Assassin.
+*With his higher health compared to other Damage Dealers, 8-Bit can act as a [[Tanks|Tank]], providing support, and acting as a meat shield for lower health teammates. Keep in mind that 8-Bit lacks the recovery options most Tanks have, so block shots sparingly.
+*As 8-Bit's Hypercharged turret can see into bushes, it's very effective as a scouting tool to detect the assassins and tanks he's extremely vulnerable to. Its high firing rate also makes it a viable option to finish off retreating enemies, which is why one should try to place down a Hypercharged turret when both 8-Bit and his target are at extremely low health.
+*8-Bit's incredibly slow moving speed and lack of piercing abilities make him incredibly bad at pursuing retreating Brawlers, so it's best that he pairs himself with an aggressive Brawler such as [[Edgar]], [[Shelly]], [[Rosa]], [[Bibi]], [[Mortis]], or [[El Primo]] to pick off Brawlers that he can't chase down, whilst guarding them from Brawlers with counter-aggression abilities such as [[Gale]], [[Sprout]], and [[Lou]].
+
+===Other===
+*The most important thing to do when playing as 8-Bit is to charge and activate his Super. His Super can control a large area and can easily allow you and allies to deal large amounts of damage to enemies. If your Super is taken down, focus on charging up a second Super and pushing back enemies.
+*If you are low on health and someone is chasing you, you can place your booster down to tank some shots so you can escape more easily. Keep in mind, this won’t be effective against [[Penny]], [[Jessie]], [[Surge]], Tara, [[Belle]], [[Carl]], Amber, Squeak, [[Mr. P]], Brock, or any other Brawler with mechanics that can deal damage to multiple enemies, as their projectiles won’t be fully blocked. Also, note that this should be a last-resort action, as he depends on his booster quite a lot.
+*Due to 8-Bit's slow movement speed, dodging projectiles from other sharpshooters like Colt and [[Rico]], or throwers like [[Barley]], [[Dynamike]], [[Sprout]], [[Larry & Lawrie|Larry]], and [[Grom]] is difficult. So dealing damage behind cover or from afar is recommended as the enemies won’t be able to hit him as easily. This can be compensated with his Plugged In Star Power or other speed boosts, as 8-Bit can fight the fast and long-ranged Brawlers with ease that he’s usually prone to in Showdown. It can also be very useful to control, retreat, and reach a target in most 3v3 modes and special events. Though, Boosted Booster is preferred in [[Robo Rumble]], [[Boss Fight]], and [[Super City Rampage]], where speed is less beneficial.
+*[[Byron]] can use his healing abilities to further justify 8-Bit's already high health at a range, and 8-Bit's Super can boost Byron's healing, so they have a great synergy together. This can also lead to devastating results in Siege if 8-Bit and Byron can remain concealed up to the corners closest to the enemy IKE. 8-Bit must place his booster down to boost his damage and Byron’s healing, and Byron heals 8-Bit while 8-Bit deals damage to the IKE, especially with his Extra Credits Gadget. High-damaging Brawlers like [[Amber]], [[Spike]], [[Griff]], [[Meeple]], Rico, Leon, Brock, Stu, [[Emz]], [[Nani]], Surge, and [[Colt]] also work well with 8-Bit and help him get the most out of the booster.
+*When on low health and hiding in a bush, try not to place your Super when the Plugged In Star Power is equipped as the speed boost effect indicator coming from the Super can give away your location. However, if your plan is to escape rather than hide, you may place your Super to tank shots and speed you up.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = 8bit start vo 01.ogg|Filedescription = *jingle plays* "Player one, get ready!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 01.ogg|Filedescription = "I will de-de-destroy yo-o-ou!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano start vo 01.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit lead vo 01.ogg|Filedescription = *melody plays* "New high score!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus lead vo 01.ogg|Filedescription = 8-Bit cackles}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano lead vo 01.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit hurt vo 01.ogg|Filedescription = Combustion sound plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus hurt vo 01.ogg|Filedescription = 8-Bit groans}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano hurt vo 01.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit kill vo 01.ogg|Filedescription = Jingle plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus kill vo 01.ogg|Filedescription = 8-Bit laughs}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano kill vo 01.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 01.ogg|Filedescription = Jingle softens}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus die vo 01.ogg|Filedescription = 8-Bit groans}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano die vo 01.ogg|Filedescription = Melody plays}}
+|
+|'''Normal:'''
+{{Ogg|Filename = 8bit ulti vo 01.ogg|Filedescription = "Game, not over."}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus ulti vo 01.ogg|Filedescription = "Come get some, yum yum!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = 8bit start vo 02.ogg|Filedescription = *jingle plays* "Player one, get ready!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 02.ogg|Filedescription = "No happy, o-only sad!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano start vo 02.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit lead vo 02.ogg|Filedescription = Jingle plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus lead vo 02.ogg|Filedescription = "Who's in the lead? I'm in the lead!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano lead vo 02.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit hurt vo 02.ogg|Filedescription = 8-Bit groans}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus hurt vo 02.ogg|Filedescription = "This was not fun."}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano hurt vo 02.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit kill vo 02.ogg|Filedescription = Jingle plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus kill vo 02.ogg|Filedescription = "All I do is win! All you do is lose!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano kill vo 02.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 02.ogg|Filedescription = *jingle plays* "You lose!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus die vo 02.ogg|Filedescription = 8-Bit groans}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano die vo 02.ogg|Filedescription = Melody plays}}
+|
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus ulti vo 02.ogg|Filedescription = "Behold! My circle of power!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = 8bit start vo 03.ogg|Filedescription = *melody plays* "Let's go!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 03.ogg|Filedescription = "I'm one mean green machine."}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano start vo 03.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit lead vo 03.ogg|Filedescription = Jingle plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus lead vo 03.ogg|Filedescription = "I am too good for this game."}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano lead vo 03.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit hurt vo 03.ogg|Filedescription = "Oh no!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus hurt vo 03.ogg|Filedescription = "Ow ow ow!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano hurt vo 03.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit kill vo 03.ogg|Filedescription = *melody plays* "You win!"}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus kill vo 03.ogg|Filedescription = 8-Bit laughs}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano kill vo 03.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 03.ogg|Filedescription = Melody plays}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus die vo 03.ogg|Filedescription = "Out of memory!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano die vo 03.ogg|Filedescription = Melody plays}}
+|
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus ulti vo 03.ogg|Filedescription = "Family fun time!"}}
+|-
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 04.ogg|Filedescription = "You better run away."}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano start vo 04.ogg|Filedescription = Melody plays}}
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus lead vo 04.ogg|Filedescription = "I am the leader of everything ever."}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit hurt vo 04.ogg|Filedescription = 8-Bit quacks}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano hurt vo 04.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit kill vo 04.ogg|Filedescription = "Well done."}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus kill vo 04.ogg|Filedescription = "Evil wins again."}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano kill vo 04.ogg|Filedescription = Melody plays}}
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 04.ogg|Filedescription = 8-Bit cries}}'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus die vo 04.ogg|Filedescription = "Can't divide by zero!"}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano die vo 04.ogg|Filedescription = Melody plays}}
+|
+|
+|-
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 05.ogg|Filedescription = "I am not a bug, I am a feature!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = 8bit hurt vo 05.ogg|Filedescription = 8-Bit grunts}}'''Saloon/Piano:'''
+{{Ogg|Filename = 8bit piano hurt vo 05.ogg|Filedescription = Melody plays}}
+|
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 05.ogg|Filedescription = 8-Bit wails}}
+|
+|
+|-
+|'''Virus/Antivirus:'''
+{{Ogg|Filename = 8bitvirus start vo 06.ogg|Filedescription = "I eat Brawlers for breakfast!"}}
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = 8bit die vo 06.ogg|Filedescription = *melody plays* "Mission failed."}}
+|
+|
+|}
+
+==History==
+*29/08/19:
+**{{Balance|Content=8-Bit and his Classic skin were added to the game.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=8-Bit's reload time was increased to 1.5 seconds (from 1.3).|Change=Nerf}}
+**{{Balance|Content=His Extra Life Star Power now respawns with 0 ammo (from 3).|Change=Nerf}}
+**{{Balance|Content=Fixed 8-Bit's Super area enemy effect to be of the correct size. Fixed a bug that caused 8-Bit's Extra Life Star Power to not trigger in Boss Fight if he was the last Brawler alive.|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=8-Bit's main attack damage was decreased to 320 (from 340) per laser.|Change=Nerf}}
+*05/12/19:
+**{{Balance|Content=8-Bit's Extra Life Star Power invincibility duration was decreased to 2 seconds (from 3) after respawn.|Change=Nerf}}
+*31/01/20:
+**{{Balance|Content=The Virus 8-Bit skin was added. It was featured as a Lunar Brawl 2020 skin.|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=8-Bit's Extra Life Star Power no longer grants invincibility after respawning.|Change=Nerf}}
+*25/02/20:
+**{{Balance|Content=8-Bit's Extra Life Star Power now respawns with 1 ammo (from 0).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=8-Bit's Cheat Cartridge Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=8-Bit's Cheat Cartridge Gadget no longer destroys his turret.|Change=Buff}}
+*10/09/20:
+**{{Balance|Content=8-Bit's second Star Power was renamed to Plugged In (from Extra Life) and reworked from making 8-Bit respawn after defeat with one ammo once per match to giving 8-Bit a speed boost when near his turret.|Change=Neutral}}
+*17/09/20:
+**{{Balance|Content=Fixed an issue where 8-Bit's Plugged In Star Power ground effect area was cut off too early from the screen when moving out of the vision range.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where 8-Bit's Super sound effect was played every time the booster station came into the field of view of another player.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=8-Bit's health was increased to 4800 (from 4300).|Change=Buff}}
+*11/11/20:
+**{{Balance|Content=8-Bit and Classic 8-Bit received new facial animations.|Change=Neutral}}
+*27/11/20:
+**{{Balance|Content=8-Bit's Extra Credits Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=8-Bit's Super damage boost was increased to 50% (from 30%).|Change=Buff}}
+**{{Balance|Content=Fixed a bug that caused the Gadget symbol to not appear over 8-Bit's head when activating Extra Credits.|Change=Neutral}}
+*12/04/21:
+**{{Balance|Content=The Saloon 8-Bit skin was added. It was featured as a Power League exclusive skin for Brawl Pass Season 6.|Change=Neutral}}
+*19/05/21:
+**{{Balance|Content=8-Bit’s Plugged In Star Power speed boost was decreased to 140 (from 180).|Change=Nerf}}
+*16/06/21:
+**{{Balance|Content=8-Bit's Boosted Booster Star Power now adds a 15% damage boost to the Super ability in addition to the increased range.|Change=Buff}}
+**{{Balance|Content=8-Bit's Super damage boost was decreased to 35% (from 50%).|Change=Nerf}}
+*28/09/21:
+**{{Balance|Content=8-Bit's True Silver and True Gold skins were added.|Change=Neutral}}
+*06/10/21:
+**{{Balance|Content=Fixed a bug where 8-Bit's Super did not apply the correct damage boost.|Change=Neutral}}
+*07/10/21:
+**{{Balance|Content=The V8-Bit Skin was unlockable by winning the V8-Bit Retropolis Challenge.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=8-Bit's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=8-Bit's rarity was changed to Super Rare (from Common).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Saloon 8-Bit now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=8-Bit's health was increased to 5000 (from 4800).|Change=Buff}}
+*06/07/23:
+**{{Balance|Content=The Haunted House 8-Bit skin was added. It was featured as an Enchanted Woods skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=8-Bit's flavor text was changed from "8-Bit lumbers along like an arcade cabinet on legs. He shoots Blaster Beams and his Super boosts friendlies' damage!" to "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Virus 8-Bit's takedown visual effects were reworked.|Change=Neutral}}
+*07/02/24:
+**{{Balance|Content=The Antivirus 8-Bit skin was added. It was featured as a Lunar Brawl skin.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=The Piano 8-Bit skin was added. It was featured as a Ranked skin.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=Virus 8-Bit and Antivirus 8-Bit were slightly remodeled.|Change=Neutral}}
+*04/11/24:
+**{{Balance|Content=8-Bit's Aimbot Hypercharge was added.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=8-Bit's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=8-Bit's Wasabi Power was removed from the game.|Change=Neutral}}
+*17/07/25:
+**{{Balance|Content=The Ascended 8-Bit skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=8-Bit's main attack damage was increased to 340 (from 320) per laser.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge 8-Bit's Hypercharge was increased to 35 (from 34).|Change=Nerf}}
+**{{Balance|Content=8-Bit's Aimbot Hypercharge Super turret recharge rate was decreased by 5%.|Change=Nerf}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing 8-Bit's Aimbot Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing 8-Bit's Aimbot Hypercharge damage boost from 25%.}}
+**{{Balance|Change=Neutral|Content=8-Bit was slightly remodeled.}}
+*16/12/25:
+**{{Balance|Buff|8-Bit's health was increased to 5200 (from 5000).}}
+*25/02/26:
+**{{Balance|Neutral|Fixed missing visual effects on 8-Bit's Super when using the Plugged In Star Power.}}
+*05/03/26:
+**{{Balance|Neutral|The Canopic 8-Bit skin was added. It was featured as a Dark Sands skin.}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where 8-Bit's Hypercharged Super scaled up damage too much with other damage buffs.}}
+*30/06/26:
+**{{Balance|Buff|8-Bit's reload time was decreased to 1.35 seconds (from 1.5).}}
+**{{Balance|Buff|8-Bit's Plugged In Star Power movement speed boost was increased to 25% (from 24.14%).}}
+**{{Balance|Nerf|8-Bit's Extra Credits Gadget cooldown was increased to 15 seconds (from 11).}}
+**{{Balance|Neutral|8-Bit's Extra Credits Gadget can now be aimed.}}
+**{{Balance|Change=Neutral|Content=8-Bit can use his main attack while the Extra Credits Gadget is active.}}
+**{{Balance|Neutral|8-Bit's Reload Gear was removed.}}
+**{{Balance|Neutral|8-Bit's Buffies were added.}}
+*08/07/26:
+**{{Balance|Nerf|8-Bit's Extra Credits Buffied Gadget bouncing projectile damage was decreased to 60% (from 75%).}}
+**{{Balance|Nerf|8-Bit's Boosted Booster Buffied Star Power ammo spawn time was increased to 5 seconds (from 3).}}
+**{{Balance|Nerf|8-Bit's Aimbot Hypercharge multipier was decreased to 30% (from 35%).}}
+*04/08/26:
+**{{Balance|Nerf|The number of hits necessary to charge 8-Bit's Super was increased to 15 (from 12).}}
+**{{Balance|Nerf|8-Bit's Extra Credits Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Nerf|8-Bit's Buffied Plugged In Star Power movement speed boost to allies was decreased to 10% (from 15%).}}
+**{{Balance|Neutral|Fixed a bug where 8-Bit's Extra Credits could be shot over walls.}}
+*01/09/26:
+**{{Balance|Nerf|8-Bit's level up damage was decreased to 4% (from 6%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing 8-Bit's movement speed to 600 (from 580).}}
+*03/11/26:
+**{{Balance|Nerf|8-Bits's level up movement speed was decreased to 6 (from 8) in Brawl Arena.}}
+**{{Balance|Nerf|8-Bit's level up reload speed boost was decreased to 1% (from 1,5%) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (11)===
+====8-Bit====
+{{Skin Gallery
+|Name1 = 8-Bit Classic|Cost1 = Free from Presents, free after reaching 750 Trophies or 29 Gems|Campaign1=Gaming|Rarity1=Rare
+|Name2 = V8-Bit|Cost2=Free from the Retropolis Challenge or 79 Gems • '''S'''|Campaign2=Retropolis Nights|Rarity2=Super Rare
+|Name3 = Saloon|Cost3 = 149 Gems • '''E'''|Campaign3=Ranked|Campaign3_2=Outlaws|Rarity3=Epic
+|Name4 = Haunted House|Cost4 = Free from Gigi Boxes or 149 Gems|Campaign4=Enchanted Woods|Rarity4=Epic
+|Name5 = Piano|Cost5 = Free from Ranked Starr Drops, free from Bolt Boxes or 149 Gems|Campaign5=Ranked|Campaign5_2=Outlaws|Rarity5=Epic
+|Name6 = Ascended|Cost6 = Free from Angelic Drops or 149 Gems • '''S'''|Campaign6=Angels vs. Demons|Rarity6=Epic
+|Name7 = Canopic|Cost7 = 199 Gems|Campaign7 = Dark Sands|Rarity7=Mythic
+|Name8 = Virus|Cost8 = 299 Gems • '''E'''|Campaign8 = CyberBrawl|Rarity8=Legendary
+|Name9 = Antivirus|Cost9 = 299 Gems • '''S'''|Campaign9 = CyberBrawl|Rarity9=Legendary
+|TrueSkins = yes}}
+
+====Damage Booster====
+{{Skin Gallery
+|Name1 = 8-Bit Classic|Campaign1=Gaming|Rarity1=Rare
+|Name2 = V8-Bit|Campaign2=Retropolis Nights|Rarity2=Super Rare
+|Name3 = Saloon|Campaign3=Ranked|Campaign3_2=Outlaws|Rarity3=Epic
+|Name4 = Haunted House|Campaign4 = Enchanted Woods|Rarity4=Epic
+|Name5 = Piano|Campaign5=Ranked|Campaign5_2=Outlaws|Rarity5=Epic
+|Name6 = Ascended|Campaign6=Angels vs. Demons|Rarity6=Epic
+|Name7 = Canopic|Campaign7 = Dark Sands|Rarity7=Mythic
+|Name8 = Virus|Campaign8 = CyberBrawl|Rarity8=Legendary
+|Name9 = Antivirus|Campaign9 = CyberBrawl|Rarity9=Legendary
+|TrueSkins = yes
+|For=Minion}}
+
+=== Buffie Skins ===
+<gallery>
+File:8-Bit Buffie Skin-Gadget.png|Gadget
+File:8-Bit Buffie Skin-Star.png|Star
+File:8-Bit Buffie Skin-Hyper.png|Hyper
+File:8-Bit Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|8-Bit
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|V8-Bit}}
+{{Pin Table|8-Bit Classic}}
+{{Pin Table|Virus}}
+{{Pin Table|Saloon}}
+{{Pin Table|Haunted House}}
+{{Pin Table|Antivirus}}
+{{Pin Table|Piano}}
+{{Pin Table|Ascended|Special}}
+{{Pin Table|Canopic|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = 8-Bit|Rarity = Common}}
+|{{Spray|Type = 8-Bit Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Haunted House 8-Bit|Rarity = Common}}
+|{{Spray|Type = Virus 8-Bit|Rarity = Common}}
+|{{Spray|Type = Antivirus 8-Bit|Rarity = Common}}
+|-
+|{{Spray|Type = Canopic 8-Bit|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|8-Bit1}}
+|{{Pfp|8-Bit2}}
+|{{Pfp|8-Bit3}}
+|{{Pfp|8-Bit4}}
+|{{Pfp|Haunted House 8-Bit}}
+|-
+|{{Pfp|Virus 8-Bit}}
+|{{Pfp|Antivirus 8-Bit}}
+|{{Pfp|Saloon 8-Bit}}
+|{{Pfp|Piano 8-Bit}}
+|{{Pfp|Ascended 8-Bit}}
+|-
+|{{Pfp|Canopic 8-Bit}}
+|}
+
+{{Navigation}}
+[[pt:8-BIT]]
+[[ru:8-Бит]]
+[[nl:8-Bit]]
+[[pl:8-Bitowiec]]

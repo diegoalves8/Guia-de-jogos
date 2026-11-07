@@ -1,0 +1,34 @@
+{{Location Infobox
+|name       = Haunted Shipwreck
+|image      = HSW ClearVision.png
+|type       = Sea Event
+|sea        = 3
+|location   = [[Sea Danger Level]] 6 '''<font color="8c00ff">(????)</font>'''
+|music      = Deep Mist
+}}
+The '''Haunted Shipwreck''' is a [[Sea Events|Sea Event]].
+
+==Spawning==
+The Haunted Shipwreck may only spawn if the player is sailing a [[Boats|Boat]] in [[Sea Danger Level]] 6 '''<font color="8c00ff">(????)</font>'''. This island will despawn:
+* 15 minutes after spawning.
+* If there are no players near it.
+** There is no cooldown for it to respawn.
+
+Diamond, Gold, Silver and Fragment [[chests]] can be found throughout the Haunted Shipwreck. The chests inside the shipwreck are unlocked by defeating the enemies from the [[Ghost Ship Raid]].
+
+==Enemies==
+The enemies in this area are the [[Ghost Ship Raid|Ghost Ship]], [[Haunted Crew Member]]s, and [[Ghost Shark]]s. 
+
+During the event, a [[Boats|ship]] that attacks similarly to those found in [[Ship Raid]]s will spawn. This ship has an aquamarine glow and 90,000 health, which is much more than that of the main ship in regular [[Ship Raid]]s.
+
+==Trivia==
+* The Haunted Shipwreck's [[Soundtracks|soundtrack]] is as same as the [[Graveyard Island]].
+* In rare cases, two Haunted Shipwrecks can spawn at once.
+
+==Change History==
+{{Change History|21}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Sea Events]]

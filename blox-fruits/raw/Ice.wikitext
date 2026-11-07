@@ -1,0 +1,364 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Ice
+|image  = <gallery>
+Ice Fruit.png|Fruit Icon
+IceFruitGIF.gif|Fruit GIF
+Ice.png|Icon
+IceFruitheld.png|Held
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Uncommon
+|M1     = Yes
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 350,000
+|robux  = 750
+}}
+{{Quote|Allows the user to manipulate ice, freezing their foes in place.|Shop}}
+'''Ice''' is an {{Uncommon}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|350,000}} or {{Robux|750}} from the [[Blox Fruit Dealer]]. 
+
+Ice allows the user to create, become, and manipulate ice—launching sharp, freezing projectiles and encasing enemies in solid ice. It can also create icy surfaces that freeze the ground and stun enemies. In tandem with this, it allows the user to effectively walk on water by freezing it below their feet, with its main rival being [[Flame]].
+
+==Awakening==
+Ice costs {{Fragment|14,500}} to fully [[Raids|awaken]].
+
+Two [[Titles]] are unlocked upon awakening the first move from this fruit: "{{Title|The Ice Queen}}" #034 and "{{Title|The Ice King}}" #035.
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive/Elemental Reflex|Ice Passive.gif}}
+
+{{Skill/Passive
+|name     = Frost Walker
+|file     = Frost Walker Passive.gif
+|desc     = The user will create walkable ice platforms each time they touch the [[sea]]. Every ice platform the user creates takes up 4 [[energy]]. It will only take energy if the user walks on water.
+}}
+
+|Moveset (V1)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Ice M1
+|desc     = The user hits enemies with their Ice Trident, dealing damage as a fruit (can hit [[Blade]] users).
+}}
+
+{{Skill
+|key      = Z
+|name     = Ice Spears
+|mastery  = 1
+|cooldown = 9
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged on direct impact. Explosion [[Instinct/Break|breaks Instinct]].
+|gif      = Unawk Ice Z
+|desc     = The user fires a barrage of ice shards that rapidly travels to the enemy (Does not break [[Instinct]] if the projectiles do not touch the ground). This move is very similar to [[Diamond]]'s X move.
+}}
+
+{{Skill
+|key      = X
+|name     = Ice Surge
+|mastery  = 25
+|cooldown = 14
+|energy   = 25
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Unawk Ice X
+|desc     = The user stomps and releases a medium-sized surge of ice from the floor below, which deals damage and knocks back anyone it hits (Does not break [[Instinct]]). The ice rapidly falls and vanishes within two to three seconds. The ice surge covers a distance of about five to six seconds of walking from its starting point to where it ends.
+}}
+
+{{Skill
+|key      = C
+|name     = Ice Bird
+|mastery  = 50
+|cooldown = 15
+|energy   = 35
+|break    = Yes
+|instinct = The explosion [[Instinct/Break|breaks Instinct]]. Although it can still be dodged on the edge.
+|gif      = Unawk Ice C
+|desc     = The user creates a bird made of ice and launches it at where they are aiming, freezing whoever is hit. This move explodes on contact and stuns enemies for 1.5 seconds (similar to [[Soul Cane]]’s [Z])
+}}
+
+{{Skill
+|key      = V
+|name     = Glacial Epoch
+|mastery  = 100
+|cooldown = 26
+|energy   = 50
+|break    = Yes
+|instinct = The patch [[Instinct/Break|breaks Instinct]].
+|gif      = Unawk Ice V
+|desc     = The user casts the ground into ice, creating a huge AoE area that freezes and damages enemies. Often used by [[Swords|sword]] and [[Guns|gun]] users as their primary combo-starter. This move disables all attacks, dashes, and jumps from both enemies and the user for two seconds.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Ice M1
+|desc     = The user hits enemies with their Ice Trident, dealing damage as a fruit (can hit [[Blade]] users).
+}}
+
+{{Skill
+|key      = Z
+|name     = Cold Storm
+|mastery  = 1
+|cooldown = 9
+|energy   = 15
+|frag     = 500
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if the enemy is very close to it. Otherwise, it can be dodged.
+|gif      = Frost Storm
+|desc     = The user fires multiple glacial hurricanes that travel at slow speeds towards the cursor. Upon contact with the enemy, it will slowly deal damage and while stunning them for the duration of the move. This move breaks [[Instinct]] on startup, but it can be easily prevented by Instinct-Tricking.
+}}
+
+{{Skill
+|key      = X
+|name     = Glacial Surge
+|mastery  = 25
+|cooldown = 14
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Frost Surge
+|desc     = The user unleashes a huge, sharp iceberg, which launches enemies away, freezing them slightly and deals good damage. 
+}}
+
+{{Skill
+|key      = C
+|name     = Frozen Dragon
+|mastery  = 50
+|cooldown = 15
+|energy   = 35
+|frag     = 4,000
+|break    = Yes
+|instinct = Small patch [[Instinct/Break|breaks Instinct]]. Can sometimes be dodged at the edge.
+|gif      = Frost Dragon
+|desc     = The user launches a large, high-speed ice dragon into the air, which then crashes down at the aimed area, causing a huge AoE cold explosion and freezing enemies.
+}}
+
+{{Skill
+|key      = V
+|name     = Absolute Zero
+|mastery  = 100
+|cooldown = 26
+|energy   = 50
+|frag     = 5,000
+|break    = Yes
+|instinct = The patch [[Instinct/Break|breaks Instinct]], can be dodged if entered extremely late on the defrost.
+|gif      = Subzero
+|desc     = The user unleashes a gigantic wave of piercing ice around them, freezing everyone in its radius and causing damage. This move disables all attacks, dash and Air Jumps from opponents and the user for two seconds.
+}}
+
+{{Skill
+|key      = F
+|name     = Ice Skating
+|mastery  = 0
+|cooldown = 7
+|energy   = 30
+|frag     = 2,000
+|gif      = Frost Walkers
+|desc     = Along with the ability to passively walk on water, the user gains the ability to skate at high speeds. When the user unlocks this ability, the ice patterns under their feet when they walk on water will change into a brighter blue color, similar to the walkable ice platforms when walking on water.
+}}
+}}
+
+==Overview==
+{{Tabber
+|Unawakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* [[Elemental]] fruit (good for farming due to its immunity and stuns).
+* Comes with an ice trident which is not affected by sword stats since it is scripted as a part of the fruit (similar to [[Light]]). This is good for fruit mains because they do not have to put stats in sword and also can deal damage to [[Blade]] users.
+* All moves have good AoE and the [V] move covers a wide radius.
+* Passive allows the user to walk on water.
+* All moves are multi-target.
+* Stuns are useful for [[Raids]], [[Bosses]], [[PvP]] and grinding [[Enemies]].
+* Easily obtainable due to its low price.
+
+|'''[Z] Ice Spears'''
+* High range and decent explosion damage.
+* Little bit stun.
+
+|'''[X] Ice Surge'''
+* No end-lag.
+
+|'''[C] Ice Bird'''
+* Launches faster than its awakened version though has less range in return.
+* Freezes the enemy for 1-2 seconds (simillar to Ice's '''[V]''' move).
+
+|'''[V] Glacial Epoch'''
+* Large AoE.
+* Freezes the enemy for 1-2 seconds (simillar to Ice's '''[C]''' move).
+}}
+
+|Cons|
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* [[Elemental]] Reflex is almost useless in the [[Third Sea|Third]] and [[Second Sea]], because most of the NPCs utilizes [[Aura]], which nullifies the [[Elemental]] reflex.
+* The user can still get pushed into the water and drowned despite the passive.
+* Weak fighting in air, since the majority of the moveset can't be used in the air.
+* Low damage.
+
+|'''[Z] Ice Spears'''
+* Easy to dodge due to its small hitbox.
+
+|'''[X] Ice Surge'''
+* High knockback in grinding.
+* Does not work in the air.
+* Small hitbox compared to awakened version, having a hitbox two times smaller
+
+|'''[C] Ice Bird'''
+* Projectile moves slowly.
+* Can be dodged if aimed directly.
+
+|'''[V] Glacial Epoch'''
+* Very easily punished.
+* Cannot [[Dashing|dash]], [[Air Jump|air jump]], or use any other move until the ice defrosts.
+}}
+}}
+
+|Awakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Excellent for PvP
+* Amazing combo potential.
+* Amazing stuns as most of its moves freeze the opponent.
+* Decent damage.
+
+|'''[Z] Cold Storm'''
+* Decent stuns.
+* Can push players and [[Enemies|enemies]] away.
+* Can deal very high damage if aimed correctly.
+
+|'''[X] Glacial Surge'''
+* High AoE.
+* Slight stun.
+* No startup.
+
+|'''[C] Frozen Dragon'''
+* High range and AoE.
+* High stun. (The longer the dragon travels, the longer the stun effect is)
+
+|'''[V] Absolute Zero'''
+* High AoE.
+* Extremely high stun.
+* No startup.
+* Amazing combo potential.
+
+|'''[F] Ice Skating'''
+* Good mobility.
+* Decent speed.
+}}
+
+|Cons|
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Medium to low damage compared to other awakaned fruits.
+* Still relatively weak in air
+* More limited stuns compared to fruits like [[Control]] or [[Blizzard]], however, it is much easier to use.
+
+|'''[Z] Cold Storm'''
+* Slow speed.
+* Can be dodged easily. 
+* Can be instinct-tricked.
+
+|'''[X] Glacial Surge'''
+* High knockback. (Even further than unawakened)
+* Does not work in the air.
+
+|'''[C] Frozen Dragon'''
+* Slight end-lag.
+* Easy to avoid, due to the slow travel speed.
+
+|'''[V] Absolute Zero'''
+* Cannot [[Dashing|dash]], [[Air Jump|air jump]], or use any other move until the ice defrosts.
+* Can be punished if missed.
+
+|'''[F] Ice Skating'''
+* The lower the user's [[health]], the slower their speed.
+* High [[energy]] usage on water. ([F] Ice Skating and dodging with the ice effect on water)
+}}
+}}
+}}
+
+==Trivia==
+* {{Ability|Z}} used to be the Awakened '''[Z]''' move before it got reworked.
+* Some skins can cause the trail of ice on [[water]] to be generated more slowly as players run.
+* {{Ability|V|1}} shares the same name with the [[Skins#Aura Skins|Aura Skin]], {{Skin|Absolute Zero}}.
+* Ice's trident can damage [[Blade]] users, as it is not classified as a [[Sword]].
+* Other players can step on the ice created by the Frost Walker passive.
+* Ice's Frost Walker Passive is somewhat similar to Minecraft's Frost Walker Enchantment.
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} '''[X] Glacial Surge''' Now breaks Instinct; hitbox size increased by 25%.
+* {{Arrow|buff}} '''[C] Frozen Dragon''' Travel speed increased by 60%.
+* {{Arrow|buff}} '''[V] Absolute Zero''' Now usable in the air.
+
+|-|20=
+{{Update|20}}
+* Ice Fruit's model was remade.
+: <gallery>
+Ice 150x150.png|Old Ice Fruit's icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* The visuals of Ice's skills were revamped.
+**Ice's sword was replaced by a trident.
+: <gallery>
+Ice Sword.png|The Ice sword before it was changed.
+</gallery>
+
+|-|17.2=
+{{Update|17.2}}
+* Ice was buffed.
+** The speed and stun of '''[C] Frozen Dragon''' (V2) were increased.
+** The stun time of '''[V] Absolute Zero''' (V2) was extended.
+* Ice was nerfed.
+** The ability to use '''[V] Absolute Zero''' in air was removed.
+
+|-|11=
+{{Update|11}}
+* Ice received an [[Raids|awakening]].
+
+|-|6=
+{{Update|6}}
+* Added freezing water mechanic to '''[Z] Ice Spears'''.
+* '''[C] Ice Bird''' was remade.
+----
+|-|1=
+{{Update|1}}
+* Ice was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Immunity Fruits]]
+[[ru:Лёд]]

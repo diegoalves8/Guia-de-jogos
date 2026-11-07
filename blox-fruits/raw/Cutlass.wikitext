@@ -1,0 +1,122 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Cutlass
+|image     = <gallery>
+Cutlass.png|Icon
+CutlassIGHeld.png|Held
+Cutlass (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Common
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Pirate Starter
+|location1 = Marine Starter
+|obtain    = Bought
+|source    = [[Sword Dealer]]
+|price     = {{Money|1,000}}
+}}
+{{Quote|A short, curved sword with a basic hilt, a sailor's weapon of choice.|Item}}
+The '''Cutlass''' is a {{Common}} [[sword]].
+
+The cutlass allows the user to cast basic dash and slash attacks.
+
+==Obtainment==
+The Cutlass can be purchased for {{Money|1,000}} from the [[Sword Dealer]] at Pirate/Marine Starter.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Cutlass M1
+|desc     = The player does 3 slashes, then performs a stab on the fourth, similar to [[Saber]]’s M1s.
+}}
+
+{{Skill
+|key      = Z
+|name     = Quiet Rush
+|mastery  = 1
+|cooldown = 7
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = NewCutlassZ
+|desc     = The user dashes forward, swiftly attacking enemies in their path in a teleportation-like fashion.
+}}
+
+{{Skill
+|key      = X
+|name     = Air Slash
+|mastery  = 20
+|cooldown = 10
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = NewCutlassX
+|desc     = The user slashes through the air, unleashing a short-range air slash that strikes all enemies in its path, forcefully knocking them back.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good option for beginners.
+* Low cooldowns.
+* Low price.
+* Low mastery requirements.
+* Particularly useful for new players who do not have a [[Blox Fruit]].
+* Good for training [[Aura]] because of the low damage.
+* Both moves have [[AoE]].
+
+|'''[Z] Quiet Rush'''
+* Quick start.
+
+|'''[X] Air Slash'''
+* Decent damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Both moves do not [[Instinct Break|break Instinct]].
+* Terrible damage.
+* The cooldowns are very long for such a weak weapon, making it very ineffective, especially at such a low point in the game.
+* For its stage in the game, the Cutlass's upgrade cost is exorbitant due to the requirement of [[Angel Wings]], a [[Materials|material]] that can only be dropped by enemies in the [[Upper Skylands]], which are Lv. 450+.
+
+|'''[Z] Quiet Rush'''
+* Bad range.
+
+|'''[X] Air Slash'''
+* Easy to dodge due to its small range and slow speed.
+}}
+</tabber>
+
+==Trivia==
+* The Cutlass has the same move set as the [[Katana]].
+* The Cutlass used to cost {{Money|5,000}} instead of {{Money|1,000}}.
+* [[Chef]] and many other [[enemies]] use the Cutlass. 
+* [[Diamond (Boss)|Diamond]] visually uses the Cutlass. however, he drops the [[Longsword]].
+
+==Change History==
+{{Change History|1|content=
+{{Update|20}}
+* The Cutlass's moves were reworked.
+----
+{{Update|17}}
+* The Cutlass's slash animation was reworked.
+----
+{{Update|1}}
+* The Cutlass was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

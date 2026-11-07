@@ -1,0 +1,134 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Twin Hooks
+|image     = <gallery>
+TwinHooks.png|Icon
+Twin Hooks EQ.png|In-Game
+Twin Hooks Held.png|Held
+Twin Hooks (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Uncommon
+|update    = 15
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Floating Turtle
+|obtain    = Dropped
+|source    = [[Captain Elephant]]
+}}
+{{Quote|Two identical hooks, made with the might of a beast. Use brutally.|Item}}
+The '''Twin Hooks''' is an {{Uncommon}} [[sword]].
+
+Despite its unusually low rarity for a [[Third Sea]] sword, Twin Hooks has some very powerful combos, namely due to {{Ability|X}} being able to extend of off moves it can 'latch' onto.
+
+It does however, have comparatively low damage and slow moves when compared to other [[Swords]]. Even with it's slightly lower damage, it's still relatively decent for combos, and pairs well with [[Portal]] and [[Electric Claw]].
+
+==Obtainment==
+The Twin Hooks can be obtained after defeating [[Captain Elephant]], who is located at the [[Floating Turtle]] in the [[Third Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Twin Hooks M1
+|desc     = The player does 3 slashes, ending on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Sky Cyclone
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = No
+|instinct = Cannot break Instinct in any way, but drains multiple dodges.
+|gif      = Twin Hooks Z
+|desc     = The user swings their hooks in front of them, briefly creating a cyclone of red wind at the point of their cursor, which deals damage to nearby enemies and drags them downwards. If enemies are on the ground, they will slightly rise to the air.
+}}
+
+{{Skill
+|key      = X
+|name     = Prehistoric Punt
+|mastery  = 300
+|cooldown = 14
+|energy   = 30
+|break    = Yes
+|instinct = The initial grab can be dodged, but the second hit breaks Instinct.
+|gif      = PrehistoricsPunt
+|desc     = The user throws their hooks at the direction of their cursor, which are connected to them via ropes. After throwing the move towards the cursor it will also somewhat auto-aim moving to any non allied person or enemy. Upon hitting an enemy, the user pulls themselves towards the target as a large dark spectral mammoth head with red glowing eyes appears behind them and rushes forward, launching the target into the air after dealing damage. This move is similar to [[Mammoth]]'s {{Ability|Mammoth|X}}.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Both moves have a quick start.
+* Great damage.
+* Nice attack speed.
+* Both moves can hit [[Sea Beast]]s.
+* Good for combos.
+* Both moves have [[AoE]].
+* Good alternative to the [[True Triple Katana]] and the [[Cursed Dual Katana]] due to its similar moveset.
+
+|'''[Z] Sky Cyclone'''
+* Good hitbox.
+* Fast activation.
+* Can drain [[Instinct]].
+
+|'''[X] Prehistoric Punt'''
+* Has [[AoE]].
+* Great extender for combos.
+* Mammoth spectral head can hit multiple targets.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to use.
+* Both moves have short range.
+
+|'''[Z] Sky Cyclone'''
+* Does not "work" in areas with low ceilings, such as the boss room of the [[Cake Queen]], similiar to [[Lightning]] [X].
+* Easy to dodge.
+* Somewhat of end-lag if missed.
+
+|'''[X] Prehistoric Punt'''
+* Difficult to land.
+* Initial grab is single target.
+* Heavy end-lag if missed.
+}}
+</tabber>
+
+==Trivia== 
+* The X move on [[Mammoth]], True Prehistoric Punt, parallels the X move on Twin Hooks, Prehistoric Punt.
+* The Twin Hooks has an unusually low rarity, since all [[Third Sea]] swords are at least {{Legendary}}.
+* The Twin Hooks has the most mastery requirements needed to unlock all the moves out of any [[Uncommon]] [[Swords|Sword]].
+* Despite not being one, the Twin Hooks is nevertheless classified as a [[Swords|Sword]].
+* The Twin Hooks is the only {{Uncommon}} sword that can be obtained in the [[Third Sea]].
+* {{Ability|X}} used to have the same sound as [[Dragon (Classic)]]'s Z Move.
+* {{Ability|X}}'s startup looks similar to [[Rubber]]'s {{Ability|Rubber|F}}.
+* Despite X move being able to grab a single player, it can deal damage to multiple targets on the second hit.
+<gallery>
+File:Hulking fury.gif|Red, heavy gusts of wind as the user holds '''[X] Prehistoric Punt'''.
+</gallery>
+
+==Change History==
+{{Change History|15|content={{Update|29.6}}
+* {{Arrow|Buff}} {{Ability|Z}} enemy landing is now more predictable.
+----
+{{Update|24}}
+* Twin Hooks' moves were revamped.
+----
+{{Update|15}}
+* Twin Hooks were released.}}
+
+==Navigation==
+{{Sword Navbox}}

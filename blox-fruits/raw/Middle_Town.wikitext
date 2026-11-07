@@ -1,0 +1,84 @@
+{{MapTab}}
+
+{{Location Infobox
+|name       = Middle Town
+|image      = Middle Town 30.png
+|type       = Island
+|sea        = First Sea
+|music      = The Woodlands
+}}
+The '''Middle Town''' is a home base point in the middle of the [[First Sea]].
+
+==Usage==
+The Middle Town is home to many shops and [[NPCs]], one of which serves quest significance ([[The Son Quest]] for the Dark Blade V2 and also the route to the [[Second Sea]] by speaking to the [[Experienced Captain]] after defeating the [[Ice Admiral]]), although some include NPCs that sell [[Swords]] and [[Guns]], as well as the user VegaVoss.
+
+==Appearance==
+The Middle Town is mostly devoid of grass, save for a few areas around the island. In the very center, there are two buildings and a courtyard which is surrounded by 13 buildings and has a fountain in the middle of the squares. On the left and right edges of the island, there are stone docks, and on the top and bottom edges, there are rocky beaches.
+==Port==
+The port of Middle Town consists of three docks on the eastern and western ends of the island for a total of six docks. Up to six ships may be spawned at a time at Middle Town. Middle Town has the largest port in First Sea.
+
+==Developer House==
+[[File:Middle Town The Son Quest Update 30.png|thumb|179x179px|The house where [[Robotmega]] and the [[Aura Editor]] are located.]]
+The Middle Town is also home to [[Robotmega]], an [[NPCs|NPC]] located in a house with a red roof that starts [[The Son Quest]] for the [[Dark Blade]] V2. This building also has inside the [[Aura Editor]], who allows the player to change the stage of their [[Aura]]. 
+
+== Tester Dorm ==
+Middle Town has this house at the back of the [[Blox Fruit Gacha|Blox Fruits Gacha]] and in front of the [[Blox Fruit Dealer]] where you can break the glass at the second floor of the house. There resides [[Janus]], a Blox Fruits Tester, he will have a chance of spawn every day starting at UTC 0:00 on every 30-minute interval, as the day goes on the chance will get higher and higher. Once he has spawned for the day you must wait until the next day starting a UTC 0:00 to see him again. His spawn is global so server hopping will not work. The tester, [[Janus]], will come out of their room he will stay in his spot for 30 minutes then leave.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Blox Fruit Dealer]]
+* [[Blox Fruit Gacha]]
+* [[Weapon Dealer]]
+* [[Home Points]]
+* [[Event Shop]]s (formerly)
+* [[Santa Claws]]  (formerly)
+* [[Magic Elf]]  (formerly)
+* [[Death King]] (formerly)
+* [[Experienced Captain]]
+* [[Robotmega]]
+* [[Aura Editor]]
+* [[Dragon Talon Sage]]
+* [[Secrets Master]]
+* [[Janus]] 
+|
+* [[The Saw]] 
+|}
+
+== [[Island Secrets]] ==
+
+* Break the window above the broken cart next to [[Experienced Captain]] and go inside. He will have a chance of spawn every day starting at UTC 0:00 on every 30 minute interval, as the day goes on the chance will get higher and higher. Once he has spawned for the day you must wait until the next day starting a UTC 0:00 to see him again. His spawn is global so server hopping will not work.  The developer, [[Janus]], will come out of their room he will stay in his spot for 30 minutes then leave. Talk with him and then go to the [[Robotmega]] building. Grab the key next to the [[Aura Editor]]. Go around to the back of the same building and unlock the door. Once unlocked, a cutscene will play showing the player hacking into a computer to steal a special system. Finally, go back to [[Janus]] and interact with him. He will reward the player with the Tester role.
+
+* Talk with the [[Experienced Captain]] [[NPCs|NPC]] and click the option that talks about his duty. After that, there's a chance that a "Count The Flags" mini game will start. After completing 4 rounds, he'll reward you. If you fail the minigame you can re-do it.
+* The player must go around Middle Town using melee M1s on trees, barrels, lamps, or boxes. When hit, the object the map is hidden in will start to shake. Once dropped, the map will lead the player across Middle Town to collect more map pieces, until the entire map is put together. The final map piece will reveal the location of the buried treasure. Dig it up by hitting it with melee M1s and 2-4 skeletons will spawn in, which the player must defeat in order to complete the quest and speak to the [[Experienced Captain]].
+
+==[[Bosses]]==
+[[The Saw]] will spawn in the Middle Town near the fountain every 1 hour and 15 minutes while the following [[System Messages|message]] is shown in chat:<br>{{System Message|The Saw has spawned in the game! You have 15 minutes to defeat him and possibly get a rare reward!}}
+
+Once defeated, [[The Saw]] has a small chance to drop the [[Shark Saw]], as well as a moderate sum of {{EXP}} and {{Money|Money}}.
+
+==Trivia==
+* No other buildings in the game use domed architecture, making the two domed buildings at the Middle Town the only examples of it in the game.
+* Middle Town is a significant island due to the fact that it is an island where a lot of important [[NPCs]] usually appear, some of them even being event-exclusive.
+* As of [[Updates/29.0|Update 29.0]], there is no house in front of [[Blox Fruit Dealer]] since the removal of [[Fish Fights]] arenas. 
+* Before there was another building that was replaced by the fish battles. Now the fish battles are gone, and the building was never added again.
+
+==Change History==
+{{Change History|1|content={{Update|30}}
+* Middle Town was reworked.
+* [[Janus]] was added as a new [[NPCs|NPC]] to the island.
+<gallery>
+Middleisland.png
+</gallery>
+Old Middle Town
+----
+{{Update|1}}
+*Middle Town was added.}}
+
+==Navigation==
+{{IslandNavigation}}

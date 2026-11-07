@@ -1,0 +1,330 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Spider
+|image  = <gallery>
+Spider Fruit.png|Fruit Icon
+Spider fruit gif.gif|Fruit GIF
+Spider.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = No
+|update = 3
+
+<!-- Fruit Price -->
+|money  = 1,500,000
+|robux  = 1,800
+}}
+{{Quote|Grants spider-like abilities, including web attacks and agility.|Shop}}
+'''Spider''' is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,500,000}} or {{Robux|1,800}} from the [[Blox Fruit Dealer]]. 
+
+Spider grants the user the ability to control and manipulate strings, similar to a spider’s web. The user can swing through the air, slash enemies with sharp strings, summon spiky silk, and throw fiery strings that damage opponents.  
+
+==Awakening==
+Spider costs a total of {{Fragment|17,300}} to fully [[Raids|awaken]].
+
+"The Spider" [[Titles|title]] #036 will be granted upon awakening at least one move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z | 800
+|move2 = F | 2,500
+|move3 = X | 3,500
+|move4 = C | 4,500
+|move5 = V | 6,000
+}}
+
+==Abilities==
+{{Tabber
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Spider Wraith
+|mastery  = 1
+|cooldown = 9
+|energy   = 35
+|break    = yes
+|instinct = Direct slash [[Instinct/Break|breaks Instinct]]. Can be dodged if far enough or on the edge.
+|gif      = Spider_Z
+|desc     = The player swipes at the opponent and summons a claw to knock back the player. Its hitbox and range is very small.
+}}
+
+{{Skill
+|key      = X
+|name     = Multi-string Attack
+|mastery  = 50
+|cooldown = 10.5
+|energy   = 50
+|instinct = Can be dodged on the edge.
+|gif      = Spider_X
+|desc     = The player impales their target from above with five strings, dealing medium AoE damage and also briefly stunning anyone hit by it.
+}}
+
+{{Skill
+|key      = C
+|name     = Over-heated Sniper
+|mastery  = 100
+|cooldown = 15
+|energy   = 70
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Spider_C
+|desc     = The user shoots a thick rope made of condensed strings from their palm which deals great damage. The damage for this move depends on how far they are from their opponent(s). The further away the user is from their opponent(s), the higher the damage they will receive. This move has the second best range in the game, leaving a short invisible tripwire effect that lasts for 1 second, which will deal damage when stepped on and breaks Instinct no matter what. 
+}}
+
+{{Skill
+|key      = V
+|name     = Ultimate Thread
+|mastery  = 225
+|cooldown = 24
+|energy   = 100
+|instinct = Can be dodged if far enough or on the edge.
+|gif      = Spider_V
+|desc     = The player creates multiple strings weaved together (covered in Aura) and sends them at enemies in a piercing formation. This move deals damage in a sharp cone-shaped hitbox and stuns targets. Its color changes according to the user's [[aura]] [[Skins|colour]], like [[Dough]].
+}}
+
+{{Skill
+|key      = F
+|name     = Spider Path
+|mastery  = 15
+|cooldown = 7.5
+|energy   = 50
+|gif      = Spider_F
+|desc     = The player summons a lot of threads under their body and levitates.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Thermal Laceration
+|mastery  = 1
+|cooldown = 9
+|energy   = 25
+|frag     = 800
+|break    = yes
+|instinct = Direct hits [[Instinct/Break|break Instinct]]. Can be dodged on the edge.
+|gif      = SpiderThermal
+|desc     = The user slashes forth up to four fiery blades of hot strings that deal good damage (the number of strings and their damage varies depending on how long the user holds the move), with the fourth one resembling the shape of the letter 'X'.
+}}
+
+{{Skill
+|key      = X
+|name     = Silk Prison
+|mastery  = 50
+|cooldown = 10.5
+|energy   = 40
+|frag     = 3,500
+|instinct = Can rarely be dodged on the edge.
+|gif      = SpiderXSilk
+|desc     = The user shoots out strings upwards from their hand and creates a large circular cage that when held, traps targets inside. Then, the cage quickly shrinks and slashes whoever is inside of it, dealing instant damage. If held, the size of the cage increases by a fair amount, although it does not affect the damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Eternal White
+|mastery  = 100
+|cooldown = 15
+|energy   = 60
+|frag     = 4,500
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = SpiderCEternal
+|desc     = The user summons large, white spears of strings that leave the ground and hit wherever the cursor is located. If the cursor is close enough, the move will auto-target nearby enemies. Damage gets smaller over time and most of the damage is dealt during the early stage of the move (a string will do less damage than the string that came before it). This move holds the player down in place until the end of the move.
+}}
+
+{{Skill
+|key      = V
+|name     = Heavenly Punishment
+|mastery  = 225
+|cooldown = 27
+|energy   = 80
+|frag     = 6,000
+|break    = yes
+|instinct = Breaks [[Instinct]] if the enemy is right at the front of the attack, but near the back it can be dodged.
+|gif      = SpiderVHeavenly
+|desc     = The user shoots out hundreds of dark red and maroon strings rapidly, in a more cylindrical hitbox. This move has a small start-up time, however, it stuns while dealing massive damage to anyone it hits. Its color changes according to the user's [[aura]] [[Skins|colour]].
+}}
+
+{{Skill
+|key      = F
+|name     = Spider Highway
+|mastery  = 15
+|cooldown = 1.75
+|energy   = 50
+|frag     = 2,500
+|gif      = Spider_Highway
+|desc     = The user shoots out a string and swings to where the user is faced. Speed scales with user's [[health]]. Holding this move can allow the user to swing slightly farther, although not very noticeable. If the user looks up while using this move, the swing is increased further.
+}}
+}}
+
+==Overview==
+<tabber> 
+Unawakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Good damage.
+
+|'''[Z] Spider Wraith'''
+* Decent damage.
+
+|'''[X] Multi-string Attack'''
+* Decent stun and AoE.
+
+|'''[C] Over-heated Sniper'''
+* Very high range.
+* In some situations, this move can be more effective than its awakened counterpart.
+* Leaves a tripwire effect for two seconds after launching which, upon contact, will still inflict the damage.
+* [[Instinct/Break|Breaks instinct]].
+
+|'''[V] Ultimate Thread'''
+* High stun.
+* [[Instinct/Break|Breaks instinct]].
+* Good damage.
+
+|'''[F] Spider Path'''
+* Decent speed.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Generally small hitboxes.
+* Does not perform well in air fights.
+
+|'''[Z] Spider Wraith'''
+* Short range.
+* High knockback.
+
+|'''[X] Multi-string Attack'''
+* Requires good timing.
+* The player is left immobile for the duration of the move.
+
+|'''[C] Over-heated Sniper'''
+* Requires good aim.
+
+|'''[V] Ultimate Thread'''
+* High end-lag.
+
+|'''[F] Spider Path'''
+* Cannot touch the ground, which can be hard to enter buildings.
+}}
+}}
+
+|-|Awakened=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Extreme range.
+* Strong mobility.
+* All moves can break [[Instinct]].
+
+|'''[Z] Thermal Laceration'''
+* Slight stun.
+* Decently ranged.
+* Good damage
+
+|'''[X] Silk Prison'''
+* High stun.
+* High [[AoE]].
+* Quick start.
+* Holding the move increases its hitbox drastically.
+* [[Instinct/Break|Breaks Instinct]].
+
+|'''[C] Eternal White'''
+* High stun.
+* [[Instinct/Break|Breaks Instinct]].
+
+|'''[V] Heavenly Punishment'''
+* Good range.
+* Very high damage and stun.
+* [[Instinct/Break|Breaks instinct]].
+
+|'''[F] Spider Highway'''
+* High mobility.
+* Low cooldown.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Awakened
+|'''General'''
+* All of the moves are held, giving you little to no time to aim for the target. This makes the fruit a bit hard to use.
+* Weak when dealing sustained damage.
+* All moves can be [[Instinct]] tricked.
+
+|'''[Z] Thermal Laceration'''
+* Low range.
+
+|'''[X] Silk Prison'''
+* Long start-up.
+
+|'''[C] Eternal White'''
+* The player is left immobile for the duration of the move.
+* Difficult to deal full damage.
+* Weak in air.
+* Slow speed.
+
+|'''[V] Heavenly Punishment'''
+* The player is left immobile for the duration of the move.
+* Long start-up.
+* Long endlag.
+* Easily punishable if interrupted.
+
+|'''[F] Spider Highway'''
+* Short range.
+* High cooldown.
+}}
+}}
+</tabber>
+
+==Trivia==
+* Spider is used by [[Swan]] and [[Don Swan]], both having unique versions of Spiders' moves.
+* Spider was reworked in [[Updates/19|Update 19]], being renamed from String to Spider alongside changing most of its abilities, with the exception of awakened [X] and [Z].
+** For example, {{Ability|F}} is actually the pre-rework awakened String's {{Ability|F|1}}.
+* Spider's {{Ability|Z}} shares sound effects with [[Cyborg#Version 4|Cyborg V4's]] Super Jump.
+* Most players that use Spider in PvP often choose to use Unawakened '''[C] Over-Heated Sniper''' instead of the Awakened version '''[C] Eternal White''', due to its capability to snipe other players and deal damage instantly. 
+
+==Change History==
+{{Change History|3|content=
+<tabber>
+|-|31.4=
+{{Update|29.6}}
+* Spider V2 was buffed.
+** {{Arrow|Buff}} '''[Z] Thermal Laceration''' damage increased by 50%; range increased by 20%; hitbox size increased by 60%.
+** {{Arrow|Buff}} '''[X] Silk Prison''' hitbox size increased by 30%; stun duration increased by 20%.
+
+|-|20=
+{{Update|20}}
+* Spider Fruit's model was remade.
+: <gallery>
+Spider 150x150.png|Old Spider  Fruit's icon.
+</gallery>
+
+|-|19=
+{{Update|19}}
+* String was renamed to Spider.
+** '''[Z] Rainbow String''' (V1) was renamed to "Spider Wraith".
+** '''[F] String Path''' (V1) was renamed to "Spider Path".
+** '''[F] God's Highway''' (V2) was renamed to "Spider Highway".
+* {{Arrow|neutral}} All moves were reworked (with the exception of awakened [X] and [Z]).
+
+|-|17.2=
+{{Update|17.2}}
+* {{Arrow|buff}} Greatly increased the auto-aim and speed on the C move unawakened.
+
+|-|13=
+{{Update|13}}
+* String received an [[Raids|awakening]].
+
+|-|3=
+{{Update|3}}
+* String was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Паук]]

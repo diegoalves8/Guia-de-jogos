@@ -1,0 +1,62 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Snow Mountain
+|image    = Snow Mountain.png
+|type     = Island
+|sea      = Second Sea
+|level    = 1000-1100
+|music    = Winter
+|prev     = Graveyard Island
+|next     = Hot and Cold
+}}
+The '''Snow Mountain''' is an [[Locations|island]].
+
+The island is made up of two mountains connected by a bridge. On one mountain, the player can find the [[Snow Quest Giver]], as well as the [[Snow Trooper]]s. On the other mountain, the player can find the [[Winter Warrior]]s. 
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+|-
+|
+* [[Boat Dealer]]
+* [[Luxury Boat Dealer]]
+* [[Martial Arts Master]]
+* [[Set Home Point]]
+* [[Barista Cousin]] (sometimes) 
+* [[Dragon Talon Sage]] (sometimes) 
+|
+* [[Snow Trooper]]
+* [[Winter Warrior]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Level Required
+!Description
+!Rewards
+|-
+| rowspan="2" | [[Snow Quest Giver]]
+|1000
+|Defeat 8 [[Snow Trooper]]s
+|{{Money|12,250}}<br />{{EXP|22,500,000}}
+|-
+|1050
+|Defeat 9 [[Winter Warrior]]s
+|{{Money|12,500}}<br />{{EXP|24,000,000}}
+|}
+
+==Trivia==
+* The player can destroy the bridge when using a [[Destructible Physics]] move.
+** The player cannot cross the bridge while having [[Dough]]'s awakened {{Ability|Dough|F|2}} or [[Blizzard]]'s {{Ability|Blizzard|F}} as the bridge will break from too many hits, since those attacks have continuous ticks. 
+* The player can spawn a [[Sea Beast]] between the mountains; Sea Beasts can also spawn naturally there.
+* The Snow Mountain is hollow, so if the player angles their camera correctly, they can use Flash Step to get inside.
+* The Snow Mountain had a [[Poneglyphs|Poneglyph]] but it was later removed in [[Updates/13|Update 13]].
+* [[Control]], prior to it's rework, was known to pick up the entire bridge and throw it, resulting in an explosion that covers the entire island.
+
+==Change History==
+{{Change History|9}}
+
+==Navigation==
+{{IslandNavigation}}

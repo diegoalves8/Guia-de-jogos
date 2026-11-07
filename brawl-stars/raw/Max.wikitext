@@ -1,0 +1,324 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = I AM SPEED!|PrestigeTitle = Too fast|Rarity = Mythic|Class = Support|MovementSpeed = 855 (Very Fast)<br>1155 (with Super)<br>1167 (with Hypercharged Super)<br>2400 (with Phase Shifter)|GadgetCharges = 3|VoiceActor = Sandra Osborne|HealthLabel = Health|Health = 3500|AttackRange = 8.33 (Long)|Reload = 1.3 seconds (Very Fast)<br>1.1 seconds (with Run n' Gun)|AttackBullets = 4|AttackSuperCharge = 5.75%<br>11.75% (with Hyper Buffie)|AttackLabel = Damage per projectile|Attack = 320|SuperRange = 4|SuperDuration = 4 seconds<br>10 seconds (with Hypercharge)|AttackSpread=13.5°|AttackSpeed=4000|AttackWidth=|Gadget1Name=Phase Shifter|Gadget1Cooldown=18 seconds|Gadget2Name=Sneaky Sneakers|Gadget2Range=2|Gadget2Cooldown=24 seconds|Previous=Gene|Next=Mr. P|HyperchargeMultiplier=45%|AttackHyperchargeCharge=3.3%|SuperSuperCharge=25% (with Hypercharge)|SuperHyperchargeCharge=11.25% (with Hypercharge)}}
+{{Quote|Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much... but she sure is fast!}}
+{{Portrait}}
+Max is a {{Rarity|Mythic}} [[Brawler]] with moderate health, a fast reload speed, a moderately high burst damage, and great mobility with her very fast movement speed and her Super. She was the 32nd Brawler added to the game. Her Trait allows her to charge her Super while moving. For her attack, Max rapidly fires 4 long-ranged projectiles in a slight spread. Her Super momentarily boosts the movement speed of her and nearby allies. Her first Gadget, Phase Shifter, makes her dash in the direction she is facing and gains an immunity shield while dashing. Her second Gadget, Sneaky Sneakers, marks the ground where she will teleport back to after 3 seconds with her initial health. Her first Star Power, Super Charged, lets her extend her duration of her Super by hitting enemies with her attack. Her second Star Power, Run n' Gun, increases her reload speed while she's moving. Her Hypercharge, Unlimited Energy, makes her next Super throw energy drinks to herself and all allies, momentarily boosting the movement speed and charging the Supers of her and allies.
+
+==Trait==
+{{Quote|Charges their Super while moving.}}{{Trait|Move}}Whenever Max moves, she charges her Super and Hypercharge. To fully charge her Super, Max needs to move 240 tiles. 
+
+==Attack: Faster Blaster==
+{{Quote|Max's blaster shoots a bunch of projectiles fast! It holds a lot of rounds, and Max is quick with the reload.}}Max fires 4 staggered, long-ranged projectiles from her blaster with a slight spread in quick succession. She uniquely has four ammo slots, and her ammo reloads quickly. The attack has a short cooldown, taking 0.43 seconds to complete. 
+
+==Super: Let's Go!==
+{{Quote|Max momentarily boosts up her movement speed and that of nearby allies. Gotta go fast!}}Max drinks some energy drink from a bottle and creates an 4-tile radius area effect around her that lasts for 0.85 second, which increases the movement speed of her and teammates inside the area-of-effect by 300 points for 4 seconds. Her teammates retain the movement speed boost even after leaving the radius. There is no direction of travel to this Super, so aiming is not required, though aiming can be used to show you the area-of-effect. 
+
+==Gadgets==
+===Phase Shifter===
+{{Quote|Max dashes forward, and becomes immune to all damage from enemies while dashing. Cooldown: 18 seconds.}}{{Gadget|1}}Max dashes 3.33 tiles in the direction the Gadget is aimed, gaining an immunity shield for 0.5 seconds. However, she cannot dash through walls or water, and the dash will be interrupted if she dashes into any of them. Status effects, stuns, and knockbacks can still be applied during the dash and she still retains any pre-existing status effects afterwards. This doesn't affect her Super Charged Star Power's Super charging speed.
+
+{{Quote|Max can dash a second time 2 sec after the first dash.}}{{Buffie|Gadget}}
+With the Buffie, Max can use the Gadget a second time for 2 seconds after the first activation. The Gadget goes on cooldown once the second dash is used or the 2 second window is up.
+
+===Sneaky Sneakers===
+{{Quote|Max throws a lightning bolt. If she reactivates her gadget, or after 2 seconds, she blinks back to the lightning bolt and heals any damage taken since. Cooldown: 24 seconds}}{{Gadget|2}}Max throws a thunderbolt icon up to 2 tiles anyway from her and gains a Gadget symbol above her head along with a bar that counts down to 3 seconds. When she reactivates her gadget, or after 3 seconds, she teleports back to the icon with the health she had at activation time. If she had any status effects, such as [[Crow]], [[Byron]], or [[Angelo]]'s poison, she retains the status effects. However, if she is defeated before she teleports, her Gadget charge is consumed, but she won't teleport. This Gadget's cooldown begins after Max teleports.
+
+{{Quote|When blinking back, Max fully refills her ammo and heals teammates near the lightning bolt for the same amount that she healed.}}{{Buffie|Gadget}}
+With the Buffie, Max will reload all her ammo when she teleports back, as well as heal nearby allies for the damage she recovered.
+
+==Star Powers==
+===Super Charged===
+{{Quote|Hitting an enemy with Max’s Main Attack extends the duration of her Super by 0.25 seconds.}}{{StarPower|1}}While Max’s super is active, she can extend the duration of the speed boost by 0.25 seconds for each projectile Max hits an enemy brawler with her main attack. This can make the Super duration go over the base duration of 4 seconds.
+
+{{Quote|Teammates affected by Max's Super gain a shield for 3 sec.}}{{Buffie|Star}}
+With the Buffie, allies gain a 25% shield for 3 seconds when Max's Super affects them.
+
+===Run n' Gun===
+{{Quote|Max reloads faster while moving.}}{{StarPower|2}}Max's attack reloads slightly faster than normal while moving. This is affected by Max's movement speed; she reloads faster if she has a movement speed boost (like her Super) than if she doesn't, similarly to her Super Charged Star Power. Her reload speed is approximately 15.38% faster when moving at normal speed.
+
+{{Quote|Max gains a burst of movement speed when hitting enemies with her Main Attack.}}{{Buffie|Star}}
+With the Buffie, Max will gain a 20% movement speed boost for 1 second when she damages an enemy with her attack.
+
+==Hypercharge: Unlimited Energy==
+{{Quote|Max throws an energy drink to each team member, increasing their movement speed and granting them 25% Super charge.}}{{Hypercharge}}
+When activated, Max's next Super also throws an energy drink to herself and all allies, regardless of whether they are in range of her Super or not. The drinks have 1000-point move speed and can affect every Brawler in a 2.67-tile radius. The drinks do not home in on allies and are slow enough that they can be dodged by Brawlers with a speed boost. All affected allies receive a 200-point movement speed increase for 10 seconds, and 25% of their Super charged per drink. The energy drink speed boost will override the base Super speed boost, but stacks with the Hypercharge speed boost. Max also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Max grants herself and nearby teammates 6% Super charge whenever she hits with her main attack.}}{{Buffie|Hyper}}
+With the Buffie, Max will grant herself and teammates within a 2.67 tile radius of her 6% Super charge when she hits a main attack projectile. This stacks on top of the Super charge she already gains from her attack, resulting in 11.75% Super charge per projectile for Max herself. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Max has unlimited ammo.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Max's reload time was decreased to 0.1 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Infinite ammo. Simple.}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Max's reload time was decreased to 0.1 seconds.
+
+==Tips==
+===Game Modes and Maps===
+*Max is an extremely strong brawler in [[Brawl Hockey]], where the more open maps and frenetic puck physics let her maximise the use of her Super, allowing her to serve as an incredible goalie and scorer.
+*In a similar fashion, Max is quite powerful in [[Brawl Ball]], where her Super lets her give teammates more control over the ball and avoid popular crowd control or aggressive brawlers such as [[Frank]] and [[Bull]]. In a pinch, her burst damage can take down most shooters aiming for the goal, though the more cramped maps mean she has a harder time making full use of her Super.
+
+===Recommended Build===
+*Max's Super Charged Star Power works better in team events like [[Gem Grab]] or [[Hot Zone]] where Max will need to play as a Support. Her Run n' Gun Star Power allows her to maintain the damage output of a typical sharpshooter and is preferred in Special Event modes like [[Boss Fight]], [[Super City Rampage]], and [[Robo Rumble]], where her Super Charged Star Power charges her Super much less efficiently than normal. In [[Showdown]], choose your Star Power based on your play style; use Super Charged if you're more passive, and use Run n' Gun if you'll like picking fights and collecting Power Cubes. The detection of her Star Powers will continue to work when the player remains moving.
+*Max can use her Phase Shifter Gadget to absorb a high-damaging projectile like [[Nani]]'s or [[Mandy]]'s Super to survive at crucial times or for a valuable teammate in order to help them survive. This, however, requires precise timing. Similarly, as long as you have sufficiently high health, Max can use her Sneaky Sneakers Gadget to absorb multiple projectiles and then teleport back safely with full health.
+*Max's Sneaky Sneakers Gadget allows her to play aggressively for 3 seconds without major repercussions. After dropping it on the ground, take time pressuring enemies before returning to her original location for better opportunities. Do note that high-damaging enemies such as [[Shelly]], [[Bull]], [[Spike]], [[Brock]], [[Leon]], [[Griff]], [[Buzz]], [[Fang]], Nani, [[El Primo]], and [[Darryl]] can ambush you when you teleport to your original location, as the location is made obvious by the icon Max leaves upon activating the Gadget, so therefore, refrain from using the Gadget near bushes or enemy spawn points.
+*Max's Sneaky Sneakers Gadget is useful in Showdown when you want to defeat a vulnerable enemy such as a thrower but you are in danger of being third-partied by someone else. You can drop your Sneaky Sneakers Gadget and then try defeating the enemy. You'll likely be low on health after fighting the enemy, and will be a target for other enemies, but you'll teleport back to your Gadget's location and regain lost health. All the same, make sure to use this Gadget only when you're away from enemies, or contained by obstacles to avoid being ambushed where you'll teleport. Also, avoid staying too far from the Gadget location with your Super, because you'll never know who's attempting to ambush you when you return, and you should save your Super as an escape tool for such situations.
+*Max's relative frailty but abundance of recovery options means that while she has many opportunities to recover health, she needs it to be at the top of her game. As such, the Healing Gear is a viable choice.
+*Thanks to this, the Shield Gear is also quite viable as it allows Max to keep chipping at enemy brawlers without ever getting badly damaged.
+*Despite the Speed Gear giving her even more speed, it's actually not the greatest for Max as she typically prefers more open areas where she can run about freely, whereas bushes often present opportunities for her to get ambushed by brawlers who can burst her down.
+
+===Strategies===
+*Max can act like an assassin, using her fast reload speed and attack cooldown to burst enemies down and her movement speed to dodge enemy fire. After getting within range, follow and chip away at enemies until you eliminate them. If they manage to somehow escape, such as with Edgar's Super, use your Super and/or her Phase Shifter Gadget and rush them.
+
+===Other===
+*Max's Super can be used to catch up to fleeing enemies or ensure an easier escape from pursuing enemies. This makes her good with guerrilla tactics because she can rush in with her Super, deal a lot of damage, and escape with her Super before she takes any serious damage.
+*Auto-aiming at long range with Max, in most cases, will hit 3 of her projectiles. Because of this, auto-aiming is a good strategy while playing Max, but most of the time enemies are moving. Practice mirroring the enemy's movement to hit all 4 projectiles, and at the tip of her range, it's good to use practices commonly applied to sharpshooters.
+*Max's attack has a range similar to [[Tara]] and [[Crow]]'s, and while it doesn't deal much damage if only one projectile hits, the fact that Max has 4 ammo slots, coupled with her much faster reload speed, attack cooldown, and tighter spread, means she can consistently provide suppressive fire and chip away at enemies, unlike most long-ranged Brawlers who reload slower.
+*Max's Hypercharge energy drinks actually have a small splash radius, allowing them to charge the Supers of multiple allies. Although unpractical in most situations, if Max and her allies are stacked on top of each other (such as after respawning), using the Hypercharge and then Super will cause multiple energy drinks to hit all allies, granting them significant Super charge.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Max start vo 01.ogg|Filedescription = "Let's go, come on, zip zip!"}}
+|{{Ogg|Filename = Max lead vo 01.ogg|Filedescription = "Yes yes yes yes!"}}
+|{{Ogg|Filename = Max hurt vo 01.ogg|Filedescription = "Ouch!"}}
+|{{Ogg|Filename = Max kill vo 01.ogg|Filedescription = "Sorry, didn't see ya there."}}
+|{{Ogg|Filename = Max die vo 01.ogg|Filedescription = "Hey! What happened?"}}
+|
+|{{Ogg|Filename = Max ulti vo 01.ogg|Filedescription = "Max energy!"}}
+|-
+|{{Ogg|Filename = Max start vo 02.ogg|Filedescription = "Go go go go!"}}
+|{{Ogg|Filename = Max lead vo 02.ogg|Filedescription = "Why is everyone so slow?"}}
+|{{Ogg|Filename = Max hurt vo 02.ogg|Filedescription = "Did someone hit me?"}}
+|{{Ogg|Filename = Max kill vo 02.ogg|Filedescription = "Try to keep up."}}
+|{{Ogg|Filename = Max die vo 02.ogg|Filedescription = "Crashing, crashing!"}}
+|
+|{{Ogg|Filename = Max ulti vo 02.ogg|Filedescription = "Turn it to max."}}
+|-
+|{{Ogg|Filename = Max start vo 03.ogg|Filedescription = "No time, gotta move."}}
+|{{Ogg|Filename = Max lead vo 03.ogg|Filedescription = "In the lead, winning, number one, best of the best, whoo!"}}
+|{{Ogg|Filename = Max hurt vo 03.ogg|Filedescription = "Who did that?"}}
+|{{Ogg|Filename = Max kill vo 03.ogg|Filedescription = "See ya!"}}
+|{{Ogg|Filename = Max die vo 03.ogg|Filedescription = "Time...to slow...down..."}}
+|
+|{{Ogg|Filename = Max ulti vo 03.ogg|Filedescription = "Free energy!"}}
+|-
+|{{Ogg|Filename = Max start vo 04.ogg|Filedescription = "Three, two, one, BLAST OFF!"}}
+|{{Ogg|Filename = Max lead vo 04.ogg|Filedescription = "This is just the warm-up, right?"}}
+|{{Ogg|Filename = Max hurt vo 04.ogg|Filedescription = "Need more energy drink."}}
+|{{Ogg|Filename = Max kill vo 04.ogg|Filedescription = "Faster than lightning."}}
+|{{Ogg|Filename = Max die vo 04.ogg|Filedescription = "Energy levels, critical."}}
+|
+|{{Ogg|Filename = Max ulti vo 04.ogg|Filedescription = "Max to the max!"}}
+|-
+|{{Ogg|Filename = Max start vo 05.ogg|Filedescription = "Turbo time."}}
+|
+|
+|{{Ogg|Filename = Max kill vo 05.ogg|Filedescription = "Kablam, pow, zap, sizzle!"}}
+|{{Ogg|Filename = Max die vo 05.ogg|Filedescription = "Sugar crash!"}}
+|
+|
+|-
+!colspan=9 style="text-align:center"|Cony Max
+|-
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = brown&friends start.ogg}}
+|
+|{{Ogg|Filename = brown&friends hurt.ogg}}
+|{{Ogg|Filename = brown&friends kill.ogg}}
+|{{Ogg|Filename = brown&friends die.ogg}}
+|
+|
+|}
+
+==History==
+
+*18/12/19:
+**{{Balance|Content= Max became available to play in the [[Training Cave]].|Change=Neutral}}
+*21/12/19:
+**{{Balance|Content= Max became available to play in matches.|Change=Neutral}}
+*01/01/20:
+**{{Balance|Content=Max's Run n' Gun Star Power was added.|Change=Neutral}}
+*03/01/20:
+**{{Balance|Content=The GT Max skin was added.|Change=Neutral}}
+*23/01/20:
+**{{Balance|Content=Max's main attack damage was increased to 300 (from 250) per projectile.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Max's Super was decreased to 14 hits (from 16).|Change=Buff}}
+**{{Balance|Content=Max's Super effect was changed so that it gave any allies that entered its area-of-effect within 1 second (from instantaneous).|Change=Buff}}
+**{{Balance|Content=Her Run n' Gun Star Power efficiency was decreased by 25%.|Change=Nerf}}
+**{{Balance|Content=Her class was changed to Support (from Fighter).|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content= Max's health was decreased to 3400 (from 3500).|Change=Nerf}}
+**{{Balance|Content=Her Run n' Gun Star Power efficiency was decreased by 17%.|Change=Nerf}}
+**{{Balance|Content=Her Phase Shifter Gadget was added.|Change=Neutral}}
+*26/03/20:
+**{{Balance|Content=Max's health was decreased to 3200 (from 3400).|Change=Nerf}}
+*16/06/20:
+**{{Balance|Content=Max's main attack damage was increased to 320 (from 300) per projectile.|Change=Buff}}
+*02/07/20:
+**{{Balance|Content=The Streetwear Max skin was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge Max's Super was decreased to 12 hits (from 14).|Change=Buff}}
+*22/10/20:
+**{{Balance|Content=Max's Run n' Gun Star Power efficiency was decreased by 50%.|Change=Nerf}}
+*23/10/20:
+**{{Balance|Content=Max's Sneaky Sneakers Gadget was added.|Change=Neutral}}
+*11/12/20:
+**{{Balance|Content=The Cony Max skin was added. It was featured as a Line Friends skin.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Max's Sneaky Sneakers Gadget duration was decreased to 3 seconds (from 4).|Change=Neutral}}
+**{{Balance|Content=Max, GT Max, and Streetwear Max received facial animations.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content= Max, GT Max and Streetwear Max's facial animations were slightly reworked.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that incorrectly applied Streetwear Max's wrist display onto her face.|Change=Neutral}}
+*12/04/21:
+**{{Balance|Content=Fixed a bug that caused Max's facial animations to play in the Shop.|Change=Neutral}}
+* 16/06/21:
+**{{Balance|Content=Max's main attack damage was decreased to 300 (from 320) per projectile.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Max's Super was increased to 13 hits (from 12).|Change=Nerf}}
+**{{Balance|Content=Max's Super Charged Star Power effectiveness was decreased by 50%.|Change=Nerf}}
+*10/08/21:
+**{{Balance|Content=The Hermes Max skin was added.|Change=Neutral}}
+*28/09/21:
+**{{Balance|Content=Max's True Silver and True Gold skins were added.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Max's main attack damage was increased to 340 (from 300) per projectile.|Change=Buff}}
+*29/06/22:
+**{{Balance|Content=Max's Phase Shifter Gadget visual effects were slightly reworked.|Change=Neutral}}
+*05/01/23:
+**{{Balance|Content=The Leopard and Panther Max skins were added. They were featured as Rumble Jungle Heroes skins.|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=Max's health was decreased to 3000 (from 3200).|Change=Nerf}}
+**{{Balance|Content=Max's main attack damage was decreased to 320 (from 340) per projectile.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Max's Super was increased to 14 hits (from 13).|Change=Nerf}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Max's flavor text was changed from "Max goes fast! Her attack is a fast-firing blaster. Her Super speeds up her and allies!" to "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much... but she sure is fast!"|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Max's health was increased to 3300 (from 3000).|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=Max's Unlimited Energy Hypercharge was added.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Max's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Max's Mutation was removed from the game.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Angel Max skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Max's Unlimited Energy Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Max's Sneaky Sneakers Gadget cooldown was decreased to 10 seconds (from 12).|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Max's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Max's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Max's level up damage was increased to 5% (from 4%) in [[Brawl Arena]].|Change=Buff}}
+*03/09/25:
+**{{Balance|Content=Max's level up health was increased to 700 (from 600) in Brawl Arena.|Change=Buff}}
+*28/10/25:
+**{{Balance|Content=Max's Unlimited Energy Hypercharge multiplier was increased to 45% (from 35%).|Change=Buff}}
+**{{Balance|Content=Max's Sneaky Sneakers Gadget cooldown was decreased to 8 seconds (from 10).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Max's Unlimited Energy Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Max's Unlimited Energy Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Max's health was increased to 3500 (from 3300).}}
+**{{Balance|Neutral|The World Championship Max skin was added. It was featured as a BSC skin.}}
+*22/04/26:
+**{{Balance|Content=Max's level up damage was increased to 6% (from 5%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Max's Unlimited Energy Hypercharge Super charge was decreased to 12.5% (from 25%) per energy drink.|Change=Nerf}}
+*28/04/26:
+**{{Balance|Content=Max's Unlimited Energy Hypercharge Super charge was increased to 25% (from 12.5%) per energy drink.|Change=Buff}}
+*30/06/26:
+**{{Balance|Buff|Max gained a Trait where she can charge her Super while moving.}}
+**{{Balance|Change=Buff|Content=Max’s Phase Shifter Gadget is now aimable.}}
+**{{Balance|Change=Buff|Content=Max’s Sneaky Sneakers Gadget can now be deployed up to 2 tiles away.}}
+**{{Balance|Change=Buff|Content=Max’s Sneaky Sneakers Gadget can now be activated again within 3 seconds to return to the aimed position.}}
+**{{Balance|Content=Max’s Sneaky Sneakers Gadget cooldown was increased to 15 seconds (from 8).|Change=Nerf}}
+**{{Balance|Change=Neutral|Content=Max’s Super Charged Star Power was reworked from charging her Super while moving to extending the duration of her Super by hitting an enemy with her main attack.}}
+**{{Balance|Neutral|Max's Buffies were added.}}
+*08/07/26:
+**{{Balance|Nerf|Max's Unlimited Energy Hyper Buffie Super charge was decreased to 7% (from 8%).}}
+*04/08/26:
+**{{Balance|Nerf|The number of hits necessary to charge Max's Super was increased to 16 hits (from 14).}}
+**{{Balance|Nerf|Max's Buffied Phase Shifter Gadget second dash duration was decreased to 2 seconds (from 3).}}
+*01/09/26:
+**{{Balance|Nerf|Max's Super charge rate was decreased to 75 (from 92).}}
+**{{Balance|Nerf|Max's Phase Shifter Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Nerf|Max's Sneaky Sneakers Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Nerf|Max's Hypercharge Buffie Super charge was decreased to 6% (from 7%).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Max's movement speed to 855 (from 820).}}
+*13/10/26:
+**{{Balance|Neutral|The Xenomech Max skin was added. It was featured as a Misc skin.}}
+*03/11/26:
+**{{Balance|Nerf|Max's Super charge from moving was decreased by 22% (14 to 18).}}
+**{{Balance|Nerf|Max's Sneaky Sneakers Gadget cooldown was increased to 24 seconds (from 18).}}
+**{{Balance|Nerf|Max's Sneaky Sneakers Gadget duration was decreased to 2 seconds (from 3).}}
+**{{Balance|Nerf|Max's Buffied Super Charged Star Power allies' shield duration was decreased to 3 seconds (from 2).}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=GT|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Panther|Cost2=29 Gems, available after purchasing Leopard Max|Campaign2=Rumble Jungle Heroes|Rarity2=Super Rare
+|Name3=Streetwear|Cost3=79 Gems|Campaign3=Max Force|Rarity3=Super Rare
+|Name4=Hermes|Cost4=79 Gems|Campaign4=Legends of Olympus|Rarity4=Super Rare
+|Name5=Leopard|Cost5=79 Gems|Campaign5=Rumble Jungle Heroes|Rarity5=Super Rare
+|Name6=Cony|Cost6=149 Gems|Campaign6=Brown & Friends|Rarity6=Epic
+|Name7=Angel|Cost7=Free from Angelic Drops or 149 Gems|Campaign7=Angels vs. Demons|Rarity7=Epic
+|Name8=World Championship|Cost8=149 Gems · '''S'''|Campaign8=BSC 2025|Rarity8=Epic
+|Name9=Xenomech|Cost9=199 Gems|Campaign9=Misc|Rarity9=Mythic
+|TrueSkins = yes}}
+
+===Buffie Skins===
+<gallery>
+File:Max Buffie Skin-Gadget.png|Gadget
+File:Max Buffie Skin-Star.png|Star
+File:Max Buffie Skin-Hyper.png|Hyper
+File:Max Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Max
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Hermes}}
+{{Pin Table|Leopard}}
+{{Pin Table|Panther}}
+{{Pin Table|Cony}}
+{{Pin Table|Angel|GG}}
+{{Pin Table|Streetwear|GG}}
+{{Pin Table|World Championship|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Max|Rarity = Common}}
+|{{Spray|Type = Max Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Leopard Max|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Max1}}
+|{{Pfp|Max2}}
+|{{Pfp|Max3}}
+|{{Pfp|Leopard Max}}
+|{{Pfp|Cony Max}}
+|-
+|{{Pfp|Angel Max}}
+|{{Pfp|World Championship Max}}
+|}
+
+{{Navigation}}
+[[es:Max]]
+[[pt:Max]]
+[[ru:Макс]]

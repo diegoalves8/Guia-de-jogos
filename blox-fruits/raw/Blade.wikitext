@@ -1,0 +1,222 @@
+{{CombosTab}}
+{{About|the Blox Fruit|the weapons|Swords}}
+{{Blox Fruit Infobox
+|name   = Blade
+|image  = <gallery>
+Blade Fruit.png|Fruit Icon
+Blade fruit gif.gif|Fruit GIF
+Blade.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = Yes
+|update = 24
+
+<!-- Fruit Price -->
+|money  = 30,000
+|robux  = 100
+}}
+{{Quote|Grants the user a body of blades, offering immunity to sword attacks and sharp striking abilities.|Shop}}
+'''Blade''' is a {{Common}} [[Natural]]-type of [[Blox Fruit]] that costs {{Money|30,000}} or {{Robux|100}} from the [[Blox Fruit Dealer]].
+
+Blade grants the user razor-sharp blades that can be attached to their limbs, allowing them to parry incoming [[Sword|sword]]-based attacks with their arm blades, even if the enemy has [[Aura]] activated. It also lets the user slash opponents with various attacks, ranging from spinning blade strikes to achieving flight by rotating a single blade.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Blade Reflex
+|file     = Blade Passive.gif
+|desc     = When attacked by [[swords]], the user will swiftly pull out a blade to block the attack. Blade users are completely immune to all swords, including those imbued with [[Aura]]. This immunity functions similarly to [[Elemental]] fruits, and is only effective against non-boss enemies.
+}}
+
+==Blade Immunity Chart==
+{{Blade Immunity Chart}}
+
+|Moveset|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 0.3
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Blade M1
+|desc     = The user creates sharp blades on their arm before swinging it around, releasing purple slashes in rapid succession that travel a good distance before dissipating. On contact, enemies are slightly knocked back.
+}}
+
+{{Skill
+|key      = Z
+|name     = Razor Cyclone
+|mastery  = 1
+|cooldown = 3.75
+|energy   = 15
+|break    = Yes
+|instinct = A direct hit [[Instinct/Break|breaks Instinct]]. Can be dodged at the edges.
+|gif      = Blade Z
+|desc     = The user forms blades on their arms, then launches themselves toward their cursor while cutting repeatedly in a purple horizontal cyclone pattern.
+}}
+
+{{Skill
+|key      = X
+|name     = Blade Dance
+|mastery  = 20
+|cooldown = 9
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged at the edges.
+|gif      = Blade X
+|desc     = The user forms blades on their arms, spins rapidly, and creates a radius of slashes with a purple whirlwind-like effect. When the animation ends, [[NPCs]] or players are launched a medium distance upward. Holding the [X] key allows the user to execute the move for longer.
+}}
+
+{{Skill
+|key      = C
+|name     = Saw Shredder
+|mastery  = 50
+|cooldown = 12
+|energy   = 35
+|break    = Yes
+|instinct = Initial direct hit breaks Instinct. The X-shaped slash can be dodged if hit indirectly.
+|gif      = Blade C
+|desc     = The user rapidly spins blades on their arms before hurling themselves at the target. On contact, they slice the opponent in a purple X shape, slightly stunning them.
+}}
+
+{{Skill
+|key      = F
+|name     = Turbine Flight
+|mastery  = 80
+|cooldown = 4.5
+|energy   = 35
+|gif      = Blade F
+|desc     = The user creates rotating blades on their raised right arm, generating upward propulsion to fly. The flight speed increases as the user's HP decreases.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Blade's passive ability grants immunity to all sword attacks, including Aura attacks, as long as the user is ~104% of the enemy's level, similar to [[Elemental]] effects. 
+* Low mastery requirements.
+* Very cheap and easy to obtain.
+* Powerful for PvP.
+* Good combo potential — most moves combo into each other easily.
+* Good stuns.
+* Most attacks can [[Instinct/Break|break Instinct]].
+* Good for [[Sea Events]] and [[Raids]].
+
+|{{Ability|TAP}}
+* Easy to aim.
+* When used in the air, the user can float briefly.
+* Great for hitting enemies due to its range.
+* Can hit [[Sea Beasts]].
+* Has multi-target damage.
+
+|{{Ability|Z}}
+* Good range.
+* Can be used for movement.
+* Great mobility.
+* Low cooldown.
+
+|{{Ability|X}}
+* Good AoE.
+* High stun.
+
+|{{Ability|C}}
+* Decent range.
+* Good for movements and offers mobility (if hitten an enemy)
+* Great damage.
+* Good for starting or extending combos.
+
+|{{Ability|F}}
+* Direction can be changed mid-flight.
+* Useful for transportation in the [[First Sea]] and faster than running.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Most abilities deal poor damage, with most of the damage occurring only on the final tick.
+* Ice Trident and Light Spear can still damage Blade users.
+* Limited range.
+* Only four damaging moves instead of the usual five.
+* [[Rengoku]] and [[Saishi]] users can still stun Blade users.
+
+|{{Ability|TAP}}
+* Small range.
+* Very low damage.
+* Cannot aim up or down.
+** Attacking downward causes the user to float, preventing hits.
+** Attacking upward is nearly impossible due to M1 limitations.
+
+|{{Ability|Z}}
+* Requires precise aim.
+* Slight start-up time.
+
+|{{Ability|X}}
+* Predictable.
+* Slight start-up.
+* Difficult to hit airborne enemies.
+
+|{{Ability|C}}
+* Hard to hit.
+* Requires to hit an enemy in order to move.
+
+|{{Ability|F}}
+* Very slow.
+}}
+</tabber>
+
+==Trivia==
+* Blade replaced Chop in [[Updates/24|Update 24]], which separated limbs to dodge sword attacks rather than parrying them.
+* Although Blade's passive ability avoids sword slash damage, it can also automatically parry swords with fire, freeze, electric, or magic effects.
+** However, some swords can still stun Blade users, specifically [[Saishi]], [[Shark Anchor]] and [[Rengoku]].
+* Moving forward & rapidly using the TAP move while in the air causes the user to slowly glide at around run speed in the air.
+* The abilities of Blade are used by [[Chef]].
+* Blade's fruit icon has its stem directly in the middle, whereas on its fruit model, the stem is placed on the far left.
+* Blade is one of the only [[Blox Fruits|Common Fruits]] to have an M1 attack, with the other one being [[Bomb]].
+* [C] can be used to pull [[Blox Fruits]] towards the user.
+* Blade is a good fruit for new players, as it is cheap, repels sword attacks (except if the enemy has [[Aura]] or is a [[Bosses|Boss]]), and can spam M1 if the [[Enemies|Enemy]] is cornered.
+* We can say that Blade's [C] can be used to teleport, although it might cause a soft lock, like in the video here where at 0:47, the player is seen stuck in the [[Marine Fortress|Marine Fortress's]] Castle floor. The video can be found here: https://www.youtube.com/watch?v=cpUewHvVwWw
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* [[Chop]] was reworked and renamed to Blade.
+** Added a [TAP] ability.
+** '''[Z] Tackle''' renamed to '''[Z] Razor Cyclone'''.
+** '''[X] Dance''' renamed to '''[X] Blade Dance'''.
+** '''[C] Party''' renamed to '''[C] Saw Shredder'''.
+** '''[F] Helicopter''' renamed to '''[F] Turbine Flight'''.
+: <gallery>
+ChopIcon.png|Previous inventory icon.
+Chop passive.gif|Old '''Body Separation'''
+ChopTackle.gif|Old {{Ability|Chop|Z}}
+Dance.gif|Old {{Ability|Chop|X}}
+Party.gif|Old {{Ability|Chop|C}}
+Helicopter.gif|Old {{Ability|Chop|F}}
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Chop Fruit's model was remade.
+: <gallery>
+Chop 150x150.png|Old Chop Fruit's model.
+</gallery>
+
+|-|1=
+{{Update|1}}
+* Chop was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Клинок]]

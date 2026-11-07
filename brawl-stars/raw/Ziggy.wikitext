@@ -1,0 +1,216 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Great|PrestigeTitle = Master of Thunder|Rarity = Mythic|Class = Controller|MovementSpeed = 800 (Fast)|HealthLabel = Health|Health = 3200|AttackRange = 7.33 (Long)|Reload = 1.8 seconds (Normal)|AttackSuperCharge =20.14%<br>23.956% (with The Great Ziggini) |AttackLabel = Damage|Attack = 1050|AttackSpeed = 29000|SuperRange = 13.33 (Very Long)|SuperSuperCharge =10.5% |SuperLabel = Damage per second|Super = 700|SuperDuration = 3–8 seconds<br>0–16 seconds (with Hypercharge)|SuperSpeed=1000<br>500 (while on enemies)|Gadget1Name=Electric Shuffle|Gadget1Cooldown=17 seconds|Gadget2Name=Now You See Me...|Gadget2Cooldown=13 seconds|VoiceActor=Dario Coates |Previous=Mina|Next=Gigi|Gadget1Duration=5 seconds|SuperWidth=10|Gadget1Range=7.33|HyperchargeMultiplier=35%|AttackHyperchargeCharge=6.65%<br>7.9% (with The Great Ziggini)|SuperHyperchargeCharge=3.675%|HyperchargeSpeed=+20%|HyperchargeDamage=+5%|HyperchargeShield=+5%}}
+{{Quote|Ziggy is an uber theatrical who excels at using electricity in his act. He's a bit full of himself, but hey, he can literally control lightning. Just remember... they're not tricks, they're illusions.}}{{Portrait}}
+Ziggy is a {{Rarity|Mythic}} [[Brawler]] who has an above-average movement speed, moderately low health, a moderate damage output, a long range, and immense utility with his Super, but a moderately slow reload speed. He was the 96th Brawler added to the game. He attacks by summoning lightning strikes on a target. For his Super, he creates a very large electrical storm that travels very fast, but slows down when it damages enemies caught that are caught in it. His first Gadget, Electric Shuffle, hits the nearest target with lightning strikes every second for 5 seconds. His second Gadget, Now You See Me..., teleports Ziggy where his next attack hit. His first Star Power, Thunderstruck, temporarily slows enemies down inside Ziggy's Super. His second Star Power, The Great Ziggini, increases the damage of his next attack when one of his attacks hits an enemy. His Hypercharge, The Grand Vortex, makes his Super return to him when it reaches its max distance.
+
+==Attack: Ta-da!==
+{{Quote|Ziggy summons a lightning strike at a targeted area. After a short delay, it appears (LIKE MAGIC!) and deals area damage.}}
+Ziggy attacks by summoning long-ranged lightning strikes to a specific area, even locations behind walls or enemies. When the attack is initially used, a targeting circle appears at the attack location, dealing damage to all enemy Brawlers in its radius 0.75 seconds later. The attack's travel time is instantaneous, and the splash radius is 1.5 tiles. Ziggy's attack has a slow cooldown and a somewhat slow reload speed.
+
+==Super: Ziggy's Fantastical Storm==
+{{Quote|Ziggy unveils his greatest trick, a giant electrical storm that travels rapidly across the environment! It deals massive damage to enemies caught within and moves slower whenever an enemy Brawler is inside.}}
+After a 0.2-second delay, Ziggy summons a very large, cylindrical-shaped electrical storm that rapidly moves forwards and deals high damage per second, dealing up to 8 ticks of damage. Ziggy can have multiple storms on the map at once. It stops moving when it reaches the end of its range or when its center would otherwise go over the edge of the map. The storm disappears after 3 seconds or when it reaches maximum range, whichever comes last. It slows down when an enemy is inside it, which increases the storm's duration. The damage scales with buffs and debuffs for every hit. If Ziggy is defeated while it is active, it would deal the base damage. 
+
+==Gadgets==
+===Electric Shuffle===
+{{Quote|Ziggy hits the nearest enemy with lightning strikes every second for 5 sec. These attacks cost no ammo. Cooldown: 17 seconds.}}{{Gadget|1}}
+For 5 seconds, Ziggy targets the nearest enemy with a lightning strike every second. These strikes are mechanically identical to his main attack, however, they do not use up his ammo. This Gadget's attacks are limited by his main attack range, but it can be activated as long as there is an enemy visible on screen. This Gadget's cooldown begins after the duration ends.
+
+===Now You See Me...===
+{{Quote|The next lightning strike also teleports Ziggy to the same location. Cooldown: 13 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Ziggy to teleport where the next attack was shot after it completes. A Gadget symbol will glow above Ziggy's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Thunderstruck===
+{{Quote|Brawlers damaged by Ziggy's Super are slowed by 20% for 1 sec.}}{{StarPower|1}}
+Enemies caught in Ziggy's Super will also be slowed down by 20% for 1 second. This Star Power can take effect multiple times if the enemies are in the storm for longer.
+
+===The Great Ziggini===
+{{Quote|Hitting with a lightning strike increases the damage of the next main attack by 7%.}}{{StarPower|2}}
+After hitting a target with the attack, Ziggy's ammo turns yellow, and the damage from his next attacks increases by 7%. If Ziggy misses the target with his attack, he loses the damage boost. Attacks summoned before the previous attack lands will not have the damage boost.
+
+==Hypercharge: The Grand Vortex==
+{{Quote|A Hypercharged Super returns to Ziggy upon reaching its max range/lifetime.}}{{Hypercharge}}
+When activated, Ziggy's next Super will return after it reaches its max distance. Unlike most returning abilities, the storm returns not to his current location, but to Ziggy's location at the time it reached max distance. The storm's maximum lifetime is effectively doubled, but no longer has a minimum lifetime. Ziggy also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*Apart from his Now You See Me... Gadget, Ziggy has no escape or defensive options whatsoever. As such, try to stick near teammates that can defend you or stay in the backlines as crowd control. 
+*Ziggy's Super is an incredibly powerful source of crowd control but can be easily dodged by moving out of its trajectory. As such, aim it at choke points where opponents are forced to go in. The same can be said of his regular attack.
+*When an opponent is pursuing you, lead them around and aim slightly in front of or behind yourself, depending on their speed. That way you will be able to reliably hit them.
+*Do not auto-aim with main attack. The main attack has long delay and auto-aiming makes harder to hit enemies, since the projectile appear on the center of Brawler.
+*For escaping aggressive Brawlers with the Now You See Me... Gadget, always activate it before your opponent reaches you. This is because unlike most defensive Gadgets, Ziggy's Gadget requires some time to activate (on account of his attack delay), leaving him vulnerable to high burst Brawlers or Brawlers with stunning capabilities like [[Bull]], [[Buzz]], [[Frank]], or [[Fang]].
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy 
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Ziggy start vo 01.ogg|Filedescription = "Mirror, mirror, who's the drama?"}}
+|{{Ogg|Filename = Ziggy lead vo 01.ogg|Filedescription = "So much flair and fabulous hair!"}}
+|{{Ogg|Filename = Ziggy hurt vo 01.ogg|Filedescription = "Ah, darling!"}}
+|{{Ogg|Filename = Ziggy kill vo 01.ogg|Filedescription = "I'm magic, baby!"}}
+|{{Ogg|Filename = Ziggy die vo 01.ogg|Filedescription = "Curtain call, already? Ugh."}}
+|{{Ogg|Filename = Ziggy atk vo 01.ogg|Filedescription = "Sizzle!"}}
+|{{Ogg|Filename = Ziggy ulti vo 01.ogg|Filedescription = "Oh, I do love a climax."}}
+|-
+|{{Ogg|Filename = Ziggy start vo 02.ogg|Filedescription = "Prepare for sparks and drama, darling!"}}
+|{{Ogg|Filename = Ziggy lead vo 02.ogg|Filedescription = "Now you see me, now you see me even more." *giggles*}}
+|{{Ogg|Filename = Ziggy hurt vo 02.ogg|Filedescription = "Wardrobe malfunction!"}}
+|{{Ogg|Filename = Ziggy kill vo 02.ogg|Filedescription = "Magic's never looked this good."}}
+|{{Ogg|Filename = Ziggy die vo 02.ogg|Filedescription = "Curtain call, already?"}}
+|{{Ogg|Filename = Ziggy atk vo 02.ogg|Filedescription = "Sizzle!"}}
+|{{Ogg|Filename = Ziggy ulti vo 02.ogg|Filedescription = "This spell has a 5-star rating!"}}
+|-
+|{{Ogg|Filename = Ziggy start vo 03.ogg|Filedescription = "Come with me to a world of pure awesomeness!"}}
+|{{Ogg|Filename = Ziggy lead vo 03.ogg|Filedescription = "Thunderous applause!"}}
+|{{Ogg|Filename = Ziggy hurt vo 03.ogg|Filedescription = "That felt real?"}}
+|{{Ogg|Filename = Ziggy kill vo 03.ogg|Filedescription = "Glitter and glow, this is my show!"}}
+|{{Ogg|Filename = Ziggy die vo 03.ogg|Filedescription = "But you still haven't seen my best trick, yet!"}}
+|{{Ogg|Filename = Ziggy atk vo 03.ogg|Filedescription = "Glam slam!"}}
+|{{Ogg|Filename = Ziggy ulti vo 03.ogg|Filedescription = "Magic with menace, darling."}}
+|-
+|{{Ogg|Filename = Ziggy start vo 04.ogg|Filedescription = "A wizard is never late."}}
+|{{Ogg|Filename = Ziggy lead vo 04.ogg|Filedescription = "Thunderous applause!"}}
+|{{Ogg|Filename = Ziggy hurt vo 04.ogg|Filedescription = "That felt real."}}
+|{{Ogg|Filename = Ziggy kill vo 04.ogg|Filedescription = "Shocking, isn't it?" *laughs*}}
+|{{Ogg|Filename = Ziggy die vo 04.ogg|Filedescription = "Fabulous failure."}}
+|{{Ogg|Filename = Ziggy atk vo 04.ogg|Filedescription = "Sparkles!"}}
+|{{Ogg|Filename = Ziggy ulti vo 04.ogg|Filedescription = "I'm that wizard."}}
+|-
+|{{Ogg|Filename = Ziggy start vo 05.ogg|Filedescription = "Wand ready, hair perfect, let's dance!"}}
+|{{Ogg|Filename = Ziggy lead vo 05.ogg|Filedescription = "You are spellbound. Join the queue." *giggles*}}
+|{{Ogg|Filename = Ziggy hurt vo 05.ogg|Filedescription = "Oh, behave."}}
+|{{Ogg|Filename = Ziggy kill vo 05.ogg|Filedescription = "I shimmer, you shiver. How poetic." *giggles*}}
+|{{Ogg|Filename = Ziggy die vo 05.ogg|Filedescription = "I'm shook."}}
+|{{Ogg|Filename = Ziggy atk vo 05.ogg|Filedescription = "Sparkles!"}}
+|{{Ogg|Filename = Ziggy ulti vo 05.ogg|Filedescription = "Ta-da! Now, kindly perish."}}
+|-
+|{{Ogg|Filename = Ziggy start vo 06.ogg|Filedescription = "Let the spectacle commence!"}}
+|{{Ogg|Filename = Ziggy lead vo 06.ogg|Filedescription = "Green looks divine on you, rocking that envy!"}}
+|{{Ogg|Filename = Ziggy hurt vo 06.ogg|Filedescription = "Oh, behave!"}}
+|{{Ogg|Filename = Ziggy kill vo 06.ogg|Filedescription = "I sparkle, you fizzle."}}
+|{{Ogg|Filename = Ziggy die vo 06.ogg|Filedescription = Ziggy screams}}
+|{{Ogg|Filename = Ziggy atk vo 06.ogg|Filedescription = "Thunder strike!"}}
+|{{Ogg|Filename = Ziggy ulti vo 06.ogg|Filedescription = "Time to sizzle and shine!"}}
+|-
+|{{Ogg|Filename = Ziggy start vo 07.ogg|Filedescription = "Welcome to Ziggy's magical mystery show!"}}
+|
+|{{Ogg|Filename = Ziggy hurt vo 07.ogg|Filedescription = "Wounded, but still glowing."}}
+|{{Ogg|Filename = Ziggy kill vo 07.ogg|Filedescription = "Your life was an illusion!"}}
+|{{Ogg|Filename = Ziggy die vo 07.ogg|Filedescription = "No-ho!"}}
+|{{Ogg|Filename = Ziggy atk vo 07.ogg|Filedescription = "Ziggy zap!"}}
+|{{Ogg|Filename = Ziggy ulti vo 07.ogg|Filedescription = "Behold my grand finale!"}}
+|-
+|
+|
+|{{Ogg|Filename = Ziggy hurt vo 08.ogg|Filedescription = "Oh, so forceful, rawr, ha ha ha!"}}
+|{{Ogg|Filename = Ziggy kill vo 08.ogg|Filedescription = "♫You're gone, I'm glowi-i-ing!"}}
+|
+|{{Ogg|Filename = Ziggy atk vo 08.ogg|Filedescription = "Shockingly good!"}}
+|{{Ogg|Filename = Ziggy ulti vo 08.ogg|Filedescription = Ziggy laughs}}
+|-
+|
+|
+|{{Ogg|Filename = Ziggy hurt vo 09.ogg|Filedescription = "Unhand me, you brute!"}}
+|{{Ogg|Filename = Ziggy kill vo 09.ogg|Filedescription = "You are dust, and I'm the star!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = Ziggy kill vo 10.ogg|Filedescription = "Lights out, sweetheart!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = Ziggy kill vo 11.ogg|Filedescription = "You are dazzled to death, darling."}}
+|
+|
+|
+|}{{Clr}}
+
+==Ziggy Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2025|Ziggy}}
+
+==History==
+*17/10/25:
+**{{Balance|Content=Ziggy became available to play in the [[Training Cave]].|Change=Neutral}}
+*18/10/25:
+**{{Balance|Content=Ziggy could be unlocked early from [[Brawler Boxes#Ziggy Boxes|Ziggy Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}.|Change=Neutral}}
+**{{Balance|Content=The Warlock, Zap It Up, and Dark Wizard Ziggy skins were added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Ziggy's main attack damage was increased to 950 (from 880).|Change=Buff}}
+**{{Balance|Content=Ziggy no longer reloads slower while his The Great Ziggini Star Power is active.|Change=Buff}}
+**{{Balance|Content=Ziggy's True Silver and True Gold skins were added.|Change=Neutral}}
+*06/11/25:
+**{{Balance|Content=Ziggy became available in the Starr Road.|Change=Neutral}}
+**{{Balance|Content=Ziggy's The Grand Vortex Hypercharge was added.|Change=Neutral}}
+*12/11/25:
+**{{Balance|Change=Nerf|Content=Ziggy's Slow Enemies on Hit Power Card slow was reduced by 20%.}}
+*16/12/25:
+**{{Balance|Buff|Ziggy's health was increased to 3000 (from 2800).}}
+*25/02/26:
+**{{Balance|Buff|Ziggy's health was increased to 3200 (from 3000).}}
+**{{Balance|Buff|Ziggy's reload time was decreased to 1.8 seconds (from 1.9).}}
+**{{Balance|Buff|Ziggy's main attack damage delay was decreased to 0.7 seconds (from 0.8).}}
+*22/04/26:
+**{{Balance|Nerf|Ziggy's main attack damage delay was increased to 0.75 seconds (from 0.7).}}
+**{{Balance|Nerf|Ziggy's Electric Shuffle Gadget cooldown was increased to 17 seconds (from 13).}}
+**{{Balance|Nerf|Ziggy's Super charge rate was decreased to 80 (from 85).}}
+*01/09/26:
+**{{Balance|Buff|Ziggy's Super charge rate was increased to 85 (from 80).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Ziggy's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Buff|Ziggy's main attack damage was increased to 1050 (from 950).}}
+**{{Balance|Nerf|Ziggy's The Great Ziggini damage bonus was decreased to 7% (from 18%).}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Warlock|Cost1=Free from Ziggy Boxes or 199 Gems|Campaign1=|Rarity1=Mythic
+|Name2=Zap It Up|Cost2=Free from Ziggy Boxes or 199 Gems|Campaign2=|Rarity2=Mythic
+|Name3=Dark Wizard|Cost3=Free from Ziggy Boxes or 199 Gems|Campaign3=|Rarity3=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Ziggy
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Warlock|Thanks}}
+{{Pin Table|Zap It Up|Thanks}}
+{{Pin Table|Dark Wizard|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Ziggy|Rarity = Common}}
+|{{Spray|Type = Ziggy Bandana|Rarity = Common}}
+|{{Spray|Type = Ziggy Electrical Storm|Rarity = Common}}
+|{{Spray|Type = Ziggy Hypercharge|Rarity = Collector's}}
+|{{Spray|Type = Warlock Ziggy|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Ziggy1}}
+|{{Pfp|Ziggy2}}
+|{{Pfp|Ziggy3}}
+|{{Pfp|Ziggy4}}
+|{{Pfp|Warlock Ziggy}}
+|}
+
+{{Navigation}}
+[[ru:Зигги]]

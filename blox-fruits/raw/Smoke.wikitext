@@ -1,0 +1,169 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Smoke
+|image  = <gallery> 
+Smoke Fruit.png|Fruit Icon
+Smoke fruit gif.gif|Fruit GIF
+Smoke.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Common
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 100,000
+|robux  = 250
+}}
+{{Quote|Offers the user an arsenal of smoke attacks, and is useful for grinding as a new player.|Shop}}
+'''Smoke''' is a {{Common}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|100,000}} or {{Robux|250}} from the [[Blox Fruit Dealer]]. 
+
+Smoke allows the user to create, become and manipulate smoke - inflicting cloudy, suffocating attacks to opponents.   
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive/Elemental Reflex|Smoke Passive.gif}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Smoke Slam
+|mastery  = 1
+|cooldown = 5.25
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = SmokeZ
+|desc     = The user turns their right arm into smoke, then slams it onto the ground, dealing damage and launching enemies up while doing so.
+}}
+
+{{Skill
+|key      = X
+|name     = Smoke Blast
+|mastery  = 20
+|cooldown = 9
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = SmokeX
+|desc     = The user shoots forward a cloud of smoke which on impact leaves a smoke effect slashing the enemy multiple times and dealing damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Smoke Liberation
+|mastery  = 50
+|cooldown = 13.5
+|energy   = 50
+|break    = Yes
+|instinct = The start-up [[Instinct/Break|breaks Instinct]] if too close to it. Can be dodged on the edge and after the initial hit.
+|gif      = SmokeC
+|desc     = The user summons a large smoke tornado that expands into a large [[Area of Effect|AoE]], stunning enemies in the process.
+}}
+
+{{Skill
+|key      = F
+|name     = Smoke Bomber
+|mastery  = 10
+|cooldown = 4.5
+|energy   = 50
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = SmokeF
+|desc     = The user turns both of their arms into smoke, gaining the ability to fly and release smoke bombs which fall and explodes on contact. If held above [[enemies]], this move can deal an infinite amount of damage, as its usage is infinite.
+}}
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* [[Elemental]] Reflex / Immunity.
+* Easy to obtain and cheap to buy.
+* Very low mastery requirements.
+* All moves can [[Instinct/Break|break Instinct]].
+* Every move can deal damage to [[Sea Beasts]].
+
+|'''[Z] Smoke Slam'''
+* Rarely dodged by [[Instinct]].
+* Decently short cooldown.
+
+|'''[X] Smoke Blast'''
+* Amazing damage if enemies stay inside the [[Area of Effect|AoE]].
+* Decent stun.
+
+|'''[C] Smoke Liberation'''
+* Good stun.
+* Very quick startup time, making it decent for [[PvP]].
+* Good [[AoE]].
+
+|'''[F] Smoke Bomber'''
+* Can deal damage infinitely (as long as the user is not hit).
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Range isn't that good.
+* Easy to dodge.
+
+|'''[Z] Smoke Slam'''
+* Very low range (though it has decent [[Area of Effect|AoE]]).
+
+|'''[X] Smoke Blast'''
+* Some players might use [[Flash Step]] to escape it after getting hit.
+
+|'''[C] Smoke Liberation'''
+* Can slightly crowd the user's screen.
+* Can be dodged with [[Instinct]].
+* Short range.
+* Hard to use in a combo.
+* Can be punished if missed.
+
+|'''[F] Smoke Bomber'''
+* One of the slowest flight speeds in the game.
+}}
+</tabber>
+
+==Trivia==
+* Smoke was one of the first fruits added to the game.
+* Smoke is the only {{Common}} [[Elemental]]-type [[Blox Fruit]].
+* The sound effect of Smoke's Elemental Reflex activating is the same sound effect used by [[Gas]].
+* Smoke is the cheapest [[Elemental]] fruit, thus it becomes recommended for newer players.
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|20=
+{{Update|20}}
+* Smoke Fruit's model was remade.
+: <gallery>
+Smoke 150x150.png|Old Smoke Fruit's model.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* All of Smoke's moves were reworked.
+** '''[Z] Smoke Cloud''' was renamed to '''[Z] Smoke Slam'''.
+** '''[X] Smoke Pull''' was renamed to '''[X] Smoke Blast'''.
+** '''[C] Smoke Tackle''' was renamed to '''[C] Smoke Liberation'''.
+** '''[F] Smoke Flight''' was renamed to '''[F] Smoke Bomber'''.
+
+|-|1=
+{{Update|1}}
+* Smoke was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Дым]]

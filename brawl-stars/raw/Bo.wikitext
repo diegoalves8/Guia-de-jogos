@@ -1,0 +1,462 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = One with Nature|PrestigeTitle = Patience is the key|Rarity = Epic|Class = Controller|MovementSpeed = 750 (Normal)|VoiceActor = Brian Stivale|HealthLabel = Health|Health = 3800|AttackRange = 8.67 (Long)|Reload = 1.7 seconds (Normal)|AttackBullets = 3<br>4 (with Hypercharge and Buffie)|AttackSuperCharge = 11.825%<br>17.75% (with Super Totem)|AttackLabel = Damage per arrow|Attack = 700|SuperRange = 8.67 (Long)|SuperBullets = 3<br>5 (with Hypercharge)|SuperSuperCharge = 33.475%<br>50.2% (with Super Totem)|SuperLabel = Damage per mine|Super = 1440|AttackSpread=15°|AttackSpeed=2800|AttackWidth=|SuperSpeed=2391|Gadget1Name=Super Totem|Gadget1Cooldown=19 seconds|Gadget2Name=Tripwire|Gadget2Cooldown=8 seconds|HyperchargeMultiplier=40%|Previous=Gus|Next=Piper|AttackHyperchargeCharge=4.725%<br>7.1% (with Super Totem)|SuperHyperchargeCharge=13.375%<br>20.075% (with Super Totem)|Gadget2Duration=1.5 seconds|Gadget1Range=7.33}}
+{{Quote|Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.}}
+{{Portrait}}
+Bo is an {{Rarity|Epic}} [[Brawler]] who has moderate health, immense utility with his Super, and a high damage output at close range, in exchange for a moderately slow reload speed. He was one of the 15 Brawlers who released at the first Beta launch. He attacks by firing three long-ranged arrows that explode in a small radius at the end of their range. His Super places three traps that can be triggered to explode a moment later by being walked on by an enemy, damaging and knocking enemies back upon exploding. His first Gadget, Super Totem, places a totem that increases Bo's and his allies' Super charging rate while inside its area-of-effect. His second Gadget, Tripwire, manually detonates his traps. His first Star Power, Circling Eagle, increases his field of view into bushes. His second Star Power, Snare a Bear, causes his traps to stun enemies momentarily instead of knocking them back. His Hypercharge, Catch a Bear, makes his Super deploy five traps.
+
+==Attack: Eagle-Eyed==
+{{Quote|Bo releases a trio of exploding arrows, tearing up enemies like an eagle's talons.}}Bo shoots three explosive arrows at a long range that can deal high damage to enemies within a 1-tile splash radius on impact. They are fired with a small sweeping spread from left to right (clockwise). The attack has a slow cooldown, and it takes 0.9 seconds to complete.
+
+==Super: Catch a Fox==
+{{Quote|Bo hides explosive traps in the ground. When triggered by an enemy, the traps explode after a short delay, knocking back and damaging enemies.}}Bo lobs an arrow over obstacles that lays three mines on the ground upon landing. This arrow cannot land on walls or water. If required to cross over a larger amount of blocks or over lakes, the arrow's travel distance will be increased up to a limit or to the nearest piece of ground. The mines spread out 2 tiles away from the arrow's landing point, unless blocked by walls or water. Upon spawn, the mines are momentarily shown before becoming invisible to enemies until they are triggered, but they will always be visible to teammates. When triggered, they will beep and flash before exploding 1.15 seconds later, dealing damage, destroying nearby obstacles, and knocking back any enemies by 1.4 tiles inside their 2-tile blast radius.
+
+==Gadgets==
+===Super Totem===
+{{Quote|Bo places a totem that increases allies' Super charging rate by 50%. The totem slowly loses its health over time. Cooldown: 19 seconds.}}
+{{Gadget|1}}
+Bo drops a small totem pole that charge his and any allies' Supers 50% faster within its area-of-effect. If Bo places mines while outside the totem's radius but they deal damage while Bo is inside the radius, he will get the increased Super charge, and vice versa. The totem has 2000 health and a radius of 5.33 tiles, and it decays for 100 health per second until it is destroyed. The previous totem is immediately destroyed if Bo places another totem.
+
+{{Quote|The totem has a significantly increased radius.}}{{Buffie|Gadget}}
+With the Buffie, Bo's totem's radius is increased from 5.33 tiles to 7. The area also turns golden.
+
+===Tripwire===
+{{Quote|Bo fires tripwires at his mines, detonating them and causing 1440 damage to anyone hit by a tripwire. Cooldown: 8 seconds.}}
+{{Gadget|2}}
+Bo fires tripwires at his traps that passes through enemies and obstacles. Each tripwire deals half of his Super's damage per trap and will either knock enemies back or stun them for 2 seconds if the Snare a Bear Star Power is equipped. If some of the mines were already triggered by the enemies when this Gadget was used, they will still explode at the scheduled time (1.15 seconds since the activation by enemies) but will have a bigger radius. However, this doesn't hide the mines that were revealed already.
+
+{{Quote|Detonated mines have a bigger blast radius!}}{{Buffie|Gadget}}
+With the Buffie, Bo's detonated traps have a blast radius that are twice as big.
+
+==Star Powers==
+===Circling Eagle===
+{{Quote|Bo spots enemies hidden in bushes from +150% further away.}}
+{{StarPower|1}}
+This Star Power allows Bo and his team to see 5 tiles into bushes around him, instead of the 2 tiles Brawlers normally get. This allows Bo and his allies to detect enemies in bushes before the enemies can see either Bo or his teammates.
+
+{{Quote|Bo is no longer revealed when attacking from bushes.}}{{Buffie|Star}}
+With the Buffie, Bo will not reveal himself when he attacks from bushes.
+
+===Snare a Bear===
+{{Quote|Instead of a knockback, Bo's traps now stun the enemy for 2 seconds!}}
+{{StarPower|2}}
+Bo's traps now stun enemies for 2 seconds instead of knocking them back, rendering them vulnerable. The stun does not stack; instead, the duration refreshes when another mine hits.
+
+{{Quote|Trap placement speed is increased significantly.}}{{Buffie|Star}}
+With the Buffie, Bo's Super projectile speed when placing the traps is increased by 50%.
+
+==Hypercharge: Catch a Bear==
+{{Quote|Bo's Super deploys 5 mines instead of 3. These do not override any mines already placed by his Super, so it is possible to have more than 7 mines on the map!}}{{Hypercharge}}
+When activated, Bo's Super deploys 5 traps instead of 3. Also, the mine spread distance is increased slightly to 2.33 tiles. Placing these will not remove the traps from his normal Super, and vice versa. However, placing these will override previous traps placed from his Hypercharged Super. Using the Tripwire Gadget will activate all of his existing traps. Bo also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Bo's main attack shoots a 4th arrow, and each arrow has increased area damage radius.}}{{Buffie|Hyper}}
+With the Buffie, Bo shoots four explosive arrows, instead of three, at a long range that can deal high damage to enemies within a 1.33-tile splash radius on impact. It also decreases the interval between projectiles by 25%. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Bo can have unlimited mines on the battlefield, and he has an increased Super Charge.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Bo's main attacks charged his Super about 69% more and he could place an infinite number of traps at the same time.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Can deploy unlimited mines at the same time!}}<div style="float:right">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Bo's main attacks charged his Super about 69% more and he could place an infinite number of traps at the same time.
+
+==Tips==
+===Game Modes and Maps===
+*If Bo manages to place his mines on the IKE turret in Siege or on the [[Heist]] safe, he can activate Tripwire as soon as he can to deal immediate high damage to the safe/IKE turret.
+*Bo's traps can knockback enemies, so if placed correctly, it can knock enemies into the poison gas in Showdown. With Bo's Snare a Bear, Bo's traps will instead stun, giving you ample time to quickly defeat opponents without any risk of dying, making this effective in [[Knockout]], [[Lone Star]], and [[Bounty]]. In [[Duo Showdown]], Bo can be used with a high-damaging Brawler, such as [[Buzz]], [[Darryl]], [[Bull]], [[Fang]], [[Doug]], [[El Primo]], [[Griff]], [[Leon]], [[Frank]], [[Spike]], or [[Shelly]] to finish off a stunned enemy.
+*Bo's fairly high health can be used to walk the Ball into the enemy goal in Brawl Ball. In addition, Bo's traps can be used to destroy enemy cover and goalposts. Clearing up certain maps could be beneficial due to Bo's relatively long range, especially if he has teammates with long-ranged abilities. Hence, Bo is a viable Brawler in Brawl Ball.
+
+===Recommended Build===
+*Try to use Bo's Tripwire Gadget before the enemy steps onto it, since the 1.5 second delay allows the enemy to escape. Also, note that the 1.5 second delay takes longer than its normal 1.15 seconds.
+*When Bo's Super is used, the third trap is set slightly after the other two. Thus, activating Bo's Tripwire Gadget immediately after using his Super only explodes two traps. In [[Brawl Ball]], this can be used to explode walls or obstacles in front of the enemies' goal effectively, which makes it much easier to score. This also leaves one trap hidden until an enemy steps on it, so you can use the last trap for other strategies such as bait for the Ball.
+*When an enemy tries to disarm your traps, use Bo's Tripwire Gadget to catch them off guard and deal instant damage. Coupled with Bo's second Star Power, Bo can passively force enemies to not disarm his mines. This allows him to control open areas simply by selecting this Gadget.
+*Bo's Circling Eagle is really useful on maps filled with bushes, with his doubled radius of vision in bushes. Some maps include [[Cavern Churn]], [[Feast or Famine]], [[Island Invasion]], [[Snake Prairie]], and [[Sapphire Plains]]. Since you have a sight advantage, avoid getting close to tanks or other high-damaging Brawlers. Place his traps to cover the lane with only one passageway while you can cover the other side with your increased sight. When played properly, Bo can quite easily dominate bushy maps. This is really useful in 3v3, for his increased sight in bushes is shared with teammates too.
+*Bo's Snare a Bear Star Power can come into great effect in several Special Events. If one is stunned, you and your teammates can deal massive damage to them temporarily without being targeted. This includes the Bosses in [[Super City Rampage]], [[Robo Rumble]] and [[Boss Fight]].
+
+===Strategies===
+*Bo's traps can be effectively lobbed over walls, making them an excellent tool for countering Brawlers hidden in bushes on the other side of a barrier. By strategically tossing a trap just ahead of their hiding spot, you can force them to walk into it, as they lack the ability to cross the wall unless they are airborne or equipped with a destructive Super. Additionally, with the Tripwire Gadget, you can inflict immediate damage on your unsuspecting opponent.
+*Bo always shoots three arrows from left to right, so you can take advantage of this to control the spread of your arrows. If you want to concentrate fire in a small area, move left while firing, allowing more arrows to hit a single target. For an attack with more spread, move right. The space between each arrow will be increased, giving the attack a wider spread. However, the former strategy only works on stationary targets as Brawlers will most likely be moving and can thus dodge all three arrows.
+
+===Other===
+*Bo's Super can be used to defend critical areas and choke points on the battlefield. Enemies heading in the area will take high damage when they step on the traps. It can be utilized to cover the Gem mine in [[Gem Grab]] to damage enemy Brawlers who are gathering Gems from it. It can also be used to cover key choke points in [[Showdown]], zone(s) in [[Hot Zone]] and Bolt spawning areas in [[Siege]], making Bo an ideal control Brawler.
+*Because Bo's attack sweeps in clockwise direction, when going against another Bo, try not to move in clockwise direction. Moving in this direction cause many of the opposing Bo's attacks to hit, while moving anti-clockwise avoids some of the attacks. 
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Bo start vo 01.ogg|Filedescription = "Live strong, as the mountains."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo start vo 01.ogg|Filedescription = "Live strong, as the mountains."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo lead vo 01.ogg|Filedescription = "Patience is the key."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo lead vo 01.ogg|Filedescription = "Patience is the key."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo hurt 01.ogg|Filedescription = Bo groans}}'''Mecha:'''
+{{Ogg|Filename = Robo bo hurt 01.ogg|Filedescription = Bo groans}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo kill vo 01.ogg|Filedescription = "May you find peace."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo kill 01.ogg|Filedescription = "May you find peace."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo die 01.ogg|Filedescription = "The spirits are calling my name."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo die 01.ogg|Filedescription = "The spirits are calling my name."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo fire vo 01.ogg|Filedescription = Bo grunts}}'''Mecha:'''
+{{Ogg|Filename = Robo bo fire vo 01.ogg|Filedescription = Bo grunts}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo ulti vo 01.ogg|Filedescription = "Fly, like an eagle!"}}'''Mecha:'''
+{{Ogg|Filename = Robo bo ulti vo 01.ogg|Filedescription = "Fly, like an eagle!"}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Bo start vo 02.ogg|Filedescription = "I fight for my ancestors."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo start vo 02.ogg|Filedescription = "I fight for my ancestors."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo lead vo 02.ogg|Filedescription = "The weakness of the enemy makes our strength."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo lead vo 02.ogg|Filedescription = "The weakness of the enemy makes our strength."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo hurt 02.ogg|Filedescription = Bo groans}}'''Mecha:'''
+{{Ogg|Filename = Robo bo hurt 02.ogg|Filedescription = Bo groans}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo kill vo 02.ogg|Filedescription = "Let your spirit soar."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo kill 02.ogg|Filedescription = "Let your spirit soar."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo die 02.ogg|Filedescription = "I am one with nature."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo die 02.ogg|Filedescription = "I am one with nature."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo fire vo 02.ogg|Filedescription = Bo grunts}}'''Mecha:'''
+{{Ogg|Filename = Robo bo fire vo 02.ogg|Filedescription = Bo grunts}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo ulti vo 02.ogg|Filedescription = "My aim is true."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo ulti vo 02.ogg|Filedescription = "My aim is true."}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Bo start vo 03.ogg|Filedescription = "I am guided by the spirits."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo start vo 03.ogg|Filedescription = "I am guided by the spirits."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo lead vo 03.ogg|Filedescription = "I have been blessed by the spirits."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo lead vo 03.ogg|Filedescription = "I have been blessed by the spirits."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo hurt 03.ogg|Filedescription = "Argh."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo hurt 03.ogg|Filedescription = "Argh."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo kill vo 03.ogg|Filedescription = "There is no death, only a change of worlds."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo kill 03.ogg|Filedescription = "There is no death, only a change of worlds."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo die 03.ogg|Filedescription = "There is no end, only new beginnings."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo die 03.ogg|Filedescription = "There is no end, only new beginnings."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo fire vo 03.ogg|Filedescription = Bo grunts}}'''Mecha:'''
+{{Ogg|Filename = Robo bo fire vo 03.ogg|Filedescription = Bo grunts}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo ulti vo 03.ogg|Filedescription = "My mind is clear."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo ulti vo 03.ogg|Filedescription = "My mind is clear."}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Bo start vo 04.ogg|Filedescription = "We must fight for peace!"}}'''Mecha:'''
+{{Ogg|Filename = Robo bo start vo 04.ogg|Filedescription = "We must fight for peace!"}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo lead vo 04.ogg|Filedescription = "The wind speaks to me."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo lead vo 04.ogg|Filedescription = "The wind speaks to me."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo hurt 04.ogg|Filedescription = Bo snarls}}'''Mecha:'''
+{{Ogg|Filename = Robo bo hurt 04.ogg|Filedescription = Bo snarls}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo kill vo 04.ogg|Filedescription = "Day and night cannot dwell together."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo kill 04.ogg|Filedescription = "Day and night cannot dwell together."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo die 04.ogg|Filedescription = "There is much, to learn."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo die 04.ogg|Filedescription = "There is much, to learn."}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo fire vo 04.ogg|Filedescription = Bo grunts}}'''Mecha:'''
+{{Ogg|Filename = Robo bo fire vo 04.ogg|Filedescription = Bo grunts}}
+|'''Normal:'''
+
+{{Ogg|Filename = Bo ulti vo 04.ogg|Filedescription = "One breath, one shot."}}'''Mecha:'''
+{{Ogg|Filename = Robo bo ulti vo 04.ogg|Filedescription = "One breath, one shot."}}
+|-
+|'''Normal:'''
+
+{{Ogg|Filename = Bo start vo 05.ogg|Filedescription = Bo yells}}'''Mecha:'''
+{{Ogg|Filename = Robo bo start vo 05.ogg|Filedescription = Bo yells}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*22/06/17:
+**{{Balance|Content=Bo's reload speed was decreased by 13%.|Change=Buff}}
+*27/06/17:
+**{{Balance|Content=Bo's health was increased to 900 (from 800).|Change=Buff}}
+*16/08/17:
+**{{Balance|Content=Bo's reload time was decreased to 1.7 seconds (from 2).|Change=Buff}}
+*04/09/17:
+**{{Balance|Content=Bo's Super now deploys 4 mines (from 3).|Change=Buff}}
+**{{Balance|Content=Bo's rarity was changed to Super Rare (from Epic).|Change=Neutral}}
+**{{Balance|Content=The radius of the mines was made to look visually larger.|Change=Neutral}}
+*12/09/17:
+**{{Balance|Content=Bo's main attack damage was increased to 100 (from 80) per arrow.|Change=Buff}}
+**{{Balance|Content=His health was decreased to 800 (from 900).|Change=Nerf}}
+**{{Balance|Content=His Super now deploys 3 mines (from 4) and its mines no longer has a pushback effect.|Change=Nerf}}
+*07/12/17:
+**{{Balance|Content=Bo's Super damage was increased to 1440 (from 1200) per mine.|Change=Buff}}
+**{{Balance|Content=His mines once again have a pushback effect.|Change=Buff}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Bo's Circling Eagle Star Power was added.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Bo's Circling Eagle Star Power visibility range was increased to 6 tiles (from 5).|Change=Buff}}
+*16/01/18:
+**{{Balance|Content=Bo's health was increased to 3600 (from 3200).|Change=Buff}}
+*21/03/18:
+**{{Balance|Content=Bo's Super mines explosion delay was decreased to 1.15 seconds (from 1.3).|Change=Buff}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Bo's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Bo's main attack projectile size was increased by 40%.|Change=Buff}}
+*21/05/18:
+**{{Balance|Content=Bo's rarity was changed to Common (from Super Rare).|Change=Neutral}}
+*18/06/18:
+**{{Balance|Content=Bo's main attack damage was increased to 420 (from 400) per arrow.|Change=Buff}}
+*29/01/19:
+**{{Balance|Content=Bo's main attack damage was increased to 480 (from 420) per arrow.|Change=Buff}}
+**{{Balance|Content=His Circling Eagle Star Power visibility range was decreased to 4 tiles (from 6).|Change=Nerf}}
+**{{Balance|Content=He now has voice lines.|Change=Neutral}}
+*27/02/19:
+**{{Balance|Content=Bo's main attack damage was increased to 500 (from 480) per arrow.|Change=Buff}}
+*15/04/19:
+**{{Balance|Content=Bo was remodeled.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Bo's main attack damage was increased to 520 (from 500).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge his Super was decreased to 10 hits (from 11).|Change=Buff}}
+*26/06/19:
+**{{Balance|Content=The Gold Mecha and Light Mecha Bo skins were added.|Change=Neutral}}
+*19/07/19:
+**{{Balance|Content=The Mecha Bo skin was added.|Change=Neutral}}
+*21/08/19:
+**{{Balance|Content=Bo's Snare a Bear Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Bo's Circling Eagle Star Power visibility range was increased to 5 tiles (from 4).|Change=Buff}}
+*23/10/19:
+**{{Balance|Content=Bo's Super now deploys his mines in a fixed pattern.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Bo's Super Totem Gadget was added.|Change=Neutral}}
+*17/04/20:
+**{{Balance|Content=The Horus Bo skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Bo's Super deployment pattern is now correctly mirrored for both teams.|Change=Neutral}}
+*29/07/20:
+**{{Balance|Content=Bo's Tripwire Gadget was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge Bo's Super was decreased to 9 hits (from 10).|Change=Buff}}
+**{{Balance|Content=His Super recharge rate was decreased slightly.|Change=Nerf}}
+*22/10/20:
+**{{Balance|Content=Bo's Tripwire Gadget now has a 1.5 second delay after activation before the mines explode.|Change=Nerf}}
+*23/10/20:
+**{{Balance|Content=The Underworld Bo skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*29/10/20:
+**{{Balance|Content=Fixed an issue where Bo's Tripwire Gadget didn't work when he was defeated while using Tripwire.|Change=Neutral}}
+*16/01/21:
+**{{Balance|Content=The Warrior Bo Skin was unlockable by winning the Duo Showdown in-game challenge.|Change=Neutral}}
+*08/02/21:
+**{{Balance|Content=Bo's Super Totem Gadget effectiveness gets weaker the more it charges a player's Super. The first Super charge is charged at full speed. Supers afterward charge 1% less per second until the Totem reaches a 50% reduced charging rate. The effect is tracked individually per player.|Change=Nerf}}
+*15/03/21:
+**{{Balance|Content=Bo's main attack damage was increased to 560 (from 520) per arrow.|Change=Buff}}
+**{{Balance|Content=Bo, Warrior Bo, Horus Bo, Underworld Bo, Mecha Bo, Light Mecha Bo, and Gold Mecha Bo received facial animations.|Change=Neutral}}
+*16/06/21:
+**{{Balance|Content=Bo's Super Totem Gadget no longer loses Super charging effectiveness over time.|Change=Buff}}
+**{{Balance|Content=His Super Totem Gadget now gradually loses health overtime after being deployed until it's destroyed.|Change=Nerf}}
+*25/08/21:
+**{{Balance|Content=Bo's main attack damage was increased to 600 (from 560) per arrow.|Change=Buff}}
+**{{Balance|Content=Bo's True Silver and True Gold skins were added.|Change=Neutral}}
+*06/10/21:
+**{{Balance|Content=Fixed an issue that made Horus and Underworld Bo have a larger attack explosion radius compared with Bo's other skins.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Bo's class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Bo's mines to stay after a [[Brawl Ball]] goal.|Change=Neutral}}
+*20/12/21:
+**{{Balance|Content=The Ho Ho Ho Bo skin was added. It was featured as a Brawlidays 2021 skin.|Change=Neutral}}
+*07/03/22:
+**{{Balance|Content=The Wasp Bo skin was added. It was featured as a Power League skin for Brawl Pass Season 11.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Bo's main attack projectile speed was increased by 7%.|Change=Buff}}
+*12/12/22:
+**{{Balance|Content=Bo's rarity was changed to Epic (from Common).|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Bo's Super Totem Gadget radius was increased to 5.33 tiles (from 2.67).|Change=Buff}}
+**{{Balance|Content=Bo's Super Totem Gadget was reworked from dropping a totem that charged the Super of him and his allies over time to dropping a totem that increases the Super charging rate by 50% for him and his allies.|Change=Neutral}}
+**{{Balance|Content=Bo's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Light Mecha Bo now costs 49 [[Gems]] (from 10000 [[Star Points]]).|Change=Neutral}}
+**{{Balance|Content=Gold Mecha Bo now costs 49 Gems (from 50000 Star Points).|Change=Neutral}}
+**{{Balance|Content=Wasp Bo now costs 149 Gems (from 25000 Star Points).|Change=Neutral}}
+*28/06/23:
+**{{Balance|Content=Fixed an issue with Bo having unlimited Supers on the ground.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Bo's flavor text was changed from "Bo fires three explosive arrows toward his targets. His Super ability places a trio of hidden, explosive mines on the ground!" to "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop."|Change=Neutral}}
+*09/11/23:
+**{{Balance|Content=The Brother and Supreme Bo skins were added. They were featured as Warrior's Journey skins.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Bo's main attack damage was increased to 700 (from 600) per arrow.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge his Super was decreased to 8 hits (from 9).|Change=Buff}}
+*11/01/24:
+**{{Balance|Content=Bo's main attack damage was decreased to 640 (from 700) per arrow.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Super was increased to 9 hits (from 8).|Change=Nerf}}
+*23/04/24:
+**{{Balance|Content=All Mecha Bo skins' takedown visual effects were reworked.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Bo's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Bo's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=All Mecha Bo skin's takedown visual effects were slightly reworked.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=Bo's Super Totem Gadget now adds glowing effects upon increasing Bo or allies' super charge rate.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=Mecha, Light Mecha, and Gold Mecha Bo now glow during the winning animation.|Change=Neutral}}
+*10/02/25:
+**{{Balance|Content=The Cupid Bo skin was added. It was featured as a My Brawlentine skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Bo's Snare a Bear Star Power stun duration was changed to 2 seconds in the description (from 2.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Bo's Catch a Bear Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Bo's Catch a Bear Hypercharge multiplier was increased to 45% (from 35%).|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Bo's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Bo's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Bo's level up damage was increased to 4% (from 2%) in [[Brawl Arena]].|Change=Buff}}
+*07/08/25:
+**{{Balance|Content=The King Starrthur, King Archer, and Knight Bo skins were added. They were featured as Brawl Pass Season 41 skins and Knights! skins.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Bo's Catch a Bear Hypercharge multiplier was decreased to 40% (from 45%).|Change=Nerf}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Bo's Catch a Bear Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Bo's Catch a Bear Hypercharge damage boost from 25%.}}
+**{{Balance|Change=Neutral|Content=Bo was slightly remodeled.}}
+*16/12/25:
+**{{Balance|Buff|Bo's health was increased to 3800 (from 3600).}}
+*25/02/26:
+**{{Balance|Buff|Bo's Super Totem Gadget is now throwable.}}
+**{{Balance|Buff|Bo's Super Totem Gadget health was increased to 2000 (from 1000).}}
+**{{Balance|Buff|Bo's Super Totem Gadget cooldown was decreased to 19 seconds (from 20).}}
+**{{Balance|Neutral|Content=Bo's Epic Gear was removed.}}
+**{{Balance|Neutral|Content=Bo's Buffies were added.}}
+*01/09/26:
+**{{Balance|Buff|Bo's main attack damage was increased to 700 (from 640) per arrow.}}
+**{{Balance|Nerf|Bo's Super charge rate was decreased to 67 (from 74).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Bo's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (16)===
+{{Skin Gallery
+|Name1 = Warrior|Cost1=Free from the Duo Showdown challenge of 2021, free after reaching 750 Trophies or 29 Gems|Campaign1=Rumble Jungle Heroes|Rarity1=Rare
+|Name2 = Supreme|Cost2 = 49 Gems, available after purchasing Brother Bo|Campaign2 = Warrior's Journey|Rarity2=Mythic
+|Name3 = Light Mecha|Cost3 = 49 Gems, available after purchasing Mecha Bo, or free from Mecha Boxes|Campaign3 = Mecha Squad|Rarity3=Legendary
+|Name4 = Gold Mecha|Cost4 = 49 Gems, available after purchasing Mecha Bo, or free from Mecha Boxes|Campaign4 = Mecha Squad|Rarity4=Legendary
+|Name5 = Ho Ho Ho|Cost5 = Free from Presents or 79 Gems • '''S'''|Campaign5=Brawlidays|Rarity5=Super Rare
+|Name6 = Cupid|Cost6 = Free from Love Boxes or 79 Gems|Campaign6=My Brawlentine|Rarity6=Super Rare
+|Name7 = Horus|Cost7 = 149 Gems|Campaign7=Supercell Make|Campaign7_2=Dark Sands|Rarity7=Epic
+|Name8 = Underworld|Cost8 =Free from Demonic Drops or 149 Gems|Campaign8 = Supercell Make|Campaign8_2=Angels vs. Demons|Rarity8=Epic
+|Name9 = Wasp|Cost9 = Free from Wendy Boxes or 149 Gems|Campaign9 = Ranked|Campaign9_2=Biodome|Rarity9=Epic
+|Name10 = Brother|Cost10=199 Gems|Campaign10=Warrior's Journey|Rarity10=Mythic
+|Name11 = Mecha|Cost11=299 Gems, free from Mecha Boxes or free from Bolt Boxes|Campaign11=Mecha Squad|Rarity11=Legendary
+|TrueSkins=Yes
+|NameP1=King Starrthur|CostP1=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Knights!|RarityP1=Epic
+|NameP2=King Archer|CostP2=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Knights!|RarityP2=Epic
+|NameP3=Knight|CostP3=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Knights!|RarityP3=Epic}}
+
+===Buffie Skins===
+<gallery>
+Bo Buffie Skin-Gadget.png|Gadget
+Bo Buffie Skin-Star.png|Star
+Bo Buffie Skin-Hyper.png|Hyper
+Bo Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Bo
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Ho Ho Ho}}
+{{Pin Table|Wasp}}
+{{Pin Table|Mecha}}
+{{Pin Table|Gold Mecha}}
+{{Pin Table|Light Mecha}}
+{{Pin Table|Horus}}
+{{Pin Table|Underworld}}
+{{Pin Table|Brother|Special}}
+{{Pin Table|Supreme|Special}}
+{{Pin Table|Cupid|Thanks}}
+{{Pin Table|King Starrthur|Thanks}}
+{{Pin Table|King Archer|Thanks}}
+{{Pin Table|Knight|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Bo|Rarity = Common}}
+|{{Spray|Type = Bo Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Brother Bo|Rarity = Common}}
+|{{Spray|Type = Mecha Bo|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Bo1}}
+|{{Pfp|Bo2}}
+|{{Pfp|Bo3}}
+|{{Pfp|Bo4}}
+|{{Pfp|Brother Bo}}
+|-
+|{{Pfp|Mecha Bo}}
+|{{Pfp|Wasp Bo}}
+|{{Pfp|Horus Bo}}
+|{{Pfp|Underworld Bo}}
+|{{Pfp|King Starrthur Bo}}
+|}
+
+{{Navigation}}
+[[es:Bo]]
+[[ru:Бо]]

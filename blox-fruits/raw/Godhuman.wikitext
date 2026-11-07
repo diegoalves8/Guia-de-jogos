@@ -1,0 +1,207 @@
+{{Tabber V2
+|tab1  = Superhuman
+|tab2  = Godhuman
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Godhuman
+|source    = Ancient Monk
+|update    = 17.3
+
+<!-- Obtainment -->
+|sea       = 3
+|location  = Floating Turtle
+|mastery   = <!--
+-->[[Superhuman]] Mas. 400+ <br/><!--
+-->[[Death Step]] Mas. 400+ <br/><!--
+-->[[Electric Claw]] Mas. 400+ <br/><!--
+-->[[Sharkman Karate]] Mas. 400+ <br/><!--
+-->[[Dragon Talon]] Mas. 400+
+|money     = 5,000,000
+|fragments = 5,000
+|materials = 
+}}
+'''Godhuman''' is a [[Fighting Styles|fighting style]] that can be obtained in the [[Third Sea]]. It serves as a superior upgrade to [[Superhuman]], offering enhanced stats and abilities, being one of the reasons it is preferred over most of the fighting styles in PvP.
+
+Godhuman is one of the best [[fighting styles]] in [[PvP mechanics|PvP]] due to its impressive speed, damage, knockback, and stun. It is not at all ideal for grinding because of its slow [M1] attack speed, lack of effective [[Area of Effect|AoE]] moves and high [[mastery]] requirements. Additionally, its knockback is a disadvantage when grinding, as it makes grouping enemies more difficult. In PvP, its main contenders are [[Sanguine Art]] and [[Electric Claw]].
+
+Adding on, disabling screen-shake through the settings greatly improves one of Godhuman's most powerful offenses—the {{Ability|C}}'s held version—making it an extremely reliable combo starter having near-zero repercussions upon landing it.
+
+==Obtainment==
+Godhuman is obtainable by learning it from the [[Ancient Monk]]. Upon talking to him, the player will have the opportunity to purchase this fighting style by meeting the following requirements:
+* Access to the [[Third Sea]] (Lv. 1500)
+* 400+ mastery on all [[fighting styles]] (except [[Sanguine Art]], [[Combat]] and [[Advanced Combat]]) which includes: 
+** [[Superhuman]] (requires Mastery 300+ on [[Dark Step]], [[Electric]], [[Water Kung Fu]] and [[Dragon Breath]]).
+** [[Death Step]] (requires Mastery 400+ on [[Dark Step]]).
+** [[Sharkman Karate]] (requires Mastery 400+ on [[Water Kung Fu]]).
+** [[Electric Claw]] (requires Mastery 400+ on [[Electric]]).
+** [[Dragon Talon]] (requires Mastery 400+ on [[Dragon Breath]]).
+* {{Money|5,000,000}}
+* {{Fragment|5,000}}
+* {{Dragon Scale|10}} {{Fish Tail|20}} {{Mystic Droplet|10}} {{Magma Ore|20}}
+
+===Tips===
+
+* To efficiently grind all the required [[materials]], the player can use a third party application to automatically click and leave their character at an [[enemy]]'s spawn point while having equipped an [[Elemental]] [[Blox Fruits|fruit]] or [[Buddha]] to not be excessively damaged (note that for enemies with [[Aura]], using a [[Elemental|Elemental fruit]] won't work) and a [[fighting style]] that does not cause the player's character to move during its [M1] attack, such as [[Dark Step]], [[Electric]] and [[Water Kung Fu]].
+** Although not recommended due to delay and loss of raw damage, the user can also configure that software to click once each 800ms, which would make the M1s not stack and change according to amount of previous clicks. To get this even more efficient, it's possible to make the game stack the first attacks, but not the dash; by creating a click sequence with different delays. For example, since Dragon Breath dashes at fourth consecutive punch, use the following pattern: `{LMB}; wait 85ms; {LMB}; wait 85ms; {LMB}; wait 800ms`
+<!-- Auto-clickers are quite shady in Roblox since although not explicitly banned on ToS, provides advantages over other players and is a third party application, which is banned. Many players believe that is cheating. Consider removing the tip above -->
+* Grinding out the fighting styles while leveling normally can get the player Godhuman before reaching the level cap, avoiding have a separate grind for masteries specifically.
+** Additionally, it is advisable to focus on grinding [[Magma Ore]]s and [[Fish Tails]] in the [[First Sea]], as the [[NPCs]] in that area are relatively easy to defeat, and the player can also grind all the [[Materials]] while grinding [[Mastery]].
+* Using the [[Buddha]] fruit is one of the best technique to do this, as putting [[Stats]] into both [[Fighting Styles|Melee]] and [[health]] when grinding each [[fighting style]] mastery will help gain the mastery quickly.
+* Doing [[Sea Events]] in the [[Third Sea]] can be very effective to grind the resources needed for Godhuman as the [[Rumbling Waters]] Event is very common in [[Sea Danger Level]] 5-6 and drop [[Money]] and [[Fragments]].
+* A quick and effective way to get mastery is to grind the [[Cocoa Warrior]]s and [[Chocolate Bar Battler]]s as they give around {{EXP|100,000}} every kill, furthermore, both [[NPCs]] can be killed in a loop (group the [[NPCs]] respectively), Cocoa Warriors to Chocolate Bar Battlers to Cocoa Warriors to Chocolate Bar Battlers and repeat. Another option is to grind the [[Cookie Crafter]]s because they are grouped together and are in large numbers, so the player does not need to move around much to defeat these [[NPCs]] and can defeat a lot at once.
+** For the strategy above, it's recommended that the user owns [[2x Mastery]] and has a high level.
+* Although this requires a very rare enchantment, the user can also use a [[Weapon]] equipped with [[Enchantments#Curses|Curse of the Thief]] to bring [[NPCs]] to them, making grinding mastery a lot easier. 
+
+==Moveset==
+{{Skill
+|key      = TAP
+|name     = Super Punches
+|gif      = Godhumanm1s
+|desc     = The user does 4 powerful punches while having a prismatic trail along. When using aura, the trail will turn black.
+}}
+
+{{Skill
+|key      = Z
+|name     = Soaring Beast
+|mastery  = 125
+|cooldown = 8
+|energy   = 25
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close.
+|gif      = Soaring Beasts
+|desc     = The user propels themselves forward in the direction of the mouse cursor. Upon making contact with an enemy, the user unleashes a rapid flurry of punches from all directions by creating after images of the user. This barrage ends with a punch that delivers brief knockback. During the move, the user is invulnerable to attacks. Additionally, the screen momentarily darkens during the last punch. Notably, the move inflicts greater damage when executed at close proximity to the target and has the ability to [[Instinct Break|break the opponent's instinct]] at point blank range, and when held, it deals slightly more damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Heaven and Earth
+|mastery  = 250
+|cooldown = 11
+|energy   = 35
+|break    = yes
+|instinct = Both versions [[Instinct/Break|break Instinct]], but the tap version can be dodged if the blast is near the player and doesn't hit their body.
+|gif      = Heaven and Wind
+|gif1     = Heaven an Earth
+|desc     = If tapped, the user releases a swift gust of wind that travels at an extremely fast pace. Upon contact with an enemy, a solid surface, or at maximum range, the wind explodes into a cloud and launches the target upward while dealing damage.
+|desc1    = If held, the user generates a large gust of wind around themselves. After holding the attack for 4 seconds, the user claps their hands, unleashing a powerful shockwave into the air. The damage and range of the shockwave increase the longer the attack is held. If executed on the ground, it leaves behind a trail of upturned debris. Unlike [[Superhuman]], this attack can hit enemies above and below the user.
+}}
+
+{{Skill
+|key      = C
+|name     = Sixth Realm Gun
+|mastery  = 350
+|cooldown = 17
+|energy   = 75
+|break    = yes
+|instinct = Only tap version can be dodged.
+|gif      = Sixth Realm Gunreg
+|gif1     = Sixth Realm Gun charge
+|desc     = If tapped, the user dashes forward in the direction of the cursor, moving at a very fast speed, as if they were teleporting. Upon colliding with an enemy, the user delivers a rapid punch that sends the enemy flying backward with knockback. The punch also inflicts damage to other nearby enemies within the blast radius.
+|desc1    = If held, the user dashes towards the cursor with a much higher speed and range than if it were tapped. Upon colliding with an enemy, the user seizes them and charges up a punch from their left fist. The user is invulnerable during this move. This version of the move deals significantly higher damage and knockback compared to the tap version, and also inflicts damage to those within the radius of the attack.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Hard to miss all moves at point-blank.
+* High combo potential.
+* High damage.
+* Amazing stuns.
+* Excellent for PvP.
+* Great mobility.
+* All moves can [[Instinct/Break|break Instinct]].
+* Good for fighting [[bosses]] due to its massive single target ability.
+* All moves can be held to do more damage.
+
+|'''[Z] Soaring Beast'''
+* Drains a few [[Instinct]] dodges if Instinct-tricked.
+* Good stun
+* Decent range.
+* Great mobility.
+** Slightly faster than [Z] Beast Owl Pounce ([[Superhuman]]) in terms of mobility.
+* If the target has used [[Flash Step]] or teleported away but the user already managed to hit them before they have, they will follow them, not letting them escape.
+
+|'''[X] Heaven and Earth'''
+* No end-lag. (If not held)
+* Great finisher after '''[Z] Soaring Beast''' or '''[C] Sixth Realm Gun'''.
+* Long range if not held.
+* With good aim, the tap can be used to finish off running targets without [[Instinct]].
+* When held, releases a very large AOE move, and it increases with the time held.
+* A pressed tap (a little more than a quick tap) has the same AOE as [[Superhuman]] [X] and can knock enemy players when they get too close. 
+* Good to counter some attacks (if held) like [[Electric Claw]] [C].
+
+|'''[C] Sixth Realm Gun'''
+* Extremely fast.
+* No end-lag if missed.
+** Gives the user invincibility frames, as once the user gets damaged, the user instantly goes toward the cursor at insane speeds.
+* Very long range if held.
+* Significantly increased range & damage if held for 0.2 seconds (when the ring effect fully closes).
+* AoE damage when held. (Blast)
+* Auto-aims regardless tapped or held.
+* When the move is held and the user hits an enemy or player, the user is immune to damage for the duration of the move.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Very tedious to obtain, as it requires 400 Mastery on all Fighting Styles (excluding [[Combat]], [[Advanced Combat]] and [[Sanguine Art]]), {{Money|20,400,000}}, {{Fragment|26,500}} in total of all required [[Fighting Styles]] and to buy Godhuman itself.
+* The moves are extremely bad for grinding normal enemies. However, it’s good for fighting bosses via using a combo. (Pairing it with [[Buddha]] can also solve its lack of grinding capability, but still worse than other fighting styles.)
+* The materials required for obtaining Godhuman can be very time-consuming and annoying. This is because some of the materials like the [[Dragon Scale|Dragon Scales]] have very low drop chances.
+* Hard to land Godhuman's moves when using [[Buddha]].
+* High mastery requirements.
+* Bad for [[Sea Events|Sea Event]] hunting. ([[Sea Beast|Sea Beasts]], [[Leviathan (Raid Boss)|Leviathan]], [[Ship Raid|Ship Raids]], etc)
+
+|'''[Z] Soaring Beast'''
+* Can be dodged or avoided easily by dashing.
+* Small hitbox.
+* Single target.
+* Can be punished with a knockback move, assuming that the user is within a decent range from their opponent.
+* Can easily be interrupted after using this move in most combos.
+
+|'''[X] Heaven and Earth'''
+* Lower range when held than the tap version unless it is fully held.
+* Hard to hit when held (in the air).
+* Can be hard to hit from large distances even if not held.
+* Risky to hold in a fight, as the player is vulnerable while holding the move.
+* Decent end-lag when held.
+
+|'''[C] Sixth Realm Gun'''
+* Can be hard to hold during a combo.
+* Even though hard, this attack can be avoided by using [[Flash Step]] in time.
+* Risky to hold in a fight, as the player is vulnerable while charging the held variant.
+* High knockback, making it hard to grind with.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Super-God human Idle Stance.gif|Idle Stance
+</gallery>
+
+==Trivia==
+* Godhuman costs {{Money|5,000,000}}, {{Fragment|5,000}}, and will cost {{Money|20,400,000}}, {{Fragment|26,500}} and 3,600 combined [[Mastery|masteries]] from 400 each on all [[Fighting Styles]] except [[Combat]], [[Advanced Combat]] and [[Sanguine Art]].
+* Godhuman is the only fighting style to have 2 moves with tap/held variants, with them being {{Ability|X}} and {{Ability|C}}.
+* Godhuman is considered the most tedious and time-taking [[fighting styles|Fighting Style]] to obtain by most players, due to it requiring almost every fighting style in the game at 400 mastery along with hard-to-obtain [[Materials|materials]]. In terms of time to obtain this fighting style, it even leaves [[Sanguine Art]] behind. The process might take weeks or even months.
+* Godhuman's {{Ability|TAP}} leaves a rainbow trail for a split second, just like how [[Instinct/V2|Instinct V2]] leaves a trail when enabled.
+* Like [[Superhuman]], the M1s make a shockwave of compressed air and have a small trail behind when used, Godhuman's being more prominent.
+* {{Ability|Z}} and {{Ability|C}} will cause the player to take water damage if their target is below water, so be wary. (Unless the player is using the [[Shark]] race or the user is not using a [[Blox Fruits|Blox Fruit]].)
+* {{Ability|Z}} and {{Ability|C}} can allow the player to grab an enemy through a thin wall if their target is close to the wall.
+* Godhuman is commonly abbreviated as 'GH' by Blox Fruits players.
+* Godhuman is a very versatile and popular [[Fighting Styles|fighting style]] for bounty hunting, and many people use it.
+* Godhuman's {{Ability|Z}} and {{Ability|C}} tap variants (as Godhuman's {{Ability|C}} (held) [[Instinct/Break|breaks Instinct]]) themselves are easily "instinct-trickable". It is recommended to use an ability to break or wear off Instinct beforehand, like [[Cyborg]]'s [[Energy Core|V3]] or Godhuman's {{Ability|X}}.
+* To see the after images of Godhuman's {{Ability|Godhuman|Z}} (the user has to equip [[Buddha]]) use Godhuman's {{Ability|Godhuman|X}} (tap) and immediately use {{Ability|Godhuman|Z}} to see the after images clearly.
+* {{Ability|Z}} deals more damage when hit closer.
+
+==Change History==
+{{Change History|17.3|content=
+{{Update|27.5}}
+* {{Arrow|buff}} Held '''[X] Heaven and Earth''' wind effects are reduced, and charge time for maximum size is halfed.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Богочеловек]]

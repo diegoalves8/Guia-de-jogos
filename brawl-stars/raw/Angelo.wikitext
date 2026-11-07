@@ -1,0 +1,267 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Bloodthirsty|PrestigeTitle = Spilling the tea|Rarity = Epic|Class = Marksman|MovementSpeed = 855 (Very Fast)<br>1069 (with Flow)<br>2000 (with Stinging Flight)|HealthLabel = Health|Health = 3100|AttackRange = 10 (Very Long)|Reload = 0.1 seconds (Very Fast)|AttackSuperCharge = 3.5%–35% (min to max damage)|AttackLabel = Min. Damage|Attack = 200|AttackLabel2 = Max. Damage|Attack2 = 2000|AttackSpeed=4000|AttackWidth=0.67|AttackBullets=|SuperRange = 2.33 (Short)|SuperSuperCharge = 12.5%|Super=500|SuperLabel=Damage per second|SuperDuration=8 seconds|SuperSpread=360°|Gadget1Name = Stinging Flight|Gadget1Cooldown=18 seconds|Gadget1 = 528|Gadget1Label = Damage|Gadget1Range=6|Gadget2Name=Master Fletcher|Gadget2Cooldown = 18 seconds|StarPower1Name = Empower|StarPower1 = 558|StarPower1Label = Heal per second|VoiceActor=Austen Moret|Previous=Larry & Lawrie|Next=Berry|HyperchargeMultiplier=35%|AttackHyperchargeCharge=1.225%–12.25% (min to max damage)|SuperHyperchargeCharge=4.375%}}
+{{Quote|Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.}}{{Portrait}}
+Angelo is an {{Rarity|Epic}} [[Brawler]] who has an extremely fast reload speed, a very long range, moderately low health, a variable damage output, and a very fast movement speed. They were the 77th Brawler added to the game. Angelo's Trait allows them to move over water. They attack by firing a long-ranged arrow, which gradually deals more damage the more they charge their attack. For their Super, Angelo leaves a small toxic area on the ground, damaging enemies if they touch it. When Angelo stands in the area, their attack will also deal poison damage to enemies over time. Their first Gadget, Stinging Flight, launches Angelo in the air, damaging nearby enemies and healing themself in the process. Their second Gadget, Master Fletcher, allows their next attack to pass through obstacles and pierce through enemies. Their first Star Power, Empower, allows Angelo to heal themself over time when they are inside the Super's area of effect. Their second Star Power, Flow, increases Angelo's movement speed when hovering on water. Their Hypercharge, In My Element, allows Angelo's Super to move with them.
+
+==Trait==
+{{Quote|This Brawler can move over water.}}{{Trait|Water}}
+Angelo's Trait allows them to be able to move on water.
+
+==Attack: Take Aim==
+{{Quote|Hold the aim to charge up your shots.}}
+Angelo shoots a fast, long-ranged arrow that charges to deal more damage. If the player taps on the attack joystick, Angelo deals very low damage. Aiming the attack joystick charges up Angelo's next attack. Angelo fully charges their attack after 2.25 seconds, and the attack is cancelled if Angelo is knocked back, pulled, stunned, or drags the joystick back to the center if aimed. Angelo also cannot heal from auto-regeneration while charging their shot, though they are still hidden in bushes. The amount of damage affects Angelo's Super charge rate.
+
+==Super: Welcome To The Swamp==
+{{Quote|Angelo creates a poison cloud that lasts for 8 seconds and damages enemies. While in the cloud, Angelo's arrows become poisoned, dealing extra damage over time.}}
+Angelo leaves a toxic area on the ground that lasts for 8 seconds. The damage can hit for 8 times if the enemy remains standing on the area. If Angelo uses their main attack in the Super area, the attacks will deal four ticks of damage over time to enemies over 3 seconds. The damage over time does not charge Super. Each tick deals 12.5% of Angelo's attack damage. The damage per second of multiple poison clouds stack, and so does the poison from their arrows. Similar to [[Crow]], Angelo's poison reduces all healing sources by 40%, but this doesn't affect [[Max]]'s Sneaky Sneakers Gadget. The damage dealt scales with buffs and debuffs for every hit. If Angelo is defeated while it is active, it would deal the base damage. There is no direction of travel to this Super, so aiming is not required, though aiming can be used to show you the area-of-effect.
+
+==Gadgets==
+===Stinging Flight===
+{{Quote|Fly into the air for 1 seconds. Drains 660 health from nearby enemies on takeoff. Cooldown: 18 seconds.}}{{Gadget|1}}
+When used, Angelo jumps 6 tiles in the direction they are facing, similar to [[Brock]]'s Rocket Laces Gadget, allowing them to jump over walls. If they activate it within 2.33 tiles enemies, Angelo will deal damage equal to 165% of an uncharged shot while also healing for that amount per enemy. If the final landing site is an obstacle, Angelo will automatically be pushed to the nearest piece of ground upon landing (this is despite them being able to move on water). While in the air, Angelo is completely immune to all damage besides status effects and damage applied over time. This Gadget can be activated while Angelo is charging their attack but using it will reset their attack charge.
+
+===Master Fletcher===
+{{Quote|The next Take Aim pierces enemies and the environment. Cooldown: 18 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Angelo's next attack to pass through enemies and walls, like [[Mandy]]'s Cookie Crumbs Gadget. This Gadget can be activated while Angelo is charging up their attack. A Gadget symbol will glow above Angelo's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Empower===
+{{Quote|Staying inside the Super will heal Angelo for 620 per second.}}{{StarPower|1}}
+This Star Power allows Angelo to heal for 10% of their max health per second by standing in their Super's area-of-effect for a total of 5580 health at max level. This Star Power does not affect allies.
+
+===Flow===
+{{Quote|Angelo gains 25% increased movement speed after entering water.}}{{StarPower|2}}
+When Angelo moves on water, their movement speed is increased by 25%.
+
+==Hypercharge: In My Element==
+{{Quote|During Hypercharge, the Super will follow Angelo!}}{{Hypercharge}}
+When activated, Angelo's poison clouds move with them. This Hypercharge only affects the Supers that are used during its duration, but the poison clouds will continue to follow Angelo even after the Hypercharge ends. If more than one Super is used during the Hypercharge, all of them will follow Angelo. Angelo also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Angelo adds 2 additional projectiles to their Take Aim.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>
+Angelo shot 2 additional projectiles with their main attack that traveled angled to the left and right of the original attack. 
+
+==Wasabi Power==
+{{Quote|Main attack fires three arrows.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Angelo shot 2 additional projectiles with their main attack that traveled angled to the left and right of the original attack. 
+
+== Tips ==
+===Game Modes and Maps===
+* Angelo, like other shooters, is very effective in open maps. In modes like [[Bounty]], [[Wipeout]], and [[Takedown]], Angelo is able to shoot from afar and deal devastating damage with their attacks and Super. This makes them a viable pick in such modes with suitable maps.
+* Angelo's Trait to walk on water makes them a good choice on maps with a lot of water. Similar to [[Eve]], they are able to evade some damage on water (i.e. short-ranged Brawlers), and combined with their Flow Star Power, their ability to dodge shots is greatly increased.
+
+===Recommended Build===
+* Angelo's Stinging Flight Gadget can be used in a variety of situations: to escape from tanks and assassins, to get close to throwers or enemies on low-health, cross a certain area, or just escape a shot that would defeat you otherwise, such as a shot from other marksmen. This makes it a viable option most of the time.
+* Master Fletcher can be used as a surprise attack to enemies hiding behind walls, or to take down entire crowds of enemies with a single charged shot. However, the use cases for this gadget are a bit more niche and with how fragile Angelo is, Stinging Flight is preferrable.
+* Empower can greatly increase Angelo's survivability and stability in combat. Combined with their Hypercharge, they are able to heal themself constantly and deal increased damage to enemies. This makes it valuable in games where there is no healer in the team or when their second Star Power is ineffective.
+* Although Flow has a use case in maps with large areas of water such as [[Canal Grande]], it is usually heavily outclassed by the consistency and effectiveness of the healing from Empower.
+
+===Strategies===
+*When the enemy walks in a zig-zag pattern to dodge Angelo's shots, consistent damage is more important than dealing high damage, so firing shots charged at about 45% to 55% will help keep their damage output consistent and prevent enemies from healing.
+*When facing enemies with low health, Angelo can get closer to make sure their fully charged shot hits to defeat the enemy. It is not always necessary to stay very far since their health is fairly high when compared with other marksman Brawlers.
+*To help teammates finish off enemies, you may get close to enemies to fire their fully charged shot and jump away using their Stinging Flight Gadget.
+*When facing an enemy Angelo, walk in a zig-zag pattern with sudden stops so that the enemy will be less likely to hit you.
+*When approaching a target, don't aim directly at them as they may anticipate the direction of your shot. As such, try to either aim backwards before snapping forwards or spin about, with the latter being effective at keeping teams of enemies on edge.
+*When using the Master Fletcher Gadget, fully charge your shot, and then activate the Gadget right before releasing the shot, as this can catch many people off guard, which makes it very hard to dodge.
+*In [[Heist]], you can use a Stinging Flight Gadget to go on to the safe, and then use a Super which will deal 8000 damage, which can be game-changing in close games.
+
+=== Other ===
+
+* Angelo's attack does not have to be fully charged to deal significant damage. Charging it up to around 70% will be sufficient enough to threaten enemies in order to stay at long range.
+* As Angelo's fully charged shot can deal high damage and even defeat Brawlers with one shot (especially paired with the Super), you should pay attention to when their shot changes in color in order to dodge effectively.
+* Angelo can leave their Super's area of effect for a very small amount of time and still have poisoned arrows. Same thing for when the duration ends.
+* During the [[Godzilla Egg Breakers Event|Mutation]] event, Angelo could shoot three arrows at once, and hitting a fully charged shot at point blank can do devastating damage.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = angelo start vo 01.ogg|Filedescription ="I am the drama."}}
+|{{Ogg|Filename = angelo lead vo 01.ogg|Filedescription ="Half human, half fly, hmhm, all fabulous!"}}
+|{{Ogg|Filename = angelo hurt vo 01.ogg|Filedescription ="Oh no, you didn't."}}
+|{{Ogg|Filename = angelo kill vo 01.ogg|Filedescription ="Oh, it's all love."}}
+|{{Ogg|Filename = angelo die vo 01.ogg|Filedescription ="Sashay, away!"}}
+|
+|{{Ogg|Filename = angelo ulti vo 01.ogg|Filedescription ="Oh, breathe in the awesomeness."}}
+|-
+|{{Ogg|Filename = angelo start vo 02.ogg|Filedescription ="I'm here to slay, get out of my way!"}}
+|{{Ogg|Filename = angelo lead vo 02.ogg|Filedescription ="Oh, I'm fierce and I'm fly."}}
+|{{Ogg|Filename = angelo hurt vo 02.ogg|Filedescription ="I can't even!"}}
+|{{Ogg|Filename = angelo kill vo 02.ogg|Filedescription ="Hey, I'm just winging it."}}
+|{{Ogg|Filename = angelo die vo 02.ogg|Filedescription ="Ho, sickening."}}
+|
+|{{Ogg|Filename = angelo ulti vo 02.ogg|Filedescription ="Take a deep breath."}}
+|-
+|{{Ogg|Filename = angelo start vo 03.ogg|Filedescription ="Oh I won't bite, but I will buzz."}}
+|{{Ogg|Filename = angelo lead vo 03.ogg|Filedescription ="You just wish you were me."}}
+|{{Ogg|Filename = angelo hurt vo 03.ogg|Filedescription ="You need to leave!"}}
+|{{Ogg|Filename = angelo kill vo 03.ogg|Filedescription ="You got served!"}}
+|{{Ogg|Filename = angelo die vo 03.ogg|Filedescription ="Flutter and fly, off to the sky."}}
+|
+|{{Ogg|Filename = angelo ulti vo 03.ogg|Filedescription ="And breathe!"}}
+|-
+|{{Ogg|Filename = angelo start vo 04.ogg|Filedescription ="Time to spill the tea!"}}
+|{{Ogg|Filename = angelo lead vo 04.ogg|Filedescription ="OMG! This is so boring!"}}
+|{{Ogg|Filename = angelo hurt vo 04.ogg|Filedescription ="You're flirting with danger, darling."}}
+|{{Ogg|Filename = angelo kill vo 04.ogg|Filedescription ="Oh, boo hoo. Dry your tears, honey."}}
+|{{Ogg|Filename = angelo die vo 04.ogg|Filedescription ="Oh, I am so done!"}}
+|
+|{{Ogg|Filename = angelo ulti vo 04.ogg|Filedescription ="Just keep breathing."}}
+|-
+|{{Ogg|Filename = angelo start vo 05.ogg|Filedescription ="Look at my fabulous wings!"}}
+|{{Ogg|Filename = angelo lead vo 05.ogg|Filedescription ="Some drama, please?"}}
+|{{Ogg|Filename = angelo hurt vo 05.ogg|Filedescription ="That was sketchy."}}
+|{{Ogg|Filename = angelo kill vo 05.ogg|Filedescription ="Getting stomped in the swamp!"}}
+|{{Ogg|Filename = angelo die vo 05.ogg|Filedescription ="I'll be back more fabulous than ever!"}}
+|
+|{{Ogg|Filename = angelo ulti vo 05.ogg|Filedescription ="Toxic tears by Angelo."}}
+|-
+|{{Ogg|Filename = angelo start vo 06.ogg|Filedescription ="Rocking the boujie bayou aesthetic."}}
+|{{Ogg|Filename = angelo lead vo 06.ogg|Filedescription ="Oh, main character vibes!"}}
+|{{Ogg|Filename = angelo hurt vo 06.ogg|Filedescription ="Aha, buzz off, baby."}}
+|{{Ogg|Filename = angelo kill vo 06.ogg|Filedescription ="Lovestruck."}}
+|{{Ogg|Filename = angelo die vo 06.ogg|Filedescription ="You made a fly cry!"}}
+|
+|{{Ogg|Filename = angelo ulti vo 06.ogg|Filedescription ="Presenting bayou breeze by Angelo."}}
+|-
+|{{Ogg|Filename = angelo start vo 07.ogg|Filedescription ="Giving cupid core."}}
+|{{Ogg|Filename = angelo lead vo 07.ogg|Filedescription ="♫Rainbow rampa-a-age!"}}
+|{{Ogg|Filename = angelo hurt vo 07.ogg|Filedescription ="I'm buzzing, baby."}}
+|{{Ogg|Filename = angelo kill vo 07.ogg|Filedescription ="Oh, honey."}}
+|{{Ogg|Filename = angelo die vo 07.ogg|Filedescription =Angelo screams}}
+|
+|{{Ogg|Filename = angelo ulti vo 07.ogg|Filedescription ="Finally, some drama!"}}
+|-
+|{{Ogg|Filename = angelo start vo 08.ogg|Filedescription ="♫Fierce, fabulous and fly-y-y!"}}
+|{{Ogg|Filename = angelo lead vo 08.ogg|Filedescription ="Abubup, all eyes on me."}}
+|{{Ogg|Filename = angelo hurt vo 08.ogg|Filedescription ="Ow!"}}
+|{{Ogg|Filename = angelo kill vo 08.ogg|Filedescription ="Hashtag winging."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = angelo start vo 09.ogg|Filedescription ="Rrr, looking for a snack."}}
+|
+|
+|{{Ogg|Filename = angelo kill vo 09.ogg|Filedescription ="Hush mode."}}
+|
+|
+|
+|}
+
+==History==
+*29/02/24:
+**{{Balance|Content=Angelo could be unlocked early as a bundle for $14.99.|Change=Neutral}}
+**{{Balance|Content=Angelo became available to play in [[Training Cave]].|Change=Neutral}} 
+**{{Balance|Content=The Elf Angelo skin was added.|Change=Neutral}}
+*07/03/24:
+**{{Balance|Content=Angelo became available in the Starr Road.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Angelo's extra poison damage from his Super was decreased by 50%.|Change=Nerf}}
+**{{Balance|Content=Angelo's flavor text was changed from "Angelo is the Love Swamp's resident cupid-turned-mosquito. He buzzes around the canals looking for lovebirds to dazzle with his irresistible charm, even if those require a little extra, pointy incentive." to "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive."|Change=Neutral}}
+*25/04/24:
+**{{Balance|Content=Angelo's flavor text was changed from "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive." to "Angelo is the Love Swamp's resident cupid-turned-mosquito. He buzzes around the canals looking for lovebirds to dazzle with his irresistible charm, even if those require a little extra, pointy incentive."|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Angelo's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Angelo's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Angelo's main attack damage was decreased to 2000 (from 2200) at max charge.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Angelo's Super was increased to 3 hits (from 2) at max charge.|Change=Nerf}}
+**{{Balance|Content=Angelo's In My Element Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Angelo's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Angelo's flavor text was changed from "Angelo is the Love Swamp's resident cupid-turned-mosquito. He buzzes around the canals looking for lovebirds to dazzle with his irresistible charm, even if those require a little extra, pointy incentive." to "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive."|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Angelo's In My Element Hypercharge multiplier was increased to 35% (from 25%).|Change=Buff}}
+*09/07/24:
+**{{Balance|Content=The Dionysus Angelo skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=Angelo's extra poison Super charge was increased to be proportional to damage.|Change=Buff}}
+*31/10/24:
+**{{Balance|Content=Angelo's extra poison no longer charges their Super.|Change=Nerf}}
+*16/01/25:
+**{{Balance|Content=Fixed a bug that caused Angelo's attack to be replaced by their Stinging Flight Gadget after being revived by [[Doug]].|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Angelo's Stinging Flight Gadget duration was changed to 1 seconds in the description (from 1.0)|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed Angelo's Master Fletcher Gadget canceling their Super's damage over time.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Angelo's Master Fletcher Gadget cooldown was increased to 18 seconds (from 14).|Change=Nerf}}
+**{{Balance|Content=Fixed a bug where Angelo's poison damage from arrows did not stack.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=The Tengu Angelo skin was added. It was featured as a Battle for Katana Kingdom skin.|Change=Neutral}}
+**{{Balance|Content=Angelo's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Angelo's Wasabi Power main attack spread was increased.|Change=Nerf}}
+*30/05/25:
+**{{Balance|Content=Angelo's Wasabi Power was removed from the game.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Fixed Angelo's Super not dealing damage after they were defeated.|Change=Neutral}}
+*29/09/25:
+**{{Balance|Content=Fixed a bug where Angelo's main attack with the Hypercharge active loses its damage over time effect if he distances himself for a certain range while charging the attack.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Angelo's In My Element Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Angelo's In My Element Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Angelo's health was increased to 3100 (from 3000).}}
+**{{Balance|Buff|Angelo's Empower Star Power healing was increased to 558 (from 540) per second.}}
+*05/02/26:
+**{{Balance|Content=The Brawlentine's, Adonis, and Snatched Angelo skins were added. They were featured as Brawl Pass Season 47 skins and My Brawlentine skins.|Change=Neutral}}
+*25/02/26:
+**{{Balance|Content=Adonis Angelo and Snatched Angelo were renamed to Brawlentine's Adonis Angelo and Brawlentine's Snatched Angelo, respectively, and fixed a bug where both skins names weren't visible.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Angelo's movement speed to 855 (from 820).}}
+*03/11/26:
+**{{Balance|Buff|Angelo's main attack charge time was decreased to 2.25 seconds (from 2.5).}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Elf|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Enchanted Woods|Rarity1=Rare
+|Name2=Dionysus|Cost2=Free from Angelic Drops or 79 Gems|Campaign2=Legends of Olympus|Rarity2=Super Rare
+|Name3=Tengu|Cost3=Free from Sushi Rolls, free from Nori Boxes or 149 Gems • '''S'''|Campaign3=Battle for Katana Kingdom|Rarity3=Epic
+|TrueSkins=Yes
+|NameP1=Brawlentine's|CostP1=2 Skin Keys|CampaignP1=Brawl Pass|CampaignP1_2=My Brawlentine|RarityP1=Epic
+|NameP2=Brawlentine's Adonis|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=My Brawlentine|RarityP2=Epic
+|NameP3=Brawlentine's Snatched|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=My Brawlentine|RarityP3=Epic}}
+===Pins ===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Angelo
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Dionysus|GG}}
+{{Pin Table|Tengu|Angry}}
+{{Pin Table|Brawlentine's}}
+{{Pin Table|Brawlentine's Adonis}}
+{{Pin Table|Brawlentine's Snatched}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Angelo|Rarity = Common}}
+|{{Spray|Type = Angelo Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Angelo1}}
+|{{Pfp|Angelo2}}
+|{{Pfp|Angelo3}}
+|{{Pfp|Tengu Angelo}}
+|{{Pfp|Brawlentine's Angelo}}
+|}
+
+{{Navigation}}
+[[ru:Анджело]]

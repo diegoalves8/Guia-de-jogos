@@ -1,0 +1,386 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Maestro|PrestigeTitle = Can't Stop, Won't Stop|Rarity = Mythic|Class = Controller|MovementSpeed = 800 (Fast)<br>3200 (with Super)<br>4000 (with Tickets Please! and Star Buffie)|HealthLabel = Health|Health = 4400|AttackRange = 6 (Normal)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 23%|AttackLabel = Damage|Attack = 540|AttackBullets=3<br>9 (with Hypercharge and Hyper Buffie)|AttackSpeed = 2700|AttackWidth=0.27–1.33|SuperRange = 10 (post; Very Long)<br>6.67 (dash; Normal)|SuperLabel = post damage|Super = 400|SuperLabel2 = Dash damage|Super2 = 800|SuperSuperCharge=10% (post)<br>43.75% (dash)|SuperSpeed=1500 (post)|SuperNumber = 4|Gadget1Name=Rerouting|Gadget1Cooldown=10 seconds|Gadget2Name=Ghost Train|Gadget2Cooldown=17 seconds|VoiceActor= Nicola Lanci|Previous=Doug|Next=Charlie|Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=6.9%|SuperHyperchargeCharge=3% (post)<br>13.125% (dash)|Gadget1Range=6.67}}
+{{Quote|Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!}}{{Portrait}}
+Chuck is a {{Rarity|Mythic}} [[Brawler]] who has a fast movement speed, a medium attack range, high health, a high damage output, and immense utility with his Super, but a moderately slow reload speed. He was the 72nd Brawler added to the game. His Trait allows him to start a match with a fully charged Super. He attacks by firing a cloud of steam that can hit three times. For his Super, Chuck throws a post that damages enemies if out of any of his posts' range, and dashes to the nearest post as well as other posts if in any of his posts' range. His first Gadget, Rerouting, removes the nearest post and recharges half of his Super. His second Gadget, Ghost Train, temporarily allows his dashes to pass through obstacles. His first Star Power, Pit Stop, allows Chuck to temporarily slow enemies when placing a post. His second Star Power, Tickets Please!, allows Chuck's next dash to remove ammo from any enemy Brawler it hits while restoring his ammo. His Hypercharge, Full Steam Ahead!, causes posts Chuck travels to deal area damage on arrival.
+
+==Trait==
+{{Quote|Starts match with a fully-charged Super}}{{Trait|Full}}
+Chuck's Trait allows him to start a match with a fully charged Super.
+
+==Attack: Steam Engine==
+{{Quote|Shoots a cloud of steam from Chuck's hat, piercing and damaging enemies. Deals more damage the closer Chuck is to an enemy.}}
+Chuck fires three medium-ranged clouds of steam that pierce through enemies. The attack size increases with distance, but despite the description, the damage is the same at all ranges. Chuck's attack has a moderate cooldown, and it takes 0.5 seconds to complete.
+
+==Super: Choo-Choo!==
+{{Quote|Dash to the nearest post in line of sight, damaging enemies on the way. While no posts are in line of sight, throw a new post to the ground.}}
+When Chuck's Super is charged, it can be used 4 times. Each Super can be used to either throw a post or dash, depending on how the Super is aimed. If Chuck uses any of his Supers, whether it was a dash or a pole throw, being knocked out will cause the remaining charges to run out, similar to [[Darryl]] and [[Melodie]].  
+
+If the player manually aims the Super joystick, or autoaims when there are no posts in range, Chuck lobs a post that damage enemies near where it lands in a 1.83-tile radius. Despite the description, he can still place posts while within line of sight of another post by manually aiming. A maximum of 4 posts can be placed. Spawning more posts causes the others to disappear in the order they are placed. The posts stay indefinitely until a goal is scored in [[Brawl Ball]] or a round ends in [[Knockout]] or [[Duels]].
+
+If the player taps on the Super joystick when Chuck is within 6.67 tiles of a post, Chuck dashes to it, dealing high damage to enemies in the way. After hitting a post, if there is another post within 10 tiles and it is not obstructed by obstacles, Chuck dashes to it, repeating until he has dashed to every post or there are no more posts within 10 tiles without obstacles blocking it. If there are multiple posts able to be dashed to, he chooses the closest one. Chuck also gains a shield that reduces all damage he takes while dashing by 35%. While dashing to posts, Chuck can still be stunned or slowed. Despite the description, he can still place posts while not within line of sight of another post by auto-aiming.
+
+==Gadgets==
+===Rerouting===
+{{Quote|Chuck removes the nearest post and charges 50% of his Super. Cooldown: 10 seconds.}}{{Gadget|1}}
+Upon activation, Chuck removes the closest post and recharges his Super by 50%. This Gadget can't be used if Chuck already has his Super charged or does not have line of sight of a post within range.
+
+{{Quote|Gain 20% shield for 5 sec.}}{{Buffie|Gadget}}
+With the Buffie, Chuck also gains a 20% damage reduction shield for 5 seconds.
+
+===Ghost Train===
+{{Quote|Chuck's next Super can go through walls for 8 seconds! Cooldown: 17 seconds.}}{{Gadget|2}}
+Activating this Gadget allows all of the dashes in Chuck's next Super to connect to posts behind walls for 8 seconds. This Gadget's cooldown starts after its duration ends. This Gadget can only be activated if his Super is charged, but does not require any posts to be placed.
+
+{{Quote|Super leaves a trail of fire, dealing 1200 damage, which burns for 3 sec!}}{{Buffie|Gadget}}
+With the Buffie, Chuck's Super dashes during the Gadget will leave a trail of fire behind. It deals 1200 damage, and it can hit 3 times if the enemy remains standing on the area.
+
+==Star Powers==
+===Pit Stop===
+{{Quote|Placing a Pole slows 30% any hit enemy for 2 sec.}}{{StarPower|1}}
+When Chuck hits an enemy when placing a post, it slows them by 30% for 2 seconds.
+
+{{Quote|Leaves an area which deals 400 damage over 4 sec.}}{{Buffie|Star}}
+With the Buffie, Chuck's posts leave a burning area on the ground that lasts for 4 seconds after being placed. It deals 400 damage, and it can hit 4 times if the enemy remains standing on the area.
+
+===Tickets Please!===
+{{Quote|Dashing through enemies with his Super will also steal 33% of their ammo.}}{{StarPower|2}}
+Enemies hit by Chuck's dashes will lose one-third of their ammo. Meanwhile, Chuck gains the stolen ammo to his own ammo bar. If an enemy Brawler's ammo bar is empty, Chuck will not receive any more ammo even if the dash hits them, but Chuck can still remove enemies' ammo even if his ammo bar is full. This Star Power does not work against the [[Heist]] safe, the IKE turret in [[Siege]], or spawnables.
+
+{{Quote|Dash speed is increased by 25%.}}{{Buffie|Star}}
+With the Buffie, Chuck's Super dash speed is increased by 25%.
+
+==Hypercharge: Full Steam Ahead!==
+{{Quote|Each pole that hits an enemy deals 1600 area damage.}}{{Hypercharge}}
+When activated, when Chuck arrives at a post during a dash, the post will create an explosion that deals 1600 damage to all nearby enemies. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Chuck's main attack shoots 3 clouds of steam in a cone.}}{{Buffie|Hyper}}
+With the Buffie, Chuck shoots 2 additional projectiles with his attack that travel angled to the left and right of the original attack. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+*Chuck is a great pick in [[Gem Grab]] due to the fact he can place a post on the enemy side to dash quickly and take out the other team's Gem carrier, or he can place a post on his own side, allowing him to retreat quickly with lots of Gems.
+*Chuck is also a good pick in [[Hot Zone]] as he can set up multiple posts leading from his spawn right into the Zone. With a good post setup, Chuck can both quickly arrive in the Zone and heavily damage enemies in it, allowing him or his teammates to finish them off.
+*Chuck can deal incredible damage to stationary targets with his Super, so he's great in [[Heist]] and Siege. Once he has his posts spawned, he can use his fast-charging Super to repeatedly dash on to and back from the safe or the turret. This allows him to quickly deal damage and retreat with unbelievable speed. In [[Siege]], he can place his posts to quickly dash onto the bolt's spawn point, or align the post from his Super with the enemy's IKE turret, then use it to dash, dealing 3500 damage on the way. He will receive a 50% damage reduction shield while using his Super, which, combined with his fast-moving Super speed, allows him to repeatedly damage the IKE turret while taking minimal damage. He can also deal high damage to defending enemies if they align with the turret and your team's robot advancing, potentially taking them out.
+**As Chuck does not have exceptional DPS, it's recommended for players to ignore him in Heist, instead focusing offensive efforts on the enemy safe and reducing the chance for him to charge his Super.
+**Another counter for Chuck in heist is to use a Brawler that can negate his Super. Cordelius is a good counter since he can use his Gadget to mute Chuck, preventing him from escaping. He can also use is Super to send him to the shadow realm to stop him from escaping or hitting the safe. However, keep in mind that this makes you reliant on your teammates to destroy the safe.
+*Chuck can throw a post over a wall, and then at any time he can activate his Ghost Train Gadget and use his Super to get through the wall and quickly eliminate anyone hiding behind the wall near his post.
+*Chuck has a generally slow reload speed, so it is always best to be at or near full ammo when using his Super to dash, or hitting people with his Tickets Please! Star Power equipped.
+*Chuck can be predictable if activating his Super with the exact same posts, allowing for enemies to camp out his final post where he will stop. To avoid this, use his Rerouting Gadget to remove a post, and place it somewhere else, possibly changing his final destination.
+*As Chuck’s posts glow when his Super is ready, this can be a handy indicator as to when Chuck is going to charge in. As such, when playing him, do ensure to have adequate HP and ammo to deal with any campers that may be awaiting your arrival.
+*Chuck's Ghost Train Gadget goes on cooldown even before it has been used, allowing you to use two ghost trains back to back.
+
+==Voice Lines==
+{{TranslationToggle|Italian}}
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = chuck start vo 01.ogg|Filedescription ="Back on track!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 01.ogg|Filedescription ="Bring that sting!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 01.ogg|Filedescription ="My magnum opus!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 01.ogg|Filedescription ="An oasis of orchestration."}}
+|'''Normal:'''
+{{Ogg|Filename = chuck hurt vo 01.ogg|Filedescription ="Ugh, lost my train of thought!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck hurt vo 01.ogg|Filedescription ="I am in a pinch!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 01.ogg|Filedescription ="What a trill!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 01.ogg|Filedescription ="Every tale has an end."}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 01.ogg|Filedescription ="A symphony of suffering!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 01.ogg|Filedescription ="Back to the dunes!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = chuck ulti vo 01.ogg|Filedescription ="Choo-choo!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = chuck start vo 02.ogg|Filedescription ="Next stop, Creepyville!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 02.ogg|Filedescription ={{Translate|"Conduttore del caos."|"Conductor of chaos."}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 02.ogg|Filedescription ={{Translate|"Il mio momento!"|"My moment!"}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 02.ogg|Filedescription ={{Translate|"Un' oasi di orchestrazione."|"An oasis of orchestration."}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck hurt vo 02.ogg|Filedescription ="Steamy staccato!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 02.ogg|Filedescription ="Brawlissimo!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 02.ogg|Filedescription ="It's a sting thing!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 02.ogg|Filedescription ={{Translate|"Molto triste."|"Very sad."}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 02.ogg|Filedescription ={{Translate|"Solo il deserto."|"Only the desert."}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = chuck ulti vo 02.ogg|Filedescription ="Destination: pain!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = chuck start vo 03.ogg|Filedescription ="Into the fray, full steam ahead!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 03.ogg|Filedescription ={{Translate|"Eccomi, lo scorpione."|"Here I am, the scorpion."}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 03.ogg|Filedescription ="From minor to major!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 03.ogg|Filedescription ="I'm the king of sting!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck hurt vo 03.ogg|Filedescription ="Pianissimo, please!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck hurt vo 03.ogg|Filedescription ={{Translate|"Mi è entrata della sabbia negli occhi!"|"I got sand in my eyes!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 03.ogg|Filedescription ="Winning fanfare!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 03.ogg|Filedescription ="Pincers of power!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 03.ogg|Filedescription ={{Translate|"Molto triste."|"Very sad."}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 03.ogg|Filedescription ="It don't mean a thing if it ain't got the sting!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = chuck ulti vo 03.ogg|Filedescription ={{Translate|"Prossima fermata, ospedale!"|"Next stop, hospital!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = chuck start vo 04.ogg|Filedescription ="Time to let off some steam! Choo-choo!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 04.ogg|Filedescription ="Enter sandman."}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 04.ogg|Filedescription ="Time for the applause!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 04.ogg|Filedescription ={{Translate|"Sono il re delle punture!"|"I am the king of stings!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck hurt vo 04.ogg|Filedescription ="Attenzione!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck hurt vo 04.ogg|Filedescription ={{Translate|"Ah, mi fanno male le pinze."|"Ah, my pincers hurt."}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 04.ogg|Filedescription ="You need more train-ing. Ha ha ha ha!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 04.ogg|Filedescription ="Sand-sational!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 04.ogg|Filedescription ="Concerto of carnage!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 04.ogg|Filedescription ="It's all dune and gloom!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = chuck ulti vo 04.ogg|Filedescription ={{Translate|"Treno!"|"Train!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = chuck start vo 05.ogg|Filedescription ="All aboard the pain train!"}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 05.ogg|Filedescription ="I've got grains in my veins!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 05.ogg|Filedescription ={{Translate|"Grazie a tutti!"|"Thank you, everyone!"}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 05.ogg|Filedescription ="Scorpion symphony, sting sing harmony."}}
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck hurt vo 05.ogg|Filedescription ="I'm pinchers of pain!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 05.ogg|Filedescription ="Please, go conduct yourself."}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 05.ogg|Filedescription ="Sting, swing, and sing!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 05.ogg|Filedescription ={{Translate|"Arrivederci. Ah!"|"Goodbye. Ah!"}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 05.ogg|Filedescription ="Sands of time are running out."}}
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 06.ogg|Filedescription ={{Translate|"Sono il sultano delle sabbie!"|"I am the sultan of the sands!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 06.ogg|Filedescription ="That was well orchestrated."}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck lead vo 06.ogg|Filedescription ={{Translate|"Di scorpione la sinfonia, ti punge in armonia!"|"Of scorpion symphony, it stings you in harmony!"}}}}
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck hurt vo 06.ogg|Filedescription ="Sand got in my eyes."}}
+|'''Normal:'''
+{{Ogg|Filename = chuck kill vo 06.ogg|Filedescription ={{Translate|"È stato bello!"|"It was nice!"}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 06.ogg|Filedescription ={{Translate|"Ti pungo, ti pungo! Ha ha ha ha!"|"I sting you, I sting you! Ha ha ha ha!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = chuck die vo 06.ogg|Filedescription ={{Translate|"Arrivederci!"|"Goodbye!"}}}}'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 06.ogg|Filedescription ="Sandstorm!"}}
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 07.ogg|Filedescription ="May the sands of time erase my crime."}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 07.ogg|Filedescription ={{Translate|"È stato ben orchestrato!"|"It was well orchestrated!"}}}}
+|
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck kill vo 07.ogg|Filedescription ={{Translate|"Vittoria velenosa."|"Venomous victory."}}}}
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck die vo 07.ogg|Filedescription ={{Translate|"Tempesta di sabbia!"|"Sandstorm!"}}}}
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 08.ogg|Filedescription ="Meet my friend with a deadly end!"}}
+|'''Normal:'''
+{{Ogg|Filename = chuck lead vo 08.ogg|Filedescription ={{Translate|"Eccomi! Il maestro!"|"Here I am! The master!"}}}}
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 09.ogg|Filedescription ="Pinch party over here!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 10.ogg|Filedescription ="Quicker than quicksand."}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 11.ogg|Filedescription ="Scorpion stinger, pain bringer!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 12.ogg|Filedescription ={{Translate|"Questo potrebbe, pizzicare un po!"|"This might sting a bit!"}}}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 13.ogg|Filedescription ={{Translate|"Veleno e dolore!"|"Venom and pain!"}}}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Desert Scorpion:'''
+{{Ogg|Filename = scorpion chuck start vo 14.ogg|Filedescription ="Watch this tail or get ready to wail."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*11/10/23:
+**{{Balance|Content=Chuck could be unlocked early as a bundle for $19.99.|Change=Neutral}}
+**{{Balance|Content=Chuck became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Inferno Chuck skin was added.|Change=Neutral}}
+*18/10/23:
+**{{Balance|Content=Chuck became available in the Starr Road.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Chuck now starts the match and respawns with 1% Super charged (from 100%).|Change=Nerf}}
+**{{Balance|Content=Chuck's face texture was slightly reworked.|Change=Neutral}}
+*22/03/24:
+**{{Balance|Content=The Desert Scorpion Chuck skin was added. It was featured as a Sands of Time skin.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Chuck can now manually place down posts within other posts' range.|Change=Buff}}
+**{{Balance|Content=Chuck's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Chuck's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Chuck now respawns with the Super charge he had before dying (from 1%).|Change=Buff}}
+*18/12/24:
+**{{Balance|Content=Fixed an issue with Desert Scorpion Chuck's Super Poles not being correctly placed on the map.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*08/04/25:
+**{{Balance|Content=The Electroid Chuck skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Chuck's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Chuck's level up damage was increased to 3% (from 2%) in Brawl Arena.|Change=Buff}}
+*24/07/25:
+**{{Balance|Content=Chuck's Full Steam Ahead! Hypercharge was added.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Chuck's Full Steam Ahead! Hypercharge multiplier was increased to 30% (from 20%).|Change=Buff}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Chuck's Full Steam Ahead! Hypercharge speed boost from 26%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Chuck's Full Steam Ahead! Hypercharge damage boost from 25%.}}
+*25/11/25:
+**{{Balance|Neutral|Replaced Chuck's Damage Gives +35% Temporary Shield Power Card with Shield +30% Power Card.}}
+*16/12/25:
+**{{Balance|Buff|Chuck's health was increased to 4700 (from 4500).}}
+*01/09/26:
+**{{Balance|Buff|Chuck's main attack damage falloff was removed.}}
+**{{Balance|Buff|Chuck's main attack projectile speed was increased to 2700 (from 1750).}}
+**{{Balance|Buff|Chuck's Super charge rate was increased to 180 (from 100).}}
+**{{Balance|Buff|Chuck's Super now has 4 uses (from 1).}}
+**{{Balance|Buff|Chuck starts the match with a fully-charged Super.}}
+**{{Balance|Buff|The maximum amount of posts that can be placed was increased to 4 (from 3).}}
+**{{Balance|Buff|Chuck's Ghost Train Gadget now affects all Supers used in the next 8 seconds (from only the next Super).}}
+**{{Balance|Nerf|Chuck's health was decreased to 4400 (from 4700).}}
+**{{Balance|Nerf|Chuck's main attack range was decreased to 6 tiles (from 6.67).}}
+**{{Balance|Nerf|Chuck's Super auto-charge was removed.}}
+**{{Balance|Nerf|Chuck's Super dash damage was decreased to 800 (from 1750).}}
+**{{Balance|Nerf|Chuck's Super dash damage reduction was decreased to 35% (from 50%).}}
+**{{Balance|Nerf|Chuck's Super dash speed was decreased to 3200 (from 3700).}}
+**{{Balance|Nerf|The knockback from placing posts was removed.}}
+**{{Balance|Nerf|Chuck's Rerouting Gadget Super charge was decreased to 50% (from 100%).}}
+**{{Balance|Nerf|Chuck's Ghost Train Gadget cooldown starts 8 seconds after activation (from 0-2.5).}}
+**{{Balance|Neutral|Chuck's Pit Stop Star Power was reworked from increasing the maximum amount of posts by 1 to making his posts also slow enemies by 20% for 1 second.}}
+**{{Balance|Neutral|Chuck's Pit Stop Star Power icon was changed.}}
+**{{Balance|Neutral|Chuck's Hypercharge was reworked from making his dash have unlimited range while firing clouds of steam beside him to causing posts Chuck travels to deal 1600 area damage on arrival.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Chuck's movement speed to 800 (from 770).}}
+**{{Balance|Neutral|Chuck's Buffies were added.}}
+*16/09/26:
+**{{Balance|Buff|Chuck's Pit Stop Star Power slow was increased to 30% (from 20%).}}
+**{{Balance|Buff|Chuck's Pit Stop Star Power slow duration was increased to 2 seconds (from 1).}}
+**{{Balance|Buff|Chuck's Buffied Pit Stop Star Power area damage was increased to 360 (from 180).}}
+*01/10/26:
+**{{Balance|Neutral|The Flame Rider Chuck Skin was added. It was featured as a Brawl-Brawl-o-ween skin.}}
+*03/11/26:
+**{{Balance|Buff|Chuck's reload time was decreased to 1.8 seconds (from 2).}}
+**{{Balance|Buff|Chuck no longer respawns without losing any remaining Super uses.}}
+**{{Balance|Buff|Chuck's level up reload speed boost was increased to 2,5% (from 2%) in Brawl Arena.}}
+**{{Balance|Neutral|Fixed a Server Error 43 crash caused by Chuck with the Instagib [[Modifier]].}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Inferno|Cost1=Free from the early bundle, free from Dead Boxes, Pumpkin Boxes, Coffin Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Brawl-o-ween|Rarity1=Rare
+|Name2=Electroid|Cost2=149 Gems|Campaign2=Supercell Make|Campaign2_2=Brawl Unite|Rarity2=Epic
+|Name3=Flame Rider|Cost3=Free from Coffin Boxes or 199 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Mythic
+|Name4=Desert Scorpion|Cost4=299 Gems|Campaign4=Sands of Time|Rarity4=Legendary
+|TrueSkins=Yes}}
+
+===Buffie Skins===
+<gallery>
+File:Chuck Buffie Skin-Gadget.png|Gadget
+File:Chuck Buffie Skin-Star.png|Star
+File:Chuck Buffie Skin-Hyper.png|Hyper
+File:Chuck Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Chuck
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Desert Scorpion}}
+{{Pin Table|Electroid|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Chuck|Rarity = Common}}
+|{{Spray|Type = Chuck Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Desert Scorpion Chuck|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Chuck1}}
+|{{Pfp|Chuck2}}
+|{{Pfp|Chuck3}}
+|{{Pfp|Chuck4}}
+|{{Pfp|Desert Scorpion Chuck}}
+|-
+|{{Pfp|Electroid Chuck}}
+|
+|
+|
+|
+|}
+
+{{Navigation}}
+[[es:Chuck]]
+[[ru:Чак]]

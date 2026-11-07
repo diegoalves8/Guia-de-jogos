@@ -1,0 +1,170 @@
+{{MapTab}}{{Location Infobox
+|name       = Cursed Ship
+|image      = <gallery>
+Cursed Ships.png|Normal View
+Cursed Ship’s exterior.png|Exterior View
+</gallery>
+|type       = Island
+|sea        = Second Sea
+|level      = 1250-1350
+|music      = Uneasy Decision
+|prev       = Hot and Cold
+|next       = Ice Castle
+}}The '''Cursed Ship''' (or '''Haunted Ship''') is a [[Locations|location]] found near [[Graveyard Island]]. Onboard, there is a black door that requires the player to be at least Level 1000 to enter. However, the player is able to use [[Portal]]'s {{Ability|Portal|C}} to enter it at any level (as long as they are in the [[Second Sea]]). It primarily serves as the grinding area for players between [[levels]] 1250-1350.
+
+== Navigation ==
+As the player enters, they will see a room to both sides, and an entrance towards a staircase. Both rooms, left and right, are the exact same having a group of [[Ship Deckhand|Ship Deckhands]], with the left side connecting to an area with multiple rooms (one of them being occupied by [[El Admin]]), and the right connecting to [[El Perro|El Perro's]] room. 
+
+Both initial rooms also contain a pathway, leading down to the engine room. [[El Rodolfo]] can be found here, alongside the [[Ship Engineer|Ship Engineers]]. 
+
+Coming backwards, to the room with the staircase and the [[Front Crew Quest Giver]], the player will look up to find a glass dome, with the backside of the staircase leading to the galley, occupied by [[Ship Steward|Ship Stewards]] and the [[Experimic]].
+
+Upstairs, the player will immediately be met by [[Guashiem]], with two large rooms on both sides, housing multiple [[Ship Officer|Ship Officers]], with the giant room in the middle being the chambers of the [[Cursed Captain]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Raid Bosses
+|-
+|
+* [[Set Home Point]]
+* [[El Admin]]
+* [[El Perro]]
+* [[El Rodolfo]]
+* [[Experimic]]
+* [[Guashiem]]
+* [[Barista Cousin]] (Sometimes)
+|
+* [[Ship Deckhand]]
+* [[Ship Engineer]]
+* [[Ship Steward]]
+* [[Ship Officer]]
+|
+* [[Cursed Captain]]
+|}
+
+==Quests==
+{| class="article-table"
+![[Quest Giver]]
+![[Enemies|Enemy]]
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="2" |[[Rear Crew Quest Giver]]
+|[[Ship Deckhand]]
+|1250
+|Defeat 8 [[Ship Deckhand]]s
+|{{Money|12,250}}<br>{{EXP|33,000,000}}
+|-
+|[[Ship Engineer]]
+|1275
+|Defeat 8 [[Ship Engineer]]s
+|{{Money|12,500}}<br>{{EXP|35,500,000}}
+|-
+| rowspan="2" |[[Front Crew Quest Giver]]
+|[[Ship Steward]]
+|1300
+|Defeat 8 [[Ship Steward]]s
+|{{Money|12,250}}<br>{{EXP|37,500,000}}
+|-
+|[[Ship Officer]]
+|1325
+|Defeat 8 [[Ship Officer]]s
+|{{Money|12,500}}<br>{{EXP|39,500,000}}
+|}
+
+==Obtainable Items==
+{| class="article-table"
+!Item
+!Source
+|-
+|rowspan="5" | [[Ectoplasm]]
+|[[Ship Deckhand]]
+|-
+|[[Ship Engineer]]
+|-
+|[[Ship Steward]]
+|-
+|[[Ship Officer]]
+|-
+|[[Cursed Captain]] [Raid Boss]
+|-
+|[[Hellfire Torch]] 
+|rowspan="3" | [[Cursed Captain]] [Raid Boss]
+|-
+|[[Blue Spikey Coat]]
+|-
+|[[Red Spikey Coat]]
+|}
+
+===Shops===
+{| class="article-table"
+!NPCs
+!Items 
+!Cost
+|-
+|[[El Rodolfo]]
+|[[Bizarre Revolver]]
+|25 [[Ectoplasm]]
+|-
+|[[El Perro]]
+|[[Ghoul Mask]]
+|50 [[Ectoplasm]]
+|-
+|[[El Admin]]
+|[[Midnight Blade]]
+|100 [[Ectoplasm]]
+|-
+|[[Experimic]]
+|[[Ghoul]] 
+|100 [[Ectoplasm]] & [[Hellfire Torch]]
+|}
+
+==Gallery==
+<gallery>
+File:Cursed Ship lockers.png|The two rooms on the immediate right and left upon entering.
+File:Cursed Ship from Kingdom of Rose's Docks|Cursed Ship from Kingdom of Rose's Docks
+File:Cursed Ship rooms.png|One of the multiple rooms on the left side of the ship.
+File:El Perro's room.png|[[El Perro]]’s room.
+File:Cursed Ship pathway.png|The segment leading to the engine room.
+File:Cursed Ship Engine Room.png|The engine room.
+File:Cursed Ship lobby.png|The lobby directly in front of the entrance, leading up to the second floor.
+File:Cursed Ship kitchen.png|The galley.
+File:Cursed Ship upper Floor.png|The second floor, alongside [[Guashiem]].
+File:Cursed Ship lounge.png|One of the two giant rooms on the second floor.
+File:Cursed Captain's chambers.png|[[Cursed Captain]]'s room.
+</gallery>
+
+==Trivia==
+* The player can also teleport to the ship without reaching Lv. 1000 through the use of [[Portal]]'s {{Ability|Portal|C}}. If the player enters the ship without reaching Lv. 1000, they still will be able to talk to the [[NPCs]]. However, the [[Cursed Captain]] will not drop the [[Hellfire Torch]], and the player will not be able to accept any quests (because of the level requirement).
+** Another way to access this area is by going to the docks at the [[Kingdom of Rose]], flying forward until the ship comes into view, and then glitching inside using [[Flash Step]]. However, this method is somewhat difficult due to the kill barriers which deal more damage than touching [[water]] with a fruit equipped or [[lava]] without [[Tiger]] or [[Magma]], surrounding the area. Alternatively, the player can simply die when the 'Cursed Ship' message and music appear, which will teleport them inside if below level 1000.
+* Jumping to the roof of the Cursed Ship will cause the head of the player to glitch outside and damage them.
+* It is possible to get both the [[Red Spikey Coat|Red]] and [[Blue Spikey Coat]] at the same time from the [[Cursed Captain]].
+* The [[Barista Cousin]] can be found underneath the right staircase when entering from outside.
+* The [[Ship Steward]]s used to have a bloody scratch on their chest, but it was later removed.
+* When the player is in the ship during the night, using unawakened [[Buddha]]'s transformation will help them see a little better in the dark.
+* If the player were to open up the compass and go towards the box, the compass' arrow would break after a while, and it will change (not to the player's current quest giver) but directly to the Cursed Ship's area location.
+* It is roughly 25 seconds faster(per 3 lvl's) to grind the [[Ship Deckhand]]'s rather than the [[Ship Engineer]]'s.
+* [[Quake]]'s {{Ability|Quake|V}} or {{Ability|Quake|V|1}} move can hit all the enemies in the ship, making it great for auto-farming without exploits if you use an auto-clicker.
+* Since the Cursed Ship gets very dark at night, turning on [[Fast Mode|fast mode]] can make the area brighter if the player does not use [[Buddha]].
+* The Cursed Ship is actually a gear of "Ghost Ship" Item. The gear ID of this ship is 155662051.
+* The engine in the engine room has [[Destructible Physics]].  
+* Despite there being no official way to fish at the Cursed Ship, players have found a way to [[Flash Step|flashstep]] out onto a part of the ship's exterior, one which is close to the water's surface and lacks the damaging floor.
+* Due to it being mostly empty, it’s one of the better locations to AFK levels.
+* The three [[Shop]] [[NPCs]] aboard the ship have unique themes for their names.
+** [[El Admin|El Admin's]] name likely is a joke, since admins are often asked for strong things, hence he sells the [[Midnight Blade]], a strong sword.
+** [[El Rodolfo|El Rodolfo's]] name resembles one commonly used for old timey gun slingers, hence he sells the [[Bizarre Revolver]].
+** [[El Perro|El Perro's]] name in Spanish for 'dog', a reference to him selling the [[Ghoul Mask]].
+<gallery>
+File:Fishing Spot.png|The spot many players use to fish, the rim just outside the galley.
+File:Cursed Ship's exterior.png|The exterior of the Cursed Ship.
+File:Broken Engine.png|The engine being broken.
+</gallery>
+
+==Change History==
+{{Change History|12}}
+
+==Navigation==
+{{IslandNavigation}}

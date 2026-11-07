@@ -1,0 +1,399 @@
+{{Protection}}{{MagicWords}}{{SimilarTitle|Buzz Lightyear|the time-limited Brawler}}
+{{Brawler Infobox|Title = Born bad|PrestigeTitle = Stay hydrated|Rarity = Mythic|Class = Assassin|MovementSpeed = 800 (Fast)<br>4500 (with Super)|HealthLabel = Health|Health = 5000|AttackLabel = Damage per sound wave|Attack = 420|AttackRange = 2.67 (Short)|Reload = 1 second (Very Fast)|AttackSuperCharge = 10.075%|AttackBullets=5|SuperRange = 10 (Very Long)|AttackSpeed=4000|AttackWidth=|SuperSpeed=3800|SuperWidth=1|Gadget1Name=Reserve Buoy|Gadget1Cooldown=18 seconds|Gadget2Name=X-Ray-Shades|Gadget2Cooldown=20 seconds|VoiceActor=Joshua Gordy|AttackSpread=74.25°|Previous=Squeak|Next=Fang|HyperchargeMultiplier=30%|AttackHyperchargeCharge=2.5%|Gadget2Duration=12 seconds}}
+{{Quote|Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.}}{{Portrait}}
+Buzz is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 7: Jurassic Splash. He has high health, a high damage output, a very fast reload speed, and great mobility because of his Super and his fast movement speed, but a short attack range. He was the 48th Brawler added to the game. His Trait allows him to passively charge his Super if an enemy Brawler is within a radius of him. He attacks with close-ranged sound waves from his whistle. His Super throws out a buoy that can grapple walls or enemies, pulling him to them and stunning nearby enemies with the stun duration varying based on his travel distance. His first Gadget, Reserve Buoy, instantly and fully charges his Super with this Super not stunning enemies. His second Gadget, X-Ray-Shades, momentarily allows Buzz and his teammates to see enemies hiding in bushes within his Trait's Super charging area. His first Star Power, Tougher Torpedo, doubles the minimum stun duration of his Super. His second Star Power, Eyes Sharp, increases his Trait's area to cover more ground. His Hypercharge, Buzzwatch, recharges Buzz's Super instantly when he hits a wall.
+
+==Trait==
+{{Quote|This Brawler charges Super from staying close to opposing enemies.}}{{Trait|Radius}}Buzz's Trait is a 6-tile circle around him. All enemy Brawlers within this circle charge his Super. He charges his Super and Hypercharge faster if there are multiple enemies inside the radius, and the amount of Super charge per second is 3.375% multiplied by one more than the number of enemies present within the circle. This results in the Super charging by 6.75% per second each or over 15 seconds for one enemy, and his Hypercharge by 1.6875% per second each or over 60 seconds for one enemy. His Super and Hypercharge still charge even with invisible or bush-camping enemies. Ally Buzzes will have their Trait radius shown, while enemy Buzzes will have their Trait radius hidden.
+
+==Attack: Buzz Off==
+{{Quote|Buzz blows on his lifeguard whistle, piercing nearby ears five times in an arc.}}Buzz blows 5 close-ranged, piercing sound waves from his whistle in a strafing motion from left to right. His attack has a slow unload speed, taking 0.9 seconds to complete.
+
+==Super: Torpedo Throw==
+{{Quote|Buzz throws out his torpedo buoy. If it hits an opponent or a wall, Buzz hauls himself over there, stunning nearby opponents where he lands. The stun time increases based on distance travelled.}}Buzz throws out a buoy that can hit both opposing targets or walls, pulling himself to it afterwards. After Buzz pulls to an enemy, he stuns them and other enemies in a 2.33-tile radius around himself. The stun duration is variable; the farther away Buzz was before hitting a target with his Super, the longer the stun duration. The maximum stun duration is 1.5 seconds and the minimum is 0.6 seconds. If Buzz moves behind an obstacle while using his Super, he goes through the obstacle. If the grappled enemy moves away from where they were initially hit, Buzz is pulled to their original location. Buzz can travel across lakes while being pulled, he can still move before the buoy hits an enemy or wall, and if a wall Buzz grappled onto gets destroyed, he'll be pulled to the wall's location. However, Buzz's Super can be interrupted if he's pulled, stunned, pushed back, or knocked back while using his Super.
+
+==Gadgets==
+===Reserve Buoy===
+{{Quote|Instantly fills the Super meter, but the next Torpedo Throw doesn't stun opponents. Cooldown: 18 seconds.}}{{Gadget|1}}When Buzz activates this Gadget, he charges his Super instantly, but this Super won't stun enemies. Buzz can't use this Gadget if his Super is already charged, and if he gets defeated before he uses that Super, Buzz respawns without the Gadget's Super. A Gadget symbol will glow above Buzz's head signaling this Gadget's usage, as well as a glowing Super joystick. This Gadget's cooldown starts after the button is pressed.
+
+===X-Ray-Shades===
+{{Quote|Buzz can see into all bushes in his Super charging area for 12 seconds. Cooldown: 20 seconds.}}{{Gadget|2}}Upon activation, this Gadget allows Buzz and allies to see every enemy hiding in bushes within his Trait's Super charging area for the next 12 seconds. Buzz's Eyes Sharp Star Power affects the radius of this Gadget. However, if Buzz is defeated, the effect is cut short. A Gadget symbol will glow above Buzz's head signaling this Gadget's usage. This Gadget's cooldown begins after the active duration of the Gadget ends.
+
+==Star Powers==
+===Tougher Torpedo===
+{{Quote|The minimum duration of Buzz's Super stun is increased by 0.5 seconds.}}{{StarPower|1}}The minimum stun duration of his Super is increased to 1.1s second instead of the usual 0.6 seconds. This Star Power doesn't affect his Reserve Buoy Gadget or the maximum stun duration of his Super. 
+
+===Eyes Sharp===
+{{Quote|Buzz's Super charging area is increased by 33%.}}{{StarPower|2}}Buzz's Trait's Super charging area is much larger. Despite the description, the 33% increase is of the radius and not the area, so his Trait's radius is increased from 6 tiles to 8 tiles.
+
+==Hypercharge: Buzzwatch==
+{{Quote|Buzz's torpedo can now be used again if he hits a wall.}}{{Hypercharge}}
+When activated, Buzz's Super recharges instantly when he hits a wall. This includes the Supers charged from his Reserve Buoy Gadget. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Buzz's Torpedo Throw has increased range.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Buzz's Super range was doubled.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Buzz's Torpedo Throw has increased range, Buzz has more health, and his Super charges faster!}}<div style="float:right">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Buzz's Super range was doubled, his health was increased by 20%, and his Super charge rate was increased by 25%.
+
+==Tips==
+===Game Modes and Maps===
+*Buzz's mechanics make him viable in [[Heist]]. He can grapple onto the enemy safe and stun nearby defenders, eliminate them, and proceed to deal large amounts of damage to the safe continuously since his reload speed is fast. He can also use the stun from his Super to defeat attackers onto his team's safe, and his above-average health allows for more survivability while attacking the safe, in which low-health Brawlers are commonly used in this mode.
+*In [[Brawl Ball]] Overtime, if you stun the enemy who is holding the ball with your Super, then use Buzz's Reserve Buoy Gadget, grab the ball then shoot it into the goal. All while the enemy is stunned. If you want to do this easier, use Buzz's Star Power Tougher Torpedo.
+
+===Recommended Build===
+*The main build you are going to want is with Buzz's Reserve Buoy Gadget, and his Eyes Sharp Star Power.
+**Buzz's Reserve Buoy Gadget is effective for emergency situations such as escaping without having a Super. It can also be used offensively by using it to catch up to enemies faster or by using it as a Super at the beginning of a match.
+**When playing more open maps against enemies that outrange you, his Eyes Sharp Star Power gives more value as it's easier for Buzz to charge his Super.
+**Buzz can use his Reserve Buoy Gadget to quickly move onto lower health Brawlers, as the stun isn't always necessary to finish them.
+**X-Ray-Shades is useful in bushy maps as it reveals a large area of bushes, so it is recommended to use X-Ray-Shades only in maps with a lot of bushes and use Reserve Buoy everywhere else.
+**Tougher Torpedo can be used to take down Tanks as it doubles the minimum stun duration to 1 second, but Eyes Sharp is generally better in other matchups because it gives Buzz's Super charge a bigger area without enemies knowing they're charging your Super for you.
+
+===Other===
+*In order to hit all 5 shots, Buzz must either move clockwise around the enemy or attack at point-blank range. The latter, while easier to do, is riskier due to certain Brawlers like [[Spike]], [[Bull]], [[Leon]], [[Shelly]], [[Griff]], [[Nani]], [[El Primo]], and [[Darryl]] outmatching Buzz in point-blank combat.
+*Generally, try to auto-aim your Super most of the time unless the enemy is far away from you. His Super is fast, but if there is an enemy moving sideways from a far distance, it is best not to use your Super onto the enemy as they most likely can outrange you.
+*If an enemy is fleeing and is out of Buzz's range, he can use his Super to quickly catch up to the enemy and stun them, giving him the chance to finish them off.
+*Buzz isn't immune to damage or when he's traveling to a grappled target, so grappling an enemy when Buzz is on low health is risky. Additionally, if he is stunned, pulled, or knocked back while grappling, his Super is interrupted. However, if other enemies aren't nearby, you can still defeat the grappled enemy as the stun duration is long enough for you to defeat them with Buzz's high damage before the stun wears off.
+*Since Buzz's Super stuns in a short radius around him once he finishes traveling to the buoy's location, it's better to grapple onto a wall near an enemy rather than grapple the enemy since hitting Buzz's Super on a moving target is difficult. This can ensure that he can at least travel near the enemy's location.
+*When you face off against another Buzz and both of you Super, whoever Supers the second gets their stun. Ex: If you stun after your enemy has stunned you, you stun the other Buzz and can defeat him easily.
+*If a Buzz grapples you to stun, grapple to a nearby wall so the opponent Buzz will be dragged to the wall and the stun will be cancelled.
+*Buzz's Super allows him to play offensive because his health is above-average and his Super, if grappled from a long distance, can allow him to defeat even tanks like Bull, El Primo, or Darryl with his Super, which is usually difficult for Brawlers with lower health than tanks. Buzz can simply camp behind walls, inside bushes, or otherwise at a concealed or hard-to-reach location from the enemy and charge his Super in the process, then once he gets his Super, he can grapple onto and defeat enemies.
+*His Trait charges his Super in 15 seconds with a single enemy inside the radius. If it's the beginning of a match and your Reserve Buoy Gadget isn't enough to secure a defeat due to the absence of the stun, you can simply use obstacles that enemies are hiding behind to passively charge your Super.
+*Since his Trait still charges his Super on invisible or bush-camping enemies, he can use it as a scouting tool for bush-filled areas or maps like [[Snake Prairie]]. His Eyes Sharp Star Power allows him to better scout enemies because it extends his Trait radius. He can also use his X-Ray Shades gadget for better scouting. However, he is less preferred over better scouting Brawlers such as [[Tara]], [[Bo]], and [[Grom]].
+*If you're facing close-ranged Brawlers in which his Super or Trait aren't necessary, it's best to use his Tougher Torpedo Star Power to extend the stun duration at close range and ensure knocking them out, although it's harder to recharge your Super to escape from other enemies once you've defeated the close-ranged enemies.
+*Buzz can stun and defeat multiple enemies if they're grouped up with his Super and his wide, high-damaging attack. His slow unload speed makes Buzz vulnerable after his second attack but another Super allows him to defeat them
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 01.ogg|Filedescription = "No one drowns when I'm around!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 01.ogg|Filedescription = "Everyone drowns when I'm around!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz lead vo 01.ogg|Filedescription = "I rule this pool!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 02.ogg|Filedescription = "I rule this gene pool!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 01.ogg|Filedescription = "That's my whistle!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla hurt vo 01.ogg|Filedescription = "Argh!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 01.ogg|Filedescription = "Don't mess with the whistle!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 01.ogg|Filedescription = "Don't mess with the Zilla!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 01.ogg|Filedescription = "I just wanted to help!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla die vo 01.ogg|Filedescription = "Buzzilla killa!"}}
+|'''Godzilla:'''
+{{Ogg|Filename = Buzzilla atk vo 01.ogg|Filedescription = "Dino destruction!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 01.ogg|Filedescription = "To the rescue!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla ulti vo 04.ogg|Filedescription = "Rampage and rescue."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 02.ogg|Filedescription = "Only a fool messes with my pool!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 02.ogg|Filedescription = "I'ma break everything!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz lead vo 02.ogg|Filedescription = "Eat my bubbles!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 03.ogg|Filedescription = "Eat my plasma!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 02.ogg|Filedescription = "That's a warning!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla hurt vo 02.ogg|Filedescription = Buzz screams}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 02.ogg|Filedescription = "Don't be salty! Take a shower."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 03.ogg|Filedescription = "Buzzilla!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 02.ogg|Filedescription = "Why does nobody like me?"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla die vo 02.ogg|Filedescription = "Why does nobody like me?"}}
+|'''Godzilla:'''
+{{Ogg|Filename = Buzzilla atk vo 02.ogg|Filedescription = "Plasma breath!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 02.ogg|Filedescription = "Certified life-saver!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla ulti vo 01.ogg|Filedescription = "Certified life-destroyer!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 03.ogg|Filedescription = "Time to make a splash!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 03.ogg|Filedescription = "Time to make a huge splash!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz lead vo 03.ogg|Filedescription = "Not to blow my own whistle, but I'm awesome."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 01.ogg|Filedescription = "Buzzilla rules!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 03.ogg|Filedescription = "Stupid suit!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla hurt vo 03.ogg|Filedescription = "Another critic."}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 03.ogg|Filedescription = "Obey the rules!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 02.ogg|Filedescription = "Obey the Zilla!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 03.ogg|Filedescription = "Floatie!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla die vo 03.ogg|Filedescription = Buzz screams}}
+|'''Godzilla:'''
+{{Ogg|Filename = Buzzilla atk vo 03.ogg|Filedescription = Buzz screams}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 03.ogg|Filedescription = "Divin' dinomite!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla ulti vo 02.ogg|Filedescription = "Divin' dinomite!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 04.ogg|Filedescription = "I dive, people stay alive."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 04.ogg|Filedescription = "I dive, people don't survive."}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz lead vo 04.ogg|Filedescription = "Daring diving dino defeats delinquents."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 04.ogg|Filedescription = "Daring destructive dino defeats delinquents."}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 04.ogg|Filedescription = "That's a felony!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla hurt vo 04.ogg|Filedescription = "Too many humans!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 04.ogg|Filedescription = "You just wouldn't listen!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 04.ogg|Filedescription = "Dino destruction!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 04.ogg|Filedescription = "I was a trombone player!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla die vo 04.ogg|Filedescription = Buzz screams}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 04.ogg|Filedescription = "Feel the floatie!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 05.ogg|Filedescription = "Another day, another life saved."}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz lead vo 05.ogg|Filedescription = Buzz laughs loudly}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 06.ogg|Filedescription = Buzz laughs loudly}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 05.ogg|Filedescription = "I'm gonna have to write you up."}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 05.ogg|Filedescription = "Read. The. Sign."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 05.ogg|Filedescription = "I hate critics!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 05.ogg|Filedescription = "I blame the suit!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla die vo 05.ogg|Filedescription = "Zilla sad!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 05.ogg|Filedescription = "Splash-down!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla ulti vo 03.ogg|Filedescription = "Splash-down in Plasma Town!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 06.ogg|Filedescription = "Certified life-saver."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 05.ogg|Filedescription = "Certified and ready for destruction."}}
+|'''Godzilla:'''
+{{Ogg|Filename = Buzzilla lead vo 05.ogg|Filedescription = "Yeah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 06.ogg|Filedescription = "Rule violation!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 06.ogg|Filedescription = "Don't touch my floatie!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 06.ogg|Filedescription = "Killazilla!"}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 06.ogg|Filedescription = "And remember to stay hydrated!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 06.ogg|Filedescription = "First aid fury!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 07.ogg|Filedescription = "Ready for duty!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz hurt vo 07.ogg|Filedescription = Buzz whistles}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz kill vo 07.ogg|Filedescription = "You can't save everyone."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla kill vo 07.ogg|Filedescription = Buzz laughs loudly}}
+|'''Normal:'''
+{{Ogg|Filename = Buzz die vo 07.ogg|Filedescription = Buzz whistles weakly}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 07.ogg|Filedescription = Buzz growls}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 08.ogg|Filedescription = "Let the savin' begin!"}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 06.ogg|Filedescription = "Let the destruction begin!"}}
+|
+|
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Buzz ulti vo 08.ogg|Filedescription = Buzz growls}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 09.ogg|Filedescription = "Stand back! Trained professional here."}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 10.ogg|Filedescription = "Resuscitation is my vocation."}}'''Godzilla:'''
+{{Ogg|Filename = Buzzilla start vo 07.ogg|Filedescription = "Demolition is my mission."}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Buzz start vo 11.ogg|Filedescription = "I thirst for aid."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*16/06/21:
+**{{Balance|Content=Buzz became available to play in the Training Cave.|Change=Neutral}}
+*21/06/21:
+**{{Balance|Content=Buzz and his Born Bad skin were added to the game.|Change=Neutral}}
+*14/07/21:
+**{{Balance|Content=Buzz's Eyes Sharp Star Power was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Buzz's class was changed to Assassin (from Buzzassin).|Change=Neutral}}
+*08/11/21:
+**{{Balance|Content=The Director Buzz skin was added. It was featured as a Power League skin for Brawl Pass Season 9.|Change=Neutral}}
+*17/11/21:
+**{{Balance|Content=Buzz's Trait radius was retextured.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Buzz's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Fixed an issue where Buzz would charge his Super in the freeze-frame after a goal was scored in Brawl Ball.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Buzz's health was increased to 4400 (from 4200).|Change=Buff}}
+**{{Balance|Content=Buzz's X-Ray-Shades Gadget was added.|Change=Neutral}}
+*04/01/23:
+**{{Balance|Content=The Buzzette skin was added. It was featured as a Candyland skin.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Director Buzz now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*11/05/23:
+**{{Balance|Content=The Kaiju Buzz skin was added.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Buzz's flavor text was changed from "Buzz is the lifeguard at Velocirapids. He constantly scans for folks in trouble he can throw his torpedo buoy to, but his throws are rather overenthusiastic." to "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Buzz's rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+*11/01/24:
+**{{Balance|Content=Buzz's health was increased to 4800 (from 4400).|Change=Buff}}
+*27/02/24:
+**{{Balance|Content=Buzz's Buzzwatch Hypercharge was added.|Change=Neutral}}
+*04/04/24:
+**{{Balance|Content=The Fenrir, Eldr Fenrir, and Mørk Fenrir Buzz skins were added. They were featured as Brawl Pass Season 25 skins and Northern Saga skins.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=The Filmmaker Buzz skin was added. It was featured as a Ranked skin.|Change=Neutral}}
+**{{Balance|Content=Buzz and his Fenrir skins' main attack sound effects were reworked.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=The Godzilla, Red Godzilla, and Black Godzilla Buzz skins were added. They were featured as Godzilla skins.|Change=Neutral}}
+**{{Balance|Content=Buzz's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Buzz's Mutation was removed from the game.|Change=Neutral}}
+*22/05/24:
+**{{Balance|Content=Fixed Godzilla Buzz skins' sound effects.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Fixed Godzilla Buzz skins' attack and walking animations while in Hypercharge form.|Change=Neutral}}
+*05/09/24:
+**{{Balance|Content=The Buzz Patrick skin was added. It was featured as a SpongeBob skin.|Change=Neutral}}
+*08/02/25:
+**{{Balance|Content=The Bye Bye Buzz skin was added. It was featured as a Good Randoms skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Buzz's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Buzz's Wasabi Power was removed from the game.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Fixed an issue where Buzz's Super stunned enemies for longer than intended at shorter distances.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Buzz's Buzzwatch Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Buzz's Buzzwatch Hypercharge damage boost from 15%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Buzz's Buzzwatch Hypercharge shield boost from 15%.|Change=Nerf}}
+*25/11/25:
+**{{Balance|Content=Replaced Buzz's Damage Gives +30% Temporary Shield Power Card with Shield +25% Power Card.|Change=Neutral}}
+*01/12/25:
+**{{Balance|Content=The Fisherman Buzz skin could be obtained by redeeming it from the {{Link|Supercell Store}} for free until 04/12/25. It was featured as a Clash Stories skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Buzz's health was increased to 5000 (from 4800).}}
+*25/02/26:
+**{{Balance|Buff|Buzz's main attack spread was decreased to 74.25° (from 90).}}
+**{{Balance|Buff|Buzz's Super projectile speed was increased to 3800 (from 3500).}}
+**{{Balance|Buff|Buzz's Super minimum stun duration was increased to 0.6 seconds (from 0.5).}}
+*30/06/26:
+**{{Balance|Buff|Buzz's Super charge rate was increased to 100 (from 96).}}
+**{{Balance|Buff|Buzz's Hypercharge charge rate was increased to 30% (from 25%).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Buzz's movement speed to 800 (from 770).}}
+*05/11/26:
+**{{Balance|Neutral|The Undercover Buzz skin was added. It was featured as a Brawl Vice skin.}}
+
+==Cosmetics==
+===Skins (17)===
+{{Skin Gallery
+|Name1=Kaiju|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Max Force|Rarity1=Rare
+|Name2=Director|Cost2=149 Gems • '''E'''|Campaign2=Ranked|Campaign2_2=Starrs of Brawlywood|Rarity2=Epic
+|Name3=Buzzette|Cost3=Free from Presents, Pumpkin Boxes, Pierce Boxes, Coffin Boxes or 149 Gems|Campaign3=Sugar Rush|Rarity3=Epic
+|Name4=Filmmaker|Cost4=Free from Ranked Starr Drops or 149 Gems|Campaign4=Ranked|Campaign4_2=Starrs of Brawlywood|Rarity4=Epic
+|Name5=Buzz Patrick|Cost5=Available in bundles for Krusty Kash or $7.99 • '''E'''|Campaign5=SpongeBob|Rarity5=Epic
+|Name6=Bye Bye|Cost6=149 Gems|Campaign6=THE GOOD RANDOMS|Rarity6=Epic
+|Name7=Fisherman|Cost7=Free from the {{Link|Supercell Store}} until 04/12/25 • '''E'''|Campaign7=Clash Stories|Rarity7=Epic
+|Name8=Undercover|Cost8=199 Gems|Campaign8=Brawl Vice|Rarity8=Mythic
+|Name9=Godzilla|Cost9=Free from Monster Eggs or 499 Gems • '''E''' |Campaign9=Godzilla|Rarity9=Hypercharge
+|Name10=Red Godzilla|Cost10=Through chain offer, free from Monster Eggs or 499 Gems • '''E'''|Campaign10=Godzilla|Rarity10=Hypercharge
+|Name11=Black Godzilla|Cost11=Through chain offer after obtaining Red Godzilla Buzz, free from Monster Eggs or 499 Gems • '''E'''|Campaign11=Godzilla|Rarity11=Hypercharge
+|TrueSkins=yes
+|NameP1=Born Bad|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=THE BAD RANDOMS|RarityP1=Epic
+|NameP2=Fenrir|CostP2=Brawl Pass or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Northern Saga|RarityP2=Epic
+|NameP3=Eldr Fenrir|CostP3=Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Northern Saga|RarityP3=Epic
+|NameP4=Mørk Fenrir|CostP4=Brawl Pass Plus or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2=Northern Saga|RarityP4=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Buzz
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Born Bad}}
+{{Pin Table|Buzzette}}
+{{Pin Table|Director}}
+{{Pin Table|Fenrir|Special}}
+{{Pin Table|Eldr Fenrir|Special}}
+{{Pin Table|Mørk Fenrir|Special}}
+{{Pin Table|Filmmaker}}
+{{Pin Table|Godzilla}}
+{{Pin Table|Red Godzilla}}
+{{Pin Table|Black Godzilla}}
+{{Pin Table|Buzz Patrick|Special}}
+{{Pin Table|Bye Bye|Special}}
+{{Pin Table|Fisherman|Special}}
+{{Pin Table|Undercover|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Buzz|Rarity = Common}}
+|{{Spray|Type = Buzz Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Godzilla Buzz|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Buzz1}}
+|{{Pfp|Buzz2}}
+|{{Pfp|Buzz3}}
+|{{Pfp|Buzz4}}
+|{{Pfp|Fenrir Buzz}}
+|-
+|{{Pfp|Director Buzz}}
+|{{Pfp|Filmmaker Buzz}}
+|{{Pfp|Godzilla Buzz}}
+|{{Pfp|Buzzette}}
+|{{Pfp|Born Bad Buzz}}
+|-
+|{{Pfp|Buzz Patrick}}
+|{{Pfp|Bye Bye Buzz}}
+|{{Pfp|Fisherman Buzz}}
+|}
+
+{{Navigation}}
+[[pt:Buzz]]
+[[ru:Базз]]
+[[nl:Buzz]]

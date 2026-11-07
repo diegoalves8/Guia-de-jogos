@@ -1,0 +1,302 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Bomb
+|image  = <gallery>
+Bomb Fruit.png|Fruit Icon
+Bomb fruit gif.gif|Fruit GIF
+Bomb.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = Yes
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 80,000
+|robux  = 220
+}}
+{{Quote|Provides the user with a wide range of explosive attacks.|Shop}}
+'''Bomb''' is a {{Common}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|80,000}} or {{Robux|220}} from the [[Blox Fruit Dealer]].
+
+The Bomb fruit allows the user to manipulate explosions for both offense and area control. The user can wield handheld projectiles, plant mines, and sacrifice their own health for higher damage.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 3
+|energy   = 5
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks instinct]] on direct hit.
+|gif      = BombM1
+|desc     = The user throws out a small bomb which explodes on contact, knocking away opponents and dealing damage. Can be held to do more damage.
+}}
+
+{{Skill
+|key      = Z
+|name     = Targeted Bomb
+|mastery  = 1
+|cooldown = 4.5
+|energy   = 15
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks instinct]] on direct hit.
+|gif      = Bombreworkedz
+|desc     = The user summons a bomb on their cursor, which explodes upon releasing the move. Around the bomb's projected explosion are floating pieces of scrap and a warning sign. The explosion deals damage and knocks opponents upwards.
+}}
+
+{{Skill
+|key      = X
+|name     = Bomb Grab
+|mastery  = 50
+|cooldown = 9
+|energy   = 25
+|break    = Yes
+|instinct = The initial grab will not [[Instinct/Break|break instinct]], but the planted bomb will.
+|gif      = Bombreworkedx
+|desc     = The user uses explosions to propel themselves towards their cursor. 
+* If the user makes direct contact with an opponent after propelling themselves, a small explosion occurs that deals damage. The user plants a bomb on top of the opponent's head, which explodes after 3 seconds and knocks the opponent towards the user. 
+* If an opponent is not directly hit, the user's initial explosion simply deals damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Land Mines
+|mastery  = 75
+|cooldown = 11
+|energy   = 50
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Bomb C (Tap) New
+|gif2     = Bomb C (Held) New
+|desc     = If tapped, the user throws out a flurry of bombs which explode in a ring-shape around the user, dealing damage whilst pushing away nearby opponents. 
+|desc2    = If held, the user creates a set of landmines with a chain reaction detonation mode, which last for around 30 seconds, or until the user creates another set of landmines, after which they will detonate on their own. If an opponent dashes over a landmine, it detonates and deals damage. The landmines can also be detonated by any of Bomb's moves.
+}}
+
+{{Skill
+|key      = V
+|name     = Self Destruct
+|mastery  = 125
+|cooldown = 22.5
+|energy   = 100
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks instinct]] very close to the explosion.
+|gif      = Bomb V (Held) New
+|desc     = The user turns their head into a bomb, which, if held, grows in size while draining up to 25% of the user's health. Releasing the move causes the bomb to explode, whose range and damage scales off how long the move was held. Fully charging the bomb takes 4 seconds.
+}}
+
+{{Skill
+|key      = F
+|name     = Explosive Jump
+|mastery  = 25
+|cooldown = 6
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = BombF1
+|gif2     = BombF2
+|desc     = The user launches themselves upward by exploding their feet. Afterwards, the move's UI text will turn red and subsequent usage will damage the user, increasing with repeated usage, until the UI text turns back to white.
+|desc2    = The user can also launch themselves forward with this move by walking while using it.
+}}
+
+==Overview==
+<tabber> 
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Large AoE.
+* Low cooldowns.
+* Most moves can [[Instinct/Break|break Instinct]] and are multi-target.
+* Cheap and easy to obtain.
+* Decent damage overall, with some abilities dealing a lot of damage in certain situations.
+* Excellent choice for eliminating certain [[Sea Events]].
+* Surprisingly viable for [[PvP mechanics|PvP]].
+* Good mobility, although the jump might damage the user.
+* Great for grinding in early [[First Sea]].
+
+|{{Ability|TAP}}
+* Good [[Area of Effect|AoE]].
+* Rather easy to use.
+* Great damage. (Held)
+* Medium knockback. 
+* Multi-target.
+* Breaks instinct.
+
+|{{Ability|Z}}
+* Decent reach and damage.
+* Short cooldown.
+* No wind up.
+* Can be moved around quickly to chase a high speed opponent.
+* Good for trolling purposes.
+
+|{{Ability|X}}
+* Good stun.
+* Good combo potential.
+* Similarly to [[Superhuman]] [C], this move has aim-assist.
+* Can break combos and Instinct to the opponent.
+* Can still deal damage when missed.
+
+|{{Ability|C}}
+* No knockback. (Held)
+* Invisible to opponents. (Held)
+* Can chain detonate after the latest rework. (Held)
+* Can damage multiple enemies.
+* Deals an insane amount of damage if in an enclosed space. (Tap)
+* Can deal insane amounts of damage to large targets like [[Sea Beast|Sea Beasts]]. (Tap)
+** Additionally, the low cooldown of the C move makes the user able to quickly kill Sea Beasts by spamming the C move only.
+
+|{{Ability|V}}
+* Absurdly high damage compared to the rest of the moveset.
+* Large hitbox, especially when fully charged.
+* Can be used for breaking combos if used correctly.
+* This move cannot be cancelled even if the user takes damage or gets stunned.
+* Excellent for getting [[Piranha|Piranhas]] off your boat trail.
+* Knocks opponent extremely far away which makes it good for defensive purposes.
+* Counters most combo moves like [[Portal]] Z or [[Yeti]] C when used correctly.
+
+|{{Ability|F}}
+* Decent [[Area of Effect|AoE]].
+* Low cooldown. 
+* Great mobility, being able to be spammed like [[Lightning]] F.
+* Useful to avoid some moves, such as [[Dough]] '''[C]''' or [[Ice]] '''[V]'''.
+* Travels very high when used vertically.
+* Can be used to avoid the ocean.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Lacks stun moves.
+* Most moves are short-ranged.
+* Most moves are very easy to predict while holding them.
+** The user is immobile while holding their moves, leaving room for attack.
+* Fruit requires relatively high mastery compared to other {{Common}} [[Blox Fruits|fruits]].
+* Little to no combo potential.
+* Very risky to rely on {{Ability|V}} and {{Ability|F}} for damage as they drain the user's health.
+* The hitboxes can be very misleading when compared to the VFX.
+
+|{{Ability|TAP}}
+* Long cooldown compared to other [M1] attacks.
+* Weird hitbox when using on enemies on the same leverage, if not higher leverage than the player. This can be fixed by slightly jumping before using it.
+
+|{{Ability|Z}}
+* Hard to use in air.
+* Mediocre range.
+* Medium damage.
+* Difficult to hit.
+* Rather small hitbox.
+
+|{{Ability|X}}
+* Medium range.
+* Doesn't [[Instinct/Break|break Instinct]].
+* Mostly single target.
+* Randomly causes user to be flung in different directions.
+
+|{{Ability|C}}
+* The area is still too small when fighting in [[Second Sea]] and [[Third Sea]].
+* Doesn't work in air. (Held)
+* Takes some time to fully charge, leaving the user vulnerable to attacks.
+* Decent end-lag if fully charged.
+* Extremely unreliable damage, hitbox is inconsistent. (Tap)
+* Rather small AoE.
+* Can be countered by enemies that can run away fast enough after triggering the landmines. (Held)
+* Sometimes the chain detonation causes only one landmine to hit the opponent. (Held)
+
+|{{Ability|V}}
+* Drains the user's [[health]] quickly.
+* The user is left immobile for the duration of the move.
+* Extremely high knockback, especially if fully charged.
+** In grinding, using this move above [[enemies|NPCs]] will fix this issue.
+* Extremely odd hitbox, often never landing in aerial combat.
+* Difficult to land fully charged variant if the opponent is mobile.
+
+|'''[F] Explosive Jump'''
+* The user will take damage if spammed. However, using it when the text is white will negate this con.
+* Cannot be controlled in the same way as other movement abilities.
+}} 
+</tabber>
+
+==Gallery==
+<gallery>
+Bomb Concept.png|Concept of the Bomb fruit posted on Twitter by @disardo1.
+Nuclear Fruit Model.png|Nuclear Physical Fruit
+Thermite Fruit Model.png|Thermite Physical Fruit
+Azura Fruit Model.png|Azura Physical Fruit
+Celebration Fruit Model.png|Celebration Physical Fruit
+</gallery>
+
+==Trivia==
+* Bomb was reworked in [[Updates/17.3|Update 17.3]], whereas it previously only had two moves, it was changed to have six in total.
+** The old version of Bomb is used by the boss [[Stone]], as well as the [[Sorcerer]] and [[Factory Staff]].
+* The exclamation marks seen in Bomb's attacks are identical to the exclamation marks in the [[Fishing]] minigame.
+* The inventory icon of the Bomb skins, with the exception of {{Skin|Celebration}}, is a little wider than the original icon.
+* Accounting for the scaling damage, the user is able to use {{Ability|F}} a total of five times at max HP, with the sixth use subsequently killing the user.
+* Bomb is one of the only {{Common}} Fruits to have an M1 attack, with the other one being [[Blade]].
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|27.5=
+{{Update|27.5}}
+* Bomb skins were given unique icons when equipped, just like the skins of other fruits.
+* {{Arrow|buff}} Bomb was buffed:
+** {{Arrow|buff}} V Damage Buffed +100%.
+** {{Arrow|buff}} C Land Mines Buffed (Explodes in half the time when rising up) and hitbox explosion buffed +20%.
+
+|-|27.4=
+{{Update|27.4}}
+* Bomb Fruit was reworked.
+* Bomb was secretly tweaked.
+** M1 attacks now work properly on mobile.
+** {{Arrow|buff}} M1 attacks damage increased by ~50%.
+** Tapped C move now knocks back nearby opponents slightly to let the bombs hit them.
+** {{Arrow|buff}} Landmines placed down by C move now works properly and deals a lot more damage.
+** {{Arrow|buff}} V move has slightly bigger hitbox.
+* New skins added to Bomb fruit. (Nuclear, Thermite, and Azura)
+<gallery>
+Bomb Z (Tap).gif|Old '''[Z] Target Bomb''' Tapped
+Bomb Z (Held).gif|Old '''[Z] Targeted Bomb''' Held
+Bomb X.gif|Old '''[X] Bomb Grab'''
+Bomb C.gif|Old '''[C] Land Mines'''
+Bomb V (Tap).gif|Old '''[V] Self Destruct''' Tapped
+Bomb V (Held).gif|Old '''[V] Self Destruct''' Held
+Bomb F.gif|Old '''[F] Explosive Jump'''
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Bomb Fruit's model was remade.
+: <gallery>
+Bomb 150x150.png|Old Bomb Fruit's icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Bomb's price was increased.
+** {{Money|5,000}} -> {{Money|80,000}}
+** {{Robux|60}} -> {{Robux|220}}
+* All moves were reworked.
+** '''[Z] Snipe''' was renamed to '''[Z] Targeted Bomb'''.
+** '''[X] Ultimate Explosion''' was renamed to '''[X] Bomb Grab'''.
+
+|-|17.2=
+{{Update|17.2}}
+* {{Arrow|buff}} Lowered cooldown.
+
+|-|8=
+{{Update|8}}
+* Reworked and/or Enhanced visuals of the Bomb move.
+
+|-|1=
+{{Update|1}}
+* Bomb was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Бомба]]

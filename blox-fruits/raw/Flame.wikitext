@@ -1,0 +1,418 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Flame
+|image  = <gallery>
+Flame Fruit.png|Fruit Icon
+Flame fruit gif.gif|Fruit GIF
+Flame.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Uncommon
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 250,000
+|robux  = 550
+}}
+{{Quote|Enables the user to control and create fire, forcing enemies to steer clear of the player if they do not want to burn.|Shop}}
+'''Flame''' is an [[Uncommon]] [[Elemental]]-type [[Blox Fruit]] that costs {{Money|250,000}} or {{Robux|550}} from the [[Blox Fruit Dealer]].
+
+The Flame fruit grants the user the ability to create, become, and manipulate fire, enabling the use of scorching attacks. These abilities allow the user to inflict high damage and deter opponents, while also causing significant destruction with their moves, with its main rival being [[Ice]].
+
+==Awakening==
+Flame costs {{Fragment|14,500}} to fully [[Raids|awaken]].
+
+The {{Title|Flame Fist}} [[Titles|title]] #033 will be granted upon awakening at least one move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive/Elemental Reflex|Flame Passive.gif}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Fire Bullets
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged on the edge of the explosion.
+|gif      = FireBullets
+|desc     = The user shoots several flaming bullets that explode, hitting multiple targets in the direction of the user’s cursor.
+}}
+
+{{Skill
+|key      = X
+|name     = Burning Blast
+|mastery  = 25
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged on the edge of the explosion.
+|gif      = BurningBlast
+|desc     = The user fires a fast, fist-shaped, flaming projectile from their hand in the direction of the cursor, causing a devastating explosion when it lands.
+}}
+
+{{Skill
+|key      = C
+|name     = Fire Column
+|mastery  = 50
+|cooldown = 15
+|energy   = 35
+|break    = Yes
+|instinct = Only the initial hit [[Instinct/Break|breaks Instinct]]. Can be dodged after the initial hit.
+|gif      = FireColumn
+|desc     = The user slams the ground, releasing a surge of fire around the user, pushing anyone caught in the pillar upward and dealing damage in an huge fire column.
+}}
+
+{{Skill
+|key      = V
+|name     = Flame Destroyer
+|mastery  = 100
+|cooldown = 27
+|energy   = 50
+|break    = Yes
+|instinct = Only the initial hit [[Instinct/Break|breaks Instinct]]. Can be dodged after the initial hit.
+|gif      = Flame V (Unawakened Tap)j
+|gif2     = Flame V (Unawakened Held)
+|desc     = The user creates a large orb of fire and throws it, which explodes when it hits a surface or reaches its maximum range, dealing a high amount of damage to anyone within its radius. 
+|desc2    = Fully holding the move will increase the size and damage, although aiming at the same location as the tapped version will result in a shorter travel.
+}}
+
+{{Skill
+|key      = F
+|name     = Fire Flight
+|mastery  = 10
+|cooldown = 15
+|energy   = 100
+|gif      = FireFlight
+|desc     = The user's legs turn into flames, granting them the ability to fly.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Blue Fire Bullets
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|frag     = 500
+|break    = Yes
+|instinct = Can be dodged on the edge of the explosion.
+|gif      = Azure Blue Bullets
+|desc     = The user shoots forward seven explosive blue sparks of heat, which spread out and will navigate its way to the cursor. Upon hitting an enemy, the enemy will get stunned for a few moments. Deals good damage if every bullet hits the target.* The bullets lose aim assistance the further they travel.
+}}
+
+{{Skill
+|key      = X
+|name     = Prominence Burst
+|mastery  = 25
+|cooldown = 10.5
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Prominence Pop
+|desc     = The user fires an extremely fast beam of fire from their hands in the direction of their cursor which explodes on contact with a surface, dealing damage and knocking back nearby enemies. It also leaves behind a fire effect that tick-damages enemies who enter its area, lasting for five seconds.
+}}
+
+{{Skill
+|key      = C
+|name     = Flaming Vortex
+|mastery  = 50
+|cooldown = 15
+|energy   = 35
+|frag     = 4,000
+|break    = Yes
+|instinct = Can be dodged on the edge of the vortex and after the initial hit.
+|gif      = Ember Lunge
+|desc     = The user launches themselves and nearby enemies into the air using a spiral of flames, dealing damage, pulling up caught enemies and leaving behind a fire effect that deals tick-damage to enemies who enter its area (if the move was done on the ground), lasting for five seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Hell's Core
+|mastery  = 100
+|cooldown = 27
+|energy   = 50
+|frag     = 5,000
+|break    = Yes
+|instinct = The initial hit and the flames [[Instinct/Break|break Instinct]]. Can be dodged after the initial hit.
+|gif      = HellSpores
+|gif1     = HellCores
+|desc     = The player creates a massive ball of fire and throws it, which explodes when it hits a surface or reaches its maximum range, dealing a huge amount of damage to anyone in its radius, and leaves behind a fire effect that tick-damages enemies who enter its area, lasting for 5 seconds.
+|desc1    = It can be held to deal slightly more damage and bigger AoE, while leaving behind much more fire.
+}}
+
+{{Skill
+|key      = F
+|name     = Rocket Flight
+|mastery  = 10
+|cooldown = 12
+|energy   = 100
+|frag     = 2,000
+|gif      = Flawk-f
+|desc     = The user launches forward, then flies at medium speed with a trail of fire burning along the user's back. The user leaves a loop of shockwaves afterward. The lower the user's health, the slower they will be.
+}}
+}}
+
+==Overview==
+{{Tabber
+|Unawakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* [[Elemental]] immunity.
+* Good for close to medium-range combat.
+* All moves are multi-target.
+* Low mastery requirements.
+* Easy to awaken.
+* Decent for grinding.
+
+|'''[Z] Fire Bullets'''
+* High damage.
+
+|'''[X] Burning Blast'''
+* Good [[AoE]].
+
+|'''[C] Fire Column'''
+* Good [[AoE]].
+* Decent for starting/extending [[combos]].
+
+|'''[V] Flame Destroyer'''
+* Large [[AoE]].
+* [[Instinct/Break|Breaks Instinct]].
+* Can be held for more damage and slightly bigger [[Area of Effect|AoE]].
+
+|'''[F] Fire Flight'''
+* Generally useful in mobility, although slow.
+}}
+
+|Cons|
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Can be problematic for grinding due to the high knockback of some moves. (Although it can be solved by using them as a finisher.)
+* Weak in the air.
+
+|'''[Z] Fire Bullets'''
+* Bad [[AoE]].
+* Extremely hard to aim at a moving target because the projectiles have slow travel speed.
+
+|'''[X] Burning Blast'''
+* Bad range.
+* Hard to hit because of its slow travel speed.
+* High knockback in grinding.
+
+|'''[C] Fire Column'''
+* Can easily be punished if missed.
+
+|'''[V] Flame Destroyer'''
+* Bad range.
+* Slow travel speed.
+* Long start-up.
+
+|'''[F] Fire Flight'''
+* Long cooldown, especially for a [[Flight|flight]] move.
+* Quite slow, and is not recommended for long-distance travel.
+}}
+}}
+
+|Awakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Overall good for PvP.
+* All moves can [[Instinct/Break|Break Instinct]].
+* Good for [[Sea Beast]] hunting since its moves can be spammed and deal high damage, along with great mobility from C and F moves.
+* High damage.
+* Large [[Area of Effect|AoE]] and range.
+* Most attacks do burn damage.
+* Excellent for grinding.
+* Low mastery requirements.
+
+|'''[Z] Blue Fire Bullets'''
+* Extremely long range.
+* High damage when all projectiles hit the target.
+* Good [[AoE]].
+* Generally easy to hit.
+* Has a powerful auto-aim feature.
+
+|'''[X] Prominence Burst'''
+* High range.
+* Large [[AoE]].
+* Slight stun.
+* Even higher damage when aimed towards the ground.
+
+|'''[C] Flaming Vortex'''
+* Quick start.
+* Slight stun.
+* Good vertical mobility.
+
+|'''[V] Hell's Core'''
+* Extremely long range.
+* Extremely large [[AoE]], especially when held.
+* High stun.
+* Very high damage.
+* Much higher range than its unawakened counterpart.
+
+|'''[F] Rocket Flight'''
+* Decent speed.
+}}
+
+|Cons|
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Requires aim and prediction.
+* Requires quite an investment, as with all other fruits with an awakening/upgrade.
+* No mobility, making it quite sluggish in fights
+
+|'''[Z] Blue Fire Bullets'''
+* Small hitbox.
+* The auto-aim feature weakens the further the projectiles travel.
+
+|'''[X] Prominence Burst'''
+* No impact AoE aerially.
+* Not good for grinding due to its high knockback, although it can be solved by using it as a finisher or hitting NPCs from above.
+* Smaller hitbox the further away the target is.
+*Low damage 
+
+|'''[C] Flaming Vortex'''
+* Not-so big AoE.
+* Flings the user quite high in the air, becoming obscuring in tight spaces.
+
+|'''[V] Hell's Core'''
+* Need to be charged to deal the full damage.
+* Can be [[Instinct]] tricked.
+
+|'''[F] Rocket Flight'''
+* Speed scales with the user's [[health]], meaning that the lower their health is, the slower the [[flight]] will go.
+* Generally long cooldown.
+}}
+}}
+}}
+
+==Gallery==
+<gallery>
+File:FlameZrange.gif|'''[Z] Blue Fire Bullets''' range.
+File:RocketFligh.gif|The old awakened  '''[F] 'Rocket Jump''''.
+File:Flame - Blox Fruits (No Items Found).png|The "No items found" logo
+</gallery>
+
+==Trivia==
+* Flame model is used in the [[Blox Fruits]] logo, as well as the [[2x Mastery]] image.
+* The awakened {{Ability|V|2}} move shares names with a fire spell from [https://www.roblox.com/games/566399244 Elemental Battlegrounds], another game developed by [[Gamer Robot Inc|Gamer Robot]].
+<!--- * While holding '''[V] Hell's Core''', It begins to resemble the star, Sol. The firey 'aura' is known as the Heliosphere.
+/// What does this mean? Is Sol not just the sun? This feels like it can be reworded heavily. /Limeturtkle
+--->
+* Flame has been reworked several times in its lifespan, being a fruit that has existed since the game's launch. 
+** Some old Flame moves are still used by the [[Demonic Soul]] and [[Head Baker]], as well as the Flame [[Raids|Raid]] boss.
+
+* Flame is the first fruit in the [[Uncommon]] rarity.
+
+== Change History ==
+{{Change History|1|content=<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} Awakened Flame was buffed:
+** {{Arrow|buff}} {{Ability|X}} has a faster beam by 40%
+** {{Arrow|buff}} {{Ability|V}} has a faster move speed by 30%, and has a faster cast time by 30%
+** {{Arrow|neutral}} Flame [F] has a lower cooldown by 20%. However, the glitch where it flings you forward was patched.
+
+|-|29=
+{{Update|29}}
+* '''Flame''' was visually enhanced.
+
+|-|26=
+{{Update|26}}
+* Flame was visually enhanced 
+* Flame's Model got reworked.
+:<gallery>
+Flame Fruit (Old).png|Old Flame Fruit's Model.
+</gallery>
+
+|-|24=
+{{Update|24}}
+* Flame’s Icon was remade
+: <gallery>
+FlameIconOld.webp|Old Flame Fruit's Icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Flame Fruit's model was remade.
+: <gallery>
+Flame 150x150.png|Old Flame Fruit's model.
+</gallery>
+
+|-|17.3.5=
+{{Update|17.3.5}}
+* '''[Z] Blue Fire Bullets''' (V2) was reworked.
+
+|-|17.3=
+{{Update|17.3}}
+* Awakened and Unawakened Flame received a whole visual revamp.
+* Removed the ability for Flame [X] to deal two explosions at once at different areas of collision.
+* Tick damage was improved.
+* [V] move does bit randomly disappear when aiming.
+* Most 3D assets were replaced with VFX.
+* Damage was increased for all moves.
+* {{Arrow|buff}} Flame [Z] travels significantly faster.
+* {{Arrow|buff}} Flame [Z] has strong aim.
+* {{Arrow|buff}} Flame [C] boosts higher into the air.
+* {{Arrow|buff}} Flame [V] has a larger hitbox.
+* {{Arrow|buff}} Flame [Z] now has higher base damage.
+* {{Arrow|buff}} Flame [X] has a faster beam
+* {{Arrow|nerf}} Flame [V] travels much slower.
+* {{Arrow|nerf}} Flame [V] has a much longer start-up time.
+* {{Arrow|nerf}} Flame [Z] has no more burning effect.
+* {{Arrow|nerf}} Flame [X] was reduced slightly in range and stun time.
+
+|-|17.2=
+{{Update|17.2}}
+* Awakened Flame was buffed slightly.
+** {{Arrow|buff}} '''[F] Rocket Flight''' now has a higher initial speed boost.
+** {{Arrow|buff}} Increased the damage of '''[Z] Blue Fire Bullets'''. Additionally, it grows in size as it travels.
+* Changed the sound effects of Awakened Flame's [X] move.
+
+|-|11=
+{{Update|11}}
+**  {{Arrow|buff}} Flame received an [[Raids|awakening]].
+
+|-|8=
+{{Update|8}}
+*  {{Arrow|neutral}} Flame's visual effect was enhanced.
+**  {{Arrow|neutral}} Particle effects were added in and the explosion mesh '''smoke/firewind''' was revamped.
+
+|-|6=
+{{Update|6}}
+* {{Arrow|neutral}} '''[X] Burning Blast''' was remade.
+
+|-|5=
+{{Update|5}}
+* {{Arrow|buff}} Made some of Flame's moves cast faster. 
+
+|-|1=
+{{Update|1}}
+* Flame was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Пламя]]

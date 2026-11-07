@@ -1,0 +1,247 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Master of Disaster|PrestigeTitle = Pop and Lock|Rarity = Epic|Class = Marksman|MovementSpeed = 750 (Normal)<br>3000 (with Disengage!)|HealthLabel = Health|Health = 4000|AttackRange = 8.67 (Long)|Reload = 1.5 seconds (Normal)|AttackSuperCharge = 26.25%<br>32.8125% (with Pinpoint Precision)|AttackLabel = Damage|Attack = 1360|AttackSpeed=3200-5000|AttackWidth=0.67|SuperRange = 5|SuperSuperCharge = 38.75%|SuperLabel = Damage|Super = 1240|SuperSpread=360°|Gadget1Name=Disengage!|Gadget1Cooldown=16 seconds|Gadget2Name=Finish Them!|Gadget2Cooldown=10 seconds|VoiceActor=Simone Annan|Previous=Mandy|Next=Hank|HyperchargeMultiplier=40%|AttackHyperchargeCharge=10.5%<br>13.125% (with Pinpoint Precision)|SuperHyperchargeCharge=15.5%|Gadget1Range=2.67}}
+{{Quote|Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.}}{{Portrait}}
+Maisie is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 18: The Rescue. She has moderately high health, a high damage output, and a long range. She was the 67th Brawler added to the game. She attacks by shooting a cloud from her fire extinguisher that initially starts slow, but travels faster the further it goes. Her Super is a large shockwave that pushes all nearby enemies back while also damaging them. Her first Gadget, Disengage!, allows her to dash a few tiles in the direction she is facing, briefly stunning enemies. Her second Gadget, Finish Them!, instantly reloads 1 ammo, and increases her next attack's damage when she hits an enemy. Her first Star Power, Pinpoint Precision, increases her attack damage and Super charge rate if it hits an enemy at maximum range. Her second Star Power, Tremors, slows all enemies hit by her Super temporarily. Her Hypercharge, Aftermath, fires main attacks in all directions from her Super.
+
+==Attack: Pressure Rocket==
+{{Quote|The further you run, the faster Maisie's rocket will reach you.}}
+Maisie fires a long-ranged cloud projectile that deals high damage. The projectile initially starts slow, but it travels faster the further it goes. However, its damage output remains the same.
+
+==Super: Shockwave==
+{{Quote|Don't get too close or a personal space will be created for you.}}
+After a 0.5-second delay, Maisie creates a shockwave in a large radius around herself that pushes all enemies 3 tiles away from her while also dealing damage to them. This effect can go through walls. If Maisie is hit with a stun, pull, or knockback during the delay, her Super is cancelled. There is no direction of travel to this Super, so aiming is not required, though aiming can be used to show you the area-of-effect.
+
+==Gadgets==
+===Disengage!===
+{{Quote|Maisie blasts the ground, stunning enemies for 0.5 seconds while dashing forward. Cooldown: 16 seconds.}}{{Gadget|1}}
+Maisie dashes 2.67 tiles in the direction she is facing upon using this Gadget. If she activates it within 2.33 tiles of an enemy, they will get stunned for 0.5 seconds. However, if she is stunned, pulled, or knocked back, the dash is cancelled, but not the stun. Maisie also cannot dash through walls or water, and the dash will be interrupted if she dashes into any of them. 
+
+===Finish Them!===
+{{Quote|Maisie instantly reloads 1 ammo and increases the next Pressure Rocket damage by 30% of the target's missing HP. Cooldown: 10 seconds.}}{{Gadget|2}}
+Upon activation, Maisie's next attack instantly reloads 1 ammo, and increases her next attack's damage by 30% of the opponent's missing health. The Super charge rate is also increased, and the amount it increases by is proportional to the amount of bonus damage done and scales with Power Levels. The Gadget's effect won't work on immobile targets like [[Heist]] safes. Visually, the cloud also appears bigger, and gets an orange trail that replaces the standard trail. A Gadget symbol will glow above Maisie's head signaling this Gadget's usage, as well as a pulsing attack joystick.
+
+==Star Powers==
+===Pinpoint Precision===
+{{Quote|Pressure rocket deals 25% more damage at max distance.}}{{StarPower|1}}
+With this Star Power equipped, Maisie's attack damage and Super charge rate are increased by 25%, if it hits a target at maximum range. This stacks with other damage boosts such as [[8-Bit]] and [[Belle]]'s Super. However, this Star Power does not stack with her Finish Them! Gadget.
+
+===Tremors===
+{{Quote|Enemies hit by Shockwave are also slowed down for 2 seconds.}}{{StarPower|2}}
+Enemies hit by Maisie's Super will be slowed for 2 seconds by 350 points. This doesn't affect other aspects of her Super.
+
+==Hypercharge: Aftermath==
+{{Quote|Maisie's Super also shoots her basic attack projectiles around her to all directions.}}{{Hypercharge}}
+When activated, Maisie's Super also sends out 6 main attack projectiles radially. Similar to [[Spike]]'s attack and [[Hank]]'s Super, the pattern is fixed, with 60 degrees between each cloud, and it doesn't rotate with the direction Maisie is moving. The projectiles deal as half as much damage but recharge the same amount of Super on hit as her Super. Maisie's Hypercharge deals devastating damage at point-blank range where more clouds and her Super can hit the enemy. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*In certain game modes, controlling the bushes can provide a significant advantage. As a long-range Brawler, you can keep enemies at bay by shooting into bushes and denying them access to key areas. This method is effective in areas such as [[Hot Zone]] and Gem Grab.
+*Maisie is a solid pick in Brawl Ball. Her Super, combined with her Tremors Star Power and Disengage! Gadget, can make the enemy drop the ball, push them away from the goal, stun them briefly, slow them, or provide area control if the enemies are grouping up together to defend their goal. This makes her a highly versatile Brawler in the mode; her very fast Super charge rate and high damage output allows her to eliminate enemies quickly if they're fired accurately.
+*Maisie can take out a large and consistent amount of damage from the enemy's safe in [[Heist]]. Since the safe is a stationary object, her shots are guaranteed to hit. She can deal 11480 damage with three ammo and a super, and if there are multiple defending enemies in range, she could potentially chain Supers and repeatedly take out the enemy's safe's health. Her reload speed is quite reasonable, and her damage is consistent. Maisie's Super is great for defense as well, as it pushes enemies away from the safe and slows them down if she has her Tremors Star Power equipped, allowing her to take out the enemy and potentially chain another Super.
+
+===Recommended Build===
+*If you're in a match facing an assassin, use Disengage! to stun them and dash away if they get too close to you. If you're facing any tanks, then use the Finish Them! gadget. A good tip would be to first attack them once or twice, then activate Finish Them! to wipe out their health.
+*Maisie's Tremors Star Power is the better option for most situations, as it allows you to hit more consistent shots on your enemies after using your Super. Moreover, using her Super with this Star Power provides a much better area control than her regular Super, as it forces your opponents to retreat.
+
+===Strategies===
+*A trick to use with her Super is to activate it, then use Disengage! to dash onto an enemy. With her Tremors Star Power, this should catch the enemy by surprise, and if they are on low health, it is easier to finish them off with her attack.
+
+===Other===
+*Never auto-aim your shots when using Maisie, unless your opponent is right in front of you, as with the starting slow projectile speed, it most likely won't work.
+*When aiming your Super as Maisie, try to corner brawlers into walls and activate your Super as you walk towards them. This will make it so that your Super hits accurately and you can cycle it back quickly thanks to a limited area available for your enemies to run.
+*Maisie can defend herself well against close-range Brawlers, try to use this to your advantage by either dashing away or pushing back close-range Brawlers that sneak up on you like [[Mortis]], [[Edgar]], [[Buzz]], [[El Primo]], [[Fang]], [[Kit]], or [[Mico]]. With the added slow from her Tremors Star Power, you can also efficiently charge her Super, due to the enemies being slowed.
+*Maisie struggles against long-range Brawlers like [[Piper]], [[Nani]], [[Brock]], [[Colt]], [[Rico]], [[Mandy]], or [[Bea]], but once Maisie can get in range, she can easily take them out. A good way to get in range, is to try and predict the shot of your enemy, dodge it, while also slowly moving closer to them.
+*Maisie's Super is excellent for crowd control and pushing back enemies. Use it strategically in tight situations or to clear the area around an objective, such as the Gem Mine in [[Gem Grab]] or the [[Brawl Ball]] goal.
+*Since Maisie's main attack is very easy to dodge, you should shoot multiple attacks in quick succession to increase the chance of a hit. Since Maisie's attack deals a lot of damage, one hit gives a lot of value. Do not shoot someone from afar when you only have one ammo unless they are in a very tight spot  and cannot dodge your attack or slowed/stunned.
+*With a limited ammo capacity, it's very important that you make every shot count. Avoid spamming her main shots at random and try to land shots consistently to make sure you hit an opponent. Even though Maisie has a fast unload speed, its still important to make sure you land your shots and focus on aspects such as timing.
+*Maisie can work well with Brawlers that provide healing, especially portable healing like [[Byron]], [[Doug]], [[Pam]], [[Berry]], or [[Poco]] to help her even more against sneak attacks. This allows her to stay in the battle longer and maintain map control.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning 
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Maisie start vo 01.ogg|Filedescription = "I got your back."}}
+|{{Ogg|Filename = Maisie lead vo 01.ogg|Filedescription = "Now you see how it's done."}}
+|{{Ogg|Filename = Maisie hurt vo 01.ogg|Filedescription = *grunts* "You are about to feel the heat."}}
+|{{Ogg|Filename = Maisie kill vo 01.ogg|Filedescription = "Boom! That's how it's done!"}}
+|{{Ogg|Filename = Maisie die vo 01.ogg|Filedescription = "Keep on fighting!"}}
+|
+|{{Ogg|Filename = Maisie ulti vo 01.ogg|Filedescription = "Stand back!"}}
+|-
+|{{Ogg|Filename = Maisie start vo 02.ogg|Filedescription = "Let's stay calm, but think fast."}}
+|{{Ogg|Filename = Maisie lead vo 02.ogg|Filedescription = "Fortune favors the brave."}}
+|{{Ogg|Filename = Maisie hurt vo 02.ogg|Filedescription = "You wanna show? I'll give you one."}}
+|{{Ogg|Filename = Maisie kill vo 02.ogg|Filedescription = "That was a blast!"}}
+|{{Ogg|Filename = Maisie die vo 02.ogg|Filedescription = "At least, I went down in a blaze of glory."}}
+|
+|{{Ogg|Filename = Maisie ulti vo 02.ogg|Filedescription = "Watch out!"}}
+|-
+|{{Ogg|Filename = Maisie start vo 03.ogg|Filedescription = "I might be armless, but I'm in no way harmless."}}
+|{{Ogg|Filename = Maisie lead vo 03.ogg|Filedescription = "I'm a-Maisie-ing!"}}
+|{{Ogg|Filename = Maisie hurt vo 03.ogg|Filedescription = "Holy smoke!"}}
+|{{Ogg|Filename = Maisie kill vo 03.ogg|Filedescription = "Where there's smoke, there's fire."}}
+|{{Ogg|Filename = Maisie die vo 03.ogg|Filedescription = "Hmmm! Need a change of plan."}}
+|
+|{{Ogg|Filename = Maisie ulti vo 03.ogg|Filedescription = "You better run!"}}
+|-
+|{{Ogg|Filename = Maisie start vo 04.ogg|Filedescription = "Armed and ready!"}}
+|
+|{{Ogg|Filename = Maisie hurt vo 04.ogg|Filedescription = "Watch out! That's a fire hazard!"}}
+|{{Ogg|Filename = Maisie kill vo 04.ogg|Filedescription = "Maisie to the rescue!"}}
+|{{Ogg|Filename = Maisie die vo 04.ogg|Filedescription = "I might be out, but I'm not done!"}}
+|
+|{{Ogg|Filename = Maisie ulti vo 04.ogg|Filedescription = "Shockwave!"}}
+|-
+|{{Ogg|Filename = Maisie start vo 05.ogg|Filedescription = "Ready to face the flames."}}
+|
+|{{Ogg|Filename = Maisie hurt vo 05.ogg|Filedescription = Maisie grunts}}
+|{{Ogg|Filename = Maisie kill vo 05.ogg|Filedescription = "This arm means harm."}}
+|{{Ogg|Filename = Maisie die vo 05.ogg|Filedescription = "I went up in smoke!"}}
+|
+|{{Ogg|Filename = Maisie ulti vo 05.ogg|Filedescription = "Smoking!"}}
+|-
+|{{Ogg|Filename = Maisie start vo 06.ogg|Filedescription = "I'm gonna snuff you out!"}}
+|
+|{{Ogg|Filename = Maisie hurt vo 06.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = Maisie kill vo 06.ogg|Filedescription = "Ew! Why are you foaming at the mouth?"}}
+|{{Ogg|Filename = Maisie die vo 06.ogg|Filedescription = "What am I fighting for?"}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = Maisie die vo 07.ogg|Filedescription = "Nooooo!"}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = Maisie die vo 08.ogg|Filedescription = "No way!"}}
+|
+|
+|}
+
+==History==
+*25/04/23:
+**{{Balance|Content=Maisie became available to play in the [[Training Cave]].|Change=Neutral}}
+*01/05/23:
+**{{Balance|Content=Maisie, her Tech, and her Jungle Queen skin were added to the game.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Maisie's main attack projectile speed was increased.|Change=Buff}}
+**{{Balance|Content=Maisie's Pinpoint Precision Star Power damage and Super charge bonus was increased to 20% (from 10%).|Change=Buff}}
+**{{Balance|Content=Maisie's Disengage! Gadget was reworked from making her dash 2.67 tiles in the opposite direction she is facing to making her dash 2.67 tiles in the direction she is facing.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*11/09/23:
+**{{Balance|Content=The Marauder Maisie skin was added. It was featured as a Power League skin for Brawl Pass Season 20 and a Wasteland skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Maisie's Aftermath Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Maisie's flavor text was changed from "POP POP POP! Is that popcorn or enemies succumbing?" to "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Maisie's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*07/02/24:
+**{{Balance|Content=The number of hits necessary to charge Maisie's Super was increased to 4 hits (from 3).|Change=Nerf}}
+*27/02/24:
+**{{Balance|Content=Maisie's Aftermath Hypercharge speed boost was decreased to 26% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Maisie's Aftermath Hypercharge shield boost was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+**{{Balance|Content=Maisie's True Silver and True Gold skins were added.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Maisie's Super recharge rate was increased which allows Maisie to charge her Super with 2 Super hits + 1 main attack hit (from 2 Super hits + 2 main attack hits).|Change=Buff}}
+*04/10/24:
+**{{Balance|Content=Maisie's main attack damage was increased to 1400 (from 1280).|Change=Buff}}
+*14/11/24:
+**{{Balance|Content=Bizarre Maisie, Requiem Maisie, and Platinum Maisie were renamed to Amazing Maisie, Fuchsia Maisie, and Titanium Maisie, respectively.|Change=Neutral}}
+*05/12/24:
+**{{Balance|Content=The Amazing, Fuchsia, and Titanium Maisie skins were added. They were featured as Brawl Pass Season 33 skins and Cartoon Studios skins.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Maisie's main attack damage was increased to 1500 (from 1400).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Maisie's level up health was decreased to 500 (from 650) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Maisie's level up damage was decreased to 4% (from 7%) in Brawl Arena.|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Maisie's Tremors Star Power slow now stacks with other slows.|Change=Buff}}
+**{{Balance|Content=Maisie's Tremors Star Power slow visual effects were reworked.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Maisie's health was increased to 3700 (from 3600).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Maisie's Aftermath Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Maisie's Aftermath Hypercharge damage boost from 25%.}}
+**{{Balance|Change=Nerf|Content=Maisie's Aftermath Hypercharge Super projectile damage was decreased by 50%.}}
+*16/12/25:
+**{{Balance|Buff|Maisie's health was increased to 4000 (from 3700).}}
+*08/04/26:
+**{{Balance|Neutral|The Dragon Maisie skin was added. It was featured as a Once Upon skin.}}
+*22/04/26:
+**{{Balance|Buff|Maisie's Pinpoint Precision Star Power damage was increased to 25% (from 20%).}}
+**{{Balance|Neutral|Fixed an issue with Dragon Maisie not playing the main attack sound both on start and end.}}
+*01/09/26:
+**{{Balance|Buff|Maisie's main attack projectile speed was increased to 3200 (from 3000).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Maisie's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Maisie's main attack damage was decreased to 1360 (from 1500).}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Tech|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=CyberBrawl|Rarity1=Rare
+|Name2=Marauder|Cost2=Free from Ranked Drops or 149 Gems|Campaign2=Ranked|Campaign2_2=Wasteland|Rarity2=Epic
+|Name3=Dragon|Cost3=199 Gems|Campaign3=Once Upon|Rarity3=Mythic
+|TrueSkins=yes
+|NameP1=Jungle Queen|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Rumble Jungle Heroes|RarityP1=Epic
+|NameP2=Amazing|CostP2=Brawl Pass, free from Nova Drops or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Cartoon Studios|RarityP2=Epic
+|NameP3=Fuchsia|CostP3=Brawl Pass Plus, free from Nova Drops or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Cartoon Studios|RarityP3=Epic
+|NameP4=Titanium|CostP4=Brawl Pass Plus, free from Nova Drops or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2=Cartoon Studios|RarityP4=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Maisie
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Jungle Queen}}
+{{Pin Table|Marauder|Special}}
+{{Pin Table|Amazing|Special}}
+{{Pin Table|Fuchsia|Special}}
+{{Pin Table|Titanium|Special}}
+{{Pin Table|Dragon}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Maisie|Rarity = Common}}
+|{{Spray|Type = Maisie Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Dragon Maisie|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Maisie1}}
+|{{Pfp|Maisie2}}
+|{{Pfp|Maisie3}}
+|{{Pfp|Marauder Maisie}}
+|{{Pfp|Amazing Maisie}}
+|-
+|{{Pfp|Jungle Queen Maisie}}
+|{{Pfp|Dragon Maisie}}
+|}
+
+{{Navigation}}
+[[es:Maisie]]
+[[nl:Maisie]]
+[[pt:Maisie]]
+[[ru:Мэйси]]
+[[uk:Мейсі]]

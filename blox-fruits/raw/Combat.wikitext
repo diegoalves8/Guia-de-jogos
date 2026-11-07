@@ -1,0 +1,134 @@
+{{Tabber V2
+|tab1  = Combat
+|tab2  = Advanced Combat
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name   = Combat
+|sea    = 1
+|update = 1
+|source=[[Blox Fruits Remover]] <br> [[Secrets Master]]
+|location=Middle Town
+|location1=Prison
+|location2=Castle on the Sea
+}}
+'''Combat''' is the first ever [[fighting style]] that the player gets when they first join the game.
+
+It is the simplest fighting style in the game, letting the user throw punches and small dashes/impacts.
+
+It is recommended to buy another fighting style such as [[Dark Step]], [[Electric]], or [[Water Kung Fu]] quickly, as Combat is generally considered to be the worst fighting style for grinding and [[PvP mechanics|PvP]]. Compared to the available fighting style options in the [[First Sea]], Combat is generally extremely weak.
+
+==Obtainment==
+Combat is the first fighting style players receive when starting Blox Fruits. Once replaced with another fighting style, it can be relearned from the [[Remove Blox Fruit]] NPC in the [[First Sea]] at [[Prison]]. Accessing the learning prompt (''"Remove my fighting style"'') requires the player to have completed all [[island Secrets|island secrets]] in the [[First Sea]], visited all islands told by the secrets master after selecting "Tell me some stories." with the middle town teleporter, and have their Blox Fruit removed beforehand.
+;Note<nowiki>:</nowiki>: The [[Remove Blox Fruit]] NPC will simply reply, ''"Not here, not now."'' if the player tries to relearn Combat from it in the [[Third Sea]] at [[Castle on the Sea]].
+
+==Abilities==
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = Combat 30 M1
+|desc     = The user punches with their fists 4 times. Right hook, left hook, uppercut, and a punch.
+}}
+
+{{Skill
+|key      = Z
+|name     = Quick Tackle
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Quick Tackle 30
+|desc     = The user dashes forward, tackling any enemies nearby, knocking them back quite far, while leaving behind a whirlwind of air from the swiftness of their attack. This move takes up less energy than regular dashing, despite traveling much further, making this useful if a low leveled user wants to conserve energy.
+}}
+
+{{Skill
+|key      = X
+|name     = Ground Smash
+|mastery  = 20
+|cooldown = 12
+|energy   = 25
+|break    = yes
+|instinct = Can be dodged on the edge.
+|gif      = Ground Smash 30
+|desc     = The user stomps their foot on the ground with devastating force, creating a medium shockwave that will knock away anyone within radius, leaving a huge crack on the floor and fragments of the ground tossed up in the air from the impact, and slightly stunning opponents. When used in the air, there will be a hitbox that goes slightly beyond the normal range of the ground version, being able to hit opponents standing just below the user.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Easy to use.
+* Low end-lag.
+* Slight knockback.
+* Surprisingly, both moves can hit [[Sea Beast|Sea Beasts]].
+
+|'''[Z] Quick Tackle'''
+* Quick start.
+* Decent for extending combos.
+* Decent mobility.
+
+|'''[X] Ground Smash'''
+* Does a decent knockback to put some distance on [[enemies]] (if the enemy or player doesn’t charge at the user).
+* Can [[Instinct/Break|break Instinct]].
+* Quite decent [[Area of Effect|AoE]].
+* Very low startup and endlag.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Very low damage.
+* Only two abilities, unlike other fighting styles with three or four abilities.
+* Close ranged.
+* Slow M1s.
+* Vulnerable to teaming.
+* Both moves cannot hit regular-sized enemies and players on the ground while using [[Buddha]]'s [[transformation]], due to Buddha's hitbox being positioned above the ground. Only M1s can reliably hit grounded targets while transformed.
+
+|'''[Z] Quick Tackle'''
+* Terrible range, and it can't be aimed up or down.
+* Doesn't [[Instinct/Break|break Instinct]].
+
+|'''[X] Ground Smash'''
+* Small [[Area of Effect|AoE]].
+}}
+</tabber>
+
+==Trivia==
+* Combat is the only fighting style that only has two moves.
+* Combat's moves are similar to the [C] and [X] moves of [[Superhuman]] and [[Godhuman]].
+** Its M1s are also similar to [[Superhuman]] and [[Godhuman]], so some players thought that Superhuman is Combat V2 and Godhuman is its V3. However this has been debunked with the release of [[Advanced Combat]].
+* Most [[Enemies]] use the M1 of Combat.
+* [[Raider]]s use the '''[M1]''' and the '''[Z]''' '''Quick Tackle''' move of Combat.
+* Combat has the most realistic idle stance of all [[Fighting Styles]], as it resembles a real-life boxing guard.
+* Combat was in Blox Fruits for around 5 whole years without an icon, though an icon has been recently added in [[Updates/29.0|Update 29]].
+* After [[Player Profile|Player Profiles]] were added, a new stat was included that shows how many fighting styles a player has mastered out of 12. This includes Combat, meaning that if the player changed their melee before they mastered combat, they cannot get 12/12. But in a later update this was fixed to 11/11.
+* This fighting style is used for [[Advanced Combat]]'s puzzle, and it requires beating every [[Awakened Bosses|awakened boss]] with only this.
+
+==Change History==
+{{Change History|1|content=
+{{Update|30}}
+* Combat is now made available to reuse via the [[Remove Blox Fruit]] NPC or [[Secrets Master]] NPC.
+---- 
+{{Update|29}}
+* Combat’s Icon was remade.
+: <gallery>
+CombatIconOld.png|Old Combat's Icon.
+</gallery>
+----
+{{Update|20}}
+* Combat's abilities were reworked.
+: <gallery>
+CombatZ.gif|'''[Z] Quick Tackle''' before rework
+CombatX.gif|'''[X] Ground Smash''' before rework
+</gallery>
+----
+{{Update|1}}
+* Combat was released.
+}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Борьба]]

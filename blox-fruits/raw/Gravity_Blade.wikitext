@@ -1,0 +1,143 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Gravity Blade
+|image     = <gallery>
+Gravity Blade.png|Icon
+Gravity Blade EQ.png|In-Game
+Gravity Blade Held.png|Held
+Gravity Blade (with Aura).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 8
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Green Zone
+|obtain    = Dropped
+|source    = [[Orbitus]]
+}}
+{{Quote|Normally used as a walking aid, now used as a catalyst for gravity.|Item}}
+The '''Gravity Blade''' (formerly known as '''Gravity Cane''') is a {{Rare}} [[sword]].
+
+The Gravity Blade is a very popular choice among sword mains and [[Ice]] users alike, due to its ability to pull opponents back without much need for aim, while also breaking [[Instinct]].
+
+Sometimes not even needing sword stats, it remains a highly-versatile sword for PvP, as its pulls and guaranteed [[Instinct]] break can prove to be very useful when it comes to starting combos, despite only being obtained in the [[Second Sea]].
+
+Disabling screen-shake may also be useful, as the moves have abnormally high FoV distortion.
+
+==Obtainment==
+The Gravity Blade can be obtained after defeating [[Orbitus]]. (3-5% chance)
+
+==Upgrading==
+{{Upgrading}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Gravity Blade M1
+|desc     = The player does 3 swipes, ending on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Dimensional Grasp
+|mastery  = 125
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Gravity Cane Z (Pull)
+|desc     = The user attracts all nearby enemies in the direction of the cursor, mustering a lavender aura before releasing it in an explosion.
+}}
+
+{{Skill
+|key      = X
+|name     = Lunar Blitz
+|mastery  = 250
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = Breaks Instinct at the initial hit, but it could also be dodged on the edge. The slashes and slam are Instinct-trickable.
+|gif      = GravityCaneReworkX
+|desc     = The user reverses gravity and flings the target in the air, slashing them and dealing constant damage, before finally slamming them back into the ground.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Decent combo potential.
+* Medium-high damage.
+* Both attacks are multi-target.
+* Surprisingly short cooldowns.
+* Good for hybrid builds.
+* The materials for upgrading are easy to obtain.
+
+|'''[Z] Dimensional Grasp'''
+* Great combo starter not only because of its range but because of its ability to pull the enemy to the player.
+* Large hitbox.
+* [[Instinct/Break|Breaks Instinct]].
+
+|'''[X] Lunar Blitz'''
+* Good stun.
+* Decent damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* No mobility moves.
+* Short Range
+
+|'''[Z] Dimensional Grasp'''
+* Very obvious when used.
+* Fairly high windup.
+* Can cause the user to be hit if they pull in an opponent who is already using a skill (like [[Godhuman]] [Z]).
+|'''[X] Lunar Blitz'''
+* Can be [[Instinct]] tricked (~2 dodges while slashing).
+* When tricked, the victim will stay in air, giving them free space to escape the players combo.
+* Does not true-stun, meaning it can be countered during the move's animation if [[Instinct]]-tricked.
+* Difficult to properly extend after because of the distance between the player using it and their opponent, as well as the lack of stun after the animation.
+}}
+</tabber>
+
+==Trivia==
+* The Gravity Blade is based on the {{w|chokutō}}, which is a traditional Japanese sword.
+** In real life, the way this sword is held is known as the "reverse grip". While this grip reduces the power and precision of attacks, it allows for quicker and less predictable movements in close quarters, making it ideal for surprise strikes.
+* {{Ability|X}} is quite similar to Awakened [[Dough]]'s grounded {{Ability|Dough|X|2}}, with both sharing a lift-and-drop mechanic.
+* The Gravity Blade's old '''[Z] Gravity Push''' was identical to Gravity's old '''[Z] Gravity Push''', with both sharing names, VFX and move purpose (Other than the direction of the move).
+* The Gravity Blade's old moves were similar to [[Orbitus]]' moves with the '''[Z] Gravity Push''' being the same as one of his moves and the '''[X]''' '''Meteor Barrage''' being a shorter version of his other move.
+* The description may confuse newer players due to the fact that, while the appearance and name have changed, it remains unchanged.
+
+==Change History==
+{{Change History|8|content=
+{{Update|24}}
+* The Gravity Cane was renamed to Gravity Blade and received a visual rework.
+: <gallery>
+Gravity Cane.png|Gravity Cane Icon
+GravityCaneEquip.png|Gravity Cane In-Game
+Gravity Cane (without aura).png|Gravity Cane Held
+Gravity Cane (with aura).png|Gravity Cane Aura
+</gallery>
+----
+{{Update|20}}
+* The Gravity Cane's moves were reworked.
+** '''[Z] Gravity Push''' was renamed to '''[Z] Dimensional Grasp'''.
+** '''[X] Meteor Barrage''' was renamed to '''[X] Lunar Blitz'''.
+: <gallery>
+GravityCaneZ.gif|Old Gravity Cane Z
+GravityCaneX.gif|Old Gravity Cane X
+</gallery>
+----
+{{Update|8}}
+* The Gravity Cane was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

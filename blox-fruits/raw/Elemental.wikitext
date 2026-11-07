@@ -1,0 +1,536 @@
+{{Tabber V2
+|link1 = Natural
+|tab1  = Natural
+|link2 = Elemental
+|tab2  = Elemental
+|link3 = Beast
+|tab3  = Beast
+}}
+{{Further|Blox Fruits}}
+Elemental is one of the three classifications of Blox Fruits, alongside [[Natural]] and [[Beast]]. Elemental fruits grant the user powers tied to specific elements, allowing them to manipulate [[Flame|Fire]], [[Ice]], [[Light]], [[Magma]], and other forces of nature. There are currently 11 Elemental fruits in the game.
+
+All Elemental users possess a passive ability called Elemental Reflex, which provides conditional immunity to attacks:
+
+* [[NPCs]] below a certain level cannot damage the user. The required level difference varies depending on the enemy and is fixed per [[NPCs|NPC]].
+* Enemies or players with [[Aura]] enabled can always damage the user, regardless of [[level]].
+* [[Bosses]] completely bypass Elemental Reflex and can damage the user at all times.
+
+
+Elemental fruits are especially effective for grinding in the [[First Sea]] and remain strong in the [[Second Sea]], thanks to their immunity and wide-area attacks. Popular choices for farming include [[Light]], [[Magma]], [[Flame]], and [[Ice]] due to their high damage and straightforward movesets. In the [[Third Sea]], however, grinding becomes more difficult: most NPCs use Aura, and the Reflex level requirements increase significantly, reducing the advantage of the passive.
+
+<center><h2>Elemental Fruits</h2></center>
+{{Blox Fruit/Elemental|center=1}}
+
+==NPC Elemental Reflex Chart==
+{| class="sortable fandom-table"
+|<tabber>
+First Sea=
+{| class="fandom-table mw-collapsible mw-collapsed"
+!NPC
+!Level
+!Elemental level
+!Notes
+|-
+|[[Bandit]]/[[Trainee]]
+|Lv. 5
+|Lv. 2
+|Maybe a bug or a dev choice
+|-
+|[[Monkey]]
+|Lv. 14
+|Lv. 14
+|Has the same elemental level requirement
+|-
+|[[Gorilla]]
+|Lv. 20
+|Lv. 20
+|Has the same elemental level requirement 
+|-
+|[[Pirate]]
+|Lv. 35
+|Lv. 35
+|Has the same elemental level requirement. Easier to grind in favour of the Brutes.
+|-
+|[[Brute]] 
+|Lv. 45
+|Lv. 45
+|Better off grinding Pirates due to their spacing. 
+|-
+|[[Desert Bandit]]
+|Lv. 60
+|Lv. 60
+|Has the same elemental level requirement, Better to grind desert officers when you can
+|-
+|[[Desert Officer]]
+|Lv. 75
+|Lv. 75
+|Has the same elemental level requirement, Grind these as much as you can
+|-
+|[[Snow Bandit]]
+|Lv. 90
+|Lv. 90
+|Has the same elemental level requirement, Easier to grind in favour of the Snowmans/Snowmen.
+|-
+|[[Snowman]]
+|Lv. 100
+|Lv. 100
+|Has the same elemental level requirement, Better off grinding Snow bandits due to their spacing. 
+|-
+|[[Chief Petty Officer]]
+|Lv. 120
+|Lv. 120
+|Has the same elemental level requirement
+|-
+|[[Sky Bandit]]
+|Lv. 150
+|Lv. 150
+|Has the same elemental level requirement, Easier to grind in favour of the dark masters since it takes less to complete their quest
+|-
+|[[Dark Master]]
+|Lv. 175
+|Lv. 177
+|First enemy to make you need a higher level than them, Better off grinding Sky Bandits due to their spacing.
+|-
+|[[Prisoner]]
+|Lv. 190
+|Lv. 192
+|Same 2 level gap
+|-
+|[[Dangerous Prisoner]]
+|Lv. 210
+|Lv. 212
+|Like the Prisoners but harder
+|-
+|[[Toga Warrior]]
+|Lv. 250
+|Lv. 252
+|Easier to grind in the favour of Gladiators because for gladiators you need to guess where they are (or the other way around) (also warden, cheif warden and swan were skipped because they are bosses)
+|-
+|[[Gladiator]]
+|Lv. 275
+|Lv. 277
+|Easier to grind in the favour of Toga warriors because for gladiators you need to guess where they are (or the other way around)
+|-
+|[[Military Soldier]]
+|Lv. 300
+|Lv. 304 or Lv. 304 with blade (if using aura)
+|Has a 50% chance to spawn with [[Aura]], which neutralizes immunity. Using [[Blade]] is recommended here, as they use swords (which [[Blade]] is immune to), and [[Blade]] is not affected by [[Aura]].
+|-
+|[[Military Spy]]
+|Lv. 325
+|Uses aura
+|Uses both [[Aura]] and [[Flash Step]]. Very annoying to grind. Recommended to grind [[Military Soldier]]s instead.
+|-
+|[[Fishman Warrior]]
+|Lv. 375
+|Lv. 381
+|Better to grind due to their quantity
+|-
+|[[Fishman Commando]]
+|Lv. 400
+|Lv. 406
+|Fishman warriors are better to grind due to their quantity
+|-
+|[[God's Guard]]
+|Lv. 450
+|Lv. 458
+|Can jump and double jump so it makes it frustrating to fight them, Especially if you dont have immunity to them yet
+|-
+|[[Shanda]]
+|Lv. 475
+|Lv. 483
+|Better to grind god's guard until you are immune to them
+|-
+|[[Royal Squad]]
+|Lv. 525
+|Lv. 535
+|Better to grind from Wysper until immunity is unlocked
+|-
+|[[Royal Soldier]]
+|Lv. 550
+|Lv. 560
+|Better to grind from Royal Squad until immunity is unlocked
+|-
+|[[Galley Pirate]]
+|Lv. 625
+|Lv. 637
+|Better to grind thunder god or royal soldiers until you get immunity
+|-
+|[[Galley Captain]]
+|Lv. 650
+|If using blade Lv. 664
+|The enemy uses [[Aura]] So [[Blade]] is useful here.
+|}
+
+|-|Second Sea=
+{| class="fandom-table mw-collapsible mw-collapsed"
+!NPC
+!Level
+!Elemental level
+!Notes
+|-
+|[[Raider]]
+|Lv. 700
+|Lv. 716
+|Their [[Combat|Quick Tackle]] move is hard to dodge without [[Instinct]].
+|-
+|[[Mercenary]]
+|Lv. 725
+|Lv. 741
+|
+|-
+|[[Swan Pirate]]
+|Lv. 775
+|Lv. 793
+|
+|-
+|[[Factory Staff]]
+|Lv. 800
+|Lv. 820
+|Uses the [[Blox Fruits]] [[Smoke]], [[Bomb]] and [[Spike]], all of which can bypass immunity with its attacks. Easier to grind [[Swan Pirate]]s.
+|-
+|[[Marine Lieutenant]]
+|Lv. 875
+|Lv. 897
+|
+|-
+|[[Marine Captain]]
+|Lv. 900
+|Lv. 924 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended, otherwise grind [[Marine Lieutenant]]s instead.
+|-
+|[[Zombie]]
+|Lv. 950
+|Lv. 976
+|
+|-
+|[[Vampire]]
+|Lv. 975
+|Lv. 1001
+|Can use [[Flash Step]]. Can be a bit annoying to grind.
+|-
+|[[Snow Trooper]]
+|Lv. 1000
+|Lv. 1028
+|
+|-
+|[[Winter Warrior]]
+|Lv. 1050
+|Lv. 1080
+|Has a special attack that can bypass immunity and [[Instinct]], and can also stun. Very annoying to grind, it is recommended to grind [[Snow Trooper]]s instead.
+|-
+|[[Lab Subordinate]]
+|Lv. 1100
+|Lv. 1132
+|A small detail that everyone misses is that it has [[Flash Step]]. To combat this, attack from the top of the Lab Subordinate. (This tip is only useful for people who use ranged moves from the top of NPCs such as Awakened [[Magma]] and [[Light]]'s Z move.)
+|-
+|[[Horned Warrior]]
+|Lv. 1125
+|Lv. 1159
+|Has an attack that can bypass immunity, and can also stun. Kind of annoying to grind, it is recommended to grind [[Lab Subordinate]]s instead.
+|-
+|[[Magma Ninja]]
+|Lv. 1175
+|Lv. 1211
+|
+|-
+|[[Lava Pirate]]
+|Lv. 1200
+|Lv. 1236
+|They have a few [[Magma]] fruit abilities that bypass immunity, but they are easy-to-dodge.
+|-
+|[[Ship Deckhand]]
+|Lv. 1250
+|Lv. 1288
+|
+|-
+|[[Ship Engineer]]
+|Lv. 1275
+|None
+|Uses [[Aura]]. Annoying to grind, it is recommended to grind [[Ship Deckhand]]s instead.
+|-
+|[[Ship Steward]]
+|Lv. 1300
+|Lv. 1342
+|
+|-
+|[[Ship Officer]]
+|Lv. 1325
+|Lv. 1368
+|Uses [[Aura]]. Blade is recommended, otherwise grind [[Ship Steward]]s instead.
+|-
+|[[Arctic Warrior]]
+|Lv. 1350
+|Lv. 1394
+|
+|-
+|[[Snow Lurker]]
+|Lv. 1375
+|None
+|Uses [[Aura]]. Very annoying to grind, it is recommended to grind [[Arctic Warriors]] instead.
+|-
+|[[Sea Soldier]]
+|Lv. 1425
+|Lv. 1473
+|
+|-
+|[[Water Fighter]]
+|Lv. 1450
+|None
+|Uses [[Aura]]. Very annoying to grind, it is recommended to grind [[Sea Soldier|Sea Soldiers]] instead.
+|}
+
+|-|Third Sea=
+{| class="fandom-table mw-collapsible mw-collapsed"
+!NPC
+!Level
+!Elemental level
+!Notes
+|-
+|[[Pirate Millionaire]]
+|Lv. 1500
+|Lv. 1552
+|
+|-
+|[[Pistol Billionaire]]
+|Lv. 1525
+|Lv. 1579
+|
+|-
+|[[Dragon Crew Warrior]]
+|Lv. 1575
+|Lv. 1631
+|
+|-
+|[[Dragon Crew Archer]]
+|Lv. 1600
+|Lv. 1658
+|
+|-
+|[[Hydra Enforcer]]
+|Lv. 1625
+|Lv. 1683
+|
+|-
+|[[Venomous Assailant]]
+|Lv. 1650
+|None
+|Uses [[Aura]]. Very annoying to grind, it is recommended to grind [[Hydra Enforcer]]s instead.
+|-
+|[[Marine Commodore]]
+|Lv. 1700
+|Lv. 1762 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended.
+|-
+|[[Marine Rear Admiral]]
+|Lv. 1725
+|Lv. 1789
+|Very annoying to grind without Elemental immunity or [[Buddha]], it is recommended to grind [[Marine Commodore]]s instead.
+|-
+|[[Fishman Raider]]
+|Lv. 1775
+|Lv. 1843
+|One of their skills can bypass both Elemental and [[Blade]] immunity.
+|
+|-
+|[[Fishman Captain]]
+|Lv. 1800
+|Lv. 1869
+|
+|
+|-
+|[[Forest Pirate]]
+|Lv. 1825
+|Lv. 1895 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended.
+|-
+|[[Mythological Pirate]]
+|Lv. 1850
+|None
+|Uses [[Aura]]. Cannot be countered by [[Rubber]], even though they use [[Electric]].
+|-
+|[[Jungle Pirates]]
+|Lv. 1900
+|Lv. 1974
+|
+|-
+|[[Musketeer Pirate]]
+|Lv. 1925
+|Lv. 2005
+|Can use [[Flash Step]]. Kind of annoying to grind, but the player can grind [[Jungle Pirate]]s instead.
+|-
+|[[Reborn Skeleton]]
+|Lv. 1975
+|Lv. 2055
+|
+|-
+|[[Living Zombie]]
+|Lv. 2000
+|None
+|Uses [[Aura]] and [[Flash Step]]. Very annoying to grind, it is recommended to grind [[Reborn Skeleton]]s instead.
+|-
+|[[Demonic Souls]]
+|Lv. 2025
+|Lv. 2107
+|Uses old-unawakened [[Flame]]'s "Z" and "C" move.
+|-
+|[[Possessed Mummy]]
+|Lv. 2050
+|Lv. 2135
+|Uses [[Dark]]'s old-unawakened "Z" and "C" move.
+|-
+|[[Peanut Scout]]
+|Lv. 2075
+|Lv. 2161
+|-
+|[[Peanut President]]
+|Lv. 2100
+|None
+|Uses [[Aura]].
+|-
+|[[Ice Cream Chef]]
+|Lv. 2125
+|Lv. 2213
+|-
+|[[Ice Cream Commander]]
+|Lv. 2150
+|Lv. 2240 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended.
+|-
+|[[Cookie Crafter]]
+|Lv. 2200
+|Lv. 2294 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended.
+|-
+|[[Cake Guard]]
+|Lv. 2225
+|Lv. 2321 (with [[Blade]])
+|Uses [[Aura]]. Blade is recommended.
+|-
+|[[Baking Staff]]
+|Lv. 2250
+|None
+|Uses [[Aura]].
+|-
+|[[Head Baker]]
+|Lv. 2275
+|None
+|Uses [[Aura]].
+|-
+|[[Cocoa Warrior]]
+|Lv. 2300
+|None
+|Uses [[Aura]].
+|-
+|[[Chocolate Bar Battler]]
+|Lv. 2325
+|None
+|Uses [[Aura]].
+|-
+|[[Sweet Thief]]
+|Lv. 2350
+|None
+|Uses [[Aura]].
+|-
+|[[Candy Rebel]]
+|Lv. 2375
+|None
+|Uses [[Aura]].
+|-
+|[[Candy Pirate]]
+|Lv. 2400
+|None
+|Uses [[Aura]].
+|-
+|[[Snow Demon]]
+|Lv. 2425
+|None
+|Uses [[Aura]].
+|-
+|[[Isle Outlaw]]
+|Lv. 2450
+|None
+|Uses [[Aura]].
+|-
+|[[Island Boy]]
+|Lv. 2475
+|None
+|Uses [[Aura]].
+|-
+|[[Sun-kissed Warrior]]
+|Lv. 2500
+|None
+|Uses [[Aura]].
+|-
+|[[Isle Champion]]
+|Lv. 2525
+|None
+|Uses [[Aura]].
+|-
+|[[Serpent Hunter]]
+|Lv. 2550
+|None
+|Uses [[Aura]].
+|-
+|[[Skull Slayer]]
+|Lv. 2575
+|None
+|Uses [[Aura]].
+|-
+|[[Reef Bandit]]
+|Lv. 2600
+|None
+|Uses [[Aura]].
+|-
+|[[Coral Pirate]]
+|Lv. 2625
+|None
+|Uses [[Aura]].
+|-
+|[[Sea Chanter]]
+|Lv. 2650
+|None
+|Uses [[Aura]].
+|-
+|[[Ocean Prophet]]
+|Lv. 2675
+|None
+|Uses [[Aura]].
+|-
+|[[High Disciple]]
+|Lv. 2700
+|None
+|Uses [[Aura]].
+|-
+|[[Grand Devotee]]
+|Lv. 2725
+|None
+|Uses [[Aura]].
+|}
+</tabber>
+|}
+
+==Trivia==
+* The Level that the player needs for Elemental Reflex to activate is set at about 2% more than their current level.
+* [[Smoke]] is the only common Elemental-type fruit.
+* [[Smoke]], [[Blizzard]], [[Lightning]] and [[Gas]] are the only elemental fruits without an [[Raids|awakening]], considering that Lightning lost its awakening.
+* Elemental is the second largest category of [[Blox Fruits]], ahead of [[Beast]] and behind [[Natural]].
+* [[Uncommon]] has the most elemental fruits of every category.
+* [[Lightning]] is currently the only fully reworked Elemental fruit.
+* [[Lightning]] is also the only upgradable Elemental fruit via the [[Admin Panel]].
+* [[Dough]] is notable for being the only fruit based on an man-made substance, rather than a naturally occurring one.
+* [[Gas]] is the only Elemental-type fruit that has a [[Transformation]].
+* [[Gas]] is the most recent (and currently most expensive) Elemental fruit.
+* [[Dough]] is currently the most expensive Elemental fruit to awaken, costing {{Fragment|18,500}} to fully awaken.
+* [[Magma]] has the most passive abilities of all Elemental fruits
+* Elemental fruits have the most fruits that can deal infinite damage which are [[Smoke]], [[Lightning]] and [[Blizzard]].
+* Elemental Fruits have the most fruits that are able to [[Raids|Awaken]] out of any category.
+* [[Lightning]] used to have an awakening that was removed and had an old unawakened moveset.
+
+==Navigation==
+{{Navigation|Misc}}
+
+[[Category:Elemental| ]]
+[[Category:Game Mechanics]]
+[[Category:Fruit Related]]
+__NOTOC__

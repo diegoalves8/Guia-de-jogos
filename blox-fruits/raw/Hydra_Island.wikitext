@@ -1,0 +1,150 @@
+{{Tabber V2
+|link1 = Hydra Island
+|tab1  = Hydra Island
+|link2 = Map:Hydra Island
+|tab2  = Map
+|link3 = Freezing Hydra Island
+|tab3  = Freezing hydra Island
+}}
+{{Location Infobox
+|name     = Hydra Island
+|image    = Hydra Island.png
+|type     = Island
+|sea      = Third Sea
+|level    = 1575-1700
+|music    = Curious Notion
+|prev     = Port Town
+|next     = Great Tree
+}}
+The '''Hydra Island''' is the second [[Locations|island]] in the [[Third Sea]].
+
+The Hydra Island is an important area to unlocking many things in [[Third Sea]], such as the [[Yama]] sword, starting the [[Tushita]] sword puzzle, [[Draco]] and its [[Race Awakening]].
+
+The Hydra Island has an subarea called the [[Dragon Dojo]], next to the Hydra Town, where players can learn the [[Dragon Talon]] fighting style for{{Money|3,000,000}}, {{Fragment|5000}}, and a [[Fire Essence]]. This subarea is also where players can acquire the [[Draco]] race and craft/purchase the [[Dragonheart]] and [[Dragonstorm]] weapons.
+
+==Subareas== 
+* [[Dragon Dojo]]
+* [[Friendly Arena]]
+* [[Secret Temple]]
+
+==Event==
+* [[Freezing Hydra Island]]
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Arena Trainer]]
+* [[Barista Cousin]] (sometimes)
+* [[Boat Dealer]] (2)
+* [[Dragon Crew Quest Giver]]
+* [[Dragon Tamer]]
+* [[Hydra Town Quest Giver]]
+* [[Luxury Boat Dealer]] (2)
+* [[Set Home Point]] (3)
+* [[Angler (NPC)|Angler]]
+|
+* [[Ghost (Enemy)|Ghost]] (5)
+* [[Training Dummy]]
+* [[Deandre]] (sometimes)
+* [[Diablo]] (sometimes)
+* [[Urban]] (sometimes)
+* [[Dragon Crew Warrior]] (6)
+* [[Dragon Crew Archer]] (5)
+* [[Hydra Enforcer]] (6)
+* [[Venomous Assailant]] (6)
+|
+* [[Hydra Leader]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Enemy
+!Level Required
+!Elemental Level
+!Description
+!Reward
+|-
+| rowspan="2" | [[Dragon Crew Quest Giver]]
+|[[Dragon Crew Warrior]]
+|1575
+|1631
+|Defeat 8 Dragon Crew Warriors
+|{{Money|13,000}}<br />{{EXP|58,000,000}}
+|-
+|[[Dragon Crew Archer]]
+|1600
+|1658
+|Defeat 8 Dragon Crew Archers
+|{{Money|15,000}}<br />{{EXP|60,500,000}}
+|-
+| rowspan="3" | [[Hydra Town Quest Giver]]
+|[[Hydra Enforcer]]
+|1625
+|1683
+|Defeat 8 Hydra Enforcers
+|{{Money|13,000}}<br />{{EXP|62,500,000}}
+|-
+|[[Venomous Assailant]]
+|1650
+|N/A
+|Defeat 8 Venomous Assailants
+|{{Money|15,000}}<br />{{EXP|64,500,000}}
+|-
+|[[Hydra Leader]]
+|1675
+|N/A
+|Defeat Hydra Leader
+|{{Money|30,000}}<br />{{EXP|70,000,000}}
+|}
+
+===Special Quests===
+{| class="article-table"
+!Description
+!Rewards
+|-
+|Defeat [[Training Dummy]].
+|{{Money|22,000}}, {{Fragment|200}}<br />{{EXP|40,000,000}}
+|-
+|Defeat [[Diablo]], [[Urban]], or [[Deandre]]. ([[Elite Pirates]])
+|{{Money|15,000}}<br />{{EXP|60,000,000}}
+|}
+
+==Notes==
+* The [[Barista Cousin]] can spawn on this island, in front of the [[Hydra Leader]]'s palace next to a bush.
+* The [[Secret Temple]] is located under this island behind the waterfall. This is where the player can obtain the [[Yama]] sword.
+* The [[Tushita]] sword quest can be started in a secret room inside the [[Secret Temple]], if [[rip_indra True Form]] is spawned in.
+* The [[Training Dummy]] Quest enters a one-hour cooldown after the player defeats the [[Training Dummy]] while the quest is active. However, players can still fight and defeat the [[Training Dummy]] at any time, even when the quest is on cooldown.
+
+==Gallery==
+<gallery>
+Hydra island main place view.jpg|The center of the Hydra Island's Hydra Town.
+</gallery>
+
+==Trivia==   
+* At the Hydra Town, if the player goes to the house in front of the [[Hydra Town Quest Giver]], they can actually enter it. However, nothing is actually inside the building.
+* If the player's [[Instinct]] vision range is far enough, they can see the [[Beautiful Pirate]] underneath the [[Hydra Leader]]'s spawn point.
+* If the player performs the [[Flash Step]] glitch in the [[Secret Temple]], they can get to the [[Tushita/Puzzle|Tushita Puzzle]] portal and the [[Beautiful Pirate Domain]].
+* There are a lot of hitbox issues in Hydra Island, most notably the "invisible wall" in the [[Training Dummy]]'s area, preventing players from using moves such as [[Spikey Trident]]'s [X] move.
+* Behind the [[Dragon Crew Warrior|Dragon Crew Warriors]] and [[Dragon Crew Archer|Dragon Crew Archers]], there is a weird piece of floating terrain on a tree.
+* Sometimes, the wall in front of the [[Hydra Leader]] and some houses don't load. During this period, these areas will not have their hitboxes loaded, allowing the player to move freely inside them.
+* Before [[Giant Islander]]s were replaced with [[Venomous Assailant]], there used to be a typing error that gave {{EXP|645,000,000}} instead of the usual {{EXP|64,500,000}}, making it a large advantage for Max Level farming. Eventually, it was later patched.
+
+==Change History==
+{{Change History|15|content={{Update|24}}
+* The Hydra Island was remodeled.
+<gallery>
+HydraIsland.png|Old Hydra Island
+</gallery>
+----
+{{Update|15}}
+* The Hydra Island was released.}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Islands with multiple Quest Givers]]

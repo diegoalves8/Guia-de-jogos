@@ -1,0 +1,363 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Sand
+|image  = <gallery>
+Sand Fruit.png|Fruit Icon
+Sand fruit gif.gif|Fruit GIF
+Sand.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Uncommon
+|M1     = No
+|update = 4
+
+<!-- Fruit Price -->
+|money  = 420,000
+|robux  = 850
+}}
+{{Quote|Grants control over sand, with abilities to trap and attack.|Shop}}
+'''Sand''' is an {{Uncommon}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|420,000}} or {{Robux|850}} from the [[Blox Fruit Dealer]].
+
+Sand allows the user to create, become, and manipulate sand. The user can create sandstorms, launch bursts of sand, and create sand traps similar to quicksand, making escape nearly impossible. However, it has a negative-passive when the user comes into contact with [[Water]], similar to realistic circumstances.
+
+==Awakening==
+Sand costs {{Fragment|14,500}} to fully awaken.
+
+A [[Titles|Title]] is unlocked upon awakening of the first move from this fruit: "Desert Prince" #043.
+
+{{Awakening Price Table
+|move1 = Z | 500
+|move2 = F | 2,000
+|move3 = X | 3,000
+|move4 = C | 4,000
+|move5 = V | 5,000
+}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive/Elemental Reflex|Sand Passive.gif}}
+
+{{Skill/Passive
+|name     = Sand Dissolve
+|file     = Standard vs Sand Water Drain.gif
+|desc     = Sand users take twice as much damage in [[Water]] and take regular water damage with [[Shark]] V1, unless they have [[Shark]] V2 or above. 
+}}
+
+|Moveset (V1)|
+{{Skill
+|key      = Z
+|name     = Desert Sword
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 20
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Unawk Sand Z
+|desc     = The user creates a linear burst of sand in front of themselves, launching anyone hit by it up in the air and dealing a decent amount of damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Desert Funeral
+|mastery  = 40
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Unawk Sand X
+|desc     = The user conjures a circle of quicksand on the ground (or a wall) that pulls a target once stepped on, covering them in a sphere of sand, pulling them into the air and crushing them afterwards, dealing a decent amount of damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Sand Tornado
+|mastery  = 80
+|cooldown = 15
+|energy   = 35
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Unawk Sand C
+|desc     = The user creates a small sand tornado in front of them that sucks up all players in its radius while stunning them and carrying them upwards in the air while dealing decent damage.
+}}
+{{Skill
+|key      = V
+|name     = Heavy Sand
+|mastery  = 120
+|cooldown = 26.5
+|energy   = 60
+|break    = Yes
+|instinct = Can be dodged on the edge of the explosion.
+|gif      = Unawk Sand V
+|desc     = The user gathers a ball of sand in their hand that explodes upon contact (or after reaching its max. range) and throws it in the direction of the cursor. This attack has high knockback and inflicts a good amount of damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Sand Flight
+|mastery  = 15
+|cooldown = 15
+|energy   = 80
+|gif      = Unawk Sand F
+|desc     = The player turns their legs into sand, allowing them to fly at a slow pace.
+}}
+
+|Moveset (V2)|
+{{Skill
+|key      = Z
+|name     = Desert Blade
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 20
+|frag     = 500
+|break    = Yes
+|instinct = The initial hit [[Instinct/Break|breaks Instinct]]. Can be dodged after the initial hit and on the edge.
+|gif      = Awk Sand Z
+|desc     = The user creates a long-range, high-speed burst of sand in a straight line in front of them, launching anyone hit by it up in the air and dealing good damage, slightly stunning them in the process.
+}}
+
+{{Skill
+|key      = X
+|name     = Sand Coffin
+|mastery  = 40
+|cooldown = 10.5
+|energy   = 25
+|frag     = 3,000
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] most of the time. The initial grab may be dodged, although it needs extremely precise [[Instinct]] activation timing and is very difficult to manage.
+|gif      = Awk Sand X
+|desc     = The user throws two piles of sand in the direction of the cursor. If it hits an opponent, it will trap them in a sphere of sand dust and gradually levitate them into the air for 3 seconds. The sand then crushes the opponent and explodes, dealing good damage to them.
+}}
+
+{{Skill
+|key      = C
+|name     = Sandstorm
+|mastery  = 80
+|cooldown = 15
+|energy   = 35
+|frag     = 4,000
+|break    = Yes
+|instinct = Can be dodged on the edge of the tornado and if high enough when caught in the attack.
+|gif      = Awk Sand C
+|desc     = The user creates a large cone-shaped tornado made of sand that slowly moves forward. Anyone caught within its radius will get stunned and levitated into the air while receiving continuous damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Deep Sand
+|mastery  = 120
+|cooldown = 26.5
+|energy   = 60
+|frag     = 5,000
+|break    = Yes
+|instinct = The initial hit [[Instinct/Break|breaks Instinct]]. Can be dodged after the initial hit and when grabbed by the projectile. (The player will still get pulled by the projectile.
+|gif      = Awk Sand V
+|desc     = The player creates a lightning-infused, vortex-like ball of sand from their right hand and, after releasing the move, throws it towards the cursor. This orb explodes upon contact (or after it reaches its maximum range), causing a large AoE shockwave of sand and purple electricity within a large radius and dealing heavy damage to anyone within its hitbox.
+}}
+
+{{Skill
+|key      = F
+|name     = Tornado Flight
+|mastery  = 15
+|cooldown = 15
+|energy   = 80
+|frag     = 2,000
+|gif      = SandV2F
+|desc     = The player's legs turn into a little sand tornado, allowing them to fly at a pace faster than its unawakened counterpart.
+}}
+}}
+
+==Overview==
+{{Tabber
+|Unawakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Unawakened
+|'''General'''
+* Quite easy to obtain.
+* Low [[mastery]] requirements.
+* Most moves are able to [[Instinct/Break|break Instinct]].
+
+|'''[Z] Desert Sword'''
+* Decent damage.
+* Good range.
+
+|'''[X] Desert Funeral'''
+* Great stun.
+* [[Instinct/Break|Breaks Instinct]].
+
+|'''[C] Sand Tornado'''
+* Slight stun.
+* Good combo potential.
+* [[Instinct/Break|Breaks instinct]] most of the time.
+
+|'''[V] Heavy Sand'''
+* No end-lag.
+* Decent knockback.
+* High damage.
+* [[Instinct/Break|Breaks Instinct]] most of the time.
+
+|'''[F] Sand Flight'''
+* Decent pace.
+}}
+
+|Cons|
+{{Overview|Cons|type=Unawakened
+|'''General'''
+* Damage in [[water]] is doubled, unless using [[Shark]].
+* Heavy lack of mobility.
+* Weak in the air and in the [[Water|Sea]], as most of its moves are ground-based and don't work in the water, particularly its [Z] and [X] moves.
+* Most moves can be dodged with [[Instinct]].
+
+|'''[Z] Desert Sword'''
+* Only works on the ground.
+* Very thin hitbox.
+* The user needs to be close to the ground to cast the move.
+* Does not work in the [[Water|Sea]].
+
+|'''[X] Sand Funeral'''
+* Single target, although the explosion can damage multiple targets.
+* Locks the player in place until the move ends, without providing immunity frames, making them susceptible to damage.
+* Does not work in the [[Water|Sea]].
+
+|'''[C] Sand Tornado'''
+* Low range.
+* Can be dodged at the edge.
+
+|'''[V] Heavy Sand'''
+* Low [[Area of Effect|AoE]].
+* Hard to hit in the air.
+* Can be dodged at the edge.
+
+|'''[F] Sand Flight'''
+* Slowest flight in the game.
+* Long cooldown compared to other [[Flight]] abilities.
+}}
+}}
+
+|Awakened|
+{{Tabber
+|Pros|
+{{Overview|Pros|type=Awakened
+|'''General'''
+* Most of awakened Sand's moves are not limited to the ground, unlike its base form.
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Desert Blade'''
+* Good hitbox.
+* Good damage.
+* High range.
+* Slight stun.
+* Can pass through walls and objects.
+
+|'''[X] Sand Coffin'''
+* High range.
+* High stun.
+* Very difficult for the opponent to dodge with [[Instinct]] if hit.
+* Only 1 second endlag, allowing users to attack opponents while they are in the coffin.
+* Almost perfect combo extender.
+
+|'''[C] Sandstorm'''
+* Keeps the opponent in the air for a few seconds after it disappears, allowing them to be attacked freely.
+* Decent hitbox.
+* Decent range.
+
+|'''[V] Deep Sand'''
+* Decent damage.
+* No end-lag.
+* High range.
+* Large hitbox.
+* Breaks instinct.
+
+|'''[F] Tornado Flight'''
+* Decent pace.
+}}
+
+|Cons|
+{{Overview|Cons|type=Awakened
+|'''General'''
+* Damage in [[water]] is doubled unless using [[Shark]].
+* Lacks a good source of mobility.
+* All moves can be dodged with [[Instinct]].
+
+|'''[Z] Desert Blade'''
+* Ground-based move.
+** Doesn't work properly if the user is too high above the ground. (Above the move's hitbox)
+* Does not work above the [[Sea]].
+* Not guaranteed to break enemy player's [[Instinct]] when hit from afar.
+
+|'''[X] Sand Coffin'''
+* Still single target, potentially leaving the user open to receiving damage from other players.
+* The user is stunned and cannot [[Air Jump]] or [[Dash|dash]] for a few seconds after landing the move.
+** Although this is only for a second.
+
+|'''[C] Sandstorm'''
+* Still has a decent end-lag (about one second), leaving the user vulnerable to attacks if missed.
+* Knocks opponents really high up into the air, making it somewhat worse than it's unawakened counterpart for [[combos]].
+* Mainly close-ranged.
+
+|'''[V] Deep Sand'''
+* High knockback.
+* Slight start-up.
+* Creates a sound cue when used, which can give the opponents a chance to react and dodge the attack.
+
+|'''[F] Tornado Flight'''
+* Fairly slow.
+* Long cooldown compared to other [[Flight]] abilities.
+}}
+}}
+}}
+
+==Trivia==  
+* Sand's passive gives the user a disadvantage, in comparison with other passives that usually give the user an advantage.
+* Awakened Sand's {{Ability|F|2}} move shares the same name with [[Blizzard]]'s {{Ability|Blizzard|F}} move.
+* Sand currently has the slowest [[flight]] move in the game.
+
+==Change History==
+{{Change History|4|content=<tabber>
+|-|31.4=
+{{Update|29.6}}
+*  {{Arrow|buff}} '''[X] Sand Coffin's''' end-lag decreased by 40%.
+*  {{Arrow|buff}} '''[C] Sandstorm''' End-lag decreased by 60%; hitbox size increased by 25%.
+*  {{Arrow|buff}} '''[V] Deep Sand''' Vortex strength increased by 100%, pulling enemies more strongly toward the center; cast time decreased by 50%.
+*  {{Arrow|buff}} '''[F] Tornado Flight''' speed increased by 25%.
+
+|-|20=
+{{Update|20}}
+* Sand Fruit's model was remade.
+: <gallery>
+Sand 150x150.png|Old Sand Fruit's icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Unawakened Sand was reworked.
+
+|-|17.2=
+{{Update|17.2}}
+* {{Arrow|nerf}} Awakened Sand was nerfed.
+** {{Arrow|neutral}} Re-balanced the general damage.
+** {{Arrow|neutral}} '''[X] Sand Coffin''' now stuns the user for 1.8s after a successful grab.
+* {{Arrow|buff}} Fast Mode now reduces the particle on '''[Z] Desert Blade''' and '''[V] Deep Sand''' to reduce lag.
+
+|-|17.1=
+{{Update|17.1}}
+* Sand received an [[Raids|awakening]].
+
+|-|4=
+{{Update|4}}
+* Sand was released.
+** {{Arrow|buff}} Sand also received a slight buff after the release.
+** {{Arrow|buff}} Buffed the damage and the hitbox of '''[X] Desert Funeral'''.
+</tabber>
+
+
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Песок]]

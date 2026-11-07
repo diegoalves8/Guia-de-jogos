@@ -1,0 +1,185 @@
+{{CombosTab}}
+{{About|Dog Blade|the sword with a similar name|Dark Blade|other uses|Dog (Disambiguation)}}
+{{Weapon Infobox
+|name   = Dog Blade
+|tab1   = Dog
+|image1 = <gallery>
+Dog Blade.png|Icon
+DogBladeEquipped.png|Equipped
+DogBladeHold.png|Held
+DogBladeAura.gif|Aura
+</gallery>
+|tab2   = Rabid
+|image2 = <gallery>
+Rabid Skin.png|Icon
+RabidSkinEquipped.png|Equipped
+RabidSkinHold.png|Held
+RabidSkinAura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Mythical
+|update    = 29.5
+
+<!-- Weapon Obtainment -->
+|sea    = 1/2/3
+|obtain = [[Love Letter (Item)|Love Letter]]
+|source = [[Events#Dog House Event 2026|Dog House Event]]
+}}
+The '''Dog Blade''', also known as '''The Sword Of The Brat''', is a {{Mythical}} [[sword]] (LIMITED).
+
+It is primarily considered a meme weapon, but it still has PvP potential and deals moderate to high damage.
+
+==Obtainment Methods==
+The Dog Blade was obtainable during the [[Events#Dog House Event 2026|Dog House Event]]. During the event, players could defeat a boss to obtain a [[Love Letter (Item)|Love Letter]], which could be opened like a gift and had a chance of rewarding a voucher for either the Dog Blade or its '''Rabid''' skin. Redeeming the voucher grants the player the respective weapon.
+
+===Trading===
+The player is also able to obtain this sword through trading with other players as the sword is not redeemed until redeeming the voucher from the [[Love Letter (Item)|Love Letter]].
+
+===Rabid Skin===
+The '''Rabid''' skin is a white-colored version of the Dog Blade, similar to the [[Slayer Skin]] of the [[Dark Blade]]. Redeeming a '''Rabid''' skin voucher will grant the player both items regardless of whether or not they've owned a normal Dog Blade previously. (Owning one previously grants them a redeemable voucher for a normal Dog Blade, and redeems the skin.)
+
+==Upgrading==
+The Dog Blade cannot be upgraded and can only be enchanted using [[Common Scroll]]s, just like any other non-upgraded weapon.
+
+==Moveset==
+{{Tabber
+|Normal|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = DogBladeM1
+|desc     = The user does 4 slashes, performing a dash on the fourth slash.
+}}
+
+{{Skill
+|key      = Z
+|name     = Spoiled Strike
+|mastery  = 175
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = The grab rarely breaks [[Instinct]], but the slashes always do.
+|gif      = DogBladeZ
+|desc     = The user rapidly dashes toward the target, leaving behind several green afterimages. Upon reaching the target, the user performs multiple slashes before stopping behind them.
+}}
+
+{{Skill
+|key      = X
+|name     = Tantrum Mode
+|mastery  = 375
+|cooldown = 13
+|energy   = 40
+|break    = yes
+|instinct = Can be dodged on the edge.
+|gif      = DogBladeX
+|desc     = The user transforms into a doghouse, becoming immune to stuns while still being able to move, use M1s and being invisible on other player's [[Instinct]]. After 5 seconds, the doghouse explodes, dealing AoE damage to nearby enemies.
+}}
+
+|Rabid Skin|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = DogBladeRabidM1
+|desc     = The user does 4 slashes, performing a dash on the fourth slash.
+}}
+
+{{Skill
+|key      = Z
+|name     = Spoiled Strike
+|mastery  = 175
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = Grab rarely breaks [[Instinct]], but the slashes do.
+|gif      = DogBladeRabidZ
+|desc     = The user rapidly dashes toward the target, leaving behind several red afterimages. Upon reaching the target, the user performs multiple slashes before stopping behind them.
+}}
+
+{{Skill
+|key      = X
+|name     = Tantrum Mode
+|mastery  = 375
+|cooldown = 13
+|energy   = 40
+|break    = yes
+|instinct = Can be dodged on the edge.
+|gif      = DogBladeRabidX
+|desc     = The user transforms into a doghouse, becoming immune to stuns while still being able to move and use M1s. Unlike the normal version, this skill lasts indefinitely until you press the activation key again, at which point it explodes, dealing AoE damage to nearby enemies.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Extremely high trade value, due to singular chance to spin it via gacha.
+* Decent for early game grinding.
+* Low cooldown.
+* Very little casting time. (No start-up).
+
+|'''[Z] Spoiled Strike'''
+* Oddly long range.
+* Good stun.
+* Breaks [[Instinct]].
+* Extremely good combo extender.
+
+|'''[X] Tantrum Mode'''
+* Grants stun-immunity, making most long combos unstoppable.
+* When transformed, the user gains approximately 35% damage resistance
+* Makes user invisible to [[Instinct]] (chains with [[Portal]] X and [[Human]] V4 flashsteps).
+* [[Breaks Instinct]].
+
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Very difficult to obtain.
+* Extremely high mastery requirements.
+* Lowest damage out of any {{Mythical}} sword.
+* Cannot be upgraded or enchanted.
+* Low-quality VFX, with SFX being recycled from old attacks.
+
+|'''[Z] Spoiled Strike'''
+* Single target.
+* Bad placement.
+
+|'''[X] Tantrum Mode'''
+* Extremely low damage, despite being a [[Mythical]] sword and requiring 375 mastery.
+* Small hitbox.
+* User cannot use other moves other than m1's for the duration of this move.
+* User cannot cancel the move early.
+}}
+</tabber>
+
+==Trivia==
+* The Dog Blade is the third sword to have customizable skins, the first being [[Dark Blade]] and the second being [[Triple Dark Blade]].
+* The Dog Blade is the only sword to have a different name when obtaining [[mastery]], called "The Sword of the Brat" rather than "Dog Blade."[[File:Dog Blade Mastery Name.png|thumb|Image of the mastery sword name.]]
+* The Dog Blade is the only sword to have a [[transformation]].
+* The Dog Blade is one of the 3 unobtainable swords, the other two being [[Triple Dark Blade]] and [[Fishing Trophy]].
+* The {{Ability|X}} is the second ability that makes the user invisible to [[Instinct]], the first being [[Portal]]'s {{Ability|Portal|X}}.
+* The Dog Blade is one of the two [[Swords]] that cannot be [[Upgrading|upgraded]], alongside [[Fishing Trophy]].
+* While using {{Ability|X}}, all in-game chat typed by the user will change to match the [[Dog House (Indra)|Dog House]].
+* If the player uses [[Races|v3]] during {{Ability|Z}}, the old v3 visual effect will appear alongside the current one.
+* The Dog Blade {{Ability|X}} transformation stacks with [[Buddha]] transformation.
+* The Rabid Skin is the only skin in the game that changes how an item functions, making the {{Ability|X}} transformation last indefinetly.
+* The Dog Blade is the second sword to be tradable, the first being [[Dark Blade]].
+* The {{Ability|Z}} can make the user clip through walls similarly to '''Flash Step''', if the user has a clear line of sight between their starting location and the cursor.
+* It is a joke [[Swords|sword]], similar to the joke [[Blox Fruits|fruit]], [[Meme]]. (Both are limited)
+* The '''Rabid skin''' of the Dog Blade is sometimes considered a [[Mutations|Mutation]] due to its changed {{Ability|X}}.
+
+==Gallery==
+<gallery>
+File:Glitch of the Old V3 from Dog Blade.png|[[Ghoul|Ghoul's]] old [[Races|v3]] aura effect, triggered by using v3 during Dog Blade's {{Ability|Z}} move.
+</gallery>
+
+==Change History==
+{{Change History|29.5}}
+
+==Navigation==
+{{Sword Navbox}}
+[[Category:Skins]]

@@ -1,0 +1,125 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Dark Dagger
+|image     = <gallery>
+Dark Dagger.png|Icon
+Dagger in game.jpg|In-Game
+Dark Dagger (No Aura).gif|Held
+Dark Dagger (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 15
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Castle on the Sea
+|obtain    = Dropped
+|source    = [[rip_indra True Form]]
+|chance    = 5% <!-- Confirmed chance: [[User blog:SyTex LG/Chances]] -->
+}}
+{{Quote|Wielded by a proficient swordsman, it is small yet powerful.|Item}}
+The '''Dark Dagger''' is a {{Legendary}} [[sword]].
+
+Being accurate to its description, the Dark Dagger has very flexible combos, being highly compatible with [[Godhuman]]. Its moves have small hitboxes however, so it needs a high amount of precision to land the abilities.
+
+==Obtainment==
+The Dark Dagger has a 5% chance to be dropped after defeating [[rip_indra True Form]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dark Dagger M1
+|desc     = The player does 3 slashes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Proficient Impale
+|mastery  = 150
+|cooldown = 9.5
+|energy   = 20
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = DarkDaggerZ
+|desc     = The user initiates a stance before rushing forward, creating an impact of green electrical-like shock when an entity is hit. This attack [[breaks Instinct]].
+}}
+
+{{Skill
+|key      = X
+|name     = Shaming Slash
+|mastery  = 300
+|cooldown = 13.5
+|energy   = 40
+|break    = Yes
+|instinct = The projectile breaks Instinct.
+|gif      = DarkDaggerX
+|desc     = The user shoots a short, green, electrical, glowing dagger. If it comes in contact with an entity, the user will teleport behind and slash them.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good [[Combos|combo]] potential.
+* Very low M1 cooldown (0.2s).
+* Incredible for catching runners.
+* Works with nearly every build.
+* Extremely fast moves.
+
+|'''[Z] Proficient Impale'''
+* [[Breaks Instinct]].
+* Quick cast.
+
+|'''[X] Shaming Slash'''
+* Stuns the target for 1.5 seconds.
+* Can switch to another weapon during the animation.
+* High range.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to obtain.
+* Both moves are single-target.
+* Small hitboxes.
+
+|'''[Z] Proficient Impale'''
+* Bad range.
+
+|'''[X] Shaming Slash'''
+* Require good aim.
+* Can be dodged.
+}}
+</tabber>
+
+==Trivia==
+* The Dark Dagger is currently the smallest [[sword]] in the game in terms of its model size, although it does not have a small hitbox in its click attacks.
+* The Dark Dagger has the same click animation as the [[Dark Blade]], but smaller.
+* If the user times it right, they can land a melee attack during {{Ability|Z}}.
+* Before [[Update 24]], while the Dark Dagger is worn, it seems to take the appearance of a golden cross or crucifix.
+* There is currently a glitch where if the user uses {{Ability|Z}}, they will land the attack but phase through the player, preventing the user from following up with any other skill.
+** This can be avoided, however, by simply turning around after landing the hit.
+
+==[[Dark Blade|Change History]]==
+{{Change History|15|content=
+{{Update|24}}
+* The Dark Dagger's model was revamped.
+<gallery>
+Dark dagger old model.png|Old model.
+</gallery>
+----
+{{Update|15}}
+* The Dark Dagger was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

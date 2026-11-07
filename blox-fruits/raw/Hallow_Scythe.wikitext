@@ -1,0 +1,136 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Hallow Scythe
+|image     = <gallery>
+HallowScythe.png|Icon
+HallowScytheInGameView.png|In-Game
+Hallow Scythe (without aura).png|Held
+Hallow Scythe Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Mythical
+|update    = 16
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Haunted Castle
+|obtain    = Dropped
+|source    = [[Soul Reaper]]
+|chance    = 5%
+}}
+{{Quote|A mythical scythe previously carried by the [[Soul Reaper]]. It has been hallowed for human use.|Item}}
+The '''Hallow Scythe''' is a {{Mythical}} [[sword]].
+
+The Hallow Scythe provides high damage and combo potential, with a unique feature in dealing higher damage with the enemy's health proportion, making it a good option for PvP.
+
+It is also very famous, as in the [[Second Sea]] when used with Portal {{Ability|Portal|C}} move to teleport to '[[Lava|Lava']] paired with  {{Ability|Hallow Scythe|Z}}, it drags players across, resulting in them instantly losing [[health]].
+
+==Obtainment ==
+The Hallow Scythe can be obtained with a 5% chance by defeating the [[Soul Reaper]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = HallowScythe m1s
+|desc     = The player does 3 fast swings, ending with a fourth slash.
+}}
+
+{{Skill
+|key      = Z
+|name     = Death Cyclone
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = Breaks Instinct if close, but can be dodged from afar. The cyclone can be Instinct-tricked when someone is caught inside.
+|gif      = HallowScytheZ
+|desc     = The user initiates a stance before releasing an orange-black tornado with a decent hitbox, being able to destroy trees. This move causes knockback to entities hit by the tornado, dealing multiple ticks of damage in one attack.
+}}
+
+{{Skill
+|key      = X
+|name     = Soul Execution
+|mastery  = 350
+|cooldown = 13
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct only if the dash is not dodged.
+|gif      = HallowScytheX
+|desc     = The user dashes forward, grabbing the nearest enemies, before ending the move with a strike, dealing knockback. This move is not limited to single targets. Move activates a brief period of flight, which is controllable. It does x1.2 more damage if the enemy's [[health]] is below 50%.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for grinding (No M1 dash).
+* M1 attacks are really fast, which makes it a pretty good choice for grinding with [[Buddha]].
+* Low cooldown.
+* Good mobility.
+* Very little casting time. (No start-up)
+* Both attacks can damage [[Sea Beasts]].
+* High skill ceiling.
+* Great combo potential when mastered.
+
+|'''[Z] Death Cyclone'''
+* Very large hitbox.
+* Very high stun.
+* Drains 4 instinct dodges.
+
+|'''[X] Soul Execution'''
+* Good mobility.
+* Deals 1.2x more damage if the enemy is below 50% [[Health|HP]].
+* [[Breaks Instinct]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to obtain, due to the drop chances being low and [[Hallow Essence]] having a low chance to obtain.
+* High mastery requirements.
+* Lowest M1 damage compared to other {{Mythical}} swords, so it is recommended to use another {{Mythical}} sword if the player uses [[Buddha]] unless they do not have any.
+* Difficult to master.
+
+|'''[Z] Death Cyclone'''
+* Hard to grind with.
+* High knockback (if the player uses [[Buddha]], they can shoot the tornado down and spam left clicks).
+* Easy to [[Instinct]] trick.
+
+|'''[X] Soul Execution'''
+* Hard to land.
+* Short range.
+* Slow move.
+* Small hitbox.
+}}
+</tabber>
+
+==Trivia==
+* The Hallow Scythe is the first [[sword]] to have a unique mechanic.
+** The less [[health]] the opponent has, the more damage the player will do with [X].
+* The Hallow Scythe was once used to kill admin [[Uzoth (Player)|Uzoth]]. In this [https://www.youtube.com/watch?v=N1xEFc38Oo0 video], a player used a combo with [[Portal]]'s Pre-nerfed [C] to teleport the admin into the [[lava]] in [[Hot and Cold]], then dragged them into it using the sword’s [Z] move, resulting in an instant kill.
+* The engravings on the blade of the scythe mean "Death", while the engravings on the tang of the scythe "風間" can be read as Kazama in Japanese, meaning "Between Wind". Both the engravings combined make the word "Death Between Wind", alluding to Death Cyclone.
+* The Hallow Scythe is used by the Lv. 2100 [[Raid Bosses|Raid Boss]], [[Soul Reaper]].
+* The Burning [[Enchantments|blessing]] does not visually appear on Hallow Scythe.
+* The Hallow scythe has the same holding animation as the [[Shark Anchor]].
+
+==Change History==
+{{Change History|16|content=
+{{Update|21}}
+* {{Arrow|buff}}Buffed Hallow Scythe's speed and damage.
+** [X] move now [[Instinct Break|breaks Instinct]].
+* {{Arrow|nerf}} The effect of Hallow Scythe's Upgrading was nerfed.
+** 10% -> 8% Damage Boost
+----
+{{Update|16}}
+* Hallow Scythe was released.
+}}
+==Navigation==
+{{Sword Navbox}}

@@ -1,0 +1,281 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Sensational|PrestigeTitle = Will end you|Rarity = Mythic|Class = Support|MovementSpeed = 750 (Normal)|GadgetCharges = 3|HealthLabel = Health|Health = 2600|AttackLabel = Damage / Heal per second|Attack = 380|AttackRange = 10 (Very Long)|Reload = 1.45 seconds (Fast)|AttackSuperCharge = 11.3%<br>10.9% (with Booster Shots)|SuperRange = 7.33 (Long)|SuperSuperCharge = 24%<br>4.125% (split projectiles; with Hypercharge)|VoiceActor=Steven Kelly|AttackCooldown=|SuperDuration= |SuperMinionRange=|SuperReload=|SuperMovementSpeed=|Super=1500|SuperLabel=Damage / Heal|AttackSpeed=4000|AttackWidth=1|SuperSpeed=2000<br>2500 (split projectiles; with Hypercharge)|AttackBullets=1<br>3 (with Booster Shots)|Gadget1Name=Shot In The Arm|Gadget1=1040|Gadget1Label=Heal per second|Gadget1Cooldown=17 seconds|Gadget2Name=Booster Shots|Gadget2Cooldown=18 seconds|Previous=Lou|Next=Ruffs|AttackSpread=30° (with Booster Shots)|HyperchargeMultiplier=30%|AttackHyperchargeCharge=3.375%<br>3.25% (with Booster Shots)|SuperHyperchargeCharge=7.2%<br>1.225% (split projectiles; with Hypercharge)|Gadget1Duration=3 seconds}}
+{{Quote|Byron has invented many concoctions and tinctures that heal or harm in various ways.... but most of them fall into the harming category}}
+{{Portrait}}
+Byron is a {{Rarity|Mythic}} [[Brawler]] who has a very long range, a fast reload speed, a moderately high burst damage, and can provide consistent healing to allies, but has low health. He was the 42nd Brawler added to the game. His attack is a long-ranged dart that damages enemies and heals allies over time. His Super lobs a vial that damages/heals all respective targets in its splash radius upon impact. His first Gadget, Shot in the Arm, consumes one ammo to heal him over time. His second Gadget, Booster Shots, allows his next attack to fire three darts that deal less damage and heal less health. His first Star Power, Malaise, momentarily reduces the effectiveness of any healing effects for enemies hit by his Super. His second Star Power, Injection, periodically makes his attack pierce through targets. His Hypercharge, Unstable Concoction, fires main attacks in all directions from his Super.
+
+==Attack: Careful Dose==
+{{Quote|Shoots a long range dart that can hit both opponents and friendlies. Opponents will take damage over time and friendlies will heal over time.}}
+Byron fires a long-ranged dart, dealing three ticks of damage over time to enemies over 2 seconds. However, if the dart hits an ally, it instead heals them for the same amount of health as damage to an enemy. The damage/healing effects stack, meaning you can attack/heal the same target multiple times to increase its effect. Byron's attack has a moderate cooldown of 0.5 seconds, but has a fast reload speed. Healing from Byron's main attack is not increased by damage buffs, unlike his Super.
+
+==Super: Full Treatment==
+{{Quote|Throws a vial that heals friendlies and damages opponents.}}
+Byron lobs a vial over obstacles which instantaneously heals both himself and allies and damages enemies within a 2.67-tile splash radius upon impact. Byron's Super will land on the ground sooner the closer he throws it to himself. Unlike Byron's main attack, damage buffs such as from the Damage [[Gears|Gear]] increase healing.
+
+==Gadgets==
+===Shot In The Arm===
+{{Quote|Byron uses one of his shots to heal himself 1300 per second for 3 seconds. Cooldown: 17 seconds.}}{{Gadget|1}}
+Byron consumes one ammo bar and after a 1-second delay, heals 25% of his maximum health per second for 3 seconds, healing a total of 75% of his maximum health, or 3900 health at Power 11. This Gadget can be activated when Byron is at full health. This Gadget's cooldown begins after the duration ends. 
+
+===Booster Shots===
+{{Quote|Byron's next attack shoots 3 darts instead of one, each dealing 20% less damage and 40% less healing. Cooldown: 18 seconds.}}{{Gadget|2}}
+Activating this Gadget makes Byron's next attack fire 3 darts in a moderate spread. Each dart deals 20% less damage and heals for 40% less health than normally, and also charges slightly less Super. Byron's Injection Star Power doesn't affect this Gadget and the bar will not be reset. A Gadget symbol will glow above Byron's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+==Star Powers==
+===Malaise===
+{{Quote|Byron's Super will also cause opponents to receive 75% less healing from any source for 9 seconds.}}{{StarPower|1}}
+Enemies hit by Byron's Super will now heal for 25% as much health from any healing source for 9 seconds. This doesn't affect [[Max]]'s Sneaky Sneakers Gadget.
+
+===Injection===
+{{Quote|Every 3.5 seconds the next basic attack will pierce through targets.}}{{StarPower|2}}
+Byron gains a bar similar to [[Bibi]]'s Home Run bar. When the bar is charged up after 3.5 seconds, Byron's next attack pierces through any target. Like [[Sprout]]'s Overgrowth Star Power, Byron doesn't require all three ammo to charge the bar.  
+
+==Hypercharge: Unstable Concoction==
+{{Quote|Byron's Super also fires his main attack in all directions from the point of impact.}}{{Hypercharge}}
+When activated, Byron's Super also sends out 6 main attack projectiles radially from the area it landed that travel for 5.33 tiles. The pattern is fixed, with 60 degrees between each dart, and it doesn't rotate with the direction the Super is thrown. The projectiles deal as much damage/healing as the regular attack but are slower and charge significantly less Super. The projectiles have a 4-tile wide blind spot at the center, so they cannot all hit an enemy at point-blank range. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attack fires more projectiles!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>This Wasabi Power triggered Byron's Booster Shots at a wider spread, without the damage, healing, and Super charge rate penalty. However, using the Booster Shots Gadget did not make Byron shoot 5 projectiles, and his Injection Star Power did not work with the Wasabi Power.
+
+==Tips==
+
+=== Games Modes and Maps ===
+
+* Byron's long range, high tick damage, and healing abilities truly shine in Team Events because he can consistently heal his teammates and himself with his attack, Super, and Shot In the Arm Gadget alike while they work towards the event objective with the healing giving more ease. Doing so will almost guarantee a positive outcome as the healing decreases enemy damage while assisting allies. In addition, he's also effective at preventing enemies from healing, making it easier to cripple the enemy team.
+* Byron is niche in Super City Rampage as he can heal allies while they aggressively attack the Boss. An excellent team composition in this event is himself with his Injection Star Power, [[Pam]], [[Poco]], [[Berry]], [[Doug]], and one who can stall the Boss such as Edgar/[[Nita]]. For Edgar, he should use his Fisticuffs Star Power; for Nita, she should use her Bear With Me Star Power. If Edgar is the stalling Brawler, he should continuously stall the Boss with his high burst damage and the healing provided from his attack, Pam, Doug, Berry, Poco, and Byron, and these should make him able to overcome the Boss's damage. For Nita, she should charge up her Super and spawn Bruce near the Boss opposite of Nita, and Nita and Bruce should take turns attacking and healing each other, and with Pam's and Byron's healing, Nita and Bruce can withstand more damage.
+
+=== Recommended Build ===
+
+* Byron's Booster Shots Gadget is best used to poison multiple enemies, heal multiple allies, or a combination of the two. It can also be used to heal or poison a single target for more damage/health than a regular shot, and can act as a form of close-range defense in combination with his Super. The Gadget is good for eliminating low health enemies up close, although sometimes Byron will be defeated too when he uses it up close.
+* Byron's Malaise Star Power is great against opposing Brawlers with healing abilities, including opposing Byrons. Pick this Star Power when the opposing team uses one of these Brawlers in order to negate most of their healing, granting the upper hand to your team.
+
+=== Strategies ===
+
+* Since his range is long but his cooldown is slow, sharpshooting skills, such as aiming ahead of the enemy's direction of travel, are needed to utilize Byron well. However, with his fast projectile speed, aiming with Byron is easier than with other long-ranged Brawlers such as [[Amber]], [[Brock]], [[Colt]], [[Mandy]], [[8-Bit]], [[Belle]], [[Nani]], [[Rico]], or [[Bea]]. Unless there are no enemies near faraway allies, prioritize allies closest to you.
+* To take advantage of Byron's range is to chip away at enemies with his stacking tick damage while also dodging their fire, and once they're low on health, you can use your Super to finish them off. This strategy will allow Byron to better secure defeats.
+
+=== Other ===
+*Byron is outstanding at supporting close-ranged Brawlers like [[Edgar]], [[Bull]], [[Mortis]], [[Rosa]], [[Lily]], [[Sam]], [[Fang]], [[Buzz]], [[Darryl]], or [[El Primo]] as Byron's allies can play aggressively, and if applicable, ambush enemies with their Supers or by bush-camping while Byron can consistently and quickly heal them from a safe distance.
+*When your attack is auto-aimed, it prioritizes the closest target to you. When fighting alongside a teammate, manually aim to hit the enemy and keep your distance, and even if you have his Injection Star Power, which allows you to chain attacks to hit both allies and enemies, you should still maintain a safe distance away from teammates that is far enough to damage enemies but close enough to heal allies without the disadvantages of long-range aiming.
+*Byron is hard countered by [[Crow]] or [[Angelo]]. When attacking, both of them have the ability to reduce incoming healing by 60%, including that from Byron's attack, Super, and Shot in the Arm Gadget, negating a lot of value from Byron.
+
+{{Clr}}
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Snakeoil start vo 01.ogg|Filedescription = "Try some snake oil extract!"}}
+|{{Ogg|Filename = Snakeoil lead vo 01.ogg|Filedescription = "The sweet taste of victory!"}}
+|{{Ogg|Filename = Snakeoil hurt vo 01.ogg|Filedescription = "That was a big mistake."}}
+|{{Ogg|Filename = Snakeoil kill vo 01.ogg|Filedescription = "Pa-the-tic!"}}
+|{{Ogg|Filename = Snakeoil die vo 01.ogg|Filedescription = "I shall return."}}
+|
+|{{Ogg|Filename = Snakeoil ulti vo 01.ogg|Filedescription = "Enjoy your treat!"}}
+|-
+|{{Ogg|Filename = Snakeoil start vo 02.ogg|Filedescription = "The reptiles are growing restless."}}
+|{{Ogg|Filename = Snakeoil lead vo 02.ogg|Filedescription = "I am swimming in weak sauce."}}
+|{{Ogg|Filename = Snakeoil hurt vo 02.ogg|Filedescription = "You will pay for that. Dearly."}}
+|{{Ogg|Filename = Snakeoil kill vo 02.ogg|Filedescription = "How unfortunate."}}
+|{{Ogg|Filename = Snakeoil die vo 02.ogg|Filedescription = "I will find you!"}}
+|
+|{{Ogg|Filename = Snakeoil ulti vo 02.ogg|Filedescription = "Buy a thousand, get one free."}}
+|-
+|{{Ogg|Filename = Snakeoil start vo 03.ogg|Filedescription = "Sign here, with your life."}}
+|{{Ogg|Filename = Snakeoil lead vo 03.ogg|Filedescription = Byron laughs}}
+|{{Ogg|Filename = Snakeoil hurt vo 03.ogg|Filedescription = "You broke the contract!"}}
+|{{Ogg|Filename = Snakeoil kill vo 03.ogg|Filedescription = "Your tears fuel my laughter."}}
+|{{Ogg|Filename = Snakeoil die vo 03.ogg|Filedescription = "This cannot be!"}}
+|
+|{{Ogg|Filename = Snakeoil ulti vo 03.ogg|Filedescription = "Take this! At your peril!"}}
+|-
+|{{Ogg|Filename = Snakeoil start vo 04.ogg|Filedescription = "Time to seal the deal."}}
+|{{Ogg|Filename = Snakeoil lead vo 04.ogg|Filedescription = Byron cackles}}
+|{{Ogg|Filename = Snakeoil hurt vo 04.ogg|Filedescription = "I will end you!"}}
+|{{Ogg|Filename = Snakeoil kill vo 04.ogg|Filedescription = "Useless."}}
+|{{Ogg|Filename = Snakeoil die vo 04.ogg|Filedescription = "Nooooo!"}}
+|
+|{{Ogg|Filename = Snakeoil ulti vo 04.ogg|Filedescription = "Try my latest concoction!"}}
+|-
+|{{Ogg|Filename = Snakeoil start vo 05.ogg|Filedescription = "Potential, satisfaction, guaranteed."}}
+|{{Ogg|Filename = Snakeoil lead vo 05.ogg|Filedescription = "Sen-sational!"}}
+|{{Ogg|Filename = Snakeoil hurt vo 05.ogg|Filedescription = "Run, run, as fast as you can!"}}
+|{{Ogg|Filename = Snakeoil kill vo 05.ogg|Filedescription = "Next time, try my excellent aiming elixir."}}
+|{{Ogg|Filename = Snakeoil die vo 05.ogg|Filedescription = "Nooooo!"}}
+|
+|{{Ogg|Filename = Snakeoil ulti vo 05.ogg|Filedescription = "Have a free taste... of doom."}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Snakeoil kill vo 06.ogg|Filedescription = "You need my no-noob-cure!"}}
+|
+|
+|
+|}
+
+==History==
+*16/12/20:
+**{{Balance|Content=Byron was added to the game.|Change=Neutral}}
+*13/01/21:
+**{{Balance|Content=Byron's Injection Star Power was added.|Change=Neutral}}
+*08/02/21:
+**{{Balance|Content=Byron's health was decreased to 2400 (from 2500).|Change=Nerf}}
+**{{Balance|Content=His main attack damage/heal was decreased to 380 (from 400) per shot.|Change=Nerf}}
+*07/04/21:
+**{{Balance|Content=Byron's main attack damage/heal was decreased to 340 (from 380) per shot.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was increased to 10 hits (from 9).|Change=Nerf}}
+*16/06/21:
+**{{Balance|Content=Byron's Malaise Star Power enemy healing reduction effect was increased to 75% (from 50%).|Change=Buff}}
+*17/06/21: 
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was decreased to 9 hits (from 10).|Change=Buff}}
+*25/08/21:
+**{{Balance|Content=Byron's Shot In The Arm Gadget can now be used when Byron is at full health.|Change=Neutral}}
+*30/08/21:
+**{{Balance|Content=The Wizard Byron skin was added. It was featured as a Power League exclusive skin for Brawl Pass Season 8.|Change=Neutral}}
+*28/09/21:
+**{{Balance|Content=Fixed an issue where Wizard Byron's animations were glitching when using jump pads.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Byron's Booster Shots Gadget was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was increased to 12 hits (from 9).|Change=Nerf}}
+**{{Balance|Content=Wizard Byron's losing animation was reworked.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Byron's voice lines.|Change=Neutral}}
+*08/06/22:
+**{{Balance|Content=The Overlord Byron skin was added. It was featured as a Worst Bunch skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Byron's reload time was increased to 1.6 seconds (from 1.3).|Change=Nerf}}
+**{{Balance|Content=Byron and all of his skins' main attack visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Byron's True Silver and True Gold skins were added.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Byron's reload time was decreased to 1.45 seconds (from 1.6).|Change=Buff}}
+*25/04/23:
+**{{Balance|Content=Wizard Byron now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was decreased to 9 hits (from 12).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=The Super charge rate of the first tick of Byron's attack was increased by approximately 37%.|Change=Buff}}
+**{{Balance|Content=Byron's Shot In The Arm Gadget healing was increased to 960 (from 800) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=The Super charge rate of the second and third ticks of Byron's attack is now 53% of the first tick (from 100%).|Change=Nerf}}
+**{{Balance|Content=Byron's flavor text was changed from "Byron deals with potent medicaments, but never call him a snake oil salesman!" to "Byron has invented many concoctions and tinctures that heal or harm in various ways.... but most of them fall into the harming category"|Change=Neutral}}
+*07/11/23:
+**{{Balance|Content=The Ringmaster Byron skin was added. It was featured as a Bizarre Circus skin.|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Byron's main attack damage/heal was increased to 380 (from 340) per hit.|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=The Byron the White skin was added. It was featured as a Ranked skin.|Change=Neutral}}
+*19/06/24:
+**{{Balance|Content=The Beach Byron skin was added. It was featured as a Summer of Brawl skin.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Fixed an issue with Ringmaster Byron's winning animation.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=The Super charge rate of the second and third ticks of Byron's attack is now 100% of the first tick (from 53%).|Change=Buff}}
+**{{Balance|Content=The Super charge rate of Byron's Booster Shots Gadget is now 80% of his regular attack (from 100%).|Change=Nerf}}
+*31/10/24:
+**{{Balance|Content=The Super charge rate of Byron's main attack was decreased by 38%, increasing the number of hits necessary to charge his Super to 10 (from 7).|Change=Nerf}}
+**{{Balance|Content=The Super charge rate of his Booster Shots Gadget was decreased by 18%, increasing the number of hits necessary to charge his Super to 10 (from 8).|Change=Nerf}}
+**{{Balance|Content=Fixed an issue with Byron healing ally Brawlers' pets.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was decreased to 9 hits (from 10). This does not affect his Booster Shots Gadget.|Change=Buff}}
+*10/12/24:
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was increased to 10 hits (from 9).|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=The number of hits necessary to charge Byron's Super was decreased to 9 hits (from 10). This does not affect his Booster Shots Gadget.|Change=Buff}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed Byron's main attack not triggering haptic feedback.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Byron's main attack heal now scales with damage buffs but not from damage boosts.|Change=Buff}}
+*30/04/25:
+**{{Balance|Content=Byron's Booster Shots Gadget cooldown was increased to 18 seconds (from 14).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Byron's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Byron's Wasabi Power main attack spread was increased.|Change=Nerf}}
+*30/05/25:
+**{{Balance|Content=Byron's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Byron's level up damage was increased to 5% (from 3%) in [[Brawl Arena]].|Change=Buff}}
+*03/09/25:
+**{{Balance|Content=The Frank Byron skin was added. It was featured as a Subway Surfers skin.|Change=Neutral}}
+*11/09/25:
+**{{Balance|Content=Byron's Unstable Concoction Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Byron's Unstable Concoction Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Byron's Unstable Concoction Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Byron's Unstable Concoction Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Byron's Unstable Concoction Hypercharge shield boost from 15%.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Content=Byron's Unstable Concoction Hypercharge dart range was increased to 2–5.33 tiles (from 2.33–5).|Change=Buff}}
+**{{Balance|Content=The number of darts in Byron's Unstable Concoction Hypercharge was decreased to 6 (from 12).|Change=Nerf}}
+**{{Balance|Content=Byron's Unstable Concoction Hypercharge dart projectile speed was reduced to 2500 (from 4000).|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Byron's health was increased to 2600 (from 2400).}}
+*08/07/26:
+**{{Balance|Neutral|Fixed a bug where Byron dealt incorrect damage with Hypercharged attack.|Change=Neutral}}
+*06/08/26:
+**{{Balance|Neutral|The Biotech, Unearthed and Leaf Master Byron skins were added. They were featured as Brawl Pass Season 53 skins and Windstock skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Byron's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1 = Beach|Cost1 = Free from Pierce Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1 = Summer of Brawl|Rarity1=Rare
+|Name2 = Wizard|Cost2 = 149 Gems • '''E'''|Campaign2 = Ranked|Campaign2_2=Once Upon|Rarity2=Epic
+|Name3 = Overlord|Cost3 = 149 Gems|Campaign3 = The Worst Bunch|Rarity3=Epic
+|Name4 = Byron the White|Cost4 = Free from Ranked Starr Drops, free from Ziggy Boxes or 149 Gems|Campaign4 = Ranked|Campaign4_2=Once Upon|Rarity4=Epic
+|Name5 = Frank|Cost5 = Free from Boom Boxes or 149 Gems • '''S'''|Campaign5 = Subway Surfers|Rarity5=Epic
+|Name6 = Ringmaster|Cost6 = Free from Strangest Packs, Gigi Boxes, Vince Boxes or 199 Gems|Campaign6 = Bizarre Circus|Rarity6=Mythic
+|TrueSkins = Yes
+|NameP1=Biotech|CostP1=2 Skin Keys|CampaignP1=Windstock|RarityP1=Epic
+|NameP2=Unearthed|CostP2=Free after purchasing the Skin Set|CampaignP2_1=Brawl Pass|CampaignP2_2=Windstock|RarityP2=Epic
+|NameP3=Leaf Master|CostP3=Free after purchasing the Skin Set|CampaignP3_1=Brawl Pass|CampaignP3_2=Windstock|RarityP3=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Byron
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Overlord}}
+{{Pin Table|Wizard}}
+{{Pin Table|Ringmaster|Special}}
+{{Pin Table|Byron the White}}
+{{Pin Table|Frank|GG}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Byron|Rarity = Common}}
+|{{Spray|Type = Byron Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Ringmaster Byron|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Byron1}}
+|{{Pfp|Byron2}}
+|{{Pfp|Byron3}}
+|{{Pfp|Ringmaster Byron}}
+|{{Pfp|Wizard Byron}}
+|-
+|{{Pfp|Byron the White}}
+|{{Pfp|Overlord Byron}}
+|{{Pfp|Frank Byron}}
+|}
+{{Navigation}}
+[[pt:Byron]]
+[[ru:Байрон]]

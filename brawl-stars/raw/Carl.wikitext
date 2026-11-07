@@ -1,0 +1,343 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Geologist|PrestigeTitle = IQ too high|Rarity = Super Rare|Class = Damage Dealer|MovementSpeed = 750 (Normal)<br>1440 (with Super)<br>3000 (with Flying Hook)<br>3312 (with Flying Hook and Power Throw)|VoiceActor = Joshua Graham|HealthLabel = Health|Health = 4200|AttackRange = 8.33 (Long)|AttackCooldown = 0.5 seconds|AttackSuperCharge = 19.475%<br>2.25% (fire; with Heat Ejector)|AttackLabel = Damage on hit|Attack = 820|SuperSuperCharge = 7.5%<br>2.775% (fire; with Hypercharge)|SuperLabel = Damage per swing|Super = 500|SuperBullets = 12|SuperDuration = 3 seconds|SuperRange = 2.33 (Short)|Reload=|AttackBullets=|SuperMovementSpeed=|SuperLabel2=|Super2=|AttackSpeed=3000<br>3312 (with Power Throw)|AttackWidth=1.67|Gadget1Name = Heat Ejector|Gadget1 = 480|Gadget1Label= Damage per second|Previous=Penny|Next=Tick|AttackHyperchargeCharge=9.725%<br>1.125% (fire; with Heat Ejector)|SuperHyperchargeCharge=3.75%<br>1.375% (fire; with Hypercharge)|HyperchargeMultiplier=50%|Gadget1Cooldown=17 seconds|Gadget2Cooldown=19 seconds|Gadget2Name=Flying Hook|SuperSpread=360°}}
+{{Quote|Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!}}
+{{Portrait}}
+Carl is a {{Rarity|Super Rare}} [[Brawler]]. He has moderately high health, a long range, a high damage output, great mobility with his Super, and immense utility with his main attack. He was the 24th Brawler added to the game. When he attacks, Carl boomerangs his pickaxe, damaging and piercing through any enemies hit while the pickaxe is flying forward or traveling back to Carl, and consuming his only ammo which reloads when the pickaxe returns. His Super momentarily sends him into a crazy spin, doubling his movement speed and allowing him to damage enemies he gets close to for its duration. His first Gadget, Heat Ejector, makes his next attack leave hot rocks that sets enemies who touch them on fire to burn over time. His second Gadget, Flying Hook, makes Carl's next attack pull him to the furthest point of its range. His first Star Power, Power Throw, increases his pickaxe's speed, effectively decreasing his reload time. His second Star Power, Protective Pirouette, grants him a significant damage reduction shield during his Super. His Hypercharge, Flamespin, makes Carl's Super to dispense a trail of hot rocks behind him that sets enemies who touch them on fire to burn over time.
+
+==Attack: Pickaxe==
+{{Quote|Carl throws his Pickaxe like a boomerang. After he catches the returning Pickaxe, he can throw it again.}}Carl throws a long-ranged pickaxe that deals damage to enemies both while flying forward and when returning to him. The pickaxe can return to Carl through walls, but can't be thrown through walls. If Carl throws his pickaxe against a wall, the travel time of his pickaxe is decreased. Carl's attack doesn't reload like normal Brawlers, because once his pickaxe returns to him, Carl reloads his only ammo bar. When Carl respawns, his only ammo bar will reload in 2 seconds. In [[Brawl Ball]], Carl can shoot the Ball without consuming ammo. Carl has a moderate attack cooldown of 0.5 seconds.
+
+==Super: Tailspin==
+{{Quote|Carl goes into a crazy spin for a few seconds, flailing around and damaging nearby opponents.}}Carl spins around with his pickaxe, dealing damage to all targets he's close to every 0.25 seconds. Carl's movement speed is doubled while using his Super. This effect lasts for 3 seconds and stops immediately when he's affected by effects that can interrupt attacks, such as stuns, knockbacks, or [[Otis]]' Super. There is no direction of travel to this Super and aiming will not show an area of effect. Do note that while Carl swings his pickaxe during the Super, he doesn't need to be holding a pickaxe, so any currently in the battlefield will not prevent a Super.
+
+==Gadgets==
+===Heat Ejector===
+{{Quote|The next pickaxe Carl throws will drop a trail of hot rocks behind it! Opponents that touch them are set on fire, and receive 600 damage per second. Cooldown: 17 seconds.}}{{Gadget|1}}Carl's next attack will drop burning rocks on the ground while it travels. The rocks last for 3.9 seconds each, and if an enemy touches them, they will be burned for 40.5% of Carl's main attack damage per second for 4 seconds. The number of rocks dropped is dependent on his throw; more rocks are dropped the further his pickaxe travels. The burning damage does not stack from multiple rocks, but an enemy can be burned again after the initial burn stops. A Gadget symbol will glow above Carl's head signaling this Gadget's usage, as well as a glowing attack joystick. The Gadget's cooldown starts after using this attack.
+
+===Flying Hook===
+{{Quote|Carl's next attack makes his pickaxe pull him to the farthest point of the attack. Cooldown: 19 seconds.}}{{Gadget|2}}Carl's next attack pulls him with his pickaxe to the furthest point of its range, allowing him to travel over lakes and through rope fences if those obstacles are in range. The attack stays slightly in front of him but will only deal damage once, and the pickaxe doesn't return to Carl's old position. A Gadget symbol will glow above Carl's head signaling this Gadget's usage, as well as a glowing attack joystick. The Gadget's cooldown starts after using this attack. 
+
+==Star Powers==
+===Power Throw===
+{{Quote|Carl throws his Pickaxe with 10% more speed, allowing it to travel faster and return faster.}}{{StarPower|1}}Carl's pickaxe projectile speed is increased by 312 points (10.4% faster than a normal attack). This allows him to attack faster against obstacles and reload quicker in general, but it does not decrease the attack cooldown.
+
+===Protective Pirouette===
+{{Quote|During Carl's Super, all damage he receives is reduced by 35%.}}{{StarPower|2}}Carl shields all damage taken by 35% for the duration of his Super or until his Super stops.
+
+==Hypercharge: Flamespin==
+{{Quote|Carl gains a flame trail while using his Super. The trail burns on contact, causing damage over time.}}{{Hypercharge}}
+When activated, Carl will drop burning rocks on the ground after using his Super. The rocks last for 4 seconds each, and if an enemy touches them, they will be burned for 777 damage per second for 4 seconds. The number of rocks dropped is dependent on Carl's movement; more rocks are dropped the longer he moves. The burning damage does not stack from multiple rocks, but an enemy can be burned again after the initial burn stops. He also gains a 20% speed boost, as well as a 5% damage and shield boost, though the Hypercharge speed boost does not stack with the Super's own speed boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Carl gains increased speed during Tailspin, and his Pickaxe is also faster.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Carl's main attack traveled faster. This stacked with his Power Throw Star Power and affected the speed of his Flying Hook Gadget. His Super also went very fast.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Has extremely increased movement speed during his Super.}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Carl's main attack traveled 16.67% faster, and his movement speed while his Super was active increased by 1000 points.
+
+==Tips==
+===Game Modes and Maps===
+*Carl's Super and Flying Hook Gadget can be used to get possession of the ball in [[Brawl Ball]] or [[Basket Brawl]] quicker than anyone else can. However, Carl cannot pick up the ball while using his Super.
+
+===Recommended Build===
+*Carl's Heat Ejector Gadget can be used to block the path of incoming enemies in events such as Brawl Ball. It can also be paired with his Super to secure a lot of damage to the safe in Heist.
+*An effective tactic is to use Carl's Flying Hook Gadget to get close to an enemy and then use your Super on them. This almost always will require his Protective Pirouette Star Power as most Brawlers have the means to defeat you, and can defeat almost all Brawlers except those with high health, with Protective Pirouette equipped.
+*Carl's Flying Hook Gadget is useful for joining to action and retreating in events like Showdown, [[Gem Grab]], and [[Siege]], further helped by allowing him to travel over lakes and rope fences to a certain extent. It is also an excellent tool to counter defenseless Brawlers at close-quarters like [[Piper]], especially if paired with his Super. It can also be used to escape from danger such as if you're ambushed (i.e. by [[Shelly]], [[Bull]], [[Darryl]], [[Fang]], [[El Primo]], [[Buzz]], [[Edgar]], [[Rosa]], [[Griff]], [[Spike]], or [[Leon]]).
+
+===Strategies===
+*When Carl's pickaxe returns, it can go through walls and obstacles. This can be crucial when opponents only need one more hit to be defeated but are hiding behind a wall. He can take advantage of this by throwing his pickaxe and moving towards the enemy behind the wall before it returns allowing it to get an indirect hit.
+*When Carl's pickaxe hits an obstacle, it bounces off and returns, allowing Carl to to throw it again faster. He can utilize this mechanic by pushing enemy Brawlers near a wall. Because his pickaxe will return faster after it hits the wall, Carl can do bursts of damage quickly, especially with his Power Throw Star Power, and he can utilize this to break Power Cube crates in [[Showdown]]. This can be highly effective in [[Heist]] where Carl can utilize walls near the enemy safe to deal consistent and quick damage.
+*Carl's Flying Hook Gadget can be used with [[Meeple]] and [[Finx]]'s Supers; using the Gadget through Meeple's Super area lets him travel through walls (though not stay in them), and using the Gadget through Finx's super makes his movement faster.
+
+===Other===
+*Carl's Super does a lot of damage but at a short range. Be sure to get close to an enemy Brawler to maximize its damage, but it is advisable to avoid short-ranged Brawlers who deal damage quicker than Carl can.
+*When using Carl's Super offensively, make sure to pay attention to his Super's mechanics. Carl's Super doesn't have a shield like [[Rosa]]'s Super does, making him more likely to get burst down by enemies. However, if he has his Protective Pirouette Star Power, he can partially protect himself during one, though it's still never recommended to go near close-ranged Brawlers like [[Bull]], [[Darryl]], [[Shelly]], [[Buzz]], or [[El Primo]] with his Super to deal damage to them as they all deal great damage at close range, have high health and can use their Supers to interrupt or escape from Carl's Super.
+*Carl can't use his main attack while using his Super, but he can still use his Super while his pickaxe is still flying.
+*Keep in mind that the pickaxe's returning ability may pose a disadvantage when attacking while traveling inside bushes. This gives the opponents ample time to perform prediction shots.
+*Carl's Super makes him have one of the fastest movement speeds in the game. Use this to escape (especially helpful with the Protective Pirouette Star Power as it lets him survive more shots) or to reach low-health enemies.
+*Carl's Super can be interrupted by knockback, pull, or stun effects such as [[Frank]], [[Shelly]], [[Gene]], [[Jacky]], [[Tick]], [[Buzz]], and [[Cordelius]]' Supers, [[El Primo]]'s Super or his Suplex Supplement Gadget, [[Bibi]]'s Home Run attack, [[Fang]]'s Roundhouse Kick Gadget, [[Bo]]'s Snare a Bear Star Power, and [[Emz]]'s Friendzoner Gadget. Avoid using his Super offensively against Brawlers like these who can easily cancel his Super.
+*Carl can have multiple pickaxes at the same time if some of them were in an opponent Finx's Super.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Carl start vo 01.ogg|Filedescription = "Ha ha! Geology rocks."}}
+|{{Ogg|Filename = Carl lead vo 01.ogg|Filedescription = "Carl-culating awesomeness level."}}
+|{{Ogg|Filename = Carl hurt vo 01.ogg|Filedescription = "Ah! Yowza!"}}
+|{{Ogg|Filename = Carl kill vo 01.ogg|Filedescription = "He he he he, my calculations are always correct!"}}
+|{{Ogg|Filename = Carl death vo 01.ogg|Filedescription = "No no no!"}}
+|{{Ogg|Filename = Carl atk vo 01.ogg|Filedescription = Carl laughs}}
+|{{Ogg|Filename = Carl ulti vo 01.ogg|Filedescription = Carl taunts}}
+|-
+|{{Ogg|Filename = Carl start vo 02.ogg|Filedescription = "I'm detecting seismic activity!"}}
+|{{Ogg|Filename = Carl lead vo 02.ogg|Filedescription = "Ha ha! Winning by a landslide!"}}
+|{{Ogg|Filename = Carl hurt vo 02.ogg|Filedescription = "No no no no!"}}
+|{{Ogg|Filename = Carl kill vo 02.ogg|Filedescription = "Your best is my worst."}}
+|{{Ogg|Filename = Carl death vo 02.ogg|Filedescription = "Smoldering boulders!"}}
+|{{Ogg|Filename = Carl atk vo 02.ogg|Filedescription = Carl taunts}}
+|{{Ogg|Filename = Carl ulti vo 02.ogg|Filedescription = Carl laughs}}
+|-
+|{{Ogg|Filename = Carl start vo 03.ogg|Filedescription = "The rocks speak to me."}}
+|{{Ogg|Filename = Carl lead vo 03.ogg|Filedescription = "Truly groundbreaking!"}}
+|{{Ogg|Filename = Carl hurt vo 03.ogg|Filedescription = "This cannot be!"}}
+|{{Ogg|Filename = Carl kill vo 03.ogg|Filedescription = "Will you learn? Highly doubtful."}}
+|{{Ogg|Filename = Carl death vo 03.ogg|Filedescription = "Sub-optimal performance!"}}
+|{{Ogg|Filename = Carl atk vo 03.ogg|Filedescription = Carl taunts}}
+|
+|-
+|{{Ogg|Filename = Carl start vo 04.ogg|Filedescription = "So much ignorance, so little time..."}}
+|{{Ogg|Filename = Carl lead vo 04.ogg|Filedescription = "Eureka!"}}
+|{{Ogg|Filename = Carl hurt vo 04.ogg|Filedescription = "Incorrect!"}}
+|{{Ogg|Filename = Carl kill vo 04.ogg|Filedescription = "Evolution, it must've passed you by."}}
+|{{Ogg|Filename = Carl death vo 04.ogg|Filedescription = "Ah! I'm eroding!"}}
+|
+|
+|-
+|{{Ogg|Filename = Carl start vo 05.ogg|Filedescription = "Let's uncover the mystery of history!"}}
+|
+|{{Ogg|Filename = Carl hurt vo 05.ogg|Filedescription = "I don't lava this!"}}
+|{{Ogg|Filename = Carl kill vo 05.ogg|Filedescription = "I guess you plateaued."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = Carl start vo 06.ogg|Filedescription = "Carl is my name, geology is my game."}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Carl start vo 07.ogg|Filedescription = "Triangulation rocks the nation."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*22/03/19:
+**{{Balance|Content=Carl was added to the game.|Change=Neutral}}
+*15/04/19:
+**{{Balance|Content=Carl's main attack projectile speed was increased by 25%.|Change=Buff}}
+**{{Balance|Content=His Super duration was increased to 3 seconds (from 2.5).|Change=Buff}}
+**{{Balance|Content=His pickaxe no longer disappears after he is defeated.|Change=Buff}}
+**{{Balance|Content=Stuns, knockbacks, and pulls can now interrupt his Super.|Change=Nerf}}
+**{{Balance|Content=He was given voice lines.|Change=Neutral}}
+**{{Balance|Content=His class was changed to Fighter (from Sharpshooter).|Change=Neutral}}
+*21/05/19:
+**{{Balance|Content=Carl can now pre-aim his main attack while using Super.|Change=Buff}}
+**{{Balance|Content=Carl's main attack cooldown time was decreased.|Change=Buff}}
+*31/05/19:
+**{{Balance|Content=The Road Rage Carl skin was added.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Carl's main attack damage was decreased to 580 (from 640) per hit.|Change=Nerf}}
+**{{Balance|Content=His Power Throw Star Power projectile speed boost was decreased to 13% (from 16%).|Change=Nerf}}
+*26/06/19:
+**{{Balance|Content=Carl's Protective Pirouette Star Power was added.|Change=Neutral}}
+*02/08/19:
+**{{Balance|Content=The Hog Rider Carl skin was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Carl's main attack projectile speed was increased by 8%.|Change=Buff}}
+**{{Balance|Content=His Protective Pirouette Star Power damage reduction was increased to 40% (from 30%).|Change=Buff}}
+*18/09/19:
+**{{Balance|Content=Carl's main attack damage was increased to 600 (from 580) per hit.|Change=Buff}}
+**{{Balance|Content=Carl's main attack now has a 0.5-second cooldown time between throws.|Change=Nerf}}
+**{{Balance|Content=Fixed Road Rage Carl's and Hog Rider Carl's projectile speeds to match the correct values.|Change=Neutral}}
+*25/11/19:
+**{{Balance|Content=The Leonard Carl skin was added. It was featured as a Line Friends skin.|Change=Neutral}}
+*23/12/19:
+**{{Balance|Content=The Captain Carl skin was added. It was featured as a Pirate Brawlidays skin.|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Carl's Protective Pirouette Star Power damage reduction was decreased to 30% (from 40%).|Change=Nerf}}
+*17/03/20:
+**{{Balance|Content=Carl's Super damage was decreased to 360 (from 400) per swing.|Change=Nerf}}
+**{{Balance|Content=His Heat Ejector Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Carl's Super damage was increased to 420 (from 360) per swing.|Change=Buff}}
+*16/06/20:
+**{{Balance|Content=Carl's main attack damage was increased to 660 (from 600) per hit.|Change=Buff}}
+*10/09/20:
+**{{Balance|Content=Carl's Super recharge rate was increased slightly.|Change=Buff}}
+*06/11/20:
+**{{Balance|Content=Carl's Flying Hook Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=The number of Super hits to recharge Carl's Super was decreased to 16 hits (from 17).|Change=Buff}}
+**{{Balance|Content=Carl's Heat Ejector Gadget bonus damage was increased to 400 (from 300) per second.|Change=Buff}}
+**{{Balance|Content=Carl's main attack range was decreased to 6.67 tiles (from 7.67).|Change=Nerf}}
+**{{Balance|Content=Carl's main attack projectile speed was decreased by 13%.|Change=Nerf}}
+**{{Balance|Content=Carl's Super charge rate was decreased slightly.|Change=Nerf}}
+**{{Balance|Content=Carl's Flying Hook Gadget now deals damage once (from twice).|Change=Nerf}}
+**{{Balance|Content=Carl now no longer goes through walls with water opposite of them while Flying Hook is active.|Change=Neutral}}
+*16/12/20:
+**{{Balance|Content=Fixed a bug when Carl died mid-air while using his Flying Hook Gadget.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Carl's Heat Ejector Gadget bonus damage was increased to 600 (from 400).|Change=Buff}}
+**{{Balance|Content=The Dark Tide Carl skin was added.|Change=Neutral}}
+*28/01/21:
+**{{Balance|Content=Fixed an issue with Dark Tide Carl not appearing in the skin offers in the Shop.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Carl's Protective Pirouette damage reduction was increased to 35% (from 30%).|Change=Buff}}
+**{{Balance|Content=Carl's Heat Ejector Gadget was reworked from burning enemies that step on them for 600 damage every second they are stepping on them to burning enemies that step on them once for 1200 damage over 4 seconds.|Change=Neutral}}
+*07/04/21: 
+**{{Balance|Content=Carl's main attack range was increased to 7.33 tiles (from 6.67).|Change=Buff}}
+**{{Balance|Content=Carl, Road Rage Carl, Hog Rider Carl, Leonard Carl, and Captain Carl received face animations.|Change=Neutral}}
+*19/05/21:
+**{{Balance|Content=Carl's projectile speed was increased by 15%. This did not affect the increased speed from his Power Throw Star Power.|Change=Buff}}
+*16/06/21:
+**{{Balance|Content=Carl's projectile speed was decreased to 2600 (from 2700). This did not affect the increased speed from his Power Throw Star Power.|Change=Nerf}}
+*21/06/21:
+**{{Balance|Content=The Surfer Carl skin was added. It was featured as a Brawl Pass Season 7 exclusive skin.|Change=Neutral}}
+*28/09/21:
+**{{Balance|Content=Carl's Heat Ejector Gadget fire now follows the next main attack rather than Carl himself.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Carl's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=His class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Carl's Super damage was increased to 500 (from 420) per swing.|Change=Buff}}
+**{{Balance|Content=Carl's Super recharge rate was increased by 19%.|Change=Buff}}
+*25/01/22:
+**{{Balance|Content=Carl's main attack range was increased to 8.33 tiles (from 7.33).|Change=Buff}}
+*17/03/22:
+**{{Balance|Content=Fixed an issue where Carl's pickaxe returning after a score in [[Basket Brawl]] could crash the game.|Change=Neutral}}
+*02/05/22:
+**{{Balance|Content=The Biker Carl skin was added. It was featured as a Brawl Pass Season 12 skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Carl's main attack projectile speed was increased to 3000 (from 2600). This did not affect the increased speed from his Power Throw Star Power.|Change=Buff}}
+*31/08/22:
+**{{Balance|Content=Carl's health was decreased to 4000 (from 4400).|Change=Nerf}}
+*23/03/23:
+**{{Balance|Content=The Sultan Carl skin was added. It was featured as a Sands of Time skin.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Dark Tide Carl now costs 79 [[Gems]] (from 10000 [[Star Points]]).|Change=Neutral}}
+*11/05/23:
+**{{Balance|Content=The Goblin Carl skin was added.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Carl's Heat Ejector Gadget damage was increased to 500 (from 300) per second.|Change=Buff}}
+**{{Balance|Content=Dark Tide Carl was remodeled.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Carl's Heat Ejector Gadget damage was increased to 528 (from 500) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Carl's flavor text was changed from "Carl throws his Pickaxe like a boomerang. His Super is a crazy cart spin that clobbers anyone around him." to "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!"|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Carl's main attack damage was increased to 740 (from 660) per hit.|Change=Buff}}
+**{{Balance|Content=Carl's Heat Ejector Gadget damage was increased to 592 (from 528) per second.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Carl's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Carl's Mutation was removed from the game.|Change=Neutral}}
+*22/05/24:
+**{{Balance|Content=Fixed Dark Tide Carl's Super visual effects.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Carl's Heat Ejector Gadget damage now charges his Super.|Change=Buff}}
+*27/08/24:
+**{{Balance|Content=Fixed an issue with Surfer Carl's head.|Change=Neutral}}
+*31/10/24:
+**{{Balance|Content=Carl's Heat Ejector Gadget damage Super charge rate was decreased by 70%.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Carl's Flamespin Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Carl's Heat Ejector Gadget cooldown was increased to 17 seconds (from 15).|Change=Nerf}}
+*19/04/25:
+**{{Balance|Content=The Insector Carl skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Carl's Flamespin Hypercharge speed boost was increased to 25% (from 20%).|Change=Buff}}
+**{{Balance|Content=Carl's Flamespin Hypercharge shield boost was increased to 15% (from 10%).|Change=Buff}}
+**{{Balance|Content=Carl's Flamespin Hypercharge damage boost was decreased to 15% (from 20%).|Change=Nerf}}
+*30/04/25:
+**{{Balance|Content=Carl's Heat Ejector Gadget damage was decreased to 480 (from 592) per second.|Change=Nerf}}
+**{{Balance|Content=Carl's Heat Ejector Gadget damage Super charge rate was decreased by approximately 19%.|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Carl's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Carl's Wasabi Power was removed from the game.|Change=Neutral}}
+*10/10/25:
+**{{Balance|Content=The Crazy Clown Carl skin was added. It was featured as a Carreta skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Carl's Flamespin Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Carl's Flamespin Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Carl's Flamespin Hypercharge shield boost from 15%.}}
+**{{Balance|Content=Carl was slightly remodeled.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Carl's health was increased to 4200 (from 4000).}}
+*04/06/26:
+**{{Balance|Neutral|The Super Ball, Striker and Kicker Carl skins were added. They were featured as Brawl Pass Season 51 skins and Brawl Strikers skins.}}
+*30/06/26:
+**{{Balance|Change=Buff|Content=Carl's main attack damage was increased to 820 (from 740).}}
+*08/07/26:
+**{{Balance||Content=Fixed a bug where Carl fired duplicate returning projectiles after picking up [[8-Bit]]'s ammo clips.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Carl's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (17)===
+{{Skin Gallery
+|Name1=Goblin|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Clash Stories|Rarity1=Rare
+|Name2=Dark Tide|Cost2 = 39 Gems, available after purchasing Captain Carl|Campaign2=Tales of the Sea|Rarity2=Epic
+|Name3=Road Rage|Cost3 = 79 Gems • '''S'''|Campaign3=Retropolis Nights|Rarity3=Super Rare
+|Name4=Hog Rider|Cost4 = 79 Gems|Campaign4=Clash Stories|Rarity4=Super Rare
+|Name5=Leonard|Cost5 = 79 Gems|Campaign5 = Brown & Friends|Rarity5=Super Rare
+|Name6=Captain|Cost6=149 Gems • '''S'''|Campaign6=Tales of the Sea|Rarity6=Epic
+|Name7=Sultan|Cost7=Free from Najia Boxes or 149 Gems|Campaign7=Sands of Time|Rarity7=Epic
+|Name8=Insector|Cost8=Free from Bolt Boxes or 149 Gems|Campaign8=Supercell Make|Campaign8_2=Brawl Unite|Rarity8=Epic
+|Name9=Crazy Clown|Cost9=Free from Vince Boxes or 149 Gems|Campaign9=Carreta|Rarity9=Epic
+|TrueSkins = yes
+|NameP1=Surfer|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2 = Summer of Brawl|RarityP1=Epic
+|NameP2=Biker|CostP2=Brawl Pass or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Stunt Show|RarityP2=Epic
+|NameP3=Super Ball|CostP3=2 Skin Keys|CampaignP3=Brawl Pass|CampaignP3_2=Brawl Strikers|RarityP3=Epic
+|NameP4=Striker|CostP4=Free after purchasing the Skin Set|CampaignP4=Brawl Pass|CampaignP4_2=Brawl Strikers|RarityP4=Epic
+|NameP5=Kicker|CostP5=Free after purchasing the Skin Set|CampaignP5=Brawl Pass|CampaignP5_2=Brawl Strikers|RarityP5=Epic
+}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Carl
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Road Rage}}
+{{Pin Table|Biker}}
+{{Pin Table|Sultan}}
+{{Pin Table|Insector|Special}}
+{{Pin Table|Hog Rider|Special}}
+{{Pin Table|Leonard|Special}}
+{{Pin Table|Crazy Clown|Thanks}}
+{{Pin Table|Captain|Special}}
+{{Pin Table|Dark Tide|Special}}
+{{Pin Table|Surfer|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Carl|Rarity = Common}}
+|{{Spray|Type = Carl Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Sultan Carl|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Carl1}}
+|{{Pfp|Carl2}}
+|{{pfp|Carl3}}
+|{{Pfp|Carl4}}
+|{{Pfp|Sultan Carl}}
+|-
+|{{Pfp|Captain Carl}}
+|{{Pfp|Dark Tide Carl}}
+|{{Pfp|Biker Carl}}
+|{{Pfp|Surfer Carl}}
+|{{Pfp|Insector Carl}}
+|-
+|{{Pfp|Crazy Clown Carl}}
+|}
+
+{{Navigation}}
+[[ru:Карл]]

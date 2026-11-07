@@ -1,0 +1,200 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Blows you away|PrestigeTitle = Go Green!|Rarity = Mythic|Class = Support|MovementSpeed = 800 (Fast)|HealthLabel = Health|Health = 2500|AttackRange = 8 (Long)|Reload = 1.45 seconds (Fast)|AttackSuperCharge = 17%|AttackLabel = Damage|Attack = 1000|AttackLabel2 = Shield Health on herself|Attack2 = 300|AttackLabel3=Shield Health on allies|Attack3=760|AttackLabel4=Max Self Shield|Attack4=1000|AttackSpeed=3500|SuperSpeed = 1196|SuperRange = 5 (Normal)|SuperSuperCharge = |SuperLabel = Health|Super = 2500|SuperSpread = 
+360°|VoiceActor = Brigid Reale|Gadget1Name=Wind-Powered|Gadget1Cooldown=18 seconds|Gadget2Name = Green Grenade|Gadget2Range = 10 (Very Long)|Gadget2Cooldown=18 seconds|StarPower2Name=Solar Shield|StarPower2Label=Health|StarPower2=1080|HyperchargeMultiplier=30%|AttackHyperchargeCharge=5.1%|Previous=Starr Nova|Next=Cosmo|AttackWidth=1.34}}
+{{Quote|A smart scientist with a nostalgic soul. After years working in shady corporate laboratories, she left to build Windstock and help the planet, not harm it!}}{{Portrait}}
+Wendy is a {{Rarity|Mythic}} [[Brawler]] who has the third-lowest health of any Brawler and a moderate damage output, but has a fast movement and reload speed, a long range, and immense survivability thanks to her attack, Super, and Trait. She was the 106th Brawler added to the game. Her Traits allow her to move over water, and to charge her Super from enemies damaging her shield. She attacks by firing a blast that damages enemies, shields allies, and provides herself a shield that absorbs damage. Her Super is a wind turbine that passively reduces some damage Wendy and her allies take, redirecting that same amount of damage done to the turbine instead. Her first Gadget, Wind-Powered, makes Wendy jump forward. Her second Gadget, Green Grenade, makes her lob a green grenade that temporarily slows enemies down and prevents them from healing. Her first Star Power, Slowing Shield, slows enemies down while inside Wendy's Super. Her second Star Power, Solar Shield, increases the wind turbine's health. Her Hypercharge, Green Energy, makes her Super have more health and absorb more damage.
+==Traits==
+===Water===
+{{Quote|This Brawler can move over water.}}{{Trait|Water}}
+Wendy's first Trait allows her to be able to move on water. 
+
+===Shield Damage===
+{{Quote|Charges Super when taking shield damage.}}{{Trait|Shield Damage}}
+Wendy's other Trait allows her to charge her Super whenever she takes shield damage from enemy Brawlers or spawnables. The Super charge rate depends on the damage the enemy deals. It takes 6.67x of the shield's max health of damage to charge her Super completely, and all damage is calculated after shielding and other effects. Wendy also spawns with a shield already active, which is equal to 40% of her maximum health. This shield does not decay, but can only be replenished with her main attack.
+
+==Attack: Blow Dryer==
+{{Quote|Wendy fires a blast dealing 2000 damage and giving herself 600 shield. When hitting a teammate, Wendy gives them 1520 shield.}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+Wendy fires a blast that deals moderate damage to enemies, has a long range, and provides herself a consumable shield that is 30% of the damage. However, upon firing the attack on allies, she instead provides them a shield that is 30.4% of her max original health. Wendy's shield on herself does not decay, but her allies' decay for 5% health every 0.5 seconds, similar to other consumable shields. If an attack deals more damage than the shield's current health, the shield disappears and Wendy and her allies with the shield is damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on the Brawler's max health when this shield is active. Enemies damaging those with the shield on can still charge their Supers, but allies with Traits allowing them to charge Super from taking damage cannot. The shield on allies does stack, up to 160% of Wendy's original max HP.
+
+==Super: Planet Protector==
+{{Quote|Wendy deploys a shield generator that absorbs 60% of damage taken by Wendy and her teammates within its range.}}
+Wendy lobs a wind turbine that covers a 6-tile radius. The turbine passively reduces all damage Wendy and her allies take by 60% by redirecting the damage to the Super instead. 
+
+==Gadgets==
+===Wind-Powered===
+{{Quote|Wendy's platform gives her a boost and she jumps a short distance. Cooldown: 18 seconds.}}{{Gadget|1}}
+Wendy jumps forward 3.33 tiles in the direction she's facing, similar to [[Brock]]'s Rocket Laces Gadget, allowing her to jump over walls or water. If required to cross over a larger amount of blocks or over lakes, her jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Wendy is completely immune to all damage besides status effects and damage applied over time. The Gadget cannot be used at less than max range unless its forced to by obstacles.
+
+===Green Grenade===
+{{Quote|Wendy launches a wind grenade that slows all enemies hit and stops them healing momentarily. Cooldown: 18 seconds.}}
+{{Gadget|2}}
+Wendy lobs a wind grenade that explodes in a 2-tile radius, slowing enemies hit and preventing them from healing for 5 seconds . It doesn't deal damage and consumes ammo. 
+
+==Star Powers==
+===Slowing Shield===
+{{Quote|Enemies in Wendy's shield generator are slowed.}}{{StarPower|1}}
+Enemies inside Wendy's shield generator will be slowed by 15%.
+
+===Solar Shield===
+{{Quote|Wendy's shield generator gains an additional 1200 health.}}{{StarPower|2}}
+This Star Power increases the shield generator's health by 24%.
+
+==Hypercharge: Green Energy==
+{{Quote|Increased Shield Generator health and absorb 90% of damage taken by Wendy or her teammates.}}{{Hypercharge}}
+When activated, Wendy's Planet Protector has 1000 more HP and absorbs 90% damage from attacks. She also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*If you are playing [[Brawl Ball]], you can feed your attacks to the highest HP teammate (e.g. [[Frank]] with the Sponge Star Power), who can grab the ball and charge to the opponent team's goal. This is especially easy to execute if the opponents do not have Crowd Control abilities or if the teammate has Crowd Control immunity.
+**If you put down your Super, the strategy is much more viable because your charging teammate essentially has 5000 extra HP as your Super will redirect 5000 damage the charging teammate would have received to itself. Either Star Power benefits the team by either making it difficult for opponents to defend the goal or making the charge easier to pull off.
+**Your 3rd teammate can be a healer (e.g. [[Byron]] or [[Poco]]) so your charging teammate can heal and become even more resistant to damage.
+**Alternatively, your 3rd teammate can be a fast moving Brawler (e.g. [[Mortis]] or [[Crow]]) who will ensure your team gets the ball and pass to the charging teammate.
+*Wendy can be a defensive menace in [[Knockout]] as she constantly shields her team and reduces their damage. Keep in mind that once her shield is depleted, Wendy herself is very frail and should keep out of fights as much as possible.
+
+===Recommended Build===
+
+===Strategies===
+
+===Other===
+*You can essentially treat Wendy's shield on herself as bonus health: it doesn't decrease automatically, and is used in place of the 5000 base health, although also doesn't increase automatically. Therefore, Wendy when she spawns should be considered as if she has 7000 HP. 
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = wendy start vo 01.ogg|Filedescription = "Windstock's online, and ready to rock!"}}
+|{{Ogg|Filename = wendy lead vo 01.ogg|Filedescription = "Manifesting winning? Na na na, I engineered it!"}}
+|{{Ogg|Filename = wendy hurt vo 01.ogg|Filedescription = "Bad karma vibes."}}
+|{{Ogg|Filename = wendy kill vo 01.ogg|Filedescription = "Good vibes only!"}}
+|{{Ogg|Filename = wendy die vo 01.ogg|Filedescription = "This was just a bad trip."}}
+|
+|{{Ogg|Filename = wendy ulti vo 01.ogg|Filedescription = "Borrow my breeze!"}}
+|-
+|{{Ogg|Filename = wendy start vo 02.ogg|Filedescription = "Solar flower power vibe check."}}
+|{{Ogg|Filename = wendy lead vo 02.ogg|Filedescription = "Low-key feeling groovy."}}
+|{{Ogg|Filename = wendy hurt vo 02.ogg|Filedescription = "Not groovy!"}}
+|{{Ogg|Filename = wendy kill vo 02.ogg|Filedescription = "Flower child goes full send."}}
+|{{Ogg|Filename = wendy die vo 02.ogg|Filedescription = "It's the cycle of life."}}
+|
+|{{Ogg|Filename = wendy ulti vo 02.ogg|Filedescription = "Join the shield train!"}}
+|-
+|{{Ogg|Filename = wendy start vo 03.ogg|Filedescription = "Groovy boots and solid roots!"}}
+|{{Ogg|Filename = wendy lead vo 03.ogg|Filedescription = "Taking the wind-powered W."}}
+|{{Ogg|Filename = wendy hurt vo 03.ogg|Filedescription = "Negative energy detected!"}}
+|{{Ogg|Filename = wendy kill vo 03.ogg|Filedescription = "NPC energy emission, net zero."}}
+|{{Ogg|Filename = wendy die vo 03.ogg|Filedescription = "Wow, look at all those colors!"}}
+|
+|{{Ogg|Filename = wendy ulti vo 03.ogg|Filedescription = "Catch my flow!"}}
+|-
+|{{Ogg|Filename = wendy start vo 04.ogg|Filedescription = "Powered by renewable energy."}}
+|{{Ogg|Filename = wendy lead vo 04.ogg|Filedescription = "Representing the renewable revolution."}}
+|{{Ogg|Filename = wendy hurt vo 04.ogg|Filedescription = "Felt that in my chakras."}}
+|{{Ogg|Filename = wendy kill vo 04.ogg|Filedescription = "Easy breezy."}}
+|{{Ogg|Filename = wendy die vo 04.ogg|Filedescription = "Peace out, besties!"}}
+|
+|{{Ogg|Filename = wendy ulti vo 04.ogg|Filedescription = "Bubble up, besties!"}}
+|-
+|{{Ogg|Filename = wendy start vo 05.ogg|Filedescription = "Ready to grow, glow, and put on a show, baby."}}
+|{{Ogg|Filename = wendy lead vo 05.ogg|Filedescription = "Take that, big nanotech."}}
+|{{Ogg|Filename = wendy hurt vo 05.ogg|Filedescription = "Stress test passed, eugh, barely."}}
+|{{Ogg|Filename = wendy kill vo 05.ogg|Filedescription = "Your aura needed a reboot."}}
+|{{Ogg|Filename = wendy die vo 05.ogg|Filedescription = "Entering the fourth dimension."}}
+|
+|{{Ogg|Filename = wendy ulti vo 05.ogg|Filedescription = "Dome sweet dome!"}}
+|-
+|{{Ogg|Filename = wendy start vo 06.ogg|Filedescription = "It's the age of Aquarius, baby."}}
+|{{Ogg|Filename = wendy lead vo 06.ogg|Filedescription = "Zero emission, infinite ambition!"}}
+|{{Ogg|Filename = wendy hurt vo 06.ogg|Filedescription = "Nama, stay away!"}}
+|{{Ogg|Filename = wendy kill vo 06.ogg|Filedescription = "Reducing the carbon footprint."}}
+|{{Ogg|Filename = wendy die vo 06.ogg|Filedescription = "I quit Evil Tech to do this?"}}
+|
+|{{Ogg|Filename = wendy ulti vo 06.ogg|Filedescription = "Windstock systems, online!"}}
+|-
+|{{Ogg|Filename = wendy start vo 07.ogg|Filedescription = "Green energy, only. Leave your nanotech at the door."}}
+|{{Ogg|Filename = wendy lead vo 07.ogg|Filedescription = "Number one, with a clean conscience."}}
+|
+|{{Ogg|Filename = wendy kill vo 07.ogg|Filedescription = "Got to trim the weeds."}}
+|{{Ogg|Filename = wendy die vo 07.ogg|Filedescription = "That was so not organic."}}
+|
+|{{Ogg|Filename = wendy ulti vo 07.ogg|Filedescription = "Community shield, online!"}}
+|-
+|
+|{{Ogg|Filename = wendy lead vo 08.ogg|Filedescription = "So far ahead, left my ego behind."}}
+|
+|{{Ogg|Filename = wendy kill vo 08.ogg|Filedescription = "You were destined to be fossil fuel."}}
+|
+|
+|{{Ogg|Filename = wendy ulti vo 08.ogg|Filedescription = "Generating good vibrations!"}}
+|-
+|
+|
+|
+|{{Ogg|Filename = wendy kill vo 09.ogg|Filedescription = "Windstock access, revoked."}}
+|
+|
+|
+|}
+
+==Wendy Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Wendy}}
+
+==History==
+*13/08/26:
+**{{Balance|Neutral|Wendy became available in [[Training Cave]].}}
+**{{Balance|Neutral|Wendy could be unlocked early from [[Brawl Boxes|Wendy Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).}}
+*01/09/26:
+**{{Balance|Nerf|Wendy's Super charge rate was decreased to 70 (from 80).}}
+**{{Balance|Nerf|The Super charge rate from Wendy's Trait was decreased to 30% (from 50%).}}
+**{{Balance|Nerf|Wendy's Super turret health was decreased to 2500 (from 3500).}}
+**{{Balance|Nerf|Wendy's Super turret damage redirection amount was decreased to 60% (from 75%).}}
+**{{Balance|Nerf|Wendy's level up health was decreased to 300 (from 600) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Wendy's level up damage was decreased to 2% (from 4%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Wendy's movement speed to 800 (from 770).}}
+**{{Balance|Neutral|Wendy became available in the Brawler Blast.}}
+**{{Balance|Neutral|Wendy's Green Energy Hypercharge was added.}}
+**{{Balance|Neutral|Wendy's True Silver and True Gold skins were added.}}
+*16/09/26:
+**{{Balance|Buff|Wendy's health was increased to 4500 (from 4000).}}
+**{{Balance|Nerf|The Super charge rate from Wendy's Trait was decreased to 15% (from 30%).}}
+**{{Balance|Nerf|Wendy's max shield health was decreased to 40% of her max HP (from 100%).}}
+**{{Balance|Nerf|Wendy's provided shield health given with her main attack was decreased to 300 (from 580).}}
+**{{Balance|Nerf|Wendy's Solar Shield Star Power generator health bonus was decreased to 1080 (from 1800).}}
+**{{Balance|Nerf|Wendy's Green Energy Hypercharge generator health bonus was decreased to 1000 (from 2000).}}
+*03/11/26:
+**{{Balance|Nerf|Wendy's main attack projectile size was decreased by 20%.}}
+**{{Balance|Nerf|Wendy's Wind-Powered Gadget range was decreased to 3.33 tiles (from 5).}}
+**{{Balance|Nerf|Wendy's Slowing Shield Star Power slow was decreased to 15% (from 20%).}}
+
+==Cosmetics==
+===Skin===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Wendy
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Wendy|Rarity = Common}}
+|{{Spray|Type = Wendy Platform|Rarity = Common}}
+|{{Spray|Type = Wendy Blow Dryer|Rarity = Common}}
+|{{Spray|Type = Wendy Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Wendy1}}
+|{{Pfp|Wendy2}}
+|{{Pfp|Wendy3}}
+|{{Pfp|Wendy4}}
+|}
+
+{{Navigation}}
+[[es:Wendy]]
+[[ru:Венди]]

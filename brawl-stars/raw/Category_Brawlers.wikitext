@@ -1,0 +1,3 @@
+{{MagicWords}}
+There are currently {{#expr:{{PAGESINCATEGORY:Brawlers|pages}} -1}} Brawlers in the game.
+[[Category:Brawl Stars Wiki]]

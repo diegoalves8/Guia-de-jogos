@@ -1,0 +1,320 @@
+{{Stub}}
+{{Location Infobox
+|name       = Dungeons
+|image      = Dungeon.png
+|location   = Hot and Cold
+|location1  = Castle on the Sea
+|level      = 1100+
+|music      = Simulation
+|label      = Simulation Hub Theme
+|music1     = Dungeon Room Theme
+|label1     = Dungeon Room Theme
+}}
+'''Dungeons''' are Player versus Environment (PvE) game modes, similar to [[Raids]], to acess the dungeons, the player should talk to [[Lucien]] or acess in the server page. To begin a dungeon, two or more players (four maximum) must gather in one of the three turnstiles in the [[Simulation Hub]]. Once started, the players are teleported to a separate game instance where they must progress through 15 consecutive rooms filled with [[enemies]]. Hard difficulty consists of 20 rooms, while Challenge difficulty consists of 100 rooms.
+
+On Challenge difficulty, the player is restricted by a time limit of 15 minutes. Every floor cleared adds 30 seconds to the timer. There are no bosses after [[Zero]]; instead, the floors contain powerful [[enemies]] capable of defeating the player with a single attack.
+
+==Mechanics==
+The [[enemies]] encountered throughout the dungeon may come from various islands across the [[First Sea]], [[Second Sea]], and [[Third Sea]], along with new enemies exclusive to dungeons. These enemies are able to use dashes to move away if the player is attacking. Special boss rooms appear at specific intervals:
+* '''Room 5''': [[Ancient Beast]]
+* '''Room 10''': [[Kitsune Lord]]
+* '''Room 15''': [[Gas Knight]]
+* '''Room 20''': [[Zero]]
+
+{{Boss Bar
+|Name  = Ancient Beast
+|Level = 3000
+|Type  = Dungeon Boss
+|HP    = 285,000
+}}
+
+After completing each room, the player is presented with three buff options and may choose one to apply. These buffs stack across all rooms, allowing the player to accumulate up to 15 (or 20-100 on higher difficulties) buffs by the final room. Buffs can increase specific stats by 500 points, enhance damage of particular weapons, reduce cooldowns, increase [[Air Jump|air jumps]], or grant special abilities such as life leech.
+
+==Rewards==
+At the end of the final room, or at the end of the timer on Challenge difficulty, the player is rewarded with a random [[Trinkets|trinket]] and a sum of {{Money|Money}}, [[Simulation Data]], random [[Materials]], and {{Fragment|Fragment}}s, depending on the damage dealt. After the rewards are distributed, the player is automatically teleported back to the [[Simulation Hub]]. Completing Hard or Challenge difficulty can reward up to three [[trinkets]].
+
+Several nuances affect trinket rewards:
+
+* Only a complete clear grants a chance at a [[Trinkets|trinket]]. Defeating [[bosses]] without finishing the dungeon does not reward any trinkets, and leaving before completion removes any chance of a reward. The player must finish the entire run for it to count.
+* [[Trinkets]] can only be obtained from dungeons (unless the player buys [[Simulation Data]] from the [[Shop]] and uses it to roll trinkets from the [[Trinket Expert]]), which makes them mandatory content for players seeking a complete trinket set.
+* Higher difficulty increases the odds of receiving more [[trinkets]], but there is no guaranteed drop system. Consistent, frequent runs generally provide more progress than infrequent attempts at a difficulty above the player's ability. However, Hard and Challenge Dungeons are the only way to obtain trinkets with modifiers without manually collecting enough of the same trinket to upgrade to Grade III.
+* Even at the same reward tier on Challenge difficulty, the number of [[trinkets]] received (one, two, or three) is not fixed (except for the Bronze tier, which always rewards one trinket). Twenty separately documented Platinum-tier Challenge runs that both reached floor 100 yielded a different [[Trinkets|trinket]] count (two and three respectively), confirming that reaching a high floor count or a high reward tier does not guarantee the maximum number of trinkets.
+* The reward scales with the team's total damage dealt rather than simply with completing the dungeon. A run in which a player deals little damage while relying on teammates yields a smaller reward than a run in which the player contributes damage throughout every room. Assigning roles in advance — such as who tanks, who deals the primary damage, and who handles stuns — can improve outcomes.
+
+==Damage and Stats==
+It is important to note that player damage inside a dungeon does not rely on their normal in-game [[Stats|stats]]. By default, all players deal damage as if they have 2,800 points in [[Melee]], [[Swords|Sword]], [[Guns|Gun]], and [[Blox Fruits|Blox Fruit]]. This base damage can be modified through the buffs obtained during the run. In addition, the player receives 350 additional defense stats (1,750 health) and extra [[Energy]] per room cleared. The player's damage also increases by a set amount for each floor cleared, which stacks with the buffs the player selects.
+
+==Cards==
+===Normal Cards===
+* +500 Stats: Gives 500 stat points in the stat that is shown.
+* Cooldown Reduction: Reduces a certain skill or all skills of any weapon by 15% (Blox Fruit, Melee, etc.) or every move's cooldown by 10%.
+* Skyjumps: The user gains two extra skyjumps.
+
+===Special Cards===
+* '''Shadow:''' Every 60 seconds, a shadow of the player with Godhuman spawns and attacks the enemies.
+* '''35% HYPER!!:''' Melee, Sword, and Gun M1 cooldowns are reduced by 35%. Can be stacked.
+* '''Overflow:''' Gives 3,000 extra overflow health, similar to Shark V4.
+* '''Unbreakable:''' Attacks no longer break the user's ability charges.
+* '''Fortress:''' Stuns no longer apply to the user, with a 20% chance to reflect 100% of damage dealt back to the attacker and stun them for 1 second.
+* '''Lifesteal:''' Heals the user by 10% each time they hit an enemy. Can be stacked.
+* '''30% Sniper:''' Gun damage and range become 30% stronger. Can be stacked.
+
+[[Category:Game Modes]]
+[[Category:Dungeons]]
+
+==Recommended Dungeon Build (PvE)==
+While dungeons technically allow solo entry with the minimum player count, group synergy speeds up clears; coordinated teams generally outperform solo or under-filled groups, especially on higher difficulties.
+
+===Fruit===
+'''[[Buddha]]'''
+* Relatively easy to obtain
+* Provides strong survivability for long runs
+* Has good reach for fighting multiple enemies at once
+
+[[Buddha]] combined with [[Fox Lamp]] provides strong stun potential. [[Buddha]] combined with [[Cursed Dual Katana]] is commonly reported by players to be effective for clearing normal floors, as repeated M1 attacks while transformed can quickly defeat low-health, low-damage enemies.
+
+'''Alternative / Team Synergy Options'''
+* '''[[Dragon]]''' – A strong choice for dungeons, with effective M1 attacks and a large hitbox when transformed with '''[C] Scorching Downfall.''' For faster floor clears specifically, pairing Dragon with attack-speed buffs on M1 rather than pure damage buffs allows the fruit to clear regular floors more quickly, though this is less optimal for single-target boss damage.
+* '''[[Dough]]''' – Provides strong crowd control and boss [[stun]] support. Fortress and Unbreakable help prevent the user from being stunned while using the '''[V] Dough Fist Fusillade/Restless Dough Barrage''' move.
+* '''[[Kitsune]]''' – Has high DPS; pairing it with Cooldown Reduction and Ghoul V4's passive allows near-continuous skill use.
+* '''[[Empyrean|Empyrean Kitsune]]''' – Similar to Kitsune, with access to '''[Z] Sweeping Firestorm''', one of the highest-damage moves in the game.
+* '''[[Gravity]]''' – Provides strong enemy grouping with '''[C] Gravitational Prison.'''
+* '''[[Sound]]''' – A support-focused fruit that buffs allies.
+* '''[[Control]]''' – Deals fast, powerful damage. The '''[V] Total Concentration''' move stuns enemies for an extended duration without granting i-Frames, allowing other players to attack them while stunned. The drag M1 attack with the Spatial Cut Authentication admin panel upgrade equipped can also be very strong, as with the right placement of your domain, the attack will hit every enemy. (wherever you choose to cut, recommended to do so in line with the ground)
+* '''[[Magma]]''' – Deals high damage over time with its abilities, useful for boss fights and for dealing with tougher enemies.
+* '''[[Lightning]]''' – A good alternative to [[Dragon]]. The '''[V] Thunderball Destruction''' move has a large [[Area of Effect|AoE]].
+* '''[[Spirit]]''' – Can spawn allies that regenerate health and increase the user's speed. Provides large AoE and high damage with '''[V] End of Times.'''
+* '''[[Gas]]''' – Transformed M1 attacks can stun enemies continuously and pair well with the "15% more fruit M1 speed" buff, since Gas M1 attacks have no cooldown between each other. You become a monster.
+* '''[[Phoenix]]''' – The Awakened and Transformed version of X can heal allies during boss fights and regular rooms. The V and F abilities allow the user to stay airborne and reach difficult areas such as shrines or vents, and the C move is useful against bosses.
+* '''[[Tiger]]''' – Has moves that deal high damage and can grab multiple enemies. The C skill can be useful during boss fights, since the user can trigger the C cutscene while allies continue damaging the [[Bosses|boss]].
+* '''[[Werewolf]]''' – Similar to [[Tiger]], but with higher damage.
+* '''[[Pain]]''' – Most of its moves are multi-target, making it effective for dungeons.
+* '''[[Mammoth]]''' – Provides AoE, good damage, and delayed stun with its C and X moves.
+* '''[[Yeti]]''' – Has high DPS, and its transformed X move can destroy gas vents or Kitsune shrines effectively. Transformation is recommended.
+* '''[[Shadow]]''' – Provides good DPS and damage over time with [V].
+* '''[[Blizzard]]''' – All moves have decent AoE. '''[V] Blizzard Domain''' has a large AoE and high damage, and the [F] move can deal continuous damage when held.
+
+===Race===
+'''[[Human]]'''
+* Deals strong damage when used with appropriate accessories and buffs
+* High mobility across the floors
+* V4 Limit Break is effective when used correctly
+
+'''[[Draco]]'''
+* High defense against enemies
+* Provides damage buffs to allies
+* Orb damage helps defeat enemies faster and can one-shot bosses with sufficient upgrades
+
+'''[[Angel]]'''
+* Provides strong stun potential with King's Rule; if used correctly, it can stun enemies indefinitely
+* Provides strong health regeneration, which pairs well with the Lifesteal buff
+
+'''[[Cyborg]]'''
+* Provides high DPS when combined with repeated Buddha M1 attacks, Aftershock, and Energy Control
+* Spreads damage out across enemies
+* Quick energy replenishment
+* V4 Form Agility
+
+'''[[Ghoul]]'''
+* Provides strong lifesteal, which pairs well with the Lifesteal card
+* Provides strong cooldown reduction, allowing the user to use skills with little to no cooldown when combined with cooldown reduction cards
+* Great speed
+* Serves as a strong all-around option
+
+===Sword===
+'''[[Fox Lamp]]'''
+
+* Provides strong stun
+* High damage
+* Both moves have no endlag
+* Decent sized [[Area of Effect|AoE]] (X move)
+* No cooldowns between m1's
+
+'''[[Dragonheart]]'''
+* Good mobility
+* Long range and decent damage
+* Can drag enemies, useful for grouping and killing enemies across the map
+* Large [[Area of Effect|AoE]] with '''[X] Infernal Catastrophe'''
+
+'''[[Shark Anchor]]'''
+* Large hitbox
+* Strong crowd control
+* Effective for clearing grouped enemies
+
+'''[[Cursed Dual Katana]]'''
+* Quick ability casting
+* Fast projectiles
+* Strong damage
+* A strong option to pair with Buddha
+
+'''[[True Triple Katana]]'''
+* A strong option to pair with Buddha
+* Good mobility, as the last M1 has dash and the '''[Z] Wolf Fang Rush'''
+* Decent range and high damage with '''[X] Dragon Hurricane'''
+
+'''[[Dragon Trident]]'''
+* One of the highest AoE and range values among swords
+* Quick ability casting
+* Can have very low cooldown if used with the correct buffs and Ghoul
+
+'''[[Dark Blade]]'''
+* Quick ability casting
+* High damage if used with the correct buffs
+
+'''[[Bisento]]'''
+* Large [[Area of Effect|AoE]] on the V2 version
+* High damage
+* Long range
+* Powerful M1 
+* Useful against bosses
+
+'''[[Soul Cane]]'''
+* Can stun-lock bosses when paired with the Cooldown Reduction buff and Ghoul V4
+* Relatively easy to obtain
+
+===Gun===
+'''[[Dragonstorm]]'''
+* Auto-aim move in the air, '''[Z] Draconic Blitz'''
+* Good range and fast projectiles
+* Good [[Area of Effect|AoE]]
+* Quick move casting
+* M1 attacks are effective against bosses and for pushing back enemies; cooldown is very low with 35% HYPER!!
+
+'''[[Skull Guitar]]'''
+* Strong [[stun]] and life leech with '''[X] El Diablo'''
+* Good range
+* M1 attacks have [[Area of Effect|AoE]]
+* Effective for crowd control
+
+'''[[Magma Blaster]]'''
+* M1 attacks are useful against bosses and strong NPCs
+* High damage with '''[X] Magmatic Pressure'''
+* Long stun, effective against bosses
+* Decent range and AoE
+
+'''[[Bazooka]]'''
+* Large [[Area of Effect|AoE]]
+* High damage
+* M1 has [[Destructible Physics]], making it effective for destroying shrines and vents
+
+==Accessory / Trinket==
+* Damage, cooldown reduction, or defense should be prioritized.
+* Buff synergy is more important than base stats in dungeons.
+
+==Stat Setup (Dungeon Rules)==
+* Player damage is treated as having max stats in all categories.
+* Dungeon buffs should focus on:
+** Damage increases
+** Weapon-specific boosts
+** Defense and sustain
+
+'''''Note on Difficulty Scaling'''''
+
+The build recommendations above are not officially split by difficulty (Normal/Hard/Challenge). In practice, survivability-focused buffs and cards (Fortress, Unbreakable, Lifesteal) become more important at higher difficulties, since Challenge-mode enemies can defeat players in a single hit. 
+
+==How to Play the Build==
+===Early Rooms (1–4)===
+# The player should use [[Buddha]] with Sword M1 attacks to clear rooms as quickly as possible.
+#* A strong [[Swords|sword]] or [[Guns|gun]] should be used regardless of the player's usual choice, since the mode is not PvP and prioritizes [[Area of Effect|AoE]] and damage over [[stun]] and combo potential.
+#* If there are no [[Buddha]] users, the remaining players can use all the attacks of their [[Swords|Sword]], [[Guns|Gun]], [[Fighting Styles|Fighting Style]], and [[Blox Fruits|Blox Fruit]] in succession.
+
+===Boss Rooms (5 / 10 / 15)===
+# Buffs that help in boss fights, such as Lifesteal, stat increases, Unbreakable, and Fortress, should be prioritized.
+#* Crowd control from [[Lightning]] or [[Dough]] can help control the boss.
+#* [[Buddha]] or [[Dragon]] users should handle burst [[Area of Effect|AoE]] damage, and the team should deal as much damage as possible while the boss is stunned.
+#* If a [[Gas]] user is present, they can stun the boss continuously with M1 moves. The other players should avoid disturbing the stun and focus on M1 attacks or skills without knockback.
+
+'''Late Rooms:'''
+* Buff stacking provides significant damage and survivability.
+* Damage buffs should be prioritized over raw [[Stats|stat]] increases.
+* Cooldown reduction buffs are especially useful in Challenge difficulty.
+
+==Tips==
+* During the Shrine and Vent phase of [[Kitsune Lord]] and [[Gas Knight]], the user can use a long-range ability (e.g. Explosive Gun M1) below the text to instantly kill it. This also works with non-Explosive guns for the vents, though the player may need to move closer or be at the same height as the vent.
+* Clearing the Blocks of [[Zero]] does not do much, since they deal relatively low damage; killing the boss quickly should be a higher priority.
+* Storm Blessing or an [[Enchantments|enchantment]] such as Vampiric (or Curse of the Reaper) will greatly increase the chance of survivability. Siphon is also particularly useful if the player runs out of [[energy]] frequently.
+* Each player focusing on one side allows four players to cover all four sides of the dungeon room, which speeds up completion significantly.
+* [[Buddha]] users with [[Dragon Trident]] should have Rage [[Enchantments]] to gain speed.
+* Using [[Gas]] is recommended for completing dungeons.
+* Using [[Gas]]'s X move (Bursting Vapor) at the Kitsune Shrine and on the [[Kitsune Lord]] simultaneously during its transformation can deal very high damage, sometimes removing half of its health on Normal difficulty.
+
+==Notes==
+* Dying in the dungeon has no effect as of now. The player respawns after five seconds and is able to continue the dungeon as normal.
+* During the fight in the dungeon, [[items]]/[[inventory]], [[Shop|shops]], and stats are disabled. This means that the user cannot switch, equip, or use items, or switch fruits from the shop. The player should equip their best build before entering the dungeon.
+* When using fruits that have a transformation that cancels [[Fighting Styles]], [[Swords]], and [[Guns]] and has no Fury meter, the player does not need to consider which [[Swords]] or [[Guns]] to bring, and can store them where they will not be seen. However, since the player has max stats on Sword, Gun, Melee, and Blox Fruit in the dungeon, playing untransformed is recommended so the player can take advantage of their whole build.
+* The player has a maximum of 50 energy (not to be confused with the [[Energy]] bar; this is dungeon-exclusive), which refills to maximum every eight hours. The player cannot start a dungeon if they run out of energy. Doing one dungeon uses 10 energy, and the player regains one energy every nine minutes and 36 seconds. On completing a Normal dungeon, it may appear that the dungeon actually took eight or nine energy, since the player would have gained one or two energy while doing the dungeon.
+* While clearing room 10 or room 15, all players must destroy the shrines/vents to stop the boss from healing; if not destroyed, the boss can heal to max HP or explode the whole floor, killing everyone on it.
+* Each difficulty has a requirement to play: Normal is unlocked by default, Hard requires 200 [[Simulation Data]] to unlock, and Challenge requires 1,000 [[Simulation Data]] to unlock.
+* Upon entering the dungeon, all of the user's [[stats]] are set to max even if they have a low [[Levels|level]] (e.g. Lv. 1550). However, the user still needs to be at least [[Levels|Lv.]] 1100 to enter the dungeon.
+* Challenge dungeons contain reward tiers, such as the Gold Reward Tier or Platinum Reward Tier. Higher tiers offer better rewards, stronger trinkets, and an increased chance of receiving three trinkets from a single dungeon.
+* In the dungeon, the player's [[Race Awakening|Race Meter]] fills up faster when taking damage from enemy NPCs than when dealing damage to them. Players can take advantage of this if they have a Vampiric/Curse of the Reaper weapon, or have received the Overflow/Lifesteal buff earlier in the dungeon, since they can sustain their V4 for extended periods and clear dungeons more easily.
+
+== Enemies: ==
+
+=== [[First Sea]]: ===
+* [[Fishman Warrior|Fishman Warriors]]
+* [[Fishman Commando|Fishman Commandos]]
+* [[Galley Pirate|Galley Pirates]]
+* [[Galley Captain|Galley Captains]]
+
+=== [[Second Sea]]: ===
+* [[Swan Pirate|Swan Pirates]]
+* [[Marine Lieutenant|Marine Lieutenants]]
+* [[Marine Captain|Marine Captains]]
+* [[Snow Trooper|Snow Troopers]]
+* [[Winter Warrior|Winter Warriors]]
+* [[Snow Lurker|Snow Lurkers]]
+* [[Arctic Warrior|Artic Warriors]]
+
+=== [[Third Sea]]: ===
+* [[Pirate Millionaire|Pirate Millionaires]]
+* [[Pistol Billionaire|Pistol Billionaires]]
+* [[Dragon Crew Warrior|Dragon Crew Warriors]]
+* [[Dragon Crew Archer|Dragon Crew Archers]]
+* [[Hydra Enforcer|Hydra Enforcers]]
+* [[Venomous Assailant|Venomous Assailants]]
+* [[Hydra Leader]] [[Bosses|(Boss)]]
+* [[Marine Commodore|Marine Commodores]]
+* [[Marine Rear Admiral|Marine Rear Admirals]]
+* [[Fishman Raider|Fishman Raiders]]
+* [[Fishman Captain|Fishman Captains]]
+
+=== Dungeons Exclusive: ===
+
+* Snow Brawlers
+* Ascended Monkey
+* Awakened Gorilla
+* The Gorilla God (Boss)
+* Sharkman Teacher (Enemy)
+* Sharkman Master (Boss)
+* Dragon Crew Gunner
+* Dragon Crew Elite
+* Pirate Shooter
+* Bazooka Billionare
+* Pyromaniac (Boss)
+
+=== [[Dungeon Raid Bosses]]: ===
+
+* Ancient Beast
+* Kitsune Lord
+* Gas Knight
+* Zero (<span style="color: #D35400;">'''Hard Mode'''</span> only)
+
+==Trivia==
+* It was possible for [[Magic Elf|Elf NPCs]] to spawn in a dungeon during the Christmas event released alongside dungeons in [[Updates/29.0|Update 29]]. However, they sometimes would not drop [[Candy|Candies]], as NPCs do not drop anything in dungeons.
+* [[Ice Castle]] [[NPCs]] in a dungeon can drop the [[Hidden Key|Hidden Key]], though the key is likely unusable, since there is no known openable gate in dungeons.
+* The system message "The presents event will start in 10 minutes! Make sure you're in the green circle!" used to appear globally in dungeons (and the Simulation Hub) during the Christmas event when [[Updates/29.0|Update 29]] released. However, there was no event island in the dungeon's game instance, and the player could not obtain presents there.
+* The total [[health]] of the Normal difficulty dungeon is just over seven million, and that of Hard is just over 20 million. This difference is mainly due to the difference in [[health]] of the bosses in these difficulties and the absence of the [[Bosses|boss]] [[Zero]] from Normal difficulty.
+* A bug causes [[Dragon]] users' [[Power Meter|fury meter]] to drain to a negative value while destroying vents in transformed form.
+* A bug allows dungeon bosses to instantly defeat a player they approach, using an invisible attack that deals an extreme amount of damage, enough to bypass any armor, defense, overflow health, or race abilities the player might have. This damage can be reflected back to the boss with a 20% chance if the player has '''Fortress''', or always with the [[Draco]] race's Thorn Mail gear (which reflects only part of the total damage). This instantly defeats the boss and gives the player a large increase in their total damage dealt.
+* There is a very low chance that an enemy on a floor becomes invisible and cannot be found, making the dungeon impossible to complete. The invisible enemy sometimes still takes damage from attacks with large AoE and can be defeated by them, though this requires luck.
+* [[Enchantments|Enchantements]] seem to don't work well inside dungeons. For example: Using the unreal unique enchantement that reduces cooldowns by 20%, doesn't seem to cumulate with [[Ghoul]] V4 (40% cooldowns redcution) and accesories that reduce cooldown for swords and guns. It has even been noticed that even with a total of 100% cooldown reduction on a move, it doesn't make you able to spam moves just like admins if you have the unreal enchantement (to be confirmed).
+* There is currently a bug that allows a player thats under level 1100 to enter a dungeon by joining someone else's profile while they're already on the Dungeon Hub.
+
+<gallery>
+File:Hidden dungeon key.png|The [[Hidden Key]] dropped by [[Ice Castle]] NPCs in the dungeons.
+File:Outside the dongeon.png|How the dungeon floors look from the outside.
+</gallery>
+
+==Change History==
+{{Change History|29}}

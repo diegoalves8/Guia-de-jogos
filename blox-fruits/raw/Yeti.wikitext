@@ -1,0 +1,462 @@
+{{Tabber V2
+|tab1  = Yeti
+|tab2  = Fiend
+}}
+{{CombosTab}}
+{{About|the Blox Fruit|the boss|Yeti (Boss)}}
+{{Blox Fruit Infobox
+|name   = Yeti
+|image  = <gallery>
+Yeti Fruit.png|Fruit Icon
+YetiFruitGIF.gif|Fruit GIF
+Yeti.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Transformed
+|update = 25
+
+<!-- Fruit Price -->
+|money  = 5,000,000
+|robux  = 3,000
+}}
+{{Quote|Allows the user to turn into a hulking snow beast with cold attacks and ground-shaking strength.|Shop}}
+'''Yeti''' is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|5,000,000}} or {{Robux|3,000}} from the [[Blox Fruit Dealer]].
+
+Yeti grants the user the ability to manipulate and imbue their attacks with ice and such into powerful and violent attacks along with transforming into the mythological {{w|Yeti}}, enhancing their already powerful and dangerous attacks even more, along with granting additional perks such as damage reduction and freezing any water into ice platforms they or their attacks touch.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Cryogenic Beast
+|file     = YetiIdle.gif
+|desc     = The user is able to transform into a Yeti. While transformed, the user gains 46.5% defense from all damage, approximately 25% speed increase, and there will be no effect in jump and dash distance, and approximately 25% cooldown reduction, along with several enhancements to the fruit's abilities. [[Draco#Version 1-3|Draco V2]]'s [[Flash Step]] buff does not take effect while transformed.
+}}
+
+{{Skill/Passive
+|name     = Frost Walker
+|file     = Yeti Passive.gif
+|desc     = Similar to [[Ice]], the user will create walkable ice platforms each time they touch the [[sea]] (only applied while transformed). Every ice platform the user creates takes up 4 [[energy]]. It will only take energy if the user walks on water.
+}}
+
+{{Skill/Passive
+|name     = Frozen Afterimage
+|file     = Yeti Passive 2.gif
+|desc     = While transformed and after using Flash Step, the user leaves an ice clone of themselves behind. This clone explodes upon contact with enemies, or when 3 seconds have passed, dealing medium damage. This explosion can be dodged on the edge.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Arctic Clap
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged if on the edge or if far enough.
+|gif      = Arctic_Clap
+|gif1     = YetiZUntransformedAir
+|desc     = The user's hand will attract icy energy and cause the screen to shake a little. When released, the user compiles a large amount of snow on their hands and slams them together, causing a straight-line explosion of ice, knocking away enemies a good distance. This ability cannot be aimed vertically, and has quite a small range.
+|desc1    = When used in the air, this attack will appear as a powerful gust of cold wind instead.
+}}
+
+{{Skill
+|key      = X
+|name     = Frostbite Boulder
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = yes
+|instinct = Both the direct impact and the snowballs after the explosion can be dodged. The explosion can be dodged on the edge.
+|gif      = Frostbite_Boulder
+|gif1     = YetiXWater
+|desc     = The user formulates a huge snowball from their hand. When released, the user hurls the snowball towards the cursor, exploding after crashing into any surface, damaging enemies caught in the impact with a snowy blast while leaving traces of snow behind. Unlike other ball-shaped moves such as [[Flame]]'s V, the speed at which the snowball is thrown is extremely fast, akin to a bullet.
+|desc1    = When the snowball lands in water, it will create an ice platform where it landed.
+}}
+
+{{Skill
+|key      = C
+|name     = Glacial Execution
+|mastery  = 100
+|cooldown = 15
+|energy   = 80
+|break    = yes
+|instinct = The blow [[Instinct/Break|breaks Instinct]]. The initial grab can be dodged on the edge. (The move won't execute if it's dodged.)
+|gif      = Glacial_Execution
+|gif1     = YetiCWater
+|desc     = The user launches themselves towards the cursor, and upon contact, they exhale a breath of freezing air that encases the opponent, before dashing behind them and blasting them forwards with a devastating amount of force. This move is single-target and not immune to attacks while the animation plays, so it is not recommended to use this skill for grinding.
+|desc1    = When aimed towards water, a small ice platform will form in the water where the user is supposed to land.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 4.5
+|energy   = 20
+|break    = yes
+|instinct = The roar [[Instinct/Break|breaks Instinct]], but it can be dodged on the edge.
+|gif      = Yeti_Transformation
+|desc     = The user roars, causing ice spikes to pierce out of the ground, dealing damage and knockback to any nearby enemies, before transforming into an upright, huge Yeti with red, glowing eyes. The user gains the ability to walk on water, but loses the ability to use Fighting Styles, Swords and Guns. The size of the Yeti transformation is about as tall as a transformed [[T-Rex]].
+}}
+
+{{Skill
+|key      = F
+|name     = Tundra Rush
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = yes
+|instinct = If used on the ground: the initial grab cannot be dodged; the first and second slam [[Instinct/Break|break Instinct]], and only the throw can be dodged; the [[Area of Effect|AoE]] slams can be dodged on the edge. If used in the air: cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Tundra_Rush
+|gif1     = Tundra_Rush_2
+|desc     = If used on the ground, the user charges forward and grabs the enemy, slamming them into the ground two times, creating ice explosions and ice ground spikes on the floor, and then knocks them away.
+|desc1    = If used in the air, the user charges forward and grabs the enemy, then spins with the enemy and finally throws them away. This variant deals slightly less damage but executes much faster.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = Can rarely be dodged on the edge.
+|gif      = YetiM1Transformed
+|desc     = The user strikes with a pair of ice claws twice, followed by a stomp on the third one, and then unleashes a roar that can knock the enemy backwards on the final one.
+}}
+
+{{Skill
+|key      = Z
+|name     = Arctic Clap
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged on the edge or if far enough.
+|gif      = Artic Slam nerfed
+|gif1     = air Artic Clap nerfed
+|desc     = The user attracts even more energy to their hands, causing the screen to tremble, before launching a bigger straight-line ice explosion that knocks targets backwards, albeit with ice spikes all over the floor pointing towards the cursor, similar to [[Ice|Awakened Ice]]'s X move. When used on [[water]], it will create ice blocks underneath.
+|desc1    = In the air, it will create a burst of cold wind instead.
+}}
+
+{{Skill
+|key      = X
+|name     = Frostbite Boulder
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = Both the direct hit and the ice balls from the explosion can be dodged. The explosion can be dodged on the edge.
+|gif      = Transformed_Frostbite_Boulder
+|gif1     = YetiXTransformedWater
+|desc     = The user hurls a massive snowball that, upon landing, splits into smaller snowballs, damaging enemies within the impact.
+|desc1    = When used on [[water]], it will create a large ice block at where it landed, making a temporary platform for teammates to stand on while fighting [[Sea Events]]. This ice block can also stop enemy boats in their tracks, the same as the transformed Frost Walker passive.
+}}
+
+{{Skill
+|key      = C
+|name     = Glacial Execution
+|mastery  = 100
+|cooldown = 11.25
+|energy   = 80
+|break    = yes
+|instinct = The blow [[Instinct/Break|breaks Instinct]]. The initial grab can rarely be dodged on the edge. (The move won't execute if it's dodged.)
+|gif      = Transformed_Glacial_Execution
+|gif1     = YetiCTransformedWater
+|desc     = The user charges at the enemy, freezing them, charging their fist, and then pushing them backwards with a devastating cold thrust of the wind, along with a lot of snow and ice. This move has significantly more knockback than the untransformed version.
+|desc1    = When aimed towards the water, it will also create an ice platform where the user should land.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3.4
+|energy   = 20
+|instinct = Does not deal damage.
+|gif      = Yeti_Detransform
+|desc     = The user transforms back into their normal form, allowing the user to use fighting styles, swords and guns. Keep in mind that the user also loses the ability to walk on water by doing this.
+}}
+
+{{Skill
+|key      = F
+|name     = Tundra Rush
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = If used on the ground: the initial grab cannot be dodged; the first and second slam [[Instinct/Break|break Instinct]], and only the throw can be dodged; the [[Area of Effect|AoE]] slams can be dodged on the edge. If used in the air: the initial grab cannot be dodged; the first slam [[Instinct/Break|breaks Instinct]], and the throw can be dodged; the AoE can be dodged on the edge.
+|gif      = Transformed_Tundra_Rush
+|gif1     = Transformed_Tundra_Rush_2
+|desc     = If used on the ground, the user charges forward and grabs the enemy, slamming them onto the ground two times and then knocking them backwards.
+|desc1    = If used in the air, the user charges forward and envelops their target in ice, then performs a side-flip and starts falling towards the ground, slamming their target into the ground, and then finally knocks them away.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Extremely high [[Trading|trading]] value as it is the fifith rarest fruit in the game, after [[Magnet]], [[Kitsune]], [[Control]] and [[Dragon]]. 
+* All of its moves can [[Instinct/Break|break Instinct]].
+* Quite long stuns.
+* Potent for [[PvP Mechanics|PvP]].
+* A lot of mobility. 
+* Great combo potential.
+* Almost every move has some part that can hit multiple targets, with the only exception being the [C] move. This makes it a decent choice for grinding, though it would take a lot of skill to be able to grind effectively with it.
+
+|'''[Z] Arctic Clap'''
+* Minimal startup time.
+* Decent [[Area of Effect|AoE]] and knockback.
+* Can be used as a counterattack if an opponent comes too close by pushing them away.
+
+|'''[X] Frostbite Boulder'''
+* Has infinite range.
+* Good damage.
+* Decent [[Area of Effect|AoE]] with little knockback.
+* Slight stun. 
+
+|'''[C] Glacial Execution'''
+* Long stun.
+* Good damage.
+* Decent traveling distance, can be used as an additional [[Flash Step]].
+
+|'''[V] Transformation'''
+* Quick transformation.
+* Decent damage and relatively large [[Area of Effect|AoE]].
+* Knocks back nearby enemies, giving the user a bit of space to transform.
+
+|'''[F] Tundra Rush'''
+* Great damage.
+* Good mobility.
+* Stuns the enemy.
+* Good for extending combos.
+* Can grab the enemy through a wall if used correctly.
+* First and second slams can hit multiple enemies. 
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* One of the hardest fruits to obtain, as it is very expensive and valuable. 
+* Most moves have high knockback.
+* Relatively low damage compared to other Beast Fruits.
+* High mastery requirements.
+* Not great for grinding (untransformed).
+* All moves can be dodged with [[Instinct]].
+
+|'''[Z] Arctic Clap'''
+* Cannot be aimed vertically.
+* Relatively short range.
+* Punishable if missed.
+* High knockback, making it not reliable to extend combos.
+
+|'''[X] Frostbite Boulder'''
+* Difficult to aim at farther enemies, especially at airborne ones.
+* Has a windup.
+* Mediocre hitbox.
+* Despite having infinite range, the initial lob has small range under normal circumstances.
+
+|'''[C] Glacial Execution'''
+* Might be difficult to hit.
+* Single target.
+* Vulnerable to attacks while executing this move.
+* Can cause the user to drown when used on an enemy in the water.
+* High end-lag, so it's not very good for starting/extending combos.
+
+|'''[F] Tundra Rush'''
+* The grab is single target.
+* Very vulnerable on the aerial variant.
+* Can be Instinct-tricked.
+* Does not [[Instinct/Break|break Instinct]] on the air variant.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Can walk on water.
+* Great combo potential.
+* All of its moves can [[Instinct/Break|break Instinct]].
+* Very good for PvP due to its spammable moves.
+* Long stuns.
+* Great for grinding.
+* Ice platforms can act as barriers against water-bound [[Sea Events]].
+* Excellent team support fruit in sea exploration groups, mainly due to its tangible ice platforms and large area coverage.
+* Excellent in both ground and aerial combat.
+
+|'''[TAP] Normal Attack'''
+* Great damage, generally low cooldown and medium knockback makes this attack very spammable in both PvE and PvP.
+* Slightly stuns enemies, being able to cancel certain combo starters.
+* Not too much M1 dash, making this a great choice for grinding in tight areas like [[Tiki Outpost]].
+* Large [[Area of Effect|AoE]] on 3rd and 4th [M1], making it easy to hit.
+* All four [M1] attacks can hit [[Sea Beast]]s and [[Leviathan]].
+
+|'''[Z] Arctic Clap'''
+* Good range, damage and [[Area of Effect|AoE]].
+* Can be used as a reversal tool.
+* Creates ice platforms for teammates to stand on.
+* Very big hitbox, making it very easy to hit, even bigger in the air.
+
+|'''[X] Frostbite Boulder'''
+* Technically has infinite range, just like the untransformed version.
+* Creates ice platforms for allies not using Yeti or any water walking fruits, making [[Terrorshark]]s and [[Sea Beast]]s much easier for those who do not have [[Shark]] or water walking abilities.
+* Slightly stuns enemies when hit, and breaks into smaller snowballs after landing, dealing even more damage. 
+* Massive hitbox compared to the untransformed version.
+
+|'''[C] Glacial Execution'''
+* Great damage. 
+* Stuns the enemy for a long time.
+* Can hit [[Sea Beast|Sea Beasts]].
+* Great mobility, can be used as an additional [[Flash Step]].
+* Multi target when used against [[Rumbling Waters]].
+* Also creates ice platforms.
+
+|'''[F] Tundra Rush'''
+* Long stun.
+* Good range and mobility.
+* Great damage.
+* Good against sky campers, since the user will fall towards the ground at rapid speeds with the enemy if used high in the air.
+* Can grab the enemy through a wall if used correctly.
+* The slams are [[Area of Effect|AoE]], meaning that while only one enemy is being stunned, any enemy that comes close will take damage from the slamming of the target on the ground.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Larger hitbox.
+* Loses the ability to use [[fighting styles]], [[swords]] and [[guns]].
+* Water walking passive is not very reliable as the user can still drown if they get knocked off their ice platforms and into the water. The user will also start swimming if they [[Flash Step]] into the water as ice platforms will not form while they are underwater.
+* The user might struggle against teamers, as the [C] and [F] moves leave the user vulnerable to attacks.
+* All moves can still be dodged with [[Instinct]].
+* Inferior in PvP to it's mutation, [[Fiend]].
+
+|'''[TAP] Normal Attack'''
+* Has little mobility and a low range compared to other fruits like [[Kitsune]] and [[Gas]], so it leaves the user considerably vulnerable while using them.
+* The last roar has considerable knockback.
+* Not reliable in PvP.
+* Cannot be aimed vertically.
+
+|'''[Z] Arctic Clap'''
+* Cannot be aimed vertically.
+* Can be dodged on the edge.
+
+|'''[X] Frostbite Boulder'''
+* Might be difficult to aim.
+* Very high knockback. (If hit incorrectly.)
+* Can be canceled by stun moves.
+
+|'''[C] Glacial Execution'''
+* Might be difficult to land.
+* Extremely high knockback.
+* Very risky to use over water as the user might be stuck underwater while grabbing the opponent if the opponent's hitbox is very low and close to the water. [[Shark]] users can ignore this.
+* Single target, meaning if used on a group of enemies, only one will be affected while the rest can still attack the user. An exception is [[Sea Beast]]s, as multiple of them in [[Rumbling Waters]] can be hit by this attack.
+* High end-lag, so it's not a good combo starter/extender.
+
+|'''[F] Tundra Rush'''
+* Hard to hit in air.
+* Can be Instinct-tricked.
+* The grab is single target.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:YetiConceptArt.jpg|Concept art of the Yeti fruit posted on Twitter by @Tobey_D_Artist.
+File:YetiModel.jpg|Yeti's transformed model posted on [https://x.com/ X] by @oreI_orL.
+File:Yetiblender.gif|Yeti's transformed model made with blender on [https://x.com/ X] by @TBGlitch.
+File:Yeti Glitch.png|Glitch of the snowball being completely still on top of the transformed Yeti.
+</gallery>
+
+==Trivia==
+* For some reason, due to high ping, a glitch may happen involving the [X] move staying on top of the Yeti's transformations head and staying there.
+* Multiple of Yeti's skills have had their name changed after the [https://www.youtube.com/watch?v=NwOlsLgAC0I Yeti Fruit Showcase] video.
+** Those being, '''Ice Clap''' to '''Arctic Clap''', '''Glacial Toss''' to '''Frostbite Boulder''', '''Afterimage Assault''' (Which Most Likely WAS a mistake) to '''Glacial Execution''' and '''Arctic Tackle''' to '''Tundra Rush'''.
+** The {{Ability|Z}}, is very similar to unawakened [[Magma]]'s {{Ability|Magma|Z}}, which is further reinforced by the fact that {{Ability|Z}}'s original name was '''[Z] Ice Clap'''. Moreover, Yeti's transformed {{Ability|C}} move is somewhat akin to Magma's awakened {{Ability|Magma|X|2}} move, in that both moves are basically harnessing their respective elements into their fist and then blasting the foe away with tremendous forces.
+** Additionally, the old [C] move '''(Afterimage Assault)''' had the same skill name as [[Tiger]]'s {{Ability|Tiger|C}} move, meaning that the fruit was likely copy-pasted as a placeholder from Tiger when it was in development.
+** The two following statements above heavily reinforce the fact that Yeti might have been a rushed fruit for the winter Christmas update in 2024.
+* Yeti's {{Ability|C}} rotates the camera best if the user has shift-lock enabled, making it quite annoying for people who don't usually play Shift-lock because sometimes it doesn't rotate. If the player teleports on water, it will create an ice platform for them. This platform lasts longer than the Frost Walker ability, similar to the {{Ability|Z}} and {{Ability|X}}.
+* Yeti and [[Tiger]] used to be the third pair of fruits to share the same price, the second being [[Gas]] and [[Control]], and the first being [[Mammoth]] and [[T-Rex]], however they are now the second pair as of [[Updates/29.0|Update 29]].
+* Yeti is the second [[Beast]]-type fruit that allows its user to walk on [[water]], with the first being [[Kitsune]]. (Since Awakened [[Buddha]] doesn't actually walk on water). In addition, it is also the third fruit in the game, as of [[Update 25]], to create its perspective elemental platforms, being ice, similar to the fruit with the same name and [[Magma]].
+* The player will teleport to the other side of a wall if they use {{Ability|C}} on an [[Enemies|enemy]] that is behind a wall/obstacle. This is only the case when the user has shift-lock enabled.
+* Yeti also shares the same name with the [[Yeti (Boss)|Yeti (boss)]] from the [[First Sea]]'s [[Frozen Village]].
+* Yeti with [[Pilot Helmet]] while dashing moves at the same speed as the [[Beast Hunter]].
+* Yeti serves as an effective counter to hybrid and untransformed [[Dragon]] users, due to the incredibly low cooldown of its moves.
+* Yeti is good against [[Buddha]] users as the high knockback can push them away rendering their M1 useless.
+* Yeti is the first and currently the only fruit in the game to start with the letter 'Y'.
+* Yeti is considered as one of the best fruits for [[Sea Events]] alongside [[Magma]], [[Gas]], [[Phoenix]], [[Blizzard]], [[Mammoth]] and [[Dragon]], since all of the attacks can damage [[Sea Beast]]s.
+* Depending on where the user is positioned, {{Ability|X}} can have infinite range, as the projectile's premise is just like a catapult boulder.
+* {{Ability|X}} can be held for only 30 seconds.
+* {{Ability|C}} (when hit) actually ''has'' [[Destructible Physics]]. The weird part is that only the ''untransformed'' version has Destructible Physics, while the transformed version does not.
+* The ice platforms last for a different amount of time depending on their size and on the move the player used to create them. The smallest ice platform (Untransformed {{Ability|C}}) lasts for around 8 seconds, while the biggest ice platform (Transformed {{Ability|X}}) lasts for around 58 seconds.
+* Yeti can be really good against [[Rumbling Waters]] as the user only needs to spam their M1's at the center of the Rumbling Waters to hit all three [[Sea Beast]]s. It is also very good against [[Piranha]]s when they sneak up from behind as this fruit is quick with [[Area of Effect|AoE]] attacks that can push them away. On top of that, it can create ice platforms, allowing teammates to stay above the water even without the [[Shark]] race.
+** Other players can step on the ice passively created by the Yeti user's feet, thus being able to continuously follow a Yeti user while staying above the water. This can be useful as the Yeti can help others travel across the ocean without needing a boat.
+* {{Ability|Yeti|C}}'s aerial variant shares a similar sound effect to [[Dragonstorm]]'s {{Ability|Dragonstorm|X}}.
+* Before Yeti's nerf in [[Updates/26|Update 26]], Yeti was one of the most commonly used fruits in [[PvP mechanics|PvP]] due to its heavy spamming abilities.
+* Yeti transformation is recommended in any situation over the untransformed version due to its higher damage output, lesser knockback and shorter cooldowns.
+* Yeti was released during the [[Christmas Event|Christmas event]] where [[Presents]] are given out, fitting for it's icy theme.
+* Yeti's transformed moves are highly chainable even as a "spam fruit", which sets it apart from other "spam fruits" e.g [[Kitsune]]. This is partly why this fruit was extremely powerful before it was nerfed.
+* Yeti is extremely good in [[PvP mechanics|PvP]] when in water due to the ice platforms it makes. This allows the user to put pressure on the enemy because the enemy has to worry about drowning and being hit at the same time, often overwhelming.
+* Yeti and [[Buddha]] are the only [[Beast]] fruits representing a partial human, with [[Buddha]] representing {{w|Budai}} and Yeti representing a Snow-like ape or "Wild human".
+* Yeti's Transformation has somewhat similar clothes to [[Tiger]], as they both wear clothing on their legs with a mainly dark hue.
+
+* There is a visual bug/change where the frosty aura around the transformed Yeti will only appear when the untransformed {{Ability|V}}, transformed dash, {{Ability|C}} and {{Ability|F}} are activated, but it will only last for a few seconds before dissipating. The frosty aura around the Yeti's mouth remains the same.
+* There is a bug where if the user has high ping and uses transformed {{Ability|X}}, the ice ball will stay over the Yeti and will stay until eventually using the move again. The same thing happens if the user gets stunned while casting the move, except it disappears shortly after.
+** This can also happen in the base (untransformed) form, except this time the snowball will be stuck to the user's right arm.
+* There is a glitch that the user does not have a frosty mist around them when transformed, and it's purely client side only. For some reason, there are players that experience the missing frosty mist only on their account and not other people, which lead to the images of the Yeti transformed on this page being much clearer and neater without the mist.
+** It could be a matter of the texture breaking after frequent usage, as this problem does not arise when the player transforms for the first time.
+*[[Tiger]] is considered the rival of this fruit as they were shown fighting in their respective rework/release trailers, and both Yeti and [[Tiger]] stand as the pinnacle of non-fury-meter [[Beast]] fruits.
+* There is currently a visual bug/glitch where when the user Flash Steps while transformed, the ice clone appears where the player Flash Stepped onto.
+* There is a glitch that when using {{Ability|F}} in the air there is a chance that the user will get teleported under the map.
+* Yeti and [[Love]]'s "Lovestruck" effect still shake the screen even with Camera Shake off.
+* [[Fiend]]'s sound effect when walking on [[water]] (Fiend's Cursed Strider passive) is the exact same sound effect as Yeti when walking on water (Yeti's Frost Walker passive) even though Fiend's Cursed Strider passive is not ice.
+* A [[Mutations|mutation]] for Yeti was teased in [[The Blox Bulletin|The Blox Bulletin #19]].
+** Said mutation, being [[Fiend]].
+
+==Change History==
+{{Change History|25|content=<tabber>
+|-|30=
+{{Update|30}}
+*{{Arrow|nerf}} Yeti was silently nerfed.
+**{{Arrow|nerf}} Endlag increased on transformed C move for both Normal and [[Fiend]]
+|-|29.6=
+{{Update29.6}}
+* {{Arrow|buff}} Yeti was buffed
+** {{Arrow|buff}} All transformation damage increasd by 10%
+** {{Arrow|buff}} Hitbox size for F move incread by 10% on transformation.
+|-|29.2=
+{{Update|29.2}}
+* Yeti was given a new mutation, [[Fiend]].
+* {{Arrow|buff}} Yeti was buffed.
+** {{Arrow|buff}} Transformation defense increased from 35% to 46.5%.
+
+|-|26=
+{{Update|26}}
+* {{Arrow|nerf}} Yeti was nerfed.
+** {{Arrow|nerf}} Transformation defense reduced from 50% to 35%.
+** {{Arrow|nerf}} Yeti's damage got reduced slightly.
+** {{Arrow|nerf}} Nerfed Z move range.
+** {{Arrow|nerf}} The X move can now be dodged by [[Instinct]] if the boulder hits the player directly.
+** {{Arrow|nerf}} Nerfed C move range.
+** {{Arrow|nerf}} Increased C move end-lag.
+
+|-|25=
+{{Update|25}}
+* Yeti was released.
+** {{Arrow|buff}} Yeti's damage was buffed.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Йети]]

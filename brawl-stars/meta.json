@@ -1,0 +1,1053 @@
+{
+ "domain": "brawlstars.fandom.com",
+ "categories": {
+  "Category:Skins": [],
+  "Category:Brawlers": [
+   "8-Bit",
+   "Alli",
+   "Amber",
+   "Angelo",
+   "Ash",
+   "Barley",
+   "Bea",
+   "Belle",
+   "Berry",
+   "Bibi",
+   "Bo",
+   "Bolt",
+   "Bonnie",
+   "Brock",
+   "Bull",
+   "Buster",
+   "Buzz",
+   "Buzz Lightyear",
+   "Byron",
+   "Carl",
+   "Charlie",
+   "Chester",
+   "Chuck",
+   "Clancy",
+   "Colette",
+   "Colt",
+   "Cordelius",
+   "Cosmo",
+   "Crow",
+   "Damian",
+   "Darryl",
+   "Doug",
+   "Draco",
+   "Dynamike",
+   "Edgar",
+   "El Primo",
+   "Emz",
+   "Eve",
+   "Fang",
+   "Finx",
+   "Frank",
+   "Gale",
+   "Gene",
+   "Gigi",
+   "Glowy",
+   "Gray",
+   "Griff",
+   "Grom",
+   "Gus",
+   "Hank",
+   "Jacky",
+   "Jae-yong",
+   "Janet",
+   "Jessie",
+   "Juju",
+   "Kaze",
+   "Kenji",
+   "Kit",
+   "Larry & Lawrie",
+   "Leon",
+   "Lily",
+   "Lola",
+   "Lou",
+   "Lumi",
+   "Maisie",
+   "Mandy",
+   "Max",
+   "Meeple",
+   "Meg",
+   "Melodie",
+   "Mico",
+   "Mina",
+   "Moe",
+   "Mortis",
+   "Mr. P",
+   "Najia",
+   "Nani",
+   "Nita",
+   "Nori",
+   "Ollie",
+   "Otis",
+   "Pam",
+   "Pearl",
+   "Penny",
+   "Pierce",
+   "Piper",
+   "Poco",
+   "R-T",
+   "Rey",
+   "Rico",
+   "Rosa",
+   "Ruby",
+   "Ruffs",
+   "Sam",
+   "Sandy",
+   "Shade",
+   "Shelly",
+   "Sirius",
+   "Spike",
+   "Sprout",
+   "Squeak",
+   "Starr Nova",
+   "Stu",
+   "Surge",
+   "Tara",
+   "Thunder Frogs",
+   "Tick",
+   "Trunk",
+   "Vince",
+   "Wendy",
+   "Willow",
+   "Ziggy"
+  ]
+ },
+ "pages": {
+  "Brawlers": "raw/Category_Brawlers.wikitext",
+  "Starr Road": "raw/Credits.wikitext",
+  "Credits": "raw/Credits.wikitext",
+  "Gems": "raw/Gems.wikitext",
+  "Brawl Pass": "raw/Brawl_Pass.wikitext",
+  "Trophies": "raw/Trophies.wikitext",
+  "Ranked": "raw/Ranked.wikitext",
+  "8-Bit": "raw/8-Bit.wikitext",
+  "Alli": "raw/Alli.wikitext",
+  "Amber": "raw/Amber.wikitext",
+  "Angelo": "raw/Angelo.wikitext",
+  "Ash": "raw/Ash.wikitext",
+  "Barley": "raw/Barley.wikitext",
+  "Bea": "raw/Bea.wikitext",
+  "Belle": "raw/Belle.wikitext",
+  "Berry": "raw/Berry.wikitext",
+  "Bibi": "raw/Bibi.wikitext",
+  "Bo": "raw/Bo.wikitext",
+  "Bolt": "raw/Bolt.wikitext",
+  "Bonnie": "raw/Bonnie.wikitext",
+  "Brock": "raw/Brock.wikitext",
+  "Bull": "raw/Bull.wikitext",
+  "Buster": "raw/Buster.wikitext",
+  "Buzz": "raw/Buzz.wikitext",
+  "Buzz Lightyear": "raw/Buzz_Lightyear.wikitext",
+  "Byron": "raw/Byron.wikitext",
+  "Carl": "raw/Carl.wikitext",
+  "Charlie": "raw/Charlie.wikitext",
+  "Chester": "raw/Chester.wikitext",
+  "Chuck": "raw/Chuck.wikitext",
+  "Clancy": "raw/Clancy.wikitext",
+  "Colette": "raw/Colette.wikitext",
+  "Colt": "raw/Colt.wikitext",
+  "Cordelius": "raw/Cordelius.wikitext",
+  "Cosmo": "raw/Cosmo.wikitext",
+  "Crow": "raw/Crow.wikitext",
+  "Damian": "raw/Damian.wikitext",
+  "Darryl": "raw/Darryl.wikitext",
+  "Doug": "raw/Doug.wikitext",
+  "Draco": "raw/Draco.wikitext",
+  "Dynamike": "raw/Dynamike.wikitext",
+  "Edgar": "raw/Edgar.wikitext",
+  "El Primo": "raw/El_Primo.wikitext",
+  "Emz": "raw/Emz.wikitext",
+  "Eve": "raw/Eve.wikitext",
+  "Fang": "raw/Fang.wikitext",
+  "Finx": "raw/Finx.wikitext",
+  "Frank": "raw/Frank.wikitext",
+  "Gale": "raw/Gale.wikitext",
+  "Gene": "raw/Gene.wikitext",
+  "Gigi": "raw/Gigi.wikitext",
+  "Glowy": "raw/Glowy.wikitext",
+  "Gray": "raw/Gray.wikitext",
+  "Griff": "raw/Griff.wikitext",
+  "Grom": "raw/Grom.wikitext",
+  "Gus": "raw/Gus.wikitext",
+  "Hank": "raw/Hank.wikitext",
+  "Jacky": "raw/Jacky.wikitext",
+  "Jae-yong": "raw/Jae-yong.wikitext",
+  "Janet": "raw/Janet.wikitext",
+  "Jessie": "raw/Jessie.wikitext",
+  "Juju": "raw/Juju.wikitext",
+  "Kaze": "raw/Kaze.wikitext",
+  "Kenji": "raw/Kenji.wikitext",
+  "Kit": "raw/Kit.wikitext",
+  "Larry & Lawrie": "raw/Larry_Lawrie.wikitext",
+  "Leon": "raw/Leon.wikitext",
+  "Lily": "raw/Lily.wikitext",
+  "Lola": "raw/Lola.wikitext",
+  "Lou": "raw/Lou.wikitext",
+  "Lumi": "raw/Lumi.wikitext",
+  "Maisie": "raw/Maisie.wikitext",
+  "Mandy": "raw/Mandy.wikitext",
+  "Max": "raw/Max.wikitext",
+  "Meeple": "raw/Meeple.wikitext",
+  "Meg": "raw/Meg.wikitext",
+  "Melodie": "raw/Melodie.wikitext",
+  "Mico": "raw/Mico.wikitext",
+  "Mina": "raw/Mina.wikitext",
+  "Moe": "raw/Moe.wikitext",
+  "Mortis": "raw/Mortis.wikitext",
+  "Mr. P": "raw/Mr_P.wikitext",
+  "Najia": "raw/Najia.wikitext",
+  "Nani": "raw/Nani.wikitext",
+  "Nita": "raw/Nita.wikitext",
+  "Nori": "raw/Nori.wikitext",
+  "Ollie": "raw/Ollie.wikitext",
+  "Otis": "raw/Otis.wikitext",
+  "Pam": "raw/Pam.wikitext",
+  "Pearl": "raw/Pearl.wikitext",
+  "Penny": "raw/Penny.wikitext",
+  "Pierce": "raw/Pierce.wikitext",
+  "Piper": "raw/Piper.wikitext",
+  "Poco": "raw/Poco.wikitext",
+  "R-T": "raw/R-T.wikitext",
+  "Rey": "raw/Rey.wikitext",
+  "Rico": "raw/Rico.wikitext",
+  "Rosa": "raw/Rosa.wikitext",
+  "Ruby": "raw/Ruby.wikitext",
+  "Ruffs": "raw/Ruffs.wikitext",
+  "Sam": "raw/Sam.wikitext",
+  "Sandy": "raw/Sandy.wikitext",
+  "Shade": "raw/Shade.wikitext",
+  "Shelly": "raw/Shelly.wikitext",
+  "Sirius": "raw/Sirius.wikitext",
+  "Spike": "raw/Spike.wikitext",
+  "Sprout": "raw/Sprout.wikitext",
+  "Squeak": "raw/Squeak.wikitext",
+  "Starr Nova": "raw/Starr_Nova.wikitext",
+  "Stu": "raw/Stu.wikitext",
+  "Surge": "raw/Surge.wikitext",
+  "Tara": "raw/Tara.wikitext",
+  "Thunder Frogs": "raw/Thunder_Frogs.wikitext",
+  "Tick": "raw/Tick.wikitext",
+  "Trunk": "raw/Trunk.wikitext",
+  "Vince": "raw/Vince.wikitext",
+  "Wendy": "raw/Wendy.wikitext",
+  "Willow": "raw/Willow.wikitext",
+  "Ziggy": "raw/Ziggy.wikitext"
+ },
+ "pageimages": {
+  "Category:Brawlers": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b2/Mortis_Skin-Default.png/revision/latest?cb=20251020175238",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b2/Mortis_Skin-Default.png/revision/latest/scale-to-width-down/332?cb=20251020175238"
+  },
+  "Colt": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/8a/Colt_Skin-Default.png/revision/latest?cb=20260907174546",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/8a/Colt_Skin-Default.png/revision/latest/scale-to-width-down/266?cb=20260907174546"
+  },
+  "Dynamike": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/6e/Dynamike_Skin-Default.png/revision/latest?cb=20260505183731",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/6e/Dynamike_Skin-Default.png/revision/latest/scale-to-width-down/341?cb=20260505183731"
+  },
+  "El Primo": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/0/04/El_Primo_Skin-Default.png/revision/latest?cb=20250215023611",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/0/04/El_Primo_Skin-Default.png/revision/latest/scale-to-width-down/301?cb=20250215023611"
+  },
+  "Brock": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/7/70/Brock_Skin-Default.png/revision/latest?cb=20250913182015",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/7/70/Brock_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250913182015"
+  },
+  "Bull": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b7/Bull_Skin-Default.png/revision/latest?cb=20250909063616",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b7/Bull_Skin-Default.png/revision/latest/scale-to-width-down/275?cb=20250909063616"
+  },
+  "Barley": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/3c/Barley_Skin-Default.png/revision/latest?cb=20251113125930",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/3c/Barley_Skin-Default.png/revision/latest/scale-to-width-down/262?cb=20251113125930"
+  },
+  "Bo": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Bo_Skin-Default.png/revision/latest?cb=20251127075651",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Bo_Skin-Default.png/revision/latest/scale-to-width-down/315?cb=20251127075651"
+  },
+  "Crow": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a2/Crow_Skin-Default.png/revision/latest?cb=20201107182328",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a2/Crow_Skin-Default.png/revision/latest/scale-to-width-down/268?cb=20201107182328"
+  },
+  "Trophies": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/14/Screenshot_20260801_222706_Brawl_Stars.jpg/revision/latest?cb=20260801223249",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/14/Screenshot_20260801_222706_Brawl_Stars.jpg/revision/latest/scale-to-width-down/400?cb=20260801223249"
+  },
+  "Darryl": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/66/Darryl_Skin-Default.png/revision/latest?cb=20220422040724",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/66/Darryl_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20220422040724"
+  },
+  "Frank": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Frank_Skin-Default.png/revision/latest?cb=20250208034133",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/55/Frank_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250208034133"
+  },
+  "Carl": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/46/Carl_Skin-Default.png/revision/latest?cb=20251029185614",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/46/Carl_Skin-Default.png/revision/latest/scale-to-width-down/362?cb=20251029185614"
+  },
+  "Bibi": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Bibi_Skin-Default.png/revision/latest?cb=20250922222505",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/c4/Bibi_Skin-Default.png/revision/latest/scale-to-width-down/290?cb=20250922222505"
+  },
+  "8-Bit": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/c1/8-Bit_Skin-Default.png/revision/latest?cb=20251219210721",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/c1/8-Bit_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20251219210721"
+  },
+  "Emz": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Emz_Skin-Default.png/revision/latest?cb=20251124225846",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e0/Emz_Skin-Default.png/revision/latest/scale-to-width-down/247?cb=20251124225846"
+  },
+  "Bea": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/7/73/Bea_Skin-Default.png/revision/latest?cb=20210319100234",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/7/73/Bea_Skin-Default.png/revision/latest/scale-to-width-down/239?cb=20210319100234"
+  },
+  "Gale": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/1e/Gale_Skin-Default.png/revision/latest?cb=20220208174401",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/1e/Gale_Skin-Default.png/revision/latest/scale-to-width-down/268?cb=20220208174401"
+  },
+  "Colette": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Colette_Skin-Default.png/revision/latest?cb=20201113164723",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/63/Colette_Skin-Default.png/revision/latest/scale-to-width-down/219?cb=20201113164723"
+  },
+  "Amber": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Amber_Skin-Default.png/revision/latest?cb=20230123182941",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Amber_Skin-Default.png/revision/latest/scale-to-width-down/198?cb=20230123182941"
+  },
+  "Byron": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Byron_Skin-Default.png/revision/latest?cb=20220608200025",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Byron_Skin-Default.png/revision/latest/scale-to-width-down/268?cb=20220608200025"
+  },
+  "Edgar": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/2b/Edgar_Skin-Default.png/revision/latest?cb=20230219113721",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/2b/Edgar_Skin-Default.png/revision/latest/scale-to-width-down/249?cb=20230219113721"
+  },
+  "Belle": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Belle_Skin-Default.png/revision/latest?cb=20251126050516",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/d/d9/Belle_Skin-Default.png/revision/latest/scale-to-width-down/286?cb=20251126050516"
+  },
+  "Buzz": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/62/Buzz_Skin-Default.png/revision/latest?cb=20220123071159",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/62/Buzz_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20220123071159"
+  },
+  "Ash": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ash_Skin-Default.png/revision/latest?cb=20230704155152",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ash_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20230704155152"
+  },
+  "Fang": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Fang_Skin-Default.png/revision/latest?cb=20251220195908",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Fang_Skin-Default.png/revision/latest/scale-to-width-down/170?cb=20251220195908"
+  },
+  "Eve": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Eve_Skin-Default.png/revision/latest?cb=20251220171358",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Eve_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20251220171358"
+  },
+  "Bonnie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Bonnie_Skin-Default.png/revision/latest?cb=20220527173920",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Bonnie_Skin-Default.png/revision/latest/scale-to-width-down/378?cb=20220527173920"
+  },
+  "Buster": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Buster_Skin-Default.png/revision/latest?cb=20230204163432",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e3/Buster_Skin-Default.png/revision/latest/scale-to-width-down/248?cb=20230204163432"
+  },
+  "Chester": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Chester_Skin-Default.png/revision/latest?cb=20260326184513",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Chester_Skin-Default.png/revision/latest/scale-to-width-down/188?cb=20260326184513"
+  },
+  "Cordelius": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/1d/Cordelius_Skin-Default.png/revision/latest?cb=20251003231650",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/1d/Cordelius_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20251003231650"
+  },
+  "Doug": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Doug_Skin-Default.png/revision/latest?cb=20260326184421",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Doug_Skin-Default.png/revision/latest/scale-to-width-down/237?cb=20260326184421"
+  },
+  "Chuck": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Chuck_Skin-Default.png/revision/latest?cb=20230907154111",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a6/Chuck_Skin-Default.png/revision/latest/scale-to-width-down/311?cb=20230907154111"
+  },
+  "Charlie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Charlie_Skin-Default.png/revision/latest?cb=20231022194111",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/0/07/Charlie_Skin-Default.png/revision/latest/scale-to-width-down/345?cb=20231022194111"
+  },
+  "Ranked": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/7/76/Battle_Card-Bronze_2025.png/revision/latest?cb=20250228115726",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/7/76/Battle_Card-Bronze_2025.png/revision/latest/scale-to-width-down/400?cb=20250228115726"
+  },
+  "Angelo": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Angelo_Skin-Default.png/revision/latest?cb=20240226185621",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/3e/Angelo_Skin-Default.png/revision/latest/scale-to-width-down/237?cb=20240226185621"
+  },
+  "Draco": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Draco_Skin-Default.png/revision/latest?cb=20251116165253",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Draco_Skin-Default.png/revision/latest/scale-to-width-down/302?cb=20251116165253"
+  },
+  "Berry": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Berry_Skin-Default.png/revision/latest?cb=20250919190005",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/f/f6/Berry_Skin-Default.png/revision/latest/scale-to-width-down/339?cb=20250919190005"
+  },
+  "Clancy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Clancy_Skin-Default.png/revision/latest?cb=20250618230811",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/9/90/Clancy_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250618230811"
+  },
+  "Buzz Lightyear": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Buzz_Lightyear_Skin-Default.png/revision/latest?cb=20241210160606",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Buzz_Lightyear_Skin-Default.png/revision/latest/scale-to-width-down/397?cb=20241210160606"
+  },
+  "Finx": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/31/Finx_Skin-Default.png/revision/latest?cb=20251008203912",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/31/Finx_Skin-Default.png/revision/latest/scale-to-width-down/397?cb=20251008203912"
+  },
+  "Alli": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Alli_Skin-Default.png/revision/latest?cb=20250625150836",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b9/Alli_Skin-Default.png/revision/latest/scale-to-width-down/324?cb=20250625150836"
+  },
+  "Damian": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/13/Damian_Skin-Default.png/revision/latest?cb=20261106162926",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/13/Damian_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20261106162926"
+  },
+  "Bolt": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Bolt_Skin-Default.png/revision/latest?cb=20261106163029",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e6/Bolt_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20261106163029"
+  },
+  "Cosmo": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Cosmo_Skin-Default.png/revision/latest?cb=20260831065558",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Cosmo_Skin-Default.png/revision/latest/scale-to-width-down/342?cb=20260831065558"
+  },
+  "Jessie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/15/Jessie_Skin-Default.png/revision/latest?cb=20250208020531",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/15/Jessie_Skin-Default.png/revision/latest/scale-to-width-down/334?cb=20250208020531"
+  },
+  "Nita": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/36/Nita_Skin-Default.png/revision/latest?cb=20251122003823",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/36/Nita_Skin-Default.png/revision/latest/scale-to-width-down/283?cb=20251122003823"
+  },
+  "Poco": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Poco_Skin-Default.png/revision/latest?cb=20230225175317",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/24/Poco_Skin-Default.png/revision/latest/scale-to-width-down/374?cb=20230225175317"
+  },
+  "Rico": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/7/71/Rico_Skin-Default.png/revision/latest?cb=20251031110328",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/7/71/Rico_Skin-Default.png/revision/latest/scale-to-width-down/349?cb=20251031110328"
+  },
+  "Mortis": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b2/Mortis_Skin-Default.png/revision/latest?cb=20251020175238",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b2/Mortis_Skin-Default.png/revision/latest/scale-to-width-down/332?cb=20251020175238"
+  },
+  "Piper": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/5d/Piper_Skin-Default.png/revision/latest?cb=20251018180616",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/5d/Piper_Skin-Default.png/revision/latest/scale-to-width-down/252?cb=20251018180616"
+  },
+  "Pam": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Pam_Skin-Default.png/revision/latest?cb=20201129223707",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/68/Pam_Skin-Default.png/revision/latest/scale-to-width-down/370?cb=20201129223707"
+  },
+  "Penny": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Penny_Skin-Default.png/revision/latest?cb=20260420210155",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/d/d6/Penny_Skin-Default.png/revision/latest/scale-to-width-down/302?cb=20260420210155"
+  },
+  "Leon": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Leon_Skin-Default.png/revision/latest?cb=20251010150951",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Leon_Skin-Default.png/revision/latest/scale-to-width-down/250?cb=20251010150951"
+  },
+  "Gene": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/54/Gene_Skin-Default.png/revision/latest?cb=20200608115231",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/54/Gene_Skin-Default.png/revision/latest/scale-to-width-down/335?cb=20200608115231"
+  },
+  "Rosa": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/34/Rosa_Skin-Default.png/revision/latest?cb=20250922131552",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/34/Rosa_Skin-Default.png/revision/latest/scale-to-width-down/207?cb=20250922131552"
+  },
+  "Max": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Max_Skin-Default.png/revision/latest?cb=20201110222310",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Max_Skin-Default.png/revision/latest/scale-to-width-down/204?cb=20201110222310"
+  },
+  "Mr. P": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Mr._P_Skin-Default.png/revision/latest?cb=20251225175556",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a4/Mr._P_Skin-Default.png/revision/latest/scale-to-width-down/343?cb=20251225175556"
+  },
+  "Jacky": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/52/Jacky_Skin-Default.png/revision/latest?cb=20200430211047",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/52/Jacky_Skin-Default.png/revision/latest/scale-to-width-down/259?cb=20200430211047"
+  },
+  "Nani": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Nani_Skin-Default.png/revision/latest?cb=20201128223906",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/20/Nani_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20201128223906"
+  },
+  "Lou": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Lou_Skin-Default.png/revision/latest?cb=20230705221518",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/60/Lou_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20230705221518"
+  },
+  "Griff": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/Griff_Skin-Default.png/revision/latest?cb=20230202181146",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/0/0f/Griff_Skin-Default.png/revision/latest/scale-to-width-down/323?cb=20230202181146"
+  },
+  "Meg": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Meg_Skin-Default.png/revision/latest?cb=20230204211321",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e2/Meg_Skin-Default.png/revision/latest/scale-to-width-down/272?cb=20230204211321"
+  },
+  "Lola": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/f/f1/Lola_Skin-Default.png/revision/latest?cb=20211130034036",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/f/f1/Lola_Skin-Default.png/revision/latest/scale-to-width-down/318?cb=20211130034036"
+  },
+  "Grom": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/0/0a/Grom_Skin-Default.png/revision/latest?cb=20251209060950",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/0/0a/Grom_Skin-Default.png/revision/latest/scale-to-width-down/311?cb=20251209060950"
+  },
+  "Janet": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Janet_Skin-Default.png/revision/latest?cb=20230127120905",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Janet_Skin-Default.png/revision/latest/scale-to-width-down/195?cb=20230127120905"
+  },
+  "Otis": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Otis_Skin-Default.png/revision/latest?cb=20230204020325",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/f/fe/Otis_Skin-Default.png/revision/latest/scale-to-width-down/285?cb=20230204020325"
+  },
+  "Gus": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Gus_Skin-Default.png/revision/latest?cb=20251011033746",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/41/Gus_Skin-Default.png/revision/latest/scale-to-width-down/271?cb=20251011033746"
+  },
+  "Gray": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Gray_Skin-Default.png/revision/latest?cb=20230118044908",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/ed/Gray_Skin-Default.png/revision/latest/scale-to-width-down/243?cb=20230118044908"
+  },
+  "Mandy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Mandy_Skin-Default.png/revision/latest?cb=20230213231248",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Mandy_Skin-Default.png/revision/latest/scale-to-width-down/292?cb=20230213231248"
+  },
+  "R-T": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b7/R-T_Skin-Default.png/revision/latest?cb=20240803092909",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b7/R-T_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20240803092909"
+  },
+  "Maisie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Maisie_Skin-Default.png/revision/latest?cb=20240302211932",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Maisie_Skin-Default.png/revision/latest/scale-to-width-down/246?cb=20240302211932"
+  },
+  "Hank": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Hank_Skin-Default.png/revision/latest?cb=20230427101653",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Hank_Skin-Default.png/revision/latest/scale-to-width-down/390?cb=20230427101653"
+  },
+  "Pearl": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Pearl_Skin-Default.png/revision/latest?cb=20230907024954",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/81/Pearl_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20230907024954"
+  },
+  "Mico": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/d/da/Mico_Skin-Default.png/revision/latest?cb=20250929001313",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/d/da/Mico_Skin-Default.png/revision/latest/scale-to-width-down/341?cb=20250929001313"
+  },
+  "Larry & Lawrie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/f/ff/Larry_%26_Lawrie_Skin-Default.png/revision/latest?cb=20240207083536",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/f/ff/Larry_%26_Lawrie_Skin-Default.png/revision/latest/scale-to-width-down/256?cb=20240207083536"
+  },
+  "Kit": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/15/Kit_Skin-Default.png/revision/latest?cb=20250921014921",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/15/Kit_Skin-Default.png/revision/latest/scale-to-width-down/299?cb=20250921014921"
+  },
+  "Melodie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/1f/Melodie_Skin-Default.png/revision/latest?cb=20240228162702",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/1f/Melodie_Skin-Default.png/revision/latest/scale-to-width-down/368?cb=20240228162702"
+  },
+  "Lily": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Lily_Skin-Default.png/revision/latest?cb=20240420171855",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Lily_Skin-Default.png/revision/latest/scale-to-width-down/212?cb=20240420171855"
+  },
+  "Moe": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Moe_Skin-Default.png/revision/latest?cb=20250919185859",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/c9/Moe_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250919185859"
+  },
+  "Kenji": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Kenji_Skin-Default.png/revision/latest?cb=20250913113858",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/0/08/Kenji_Skin-Default.png/revision/latest/scale-to-width-down/268?cb=20250913113858"
+  },
+  "Juju": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Juju_Skin-Default.png/revision/latest?cb=20241029215018",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e8/Juju_Skin-Default.png/revision/latest/scale-to-width-down/271?cb=20241029215018"
+  },
+  "Meeple": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Meeple_Skin-Default.png/revision/latest?cb=20241214062419",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/27/Meeple_Skin-Default.png/revision/latest/scale-to-width-down/251?cb=20241214062419"
+  },
+  "Ollie": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Ollie_Skin-Default.png/revision/latest?cb=20251226013021",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Ollie_Skin-Default.png/revision/latest/scale-to-width-down/287?cb=20251226013021"
+  },
+  "Lumi": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Lumi_Skin-Default.png/revision/latest?cb=20250226113935",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/53/Lumi_Skin-Default.png/revision/latest/scale-to-width-down/311?cb=20250226113935"
+  },
+  "Jae-yong": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/3/3f/Jae-yong_Skin-Default.png/revision/latest?cb=20250424170043",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/3/3f/Jae-yong_Skin-Default.png/revision/latest/scale-to-width-down/262?cb=20250424170043"
+  },
+  "Kaze": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Kaze_Skin-Default.png/revision/latest?cb=20250424194117",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Kaze_Skin-Default.png/revision/latest/scale-to-width-down/224?cb=20250424194117"
+  },
+  "Mina": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/6d/Mina_Skin-Default.png/revision/latest?cb=20260519233909",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/6d/Mina_Skin-Default.png/revision/latest/scale-to-width-down/169?cb=20260519233909"
+  },
+  "Gigi": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/52/Gigi_Skin-Default.png/revision/latest?cb=20251029114229",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/52/Gigi_Skin-Default.png/revision/latest/scale-to-width-down/249?cb=20251029114229"
+  },
+  "Pierce": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Pierce_Skin-Default.png/revision/latest?cb=20251215050033",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/e4/Pierce_Skin-Default.png/revision/latest/scale-to-width-down/389?cb=20251215050033"
+  },
+  "Glowy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/cd/Glowy_Skin-Default.png/revision/latest?cb=20251215172355",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/cd/Glowy_Skin-Default.png/revision/latest/scale-to-width-down/213?cb=20251215172355"
+  },
+  "Najia": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/9/91/Najia_Skin-Default.png/revision/latest?cb=20261106163215",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/9/91/Najia_Skin-Default.png/revision/latest/scale-to-width-down/257?cb=20261106163215"
+  },
+  "Nori": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Nori_Skin-Default.png/revision/latest?cb=20261106163323",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/6a/Nori_Skin-Default.png/revision/latest/scale-to-width-down/353?cb=20261106163323"
+  },
+  "Rey": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/1/17/Rey_Skin-Default.png/revision/latest?cb=20261105234025",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/1/17/Rey_Skin-Default.png/revision/latest/scale-to-width-down/221?cb=20261105234025"
+  },
+  "Ruby": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a9/Ruby_Skin-Default.png/revision/latest?cb=20261105232658",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a9/Ruby_Skin-Default.png/revision/latest/scale-to-width-down/244?cb=20261105232658"
+  },
+  "Shelly": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest?cb=20251013023733",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest/scale-to-width-down/199?cb=20251013023733"
+  },
+  "Spike": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Skin-Default.png/revision/latest?cb=20230630135425",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20230630135425"
+  },
+  "Tara": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Tara_Skin-Default.png/revision/latest?cb=20251221182616",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Tara_Skin-Default.png/revision/latest/scale-to-width-down/218?cb=20251221182616"
+  },
+  "Tick": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Tick_Skin-Default.png/revision/latest?cb=20250716191643",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b1/Tick_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250716191643"
+  },
+  "Sandy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/80/Sandy_Skin-Default.png/revision/latest?cb=20200226195634",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/80/Sandy_Skin-Default.png/revision/latest/scale-to-width-down/236?cb=20200226195634"
+  },
+  "Sprout": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/ec/Sprout_Skin-Default.png/revision/latest?cb=20260702213728",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/ec/Sprout_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20260702213728"
+  },
+  "Surge": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Surge_Skin-Default.png/revision/latest?cb=20260330130915",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Surge_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20260330130915"
+  },
+  "Ruffs": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ruffs_Skin-Default.png/revision/latest?cb=20230210101310",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Ruffs_Skin-Default.png/revision/latest/scale-to-width-down/239?cb=20230210101310"
+  },
+  "Stu": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Stu_Skin-Default.png/revision/latest?cb=20250928173516",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/b/b8/Stu_Skin-Default.png/revision/latest/scale-to-width-down/344?cb=20250928173516"
+  },
+  "Squeak": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Squeak_Skin-Default.png/revision/latest?cb=20230127144034",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Squeak_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20230127144034"
+  },
+  "Sam": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/8/87/Sam_Skin-Default.png/revision/latest?cb=20230206220911",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/8/87/Sam_Skin-Default.png/revision/latest/scale-to-width-down/365?cb=20230206220911"
+  },
+  "Willow": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Willow_Skin-Default.png/revision/latest?cb=20240805095318",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/40/Willow_Skin-Default.png/revision/latest/scale-to-width-down/243?cb=20240805095318"
+  },
+  "Shade": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Shade_Skin-Default.png/revision/latest?cb=20241029215101",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/6/64/Shade_Skin-Default.png/revision/latest/scale-to-width-down/224?cb=20241029215101"
+  },
+  "Trunk": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/5/5a/Trunk_Skin-Default.png/revision/latest?cb=20250625150733",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/5/5a/Trunk_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20250625150733"
+  },
+  "Ziggy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/4/4f/Ziggy_Skin-Default.png/revision/latest?cb=20251021214924",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/4/4f/Ziggy_Skin-Default.png/revision/latest/scale-to-width-down/259?cb=20251021214924"
+  },
+  "Sirius": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Sirius_Skin-Default.png/revision/latest?cb=20261106163248",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/e/ee/Sirius_Skin-Default.png/revision/latest/scale-to-width-down/227?cb=20261107130554"
+  },
+  "Starr Nova": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Starr_Nova_Skin-Default.png/revision/latest?cb=20261106195814",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Starr_Nova_Skin-Default.png/revision/latest/scale-to-width-down/242?cb=20261106195814"
+  },
+  "Wendy": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Wendy_Skin-Default.png/revision/latest?cb=20260628173626",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/2/26/Wendy_Skin-Default.png/revision/latest/scale-to-width-down/228?cb=20260628173626"
+  },
+  "Vince": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/9/99/Vince_Skin-Default.png/revision/latest?cb=20260831173546",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/9/99/Vince_Skin-Default.png/revision/latest/scale-to-width-down/189?cb=20260831173546"
+  },
+  "Thunder Frogs": {
+   "original": "https://static.wikia.nocookie.net/brawlstars/images/a/ac/Thunder_Frogs_Skin-Default.png/revision/latest?cb=20261102161922",
+   "thumb": "https://static.wikia.nocookie.net/brawlstars/images/a/ac/Thunder_Frogs_Skin-Default.png/revision/latest/scale-to-width-down/238?cb=20261102161922"
+  }
+ },
+ "allcategories": [
+  [
+   "Maps",
+   990
+  ],
+  [
+   "Blog posts",
+   477
+  ],
+  [
+   "Brawlers",
+   129
+  ],
+  [
+   "Pages with image sizes containing extra px",
+   121
+  ],
+  [
+   "Pages with broken file links",
+   107
+  ],
+  [
+   "Showdown Maps",
+   83
+  ],
+  [
+   "Brawl Ball Maps",
+   80
+  ],
+  [
+   "Gem Grab Maps",
+   80
+  ],
+  [
+   "Videos",
+   74
+  ],
+  [
+   "Events",
+   73
+  ],
+  [
+   "Hot Zone Maps",
+   63
+  ],
+  [
+   "Heist Maps",
+   60
+  ],
+  [
+   "Knockout Maps",
+   59
+  ],
+  [
+   "Bounty Maps",
+   51
+  ],
+  [
+   "Duels Maps",
+   45
+  ],
+  [
+   "Mythic Brawlers",
+   45
+  ],
+  [
+   "Epic Brawlers",
+   30
+  ],
+  [
+   "3v3 Events",
+   29
+  ],
+  [
+   "Wipeout Maps",
+   29
+  ],
+  [
+   "Gameplay",
+   25
+  ],
+  [
+   "Templates",
+   24
+  ],
+  [
+   "Damage Dealer Brawlers",
+   23
+  ],
+  [
+   "Seasonal Events",
+   22
+  ],
+  [
+   "Controller Brawlers",
+   21
+  ],
+  [
+   "Assassin Brawlers",
+   19
+  ],
+  [
+   "Siege Maps",
+   18
+  ],
+  [
+   "Takedown Maps",
+   18
+  ],
+  [
+   "Template documentation",
+   17
+  ],
+  [
+   "Items",
+   16
+  ],
+  [
+   "Payload Maps",
+   16
+  ],
+  [
+   "Tank Brawlers",
+   16
+  ],
+  [
+   "Brawl Hockey Maps",
+   15
+  ],
+  [
+   "Legendary Brawlers",
+   15
+  ],
+  [
+   "Present Plunder Maps",
+   14
+  ],
+  [
+   "Support Brawlers",
+   13
+  ],
+  [
+   "Knockout 5v5 Maps",
+   12
+  ],
+  [
+   "Lone Star Maps",
+   12
+  ],
+  [
+   "Marksman Brawlers",
+   12
+  ],
+  [
+   "Wipeout 5v5 Maps",
+   12
+  ],
+  [
+   "Basket Brawl Maps",
+   11
+  ],
+  [
+   "Noindexed pages",
+   11
+  ],
+  [
+   "Season Events",
+   11
+  ],
+  [
+   "Solo Events",
+   11
+  ],
+  [
+   "Special Events",
+   11
+  ],
+  [
+   "Treasure Hunt Maps",
+   11
+  ],
+  [
+   "Volley Brawl Maps",
+   11
+  ],
+  [
+   "Super Rare Brawlers",
+   10
+  ],
+  [
+   "Bot Drop Maps",
+   9
+  ],
+  [
+   "Brawl Arena Maps",
+   9
+  ],
+  [
+   "Brawl Ball 5v5 Maps",
+   9
+  ],
+  [
+   "Cosmetics",
+   9
+  ],
+  [
+   "Gem Grab 5v5 Maps",
+   9
+  ],
+  [
+   "Trio Showdown Maps",
+   9
+  ],
+  [
+   "2v2 Events",
+   8
+  ],
+  [
+   "Abilities",
+   8
+  ],
+  [
+   "Artillery Brawlers",
+   8
+  ],
+  [
+   "Brawl Stars Wiki",
+   8
+  ],
+  [
+   "Pages transcluding nonexistent sections",
+   8
+  ],
+  [
+   "Paint Brawl Maps",
+   8
+  ],
+  [
+   "Rare Brawlers",
+   8
+  ],
+  [
+   "Spirit Wars Maps",
+   8
+  ],
+  [
+   "Super Ball Maps",
+   8
+  ],
+  [
+   "Token Run Maps",
+   8
+  ],
+  [
+   "Carry the Gift Maps",
+   7
+  ],
+  [
+   "Cleaning Duty Maps",
+   7
+  ],
+  [
+   "Community",
+   7
+  ],
+  [
+   "Disambiguations",
+   7
+  ],
+  [
+   "Dodgebrawl Maps",
+   7
+  ],
+  [
+   "Hunters Maps",
+   7
+  ],
+  [
+   "Indexed pages",
+   7
+  ],
+  [
+   "PvE Events",
+   7
+  ],
+  [
+   "Subway Run Maps",
+   7
+  ],
+  [
+   "5v5 Events",
+   6
+  ],
+  [
+   "Brawl-o-ween Bosses Maps",
+   6
+  ],
+  [
+   "Brawl Ball 2v2 Maps",
+   6
+  ],
+  [
+   "Competitive Events",
+   6
+  ],
+  [
+   "Hide & Seek Maps",
+   6
+  ],
+  [
+   "Last Stand Maps",
+   6
+  ],
+  [
+   "Removed Events",
+   6
+  ],
+  [
+   "Showdown Events",
+   6
+  ],
+  [
+   "Soul Collector Maps",
+   6
+  ],
+  [
+   "Big Game Maps",
+   5
+  ],
+  [
+   "Challenge-Exclusive Maps",
+   5
+  ],
+  [
+   "Safe Blast Maps",
+   5
+  ],
+  [
+   "Samurai Smash 5v5 Maps",
+   5
+  ],
+  [
+   "Samurai Smash Maps",
+   5
+  ],
+  [
+   "Trophy Thieves Maps",
+   5
+  ]
+ ]
+}

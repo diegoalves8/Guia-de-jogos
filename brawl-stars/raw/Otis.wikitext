@@ -1,0 +1,246 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Artist|PrestigeTitle = Muted|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3600|AttackLabel = Damage per paint blob|Attack = 500|AttackRange = 9 (Long)|Reload = 1.5 seconds (Normal)|AttackSuperCharge = 7.75%<br>8.525% (with Super Charge Gear)|SuperRange = 9 (Long)|Super = 340|SuperSuperCharge = 7.65%<br>8.4% (with Super Charge Gear)|VoiceActor=Martin Schjøler|AttackCooldown=|AttackBullets=3 <br> 4 (with Ink Refills) <br> 1 (with Phat Splatter)|AttackLabel2=|Attack2=|SuperBullets=|SuperDuration=3 seconds <br> 4 seconds (with Stencil Glue)|SuperMinionRange=|SuperReload=|SuperMovementSpeed=|SuperLabel=Damage per second|SuperLabel2=|SuperLabel3=|Super2=|Super3=|SuperMinion=|AttackSpeed=3600|AttackWidth=0.67<br>1.33 (with Phat Splatter)|SuperSpeed=3200|SuperWidth=1.33|AttackSpread=11°|Gadget1Name=Dormant Star|Gadget1Cooldown=11 seconds|Gadget2Cooldown=17 seconds|Gadget2Name=Phat Splatter|Gadget2=1000|Gadget2Label=Damage per second|Previous=Janet|Next=Buster|HyperchargeMultiplier=50%|AttackHyperchargeCharge=3.875%<br>4.25% (with Super Charge Gear)|SuperHyperchargeCharge=3.825%<br>4.2% (with Super Charge Gear)}}
+{{Quote|Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!}}
+{{Portrait}}
+Otis is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 13: Deep Sea Brawl. He has moderate health, a high damage output, a long range, and has immense utility with his Super. He was the 58th Brawler added to the game. He attacks by shooting three blobs of paint with a slight spread. For his Super, Otis throws his starfish friend Cil onto an enemy that deals damage over time. Enemies affected by Otis' Super can't attack or use their Super, Gadget, or Hypercharge. Otis' first Gadget, Dormant Star, allows his next Super to stay on the ground until it gets stepped on if it doesn't hit an enemy. His second Gadget, Phat Splatter, causes his next attack to splash, whether it hits a target or not. His first Star Power, Stencil Glue, increases the duration of his Super. His second Star Power, Ink Refills, increases the number of projectiles of his attacks to 4 instead of 3. His Hypercharge, Silent Stunner, makes his next Super momentarily stun enemies upon impact.
+
+==Attack: Inky Art==
+{{Quote|Otis squirts a burst of ink drops from his spray gun arm.}}
+Otis fires three long-ranged blobs of paint. The globs of paint are slightly spread out similar to [[Rico]]'s, [[8-Bit]]'s, [[Lola]]'s, and [[Max]]'s main attack. Otis' attack has a noticeably slow unload, and it takes 0.77 seconds to complete.
+
+==Super: Silent Seabed==
+{{Quote|Otis flings Cil who grabs onto the first enemy hit and prevents them from attacking for a short while.}}[[File:OtisSuperIcon.png|left|40x40px|link=]]
+Otis throws his starfish, named Cil, which prevents affected enemies from using any attacks, Supers, Gadgets, or Hypercharges, for 3 seconds, and will additionally deal damage per second for 3 seconds. Enemies hit by Otis' Super will be unable to attack or use their Super, Gadget, or Hypercharge for the duration of the Super. This Super doesn't affect passive effects like the [[Gears|Speed Gear]]'s speed boost or [[Bo]]'s Circling Eagle Star Power. Otis' Super works on spawnables like [[Nita]]'s bear, [[Penny]]'s cannon, [[Tara]]'s clones, [[Larry & Lawrie|Lawrie]], or [[Jessie]]'s turret, however, it won't affect passive turrets like [[8-Bit]]'s and [[Pam]]'s, meaning that users can take damage from Pam's Mama's Squeeze Star Power despite Otis using his Super. For the whole duration, a red, crossed-out symbol will show above the head of the affected target, signifying that Otis' Super is active, and if it hits an enemy Brawler, the affected Brawler's screen will turn a bit dark. Enemies can't shoot the ball if they are hit by his Super. Unlike all other abilities that debuff enemies, the muting effect of Otis' super is not blocked by respawn invincibility, though they are still immune to the damage over time. 
+
+==Gadgets==
+===Dormant Star===
+{{Quote|The next starfish will stay on the ground if an enemy is not hit, laying dormant until an enemy gets close. Cooldown: 11 seconds.}}{{Gadget|1}}
+When activated, if Otis misses his next Super, the starfish that was thrown will land on the ground and be invisible to enemies similar to [[Belle]]'s Nest Egg Gadget. Any enemy Brawler who step over the starfish will have the Super effect on them be activated. The starfish will stay on the ground permanently unless an enemy steps on it, or the map is reset similar to when a goal is scored in [[Brawl Ball]] or when a round is over in [[Knockout]]. Multiple starfish can be on the ground at once, and none of the other starfishes will be removed if Otis hits an enemy with his Super normally. A Gadget symbol will glow above Otis' head signaling this Gadget's activation, as well as a glowing Super joystick. This Gadget's cooldown begins after the Super is used.
+
+===Phat Splatter===
+{{Quote|Otis's next attack shoots a giant ink ball that leaves a puddle, dealing 1250 damage over time for 3.8 seconds. Cooldown: 17 seconds.}}{{Gadget|2}}
+Activating this Gadget makes Otis' next attack shoot an ink puddle that deals four ticks of 125% of the damage as one ink blob in a 2-tile radius over 3.8 seconds. The puddle can damage enemies behind walls, similar to [[Jacky]]'s and [[Brock]]'s attack, but can not charge Super. A Gadget symbol will glow above Otis' head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Stencil Glue===
+{{Quote|Cil mightly squeezes the enemy with all his might. Preventing them from attacking for 33% longer.}}{{StarPower|1}}
+This Star Power increases the duration of Otis' Super by 33%, increasing the total duration from 3 seconds to 4 seconds. This also applies to the starfish placed on the ground from his Dormant Star Gadget.
+
+===Ink Refills===
+{{Quote|Otis now shoots 33% more ink drops.}}{{StarPower|2}}
+With this Star Power equipped, Otis shoots 4 ink drops per attack instead of the regular three.
+
+==Hypercharge: Silent Stunner==
+{{Quote|Otis' Super now also stuns for 1.5 seconds on impact.}}{{Hypercharge}}When activated, Otis' next Super will stun enemies for 1.5 seconds upon impact. This doesn't affect other aspects of his Super. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+
+*Otis can use his Dormant Star Gadget to block off choke points like in [[Hot Zone]] and [[Brawl Ball]] and prevent enemies from using their abilities. This can be utilized in maps like [[Parallel Plays]] and [[Backyard Bowl]]. One way is to aim a Super at a choke point near your goal so that when an enemy with a ball triggers it, they cannot shoot the ball and their only option is to walk it in, buying your team a bit of time to stop the goal.
+*His Super can prevent enemies from passing the ball in Brawl Ball and [[Basket Brawl]]. This can be a useful way to prevent enemies from scoring a goal efficiently, and is very useful against Brawlers like [[Stu]], [[Melodie]], [[Kenji]], and [[Mortis]] who score using Supers and dashing.
+*Otis is an insane defender in [[Heist]], as he can stop aggro Brawlers like [[El Primo]], [[Bull]], [[Edgar]], [[Buzz]], [[Darryl]], and [[Fang]] when they get close to the safe by muting them and then killing them. He can also mute [[Jessie]]'s turret, [[Penny]]'s cannon, [[Larry & Lawrie|Lawrie]], [[Tara]]'s clones, and [[Nita]]'s bear, which can be big threats to the safe. As an offender, with his Ink Refills Star Power and his Phat Splatter Gadget paired, Otis can deal high damage to the safe.
+*In bushy maps like [[Snake Prairie]], Otis' Gadget Phat Splatter combined with Stencil Glue can cover a lot of bushes and can see an enemy with Otis' Super on for 4 seconds.
+
+===Recommended Build===
+
+* Dormant Star is typically the worse Gadget, as when it is triggered Otis and his allies are usually not close enough to actually follow up on the Super. However, due to its ability to be placed multiple times at once it can make it a powerful chokepoint blocker with a much longer duration than the Phat Splatter, hindering enemy progress in certain events like Brawl Ball and [[Heist]].
+* Phat Splatter is typically the better Gadget, as it can be used to block checkpoints and deal damage to the safe. Paired with his Ink Refills Star Power, he can deal large amounts of damage to the safe extremely quickly.
+* Ink Refills is necessary to using Otis, drastically increasing his DPS and Super charge rate. It can usually determine finishing off a Brawler with an extra damage projectile.
+* Stencil Glue is the worse Star Power, as most Brawlers will die in 3 hits after Otis uses his Super, and it is unnecessary in most cases with it only giving one extra tick of poison damage from getting muted.
+* The damage area of Otis' Phat Splatter Gadget has slightly more range than his basic attack, and can sometimes even hit enemies behind walls. Use this to finish off enemies that are just slightly outside of your range.
+
+===Strategies===
+*Otis' Super makes him a powerful counter from tanks and assassins, if they get too close to him.
+*The damage area of Otis' Phat Splatter Gadget has slightly more range than his basic attack, and can sometimes even hit enemies behind walls. Use this to finish off enemies that are just slightly outside of your range.
+*Try to attack your opponent with your Super in close range, because it helps Otis to defeat the enemy faster, and ensures that you won't miss any attacks.
+*His attack has a deceivingly large spread and hitbox that can be used to poke at an enemy and keep them from healing.
+*Especially if you are going against an assassin, try to always have your Super ready. Similar to [[Gus]], Otis can easily stop them from dealing damage and quickly kill them.
+*Cil can silence certain special targets as well. When going against a Hyperbear or Hyperscrappy, it might be a good choice to use it against them especially if they have their Star Powers and Gadgets. 
+{{Clr}}
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+|-
+|{{Ogg|Filename= Otis start vo 01.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis lead vo 01.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis hurt vo 01.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis kill vo 01.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis die vo 01.ogg|Filedescription = ''Otis gurgling''}}
+|-
+|{{Ogg|Filename= Otis start vo 02.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis lead vo 02.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis hurt vo 02.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis kill vo 02.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis die vo 02.ogg|Filedescription = ''Otis gurgling''}}
+|-
+|{{Ogg|Filename= Otis start vo 03.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis lead vo 03.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis hurt vo 03.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis kill vo 03.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis die vo 03.ogg|Filedescription = ''Otis gurgling''}}
+|-
+|{{Ogg|Filename= Otis start vo 04.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis lead vo 04.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis hurt vo 04.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis kill vo 04.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis die vo 04.ogg|Filedescription = ''Otis gurgling''}}
+|-
+|{{Ogg|Filename= Otis start vo 05.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis lead vo 05.ogg|Filedescription = ''Otis gurgling''}}
+|{{Ogg|Filename = Otis hurt vo 05.ogg|Filedescription = ''Otis gurgling''}}
+|
+|
+|-
+|{{Ogg|Filename= Otis start vo 06.ogg|Filedescription = ''Otis gurgling''}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename= Otis start vo 07.ogg|Filedescription = ''Otis gurgling''}}
+|
+|
+|
+|
+|}
+
+==History==
+*29/06/22:
+**{{Balance|Content=Otis became available to play in the [[Training Cave]].|Change=Neutral}}
+*04/07/22:
+**{{Balance|Content=Otis and his Pharaotis skin were added to the game.|Change=Neutral}}
+*14/07/22:
+**{{Balance|Content=Fixed an occasional server error when using Otis' Super and his Gadget.|Change=Neutral}}
+*25/07/22:
+**{{Balance|Content=Otis' Phat Splatter Gadget was added.|Change=Neutral}}
+*08/08/22:
+**{{Balance|Content=Otis' Ink Refills Star Power was added.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Otis' Dormant Star Gadget can now be activated without requiring his Super.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that played the incorrect voice line when unlocking Otis.|Change=Neutral}}
+**{{Balance|Content=Otis' True Silver and True Gold skins were added.|Change=Neutral}}
+*19/09/22:
+**{{Balance|Content=Otis' main attack damage was increased to 460 (from 420) per ink drop.|Change=Buff}}
+**{{Balance|Content=Otis' Super now deals 340 (from 0) damage per second and recharges his Super.|Change=Buff}}
+**{{Balance|Content=Fixed a server error in specific circumstances when playing Otis.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Otis' main attack damage was decreased to 440 (from 460) per ink drop.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Otis' Super was increased to 13 hits (from 12).|Change=Nerf}}
+*28/02/23:
+**{{Balance|Content=Otis' health was decreased to 3200 (from 3400).|Change=Nerf}}
+**{{Balance|Content=Otis' class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*14/04/23:
+**{{Balance|Content=The Oni Otis skin was added. It was featured as a The Ayakashi Clan skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Otis' Phat Splatter Gadget damage was increased to 880 (from 810) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Otis' flavor text was changed from "Otis is a street artist who chills in the deep with his starfish pal Cil. Together they throw up graffiti pieces all over Starr Park." to "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!"|Change=Neutral}}
+*27/10/23:
+**{{Balance|Content=Fixed an issue that caused Otis' Phat Splatter Gadget to crash the game.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Otis' rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+**{{Balance|Content=The W Otis skin was added. It was featured as a World Champions 2023 skin.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Otis' main attack damage was increased to 460 (from 440) per ink drop.|Change=Buff}}
+**{{Balance|Content=Otis' Phat Splatter Gadget damage was increased to 920 (from 880) per tick.|Change=Buff}}
+**{{Balance|Content=Fixed an issue where the W Otis skin was causing the Dormant Star Gadget not to silence enemies.|Change=Neutral}}
+*03/05/24:
+**{{Balance|Content=Otis can no longer use his Phat Splatter Gadget as [[Godzilla City Smash|Godzilla]].|Change=Neutral}}
+*04/11/24:
+**{{Balance|Content=Otis' Silent Stunner Hypercharge was added.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Demon Otis skin was released. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Fixed an issue that caused Otis' Ink Refills Star Power not working after using his Hypercharge.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=The Rusty Otis skin was added. It was featured as a Wasteland skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Otis' health was increased to 3400 (from 3200).|Change=Buff}}
+**{{Balance|Content=Otis' main attack damage was increased to 500 (from 460) per ink drop.|Change=Buff}}
+**{{Balance|Change=Buff|Content=Otis' Phat Splatter Gadget damage was increased to 1000 (from 920) per tick.}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Otis' Silent Stunner Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Otis' Silent Stunner Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Otis' health was increased to 3600 (from 3400).}}
+**{{Balance|Nerf|Otis' Super recharge rate was decreased by 10%.}}
+*25/02/26:
+**{{Balance|Content=Fixed an issue where Otis' Super used with the Dormant Star Gadget would disappear after 4 seconds if the Stencil Glue Star Power was equipped.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=The Gridiron Otis skin could be obtained for free until 09/07. It was featured as an Adidas skin.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Otis’ Super Starfish could attach to Brawlers protected by spawn immunity.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Otis' movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed Otis' shield visual being too large.}}
+
+==Cosmetics==
+===Skins (8)===
+====Otis====
+{{Skin Gallery
+|Name1=Rusty|Cost1=Free from Strangest Packs, free from Glowbert Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Wasteland|Rarity1=Rare
+|Name2=Oni|Cost2=Free from Nori Boxes or 149 Gems|Campaign2=The Ayakashi Clan|Rarity2=Epic
+|Name3=W|Cost3=149 Gems • '''S'''|Campaign3=World Champions 2023|Rarity3=Epic
+|Name4=Demon|Cost4=Free from Demonic Drops or 149 Gems|Campaign4=Angels vs. Demons|Rarity4=Epic
+|TrueSkins=yes
+|NameP1=Pharaotis|CampaignP1=Brawl Pass|CostP1=Brawl Pass or 149 Gems|CampaignP1_2=Dark Sands|RarityP1=Epic
+|Name5=Gridiron|Cost5=Free for everyone until 09/07 · '''S'''|Campaign5=Adidas|Rarity5=Mythic}}
+
+====Cil====
+{{Skin Gallery|For=Minion
+|Name1=Rusty|Campaign1=Wasteland|Rarity1=Rare
+|Name2=Oni|Campaign2=The Ayakashi Clan|Rarity2=Epic
+|Name3=W|Campaign3=World Champions 2023|Rarity3=Epic
+|Name4=Demon|Campaign4=Angels vs. Demons|Rarity4=Epic
+|TrueSkins=yes
+|NameP1=Pharaotis|CampaignP1=Brawl Pass|CampaignP1_2=Dark Sands|RarityP1=Epic
+|Name5=Gridiron|Campaign5=Adidas|Rarity5=Mythic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Otis
+|-
+!Skin
+!colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Pharaotis}}
+{{Pin Table|Oni}}
+{{Pin Table|W|Special}}
+{{Pin Table|Demon|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Otis|Rarity = Common}}
+|{{Spray|Type = Otis Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Oni Otis|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Otis1}}
+|{{Pfp|Otis2}}
+|{{Pfp|Otis3}}
+|{{Pfp|Otis4}}
+|{{Pfp|Oni Otis}}
+|-
+|{{Pfp|W Otis}}
+|{{Pfp|Demon Otis}}
+|{{Pfp|Pharaotis}}
+|}
+{{Navigation}}
+[[nl:Otis]]
+[[pl:Otis]]
+[[ru:Отис]]

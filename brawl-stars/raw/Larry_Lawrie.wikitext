@@ -1,0 +1,349 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = I am the law!|PrestigeTitle = Obey or Pay!|Rarity = Epic|Class = Artillery|MovementSpeed = 800 (Fast)<br>3000 (with Order: Fall Back)|VoiceActor = Martin Schjøler|HealthLabel = Health|Health = 3000|AttackRange = 7.33 (Long)|Reload = 2.2 seconds (Very Slow)|Attack = 700|AttackLabel = Damage per explosion|SuperRange = 5|AttackSpread = |SuperSuperCharge = 3.6%|SuperMinion = Lawrie|SuperMinionRange = 6.67 (Normal)|SuperReload =1.8 seconds (Normal)|SuperMovementSpeed = 800 (Fast)<br>3000 (with Order: Fall Back)|SuperLabel = Lawrie Health|Super = 3300|SuperLabel2 = Lawrie Damage|Super2 = 200|SuperBullets=8 (Lawrie)|AttackSpeed=2000|SuperSpread=22.5° (Lawrie; first wave)<br>37.5° (Lawrie; second wave)|SuperSpeed=1196<br>3400 (Lawrie)|Gadget1Name=Order: Swap|Gadget1Cooldown=12 seconds|Gadget2Name=Order: Fall Back|Gadget2Cooldown=17 seconds|Previous=Pearl|Next=Angelo|AttackSuperCharge=12.6%|AttackHyperchargeCharge=4.9%|SuperHyperchargeCharge=1.4%|HyperchargeMultiplier=39%}}
+{{Quote|Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.}}{{Portrait}}
+Larry & Lawrie is an {{Rarity|Epic}} [[Brawler]] who has moderately low health, a fast movement speed, and a high burst damage potential, at the expense of having a very slow reload speed. They were the 76th Brawler added to the game. Larry attacks by lobbing a bundle of tickets at a long range that explodes onto the ground in a small radius the first time and then explodes again in a larger radius, dealing damage to enemies hit by the blast twice. For his Super, Larry throws a signal that spawns his twin brother Lawrie, who has moderately low health and attacks by firing 2 waves consisting of 3 plugs in one wave, and 5 plugs in the other that spread out in a cone. His first Gadget, Order: Swap, makes Larry and Lawrie swap their attacks. His second Gadget, Order: Fall Back, makes Larry and Lawrie quickly dash to swap sides, healing them in the process. His first Star Power, Protocol: Protect, passively reduces some damage Larry takes, redirecting that same amount of damage done to Lawrie instead. His second Star Power, Protocol: Assist, reloads some of Larry's ammo when Lawrie deals damage to an enemy. His Hypercharge, The Three-Bot Problem, spawns a second Lawrie that has more health and deals more damage than the normal Lawrie.
+
+==Attack: Ticket Dispenser==
+{{Quote|Shoot a ticket bundle over obstacles that explodes twice after landing, damaging nearby enemies.}}
+Larry lobs a bundle of tickets at a long range that explodes in a small radius of 1.5 tiles, dealing moderate damage to enemies hit. After 0.6 seconds, it explodes a second time in the same location with a larger radius of 2.67 tiles. Similar to [[Barley]], the damage can hit twice if the enemy stands in the radius of both explosions. However, his attacks reload rather slowly and travel slowly as well. Larry's attack will land on the ground sooner the closer he throws his ticket bundle to himself.
+
+==Super: Call For Backup==
+{{Quote|Throw a signal to summon your twin Lawrie for help. He will seek out any trouble makers and serve justice with his taser gun.}}
+Larry throws a signal that spawns his twin brother Lawrie who chases down and attacks enemies. Lawrie walks towards the nearest enemy even if they are in a bush, but unlike other spawnables, walks erratically instead of beelining directly towards the enemy and generally tries to stay near Larry. His attack comes in 2 waves, one wave consists of 3 plugs and the other 5 plugs, with the plugs spreading out in a cone formation. The order of these waves reverses with each attack, and the 3-plug wave is set to go first when Lawrie spawns. Lawrie's attack deals heavy amounts of damage at close range, where most or all of the plugs can hit an enemy. Lawrie will follow Larry if there are no enemies that are able to be attacked. Auto Aiming the Super will spawn Lawrie right next to Larry. 
+
+==Gadgets==
+===Order: Swap===
+{{Quote|Swap weapons with Lawrie. Cooldown: 12 seconds.}}{{Gadget|1}}
+When activated, Larry and Lawrie swap their respective weapons, and Lawrie instantly fully reloads his ammo. The effect will remain active until another Gadget is used or until death. When Larry uses Lawrie's attack, the wave with 3 plugs will always go first. If one of the twins dies, that twin's weapon will revert back to normal, but the other will still keep the modified weapon. This Gadget can only be used if Lawrie exists on the map. This Gadget's cooldown begins after it's activated.
+
+===Order: Fall Back===
+{{Quote|Dash towards Lawrie while Lawrie dashes towards you, healing both for 25% of max health. Cooldown: 17 seconds.}}{{Gadget|2}}
+When activated, Larry and Lawrie quickly dash to swap their respective positions. They can't use their dash to go through walls or over water, and the dash will be cut short if they try to do so. In addition, they heal for 25% of their maximum health. This Gadget's cooldown begins 0.5 seconds after it's activated.
+
+==Star Powers==
+===Protocol: Protect===
+{{Quote|While Lawrie is in range, transfer 30% incoming damage to himself instead.}}{{StarPower|1}}
+When Lawrie is within 8 tiles of Larry, this Star Power passively reduces all damage Larry takes by 30% by redirecting the damage to Lawrie instead. It also reduces the Super charge enemies get from attacks by the same amount. The rotating beacon light on Larry's head will glow blue to show this Star Power is active.
+
+===Protocol: Assist===
+{{Quote|While Lawrie is in range, reload 30% of your ammo whenever he damages an enemy.}}{{StarPower|2}}
+When Lawrie is within 8 tiles of Larry, this Star Power passively reloads Larry's ammo by 30% whenever Lawrie's attacks hit enemy Brawlers. The amount Larry reloads increases with the more projectiles Lawrie lands. Unlike other abilities, this Star Power reloads 30% of one ammo per hit, not 30% of the entire ammo bar. The rotating beacon light on Lawrie's head will glow red to show this Star Power is active. 
+
+==Hypercharge: The Three-Bot Problem==
+{{Quote|Larry calls an extra prototype Lawrie bot for backup, which has higher health than plain ol' Lawrie. Gadgets that affect Lawrie only apply to the "original" model.}}{{Hypercharge}}
+When activated, Larry spawns a second Lawrie that has 2000 more health. This Lawrie always spawns clockwise of the normal Lawrie, relative to Larry. There can be two Lawries active at once, and using another normal Super will only despawn the normal Lawrie. Larry & Lawrie's Order: Swap and Order: Fall Back Gadgets only affect the normal Lawrie. Larry also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*Larry and Lawrie's decent range, great area control, and potent spawnable make them excellent in modes where control over long periods of time is the priority, such as [[Gem Grab]] and [[Hot Zone]].
+
+===Recommended Build===
+*The Order: Fall Back Gadget is best used as a more tactical movement use for whether you're in [[Knockout]] or [[Showdown]]. If you spawn your twin brother Lawrie towards the enemy, they might play less aggressive considering you're the main target. Thus, you can swap places given the right opponent and fast attack them unexpectedly. This can be very useful in tight situations.
+*The Order: Swap Gadget is not recommended, as while Lawrie can utilize Larry's Ticket Dispenser well, receiving Lawrie's Shocker neuters Larry's long range and damage. This makes Larry essentially useless against enemy throwers and medium range Brawlers like [[Pearl]], [[Surge]], [[Emz]], [[Tara]], [[Nita]], and [[Spike]], and the low damage of the weapon means he struggles to take down even close range Brawlers.
+*Protocol: Protect is useful to defend against aggressive melee Brawlers like [[Fang]], [[Bull]], [[Shelly]], [[Darryl]], [[Rosa]], or [[El Primo]], making it a hard task to take him down. Against area damage melee Brawlers like [[Kenji]], [[Kit]], [[Shade]], [[Mico]], [[Mortis]], [[Edgar]], [[Ash]], [[Bibi]], [[Jacky]], [[Hank]], [[Sam]], [[Doug]], [[Draco]], [[Lily]], and [[Buzz]], keep some distance between you and Lawrie to ensure that Lawrie will not take increased damage from their attacks.
+*Protocol: Assist is very effective, especially when paired with Order: Fall Back. You can continuously keep attacking as the Star Power boosts your reload speed when you're close to Lawrie and he deals damage, while healing each other and swapping positions when you use Order: Fall Back. Given that Larry's reload speed is slow, it's recommended to use this Star Power to boost his reload speed while dealing large damage.
+
+===Other===
+*To maximize damage, try aiming ahead of an enemy. This is because Larry's attack explodes twice, so this increases you chances of the attack damaging the enemy twice. 
+*Aiming ahead is also beneficial as Larry's projectile speed is rather slow, so aiming ahead will increase your chances of hitting the enemy. 
+*Try spawning Lawrie closer to the enemy, or, if possible, in a bush. This will prevent the enemy from destroying him as easily or quickly, which will allow you to maximize his damage potential. 
+*Sometimes, players will mistake Lawrie for the player (in a similar manner to [[Leon]]'s Clone Projector Gadget), which can distract them and/or cause them to waste ammo.
+*Lawrie can act as a meat shield, especially if paired with the Protocol: Protect Star Power.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 01.ogg|Filedescription ="This will be a great day."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 01.ogg|Filedescription ="Ah, the sun smiles upon us, today!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 01.ogg|Filedescription ="Successfully applied my 45,756 rules of success."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 01.ogg|Filedescription ="I struck gold in the desert."}}
+|'''Normal:'''
+{{Ogg|Filename = larry hurt vo 01.ogg|Filedescription ="I am still smiling!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 01.ogg|Filedescription ="Still smiling through the sandstorm!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 01.ogg|Filedescription ="The rule book is my secret weapon."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 01.ogg|Filedescription ="Just as foretold by the prophecy."}}
+|'''Normal:'''
+{{Ogg|Filename = larry die vo 01.ogg|Filedescription ="This wasn't part of the rule book."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 02.ogg|Filedescription ="This was not written in the stars."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 01.ogg|Filedescription =Lawrie: "Say hello to the bad cop!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 01.ogg|Filedescription =Lawrie: "Say hello to the bad genie!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 02.ogg|Filedescription ="Play nice, everyone."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 02.ogg|Filedescription ="Walk gently, travelers of the sands."}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 02.ogg|Filedescription ="Optimism is the ticket to success."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 02.ogg|Filedescription ="Like an oasis in the desert!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry hurt vo 02.ogg|Filedescription ="You did really well!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 02.ogg|Filedescription ="A bold strike, well done, friend!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 02.ogg|Filedescription ="Rules rule the world."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 02.ogg|Filedescription ="Merchant of order, master of margins."}}
+|'''Normal:'''
+{{Ogg|Filename = larry die vo 02.ogg|Filedescription ="But I followed the rules!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 03.ogg|Filedescription ="But I followed the law of the desert."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 02.ogg|Filedescription =Lawrie: "I got no time for trouble!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 02.ogg|Filedescription =Lawrie: "I do not bargain!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 03.ogg|Filedescription ="Don't be fools, follow the rules!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 03.ogg|Filedescription ="Be kind, and follow the desert directives."}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 03.ogg|Filedescription ="One way ticket to victory!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 05.ogg|Filedescription ="A golden ticket to glory!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry hurt vo 03.ogg|Filedescription ="You chose me as a victim. I am honored!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 03.ogg|Filedescription ="Chosen by destiny and your blade!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 03.ogg|Filedescription ="Ruling ruler of Rulington!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 06.ogg|Filedescription ="Ruler or rules, sultan of systems!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry die vo 03.ogg|Filedescription ="My ticket has expired."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 04.ogg|Filedescription ="My journey has ended."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 03.ogg|Filedescription =Lawrie: "Obey!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 03.ogg|Filedescription =Lawrie: "The dunes of destiny will seal your fate!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 04.ogg|Filedescription ="Optimism boost, engaged!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 04.ogg|Filedescription ="Hope sails high on the desert wind!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 04.ogg|Filedescription ="Ticket to triumph!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 04.ogg|Filedescription ="A ticket worth its weight in spice!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry hurt vo 04.ogg|Filedescription ="Lawrie won't like this."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 04.ogg|Filedescription ="I have survived worse sandstorms."}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 04.ogg|Filedescription ="Optimism won again!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 04.ogg|Filedescription ="The ancient code guides my hand!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry die vo 04.ogg|Filedescription ="Oh, I need to go and get some more tickets."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 01.ogg|Filedescription ="1,001 rules disregarded by fools."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 04.ogg|Filedescription =Lawrie: "The law will find you!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 04.ogg|Filedescription =Lawrie: "You shall pay for defying order!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 05.ogg|Filedescription ="Obey, obey, obey!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 05.ogg|Filedescription ="To the dunes of destiny!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 05.ogg|Filedescription ="Optimism fueled, the competitors were schooled."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 03.ogg|Filedescription ="A one way journey to the dunes of legend!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry hurt vo 05.ogg|Filedescription ="What a great effort."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 05.ogg|Filedescription ="A bold move, worth a story or two."}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 05.ogg|Filedescription ="Another twin win!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 03.ogg|Filedescription ="Another fine tale for the campfire!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry die vo 05.ogg|Filedescription ="This twin was not meant to win."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 05.ogg|Filedescription ="I must return to the caravan."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 05.ogg|Filedescription =Lawrie: "Say hello to the bad cop!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 05.ogg|Filedescription =Lawrie: "Enough ceremony, judgment begins."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 06.ogg|Filedescription ="Got a ticket to win, and I'm checking in!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 06.ogg|Filedescription ="Serving the desert law, like a true sultan."}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 06.ogg|Filedescription ="Sing when you're twinning!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 06.ogg|Filedescription ="Single suns, we twinned again!"}}
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert hurt vo 06.ogg|Filedescription ="What spirit? The dunes applaud you!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry kill vo 06.ogg|Filedescription ="Your ticket is no longer valid."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 05.ogg|Filedescription ="The laws of the sands never fail!"}}
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 06.ogg|Filedescription ="But I followed the map."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 06.ogg|Filedescription =Lawrie: "You will pay for your insubordination."}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert ulti vo 06.ogg|Filedescription =Lawrie: "Your fate is written in the sand!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = larry start vo 07.ogg|Filedescription ="Obeying rules, like a boss!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 07.ogg|Filedescription ="Ah, another dawn, another tale to tell!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 07.ogg|Filedescription ="Twin for the win!"}}'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert lead vo 07.ogg|Filedescription ="One way camel ride to the dunes of destiny!"}}
+|
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 07.ogg|Filedescription ="Hope triumphs once more!"}}
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert die vo 07.ogg|Filedescription ="Like sands through the hourglass, so is our time in the desert."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 07.ogg|Filedescription =Lawrie: "You have broken the law!"}}
+|-
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 08.ogg|Filedescription ="Hope is packed, camel's ready!"}}
+|'''Normal:'''
+{{Ogg|Filename = larry lead vo 08.ogg|Filedescription ="Obeying rules, but breaking records!"}}
+|
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert kill vo 08.ogg|Filedescription ="Another victory for the twins of fate!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = larry ulti vo 08.ogg|Filedescription =Lawrie: "Time for some real action!"}}
+|-
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 09.ogg|Filedescription ="The rules are old, and written in the sand."}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 10.ogg|Filedescription ="Running this caravan by the book and the stars!"}}
+|
+|
+|
+|
+|
+|
+|-
+|'''Magic Lamp:'''
+{{Ogg|Filename = robottwin desert start vo 11.ogg|Filedescription ="Tickets stopped by fate itself."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*25/01/24:
+**{{Balance|Content=Larry & Lawrie could be unlocked early as a bundle for $14.99.|Change=Neutral}}
+**{{Balance|Content=Larry & Lawrie became available to play in [[Training Cave]].|Change=Neutral}} 
+**{{Balance|Content=The Larry & Lawrie Controllers skin were added.|Change=Neutral}} 
+*01/02/24:
+**{{Balance|Content=Larry & Lawrie became available in the Starr Road.|Change=Neutral}}
+*07/02/24:
+**{{Balance|Content=Larry's health was decreased to 3000 (from 3400).|Change=Nerf}}
+**{{Balance|Content=Lawrie's health was decreased to 3000 (from 3400).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Larry & Lawrie's Super was increased to 8 hits (from 5).|Change=Nerf}}
+**{{Balance|Content=Lawrie's Super recharge rate was decreased by 40%.|Change=Nerf}}
+**{{Balance|Content=Larry & Lawrie's Protocol: Protect Star Power's damage redirection amount was decreased to 30% (from 100%).|Change=Nerf}}
+**{{Balance|Content=Larry & Lawrie's Protocol: Assist Star Power no longer triggers when Lawrie hits a pet or spawnable.|Change=Nerf}}
+*27/02/24:
+**{{Balance|Content=Lawrie's Super recharge rate was increased by 20%.|Change=Buff}}
+**{{Balance|Content=Larry's main attack damage was decreased to 700 (from 840) per hit.|Change=Nerf}}
+**{{Balance|Content=Larry's main attack range was decreased to 7.33 tiles (from 8).|Change=Nerf}}
+**{{Balance|Content=Fixed a visual issue causing Larry & Lawrie's skins to overlap in the [[Catalog]].|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Larry's main attack unload speed was increased to 0.3 seconds between shots (from 0.15).|Change=Nerf}}
+**{{Balance|Content=Lawrie's damage was decreased to 150 (from 300) per hit.|Change=Nerf}}
+**{{Balance|Content=Lawrie's Super recharge rate was decreased by 50%.|Change=Nerf}}
+**{{Balance|Content=Larry & Lawrie's Order: Fall Back Gadget healing was decreased to 25% of their maximum health (from 33%).|Change=Nerf}}
+*23/04/24:
+**{{Balance|Content=Fixed an issue causing Larry & Lawrie's Order Swap Gadget to deal reduced damage.|Change=Neutral}}
+*06/06/24:
+**{{Balance|Content=The Glitch Larry & Lawrie skin was added. It was featured as a Ranked skin for Brawl Pass Season 27 and a CyberBrawl skin.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Larry & Lawrie's True Silver and True Gold skins were added.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Angel, Radiant, and Dark Angel Larry & Lawrie skins were added. They were featured as Brawl Pass Season 32 skins and Angels vs. Demons skins.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Larry's health was decreased to 2800 (from 3000).|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Larry & Lawrie's level up health was decreased to 450 (from 550) in [[Brawl Arena]].|Change=Nerf}}
+*13/10/25:
+**{{Balance|Content=Larry & Lawrie's The Three-Bot Problem Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Larry and Lawrie's The Three-Bot Problem Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Larry and Lawrie's The Three-Bot Problem Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Larry's health was increased to 3000 (from 2800).}}
+**{{Balance|Buff|Larry & Lawrie's The Three-Bot Problem Hypercharge multiplier was increased to 35% (from 30%).}}
+*25/02/26:
+**{{Balance|Buff|Larry & Lawrie's The Three-Bot Problem Hypercharge multiplier was increased to 38% (from 35%).}}
+*10/03/26:
+**{{Balance|Buff|Larry & Lawrie's The Three-Bot Problem Hypercharge multiplier was increased to 39% (from 38%).}}
+*16/03/26:
+**{{Balance|Content=The Magic Lamp Larry & Lawrie skin was added. It was featured as a Dark Sands skin.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Buff|Lawrie's health was increased to 3300 (from 3000).}}
+**{{Balance|Buff|Lawrie's attack damage was increased to 200 (from 150).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Larry & Lawrie's movement speed to 800 (from 770).}}
+**{{Balance|Change=Neutral|Content=Fixed an issue where Larry & Lawrie's Hypercharge damage boost didn't apply properly.}}
+**{{Balance|Change=Neutral|Content=Larry & Lawrie's The Three-Bot Problem Hypercharge description was corrected to match current gameplay.}}
+
+==Cosmetics==
+===Skins (8)===
+====Larry====
+{{Skin Gallery
+|Name1=Larry & Lawrie Controllers|Cost1=Free from the early bundle, free from Presents, free after reaching 750 Trophies or 29 Gems|Campaign1=Gaming|Rarity1=Rare
+|Name2=Glitch|Cost2=Free from Ranked Starr Drops, Nano Drops, Cosmo Boxes or 149 Gems|Campaign2=Ranked|Campaign2_2=CyberBrawl|Rarity2=Epic
+|Name3=Magic Lamp|Cost3=299 Gems|Campaign3=Dark Sands|Rarity3=Legendary
+|TrueSkins = yes
+|NameP1=Angel|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Angels vs. Demons|RarityP1=Epic
+|NameP2=Radiant|CostP2=Brawl Pass Plus or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Angels vs. Demons|RarityP2=Epic
+|NameP3=Dark Angel|CostP3=Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Angels vs. Demons|RarityP3=Epic}}
+
+====Lawrie====
+{{Skin Gallery|For=Minion
+|Name1=Larry & Lawrie Controllers|Campaign1=Gaming|Rarity1=Rare
+|Name2=Glitch|Campaign2=Ranked|Campaign2_2=CyberBrawl|Rarity2=Epic
+|Name3=Magic Lamp|Campaign3=Dark Sands|Rarity3=Legendary
+|TrueSkins = yes
+|NameP1=Angel|CampaignP1=Brawl Pass|CampaignP1_2=Angels vs. Demons|RarityP1=Epic
+|NameP2=Radiant|CampaignP2=Brawl Pass|CampaignP2_2=Angels vs. Demons|RarityP2=Epic
+|NameP3=Dark Angel|CampaignP3=Brawl Pass|CampaignP3_2=Angels vs. Demons|RarityP3=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Larry & Lawrie
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Glitch|Special}}
+{{Pin Table|Angel|Special}}
+{{Pin Table|Radiant|Special}}
+{{Pin Table|Dark Angel|Special}}
+{{Pin Table|Magic Lamp}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type=Larry & Lawrie|Rarity=Common}}
+|{{Spray|Type=Larry & Lawrie Hypercharge|Rarity=Exclusive}}
+|{{Spray|Type=Magic Lamp Larry & Lawrie|Rarity=Common}}
+|
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Larry & Lawrie1}}
+|{{Pfp|Larry & Lawrie2}}
+|{{Pfp|Larry & Lawrie3}}
+|{{Pfp|Larry & Lawrie4}}
+|{{Pfp|Glitch Larry & Lawrie}}
+|-
+|{{Pfp|Angel Larry & Lawrie}}
+|{{Pfp|Magic Lamp Larry & Lawrie}}
+|}
+
+{{Navigation}}
+[[ru:Ларри и Лори]]
+[[pl:Larry i Lawrie]]

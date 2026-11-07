@@ -1,0 +1,879 @@
+{{MagicWords}}{{Protection}}[[File:Credits.png|left|90px|link=]]
+Credits are an in-game currency introduced in the [[Version History##CandyLand Update - Release Notes! 12/12/22|December 2022 update]]. Credits allow players to unlock Brawlers from the Brawler Blast.
+
+Credits can be obtained from the Shop, [[Starr Drops]], the [[Daily Streak]], the [[Trophies#Trophy Road|Trophy Road]], [[Brawl Pass]] tiers, [[Brawl Pass|Quests]] and [[Challenges]]. They could also be given as a compensation for unlocking all the Brawlers of a certain rarity. These Brawlers and costs can vary in Rarity, with Rare Brawlers requiring the least amount of Credits and Ultra Brawlers requiring the most. Once all Brawlers are unlocked, all Credits will go towards unlocking Fame tiers.
+
+==Brawler Blast==
+The Brawler Blast is a system that allows for unlocking Brawlers in a given Rarity. The Rarities being given Credits are in a set order, though the exact order is unknown as only the current and next two Rarity unlocks are shown on the Brawler selection screen, on the left side.
+
+Once the amount of Credits for the Rarity are acquired, the player is taken to a target range with cardboard cutouts up to 10 Brawlers of that Rarity. If less than 10 Brawlers in that Rarity need to be unlocked, the remaining targets are replaced by generic cutouts of objects such as the robots from PvE events, popcorn, ducks, cacti, or bottles. Tapping the screen will eliminate one random target per tap starting with the generic cutouts, each time granting a chance to be given one to four Gem Fragments. There is a 65.01% chance of a target not giving Gem Fragments, a 29.84% chance of a target giving one Gem Fragment, 3.57% for two, 1.14% for three, and 0.44% for four.
+
+Gem Fragments can increase the Brawler's Power Level and unlock up to one of each of any upgrade. 1 Gem Fragment grants +1 Power Level. 2 Gem Fragments grants +2 Power Levels, a random Gadget, or a random Gear. 3 Gem Fragments grants +3 Power Levels or a random Star Power. 4 Gem Fragments grants +4 Power Levels, a Hypercharge, or a random Buffie. There is also a limit of one Gadget, one Star Power, one Hypercharge, and one Buffie per Brawler Blast game.
+
+Targets can stop being eliminated when one to four Brawlers are remaining; if two or more Brawlers remain, the player has a choice between them. There is a 50% chance of getting a choice. Of that 50%, 57.14% of that will be two choices, 28.57% will be three choices, and 14.29% will be four choices.
+
+[[Gems]] and [[Brawler Key|Brawler Keys]] can also be used to instantly unlock a select Brawler, but it is only recommended to do so if you want one specific Brawler, as you will not gain the extra Power Levels or unlocks from Brawler Blast. Gems can also be used to top off a Rarity being unlocked, with one Gem being equivalent to 5.4 to 5.5 Credits depending on the Rarity.
+
+===Brawler Costs===
+{|class="article-table style="width:100%;text-align:center"
+!Brawler Rarity||Credit Cost||Gem Cost||Key Cost
+|-
+|{{Icon|Rare Brawler}} {{Rarity|Rare}}||{{Icon|Credit}}160 ||{{Icon|Gem}}29||N/A
+|-
+|{{Icon|Super Rare Brawler}} {{Rarity|Super Rare}}||{{Icon|Credit}}430 ||{{Icon|Gem}}79||N/A
+|-
+|{{Icon|Epic Brawler}} {{Rarity|Epic}}||{{Icon|Credit}}925 ||{{Icon|Gem}}169||{{Icon|Brawler Key}}1
+|-
+|{{Icon|Mythic Brawler}} {{Rarity|Mythic}}||{{Icon|Credit}}1900||{{Icon|Gem}}349||{{Icon|Brawler Key}}2
+|-
+|{{Icon|Legendary Brawler}} {{Rarity|Legendary}}||{{Icon|Credit}}3800||{{Icon|Gem}}699||{{Icon|Brawler Key}}4
+|-
+|{{Icon|Ultra Brawler}} {{Rarity|Ultra}}||{{Icon|Credit}}5500||{{Icon|Gem}}999||{{Icon|Brawler Key}}6
+|}
+
+===Brawler Blast Descriptions===
+{|class="mw-collapsible mw-collapsed article-table"
+!Brawler
+!Description
+|-
+|Shelly
+|Counter tanks and assassins with burst damage.
+|-
+|Nita
+|Pressure with Bruce the bear!
+|-
+|Colt
+|Long range, consistent damage.
+|-
+|Bull
+|Super to break walls and close the distance!
+|-
+|Brock
+|Explode Brawlers and walls!
+|-
+|El Primo
+|Jump in, but stay away from crowds.
+|-
+|Barley
+|Deny space using fiery bottles!
+|-
+|Poco
+|Instant heals keep your team fighting!
+|-
+|Rosa
+|Use bushes whenever possible!
+|-
+|Jessie
+|Place your turret to dominate the map!
+|-
+|Dynamike
+|Bombard safely from behind walls.
+|-
+|Rico
+|Bounce shots for extra range!
+|-
+|Darryl
+|Roll in and burst damage targets.
+|-
+|Penny
+|Use your cannon to take over the map!
+|-
+|Carl
+|Boomerang your pickaxe for more damage!
+|-
+|Tick
+|Control space from safety.
+|-
+|8-Bit
+|Hold ground and boost your team!
+|-
+|Jacky
+|Get close to deal large area damage.
+|-
+|Gus
+|Buff teammates and snipe enemies.
+|-
+|Bo
+|Control space with hidden traps.
+|-
+|Piper
+|Poke from range and escape with a Super!
+|-
+|Pam
+|Hold ground and heal teammates.
+|-
+|Frank
+|Control space with stuns and high health.
+|-
+|Bibi
+|Charge in and knock 'em back!
+|-
+|Emz
+|Control the map with large attacks.
+|-
+|Bea
+|Land hits, then punish!
+|-
+|Gale
+|Push enemies away to control the map.
+|-
+|Nani
+|Poke with outside shots, or burst with all!
+|-
+|Colette
+|Shred high-health enemies and objectives.
+|-
+|Edgar
+|Jump to take out isolated enemies.
+|-
+|Stu
+|Use your dash to get close or dodge.
+|-
+|Belle
+|Snipe with bouncing bullets.
+|-
+|Griff
+|Burst down enemies from mid-range.
+|-
+|Ash
+|Unleash an army of rats!
+|-
+|Lola
+|Control multiple lanes with Ego!
+|-
+|Grom
+|Bombard safely from behind walls.
+|-
+|Bonnie
+|Snipe, then jump in for big damage.
+|-
+|Sam
+|Throw fists, reclaim, repeat.
+|-
+|Mandy
+|Hold your ground for huge range.
+|-
+|Maisie
+|Punish advancing enemies.
+|-
+|Hank
+|Charge up your attack, then engage.
+|-
+|Pearl
+|Build up Heat for burst damage!
+|-
+|Larry & Lawrie
+|Overwhelm with teamwork!
+|-
+|Angelo
+|Use charged attacks to snipe!
+|-
+|Berry
+|Control space and heal teammates.
+|-
+|Shade
+|Use walls to avoid damage and get close.
+|-
+|Meeple
+|Shoot through walls and control the map!
+|-
+|Trunk
+|Use ants for speed and charge in!
+|-
+|Bolt
+|Avoid walls and sharp turns for speed!
+|-
+|Mortis
+|Jump in on weak or isolated enemies.
+|-
+|Tara
+|Punish grouped enemies.
+|-
+|Gene
+|Single out enemies with long range pulls!
+|-
+|Max
+|Buff your team with tons of speed!
+|-
+|Mr. P
+|Use porters to control the map.
+|-
+|Sprout
+|Make walls and bounce projectiles off of them.
+|-
+|Lou
+|Control the map with a huge freeze.
+|-
+|Byron
+|Heal teammates or snipe with poison.
+|-
+|Ruffs
+|Buff teammates and poke enemies.
+|-
+|Squeak
+|Hit enemies through walls with explosions!
+|-
+|Buzz
+|Travel around the map and stun enemies.
+|-
+|Fang
+|Poke with range then jump in to finish.
+|-
+|Eve
+|Walk over water and spawn hatchlings!
+|-
+|Janet
+|Super to drop bombs safely from above!
+|-
+|Otis
+|Burst tanks and silence threats.
+|-
+|Buster
+|Reflect enemy projectiles for big damage.
+|-
+|Gray
+|Get your team into the action with portals!
+|-
+|R-T
+|Mark targets then deal burst damage!
+|-
+|Willow
+|Turn enemies against themselves!
+|-
+|Doug
+|Big close range damage and self-revival!
+|-
+|Chuck
+|Lay down tracks for offense and retreats.
+|-
+|Charlie
+|Cocoon enemies to remove them from play!
+|-
+|Mico
+|Leap over walls and enemy attacks!
+|-
+|Melodie
+|Build up notes, then dive in!
+|-
+|Lily
+|Use bushes and a Super to get close.
+|-
+|Clancy
+|Poke to level up and take over!
+|-
+|Moe
+|Chase down enemies with the drill.
+|-
+|Juju
+|Use terrain, unleash Gris-Gris!
+|-
+|Ollie
+|Soak up damage, then hypnotize.
+|-
+|Finx
+|Slow enemy projectiles to take space.
+|-
+|Lumi
+|Recall weapons to create new angles of attack.
+|-
+|Jae-yong
+|Use speed for aggression and heal for safety.
+|-
+|Alli
+|Ambush from bushes and water!
+|-
+|Mina
+|Combo your Super with main attacks.
+|-
+|Ziggy
+|Call lightning to control space.
+|-
+|Gigi
+|Dodge enemies, then jump in to finish them. 
+|-
+|Glowy
+|Heal teammates and fear enemies.
+|-
+|Najia
+|Massive range with added poison!
+|-
+|Damian
+|Jump in to unleash chaos!
+|-
+|Starr Nova
+|Poke, then transform and strike!
+|-
+|Wendy
+|Shield teammates and hold ground.
+|-
+|Cosmo
+|Use gravity to target enemies!
+|-
+|Vince
+|Collect caterpillars to become more powerful!
+|-
+|Spike
+|Zone enemies with a Super and spikes.
+|-
+|Crow
+|Poison enemies from a distance.
+|-
+|Leon
+|Sneak in and assassinate.
+|-
+|Sandy
+|Use Sandstorm to control objectives!
+|-
+|Surge
+|Use Supers to level up or dive in!
+|-
+|Amber
+|Destroy bushes and control space with fire.
+|-
+|Meg
+|Use the mecha for space, then run!
+|-
+|Chester
+|Master randomness to control the map.
+|-
+|Cordelius
+|Use the Shadow Realm to isolate targets!
+|-
+|Kit
+|Heal teammates, or assassinate enemies!
+|-
+|Draco
+|Poke, transform, then dominate!
+|-
+|Kenji
+|Stay aggressive and heal with attacks.
+|-
+|Pierce
+|The last shot is key for damage.
+|-
+|Nori
+|Jump around the map and cause chaos!
+|-
+|Kaze
+|Zone as Geisha, strike as Ninja.
+|-
+|Sirius
+|Use shadows to control the map.
+|}
+
+==Fame==
+Fame is a cosmetic system that is unlocked after a player unlocks every Brawler, shown on the right side of the Brawler selection screen. Each Fame rank has three levels that require a certain number of points to reach. Every Credit gets converted to one point. Fame is shown in the player's profile and their battle card in the battle start screen. After reaching a certain level, exclusive [[Battle Cards]], [[Profile Icons]], and [[Pins]] are unlocked.
+{|class="article-table" style="text-align:center"
+!Fame Rank||Points per Level||style="text-align:center"|I||style="text-align:center"|II||style="text-align:center"|III
+|-
+|Global [[File:GlobalFame.png|42px]]||2000||All Brawlers unlocked {{Battle Card|Global Fame|100px}}||2000{{Pfp|Global Fame}}||4000{{Pin|Fame|Global|Rarity = Exclusive}}
+|-
+|Lunar [[File:LunarFame.png|42px]]||3200||6000 {{Battle Card|Lunar Fame|100px}}||9200 {{Pfp|Lunar Fame}}||12400 {{Pin|Fame|Lunar|Rarity = Exclusive}}
+|-
+|Martian [[File:MartianFame.png|42px]]||4500||15600 {{Battle Card|Martian Fame|100px}}||20100 {{Pfp|Martian Fame}}||24600 {{Pin|Fame|Martian|Rarity = Exclusive}}
+|-
+|Saturnian [[File:SaturnianFame.png|x42px]]||8000||29100 {{Battle Card|Saturnian Fame|100px}}||37100 {{Pfp|Saturnian Fame}}||45100 {{Pin|Fame|Saturnian|Rarity = Exclusive}}
+|-
+|Solar [[File:SolarFame.png|50px]]||12000||53100 {{Battle Card|Solar Fame|100px}}||65100 {{Pfp|Solar Fame}}||77100 {{Pin|Fame|Solar|Rarity = Exclusive}}
+|-
+|Meteoric [[File:MeteoricFame.png|42px]]||20000||89100 {{Battle Card|Meteoric Fame|100px}}||109100 {{Pfp|Meteoric Fame}}||129100 {{Pin|Fame|Meteoric|Rarity = Exclusive}}
+|-
+|Alien [[File:AlienFame.png|x42px]]||50000||149100 {{Battle Card|Alien Fame|100px}}||199100 {{Pfp|Alien Fame}}||249100 {{Pin|Fame|Alien|Rarity = Exclusive}}
+|-
+|Starr Force [[File:StarrForceFame.png|x42px]]||75000||299100 {{Battle Card|Starr Force Fame|100px}}||374100 {{Pfp|Starr Force Fame}}||449100 {{Pin|Fame|Starr Force|Rarity = Exclusive}}
+|}
+
+(Starr Force IV does not exist, although it can be achieved for 524100 points.)
+
+==Starr Road==
+{{RemovedContent|section}}
+The Starr Road was the system that allowed a player to select a Brawler to unlock with Credits, from the initial addition of Credits in December 2022 until it was replaced by Brawler Blast in September 2026. Players had a choice to select between one to four Brawlers of a given Rarity. Once a Brawler was selected, all collected Credits would go towards unlocking the Brawler. Players could choose to switch which of the given choices will be unlocked at any time, even while credits are being collected. After collecting a certain number of Credits, the Brawler would be obtained, giving one last chance for players to switch.
+
+For the week after a Brawler's release and [[New Brawler Event]], players would be able to choose to switch their Credits to unlocking the most recent Brawler. If the player switched back to who they were originally collecting Credits for, or the player did not unlock the new Brawler within their first week on the Starr Road, they moved to the end of their Rarity's choices. From June 2025 to September 2026, Rare and Super Rare Brawlers were unlocked on Worlds 1, 2, and 3 on the Trophy Road instead of the Starr Road; Rare Brawler unlocks gave one specific Brawler while Super Rare Brawler unlocks gave a choice of every Super Rare Brawler yet to be unlocked.
+
+Brawlers in a given Rarity were predetermined. Brawlers who released before the addition of Credits and the Starr Road were ordered semi-arbitrarily in their Rarities, with formerly Chromatic Brawlers being placed at the end of the then-most-recent point in December 2023, and a few cases where multiple Brawlers became available as options simultaneously. Brawlers who released after the Starr Road were ordered in their Rarities based on their release date, following a sequential pattern of Epic, Mythic, Legendary, Ultra Legendary, then back to Epic. The table below is the Starr Road before its removal, with the addition of Rare and Super Rare Brawlers' locations before being moved to the Trophy Road.
+
+{|class="mw-collapsible mw-collapsed article-table"
+!Rarity
+!Options unlocked
+!Options
+|-
+|Rare
+|[[Nita]]
+|1
+|-
+|Rare
+|[[El Primo]]
+|1
+|-
+|Super Rare
+|[[Jessie]]
+|1
+|-
+|Rare
+|[[Poco]]
+|1
+|-
+|Super Rare
+|[[Jacky]]
+|1
+|-
+|Rare
+|[[Brock]] & [[Barley]]
+|2
+|-
+|Epic (25% off before June 2025)
+|[[Bo]] (& [[Emz]] before June 2025)
+|1 (2 before June 2025)
+|-
+|Rare
+|[[Colt]]
+|2
+|-
+|Super Rare
+|[[Dynamike]] & [[8-Bit]]
+|2
+|-
+|Epic
+|[[Emz]] (after June 2025) & [[Bea]]
+|2
+|-
+|Rare
+|[[Bull]]
+|2
+|-
+|Super Rare
+|[[Tick]] & [[Carl]]
+|3
+|-
+|Epic
+|[[Frank]] & [[Stu]]
+|3
+|-
+|Mythic (50% off)
+|[[Mortis]], [[Tara]], & [[Gene]]
+|3
+|-
+|Rare
+|[[Rosa]]
+|2
+|-
+|Super Rare
+|[[Darryl]]
+|3
+|-
+|Epic
+|[[Pam]]
+|3
+|-
+|Mythic
+|[[Max]]
+|3
+|-
+|Legendary (50% off)
+|[[Leon]], [[Crow]], & [[Spike]]
+|3
+|-
+|Rare
+|
+|1
+|-
+|Super Rare
+|[[Penny]]
+|3
+|-
+|Epic
+|[[Griff]]
+|3
+|-
+|Mythic
+|[[Byron]]
+|3
+|-
+|Super Rare
+|[[Rico]]
+|3
+|-
+|Epic
+|[[Edgar]]
+|3
+|-
+|Legendary
+|[[Sandy]]
+|3
+|-
+|Epic
+|[[Piper]] & [[Bibi]]
+|4
+|-
+|Super Rare
+|[[Gus]]
+|3
+|-
+|Mythic
+|[[Mr. P]] & [[Squeak]]
+|4
+|-
+|Epic
+|[[Grom]]
+|4
+|-
+|Legendary
+|[[Amber]] & [[Meg]]
+|4
+|-
+|Super Rare
+|
+|2
+|-
+|Epic
+|[[Nani]]
+|4
+|-
+|Legendary
+|[[Chester]]
+|4
+|-
+|Super Rare
+|
+|1
+|-
+|Epic
+|[[Bonnie]]
+|4
+|-
+|Mythic
+|[[Sprout]]
+|4
+|-
+|Epic
+|[[Hank]]
+|4
+|-
+|Mythic
+|[[Gray]]
+|4
+|-
+|Legendary
+|[[Surge]]
+|4
+|-
+|Epic
+|[[Gale]]
+|4
+|-
+|Mythic
+|[[Willow]]
+|4
+|-
+|Legendary
+|[[Cordelius]]
+|4
+|-
+|Epic
+|[[Colette]]
+|4
+|-
+|Mythic
+|[[Doug]]
+|4
+|-
+|Legendary
+|[[Kit]]
+|4
+|-
+|Mythic
+|[[Chuck]]
+|4
+|-
+|Ultra Legendary
+|[[Kaze]]
+|2
+|-
+|Epic
+|
+|3
+|-
+|Mythic
+|
+|3
+|-
+|Legendary
+|
+|2
+|-
+|Ultra Legendary
+|[[Sirius]]
+|1
+|-
+|Epic
+|[[Belle]]
+|3
+|-
+|Mythic
+|[[Lou]]
+|3
+|-
+|Legendary
+|[[Draco]]
+|3
+|-
+|Epic
+|[[Ash]]
+|3
+|-
+|Mythic
+|[[Ruffs]]
+|3
+|-
+|Legendary
+|[[Kenji]]
+|3
+|-
+|Epic
+|[[Lola]]
+|3
+|-
+|Mythic
+|[[Buzz]]
+|3
+|-
+|Legendary
+|[[Pierce]]
+|3
+|-
+|Mythic
+|[[Fang]]
+|3
+|-
+|Epic
+|[[Sam]]
+|3
+|-
+|Legendary
+|[[Nori]]
+|3
+|-
+|Epic
+|[[Mandy]]
+|3
+|-
+|Mythic
+|[[Eve]]
+|3
+|-
+|Legendary
+|
+|2
+|-
+|Epic
+|[[Maisie]]
+|3
+|-
+|Mythic
+|[[Janet]]
+|3
+|-
+|Legendary
+|
+|1
+|-
+|Epic
+|[[Pearl]]
+|3
+|-
+|Mythic
+|[[Otis]]
+|3
+|-
+|Epic
+|[[Larry & Lawrie]]
+|3
+|-
+|Mythic
+|[[Buster]]
+|3
+|-
+|Epic
+|[[Angelo]]
+|3
+|-
+|Mythic
+|[[R-T]]
+|3
+|-
+|Epic
+|[[Berry]]
+|3
+|-
+|Mythic
+|[[Mico]]
+|3
+|-
+|Epic
+|[[Shade]]
+|3
+|-
+|Mythic
+|[[Charlie]]
+|3
+|-
+|Epic
+|[[Meeple]]
+|3
+|-
+|Mythic
+|[[Melodie]]
+|3
+|-
+|Epic
+|[[Trunk]]
+|3
+|-
+|Mythic
+|[[Lily]]
+|3
+|-
+|Epic
+|[[Bolt]]
+|3
+|-
+|Mythic
+|[[Clancy]]
+|3
+|-
+|Epic
+|
+|2
+|-
+|Mythic
+|[[Moe]]
+|3
+|-
+|Epic
+|
+|1
+|-
+|Mythic
+|[[Juju]]
+|3
+|-
+|Mythic
+|[[Ollie]]
+|3
+|-
+|Mythic
+|[[Finx]]
+|3
+|-
+|Mythic
+|[[Lumi]]
+|3
+|-
+|Mythic
+|[[Jae-yong]]
+|3
+|-
+|Mythic
+|[[Alli]]
+|3
+|-
+|Mythic
+|[[Mina]]
+|3
+|-
+|Mythic
+|[[Ziggy]]
+|3
+|-
+|Mythic
+|[[Gigi]]
+|3
+|-
+|Mythic
+|[[Glowy]]
+|3
+|-
+|Mythic
+|[[Najia]]
+|3
+|-
+|Mythic
+|[[Damian]]
+|3
+|-
+|Mythic
+|[[Starr Nova]]
+|3
+|-
+|Mythic
+|
+|2
+|-
+|Mythic
+|
+|1
+|}<ref>https://www.reddit.com/r/Brawlstars/comments/1w43evc/taking_a_last_look_before_it_changes_today/</ref><ref>https://www.reddit.com/r/Brawlstars/comments/1lcpmzm/the_starr_road_for_the_new_player/</ref>
+
+==Chroma Credits==
+{{RemovedContent|section}}
+[[File:Chroma Credits.png|left|90px|link=]]
+Chroma Credits were an in-game currency similar to Credits. They could be used to unlock Chromatic Brawlers of a player's choosing. Unlike Credits, Chroma Credits could not be obtained from Starr Drops. When you got every Brawler, Chroma Credits could be used for achieving Fame if a player unlocked all Chromatic Brawlers, though unlike normal Credits they would not automatically go to Fame. A maximum of 5000 Chroma Credits could be held.
+
+==Chromatic Shop==
+{{RemovedContent|section}}
+The Chromatic Shop was a system that allowed players to unlock Chromatic Brawlers. The current Chromatic Brawler available from the Brawl Pass costed 2500 Chroma Credits, the previous season's Chromatic Brawler costed 1250 Chroma Credits, and all the rest of the Chromatic Brawlers costed 500 Chroma Credits each.
+
+Every Chromatic Brawler (except Gale, Surge and Colette) required a certain number of Chromatic Brawlers already obtained to be able to be unlocked. Alternatively, [[Gems]] could be used to instantly unlock Chromatic Brawlers depending on its unlock rarity.
+
+{|class="mw-collapsible mw-collapsed article-table"
+!Chromatic Brawlers||Conditions||Chroma Credit Cost||Initial Gem Cost
+|-
+|[[File:Gale Pin-Neutral.png|56px|link=Gale]][[File:Surge Pin-Neutral.png|56px|link=Surge]][[File:Colette Pin-Neutral.png|56px|link=Colette]]
+|Unlock with Chroma Credits|| rowspan="7" |{{Icon|Chroma Credit}}500 || rowspan="7" |{{Icon|Gem}}169 
+|-
+|[[File:Lou Pin-Neutral.png|56px|link=Lou]][[File:Ruffs Pin-Neutral.png|56px|link=Ruffs]][[File:Belle Pin-Neutral.png|56px|link=Belle]]
+|Unlock 1 more Chromatic Brawlers
+|-
+|[[File:Buzz Pin-Neutral.png|56px|link=Buzz]][[File:Ash Pin-Neutral.png|56px|link=Ash]][[File:Lola Pin-Neutral.png|56px|link=Lola]]
+|Unlock 2 more Chromatic Brawlers
+|-
+|[[File:Fang Pin-Neutral.png|56px|link=Fang]][[File:Eve Pin-Neutral.png|56px|link=Eve]][[File:Janet Pin-Neutral.png|56px|link=Janet]]
+|Unlock 3 more Chromatic Brawlers
+|-
+|[[File:Otis Pin-Neutral.png|56px|link=Otis]][[File:Sam Pin-Neutral.png|56px|link=Sam]][[File:Buster Pin-Neutral.png|56px|link=Buster]]
+|Unlock 4 more Chromatic Brawlers
+|-
+|[[File:Mandy Pin-Neutral.png|56px|link=Mandy]][[File:R-T Pin-Neutral.png|56px|link=R-T]][[File:Maisie Pin-Neutral.png|56px|link=Maisie]]
+|Unlock 5 more Chromatic Brawlers
+|-
+|[[File:Cordelius Pin-Neutral.png|56px|link=Cordelius]]
+|Unlock 6 more Chromatic Brawlers
+|-
+|[[File:Pearl Pin-Neutral.png|56px|link=Pearl]]
+|Unlock 6 more Chromatic Brawlers||{{Icon|Chroma Credit}}1250 ||{{Icon|Gem}}349 
+|-
+|[[File:Charlie Pin-Neutral.png|56px|link=Charlie]]
+|Unlock in Brawl Pass||{{Icon|Chroma Credit}}2500 ||None
+|}
+
+==History==
+*On 12/12/22, Credits, Chroma Credits, Starr Road, Chroma Shop, and Fame were added to the game and replaced [[Brawl Boxes]].
+*On 26/01/23, fixed an issue with Fame appearing into player's profiles without unlocking all Brawlers.
+*On 25/04/23, the cost of the most recent Chromatic Brawler was decreased to 2500 Chroma Credits (from 4500), and the cost of the previous season's Chromatic Brawler was decreased to 1250 Chroma Credits (from 1500). Unlocking Chromatic Brawlers now unlocks the next three as choices rather than the next two, and Surge and Colette no longer require unlocking at least one other Chromatic Brawler.
+*On 24/10/23, the Meteoric Fame was added.
+*On 12/12/23, Chroma Credits, the Chromatic Shop, and the Chroma Shower Event were removed from the game. Chromatic Brawlers were each assigned a new price and rarity between Epic and Legendary.
+*On 27/02/24, battle card backgrounds, [[Pins]] and [[Profile Icons]] can now be unlocked after reaching a certain Fame level. Fixed an issue preventing players from switching Brawlers in the Starr Road.
+*On 29/02/24, fixed an issue that prevented players from switching to unlock [[Kit]] on the Starr Road.
+*On 25/06/24, the Alien Fame was added.
+*On 01/07/24, fixed an issue where the switching Brawlers button in the Starr Road could disappear.
+*On 24/06/25, Rare and Super Rare Brawlers were moved to the Trophy Road, and their Credit costs were removed.
+*On 16/12/25, the Starr Force Fame was added.
+*On 01/09/26, the Brawler Blast replaced the Starr Road; unlock order per Rarity is now random instead of being tied to release date, and often gives varying amounts of Gem Fragments that can upgrade the unlocked Brawler. Rare and Super Rare Brawlers were moved back to Brawler Blast. The Brawler Blast and Fame screens were consolidated into the Brawler selection screen. The order in which Rarities are unlocked was changed, though the exact extent is unknown.
+
+{{Navigation}}
+
+[[Category:Items]]
+
+[[fi:Krediitit]]
+[[ru:Игровые_валюты#Кредиты]]

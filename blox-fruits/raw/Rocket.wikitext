@@ -1,0 +1,159 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Rocket
+|image  = <gallery>
+Rocket Fruit.png|Fruit Icon
+Rocket fruit gif.gif|Fruit GIF
+Rocket.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 20
+
+<!-- Fruit Price -->
+|money  = 5,000
+|robux  = 50
+}}
+{{Quote|Grants explosive movement abilities, allowing quick travel and attacks.|Shop}}
+'''Rocket''' is a {{Common}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|5,000}} or {{Robux|50}} from the [[Blox Fruit Dealer]].
+
+Rocket allows the user to shoot out explosive projectiles from their body, dealing significant damage. The user can also fly using their rocket abilities.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Missile Fist
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = [[Breaks Instinct]] on direct impact and if too close to the explosion. Can be dodged on the edge of the explosion.
+|gif      = Rocket_Z
+|desc     = The user creates a small rocket on their right arm, then creates a target in the direction of the cursor and fires the rocket, which explodes on contact with an opponent or a barrier or if it reaches its maximum range, dealing damage and knockback to any enemy hit.
+}}
+
+{{Skill
+|key      = X
+|name     = Air Strike
+|mastery  = 20
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = Explosions [[Instinct/Break|break Instinct]] if too close to them. Can be dodged on the edge.
+|gif      = Rocket_X
+|desc     = The user raises their right arm and then swings it, gradually creating 5 targets on the ground, before sending 5 rockets downwards on said targets, which explode on contact with the ground and deal decent damage to hit enemies.
+}}
+
+{{Skill
+|key      = C
+|name     = Rocket Crash
+|mastery  = 50
+|cooldown = 14.25
+|energy   = 35
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Rocket_C
+|desc     = The user jumps high into the air at a rapid rate and then crashes to the ground where the cursor is pointing, dealing good AoE damage to any contacted enemies.
+}}
+
+{{Skill
+|key      = F
+|name     = Blast Off
+|mastery  = 75
+|cooldown = 7.5
+|energy   = 35
+|break    = No
+|gif      = Rocket_F
+|desc     = The user does a backflip towards the sky and flies at a slow pace with an explosive trail.
+}}
+
+==Overview==
+<tabber> 
+Pros=
+{{Overview|Pros
+|'''General'''
+* Very easy to obtain as it is always in [[Blox Fruits "Stock"|Stock]].
+* Very low mastery requirements.
+* Fast cooldowns.
+* Great mobility for a {{Common}} fruit.
+* All moves have no/low end-lag.
+* Good grinding for new players in [[First Sea]].
+* All attack moves break [[Instinct]].
+* Decent combo potential.
+|'''[Z] Missile Fist'''
+* Quick start.
+* Decent [[AoE]] if the missile hits the ground.
+* Decent range.
+* Has slight aim-assist.
+
+|'''[X] Air Strike'''
+* Decent [[AoE]].
+* Decent range.
+
+|'''[C] Rocket Crash'''
+* Good [[Area of Effect|AoE]] and range.
+* Good for travelling due to the high distance it can travel if the cursor is a great distance from the user.
+* Good for dodging and countering an attack.
+* Quick start-up.
+
+|'''[F] Blast Off'''
+* Good vertical mobility.
+* Good for evading chip-damage attacks like [[Dough]] [C] and [[Ice]] [V].
+* Good for getting into position for air combos.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Relatively low damage output.
+* Weak in aerial combat, as [X] and [C] move only targets the ground. 
+* Not recommended to use at high levels, as there are better options.
+
+|'''[Z] Missile Fist'''
+* Small hitbox.
+* The missile travels slowly.
+
+|'''[X] Air Strike'''
+* Easy to avoid.
+* Cannot be used under a low roof.
+* A bit slow.
+* Narrow range.
+
+|'''[C] Rocket Crash'''
+* Start-up has a slight delay.
+
+|'''[F] Blast Off'''
+* Fairly slow.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Rocketfruitplush.png|Plush rocket fruit
+File:Adobe Express - file (1).png|Figure of rocket fruit
+File:BloxFruitsBulletinRocket.webp|Rocket Fruit Cameo in [https://gamerrobot.com/blogs/news/the-blox-bulletin-014 The Blox Bulletin #014]
+File:Rocket Fruit found while fishing.png|The rocket fruit found while fishing
+</gallery>
+
+==Trivia==
+* A physical Rocket fruit can be purchased from [[Dog House (Wenlock)|Wenlock]] for {{Robux|97}}, despite its permanent version from the [[Blox Fruit Dealer]] costing just {{Robux|50}}.
+** This makes Rocket the only fruit that can be purchased as a physical fruit for {{Robux}}.
+* Rocket, along with [[Spin]], is the only [[Blox Fruits|fruit]] to always be in [[Stock]].
+* Rocket is used by the [[Cyborg]] boss, who uses the [X] skill.
+* Although Rocket is cheaper than [[Spin]], Spin is considered worse than Rocket.
+* Rocket is the first fruit, both in stocks and [[Common]] rarity fruits.
+
+==Change History==
+{{Change History|20|content=
+{{Update|20}}
+* Rocket was released and replaced [[Kilo]].
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+[[ru:Ракета]]

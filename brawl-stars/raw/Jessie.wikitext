@@ -1,0 +1,393 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title =The Builder|PrestigeTitle = Will fix it|Rarity = Super Rare|Class = Controller|MovementSpeed = 750 (Normal)|VoiceActor = Maya Aoki Tuttle|HealthLabel = Health|Health = 3300|AttackRange = 9 (Long)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 16.695%|AttackLabel = Damage|Attack = 1060|SuperRange = 5|SuperSuperCharge = 6.25%|SuperMinion = Scrappy|SuperMinionRange = 9|SuperReload = 0.3 seconds<br />0.15 seconds (with Recoil Spring)|SuperLabel = Health|Super = 3600|SuperLabel2 = Damage|Super2 = 300|AttackSpeed=3050<br>1522 (bounce)|AttackWidth=1|SuperSpread=15° (Scrappy)|SuperSpeed=1196<br>3478 (Scrappy)<br>2000 (Scrappy; with Shocky)|Attack2=795|AttackLabel2=After 1st bounce|AttackLabel3=After 2nd bounce|Attack3=596|Gadget1Name = Spark Plug|Gadget1Cooldown = 15 seconds|Gadget2Name = Recoil Spring|Gadget2Cooldown = 11 seconds|StarPower1Name = Energize|StarPower1 = 954|StarPower1Label= Heal|HyperchargeMultiplier=60%|Previous=Rosa|Next=Dynamike|AttackHyperchargeCharge=10.017%|SuperHyperchargeCharge=3.75%|SuperWidth=0 (Scrappy)}}
+{{Quote|Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother [[Pam]] will see she can fend for herself!}}
+{{Portrait}}
+Jessie is a {{Rarity|Super Rare}} [[Brawler]] who has moderate health and damage output, a moderately low reload speed, and immense utility with her Super. She was one of the 15 Brawlers who released at the first Beta launch. Her attack is a long-ranged electric orb that bounces between enemies, dealing less damage per bounce. Her Super places Scrappy, a turret with moderate health and damage output that excels at attacking, distracting, and defending. Her first Gadget, Spark Plug, creates a shockwave around Scrappy that slows down enemies. Her second Gadget, Recoil Spring, doubles Scrappy's attack speed for 5 seconds. Her first Star Power, Energize, allows her to heal her turret by attacking it and her second Star Power, Shocky, allows her turret to shoot mini energy orbs that can bounce between enemies. Her Hypercharge, Scrappy 2.0, increases the health and damage of her next Super.
+
+==Attack: Shock Rifle==
+{{Quote|Jessie fires off an energy orb. After hitting a target the orb bounces to the next target in range, hitting up to three enemies.  Each bounce deals 25% less damage.}}Jessie fires a long-ranged, medium-width energy orb with moderate damage. When the orb hits an enemy, it bounces up to 6.67 tiles toward the next nearest enemy, even enemies who are outside its range, behind walls or inside bushes. It can bounce up to 2 times more after that and hit 3 enemies in total before disappearing. However, the attack has a slow projectile speed and the bounced projectiles have their speed and range reduced, dealing 25% less damage per bounce, but their Super charge rate is the same. 
+
+==Super: Scrappy!==
+{{Quote|Jessie deploys a gun turret that automatically shoots at enemies. It's made of 100% recycled materials!}}Jessie throws her backpack, deploying a turret that has more health than Jessie herself. This turret can be thrown anywhere, even over walls, within a short distance from Jessie. The turret is stationary, can block attacks and fires medium-ranged shots at enemies. The shots themselves deal rather low damage but the firing speed gives it a decent damage potential. The turret does not fire at enemies that are invisible or hidden in bushes.
+
+==Gadgets==
+===Spark Plug===
+{{Quote|Jessie triggers a shockwave from her turret, slowing down all enemies within its area of effect. Cooldown: 15 seconds.}}
+{{Gadget|1}}
+Upon activation, Jessie's turret triggers a shockwave around itself that lasts for 1 second, slowing down enemies by 350 points within its area of effect of 4.33 tiles. Enemies are slowed for 3 seconds plus an additional 1 second if they are still within the area of effect after 1 second. The Gadget can only be used while Jessie has a turret from her Super active on the map within 12 tiles of her location.
+
+===Recoil Spring===
+{{Quote|Scrappy's attack speed is doubled for 5 seconds. Cooldown: 11 seconds.}}
+{{Gadget|2}}
+Upon activation, Jessie doubles her turret's attack speed for 5 seconds. These bullets retain their properties from her Shocky Star Power and can charge Jessie's Super when hitting enemies. If Jessie is defeated, the turret's reload speed is reverted back to normal. The Gadget can only be used while Jessie has a turret from her Super active on the map within 12 tiles of her location. This Gadget's cooldown begins after the duration ends.
+
+==Star Powers==
+===Energize===
+{{Quote|Jessie can repair her gun turret for 1060 of its missing health by zapping it with her attack.}}
+{{StarPower|1}}
+This Star Power allows her to hit her turret with her main attack to heal it for 50% of the attack damage. The attack still bounces towards the closest enemy like normal, even if the turret is still at full health. This affects Jessie's attack damage reduction for each bounce, and the attack cannot bounce towards the turret to heal it. Jessie cannot heal the Scrappy of another Jessie with this Star Power. 
+
+===Shocky===
+{{Quote|Scrappy the Turret now shoots energy orbs that bounce between enemies. The orbs' range after a bounce is 51% of normal range.}}
+{{StarPower|2}}
+With this Star Power, instead of Jessie's turret shooting bullets, Scrappy now shoots energy orbs that can hit multiple enemies by bouncing between them, similar to Jessie's attacks. The attack speed, range, and damage of the turret remain the same. After hitting an enemy, the bullets' range is decreased to 4.67 tiles and their speed decreased by 42%. A maximum of 3 enemies can be hit from a single bullet.
+
+==Hypercharge: Scrappy 2.0==
+{{Quote|Jessie's turret has 50% more health and deals 20% more damage.}}{{Hypercharge}}When activated, Scrappy deployed during the Hypercharge has its health increased by 50% and its damage increased by 20%. The Hypercharge does not affect existing turrets. Jessie also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Scrappy fires more projectiles, has more health, and is bigger!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Jessie's turret appeared twice as big, had 2000 more health, and shot 3 projectiles with a slight spread after every other shot. This also affected her Hypercharged turret.
+
+==Tips==
+===Game Modes and Maps===
+*Jessie is amazing in [[Big Game]] when she is the Big Brawler because she can use her Super to defend herself which also has 20% more health and damage. Her damage and reload speed increase, which along with her bouncing shots and turret make her a very decent Big Brawler in this mode.
+*In [[Heist]], Jessie's turret can be placed in front of their safe to help defend against enemies by shielding the safe and by dealing damage. Likewise, it can also be used offensively against the enemy safe with the help of her Recoil Spring Gadget to multiply the turrets damage output.
+**Her Energize Star Power helps keep the turret survive for longer and extend Jessie's range by bouncing her attacks. Meanwhile, her Shocky Star Power will allow Jessie's turret's attacks to bounce off and potentially hit more enemies, who could either be defenders on the enemy side or attackers on your safe.
+**Be wary of [[Penny]] when placing her turret to defend, as otherwise she may be able to use the turret to potentially triple her damage onto the safe.
+
+===Recommended Build===
+*Jessie's Spark Plug Gadget is incredibly useful for taking down enemies. It can hit enemies through walls in a radius around the turret. After enemies are slowed down, Jessie can attack the enemy easily, and the turret can hit all shots while the enemy is slowed. Jessie can also use it to defend from heavyweights and assassins.
+*Jessie's Recoil Spring Gadget, although capable of providing a lot of value, only excels when taking out stationary targets, enemy turrets, or non-dodging spawnables. It works best with her Shocky Star Power, forcing enemies to take damage as they attempt to defend.
+*When using Jessie's Energize Star power, place her turret near an important chokepoint on the map and keep shooting at the turret to heal it while enemies are near it. This will continuously heal her turret while it deals damage, and her regular attacks can also deal damage to the enemies too.
+
+===Strategies===
+*Turret placement is one of the most important skills with Jessie. When facing short-ranged Brawlers, place it out in the open so that they are forced to take attacks from it as they attempt to destroy it. When facing long-ranged Brawlers, place it next to their walls, but on her team's side of the wall so they have to walk around the wall to attack it and take damage. When facing throwers, throw it over the wall that they are hiding behind to do some damage to them and force them to use their attacks on the turret.
+*Jessie's turret deals small but noticeable damage that racks up quickly. Unfortunately, it can be easily avoided by running perpendicular along its attack direction. Prevent enemies from dodging effectively by placing the turret in a place where it can cover a linear area.
+*The bounce mechanic of Jessie's attack can quickly cripple entire teams. Lock down choke-points or linear sections of the map to punish grouped up enemies by dealing considerable damage to them and rapidly charging your Super and Hypercharge.
+
+===Other===
+*After hitting a target, Jessie's attack always bounces towards the nearest enemy that hasn't already been hit. This can be used to determine enemy positions, even if they are out of range or hiding in bushes, or invisible such as [[Leon]], [[Sandy]], or [[Kit]].
+*Jessie's turret can deal considerable damage if ignored, making it an excellent way to distract enemies if they attempt to destroy it. By the time they do destroy it, you are likely to have a fully or mostly charged Super that is ready to be used whenever you wish.
+*While in a bush, Jessie's turret is invisible to enemies unless they are also in the bush and right next to it. Enemies right next to it in a bush are so visible by Jessie and her teammates. However, just like a Brawler, the turret will become visible while attacking or taking damage.
+*Jessie can charge her Super very quickly. 6 hits (or 2 perfect shots hitting 3 enemies by bouncing) is enough to charge her Super without any pre-existing charge.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''{{Ogg|Filename = Jess start vo 01.ogg|Filedescription = "Jess will fix it!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech start vo 01.ogg|Filedescription = "Jess will fix it!"}}
+|'''Normal:'''{{Ogg|Filename = Jess lead 01.ogg|Filedescription = "I'm number one!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech lead vo 01.ogg|Filedescription = "I'm number one!"}}
+|'''Normal:'''{{Ogg|Filename = Jess hurt 01.ogg|Filedescription = Jessie whimpers}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 01.ogg|Filedescription = Jessie whimpers}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 01.ogg|Filedescription = Jessie laughs}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 01.ogg|Filedescription = Jessie laughs}}
+|'''Normal:'''{{Ogg|Filename = Jess die 01.ogg|Filedescription = Jessie whimpers}}'''Mecha:'''
+{{Ogg|Filename = Jess mech die vo 01.ogg|Filedescription = "Oh no!"}}
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 01.ogg|Filedescription = "Constructing!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech ulti vo 01.ogg|Filedescription = "Constructing!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = Jess start vo 02.ogg|Filedescription = "Build and brawl!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech start vo 02.ogg|Filedescription = "Build and brawl!"}}
+|'''Normal:'''{{Ogg|Filename = Jess lead 02.ogg|Filedescription = "I'm in the lead."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech lead vo 02.ogg|Filedescription = "I'm in the lead."}}
+|'''Normal:'''{{Ogg|Filename = Jess hurt 02.ogg|Filedescription = Jessie whimpers}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 02.ogg|Filedescription = Jessie whimpers}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 02.ogg|Filedescription = "Socket to ya!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 02.ogg|Filedescription = "Socket to ya!"}}
+|'''Normal:'''{{Ogg|Filename = Jess die 02.ogg|Filedescription = "Nooooo!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech die vo 02.ogg|Filedescription = "Nooooo!"}}
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 02.ogg|Filedescription = "Great spot."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech ulti vo 02.ogg|Filedescription = "Great spot."}}
+|-
+|'''Normal:'''{{Ogg|Filename = Jess start vo 03.ogg|Filedescription = "Time to get constructive."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech start vo 03.ogg|Filedescription = "Time to get constructive."}}
+|'''Normal:'''{{Ogg|Filename = Jess lead 03.ogg|Filedescription = "Leading score."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech lead vo 03.ogg|Filedescription = "Leading score."}}
+|'''Normal:'''{{Ogg|Filename = Jess hurt 03.ogg|Filedescription = "Oh no!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 03.ogg|Filedescription = "Oh no!"}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 03.ogg|Filedescription = "Broken beyond repair."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 03.ogg|Filedescription = "Broken beyond repair."}}
+|'''Normal:'''{{Ogg|Filename = Jess die 03.ogg|Filedescription = Jessie groans}}'''Mecha:'''
+{{Ogg|Filename = Jess mech die vo 03.ogg|Filedescription = Jessie groans}}
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 03.ogg|Filedescription = "Say hello to my little friend."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech ulti vo 03.ogg|Filedescription = "Say hello to my little friend."}}
+|-
+|'''Normal:'''{{Ogg|Filename = Jess start vo 04.ogg|Filedescription = "Where will I put my friend?"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech start vo 04.ogg|Filedescription = "Where will I put my friend?"}}
+|'''Normal:'''{{Ogg|Filename = Jess lead 04.ogg|Filedescription = "Technology wins."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech lead vo 04.ogg|Filedescription = "Technology wins."}}
+|'''Normal:'''{{Ogg|Filename = Jess hurt 04.ogg|Filedescription = "Oh no you didn't."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 04.ogg|Filedescription = "Oh no you didn't."}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 04.ogg|Filedescription = "Don't mess with Jess!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 04.ogg|Filedescription = "Don't mess with Jess!"}}
+|'''Normal:'''{{Ogg|Filename = Jess die 04.ogg|Filedescription = "No!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech die vo 04.ogg|Filedescription = "No!"}}
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 04.ogg|Filedescription = "Turret time!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech ulti vo 04.ogg|Filedescription = "Turret time!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = Jess start vo 05.ogg|Filedescription = "We can do this!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech start vo 05.ogg|Filedescription = "We can do this!"}}
+|'''Normal:'''{{Ogg|Filename = Jess lead 05.ogg|Filedescription = "Y-Yes!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech lead vo 05.ogg|Filedescription = "Y-Yes!"}}
+|'''Normal:'''{{Ogg|Filename = Jess hurt 05.ogg|Filedescription = "No no no!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 05.ogg|Filedescription = "No no no!"}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 05.ogg|Filedescription = "Yes!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 05.ogg|Filedescription = "Yes!"}}
+|
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 05.ogg|Filedescription = Jessie grunts}}
+|-
+|
+|
+|'''Normal:'''{{Ogg|Filename = Jess hurt 06.ogg|Filedescription = Jessie whimpers}}'''Mecha:'''
+{{Ogg|Filename = Jess mech hurt vo 06.ogg|Filedescription = Jessie whimpers}}
+|'''Normal:'''{{Ogg|Filename = Jess kill 06.ogg|Filedescription = "Sorry."}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 06.ogg|Filedescription = "Sorry."}}
+|
+|
+|'''Normal:'''{{Ogg|Filename = Jess ulti 06.ogg|Filedescription = Jessie grunts}}
+|-
+|
+|
+|
+|'''Normal:'''{{Ogg|Filename = Jess kill 07.ogg|Filedescription = "Woo-hoo!"}}'''Mecha:'''
+{{Ogg|Filename = Jess mech kill vo 07.ogg|Filedescription = "Woo-hoo!"}}
+|
+|
+|
+|}
+
+==History==
+*20/06/17:
+**{{Balance|Buff|The health decay mechanic was removed from Jessie's Super.}}
+*27/06/17:
+**{{Balance|Nerf|Jessie's main attack damage was decreased to 140 (from 160).}}
+*11/08/17:
+**{{Balance|Nerf|Jessie's Super recharge rate was decreased by 12.5%.}}
+*16/08/17:
+**{{Balance|Buff|Jessie's main attack damage was increased to 160 (from 140).}}
+**{{Balance|Buff|Scrappy's reload time was decreased to 0.25 seconds (from 0.35).}}
+**{{Balance|Buff|Scrappy's projectile speed was increased by 33%.}}
+*04/09/17:
+**{{Balance|Nerf|Scrappy's reload time was increased to 0.30 seconds (from 0.25).}}
+**{{Balance|Neutral|Jessie and her turret were remodeled.}}
+*07/12/17:
+**{{Balance|Buff|Jessie's main attack's damage was increased to 720 (from 640) per bounce.}}
+**{{Balance|Neutral|Jessie's Energize Star Power was added.}}
+**{{Balance|Neutral|The health and damage statistics of all Brawlers were multiplied by 4.}}
+*16/01/18:
+**{{Balance|Buff|Jessie's health was increased to 3200 (from 2800).}}
+**{{Balance|Buff|Her Energize Star Power healing was increased to 800 (from 600).}}
+*21/03/18:
+**{{Balance|Buff|Jessie's main attack projectile size was increased.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased by 70 points, increasing Jessie's movement speed to 720 (from 650).}}
+**{{Balance|Neutral|All Brawlers' projectile speeds are increased by 9%.}}
+*09/04/18:
+**{{Balance|Buff|Jessie's main attack damage was increased to 780 (from 720) per bounce.}}
+*21/05/18:
+**{{Balance|Neutral|Jessie and her turret were remodeled.}}
+*19/06/18:
+**{{Balance|Neutral|The Summer and Dragon Knight Jessie skins were added.}}
+*31/08/18:
+**{{Balance|Buff|Jessie's main attack damage was increased to 820 (from 780) per bounce.}}
+*05/12/18:
+**{{Balance|Buff|Jessie's reload time was decreased to 1.8 seconds (from 2).}}
+*29/01/19:
+**{{Balance|Neutral|Jessie's main attack projectile was re-textured.}}
+*07/08/19:
+**{{Balance|Neutral|Jessie's Shocky Star Power was added.}}
+*18/09/19:
+**{{Balance|Neutral|Summer Jessie's main attack visual effects were reworked.}}
+*09/10/19:
+**{{Balance|Buff|Jessie's main attack damage was increased to 840 (from 820) per bounce.}}
+**{{Balance|Buff|Scrappy's damage was increased to 260 (from 240) per shot.}}
+*23/10/19:
+**{{Balance|Neutral|Dragon Knight Jessie's projectile was re-textured, and the Shadow Knight Jessie skin was added.}}
+*05/12/19:
+**{{Balance|Buff|Jessie's main attack projectile speed was increased by 10%.}}
+**{{Balance|Buff|Scrappy's health was increased to 3000 (from 2800).}}
+*17/03/20:
+**{{Balance|Neutral|Jessie's Spark Plug Gadget was added.}}
+*29/04/20:
+**{{Balance|Neutral|The Tanuki Jessie skin was added.}}
+*09/06/20:
+**{{Balance|Neutral|The Red Dragon Jessie skin became available to every user until 30/7/20. It was featured to celebrate the launch of Brawl Stars in China.}}
+*12/08/20:
+**{{Balance|Neutral|Jessie's Recoil Spring Gadget was added.}}
+*10/09/20:
+**{{Balance|Buff|Jessie's Super recharge rate was increased slightly.}}
+**{{Balance|Nerf|Her Super charge rate was decreased slightly.}}
+**{{Balance|Neutral|Jessie, Red Dragon Jessie, Summer Jessie, Dragon Knight Jessie, and Tanuki Jessie received facial animations.}}
+*15/12/20:
+**{{Balance|Buff|Jessie's main attack damage was increased to 920 (from 840) per bounce.}}
+**{{Balance|Buff|Scrappy's health was increased to 3200 (from 3000).}}
+**{{Balance|Buff|Jessie's Energize Star Power healing was increased to 896 (from 800).}}
+**{{Balance|Neutral|Jessie's True Silver and True Gold skins were added.}}
+*27/01/21:
+**{{Balance|Buff|Jessie's main attack damage was increased to 1120 (from 920) per bounce.}}
+**{{Balance|Nerf|Each bounce from her main attack now deals 25% less damage. Super charge rate was unaffected.}}
+**{{Balance|Neutral|Shadow Knight Jessie received facial animations.}}
+*08/02/21:
+**{{Balance|Nerf|Jessie's main attack damage was decreased to 1060 (from 1120) per bounce.}}
+*15/03/21:
+**{{Balance|Nerf|Jessie's health was decreased to 3000 (from 3200).}}
+*19/05/21:
+**{{Balance|Nerf|Scrappy's health was decreased to 3000 (from 3200).}}
+*27/10/21:
+**{{Balance|Neutral|Jessie and her turret were remodeled, along with her True Silver and True Gold skins.}}
+**{{Balance|Neutral|Jessie's class was changed to Damage Dealer (from Fighter).}}
+*26/11/21:
+**{{Balance|Neutral|The Cat Burglar Jessie skin can be obtained by gaining 1000 points at [https://event.brawlstars.com event.brawlstars.com] during the World Finals 2021.}}
+*16/12/21:
+**{{Balance|Neutral|Jessie's facial animations were slightly reworked.}}
+*29/06/22:
+**{{Balance|Neutral|Shadow Knight Jessie's main attack visual effects were slightly reworked.}}
+*12/12/22:
+**{{Balance|Buff|Scrappy's health was increased to 3300 (from 3000).}}
+**{{Balance|Neutral|Jessie's rarity was changed to Super Rare (from Common).}}
+*28/02/23:
+**{{Balance|Neutral|Jessie's class was changed to Controller (from Damage Dealer).}}
+**{{Balance|Neutral|Summer Jessie, Tanuki Jessie, and their turrets were remodeled.}}
+*25/04/23:
+**{{Balance|Neutral|Shadow Knight Jessie now costs 49 [[Gems]] (from 10000 [[Star Points]]).}}
+**{{Balance|Neutral|Red Dragon Jessie, Dragon Knight Jessie, Shadow Knight Jessie, and their turrets were remodeled.}}
+*05/09/23:
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*24/10/23:
+**{{Balance|Buff|Jessie's Energize Star Power healing was increased to 954 (from 896) and now scales with Power Levels.}}
+**{{Balance|Neutral|Jessie's Scrappy 2.0 Hypercharge was added.}}
+**{{Balance|Neutral|Shadow Knight Jessie's main attack and Super visual effects were reworked.}}
+**{{Balance|Neutral|Jessie's flavor text was changed from "Jessie's Shock Rifle shoots energy orbs that bounce between enemies. Her Super deploys a cute but deadly gun turret!" to "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!"}}
+*14/02/24:
+**{{Balance|Neutral|The Doll Jessie skin was added. It was featured as a My Brawlentine skin.}}
+*27/02/24:
+**{{Balance|Buff|Jessie's Scrappy 2.0 Hypercharge multiplier was increased to 60% (from 40%).}}
+**{{Balance|Buff|Jessie's Scrappy 2.0 Hypercharge damage boost was increased to 25% (from 20%).}}
+**{{Balance|Nerf|Jessie's Scrappy 2.0 Hypercharge speed boost was decreased to 26% (from 30%).}}
+**{{Balance|Nerf|Jessie's Scrappy 2.0 Hypercharge shield boost was decreased to 5% (from 20%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+*11/04/24:
+**{{Balance|Neutral|The Skadi Jessie skin was added. It was featured as a Northern Saga skin.}}
+*05/09/24:
+**{{Balance|Neutral|The Sandy Jessie skin was added. It was featured as a SpongeBob skin.}}
+*18/12/24:
+**{{Balance|Neutral|Fixed an issue with Jessie's turret not appearing in Battle Cards and during her winning animation.}}
+*20/12/24:
+**{{Balance|Neutral|The Jessie Jessie skin was added. It was featured as a Toy Story skin.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Buff|Jessie's health was increased to 3100 (from 3000).}}
+*01/05/25:
+**{{Balance|Neutral|Jessie's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Jessie's Wasabi Power was removed from the game.}}
+*23/07/25:
+**{{Balance|Buff|Scrappy's health was increased to 3600 (from 3300).}}
+*28/10/25:
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Jessie's Scrappy 2.0 Hypercharge speed boost from 26%.}}
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Jessie's Scrappy 2.0 Hypercharge damage boost from 25%.}}
+*28/11/25:
+**{{Balance|Change=Neutral|Content=The Jessie Musketeer skin could be obtained by buying it from {{Link|Supercell ID}} for 2000 Supercell ID points. It was featured as Clash Stories skin.}}
+*04/12/25:
+**{{Balance|Content=The Mecha, Shining Mecha, and Bubblegum Mecha Jessie skins were added. They were featured as Mecha Squad skins.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Jessie's health was increased to 3300 (from 3100).}}
+*22/04/26:
+**{{Balance|Content=Jessie's Spark Plug Gadget slow visual effects were reworked.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Nerf|Jessie's level up reload speed was decreased to 1.5% (from 2%) in [[Brawl Arena]].}}
+*08/07/26:
+**{{Balance|Buff|Jessie's main attack projectile speed was increased to 3050 (from 2870).}}
+*01/09/26:
+**{{Balance|Buff|Jessie's Super turret damage was increased to 300 (from 260).}}
+**{{Balance|Nerf|Jessie's Super recharge rate was decreased to 84 (from 97).}}
+**{{Balance|Nerf|Jessie's level up damage was decreased to 1% (from 2%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Jessie's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (16)===
+====Jessie====
+{{Skin Gallery
+|Name1 = Red Dragon|Cost1 = Free from Brawl Stars China launch • '''E'''|Campaign1 = The Red|Rarity1=Super Rare
+|Name2 = Doll|Cost2 = Free from Presents, free from Love Boxes, free after reaching 750 Trophies or 29 Gems|Campaign2 = My Brawlentine|Rarity2=Rare
+|Name3 = Shadow Knight|Cost3 = 39 Gems, available after purchasing Dragon Knight Jessie|Campaign3=Knights!|Rarity3=Epic
+|Name4 = Summer|Cost4 = Free from Classic Brawl Mega Boxes or 79 Gems|Campaign4=Summer of Brawl|Rarity4=Super Rare
+|Name5 = Sandy|Cost5=Available in bundles for Krusty Kash or $3.99 • '''E'''|Campaign5=SpongeBob|Rarity5=Super Rare
+|Name6 = Jessie|Cost6=79 Gems or $3.99 • '''E'''|Campaign6=Toy Story|Rarity6=Super Rare
+|Name7 = Dragon Knight|Cost7 = Free from Classic Brawl Mega Boxes, free from Damian Boxes or 149 Gems|Campaign7=Knights!|Rarity7=Epic
+|Name8 = Tanuki|Cost8=149 Gems|Campaign8 = Golden Kawaii|Rarity8=Epic
+|Name9 = Cat Burglar|Cost9 = Free from Brawl Stars World Finals 2021 or 149 Gems • '''S'''|Campaign9=BSC 2021|Rarity9=Epic
+|Name10 = Jessie Musketeer|Cost10 = 2000 Supercell ID Points from {{Link|Supercell ID}}|Campaign10 = Clash Stories|Rarity10 = Epic
+|Name11 = Skadi|Cost11=199 Gems|Campaign11 = Northern Saga|Rarity11=Mythic
+|Name12 = Mecha|Cost12 = Free from Mecha Boxes, $14.99, or 299 Gems|Campaign12 = Mecha Squad|Rarity12 = Legendary
+|Name13 = Shining Mecha|Cost13 = Free from Mecha Boxes, or 49 Gems, available after purchasing Mecha Jessie|Campaign13 = Mecha Squad|Rarity13 = Legendary
+|Name14 = Bubblegum Mecha|Cost14 = Free from Mecha Boxes, or 49 Gems, available after purchasing Mecha Jessie|Campaign14 = Mecha Squad|Rarity14 = Legendary
+|TrueSkins = yes}}
+
+====Turret====
+{{Skin Gallery
+|For=Minion
+|Name1=Red Dragon|Campaign1=The Red|Rarity1=Super Rare
+|Name2=Doll|Campaign2=My Brawlentine|Rarity2=Rare
+|Name3=Shadow Knight|Campaign3=Knights!|Rarity3=Epic
+|Name4=Summer|Campaign4=Summer of Brawl|Rarity4=Super Rare
+|Name5=Sandy|Campaign5=SpongeBob|Rarity5=Super Rare
+|Name6=Jessie|Campaign6=Toy Story|Rarity6=Super Rare
+|Name7=Dragon Knight|Campaign7=Knights!|Rarity7=Epic
+|Name8=Tanuki|Campaign8=Golden Kawaii|Rarity8=Epic
+|Name9=Cat Burglar|Campaign9=BSC 2021|Rarity9=Epic
+|Name10=Jessie Musketeer|Campaign10=Clash Stories|Rarity10=Epic
+|Name11=Skadi|Campaign11=Northern Saga|Rarity11=Mythic
+|Name12 = Mecha|Campaign12 = Mecha Squad|Rarity12 = Legendary
+|Name13 = Shining Mecha|Campaign13 = Mecha Squad|Rarity13 = Legendary
+|Name14 = Bubblegum Mecha|Campaign14 = Mecha Squad|Rarity14 = Legendary
+|TrueSkins = yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Jessie
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Tanuki}}
+{{Pin Table|Dragon Knight}}
+{{Pin Table|Cat Burglar}}
+{{Pin Table|Skadi|Special}}
+{{Pin Table|Red Dragon}}
+{{Pin Table|Sandy|Sad}}
+{{Pin Table|Shadow Knight}}
+{{Pin Table|Jessie|Special}}
+{{Pin Table|Summer}}
+{{Pin Table|Jessie Musketeer|Special}}
+{{Pin Table|Mecha}}
+{{Pin Table|Shining Mecha|Special}}
+{{Pin Table|Bubblegum Mecha|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Jessie|Rarity = Common}}
+|{{Spray|Type = Jessie Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Skadi Jessie|Rarity = Common}}
+|{{Spray|Type = Mecha Jessie|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Jessie1}}
+|{{Pfp|Jessie2}}
+|{{Pfp|Jessie3}}
+|{{Pfp|Jessie4}}
+|{{Pfp|Skadi Jessie}}
+|-
+|{{Pfp|Tanuki Jessie}}
+|{{Pfp|Dragon Knight Jessie}}
+|{{Pfp|Shadow Knight Jessie}}
+|{{Pfp|Cat Burglar Jessie}}
+|{{Pfp|Jessie Musketeer}}
+|-
+|{{Pfp|Mecha Jessie}}
+|}
+
+{{Navigation}}
+[[es:Jessie]]
+[[ru:Джесси]]

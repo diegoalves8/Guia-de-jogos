@@ -1,0 +1,298 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = See You Later|PrestigeTitle = Stalker|Rarity = Mythic|Class = Assassin|MovementSpeed = 800 (Fast)<br>1040 (while enraged)<br>4000 (dash)|HealthLabel = Health|Health = 3900|AttackRange = 2.67 (dash)<br>3.67 (jump)|Reload = 2.1 seconds (dash; Slow)<br>2.8 seconds (jump; Very Slow)<br>1.68 seconds (dash; with You Better Run, You Better Take Cover)<br>2.24 seconds (jump; with You Better Run, You Better Take Cover)|AttackSuperCharge =32.5% |AttackLabel = Damage|Attack = 1300|AttackSpeed = |AttackWidth = |SuperRange = |SuperSuperCharge = |SuperLabel = Min. bonus dmg|Super = 500|SuperDuration=7 seconds|SuperLabel2=Special target/Max. bonus dmg|Super2=1300|Gadget1Name=Feed the Gators|Gadget1Cooldown=10 seconds|Gadget2Name=Cold-Blooded|Gadget2Cooldown=17 seconds|VoiceActor=Leader Looi|Previous=Jae-yong|Next=Mina|SuperLabel3=|Super3=|Gadget2Duration=4 seconds|HyperchargeMultiplier=25%|AttackHyperchargeCharge=8.125%|SuperHyperchargeCharge=}}
+{{Quote|Alli is the shy mechanic of the Love Swamp. She loves to get her hands dirty, by either fixing broken machines or... mercilessly stalking other Brawlers. If you're walking home late at night and hear an odd noise, it's probably Alli trying to say hello.}}
+{{Portrait}}
+Alli is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health and damage output, great mobility with her fast movement speed and her attacks, and a variable attack range and reload speed. She was the 93rd Brawler added to the game. Alli's Traits allow her to move over water, and to become enraged, gaining a temporary movement speed boost and an attack range buff when nearby enemies with less than 50% health. Her attack is a short dash on the ground; in bushes and over water, she attacks by jumping over obstacles, dealing damage to all enemies in a small radius when she lands. For her Super, she becomes inconsistently invisible, and her first attack deals additional damage proportional to the enemy's health. Her first Gadget, Feed the Gators, allows her next attack to also heal herself proportional to her attack's damage. Her second Gadget, Cold-Blooded, allows Alli to become temporarily enraged. Her first Star Power, Lizard Limbs, allows her to regenerate health sooner than normal while being enraged. Her second Star Power, You Better Run, You Better Take Cover, increases Alli's reload speed while being enraged. Her Hypercharge, Swamp Snacking, makes her shots heal her when she hits enemies.
+
+==Traits==
+===Water===
+{{Quote|This Brawler can move over water.}}{{Trait|Water}}
+Alli's first Trait allows her to be able to move on water.
+
+===Enraged===
+{{Quote|This Brawler becomes enraged and gains movement speed when tracking an enemy with less than 50% health.}}{{Trait|Enraged}}
+Alli's other Trait allows her to become enraged when at least 1 enemy with 50% of their maximum health or less is located on screen. While enraged, angry particles will emit from her, and Alli moves 30% faster when she is moving in the general direction of the enemy. Pairs of glowing blue eyes reveal the locations of nearby enemies and pulsing footprint trails show the most direct path to them to Alli, even those in bushes. Enemies will see a single blue eye on their ammo bar signifying that they are activating her enrage. When enemy Brawlers below the threshold move out of range or begin healing above 50% maximum health, the enrage persists for another 5 seconds, but if they are defeated, the enrage disappears immediately instead.
+
+==Attack: Swamp Swipe==
+{{Quote|Alli dashes forward, swiping as she goes. When in a bush or water, Alli will leap forward instead.}}On the ground, Alli dashes forward a short distance, similar to [[Mortis]] and [[Kenji]], dealing moderately high damage to any enemy Brawlers in her path. Alli can't perform her attack without dashing unless she dashes toward a nearby wall, where her dash is cut short. This is technically a melee attack because Alli has to dash directly onto the enemy to damage them and the dash has a short range.
+
+When in bushes or swimming in water, she instead attacks by jumping a short distance, similar to [[Mico]]. Her ammo bar becomes yellow instead of the usual orange, and she reloads much slower. She stays airborne for approximately 0.33 seconds every jump. Upon landing, she deals moderately high damage in a 1.5-tile radius. If Alli lands on an obstacle, she will automatically be pushed to the closest ground (this is despite her being able to move in water). While in the air, Alli is completely immune to all damage besides status effects and damage applied over time.
+
+Both of her attacks have no travel time and instantly take effect after the delay. The attacks' cooldown are extremely fast, taking 0.1 seconds to complete, but reload very slowly.
+
+==Super: Stalker==
+{{Quote|Alli gains stealth (pulsing invisibility). Attacking does not break stealth. The next main attack she does will deal increased damage based on the enemy's current health percent. The higher their current health, the more damage Alli will deal!}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+Alli turns herself invisible for 7 seconds, allowing her to either retreat or ambush an enemy. Unlike most invisibility abilities, Alli continues to stay invisible even after attacking; however, she reveals herself for a brief duration twice during the Super duration, more specifically, 0.5 seconds of visibility alternating with 2 seconds of invisibility. Enemy Brawlers can also see her if she is within 4 tiles of them, and a symbol is displayed left of your health bar if they detect you.
+
+In addition, using her Super alters her next main attack to deal bonus damage. The damage boost is equal to 25% of the current health of the enemy; thus she can do a large amount of damage to high-health targets such as [[Frank]], [[Draco]], or [[El Primo]], but low damage to low-health targets such as [[Piper]], [[Meg]], or [[Tick]]. [[Showdown|Power Cube]] buffs are applied after the base damage is calculated. The bonus damage has a certain minimum and maximum amount of damage it can do, with the maximum amount being equal to her attack damage. For special targets (such as [[Showdown|Power Cube]] Boxes, [[Heist]] safes, spawnables, Big Brawlers in [[Big Game]] or other non-Brawlers), the boosted attack will deal maximum bonus damage. This is affected by outside buffs such as Power Cubes and [[8-Bit]]'s damage booster.
+
+Missing the next attack wastes the extra damage, so it is crucial to actually land the next attack after a Super, though the boosted attack does not expire after the 7 seconds invisibility expires.
+
+==Gadgets==
+===Feed the Gators===
+{{Quote|The next main attack heals Alli for 100% of the damage dealt. Cooldown: 10 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Alli's next attack to also heal her for the amount of damage it does. A Gadget symbol will glow above Alli's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used. 
+
+===Cold-Blooded===
+{{Quote|Alli becomes enraged for the next 4 secs. Can only be activated when an enemy is visible. Cooldown: 17 seconds.}}{{Gadget|2}}
+Activating this Gadget allows Alli to trigger her enrage, even if the enemies don't necessarily meet the enrage threshold. This Gadget does not require enemies to be visible to be activated, but it does require it to take effect. This Gadget's cooldown begins after the duration ends.
+
+==Star Powers==
+===Lizard Limbs===
+{{Quote|While enraged Alli regenerates health faster out of combat after only 1.5 seconds.}}{{StarPower|1}}
+While enraged, Alli's auto-regeneration now starts 1.5 seconds after being damaged or attacking instead of the usual 3 seconds.
+
+===You Better Run, You Better Take Cover===
+{{Quote|Alli reloads 25% faster while enraged.}}{{StarPower|2}}
+While enraged, Alli's attack reload speed is increased by 25%.
+
+==Hypercharge: Swamp Snacking==
+{{Quote|Alli's Super damages for 25% of enemies max health. Damaging enemies heals Alli for 20% of damage dealt.}}{{Hypercharge}}
+When activated, the bonus damage from Alli's Super is now 25% of an enemy's maximum health, not their current health. In addition, during the Hypercharge, Alli's attack will heal for 20% of the damage dealt by her attacks, even if she does not use her Super. Alli also gains a 20% speed boost, as well as a 5% damage and shield boost. In addition, the Hypercharge damage boost increases her Super's minimum and maximum bonus damage, as well as her special target damage.
+
+==Tips==
+*Keep in mind that Alli can only jump when in bushes or underwater, making most jumps a one-way trip. As such, be careful of which target you select, as you may not be able to escape if things get hairy.
+*Alli's attack gimmick allows her to jump over enemy attacks, making her useful against burst assassins such as [[Edgar]] and [[Kenji]] who tend to unload all their ammo at once. As such, when playing against her with these Brawlers, try to conserve ammo as Alli's reload speed afterwards is incredibly slow and allows for easy retaliation.
+*Alli's slow reload speed prevents her from dealing with hordes of enemies or escaping from them. Thus, she excels in the beginning of modes such as [[Solo Showdown]], where she can target weaker Brawlers before teaming occurs or they begin to gather more [[Showdown|Power Cubes]].
+**If possible, try to reload outside of bushes or water as reload speed is slower while in these regions.
+**Alli should only ever attack crowds in choke points, and even then preferably when they're low on health.
+*In game modes such as [[Gem Grab]], try to linger nearer to the opposing side of the field. Opponents will often try to retreat back there when on low health, allowing her to ambush them quickly and efficiently.
+*In a pinch, Alli's Super can be used for an extra burst of damage against bulkier targets. This should only be used in desperate circumstances however, as she's heavily reliant on it to approach future targets thanks to her movement speed being slower than most other Assassins. 
+*Pay attention to Alli's Enrage counter: the counter decreasing means the enemy has begun healing, while the counter running out means that the threshold has been crossed already.
+*Try to use your Super when the enemy team is huddled up together: the burst damage will allow you to take them all down quickly or at least make the cleanup much easier for your teammates.
+*If you are using the Feed the Gators Gadget, try to hit multiple enemies and attack while the Super damage bonus is active so that your healing amount is increased.
+*Use your Cold Blooded Gadget in conjunction with your Super, especially when enemies flee or you've just respawned in. This allows you to close the distance much faster and get back into the fray.
+*Alli will often get into sticky situations when attacking her targets, so the Damage Gear is useful for finishing off opponents who fight back, with the damage boost also providing additional healing to her Feed the Gators Gadget for some more survivability. Alternatively, the Shield Gear can also provide some additional protection.
+*As a more single brawler oriented assassin, Alli needs to have sufficient HP to attack her next target, which is why the Healing Gear is useful as it lets her recuperate much more quickly.
+*Ideally, attack Brawlers that are currently in bushes or in water. These situations allow you to dodge projectiles and deal damage faster, and, in a pinch, quickly leap out of a tough situation.
+*Try and stay near a wall that is next to either a patch of grass or water. This is her best battle-ground and allows her to play around with her jumps better.
+*Owing to her worse than usual reload and unload speed, every bit of Alli's ammo is precious, so try not to autoaim unless absolutely sure your attacks will hit.
+
+== Voice Lines ==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy 
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = alli start vo 01.ogg|Filedescription = "Ha! Hold me hissy stick, I'm going in!"}}
+|{{Ogg|Filename = alli lead vo 01.ogg|Filedescription = "Ha, you move like a headless chook!"}}
+|{{Ogg|Filename = alli hurt vo 01.ogg|Filedescription = "Ugh, careful, mate! You'll bruise the tomatoes!"}}
+|{{Ogg|Filename = alli kills vo 01.ogg|Filedescription = "Haha, you'll be 'right!"}}
+|{{Ogg|Filename = alli dies vo 01.ogg|Filedescription = "Pesky bin chicken!"}}
+|
+|{{Ogg|Filename = alli ulti vo 01.ogg|Filedescription = "You're in croc country now! Ah!"}}
+|-
+|{{Ogg|Filename = alli start vo 02.ogg|Filedescription = "Let's get snapping! Ah ah!"}}
+|{{Ogg|Filename = alli lead vo 02.ogg|Filedescription = "Bloody ripper, mate!"}}
+|{{Ogg|Filename = alli hurt vo 02.ogg|Filedescription = "Ugh, now I'm mad as a cut snake! Hiss!"}}
+|{{Ogg|Filename = alli kills vo 02.ogg|Filedescription = "Take a bite out of that! Ah!"}}
+|{{Ogg|Filename = alli dies vo 02.ogg|Filedescription = "Ow! I stacked it!"}}
+|
+|{{Ogg|Filename = alli ulti vo 02.ogg|Filedescription = "Straight from the billabong!"}}
+|-
+|{{Ogg|Filename = alli start vo 03.ogg|Filedescription = "Show me your scars, ya flaming galah!"}}
+|{{Ogg|Filename = alli lead vo 03.ogg|Filedescription = "No drama, mate!"}}
+|{{Ogg|Filename = alli hurt vo 03.ogg|Filedescription = "Ah, nice try, drongo!"}}
+|{{Ogg|Filename = alli kills vo 03.ogg|Filedescription = "In a while, crocodile!"}}
+|{{Ogg|Filename = alli dies vo 03.ogg|Filedescription = "Gah! I stacked it!"}}
+|
+|{{Ogg|Filename = alli ulti vo 03.ogg|Filedescription = "Cop this, ya mongrel!"}}
+|-
+|{{Ogg|Filename = alli start vo 04.ogg|Filedescription = "Kiss a croc! It brings good luck."}}
+|{{Ogg|Filename = alli lead vo 04.ogg|Filedescription = "Haha, sweet as!"}}
+|{{Ogg|Filename = alli hurt vo 04.ogg|Filedescription = "Oi!"}}
+|{{Ogg|Filename = alli kills vo 04.ogg|Filedescription = "See you later, alligator!"}}
+|{{Ogg|Filename = alli dies vo 04.ogg|Filedescription = "Ow! Strewth that stings!"}}
+|
+|{{Ogg|Filename = alli ulti vo 04.ogg|Filedescription = "♫La la lala la."}}
+|-
+|{{Ogg|Filename = alli start vo 05.ogg|Filedescription = "G'day, ya bogan beauties!"}}
+|{{Ogg|Filename = alli lead vo 05.ogg|Filedescription = "Deadset legend!"}}
+|{{Ogg|Filename = alli hurt vo 05.ogg|Filedescription = "Ah, time to leg it!"}}
+|{{Ogg|Filename = alli kills vo 05.ogg|Filedescription = "Too easy, mate!"}}
+|{{Ogg|Filename = alli dies vo 05.ogg|Filedescription = "Aw, strewth! That stings!"}}
+|
+|{{Ogg|Filename = alli ulti vo 05.ogg|Filedescription = Alli snickers}}
+|-
+|{{Ogg|Filename = alli start vo 06.ogg|Filedescription = "G'day, ya bogan beauties!"}}
+|{{Ogg|Filename = alli lead vo 06.ogg|Filedescription = "This is going straight to the pool room."}}
+|{{Ogg|Filename = alli hurt vo 06.ogg|Filedescription = "Ah, go back to the bush, ya bogan!"}}
+|{{Ogg|Filename = alli kills vo 06.ogg|Filedescription = "Flattened like roadkill in the Outback!"}}
+|{{Ogg|Filename = alli dies vo 06.ogg|Filedescription = "Willow!"}}
+|
+|{{Ogg|Filename = alli ulti vo 06.ogg|Filedescription = *gasps* Willow?}}
+|-
+|{{Ogg|Filename = alli start vo 07.ogg|Filedescription = "What's the goss, kangaroo boss?"}}
+|{{Ogg|Filename = alli lead vo 07.ogg|Filedescription = "Bonza!"}}
+|{{Ogg|Filename = alli hurt vo 07.ogg|Filedescription = "You call that a bite? That's a nibble, mate."}}
+|{{Ogg|Filename = alli kills vo 07.ogg|Filedescription = "That's not a knife! This is a knife!"}}
+|{{Ogg|Filename = alli dies vo 07.ogg|Filedescription = "Bested by a bunch of brawling bush-bogans."}}
+|
+|{{Ogg|Filename = alli ulti vo 07.ogg|Filedescription = "Ha! I see you."}}
+|-
+|{{Ogg|Filename = alli start vo 08.ogg|Filedescription = "Love bites! Ah ah! And so do I!"}}
+|{{Ogg|Filename = alli lead vo 08.ogg|Filedescription = "Bloody ripper, mate!"}}
+|{{Ogg|Filename = alli hurt vo 08.ogg|Filedescription = "Love hurts. You will, too."}}
+|{{Ogg|Filename = alli kills vo 08.ogg|Filedescription = "Dingo bingo!"}}
+|{{Ogg|Filename = alli dies vo 08.ogg|Filedescription = "These are real crocodile's tears!"}}
+|
+|{{Ogg|Filename = alli ulti vo 08.ogg|Filedescription = "Channeling pure swamp ninja energy!"}}
+|-
+|{{Ogg|Filename = alli start vo 09.ogg|Filedescription = "Swamp croc is ready to rock!"}}
+|{{Ogg|Filename = alli lead vo 09.ogg|Filedescription = "I mainly watch, but sometimes I learn."}}
+|{{Ogg|Filename = alli hurt vo 09.ogg|Filedescription = "Ah, crikey!"}}
+|{{Ogg|Filename = alli kills vo 09.ogg|Filedescription = "Ha ha, didn't mean to follow you... much."}}
+|{{Ogg|Filename = alli dies vo 09.ogg|Filedescription = "So, this isn't a date?"}}
+|
+|{{Ogg|Filename = alli ulti vo 09.ogg|Filedescription = "Oh, one with the mulch, mate!"}}
+|-
+|{{Ogg|Filename = alli start vo 10.ogg|Filedescription = "Ha ha, watching Brawlers from the bush!"}}
+|{{Ogg|Filename = alli lead vo 10.ogg|Filedescription = "Willow! You watching? 'cause I'm watching you!"}}
+|{{Ogg|Filename = alli hurt vo 10.ogg|Filedescription = "Crikey!"}}
+|{{Ogg|Filename = alli kills vo 10.ogg|Filedescription = "Ha ha, I know your every move!"}}
+|{{Ogg|Filename = alli dies vo 10.ogg|Filedescription = "Pain must be your love language."}}
+|
+|{{Ogg|Filename = alli ulti vo 10.ogg|Filedescription = "Silent like a gecko fart."}}
+|-
+|{{Ogg|Filename = alli start vo 11.ogg|Filedescription = "You can't hide from me, mate!"}}
+|{{Ogg|Filename = alli lead vo 11.ogg|Filedescription = "Ha! That was mad as, bro!"}}
+|{{Ogg|Filename = alli hurt vo 11.ogg|Filedescription = "That's it! No more Mr. Nice Sheila!"}}
+|{{Ogg|Filename = alli kills vo 11.ogg|Filedescription = "No worries, mate."}}
+|{{Ogg|Filename = alli dies vo 11.ogg|Filedescription = "Time to haunt your dreams!"}}
+|
+|{{Ogg|Filename = alli ulti vo 11.ogg|Filedescription = "Quiet as a dunny in the desert."}}
+|-
+|{{Ogg|Filename = alli start vo 12.ogg|Filedescription = "Outback rules, city fools!"}}
+|{{Ogg|Filename = alli lead vo 12.ogg|Filedescription = "What a beauty!"}}
+|{{Ogg|Filename = alli hurt vo 12.ogg|Filedescription = "Oi! Watch it, ya drongo!"}}
+|{{Ogg|Filename = alli kills vo 12.ogg|Filedescription = "Tail whip to the face!"}}
+|{{Ogg|Filename = alli dies vo 12.ogg|Filedescription = "Ugh! I'm devo, mate!"}}
+|
+|{{Ogg|Filename = alli ulti vo 12.ogg|Filedescription = "Bush mode activated!"}}
+|-
+|
+|
+|{{Ogg|Filename = alli hurt vo 13.ogg|Filedescription = "Bite me? Oh, I'll bite back! Ah!"}}
+|{{Ogg|Filename = alli kills vo 13.ogg|Filedescription = "Ya dodgy wombat!"}}
+|
+|
+|{{Ogg|Filename = alli ulti vo 13.ogg|Filedescription = "Camo croc, ready to rock!"}}
+|-
+|
+|
+|{{Ogg|Filename = alli hurt vo 14.ogg|Filedescription = "Ugh, kiss my crusty croc, sweetie!"}}
+|{{Ogg|Filename = alli kills vo 14.ogg|Filedescription = "Out of my swamp, ya pelican!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = alli kills vo 15.ogg|Filedescription = "I know your blood type!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = alli kills vo 16.ogg|Filedescription = "You left your scent! *sniffs* Delicious!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = alli kills vo 17.ogg|Filedescription = "Oh, your scream is cute. Do it again."}}
+|
+|
+|
+|}
+
+==History==
+*26/06/25:
+**{{Balance|Content=Alli could be unlocked early as a bundle for $19.99.|Change=Neutral}}
+**{{Balance|Content=Alli became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Hunter-Gatherer Alli skin was added. It was featured as a Skull Cave Clan skin.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Alli's health was decreased to 3900 (from 4100).|Change=Nerf}}
+**{{Balance|Content=Alli's Cold-Blooded Gadget duration was decreased to 4 seconds (from 6).|Change=Nerf}}
+**{{Balance|Content=Alli's You Better Run, You Better Take Cover Star Power reload speed buff was decreased to 25% (from 40%).|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where Alli's wins weren't counting towards [[Records]].|Change=Neutral}}
+*03/07/25:
+**{{Balance|Content=Alli became available in the Starr Road.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Alli’s health was decreased to 3700 (from 3900).|Change=Nerf}}
+**{{Balance|Content=Alli’s main attack dash reload time was increased to 2.1 seconds (from 1.9).|Change=Nerf}}
+**{{Balance|Content=Alli’s main attack jump reload time was increased to 2.8 seconds (from 2.6).|Change=Nerf}}
+**{{Balance|Content=Alli's delay between attacks was increased to 100ms (from 0ms).|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Alli's level up damage was decreased to 3% (from 4%) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Alli's level up reload speed boost was decreased to 1.5% (from 2%) in Brawl Arena.|Change=Nerf}}
+**{{Balance|Content=Alli's True Silver and True Gold skins were added.|Change=Neutral}}
+*04/09/25:
+**{{Balance|Content=The Graffiti Alli skin was added. It was featured as a Streetwear skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Alli's level up damage was increased to 5% (from 3%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Alli's Swamp Snacking Hypercharge was added.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Alli's health was increased to 3900 (from 3700).}}
+*04/02/26:
+**{{Balance|Neutral|The Baddie Alli skin was added. It was featured as a My Brawlentine skin.}}
+*25/02/26:
+**{{Balance|Buff|Alli's Swamp Snacking Hypercharge multiplier was increased to 25% (from 20%).}}
+**{{Balance|Nerf|Alli's Cold-Blooded Gadget cooldown was increased to 17 seconds (from 14).}}
+*13/05/26:
+**{{Balance|Neutral|Alli's attack description was changed (English only).}}
+*30/06/26:
+**{{Balance|Neutral|Alli's attack range no longer changes by 0.67 tiles for depending on every 250 units changed of outside speed buffs or nerfs.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Alli's movement speed to 800 (from 770).}}
+*12/09/26:
+**{{Balance|Neutral|The Bone Collector Alli skin was added. It was featured as a Supercell Make skin and a Skull Cave Clan skin.}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Hunter-Gatherer|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Skull Cave Clan|Rarity1=Rare
+|Name2=Graffiti|Cost2=Free from Boom Boxes or 29 Gems • '''S'''|Campaign2=Streetwear|Rarity2=Rare
+|Name3=Baddie|Cost3=Free from Love Boxes or 149 Gems|Campaign3=My Brawlentine|Rarity3=Epic
+|Name4=Bone Collector|Cost4=199 Gems|Campaign4=Supercell Make|Campaign4_2=Skull Cave Clan|Rarity4=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Alli
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Baddie|GG}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Alli|Rarity = Common}}
+|{{Spray|Type = Alli Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Alli1}}
+|{{Pfp|Alli2}}
+|{{Pfp|Alli3}}
+|{{Pfp|Alli4}}
+|{{Pfp|Baddie Alli}}
+|}
+
+{{Navigation}}
+[[ru:Алли]]

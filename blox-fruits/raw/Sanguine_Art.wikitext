@@ -1,0 +1,173 @@
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Sanguine Art
+|source    = Shafi
+|update    = 20
+|sea       = 3
+|location  = Tiki Outpost
+|item      = Leviathan Heart
+|money     = 5,000,000
+|fragments = 5,000
+|materials = {{Dark Fragment|2}} {{Demonic Wisp|20}} {{Vampire Fang|20}}
+}}
+'''Sanguine Art''' is a dark and vampiric-based [[Fighting Styles|fighting style]] that is obtainable in the [[Third Sea]].
+
+The style focuses on using 'dark' styled leech-like attacks (similar to [[Ghoul]] and [[Shadow]]), dealing high damage, with plenty of utility and auto-aim.
+
+Sanguine Art's life leech, decently easy-to-hit moves, and very high [[combos|combo]] potential make it one of the best [[fighting styles]] for general use, with its main rivals being [[Godhuman]] and [[Electric Claw|Elettric claw]].   
+
+==Obtainment==
+Sanguine Art can be learned from [[Shafi]], who can be found in a base linked by a tunnel near the [[Island Boy]]s, located at the [[Tiki Outpost]]. 
+
+To purchase Sanguine Art from [[Shafi]], the player must:
+# Give a {{Leviathan Heart}} [[Leviathan Heart]] to [[Shafi]].
+#* This is dropped after defeating the [[Leviathan]] and using a harpoon from the [[Beast Hunter]] ship. The player then has to carry it back to [[Tiki Outpost]] to obtain it in their [[Inventory]]. The player will lose the [[Leviathan Heart|heart]] upon purchase.
+#* If the player does not have a [[Leviathan Heart]] in their [[inventory]], [[Shafi]] will reply with  "'''''You lack a cold heart...'''''" during the dialogue.
+# Then has to additionally get:
+#* {{Demonic Wisp|20}} [[Demonic Wisp]]s
+#* {{Vampire Fang|20}} [[Vampire Fang]]s
+#* {{Dark Fragment|2}} [[Dark Fragment]]s
+# A final prompt will ask the player to pay {{Money|5,000,000}} and {{Fragment|5,000}}. Once complete, the player will obtain Sanguine Art.
+==Moveset==
+{{Skill
+|key      = TAP
+|name     = Normal Attack <!-- Fanmade names are not allowed. -SyTex -->
+|gif      = Sanguinem1s
+|desc     = The user summons dark red energy, first doing a slash to the left with right hand, a slash to the right with left hand, then doing a double slash with both hands, ending with a forward blast of darkness. These M1s have moderate range, with the 4th M1 having slightly more range. The click speed is very fast, similar to [[Water Kung Fu]]'s. If it is paired with [[Buddha]], it will have greatly increased range.
+}}
+
+{{Skill
+|key      = Z
+|name     = Bloodbane Drain
+|mastery  = 125
+|cooldown = 8
+|energy   = 20
+|break    = yes
+|instinct = Breaks Instinct on direct hit. This move can be dodged on the sides, and can be tricked while being grabbed.
+|gif      = SangZ
+|desc     = The user propels themself towards the cursor, traveling a short-medium distance. If an enemy is in the way, the user almost immediately grabs them by their neck and unleashes bat-like creatures on them which heal the user as they deal damage, before knocking them away. If hit, this move heals 20% of the user's total [[health]], even if the enemy dodges this attack with [[Instinct]]. If the enemy is further away in the path of the move, the user will travel around 1.6x farther than normal. This move is similar to [[Shadow]] {{Ability|Shadow|C}}.
+}}
+
+{{Skill
+|key      = X
+|name     = Scarlet Tear
+|mastery  = 250
+|cooldown = 11
+|energy   = 30
+|break    = yes
+|instinct = The scarlet explosion can be dodged on the edge.
+|gif      = SangX
+|desc     = The user launches six claw-like slashes towards the cursor (similar to [[Dragon|Dragon (West)]]'s {{Ability|Dragon|X}} and Dragon's third base M1), leaving claw marks on the surrounding floor or walls in front of them. These slashes explode into a scarlet burst at the end if they collide with a solid surface. This move has greater damage if the enemy is hit by both the drag and the explosion when used from a certain distance. If aimed at the ground while an enemy is far, the burst will bounce enemies back towards the user, or into the sides depending on how the move is aimed. If aimed forward while an enemy is close, the claws will push enemies away from the user.
+}}
+
+{{Skill
+|key      = C
+|name     = Devourer of Worlds
+|mastery  = 350
+|cooldown = 18
+|energy   = 75
+|break    = yes
+|instinct = If it hits, breaks Instinct if aimed correctly, and the projectiles and the pull part both can be dodged. If it does not hit, the small explosion and the large projectile both can break Instinct.
+|gif      = SangChit
+|gif1     = SangCmiss
+|desc     = The user fires a dark-red, leech-like blast toward the cursor. If hit, the user grabs the enemy and pulls them in, and then summons five energy balls to spawn around the enemy and then attack them. It also splits into more "Leeches" based on how many enemies are getting hit. This skill can disable the enemy's [[Dashing|Dashes]], [[Flash Step]], and moves for ~1.2 seconds. If the enemy is stunned in midair, the stun duration is increased by ~0.2%.
+|desc1    = If not hit, the user creates a sphere of darkness which hovers in the air before exploding, dealing minor damage to enemies within the explosion radius. At the same time, a leech will be created that chases the enemy within a larger radius, dealing damage on contact. If no enemies are within its range, then the orb will simply dissipate.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Amazing for grinding, [[Raids]] and [[Sea Events]] thanks to its long range and life steal. If the player pairs it with a V4 race, especially [[Angel]] or [[Ghoul]], they can solo a [[Raids|raid]] just by spamming M1, without needing [[Buddha]], as long as their level is high enough.
+* High damage.
+* All moves can [[Instinct/Break|break Instinct]].
+* Good [[combos|combo]] potential.
+* All moves hit [[Sea Beasts]].
+
+|'''[TAP] Normal Attack'''
+* Faster than most fighting styles.
+* No delay on hits.
+* More range compared to other [[Fighting Styles|fighting styles]].
+* Slight knockback to opponents.
+
+|'''[Z] Bloodbane Drain'''
+* Good hitbox, and if the user misses, they may still hit the opponent. 
+* Will always heal the same amount even if it does less damage.
+* Low end-lag.
+* Good range in general.
+* Can damage Sea Beast while this move being single-target unlike other single-target moves.
+* Can ragdoll the user, allowing for improved [[Skull Guitar]] boosting.
+
+|'''[X] Scarlet Tear'''
+* Medium range.
+* Can fling enemies towards or away if used properly. 
+
+|'''[C] Devourer of Worlds'''
+* Auto aims if it misses.
+* Does unavoidable damage if it does a direct hit.
+* Brings players toward the user upon a direct hit, allowing for high combo potential.
+** Great alternative for [[Spikey Trident]] [X] (Flying Trident Pull) and [[Gravity Blade]] [Z] (Dimensional Grasp) .
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Extremely hard and time-consuming to get due to needing to spawn the [[Leviathan]] and needing the [[Beast Hunter]] [[Boats|boat]] in order to obtain the [[Leviathan Heart]], as well as requiring the player to obtain a lot of materials.
+* Some moves have short range compared to other [[Fighting Styles|fighting styles]].
+* Moves are not that good with [[Buddha]] due to its attacks primarily forcing forward.
+* Very poor mobility when compared to other [[Fighting Styles|fighting styles]].
+* High mastery requirements.
+
+|'''[Z] Bloodbane Drain'''
+* Single target.
+* Stuns the user in place while using the move, allowing enemies to damage the user.
+* Hard to hit with [[Buddha]], requiring you to aim from above.
+* Easy to [[Instinct]] trick.
+
+|'''[X] Scarlet Tear'''
+* Smaller range radius compared to other [[Fighting Styles|fighting styles]].
+* Strong discarding, which prevents the continuation of some [[combos]].
+* Slight endlag, easy to punish if missed.
+* May be hard to land if far away.
+
+|'''[C] Devourer of Worlds'''
+* Slightly long cooldown.
+* High endlag, making the user vulnerable to attacks if missed.
+* The dark orb is easily avoided as the orb has delay before the initial explosion, rendering this move easily evadable at longer ranges.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Sanguine Art Idle.gif|Idle Stance
+File:Sanguine C Idle Glitch.png|'''[C] Devourer of Worlds''' glitch
+</gallery>
+
+==Trivia==
+* The first part of the name "Sanguine Art" derives from the Latin word ''Sanguis'', meaning blood, and in literary and heraldic usage denotes "blood-red", reflecting the style's aesthetic.
+* Sanguine Art is the only [[Fighting Styles|fighting style]] to have a life-stealing move. ({{Ability|Z}}) 
+** Likewise, the bats can damage large objects (Such as [[Sea Beast]]s), but it does not restore the user's [[health]] or grab. In simple words, the [[Life Leech|life leech]] ability simply doesn't work on them.
+*** Additionally, this move features aim assist that enables the user to grab enemies within the attack path directly ahead, provided they are at a close enough distance. This effectively extends the range for grabbing enemies to approximately 1.6 times farther along the straight line in front of the move.
+* The {{Ability|C}} move is a multi-target [[Area of Effect|AoE]] move, meaning it can grab multiple targets at the same time if directly used.
+** Even if it misses, it can still track multiple enemies.
+* Sanguine Art and [[Water Kung Fu]] possess the fastest M1 attack speed among all [[Fighting Styles|fighting styles]].
+* Sanguine Art has the highest {{Ability|C}} move damage of any [[Fighting Style|fighting style]] in the game.
+* The player is not required to have mastery on any other [[Fighting Styles|fighting style]] to learn Sanguine Art. Hence, it is possible to learn it even if the user is still using [[Combat]].
+* The only [[Enemies|enemies]] that use this [[Fighting Styles|fighting style]] are [[Haunted Crew Member]], [[Red Commander]], and the NPCs from [[Ghost]]'s {{Ability|Ghost|V}} move. The Ghost NPCs only use it if the user has Sanguine Art equipped.
+* If combining [[Skull Guitar]]'s {{Ability|Skull Guitar|X}}, [[Ghoul Mask]], [[Ghoul]] V4's [[Ghoul#Changes of Stages|Blood Siphon]] (Tier 2) at the [[Nychthemeron|night time]], and using the {{Ability|Z}} move, the player's life-leech can reach ≈47-50%.
+* Sanguine Art is the only fighting style without an upgraded (or downgraded) version.
+* If the player has a [[Leviathan Heart]] and interacts with [[Shafi]], their [[materials]] (if they have them) will be consumed automatically, even if they didn't wish to.
+* There is a glitch where after using {{Ability|C}}, the user will be stuck in the move stance. This can be undone by using the ability again.
+* Unlike most other [[Fighting styles|Fighting Styles]] or [[Swords]], Sanguine Art has a unique 'deadzone' when used with the [[Buddha]] transformation. It cannot hit enemies that are standing directly under the user's feet or too close to the character's center. Furthermore, it lacks a 360-degree hitbox, making it unable to hit enemies behind the user, which can make grinding slightly more inconvenient compared to other [[Fighting Styles|fighting styles]].
+** Also, Sanguine Art is unique above many fighting styles: it's M1 attacks are being long ranged rather than short, allowing the player to hit enemies from a distance.
+
+==Change History==
+{{Change History|20|content={{Update|29.2}}
+* Sanguine Art received a nerf.
+** {{Ability|C}}'s range was decreased by 15%, and the hitbox size was decreased by 10%.}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Искусство Крови]]

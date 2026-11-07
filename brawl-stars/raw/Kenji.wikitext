@@ -1,0 +1,417 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Samurai|PrestigeTitle = Chopped|Rarity = Legendary|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>2700 (with attack)<br>8000 (with Super)|HealthLabel = Health|Health = 4000|AttackRange = 2.67 (dash; Short)<br>3.67 (slash; Short)|AttackSpeed = |AttackSpread = 135° (slash)|AttackWidth = |Reload = 1 second (Very Fast)|SuperRange = 7.33 (Long)|AttackSuperCharge =21.55% (dash)<br>28.75% (slash) |AttackLabel = Dash Damage|Attack = 750|AttackLabel2 = Slash Damage|Attack2 = 1000|SuperLabel = Damage per slice|Super = 1300|SuperBullets=2|SuperSpeed=1000|SuperSuperCharge =21.125% |VoiceActor=Shogo Miyakita|Gadget1Name=Dashi Dash|Gadget1Cooldown=15 seconds|Gadget2Name=Hosomaki Healing|Gadget2Cooldown=17 seconds|Previous=Draco|Next=Pierce|Hypercharge|HyperchargeMultiplier=25%|AttackHyperchargeCharge=5.375% (dash)<br>7.175% (slash)|SuperHyperchargeCharge=5.275%|Gadget1Duration=3 seconds}}{{Quote|This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past... though his sushi tastes so good, nobody cares!}}{{Portrait}}
+Kenji is a {{Rarity|Legendary}} [[Brawler]] who has moderately high health, a variable range and damage output, a very fast movement and reload speed, and immense utility with his attack. He was the 84th Brawler added to the game. His Trait allows him to regain health after attacking enemies. His attack alternates between a dash and a slash. In the first attack, he dashes a few tiles forward, dealing moderately low damage to enemies in his path. In the second attack, he instead swings his katana in a wide and close-ranged arc, dealing moderate damage. For his Super, Kenji lobs a fish over obstacles, disappearing from the map, quickly slashing in a cross pattern where the fish lands, which deals high splash damage to enemies. His first Gadget, Dashi Dash, makes him dash in every attack for 3 seconds. His second Gadget, Hosomaki Healing, recovers most of his recently lost health. His first Star Power, Studied the Blade, increases the range of Kenji's Super slashes. His second Star Power, Nigiri Nemesis, grants Kenji a special shield after not taking damage that partially reduces damage from the next enemy attack. His Hypercharge, All You Can Eat, pulls enemies to the center of the Super's slashes.
+
+==Trait==
+{{Quote|This Brawler regains health with every attack that damages an enemy.}}{{Trait|Health Regain}}
+Whenever Kenji deals damage to an enemy Brawler, he regains health that is 35% of the damage dealt. The healing is increased from damage buffs such as the Damage [[Gears|Gear]].
+
+==Attack: Dash 'n' Slash==
+{{Quote|Kenji's basic attacks alternate between a Dash and a Slash. Dash deals damages to all enemies in a straight line and Slash deals damage to all enemies in a wide area in front of him.}}
+Kenji's attack sequence alternates between a dash and a slash. For his first sequence, Kenji dashes forward a short distance, similar to [[Mortis]], dealing moderately low damage to any enemy Brawlers in his path. Kenji can't perform his attack without dashing unless he dashes toward a nearby wall, where his dash is cut short. This is technically a melee attack because Kenji has to dash directly onto the enemy to damage them and the dash has a short range. For his second sequence, Kenji swings with his katana, hitting enemies in a wide arc that deals moderate damage, similar to [[Bibi]]. However, the second attack sequence has no wind up, he isn't immobile while attacking and there isn't any travel time, so the attack instantly takes effect. Both of Kenji's attacks have no cooldown and a very fast reload speed.
+
+==Super: Slashimi==
+{{Quote|Kenji targets an area with precise slices, dealing heavy damage and gaining invulnerability for the duration of the Super.}}
+Kenji throws a fish over obstacles, and disappears from the map, becoming impervious to all attacks and simultaneously removing all negative effects on him. When it lands, he quickly slashes twice across the spot where it landed in a cross pattern, dealing high damage with each slash. The first slash will start at the corner of the Super that is closest to Kenji, and the second slash will go in the direction 90 degrees anticlockwise from the first slash. When the Super is over, he returns back to where he was before using his Super. The Super cannot be aimed so that the cross pattern goes over the edge of the map.
+
+==Gadgets==
+===Dashi Dash===
+{{Quote|Kenji's basic attack only uses Dash for the next 3 seconds. Cooldown: 15 seconds.}}{{Gadget|1}}
+Activating this Gadget causes all of Kenji's attacks for the next 3 seconds to be his dash attack. 
+
+===Hosomaki Healing===
+{{Quote|Kenji instantly heals 50% of the damage taken over the last 3 seconds. Cooldown: 17 seconds.}}{{Gadget|2}}Kenji instantly recovers 50% of his missing health lost over the last 3 seconds. If he heals by some other method within the duration, the healing from this Gadget will be reduced. When the Gadget is equipped, a red section of Kenji's health bar shows how much health he will recover when using the Gadget. 
+
+==Star Powers==
+===Studied the Blade===
+{{Quote|Slashimi's slices have 30% longer range.}}{{StarPower|1}}
+The length of the slices of Kenji's Super are increased by 30%. As a side effect, this Star Power also increases the distance of which the Super must be played from the edge of the map.
+
+===Nigiri Nemesis===
+{{Quote|After avoiding damage for 5 seconds, gets 60% damage reduction from the next enemy attack.}}{{StarPower|2}}
+After not taking damage for 5 seconds, Kenji gains a special shield that reduces the next enemy attack's damage by 60%. This effect is applied before the Shield Gear. Unlike [[Nani]]'s Return to Sender Gadget and [[Surge]]'s Power Shield Gadget, the effect can apply to more than one projectile as long as the damage is done in the same frame.
+
+==Hypercharge: All You Can Eat==
+{{Quote|Kenji pulls nearby enemies to the middle of his Super.}}{{Hypercharge}}
+When activated, Kenji's Super pulls enemies for 1 second in a 5-tile radius around the center of the slashes 1 tile inward. He also gains a 20% speed, and a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Extremely fast reload speed!}}<div style="float:right">[[File:Inferno Wasabi.png|64px|link=]]</div>
+Kenji's reload time was decreased to 0.1 seconds.
+
+==Tips==
+
+* Use your Super to dodge heavy attacks and stuns like [[Frank]], [[Griff]], [[Pearl]], Maisie, Shelly, [[Clancy]], and [[Buzz]]'s Super.  It is recommended to use your Super against a group of enemies so that you can chain Supers more easily.
+* Use your dash attack to close up on enemies while dodging them, try not to use your Dashi Dash Gadget forward, use them to move sideways so that your movement will not be predictable. Slash attack is recommended for more damage and healing.
+* If playing Kenji in [[Showdown]], you should take advantage of Kenji's dash attack and mobility, so that you can grab more cubes, also ensure that you have Super by the late game. When the poison clouds closes in, use your Super, to grant a short invincibility.
+* Before using your Super, ensure that your next attack is a dash. Because Kenji is vulnerable after using his Super, the dash will allow him to escape from any threats.
+* Kenji can use his dash to dribble the ball and also climb up the map for a good positioning, Kenji's slash attack has a wide arc, so it is also good for wall pinching. Kenji's Super when timed correctly, can be used to score the ball, however, this requires practice and is hard to pull off.
+* It's best to use the Dash as the starting attack as it's more easier to avoid counters and chase down weaker brawlers, to enhance this use Dashi Dash gadget.
+
+===Recommended Build===
+*Kenji's Dashi Dash Gadget is useful for catching up to enemies who are low on health, or Brawlers that are helpless in close range, like [[Piper]]. When doing this, use your dashes unpredictably to lower the chances of said Brawler hitting you.
+*Kenji's Dashi Dash Gadget can also be used to quickly reach the gem mine in [[Gem Grab]], the zone in [[Hot Zone]], or the ball in [[Brawl Ball]].
+*While you can use Kenji's Dashi Dash Gadget to escape from dangerous situations, it is generally preferred to use the Hosomaki Healing Gadget as other Brawlers may have abilities to catch up with you and kill you.
+*It is best to use Kenji's Hosomaki Healing Gadget after you have taken large amounts of damage, such as from a [[Shelly]], [[Tick]], [[Mandy]], [[Dynamike]], [[Nani]], or [[Colt]]'s Super. Do not try to wait and activate the Gadget to get more healing, unless you are certain that it will pay off as timing the Gadget right is important. Activating the Gadget too late will decrease the effectiveness of the Gadget as the 3-second duration may have expired. You could also get killed by other Brawlers if you decide to remain at low health and not activate the Gadget.
+* In open maps, where snipers with high-damaging attacks like [[Maisie]], [[Piper]], [[Brock]], [[Bea]], [[Nani]], and [[Mandy]] likely to be present, the Nigiri Nemesis Shield is especially valuable as it will allow you to tank a large amount of damage from their first attack. However, do not get reckless, as once the shield is gone, Kenji is completely vulnerable to them until the shield recharges. In this case, use Kenji's high mobility to dodge shots and recharge the shield, and use the Hosomaki Healing Gadget to escape if something goes wrong.
+
+===Game Modes and Maps===
+
+* Kenji is an outstanding choice in speed-based modes like [[Brawl Ball]] because of his very fast movement speed, mobility, and his ability to dribble the ball with his dash attacks. Kenji's Hypercharge is also really good in Brawl Ball, when the enemies are grouped up together, Kenji can activate his Hypercharge and Super, to secure a team wipe, leading to an easy goal.
+* Kenji is also an excellent choice in [[Gem Grab]]. He can poke and kill enemies easily, His Hypercharge has a wide circumference and can be used over walls, so he will be able to easily assassinate the opponent's gem-carrier easily. If Kenji is the gem carrier, he will be able to use his dash attacks to move back to a safe place, his Super and Hosomaki Healing Gadget can come in handy in case the enemies broke through your team's defenses.
+
+===Other===
+*When against Kenji, it is important to not get hit by his Super, as this not only heals him for a sizable amount, it also contributes to a second Super, allowing him to chain Supers and become almost impossible to defeat. Kenji needs his targets to be in the center of the Super for maximum damage, so if you suspect he will Super on top of you, move in a non-diagonal direction to make both slashes miss.
+*Chip damage is very useful when playing against Kenji as this prevents him from healing and reduces the effectiveness of his Hosomaki Healing Gadget. While his Nigiri Nemesis Star Power can help tank one shot, he remains vulnerable after that as dealing consistent chip damage to Kenji will prevent the shield from being activated again.
+
+==Voice Lines==
+{{TranslationToggle|Japanese}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 01.ogg|Filedescription ="Time to chop and drop."}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 01.ogg|Filedescription ="I'm here to slay, not to play."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 01 demon.ogg|Filedescription ="I'm here to slay, not to play."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji lead vo 01.ogg|Filedescription ="I'm on a sushi roll!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 04.ogg|Filedescription ="Behold, my Brawler-filled bento box!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 04 demon.ogg|Filedescription ="Behold, my Brawler-filled bento box!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 01.ogg|Filedescription ="Even monkeys fall from trees."}}'''Oni:'''
+{{Ogg|Filename = demon kenji hurt vo 04.ogg|Filedescription ="Even an Oni can shed tears."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji hurt vo 04 demon.ogg|Filedescription ="Even an Oni can shed tears."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 01.ogg|Filedescription ="The frog in the well knows nothing of the ocean."}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 01.ogg|Filedescription ="Spear, sear, and ready to serve."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 01 demon.ogg|Filedescription ="Spear, sear, and ready to serve."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 01.ogg|Filedescription ="Fall seven times and stand up eight."}}'''Oni:'''
+{{Ogg|Filename = demon kenji dies vo 01.ogg|Filedescription ="Diabolical disaster!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji dies vo 01 demon.ogg|Filedescription ="Diabolical disaster!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 01.ogg|Filedescription ="Ha ha!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 01.ogg|Filedescription ="Rgh!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 01 demon.ogg|Filedescription ="Rgh!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 01.ogg|Filedescription ="Wasabi!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 05.ogg|Filedescription ="Slice and splice!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 05 demon.ogg|Filedescription ="Slice and splice!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 02.ogg|Filedescription ="Only my heart is stronger than my blade."}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 02.ogg|Filedescription ="Today's special, Brawler, sashimi style."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 02 demon.ogg|Filedescription ="Today's special, Brawler, sashimi style."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji lead vo 02.ogg|Filedescription ="I am not worthy."}}'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 03.ogg|Filedescription ="Ruahh! I am beyond worthy!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 03 demon.ogg|Filedescription ="Ruahh! I am beyond worthy!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 02.ogg|Filedescription ="My blade never forgets a Brawler."}}'''Oni:'''
+{{Ogg|Filename = demon kenji hurt vo 01.ogg|Filedescription ="I will carve my pain into you."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji hurt vo 01 demon.ogg|Filedescription ="I will carve my pain into you."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 02.ogg|Filedescription ="The weak are meat, the strong eat!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 02.ogg|Filedescription ="Aha ha ha ha! Devious demon defeats dummy."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 02 demon.ogg|Filedescription ="Aha ha ha ha! Devious demon defeats dummy."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 02.ogg|Filedescription ="Sliced and diced."}}'''Oni:'''
+{{Ogg|Filename = demon kenji dies vo 03.ogg|Filedescription ="No! But I do the slicing and the dicing!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji dies vo 03 demon.ogg|Filedescription ="No! But I do the slicing and the dicing!""}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 02.ogg|Filedescription ="Oh!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 02.ogg|Filedescription ="Roh!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 02 demon.ogg|Filedescription ="Roh!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 02.ogg|Filedescription ="Eugh!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 02.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 02 demon.ogg|Filedescription =Kenji laughs}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 03.ogg|Filedescription ="Loyalty and duty."}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 03.ogg|Filedescription ="Time to fillet some foes."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 03 demon.ogg|Filedescription ="Time to fillet some foes."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji lead vo 03.ogg|Filedescription ="Chef special, victory roll!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 02.ogg|Filedescription ="Demon special, Oni chilli!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 02 demon.ogg|Filedescription ="Demon special, Oni chilli!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 03.ogg|Filedescription ="Impressive."}}'''Oni:'''
+{{Ogg|Filename = demon kenji hurt vo 02.ogg|Filedescription ="Who ordered Oni tea?"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji hurt vo 02 demon.ogg|Filedescription ="Who ordered Oni tea?"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 03.ogg|Filedescription ="One blade, many Brawlers."}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 03.ogg|Filedescription ="Ha ha ha ha! Who ordered the Brawler yakitori?"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 03 demon.ogg|Filedescription ="Ha ha ha ha! Who ordered the Brawler yakitori?"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 03.ogg|Filedescription ="Vengeance is all I have left."}}'''Oni:'''
+{{Ogg|Filename = demon kenji dies vo 04.ogg|Filedescription ="Revenge is best served from the fires of hell!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji dies vo 04 demon.ogg|Filedescription ="Revenge is best served from the fires of hell!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 03.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 03.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 03 demon.ogg|Filedescription =Kenji laughs}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 03.ogg|Filedescription = "Blade fury!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 03.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 03 demon.ogg|Filedescription =Kenji laughs}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 04.ogg|Filedescription ="Wasabi!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 04.ogg|Filedescription ="Ha ha ha ha ha! Serving the sushi of suffering."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 04 demon.ogg|Filedescription ="Ha ha ha ha ha! Serving the sushi of suffering."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji lead vo 04.ogg|Filedescription ={{Translate|"乾杯 ("Kanpai!")|"Cheers!"}}}}'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 05.ogg|Filedescription ="Mhmhmhmh. My broth is made from Brawlers."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 05 demon.ogg|Filedescription ="Mhmhmhmh. My broth is made from Brawlers."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 04.ogg|Filedescription ="My shame is great."}}'''Oni:'''
+{{Ogg|Filename = demon kenji hurt vo 03.ogg|Filedescription ="Hey, watch the horns. Eugh."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji hurt vo 03 demon.ogg|Filedescription ="Hey, watch the horns. Eugh."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 04.ogg|Filedescription ="Ha ha ha, Brawler, sashimi style."}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 05.ogg|Filedescription ="Brawler tempura, demon style."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 05 demon.ogg|Filedescription ="Brawler tempura, demon style."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 04.ogg|Filedescription ="I can smell the sakura."}}'''Oni:'''
+{{Ogg|Filename = demon kenji dies vo 02.ogg|Filedescription ="Demons never die!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji dies vo 02 demon.ogg|Filedescription ="Demons never die!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 04.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 04.ogg|Filedescription =Kenji grunts}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 04 demon.ogg|Filedescription =Kenji grunts}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 04.ogg|Filedescription = "Ha ha ha ha, samurai slash!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 06.ogg|Filedescription ="Demon dashi!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 06 demon.ogg|Filedescription ="Demon dashi!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 05.ogg|Filedescription ="I fear nothing!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 05.ogg|Filedescription ="Anyone order a head roll?"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 05 demon.ogg|Filedescription ="Anyone order a head roll?"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji lead vo 05.ogg|Filedescription ={{Translate|"やばい！" ("Yabai!")|"Risky!"}}}}'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 01.ogg|Filedescription ={{Translate|"やばい" ("Yabai!")|"Risky!"}}}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 01 demon.ogg|Filedescription ={{Translate|"やばい！" ("Yabai!")|"Risky!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 05.ogg|Filedescription ="I do not seek revenge, I only seek justice!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 05.ogg|Filedescription ="Justice has been served!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 04.ogg|Filedescription ="My fugu never fails!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 04 demon.ogg|Filedescription ="My fugu never fails!"}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 05.ogg|Filedescription ="I have found the way of the samurai."}}'''Oni:'''
+{{Ogg|Filename = demon kenji dies vo 05.ogg|Filedescription ="Mmh, do your laundry whilst Oni is away."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji dies vo 05 demon.ogg|Filedescription ="Mmh, do your laundry whilst Oni is away."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 05.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 05.ogg|Filedescription =Kenji grunts}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 05 demon.ogg|Filedescription =Kenji grunts}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 05.ogg|Filedescription = "Ha ha ha ha ha, tuna time!"}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 01.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 01 demon.ogg|Filedescription =Kenji laughs}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 07japanese.ogg|Filedescription ={{Translate|"地金が出る！" (" Jigane ga deru!")|"Your true self has been revealed!"}}}}'''Oni:'''
+{{Ogg|Filename = demon kenji start vo 06.ogg|Filedescription ="Only agony awaits the weak."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji start vo 06 demon.ogg|Filedescription ="Only agony awaits the weak."}}
+|'''Oni:'''
+{{Ogg|Filename = demon kenji lead vo 06.ogg|Filedescription ="Only in darkness can you see the stars."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji lead vo 06 demon.ogg|Filedescription ="Only in darkness can you see the stars."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 06.ogg|Filedescription ="Silence speaks, shouting whispers."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 06.ogg|Filedescription =Kenji laughs}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 06.ogg|Filedescription ="Ah ha ha ha ha ha ha! You made a demon smile."}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 06 demon.ogg|Filedescription ="Ah ha ha ha ha ha ha! You made a demon smile."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji dies vo 06.ogg|Filedescription ="Life is like death, except different."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 06.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 06.ogg|Filedescription =Kenji grunts}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 06 demon.ogg|Filedescription =Kenji grunts}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 06.ogg|Filedescription = Kenji laughs}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 04.ogg|Filedescription ="I chop, you drop!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 04 demon.ogg|Filedescription ="I chop, you drop!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kenji start vo 08japanese.ogg|Filedescription ={{Translate|"単刀直入！" (" Tantōchokunyū!")|"Cut to the chase!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 07.ogg|Filedescription ="I have no honor."}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 07.ogg|Filedescription =Kenji laughs}}'''Oni:'''
+{{Ogg|Filename = demon kenji kill vo 07.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji kill vo 07 demon.ogg|Filedescription =Kenji laughs}}
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 07.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 07.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 07 demon.ogg|Filedescription =Kenji laughs}}
+|'''Normal:'''
+{{Ogg|Filename = kenji ulti vo 07.ogg|Filedescription = {{Translate|"オラオラオラオラオラオラ！" ("Ora ora ora ora ora oraaaa!")|"Ora ora ora ora ora oraaaa!"}}}}'''Oni:'''
+{{Ogg|Filename = demon kenji ulti vo 07.ogg|！"| Filedescription ="Enjoy the demon special!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji ulti vo 07 demon.ogg|Filedescription ="Enjoy the demon special!"}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 08japanese.ogg|Filedescription ={{Translate|"身から出た錆" ("Mikaradetasabi!")|"You reap what you sow!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 08.ogg|Filedescription ="My knife, your life."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 08.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 08.ogg|Filedescription ="Yeah!"}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 08 demon.ogg|Filedescription ="Yeah!"}}
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 09japanese.ogg|Filedescription ={{Translate|"抜き差しならぬ!" (" Nukisashinaranu!")|"It can't be helped!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 09.ogg|Filedescription ="You're no match for my blade."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji atk vo 09.ogg|Filedescription = Kenji grunts}}'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 09.ogg|Filedescription = Kenji grunts}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 09 demon.ogg|Filedescription = Kenji grunts}}
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji hurt vo 10japanese.ogg|Filedescription ={{Translate|"マジで!?" ("Majide!?")|"Seriously!?"}}}}
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 12.ogg|Filedescription ="Death by tofu, ha ha ha!"}}
+|
+|'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 10.ogg|Filedescription =Kenji grunts}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 10 demon.ogg|Filedescription =Kenji grunts}}
+|
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = kenji kill vo 13japanese.ogg|Filedescription ={{Translate|"豆腐の角に頭ぶつけて死んじまえ！" ("Tōfu no tsuno ni atama butsukete shinji ma!")|"Hit your head on the corner of the tofu and die!"}}}}
+|
+|'''Oni:'''
+{{Ogg|Filename = demon kenji atk vo 11.ogg|Filedescription =Kenji laughs}}'''Hypercharge:'''
+{{Ogg|Filename = demon kenji atk vo 11 demon.ogg|Filedescription =Kenji laughs}}
+|
+|-
+|}
+
+==History==
+*26/09/24:
+**{{Balance|Content=Kenji could be unlocked early as a bundle for $24.99.|Change=Neutral}}
+**{{Balance|Content=Kenji became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Fruit Samurai Kenji skin was added. It was featured as a Misc skin.|Change=Neutral}}
+*03/10/24:
+**{{Balance|Content=Kenji became available in the Starr Road.|Change=Neutral}}
+*04/10/24:
+**{{Balance|Content=Kenji's Hosomaki Healing Gadget healing from recently lost health was decreased to 50% (from 75%).|Change=Nerf}}
+*29/10/24:
+**{{Balance|Content=Kenji's True Silver and True Gold skins were added.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Kenji's Super recharge rate was decreased by 35%.|Change=Nerf}}
+**{{Balance|Content=Kenji's Nigiri Nemesis Star Power damage reduction was decreased to 60% (from 90%).|Change=Nerf}}
+**{{Balance|Content=Fixed a bug where activating the Dashi Dash Gadget caused Kenji's attack to be only dashes after the duration was over.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Kenji's reload time was increased to 1 second (from 0.8).|Change=Nerf}}
+*18/12/24:
+**{{Balance|Content=Fixed an issue with Kenji's losing animation.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Kenji being able to knock the Ball out of the map in [[Brawl Ball|Brawl Ball 5v5]].|Change=Neutral}}
+*02/01/25:
+**{{Balance|Content=The Hebi, Mamushi, and Aodaisho Kenji skins were added. They were featured as Brawl Pass Season 34 skins and StarrForce Assemble skins.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Kenji's Super return location visual effects have been improved to be more accurate and visible.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Kenji's All You Can Eat Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=The Cursed and Oni Kenji skins were added. They were featured as Battle for Katana Kingdom skins.|Change=Neutral}}
+**{{Balance|Content=Kenji's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Kenji's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Kenji's All You Can Eat Hypercharge multiplier was decreased to 25% (from 35%).|Change=Nerf}}
+**{{Balance|Content=Kenji's All You Can Eat Hypercharge pull effect strength was decreased by 75%.|Change=Nerf}}
+**{{Balance|Content=Kenji's All You Can Eat Hypercharge now pulls instead of knocking back enemies within 1 tile of the center.|Change=Neutral}}
+*02/10/25:
+**{{Balance|Content=The Kizu Kenji skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Kenji no longer teleports to the middle of his Hypercharged Super.|Change=Nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Kenji's All You Can Eat Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Kenji's All You Can Eat Hypercharge damage boost from 25%}}.
+**{{Balance|Content=The Manga Kenji skin was added. It was featured as a Battle for Katana Kingdom skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Kenji's health was increased to 4000 (from 3800).}}
+*06/08/26:
+**{{Balance|Neutral|The Grizzled Kenji skin was added. It was featured as a Windstock skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Kenji's movement speed to 855 (from 820).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed a bug where Kenji's Super was interrupted when its dash path crossed a wall on large maps, like [[Brawl Arena]] and 5v5.}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=Fruit Samurai|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Grizzled|Cost2=Free from Smoothie Drops or 199 Gems|Campaign2=Windstock|Rarity2=Mythic
+|Name3=Cursed|Cost3=Opening 100 Sushi Rolls during the event, free from Nori Boxes or 299 Gems • '''S'''|Campaign3=Battle for Katana Kingdom|Rarity3=Legendary
+|Name4=Oni|Cost4=From Ultra Trophy Boxes, or opening 200 Sushi Rolls during the event • '''S'''|Campaign4=Battle for Katana Kingdom|Rarity4=Legendary
+|Name5=Kizu|Cost5=Through chain offer, from Pumpkin Boxes, from Sushi Rolls, or from Coffin Boxes • '''S'''|Campaign5=Brawl-o-ween|Rarity5=Hypercharge
+|Name6=Manga|Cost6=From #ScaryDoors community event, or from Sushi Rolls • '''S'''|Campaign6=Battle for Katana Kingdom|Rarity6=Hypercharge
+|TrueSkins=Yes
+|NameP1=Hebi|CostP1=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=StarrForce Assemble|RarityP1=Epic
+|NameP2=Mamushi|CostP2=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=StarrForce Assemble|RarityP2=Epic
+|NameP3=Aodaisho|CostP3=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=StarrForce Assemble|RarityP3=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Kenji
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Hebi|Special}}
+{{Pin Table|Mamushi|Special}}
+{{Pin Table|Aodaisho|Special}}
+{{Pin Table|Cursed}}
+{{Pin Table|Kizu|Special}}
+{{Pin Table|Manga|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Kenji|Rarity = Common}}
+|{{Spray|Type = Kenji Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Cursed Kenji|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Kenji1}}
+|{{Pfp|Kenji2}}
+|{{Pfp|Kenji3}}
+|{{Pfp|Hebi Kenji}}
+|{{Pfp|Cursed Kenji}}
+|}
+
+{{Navigation}}
+[[ru:Кэндзи]]
+[[pl:Kenji]]

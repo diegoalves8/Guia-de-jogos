@@ -1,0 +1,145 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Yama
+|image     = <gallery>
+Yama.png|Icon
+Yama EQ.png|In-Game
+Yama Held.png|Held
+Yama (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 15
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Hydra Island
+|source    = [[Secret Temple]]
+}}
+{{Quote|A legendary katana, said to be possessed by a demon.|Item}}
+'''Yama''' is a {{Legendary}} [[sword]].
+
+Yama is good mobility-support sword in PvP, allowing the user to create powerful combos.
+
+==Obtainment==
+Yama can be obtained by completing the [[Yama/Puzzle|Yama puzzle]].
+
+Upon equipping Yama, the user will be given the {{Title|Demon Mode}} [[title]] #162.
+
+==Usage==
+Getting both [[Tushita]] and Yama to 350 [[mastery]] and being Lv. 2200 or higher will grant the player access to do the [[Cursed Dual Katana/Puzzle|Cursed Dual Katana puzzle]] and to obtain the [[Cursed Dual Katana]] once they have completed the puzzle.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Yama M1
+|desc     = The player does 3 slashes, then performs a lunge stab on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Hellish Slash
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = YamaZ
+|desc     = The user performs a spinning slash, rapidly rotating while moving towards the target cursor. This attack carries significant knockback and inflicts decent damage. If the user successfully connects with both the spinning slash and the subsequent air slash, the combined strike will inflict slightly higher damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Hurricane
+|mastery  = 300
+|cooldown = 14
+|energy   = 30
+|break    = No
+|instinct = Only drains Instinct while the target remains in the hitbox.
+|gif      = YamaX
+|desc     = The user enters a stance, charging an attack while black and red slashes appear for a split second. Upon releasing the button, the user swiftly dashes forward, executing a rapid tornado of slashes on the opponent, dealing decent damage while the tornado drags the enemy forward in a stun.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Both moves have good mobility.
+* One of the best swords for traveling. 
+* Both moves have a pretty short cooldown.
+* Good combo potential.
+* Both moves have [[AoE]], meaning that they can hit multiple targets at the same time.
+*  Can be obtained at any level as long as the player is in third sea, as Elite Pirate Quests do not have a minimum level requirement.
+
+|'''[Z] Hellish Slash'''
+* Long range.
+* Decent mobility.
+
+|'''[X] Infernal Hurricane'''
+* Decent stuns.
+* Good range.
+* Good combo starter and extender.
+* Drains [[Instinct]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* [[Blade]] users are immune.
+* Must complete at least 20 [[Elite Hunter]]/[[Player Hunter]] quests. (30 quests for a 100% chance, highly recommended to do so.)
+* Lower damage than average compared to other swords at [[Third Sea]] and [[Second Sea]].
+* Dashes on the fourth M1.
+* All moves cannot break [[Instinct]].
+
+|'''[Z] Hellish Slash'''
+* Small hitbox, which makes it harder to hit if transformed with [[Buddha]].
+* Not good for combos because this move does not break ken in any way.
+
+|'''[X] Infernal Hurricane'''
+* Slight startup and endlag, but insignificant.
+* Extremely low damage, even when compared to its M1s.
+* Does not break [[Instinct]].
+}}
+</tabber>
+
+==Trivia==
+* In {{w|Buddhism}}, Yama is the King of Hell, named after {{w|Yama_(Buddhism)|Yāma}} — the third of the six heavenly worlds in the desire realm.
+** The sword could also be named after the {{w|Yama|Yamadharma Raja}} (Yama in short), the god of death and justice in {{w|Hinduism|Hindu mythology}}.
+** It could also be referencing the Japanese term for mountain, 山（やま）which is pronounced "yama".
+* Yama is one of the two cursed katanas, the other being [[Tushita]]. Together, they are capable of making the [[Cursed Dual Katana]].
+* There is no [[level]] requirement to get Yama, unlike [[Tushita]]. However, the player will still need to be at least Lv. 1500 in order to get into the [[Third Sea]], where it can be obtained.
+* It is recommended to grind [[Elite Pirates]] on a private server or server hop for them. This is because in public servers Elite Pirates can be easily killed before the player comes to their place by other players or some hackers because some scripts have the option “auto-farm elite.”
+* The player does not lose their [[Elite Hunter]]'s progress upon failure to pull out Yama.
+* {{Ability|Z}} can be used to glitch through walls.
+** Example: Using this move while aiming for the entrance of [[King Toad's House]] next to the [[Awakenings Expert]] (in [[Second Sea]]) will glitch the user into the room.
+* {{Ability|X}} can cause other players to get flung if they use a momentum skill into it.
+* You can use the [X] move to phase through thin walls.
+
+==Change History==
+{{Change History|15|content=
+{{Update|29.6}}
+* {{Arrow|nerf}} '''[X] Infernal Hurricane''' no longer breaks [[Instinct]].
+----
+{{Update|24}}
+*Yama's model was revamped.
+<gallery>
+Yama Icon (Old).png|Old Yama model
+</gallery>
+----
+{{Update|20}}
+* Yama's moves were revamped.
+----
+{{Update|15}}
+* Yama was released.
+}}
+
+==Navigation==
+{{Cursed Katana Navbox}}
+{{Sword Navbox}}

@@ -1,0 +1,225 @@
+{{Tabber V2
+|link1 = Draco
+|tab1  = Draco
+|link2 = Draco/Race Awakening Puzzle
+|tab2  = Race Awakening Puzzle
+}}
+{{About|the race|the Blox Fruit|Dragon}}
+{{Race Infobox
+|name    = Draco
+|image   = Draco.png
+|source  = [[Dragon Wizard]]
+|titles  =
+* Elder Wyrm (V2)
+* Ancient Flame (V3)
+* {{Title|Primordial Guardian}} (V4)
+}}
+{{Quote|Born of ancient dragon blood, Dracos carry incredible strength and resilience.}}
+'''Draco''' is one of the three [[races]] that can be obtained through a quest, exclusively in the [[Third Sea]].
+
+Draco offers strong boosts, excelling at supporting allies and weakening enemies by reducing their damage, speed, and skills. Its [[Race Awakening]] adds damage reflection and burst, making it great for PvP, teams, PvE, and [[sea events]]. While it lacks speed, its high output and enemy debuffs from V3 and V4 compensate well, often turning fights in the user’s favor. However, its awakening creates a large sphere surrounding the user having heavy VFX, which can cause lag to low-end devices, creating a grave disadvantage for players having such media of playing. 
+
+==Obtainment==
+To begin, the player needs to get 500+ mastery on [[Dragon Talon]] and obtain all the [[Dojo Belt]]s. Then speak with the [[Dragon Wizard]], from whom they can obtain the [[Dragon Tether]] ability in order to obtain a [[Dragon Egg]] from the [[Prehistoric Island]]. The player then needs to follow the steps below to fully upgrade Draco:
+
+{{Race Stages Table
+|V1 = Draco can be obtained by exchanging {{Dragon Egg|1}} [[Dragon Egg]] with the [[Dragon Wizard]] after acquiring the [[Dojo Belt (Black)]]. Once unlocked, the player can switch to Draco anytime without the need of trading in another [[Dragon Egg]] or any {{Fragment|Fragments}}, just like [[Ghoul]].
+|V2 = To unlock the V2, the player must speak to the [[Dragon Wizard]] and collect {{Fire Flower|5}} [[Fire Flowers]], which are randomly dropped from NPCs. This has a very low chance of dropping and is very time consuming. After collecting all five, return to the [[Dragon Wizard]] with {{Money|1,000,000}} [[Money]] to complete the upgrade.
+* Each flower has a 5-minute cooldown.
+** The player can skip the 5 minute cooldown by server hopping.
+** The flowers have a delayed spawn.
+* The level requirement of this quest is 2000.
+|V3 = To unlock the V3, the player must first complete the [[Horned Man|Horned Man Quest]]. After, the player will have to to talk to the [[Dragon Wizard]] and defeat a [[Terrorshark]], dealing at least 10% damage. Then return to him to buy the V3 for {{Money|3,000,000}} [[Money]].
+|V4 = To unlock the V4, the player must complete the [[Draco/Race Awakening Puzzle|Draco Awakening Puzzle]].
+}}
+
+==Changes of Stages==
+<tabber>
+Version 1-3=
+Each stage gives additional buffs and make visual changes to the player's avatar.
+{| class="fandom-table" width="100%"
+!Stage
+!Buffs
+!Visual changes
+!Image
+|-
+|<center>'''V1'''</center>
+|Grants the player a 5% health boost, 5% damage reduction, and 5% extra damage on their melee.
+|Grants the player a pair of small horns.
+|[[File:Dracov1Horns.png|frameless|center]]
+|-
+|<center>'''V2'''</center>
+|Grants the player a minimal dash boost and a flight ability lasting 5 seconds. Flight can be activated by holding the space bar whilst or after the first air jump, recharges flight when touching the ground. <br>Additionally, [[Flash Step]]s create a visual explosion.
+|Provides a pair of wings.
+|[[File:DracoV2.png|frameless|center]]
+|-
+|<center>'''V3'''</center>
+|Gives the player an ability called [[Primordial Reign]]. <br><br>When activated:<br>The player roars, creating an area of effect. This area grants the player and their allies 15% increased damage and movement speed. The area decreases the movement speed of [[enemies]] by 15%, as well as immediately providing a soft [[stun]], which can cancel their abilities if used with correct timing. This ability has a cooldown of 30 seconds but lasts for 10 seconds, making it the longest V3 duration in the game.<br><br>The explosion created by Flash Step now deals damage and burns opponents over time.<br>Burn deals more damage to players but has shorter burn duration than NPCs. <br>This does not change the total damage.<br>Total Damage: 108% of Level (Ex. 2800 = 3024)
+|Grants the player an additional pair of horns.
+|[[File:DracoV3.png|thumb|center]][[File:Heat Crash.gif|frameless|center]]
+|}
+
+|-|Version 4=
+V4 unlocks different abilities depending on what "[[Race Awakening/Gears|gears]]" or, in the case of Draco, [[embers]] are selected. For more information, please refer to [[Race Awakening]].
+{| class="fandom-table" width="100%"
+| colspan="2" | '''Ancient Powers:'''
+* Upon transforming, receive max stats as well as increased damage, speed, and health regeneration by 10%, as well as boosting the V2 passive ability. Fiery Flight now lasts 6 seconds while flying higher and faster.
+|-
+|'''Cometic Field:'''
+* Allows the player to apply explosive orbs on any enemy in the area by hitting one 4 times (around 133% of Level), and increases the damage to player and nearby allies by 15%. The explosion [[Instinct/Break|breaks instinct]] and deals damage to all enemies in the area.
+<gallery>
+blue gear draco.gif
+</gallery>
+|'''Upgraded version:'''
+* Explosive orbs damage is greatly increased (around 200% of Level).
+|-
+|'''Thorn Mail:'''
+* Allows the player to reflect a portion of damage back to enemies in the area (around 33%) and increases the defense to player and nearby allies by 10.5%. The reflected damage [[Instinct/Break|breaks instinct]]
+<gallery>
+Red gear draco.gif
+</gallery>
+|'''Upgraded version:'''
+* Damage reflected increases to around 51% and defense boost increases to 26.25%.
+|-
+| colspan="2" | '''Visual changes:'''
+* The player gains an extra pair of horns, the primary horns get longer, and when awakened, the player gains a dragon tail. Adds an orange domain/aura shaped of an orb around the player.
+<gallery>
+DracoV4Transform.gif|The transformation animation.
+DracoV4HornsUnawakened.png|The horns.
+</gallery>
+|}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good against teamers.
+* Good defense.
+* Good damage, despite heavy nerfs.
+* V4 causes lag to enemies (weak devices).
+* Good for everything but not the best for anything
+
+|'''[[Primordial Reign]] (V3)'''
+* Great for both team-based combat and 1v1s.
+** Increases damage and movement speed for both the player and the teammates by 15%.
+** Decreases nearby enemies' speed by 15%.
+* Good for canceling out enemy's combos, especially the moves that need to be held.
+* Also makes the opponent unable to use moves for the next ~0.05s - 0.1s.
+
+|'''Cometic Field (V4)'''
+* Good for both grinding and PvP.
+* Good burst damage.
+* [[Instinct/Break|Breaks instinct]].
+* Increases damage for nearby teammates.
+* Since each hit, even M1s, count as one orb, using a fast attacking weapon like [[Hallow Scythe]] can be very effective against bosses or killing players. 
+* Can turn short [[Instinct|Instinct-trickable]] combos into one-shot unescapable combos.
+
+|'''Thorn Mail (V4)'''
+* Can create time for the user to heal during PvP due to the enemy's reluctance.
+* Great defense.
+* [[Instinct/Break|Breaks Instinct]].
+* Increases defense for nearby teammates.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Very hard to obtain, requiring several quests to be completed.
+* V4 may cause lag to the player (weak devices).
+
+|'''[[Primordial Reign]] (V3)'''
+* Can be countered by keeping distances.
+* Due to a bug, after the 10 seconds is over, this actually decreases the player's base damage on Melee Fruit moves (3% on average, highest being 5% and lowest being 1%) until they die or switch teams.
+* No defensive buffs.
+* Needs quick reflexes and good timing.
+* Ignored by [[Human|Human V4's]] Psycho passive's second gear.
+
+|'''Cometic Field (V4)'''
+* Dealing continuous damage with the same move (such as [[Dough]] '''[V]''', [[Skull Guitar]] '''[X]''', etc.) will only count as dealing damage once, which summons only one orb.
+* Only increases damage for teammates standing inside the domain/aura.
+
+|'''Thorn Mail (V4)'''
+* Only reflects a portion of damage back to the enemies, the player still can be killed.
+** After recent nerfs, the damage is quite mediocre.
+* Only reflects damage to the enemies who are standing inside the domain/aura.
+* Only increases defense for the teammates standing inside the domain/aura.
+* Bad for anything outside of PvP (In which is not the best) even with v2 as enemy NPCs close to the player's level have more than 2x the amount of the player's HP.
+}}
+</tabber>
+
+==Trivia== 
+* Draco is the only race in game to have an entire set based after it, including a [[Dragon|Fruit]], [[Dragon Talon|Fighting Style]], [[Dragonheart|Sword]] and [[Dragonstorm|Gun]].
+* Draco has the most updated visuals in the game of all races 
+* The name "Draco" comes from the Latin word for dragon.
+* Draco is the only race where V2 is not obtainable from [[Alchemist]], V3 is not obtainable from [[Arowe]], and V4 is not obtainable from the [[Temple of Time]].
+* [[Ancient One]] will reply with, "Your race treads a different path to power. I'm unable to help with this." when the player interacts with it with Draco V4.
+** When the player interacts with [[Arowe]] or [[Alchemist]] NPCs as a Draco, they'll ask "What are you?".
+* Draco is the first and only quest race as of now which can be obtained in [[Third Sea]].
+* Draco is one of the three races which cannot be obtained in race re-rolls.
+* Draco is the only race that has a mastery requirement to be obtainable.
+* Obtaining Draco (up to V3) is the costliest out of all the other races, priced at {{Money|3,000,000}}, instead of the usual {{Money|2,000,000}}.
+* Draco race is the first and only race to have color customization, as seen with the new '''Chromatic''' bundle skins.
+** Similarly, Draco wings change color depending on which [[Dragon]] skin the player has equipped.
+* Instead of replacing [[gears]], the player has to replace [[embers]] to upgrade Draco's [[Race Awakening]].
+* The [[Volcano Event]] must be completed before the player can gain access to the secret cave for [[Trial of Flames|trials]], otherwise, they will not be able to do the trials.
+* [[Godhuman]]'s {{Ability|Godhuman|X}} fully charged is as big as the Draco V4 circle.
+* If the player changes their race, they can obtain Draco for free again by talking to [[Dragon Wizard]].
+** Draco is the second race to be free upon re-obtainment, the first being [[Ghoul]].
+* Draco is the only race that has visual changes in all forms.
+* Draco is the only race that grants a unique passive ability at the V2 stage (Flight).
+* Draco is the first and currently only race that does not require the [[Blue Gear]] to unlock its [[Race Awakening]] (See [[Mirage Island]] for more info).
+* Draco V4 race is one of, if not, the most difficult race to get due to achieving all the belts, spawning the [[Prehistoric Island]], and hunting a [[Leviathan]] to freeze the [[Hydra Island]].
+* Draco is the only race that upon awakening upgrade another passive buff from the race (Fiery Flight getting more flight time).
+* Some sparks will be added circling around the orange domain/aura, as well as a transparent symbol centered around the player, upon obtaining '''Thorn Mail''' or '''Cometic Field.'''
+* If the player is using [[Gravity]], Draco V2's [[Flash Step]] will be replaced by [[Gravity]]'s own unique Flash Step.
+* If the player is absurdly high levelled (e.g. Lv. 7000), when paired with [[Sound]]'s {{Ability|Sound|F}}, '''Thorn Mail''' will provide 100% damage reduction to the player themself as well as all allies within range.
+* The player can obtain the blue gear from [[Mirage Island]] if they are Draco V3 and if they use the ability [[Primordial Reign]] while looking at the moon on the peak point.
+* Draco has a bug where if the user spams the jump button, they can fly for double the time and distance, which can be very helpful when doing the trials for the v4.
+* The player can kill the [[Terrorshark]] without using Draco and it will still count toward the V3 quest when player change back to Draco.
+* The V2's flight ability can fly much higher when paired with [[Buddha]], as the transformation gives the user a jump boost.
+** This is only applicable to [[Buddha]] however, as other beast fruits cannot access the V2's flight while transformed
+* Many players believe that Draco V4 is the hardest race to get in the game.
+* Sometimes, the player will randomly not take damage on [[Lava]] (likely due to the idle pose hovering).
+** This is not full-proof however, and the player can randomly start taking damage.
+** Draco v4's defense buff can stack if you have multiple allies, making it insane if you have friends to help you in a public war
+*The player can obtain more than the required 5 V2 flowers while doing the quest.
+*It is recommended for phone and tablet players to turn on fast mode and turn off ally vfx in their settings if they use or encounter Draco V4 since the vfx for the V4 makes phone and tablet players lag.
+*This race is repeatedly getting nerfed, possibly because of how overpowered it was.
+*If you have a Chromatic skin equipped for the [[Dragon]] fruit, the aura from Draco V3, flash step, and V4's colour change according to the Chromatic skin you have equipped.
+
+==Gallery==
+<gallery>
+File:DracoV4Eclipse.png|Draco’s [[Race Awakening]] with the {{Skin|Eclipse}} skin.
+File:Draco v4 when awakening is unlocked .png|Draco’s [[Race Awakening|race awakening]] when unlocked.
+File:Draco v4 when Thorn Mail or Cometic Field is unlocked .png|Draco’s [[Race Awakening|race awakening]] when '''Thorn Mail''' or '''Cometic Field''' is unlocked.
+File:DracoV4Ember.png|Draco's [[Race Awakening]] with the {{Skin|Ember}} skin.
+</gallery>
+
+==Change History==
+{{Change History|24|content=
+{{Update|27.2}}
+* {{Arrow|nerf}} Defense from "'Thorn Mail'" has been reduced to 10.5% (Tier 1) and 26.25% (Tier 2).
+----{{Update|26.8}}
+* {{Arrow|nerf}} Reflected damage from "'Thorn Mail'" has been reduced by 20% (x0.8 compared to before).
+----
+{{Update|25}}
+* {{Arrow|nerf}} Reflected damage from '''Thorn Mail''' no longer applies '''Cometic Field''' orbs.
+* {{Arrow|nerf}} Reduced damage dealt from Flash Step
+** {{Arrow|nerf}} Reduced total damage dealt to 108% of Level from 120%.
+*** {{Arrow|nerf}} Slightly reduced the damage of explosion upon using.
+*** {{Arrow|nerf}} Reduced burn damage dealt to NPCs.
+*** {{Arrow|nerf}} Reduced burn duration to players.
+* {{Arrow|nerf}} Removed additional HP boost when awakening V4.
+----
+{{Update|24}}
+* Draco was released.
+* 2024-12-18, 05:40 UTC
+** {{Arrow|neutral}} Draco V4 was re-balanced.
+}}
+
+==Navigation==
+{{Race Navbox}}
+
+[[ru:Драко]]

@@ -1,0 +1,133 @@
+{{Tabber V2
+|link1 = Blox Fruits
+|tab1  = Blox Fruits
+|link2 = Fighting Styles
+|tab2  = Fighting Styles
+|link3 = Swords
+|tab3  = Swords
+|link4 = Guns
+|tab4  = Guns
+|link5 = Gears
+|tab5  = Gears
+}}
+{{Game_Mechanics
+|title1            = Blox Fruits
+|image1            = BloxFruitsHeader.png
+<!--
+|-
+|‏‏‎Alphabetically = [[File:BloxFruits-Alphabetical.png]]
+|-
+|By Price       = [[File:BloxFruits-ByCost.png]]
+-->
+|date_of_addition: = [[Updates/1|January 16, 2019]]
+|purpose:          = Blox Fruit Usage
+|source:           = 
+* [[Blox Fruit Dealer]]
+* [[Blox Fruit Gacha]]
+* [[Trading]]
+* [[Trees#Blox Fruits|Trees]]
+* [[Sea Events]]
+|probability:      = Depends on the fruit.
+}}
+'''Blox Fruits''' are mysterious fruits which grant their user supernatural abilities when eaten. They are the main, core mechanism of the game, as well as being represented in the game title, hence ''Blox Fruits''.
+
+Each Blox Fruit has its own unique power. However, in exchange for that power, the user will continuously take damage if they stay in [[water]]. Some Blox Fruits have special abilities that can grant the user certain immunities, boosted movement, defensive perks, etc.
+
+==Obtainment==
+There are many ways to obtain Blox Fruits, with the main ones being:
+* Buying a fruit's powers from the [[Blox Fruit Dealer]].
+* Buying a random physical fruit from the [[Blox Fruit Gacha]].
+* Buying a [[Permanent Blox Fruits|Permanent Blox Fruit]] from the [[Blox Fruit Dealer]] or from the in-game [[shop]].
+* Picking up fruits that spawn hourly, or every 45 minutes during weekends.
+
+Other, rarer sources exist, including:
+* Dealing the most damage in a [[Factory]] raid.
+* Defending the [[Castle on the Sea]] from pirates and dealing the final blow on the last [[Enemies|enemy]].
+* Defeating a [[Grand Brigade]] during a [[Ship Raid]] or [[Haunted Ship Raid]] at a low chance.
+* [[Trading]] for fruits.
+* Being gifted a Permanent Blox Fruit.
+* Purchasing a Physical [[Rocket]] Fruit from [[Dog House (Wenlock)]] at a cost of {{Robux|97}}.
+* Picking up a dropped Blox Fruit.
+* Participating in in-game [[events]].
+** Note that these events are limited (e.g. receiving physical fruit from the [[Death King]] during Halloween Events).
+* Defeating the [[Tyrant of the Skies]], offering [[Azure Ember]]s, and collecting a [[Dragon Egg]] have low chances of obtaining a physical [[Eagle]] Fruit, [[Kitsune]] Fruit, and [[Dragon]] Fruit, respectively.
+
+==List of Blox Fruits==
+There are a total of 5 Blox Fruit [[rarities]] that give an overall indication of a fruit's cost and spawn rate.
+{| class="article-table"
+!Rarity
+!Amount
+!Description
+|-
+|{{Common}}
+|<center>'''7'''</center>
+|Cheapest fruits and more likely to spawn.
+|-
+|{{Uncommon}}
+|<center>'''6'''</center>
+|Cheap fruits.
+|-
+|{{Rare}}
+|<center>'''4'''</center>
+|Mid-priced fruits.
+|-
+|{{Legendary}}
+|<center>'''11'''</center>
+|Expensive fruits.
+|-
+|{{Mythical}}
+|<center>'''14'''</center>
+|Very expensive fruits and have the least likely chance of spawning.
+|}
+
+===Available Blox Fruits===
+There are currently '''42''' Blox Fruits in the game, including:
+* 22 [[Natural]] Blox Fruits
+* 11 [[Elemental]] Blox Fruits
+* 9 [[Beast]] Blox Fruits
+{{Blox Fruit/List}}
+
+===Mutations===
+{{Main|Mutations}}
+Mutations are modified versions of Blox Fruits, which alter their appearance, movesets and playstyle. There are currently three mutations in the game, with all of them being event-exclusive and of type [[Beast]].
+
+{{Blox Fruit/Mutation}}
+
+===Unavailable Blox Fruits===
+Blox Fruits that are unobtainable by normal means (or in some cases removed), usually due to being replaced by another fruit.
+
+{| class="bfw-table" style="width: 100%"
+|{{Blox Fruit/Unavailable|center=1}}
+|}
+
+==Notes==
+* Dropped fruits will not despawn, unlike those that spawned under [[trees]].
+* Stored fruits cannot be dropped.
+* Fruits purchased with {{Robux|Robux}} are [[Permanent Fruits|permanent]] and can be equipped from either the Blox Fruits Dealer or the [[Shop]] at any time, whereas Blox Fruits bought with {{Money|Money}} are not permanent.
+* Players can remove their fruit by going to the [[Remove Blox Fruit]] [[NPC]], although this is not recommended.
+* Permanent fruits can be traded like gamepasses. To do so, players must select the "Store in Inventory" option under the "Gift" tab.
+* The mastery of a fruit will remain the same even if the fruit was replaced. The same goes for its awakened moves.
+* Players cannot trade permanent fruits or gamepasses that have already been used, just like with fruits that are being used.
+* [[Sand]] users take double the damage when submerged in [[water]].
+* Being a member of [[Shark]] reduces damage taken in the [[water]].
+** Being V2 or higher nullifies the damage.
+* Fruits in the [[Second Sea]] or [[Third Sea]] can be exchanged for certain items, events, or quests.
+* Buying a fruit with {{Money|Money}} from the [[Blox Fruit Dealer|Blox Fruit Dealer NPC]] will replace the currently equipped fruit.
+* If a player takes out a stored fruit and someone kills them, they will lose the fruit, but the enemy will not get the fruit.
+* Some fruits such as [[Ice]] and [[Magma]] v2 allows the users to walk on water, this does not mean that they ignore damage received by the sea, such as being pushed underwater.
+* Awakened [[Buddha]]'s Transformation is enough to not be fully submerged under water when standing, nullifying damage from the sea, unless also pushed underwater.
+* The player is able to access a fruit's unawakened moves even after awakening them by interacting with the [[Awakenings Expert]].
+
+==Trivia==
+* It would cost {{Robux|74,380}} to buy every [[Permanent Blox Fruits|permanent fruit]], and {{Money|96,232,500}} to buy every fruit from the [[Blox Fruit Dealer]].
+* Most [[bosses]] use the older versions of their fruits.
+** [[Don Swan]] is the only one who uses [[Spider]] with its updated moveset.
+* Many Blox Fruit moves have [[Destructible Physics|destructible physics]].
+
+==Navigation==
+{{MiscNav}}
+
+[[Category:Blox Fruits]]
+[[Category:Game Mechanics]]
+
+[[ru:Blox Fruits]]

@@ -1,0 +1,501 @@
+{{Protection}}{{MagicWords}}
+{{Brawler_Infobox|Title = Bro|PrestigeTitle = Juicy|Rarity = Legendary|Class = Damage Dealer|MovementSpeed = 705 (Normal)<br>855 (stage 1+; Very Fast)<br>984 (stage 4; with Hypercharge)<br>1283 (With Serve Ice Cold and Star Buffie)|GadgetCharges = 3|HealthLabel = Health|Health = 3300|AttackLabel = Damage|Attack = 1180|AttackLabel2 = Split Damage|Attack2 = 590|AttackRange = 6.67 (Normal)<br>8.67 (stage 2+; Long)<br>10.67 (stage 4; with Hypercharge)|Reload = 2 seconds (Slow)<br>1.4 seconds (Fast; with Power Surge and Gadget Buffie)|AttackSuperCharge = 35.4%<br>46.02% (with Power Surge)<br>17.7% (split)<br>23.01% (split; with Power Surge)|SuperRange = 3.33 (Short)<br>5.33 (with Hypercharge)|SuperSuperCharge = 18.725%|SuperLabel = Damage|Super = 1000|VoiceActor = Steven Kelly<br>Unknown (Porcelain Surge) |AttackSpeed=3500<br>3000 (split)|AttackWidth=1|Gadget1Name=Power Surge|Gadget1Cooldown=15 seconds|Gadget2Name=Power Shield|Gadget2Cooldown=18 seconds|Previous=Sandy|Next=Amber|HyperchargeMultiplier=20%|AttackHyperchargeCharge=7.075%<br>9.1975% (with Power Surge)<br>3.525% (split)<br>4.5825% (split; with Power Surge)|SuperHyperchargeCharge=3.745%|Gadget1Duration=5 seconds|Gadget2Duration=2 seconds}}
+{{Quote|Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.}}
+{{Portrait}}
+Surge is a {{Rarity|Legendary}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 from Season 2: Summer of Monsters. He has moderate health, a variable attack range, and a high damage potential, but a slow reload speed. He was the 38th Brawler added to the game. His main attack fires a shot of juice that splits upon hitting an enemy. His Super is a jump in the air which allows him to leap over walls, and upon landing, deals damage, knocks enemies back, and grants Surge various upgrades to his attacks and movement speed. Surge's first Gadget, Power Surge, temporarily gives Surge a Super charge rate increase. His second Gadget, Power Shield, partially protects Surge from a single projectile that is converted to reload a part of his ammo. His first Star Power, To the Max!, allows his projectiles to split when hitting a wall. His second Star Power, Serve Ice Cold, lets him start a match with his Super already charged. His Hypercharge, Juiced Up!, makes Surge upgrade to a fourth stage, firing smaller projectiles upon landing, and giving his shots even more range than Stage 3 and causing them to split every time.
+
+==Attack: Juice of Justice==
+{{Quote|Surge serves a shot of Juice that splits in two on contact with enemies.}}Surge fires a shot of juice that splits in two at right angles when it hits an enemy. Each of the split shots will deal half the damage and will have half the Super charge of the initial shot. When upgraded to Stage 2 with his Super, Surge's attack range increases. His attack splits into 6 projectiles instead of 2 at Stage 3, with 3 projectiles firing in a wide arc on each side. These split shots continue on their trail for an additional 4 tiles. His attack has a short cooldown and can be fired quickly but reloads slowly. Surge takes 0.44 seconds to complete his attack.
+
+==Super: Party Tricks==
+{{Quote|With each Super, Surge gets upgraded (MAX 3). Upgrades are lost when Surge is defeated.<br>STAGE 1: Boosted movement speed<br>STAGE 2: Increased weapon range<br>STAGE 3: Main attack splits into 6 (instead of 2)}}Surge flies up into the air for 0.75 seconds, traveling up to 3.33 tiles forward, knocking enemies back by 2 tiles and dealing damage in a small radius upon landing. While in the air, Surge is completely immune to all damage besides status effects and damage applied over time. In addition, Surge becomes upgraded, and his appearance is altered each time he upgrades. Surge's upgrades reset if he is defeated, a goal is scored in [[Brawl Ball]], or a round is over in [[Knockout]]. Additionally, a chevron will appear beside his health bar that represents his current upgrade stage. This icon can be seen by all players in the game.
+
+{|class="article-table" style="text-align:center;width:360px;line-height:24px"
+!Stage||Appearance||Upgrade
+|-
+|[[File:Surge Stage1-Icon.png|30xpx]]||[[File:Surge New.png|x80px]]||Default
+|-
+|[[File:Surge Stage2-Icon.png|30xpx]]||[[File:Surge_Stage2_Skin-Default.png|x74px]]||Boosted movement speed to 855 (Very Fast)
+|-
+|[[File:Surge Stage3-Icon.png|30xpx]]||[[File:Surge_Stage3_Skin-Default.png|x74px]]||Increased attack range to 8.67 tiles (Long)
+|-
+|[[File:Surge Stage4-Icon.png|30xpx]]||[[File:Surge_Stage4_Skin-Default.png|x74px]]||Main attack splits into 6 projectiles (from 2)
+|}
+
+==Gadgets==
+===Power Surge===
+{{Quote|Surge's power surges! Increase Super charge rate by 30% for 5 sec. Cooldown: 15 seconds.}}{{Gadget|1}}Upon activation, Surge's Super charge rate is increased by 30% for 5 seconds.
+
+{{Quote|Power Surge also grants 30% Reload Speed.}}{{Buffie|Gadget}}
+With the Buffie, this Gadget also increases Surge's reload speed by 30%.
+
+===Power Shield===
+{{Quote|Within the next 2 seconds, Surge consumes 50% of the damage of the next incoming hit and uses the energy to reload 1 ammo. Cooldown: 22 seconds.}}{{Gadget|2}}When activated, Surge will gain a special shield that lasts for 2 seconds. The next time he takes damage, he only receives 50% of the normal damage and instantly reloads 1 ammo. Unlike [[Nani]]'s Return to Sender Gadget and like [[Kenji]]'s Nigiri Nemesis Star Power, this effect can apply to more than one projectile as long as the damage is done in the same frame (for example, multiple projectiles from [[Shelly]]'s Super). This Gadget's cooldown begins after the button is pressed.
+
+{{Quote|If Surge is hit during Power Shield, Gadget cooldown is decreased by 30%.}}{{Buffie|Gadget}}
+With the Buffie, if Surge is hit during the Gadget's activation, the cooldown is decreased by 50%. The reduction is based on the total cooldown, not the remaining cooldown.
+
+==Star Powers==
+===To the Max!===
+{{Quote|Surge's Main Attack now bounces off walls.}}
+{{StarPower|1}}Surge's main attack now also bounces when it hits a wall.
+
+{{Quote|When bouncing off a wall, Surge's Main Attack splits into 2 extra projectiles.}}{{Buffie|Star}}
+With the Buffie, Surge's main attack also splits into two smaller projectiles when bouncing off a wall. The projectile can split multiple times for multiple bounces off of walls and then again if it hits an enemy Brawler. When Surge's main attack splits on bounce, the split projectiles come out at 30 degree angles instead of 90 degrees.
+
+===Serve Ice Cold===
+{{Quote|Surge always spawns with a full Super Charge.}}{{StarPower|2}}When the match starts or Surge respawns after defeat, he will have a fully charged Super. If he had a Super prior to being defeated, it is not affected nor is he given two Supers.
+
+{{Quote|While in Stage 3, Surge gains a burst of movement speed when using his Super.}}{{Buffie|Star}}
+With the Buffie, after being upgraded to Stage 2+, Surge gains a 50% movement speed boost for 2 seconds after using Super.
+
+==Hypercharge: Juiced Up!==
+{{Quote|Surge's Super gains increased ranged and shoots Justice Juice in every direction when landing!}}{{Hypercharge}}
+When activated, when Surge uses his Super, he upgrades to a fourth stage, giving his shots even more range than Stage 2 or 3, and fires 8 smaller attack projectiles around him upon landing. He upgrades to his fourth stage after reaching the third stage, but reverts to Stage 3 after the Hypercharge is over. Additionally, during his Hypercharge's duration, his shots also split regardless if it hits a Brawler or hits a wall with his Star Power To The Max! equipped, even if Surge does not use his Super. Also, his Super jump range is increased by 60%. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Surge shoots 'Double the Juice' for Double the Justice.}}{{Buffie|Hyper}}
+With the Buffie, Surge's attack fires two projectiles in quick succession. The second attack projectile deals 50% less damage than the first, and it also charges his Super 50% less. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Surge reaches max level with just one use of Party Tricks, and he has an increased Super Charge.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Surge reached Stage 3 with one Super. In addition, his Super charge rate was increased slightly, from 6 split projectiles to 5.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Hits Stage 3 with one (!) Super and has increased reload speed.}}<div style="float:right">[[File:Inferno Wasabi.png|64px|link=]]</div>Surge reached Stage 3 with one Super and his reload time decreased to 0.5 seconds.
+
+==Tips==
+*Surge does not function well without his first upgrade. Whether or not you have his Serve Ice Cold Star Power, you should charge up your Super as soon as you can and use it to get the speed boost he needs to make up for his rather short range. Don't be hesitant to use his Super as a defensive tool, as without his first upgrade, Surge lacks any offensive ability due to his slow speed and short range. After getting his first upgrade, Supers can either be saved if you're playing against assassins or tanks who could ambush you at close range or used immediately if you're playing against longer-ranged Brawlers who could out-range you, since his second upgrade increases his range.  An effective [[Duo Showdown]] composition would be Surge and [[Bo]] as Bo can drop his Super Totem to help Surge charge his Super in one less hit and allow Surge to get some of his much needed upgrades.
+*Surge can momentarily dodge any projectiles approaching him while using his Super. Use his Super at the right moment to avoid a potentially devastating attack; for example, Surge can evade [[Frank]]'s destructive Super by activating his Super right after Frank winds up his hammer. Alternatively, his Super can be used in close-ranged combat as landing his Super on an enemy within a small radius deals damage and also knocks them back. If a close-ranged Brawler is chasing Surge, his Super can be used to physically distance Surge from his enemy and to deter the enemy by dishing out some extra damage.
+*Once he reaches Stage 3, Surge's Super shouldn't be used immediately after charging it. It will not upgrade him any further, so it's better to save it until he needs it. It can later be used when he needs to dodge attacks or to escape from a Brawler that gets too close.
+**In Showdown, try saving your Super even if you're not at Stage 3. Surge's Super is a vital tool for him to survive in Showdown especially if you're up against assassins and other Brawlers that can get dangerously close to you.
+*At his initial stage, Surge is an easy target for throwers. Staying out of range or simply avoiding throwers increases Surge's chance of survival until he reaches Stage 1. After upgrading himself for the first time, Surge can counter their attacks with his very fast movement speed, which quickly turns him into a threat.
+*In 3v3 Events, such as [[Brawl Ball]], conserving a charged Super until you respawn can provide a vital speed boost immediately, allowing Surge to easily get back into action. Speed is also required in this mode to score goals; Surge's Serve Ice Cold gives him the speed needed to dodge attacks, get close to enemies, and score goals.
+*When using Surge's first gadget Power Surge, your goal should be to get a Super during the time limit as to pump up when the duration is over, as well taking advantage of your new benefit while you can. An example would be to use your speed (If used in base stage) to aggressively pressure opponents.  
+*Surge's To the Max! Star Power is particularly effective in Showdown. On certain Showdown maps such as [[Rockwall Brawl]] and [[Cavern Churn]], there are long lanes and cramped walls that Surge can utilize to split his shots. To the Max! is extremely powerful if Surge is fully upgraded, as his shots split into 6 instead of 2, making him an immediate threat combined with his high burst damage and Power Surge Gadget. It’s mainly used to hit enemies at walls, and can deal extraordinary damage if all shots, main and split, hit.
+*When fighting another Brawler as Surge, it's extremely important to consider what options they have to counter you. Surge is best played when he can achieve easy kills with 3 ammo (or if the enemy, for an example [[Poco]]. has a lower damage output than you, as then you can utilize Power Shield to replenish 2 ammo quickly to defeat them), so pick your enemy carefully, as getting that early Stage 1 or Super can benefit you and your team a ton later in the match.
+*In bush-filled maps like [[Snake Prairie]], Surge can easily get Supers and dominate the match by bush-camping and bursting down enemies who approach the bush. Since his Super charges in three shots, he can continuously cycle Supers.
+
+==Voice Lines==
+{{TranslationToggle|Mandarin Chinese}}
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 01.ogg|Filedescription = "Let's party!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 01.ogg|Filedescription = "Surge Lightyear, to the rescue!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 01.ogg|Filedescription = {{Translate|"生旦净末丑，let's begin the show!" ("Shēng dàn jìng mò chǒu, let's begin the show!"|"Sheng, Dan, Jing, Mo, Chou, let's begin the show!"}}}}<ref>Sheng, Dan, Jing, Mo, Chou all refer to the five character types in the Beijing Opera</ref>
+|'''Normal:'''
+{{Ogg|Filename = Surge lead vo 01.ogg|Filedescription = "Surge for the win!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 04.ogg|Filedescription = "I'm out of this world."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain lead vo 01.ogg|Filedescription = "Ha ha ha ha ha! What a joy!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge hurt vo 01.ogg|Filedescription = "Hey!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 01.ogg|Filedescription = "Bad Buzz!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain hurt vo 01.ogg|Filedescription = "Hey hey hey! Bad orders!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 01.ogg|Filedescription = "Ha ha!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 03.ogg|Filedescription = "Ha ha ha!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 01.ogg|Filedescription = {{Translate|"没有金刚钻，别揽瓷器活~" ("Méiyǒu jīngāngzuàn, bié lǎn cíqì huó ~")|"If you don't have a diamond, stay out of the porcelain business~"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge die vo 01.ogg|Filedescription = "Surge protector..."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 01.ogg|Filedescription = "Tactical pause."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain die vo 01.ogg|Filedescription = "I need maintenance."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge atk vo 01.ogg|Filedescription = "Ha!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 01.ogg|Filedescription = "Space Buzz!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 01.ogg|Filedescription = {{Translate|"我打！" ("Wǒ dǎ!")|"Hi-yah!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge ulti vo 01.ogg|Filedescription = "Feel the Surge!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 01.ogg|Filedescription = "Energy Surge, prepare for impact!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain ulti vo 01.ogg|Filedescription = "Justice is about to be served!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 02.ogg|Filedescription = "It's party time."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 02.ogg|Filedescription = "Feel the Buzz!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 02.ogg|Filedescription = "It's opera time!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge lead vo 02.ogg|Filedescription = "To protect and Surge."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 02.ogg|Filedescription = "Mission accomplished."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain lead vo 02.ogg|Filedescription = Surge laughs}}
+|'''Normal:'''
+{{Ogg|Filename = Surge hurt vo 02.ogg|Filedescription = "Ow!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 02.ogg|Filedescription = "Gravity is on your side!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain hurt vo 02.ogg|Filedescription = "Ha, real general never quits."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 02.ogg|Filedescription = "I'm so awesome!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 02.ogg|Filedescription = "Space ranger defeats danger."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 02.ogg|Filedescription = "Hm, still green!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge die vo 02.ogg|Filedescription = "Surge? Surge! SURGE!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 02.ogg|Filedescription = "Space suit compromised!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain die vo 02.ogg|Filedescription = "Surge? Surge! SURGE!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge atk vo 02.ogg|Filedescription = "Hiyah!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 03.ogg|Filedescription = "Hiyah!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 02.ogg|Filedescription = {{Translate|"咦咦歹!" ("Yí yí dǎi!")|"Yí yí dǎi!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge ulti vo 02.ogg|Filedescription = "Upgrading."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 02.ogg|Filedescription = "Star Surge."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain ulti vo 02.ogg|Filedescription = "Promotion!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 03.ogg|Filedescription = "Woo!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 03.ogg|Filedescription = "Total space ranger vibes."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 03.ogg|Filedescription = "Dramatic entrance!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge lead vo 03.ogg|Filedescription = "Surge! Surge! Surge! Surge!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 03.ogg|Filedescription = "Surge is buzzing."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain lead vo 03.ogg|Filedescription = "Banners in hand, armies in command."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge hurt vo 03.ogg|Filedescription = "Surging rage!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 03.ogg|Filedescription = "Clearly a jetpack malfunction."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain hurt vo 03.ogg|Filedescription = "Hey, easy! This is a porcelain!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 03.ogg|Filedescription = "You got juiced."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 01.ogg|Filedescription = "You got buzzed."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 03.ogg|Filedescription = "Ha ha! Who's next?"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge die vo 03.ogg|Filedescription = "De-hy-dra-tion."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 03.ogg|Filedescription = "Feeling spacey."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain die vo 03.ogg|Filedescription = "Oh, I cracked..."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge atk vo 03.ogg|Filedescription = "Ha!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 02.ogg|Filedescription = "Space Surge!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 03.ogg|Filedescription = "Take this."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge ulti vo 03.ogg|Filedescription = "Power Surge!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 03.ogg|Filedescription = "Zero-G is the place to be!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain ulti vo 03.ogg|Filedescription = "General Surge!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 04.ogg|Filedescription = "Go go go go!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 04.ogg|Filedescription = "Greetings, I'm Surge Lightyear."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 04.ogg|Filedescription = "Defend the Starr Park!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge lead vo 04.ogg|Filedescription = "I got the juice."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 01.ogg|Filedescription = "I got the moon juice."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain lead vo 04.ogg|Filedescription = {{Translate|"向我俯首称臣吧！" ("Xiàng wǒ fǔshǒu chēngchén ba!")|"Bow and submit to me!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge hurt vo 04.ogg|Filedescription = "Take it easy bro."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 04.ogg|Filedescription = "Recalibrating space laser."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain hurt vo 04.ogg|Filedescription = "Oof, bad day!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 04.ogg|Filedescription = "Juicy!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 04.ogg|Filedescription = "I'm light years ahead of you."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 04.ogg|Filedescription = "More fragile than a porcelain." (laughs)}}
+|'''Normal:'''
+{{Ogg|Filename = Surge die vo 04.ogg|Filedescription = "I'm all out of juice."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 04.ogg|Filedescription = "I'm all out of space juice."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain die vo 04.ogg|Filedescription = "Frac-tured..."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge atk vo 04.ogg|Filedescription = "Surge!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 04.ogg|Filedescription = "Buzz!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 05.ogg|Filedescription = "Surge!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge ulti vo 04.ogg|Filedescription = "Super Surge!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 04.ogg|Filedescription = "Blast off!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain ulti vo 04.ogg|Filedescription = "Please, leave my house."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 05.ogg|Filedescription = "Surge protector."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 05.ogg|Filedescription = "Fully buzzed and ready to launch!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 05.ogg|Filedescription = "Surge general!"}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 05.ogg|Filedescription = "You are all star-struck, it's okay."}}
+|'''Normal:'''
+{{Ogg|Filename = Surge hurt vo 05.ogg|Filedescription = "Yo dude!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 05.ogg|Filedescription = "Mayday mayday, requesting refreshments!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain hurt vo 05.ogg|Filedescription = {{Translate|"哇.. 呀呀呀呀.. 气煞我也！" ("Wa.. Ya ya ya ya.. Qì shā wǒ yě!")|"Ahh… Aaarghhh! I’m absolutely furious!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 05.ogg|Filedescription = "You got served."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 07.ogg|Filedescription = "You just got eclipsed!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 05.ogg|Filedescription = "No more Mr. Nice Surge!"}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 05.ogg|Filedescription = "In space, no one can hear you lose."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain die vo 05.ogg|Filedescription = {{Translate|"粉身碎骨全不怕~" ("Fěnshēnsuìgǔ quán bùpà ~")|"Though broken into pieces, I have no fear~"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Surge atk vo 05.ogg|Filedescription = "Drink up!"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 05.ogg|Filedescription = "Drink up!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 04.ogg|Filedescription = "Ya ha!"}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 05.ogg|Filedescription = "Zero gravity, zero mercy!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Surge start vo 06.ogg|Filedescription = "Somebody call for Surge?"}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 06.ogg|Filedescription = "Prepare for a galactic beatdown!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 06.ogg|Filedescription = {{Translate|"诶嘿！" ("Éi hēi!")|"Eh-hey!"}}}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear lead vo 06.ogg|Filedescription = "It was written in the stars."}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear hurt vo 06.ogg|Filedescription = "I'll send you into a black hole!"}}
+|'''Normal:'''
+{{Ogg|Filename = Surge kill vo 06.ogg|Filedescription = "Surge and destroy."}}'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 06.ogg|Filedescription = "You are star dust!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain kill vo 06.ogg|Filedescription = {{Translate|"哼哈哈哈哈哈！承让了！" ("Hēnghāhāhā hā hā! Chéng ràngle!")|"Hehahahaha! You flatter me!"}}}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 06.ogg|Filedescription = "Back to the space station."}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 06.ogg|Filedescription = "Stay hydrated!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain atk vo 06.ogg|Filedescription = {{Translate|"看招！" ("kàn zhāo!")|"Take this!"}}}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 06.ogg|Filedescription = "To the Brawl Stars and beyond!"}}
+|-
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 07.ogg|Filedescription = "Countdown to smackdown."}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 07.ogg|Filedescription = {{Translate|"海上生明月，天涯共此时！" ("hǎishàng shēng míngyuè, tiānyá gòng cǐ shí!")|"The bright moon shines over the sea, and from far away we share this moment together!"}}}}
+|
+|
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear kill vo 05.ogg|Filedescription = "I shoot for the stars and never miss."}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 07.ogg|Filedescription = "Retaliation mode, engaged!"}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear atk vo 07.ogg|Filedescription = "Maximum charge!"}}
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear ulti vo 07.ogg|Filedescription = "Haha!"}}
+|-
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 08.ogg|Filedescription = "Powered up and ready to crush!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 08.ogg|Filedescription = {{Translate|"台上一分钟，台下十年功！" (Tái shàng yī fēnzhōng, tái xià shí nián gōng!)|"One minute on the stage, takes 10 years of practice off the stage!"}}}}
+|
+|
+|
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 08.ogg|Filedescription = "Temporarily grounded."}}
+|
+|
+|-
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 09.ogg|Filedescription = "Intergalactic smackdown in t-minus 5!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 09.ogg|Filedescription = "One minute on the stage, takes 10 years of practice off the stage."}}
+|
+|
+|
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear dies vo 09.ogg|Filedescription = "Cosmic crash landing!"}}
+|
+|
+|-
+|'''Surge Lightyear:'''
+{{Ogg|Filename = Surge lightyear start vo 10.ogg|Filedescription = "Launching into battle at warp speed!"}}'''Porcelain:'''
+{{Ogg|Filename = Surge porcelain start vo 10.ogg|Filedescription = Surge laughs}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*06/07/20:
+**{{Balance|Content=Surge and his Mecha Paladin skin were added to the game.|Neutral}}
+*08/07/20:
+**{{Balance|Content=Fixed a bug that allowed Surge to upgrade to Stage 3 on one Super charge.|Neutral}}
+*03/08/20:
+**{{Balance|Content=Surge's Serve Ice Cold Star Power was added.|Neutral}}
+*18/08/20:
+**{{Balance|Content=Surge's health was decreased to 2800 (from 3100).|Nerf}}
+**{{Balance|Content=His main attack projectile split range was decreased to 4 tiles (from 5.33).|Nerf}}
+*10/09/20:
+**{{Balance|Content=Surge's To the Max! Star Power no longer splits when reaching max distance.|Nerf}}
+*16/09/20:
+**{{Balance|Content=Fixed a bug that caused Surge's face to revert to his pre-release texture.|Neutral}}
+*07/04/21:
+**{{Balance|Content=Surge's main attack damage was increased to 1180 (from 1120).|Buff}}
+**{{Balance|Content=His Super charge rate was increased slightly.|Buff}}
+*10/06/21:
+**{{Balance|Content=The DIY Surge skin was added.|Neutral}}
+*27/10/21:
+**{{Balance|Content=Surge's class was changed to Damage Dealer (from Fighter).|Neutral}}
+*18/11/21:
+**{{Balance|Content=The Surge Kong skin was added. It was featured as a Brawlywood skin.|Neutral}}
+*01/03/22:
+**{{Balance|Content=Mecha Paladin Surge's attack and Super visual effects were reworked.|Neutral}}
+**{{Balance|Content=His True Silver and True Gold skins were added.|Neutral}}
+*27/04/22:
+**{{Balance|Content=Surge's Super range was increased to 3.33 tiles (from 0).|Buff}}
+**{{Balance|Content=Surge's Power Surge Gadget was reworked from making Surge teleport 3.33 tiles ahead of him to making Surge gain at most 2 upgrades for 10 seconds.|Neutral}}
+**{{Balance|Content=Surge's Power Shield Gadget was added.|Neutral}}
+*29/04/22:
+**{{Balance|Content=Fixed a bug that allowed Surge to get his Power Surge upgrades after being defeated.|Neutral}}
+**{{Balance|Content=Fixed a bug that made Surge spawn in unintended locations after using Power Shield in [[Brawl Ball]] or [[Knockout]].|Neutral}}
+*04/05/22:
+**{{Balance|Content=Surge's Super recharge rate was decreased by 48%.|Nerf}}
+**{{Balance|Content=Surge's Power Surge Gadget now makes him gain 1 upgrade (from 2).|Nerf}}
+*19/09/22:
+**{{Balance|Content=Surge's Power Shield Gadget now restores 2 ammo (from 3).|Nerf}}
+*25/04/23:
+**{{Balance|Content=DIY Surge now costs 79 [[Gems]] (from 49).|Neutral}}    
+*06/06/23:
+**{{Balance|Content=Surge's Power Shield Gadget duration was decreased to 2 seconds (from 5), and its damage reduction was decreased to 50% (from 80%).|Nerf}}
+*10/08/23:
+**{{Balance|Content=The Kraken Surge skin was added. It was featured as a Supercell Make skin and a Cursed Pirates skin.|Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Neutral}}
+*24/10/23:
+**{{Balance|Content=Surge's flavor text was changed from "He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in 2 on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!" to "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks."|Neutral}}
+**{{Balance|Content=Fixed an issue with Surge Kong's winning animation.|Neutral}}
+*12/12/23:
+**{{Balance|Content=Surge's health was increased to 3000 (from 2800).|Buff}}
+**{{Balance|Content=Surge's rarity was changed to Legendary (from Chromatic).|Neutral}}
+*11/01/24:
+**{{Balance|Content=Surge's health was increased to 3300 (from 3000).|Buff}}
+*09/03/24:
+**{{Balance|Content=The Surgenie skin was added. It was featured as a Sands of Time skin.|Neutral}}
+*29/04/24:
+**{{Balance|Content=The Scarlet Paladin Surge skin was added. It was featured as a Max Force skin.|Neutral}}
+**{{Balance|Content=Surge's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Surge's Mutation was removed from the game.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Fixed a bug where Surge's Serve Ice Cold Star Power did not make him respawn with his Stage 1 upgrade.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Surge's Level 5 Hypercharge was added.|Change=Neutral}}
+*12/09/24:
+**{{Balance|Content=Fixed Surge's Hypercharge when upgrading from Stage 3 to Stage 4.|Change=Neutral}}
+*03/10/24:
+**{{Balance|Content=The Skeletal, Villainous Skeletal, and Anti-Hero Skeletal Surge skins were added. They were featured as Brawl Pass Season 31 skins and Once Upon skins.|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=Surge's Level 5 Hypercharge was renamed to Stage 5.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Surge temporarily lost his accessories when using his Super during his Hypercharge.|Change=Neutral}}
+*14/11/24:
+**{{Balance|Content=Surge's Stage 5 Hypercharge multiplier was decreased to 20% (from 30%).|Change=Nerf}}
+*10/12/24:
+**{{Balance|Content=Surge's health was decreased to 3000 (from 3300).|Change=Nerf}}
+*06/02/25:
+**{{Balance|Content=The Surge Lightyear skin was added and was available for every user to claim for free until 07/05. It was featured as a Toy Story skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Surge's Stage 5 Hypercharge damage boost was increased to 25% (from 15%).|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Surge's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Surge's Wasabi Power was removed from the game.|Change=Neutral}}
+*06/06/25:
+**{{Balance|Content=The Secret Surgevice skin was added. It was featured as a License to Brawl skin.|Change=Neutral}}
+*05/10/25:
+**{{Balance|Content=The Porcelain Surge skin was added. It was featured as a Lunar Stories skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Surge's Power Surge Gadget cooldown was decreased to 13 seconds (from 15).|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, increasing Surge's Stage 5 Hypercharge speed boost from 15%.|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Surge's Stage 5 Hypercharge damage boost from 25%.|Change=Nerf}}
+**{{Balance|Content=Porcelain Surge was given voice lines.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Surge's health was increased to 3300 (from 3000).}}
+*22/04/26:
+**{{Balance|Buff|Surge's Super recharge rate was increased to 75 (from 70).}}
+*04/06/26:
+**{{Balance|Neutral|The Scorekeeper Surge skin was added. It was featured as an Adidas skin.}}
+*30/06/26:
+**{{Balance|Buff|Surge's movement speed was increased to 680 (from 650) at Stage 0.}}
+**{{Balance|Buff|Surge's Power Shield Gadget now applies to all damage taken in a single frame, instead of the damage from a single projectile.}}
+**{{Balance|Nerf|Surge's speed bonus from Stage 1 was decreased to 140 (from 170).}}
+**{{Balance|Nerf|Surge's Power Surge Gadget cooldown was increased to 15 seconds (from 13).}}
+**{{Balance|Nerf|Surge's Power Shield Gadget cooldown was increased to 18 seconds (from 17).}}
+**{{Balance|Neutral|Surge's Power Surge Gadget was reworked from temporarily giving him 1 upgrade to temporarily giving him a Super charge rate increase.}}
+**{{Balance|Neutral|Surge's Stage 5 Hypercharge was reworked from making his main attack split when the projectile expires to firing 8 smaller projectiles upon landing from his Super.}}
+**{{Balance|Neutral|Surge's Serve Ice Cold Star Power was reworked from respawning with his Stage 1 upgrade to spawning and respawning with his Super fully charged.}}
+**{{Balance|Neutral|Surge's Buffies were added.}}
+*08/07/26:
+**{{Balance|Nerf|Surge's Power Shield Gadget cooldown was increased to 22 seconds (from 18).}}
+**{{Balance|Nerf|Surge's Hypercharged Super range was decreased to 5.33 tiles (from 6.67).}}
+**{{Balance|Nerf|Surge's Stage 5 Hypercharge damage was decreased to 800 (from 1000) per projectile.}}
+**{{Balance|Nerf|Surge's Buffied Stage 5 Hypercharge second attack damage penalty was decreased to 50% (from 30%).}}
+*04/08/26:
+**{{Balance|Nerf|Surge's main attack unload speed was increased to 0.47 seconds (from 0.4).}}
+**{{Balance|Nerf|Surge's Power Shield Gadget now restores 1 ammo (from 2).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Surge's movement speed at Stage 0 to 705 (from 680), and his movement speed at Stage 1+ to 855 (from 820).}}
+*03/11/26:
+**{{Balance|Buff|Surge's main attack unload speed was decreased to 0.44 seconds (from 0.47).}}
+**{{Balance|Buff|Surge's Power Shield Gadget cooldown was decreased to 18 seconds (from 22).}}
+**{{Balance|Nerf|Surge's Buffied Power Shield Gadget cooldown reduction was decreased to 30% (from 50%).}}
+**{{Balance|Nerf|Surge's Stage 5 Hypercharge no longer upgrades him to a fourth stage instantly, and now it requires to reach Stage 3 first, before reaching the fourth stage.}}
+**{{Balance|Neutral|Surge's Stage 5 Hyprcharge was renamed to Juiced Up!.}}
+
+==Cosmetics==
+===Skins (15)===
+{{Skin Gallery
+|Name1 = Secret Surgevice|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1=License to Brawl|Rarity1 = Rare
+|Name2 = DIY|Cost2 = Free from Presents, free from Nova Drops or 79 Gems|Campaign2=Come Play With Us!|Rarity2 = Super Rare
+|Name3 = Surge Kong|Cost3 = 79 Gems|Campaign3=Starrs of Brawlywood|Rarity3 = Super Rare
+|Name4 = Kraken|Cost4 = 149 Gems|Campaign4=Supercell Make|Campaign4_2=Cursed Pirates|Rarity4 = Epic
+|Name5 = Surgenie|Cost5 = Free from Najia Boxes or 149 Gems|Campaign5=Sands of Time|Rarity5 = Epic
+|Name6 = Scarlet Paladin|Cost6 = Free from Monster Eggs, free from Presents or 149 Gems|Campaign6=Max Force|Rarity6 = Epic
+|Name7 = Scorekeeper|Cost7=199 Gems • '''S'''|Campaign7=Adidas|Rarity7=Mythic
+|Name8 = Surge Lightyear|Cost8 = Free from the shop until 07/05/25 or $14.99 • '''E'''|Campaign8=Toy Story|Rarity8 = Legendary
+|Name9 = Porcelain|Cost9 = 299 Gems|Campaign9=Lunar Stories|Rarity9=Legendary
+|TrueSkins = yes
+|NameP1 = Mecha Paladin|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2 = Max Force|RarityP1 = Epic
+|NameP2 = Skeletal|CostP2=Brawl Pass or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2 = Once Upon|RarityP2 = Epic
+|NameP3 = Villainous Skeletal|CostP3=Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2 = Once Upon|RarityP3 = Epic
+|NameP4 = Anti-Hero Skeletal|CostP4=Brawl Pass Plus or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2 = Once Upon|RarityP4 = Epic}}
+
+=== Buffie Skins ===
+<gallery>
+File:Surge Buffie Skin-Gadget.png|Gadget
+File:Surge Buffie Skin-Star.png|Star
+File:Surge Buffie Skin-Hyper.png|Hyper
+File:Surge Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Surge
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Mecha Paladin}}
+{{Pin Table|Kraken}}
+{{Pin Table|Surgenie|GG}}
+{{Pin Table|Scarlet Paladin|Happy}}
+{{Pin Table|Skeletal|Special}}
+{{Pin Table|Villainous Skeletal|Special}}
+{{Pin Table|Anti-Hero Skeletal|Special}}
+{{Pin Table|Surge Lightyear}}
+{{Pin Table|Surge Kong|Special}}
+{{Pin Table|Porcelain}}
+{{Pin Table|DIY|Sad}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Surge|Rarity = Common}}
+|{{Spray|Type = Surge Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Kraken Surge|Rarity = Common}}
+|{{Spray|Type = Surge Lightyear|Rarity = Common}}
+|{{Spray|Type = Porcelain Surge|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Surge1}}
+|{{Pfp|Surge2}}
+|{{Pfp|Surge3}}
+|{{Pfp|Surge4}}
+|{{Pfp|Kraken Surge}}
+|-
+|{{Pfp|Surgenie}}
+|{{Pfp|Scarlet Paladin Surge}}
+|{{Pfp|Skeletal Surge}}
+|{{Pfp|Surge Lightyear}}
+|{{Pfp|Mecha Paladin Surge}}
+|-
+|{{Pfp|Porcelain Surge}}
+|}
+
+{{Navigation}}
+[[pt:Wattson]]
+[[ru:Вольт]]
+[[nl:Surge]]

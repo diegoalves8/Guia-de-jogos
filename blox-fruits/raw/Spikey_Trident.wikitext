@@ -1,0 +1,131 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Spikey Trident
+|image     = <gallery>
+SpikeyTrident.png|Icon
+Spikey Trident Display.png|In-Game
+SpikeyTridentIGHeld.png|Held
+Spikey Trident (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 17.2
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Sea of Treats
+|obtain    = Dropped
+|source    = [[Cake Prince]] or [[Dough King]]
+|chance    = 10% ([[Cake Prince]])
+}}
+{{Quote|A legendary trident, forged for the [[Cake Prince|prince of dough]].|Item}}
+The '''Spikey Trident''' is a {{Legendary}} [[sword]].
+
+Spikey Trident is well known for its unique ability to pull enemies back towards the player (alongside [[Trident]]) allowing for easy extension off of otherwise hard to extend moves, such as [[Godhuman]] [C], [[Spirit]] [V] and [[Sanguine Art]]'s [Z]. Surprisingly, both moves of Spikey trident can damage [[Sea Beast|Sea Beasts]] despite being single target. 
+
+It however is also infamous for being very easy to counter through basic knowledge of [[Instinct]].
+
+* The [[Cyborg]] race however, may alleviate this issue to an extent.
+
+==Obtainment==
+The Spikey Trident can be obtained with a 10% chance from the [[Cake Prince]] or with a higher chance from the [[Dough King]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Spikey Trident M1
+|desc     = The player does 3 swipes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Dough Hurricane
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Spikey Trident Z
+|desc     = The user dashes forward. If the user collides with an enemy during the dash, they will start burrowing/drilling dough into the enemy's back while continuing the dash, dealing damage and stunning the enemy. The enemy will receive a fair amount of knockback afterwards.
+}}
+
+{{Skill
+|key      = X
+|name     = Flying Trident Pull
+|mastery  = 300
+|cooldown = 13.5
+|energy   = 40
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Spikey Trident X (Surface)
+|desc     = Attaching a stream of liquid dough attached to the trident, the user expels it in the direction of their cursor. Upon connection between the dough and any surface, the user will "pull" themselves towards that specific surface.
+|gif1     = Spikey Trident X
+|desc1    = If the dough connects with another player/[[enemies|NPC]], then instead of the user, the player or NPC with whom the trident was connected with will be pulled towards the user. This move is very similar to [[Trident]]'s [Z].
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for combo extending and stunning enemies.
+* Great damage.
+* Amazing mobility.
+* Both moves stun the enemy in place.
+
+|'''[Z] Dough Hurricane'''
+* Can still drill the enemy even if the enemy uses another skill, similar to the mechanics of [[Dough]].
+* Long stun.
+* Great mobility.
+
+|'''[X] Flying Trident Pull'''
+* Great range.
+* Great combo extender, as it can pull the enemy back into a combo.
+* Can pull the user to a certain location, making it relatively decent for mobility.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Can be hard to PvP with due to the moves needing perfect aim to land on the enemy. The player will usually need a stun move to start a combo with this sword.
+* Cannot hit [[Blade]] users.
+* Does not [[Instinct Break]], making it really easy to dodge.
+* Both moves are single targets.
+* Small hitbox makes it hard to aim with.
+* Slow M1 speed.
+
+|'''[Z] Dough Hurricane'''
+* Enemies can ken-trick and [[Flash Step]] instantly near the user after the knockback, leaving them vulnerable. (This can happen when PvP on ground with good [[instinct]] players)
+* Cannot be canceled upon hitting an enemy.
+** The user can drown while dragging an enemy into the [[water]] or [[lava]].
+* High delay if missed.
+
+|'''[X] Flying Trident Pull'''
+* Require good aim.
+** Missing can cause the user to rush close to the enemy if they are in the wall or on the ground, leaving them vulnerable to counterattacks because of the slight delay after getting pulled.
+}}
+</tabber>
+
+==Trivia==
+* As of [[Updates/20|Update 20]], while using transformed [[Buddha]], {{Ability|Z}} moves the user a very short distance. {{Ability|X}} is harder to hit with transformed [[Buddha]] since it will aim parallel to the ground if aimed downward while standing on the ground.
+* The player can perform a glitch by coordinating with another player to use {{Ability|Z}} and aim it downward, which results in both users being knocked back a great distance if done correctly.
+* Interestingly, each sea features a sword named "Trident": the [[Trident]] in [[First Sea]], the [[Dragon Trident]] in [[Second Sea]], and the Spikey Trident in [[Third Sea]].
+*Aiming {{Ability|X}} at the back wall of the [[Mansion]] in [[Third Sea]] allows you to noclip through the wall to the windmill outside.
+
+==Change History==
+{{Change History|17.2|content=
+{{Update|20}}
+* The Spikey Trident's moves were revamped.
+----
+{{Update|17.2}}
+* The Spikey Trident was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

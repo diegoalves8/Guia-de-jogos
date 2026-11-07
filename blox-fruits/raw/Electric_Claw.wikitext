@@ -1,0 +1,169 @@
+{{Tabber V2
+|tab1  = Electric
+|tab2  = Electric Claw
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Electric Claw
+|source    = Previous Hero
+|update    = 15
+|sea       = 3
+|location  = Floating Turtle
+|mastery   = [[Electric]] Mas. 400+
+|money     = 3,000,000
+|fragments = 5,000
+}}
+'''Electric Claw''' is a [[fighting style]] obtainable in the [[Third Sea]]. 
+
+Electric Claw serves as an upgraded version to its predecessor, [[Electric]]. It lets the user wield neon blue claws, letting them channel electricity into slash and dash based attacks.   
+
+It is mainly used in PvP due to its quick speed and moderately easy-to-hit, high stun, and powerful skills. Although it is recommended to avoid aerial PvP, since its moves work best on a surface.  
+
+Electric Claw presents a somewhat steep learning-curve, but in return allows exceptional combo potential, due to {{Ability|C}} working as a perfect combo starter. The fighting style also greatly benefits under disabled screenshake. 
+
+It is easy to grind with if the player has good mastery, since it has multi-target attacks. Its M1s however are not very reliable.
+
+==Obtainment==
+# Get 400 mastery on the [[Electric]] fighting style.
+# Find the [[NPCs|NPC]], [[Previous Hero]], located left from the [[Longma]] boss under the many arches at the [[Floating Turtle]] in the [[Third Sea]]. 
+# Talk to him and do his quest that requires the player to get to the [[Mansion (Third Sea)|Mansion]] in under 30 seconds. (''Tip: the player can set their spawn point to Mansion and use the [[Home Points|home button]], so the player teleports easily at [[Mansion (Third Sea)|Mansion]] in under 30 seconds or use the [[Portal]] fruit.'')
+# After completing the quest, return to [[Previous Hero]].
+# Pay the [[Previous Hero]] {{Money|3,000,000}} and {{Fragment|5,000}}. (After paying once, the player can equip [[Electric Claw]] from the [[Previous Hero]] anytime for free, like any other fighting style teacher.)
+
+* The "{{Title|Raiton}}" [[Titles|title]] #0164 will be granted upon obtaining this fighting style.
+
+==Mastery==
+* 400+ Mastery: Electric Claw is one of the requirements to obtain [[Godhuman]].
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Electric Slashes
+|gif      = Electric_Claw_M1
+|desc     = The user executes a series of four slashes with their claws toward the cursor. The user moves a short distance forward on each click.
+}}
+
+{{Skill
+|key      = Z
+|name     = Electric Rampage
+|mastery  = 110
+|cooldown = 8
+|energy   = 30
+|break    = yes
+|instinct = Can dodge at the edge when slashing and dash if not hit directly.
+|gif      = Electric_Claw_ZA
+|gif1     = Electric_Claw_ZB
+|desc     = The user rapidly slashes using their claws (which lasts longer if held), stunning the enemy, and then dashing forward, creating electric sparks, which also deal damage. This ability also causes the user to dash farther if held.
+|desc1    = The dash and sparks on release.
+}}
+
+{{Skill
+|key      = X
+|name     = Lightning Thrust
+|mastery  = 220
+|cooldown = 11
+|energy   = 40
+|break    = yes
+|instinct = Only breaks [[Instinct]] at the burst and can also be dodged if indirect.
+|gif      = Electric_Claw_XA
+|gif1     = Electric_Claw_XB
+|desc     = The user dashes, pushing the enemy, creating an electrical explosion. If held, the user dashes further, and a sound from [[Lightning]]'s old [F] regenerating will play.
+|desc1    = The held, farther dash.
+}}
+
+{{Skill
+|key      = C
+|name     = Thunderclap and Flash
+|mastery  = 330
+|cooldown = 17
+|energy   = 75
+|break    = yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Electric_Claw_C
+|desc     = The user dashes forward at their target at blinding speeds six times and then smashes them onto the ground, leaving the ground scorched with a blue electric pattern and bouncing the opponent into the air, stunning them for about 0.75 seconds. This move is also amazing for opening combos. Its movements are described to be akin to lightning ripping through the air.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Has high damage.
+* Has high mobility.
+** All moves can be used as movement, even its M1 move.
+* Can also damage [[Rubber]] users.
+* Easy to grind [[mastery]] with it because of its high damage and fast M1s.
+* Good combo potential.
+* All moves have low end-lag, making it hard to punish.
+* All moves are able to ''multi-hit'' targets.
+* All moves can damage [[Sea Beast]]s, even though {{Ability|C}} can fling the user into the [[water]].
+* Good for [[Buddha]] users because if the player uses an auto-clicker, they can click extremely fast and the moves are pretty good as well.
+* Performs exceptionally well with screen-shake turned off, further increasing its effectiveness.
+
+|'''[Z] Electric Rampage'''
+* High stun. (When held.)
+* Low cooldown.
+
+|'''[X] Lightning Thrust'''
+* Easy to land.
+* High range.
+
+|'''[C] Thunderclap and Flash'''
+* Easy to land.
+* Amazing for fighting skycampers. When used in air, it slams them to the ground.
+* Auto-aiming feature, similar to [[Venom]] [X] and [[Godhuman]] [C].
+* High range.
+* Has a really fast movement speed.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Difficult to obtain as the player needs 400 mastery on [[Electric]], {{Money|3,000,000}} and {{Fragment|5,000}} and needs to be in [[Third Sea]].
+* A bit of a disadvantage in during AFK farming or grinding because of the M1 dash, though this can be circumvented by moving around the player in a circle while moving the pointer to face the enemy. 
+* High mastery requirements.
+* Weak in air.
+
+|'''[Z] Electric Rampage'''
+* Short range.
+* Can be punished if the opponent is fast enough.
+* Barrage has low damage only the final hit deals the most damage. Meaning the enemy can escape the full attack and deal less damage.
+
+|'''[X] Lightning Thrust'''
+* High knockback.
+
+|'''[C] Thunderclap and Flash'''
+* Can be a disadvantage when fighting in the sea unless if the user has [[Shark]] race.
+* Bounces the enemy sideways instead of upwards if used to hit an airborne enemy, reducing the combo potential.
+* Despite possessing 'auto-aim', it in reality has a set path in which it can 'snag' opponents, therefore it is not guaranteed to connect, and requires practice to memorize the dashes.
+* Requires aim and speed to use accurately.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Electric Claw Idle Stance.gif|Idle Stance
+File:E-ClawDashes.gif|Slowed down trajectory of the Dashes used in '''[C] Thunder Clap and Flash'''.
+</gallery>
+
+==Trivia==
+* Somehow, the damage dealt to [[Sea Beast]]s with {{Ability|Z}} is measly. (Probably because only the final slashes are counted as physical attacks, and it deals most of damage)
+* The player can use [[Flash Step]] while triggering {{Ability|Z}} or {{Ability|C}} (only for mobile users) by pressing [[Flash Step]] first, then using the move. This can be used for surprising enemies.
+* Players can turn Electric Claw's M1's to something useful. Using an auto clicker and setting the click interval to one millisecond, players can glide because the M1's of this fighting style has a short dash. This is similar to [[Dragon Talon]].
+* If the player has the [[Damage Counter]] turned on before using {{Ability|X}}, the damage counter will say 0 damage before it creates the explosion.
+* If {{Ability|X}} is held down long enough (approximately 30 seconds), the electrical effects and sound will stop but nothing else changes.
+* {{Ability|X}} can sometimes launch the user very far away if they have a low-end PC or high ping, making it great for traveling and running.
+* Sometimes, {{Ability|X}} can glitch the user under an island and into the water in [[raids]]. (Usually when their ping is high).
+* {{Ability|C}} sometimes glitches the user into the sea, killing them. The reason is unknown.
+** {{Ability|C}} can also glitch the user under islands like [[Tiki Outpost]] and [[Sea of Treats]].
+* {{Ability|X}} makes the same sound as the shock of a [[Piranha]].
+* The Electric Claw is the only [[fighting style]] that has a model just like [[guns]] and [[swords]].
+* With enough lag, {{Ability|Z}} cannot teleport the user.
+
+==Change History==
+{{Change History|15}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Электрический Коготь]]

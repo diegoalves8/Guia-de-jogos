@@ -1,0 +1,379 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = With one left hand!|PrestigeTitle = Red Hood|Rarity = Epic|Class = Artillery|MovementSpeed = 750 (Normal)<br>863 (With Foot Patrol; Very Fast)|HealthLabel = Health|Health = 3000|AttackLabel = Damage|Attack = 1040|AttackRange = 7.67 (Long)<br>11 (walkie talkie shells)|Reload = 2 seconds (Slow)|AttackSuperCharge = 21.3%|SuperRange = 8.33 (Long)<br>14 (Walkie talkie shells)|SuperSuperCharge =22% |VoiceActor= Gordon Gibson|AttackCooldown=|SuperDuration= |SuperReload=|SuperMovementSpeed=|Super=1600|SuperLabel=Damage|AttackSpeed=840<br>3000 (split)|AttackWidth=0.83|SuperSpeed=800<br>3000 (split)|AttackBullets=4<br>12 (with Radio Check)|SuperBullets=4<br>8 (with Hypercharge)|Gadget1Name=Watchtower|Gadget1Cooldown=20 seconds|Gadget2Name = Radiocheck|Gadget2Cooldown=15 seconds|SuperWidth=2.5|HyperchargeMultiplier=40%|Hypercharge|Previous=Lola|Next=Bonnie|AttackHyperchargeCharge=8.5%|SuperHyperchargeCharge=8.8%}}
+{{Quote|Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.}}
+{{Portrait}}
+Grom is an {{Rarity|Epic}} [[Brawler]] who could be unlocked early for a limited time by winning the Grom Challenge. He has moderately low health and a slow reload speed, but a long range and a high damage potential. He was the 53rd Brawler added to the game. He attacks by throwing his walkie-talkie over obstacles at a long range that explodes in a cross pattern upon contact. His Super is a larger bomb that explodes into four larger projectiles in a cross pattern that can destroy obstacles and knock enemies back. His first Gadget, Watchtower, deploys a watchtower that allows Grom and allies to see inside of bushes within its radius. His second Gadget, Radio Check, makes Grom's next attack throw 3 walkie-talkies. Grom's first Star Power, Foot Patrol, boosts Grom's movement speed when his Super is charged. Grom's second Star Power, X-Factor, increases his attack damage the farther they split. His Hypercharge, Grom Bomb Goes Boom!, makes his Super bounce in place and explode again into four large projectiles in a cross pattern that behave identically to the first explosion. 
+
+==Attack: Bud Go Boom!==
+{{Quote|Grom hurls Bud, his exploding walkie-talkie! The blast moves in the shape of a cross, hurting enemies caught in its path.}}Grom throws his walkie-talkie over obstacles at a long range that explodes into four piercing projectiles in a cross pattern. The projectiles travel for 3.33 tiles. An enemy can only be damaged by one of the projectiles. Similarly to [[Spike]]'s attack, Grom's walkie-talkie always splits perpendicularly to the map borders; the cross pattern doesn't change regardless of the angle Grom is facing. It takes the same amount of time for an attack to land regardless of the distance from Grom.
+
+==Super: Grom Bomb==
+{{Quote|Grom launches a devastating bomb with Bud's help! The Grom Bomb inflicts huge damage, breaks walls and the force from its blast pushes all enemies backwards.}}Grom throws a giant, longer-ranged bomb from his back over obstacles that explodes into four piercing projectiles in a cross pattern, similarly to his main attack. The projectiles travel for 5.67 tiles. The projectiles can also destroy obstacles and knock enemies back, but the projectiles can't pierce through walls after destroying them, similarly to a bullet from [[Colt]]'s or [[Shelly]]'s Super, and enemies can only be damaged by one of the projectiles.
+
+==Gadgets==
+===Watchtower===
+{{Quote|Grom ejects a Watchtower from his Grom Bomb that gives all allies sight into bushes over a large area. The watchtower slowly loses health over time. Cooldown: 20 seconds.}}{{Gadget|1}}Upon activation, Grom drops a turret that allows him and allies to see enemies inside bushes in its 10-tile radius. The turret has 1500 health, will be destroyed if Grom deploys another turret, and decays by 75 health per second until it's destroyed, lasting for up to 20 seconds if it doesn't take any damage. Any invisible enemies like [[Leon]], [[Kit]], or [[Sandy]] inside the turret's radius will not be revealed.
+
+===Radio Check===
+{{Quote|Grom's next attack fires 3 Buds in rapid succession. Cooldown: 15 seconds.}}{{Gadget|2}}Activating this Gadget allows Grom's next attack to fire three walkie-talkies in quick succession. A Gadget symbol will glow above Grom's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+==Star Powers==
+===Foot Patrol===
+{{Quote|When Grom's Super is fully charged, he gains +15% faster movement speed!}}{{StarPower|1}}
+When Grom's Super is fully charged, his movement speed is boosted by 110 points, allowing Grom to move faster than most other Brawlers. The effect is lost if Grom uses his Super.
+
+===X-Factor===
+{{Quote|The split from Grom's main attack deals up to 35% extra damage at max distance.}}{{StarPower|2}}
+The projectiles shot from Grom's attack do up to 35% increased damage, depending on their distance from the initial impact area. 
+
+==Hypercharge: Grom Bomb Goes Boom!==
+{{Quote|Grom's Super gains a secondary explosion after the first, in an X-pattern. This explosion also deals damage, breaks walls and knocks enemies back.}}{{Hypercharge}}
+When activated, Grom's Super bounces in place after the first explosion for 0.7 seconds, and when it lands again, it splits into four additional piercing projectiles in a cross pattern that behave identically to the ones from the first explosion, except they are offset by 45 degrees. He also gains a 20% speed boost, as well a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Grom Bomb fires 4 additional projectiles in an X-shape and he has an increased Super Charge.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Grom's main attacks charged his Super 6.67% more, and Grom's Super split into 8 projectiles instead of 4. The damage remained unchanged.
+
+==Tips==
+===Game Modes and Maps===
+
+===Recommended Build===
+*Grom's Watchtower Gadget is very useful in maps with large bushes clusters such as [[Cavern Churn]] or [[Snake Prairie]] because it allows Grom and allies to see into bushes, allowing them to scout enemies easily. You must be aware of its placement since it can be easily destroyed along with the fact that it already loses health over time, so make sure to place it out of reach from most enemies.
+*The best way to use Grom's Foot Patrol Star Power is to chase enemies since his Super can be devastating. You can bring an enemy to low health with his attacks while charging his Super in the process, chase them, and throw his Super at the right time.
+*Remember that enemies will move in an attempt to dodge Grom's attacks. With Grom's X-Factor Star Power, keep this in mind, as if they move and fail to dodge the attack, they take extra damage.
+*With Grom's Radio Check Gadget, it's best to use it on targets that aren't moving, like the [[Heist]] safe. It can also be used for map control as enemies would naturally be wary of getting in your range. This can cause devastating damage and high value as it effectively fires three attacks for the cost of one ammo.
+
+===Strategies===
+*Enemies will likely walk diagonally in an attempt to dodge Grom's attack. Try to force enemies towards wall clusters where they are restricted and burst them down.
+*Try and learn how the knockback works on Grom's Super: once this is learnt, you can use it as a combo with his Radio Check Gadget. Aim the Gadget at where the enemies will be knocked back to. This is very effective as enemies will be unable to dodge the Gadget as they are being knocked back by the Super. If done correctly, it can deal over 5000 damage.
+
+===Other===
+*Be careful not to destroy walls near your spawn when using Grom's Super because these walls allow Grom to pressure the enemy team while being protected from them.
+*When against a Grom, it is crucial to know how to dodge his attacks. Luckily, Grom's attacks are slow enough that you can track the projectile mid-air (a good way is to look at the attack's shadow) and move away from the plus shape it creates. If you manage to get close, he becomes helpless due to his shot's slow landing speed.
+**His Super can be dodged similarly to his main attack, and is actually slightly slower than it; however, it is much wider, shrinking the areas where you can dodge successfully. 
+*Always try to place your Super in an area filled with Brawlers. This will allow for a clean hit and helps to clear out the map faster and give you the victory.
+
+==Voice Lines==
+{{TranslationToggle|Russian}}
+{|class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 01.ogg|Filedescription ="I go now."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 01.ogg|Filedescription ="Mask on, feelings off."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 01.ogg|Filedescription ="I am in chocolate!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 01.ogg|Filedescription ="You are under my wings now! Ha ha ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom hurt vo 01.ogg|Filedescription ="I do not like!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 01.ogg|Filedescription ="Don't damage the draco!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom kill vo 01.ogg|Filedescription ="I am teaching but you are not learning."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 01.ogg|Filedescription ="Lesson learned too late."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom die vo 01.ogg|Filedescription ="Don't move, I will be returning." }}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 02.ogg|Filedescription ="Draco falls, but not forever."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Grom ulti vo 01.ogg|Filedescription ="Here comes the BIG BOOOM!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds ulti vo 02.ogg|Filedescription ="Dragon goes DOOM BOOM!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 02.ogg|Filedescription ="Must be careful!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 02.ogg|Filedescription ="Wings ready, mostly."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 02.ogg|Filedescription ="I put you under my belt!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 02.ogg|Filedescription ="Ah, scales full of happiness!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom hurt vo 02.ogg|Filedescription ={{Translate|"Ой! What was this?!" ("Oy! What was this?!")|"Oh! What was this?"}}}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 03.ogg|Filedescription ={{Translate|"Ой! Mask is cracked!" ("Oy! Mask is cracked!")|"Oh! Mask is cracked!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Grom kill vo 02.ogg|Filedescription =Grom laughs}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 03.ogg|Filedescription ="One claw was enough."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom die vo 02.ogg|Filedescription ={{Translate|"Нееееет!" ("Nyeeeeet!")|"Nooooo!"}}}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 03.ogg|Filedescription ={{Translate|"Нееееет!" ("Nyeeeeet!")|"Nooooo!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Grom ulti vo 02.ogg|Filedescription ="It is time for party."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds ulti vo 01.ogg|Filedescription ="Stand back, very hot!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 03.ogg|Filedescription ="I am not in my own plate."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 03.ogg|Filedescription ="These wings not for running!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 03.ogg|Filedescription ="What you sow, you will reap!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 03.ogg|Filedescription ="Careful, I might smile!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom hurt vo 03.ogg|Filedescription ="Back then, we all had to suffer."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 02.ogg|Filedescription ="You scratched the scales!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom kill vo 03.ogg|Filedescription ="With one left hand!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 02.ogg|Filedescription ="With one left wing."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom die vo 03.ogg|Filedescription ="I am left with my own nose."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 01.ogg|Filedescription ="I am left with my own scales."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie ulti 01.ogg|Filedescription =Walkie-talkie: "The panflute is in the kitchen."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds ulti vo 04.ogg|Filedescription ="Gorynych, final form!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 04.ogg|Filedescription ={{Translate|"Things exploding, грусть-тоска." ("Things exploding, grust'-toska.")|"Things exploding, sadness and melancholy."}}}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 04.ogg|Filedescription ="Fire wakes old memories!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 04.ogg|Filedescription ="I have full pants of happiness!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 06.ogg|Filedescription ="Ha ha ha ha! I have wings of joy!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom hurt vo 04.ogg|Filedescription ={{Translate|"Ёлки-палки!" ("Yolki-palki!")|"Oh my goodness!"}}}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 04.ogg|Filedescription ="Big birds don't cry."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom kill vo 04.ogg|Filedescription ="It was written on your forehead."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 04.ogg|Filedescription ="You became pile of ash." *laughs*}}
+|'''Normal:'''
+{{Ogg|Filename = Grom die vo 04.ogg|Filedescription ="Pancake!" }}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 05.ogg|Filedescription ="Part pancake."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie ulti 02.ogg|Filedescription =Walkie-talkie: "Clear the area!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds ulti vo 03.ogg|Filedescription ="Clear the skies!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 05.ogg|Filedescription ="Optimism is lack of information." }}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 05.ogg|Filedescription ="Hope burns fastest."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 05.ogg|Filedescription ="I am jumping out of my pants."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 05.ogg|Filedescription ="Dancing draco!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom hurt vo 05.ogg|Filedescription ="I will show you where lobsters spend winter."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 05.ogg|Filedescription ="Mask stays on, pain stays in!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie kill vo 01.ogg|Filedescription =Walkie-talkie: "Mission successful."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 05.ogg|Filedescription ="It was written in fire."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom die vo 05.ogg|Filedescription="I hear the children laughing at me!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 04.ogg|Filedescription ="Wing's too heavy."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie ulti 03.ogg|Filedescription =Walkie-talkie: "Bravo Oscar Oscar Mike."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds ulti vo 05.ogg|Filedescription ="Rah!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 06.ogg|Filedescription ="Must remember bring walkie talkie."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 06.ogg|Filedescription ="Three heads good for thinking, one head good for fighting."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom lead vo 06.ogg|Filedescription ="Who is laughing at Grom now?"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 04.ogg|Filedescription ="Who laughs at the big birdie now?"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie hurt vo 01.ogg|Filedescription =Walkie-talkie: "Remember the mission!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 06.ogg|Filedescription ="Wing bent, so much sadness."}}
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 06.ogg|Filedescription ="Ah, the scales were in my favor!"}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie die vo 01.ogg|Filedescription =Walkie-talkie: "Do you copy?"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 06.ogg|Filedescription ="Draco sleeps."}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 07.ogg|Filedescription ="More walkie, less talkie!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 07.ogg|Filedescription ="Gorynych is boss fight, I am tutorial version."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie lead vo 01.ogg|Filedescription =Walkie-talkie: "The bear is dancing."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds lead vo 07.ogg|Filedescription =Grom laughs}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie hurt vo 02.ogg|Filedescription =Walkie-talkie: "Hey, calm down. I'm here."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 07.ogg|Filedescription ="Stop poking the draco!"}}
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 07.ogg|Filedescription ="You played with fire."}}
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie die vo 02.ogg|Filedescription =Walkie-talkie: "The bear is sleeping."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 07.ogg|Filedescription ="Fire goes out, for now."}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom start vo 08.ogg|Filedescription ="Don't rush the horses!"}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 08.ogg|Filedescription ="I ask shop for Gorynych costume, they only have one head."}}
+|
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 08.ogg|Filedescription ="This mask very serious!"}}
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds kill vo 08.ogg|Filedescription ="Ha ha ha ha! Would laugh harder with three heads."}}
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 08.ogg|Filedescription ="I should not have flown."}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie start vo 01.ogg|Filedescription =Walkie-talkie: "Don't forget the milk."}}'''Dragrom:'''
+{{Ogg|Filename = Grom ds start vo 09.ogg|Filedescription ="Roar!"}}
+|
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 09.ogg|Filedescription ="If I had three heads, this go better."}}
+|
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 09.ogg|Filedescription ="Pretend you did not see."}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = Grom walkie start vo 02.ogg|Filedescription =Walkie-talkie: "The bear is in the circus."}}
+|
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds hurt vo 10.ogg|Filedescription ="This is moment when Gorynych lose two heads!"}}
+|
+|'''Dragrom:'''
+{{Ogg|Filename = Grom ds die vo 10.ogg|Filedescription ="Need more heads for this."}}
+|
+|
+|}
+
+==History==
+*21/12/21:
+**{{Balance|Content=Grom became available to play in the [[Training Cave]].|Change=Neutral}}
+*22/12/21:
+**{{Balance|Content=Grom became available in the Grom Challenge.|Change=Neutral}}
+*29/12/21:
+**{{Balance|Content=Grom became available in Brawl Boxes.|Change=Neutral}}
+*04/01/22:
+**{{Balance|Content=Grom's Super recharge rate was increased by 1%.|Change=Buff}}
+*11/01/22:
+**{{Balance|Content=Grom's X-Factor Star Power was added.|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Grom's attack damage was decreased to 900 (from 1000).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Super was increased to 6 hits (from 5).|Change=Nerf}}
+**{{Balance|Content=His Watchtower Gadget health was decreased to 1500 (from 2000).|Change=Nerf}}
+**{{Balance|Content=His Watchtower Gadget health decay was increased to 75 (from 50) per second.|Change=Nerf}}
+*18/02/22:
+**{{Balance|Content=Fixed an issue that prevented Grom's main attack from fully charging his Super in 7 hits.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Grom's Super projectile split range was decreased to 5.67 tiles (from 8.33).|Change=Nerf}}
+**{{Balance|Content=His main attack and Super now takes the same time to land regardless of the distance thrown.|Change=Neutral}}
+**{{Balance|Content=Grom's Radio Check Gadget was added.|Change=Neutral}}
+*02/03/22:
+**{{Balance|Content=Grom's Watchtower Gadget no longer reveals Brawlers inside bushes while also inside [[Leon]]'s Lollipop Drop Gadget.|Change=Nerf}}
+*15/04/22:
+**{{Balance|Content=The Bunny Grom skin was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Fixed an issue where Grom's X-Factor Star Power increased his attack's Super charge rate.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Grom's main attack damage was increased to 1100 (from 900).|Change=Buff}}
+**{{Balance|Content=Grom's Super damage was decreased to 1600 (from 1700).|Change=Nerf}}
+**{{Balance|Content=His True Silver and True Gold skins were added.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=The FrankenGrom skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Grom's main attack damage was increased to 1160 (from 1100).|Change=Buff}}
+**{{Balance|Content=Grom's main attack projectile speed was increased to 880 (from 800).|Change=Buff}}
+**{{Balance|Content=Grom's main attack and Super visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=The FrankenGrom skin's Super visual effects were reworked.|Change=Neutral}}
+*12/01/23:
+**{{Balance|Content=Grom's main attack projectile speed was decreased to 840 (from 880).|Change=Nerf}}
+*28/02/23:
+**{{Balance|Content=Grom's main attack damage was decreased to 1060 (from 1160).|Change=Nerf}}
+**{{Balance|Content=Grom's class was changed to Artillery (from Damage Dealer).|Change=Neutral}}
+**{{Balance|Content=Grom's main attack and Super visual effects were reworked.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Bunny Grom now costs 79 [[Gems]] (from 49).|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Grom's health was decreased to 2800 (from 3000).|Change=Nerf}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Grom's flavor text was changed from "Watchman Grom's priority is to keep guard. He throws his trusty radio at his enemies. His Super is a big bad bomb that breaks walls and pushes back enemies!" to "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless."|Change=Neutral}}
+*10/11/23:
+**{{Balance|Content=The Dasis Grom skin was added. It was featured as a Warrior's Journey skin.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Grom's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Grom's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Grom's main attack damage was increased to 1140 (from 1060).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge his Super was decreased to 5 hits (from 6).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed an edge case where Grom's main attack projectiles would sometimes go in a strange angle when shooting over water or certain objects.|Change=Neutral}}
+*24/03/25:
+**{{Balance|Content=Grom's Grom Bomb Goes Boom! Hypercharge was added.|Change=Neutral}}
+*11/04/25:
+**{{Balance|Content=The Protector Grom skin was added. It was featured as a Supercell Make skin and a Brawl Unite skin.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Grom's Grom Bomb Goes Boom! Hypercharge damage boost was increased to 25% (from 24%).|Change=Buff}}
+*09/06/25:
+**{{Balance|Content=The Grombin Hood skin was added. It was featured as a Once Upon skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Grom's Grom Bomb Goes Boom! Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Grom's Grom Bomb Goes Boom! Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Grom's health was increased to 3000 (from 2800).}}
+*05/04/26:
+**{{Balance|Neutral|The Dragrom skin was added. It was featured as a Once Upon skin.}}
+*22/04/26:
+**{{Balance|Content=Grom's main attack damage boost from X-Factor Star Power was increased to 35% (from 30%).|Change=Buff}}
+**{{Balance|Content=Grom's main attack damage was decreased to 1040 (from 1140).|Change=Nerf}}
+*30/06/26:
+**{{Balance|Content=Grom's Foot Patrol Star Power speed boost was changed to 15% (from 110 points).|Change=Nerf}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Grom's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Grombin Hood|Cost1=Free after reaching 750 Trophies, 29 Gems or 1000 Bling|Campaign1=Once Upon|Rarity1=Rare
+|Name2=Bunny|Cost2=79 Gems or 2750 Bling|Campaign2=Bunny Brigade|Rarity2=Super Rare
+|Name3=FrankenGrom|Cost3=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Epic
+|Name4=Protector|Cost4=149 Gems or 5000 Bling|Campaign4=Supercell Make|Campaign4_2=Brawl Unite|Rarity4=Epic
+|Name5=Dasis|Cost5=199 Gems|Campaign5=Warrior's Journey|Rarity5=Mythic
+|Name6=Dragrom|Cost6=299 Gems|Campaign6=Once Upon|Rarity6=Legendary
+|TrueSkins=Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Grom
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|FrankenGrom}}
+{{Pin Table|Dasis|Special}}
+{{Pin Table|Protector|Special}}
+{{Pin Table|Dragrom}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Grom|Rarity = Common}}
+|{{Spray|Type = Grom Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Dasis Grom|Rarity = Common}}
+|{{Spray|Type = Protector Grom|Rarity = Common}}
+|{{Spray|Type = Dragrom|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Grom1}}
+|{{Pfp|Grom2}}
+|{{Pfp|Grom3}}
+|{{Pfp|Grom4}}
+|{{Pfp|Dasis Grom}}
+|-
+|{{Pfp|FrankenGrom}}
+|{{Pfp|Protector Grom}}
+|{{Pfp|Dragrom}}
+|}
+{{Navigation}}
+[[ru:Гром]]
+[[uk:Гром]]
+[[es:Grom]]
+[[nl:Grom]]
+[[pt:Grom]]

@@ -1,0 +1,671 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Phoenix
+|image  = <gallery>
+Phoenix Fruit.png|Fruit Icon
+PhoenixFruitGIF.gif|Fruit GIF
+Phoenix.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Legendary
+|M1     = Awakened
+|update = 2
+
+<!-- Fruit Price -->
+|money  = 1,800,000
+|robux  = 2,000
+}}
+{{Quote|Grants regenerative abilities, powerful fire-based attacks, and the ability to transform into full body Phoenix.|Shop}}
+'''Phoenix''' (formerly known as '''Bird: Phoenix''') is a {{Legendary}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|1,800,000}} or {{Robux|2,000}} from the [[Blox Fruit Dealer]].
+
+Phoenix grants the user the ability to manipulate blue and yellow flames with magical properties. It's best known for its lethal regenerative ability, allowing the user to heal [[Allying|Allies]] and themselves while repelling enemies at the same time. The fruit also allows the user to transform into a full-form phoenix, granting them the ability to fly freely and attack enemies while airborne.
+
+==Awakening==
+Phoenix costs {{Fragment|18,500}} to fully [[Raids|awaken]].
+
+"The Phoenix" [[Titles|title]] #041 will be granted upon awakening at least one move of this fruit.
+
+{{Awakening Price Table
+|move1 = Z  | 500
+|move2 = F  | 2,000
+|move3 = X  | 3,000
+|move4 = C  | 4,000
+|move5 = M1 | 4,000
+|move6 = V  | 5,000
+}}
+
+===Unlocking Phoenix Raid===
+Phoenix has a unique [[Raids|awakening]] method that differs from other [[Blox Fruits|fruits]]. Normally, players must purchase a [[Microchip|chip]] from the [[Mysterious Scientist]], but the process for this fruit is different. The player will need to:
+# Obtain 400+ mastery on Phoenix.
+# Talk to [[Sick Scientist]], who is located at the [[Sea of Treats]]. The [[Microchip|Raid Chip]] can also be purchased through the [[Mysterious Scientist]], even in the [[Second Sea]], after the player has purchased it at least one time from the [[Sick Scientist]]. 
+#* This NPC will sell the player the Phoenix [[Microchip|raid chip]] for {{Fragment|1,000}} or a [[Blox Fruits|physical fruit]] worth at least {{Money|1,000,000}} or more.
+#* Purchasing a [[Microchip|chip]] with {{Fragment|Fragments}} has a 2-hour cooldown, just like the [[Mysterious Scientist]].
+#* The quest is ''permanent'', so when the player switches to another [[Blox Fruits|fruit]], the player can still buy the [[Raids|Phoenix Raid Chip]].
+
+''Note: Players can still join Phoenix [[raids]] hosted by other players and [[Raids|awaken]] Phoenix without having 400+ mastery, so the user can ask other players for help if they haven’t gotten 400+ mastery.''
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Mythical Deterrent
+|file     = 
+|desc     = The user gains the ability to transform into a blue and yellow phoenix. While transformed, the user passively consumes 10 energy per second. In return, the user gains '''15% damage reduction''' and is able to [[Flight|fly]] freely. All attacks are enhanced in range, damage and hitbox. The user's transformation will be cancelled if their health or energy falls below 33%.
+}}
+
+{{Skill/Passive
+|name     = Scorching Feathers
+|file     = Swift Flames.gif
+|desc     = While using the awakened F move, small blue and yellow flames appear and fall from the user, damaging anything beneath them.
+}}
+
+|Moveset (V1)|
+{{Tabber
+|Untransformed|
+{{Skill
+|key      = Z
+|name     = Cannon
+|mastery  = 1
+|cooldown = 9
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct if close, but can be dodged on the edge
+|gif      = Bird Cannon
+|desc     = The user charges up a flaming blow and releases it forward to launch a powerful mid-range attack with high knockback, similar to [[Gravity]]'s old [Z] move.
+}}
+
+{{Skill
+|key      = X
+|name     = Regeneration Flames
+|mastery  = 90
+|cooldown = 12
+|energy   = 4.55% per second
+|gif      = UnawkPhoenixX
+|desc     = The user evokes blue and yellow flames around themselves to regain [[health]] in a certain radius (can also heal any player, ally or not), whilst rapidly consuming [[energy]].
+* Regens ~2.6% hp per second
+}}
+
+{{Skill
+|key      = C
+|name     = Fast Kick
+|mastery  = 160
+|cooldown = 5
+|energy   = 35
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Fire Kick
+|desc     = The user pulls back their leg and dashes forward, releasing a quick kick in the direction the user is facing. It has a very fast cooldown.
+}}
+
+{{Skill
+|key      = V
+|name     = Full Transformation
+|mastery  = 250
+|cooldown = 6
+|energy   = 10 per second
+|gif      = UnawkPhoenixV
+|desc     = The user fully transforms into a blue and yellow Phoenix. This transformation takes around 10 energy every second. The only moves that take away [[energy]] in this transformation are Transformation and Regeneration Flames.
+}}
+
+{{Skill
+|key      = F
+|name     = Hybrid Flight
+|mastery  = 30
+|cooldown = 6
+|energy   = 100
+|gif      = UnawkPhoenixF
+|desc     = Allows the user to fly in hybrid form. Does not drain any [[energy]], but the player must hold the [F] key, or d-pad right on Console. The player will gain fiery blue wings with yellow borders.
+}}
+
+|Transformed|
+{{Skill
+|key      = Z
+|name     = Cannon
+|mastery  = 1
+|cooldown = 9
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct if too close, but can be dodged on the edge.
+|gif      = Birdy Cannon
+|desc     = The user swiftly shoots a long ranged blast farther range than its untransformed version, dealing a large AoE explosion damage. This move has two hitboxes: the first is a medium-range burst of flames, and the second is a long-range projectile.
+}}
+
+{{Skill
+|key      = X
+|name     = Regeneration Flames
+|mastery  = 90
+|cooldown = 12
+|energy   = 4.55% per second 
+|gif      = Phoenix_Transformed_X
+|desc     = The user evokes a bigger bubble of blue and yellow flames around themselves to regain [[health]], however, just like the untransformed, it drains energy. Note that, similar to its untransformed version, it can heal any players (including Marines) inside the bubble.
+}}
+
+{{Skill
+|key      = C
+|name     = Fast Kick
+|mastery  = 160
+|cooldown = 5
+|energy   = 35
+|break    = No
+|instinct = Cannot break Instinct in any way
+|gif      = Super fast Kick
+|desc     = The user lunges forward to perform a kick, just like the untransformed variant, it is single target. It has a very fast cooldown.
+}}
+
+{{Skill
+|key      = V
+|name     = Full Transformation
+|mastery  = 250
+|cooldown = 4.5
+|energy   = 10 per second
+|gif      = Phoenix_Transformed_V
+|desc     = The user transforms back into their human form. This can also happen automatically if the health or energy of the user is below 33%.
+}}
+}}
+
+|Moveset (V2)|
+{{Tabber
+|Untransformed|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 3
+|energy   = 40
+|break    = Yes
+|instinct = The explosion breaks Instinct, but it can be dodged on the edge. Initial hit cannot be dodged.
+|gif      = Blazing Lunge
+|desc     = The user curls up, dashing forward in the direction of the cursor, slightly stunning enemies in their way, and creating a small AoE explosion at the end.
+}}
+
+{{Skill
+|key      = Z
+|name     = Cremation Cannon
+|mastery  = 1
+|cooldown = 9
+|energy   = 60
+|frag     = 500
+|break    = Yes
+|instinct = Breaks Instinct, but can be dodged on the edge. The flames that appear when it hits the ground can also be dodged.
+|gif      = Cremation Shot
+|desc     = The user swiftly shoots a rift of flames toward their cursor that explodes on contact, or when it reaches its maximum range. It can leave flames on the ground that deals tick damage to enemies and provides slight healing to the user and their allies. 
+* Awakening this skill will reduce damage a little compared to V1, but the attack range is doubled and the hitbox is about x1.5 larger.
+}}
+
+{{Skill
+|key      = X
+|name     = Blue Flames
+|mastery  = 90
+|cooldown = 12
+|energy   = 4.21% per second
+|frag     = 3,000
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Blu Flames
+|desc     = The user covers themselves in a huge bubble, healing themselves based on how long the move is held, while also draining their energy. The bubble will also act as a barrier that damages and knocks back anything that comes close enough.
+* An exception to this is players who are currently allied to the user, who will also heal along with the user.
+* Health regeneration does not increase with Fruit stat because it heals based on max HP, with ~2.4% healing based on max HP per tick, and the time between each healing tick is ~0.24s.
+}}
+
+{{Skill
+|key      = C
+|name     = Flame Exodus
+|mastery  = 160
+|cooldown = 9
+|energy   = 40
+|frag     = 4,000
+|break    = Yes
+|instinct = Initial grab can be dodged, but the slam when grabbed breaks Instinct.
+|gif      = Radiant Exodus
+|desc     = The user dashes forward in a rift of flames. If the user comes into contact with an enemy, they will bring them up into the air using a tornado-like attack made out of phoenix flames, then crash back onto the enemy, slamming them to the ground, dealing AoE explosion damage with a large hitbox. Launching forward without the attack being performed means that an enemy has not been caught in the attack.
+}}
+
+{{Skill
+|key      = V
+|name     = Blazing Plumage
+|mastery  = 250
+|cooldown = 4.5
+|energy   = 10 per second
+|frag     = 5,000
+|break    = Yes
+|instinct = The on the ground break Instinct, but they can be dodged on the edge.
+|gif      = Blazing Plumag
+|desc     = The user transforms into a blue and yellow Phoenix with a piercing screech, drastically improving their abilities. While transformed, the user passively drains 10 energy per second. The user can also fly passively once in transformation, but they will be unable to use any other weapons aside from their fruit. Once activated, this ability leaves a spot of blue and yellow flames on the ground that deal considerable damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Swift Flight
+|mastery  = 30
+|cooldown = 6-9
+|energy   = 30
+|frag     = 2,000
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Swift Descent
+|desc     = The user turns their arms into blue and yellow phoenix wings, gaining the ability to fly freely using the movement keys, and can also stop mid-air. However, their [[energy]] regeneration will be temporarily stopped until they exit this form. If the user stops mid-air, blue and yellow flames will rain down from their wings, doing small tick damage. Additionally, all of Phoenix's moves can be used in this form. (Fun fact: All unawakened moves used during awakened flight turns into transformed unawakened moves.)
+}}
+
+|Transformed|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 3
+|energy   = 40
+|frag     = 4,000
+|break    = Yes
+|instinct = The explosion breaks Instinct, but it can be dodged on the edge. Initial hit cannot be dodged.
+|gif      = Blazing Rush
+|desc     = The user spins and lunges forward, stunning any opponents in their way and causing a small AoE blast of blue and yellow flames.
+}}
+
+{{Skill
+|key      = Z
+|name     = Cremation Cannon
+|mastery  = 1
+|cooldown = 9
+|energy   = 60
+|frag     = 500
+|break    = Yes
+|instinct = Breaks Instinct, but can be dodged on the edge. The flames that appear when it hits the ground can also be dodged.
+|gif      = Cremation Bomb
+|desc     = The user swiftly shoots three rifts of flames toward their cursor that explodes on contact, or when they reach their maximum reach. This move can leave flames on the ground or in the air that deal tick damage. This move has around 3x more AoE.
+}}
+
+{{Skill
+|key      = X
+|name     = Blue Flames
+|mastery  = 90
+|cooldown = 12
+|energy   = 4.21% per second
+|frag     = 3,000
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Phoenix_V2_Transformed_X
+|desc     = The user covers themselves in a massive blue bubble, healing themselves based on how long the move is held. The bubble will also act as a barrier that damages and knocks back anything that comes close enough, albeit with much more AoE. Using this move will significantly slow down flight speed.
+}}
+
+{{Skill
+|key      = C
+|name     = Flame Exodus
+|mastery  = 160
+|cooldown = 9
+|energy   = 40
+|frag     = 4,000
+|break    = Yes
+|instinct = Initial grab can be dodged, but the slam when grabbed breaks Instinct. The flames that appear can be dodged.
+|gif      = Infernal Exodus
+|desc     = The user dashes forward in the direction of the cursor. If they make a contact with an enemy, they will bring them up into the air using a tornado-like attack made out of phoenix flames, then crash back onto the enemy, leaving flames on the ground. If any enemies are not hit by the initial hit, they can still take damage from the crash if they are within range.
+}}
+
+{{Skill
+|key      = V
+|name     = Blazing Plumage
+|mastery  = 250
+|cooldown = 4.5
+|energy   = 10 per second
+|frag     = 5,000
+|gif      = Phoenix_V2_Transformed_V
+|desc     = The user transforms back into their human form, this also happens automatically if the health or energy of the user is below 33%.
+}}
+
+{{Skill
+|key      = F
+|name     = Swift Flight
+|mastery  = 30
+|cooldown = 6-9
+|energy   = 30
+|frag     = 2,000
+|break    = No
+|instinct = Cannot break Instinct in any way, but the opponent will still get stunned, and the move drains a lot of dodges.
+|gif      = Swift Dash
+|desc     = The user dashes forward. If they come in contact with an enemy, they will slash the enemy in a barrage of claws, setting them on yellow fire, stunning them, before causing a small blue and yellow explosion.
+* However, the move can be dodged with Instinct, though this will only negate the damage, and the enemy will still get stunned. Even though this move is short ranged and has a tiny hitbox, it is easy to hit people with because the user can move freely while holding the move, similarly to [[Love]] fruit.
+}}
+}}
+}}
+
+==Overview==
+{{Tabber|Unawakened|
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Not too hard to obtain.
+* Good for raids, as it can be a support fruit due to its healing capabilities.
+
+|'''[Z] Cannon'''
+* Good range.
+* Can [[Instinct/Break|break Instinct]].
+* Can knockback enemies, making it good for escaping.
+
+|'''[X] Regeneration Flames'''
+* As long as the user has enough [[energy]], they are hard to be killed because this move can heal the player even better than [[Heavenly Blood]]. (This does not mean they will be completely immortal.)
+* The player can act as support to their party members, generally increasing survivability in [[Sea Events]] and [[Raids]].
+
+|'''[C] Fast Kick'''
+* Decent mobility.
+* Extremely short cooldown.
+* Good combo-extender.
+
+|'''[V] Full Transformation'''
+* Fast transformation.
+
+|'''[F] Hybrid Flight'''
+* Decent mobility move.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Lack of stun moves.
+* Moves are hard to hit.
+* Has only 2 '''damaging attack''' skills.
+* Low damage.
+* Bad for grinding and PvP.
+
+|'''[Z] Cannon'''
+* Small hitbox.
+* High knockback, making it bad for grinding.
+
+|'''[X] Regeneration Flames'''
+* Drains a lot of [[energy]].
+* Susceptible to counterattack.
+* Can be cancelled if damaged.
+* Can heal enemies if standing too close.
+
+|'''[C] Fast Kick'''
+* High knockback.
+* Doesn't [[Instinct/Break|break Instinct]].
+* Single-target.
+
+|'''[F] Hybrid Flight'''
+* Fairly slow.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Good for raids, as it can be a support fruit due to its healing capabilities.
+* Grants the user a 15% defence buff and immunity to some stuns.
+* Has stun immunity in certain cases which is good in PvP situations.
+* The user can move freely in the air, like [[Eagle]] and [[Dragon]].
+* As long as the user has enough [[energy]], they are hard to be killed because the [X] move can heal.
+
+|'''[Z] Cannon'''
+* The projectile has a good range.
+* [[Instinct/Break|Breaks Instinct]] most of the time.
+* Pretty good damage if both the initial burst and the projectile hit the target, especially for a [Z] move.
+
+|'''[X] Regeneration Flames'''
+* The area is greatly increased, making healing teammates more effective.
+
+|'''[C] Fast Kick'''
+* Decent mobility.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Lack of stun moves.
+* Hard to hit.
+* Has only 2 '''damaging attack''' skills.
+* Bad for grinding and PvP.
+* Passively drains [[energy]] (around 10 [[energy]] every second), risking low [[energy]] or [[health]] if snapped out, hindering escape. (Using the [[Cyborg]] race can prevent this)
+
+|'''[Z] Cannon'''
+* Quite small hitbox.
+* High knockback, making it bad for grinding.
+* The projectile is quite slow, making it difficult to hit from afar.
+
+|'''[X] Regeneration Flames'''
+* Drains a lot of [[energy]].
+* Can be cancelled if damaged.
+
+|'''[C] Fast Kick'''
+* High knockback.
+* Doesn't [[Instinct/Break|break Instinct]].
+* Single target.
+* Quite hard to hit in PvP.
+}}
+}}
+</tabber>
+
+|Awakened|
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Good combo potential.
+* Good mobility.
+* Very low cooldowns.
+* Very fast attacks
+* Potent healing power.
+
+|'''[TAP] Normal Attack'''
+* Amazing mobility, can also be used while flying to dash midair.
+* Low cooldown for a move that goes almost as far as [[Flash Step]].
+* Can be used as a combo extender.
+
+|'''[Z] Cremation Cannon'''
+* [[Instinct/Break|Breaks Instinct]] most of the time.
+* [[Area of Effect|AoE]].
+* Leaves flames that deal burn damage, making it great for farming.
+
+|'''[X] Blue Flames'''
+* Still allows the user to rapidly heal themselves and their teammates, without the risk of healing the enemy.
+* Heals make it useful for multiple builds besides fruit main.
+* If the enemy decides to run away, keep distance, or use a long end-lag move and miss (For example, Portal [V]), the user can abuse the time they are given and heal back a high amount of [[Health|HP]].
+
+|'''[C] Flame Exodus'''
+* Amazing combo extender.
+
+|'''[V] Blazing Plumage'''
+* Decent damage.
+* Quick transformation.
+
+|'''[F] Swift Flight'''
+* Decent speed.
+* If the user stops mid-air, flames will rain down, doing small tick damage. 
+** Extremely powerful against [[Terrorshark]]s.
+** Good for AFK grinding.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Requires 400 mastery and {{Fragment|1,000}} or a {{Money|1,000,000+}} fruit for hosting the [[Raids|raid]], and requires a total of {{Fragment|18 500}} to fully awaken its moves, making it by far the second hardest fruit to awaken.
+* Requires aim and prediction to use efficiently in PvP.
+* Moves are very slow and have bad hitboxes.
+
+|'''[TAP] Normal Attack'''
+* Slight endlag.
+* Has false stun, 'drags' enemies without also dragging their hitbox.
+
+|'''[Z] Cremation Cannon'''
+* Fire spreads slowly.
+* Low range.
+* Initial visuals are much larger than the actual hitbox.
+
+|'''[X] Blue Flames'''
+* Drains a lot of [[energy]].
+* Impractical to be used as an offensive move in PvP, despite dealing damage.
+* Can be cancelled if damaged.
+* Heals slightly slower than it's un-awakened counterpart.
+
+|'''[C] Flame Exodus'''
+* Can be easily dodged with [[Instinct]].
+* Bad landing position.
+* Badly displaces enemies when used midair.
+
+|'''[F] Swift Flight'''
+* Not recommended for use in pursuit of enemies or as a platform for aerial PvP.
+* Speed of flight scales with user's HP.
+* Impractical for quick grinding as the damage per tick is very low and each tick is quite slow.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Gains 15% damage reduction from all attacks.
+* Great mobility.
+* Large [[Area of Effect|AoE]] and drastic increase in attacking moves, from three to seven.
+* Has stun resistance and is able to escape a lot of tight situations.
+* Extremely powerful against [[Terrorshark]]]]s, [[Piranha]]s and [[Rumbling Waters]] with huge [[Area of Effect|AoE]] and decently short cooldowns, along with overall good damage.
+* Decently counters [[Dragon]].
+
+|'''[TAP] Normal Attack'''
+* Great mobility.
+* Good combo extender.
+* Can hit [[Sea Beast]]s and the [[Leviathan]].
+* Slightly stuns the opponent and deals decent damage, making it an additional attack.
+
+|'''[Z] Cremation Cannon'''
+* [[Instinct/Break|Breaks Instinct]] most of the time.
+* Wide [[Area of Effect|AoE]].
+* Leave flames on the ground that deal burn damage.
+
+|'''[X] Blue Flames'''
+* It makes a bubble that acts as a barrier that damages and knocks back anything that comes close enough.
+* Can be used to deal lots of damage until the user runs out of [[energy]].
+* Much lower heal cost than untransformed counterpart.
+
+|'''[C] Flame Exodus'''
+* Great combo extender.
+* Leaves flames on the ground that deal tick damage after slamming the enemy, along with its large [[Area of Effect|AoE]].
+* Can grab multiple opponents.
+
+|'''[F] Swift Flight'''
+* True stun.
+* Decent speed.
+* Decent stun, and a great combo starter.
+* Drains a lot of opponents dodges if they use it throughout the move.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Requires 400 mastery and {{Fragment|1,000}} or a {{Money|1,000,000+}} fruit for hosting the [[Raids|raid]], and also requires a total of {{Fragment|18 500}} to fully awaken, making it by far the second hardest fruit to awaken.
+* Requires a bit of aim and prediction to use efficiently in PvP.
+* Untransforms the user if they have less than 33% of their max [[Health]] or [[Energy]].
+* Passively drains 10 [[energy]] per second.
+* Quite slow.
+
+|'''[TAP] Normal Attack'''
+* Hard to hit.
+* Sometimes has false stun, 'drags' enemies on your screen but not theirs.
+
+|'''[Z] Cremation Cannon'''
+* Fire spreads slowly.
+* Initial visuals are extremely large, while hitbox is tiny.
+
+|'''[X] Blue Flames'''
+* Drains a lot of [[energy]].
+* Impractical to be used as an offensive move in PvP, despite dealing damage.
+* Heals slower than it's un-awakened counterpart.
+* Slows down the user's flight.
+
+|'''[C] Flame Exodus'''
+* Dash be easily dodged with [[Instinct]].
+* Initial dash still has very low range.
+
+|'''[F] Swift Flight'''
+* Hard to hit.
+* Damage can be dodged with [[Instinct]].
+* Cannot damage [[Sea Beast]]s.
+}}
+}}
+</tabber>
+}}
+
+==Gallery==
+<gallery>
+File:PhoenixUnawakenedTransformedImproved.gif|Transformed Phoenix's Idle (V1).
+File:PhoenixTransformedV2ImprovedOptimized.gif|Transformed Phoenix's Idle (V2).
+File:Unawaked Blue.gif| Using '''[X] Blue Flames''' while using '''[V] Full Transformation'''.
+</gallery>
+
+==Trivia==
+* Currently, [[Buddha]] and Phoenix are the only [[Beast]]-type fruits to have an [[Raids|awakening]].
+** Phoenix had some of the single harshest nerfs of any fruit, it's effects still hampering performance even today. Most moves have much larger visuals than actual hitboxes, attacks fire slow, endlag was added, and even moves can't chain well. The M1's drag hitbox is also noticeably smaller than before.
+* Because of the Phoenix Flames and Feathers' Immortality passive on the {{Ability|F|2}} move, the user can stall above enemies and damage them, making it an ideal way to AFK farm [[money]]/[[mastery]].
+** [[Smoke]] and [[Blizzard]] also technically have infinite damage moves, but their moves need to be held.
+* Phoenix is the first fruit to have a Mastery Requirement in order to obtain a chip for a [[Raids|raid]].
+* Phoenix is one of the few fruits to have ranged M1s.
+* Unawakened {{Ability|X}} heals at a quicker rate than the awakened {{Ability|X|2}}.
+* Phoenix is the first fruit to possess [[health]] benefits. (excluding pre-nerf [[Buddha]])
+* The transformed Phoenix resembles a creature found in Chinese myths known as {{w|Fenghuang}}. The Phoenix is supposed to be a symbol of grace and virtue, an immortal bird that represented beauty. Its Blox Fruits counterpart, however, depicts the Phoenix as a violent and fiery beast. This depiction is closer to the Western Phoenix, despite having the traits and features of the Fenghuang.
+* {{Ability|F|1}} can be used to damage [[Shark]]s or the [[Leviathan]] while other players are attacking just by still staying on top.
+* If the player uses awakened {{Ability|C|2}} or {{Ability|Z|2}} while using the unawakened transformation, the transformation will be cancelled.
+* If the player starts using the transformed [X] move before being kicked out of transformation via low energy, they will use the transformed version instead of the normal [X] move.
+* Awakened Phoenix's {{Ability|X|2}} can be used with the unawakened {{Ability|V}}. If used with transformation, it will make the user's speed become a little slower.
+* Holding the unawakened [X] move is a highly recommended way to get the [[Titles|title]] "Empty Vessel".
+* Phoenix is the first fruit that can transform without a fury meter, the second being [[Leopard]], the third being [[Mammoth]] and the fourth being [[Yeti]].
+* [[Sea Beast]]s will appear in a Phoenix raid, specifically on the 4th and 5th islands. These Sea Beasts do not drop anything and are optional to fight during the raid, as only the enemies '''on the raid island''' are required to progress to the next island. However, it is advised to defeat these Sea Beasts if possible, as they pose as extreme threats to those on the raid island. Fruits such as [[Buddha]] and [[Yeti]] are recommended against these Sea Beasts. Moving a significant distance away from the island and remaining there for 20-30 seconds will cause these Sea Beasts to despawn.
+* When paired with [[Ghoul|Blood Siphon]] ([[Gears|Gear]] 2), the [[Lei]] accessory, gathering 5–8 enemies then using [[Skull Guitar]] [X] with the Vampiric III [[Enchantments|enchant]], and activating {{Ability|X|2}} can result in the fastest [[Health|health regeneration]] within the game.
+* Although Phoenix and [[Portal]] share the robux price of ({{Robux|2,000}}), they do not share the same {{Money|Money}} value. Phoenix is valued at {{Money|1,800,000}} and [[Portal]] is valued at {{Money|1,900,000}}.
+* In awakened form, due to the 33% [[health]] rule, if the player resets their character or dies while transformed, they will untransform before dying, unlike other beast fruits.
+* Phoenix is the only fruit with a transformation that can be ended in a way other than emptying a fury meter. (This way being having below 33% [[health]] or [[energy]]).
+* Phoenix has one of the oldest unreworked icons in the game.
+* {{Ability|F|2}} will deal less damage whenever its hotbar is not active.
+* Phoenix's [F] Swift Flight resembles [[Eagle]]'s [F] Flight.
+* {{Ability|X}} can heal others even in [[Safe Zone]]. 
+* Even if the player does not have 400  [[mastery]] on Phoenix, they can still participate in the raids.[[Raids|raid]]. 
+
+==Change History==
+{{Change History|2|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* Awakened transformation received some buffs.
+** {{Arrow|buff}} [M1] damage, hitbox and explosion size increased by 20%
+** {{Arrow|buff}} [Z] damage increased by 15%
+** {{Arrow|buff}} [X] energy cost reduced by 40%
+
+|-|20=
+{{Update|20}}
+* Phoenix Fruit's model was remade.
+: <gallery>
+Phoenix 150x150.png|Old Phoenix Fruit's icon.
+</gallery>
+
+|-|19=
+{{Update|19}}
+* Renamed from "Bird: Phoenix" to "Phoenix".
+
+|-|17.3=
+{{Update|17.3}}
+* {{Arrow|neutral}} All Unawakened moves were reworked.
+
+|-|17.2=
+{{Update|17.2}}
+* Bird: Phoenix received an [[Raids|awakening]]. 
+* The awakened version was severely nerfed. 
+** {{Arrow|nerf}} Awakened transformed [Z] move's hitbox was reduced.
+** {{Arrow|nerf}} Unawakened [X] now costs more energy to keep the same recovery rate with the awakened version.
+** {{Arrow|nerf}} User's speed was lowered by 50%, then changed to 33% while using the [X] move.
+** {{Arrow|nerf}} Awakened [C] move's dash was slowed, and the hitbox was reduced.
+** {{Arrow|nerf}} Reduced damage on all moves.
+** {{Arrow|nerf}} Endlag added to most moves.
+** {{Arrow|nerf}} Reduced passive full-body defense from 30% to 15%.
+** {{Arrow|nerf}} M1's drag hitbox was removed, then shortly after added back and reduced. 
+
+|-|2=
+{{Update|2}}
+* Bird: Phoenix was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[ru:Феникс]]

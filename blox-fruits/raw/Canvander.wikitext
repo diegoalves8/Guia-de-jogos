@@ -1,0 +1,117 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name     = Canvander
+|image    = <gallery>
+Canvander.png|Icon
+Canvander EQ.png|In-Game
+Canvander Held.png|Held
+Canvander (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type     = Sword
+|rarity   = Legendary
+|update   = 15
+
+<!-- Weapon Obtainment -->
+|sea      = 3
+|location = Floating Turtle
+|obtain   = Dropped
+|source   = [[Beautiful Pirate]]
+}}
+{{Quote|An elegant sword full of energy, that scatters petals when used.|Item}}
+'''Canvander''' is a {{Legendary}} [[sword]].   
+
+Canvander has a fast, mobility-focused moveset, featuring two dash-based abilities that allow quick repositioning, chase potential, and strong [[Instinct]] drain. Although underrated and not commonly used in [[PvP mechanics|PvP]] builds, its straightforward aiming and high mobility make it effective for players who prefer speed and evasive playstyles over raw damage.  
+
+However, its dash-based M1s, smaller hitboxes, and limited combo potential make it less effective for grinding and harder to use compared to more popular swords. 
+
+==Obtainment==
+Canvander can be obtained after defeating the [[Beautiful Pirate]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Canvander M1
+|desc     = The player lunges on the first strike, swipes, lunges again, and ends with another swipe.
+}}
+
+{{Skill
+|key      = Z
+|name     = Piercing Dash
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = Yes
+|instinct = Breaks Instinct on direct hit, but it is possible to dodge indirect ones.
+|gif      = CanvanderZ
+|desc     = The user dashes in the direction of their cursor, rapidly slashing enemies in their path, dealing damage and scattering purple-white flower petals.
+}}
+
+{{Skill
+|key      = X
+|name     = Scattering Gust
+|mastery  = 300
+|cooldown = 13.5
+|energy   = 30
+|break    = Yes
+|instinct = Breaks Instinct no matter what.
+|gif      = CanvanderX
+|desc     = The user dashes forward, scattering purple-white flowers and launching five purple air slashes in the direction of their cursor. If the slashes hit an enemy, their and the user's screen will cover in a purple tint for a second.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Easy to aim with.
+* Great mobility.
+* Both moves drain a lot of [[Instinct]] dodges if used in rapid succession (up to 7 dodges in a second).
+
+|'''[Z] Piercing Dash'''
+* No end-lag (you can literally use any move during Z's rushing animation).
+* Drains a decent amount of [[Instinct]] dodges.
+
+|'''[X] Scattering Gust'''
+* The dark pink effect can annoy enemies.
+* The slashes have long range.
+* Decent hitbox.
+* Allows the user to attack a chasing enemy while simultaneously getting further from them.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Hard to grind with due to the dashes during the M1 attacks, which occur on the first and the third click.
+
+|'''[Z] Piercing Dash'''
+* Rushing effect can be hard to combo with.
+* Small hitbox.
+* Short range compared to other swords' mobility moves.
+
+|'''[X] Scattering Gust'''
+* Difficult to land all the projectiles.
+}}
+</tabber>
+
+==Trivia==
+* Canvander is used by the "Besto Friendo" [[NPC]] summoned by [[Love]]'s {{Ability|Love|V}}.
+* The [[Musketeer Pirate]]s use Canvander, but don't have access to using the special abilities, therefore being restricted to the M1's instead.
+* There is a glitch that when Canvander's {{Ability|TAP}} do not load in and the player uses an auto-clicker set to 1 millisecond intervals between each click, the player will fly in the air (this also works with other swords with dashes on [M1] attacks, such as [[Koko]].
+** It also works if the player clicks on and off the sword while tapping the M1.
+* There is a glitch that will make the petals in {{Ability|X}} go in different directions if the player turns their camera (or moves their cursor) fast enough.
+* {{Ability|X}} can perform a similar movement trick to [[Skull Guitar]] M1 glitch where it launches the player forward a great distance if performed correctly. But unlike the bug, Canvander does not rely on players speed.
+* Canvander has similar moves to the [[Cutlass]]/[[Katana]].
+* The lunge M1s can glitch the player through thin walls, like the breakable wall at [[Kingdom of Rose]] that is located on the smaller wall close to [[Pirate Recruiter]]. 
+
+==Change History==
+{{Change History|15}}
+
+==Navigation==
+{{Sword Navbox}}

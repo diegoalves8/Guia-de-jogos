@@ -1,0 +1,238 @@
+{{Protection}}{{Title Icon}}
+Ranked is a competitive mode unlocked from the [[Trophy Road]] at 5000 [[Trophies]]. It replaced [[Power League]] in the [[Version History#Patch notes: Ranked Update 27/02/24|February 2024 update]]. Players can promote to higher Ranks or drop to lower Ranks based on the outcome of each match. Only Power 11 Brawlers can be played. Every month, a season ends and the next one begins, and every player's Rank is reduced when a new season begins. [[Trophies]] cannot be gained or lost in Ranked.
+
+==Gameplay==
+In a Ranked match, players will play a random 3v3 mode on a random map. In {{Color|93f|Mythic I}} and above, both teams have a team captain, which is either decided by the player with the highest Elo or by the host of the game room (when playing in a team). Team captains get the last pick in the drafting phase.
+
+From {{Color|f90|Bronze I}} to {{Color|fc0|Gold III}}, like [[Mega Pig]] matches, each player picks a Brawler that has not already been picked by a teammate and equips any Star Powers, Gadgets, and Gears without any extra delay prior to starting the match. If a player does not pick a Brawler within the 22-second time limit, the match is cancelled and all players are sent to the lobby. Players can also suggest a Brawler to a teammate, or preselect a Brawler which is visible to teammates. Preselecting may be wise as players can change their loadout because the match starts as soon as all players have picked a Brawler.
+
+From {{Color|3cf|Diamond I}} to {{Color|3cf|Diamond III}}, each player starts by banning Brawlers, preventing anyone on either team from picking them in the selection phase. During the ban phase, players can only see the bans of their own team, and players from the same team cannot ban the same Brawler more than once. Bans can also be preselected. If the 22.5-second timer runs out, a random Brawler will be banned if no selection was attempted. Then players pick as normal and the match starts. It is required to have at least 12 Power 11 Brawlers to queue.
+
+Starting from {{Color|93f|Mythic I}}, like [[Power League]], Ranked matches are formatted as a best-of-3-tournament where the first team to win 2 rounds is the winner. If rounds end in a draw, a winner is automatically decided after the third round; there is no rematch in this case. A coin flip occurs once the matchmaking is complete that determines which team gets the first pick. After the ban phase, each player chooses the Brawlers one by one, with each player allotted 22 seconds to choose their Brawler. If the blue team picks first, Brawlers are picked in the following sequence: {{Color|55f|Blue 3}}, {{Color|f55|Red 3}}, {{Color|f55|Red 2}}, {{Color|55f|Blue 2}}, {{Color|55f|Blue 1}}, {{Color|f55|Red 1}}. Additionally, after all Brawlers are picked, all players have 17 seconds to choose Star Powers, Gadgets, and Gears, if applicable. They also have the option to swap Brawlers with a teammate.
+
+==Ranks==
+Ranks range from {{Color|f90|Bronze I}} to {{Color|666|Pro}}. Higher Ranks become increasingly more difficult to progress as the skill level of everyone in the match increases. Higher Ranks also are more punishing with Elo loss when losing a match. {{Color|666|Pro}} is the final Rank, however progression does not end there, players can still earn more Elo to compete on the Ranked leaderboards.
+
+{|class="article-table mw-collapsible mw-collapsed" style="white-space:nowrap"
+!colspan=9|Announcer's Voice Over (2026){{br}}
+|{{Ogg|Filename=ranked_2026_bronze_1_01.ogg|Filedescription=Bronze I}}||{{Ogg|Filename=ranked_2026_bronze_2_01.ogg|Filedescription=Bronze II}}||{{Ogg|Filename=ranked_2026_bronze_3_01.ogg|Filedescription=Bronze III}}||{{Ogg|Filename=ranked_2026_bronze_01.ogg|Filedescription=Bronze}}{{br}}
+|{{Ogg|Filename=ranked_2026_silver_1_01.ogg|Filedescription=Silver I}}||{{Ogg|Filename=ranked_2026_silver_2_01.ogg|Filedescription=Silver II}}||{{Ogg|Filename=ranked_2026_silver_3_01.ogg|Filedescription=Silver III}}||{{Ogg|Filename=ranked_2026_silver_01.ogg|Filedescription=Silver}}{{br}}
+|{{Ogg|Filename=ranked_2026_gold_1_01.ogg|Filedescription=Gold I}}||{{Ogg|Filename=ranked_2026_gold_2_01.ogg|Filedescription=Gold II}}||{{Ogg|Filename=ranked_2026_gold_3_01.ogg|Filedescription=Gold III}}||{{Ogg|Filename=ranked_2026_gold_01.ogg|Filedescription=Gold}}{{br}}
+|{{Ogg|Filename=ranked_2026_diamond_1_01.ogg|Filedescription=Diamond I}}||{{Ogg|Filename=ranked_2026_diamond_2_01.ogg|Filedescription=Diamond II}}||{{Ogg|Filename=ranked_2026_diamond_3_01.ogg|Filedescription=Diamond III}}||{{Ogg|Filename=ranked_2026_diamond_01.ogg|Filedescription=Diamond}}{{br}}
+|{{Ogg|Filename=ranked_2026_mythic_1_01.ogg|Filedescription=Mythic I}}||{{Ogg|Filename=ranked_2026_mythic_2_01.ogg|Filedescription=Mythic II}}||{{Ogg|Filename=ranked_2026_mythic_3_01.ogg|Filedescription=Mythic III}}||{{Ogg|Filename=ranked_2026_mythic_01.ogg|Filedescription=Mythic}}{{br}}
+|{{Ogg|Filename=ranked_2026_legendary_1_01.ogg|Filedescription=Legendary I}}||{{Ogg|Filename=ranked_2026_legendary_2_01.ogg|Filedescription=Legendary II}}||{{Ogg|Filename=ranked_2026_legendary_3_01.ogg|Filedescription=Legendary III}}||{{Ogg|Filename=ranked_2026_legendary_01.ogg|Filedescription=Legendary}}{{br}}
+|{{Ogg|Filename=ranked_2026_masters_1_01.ogg|Filedescription=Masters I}}||{{Ogg|Filename=ranked_2026_masters_2_01.ogg|Filedescription=Masters II}}||{{Ogg|Filename=ranked_2026_masters_3_01.ogg|Filedescription=Masters III}}||{{Ogg|Filename=ranked_2026_masters_01.ogg|Filedescription=Masters}}{{br}}
+|{{Ogg|Filename=ranked_2026_pro_1_01.ogg|Filedescription=Pro}}||||||{{Ogg|Filename=ranked_2026_pro_01.ogg|Filedescription=Pro}}
+|}
+
+===Matchmaking===
+Players are matched based on their current Elo. The higher the Elo of your opponents, the more Elo you earn. Players can queue solo, in a team of 2, or in a team of 3, except in {{Color|0c0|Masters I}} and above where players can only queue solo.
+
+===Floor Protection===
+*Once a player reaches a new Rank, they can get demoted to a lower Rank.
+*In {{Color|69f|Silver}}, players can never demote to Bronze because Rank reset only resets until Silver I.
+*In {{Color|fc0|Gold}} and {{Color|3cf|Diamond}}, players cannot demote below the full Rank for the duration of the season. However, it is still possible to be demoted within a Rank. For example, losing matches in Gold II can demote back to Gold I; there is no floor protection in this case.
+*In {{Color|93f|Mythic}}, {{Color|f30|Legendary}}, and {{Color|0c0|Masters}}, players can demote below the full Rank if their Elo is excactly at the threshold. For example, players cannot drop from Mythic I to Diamond III if they have more than 4500 Elo, unless a game is lost at 4500 Elo.
+*In {{Color|666|Pro}}, there is no floor protection; players can drop to Masters III even if they have more than 11250 Elo.
+
+===Elo System===
+The amount of Elo gained or lost after a match depends on your current Rank and the outcome of the match (see table below), but it can be influenced by the Elo difference of the opposing team. There is a minimum amount of Elo that can be gained and lost for each Rank.
+
+When playing solo, the amount of Elo earned depends on your team's average Elo in comparison to the opposing team's average Elo. When playing in a team, the amount of Elo earned depends on your own Elo in comparison to the opposing team's average Elo. If your own or your team's average Elo is higher than the opposing team's, you will gain less Elo for a win and lose more for a loss. If it is lower, you will gain more Elo for a win and lose less for a loss.
+
+The formula below describes how much additional Elo is gained or lost at the end of a match, where E is the amount of additional Elo earned, and R is your Elo advantage over the opponent. Afterwards, the result is rounded to the nearest whole number.
+
+:<math>E=200(1+10^{R/2000})^{-1}-100</math>
+
+'''Epic win!''' / '''Close match!''': If the game ends in a 2-0 victory or 1-2 defeat, you gain a certain percentage more or lose less. The exact amount depends on the Rank; the lower the Rank, the higher the percentage.
+
+If a boost from the previous season is active and the result is a net posivite, the result is multiplied by 1.1x, always being rounded down. A Ranked boost does not make you lose less Elo on defeats, despite the visual appearance.
+
+{|class="article-table mw-collapsible" style="text-align:center;white-space:nowrap"
+!colspan=9|Elo Distribution{{br}}
+!Rank||Elo||<div style="line-height:0;position:absolute">Victory</div>||<div style="line-height:0;position:absolute">Draw</div>||<div style="line-height:0;position:absolute">Defeat</div>||<div style="line-height:14px">min.<br>Gain</div>||<div style="line-height:14px">min.<br>Loss</div>||<div style="line-height:14px">Queue<br>With</div>{{br}}
+|colspan=9 style=line-height:0|This has not yet been updated for the Ranked rework. Please stay tuned!{{br}}
+|   {{png|Bronze Rank}}{{Color|f90|Bronze I}}        ||0||+100||+80||0||||||{{br}}
+|   {{png|Bronze Rank}}{{Color|f90|Bronze II}}     ||250||||||||||||{{br}}
+|   {{png|Bronze Rank}}{{Color|f90|Bronze III}}    ||500||||||||||||{{br}}
+|   {{png|Silver Rank}}{{Color|69f|Silver I}}      ||750||||||||||||{{br}}
+|   {{png|Silver Rank}}{{Color|69f|Silver II}}    ||1000||||||||||||{{br}}
+|   {{png|Silver Rank}}{{Color|69f|Silver III}}   ||1250||||||||||||{{br}}
+|     {{png|Gold Rank}}{{Color|fc0|Gold I}}       ||1500||||||||||||{{br}}
+|     {{png|Gold Rank}}{{Color|fc0|Gold II}}      ||2000||||||||||||{{br}}
+|     {{png|Gold Rank}}{{Color|fc0|Gold III}}     ||2500||||||||||||{{br}}
+|  {{png|Diamond Rank}}{{Color|3cf|Diamond I}}    ||3000||||||||||||{{br}}
+|  {{png|Diamond Rank}}{{Color|3cf|Diamond II}}   ||3500||||||||||||{{br}}
+|  {{png|Diamond Rank}}{{Color|3cf|Diamond III}}  ||4000||||||||||||{{br}}
+|   {{png|Mythic Rank}}{{Color|93f|Mythic I}}     ||4500||||||||||||{{br}}
+|   {{png|Mythic Rank}}{{Color|93f|Mythic II}}    ||5000||||||||||||{{br}}
+|   {{png|Mythic Rank}}{{Color|93f|Mythic III}}   ||5500||||||||||||{{br}}
+|{{png|Legendary Rank}}{{Color|f30|Legendary I}}  ||6000||||||||||||{{br}}
+|{{png|Legendary Rank}}{{Color|f30|Legendary II}} ||6750||||||||||||{{br}}
+|{{png|Legendary Rank}}{{Color|f30|Legendary III}}||7500||||||||||||{{br}}
+|  {{png|Masters Rank}}{{Color|0c0|Masters I}}    ||8250||||||||||||None{{br}}
+|  {{png|Masters Rank}}{{Color|0c0|Masters II}}   ||9250||||||||||||None{{br}}
+|  {{png|Masters Rank}}{{Color|0c0|Masters III}} ||10250||||||||||||None{{br}}
+|      {{png|Pro Rank}}{{Color|666|Pro}}         ||11250||||||||||||None
+|}
+
+==Seasons==
+Ranked seasons end on the 3rd Wednesday and start on the 3rd Thursday of each month (except for in the 4th month of a [[Pro Pass]] season where the Ranked season ends on the 3rd Thursday of a month). At the end of a season, your final Rank decreases by 2 Ranks, or until {{Color|69f|Silver I}}, whichever results in less Ranks being lost. However, you receive a 10% boost until you reach the highest Rank you reached the previous season or the {{Color|f30|Legendary I}} Rank, whichever comes first.
+
+60 [[Pro Pass#Pro Pass XP|Pro Pass XP]] are rewarded for each round won, with a limit that increases by 1200 per week and resets to 1200 on new Pro Pass seasons. Additionally, 400 Pro Pass XP are rewarded upon reaching a new Rank each season. [[Starr Drops#Ranked Starr Drops|Ranked Starr Drops]] contain 1 reward, such as [[Bling]], [[Pro Pass#Pro Pass XP|Pro Pass XP]], and cosmetics from previous [[Power League]] and Ranked seasons.
+
+Exclusive [[Battle Cards]] are available when promoting to a new full Rank for the current season<ref>The Bronze Battle Card is unlocked at {{Color|f90|Bronze II}}</ref>. Reaching the same Rank across multiple seasons also adds a star to the Battle Card. Each Battle Card maxes out after reaching that Rank 9 times. A new set of Battle Cards replaces the old one each year.
+
+===Battle Cards===
+{|class="article-table mw-collapsible"
+!colspan=9|Ranked Battle Cards
+|-
+|{{Battle Card|Bronze 2026|120xpx}}||{{Battle Card|Silver 2026|120xpx}}||{{Battle Card|Gold 2026|120xpx}}||{{Battle Card|Diamond 2026|120xpx}}||{{Battle Card|Mythic 2026|120xpx}}||{{Battle Card|Legendary 2026|120xpx}}||{{Battle Card|Masters 2026|120xpx}}||{{Battle Card|Pro 2026|120xpx}}
+|-
+|{{Battle Card|Bronze 2025|120xpx}}||{{Battle Card|Silver 2025|120xpx}}||{{Battle Card|Gold 2025|120xpx}}||{{Battle Card|Diamond 2025|120xpx}}||{{Battle Card|Mythic 2025|120xpx}}||{{Battle Card|Legendary 2025|120xpx}}||{{Battle Card|Masters 2025|120xpx}}||{{Battle Card|Pro 2025|120xpx}}
+|-
+|{{Battle Card|Bronze 2024|120xpx}}||{{Battle Card|Silver 2024|120xpx}}||{{Battle Card|Gold 2024|120xpx}}||{{Battle Card|Diamond 2024|120xpx}}||{{Battle Card|Mythic 2024|120xpx}}||{{Battle Card|Legendary 2024|120xpx}}||{{Battle Card|Masters 2024|120xpx}}||
+|}
+
+===Maps===
+{|class="mw-collapsible" style="font-weight:bold;text-align:center"
+!colspan=9 style=background-color:#444|Active maps (Season 50)
+|-
+|[[File:Gem Grab.png|65xpx|link=Gem Grab]]
+|width=130px|[[File:Double Swoosh-Map.png|x150px]]<br>[[Double Swoosh]]
+|width=130px|[[File:Gem Fort-Map.png|x150px]]<br>[[Gem Fort]]
+|width=130px|[[File:Hard Rock Mine-Map.png|x150px]]<br>[[Hard Rock Mine]]
+|width=130px|[[File:Undermine-Map.png|x150px]]<br>[[Undermine]]
+|-
+|[[File:Heist.png|65xpx|link=Heist]]
+|[[File:Bridge Too Far-Map.png|x150px]]<br>[[Bridge Too Far]]
+|[[File:Hot Potato-Map.png|x150px]]<br>[[Hot Potato]]
+|[[File:Kaboom Canyon-Map.png|x150px]]<br>[[Kaboom Canyon]]
+|[[File:Safe Zone-Map.png|x150px]]<br>[[Safe Zone]]
+|-
+|[[File:Bounty.png|65xpx|center|link=Bounty]]
+|[[File:Dry Season-Map.png|x150px]]<br>[[Dry Season]]
+|[[File:Hideout-Map.png|x150px]]<br>[[Hideout]]
+|[[File:Layer Cake-Map.png|x150px]]<br>[[Layer Cake]]
+|[[File:Shooting Star-Map.png|x150px]]<br>[[Shooting Star]]
+|-
+|[[File:Brawl Ball.png|65xpx|link=Brawl Ball]]<div style="font-size:75%;line-height:0">FEATURED!</div>
+|[[File:Beach Ball-Map.png|x150px]]<br>[[Beach Ball]]
+|[[File:Center Stage-Map.png|x150px]]<br>[[Center Stage]]
+|[[File:Pinball Dreams-Map.png|x150px]]<br>[[Pinball Dreams]]
+|[[File:Sneaky Fields-Map.png|x150px]]<br>[[Sneaky Fields]]
+|width=130px|[[File:Spiraling Out-Map.png|x150px]]<br>[[Spiraling Out]]
+|width=130px|[[File:Triple Dribble-Map.png|x150px]]<br>[[Triple Dribble]]
+|-
+|[[File:Hot Zone.png|65xpx|link=Hot Zone]]
+|[[File:Dueling Beetles-Map.png|x150px]]<br>[[Dueling Beetles]]
+|[[File:Open Business-Map.png|x150px]]<br>[[Open Business]]
+|[[File:Parallel Plays-Map.png|x150px]]<br>[[Parallel Plays]]
+|[[File:Ring of Fire-Map.png|x150px]]<br>[[Ring of Fire]]
+|-
+|[[File:Knockout.png|65xpx|link=Knockout]]
+|[[File:Belle's Rock-Map.png|x150px]]<br>[[Belle's Rock]]
+|[[File:Flaring Phoenix-Map.png|x150px]]<br>[[Flaring Phoenix]]
+|[[File:New Horizons-Map.png|x150px]]<br>[[New Horizons]]
+|[[File:Out in the Open-Map.png|x150px]]<br>[[Out in the Open]]
+|}
+
+==Trial Brawlers==
+Each season, 6 maxed Brawlers are available for everyone to use in Ranked, even if players have not unlocked them yet. Players that pick maxed Brawlers can play them at Power 11 with all Gadgets, Star Powers, Gears, Buffies, and their Hypercharge unlocked, like in [[Friendly Battles]]. These maxed Brawlers count towards the Brawler requirements for Diamond and above (having to have at least 12 Power 11 Brawlers).
+
+{|class="article-table mw-collapsible" style="text-align:center"
+!colspan=9|Trial Brawlers{{br}}
+!#||Start date||Trial Brawlers||<div style="line-height:14px">Featured<br>Game Mode</div>{{br}}
+|50||October 15, 2026<ref>On November 3, [[Bull]], [[Melodie]], and [[Squeak]] were also added as maxed Brawlers</ref>||{{png|Pearl1-pfp|41}}{{png|Byron1-pfp|41}}{{png|Sirius1-pfp|41}}||{{png|Brawl Ball|41}}{{br}}
+|49||September 17, 2026<ref>On September 22, Pierce was replaced by [[Amber]] as a maxed Brawler</ref>||{{png|Ash1-pfp|41}}{{png|Mortis1-pfp|41}}{{png|Pierce1-pfp|41}}||{{png|Hot Zone|41}}{{br}}
+|48||August 20, 2026<ref>On August 24, [[Nori]] was also added as a maxed Brawler</ref>||{{png|Trunk1-pfp|41}}{{png|Willow1-pfp|41}}{{png|Kaze1-pfp|41}}||{{png|Brawl Ball|41}}{{br}}
+|47||July 16, 2026||{{png|Berry1-pfp|41}}{{png|Tara1-pfp|41}}{{png|Meg1-pfp|41}}||{{png|Gem Grab|41}}{{br}}
+|46||June 18, 2026||{{png|Griff1-pfp|41}}{{png|Jae-yong1-pfp|41}}{{png|Kenji1-pfp|41}}||{{png|Heist|41}}{{br}}
+|45||May 21, 2026||{{png|Bonnie1-pfp|41}}{{png|Finx1-pfp|41}}{{png|Spike1-pfp|41}}||{{png|Knockout|41}}{{br}}
+|44||April 16, 2026||{{png|Grom1-pfp|41}}{{png|Mina1-pfp|41}}{{png|Crow1-pfp|41}}||{{png|Hot Zone|41}}{{br}}
+|43||March 19, 2026||{{png|Larry & Lawrie1-pfp|41}}{{png|Doug1-pfp|41}}{{png|Cordelius1-pfp|41}}||{{png|Brawl Ball|41}}{{br}}
+|42||February 19, 2026||{{png|Shade1-pfp|41}}{{png|Squeak1-pfp|41}}{{png|Kit1-pfp|41}}||{{png|Gem Grab|41}}{{br}}
+|41||January 15, 2026||{{png|Gale1-pfp|41}}{{png|Mico1-pfp|41}}{{png|Surge1-pfp|41}}||{{png|Heist|41}}{{br}}
+|40||December 18, 2025||{{png|Mandy1-pfp|41}}{{png|Melodie1-pfp|41}}{{png|Amber1-pfp|41}}||{{png|Knockout|41}}{{br}}
+|39||November 20, 2025||{{png|Berry1-pfp|41}}{{png|Lumi1-pfp|41}}{{png|Leon1-pfp|41}}||{{png|Hot Zone|41}}{{br}}
+|38||October 16, 2025||{{png|Nani1-pfp|41}}{{png|Buzz1-pfp|41}}{{png|Draco1-pfp|41}}||{{png|Brawl Ball|41}}{{br}}
+|37||September 18, 2025||{{png|Bo1-pfp|41}}{{png|Sprout1-pfp|41}}{{png|Kenji1-pfp|41}}||{{png|Bounty|41}}{{br}}
+|36||August 21, 2025||{{png|Angelo1-pfp|41}}{{png|Lou1-pfp|41}}{{png|Meg1-pfp|41}}||{{png|Knockout|41}}{{br}}
+|35||July 17, 2025||{{png|Belle1-pfp|41}}{{png|Fang1-pfp|41}}{{png|Sandy1-pfp|41}}||{{png|Brawl Ball|41}}{{br}}
+|34||June 19, 2025||{{png|Frank1-pfp|41}}{{png|Mr. P1-pfp|41}}{{png|Cordelius1-pfp|41}}||{{png|Heist|41}}{{br}}
+|33||May 15, 2025||{{png|Piper1-pfp|41}}{{png|Buster1-pfp|41}}{{png|Chester1-pfp|41}}||{{png|Hot Zone|41}}{{br}}
+|32||April 17, 2025||{{png|Gale1-pfp|41}}{{png|Tara1-pfp|41}}{{png|Spike1-pfp|41}}||{{png|Cleaning Duty|41}}{{br}}
+|31||February 25, 2025||{{png|Emz1-pfp|41}}{{png|Gene1-pfp|41}}{{png|Leon1-pfp|41}}||{{png|Brawl Hockey|41}}
+|}
+
+==Modifiers==
+{{RemovedContent|section}}Each season featured 4 [[Modifiers]], with the Classic Modifier being permanent, and the other 3 rotating each season. In the [[Version History#Release Notes: Ranked Rework, Lumi & Finx! 25/02/25|February 2025 update]], Modifiers were removed from Ranked.
+
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center"
+!colspan=9|Ranked Modifiers{{br}}
+!#||Season||Modifiers{{br}}
+|30||Good Randoms||{{png|Classic|41}}{{br}}
+|29||Starr Force||{{png|Classic|41}}{{br}}
+|28||Starr Toon Studios 2||{{png|Classic|41}}{{br}}
+|27||Angels vs. Demons||{{png|Gadgets Galore|41}}{{png|Sick Beats|41}}{{png|Quickfire|41}}{{br}}
+|26||Scary Tales||{{png|Gadgets Galore|41}}{{png|Sick Beats|41}}{{png|Momentum|41}}{{br}}
+|25||SpongeBob||{{png|Momentum|41}}{{png|Super Bushy|41}}{{png|Barbed Ammo|41}}{{br}}
+|24||Paint Brawl!||{{png|Quickfire|41}}{{png|Healing Breeze|41}}{{png|Gotta Go Fast|41}}{{br}}
+|23||Gods vs Monsters!||{{png|Classic|41}}{{br}}
+|22||CyberBrawl||{{png|Timed Detonation|41}}{{png|Quickfire|41}}{{png|Big Friend|41}}{{br}}
+|21||Godzilla||{{png|Quickfire|41}}{{png|Second Wind|41}}{{png|Super Bushy|41}}{{br}}
+|20||Ragnarok||{{png|Barbed Ammo|41}}{{png|Sick Beats|41}}{{png|Timed Detonation|41}}{{br}}
+|19||Sands of Time||{{png|Timed Detonation|41}}{{png|Quickfire|41}}{{png|Big Friend|41}}
+|}
+
+==Reputation Meter==
+Each player has an individual Reputation Meter ranging from 0 to 25. Reputation drops when a player leaves a match too early. They will recover Reputation however, when finishing matches without getting disconnected and reported. When their Reputation has dropped to 9 or less, they will get a yellow card, warning them that more penalties will result in suspension from Ranked matches. When their Reputation has dropped to 0, they will get banned from playing Ranked for 30 minutes and are placed at 10 Reputation. At higher Ranks, players will also have their Elo reduced (e.g. losing 35 Elo at Masters II). Ranked Reputation is seperate from [[Trophies|Trophy]] Reputation.
+
+Reputation changes based on the following factors:
+*-10 - Getting disconnected for inactivity during a match
+*-15 - Getting disconnected during the selection phase
+* +1 - Finishing a match without getting disconnected and not getting reported (matches above Mythic still give +1 rep)
+
+===Reporting System===
+The Reporting System is a feature that allows the player to report other players from their own and the enemy team at the end of a Ranked match for intentionally disrupting the playing experience for everyone involved. There are 3 types of report that can be made, which are ''Bad Random'', ''Grief Play'', and ''Cheating''. Reporting does not affect Reputation directly, but submits the match for manual review. You will recieve a message in your inbox "''An action has been taken against a player you have reported.''" if the report was successful.
+
+==History==
+*On 27/02/24, Ranked was added to the game and replaced [[Power League]].
+*On 04/03/24, server changes were applied to improve matchmaking.
+*On 06/03/24, fixed an issue with players teaming up in Duos.
+*On 25/03/24, Solo players facing teams now receive Elo as if they are playing against similarly ranked players. Wins now always give a minimum amount of Elo, and the maximum amount of Elo gained for losses has been reduced. Made general changes to Elo distribution to reduce inflation.
+*On 23/04/24, matchmaking will now favor teams playing against other teams. Elo gain for solo players will now consider the team average Elo against the opposing team's. Adjusted the Elo gain in Legendary II up to Masters. Rank Boost will now give a higher boost depending on how high you reached in the previous Ranked season. Players in the Bronze to Gold Ranks now have a higher chance of getting Modifiers in their matches. Probability of getting Modifiers for players in Masters was reduced.
+*On 25/04/24, fixed Ranked Boost stopping one Rank lower than it should. Ranked Boost was rebalanced: Bronze (no boost), Silver (10%), Gold (20%), Diamond (30%), Mythic (50%), Legendary (75%), Masters (100%).
+*On 03/05/24, Second Wind Modifier now has a 1% chance of being selected. Fixed the Ranked Star not appearing when the player gets to the same Rank twice or more.
+*On 12/09/24, fixed a bug making matchmaking longer than supposed.
+*On 04/10/24, fixed the issue that caused the Ranked Boost, Ranked Battle Cards and Previous Ranked season leaderboards to be missing. Fixed an issue where the Malicious Mandy skin was unavailable in Ranked Starr Drops. The Malicious Mandy skin could be obtained for free by reaching Legendary I during Ranked Season 26.
+*On 29/10/24, lowered Elo gain and minimum Elo gain for Legendary III and Masters (from +25 to +10), and increased Elo loss and minimum Elo loss for Masters.
+*On 31/10/24, fixed unusual behavior with Win Streak while playing Ranked.
+*On 25/02/25, Ranked was reworked, and the Pro Pass was added. Ranked seasons now start on the third Thursday of each month. Winning Ranked matches and ranking up now awards Pro Pass XP. Added Masters II and III, and the Pro Rank. Bronze and Silver now takes 250 Elo, Legendary takes 750 Elo, and Masters takes 1000 Elo to advance each Rank. Adjusted floor protection for Mythic and up. The Elo distribution was changed. Reduced Ranked Boost to 10%. Teaming up in higher Ranks is more restrictive. Matchmaking no longer increases Elo search range outside of your Rank restriction. Rank reset now resets players by 6 Ranks above Diamond I. Mythic and above now requires Power 11 Brawlers. Modifiers were removed. Each season, 3 maxed Brawlers are available for everyone in Ranked. Added Pro Pass XP in Ranked Starr Drops. A new set of Ranked Battle Cards were added.
+*On 03/03/25, [[Bounty]] was added back to the rotation and the number of maps for each mode was increased from 3 to 4, increasing the total number of maps from 15 to 24.
+*On 04/03/25, fixed various visual issues related to Ranked.
+*On 12/03/25, fixed various visual issues related to Ranked.
+*On 17/04/25, [[Hot Zone]] was replaced by [[Heist]] in the rotation. [[Brawl Hockey]] was replaced by [[Cleaning Duty]].
+*On 30/04/25, fixed a bug preventing Gadget selection for free maxed out Brawlers if the player already owned one.
+*On 15/05/25, [[Cleaning Duty]] was replaced by [[Hot Zone]] in the rotation.
+*On 19/06/25, Ranked seasons will now have one of the modes selected as a featured mode for that season, which will put additional maps of that mode in the map rotation.
+*On 24/06/25, Elo loss from Legendary III and above was reduced to mostly flat Elo. The time limit to meet same opponents was reduced from 12 hours to 1 hour.
+*On 17/07/25, Masters and above can only queue solo. 
+*On 23/07/25, fixed a bug with the Ranked leaderboard.
+*On 13/08/25, fixed incorrect end-of-battle screen stats for matches below Mythic. Fixed a bug where Ranked Starr Drops were not working properly and were only rewarding Bling and Pro Pass XP.
+*On 17/09/25, fixed a bug where players were stuck in matchmaking.
+*On 25/02/26, fixed an edge case that could cause a crash in the loadout screen.
+*On 16/04/26, Trial Brawlers with [[Buffies]] will also have them during the season.
+*On 22/04/26, the limit of 10 reports per day was removed.
+*On 03/11/26, many changes were applied to Ranked:
+**'''Ranked restrictions''': Ranked unlocks at 5000 Trophies (from 1000). Only Brawlers at Power 11 can be picked (from 9). Diamond requires 12 eligible Brawlers (from 9). 6 Trial Brawlers are available each season (from 3).
+**'''Draft screen''': The draft screen was rebuilt from the ground up! More filter options and a search bar was added. The ability to suggest bans, swap during the selection phase, use quick chat, use pins, and switch skin during final preparation was added.
+**'''Elo/Rank changes''': Gain more Elo for a 2-0, and lose less for a 1-2. The Elo system was changed (more details TBD). Pro no longer unlocks the esports button.
+**'''Season changes''': Ranked reset was decreased to 2 Ranks (from 6). Changes to Ranked boost (more details TBD). A new set of Battle Cards were added, with each Battle Card maxing out at 9 times (from 7). Player icons and pins were added for reaching Ranks for the first time. Pro Pass XP was increased to 60 per win (from 50), and the weekly limit was increased to 1200 (from 1000).
+**'''QoL''': A new stats button and the play again button was added to end screens. Spectating was changed to spectate the full match instead of just 1 round. The color of Masters and Pro was changed. New Rank icons and sound effects were added.
+
+{{Navigation}}
+[[Category:Events]]
+[[Category:Competitive Events]]
+[[es:Competitivo]]
+[[ru:Ранговый бой]]

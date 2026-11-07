@@ -1,0 +1,52 @@
+{{Location Infobox
+|name     = North Pole
+|image    = NorthPole.png
+|type     = Island
+|sea      = 1/2/3
+|music    = 
+|label    = 
+|prev     = 
+|next     = 
+}}
+The '''North Pole''' is a special [[Events|Christmas Event]] island in the game that can be found in the [[First Sea|First]],[[Second Sea|Second]], and [[Third Sea|Third]] seas (in [[Sea of Treats]], the island is permanently there, even named North Pole and also has local quests, just without the [[Christmas Event]] [[NPCs]] if the event hasn’t started). 
+
+==Location==
+===First Sea===
+The North Pole is located next to the [[Frozen Village]] in the [[First Sea]]. Simply go to the Frozen Village, and look to the right of the Frozen Village. The player will find it there if the [[Events|Christmas Event]] is on.
+
+===Second Sea===
+The North Pole is near the [[Cursed Ship]] in the [[Second Sea]]. The player has to look at the direction of [[Kingdom of Rose]] from the [[Cursed Ship]], and then look to their right. The player will find it there if the [[Events|Christmas event]] is on.
+
+===Third Sea===
+The North Pole is the Candy Cane sub-island located in [[Sea of Treats]]. This island stays in the [[Third Sea]] even if the [[Events|Christmas Event]] is over.
+
+==Event==
+{{Main|Presents}}
+The '''Presents Event''' is an event that occurs every 2 hours(the time is XX:00(UTC),with XX is an odd number,example 5:00PM) which gives away fruits for free. During this event, a massive gift will land on the center of the island, which will later open automatically, and release a gift for everyone that is on the center of the island. Note that the user can only pick up a certain gift from this event.
+The event will also send 4 different messages throughout the system before the countdown reached 00:00.
+{|class="article-table"
+!Message
+!Description
+|-
+|<span style="color: red;">The presents event will start in 10 Minutes! Head to zone on the event island!</span>
+|10 minutes before the event.
+|-
+|<span style="color: red;">The presents event will start in 5 minutes! Head to the center of the event island!</span>
+|5 minutes before the event.
+|-
+|<span style="color: red;">The presents event will start in 1 minute! Head to the center of the event island!</span>
+|1 minute before the event.
+|-
+|<span style="color: red;">The presents event is starting! Make sure you're in the circle!</span>
+|5 seconds before the event.
+|}
+
+==Notes==
+* The [[Candy Cane Land]] is still and will always be in the [[Third Sea]] even if the Christmas event is over, as it is an important [[:Category:Islands|island]] that contains [[enemies]] for players to level up on.
+* The countdown for the presents is the same in all servers.
+* [[Portal]]'s {{Ability|Portal|C}} ability cannot teleport here.
+
+==Change History==
+{{Change History|17.3.5}}
+
+[[Category:Event-Related]]

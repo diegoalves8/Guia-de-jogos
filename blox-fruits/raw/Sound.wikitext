@@ -1,0 +1,262 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Sound
+|image  = <gallery>
+Sound Fruit.png|Fruit Icon
+GIF Sound Fruit.gif|Fruit GIF
+Sound.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = No
+|update = 20
+
+<!-- Fruit Price -->
+|money  = 1,700,000
+|robux  = 1,900
+}}
+{{Quote|Use instrument based attacks, or ride along sheets of music to power-up this Fruit.|Shop}}
+'''Sound''' is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,700,000}} or {{Robux|1,900}} from the [[Blox Fruit Dealer]].
+
+Sound enables the user to control and manipulate sound, mainly by launching a barrage of musical notes to attack foes. When enhanced by a fully charged Tempo Meter, it allows the player and their allies to gain buffs, increasing their strength and speed.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Tempo Meter
+|meter    = Tempo Meter 2.gif
+|desc     = All moves that are used while in the golden mode, '''turn gold'''.
+
+The '''Tempo Meter''' can be filled by either holding {{Ability|F}} or hitting an enemy with Sound's abilities. The Tempo Meter decreases rapidly when a player is not dealing damage, and runs out after 10 seconds.
+|file    = Sound_Tempo_Aura.gif
+|desc1    = When the meter is maxed, the user and nearby allies gain a shield that reduces incoming damage by 15%, increases speed by 50%, and increases move damage by 10%.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Rhapsody Notes
+|mastery  = 1
+|cooldown = 10
+|energy   = 60
+|break    = Yes
+|instinct = Always breaks Instinct.
+|gif      = Sound_Z
+|desc     = The user shoots out three projectile notes on the first use horizontally, five on the second use horizontally, and five on the third use vertically at the location of the cursor. Projectiles explode and deal damage to enemies on impact. Intentionally missing the 1st hit allows the user to deal more damage. The user needs to press this key 3 times.
+}}
+
+{{Skill
+|key      = X
+|name     = Fortissimo
+|mastery  = 50
+|cooldown = 12
+|energy   = 50
+|break    = No
+|instinct = Cannot break Instinct in any way
+|gif      = Sound_X
+|desc     = The user generates a large cone of music notes, dealing AoE damage and knocking back enemies.
+}}
+
+{{Skill
+|key      = C
+|name     = Symphonic Radiance
+|mastery  = 100
+|cooldown = 15
+|energy   = 95
+|break    = Yes
+|instinct = Both the disco ball and the lasers break Instinct.
+|gif      = Sound_C
+|desc     = The user generates a disco ball that fires beams which auto-aim at all nearby enemies in a large area. After that, the disco ball fires itself to where the cursor is aimed, exploding on impact. Damage dealt to an enemy is multiplied by ×0.85 each time a beam hits them.
+}}
+
+{{Skill
+|key      = V
+|name     = Glorious Harmony
+|mastery  = 250
+|cooldown = 25
+|energy   = 100
+|break    = Yes
+|instinct = Always breaks Instinct.
+|gif      = Sound_V
+|desc     = The user releases five small projectiles, and then a large one, which explodes on impact. The larger projectile will summon a black hole, attracting nearby enemies and dealing damage for a short time after exploding.
+}}
+
+{{Skill
+|key      = F
+|name     = Tempo: Prestissimo
+|mastery  = 175
+|cooldown = 4
+|energy   = 35
+|gif      = Sound_F
+|desc     = The user flies using a music staff, which regenerates '''Tempo Meter'''. Health and energy regeneration are disabled while the move is activated, like almost all mobility moves.
+}}
+
+|Moveset (Tempo)|
+{{Skill
+|key      = Z
+|name     = Rhapsody Notes
+|mastery  = 1
+|cooldown = 10
+|energy   = 60
+|break    = Yes
+|instinct = Always breaks Instinct.
+|gif      = Sound_Tempo_Z
+|desc     = The user shoots out three gold projectile notes on the first use horizontally, five on the second use horizontally, and five on the third use vertically where the cursor is aimed. Projectiles explode and deal damage to enemies on impact.
+}}
+
+{{Skill
+|key      = X
+|name     = Fortissimo
+|mastery  = 50
+|cooldown = 12
+|energy   = 50
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Sound_Tempo_X
+|desc     = The user generates a cone-shaped note attack, dealing AoE damage and knocking back enemies.
+}}
+
+{{Skill
+|key      = C
+|name     = Symphonic Radiance
+|mastery  = 100
+|cooldown = 15
+|energy   = 95
+|break    = Yes
+|instinct = Both the disco ball and the lasers break Instinct.
+|gif      = Sound_Tempo_C
+|desc     = The user generates a disco ball that fires lasers, which auto-aim at all nearby enemies at a large range. After that, the disco ball fires itself where the cursor is aimed and explodes on impact. Damage dealt to an enemy is reduced by about 15% each time the move hits them. But if enemies do not take any laser damage, they will take about 80% of the total skill damage from the disco ball.
+}}
+
+{{Skill
+|key      = V
+|name     = Glorious Harmony
+|mastery  = 250
+|cooldown = 25
+|energy   = 100
+|break    = Yes
+|instinct = Always breaks Instinct.
+|gif      = Sound_Tempo_V
+|desc     = The user releases five small, gold projectiles, and then a large one, which explodes on impact. The larger projectile will summon a black hole, attracting nearby enemies and dealing damage for a short time after exploding.
+}}
+
+{{Skill
+|key      = F
+|name     = Tempo: Prestissimo
+|mastery  = 175
+|cooldown = 4
+|energy   = 35
+|gif      = Sound_Tempo_F
+|desc     = The user flies using a music staff, which regenerates '''Tempo Meter'''. [[Health]] and [[energy]] regeneration is disabled while the move is activated, like almost all mobility moves. When the Tempo passive is activated, users fly 50% faster.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* All moves have [[AoE]].
+* Great for grinding.
+* Great in "crew wars" (PvP scenarios with teammates and an opponent team), as {{Ability|F}} also buffs nearby allies while providing decent mobility, especially in air.
+* Deals more damage with Tempo Meter, which is not hard to fill
+* Has a huge hitbox and [[AoE]].
+* Great for raids, both as a support and for damaging raid enemies.
+* All moves except [F] can damage [[Sea Beasts]].
+* Most moves break [[Instinct]] no matter what.
+
+|'''[Z] Rhapsody Notes'''
+* The move can be used three times consecutively, and has a 10 second cooldown.
+* Almost no knockback.
+
+|'''[X] Fortissimo'''
+* Decent damage and knockback.
+
+|'''[C] Symphonic Radiance'''
+* Decent knockback.
+* Large AoE.
+* Auto-aim
+* Good for grouping enemies.
+
+|'''[V] Glorious Harmony'''
+* Huge AoE, therefore, it can hugely affect crowds of people/NPCs.
+* High damage.
+* Greatly distorting, both to the enemy and the user, making it both a pro and a con.
+* Can escape enemy combos well because the projectiles stay around for a while.
+
+|'''[F] Tempo: Prestissimo'''
+* Great mobility.
+* Decent speed.
+* Refills Tempo Meter during flight.
+* Increases speed when the user is at low [[health]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Slow cooldowns.
+* All moves are really weak in stuns and combos.
+
+|'''[Z] Rhapsody Notes'''
+* It is not guaranteed to deal full damage because of the certain distance between each projectile.
+* Players can easily predict when the player will spam the move, making it less viable for PvP.
+
+|'''[X] Fortissimo'''
+* Small range.
+* Decent end-lag.
+
+|'''[C] Symphonic Radiance'''
+* No stun, making it easy to escape.
+* Damage dealt to an enemy using this move is dramatically reduced if it hits them multiple times in one use.
+* Beams from this move shoot randomly and does not stack on one player.
+
+|'''[V] Glorious Harmony'''
+* Decent end-lag.
+* Small attraction range.
+* Final projectile has long startup.
+** It is also hard to aim if the enemy is quick enough to evade.
+
+|'''[F] Tempo: Prestissimo'''
+* The flight is slow before getting max Tempo Meter.
+* Needs a long time to get faster flight.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+Sound contest 2022.PNG|First concept of the Sound fruit done by @Aqu4G.
+</gallery>
+
+==Trivia==
+* Sound is the first fan-made fruit to be added to the game. The original concept was created by @Aqu4G (on X/Twitter), one of the winners of the first fan fruit/art contest. The second is the [[Kitsune]] fruit.
+* Many of Sound's moves contain musical vocabulary, such as Tempo (rate of speed of music played), Prestissimo (very fast) or Fortissimo (very loud).
+* While using {{Ability|F}}, the user can fly faster (or even faster with the Tempo Meter activated) when on low [[health]], but not as fast as [[Venom]] (it also has the same flight mechanic). [[Blade]] also shares this mechanic, although it is less noticeable.
+* Sound is the second least expensive fruit to have a [[Power Meter|meter]], but also a variable [[Power Meter|meter]].
+** Sound is also one of the fruits that have [[Power Meter|meters]] that are not intended for transformation, with the others being [[Gravity]], [[Shadow]], [[Creation]], [[Eagle]], [[Pain]], [[Spirit]] and [[Control]].
+* Sound fruit is currently bugged. After charging the tempo meter, the gold shield does not appear. After [[Updates/30]], when Symphony Radiance launches the disco ball and lands, it won't make the full sound.
+
+==Change History==
+{{Change History|20|content=
+<tabber>
+|-|26.8=
+{{Update|26.8}}
+* Sound was nerfed.
+** 🔻Tempo: Prestissimo damage reduction lowered to 15%.
+** 🔻C hitbox size reduced by 10%.
+
+|-|20=
+{{Update|20}}
+* Sound was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Звук]]

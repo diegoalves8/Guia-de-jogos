@@ -1,0 +1,333 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Where's my head?|PrestigeTitle = Hot-headed|Rarity = Super Rare|Class = Artillery|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 2400|AttackRange = 8.67 (Long)|Reload = 2.4 seconds (Very Slow)<br>2.18 seconds (with Automa-Tick Reload)|AttackBullets = 3<br>6 (with Mine Mania)|AttackSuperCharge = 18.7%|AttackLabel = Damage per mine|Attack = 680|SuperRange = 3.33 (Short)|SuperSuperCharge = 50%|SuperMinion = Head|SuperMovementSpeed = 1200<br>1400 (with Hypercharge)|SuperLabel = Head Health|Super = 1600|SuperLabel2 = Head Damage|Super2 = 2000|AttackSpeed=450<br>2000 (split)|SuperSpeed=1196<br>3000 (with Hypercharge)|Gadget1Name = Mine Mania|Gadget1Cooldown = 15 seconds|Gadget2Name = Last Hurrah|Gadget2 = 1088|Gadget2Cooldown = 15 seconds|Gadget2Label= Damage|VoiceActor=Martin Schjøler|Previous=Carl|Next=8-Bit|HyperchargeMultiplier=40%|AttackHyperchargeCharge=7.475%|SuperHyperchargeCharge=20%|Gadget2Duration=1 second|Gadget2Range=2.67}}
+{{Quote|Tick follows [[Penny]] around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!}}
+{{Portrait}}
+Tick is a {{Rarity|Super Rare}} [[Brawler]] who has the lowest health of any Brawler and a very slow reload speed, but has a long range and an inconsistently high damage output. He was the 27th Brawler added to the game. He attacks by lobbing three mines over obstacles that explode on contact with an opponent or after a delay. His Super detaches and launches his head, which chases after the nearest enemy and explodes, dealing high damage and knocking enemies back while also destroying obstacles. His first Gadget, Mine Mania, doubles the amount of mines that his next attack fires. His second Gadget, Last Hurrah, grants him a temporary shield before he explodes, dealing damage and knocking enemies back. His Mythic Gear, Thicc Head, increases the health of his Super. His first Star Power, Well Oiled, allows him to self-heal sooner than normal. His second Star Power, Automa-Tick Reload, decreases his attack's reload time. His Hypercharge, Headstrong, makes his next Super deploy and follow enemies faster, dropping 6 mines upon exploding, which deal very high damage each.
+
+==Attack: Minimines==
+{{Quote|Tick lobs a cluster of mines that separate before landing. The mines explode on contact with a target, or after a few seconds.}}When Tick attacks, he lobs a long-ranged projectile over obstacles that after 0.9 seconds splits into three mines that spread over an area. The mines explode on contact with an opposing target or after a two-second delay with a radius of 1.56 tiles. The projectile travels slowly in the air, and Tick's reload speed is very slow; however, the damage of all mines is immense, and the attack's effective range is extremely long. The spread of the mines increases the further away they are thrown: at minimum range they are spaced 1.33 tiles from the attack's center, and this distance expands by up to 90% at max range. It takes the same amount of time for an attack to land regardless of the distance from Tick.
+
+==Super: Headfirst==
+{{Quote|Tick detaches and launches his head. After landing, the head hops toward the nearest target and explodes on contact!}}When Tick uses his Super, he detaches his head and launches it over obstacles. After landing, the head chases after the nearest enemy (including those in bushes) and explodes, dealing high damage, knocking enemies back by 2.4 tiles, and destroying obstacles in a 2-tile explosion radius. If the head is destroyed before reaching a target, it still explodes normally. Once close enough to enemies, the head will try to explode, but if it fails its attack, it will attempt to attack again after a 1-second cooldown. If there isn't any target that the head can chase down, it will stay next to Tick.
+
+==Gadgets==
+===Mine Mania===
+{{Quote|Tick's next attack fires 6 mines. Cooldown: 15 seconds.}}
+{{Gadget|1}}
+Upon activation, Tick's next main attack fires six mines instead of three, which deals double the usual damage in total. Like his regular attack, the mines' spread increases or decreases depending on the distance thrown. A Gadget symbol will glow above Tick's head signaling the Gadget's usage, as well as a glowing joystick. This Gadget's cooldown begins after the attack is used.
+
+===Last Hurrah===
+{{Quote|Tick gains a 50% shield for 1 seconds. After that, it bursts out for 1360 damage. Cooldown: 15 seconds.}}
+{{Gadget|2}}
+Upon activation, Tick gains a 50% damage reduction shield for 1.05 seconds and explodes in 1 second, dealing the damage of Tick's single mine to enemies and knocking them back 3 tiles in a radius around him. Tick can still move while this Gadget is active. This Gadget's cooldown begins after the explosion detonates.
+
+==Mythic Gear: Thicc Head==
+{{Quote|Tick's Head gets 1000 extra health.}}{{Gear|Filename=TickGear}}
+With this Gear equipped, Tick's head gains 1000 extra health.
+
+==Star Powers==
+===Well Oiled ===
+{{Quote|When Tick takes no damage and doesn't attack, he starts recovering health 2 seconds faster than normal.}}
+{{StarPower|1}}
+Tick's auto-regeneration now starts 1 second after being damaged or attacking instead of the usual 3 seconds.
+
+===Automa-Tick Reload===
+{{Quote|Tick's reload time is 9% shorter.}}
+{{StarPower|2}}
+Tick reloads 0.22 seconds faster, reducing his reload time by 9%.
+
+==Hypercharge: Headstrong==
+{{Quote|Tick quickly deploys his head, charging enemies faster and leaving behind 6 of his minimines on explosion.}}{{Hypercharge}}
+When activated, Tick's next Super is deployed quicker and follows enemies faster. After his head explodes, no matter if it is destroyed by enemies or it comes in contact with enemies, 6 mines will drop 2.67 tiles around the explosion's center, in a similar pattern to his Mine Mania Gadget. These mines each deal the same damage and recharge his Super as much as his head's explosion. Tick also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Tick's Headfirst now spawns 2 additional heads.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Tick spawned three heads in a triangle shape when he used his Super. They had the same health and dealt the same amount of damage as his regular Super. They could be combined with his Hypercharge to make all three heads have his Hypercharge ability.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Launches 3 heads with his Super! Don't ask how.}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Tick spawned three heads in a triangle shape when he used his Super. They had the same health and dealt the same amount of damage as his regular Super. They could be combined with his Hypercharge to make all three heads have his Hypercharge ability.
+
+==Tips==
+=== Game Modes and Maps ===
+*Tick's playstyle favors passive gamemodes such as [[Knockout]], [[Showdown]], and [[Wipeout]] due to his large AoE, long range and excellent chip damage. Tick is meant to be played from the sidelines and heavily relies on staying hidden to stay alive. His ideal playstyle involves using his long range and AoE to push enemies back. Tick is very squishy due to his low health stat and can easily be eliminated by high-damaging and long-ranged attacks, however,  his Gadget Last Hurrah can allow him to tank an extra hit if timed correctly. This, combined with his Super, also provides excellent self-defense against close-ranged brawlers. His low health stat unfortunately hinders his performance in other gamemodes as he may experience difficulty staying alive especially in scenarios where he may have to stand out in the open.
+*Due to Tick's very slow reload speed, he's not often recommended in [[Heist]] as it is generally considered his worst mode. On offense, hide and attack the safe behind obstacles, which is effective as you'll deal high damage to the safe while the enemies can't hit you, and if possible, use his Mine Mania Gadget, his Super, and his Automa-Tick Reload Star Power to amplify your damage potential on the safe. On defense, hide behind obstacles and block off any choke points that inadvertently allow enemies to damage the safe, and, if possible, use his Last Hurrah Gadget and his Super to knock enemies away from the safe.
+*Tick is a useful asset in Knockout. Tick is most useful in closed maps where he can hide and attack from behind walls. He can control areas with his mines and his Super allows him to finish off low-health enemies and is a counter to assassins and heavyweights. His Star Powers and his Gadgets are beneficial in this mode: Well Oiled allows Tick to recover from damage insanely quickly, and Automa-Tick Reload allows him to attack faster; Mine Mania makes him momentarily deal even more damage, finishing off enemies more efficiently or covering more ground, and Last Hurrah allows him to withstand more damage and counter heavyweights and assassins.
+*Tick is niche in Showdown because of his long range, control abilities, and high damage output. However, he's more effective in [[Duo Showdown]] because of a teammate that can mitigate his weaknesses such as his low health and his struggle in close-ranged combat. He can annoy enemies by placing mines all around them and they'll have to escape by walking into the mines and taking high damage, and if the enemies aren't already dead, Tick's teammate can finish those enemies off. In addition, Tick can trap enemies in the poison gas by continuously deploying mines at exit points until they die to the poison gas.
+*Tick has the lowest health of any Brawler and a very slow reload speed, but his long range, area denial abilities, and high damage output compensate for these weaknesses. Hence, it's a necessity to take cover and attack from behind walls while playing Tick. Tick thrives in maps with an abundance of walls such as [[Open Plaza]] because he can stay behind the walls and support himself and his teammates.
+*Tick's use in [[Hot Zone]] is extremely situational but generally not recommended. As a control-based thrower, he relies on launching attacks into the zones with his long-ranged attacks, while his teammates are capturing the zone. While Tick can sometimes be useful in pushing enemies away from the zone, Tick himself is relatively ineffective in capturing the zone as he is extremely vulnerable due to his low health stat. His playstyle also heavily depends on staying hidden which may prove difficult as zones tend to be very open. Tick's performance worsens significantly in maps with multiple zones, such as [[Parallel Plays]], as that inevitably forces him to stand in a zone himself which he cannot do effectively.
+
+=== Recommended Build ===
+
+* Tick's Mine Mania Gadget is effective for modes such as Brawl Ball, Hot Zone, or Gem Grab, since it doubles the number of mines he launches, thus giving him more area control. Enemies that walk into the mines by mistake will charge a lot of your Super and some of your Hypercharge, and they will take a lot of damage. His Last Hurrah Gadget is better for Tanks or Assassins as it is the only way to defend himself.
+* Tick's Last Hurrah Gadget is the more effective Gadget overall, improving his matchups across all Brawlers. Against short-ranged Brawlers or Brawlers with a pull such as [[Gene]], [[Tara]], and [[Jacky]], the explosion can push them away, allowing him to escape from them, while also dealing minor chip damage to them. Even against long-range Brawlers, the shield can allow him to take a potentially fatal hit in a pinch.
+* Well Oiled is generally considered the better Star Power as it allows Tick to recover from damage ridiculously fast which significantly improves his survivability. Automa-Tick reload can still be used if preferred but generally does not have a lot of scenarios where it can be useful.
+* Thicc Head is the best Gear for Tick as it adds an additional 1000 health to Tick's head which allows it take an extra hit. This wastes more of the enemy's ammo and also allows it to travel for a longer period of time.
+* As Tick has the lowest health in the game, Shield Gear is highly recommended. With Well Oiled, this also means that Tick reaches full health faster and thus starts regenerating his shield earlier.
+* Health Gear with Well Oiled can work, but it comes at the cost of losing out on either Mythic Gear or Shield Gear, both of which make enemies waste more ammo than Health Gear. 
+
+=== Strategies ===
+*Tick's mines are more effective if Brawlers like [[Gale]], [[Bibi]], [[El Primo]], [[Shelly]], Jacky, Tara, or Gene push, knock, or pull enemies into them, dealing massive damage to the enemies. If you see the respective Brawler with their disruptive ability charged up, you'll want to throw your mines in the direction the enemy will head.
+*Do not launch all of Tick's mines at once. It's not ideal, as it leaves you defenseless and unable to block choke points due to his slow reload speed. Additionally, the potential damage is subpar compared to the area control your team gains
+*In order to make his Super damage as effective as possible, place it as close to enemies as possible. This makes it almost impossible to destroy. If it is destroyed by a close range opponent, chances are that the explosion will still hit them and knock them back.
+*If being chased down by an enemy who deals damage at close range such as Edgar, Lily, Bull, or Bolt at a low speed, auto aiming will do nothing but throw the mine cluster behind them. Instead, aim them every so slightly in front of Tick, so if the opponents continue chasing, they will most likely be hit by the mines. 
+**In addition, you can also aim slightly '''behind''' Tick, which will miss the enemy chasing, but then suddenly turn around and use Last Hurrah. In the quick 1-second duration, they may not react in time and will be knocked back into the cluster if successful. If they have Crowd Control immunity, the shield also works to take less damage that would otherwise KO Tick.
+
+=== Other ===
+*Tick is very effective at control, which is amplified with his Mine Mania Gadget. Predict where enemies will head and throw your mines there instead of throwing your mines directly at them. This forces them back because if enemies walk into the mines, they'll take a huge amount of damage. Tick can hamper enemies from collecting vital items or heading into vital areas such as the Gem mine in [[Gem Grab]], Bolts in [[Siege]], the blue star in [[Bounty]], or the zones in [[Hot Zone]] by throwing mines at the above items or areas.
+*Tick's head can inflict high area damage that can also destroy obstacles and is capable of chasing Brawlers into closed areas. His head can be easily destroyed from a range however due to its low health and short range, so it's best to use it against low-health enemies to force them to attack the head and prevent them from healing or an enemy who has used up all ammo. He can also use his Super in [[Brawl Ball]] on enemy defenders near their goal, because the head can defeat them with its high area damage as well as break obstacles to help teammates score at ease.
+*Tick's struggle in close-ranged combat makes him prone to being ambushed in bush areas. However, Tick also has an advantage in bush areas. His head can be used in bushes and it would detect and damage the nearest enemy while it would be unnoticeable. He can also throw his mines at narrow lanes so that enemies take damage, which reveals them and prevents them from sneaking up on you and your teammates.
+*Tick can discourage enemies from using teleporters or launchpads by deploying his mines to the location where the enemy will end up, guaranteeing massive damage if not defeating them once they land or teleport. This is a viable strategy in some maps such as [[Ends Meet]] and [[Gem Bash]]. If the enemies manage to survive, he can place extra mines in front of or behind of the teleporter/landing area depending on the enemies' movement.
+
+==Voice Lines==
+{| class="article-table"
+! colspan="7" style="text-align:center" |General
+|-
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 01v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 1v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 02v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 2v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 03v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 3v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 04v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 4v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 05v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 5v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 06v2.ogg|Filedescription = Tick blathers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 6v2 halloween 01.ogg|Filedescription = Tick blathers}}
+|
+|-
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 05hurt.ogg|Filedescription = Tick whimpers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 05hurt halloween 01.ogg|Filedescription = Tick whimpers}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 08die.ogg|Filedescription = Tick winds down}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 08die halloween 01.ogg|Filedescription = Tick winds down}}
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 06hurt.ogg|Filedescription = Tick whimpers}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 06hurt halloween 01.ogg|Filedescription = Tick whimpers}}
+|
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Tick vo 07hurt.ogg|Filedescription = Tick grunts}}'''Headless Tickman:'''
+{{Ogg|Filename = Tick vo 07hurt halloween 01.ogg|Filedescription = Tick grunts}}
+|
+|
+|
+|
+|}
+
+==History==
+*26/06/19:
+**{{Balance|Content=Tick was added to the game.|Change=Neutral}}
+*21/08/19:
+**{{Balance|Content=Tick's Automa-Tick Reload Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Tick's main attack mine explosion radius was increased by 11%.|Change=Buff}}
+**{{Balance|Content=His Super no longer chases or explodes airborne targets.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Tick's Automa-Tick Reload Star Power reload boost was decreased to 13% (from 15%).|Change=Nerf}}
+*09/10/19:
+**{{Balance|Content=Tick's main attack mine explosion radius was decreased by 6%.|Change=Nerf}}
+**{{Balance|Content=His main attack mine duration was decreased to 1.6 seconds (from 2).|Change=Nerf}}
+**{{Balance|Content=His mines are now deployed in a fixed pattern on the ground.|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=Tick's main attack mine duration was increased to 2 seconds (from 1.6 seconds).|Change=Buff}}
+**{{Balance|Content=His Automa-Tick Reload Star Power reload boost was decreased to 10% (from 13%).|Change=Nerf}}
+*19/02/20:
+**{{Balance|Content=Tick's main attack damage was increased to 680 (from 640) per mine.|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Tick's Backup Mine Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Tick's mine pattern is now correctly mirrored for both teams.|Change=Neutral}}
+*16/07/20:
+**{{Balance|Content=The King Crab Tick skin was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge Tick's Super was decreased to 6 hits (from 9).|Change=Buff}}
+*11/11/20:
+**{{Balance|Content=Tick's head will now return to Tick if there are no enemies present on the battlefield.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Tick's reload time was increased to 2.3 seconds (from 2.2).|Change=Nerf}}
+**{{Balance|Content=His Automa-Tick Reload Star Power reload boost was decreased to 9% (from 10%).|Change=Nerf}}
+**{{Balance|Content=Tick's True Silver and True Gold skins were added.|Change=Neutral}}
+*19/12/20:
+**{{Balance|Content=The Snowman Tick skin was added. It was featured as a Brawlidays 2020 skin. |Change=Neutral}}
+*05/02/21:
+**{{Balance|Content=Tick's Last Hurrah Gadget was added.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Tick's Backup Mine Gadget was renamed to Mine Mania and reworked from making Tick dash forward while dropping a mine that dealt 700 damage to making his next attack fire 6 mines.|Change=Neutral}}
+**{{Balance|Content=Tick's mine spread is now based on the distance thrown.|Change=Neutral}}
+**{{Balance|Content=Tick, King Crab Tick, and Snowman Tick received facial animations.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Tick's main attack damage was decreased to 640 (from 680) per mine.|Change=Nerf}}
+*16/06/21:
+**{{Balance|Content=Tick's Last Hurrah Gadget damage reduction was decreased to 50% (from 100%).|Change=Nerf}}
+*27/10/21:
+**{{Balance|Content=Tick's class was changed to Damage Dealer (from Thrower).|Change=Neutral}}
+*17/03/22:
+**{{Balance|Content=Fixed an issue that caused Tick's Super to not deal damage if hit by a [[payload]].|Change=Neutral}}
+*29/07/22:
+**{{Balance|Content=The Tick Shooky skin was added. It was featured as a BT21 skin.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Tick's Thicc Head Mythic Gear was added.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Tick's rarity was changed to Super Rare (from Common).|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Tick's class was changed to Artillery (from Damage Dealer).|Change=Neutral}}
+*09/06/23:
+**{{Balance|Content=The Cerberus Tick skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Tick's reload time was increased to 2.4 seconds (from 2.3).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Tick's Last Hurrah Gadget damage was increased to 1024 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Tick's flavor text was changed from "Tick is a metal ball of barely controlled excitement and energy - explosive energy! He throws mines, and his Super makes his head detach, seek a target and explode." to "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!"|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Tick's Headstrong Hypercharge was added.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Tick's Mutation was added for a limited time.|Change=Neutral}}
+*02/05/24:
+**{{Balance|Content=The Mecha-Tick Ghidorah, Mecha-Tick Ghidorah Light, and Mecha-Tick Ghidorah Dark skins were added. They were featured as Brawl Pass Season 26 skins and Godzilla skins.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Tick's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Tick's Headstrong Hypercharge multiplier was increased to 40% (from 25%).|Change=Buff}}
+*05/09/24:
+**{{Balance|Content=The Mr. Krabs Tick skin was added. It was featured as a SpongeBob skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Tick's Last Hurrah Gadget shield duration was changed to 1 seconds in the description (from 1.0).|Change=Neutral}}
+**{{Balance|Content=Tick's Well Oiled Star Power self-healing delay decrease was changed to 2 seconds in the description (from 2.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Content=Fixed an issue with Cerberus Tick's attack looking enlarged if 2 or more of his attacks are airborne at the same time.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Tick's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Tick's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Tick's level up damage was increased to 5% (from 3%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Tick's level up reload speed boost was increased to 3% (from 2%) in Brawl Arena.|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Tick's level up health was increased to 6% (from 5%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Tick's level up damage was increased to 650 (from 550) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Tick was slightly remodeled.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Tick's level up damage was increased to 8% (from 6%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Tick's level up movement speed boost was increased to 12 (from 10) in Brawl Arena.|Change=Buff}}
+*23/07/25:
+**{{Balance|Content=Tick's main attack damage was increased to 680 (from 640) per mine.|Change=Buff}}
+**{{Balance|Content=Tick's Last Hurrah Gadget damage was increased to 1088 (from 1024).|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Tick’s Hypercharge was decreased to 14 (from 15).|Change=Buff}}
+*04/09/25:
+**{{Balance|Content=The Eggsplosion Tick skin was added. It was featured as a Starry Meal skin.|Change=Neutral}}
+*02/10/25:
+**{{Balance|Content=The Headless Tickman skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Tick's Headstrong Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Tick's Headstrong Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Tick's health was increased to 2400 (from 2200).}}
+*22/04/26:
+**{{Balance|Nerf|Tick's level up damage was decreased to 7% (from 8%) in Brawl Arena.}}
+**{{Balance|Nerf|Tick's level up reload speed boost was decreased to 2.25% (from 2.5%) in Brawl Arena.}}
+*30/06/26:
+**{{Balance|Buff|Tick's Super recharge rate was increased by 42.86%.}}
+*02/07/26:
+**{{Balance|Neutral|The Tickoyaki skin was added. It was featured as a Nanonoodles skin.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed missing visual effects on the Tick Shooky skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Tick's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Neutral|Tick's Hypercharged Super now gets a percentage-based movement speed increase instead of a flat one.}}
+
+==Cosmetics==
+===Skins (13)===
+{{Skin Gallery
+|Name1=Eggsplosion|Campaign1=Starry Meal|Cost1=Free after reaching 750 Trophies or 29 Gems|Rarity1=Rare
+|Name2=King Crab|Cost2=Free from Bolt Boxes or 79 Gems|Campaign2=Max Force|Rarity2=Super Rare
+|Name3=Snowman|Cost3=Free from Presents or 79 Gems • '''S'''|Campaign3=Brawlidays|Rarity3=Super Rare
+|Name4=Mr. Krabs|Cost4=Available in bundles for Krusty Kash or $3.99 • '''E'''|Campaign4=SpongeBob|Rarity4=Super Rare
+|Name5=Tick Shooky|Cost5=149 Gems|Campaign5=BT21|Rarity5=Epic
+|Name6=Cerberus|Cost6=Free from Damian Boxes or 199 Gems|Campaign6=Legends of Hades|Rarity6=Mythic
+|Name7=Tickoyaki|Cost7=Free from Nano Drops and Smoothie Drops or 199 Gems|Campaign7=Nanonoodles|Rarity7=Mythic
+|Name8=Headless Tickman|Cost8=Free from Pumpkin Boxes, Coffin Boxes or 299 Gems • '''S'''|Campaign8=Brawl-o-ween|Rarity8=Legendary
+|TrueSkins=Yes
+|NameP1=Mecha-Tick Ghidorah|CostP1=Brawl Pass or 149 Gems • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=Godzilla|RarityP1=Epic
+|NameP2=Mecha-Tick Ghidorah Light|CostP2=Brawl Pass Plus or 149 Gems • '''E'''|CampaignP2=Brawl Pass|CampaignP2_2=Godzilla|RarityP2=Epic
+|NameP3=Mecha-Tick Ghidorah Dark|CostP3=Brawl Pass Plus or 149 Gems • '''E'''|CampaignP3=Brawl Pass|CampaignP3_2=Godzilla|RarityP3=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Tick
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Snowman|Clap}}
+{{Pin Table|Tick Shooky}}
+{{Pin Table|Cerberus}}
+{{Pin Table|Mecha-Tick Ghidorah|Special}}
+{{Pin Table|Mecha-Tick Ghidorah Light|Special}}
+{{Pin Table|Mecha-Tick Ghidorah Dark|Special}}
+{{Pin Table|Mr. Krabs|GG}}
+{{Pin Table|King Crab}}
+{{Pin Table|Headless Tickman}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Tick|Rarity = Common}}
+|{{Spray|Type = Tick Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Tick Shooky|Rarity = Common}}
+|{{Spray|Type = Cerberus Tick|Rarity = Common}}
+|{{Spray|Type = Headless Tickman|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Tick1}}
+|{{Pfp|Tick2}}
+|{{Pfp|Tick3}}
+|{{Pfp|Tick4}}
+|{{Pfp|Tick Shooky}}
+|-
+|{{Pfp|Cerberus Tick}}
+|{{Pfp|Mecha-Tick Ghidorah}}
+|{{Pfp|Headless Tickman}}
+|}
+{{Navigation}}
+[[ru:Тик]]
+[[es:Tick]]
+[[pl:Tick]]
+[[fi:Tick]]

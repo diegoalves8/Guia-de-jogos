@@ -1,0 +1,233 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Controlled by Ants|PrestigeTitle = We are Trunk!|Rarity = Epic|Class = Tank|MovementSpeed = 800 (Fast)<br>1000 (with ants)<br>2400 (with Super)|HealthLabel = Health|Health = 5200|AttackRange = 3.33 (Short)|Reload = 1.5 seconds (Normal)|AttackSuperCharge =26.24% |AttackLabel = Center Damage|Attack = 1050|AttackLabel2 = Edge Damage|Attack2 = 1400|SuperRange = 7 (Long)|SuperSuperCharge =3.75%<br>1.125% (ants; with Hypercharge) |SuperLabel = Damage per ant|Super = 150|SuperBullets = |Gadget1Name=For the Queen!|Gadget1Cooldown=7 seconds|Gadget2Name=Worker Ants|Gadget2Cooldown=16 seconds|VoiceActor=Adam Massey|Previous=Meeple|Next=Bolt|HyperchargeMultiplier=35%|AttackHyperchargeCharge=9.184%|SuperHyperchargeCharge=1.3%<br>0.375% (ants; with Hypercharge)|Gadget2Duration=2 seconds}}
+{{Quote|Trunk is a suspiciously uncanny looking tree. It couldn't be because Trunk is actually a colony of hyper-intelligent ants controlling a fake mechanical tree? No, that would be ridiculous.}}{{Portrait}}
+Trunk is an {{Rarity|Epic}} [[Brawler]] who has high health, a variable damage output and movement speed, a short range, and immense utility with their main attack and Super. They were the 94th Brawler added to the game. Trunk's Trait allows them to charge their Super from enemies damaging them. They attack by spinning around after a short delay, which instantly deals damage in a circular area around them and leaves behind ants that give them a movement speed and a damage buff. For their Super, Trunk dashes forward, leaving behind ants on the ground that behave identically to their main attack. Their first Gadget, For the Queen!, instantly drops a large area of ants. Their second Gadget, Worker Ants, heals Trunk after being hit by a single projectile. Their first Star Power, New Insect Overlords, moderately decreases the damage output of enemies standing on ants. Their second Star Power, Colony Scouts, reveals enemies in bushes that are standing on ants. Their Hypercharge, Retread, makes their ants from their Super deal damage overtime. 
+
+==Trait==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Trunk takes damage from enemy Brawlers or spawnables, they charge their Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Trunk's max health of damage to charge their Super completely, and all damage is calculated after shielding and other effects.
+
+==Attack: Ant Attack!==
+{{Quote|Trunk spins in a circle after a short delay, dealing damage to enemies and dropping ants. Standing near ants gives Trunk a 25% movement speed boost and 30% damage boost. The edge of the attack deals more damage to enemies.}}
+After a 0.35-second delay, Trunk damages all enemies in a radius around them, including enemies behind walls, similar to [[Jacky]] and [[Doug]]. However, if Trunk damages enemies at the edge of the radius, the attack deals more damage. More specifically, the centre of the enemy's hitbox must be within 0.67 tiles of the edge. The damage is dealt immediately without any travel time, but Trunk has a mediocre reload speed and attack cooldown. There is no direction of travel to this attack, so aiming is not required, though aiming can be used to show you the area-of-effect. In addition, 0.3 seconds after attacking, Trunk drops an area of ants, where if they stand on them, they gain a 30% movement speed buff and a 30% damage boost. The area of ants has a diameter of 3.33 tiles and lasts for 20 seconds. Trunk's attack can be cancelled if they are stunned, knocked back, or pulled during the delay; however, their ammo will be retained. Trunk takes 0.52 seconds to complete their attack.
+
+==Super: Driven by Revenge (and Ants)==
+{{Quote|Trunk propels themselves at enemies, dropping ants along the way. They can bounce off walls too!}}
+Trunk dashes forward, dropping ants following the Super's path, and gaining a 50% damage reduction shield for 0.9 seconds. These ants behave identically to those of their main attack. While Trunk is using their Super on a target, they will move slower, dealing low damage continuously every 0.05 seconds. Trunk can use their Super to dash over water, and can bounce off walls, but if hit by a stun or pull while their Super is active, it is cancelled. Rolling over water can extend their Super range to a certain amount. Unlike most other abilities, Trunk cannot cancel or interrupt their main attack with their Super.
+
+==Gadgets==
+===For the Queen!===
+{{Quote|Trunk instantly spreads ants in a large area. Cooldown: 7 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Trunk to instantly spawn a circular area of ants that has a 70% larger radius, making it much larger than that of their main attack. The ants spawned with this Gadget behave identically to that of their main attack, outside of being unaffected by their Star Powers.
+
+===Worker Ants===
+{{Quote|Trunk heals from the first source of damage taken for the next 2 secs. Cooldown: 16 seconds.}}{{Gadget|2}}
+When activated, Trunk will gain a special shield that lasts for 2 seconds. The next time they take damage, instead of losing health, they instead gain how much health the attack would have taken away. Unlike [[Nani]]'s Return to Sender Gadget and [[Surge]]'s Power Shield Gadget, and like [[Kenji]]'s Nigiri Nemesis Star Power, this effect can apply to more than one projectile as long as the damage is done in the same frame (for example, multiple projectiles from [[Shelly]]'s Super). This Gadget's cooldown starts after it is used, not after the shield duration ends.
+
+==Star Powers==
+===New Insect Overlords===
+{{Quote|Ants also reduce the damage of enemies by 15%.}}{{StarPower|1}}
+Trunk's ants apply an attack debuff on enemies, decreasing the damage output of enemies affected by 15%. This Star Power only affects damage abilities and only applies to ants from their main attack. Affected enemies have an additional visual effect to indicate that this effect is active; there will be red arrows pointing down on the enemy. The effect is lost when the enemy leaves the ants.
+
+===Colony Scouts===
+{{StarPower|2}}
+{{Quote|Ants reveal hidden enemies.}}Trunk's ants reveal enemies in bushes and invisible enemies.
+
+==Hypercharge: Retread==
+{{Quote|Trunk's Super causes them to leave ants on enemies which deal damage over time.}}{{Hypercharge}}
+When activated, Trunk's Super no longer makes them move slower upon hitting a target. Trunk's dash only deals initial impact damage, but leaves ants on enemies hit by the Super that have a damage over time effect. The Hypercharged ants will deal very high damage over time for 1 second, however, they will recharge significantly less Super compared to the normal Super. Trunk also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*Trunk's short range limits their offensive capabilities, but they have enough range to attack enemies that are at most a tile behind walls, which they can use to their advantage by attacking enemies behind walls. This strictly limits throwers or Brawlers with thrower-like attacks, such as [[Barley]], [[Dynamike]], [[Berry]], [[Willow]], etc. who can otherwise take cover behind walls.
+*Trunk can use their main attack to get a brief speed boost, which is especially helpful if an enemy is trying to run away.
+*Trunk's Colony Scouts Star Power should generally be used only in bushy maps like [[Cavern Churn]] or [[Feast or Famine]], where it'll greatly improve their performance.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy 
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = trunk start vo 01.ogg|Filedescription = "Trunk the mighty is ready to get fighty!"}}
+|{{Ogg|Filename = trunk lead vo 01.ogg|Filedescription = "Trunky gets funky!"}}
+|{{Ogg|Filename = trunk hurt vo 01.ogg|Filedescription = "Trunk, not junk!"}}
+|{{Ogg|Filename = trunk kill vo 01.ogg|Filedescription = "We are Trunk!"}}
+|{{Ogg|Filename = trunk die vo 01.ogg|Filedescription = "I am Trunk!"}}
+|
+|{{Ogg|Filename = trunk ulti vo 01.ogg|Filedescription = "Forest fury!"}}
+|-
+|{{Ogg|Filename = trunk start vo 02.ogg|Filedescription = "Branches up, leaf no mercy!"}}
+|{{Ogg|Filename = trunk lead vo 02.ogg|Filedescription = "Team Trunk makes the dream trunk."}}
+|{{Ogg|Filename = trunk hurt vo 02.ogg|Filedescription = "Separate!"}}
+|{{Ogg|Filename = trunk kill vo 02.ogg|Filedescription = "You punch Trunk, Trunk punches you!"}}
+|{{Ogg|Filename = trunk die vo 02.ogg|Filedescription = "Trunk went plunk."}}
+|
+|{{Ogg|Filename = trunk ulti vo 02.ogg|Filedescription = "Rooted rampage!"}}
+|-
+|{{Ogg|Filename = trunk start vo 03.ogg|Filedescription = "Trunk goes smash!"}}
+|{{Ogg|Filename = trunk lead vo 03.ogg|Filedescription = "Triumphant Trunk gets the trophy!"}}
+|{{Ogg|Filename = trunk hurt vo 03.ogg|Filedescription = "Leaf it out!"}}
+|{{Ogg|Filename = trunk kill vo 03.ogg|Filedescription = "Trunk go smash!"}}
+|{{Ogg|Filename = trunk die vo 03.ogg|Filedescription = "The colony never forgets."}}
+|
+|{{Ogg|Filename = trunk ulti vo 03.ogg|Filedescription = "Spores in your pores!"}}
+|-
+|{{Ogg|Filename = trunk start vo 04.ogg|Filedescription = "We are many!"}}
+|{{Ogg|Filename = trunk lead vo 04.ogg|Filedescription = "Trunk anticipated this."}}
+|{{Ogg|Filename = trunk hurt vo 04.ogg|Filedescription = "Rooting for you, not!"}}
+|{{Ogg|Filename = trunk kill vo 04.ogg|Filedescription = "Trunk not just bark, trunk has bite."}}
+|{{Ogg|Filename = trunk die vo 04.ogg|Filedescription = "Here is proof, it does make a sound."}}
+|
+|{{Ogg|Filename = trunk ulti vo 04.ogg|Filedescription = "Total Trunk takeover time!"}}
+|-
+|{{Ogg|Filename = trunk start vo 05.ogg|Filedescription = "One trunk, many men abilities!"}}
+|{{Ogg|Filename = trunk lead vo 05.ogg|Filedescription = "You got ant!"}}
+|{{Ogg|Filename = trunk hurt vo 05.ogg|Filedescription = "Anticipate revenge!"}}
+|{{Ogg|Filename = trunk kill vo 05.ogg|Filedescription = "Branch out, try dodging next time!"}}
+|{{Ogg|Filename = trunk die vo 05.ogg|Filedescription = "Feeling stomped!"}}
+|
+|{{Ogg|Filename = trunk ulti vo 05.ogg|Filedescription = "The hive is alive."}}
+|-
+|{{Ogg|Filename = trunk start vo 06.ogg|Filedescription = "Garden of green, ready to get mean."}}
+|{{Ogg|Filename = trunk lead vo 06.ogg|Filedescription = "You got ant."}}
+|{{Ogg|Filename = trunk hurt vo 06.ogg|Filedescription = "Don't be on the tree."}}
+|{{Ogg|Filename = trunk kill vo 06.ogg|Filedescription = "You are one, we are thousands!"}}
+|{{Ogg|Filename = trunk die vo 06.ogg|Filedescription = "You felled a tree, enjoy your victory."}}
+|
+|{{Ogg|Filename = trunk ulti vo 06.ogg|Filedescription = "Looog!"}}
+|-
+|{{Ogg|Filename = trunk start vo 07.ogg|Filedescription = "Your picnic ends today!"}}
+|{{Ogg|Filename = trunk lead vo 07.ogg|Filedescription = "For the colony!"}}
+|{{Ogg|Filename = trunk hurt vo 07.ogg|Filedescription = "For the queen!"}}
+|{{Ogg|Filename = trunk kill vo 07.ogg|Filedescription = "I. Am. Trunk!"}}
+|{{Ogg|Filename = trunk die vo 07.ogg|Filedescription = "The forest never forgets!"}}
+|
+|{{Ogg|Filename = trunk ulti vo 07.ogg|Filedescription = "Sporadic takeover."}}
+|-
+|{{Ogg|Filename = trunk start vo 08.ogg|Filedescription = "Bark shields, branches bash!"}}
+|{{Ogg|Filename = trunk lead vo 08.ogg|Filedescription = "For oppressed ants everywhere!"}}
+|{{Ogg|Filename = trunk hurt vo 08.ogg|Filedescription = "Stick together, everyone!"}}
+|{{Ogg|Filename = trunk kill vo 08.ogg|Filedescription = "I am Trunk!"}}
+|{{Ogg|Filename = trunk die vo 08.ogg|Filedescription = "Bark basher, colony smasher."}}
+|
+|{{Ogg|Filename = trunk ulti vo 08.ogg|Filedescription = "Fiendish forest pheronomes."}}
+|-
+|{{Ogg|Filename = trunk start vo 09.ogg|Filedescription = "Forward march!"}}
+|{{Ogg|Filename = trunk lead vo 09.ogg|Filedescription = "Trunk's in the lead!"}}
+|{{Ogg|Filename = trunk hurt vo 09.ogg|Filedescription = "Trunk got hurt!"}}
+|
+|{{Ogg|Filename = trunk die vo 09.ogg|Filedescription = "It's time I make like a tree, and leaf!"}}
+|
+|{{Ogg|Filename = trunk ulti vo 09.ogg|Filedescription = "Trunk nation!"}}
+|-
+|{{Ogg|Filename = trunk start vo 10.ogg|Filedescription = "I've got ants in my pants!"}}
+|{{Ogg|Filename = trunk lead vo 10.ogg|Filedescription = "We are doing it!"}}
+|
+|
+|{{Ogg|Filename = trunk die vo 10.ogg|Filedescription = "I am Trunk!"}}
+|
+|
+|-
+|{{Ogg|Filename = trunk start vo 11.ogg|Filedescription = "Don't worry, I almost know exactly what I'm doing."}}
+|
+|
+|
+|{{Ogg|Filename = trunk die vo 11.ogg|Filedescription = "It's a bug's life."}}
+|
+|
+|-
+|{{Ogg|Filename = trunk start vo 12.ogg|Filedescription = "I am Trunk!"}}
+|
+|
+|
+|{{Ogg|Filename = trunk die vo 12.ogg|Filedescription = "Left-right- no, don't go that way ahh di ahh!"}}
+|
+|
+|-
+|{{Ogg|Filename = trunk start vo 13.ogg|Filedescription = "I'm definitely not a group of ants in a tree."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*21/08/25:
+**{{Balance|Content=Trunk could be unlocked early as a bundle for $14.99.|Change=Neutral}}
+**{{Balance|Content=Trunk became available to play in the Training Cave.|Change=Neutral}}
+**{{Balance|Content=The Swimming Trunk skin was added. It was featured as a Summer of Brawl skin.|Change=Neutral}}
+*28/08/25:
+**{{Balance|Content=Trunk became available in the Starr Road.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Trunk gained a Trait where they can now charge their Super when receiving damage.|Change=Buff}}
+**{{Balance|Content=Trunk's New Insect Overlords Star Power visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Trunk's True Silver and True Gold skins were added.|Change=Neutral}}
+*11/09/25:
+**{{Balance|Content=Trunk's Retread Hypercharge was added.|Change=Neutral}}
+*17/09/25:
+**{{Balance|Content=Fixed a bug where Trunk's Hypercharge Super was not recharging their Super.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Trunk's main attack center damage was increased to 1050 (from 980).|Change=Buff}}
+**{{Balance|Content=Trunk's level up health was decreased to 650 (from 750) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Trunk's Retread Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Trunk's Retread Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Trunk's Retread Hypercharge shield boost from 10%.}}
+**{{Balance|Content=Fixed a bug where Trunk's New Insect Overlords and Colony Scouts Star Powers were not applied to their Super.|Change=Neutral}}
+*12/11/25:
+**{{Balance|Content=Trunk's level up damage was decreased to 3% (from 4%) in Brawl Arena.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Trunk's health was increased to 5200 (from 5000).}}
+*23/01/26:
+**{{Balance|Buff|Trunk's movement speed boost with ants was increased to 25% (from 20%).}}
+*18/04/26:
+**{{Balance|Neutral|The Royale Trunk skin was added and was available for every user to claim for free until 26/04. It was featured as a Clash Royale skin.}}
+*28/04/26:
+**{{Balance|Neutral|Fixed a bug where Trunk's Prestige icon was incorrect.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Trunk's movement speed to 800 (from 770).}}
+*16/09/26:
+**{{Balance|Buff|The number of hits necessary to charge Trunk's Super was decreased to 4 hits (from 5).}}
+**{{Balance|Buff|Trunk's ant movement speed boost was increased to 30% (from 25%).}}
+
+==Cosmetics==
+===Skins (4)===
+{{Skin Gallery
+|Name1=Swimming|Cost1=Free from the early access bundle, free from Pierce Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Summer of Brawl|Rarity1=Rare
+|Name2=Royale|Cost2=Free from #KeepBrawlAlive event until 26/04|Campaign2=Clash Stories|Rarity2=Epic
+|TrueSkins=Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Trunk
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Royale|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Trunk|Rarity = Common}}
+|{{Spray|Type = Trunk Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Trunk1}}
+|{{Pfp|Trunk2}}
+|{{Pfp|Trunk3}}
+|{{Pfp|Trunk4}}
+|{{Pfp|Royale Trunk}}
+|}
+
+[[es:Trunk]]
+[[ru:Транк]]
+{{Navigation}}

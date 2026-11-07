@@ -1,0 +1,197 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Bisento
+|image     = <gallery>
+Bisento.png|Icon
+BisentoRework-Equipped.png|In-Game
+BisentoRework-Held.png|Held
+Bisento (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Skylands
+|obtain    = Buy from
+|source    = [[Master Sword Dealer]]
+|price     = {{Money|1,000,000}}
+}}
+{{Quote|Radiates an aura of destruction. Interesting shape for a sword.|Item}}
+'''Bisento''' is a {{Legendary}} [[sword]].
+
+Despite being a [[First Sea]] sword, it has quick and extremely high damaging moves, being able to dish out some of the highest burst damage one can achieve with a sword. Said damage and quick attacks allow Bisento to compete with many popular [[Second Sea]] and [[Third Sea]] swords, making this an excellent choice in PvP if the user can predict and aim well. 
+
+However, Bisento suffers major drawbacks if the user fights in the air with it due to its noticeably smaller hitboxes (especially on {{Ability|X}}) compared to newer, more well known swords.
+
+It is also indubitably the strongest sword in the [[First Sea]], being useful in all seas. It is also the most expensive sword in said area, costing{{Money|1,000,000}}.
+
+==Obtainment==
+To obtain the Bisento, the player must buy it from the [[Master Sword Dealer]], who is located on the fourth island at [[Skylands]]. The player can buy this sword for {{Money|1,000,000}} if the player is at least Lv. 250.
+
+===Version 2===
+The player must have the Bisento in their [[Inventory]]. Afterwards, the player must defeat [[Greybeard]] at [[Marine Fortress]]. A message saying "Something weird has occurred to your <Bisento>..." will appear after defeating [[Greybeard]]. 
+
+The appearance of the Bisento itself will not change, and neither will the name of the two moves. However, the moves will look different and deal more damage.
+
+==Upgrading==
+{{Upgrading|Effects=+25% Damage}}
+
+==Moveset==
+<tabber>
+Version 1=
+{{SkillStart}}
+<!-- M1 Move -->
+{{SkillBox|M1
+|Move = Normal Attack
+|Desc = The player swings 3 times, before ending it off with a slam.
+|GIF = Bisento M1
+}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move = Wind Breaker
+|Desc = The user raises their Bisento, then slams it down onto the ground, releasing a powerful shockwave with medium damage. This move is quite similar to [[Dark Blade]]'s {{Ability|Dark Blade|X}}.
+|Mas  = 50
+|GIF  = BisentoZ1
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move = Quake Sphere
+|Desc = The user slams the end of Bisento's hilt onto the ground, creating an AoE shockwave in a small range. This move is extremely similar to [[Wardens Sword]]’s {{Ability|Warden’s Sword|Z}} move.
+|Mas  = 150
+|GIF  = BisentoX1
+}}
+{{SkillEnd}}
+
+|-|Version 2=
+{{SkillStart}}
+<!-- M1 Move -->
+{{SkillBox|M1
+|Move = Normal Attack
+|Desc = The player swings 3 times, before ending it off with a slam.
+|GIF = Bisento M1
+}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move = Wind Breaker
+|Desc = The user raises their Bisento, then slams it down onto the ground, releasing 3 slashes that do good damage. This move is similar to [[Triple Dark Blade]]'s [X] move and [[Mammoth]]'s [Z] move untransformed.
+|Mas  = 50
+|GIF  = Bisento_V2_Z
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move = Quake Sphere
+|Desc = The user creates a white sphere on the tip of their Bisento and then launches it. It pulls in nearby enemies and does minimal damage when hit, then expands and does good damage.
+|Mas  = 150
+|GIF  = Bisento_V2_X
+}}
+{{SkillEnd}}
+
+|-|Stats=
+{{Stats Table|
+{{Stats Table Row|Z|Wind Breaker|9|20}}
+{{Stats Table Row|X|Quake Sphere|13.5|30}}
+}}
+
+==Instinct Chart==
+{{Instinct Table|
+{{Instinct Table Row|Z|Wind Breaker|No|Yes|Cannot [[Instinct/Break|Break Instinct]] in any way.}}
+{{Instinct Table Row|X|Quake Sphere|Yes|Yes|Breaks Instinct, but can be dodged on the edge}}
+}}
+</tabber>
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Extremely high damage, especially for a first sea sword.
+* Good for grinding because of multi-target skills and AoE.
+* Low mastery requirements.
+* Both moves deal AoE damage.
+* Decent M1 overall.
+* Both attacks can be used in very quick succession.
+* Easy to upgrade because the materials are pretty easy to get.
+*Very good for sea events, as all the moves deal massive damage to [[Sea Beasts]] and boats in Ship raids.
+* Useful against [[Terrorshark]]s due to massive damage and decent range,  allowing the user to attack the terrorshark from a safe distance.
+*Great for PvP due to high damage output
+
+|'''[Z] Wind Breaker'''
+* Decent range.
+* Can be used to knock back players.
+
+|'''[X] Quake Sphere'''
+* Can be used to trap players.
+* Decent range.
+* V2 can [[break Instinct]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* No stunning moves.
+* Ground based moves with slow projectiles.
+* Really hard to get V2 if below Lv. 700.
+* Slow M1 speed.
+* Doesn't work very well in the air.
+* Has an above-average cost in the [[First Sea]].
+* Last attack of a M1 cannot hit when in transformed [[Buddha]] form.
+
+|'''[Z] Wind Breaker'''
+* Does not stun enemies.
+* Very easy to Instinct trick without prior usage of X.
+
+|'''[X] Quake Sphere'''
+* V1 form is difficult to hit in PvP.
+* V2 form does not instantly deal full damage.
+}}
+</tabber>
+
+==Trivia==
+* Bisento has one of [[Quake]]'s old abilities (Quake Sphere) as one of its moves.
+* Bisento also shares it´s price with [[Quake]], at {{Money|1,000,000}}.
+* The Bisento has the second highest damage per click in the game. (The first being [[Triple Dark Blade]] and third being [[True Triple Katana]].)
+* Bisento, [[Dark Blade]], [[Katana]], and [[Cutlass]] received an animation update in [[Updates/17.2|Update 17.2]].
+* Bisento is the most expensive [[sword]] in the [[First Sea]].
+* Bisento, [[Dark Blade]], [[Saber]], and [[Pole]] are the only four swords to have a V2.
+* Before [[Update 24]], if the player activated an auto-clicker right as the impact effect appeared, there was a chance the sword would have double its range.
+* Bisento V2’s {{Ability|Z}} is similar to [[Mammoth]]'s {{Ability|Mammoth|Z}} but smaller.
+* For some reason, the fourth M1 animation doesn't work in [[Buddha]] transformation which makes grinding easier.
+* The Bisento is the only sword that has a level requirement to be purchased from a dealer NPC.
+* Bisento is considered the weaker version of Dark Blade by many players.
+
+==Change History==
+{{Change History|1|content={{Update|24}}
+* Bisento's model was revamped.
+<gallery>
+Bisento Icon (Old).png|Old Bisento model
+</gallery>
+* {{Arrow|nerf}} Bisento's M1 became slower.
+----
+{{Update|20}}
+* Bisento's moves were revamped.
+----
+{{Update|17.2}}
+* Bisento's animation was revamped.
+* {{Arrow|buff}} Changed Bisento's price from {{Money|1,200,000}} to {{Money|1,000,000}}.
+* {{Arrow|buff}} Increased '''[X] Quake Sphere''' V2's hitbox.
+----
+{{Update|5}}
+* {{Arrow|nerf}} Bisento was nerfed.
+----
+{{Update|3.5}}
+* Bisento received a second version.
+* Made Bisento a bit bigger visually.
+----
+{{Update|2}}
+* {{Arrow|nerf}} Bisento was nerfed.
+----
+{{Update|1}}
+* Bisento was released.}}
+
+==Navigation==
+{{Sword Navbox}}

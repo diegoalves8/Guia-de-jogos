@@ -1,0 +1,986 @@
+{{Protection}}{{Title Icon}}
+Trophies are a measure of the player's progression with each Brawler, and total game progression. They are awarded or deducted based on the results of a match. Each [[Brawler]] has its own Trophy count, and this determines the Brawler's Tier. All of a player's Brawlers' individual Trophies combine to give them their total Trophy count. As a Brawler reaches higher Tiers, they begin to gain fewer and lose more Trophies in each match. Trophies can only be gained or lost in Trophy game modes.
+
+==Obtaining==
+Trophies are obtained by playing Trophy [[Events]]. If a player's team wins in 3v3 and 5v5 modes, or they outlast enough opponents/teams in [[Showdown]], they receive Trophies. They lose Trophies, however, if their team loses or they are defeated early playing Showdown.
+
+When players earn or lose Trophies, they are awarded to or taken away from the Brawler used during that match. The number of Trophies lost or earned from a match changes based on a Brawler's individual Trophy count.
+
+Obtaining Trophies becomes increasingly harder as more Trophies are accumulated. At low Trophy ranges, a Brawler receives more Trophies for a victory than they lose in a defeat. As the Brawler reaches higher Trophies, more Trophies are deducted for losing. This effect increases in severity until it causes the Brawler to lose more Trophies than they can gain with each match, creating a gradual barrier to Trophy accumulation.
+
+After Prestige 2 (2000 Trophies), Bot Matches are disabled, Trophies are not gained from a Win Streak, the Underdog bonus is disabled, and player names are hidden if the average Trophies of everyone in the match is more than 2000. Additionally, the matchmaking blacklisting time gets increased, which serves as a protection against win-traders. All of these factors make it much harder to make progress when pushing for these high ranks.
+
+<tabber>
+|-|MEGA Solo=
+<p style="margin:0">'''<span style="color:#f33">NEW!</span> MEGA Solo Showdown''' (20 players)</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=39|1<sup>st</sup>||width=39|2<sup>nd</sup>||width=39|3<sup>rd</sup>||width=39|4<sup>th</sup>||width=39|5<sup>th</sup>||width=39|6<sup>th</sup>||width=39|7<sup>th</sup>||width=39|8<sup>th</sup>||width=39|9<sup>th</sup>||width=39|10<sup>th</sup>||width=39|11<sup>th</sup>||width=39|12<sup>th</sup>||width=39|13<sup>th</sup>||width=39|14<sup>th</sup>||width=39|15<sup>th</sup>||width=39|16<sup>th</sup>||width=39|17<sup>th</sup>||width=39|18<sup>th</sup>||width=39|19<sup>th</sup>||width=39 style=letter-spacing:-.5px|20<sup>th</sup>
+|-
+|||colspan=8 height=0 style=background-color:#0f0| ||colspan=2 height=0 style=background-color:#aaa| ||colspan=10 height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-199||+15||+13||+11||+10||+9||+8||+7||+6||+5||+4||+3||+2||+1||0||-1||-2||-3||-4||-5||-6
+|-
+|{{png|Trophy|16}}200-499||+15||+13||+11||+10||+9||+8||+7||+5||+4||+3||+2||+1||0||-1||-2||-3||-4||-5||-6||-7
+|-
+|{{png|Trophy|16}}500-999||+15||+13||+11||+10||+9||+8||+7||+5||+4||+2||+1||0||-1||-2||-3||-4||-5||-6||-7||-8
+|-
+|{{Prestige|1}}1000-1099||+15||+13||+11||+10||+9||+8||+7||+5||+3||+1||0||-1||-2||-3||-4||-5||-6||-7||-8||-9
+|-
+|{{Prestige|1}}1100-1199||+15||+13||+11||+10||+9||+8||+7||+5||+3||+1||0||-1||-2||-3||-4||-5||-6||-7||-9||-10
+|-
+|{{Prestige|1}}1200-1299||+15||+13||+11||+10||+9||+8||+7||+5||+3||+1||0||-1||-3||-4||-5||-6||-7||-8||-10||-11
+|-
+|{{Prestige|1}}1300-1499||+15||+13||+11||+10||+9||+8||+7||+5||+3||+1||0||-1||-3||-4||-6||-7||-8||-9||-12||-13
+|-
+|{{Prestige|1}}1500-1799||+15||+13||+11||+10||+9||+8||+7||+5||+2||0||-1||-2||-4||-5||-6||-7||-9||-10||-13||-14
+|-
+|{{Prestige|1}}1800-1999||+15||+13||+11||+10||+9||+8||+7||+5||+2||0||-1||-2||-4||-5||-7||-8||-10||-11||-14||-15
+|-
+|{{Prestige|2}}2000-2499||+12||+10||+9||+8||+7||+6||+5||+4||0||-2||-3||-4||-5||-6||-7||-8||-10||-11||-14||-15
+|-
+|{{Prestige|2}}2500-2699||+10||+8||+7||+6||+5||+4||+3||+2||0||-2||-3||-4||-5||-6||-7||-8||-10||-11||-14||-15
+|-
+|{{Prestige|2}}2700-2799||+10||+8||+7||+6||+5||+4||+3||+1||0||-2||-3||-4||-5||-6||-7||-8||-10||-11||-14||-15
+|-
+|{{Prestige|2}}2800-2999||+7||+5||+4||+3||+2||+1||0||-1||-2||-3||-4||-5||-6||-7||-8||-9||-10||-11||-14||-15
+|-
+|{{Prestige|3}}3000-3099||+6||+4||+3||+2||+1||0||-1||-2||-3||-4||-5||-6||-7||-8||-9||-10||-11||-12||-14||-15
+|-
+|{{Prestige|3}}3100-3999||+5||+3||+2||+1||0||-1||-2||-3||-4||-5||-6||-7||-8||-9||-10||-11||-12||-13||-14||-15
+|-
+|{{Prestige|4}}4000+||+4||+2||+1||0||-1||-2||-3||-4||-5||-6||-7||-8||-9||-10||-11||-12||-15||-16||-20||-21
+|}
+|-|MEGA Duo=
+<p style="margin:0">'''<span style="color:#f33">NEW!</span> MEGA Duo Showdown'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=50.74|1<sup>st</sup>||width=50.74|2<sup>nd</sup>||width=50.74|3<sup>rd</sup>||width=50.74|4<sup>th</sup>||width=50.74|5<sup>th</sup>||width=50.74|6<sup>th</sup>||width=50.74|7<sup>th</sup>||width=50.74|8<sup>th</sup>||width=50.74|9<sup>th</sup>||width=50.74|10<sup>th</sup>
+|-
+|||colspan=4 height=0 style=background-color:#0f0| ||colspan=2 height=0 style=background-color:#aaa| ||colspan=4 height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+15||+10||+9||+8||+6||+5||+4||+3||+2||+1
+|-
+|{{png|Trophy|16}}50-99||+15||+10||+9||+7||+5||+4||+3||+2||+1||-1
+|-
+|{{png|Trophy|16}}100-199||+15||+10||+9||+7||+4||+3||+2||+1||0||-1
+|-
+|{{png|Trophy|16}}200-499||+15||+10||+8||+5||+3||+2||+1||-1||-2||-3
+|-
+|{{png|Trophy|16}}500-599||+15||+10||+8||+5||+2||+1||-1||-2||-3||-4
+|-
+|{{png|Trophy|16}}600-999||+15||+10||+8||+5||+2||+1||-2||-3||-4||-5
+|-
+|{{Prestige|1|23}}1000-1099||+15||+10||+8||+5||+1||-2||-3||-4||-5||-6
+|-
+|{{Prestige|1|23}}1100-1199||+15||+10||+8||+5||+1||-2||-3||-4||-5||-7
+|-
+|{{Prestige|1|23}}1200-1299||+15||+10||+8||+5||+1||-2||-4||-5||-6||-8
+|-
+|{{Prestige|1|23}}1300-1499||+15||+10||+8||+5||+1||-2||-4||-6||-7||-10
+|-
+|{{Prestige|1|23}}1500-1799||+15||+10||+8||+5||0||-3||-5||-6||-8||-11
+|-
+|{{Prestige|1|23}}1800-1999||+15||+10||+8||+5||0||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2000-2499||+12||+8||+6||+4||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2500-2599||+10||+6||+5||+3||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2600-2699||+10||+6||+5||+2||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2700-2799||+10||+6||+5||+1||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2800-2999||+7||+4||+3||0||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|3|23}}3000-3099||+6||+3||+2||0||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|3|23}}3100-3999||+5||+2||+1||-1||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|4|23}}4000+||+4||+1||0||-2||-3||-5||-8||-11||-14||-18
+|}
+|-|Solo=
+<p style="margin:0">'''Solo Showdown'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=50.74|1<sup>st</sup>||width=50.74|2<sup>nd</sup>||width=50.74|3<sup>rd</sup>||width=50.74|4<sup>th</sup>||width=50.74|5<sup>th</sup>||width=50.74|6<sup>th</sup>||width=50.74|7<sup>th</sup>||width=50.74|8<sup>th</sup>||width=50.74|9<sup>th</sup>||width=50.74|10<sup>th</sup>
+|-
+|||colspan=4 height=0 style=background-color:#0f0| ||height=0 style=background-color:#aaa| ||colspan=5 height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+13||+10||+10||+8||+6||+5||+5||+5||+5||+5
+|-
+|{{png|Trophy|16}}50-99||+13||+10||+9||+7||+5||+4||+3||+2||+1||-1
+|-
+|{{png|Trophy|16}}100-199||+13||+10||+9||+7||+4||+3||+2||+1||0||-1
+|-
+|{{png|Trophy|16}}200-299||+13||+10||+8||+5||+3||+2||+1||-1||-1||-1
+|-
+|{{png|Trophy|16}}300-499||+13||+10||+8||+5||+3||+2||+1||-1||-2||-2
+|-
+|{{png|Trophy|16}}500-599||+13||+10||+8||+5||+2||+1||-1||-1||-2||-2
+|-
+|{{png|Trophy|16}}600-799||+13||+10||+8||+5||+2||+1||-2||-2||-3||-4
+|-
+|{{png|Trophy|16}}800-999||+13||+10||+8||+5||+2||+1||-2||-3||-4||-5
+|-
+|{{Prestige|1|23}}1000-1099||+13||+10||+8||+5||+1||-2||-3||-4||-5||-6
+|-
+|{{Prestige|1|23}}1100-1199||+13||+10||+8||+5||+1||-2||-3||-4||-5||-7
+|-
+|{{Prestige|1|23}}1200-1299||+13||+10||+8||+5||+1||-2||-4||-5||-6||-8
+|-
+|{{Prestige|1|23}}1300-1499||+13||+10||+8||+5||+1||-2||-4||-6||-7||-10
+|-
+|{{Prestige|1|23}}1500-1799||+13||+10||+8||+5||0||-3||-5||-6||-8||-11
+|-
+|{{Prestige|1|23}}1800-1999||+13||+10||+8||+5||0||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2000-2499||+10||+8||+6||+4||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2500-2599||+8||+6||+5||+3||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2600-2699||+8||+6||+5||+2||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2700-2799||+8||+6||+5||+1||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|2|23}}2800-2999||+5||+4||+3||0||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|3|23}}3000-3099||+4||+3||+2||0||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|3|23}}3100-3999||+3||+2||+1||-1||-2||-3||-5||-7||-9||-12
+|-
+|{{Prestige|4|23}}4000+||+2||+1||0||-2||-3||-5||-8||-11||-14||-18
+|}
+|-|Duo=
+<p style="margin:0">'''Duo Showdown'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=62.48|1<sup>st</sup>||width=62.48|2<sup>nd</sup>||width=62.48|3<sup>rd</sup>||width=62.48|4<sup>th</sup>||width=62.48|5<sup>th</sup>
+|-
+|||colspan=2 height=0 style=background-color:#0f0| ||height=0 style=background-color:#aaa| ||colspan=2 height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+12||+6||+5||+5||+5
+|-
+|{{png|Trophy|16}}50-99||+12||+6||+4||+2||-1
+|-
+|{{png|Trophy|16}}100-199||+12||+6||+3||+1||-1
+|-
+|{{png|Trophy|16}}200-299||+12||+6||+2||-1||-1
+|-
+|{{png|Trophy|16}}300-599||+12||+6||+2||-1||-2
+|-
+|{{png|Trophy|16}}600-799||+12||+6||+2||-2||-3
+|-
+|{{png|Trophy|16}}800-999||+12||+6||+2||-2||-4
+|-
+|{{Prestige|1|23}}1000-1099||+12||+6||-1||-3||-5
+|-
+|{{Prestige|1|23}}1100-1199||+12||+6||-1||-4||-6
+|-
+|{{Prestige|1|23}}1200-1299||+12||+6||-1||-4||-7
+|-
+|{{Prestige|1|23}}1300-1499||+12||+6||-2||-5||-8
+|-
+|{{Prestige|1|23}}1500-1799||+12||+6||-2||-5||-9
+|-
+|{{Prestige|1|23}}1800-1999||+12||+6||-2||-6||-10
+|-
+|{{Prestige|2|23}}2000-2299||+10||+5||-2||-6||-10
+|-
+|{{Prestige|2|23}}2300-2399||+10||+4||-2||-6||-10
+|-
+|{{Prestige|2|23}}2400-2499||+10||+3||-2||-6||-10
+|-
+|{{Prestige|2|23}}2500-2799||+7||+2||-2||-6||-10
+|-
+|{{Prestige|2|23}}2800-2999||+5||+1||-2||-6||-10
+|-
+|{{Prestige|3|23}}3000-3099||+3||+1||-2||-6||-10
+|-
+|{{Prestige|3|23}}3100-3999||+2||+1||-2||-6||-10
+|-
+|{{Prestige|4|23}}4000+||+2||0||-3||-9||-15
+|}
+|-|Trio=
+<p style="margin:0">'''Trio Showdown'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=66.26|1<sup>st</sup>||width=66.26|2<sup>nd</sup>||width=66.26|3<sup>rd</sup>||width=66.26|4<sup>th</sup>
+|-
+|||colspan=2 height=0 style=background-color:#0f0| ||height=0 style=background-color:#aaa| ||height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+12||+5||+5||+5
+|-
+|{{png|Trophy|16}}50-99||+11||+5||+4||-1
+|-
+|{{png|Trophy|16}}100-199||+11||+5||+3||-1
+|-
+|{{png|Trophy|16}}200-299||+11||+5||+2||-1
+|-
+|{{png|Trophy|16}}300-499||+11||+5||+2||-2
+|-
+|{{png|Trophy|16}}500-599||+11||+5||+1||-2
+|-
+|{{png|Trophy|16}}600-799||+11||+5||+1||-3
+|-
+|{{png|Trophy|16}}800-999||+11||+5||+1||-4
+|-
+|{{Prestige|1|23}}1000-1099||+11||+5||0||-6
+|-
+|{{Prestige|1|23}}1100-1199||+11||+5||0||-7
+|-
+|{{Prestige|1|23}}1200-1299||+11||+5||0||-8
+|-
+|{{Prestige|1|23}}1300-1499||+11||+5||0||-9
+|-
+|{{Prestige|1|23}}1500-1799||+11||+5||-5||-10
+|-
+|{{Prestige|1|23}}1800-1999||+11||+5||-5||-11
+|-
+|{{Prestige|2|23}}2000-2199||+9||+4||-5||-11
+|-
+|{{Prestige|2|23}}2200-2299||+9||+3||-5||-11
+|-
+|{{Prestige|2|23}}2300-2399||+9||+2||-5||-11
+|-
+|{{Prestige|2|23}}2400-2499||+9||+1||-5||-11
+|-
+|{{Prestige|2|23}}2500-2799||+7||0||-5||-11
+|-
+|{{Prestige|2|23}}2800-2999||+4||0||-5||-11
+|-
+|{{Prestige|3|23}}3000-3099||+3||0||-5||-11
+|-
+|{{Prestige|3|23}}3100-3999||+2||0||-5||-11
+|-
+|{{Prestige|4|23}}4000+||+2||-1||-8||-17
+|}
+|-|3v3=
+<p style="margin:0">'''3v3/5v5 Modes'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=78|Victory||width=78|Defeat
+|-
+|||height=0 style=background-color:#0f0| ||height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+10||0
+|-
+|{{png|Trophy|16}}50-299||+10||-1
+|-
+|{{png|Trophy|16}}300-599||+10||-2
+|-
+|{{png|Trophy|16}}600-799||+10||-3
+|-
+|{{png|Trophy|16}}800-999||+10||-4
+|-
+|{{Prestige|1|23}}1000-1099||+10||-5
+|-
+|{{Prestige|1|23}}1100-1199||+10||-6
+|-
+|{{Prestige|1|23}}1200-1299||+10||-7
+|-
+|{{Prestige|1|23}}1300-1499||+10||-8
+|-
+|{{Prestige|1|23}}1500-1799||+10||-9
+|-
+|{{Prestige|1|23}}1800-1999||+10||-10
+|-
+|{{Prestige|2|23}}2000-2499||+8||-10
+|-
+|{{Prestige|2|23}}2500-2799||+6||-10
+|-
+|{{Prestige|2|23}}2800-2999||+4||-10
+|-
+|{{Prestige|3|23}}3000-3099||+2||-10
+|-
+|{{Prestige|3|23}}3100-3999||+1||-10
+|-
+|{{Prestige|4|23}}4000+||+1||-15
+|}
+|-|Duels=
+<p style="margin:0">'''Duels'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=78|Victory||width=78|Defeat
+|-
+|||height=0 style=background-color:#0f0| ||height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+12||-1
+|-
+|{{png|Trophy|16}}50-799||+12||-3
+|-
+|{{Prestige|1|23}}800-1199||+12||-6
+|-
+|{{Prestige|1|23}}1200-1799||+12||-9
+|-
+|{{Prestige|1|23}}1800-1999||+12||-12
+|-
+|{{Prestige|2|23}}2000-2499||+9||-12
+|-
+|{{Prestige|2|23}}2500-2999||+6||-12
+|-
+|{{Prestige|3|23}}3000-3999||+3||-12
+|-
+|{{Prestige|4|23}}4000+||+3||-15
+|}
+''Trophies are split equally between the 3 Brawlers. Matchmaking and Trophy values are based on the Brawler with highest Trophies. Win Streak bonus of the first/middle Brawler is added after default Trophy gain value.''
+|-|Arena=
+<p style="margin:0">'''Brawl Arena'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=78|Victory||width=78|Defeat
+|-
+|||height=0 style=background-color:#0f0| ||height=0 style=background-color:#f00|
+|-
+|{{png|Trophy|16}}0-49||+15||0
+|-
+|{{png|Trophy|16}}50-299||+15||-1
+|-
+|{{png|Trophy|16}}300-599||+15||-2
+|-
+|{{png|Trophy|16}}600-799||+15||-4
+|-
+|{{png|Trophy|16}}800-999||+15||-5
+|-
+|{{Prestige|1|23}}1000-1099||+15||-6
+|-
+|{{Prestige|1|23}}1100-1199||+15||-7
+|-
+|{{Prestige|1|23}}1200-1299||+15||-8
+|-
+|{{Prestige|1|23}}1300-1499||+15||-10
+|-
+|{{Prestige|1|23}}1500-1799||+15||-11
+|-
+|{{Prestige|1|23}}1800-1999||+15||-12
+|-
+|{{Prestige|2|23}}2000-2499||+12||-12
+|-
+|{{Prestige|2|23}}2500-2799||+9||-12
+|-
+|{{Prestige|2|23}}2800-2999||+6||-12
+|-
+|{{Prestige|3|23}}3000-3099||+3||-12
+|-
+|{{Prestige|3|23}}3100-3999||+2||-12
+|-
+|{{Prestige|4|23}}4000+||+2||-18
+|}
+|-|H&S=
+<p style="margin:0">'''<span style="color:#777">REMOVED</span> Hide & Seek'''</p>
+{|class="wikitable" style="background-color:#444;color:#fff;margin-top:0;text-align:center;white-space:nowrap"
+!Trophy Range||width=66.26|1<sup>st</sup>||width=66.26|2<sup>nd</sup>||width=66.26|3<sup>rd</sup>||width=66.26|4<sup>th</sup>
+|-
+|||height=0 style=background-color:#0f0| ||colspan=3 height=0 style=background-color:#f00|
+|-
+|{{Prestige|1|23}}1000-1499||+15||+7||0||-7
+|-
+|{{Prestige|1|23}}1500-1999||+15||+7||0||-8
+|-
+|{{Prestige|2|23}}2000-2499||+13||+5||-3||-11
+|-
+|{{Prestige|2|23}}2500-2799||+11||+4||-4||-12
+|-
+|{{Prestige|2|23}}2800-2999||+7||+2||-4||-12
+|-
+|{{Prestige|3|23}}3000-3099||+5||+1||-5||-13
+|-
+|{{Prestige|3|23}}3100-3999||+3||0||-5||-13
+|-
+|{{Prestige|4|23}}4000+||+3||-1||-8||-18
+|-
+|colspan=9|<div style="font-size:12px;line-height:0">''Under construction …''</div>
+|}
+</tabber>
+
+==Tiers==
+As you accumulate Trophies with a Brawler, they are promoted to higher Tiers. Each Brawler's Tier reflects their highest individual Trophy count. Once a Tier is reached on a Brawler, the Brawler cannot be demoted to a lower Tier, even if they lose Trophies.
+{|class="article-table mw-collapsible" style="text-align:center"
+!Tier||Icon||Trophies||Reward
+|-
+|Wood||{{Rank|Wood}}||{{png|Trophy|16}}0||
+|-
+|Bronze||{{Rank|Bronze}}||{{png|Trophy|16}}250||{{png|Shelly2-pfp}}Brawler Icon<br>{{png|Shelly-Spray}}Brawler Spray
+|-
+|Silver||{{Rank|Silver}}||{{png|Trophy|16}}500||<div style="line-height:18.66px">{{png|Shelly Pin-Happy|17}}Brawler Happy Pin<br>{{png|Shelly Pin-Special|17}}Brawler Special Pin<br>{{png|Shelly Pin-Facepalm|17}}Brawler Facepalm Pin</div>
+|-
+|Gold||{{Rank|Gold}}||{{png|Trophy|16}}750||{{png|Catalogue-Rare}}Brawler Rare Skin<br><div style="font-size:8px">({{png|Icon-Bling|13}}1000 if the Brawler has none<br>or if their only Rare Skin is seasonal)</div>
+|-
+|Prestige 1||{{Rank|Prestige 1}}||{{png|Trophy|16}}1000||{{png|Titles}}Brawler Gold Title
+|-
+|Prestige 2||{{Rank|Prestige 2}}||{{png|Trophy|16}}2000||{{png|Shelly Prestige-pfp}}Brawler Prestige Icon
+|-
+|Prestige 3+||{{Rank|Prestige 3}}||{{png|Trophy|16}}3000+||{{png|Titles}}Brawler Neon Title
+|}
+
+===Prestige===
+Prestige is unlocked for a Brawler at every multiple of 1000 Trophies. When reaching a new Prestige level, it becomes impossible to drop Trophies below the threshold. The total Prestige of all Brawlers combined is shown on a player's profile and in the Leaderboards. Reaching 1, 25, 50, 100, and 200 total Prestige unlocks a new [[Battle Card]]. There is no limit to the number of Prestige levels a Brawler can have, but the highest tier of Trophy gain is reached in Prestige 4.
+
+==Win Streak==
+[[File:Win Streak.png|x50px|right]]
+For each win starting from 2 consecutive wins with a single Brawler, a streak counter starts where the Brawler receives 1 additional Trophy per win. Higher Win Streak awards more additional Trophies, with 10 Trophies being maximum number you can receive. If you lose, the counter resets to 0, but if you draw, the counter does not reset. Win Streak does not award additional Trophies above 2000 Trophies.
+
+Each Brawler's current Win Streak is tracked in the Brawlers menu if the streak is at least 2 wins. Streaks above 6 are displayed with a yellow flame. The player's highest-ever Win Streak is displayed on their profile with the associated Brawler next to it.
+
+==Underdog==
+[[File:Underdog.png|x50px|right]]
+The Underdog System allows you to gain more Trophies or lose fewer Trophies after 3v3 matches if the game believes you got an unfair matchup. These matches display a yellow "Underdog" banner on the end screen. The exact conditions of Underdog are based on MMR score and are as such unknown.
+
+If you win an Underdog match, you receive 5 additional Trophies. If you draw, you receive 4 Trophies. If you lose, you lose no Trophies and your Brawler's Win Streak does not reset. You can't be an Underdog in Ranked, Showdown, Duels, or if your Brawler is above 2000 Trophies.
+
+==Leaderboards==
+[[File:Leaderboard.png|x90px|right]]
+Leaderboards are accessed by tapping the menu button in the top right and selecting "Leaderboards". The 200 players with the most Trophies are ranked globally and locally in a scoreboard, but you are able to view your exact position if you're within the top 1000. There are also Leaderboards for Clubs with the most combined Trophies, players with the highest Trophies for each individual Brawler, and all-time Trophy achievements.
+
+===HALL OF FAME — Players and their Achievements===
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center;white-space:nowrap"
+!colspan=9|Brawler Trophies Achievements
+|-
+!Trophies||By||Brawler||Achieved on||Game Mode
+|-
+|{{png|Trophy|16}}1000||Kapao!!||{{png|El Primo Pin-Neutral}}El Primo||September 9, 2017||
+|-
+|{{png|Trophy|16}}1001||Bedardo||{{png|Barley Pin-Neutral}}Barley||September 10, 2017||
+|-
+|{{png|Trophy|16}}1501||Yde||{{png|Spike Pin-Neutral}}Spike||April 21, 2019<ref>https://youtu.be/Ow8t25mOY_c</ref>||{{png|Siege}}Siege
+|-
+|{{png|Trophy|16}}1991||Scor||{{png|8-Bit Pin-Neutral}}8-Bit||November 3, 2019<ref>https://youtu.be/MQRqWwQNcQQ</ref>||{{png|Showdown}}Solo Showdown
+|-
+|{{png|Trophy|16}}2000<br>{{png|Trophy|16}}2000||Achapi<br>Rsitei||{{png|Penny Pin-Neutral}}Penny<br>{{png|Max Pin-Neutral}}Max||March 22, 2020<ref>https://youtu.be/dUU1tI-0atE</ref>
+|-
+|{{png|Trophy|16}}3001||Bagelz||{{png|Bea Pin-Neutral}}Bea||January 10, 2021<ref>https://youtu.be/8tMEx-gydj8</ref>||{{png|Showdown}}Solo Showdown
+|-
+|{{png|Trophy|16}}3992||Bellen||{{png|Janet Pin-Neutral}}Janet||January 1, 2023||{{png|Showdown}}Solo Showdown
+|-
+|{{png|Trophy|16}}4691||woodchuck321||{{png|Dynamike Pin-Neutral}}Dynamike||February 2, 2024<ref>https://youtu.be/_oPbOf0sQIM</ref>||{{png|Brawl Ball}}Brawl Ball
+|-
+|{{png|Trophy|16}}10,000||Izana||{{png|Bea Pin-Neutral}}Bea||November 6, 2024||{{png|Brawl Ball}}Brawl Ball
+|-
+|{{png|Trophy|16}}30,022||Vital Shark||{{png|Moe Pin-Neutral}}Moe||December 4, 2024<ref>https://youtu.be/2DnkdW6bE9o</ref>||{{png|Brawl Ball}}Brawl Ball
+|-
+|{{png|Trophy|16}}50,000||Vital Shark||{{png|Rico Pin-Neutral}}Rico||January 31, 2025<ref>https://youtu.be/YX6cEYJ4mPo</ref>||{{png|Brawl Ball}}Brawl Ball
+|-
+|{{png|Trophy|16}}52,250||Izana||{{png|Bea Pin-Neutral}}Bea||February 5, 2025||{{png|Brawl Ball}}Brawl Ball
+|-
+|{{png|Trophy|16}}70,001||Ponkey||{{png|Mortis Pin-Neutral}}Mortis||February 4, 2026<ref>https://youtu.be/Nvdsnd5nYGc</ref>||{{png|Brawl Ball}}Brawl Ball
+|}
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center;white-space:nowrap"
+!colspan=9|Prestige Achievements
+|-
+!colspan=2|First Ever||By||Brawler||Achieved on||Game Mode
+|-
+|{{Prestige|2|56}}||Prestige 2||Izana||{{png|Crow Pin-Neutral}}Crow||February 25, 2026, 15:00 UTC<ref>https://youtu.be/4VbR538wjFQ</ref>||{{png|Brawl Ball}}Brawl Ball
+|-
+|<div style="font-size:{{#expr:600/7}}%;line-height:0">'''37,335''' x</div>{{Prestige|3|56}}||Prestige 3<br>{{png|Trophy|16}}3200<br>{{png|Trophy|16}}3500
+|Gay Prestiges<br>ChattyPineapple<br>ChattyPineapple
+|{{png|Shelly Pin-Neutral}}Shelly<br>{{png|Shelly Pin-Neutral}}Shelly<br>{{png|Shelly Pin-Neutral}}Shelly
+|February 26, 2026, 11:21 UTC<ref>https://youtu.be/pi04dSYA6f4</ref><br>March 11, 2026, 0:02 UTC<br>March 20, 2026, 5:30 UTC
+|{{png|Showdown}}Solo Showdown<br>{{png|Showdown}}Solo Showdown<br>{{png|Showdown}}Solo Showdown
+|-
+|<div style="line-height:0">'''526''' x</div>{{Prestige|4|56}}||Prestige 4<br>{{png|Trophy|16}}4100<br>{{png|Trophy|16}}4500
+|ChattyPineapple<br>☬IRON._.MIR☬<br>Physic Gear 5
+|{{png|Shelly Pin-Neutral}}Shelly<br>{{png|Buzz Pin-Neutral}}Buzz<br>{{png|Colt Pin-Neutral}}Colt
+|March 27, 2026, 15:54 UTC<br>April 2, 2026, 23:37 UTC<br>April 9, 2026, 17:41 UTC
+|{{png|Showdown}}Solo Showdown<br>{{png|Showdown}}Solo Showdown<br>{{png|Brawl Arena}}{{#expr:43700/544 round0}}%{{png|Brawl Ball}}{{#expr:10700/544 round0}}%
+|-
+|<div style="line-height:0">'''28''' x</div>{{Prestige|5|56}}||Prestige 5<br>{{png|Trophy|16}}5500
+|Physic Gear 5<br>Itay💞Buzz爱
+|{{png|Colt Pin-Neutral}}Colt<br>{{png|Rosa Pin-Neutral}}Rosa
+|May 26, 2026, 13:18 UTC<ref>https://youtu.be/9-jigMI_Ka4</ref><br>July 17, 2026, 5:57 UTC
+|{{png|Brawl Arena}}{{#expr:63200/944 round0}}%{{png|Brawl Ball}}{{#expr:31200/944 round0}}%<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''11''' x</div>{{Prestige|6|56}}||Prestige 6<br>{{png|Trophy|16}}6500
+|Itay💞Buzz爱<br>MightyBs 🐉
+|{{png|Rosa Pin-Neutral}}Rosa<br>{{png|Surge Pin-Neutral}}Surge
+|July 20, 2026, 21:32 UTC<br>July 28, 2026, 22:08 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''4''' x</div>{{Prestige|7|56}}||Prestige 7<br>{{png|Trophy|16}}7500
+|MightyBs 🐉<br>MightyBs 🐉
+|{{png|Surge Pin-Neutral}}Surge<br>{{png|Surge Pin-Neutral}}Surge
+|August 1, 2026, 20:21 UTC<br>August 31, 2026, 17:08 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''3''' x</div>{{Prestige|8|56}}||Prestige 8<br>{{png|Trophy|16}}8500
+|MightyBs 🐉<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』
+|{{png|Surge Pin-Neutral}}Surge<br>{{png|Shade Pin-Neutral}}Shade
+|September 3, 2026, 12:24 UTC<br>September 4, 2026, 8:48 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''3''' x</div>{{Prestige|9|56}}||Prestige 9<br>{{png|Trophy|16}}9500
+|『火<nowiki>|</nowiki>Tɪᴇs🥀』<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』
+|{{png|Shade Pin-Neutral}}Shade<br>{{png|Shade Pin-Neutral}}Shade
+|September 5, 2026, 17:31 UTC<br>September 7, 2026, 14:05 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''1''' x</div>{{Prestige|10|56}}||Prestige 10<br>{{png|Trophy|16}}10500
+|『火<nowiki>|</nowiki>Tɪᴇs🥀』<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』
+|{{png|Shade Pin-Neutral}}Shade<br>{{png|Shade Pin-Neutral}}Shade
+|September 7, 2026, 21:40 UTC<br>September 8, 2026, 23:31 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''1''' x</div>{{Prestige|11|56}}||Prestige 11<br>{{png|Trophy|16}}11500
+|『火<nowiki>|</nowiki>Tɪᴇs🥀』<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』
+|{{png|Shade Pin-Neutral}}Shade<br>{{png|Shade Pin-Neutral}}Shade
+|October 2, 2026, 5:54 UTC<br>October 6, 2026, 7:10 UTC
+|{{png|Showdown Plus}}Showdown+<br>{{png|Showdown Plus}}Showdown+
+|-
+|<div style="line-height:0">'''1''' x</div>{{Prestige|12|56}}||Prestige 12
+|『火<nowiki>|</nowiki>Tɪᴇs🥀』
+|{{png|Shade Pin-Neutral}}Shade
+|October 7, 2026, 6:55 UTC
+|{{png|Showdown Plus}}Showdown+
+|-
+|colspan=9|<div style="line-height:0">''Last updated: October 29, 2026''</div>
+|}
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center;white-space:nowrap"
+!colspan=9|List of Players with a Prestige 4 Brawler (99+)
+|-
+!#||By||Brawler||Achieved on||Game Mode
+|-
+|1st<br>2nd<br>3rd<br>4th<br>4th<br>4th<br>7th<br>8th<br>9th<br>10th<br>11th<br>12th<br>13th<br>14th<br>15th<br>16th<br>17th<br>18th<br>19th<br>20th<br>21st<br>22nd<br>23rd<br>23rd<br>25th<br>26th<br>27th<br>28th<br>29th<br>30th<br>31st<br>32nd<br>32nd<br>34th<br>35th<br>36th<br>37th<br>38th<br>39th<br>40th<br>41st<br>42nd<br>43rd<br>44th<br>45th<br>46th<br>47th<br>48th<br>49th<br>50th<br>51st<br>52nd<br>53rd<br>54th<br>55th<br>56th<br>57th<br>58th<br>59th<br>60th<br>61st<br>62nd<br>63rd<br>64th<br>65th<br>66th<br>67th<br>68th<br>69th<br>70th<br>71st<br>72nd<br>73rd<br>74th<br>75th<br>76th<br>77th<br>78th<br>79th<br>80th<br>81st<br>82nd<br>83rd<br>84th<br>85th<br>86th<br>87th<br>88th<br>89th<br>90th<br>91st<br>92nd<br>93rd<br>94th<br>95th<br>96th<br>97th<br>98th<br>99th<br><span style="font-size:80%">100th</span>
+|ChattyPineapple<br>Angelo<3 ♛<br>☬IRON._.MIR☬<br>Physic Gear 5<br>KAIRON<br>Querino🐈‍⬛<br>ᴛᴛ <nowiki>|</nowiki> ʙᴀᴢᴢɪᴋ✝️💞<br>Itay💞Buzz爱<br>❄︎𝐅ᴏ𝐍ᴛʀ𝐞𝐬𝐬<br>Arkozz💞テルアビブ<br>Rubikk.🇰🇵<br>時空の七皇<br>Only Meg<br>Clem2.0🤍Darryl<br>67!Matteo<br><span style="font-size:75%">﷽𝓔💤քɛαֆɛꨄ︎𝒮Đ</span><br>덩희<br>Acronixャー🌺<br>æncore<br>Z💫<br>Duo♡Brodo🏴‍☠️<br>⬜K•O•R⬜<br>𝐅𝐌<nowiki>|</nowiki> Maeez<br>𝐒𝐢𝐫 Funtime<br>𝑞𝑣𝑥𝑐❦🐬✨༄<br>Wintrader#4<br>[жмих]артем<br>ᴸᴼᴸʙᴏᴛᴄᴏᴏᴍᴍʟᴏʀᴅ<br>sy¡ncc🐰m<3<br>Acronixャー🌺<br>Burgerr🍔<br>EzSalmon❦<br>Unc Clemix<br>JeTeMange🏴‍☠️<br>Sэmmи<br>Plastic🦇kyx<br>Yoru💍.<br>Herzon<br>Pówērdàs<br>Fules❤Feezy<br>@dxrky<br>w4ᵔ ᵕ ᶻddy🩶<br>Ä￶ssery ~ ✨<br>лорд⚜️куртизант<br>Nekeryyy💘Ś<br>le sushi<br>shy<br>washed rothank<br>иlfea櫻桃<br>Coo1_P1aYeR<br>1.9 TDI<br>pennynationよ<br>Fantikk#1<br>Oscqrkk.🇰🇵<br>ฅ≀≁˕͛ ⎼マΒⅭⅬ❦⟆<br>Maddoxあ〆ー👑<br>Eiwodefu.🇯🇵<br>ミンヒョク<br>@wqrky<br>Sewo>Plushy🤡<br>trust my skill.<br>5 ПРАЙМ НА ВПН<br>lertyy?🤍オス<br>avengerloner<br>jkl37<br>Rixxkì🏴‍☠️<br>МУДРЫЙ ДЕД<br>xxduckl¡ne🐈‍⬛️<br>@snowracing<br>rsipzee wks<br>yokítoニャー<br>alohadance😊<br>фьюзишь<br>manfis<br>sinayy🎈<br>intrognito🦘<br>『 ø_Yarik_ø 』<br>Itay💞Buzz爱<br>༏ ℷཀ cen𐕣rlx<br>TT<nowiki>|</nowiki>Cat💞<br>Plushy💍<br>СПИДРАН 600К<br>Dardo❤️‍🔥<br>Blast<br>Jimmy<br>MightyBs 🐉<br>c’est leiny<br>qqdesa¡nt🐰<3<br>Brawler<br>༏ ℷཀ cen𐕣rlx<br>덩희<br>syydoooo ?<br>Катзе🧡あえせ<br>Akashi?🪽スラング<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』<br>Her Good Boy 💞<br>Bs in 2026?🥀<br>🖤ζ͜͡Toast爱🕊<br>romeeeo🏴‍☠️<br>TOMato good
+|{{png|Shelly Pin-Neutral}}Shelly<br>{{png|Finx Pin-Neutral|23}}Finx<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Colt Pin-Neutral|23}}Colt<br>{{png|Bull Pin-Neutral|23}}Bull<br>{{png|Emz Pin-Neutral|23}}Emz<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Lily Pin-Neutral|23}}Lily<br>{{png|Lou Pin-Neutral|23}}Lou<br>{{png|Bull Pin-Neutral|23}}Bull<br>{{png|Meg Pin-Neutral|23}}Meg<br>{{png|Darryl Pin-Neutral|23}}Darryl<br>{{png|Juju Pin-Neutral|23}}Juju<br>{{png|Cordelius Pin-Neutral|23}}Cordelius<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Brock Pin-Neutral|23}}Brock<br>{{png|Charlie Pin-Neutral|23}}Charlie<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Emz Pin-Neutral|23}}Emz<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Piper Pin-Neutral|23}}Piper<br>{{png|Clancy Pin-Neutral|23}}Clancy<br>{{png|Charlie Pin-Neutral|23}}Charlie<br>{{png|Hank Pin-Neutral|23}}Hank<br>{{png|Cordelius Pin-Neutral|23}}Cordelius<br>{{png|Chester Pin-Neutral|23}}Chester<br>{{png|Gale Pin-Neutral|23}}Gale<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Damian Pin-Neutral|23}}Damian<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Meg Pin-Neutral|23}}Meg<br>{{png|Melodie Pin-Neutral|23}}Melodie<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Cordelius Pin-Neutral|23}}Cordelius<br>{{png|Maisie Pin-Neutral|23}}Maisie<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Bo Pin-Neutral|23}}Bo<br>{{png|Gale Pin-Neutral|23}}Gale<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Frank Pin-Neutral|23}}Frank<br>{{png|Mortis Pin-Neutral|23}}Mortis<br>{{png|Janet Pin-Neutral|23}}Janet<br>{{png|Lily Pin-Neutral|23}}Lily<br>{{png|Trunk Pin-Neutral|23}}Trunk<br>{{png|Penny Pin-Neutral|23}}Penny<br>{{png|Lily Pin-Neutral|23}}Lily<br>{{png|Brock Pin-Neutral|23}}Brock<br>{{png|Kit Pin-Neutral|23}}Kit<br>{{png|Fang Pin-Neutral|23}}Fang<br>{{png|Gus Pin-Neutral|23}}Gus<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Bibi Pin-Neutral|23}}Bibi<br>{{png|Colt Pin-Neutral|23}}Colt<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Glowy Pin-Neutral|23}}Glowy<br>{{png|Mandy Pin-Neutral|23}}Mandy<br>{{png|Gale Pin-Neutral|23}}Gale<br>{{png|Fang Pin-Neutral|23}}Fang<br>{{png|Meg Pin-Neutral|23}}Meg<br>{{png|Gale Pin-Neutral|23}}Gale<br>{{png|Chester Pin-Neutral|23}}Chester<br>{{png|Meg Pin-Neutral|23}}Meg<br>{{png|Starr Nova Pin-Neutral|23}}Starr Nova<br>{{png|Rico Pin-Neutral|23}}Rico<br>{{png|Colette Pin-Neutral|23}}Colette<br>{{png|Meg Pin-Neutral|23}}Meg<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Pearl Pin-Neutral|23}}Pearl<br>{{png|Rosa Pin-Neutral|23}}Rosa<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Lily Pin-Neutral|23}}Lily<br>{{png|Bibi Pin-Neutral|23}}Bibi<br>{{png|Melodie Pin-Neutral|23}}Melodie<br>{{png|Alli Pin-Neutral|23}}Alli<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Starr Nova Pin-Neutral|23}}Starr Nova<br>{{png|Surge Pin-Neutral|23}}Surge<br>{{png|Starr Nova Pin-Neutral|23}}Starr Nova<br>{{png|Fang Pin-Neutral|23}}Fang<br>{{png|Max Pin-Neutral|23}}Max<br>{{png|Sirius Pin-Neutral|23}}Sirius<br>{{png|Emz Pin-Neutral|23}}Emz<br>{{png|Brock Pin-Neutral|23}}Brock<br>{{png|Emz Pin-Neutral|23}}Emz<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Brock Pin-Neutral|23}}Brock<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Starr Nova Pin-Neutral|23}}Starr Nova<br>{{png|Brock Pin-Neutral|23}}Brock<br>{{png|Hank Pin-Neutral|23}}Hank
+|March 27, 2026, 15:54 UTC<br>March 29, 2026, 9:19 UTC<br>March 30, 2026, 15:22 UTC<br>March 30, 2026, 16:28 UTC<br>March 30, 2026, 16:28 UTC<br>March 30, 2026, 16:28 UTC<br>April 1, 2026, 20:43 UTC<br>April 3, 2026, 21:39 UTC<br>April 7, 2026, 11:00 UTC<br>April 13, 2026, 22:28 UTC<br>April 14, 2026, 19:25 UTC<br>April 18, 2026, 3:53 UTC<br>April 21, 2026, 13:19 UTC<br>April 21, 2026, 19:23 UTC<br>May 3, 2026, 10:58 UTC<br>May 3, 2026, 14:03 UTC<br>May 3, 2026, 14:32 UTC<br>May 4, 2026, 21:17 UTC<br>May 6, 2026, 23:55 UTC<br>May 7, 2026, 14:11 UTC<br>May 11, 2026, 13:17 UTC<br>May 14, 2026, 19:33 UTC<br>May 23, 2026, 12:54 UTC<br>May 23, 2026, 12:54 UTC<br>May 24, 2026, 9:56 UTC<br>May 24, 2026, 13:13 UTC<br>May 24, 2026, 23:52 UTC<br>May 25, 2026, 17:14 UTC<br>May 26, 2026, 15:44 UTC<br>May 27, 2026, 11:40 UTC<br>May 27, 2026, 12:58 UTC<br>May 27, 2026, 18:00 UTC<br>May 27, 2026, 18:00 UTC<br>May 29, 2026, 23:48 UTC<br>June 3, 2026, 20:35 UTC<br>June 4, 2026, 13:15 UTC<br>June 5, 2026, 12:07 UTC<br>June 6, 2026, 17:22 UTC<br>June 7, 2026, 9:33 UTC<br>June 7, 2026, 14:56 UTC<br>June 7, 2026, 17:15 UTC<br>June 8, 2026, 13:34 UTC<br>June 8, 2026, 20:18 UTC<br>June 9, 2026, 13:48 UTC<br>June 9, 2026, 15:48 UTC<br>June 10, 2026, 19:07 UTC<br>June 10, 2026, 19:35 UTC<br>June 10, 2026, 20:21 UTC<br>June 10, 2026, 21:07 UTC<br>June 11, 2026, 16:18 UTC<br>June 11, 2026, 18:26 UTC<br>June 13, 2026, 6:08 UTC<br>June 13, 2026, 11:41 UTC<br>June 13, 2026, 12:56 UTC<br>June 13, 2026, 17:27 UTC<br>June 14, 2026, 12:03 UTC<br>June 14, 2026, 19:20 UTC<br>June 15, 2026, 19:16 UTC<br>June 16, 2026, 17:37 UTC<br>June 17, 2026, 12:10 UTC<br>June 17, 2026, 13:19 UTC<br>June 18, 2026, 5:06 UTC<br>June 18, 2026, 16:44 UTC<br>June 19, 2026, 5:49 UTC<br>June 19, 2026, 7:02 UTC<br>June 19, 2026, 11:00 UTC<br>June 19, 2026, 11:38 UTC<br>June 19, 2026, 15:16 UTC<br>June 19, 2026, 18:11 UTC<br>June 20, 2026, 10:43 UTC<br>June 20, 2026, 12:08 UTC<br>June 20, 2026, 16:36 UTC<br>June 23, 2026, 10:13 UTC<br>June 23, 2026, 19:18 UTC<br>June 27, 2026, 6:07 UTC<br>June 27, 2026, 6:38 UTC<br>June 29, 2026, 16:48 UTC<br>June 30, 2026, 12:18 UTC<br>July 2, 2026, 0:42 UTC<br>July 2, 2026, 9:18 UTC<br>July 2, 2026, 21:06 UTC<br>July 3, 2026, 1:49 UTC<br>July 3, 2026, 7:20 UTC<br>July 3, 2026, 14:12 UTC<br>July 4, 2026, 22:38 UTC<br>July 5, 2026, 3:52 UTC<br>July 5, 2026, 6:39 UTC<br>July 5, 2026, 13:09 UTC<br>July 5, 2026, 21:07 UTC<br>July 6, 2026, 6:12 UTC<br>July 6, 2026, 6:51 UTC<br>July 6, 2026, 18:52 UTC<br>July 7, 2026, 16:55 UTC<br>July 7, 2026, 18:30 UTC<br>July 7, 2026, 18:48 UTC<br>July 8, 2026, 17:26 UTC<br>July 8, 2026, 21:36 UTC<br>July 11, 2026, 10:33 UTC<br>July 11, 2026, 10:37 UTC<br>July 11, 2026, 10:37 UTC
+|{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown|23}}Solo Showdown<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+
+|}
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center;white-space:nowrap"
+!colspan=9|List of Players with a Prestige 5 Brawler (28)
+|-
+!#||By||Brawler||Achieved on||Game Mode
+|-
+|1st<br>2nd<br>3rd<br>4th<br>5th<br>6th<br>6th<br>8th<br>9th<br>10th<br>11th<br>12th<br>13th<br>14th<br>15th<br>16th<br>17th<br>18th<br>19th<br>20th<br>21st<br>22nd<br>23rd<br>24th<br>25th<br>26th<br>27th<br>28th
+|Physic Gear 5<br>JeTeMange🏴‍☠️<br>☬IRON._.MIR☬<br>Itay💞Buzz爱<br>MightyBs 🐉<br>𝐅𝐌<nowiki>|</nowiki> Maeez<br>𝐒𝐢𝐫 Funtime<br>Snoopy<br>Her Good Boy 💞<br>T1<nowiki>|</nowiki>Diamante<br>SuperLab<br>Daddy ancore🤍s<br>ERA<nowiki>|</nowiki>ZenO🌺<br>Perter<br>𝚉𝙿<nowiki>|</nowiki>Rothank💎<br>tt:mesutbss<br>🫪🫪🫪<br>こよりの助手君🧪<br>Минхёк🩷Синди<br>Mikee<br>Mys🤍Hinka​ガイ<br>EzClemix❦<br>Neut.<br>Daisy❦<br>intrognito🦘<br>♔Acronixx❦🩶<br>『火<nowiki>|</nowiki>Tɪᴇs🥀』<br>༏ ℷཀ cen𐕣rlx
+|{{png|Colt Pin-Neutral|23}}Colt<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Rosa Pin-Neutral|23}}Rosa<br>{{png|Surge Pin-Neutral|23}}Surge<br>{{png|Emz Pin-Neutral|23}}Emz<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Buzz Pin-Neutral|23}}Buzz<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Edgar Pin-Neutral|23}}Edgar<br>{{png|Surge Pin-Neutral|23}}Surge<br>{{png|8-Bit Pin-Neutral|23}}8-Bit<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Wendy Pin-Neutral|23}}Wendy<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Damian Pin-Neutral|23}}Damian<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shelly Pin-Neutral|23}}Shelly<br>{{png|Shade Pin-Neutral|23}}Shade<br>{{png|Shade Pin-Neutral|23}}Shade
+|May 26, 2026, 13:18 UTC<br>July 5, 2025, 15:44 UTC<br>July 6, 2026, 10:33 UTC<br>July 15, 2026, 18:53 UTC<br>July 16, 2026, 20:54 UTC<br>July 19, 2026, 19:29 UTC<br>July 19, 2026, 19:29 UTC<br>July 20, 2026, 23:41 UTC<br>July 21, 2026, 2:55 UTC<br>July 28, 2026, 1:10 UTC<br>July 28, 2026, 20:57 UTC<br>July 29, 2026, 0:24 UTC<br>August 1, 2026, 14:57 UTC<br>August 1, 2026, 19:42 UTC<br>August 3, 2026, 15:19 UTC<br>August 18, 2026, 17:42 UTC<br>August 21, 2026, 21:25 UTC<br>August 25, 2026, 15:57 UTC<br>August 26, 2026, 9:48 UTC<br>September 6, 2026, 7:17 UTC<br>September 8, 2026, 23:13 UTC<br>September 26, 2026, 9:46 UTC<br>October 6, 2026, 16:28 UTC<br>October 14, 2026, 11:44 UTC<br>October 21, 2026, 22:59 UTC<br>October 27, 2026, 20:10 UTC<br>&nbsp;<br>&nbsp;
+|{{png|Brawl Arena|23}}{{#expr:106900/1488 round0}}%{{png|Brawl Ball|23}}{{#expr:41900/1488 round0}}%<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Brawl Arena|23}}Brawl Arena<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Showdown Plus|23}}Showdown+<br>{{png|Trophy|23}}Wintrader<br>{{png|Showdown|23}}Solo Showdown<br>&nbsp;<br>&nbsp;
+|}
+<div style="margin:-22px -6px 0"><gallery widths=100 spacing=small>
+Screenshot_20260801_222706_Brawl Stars.jpg|First Prestige 7
+Screenshot_20260721_032946_Brawl Stars.jpg|First Prestige 6
+First Prestige 5-Leaderboard.png|First Prestige 5
+First Prestige 4-Leaderboard.png|First Prestige 4
+Screenshot_20260226_132605_Brawl Stars.jpg|First Prestige 3
+Screenshot_20260226_132613_Brawl Stars.jpg
+DJbbRa8V4AAmpyA.jpg|First 1K Brawler
+DsftvfbVYAUbnH6.jpg
+2017-09-10-kapao.png
+</gallery></div>
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center"
+!colspan=9|Total Trophies Achievements
+|-
+!First Ever||By||Achieved on
+|-
+|{{png|Trophy|16}}10,000||笑一笑||September 6, 2017
+|-
+|{{png|Trophy|16}}20,000||<div style="line-height:14px">원식이<br>(OneSick)</div>||March 19, 2019
+|-
+|{{png|Trophy|16}}30,000||TwistiTwik||September 17, 2019
+|-
+|{{png|Trophy|16}}40,000||TwistiTwik||April 18, 2020
+|-
+|{{png|Trophy|16}}50,000||Eqwaak||December 29, 2020
+|-
+|{{png|Trophy|16}}60,000||Eqwaak||June 24, 2021
+|-
+|{{png|Trophy|16}}70,000||Hyra||April 26, 2022
+|-
+|{{png|Trophy|16}}80,000||Hyra||October 26, 2022
+|-
+|{{png|Trophy|16}}90,000||Hyra||September 3, 2023
+|-
+|{{png|Trophy|16}}100,000||Hyra||November 2, 2023
+|-
+|{{png|Trophy|16}}110,000||Physic||January 25, 2024
+|-
+|{{png|Trophy|16}}120,000||JuanCarlos||May 5, 2024
+|-
+|{{png|Trophy|16}}130,000||JuanCarlos||August 9, 2024
+|-
+|{{png|Trophy|16}}140,000||Sniper||October 14, 2024
+|-
+|{{png|Trophy|16}}150,000||Physic||November 6, 2024
+|-
+|{{png|Trophy|16}}160,000||Hyra||November 24, 2024
+|-
+|{{png|Trophy|16}}170,000||Hyra||November 28, 2024
+|-
+|{{png|Trophy|16}}180,000||Adonis||February 5, 2025
+|-
+|{{png|Trophy|16}}190,000||Hyra||April 24, 2025
+|-
+|{{png|Trophy|16}}200,000||Hyra||April 28, 2025
+|-
+|{{png|Trophy|16}}210,000||Elox||March 16, 2026
+|-
+|{{png|Trophy|16}}220,000||Elox||March 22, 2026
+|-
+|{{png|Trophy|16}}230,000||Elox||March 31, 2026
+|-
+|{{png|Trophy|16}}240,000||Elox||April 9, 2026
+|-
+|{{png|Trophy|16}}250,000||Elox||April 21, 2026
+|-
+|{{png|Trophy|16}}260,000||Elox||April 30, 2026
+|-
+|{{png|Trophy|16}}270,000||Elox||May 11, 2026
+|-
+|{{png|Trophy|16}}280,000||Elox||May 22, 2026
+|-
+|{{png|Trophy|16}}290,000||Elox||June 2, 2026
+|-
+|{{png|Trophy|16}}300,000||Elox||June 19, 2026
+|-
+|{{png|Trophy|16}}310,000||VitalShark||August 5, 2026
+|-
+|{{png|Trophy|16}}320,000||Netty||September 22, 2026
+|-
+|{{png|Trophy|16}}330,000||Ties||October 25, 2026
+|}
+<div style="margin:-22px -6px 0"><gallery widths="95" spacing="small">
+File:First330k.jpg|First 330,000
+File:First320k.jpg|First 320,000
+File:First310k.jpg|First 310,000
+File:First300k.jpg|First 300,000
+File:First290k.jpg|First 290,000
+File:First280k.jpg|First 280,000
+File:First270k.jpg|First 270,000
+File:First260k.jpg|First 260,000
+File:First250k.jpg|First 250,000
+File:First240k.jpg|First 240,000
+File:First230k.jpg|First 230,000
+File:First220k.jpg|First 220,000
+File:First210k.jpg|First 210,000
+File:First200k.jpg|First 200,000
+File:First190k.jpg|First 190,000
+File:First180k.jpg|First 180,000
+File:First170k.jpg|First 170,000
+File:First160k.jpg|First 160,000
+File:First150k.jpg|First 150,000
+File:First140k.jpg|First 140,000
+File:First130k.jpg|First 130,000
+File:First120k.jpg|First 120,000
+File:First110k.jpg|First 110,000
+File:First100k.jpg|First 100,000
+File:First90k.jpg|First 90,000
+File:First80k.jpg|First 80,000
+File:First70k.jpg|First 70,000
+File:First60k.jpg|First 60,000
+File:First50k.jpg|First 50,000
+File:First40k.jpg|First 40,000
+File:First30k.jpg|First 30,000
+File:First20k.jpg|First 20,000
+File:First10k.jpg|First 10,000
+</gallery></div>
+
+==Trophy Road==
+[[File:Trophy Road.png|x90px|right]]
+[[File:Starr park - map.jpg|x120px|thumb|''The Starr Park map displayed when opening the Trophy Road, showcasing all areas inside it.'']]
+Rewards can only be earned for reaching certain total Trophy milestones for the first time. These rewards include new [[Events]] to play, [[Coins]], [[Power Points]], [[Credits]], [[Quests]], [[Starr Drops]].
+
+Additionally, reaching enough Trophies rewards the player [[Profile Icons#Trophy Icons|Profile Icon]]s separate from the Trophy Road.
+
+When the Trophy Road reward path is shown, it shows 20 worlds with 3 areas each that are unlocked by reaching their set milestones. Each area is named after one of the map [[environments]] and associated with up to three related Brawlers marketed together as Trios. Later Worlds remain cloudy until they are added in a future update. If the area's map environment has not existed at any point before its associated World was made visible on the Trophy Road, it is shown under construction.
+
+===Trophy Road Rewards===
+{{/Trophy Road}}
+{|class="article-table mw-collapsible mw-collapsed"
+!colspan=9|Other Rewards
+|-
+!<div style="line-height:14px">Trophy<br>Milestone</div>||Reward
+|-
+|1||Menu Buttons
+|-
+|15||[[Daily Streak]]
+|-
+|20||Win Streak
+|-
+|50||Daily [[Starr Drops|win rewards]]
+|-
+|100||{{png|Robot-pfp|56}}Profile Icon
+|-
+|325||[[Records]]<br>Seasonal Events<br>Community Event rewards
+|-
+|400||Shop login calendars & free rewards
+|-
+|500||{{png|Bronze trophy-pfp|56}}Profile Icon
+|-
+|800||[[Challenges]]
+|-
+|1000||[[Map Maker]]<br>[[Brawl Arena]]<br>[[Buffies]]<br>{{png|Spike icon-pfp|56}}Profile Icon<br>{{png|Silver trophy-pfp|56}}Profile Icon
+|-
+|2000||{{png|Gold trophy-pfp|56}}Profile Icon
+|-
+|2500||{{png|Bandana-pfp|56}}Profile Icon
+|-
+|3000||{{png|Purple trophy-pfp|56}}Profile Icon
+|-
+|4000||{{png|Star-pfp|56}}Profile Icon
+|-
+|5000||{{png|Bronze trophy star-pfp|56}}Profile Icon
+|-
+|6000||{{png|Victory crown-pfp|56}}Profile Icon
+|-
+|7000||{{png|Silver trophy stars-pfp|56}}Profile Icon
+|-
+|7500||{{png|Power-up-pfp|56}}Profile Icon
+|-
+|9000||{{png|Showdown crown-pfp|56}}Profile Icon
+|-
+|10000||{{png|Gold trophy crown-pfp|56}}Profile Icon
+|-
+|13000||{{png|Purple trophy crown-pfp|56}}Profile Icon
+|}
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center;white-space:nowrap"
+!colspan=9|Trophy Road Worlds
+|-
+!<div style="line-height:14px">Trophy<br>Milestone</div>||World||||Area||Trio
+|-
+|0||rowspan=3|{{png|Town Square|86}}||rowspan=3|1. Town Square||Starr Rail||{{png|R-T1-pfp}}{{png|Larry & Lawrie1-pfp}}
+|-
+|140||Gift Shop||{{png|Colette1-pfp}}{{png|Edgar1-pfp}}{{png|Griff1-pfp}}
+|-
+|310||Barley's Saloon||{{png|Barley1-pfp}}{{png|Piper1-pfp}}{{png|Byron1-pfp}}
+|-
+|500||rowspan=3|{{png|Retropolis|86}}||rowspan=3|2. Retropolis||Bull's Diner||{{png|Bull1-pfp}}{{png|Crow1-pfp}}{{png|Bibi1-pfp}}
+|-
+|800||Junkyard||{{png|Jessie1-pfp}}{{png|Pam1-pfp}}{{png|Nani1-pfp}}
+|-
+|1100||The Stunt Show||{{png|Stu1-pfp}}{{png|Janet1-pfp}}{{png|Bonnie1-pfp}}
+|-
+|1500||rowspan=3|{{png|Frontier World|86}}||rowspan=3|3. Frontier World||Ranger Ranch||{{png|Shelly1-pfp}}{{png|Colt1-pfp}}{{png|Spike1-pfp}}
+|-
+|2250||Mike's Mine||{{png|Dynamike1-pfp}}{{png|Carl1-pfp}}{{png|Jacky1-pfp}}
+|-
+|3000||Wild West Town||{{png|Belle1-pfp}}{{png|Sam1-pfp}}{{png|Pearl1-pfp}}
+|-
+|5000||rowspan=3|{{png|Haunted Haven|86}}||rowspan=3|4. Haunted Haven||Mortis' Mortuary||{{png|Mortis1-pfp}}{{png|Frank1-pfp}}{{png|Emz1-pfp}}
+|-
+|6500||Swamp of Love||{{png|Willow1-pfp}}{{png|Angelo1-pfp}}{{png|Alli1-pfp}}
+|-
+|8000||Ghost Station||{{png|Gus1-pfp}}{{png|Chuck1-pfp}}{{png|Shade1-pfp}}
+|-
+|10000||rowspan=3|{{png|Adventure Land|86}}||rowspan=3|5. Adventure Land||Rumble Jungle||{{png|Nita1-pfp}}{{png|Bo1-pfp}}{{png|Leon1-pfp}}
+|-
+|11500||Darryl's Ship||{{png|Darryl1-pfp}}{{png|Penny1-pfp}}{{png|Tick1-pfp}}
+|-
+|13000||Biodome||{{png|Rosa1-pfp}}{{png|Bea1-pfp}}{{png|Sprout1-pfp}}
+|-
+|15000||rowspan=3|{{png|Mystic Mountain|86}}||rowspan=3|6. Mystic Mountain||Tara's Bazaar||{{png|Tara1-pfp}}{{png|Gene1-pfp}}{{png|Sandy1-pfp}}
+|-
+|16500||Poco's Bandstand||{{png|El Primo1-pfp}}{{png|Poco1-pfp}}{{png|Amber1-pfp}}
+|-
+|18000||Snowtel||{{png|Mr. P1-pfp}}{{png|Gale1-pfp}}{{png|Lou1-pfp}}
+|-
+|20000||rowspan=3|{{png|Brawlywood|86}}||rowspan=3|7. Brawlywood||Starr Studios||{{png|Lola1-pfp}}{{png|Gray1-pfp}}{{png|Mico1-pfp}}
+|-
+|21500||Toon Studios||{{png|Kit1-pfp}}{{png|Starr Nova1-pfp}}
+|-
+|23000||⸺||{{png|Fang1-pfp}}{{png|Buster1-pfp}}{{png|Maisie1-pfp}}
+|-
+|25000||rowspan=3|{{png|Fairytale Castle|86}}||rowspan=3|8. Fairytale Castle||Castle Courtyard||{{png|Ash1-pfp}}{{png|Grom1-pfp}}{{png|Moe1-pfp}}
+|-
+|26500||Enchanted Woods||{{png|Cordelius1-pfp}}{{png|Lily1-pfp}}{{png|Trunk1-pfp}}
+|-
+|28000||Candy Stand||{{png|Chester1-pfp}}{{png|Mandy1-pfp}}{{png|Berry1-pfp}}
+|-
+|30000||rowspan=3|{{png|Tomorroworld|86}}||rowspan=3|9. Tomorroworld||Starrcade||{{png|Brock1-pfp}}{{png|Rico1-pfp}}{{png|8-Bit1-pfp}}
+|-
+|33000||Super City||{{png|Max1-pfp}}{{png|Surge1-pfp}}{{png|Meg1-pfp}}
+|-
+|36000||Starr Force||{{png|Ruffs1-pfp}}{{png|Squeak1-pfp}}{{png|Eve1-pfp}}
+|-
+|40000||rowspan=3|{{png|Water Land|86}}||rowspan=3|10. Water Land||Velocirapids||{{png|Buzz1-pfp}}{{png|Doug1-pfp}}{{png|Pierce1-pfp}}
+|-
+|43000||Sea Monsters||{{png|Glowy1-pfp}}
+|-
+|46000||Deep Sea||{{png|Otis1-pfp}}{{png|Hank1-pfp}}{{png|Clancy1-pfp}}
+|-
+|50000||rowspan=3|{{png|Creepsville|86}}||rowspan=3|11. Creepsville||I||
+|-
+|53000||II||
+|-
+|56000||III||
+|-
+|60000||rowspan=3|{{png|Chronotrap|86}}||rowspan=3|12. Chronotrap||I||
+|-
+|63000||II||
+|-
+|66000||III||
+|-
+|70000||rowspan=3|{{png|Tunes Town|86}}||rowspan=3|13. Tunes Town||I||
+|-
+|73000||II||
+|-
+|76000||III||
+|-
+|80000||rowspan=3|{{png|Toyland|86}}||rowspan=3|14. Toyland||I||
+|-
+|83000||II||
+|-
+|86000||III||
+|-
+|90000||rowspan=3|{{png|MadEvil Manor|86}}||rowspan=3|15. MadEvil Manor||I||
+|-
+|93000||II||
+|-
+|96000||III||
+|}
+
+===Gallery===
+<gallery widths=80 spacing=small>
+Icon-Power Point TR.png|Power Points
+Icon-Coin TR.png|Coins
+Coins TR.png|Pile of Coins
+Icon-Credit TR.png|Credits
+Credits TR.png|Pile of Credits
+Icon-Bling TR.png|Bling
+Bling TR.png|Pile of Bling
+Starr Drop TR.png|Starr Drop
+Hypercharge Starr Drop TR.png|Hypercharge Starr Drop
+Brawl Ball TR.png|Brawl Ball
+Gem Grab TR.png|Gem Grab
+Team Events TR.png|Team Events
+Special Events TR.png|Special Events
+Ranked TR.png|Ranked
+Daily Quests TR.png|Daily Quests
+Season Quests TR.png|Season Quests
+Clubs TR.png|Clubs
+Sprays TR.png|Sprays
+Icon-Gem TR.png|Gems (Unused)
+Records TR.png|Records (Unused)
+</gallery>
+
+==Tips==
+*It is important to learn which Brawlers excel at each mode, as oftentimes the results of a match might be due to which Brawlers each team has. The right Brawler in the right event might result in a massive Trophy gain after a few matches, while a Brawler on the weaker side might result in a losing streak even when played well.
+*When struggling with a new Brawler, camping within bushes in a Showdown match will rack up Trophies quickly. Avoid all conflict and wait until there are a few Brawlers remaining. The main downside of this method is that it can be slow and less entertaining than continuously fighting. Note that this strategy will not work as well with low- or delayed-damage Brawlers, like throwers and healers, since they are likely to lose an encounter with another Brawler that comes into the same bush.
+*When trying to increase total Trophy count, remember it is much easier to gain Trophies with lower Trophy Brawlers.
+*Playing with a team can increase the chances of winning matches, as this allows players to plan out and try out multiple strategies with friends/clubmates.
+
+==Old Trophy Systems==
+{{/Old}}
+
+===Removed Features===
+{|class="article-table mw-collapsible mw-collapsed"
+!Season Trophies
+|-
+|[[File:Season Trophy.png|x100px|right]]
+Season Trophies were added in the [[Version History#Patch Notes: Angels vs Demons 29/10/24|October 2024 update]] and removed in the [[Version History/2026#Release Notes February 2026|Feburary 2026 update]]. They were gained instead of normal Trophies after 1000 for Brawlers and contributed to the [[Trophy Box]]. If a Brawler lost Season Trophies, they were not removed from the Trophy Box progress. If a Brawler lost a game with more than 1000 Trophies, they couldn't drop below 1000 Trophies, unless a game was lost at 1000 Trophies.
+
+Trophy seasons coincided with [[Brawl Pass]] seasons, and, at the end of every season, each player's Brawlers would lose their Season Trophies. In addition, players received a bigger Trophy Box the more Season Trophies they had at the end of a season, so more Trophies resulted in better rewards.
+|}
+{|class="article-table mw-collapsible mw-collapsed"
+!Prestige
+|-
+|[[File:Prestige.png|x100px|right]]
+Prestige was added in the [[Version History#Patch Notes: Angels vs Demons 29/10/24|October 2024 update]] and removed in the [[Version History/2026#Release Notes February 2026|Feburary 2026 update]]. It was obtained at the end of a season for each Brawler a player had in the top 200 global leaderboard. The Prestige for each individual Brawler prior to its removal can be viewed in the Leaderboards under the "Legacy" tab and the total Prestige is shown under "Previous Stats" in a player's profile.
+|}
+
+===Old Tier Systems===
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center"
+!colspan=10|Tiers (before February 2026 update)
+|-
+|{{Rank|Bronze 1}}<br>0||{{Rank|Bronze 2}}<br>20||{{Rank|Bronze 3}}<br>40||{{Rank|Bronze 4}}<br>60||{{Rank|Bronze 5}}<br>80||{{Rank|Bronze 6}}<br>100||{{Rank|Bronze 7}}<br>120||{{Rank|Bronze 8}}<br>140||{{Rank|Bronze 9}}<br>160||{{Rank|Bronze 10}}<br>180
+|-
+|{{Rank|Silver 1}}<br>200||{{Rank|Silver 2}}<br>220||{{Rank|Silver 3}}<br>240||{{Rank|Silver 4}}<br>260||{{Rank|Silver 5}}<br>280||{{Rank|Silver 6}}<br>300||{{Rank|Silver 7}}<br>320||{{Rank|Silver 8}}<br>340||{{Rank|Silver 9}}<br>360||{{Rank|Silver 10}}<br>380
+|-
+|{{Rank|Gold 1}}<br>400||{{Rank|Gold 2}}<br>420||{{Rank|Gold 3}}<br>440||{{Rank|Gold 4}}<br>460||{{Rank|Gold 5}}<br>480||{{Rank|Gold 6}}<br>500||{{Rank|Gold 7}}<br>520||{{Rank|Gold 8}}<br>540||{{Rank|Gold 9}}<br>560||{{Rank|Gold 10}}<br>580
+|-
+|{{Rank|Diamond 1}}<br>600||{{Rank|Diamond 2}}<br>620||{{Rank|Diamond 3}}<br>640||{{Rank|Diamond 4}}<br>660||{{Rank|Diamond 5}}<br>680||{{Rank|Diamond 6}}<br>700||{{Rank|Diamond 7}}<br>720||{{Rank|Diamond 8}}<br>740||{{Rank|Diamond 9}}<br>760||{{Rank|Diamond 10}}<br>780
+|-
+|{{Rank|Mythic 1}}<br>800||{{Rank|Mythic 2}}<br>820||{{Rank|Mythic 3}}<br>840||{{Rank|Mythic 4}}<br>860||{{Rank|Mythic 5}}<br>880||{{Rank|Mythic 6}}<br>900||{{Rank|Mythic 7}}<br>920||{{Rank|Mythic 8}}<br>940||{{Rank|Mythic 9}}<br>960||{{Rank|Mythic 10}}<br>980
+|-
+|colspan=2|{{Rank|Bling 1}}<br>1000||colspan=2|{{Rank|Bling 2}}<br>1200||colspan=2|{{Rank|Bling 3}}<br>1500||colspan=2|{{Rank|Bling 4}}<br>2000||colspan=2|{{Rank|Bling 5}}<br>3000
+|}
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center"
+!colspan=10|Tiers (before September 2025 update)
+|-
+|{{Rank|0}}<br>&nbsp;||{{Rank|1}}<br>0||{{Rank|2}}<br>20||{{Rank|3}}<br>40||{{Rank|4}}<br>60||{{Rank|5}}<br>80||{{Rank|6}}<br>100||{{Rank|7}}<br>120||{{Rank|8}}<br>140||{{Rank|9}}<br>160
+|-
+|{{Rank|10}}<br>180||{{Rank|11}}<br>200||{{Rank|12}}<br>220||{{Rank|13}}<br>240||{{Rank|14}}<br>260||{{Rank|15}}<br>280||{{Rank|16}}<br>300||{{Rank|17}}<br>320||{{Rank|18}}<br>340||{{Rank|19}}<br>360
+|-
+|{{Rank|20}}<br>380||{{Rank|21}}<br>400||{{Rank|22}}<br>420||{{Rank|23}}<br>440||{{Rank|24}}<br>460||{{Rank|25}}<br>480||{{Rank|26}}<br>500||{{Rank|27}}<br>520||{{Rank|28}}<br>540||{{Rank|29}}<br>560
+|-
+|{{Rank|30}}<br>580||{{Rank|31}}<br>600||{{Rank|32}}<br>620||{{Rank|33}}<br>640||{{Rank|34}}<br>660||{{Rank|35}}<br>680||{{Rank|36}}<br>700||{{Rank|37}}<br>720||{{Rank|38}}<br>740||{{Rank|39}}<br>760
+|-
+|{{Rank|40}}<br>780||{{Rank|41}}<br>800||{{Rank|42}}<br>820||{{Rank|43}}<br>840||{{Rank|44}}<br>860||{{Rank|45}}<br>880||{{Rank|46}}<br>900||{{Rank|47}}<br>920||{{Rank|48}}<br>940||{{Rank|49}}<br>960
+|-
+|colspan=5|{{Rank|50}}<br>980||colspan=5|{{Rank|51}}<br>1000
+|}
+
+===Old Trophy Leagues===
+Before the [[Version History#Release Notes June 2025|June 2025 update]], Trophy Road was separated into Leagues instead of Worlds.
+{|class="article-table mw-collapsible mw-collapsed" style="text-align:center"
+!colspan=9|Trophy Leagues
+|-
+!<div style="line-height:14px">Trophy<br>Milestone</div>||Tier||
+|-
+|0||{{png|tier icon 00|86}}||
+|-
+|500<br>650<br>800||{{png|tier icon 01|86}}||I<br>II<br>III
+|-
+|1000<br>1300<br>1600||{{png|tier icon 02|86}}||I<br>II<br>III
+|-
+|2000<br>2300<br>2600||{{png|tier icon 03|86}}||I<br>II<br>III
+|-
+|3000<br>3300<br>3600||{{png|tier icon 04|86}}||I<br>II<br>III
+|-
+|4000<br>4500<br>5000<br>5500||{{png|tier icon 05|86}}||I<br>II<br>III<br>IV
+|-
+|6000<br>6500<br>7000<br>7500||{{png|tier icon 06|86}}||I<br>II<br>III<br>IV
+|-
+|8000<br>8500<br>9000<br>9500||{{png|tier icon 07|86}}||I<br>II<br>III<br>IV
+|-
+|10000<br>11000<br>12000<br>13000<br>14000||{{png|tier icon 08|86}}||I<br>II<br>III<br>IV<br>V
+|-
+|16000<br>18000<br>20000<br>22000<br>25000||{{png|tier icon 09|86}}||I<br>II<br>III<br>IV<br>V
+|-
+|30000<br>35000<br>40000<br>45000<br>50000||{{png|tier icon 10|86}}||I<br>II<br>III<br>IV<br>V
+|-
+|55000<br>60000<br>65000<br>70000||{{png|tier icon 11|86}}||I<br>II<br>III<br>IV
+|}
+
+==History==
+*On 06/07/17, the number of Trophies lost when playing Showdown between 20 and 69 Trophies was decreased.
+*On 04/09/17, Trophy Seasons were introduced. Brawlers above 500 Trophies would lose 50% of their Trophies above 500 each season. Trophies were no longer capped at 500. The Trophy system was changed so that you only start losing more Trophies than you gain after 400 Trophies (from 200), and more Trophies were awarded from wins in 3v3.
+*On 07/12/17, ranks were established based on total Trophies, with rank-up bonuses and season end rewards. Trophy loss below 419 Trophies was decreased.
+*On 18/12/17, Brawler Trophies were added to the battle end screen.
+*On 22/12/17, matchmaking accuracy in high-Trophy games was increased.
+*On 21/05/18, Trophy Leagues based on total Trophies were introduced. 7 Brawlers were added to the Trophy Road. Trophy loss above 420 Trophies was decreased. Player names would be hidden in Showdown above 300 Trophies.
+*On 19/06/18, Trophy League tiers and rewards were adjusted.
+*On 05/12/18, the amount of Trophies gained above 500 Trophies in Solo Showdown and Duo Showdown was increased. The matchmaking was improved.
+*On 06/02/19, different matchmaking pools were added based on players' total Trophies. 'Play Again' would now be unlocked at 150 Trophies. A prevention mechanism for Trophy pushing was added so you couldn't face against the same player twice within 12 hours.
+*On 15/04/19, matchmaking for teams was made more difficult.
+*On 26/06/19, each lost Trophy would now be converted to 1 Star Point. Seasonal Token rewards for total Trophies were removed. The Trophy system was changed so that you only start losing more Trophies than you gain after 600 Trophies (from 500), and progress after 700 was made more difficult.
+*On 02/07/19, the Trophy system was changed so that you only start losing more Trophies than you gain after 800 Trophies (from 600), and more Trophies were awarded for wins.<ref>https://redd.it/c8949f</ref>
+*On 29/08/19, Ranks 21-35 were added, and season end rewards were reworked.
+*On 17/03/20, the 'Underdog' system was added.
+*On 29/04/20, the 'Play Again' feature would now be unlocked at 500 Trophies instead of 150 Trophies.
+*On 13/05/20, Ticket rewards in the Trophy Road were changed to Big Boxes.
+*On 02/07/20, the Trophy Road was extended from 14500 to 50000 Trophies.
+*On 22/10/20, matchmaking in a team was reworked.
+*On 15/12/20, Trophy League seasons were lengthened from 2 to 4 weeks. Season end Trophy decay was reworked.
+*On 27/01/21, matchmaking at high ranks was adjusted to be more accurate. Trophies could no longer be gained from the Map Maker 'Winner of The Day' mode.
+*On 28/01/21, a player's total Trophies would now affect Community Events matchmaking (in addition to Brawler Trophies).
+*On 31/03/22, a player's total Trophies would now affect matchmaking in the 500-799 Brawler Trophy Range.
+*On 27/04/22, an issue was fixed where Underdog draws would not award a Trophy bonus.
+*On 31/08/22, Trophy League seasons were aligned with Brawl Pass seasons.
+*On 28/02/23, adjusted matchmaking for team modes. Bot Matches would now be disabled above 600 Trophies (from 500).
+*On 25/04/23, Trophy reset was changed to only reset your highest 20 Brawlers, Trophy decay was increased for Brawlers below 1000 and decreased for Brawlers above 1000, the reward was changed from Star Points to Bling and was decreased heavily, and its seasons were shortened from 2 months to 2 weeks. The amount of Credits on the Trophy Road was increased from 1000 to 10000 Trophies, and added milestones with 500 Chroma Credits at 2000 and 4000 Trophies. Underdogs would not lose any Trophies if they lose the match, and the requirement was decreased to 150 Trophies (from 200). Opponents' player names would now be hidden for matches above 1000 Trophies (from 600). The time to face the same player again was decreased from 24 hours to 30 minutes.
+*On 23/05/23, Trophy reset was changed to only reset your highest 10 Brawlers (from 20), the number of Trophies lost was decreased, the Bling reward was increased, and its seasons were lengthened from 2 weeks to 4 weeks.
+*On 12/12/23, Trophy Road was tweaked to unlock game modes sooner and include Starr Drops as rewards. Win Streak was added.
+*On 13/12/23, Win Streak was disabled due to a bug.
+*On 18/12/23, Win Streak was re-enabled. Fixed a bug that let players earn a Win Streak while playing Map Maker.
+*On 01/02/24, changed matchmaking to allow duplicate Brawlers, removed the blacklisting time, and increased the differences in Trophies.
+*On 03/02/24, the changes from 01/02/24 were reverted.
+*On 27/02/24, the Trophy Road was extended from 50000 to 70000 Trophies. Ranks were renamed to Tiers.
+*On 29/10/24, Tiers were reworked to make 51 tiers, with the highest at 1000 Trophies. Trophy League seasons were aligned with Brawl Pass seasons. Brawlers above 1000 Trophies would lose all of their Trophies above 1000 each season. Trophy Reset no longer awarded Bling, instead, every Trophy above 1000 went towards upgrading the Trophy Box. Matchmaking would no longer consider total Trophies. After 1000 Trophies, players would all be in the same matchmaking pool. The Trophy system was changed so that you only start losing more Trophies than you gain after 1100 Trophies (from 800). Underdog was removed after 1000 Trophies, and the requirement was decreased to 100 Trophies (from 150). Win Streak was tied to individual Brawlers. The highest Win Streak record in profiles was now displayed with your previously selected favorite Brawler. The all-time Leaderboard was added. Reaching new tiers no longer awarded XP and Bling. Bot Matches would now be disabled above 800 Trophies (from 600). Prestige was added.
+*On 31/10/24, fixed a bug that let players earn a Win Streak while playing Ranked. Fixed all-time Leaderboard showing inaccurate data.
+*On 24/06/25, the Trophy Road was extended from 70000 to 100000 Trophies, and all of its rewards were redone. Rare and Super Rare Brawlers were made exclusive to the Trophy Road.
+*On 03/09/25, new tiers were added at 1200, 1500, 2000, and 3000 Trophies. The appearance of all tiers were changed and now appear on the [[Credits#Battle Cards|Battle Card]] in place of [[Records|Record Level]]. The matchmaking was adjusted above 1000 Trophies so players are more consistently matched with other players of similar Trophy count. The amount of Trophies lost in [[Brawl Arena]] was increased by 50% (rounds down). World 3 in Trophy Road was added.
+*On 28/10/25, the matchmaking was adjusted. World 4 in Trophy Road was added.
+*On 16/12/25, World 5 in Trophy Road was added, and rewards across the entire track were increased.
+*On 25/02/26, the Trophy Season, Trophy reset, Trophy Boxes, Season Trophies and Prestige were removed. Tiers were reworked with only 4 tiers before 1000 Trophies (from 500). Trophy Roads were added for individual Brawlers. Prestige was added, which would lock a Brawler's Trophies at every multiple of 1000 Trophies. Prestige Battle Cards, Prestige Icons, and Prestige Titles were added. The Trophy system was changed so that you only start losing more Trophies than you gain after 2000 Trophies (from 1100), and more Trophies were awarded for wins. Win Streak could now award up to 10 Trophies (from 5), but no Trophies above 2000. Underdog would now be disabled above 2000 Trophies (from 1000), Trophies on wins were increased to 5 (from 4), and 3 Trophies fewer would be lost on losses (from none). Player names would now be hidden above 2000 Trophies (from 1000). Bot Matches would now be disabled above 2000 Trophies (from 800). A hidden MMR was added for matchmaking which declared the skill level of a player. World 6 in Trophy Road was added.
+*On 04/03/26, fixed a bug where a Brawler's Trophy count could drop below the Trophy gate after losing a [[Duels]] match. Fixed a bug where losing Free Play matches resulted in Bot Matches in other slots.
+*On 22/04/26, Battle Cards for 100 and 200 Prestige were added. Reporting was added to Trophy games. World 7 in Trophy Road was added.
+*On 30/06/26, no Trophies would be lost on losing Underdog matches (from 3 fewer). Reaching a new Prestige now gets announced in club chat. World 8 in Trophy Road was added.
+*On 01/09/26, Rare and Super Rare Brawlers were moved out of the Trophy Road and were replaced by equivalent Credits. World 9 in Trophy Road was added.
+*On 07/10/26, Trophy loss was increased at 2000-2799 Trophies in [[Hide & Seek]]:<br>2000-2499 ⸺ 3rd: -1➞-3 ⸺ 4th: -10➞-11<br>2500-2799 ⸺ 3rd: -2➞-4 ⸺ 4th: -11➞-12
+*On 03/11/26, World 10 in Trophy Road was added. The Creepsville World was moved 2 spots earlier.
+
+{{Navigation}}
+[[Category:Items]]
+[[es:Trofeos]]
+[[ru:Трофеи]]

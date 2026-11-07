@@ -1,0 +1,248 @@
+{{Protection}}
+{{MagicWords}}
+{{Brawler Infobox|Title = Out of this World|PrestigeTitle = Stargazer|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3600|AttackRange = 9 (Long)|Reload = 2 seconds (Slow)|AttackSuperCharge = 4.0825-16.33% (close to max range)|AttackLabel = Min. Damage|Attack = 250|AttackLabel2 = Max. Damage|Attack2 = 1000|AttackBullets=3|AttackSpeed=4000|SuperSpeed = 4000|SuperRange = 9.33 (Very Long)|SuperSuperCharge = 10%|SuperLabel = Damage|Super = 500|SuperSpread = 360°|SuperDuration = 6 seconds
+|VoiceActor =Jack Ayres |Gadget1Name=Planetary Pushback|Gadget1Range=7.33 (Long)|Gadget1Cooldown=14 seconds|Gadget2Name = Telescope Trap|Gadget2Range=7.33 (Long)|Gadget2Duration = 6 seconds|Gadget2Cooldown=24 seconds|HyperchargeMultiplier=40%|AttackHyperchargeCharge=1.633-6.532% (close to max range)|SuperHyperchargeCharge=4%|Previous=Wendy|Next=Vince|SuperWidth=0.67}}
+{{Quote|Cosmo is the lead astronomer at Starr Park's Observatory. Besides teaching visitors about the universe, he is constantly gazing at the stars searching for something...}}{{Portrait}}
+Cosmo is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a long range, a variable damage output, a slow reload speed, and immense utility with his Super. He was the 107th Brawler added to the game. Cosmo attacks by throwing 3 planets that orbit in a circle, growing in size and damage the further they travel. For his Super, he fires a projectile that, upon hitting an enemy target, temporarily summons a black hole, which allows his and his allies' projectiles to strongly home in on the targets. His first Gadget, Planetary Pushback, lobs a projectile that knocks enemies back. His second Gadget, Telescope Trap, lobs his telescope to temporarily reveal an area, including enemies, and the enemies inside it cannot use movement abilities. His first Star Power, Precession, increases the orbit speed of his attacks. His second Star Power, Ammo Attractor, reloads 2 ammo when Cosmo's Super hits enemies. His Hypercharge, Cosmic Capture, makes his Super home in on the targets, and temporarily root them.
+
+==Attack: Orbit==
+{{Quote|Cosmo fires 3 projectiles that orbit in a circle. The projectiles get further apart as they travel, while growing in size and damage.}}
+Cosmo attacks by firing 3 planets that orbit in a circle. These planets grow in size and deal more damage the further they travel. The farther the planets travel, the more damage they will inflict, so Cosmo is less effective against enemies near him, but excels at supporting his team at range.
+
+== Super: Gravitation Pull ==
+{{Quote|Cosmo fires a positive magnet that attaches to an enemy. Teammate's projectiles then gain extreme homing towards the target.}} 
+Cosmo fires a projectile that, upon hitting an enemy target, spawns a black hole that follows them for 6 seconds. If his or his allies' projectiles pass through that area, the projectiles will strongly home in on the targets (it cannot miss). The change also applies to thrown projectiles, like [[Dynamike]], [[Grom]], and [[Barley]]'s attack or [[Sprout]], [[Squeak]], and [[Brock]]'s Super. However, this doesn't apply to Brawlers who uses themself as a projectile, like [[Mortis]], [[Kenji]], and [[Mico]]'s attack or [[El Primo]], [[Fang]], [[Kit]], [[Bull]], [[Darryl]], and [[Surge]]'s Super.
+
+== Gadgets ==
+=== Planetary Pushback ===
+{{Quote|Cosmo knocks enemies back from the targeted area. Cooldown: 14 seconds.}}{{Gadget|1}}
+Cosmo lobs a projectile that explodes in a 2.33-tile radius, knocking enemies back hit.
+
+=== Telescope Trap ===
+{{Quote|Cosmo uses his telescope to reveal an area for 6s sec, including invisible enemies. Enemy Brawlers inside this area cannot use movement abilities (dashes, jumps, teleports, etc.). Cooldown: 24 seconds.}}{{Gadget|2}}
+Cosmo lobs a telescope that reveals an area for 6 seconds, including invisible targets. Enemy Brawlers can't use movement abilities, such as dashes, jumps, and teleports, while in the area.
+
+== Star Powers ==
+=== Precession ===
+{{Quote|Increases the orbit speed of Cosmo's main attack by 25%.}}{{StarPower|1}}
+This Star Power increases the orbit speed of Cosmo's main attack by 25%.
+
+=== Ammo Attractor ===
+{{Quote|Hitting an enemy with Cosmo's Super reloads 2 ammo.}}{{StarPower|2}}
+Upon hitting an enemy with his Super, Cosmo instantly reloads 2 ammo.
+
+== Hypercharge: Cosmic Capture ==
+{{Quote|Projectiles have homing and root the target for 2 sec.}}{{Hypercharge}}
+When activated, Cosmo's Super homes in on the targets, and roots them for 2 seconds. Cosmo also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+
+=== Game Modes and Maps ===
+* In [[Knockout]] and [[Bounty]], Cosmo shines on long-range, open maps such as Shooting Star or Out in the Open. His expanding orbit main attack allows him to out-damage opposing Sharpshooters from maximum range without risking his lower health pool. Additionally, landing his Super on an enemy sniped behind cover allows long-range allies (such as [[Piper]], [[Brock]], [[Rico]], or [[Nani]]) to finish them off with homing shots, securing an instant player advantage.
+* In [[Hot Zone]], Cosmo acts as a top-tier zone controller. Placing his Telescopic Trap Gadget over the zone prevents high-mobility Brawlers like [[Stu]], [[Melodie]], [[Max]], or [[Mortis]] from using dashes or jumps to contest the area. If aggressive Tanks try to capture the zone, firing his main attack into the center forces them to take massive outer-orbit damage or retreat.
+* In [[Heist]], while Cosmo lacks high point-blank burst, his Super paired with high-volume or multi-bullet Brawlers (such as [[8-Bit]], [[Colt]], [[Lola]], or [[Clancy]]) creates devastating objective setups. Marking an enemy Brawler standing near the safe forces all incoming ally fire to home in directly through the target onto the safe, shredding both the Brawler and the objective simultaneously. However, avoid playing him on tight, heavy-wall Heist maps where close-range Tanks can jump onto you before you can setup your orbit range.
+* In [[Brawl Ball]], Cosmo functions primarily as a lane-denial defensive anchor. He can block enemies from rushing the ball with his Planetary Pushback Gadget, which knocks back approaching threats and disrupts ball carriers. You can also use the Super on the enemy ball carrier to allow your teammates to auto-aim and eliminate them instantly before they can reach your goal line.
+
+=== Recommended Build ===
+* In open or long-range maps, use Cosmo's Precession Star Power to increase the projectile speed of his orbiting planets, making it vastly easier to connect outer-arc shots on dodging enemies at maximum range.
+* His Planetary Pushback Gadget is crucial when dealing with aggressive Tanks and Assassins; trigger it right before an enemy closes the distance to knock them back into your high-damage outer orbit.
+* On objective-heavy modes like Hot Zone or against high-mobility Brawlers like Stu and Mortis, swap to the Telescopic Trap Gadget to lock down wide areas and prevent enemies from using dashes or jumps to push your lane.
+* When charging your Super, save it for moments when your team is fully reloaded and positioned to fire, as marking a target with it forces all incoming ally projectiles to home in on them for a guaranteed elimination.
+
+=== Strategies ===
+* Cosmo's Super creates a gravity field on a target, causing all nearby allied projectiles to curve directly into the marked Brawler for a brief duration. You can exploit this mechanic to hit enemies behind cover, as high-damage sharpshooters like Piper, Brock, [[Maisie]], or Bea can fire straight past a wall and have their shots bend automatically toward the marked target. 
+* The gravity sink created by Cosmo with his Super can create a damaging field when filled with projectiles, allowing him to additionally take out opponents near his target.
+* Additionally, applying to an enemy Brawler right as they activate a channelled or dash-based Super (such as [[Frank]], Brock, or [[Carl]]) allows your team to collapse on them instantaneously from long range before their ability can finish, completely turning the tide of a team fight without putting yourself in danger.
+
+=== Other ===
+* Cosmo moves at a standard Normal movement speed, meaning you must rely heavily on distance and map geometry rather than raw speed to keep aggressive Brawlers away.
+* His main attack projectiles travel in an expanding circular orbit around him, allowing him to hit enemies hiding behind small walls or pillars if you angle the curve of the outer arc around the cover. It is crucial to remember that Cosmo deals minimum damage at point-blank range and maximum damage at his outermost orbit. If an enemy Brawler gets too close to you, do not attempt to trade main attacks; instead, use terrain or your Planetary Pushback Gadget to quickly re-establish maximum range.
+* Cosmo struggles to hit opponents directly in front of him at long range, so instead aim your attack with the edges facing your target so that the rotating planets can hit them.
+* Cosmo's Super bypasses traditional line-of-sight restrictions because it marks a designated location or target directly. This allows you to apply pressure on snipers or low-health enemies hiding deep behind enemy lines without exposing yourself to danger. Additionally, when fighting near narrow choke points or water gaps, placing inside the tight corridor guarantees that any allied projectiles fired into the area will hit, completely blocking the enemy team's path.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = cosmo start vo 01.ogg|Filedescription = "Let's investigate this crazy cosmic conundrum."}}
+|{{Ogg|Filename = cosmo lead vo 01.ogg|Filedescription = "So far, so improbable!"}}
+|{{Ogg|Filename = cosmo hurt vo 01.ogg|Filedescription = "Ow! I was mid-equation."}}
+|{{Ogg|Filename = cosmo kill vo 01.ogg|Filedescription = "Result is within expected parameters."}}
+|{{Ogg|Filename = cosmo die vo 01.ogg|Filedescription = "Oh, stars are born, stars perish."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 01.ogg|Filedescription = "Nebula, are you watching?"}}
+|-
+|{{Ogg|Filename = cosmo start vo 02.ogg|Filedescription = "Alright, let the data collecting begin."}}
+|{{Ogg|Filename = cosmo lead vo 02.ogg|Filedescription = "Leading? Mmm... uh... small sample size."}}
+|{{Ogg|Filename = cosmo hurt vo 02.ogg|Filedescription = "Ow! That hurt worse than losing planet status!"}}
+|{{Ogg|Filename = cosmo kill vo 02.ogg|Filedescription = "One step closer to a working theory."}}
+|{{Ogg|Filename = cosmo die vo 02.ogg|Filedescription = "Ugh, back to the star chart."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 02.ogg|Filedescription = "Big Bang? No, that was just my Super!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 03.ogg|Filedescription = "Mmm, observe, calculate, survive!"}}
+|{{Ogg|Filename = cosmo lead vo 03.ogg|Filedescription = "Don't get confident, Cosmo!"}}
+|{{Ogg|Filename = cosmo hurt vo 03.ogg|Filedescription = "Note to self: revise my assumptions."}}
+|{{Ogg|Filename = cosmo kill vo 03.ogg|Filedescription = "Pop quiz. Surprise! You failed."}}
+|{{Ogg|Filename = cosmo die vo 03.ogg|Filedescription = "Back to the observatory."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 03.ogg|Filedescription = "Let me show you my work!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 04.ogg|Filedescription = *inhales* "Deep breath, Cosmo. First, we study the variables."}}
+|{{Ogg|Filename = cosmo lead vo 04.ogg|Filedescription = "The stars might actually be on our side!"}}
+|{{Ogg|Filename = cosmo hurt vo 04.ogg|Filedescription = "I did not account for that variable."}}
+|{{Ogg|Filename = cosmo kill vo 04.ogg|Filedescription = "You collapsed faster than a poorly supported hypothesis."}}
+|{{Ogg|Filename = cosmo die vo 04.ogg|Filedescription = "I knew I should've stayed indoors."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 04.ogg|Filedescription = "Gravity, please cooperate!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 05.ogg|Filedescription = "Students, please stay behind the safety line!"}}
+|{{Ogg|Filename = cosmo lead vo 05.ogg|Filedescription = "A promising trajectory, if it holds."}}
+|{{Ogg|Filename = cosmo hurt vo 05.ogg|Filedescription = "You, unpleasant physical anomaly detected."}}
+|{{Ogg|Filename = cosmo kill vo 05.ogg|Filedescription = "That was a chain reaction! I warned you in the syllabus."}}
+|{{Ogg|Filename = cosmo die vo 05.ogg|Filedescription = "The equation doesn't balance!"}}
+|
+|{{Ogg|Filename = cosmo ulti vo 05.ogg|Filedescription = *laughs* "This is why we study physics!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 06.ogg|Filedescription = "I'm not built for this, but the data calls my name."}}
+|{{Ogg|Filename = cosmo lead vo 06.ogg|Filedescription = "I should enjoy this, before it collapses."}}
+|{{Ogg|Filename = cosmo hurt vo 06.ogg|Filedescription = "Mmm, perhaps I overthought the wrong thing."}}
+|{{Ogg|Filename = cosmo kill vo 06.ogg|Filedescription = "Ooh! That worked! Interesting."}}
+|{{Ogg|Filename = cosmo die vo 06.ogg|Filedescription = "More research required."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 06.ogg|Filedescription = "Magnificent, ha ha! And slightly terrifying."}}
+|-
+|{{Ogg|Filename = cosmo start vo 07.ogg|Filedescription = "Nebula would have loved this mess."}}
+|{{Ogg|Filename = cosmo lead vo 07.ogg|Filedescription = "Nebula, are you seeing this?"}}
+|{{Ogg|Filename = cosmo hurt vo 07.ogg|Filedescription = "You're not toxic, you're just... reactive!"}}
+|{{Ogg|Filename = cosmo kill vo 07.ogg|Filedescription = "You're not the center of the universe! I checked."}}
+|{{Ogg|Filename = cosmo die vo 07.ogg|Filedescription = "I'll... recalculate later."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 07.ogg|Filedescription = "Magnetic mayhem!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 08.ogg|Filedescription = "I'd explain relativity, but we don't have time!"}}
+|{{Ogg|Filename = cosmo lead vo 08.ogg|Filedescription = "Every answer just opens a bigger question."}}
+|{{Ogg|Filename = cosmo hurt vo 08.ogg|Filedescription = "I'm fine. I'm... processing being fine. Ha ha!"}}
+|{{Ogg|Filename = cosmo kill vo 08.ogg|Filedescription = "An unexpected result, ha ha. Marvelous."}}
+|{{Ogg|Filename = cosmo die vo 08.ogg|Filedescription = "Do my chalkboard. I tried!"}}
+|
+|{{Ogg|Filename = cosmo ulti vo 08.ogg|Filedescription = "Polarize!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 09.ogg|Filedescription = "Not enough data! Never enough data!"}}
+|{{Ogg|Filename = cosmo lead vo 09.ogg|Filedescription = "Mind over muscle!"}}
+|{{Ogg|Filename = cosmo hurt vo 09.ogg|Filedescription = "Oh! Just too many variables! Need a bigger calculator!"<ref>In reality, having a better calculator does not solve the problem of having too many variables. One would instead need more equations such that the number of variables equals the number of equations.</ref>}}
+|{{Ogg|Filename = cosmo kill vo 09.ogg|Filedescription = "You thought well, but the math disagreed!"}}
+|{{Ogg|Filename = cosmo die vo 09.ogg|Filedescription = "The stars can wait, I cannot."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 09.ogg|Filedescription = "Induction sequence initiated!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 10.ogg|Filedescription = "Ah, a puzzle! My favorite kind of trouble!"}}
+|{{Ogg|Filename = cosmo lead vo 10.ogg|Filedescription = "How does the Solar System hold a meeting? They plan-et!"}}
+|
+|{{Ogg|Filename = cosmo kill vo 10.ogg|Filedescription = "Ooh! I should write this down before I forget."}}
+|{{Ogg|Filename = cosmo die vo 10.ogg|Filedescription = "Nebula, I'm still looking."}}
+|
+|{{Ogg|Filename = cosmo ulti vo 10.ogg|Filedescription = "Electromagnetic field online!"}}
+|-
+|{{Ogg|Filename = cosmo start vo 11.ogg|Filedescription = "Did I leave the dome projector running?"}}
+|{{Ogg|Filename = cosmo lead vo 11.ogg|Filedescription = "Why did the Sun go to school? To get a little brighter!"}}
+|
+|{{Ogg|Filename = cosmo kill vo 11.ogg|Filedescription = "Even I'm impressed! Uh, don't tell anyone."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = cosmo start vo 12.ogg|Filedescription = "Alright, class, field trip. Try not to explode!"}}
+|{{Ogg|Filename = cosmo lead vo 12.ogg|Filedescription = "Take notes, everyone!"}}
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = cosmo start vo 13.ogg|Filedescription = "Everyone! This counts as lab credit!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = cosmo start vo 14.ogg|Filedescription = "Remember, observe first, panic second!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = cosmo start vo 15.ogg|Filedescription = "Stand back, I'm about to apply physics!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==Cosmo Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Cosmo}}
+
+==History==
+*10/09/26:
+**{{Balance|Neutral|Cosmo became available in [[Training Cave]].}}
+**{{Balance|Neutral|Cosmo could be unlocked early from [[Brawl Boxes|Cosmo Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).}}
+*16/09/26:
+**{{Balance|Neutral|Cosmo's main attack now ends in the same position on mirrored maps.}}
+**{{Balance|Neutral|Cosmo's main attack now follows the same path on both the True Blue and True Red sides.}}
+*01/10/26:
+**{{Balance|Neutral|Cosmo became available in the Brawler Blast.}}
+*03/11/26:
+**{{Balance|Buff|Cosmo's health was increased to 3600 (from 3400).}}
+**{{Balance|Nerf|Cosmo's Telescope Trap Gadget cooldown was increased to 24 seconds (from 20).}}
+**{{Balance|Nerf|Cosmo's Telescope Trap Gadget was decreased by 23%.}}
+**{{Balance|Neutral|Cosmo's Cosmic Capture Hypercharge was added.}}
+**{{Balance|Neutral|Cosmo's True Silver and True Gold skins were added.}}
+**{{Balance|Neutral|Fixed a bug where Cosmo's orbiting projectiles were visible while he was in or moving through bushes.}}
+**{{Balance|Neutral|Fixed a bug where Cosmo's Super broke orbiting projectiles, such as [[R-T]]'s Hypercharge orbs and [[Amber]]'s Dancing Flames Gadget.}}
+
+==Cosmetics==
+
+===Skins (2)===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Cosmo
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Cosmo|Rarity = Common}}
+|{{Spray|Type = Cosmo Planet|Rarity = Common}}
+|{{Spray|Type = Cosmo Hand|Rarity = Common}}
+|{{Spray|Type = Cosmo Hypercharge|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Cosmo1}}
+|{{Pfp|Cosmo2}}
+|{{Pfp|Cosmo3}}
+|{{Pfp|Cosmo4}}
+|}
+
+{{Navigation}}
+[[es:Cosmo]]
+[[ru:Космо]]

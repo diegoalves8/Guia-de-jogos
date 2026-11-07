@@ -1,0 +1,808 @@
+'''Godly Weapons''' are obtainable from [[boxes]], [[crafting]], [[gamepasses]], [[:Category:Events|events]], [[trading]], or [[codes]]. Godly weapons are one tier below [[Ancient Weapons]], and one tier above [[Legendary Weapons]]. There are currently 124 different Godly weapons in the game, 85 being [[knives]] and 39 being [[guns]]. Box Godlies usually have a 0.2% (1 in 500) chance of being unboxed from their respective box.
+
+{| class="wikitable sortable" style="text-align:center; width:100%"
+! style="background: -webkit-linear-gradient(0deg, #FA03B0, #99006b); color:white; min-width: 25%" colspan="5" |Godly Weapons
+|-
+!style="background:#770000; color:white; min-width: 25%"|Name
+!style="background:#770000; color:white; min-width: 25%"|Tier
+!style="background:#770000; color:white; min-width: 25%"|Type
+!style="background:#770000; color:white; min-width: 25%"|Ways to Obtain
+!style="background:#770000; color:white; min-width: 25%"|Picture
+|-
+|[[Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:Seer.png|175px]]
+|-
+|[[Blue Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:1aad7564-2836-43c5-befb-686aedf7bf9b.png|175px]]
+|-
+|[[Purple Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:Purpleseer.png|175px]]
+|-
+|[[Red Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:Red Seer.png|175px]]
+|-
+|[[Orange Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:OrangeseerNEW.png|175px]]
+|-
+|[[Yellow Seer]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Crafting]], or [[Trading]]
+|[[File:Yellowseer.png|175px]]
+|-
+|[[Gemstone]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Mystery Box 1]] - Unbox, or [[Trading]]
+|[[File:Gemstone.png|175px]]
+|-
+|[[Darkbringer]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Mystery Box 2]] - Unbox, or [[Trading]]
+|[[File:DarkbringerUpdated.png|175x175px]]
+|-
+|[[Lightbringer]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Mystery Box 2]] - Unbox, or [[Trading]]
+|[[File:LightbringerUpdated.png|175x175px]]
+|-
+|[[Deathshard]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Knife Box 1]] - Unbox, or [[Trading]]
+|[[File:Deathshard Updated.png|175px]]
+|-
+|[[Fang]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Knife Box 2]] - Unbox, or [[Trading]]
+|[[File:FangUpdated.png|175px]]
+|-
+|[[Saw]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Knife Box 3]] - Unbox, or [[Trading]]
+|[[File:Saw.png|175px]]
+|-
+|[[Slasher]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Knife Box 4]] - Unbox, or [[Trading]]
+|[[File:Slasher.png|175px]]
+|-
+|[[Tides]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Knife Box 5]] - Unbox, or [[Trading]]
+|[[File:Tidesv2.png|175px]]
+|-
+|[[Heat]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Rainbow Box]] - Unbox, or [[Trading]]
+|[[File:Heatv2.png|175px]]
+|-
+|[[Luger]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Gun Box 1]] - Unbox, or [[Trading]]
+|[[File:LugerUpdated.png|175px]]
+|-
+|[[Shark]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Gun Box 2]] - Unbox, or [[Trading]]
+|[[File:Shark.png|175px]]
+|-
+|[[Laser (Godly)|Laser]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Gun Box 3]] - Unbox, or [[Trading]]
+|[[File:LaserUpdated.png|175px]]
+|-
+|[[Eternal]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying MM2 Merch (formerly), or [[Trading]]
+|[[File:EternalUpdated.png|175px]]
+|-
+|[[Eternal II]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying MM2 Merch (formerly), or [[Trading]]
+|[[File:Eternal 2.png|175px]]
+|-
+|[[Eternal III]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying MM2 Merch (formerly), or [[Trading]]
+|[[File:Eternal III.png|175px]]
+|-
+|[[Eternal IV]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying MM2 Merch (formerly), or [[Trading]]
+|[[File:Eternal IIII.png|175px]]
+|-
+|[[Eternalcane]]
+|2
+|[[:Category:Knives|Knife]]
+|Buying MM2 Merch during the [[Christmas Event 2019]] (formerly), or [[Trading]]
+|[[File:Eternal Cane.png|175px]]
+|-
+|[[Clockwork]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Clockwork Item Pack]], or [[Trading]]
+|[[File:ClockworkUpdatedV2.png|175px]]
+|-
+|[[Nightblade]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Shadow Item Pack]], or [[Trading]]
+|[[File:NightBladeUpdated.png|175px]]
+|-
+|[[Pixel]]
+|2
+|[[:Category:Knives|Knife]]
+|[[8-Bit Item Pack]], or [[Trading]]
+|[[File:PixelUpdatedV2.png|175px]]
+|-
+|[[Blaster]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Futuristic Item Pack]], or [[Trading]]
+|[[File:Png (7).png|175px]]
+|-
+|[[Virtual]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Futuristic Item Pack]], or [[Trading]]
+|[[File:Virtual improved.png|175px]]
+|-
+|[[Amerilaser]]
+|2
+|[[:Category:Guns|Gun]]
+|[[American Item Pack]], or [[Trading]]
+|[[File:Png (2).png|175px]]
+|-
+|[[Old Glory]]
+|2
+|[[:Category:Knives|Knife]]
+|[[American Item Pack]], or [[Trading]]
+|[[File:OldGloryUpdatedV2.png|175px]]
+|-
+|[[Spider]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2015]] [https://murder-mystery-2.fandom.com/wiki/Halloween_Event_2015?so=search#Bingo_Challenge (Bingo Challenge)], or [[Trading]]
+|[[File:Spider 2.png|175px]]
+|-
+|[[Sugar]]
+|3
+|[[:Category:Guns|Gun]]
+|[[2015 Christmas Gun Box]] - Unbox, or [[Trading]]
+|[[File:Sugar v2.png|175px]]
+|-
+|[[Candy]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2015 Christmas Knife Box]] - Unbox, or [[Trading]]
+|[[File:Candy v2.png|175px]]
+|-
+|[[Green Luger]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Crafting]] it during the [[Christmas Event 2015]], or [[Trading]]
+|[[File:Luger Green.png|175px]]
+|-
+|[[Chill]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Crafting]] it during the [[Christmas Event 2015]], or [[Trading]]
+|[[File:ChillKnife.png|175x175px]]
+|-
+|[[Red Luger]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Crafting]] it during the [[Christmas Event 2015]], or [[Trading]]
+|[[File:Red Luger.png|175px]]
+|-
+|[[Handsaw]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Crafting]] it during the [[Christmas Event 2015]], or [[Trading]]
+|[[File:Handsaw Png.png|175px]]
+|-
+|[[Xmas]]
+|1
+|[[:Category:Knives|Knife]]
+|Exchanging 75 [[Gifts 2015|Gifts]] {{Currency|Gift2015}} in the [[Christmas Event 2015]], or [[Trading]]
+|[[File:Xmas improved.png|175px]]
+|-
+|[[Hallow's Edge]]
+|1
+|[[:Category:Knives|Knife]]
+|[[2016 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:HallowEdgeUpdated.png|175px]]
+|-
+|[[Ice Dragon]]
+|1
+|[[:Category:Knives|Knife]]
+|Purchasing for 750 [[Blue Tokens]] {{Currency|Blue Token}} during the [[Christmas Event 2016]], or [[Trading]]
+|[[File:IceDragonUpdated.png|175px]]
+|-
+|[[Flames]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Crafting]] during the [[Christmas Event 2016]] and [[Christmas Event 2017]], or [[Trading]]
+|[[File:FlamesUpdated.png|175px]]
+|-
+|[[BattleAxe]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying the [[Halloween Item Pack|Item Pack]] during the [[Halloween Event 2017]], or [[Trading]]
+|[[File:BattleAxe.png|175px]]
+|-
+|[[Pumpking]]
+|1
+|[[:Category:Knives|Knife]]
+|[[2017 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:Pumpking improved.png|175px]]
+|-
+|[[Hallow's Blade]]
+|1
+|[[:Category:Knives|Knife]]
+|Purchasing for 100 2016 [[Candies (2016)|Candies]] {{Currency|Candies2016}} during the [[Halloween Event 2017]], or [[Trading]]
+|[[File:Hallow's Blade2.png|175px]]
+|-
+|[[Ice Shard]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying the [[Winter Item Pack|Item Pack]] during the [[Christmas Event 2017]], or [[Trading]]
+|[[File:Ice Shard.png|175px]]
+|-
+|[[Frostsaber]]
+|1
+|[[:Category:Knives|Knife]]
+|Purchasing for 5,000 [[Snowflake Tokens (2017)|Snowflake Tokens]] {{Currency|Snowflake Token 2017}} during the [[Christmas Event 2017]], or [[Trading]]
+|[[File:Frostsaber.png|175px]]
+|-
+|[[Snowflake]]
+|1
+|[[:Category:Knives|Knife]]
+|Purchasing for 3,000 [[Snowflake Tokens (2017)|Snowflake Tokens]] {{Currency|Snowflake Token 2017}} during the [[Christmas Event 2017]], or [[Trading]]
+|[[File:Snowflake.png|175px]]
+|-
+|[[Winter's Edge]]
+|1
+|[[:Category:Knives|Knife]]
+|[[2017 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:WinterEdge.png|175px]]
+|-
+|[[BattleAxe II]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2018]] [https://murder-mystery-2.fandom.com/wiki/Halloween_Event_2018#Main_Event (Tier Reward)], or [[Trading]]
+|[[File:BattleAxe2.2.png|175px]]
+|-
+|[[Boneblade]]
+|1
+|[[:Category:Knives|Knife]]
+|[[2018 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:Boneblade.png|175px]]
+|-
+|[[Gingerblade]]
+|2
+|[[:Category:Knives|Knife]]
+|[[2018 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:Gingerblade improved.png|175px]]
+|-
+|[[Ginger Luger]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Crafting]] it during the [[Christmas Event 2018]], or [[Trading]]
+|[[File:Ginger Luger.png|175px]]
+|-
+|[[Ghostblade]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying the [[Ghostly Item Pack]] during the [[Halloween Event 2019]], or [[Trading]]
+|[[File:Ghostbladev2.png|175px]]
+|-
+|[[Elderwood Revolver]]
+|2
+|[[:Category:Guns|Gun]]
+|[[2019 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:Elderwood Revolver.png|175px]]
+|-
+|[[Frostbite]]
+|1
+|[[:Category:Knives|Knife]]
+|Buying the [[Frostbite Pack|Frostbite Item Pack]] during the [[Christmas Event 2019]], or [[Trading]]
+|[[File:Frostbite improved.png|175px]]
+|-
+|[[Minty]]
+|1
+|[[:Category:Guns|Gun]]
+|[[2019 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:Hdminty.png|175px]]
+|-
+|[[Lugercane]]
+|2
+|[[:Category:Guns|Gun]]
+|Exchanging 100 [[Gifts]] {{Currency|Old Gift}} in the [[Christmas Event 2019]] (Formerly), or [[Trading]]
+|[[File:LugerCane.png|175px]]
+|-
+|[[Vampire's Edge]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Halloween Event 2020]], [[Vampire Item Pack|(Item Pack)]], or [[Trading]]
+|[[File:Vampiresedge.png|175px]]
+|-
+|[[Hallowgun]]
+|2
+|[[:Category:Guns|Gun]]
+|[[2020 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:5877089721.png|175px]]
+|-
+|[[Cookieblade]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Cookieblade Gamepass]], or [[Trading]]
+|[[File:Cookieblade_(transparent).png|175px]]
+|-
+|[[Peppermint]]
+|0
+|[[:Category:Knives|Knife]]
+|[[Peppermint Gamepass]], or [[Trading]]
+|[[File:Peppermint Knife.png|175px]]
+|-
+|[[Iceblaster]]
+|2
+|[[:Category:Guns|Gun]]
+|[[2020 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:IcebIaster.png|175px]]
+|-
+|[[Jinglegun]]
+|1
+|[[:Category:Guns|Gun]]
+|Exchanging 100 [[Gifts]] {{Currency|Old Gift}} in the [[Christmas Event 2020]], or [[Trading]]
+|[[File:Jinglegun_(Transparent).png|175px]]
+|-
+|[[Bioblade]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Bioblade Gamepass]], or [[Trading]]
+|[[File:Mm2bioblade.png|175px]]
+|-
+|[[Heartblade]]
+|3
+|[[:Category:Knives|Knife]]
+|[[Heartblade Gamepass]], or [[Trading]]
+|[[File:HeartBlade.png|175px]]
+|-
+|[[Eggblade]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Eggblade Gamepass]], or [[Trading]]
+|[[File:Eggblade improved.png|175px]]
+|-
+|[[Prismatic]]
+|1
+|[[:Category:Knives|Knife]]
+|[[Prismatic Gamepass]], or [[Trading]]
+|[[File:PrismaticUpdated.png|175px]]
+|-
+|[[Nebula]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Nebula Gamepass]], or [[Trading]]
+|[[File:NebulaUpdated2.png|175px]]
+|-
+|[[Reaver]]
+|N/A
+|[[:Category:Knives|Knife]]
+|Buying the [[Reaver Gamepass]] during the [[Halloween Event 2021|2021 Halloween Event]] and gaining 216,000 XP [[File:XP_Symbol.png|link=XP|25x25px]]
+|[[File:ReaverGodly.png|175x175px]]
+|-
+|[[Candleflame]]
+|2
+|[[:Category:Knives|Knife]]
+|[[2021 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:Candleflame1.png|175px]]
+|-
+|[[Icebeam]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Icebeam Gamepass]], [[Ice Bundle]], or [[Trading]]
+|[[File:IceBeam.png|175px]]
+|-
+|[[Iceflake]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Iceflake Gamepass]], [[Ice Bundle]], or [[Trading]]
+|[[File:IceFlake.png|175px]]
+|-
+|[[Swirly Gun]]
+|2
+|[[:Category:Guns|Gun]]
+|[[2021 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:SwirlGun.png|175px]]
+|-
+|[[Swirly Blade]]
+|2
+|[[:Category:Knives|Knife]]
+|Exchanging 100 [[Gifts]] {{Currency|Old Gift}} during the [[Christmas Event 2021]], or [[Trading]]
+|[[File:SwirlyBlade.png|175px]]
+|-
+|[[Plasmablade]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Plasmablade Gamepass]], [[Plasma Bundle]], or [[Trading]]
+|[[File:Plasmablade improved.webp|175px]]
+|-
+|[[Plasmabeam]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Plasmabeam Gamepass]], [[Plasma Bundle]], or [[Trading]]
+|[[File:Plasmabeam improved.webp|175px]]
+|-
+|[[Elderwood Blade]]
+|2
+|[[:Category:Knives|Knife]]
+|[[2022 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:ElderwoodBlade.png|175px]]
+|-
+|[[Bat]]
+|3
+|[[:Category:Knives|Knife]]
+|Purchasing the 20th [[Halloween Event 2022#Team Rewards|tier]] in the Zombies Rewards during the [[Halloween Event 2022]] for 50,000 [[Candies (2022)|Candies]] {{Currency|Candies2022}}, or [[Trading]]
+|[[File:ZombieBat.png|175px]]
+|-
+|[[Makeshift]]
+|2
+|[[:Category:Guns|Gun]]
+|Purchasing the 20th [[Halloween Event 2022#Team Rewards|tier]] in the Survivors Rewards during the [[Halloween Event 2022]] for 50,000 [[Candies (2022)|Candies]] {{Currency|Candies2022}}, or [[Trading]]
+|[[File:Makeshift.png|175px]]
+|-
+|[[Phantom]]
+|2
+|[[:Category:Knives|Knife]]
+|[[Phantom Gamepass]], [[Ghost Bundle]], or [[Trading]]
+|[[File:Phantom2022.png|175px]]
+|-
+|[[Spectre]]
+|2
+|[[:Category:Guns|Gun]]
+|[[Spectre Gamepass]], [[Ghost Bundle]], or [[Trading]]
+|[[File:Spectre.png|175px]]
+|-
+|[[Icecrusher]]
+|N/A
+|[[:Category:Knives|Knife]]
+|Buying the [[Icecrusher Gamepass]] during the [[Christmas Event 2022|2022 Christmas Event]] and gaining 216,000 XP [[File:XP_Symbol.png|link=XP|25x25px]]
+|[[File:Icecrusher3.png|175x175px]]
+|-
+|[[Cookiecane]]
+|2
+|[[:Category:Knives|Knife]]
+|[[2022 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:Cookiecane.png|175px]]
+|-
+|[[Gingermint]]
+|2
+|[[:Category:Guns|Gun]]
+|Exchanging 100 [[Gifts]] {{Currency|Old Gift}} during the [[Christmas Event 2022]], or [[Trading]]
+|[[File:Gingermint.png|175px]]
+|-
+|[[Sakura]]
+|3
+|[[:Category:Knives|Knife]]
+|[[Sakura Gamepass]], [[Sakura Bundle]], or [[Trading]]
+|[[File:Sakura.png|175px]]
+|-
+|[[Blossom]]
+|3
+|[[:Category:Guns|Gun]]
+|[[Blossom Gamepass]], [[Sakura Bundle]], or [[Trading]]
+|[[File:BlossomGun.png|175px]]
+|-
+|[[Rainbow (Godly)|Rainbow]]
+|3
+|[[:Category:Knives|Knife]]
+|[[Rainbow Gamepass]], [[Rainbow Bundle]], or [[Trading]]
+|[[File:RainbowKnife.png|175x175px]]
+|-
+|[[Rainbow Gun (Godly)|Rainbow Gun]]
+|3
+|[[:Category:Guns|Gun]]
+|[[Rainbow Gun Gamepass]], [[Rainbow Bundle]], or [[Trading]]
+|[[File:RainbowGun.png|175x175px]]
+|-
+|[[Waves]]
+|3
+|[[:Category:Knives|Knife]]
+|[[Waves Gamepass]], [[Ocean Bundle]], or [[Trading]]
+|[[File:Waves knife.png|175x175px]]
+|-
+|[[Ocean]]
+|3
+|[[:Category:Guns|Gun]]
+|[[Ocean Gamepass]], [[Ocean Bundle]], or [[Trading]]
+|[[File:Ocean gun.png|175x175px]]
+|-
+|[[Darksword]]
+|3
+|[[:Category:Knives|Knife]]
+|[[Darksword Gamepass]], [[Darkness Bundle]], or [[Trading]]
+|[[File:Darksword.png|175x175px]]
+|-
+|[[Darkshot]]
+|3
+|[[:Category:Guns|Gun]]
+|[[Darkshot Gamepass]], [[Darkness Bundle]], or [[Trading]]
+|[[File:Darkshot.png|175x175px]]
+|-
+|[[Traveler's Gun]]
+|3
+|[[:Category:Guns|Gun]]
+|[[2023 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:Traveler's Gun 2023.png|175x175px]]
+|-
+|[[Turkey]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Turkey Gamepass]] during the [[Thanksgiving Event 2023]], or [[Trading]]
+|[[File:Turkey 2023.png|frameless]]
+|-
+|[[Gingerscythe]]
+|N/A
+|[[:Category:Knives|Knife]]
+|Buying the [[Gingerscythe Gamepass]] during the [[Christmas Event 2023]] and gaining 216,000 XP [[File:XP_Symbol.png|link=XP|25x25px]]
+|[[File:Gingerscythe Godly.png|175x175px]]
+|-
+|[[Evergreen]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2023 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:Evergreen.png|180x180px]]
+|-
+|[[Evergun]]
+|3
+|[[:Category:Guns|Gun]]
+|Exchanging 100 [[Gifts]] {{Currency|Gift}} during the [[Christmas Event 2023]], or [[Trading]]
+|[[File:Evergun.png|180x180px]]
+|-
+|[[Flowerwood]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Flowerwood Gamepass]] during the [[Easter Event 2024]], or [[Trading]]
+|[[File:Flowerwood_Knife.png|180x180px]]
+|-
+|[[Flowerwood Gun]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Flowerwood Gun Gamepass]] during the [[Easter Event 2024]], or [[Trading]]
+|[[File:Flowerwood_Gun.png|180x180px]]
+|-
+|[[Pearl]]
+|2
+|[[:Category:Knives|Knife]]
+|Buying the [[Pearl Gamepass]] during the [[Summer Event 2024]], or [[Trading]]
+|[[File:Pearl.png|frameless]]
+|-
+|[[Pearlshine]]
+|2
+|[[:Category:Guns|Gun]]
+|Buying the [[Pearlshine Gamepass]] during the [[Summer Event 2024]], or [[Trading]]
+|[[File:Pearlshine.png|frameless]]
+|-
+|[[Watergun]]
+|2
+|[[:Category:Guns|Gun]]
+|[[2024 Summer Box]] - Unbox, or [[Trading]]
+|[[File:WaterHun.png|frameless]]
+|-
+|[[Vampire's Gun]]
+|3
+|[[:Category:Guns|Gun]]
+|[[2024 Halloween Box]] - Unbox, or [[Trading]]
+|[[File:VampiresGun.png|180x180px]]
+|-
+|[[Spirit]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Spirit Gamepass]] during the [[Halloween Event 2024]], or [[Trading]]
+|[[File:SpiritKnife.png.png|180x180px]]
+|-
+|[[Soul]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Soul Gamepass]] during the [[Halloween Event 2024]], or [[Trading]]
+|[[File:SoulGun.png|180x180px]]
+|-
+|[[Constellation]]
+|3
+|[[:Category:Guns|Gun]]
+|[[2024 Christmas Box]] - Unbox, or [[Trading]]
+|[[File:Constellation.png|180x180px]]
+|-
+|[[Bauble]]
+|3
+|[[:Category:Guns|Gun]]
+|Exchanging 100 [[Gifts]] {{Currency|Gift}} during the [[Christmas Event 2024]], or [[Trading]]
+|[[File:2024Bauble.png|180x180px]]
+|-
+|[[Australis]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Australis Gamepass]] during the [[Christmas Event 2024]], or [[Trading]]
+|[[File:2024Australis.png|180x180px]]
+|-
+|[[Borealis]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Borealis Gamepass]] during the [[Christmas Event 2024]], or [[Trading]]
+|[[File:Borealis2.png|181x181px]]
+|-
+|[[Bloom]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Bloom Gamepass]] during the [[Easter Event 2025]], or [[Trading]]
+|[[File:Bloom_Knife.png|180x180px]]
+|-
+|[[Flora]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Flora Gamepass]] during the [[Easter Event 2025]], or [[Trading]]
+|[[File:Flora_Gun.png|180x180px]]
+|-
+|[[Synthwave]]
+|N/A
+|[[:Category:Knives|Knife]]
+|Buying the [[Synthwave Gamepass]] during the [[Summer Event 2025]] and gaining 216,000 XP [[File:XP_Symbol.png|link=XP|25x25px]]
+|[[File:Synthwave Godly.webp|175x175px]]
+|-
+|[[Sunset (Knife)|Sunset]]
+|3
+|[[:Category:Knives|Knife]]
+|Purchasing the 25th tier for 90,000 [[Beach Balls]] {{Currency|Beach Ball}}during the [[Summer Event 2025]], or [[Trading]].
+|[[File:SunsetKnife.webp|180x180px]]
+|-
+|[[Sunrise]]
+|3
+|[[:Category:Guns|Gun]]
+|[[2025 Summer Box]] - Unbox, or [[Trading]].
+|[[File:SunsetGun.png|180x180px]]
+|-
+|[[Alienbeam]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2025 Halloween Box]] - Unbox, or [[Trading]].
+|[[File:Alienbeam.png|180x180px]]
+|-
+|[[Raygun]]
+|3
+|[[:Category:Guns|Gun]]
+|Purchasing the 25th tier for 90,000 [[Candies (2025)|Candies]] {{Currency|Candies2025|25px}} during the [[Halloween Event 2025]], or [[Trading]].
+|[[File:Raygun.png|180x180px]]
+|-
+|[[Xenoknife]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Xenoknife Gamepass]] during the [[Halloween Event 2025]], or [[Trading]]
+|[[File:Xenoknife.png|180x180px]]
+|-
+|[[Xenoshot]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Xenoshot Gamepass]] during the [[Halloween Event 2025]], or [[Trading]]
+|[[File:Xenoshot.png|180x180px]]
+|-
+|[[Snow Dagger]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2025 Christmas Box]] - Unbox, or [[Trading]].
+|[[File:SnowDagger2025.png|180x180px]]
+|-
+|[[Snowcannon]]
+|3
+|[[:Category:Guns|Gun]]
+|Purchasing the 30th tier for 100,000 [[Snow Tokens]] [[File:Snow Token.png|25x25px]] during the [[Christmas Event 2025]], or [[Trading]].
+|[[File:Snowcannon.png|180x180px]]
+|-
+|[[Ornament]]
+|2
+|[[:Category:Knives|Knife]]
+|Exchanging 100 [[Gifts]] {{Currency|Gift}} during the [[Christmas Event 2025]], or [[Trading]].
+|[[File:OrnamentKnife2025.png|180x180px]]
+|-
+|[[Snowstorm]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Snowstorm Bundle]] during the [[Christmas Event 2025]], or [[Trading]].
+|[[File:SnowstormKnife2025.png|180x180px]]
+|-
+|[[Blizzard]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Snowstorm Bundle]] during the [[Christmas Event 2025]], or [[Trading]].
+|[[File:BlizzardKnife2025.png|180x180px]]
+|-
+|[[Sweet]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Sweet Gamepass]] during the [[Valentines Event 2026|Valentine's Event 2026]], or [[Trading]].
+|[[File:Sweet Knife.png|180x180px]]
+|-
+|[[Treat]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Treat Gamepass]] during the [[Valentines Event 2026|Valentine's Event 2026]], or [[Trading]].
+|[[File:Treat Gun.png|180x180px]]
+|-
+|[[Heart Wand]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2026 Valentine's Box]] - Unbox, or [[Trading]].
+|[[File:Wand Full HD.png|frameless]]
+|-
+|[[Beachy]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Beachy Gamepass]] during the [[Summer Event 2026]], or [[Trading]].
+|[[File:BeachyGodly2026.png|frameless]]
+|-
+|[[Sands]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Sands Gamepass]] during the [[Summer Event 2026]], or [[Trading]].
+|[[File:SandsGodly2026.png|frameless]]
+|-
+|[[Icecream]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2026 Summer Box]] - Unbox, or [[Trading]].
+|[[File:Icecream 2026.webp|frameless]]
+|-
+|[[Mortal]]
+|3
+|[[:Category:Knives|Knife]]
+|Buying the [[Mortal Bundle]] during the [[Halloween Event 2026]], or [[Trading]].
+|[[File:Mortal.png|175x175px]]
+|-
+|[[Immortal]]
+|3
+|[[:Category:Guns|Gun]]
+|Buying the [[Mortal Bundle]] during the [[Halloween Event 2026]], or [[Trading]].
+|[[File:Immortal.png|175x175px]]
+|-
+|[[Embersickle]]
+|3
+|[[:Category:Knives|Knife]]
+|[[2026 Halloween Box]] - Unbox, or [[Trading]].
+|[[File:Embersickle.png|175x175px]]
+|}
+
+[[Category:Knives]]
+[[Category:Guns]]
+[[Category:Godly]]
+[[Category:Weapons]]

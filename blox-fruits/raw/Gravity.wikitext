@@ -1,0 +1,464 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Gravity
+|image  = <gallery>
+Gravity Fruit.png|Fruit Icon
+GravityBloxFruit.gif|Fruit GIF
+Gravity.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Mythical
+|M1     = Yes
+|update = 5
+
+<!-- Fruit Price -->
+|money  = 2,500,000
+|robux  = 2,300
+}}
+
+{{Quote|Allows the user to manipulate gravity, controlling the battlefield.|Shop}}
+'''Gravity''' is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|2,500,000}} or {{Robux|2,300}} from the [[Blox Fruit Dealer]].
+
+[[Natural|Gravity]] allows the user to manipulate and control gravitational forces within their surroundings, granting the ability to affect a wide range of elements on the battlefield. 
+
+__TOC__{{Clr}}
+
+==Upgrading==
+Gravity can be upgraded via the [[Admin Panel]]:
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="article-table"
+!Ability
+!Mastery
+!Research
+!Changes
+!Cost
+|-
+|'''Kinetic Amplifier'''
+|200
+|Defeat 15 enemies with the M1’s of Gravity.
+It is recommended to defeat [[Bandit]]s at [[Pirate Starter]] or [[Trainee]]s at [[Marine Starter]] in the [[First Sea]] due to their low health.
+|Upgrades the M1’s by unlocking "Stage 1", allowing the player to hold their M1 for more damage and range.
+|{{Fragment|1,000}} <br> {{Radioactive Material|2}} <br> {{Mystic Droplet|1}}
+|-
+|'''Kinetic Amplifier 2'''
+|300
+|Defeat 30 enemies with the M1’s of Gravity.
+It is recommended to defeat [[Bandit]]s at [[Pirate Starter]] or [[Trainee]]s at [[Marine Starter]] in the [[First Sea]] due to their low health.
+|Further upgrades the M1’s by unlocking "Stage 2", allowing the player to hold their M1 for even more damage and range.
+|{{Fragment|2,000}} <br> {{Radioactive Material|4}} <br> {{Mystic Droplet|2}}
+|-
+|'''Dark Matter Implosion'''
+|400
+|Use Gravity skills on ships 20 times. Must deal damage to ship's health.
+|Grants a Gravitational Force meter, as well as upgrading the {{Ability|C}} ability, changing its functionality and dealing more damage when held at 75% filled Gravitational Force meter.
+|{{Fragment|6,000}} <br> {{Meteorite|1}} <br> {{Radioactive Material|6}} <br> {{Mystic Droplet|4}}
+|-
+|'''Celestial Cataclysm'''
+|500
+|Part 1: <br>Shoot 20 meteors into water using the [M1] ability of Gravity.<hr>Part 2: <br>Defeat the boss [[Orbitus]] around 10 times or kill players around 6 times using Gravity abilities. 
+|Upgrades the player's {{Ability|V}} ability, which breaks the Moon into pieces and throws it at the enemy, changing its functionality and dealing more damage when held with full Gravitational Force meter.
+|{{Fragment|10,000}} <br> {{Meteorite|2}} <br> {{Moonstone|2}} <br> {{Mystic Droplet|8}}
+|}</table-progress-tracking>
+
+To fully upgrade Gravity, the player needs 500 [[Mastery]] on the fruit, {{Fragment|19,000}}, {{Meteorite|3}}, {{Moonstone|2}}, {{Mystic Droplet|15}}, and {{Radioactive Material|12}}.
+
+==Abilities==
+
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Gravitational Force
+|meter    = Gravitational Force Meter.png
+
+|desc     = Upon unlocking and equipping the 3rd upgrade from the [[Admin Panel]], [[Mysterious Scientist]], a purple meter called "Gravitational Force" will be shown above the user's moveset. The meter fills up only by doing damage with Gravity's moves, and it very slowly depletes when the user is not dealing damage with the fruit for more than 6.5 seconds. The meter does not affect the damage or range of the moves, but it enables the use of {{Ability|C}} and {{Ability|V}} (held) moves when having a certain proportion of the meter filled up. On players, the bar will fill up twice as much when dealing damage to them.
+* If the user has unlocked and equipped the 4th upgrade, the bar will light on fire when completely full, similar to [[Kitsune]] and [[Dragon]]'s meter upon transformation.
+}}
+
+{{Skill/Passive
+|name     = Wormhole Shift
+|break    = Yes
+|instinct = Initial start-up may be dodged on the edge, but the explosion cannot [[Instinct/Break|break Instinct]] in any way.
+|file     = Wormhole Warp.gif
+
+|desc     = Whenever the player uses [[Flash Step]], a lingering gravitational effect appears, dealing minor damage if a target comes near the initial teleportation area.
+}}
+
+{{Skill/Passive
+|name     = Defensive Rift
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close to the user.
+|file     = GravityDefense.gif
+
+|desc     = Upon using and releasing the held {{Ability|F}} move, and after consecutively losing 20% of HP, the user creates a gravitational pulse that knocks away and damages every enemy in their vicinity whilst simultaneously launching themselves backwards. The damage of this passive scales with how many times the user had used the [F] move before the passive took effect. The [F] move will be put on cooldown once the passive activates.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|energy   = 10
+|break    = Yes
+
+|instinct = '''"Pull"''' and '''"Swipe"''' variants can be dodged on the edge. The '''"Meteor"''' variant [[Instinct/Break|breaks Instinct]] on direct hit, but the AoE impact may sometimes be dodged on the edge.
+|gif      = Kinetic Slam
+|gif1     = Kinetic Slide
+|gif2     = Kinetic Hail
+
+|desc     = '''Variant 1 - "Pull":'''
+ Activated by holding the move in one spot while close to the ground, summoning a small gravitational vortex at the cursor. Upon release, all enemies within its hitbox are pulled towards the ground and slightly stunned for around 0.2 seconds. The upgraded version has higher damage, a wider radius, greater reach, and longer stun duration (0.5 seconds with Stage 1 and 1 second with Stage 2).
+|desc1    = '''Variant 2 - "Swipe":'''
+ Activated by "swiping" from one side to another, creating a large gravitational sweep to the left, right, up, forward, or backward. The upgraded version has higher damage, a larger hitbox, and greater knockback. When used close to the ground, it also forms a wall that enemies crash into, although this is only a visual effect.
+|desc2    = '''Variant 3 - "Meteor":'''
+ Activated by aiming the move downwards from the sky, summoning a meteor that lands at the cursor, marked by a purple circle. The upgraded version summons 4 meteors with Stage 1 or 8 with Stage 2, dealing higher damage. This variant deals more damage than '''Pull''' and '''Swipe'''. Charging takes 0.75 seconds for Stage 1 and an additional 1.25 seconds for Stage 2, with a maximum hold time of 3 seconds. Stage 1 and Stage 2 require unlocking and equipping '''Kinetic Amplifier 1''' and '''Kinetic Amplifier 2''', respectively.
+|desc3    = '''Note:''' The user must have the Stage 1 upgrade equipped in order to be able to use Stage 2, as not doing so will result in the move being the same as not having any upgrades equipped.
+}}
+
+{{Skill
+|key      = Z
+|name     = Singularity
+|mastery  = 1
+|cooldown = 9
+|energy   = 50
+|break    = Yes
+
+|instinct = The pull and the explosion can be dodged on the edge. Always [[Instinct/Break|breaks Instinct]] once caught in the stun.
+|gif      = Singulariity
+|desc     = The user creates a singularity within their hand, distorting spacetime, pulling in and stunning enemies for around 1.5 seconds whilst simultaneously distorting both parties' screens. The singularity then explodes in an [[Area of Effect|AoE]] blast, knocking the enemies back. Charging the move for up to around 2 seconds will increase the size of the explosion. This move can be held for only 10 seconds.
+}}
+
+{{Skill
+|key      = X
+|name     = Orbital Chain
+|mastery  = 100
+|cooldown = 12.75
+|energy   = 75
+|break    = Yes
+
+|instinct = [[Breaks Instinct]] no matter what.
+|gif      = Orbit Chain
+|desc     = The user creates a gravitational orb above them that picks up and launches debris towards the cursor, dealing minor AoE damage. The move can be held indefinitely, but after a few seconds, the debris begins to slow down, reducing its damage and stun. The material picked up depends on nearby structures. If {{Ability|F}} is being used simultaneously, the boulder's material is used instead.
+}}
+
+{{Skill
+|key      = C
+|name     = Gravitational Prison
+|mastery  = 200
+|cooldown = 16.5
+|energy   = 90
+|break    = Yes
+
+|instinct =
+'''Tap Version:''' The pull is dodgedable. Direct contact with the orb, as well as the tick damage accompanied by it, [[Instinct/Break|break Instinct]], but the last few ticks can be dodged. The explosion can [[Instinct/Break|break Instinct]], but it may sometimes be Instinct-tricked when caught in the orb or when on the edge of it.
+* '''Held Version:''' The pull can sometimes be dodged on the edge, but the explosion always [[Instinct/Break|breaks Instinct]] if caught in the stun or close enough to it. The chunks of debris after it cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Gravitaty Prison_  
+|gif1     = UpgradedGravityC
+|desc     = '''If tapped:''' The user creates a large orb in their hands, quickly releasing it in the direction of their cursor whilst pulling in enemies caught in its path. It then explodes, dealing substantial AoE damage. The orb can be controlled using the cursor.
+|desc1    = '''If held:''' The user uses 75% of their Gravitational Force meter to send a giant orb into the sky, akin to a black hole, which absorbs matter and debris from the ground, pulling anyone caught in its pull. Once it has absorbed enough matter, the boulder expands under the pressure caused by the vortex and explodes. Chunks of debris then fall across a huge radius, dealing massive AoE damage.
+|desc2    = '''Held {{Ability|C}}''' ignores all types of enemy armor except [[Shark]] V4 "Leviathan's Armor". Using this variant requires the user to have had unlocked and equipped the third upgrade - '''Dark Matter Implosion'''.
+}}
+
+{{Skill
+|key      = V
+|name     = Asteroid Crash
+|mastery  = 300
+|cooldown = 30
+|energy   = 100
+|break    = Yes
+
+|instinct =
+'''Tap Version:''' The explosion can rarely be dodged on the edge. The drag does not deal damage.
+* '''Held Version:''' The initial stun does not deal damage, but the final impact [[Instinct/Break|breaks Instinct]] no matter what.
+|gif      = Asteroid Crash fixed
+|gif1     = Gravity Max V
+|desc     = '''If tapped:''' The user launches a beam of gravitational force up towards the sky, pulling down a large asteroid that lands at the user's cursor highlighted by a shrinking purple-bordered circle, leaving a massive crater behind. If held without the upgrade/without full Gravitational Force meter on the ground for roughly 5 seconds, rocks start floating around and disappearing continuously around the user until the player releases it.
+|desc1    = '''If held:''' The user uses all of their Gravitational Force to try trapping enemies in a large purple-bordered circular area. If the attack hits, a cutscene plays to both the user and enemies, bringing down airborne enemies and stunning both parties. The sky turns to night as the user rips out pieces of the moon and sends them down on The Planet of ''Blox Fruits''. The shards then fall on the specified area, causing a massive scorching crater and damaging all enemies within its radius.
+|desc2    = '''Held {{Ability|V}}''' ignores all types of enemy armor except [[Shark]] V4 "Leviathan's Armor". Using this variant requires the user to be on the ground and have had unlocked and equipped the fourth upgrade - '''Celestial Cataclysm'''.
+}}
+
+{{Skill
+|key      = F
+|name     = Shooting Star
+|mastery  = 50
+|energy   = 25
+|cooldown = 5.25 - 0.5
+|break    = Yes
+
+|instinct = Direct hit by a meteor [[Instinct/Break|breaks Instinct]], but the AoE impact may sometimes be dodged on the edge.
+|gif      = ShootinStars
+|gif1     = Riding Star
+|gif2     = Aerial Riding Star
+|desc     = '''If tapped:'''
+ The user summons three meteorites that are then shot from the sky in the direction of their cursor, highlighted by purple circles on a solid surface.
+|desc1    = '''If held (on the ground):'''
+ The user summons materials from within their vicinity, forming a spherical orb of different materials upon which they can ride on. When released, this orb is launched in the direction of the user's cursor, dealing AoE damage. 
+|desc2    = '''If held (in the air):'''
+ The user summons three meteorites from the sky, two of which are shot towards the cursor, with their landing spots marked by purple circles. The third is mounted by the user to ride on and, when released, is launched towards the cursor, dealing slightly less damage than its ground counterpart. Whilst on the orb/meteorite, all other Gravity's moves can be used, but using and holding either '''[C] Gravitational Prison''' or '''[V] Asteroid Crash''' stops the user from moving until the move is released. The flight automatically cancels once the user consecutively loses 20% of their HP. The user is immune to water and lava during either form.
+|desc3    = '''Note:''' This move's cooldown is 5.25 seconds when held and 0.5 seconds when activated.
+}}
+}}
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Relatively high damage.
+* Great combo potential.
+* All moves have a huge hitbox.
+* All moves can [[Instinct/Break|break Instinct]].
+* Rather versatile.
+* Easy to use.
+* Reliable choice for any stat build in PvP.
+
+|{{Ability|TAP}}
+* '''"Pull"''' has great vertical hitbox, especially when held.
+* '''"Pull"''' and '''"Swipe"''' are useful for starting/extending combos.
+* '''"Meteor"''' variant has very good range.
+* Good [[Area of Effect|AoE]].
+* Can damage [[Sea Beast]]s.
+
+|{{Ability|Z}}
+* Decent [[Area of Effect|AoE]].
+* Good stun.
+* Could be used as a counter when opponents come too close.
+
+|{{Ability|X}}
+* Excellent stun.
+* Good for grinding.
+* No end-lag.
+* Last few boulders have quite strong auto aim feature when releasing the skill.
+
+|{{Ability|C}}
+* Excellent stun.
+* Great AoE.
+* Good range.
+* Good damage.
+* Good for running.
+* No end-lag.
+
+'''When Held (Upgraded):'''
+* Very good damage and AoE.
+* The user can use moves and move around freely while the move is being executed.
+* Ignores all defense buffs granted by [[Blox Fruits]], [[Accessories]] and [[Races]] (except [[Shark]] V4 shield).
+* Grabs all enemies within the vicinity of the move.
+* Chunks of debris fall down from the explosion in a wide spread radius (deals damage).
+* Hard to escape.
+* Can use different moves like {{Ability|X}} while [[Enemies]] are stuck.
+* Amazing against teamers.
+
+|{{Ability|V}}
+* Large AoE and damage.
+* Insane range.
+* Can be used as a combo breaker (if the user gets caught in a combo shortly after casting the skill).
+* The meteor drags any enemy caught in its path in the air.
+
+
+'''When Held (Upgraded):'''
+* Massive damage and AoE.
+* User and enemies caught in the attack gain i-frames from other sources of damage.
+* Ignores all defense buffs granted by [[Blox Fruits]], [[Accessories]] and [[Races]] (except [[Shark]] V4 shield).
+* Damages every enemy in the attack's radius, including enemies not caught in the start-up.
+* Can be used to surprise attack enemy players because of them usually perceiving the attack as the tap variant.
+
+|{{Ability|F}}
+* Decent mobility move.
+* Good for [[Terrorshark]] hunting, just fly up and shoot the M1’s down continuously.
+* Has a short cooldown, making this move spammable.
+* All Gravity's moves can be used whilst flying.
+* Although not infinite, it has very high range (when releasing the attack or tapping).
+}}
+
+|-|Cons= 
+{{Overview|Cons
+|'''General'''
+* Can be extremely laggy for low-end devices.
+* Cannot catch up with fast [[Blox Fruits|fruits]]/[[swords]] users. (for example: [[Light]], [[Portal]], etc.)
+* Moves have relatively longer start-up than other PvP fruits, making it easier for enemies to dodge the attacks.
+* Requires a certain amount of prediction.
+* Passive teleportation completely overrides [[Draco]] V2 and [[Human]] V4 Flash Step.
+* Has some end-lag.
+* High mastery requirements (Even higher to unlock the upgrades).
+
+|{{Ability|TAP}}
+* '''"Pull"''' and '''"Swipe"''' have mediocre range.
+* '''"Pull"''' is ground-based.
+* '''"Swipe"''' has extremely high knockback when fully charged.
+* Enemies cannot take damage from more than one meteorite with the '''"Meteor"''' variant.
+* Has slight start-up.
+* Fairly long cooldown relative to other [TAP] attacks.
+* May be hard to use in PvP.
+
+|{{Ability|Z}}
+* Small range.
+* Might be difficult to hit outside of combos, relying on close combat.
+* Damage is slightly lower compared to the other moves.
+
+|{{Ability|X}}
+* The meteor's AoE is fairly small, making it decently hard to hit from a distance.
+* Although this move can be held infinitely, the accuracy, stun and damage of the move will gradually worsen after a few seconds of the move being held.
+
+|{{Ability|C}}
+* Has large knockback.
+* Can be [[Instinct]]-tricked.
+* May be difficult to control.
+* Difficult to follow-up.
+
+'''When Held (Upgraded):'''
+* Gravitational Force meter needs to be filled up to at least 75% in order to execute.
+* No combo potential.
+* Vulnerable to attacks while charging the skill.
+* Enemy players are immune while inside.
+* High end-lag after releasing the skill.
+* Can be avoided by mobility fruits. (Like [[Portal]])
+* Can be avoided by simply dashing and maintaining a safe distance from the AoE.
+* Damage does not get buffed by [[Blox Fruits]],  [[Accessories]] and [[Races]].
+* Sometimes, the opponent might not get stuck in the boulder even when inside the radius of the move.
+
+|{{Ability|V}}
+* Decent end-lag.
+* High start-up time.
+* Cannot be aimed in the sea.
+* The place where the asteroid would crash is visible by the indicator, thus making this move easily avoidable.
+* Extremely slow.
+
+'''When Held (Upgraded):'''
+* Gravitational Force meter needs to be filled up to 100% in order to execute.
+* Vulnerable to attacks while charging the skill.
+* High end-lag if missed. 
+* Easy for the enemy to dodge with a teleportation move or a [[Flash Step]].
+* Can only be used when touching the ground, otherwise, the normal (Tap) version will be performed instead.
+* May be extremely laggy for low-end devices, as it can disrupt the quality of the whole cutscene.
+* Can be tricked by Portal's [V] or [X].
+* Damage does not get buffed by [[Blox Fruits]], [[Accessories]] and [[Races]].
+
+|{{Ability|F}}
+* Very predictable.
+* Not a very good way of transportation because of its slow travel speed.
+* Flight ends the moment the user gets hit by a move and loses more than 20% of their HP.
+}}
+</tabber>
+
+==Tips & Tricks==
+* When farming [[Mastery|mastery]] with Gravity, the user can aim the held version of {{Ability|C}} under a tree to not only place the move closer to the ground, but also pull more enemies to it. This can also help the user attack NPCs while stunned in the attack to deal extra damage with {{Ability|V}} and {{Ability|Z}}.
+* Starlight Gravity's {{Ability|X}} changes the way it looks, giving the fly debris a yellowish trail, unlike the normal variant which give no trail.
+* The user can dash forward while using the normal version of {{Ability|C}} to combo extend with decently ranged moves like [[Sanguine Art]]'s {{Ability|Sanguine Art|C}}.
+* Using {{Ability|X}} is great for damaging enemies to group them up.
+* The player can simply use {{Ability|F}}'s held variant to fly just high enough so mobs cannot hit the player, while the player's skills work with no problem.
+* For the 1st and 2nd upgrade quest, it is recommended to kill the NPCs in the [[First Sea], as they are highly under-leveled and easy to kill.
+* For the third upgrade via the [[Admin Panel]], it is recommended to ask a player, friend or person to spawn their boat. The player can then damage the boat using Gravity's skills. Players should note that their friend has to be on the opposite team or is not allied.
+* The user can camp near or on water by dragging players into the water using the normal version of {{Ability|C}} dealing large damage and can easily one-shot the opponent.
+* For the 4th upgrade quest '''(Part 2)''' via the [[Admin Panel]], It is recommended going to the [[First Sea]] to kill low-level players. Since '''progress''' counts regardless of the level of the player killed, it makes the quest much easier to complete overall.
+* There is currently a bug wherein if the player holds Gravity '''[F] Shooting Star''' in the air, they ride with a layout block instead of the default boulder.
+* When the player uses '''[F]''' Shooting Star when they are drowning, the boulder is black instead of the default boulder. This proves that the ground in the [[Water|Sea]] is black.
+
+==Gallery==
+<gallery>
+File:GravityWorldConceptArt.png|Concept art of the {{Ability|V}} move "The Planet" posted on Twitter by @disardo1.
+File:GravityBanner.png|Shop artwork for the Gravity Fruit. Made by @EGOTISMS_RBLX.
+File:Gravity Enviorment Disruption.gif|The area wide day/night cycle disruption, caused by held {{Ability|V}}.
+File:Asteroid View.gif|'''[V] Asteroid Crash''' aerial view.
+File:Gravity F Bug.jpg|The said bug seen using Gravity '''[F] Shooting Star'''.
+File:Screenshot 2025-10-02 201538.png|Glitch when holding the '''[V] Asteroid Crash''' and then immediately use when hit.
+File:GravityPreRework.webp|Hidden Gravity Fruit before trailer release.
+</gallery>
+
+==Trivia==
+* Gravity is the cheapest {{Mythical}} [[fruit]] in the game.
+* The second rework concept of the Gravity moves was created by concept artist @crazy_rtx.
+* Gravity and [[Control]] are the only fruits to have different m1 variants, both having 3.
+* As of now, Gravity is the only fruit with 20 abilities, making it the fruit with the highest number of skills in the game (including [M1] clicks and their stages).
+* The boss [[Orbitus]] uses two moves, in which are similar to the old Gravity Z (Gravity Push) and the old Gravity V (Meteor Rain) the only exception being that the visuals and audio are reworked.
+* Gravity is one of the first two fruits that could obtain upgrades through the [[Admin Panel]], the other being [[Eagle]], the second is [[Lightning]], the third is [[Pain]], the fourth is [[Control]], and soon, possibly, [[Creation]].
+* Gravity is one of eight fruits to have a [[Power Meter|meter]] that is not intended for a transformation (along with [[Eagle]], [[Creation]], [[Sound]], [[Pain]], [[Shadow]], [[Spirit]] and [[Control]]).
+* Gravity is one of fruits that require the most tasks and items to fully upgrade it through the [[Admin Panel]].
+* Gravity is the first fruit to feature a cutscene with its held {{Ability|V}}, followed by [[Tiger]] and its [[Werewolf]] mutation, with the held {{Ability|Tiger|C}} and {{Ability|Tiger|F}} respectively, the third being [[Control]]'s {{Ability|Control|V}}, and the fourth being [[Empyrean]] transformed {{Ability|Empyrean|C}}.
+* Gravity currently has the longest cutscene of any fruit, being roughly 13.79 seconds.
+* Gravity has been reworked two times and has two moves that are uncancellable.
+* When going through doorways while flying, the boulder will purposely lower into the ground to allow the user to enter.
+* {{Ability|C}}'s upgraded version is very similar to an [[Admin Abilities|admin ability]] called "Tensei".
+* Removing the stage 2 [M1] upgrade does not shorten the time to reach stage 3. However, removing the stage 1 [M1] causes the stage 3 animation to play for a short time before becoming normal.
+* A physical Gravity fruit can be dropped from defeating the [[Tyrant of the Skies]], at a very low chance.
+* Gravity, [[Blade]] and [[Bomb]] are the only fruits that have had their entire moveset reworked twice.
+* Gravity's {{Ability|TAP}} has an alternative button on mobile located above {{Ability|Z}} that functions just the same as tapping, although resembles the activation of a move instead.
+* Unlike other M1 attacks on mobile, 2 taps are required to activate the {{Ability|TAP}} ability, similar to [[Creation]] and [[Lightning]]
+* Gravity and [[Tiger]] are the only fruits to have a cutscene that affect's both parties screens with the same cutscene.
+* Before [[Updates/26|Update 26]], Gravity was called to be one of the lamest mythical fruits in the whole game. It was also one of the lowest demanded fruits in the whole Blox Fruits community.
+* Gravity's {{Ability|V}} has one of the largest hitboxes in the game.
+* While performing the held {{Ability|V}}, the sky turns to [[Full Moon]] night, resetting to day after the attack, regardless of time. It heavily disrupts the cycles.
+* Gravity was the first {{Mythical}} fruit to receive upgrades via the [[Admin Panel]], with [[Control]] being the second in [[Updates/29.0|Update 29]].
+* Gravity has the longest [M1] range in the game.
+
+==Change History==
+{{Change History|5|content=
+<tabber>
+|-|27=
+{{Update|27}}
+* {{Ability|V}} no longer shows the crosshair while aiming, unless moved.
+*{{Arrow|nerf}} [[Gravity]]'s M1s are now delayed, no longer being able to M1 quickly.
+
+|-|26.8=
+{{Update|26.8}}
+* {{Arrow|nerf}} Gravity was nerfed.
+** {{Arrow|nerf}} {{Ability|V}}<nowiki/>'s cooldown was increased by 5 seconds.
+** {{Arrow|nerf}} {{Ability|C}}<nowiki/>'s hitbox size was reduced by 10%.
+
+|-|26=
+{{Update|26}}
+* Gravity was remade available to purchase.
+* Gravity Fruit's model was slightly remade again.
+** The color of the fruit model became darker.
+** The pink ring now rotates around the fruit. 
+* Gravity Fruit's icon was remade.
+* Added '''[M1]''' attacks.
+* All moves were reworked.
+** '''[Z] Gravity Push''' was reworked to '''[Z] Singularity'''.
+** '''[X] Gravity Obeisance''' was reworked to '''[X] Orbital Chain'''.
+** '''[C] Meteor Pitch''' was reworked to '''[C] Gravitational Prison'''.
+** '''[V] Meteors Rain''' was reworked to '''[V] Asteroid Crash'''.
+** '''[F] Boulder Flight''' was reworked to '''[F] Shooting Star'''.
+*: <gallery>
+GravityIconOld.png|Previous Icon
+Old Gravity.png|Previous Inventory Icon
+Gravity rework hd.gif|Old Gravity Fruit's model.
+GravZ.gif|'''Gravity Push''' (Old)
+GravX.gif|'''Gravity Obeisance''' (Old)
+GravC.gif|'''Meteor Pitch''' (Old)
+GravV.gif|'''Meteors Rain''' (Old)
+GravF.gif|'''Boulder Flight''' (Old)
+</gallery>
+
+|-|25=
+{{Update|25}}
+* Gravity was made unavailable to purchase from the [[Blox Fruit Dealer]]'s stock and Shop.
+
+|-|20=
+{{Update|20}}
+* Gravity Fruit's model was remade.
+: <gallery>
+Gravity 150x150.png|Old Gravity Fruit's icon.
+
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* {{Arrow|neutral}} Gravity was reworked.
+** Every ability got a VFX rework.
+** Old: '''[V] Meteors Rain''' could not be aimed and used to hit randomly.
+** New: '''[V] Meteors Rain''' can be aimed.
+
+|-|7=
+{{Update|7}}
+* Made Gravity ''slightly'' more common.
+
+|-|5=
+{{Update|5}}
+* Gravity was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Гравитация]]

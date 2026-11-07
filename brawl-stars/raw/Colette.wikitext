@@ -1,0 +1,329 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Collector|PrestigeTitle = Brawl Stars Forever!|Rarity = Epic|Class = Damage Dealer|MovementSpeed = 750 (Normal)<br>4000 (with Super)<br>6000 (with Super + Push It and Star Buffie)|GadgetCharges = |HealthLabel = Health|Health = 3600|AttackLabel = Minimum damage|Attack = 500|AttackLabel2 = Damage to special targets|Attack2 = 1100|AttackRange = 8.67 (Long)|Reload = 1.6 seconds (Normal)|AttackSuperCharge = 25%<br>25% (with Gotcha!)|SuperRange = 11 (Very Long)|SuperSuperCharge = 25%<br>6.25% (spirit; with Hypercharged Super)|SuperLabel = Minimum damage|Super = 500|VoiceActor = Katie Snyder|AttackSpeed=4000|AttackWidth=1|SuperLabel2=Damage to special targets|Super2=2200|Gadget1Name = Na-ah!|Gadget1Range=8.33|Gadget1Cooldown=22 seconds|Gadget2Name = Gotcha!|Gadget2Cooldown=17 seconds|Previous=Nani|Next=Edgar|HyperchargeMultiplier=27%|AttackHyperchargeCharge=6.75%<br>6.75% (with Gotcha!)|SuperHyperchargeCharge=6.75%<br>1.6875 (spirit; with Hypercharged Super)|Gadget2Range=8.33}}
+{{Quote|Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.}}
+{{Portrait}}
+Colette is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 from Season 3: Welcome to Starr Park!. She has moderate health and variable damage output. She was the 39th Brawler added to the game. She attacks by firing a long-ranged projectile that deals more damage the more health her enemy has or a fixed amount against certain targets. For her Super, she dashes forward and then returns back very quickly, damaging any enemies in her path based on their maximum health. Colette's first Gadget, Na-ah!, makes her shoot a projectile that briefly hypnotizes Brawlers. Her second Gadget, Gotcha!, allows her to fire shots that heal her when they hit an enemy. Her first Star Power, Push It, pushes Brawlers caught in her Super to its furthest point which stuns them until Colette turns back. Her second Star Power, Mass Tax, gives her a shield while using her Super and a secondary shield when she hits a target with it. Her Hypercharge, Teen Spirit, summons her spirit that follows Colette's Super, similarly damaging any enemies in its path.
+
+==Attack: Taxing Shot==
+{{Quote|Colette fires a shot that takes what you owe! And the more you have, the more you owe.}}Colette fires a heart-shaped projectile at long range, dealing 39% of the opponent's current health; thus she can do a large amount of damage to high-health targets such as [[Frank]], [[Draco]], or [[El Primo]] but low damage to low-health targets like [[Piper]], [[Wendy]], or [[Tick]]. As the damage is based on current health and not maximum health, consecutive shots will deal less damage. [[Showdown|Power Cube]] buffs are applied after the base damage is calculated. The attack has a minimum damage amount, which increases based on Colette's Power Level. Colette's attack will deal the minimum damage amount once 39% of the enemy's health is lower than her minimum damage.
+
+For special targets (such as [[Showdown|Power Cube]] Boxes, the [[Siege|IKE]], [[Heist]] safes, spawnables, Big Brawlers in [[Big Game]] or other non-Brawlers), the attack will deal a fixed amount of damage that is equal to 2.2 times the minimum damage (also increasing based on Colette's Power Level). This is affected by outside buffs such as Power Cubes and [[8-Bit]]'s damage booster.
+
+==Super: Time To Collect==
+{{Quote|Colette makes a dash forth and back, dealing taxing damage to everyone in her path, based on their maximum health.}}Colette dashes forward a long distance until she reaches maximum range or is blocked by a wall, and then dashes back to her starting position. She can go over water while using her Super. If she hits an enemy Brawler, she deals 22% of their maximum health, both on her forward and on her return dash. Similar to her main attack, [[Showdown|Power Cube]] buffs are applied after the base damage is calculated, and she will do 2.2 times as much damage to special targets as her main attack.
+
+==Gadgets==
+===Na-ah!===
+{{Quote|Colette fires a projectile that charms a Brawler for 0.5 sec. Uses ammo. Cooldown: 22 seconds.}}{{Gadget|1}}Colette fires a shot in the direction the Gadget is aimed, consuming ammo. An enemy hit by the shot will be hypnotized for 0.5 seconds. The projectile itself does no damage. The hypnotize works identically to that of [[Ollie]]'s Super, causing targets to walk towards Colette's current position. This Gadget's range is slightly shorter than her normal range.
+
+{{Quote|The projectile pierces environments and Brawlers.}}{{Buffie|Gadget}}
+With the Buffie, the shot will pass through walls and pierce Brawlers, allowing Colette to hypnotize multiple enemies.
+
+===Gotcha!===
+{{Quote|Colette fires a projectile that heals for 80% of damage done. Uses ammo and can be fired up to 3 times before cooldown. Cooldown: 17 seconds.}}{{Gadget|2}}Colette fires a projectile in the direction the Gadget is aimed that is similar to her main attack, except that it heals her for 80% of damage dealt. However, the Gadget attack's damage against special targets is reduced to Colette's minimum damage against enemies. Also, her range with this Gadget is slightly shorter than normal. Each shot with the Gadget consumes ammo. This Gadget's cooldown begins once all 3 shots are used. If Colette is defeated before using all 3 shots, the remaining shots are forfeited and the cooldown begins upon respawning.
+
+{{Quote|Can overheal, creating a shield of 1000 maximum health.}}{{Buffie|Gadget}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+With the Buffie, any extra healing from the Gadget will be converted into a shield, up to a maximum of 1000 shield health. The shield decays by 50 health every 0.15 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Colette is damaged by the remaining damage. Colette's attack and Super will deal damage based on Colette's max health when this shield is active. Enemies damaging Colette with Gotcha! can still charge their Supers. Unlike most other Gadgets, the maximum amount of shield health is fixed regardless of Power Level.
+
+==Star Powers==
+===Push It===
+{{Quote|All enemy Brawlers hit by Colette's charge are carried to the farthest point of the attack! At max distance, they are stunned for 0.2 sec.}}{{StarPower|1}}When using her Super, Colette drags enemies she hits to the maximum range of her Super. Once she reaches maximum range, any enemies she hit are stunned for 0.2 seconds. Both the push and stun will interrupt any attacks and Supers, such as [[Carl]]'s or [[Frank]]'s Super. Brawlers affected by this Star Power can be pushed across water as well. Brawlers carried to the farthest point of the attack will be hit twice.
+
+{{Quote|Super dash speed is significantly faster.}}{{Buffie|Star}}
+With the Buffie, the speed of Colette's Super is increased by 50%.
+
+===Mass Tax===
+{{Quote|Colette takes 60% less damage during her Super and gains a 30% shield for 3 sec if she hits a Brawler.}}
+{{StarPower|2}}During her Super, Colette gains a shield that reduces all damage she takes by 60%. In addition, if she hit at least 1 enemy (including special targets such as the [[Heist]] safe) with her Super, she gains a 30% shield for 3 seconds. However, the 30% does not stack with the Super's shield and is only active after it ends, reducing its effective duration. Note that this Star Power has no effect against slows, stuns, or knockbacks.
+
+{{Quote|Colette steals 33% ammo of any Brawlers she hits.}}{{Buffie|Star}}
+With the Buffie, enemies hit by Colette's Super will lose one-third of their ammo. Meanwhile, Colette gains the stolen ammo to her own ammo bar. If an enemy Brawler's ammo bar is empty, Colette will not receive any more ammo even if the Super hits them, but Colette can still remove enemies' ammo even if her ammo bar is full. This Star Power does not work against the Heist safe, the IKE turret in Siege, or spawnables.
+
+==Hypercharge: Teen Spirit==
+{{Quote|Colette's spirit follows her during her dash, damaging enemies on the way.}}{{Hypercharge}}When activated, when Colette uses her Super, she spawns her spirit which follows the same path as her Super at 66% of the speed. The spirit is impervious to damage, and it will complete its path even if Colette is defeated while using her Super. Her spirit deals the same amount of special target damage as Colette herself, but always deals the minimum damage on Brawlers. Colette also gains a 20% speed boost, as well as 5% damage and shield boost. In addition, the Hypercharge damage boost increases Colette's Super's minimum and special target damage, however, the Hypercharge damage boost increases the spirit's special target damage, but not its minimum damage.
+
+{{Quote|Colette follows up each main attack with a smaller second attack that deals less damage.}}{{Buffie|Hyper}}
+With the Buffie, during Colette's Hypercharge, her main attack fires a second smaller shot after the first. The shot deals damage equal to 22.5% of the target's current health, with the same minimum damage as the regular attack (1000). Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Fire shots to her sides while she's using her Super.}}<div style="float:right">[[File:Inferno Wasabi.png|64px|link=]]</div>Colette fired seven sets of six smaller attack projectiles with 60 degrees between each projectile over the duration of her Super, for a total of 42 projectiles. The effect was doubled when her Hypercharge was active for a total of 84 projectiles. While she did throw projectiles on her way back as well, she would fire less projectiles in total if her Super ended prematurely (such as being stunned or meeting walls in the dash). The projectiles dealt 400 damage each and did not contribute to the damage reduction of her Mass Tax Star Power, nor did they charge her Super.
+
+==Tips==
+===Game Modes and Maps===
+*Colette is a very strong Brawler in [[Heist]]. The heist safe counts as a special target to Colette, meaning that at Power Level 11, she can do 4400 damage per hit with her Super. This means that she can deal 8800 damage, or 11% of the safe's health, with one Super. With her Hypercharge, however, she can deal 4620 damage to the heist safe per hit, and since her Hypercharge is able to hit 4 times, she can deal 18480 damage to the safe with one super. She can also recharge her Super if she hits defending enemies along with the safe. Combined with her fast Super charge rate and Mass Tax Star Power, she can repeatedly use her Super on the safe while reducing damage taken so she survives longer. Alternatively, her Push It Star Power is useful as it can push enemies away from the safe while defending, and push defending enemies away when attacking the enemy safe, allowing shorter-ranged Brawlers to offend easier.
+*She is also very good in Brawl Ball. With her Push It Star Power, she can push enemy Brawlers away from the goal, and she can also make them let go of the ball. Along with this, Tank Brawlers like [[Frank]], [[Jacky]], [[Rosa]], El Primo, and [[Bibi]] are regularly used in that game mode, which are high health targets for her to counter. Colette could also be used in [[Hot Zone]] with her Push It Star Power to push enemy Brawlers out of the zone.
+
+===Recommended Build===
+*Colette’s Mass Tax Star Power can make it so that she takes less damage for a good amount of time. However, her Push It Star Power tends to be more useful because of its ability to move Brawlers and guarantee two hits on them. Because of this, Mass Tax is generally used only in [[Heist]], but Push It can also be very useful in that game mode because it can push Brawlers away from the safe and charge Colette’s Hypercharge faster because of the guaranteed two hits. Additionally, her Push It Star Power can also be used to push enemy Brawlers into the gas in game modes like [[Showdown]] or [[Knockout]].
+*The Damage Gear is good to have in many situations. It can make Colette’s minimum damage of 1000 become 1150, which allows her many more opportunities to defeat Brawlers who are on low health but not low health enough to be defeated in just one shot. The Gadget Gear is also very good to have, as it gives her an additional chance to do more damage to a Brawler or an additional chance to heal herself when she is low on health. The Shield Gear can also be good, as it prevents the two shot and super combo from happening to you from other Colettes.
+
+===Other===
+*Colette is a Brawler that specializes in countering tanks. Her attacks can deal massive amounts of damage to them, but without proper support and understanding of her abilities, she struggles to take enemies out in a short amount of time. Therefore, she synergizes with assassins like Crow, [[Buzz]], [[Fang]], [[Kenji]], or Leon as she can quickly bring enemies to low health and allow the assassins to finish them off.
+*Use walls and other obstacles to your advantage when using Colette's Super. Even without her Push It Star Power, Colette can still hit an enemy twice quickly if they are close to a wall while using her Super.
+*If she hits two normal attacks and a Super, Colette can defeat every Brawler in the game provided that they do not have any shields or passive healing abilities. Her Super has a quick charging rate along with her attack, so she can do this multiple times. This can be aided with her Mass Tax Star Power, which protects her as she supers.
+*Colette's Super can be used to collect gems and return to cover, making her a good last-resort gem carrier in [[Gem Grab]] if your primary gem carrier is suddenly defeated. Her Super can also be used to collect Power Cubes in [[Showdown]] or Bolts in [[Siege]].
+*Beware of using your Super against Brawlers with high burst damage like [[Bull]], [[Edgar]], [[Griff]], [[Leon]], [[Shelly]], [[Darryl]], Buzz, [[Brock]], [[El Primo]], [[Nani]], [[Emz]], [[Colt]], [[8-Bit]], or [[Spike]] since they can easily defeat you when you rush into them, so make sure to have exhausted their ammo before using your Super on them. With her Push It Star Power, however, you can briefly immobilize high-burst Brawlers while using your Super as well as finish them off when they are on sufficiently low health with two hits, so Push It is a safe way to use Colette's Super effectively against such Brawlers.
+*Colette with her Super is capable of defeating the entire enemy team. Her Super's large width can hit multiple enemies, and if she hits two Brawlers both when dashing forward and dashing back, she immediately charges another Super, effectively allowing her to use her Super again for massive amounts of damage.
+*Be very careful when using Colette's Push It Star Power. When used against Brawlers that can outrange her, it may push them out of range of her main attack, which would give them an advantage against her. In this situations, it is recommended not to use this Star Power when facing these Brawlers.
+*When using Colette in Showdown, keep chipping off at enemies' health at a distance until you can use your Super or Na-ah Gadget to finish them off. Be mindful about how the enemy can counter your two shots and Super combo, such as shields, healing, or damage debuffs.
+*Colette also has excellent synergy with [[Byron]] in Heist, as Colette can continuously get healed by Byron's attacks and Super while she repeatedly dashes into the safe with her own Super. This is even more effective if Colette uses her Mass Tax Star Power.
+*One thing that makes Colette's upgrade different from that of other Brawlers is that the Damage percentage remains the same at 37% of opponents' current Health (though the minimum Damage changes). This means that Colette's Damage output is not as level-dependent compared to other Brawlers.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Colette start vo 01.ogg|Filedescription = "I see you!"}}
+|{{Ogg|Filename = Colette lead vo 01.ogg|Filedescription = "Best moment of my life!"}}
+|{{Ogg|Filename = Colette hurt vo 01.ogg|Filedescription = "Hey!"}}
+|{{Ogg|Filename = Colette kill vo 01.ogg|Filedescription = "Oh! One for the collection!"}}
+|{{Ogg|Filename = Colette die vo 01.ogg|Filedescription = "I'll find you — every time!"}}
+|
+|{{Ogg|Filename = Colette ulti vo 01.ogg|Filedescription = "Don't run away!"}}
+|-
+|{{Ogg|Filename = Colette start vo 02.ogg|Filedescription = "Look! My favorite Brawler!"}}
+|{{Ogg|Filename = Colette lead vo 02.ogg|Filedescription = "Scrapbook moment!"}}
+|{{Ogg|Filename = Colette hurt vo 02.ogg|Filedescription = "Hey!"}}
+|{{Ogg|Filename = Colette kill vo 02.ogg|Filedescription = Colette laughs}}
+|{{Ogg|Filename = Colette die vo 02.ogg|Filedescription = "I still love you."}}
+|
+|{{Ogg|Filename = Colette ulti vo 02.ogg|Filedescription = "I'm gonna catch you!"}}
+|-
+|{{Ogg|Filename = Colette start vo 03.ogg|Filedescription = "Brawl Stars forever!"}}
+|{{Ogg|Filename = Colette lead vo 03.ogg|Filedescription = "Is this really happening?!"}}
+|{{Ogg|Filename = Colette hurt vo 03.ogg|Filedescription = "Ow!"}}
+|{{Ogg|Filename = Colette kill vo 03.ogg|Filedescription = "Don't touch my scrapbook!"}}
+|{{Ogg|Filename = Colette die vo 03.ogg|Filedescription = "I hope that leaves a mark!"}}
+|
+|{{Ogg|Filename = Colette ulti vo 03.ogg|Filedescription = "Wait for me!"}}
+|-
+|{{Ogg|Filename = Colette start vo 04.ogg|Filedescription = "I'm gonna chase you, and I'm gonna find you."}}
+|{{Ogg|Filename = Colette lead vo 04.ogg|Filedescription = "This is better than my fanfics!"}}
+|{{Ogg|Filename = Colette hurt vo 04.ogg|Filedescription = "Ow!"}}
+|{{Ogg|Filename = Colette kill vo 04.ogg|Filedescription = "You are going in my scrapbook."}}
+|{{Ogg|Filename = Colette die vo 04.ogg|Filedescription = "Just wait there! I'll be right back."}}
+|
+|{{Ogg|Filename = Colette ulti vo 04.ogg|Filedescription = "I just want your autograph!"}}
+|-
+|{{Ogg|Filename = Colette start vo 05.ogg|Filedescription = "You can't get away from me! Ever..."}}
+|
+|{{Ogg|Filename = Colette hurt vo 05.ogg|Filedescription = "I just wanna be friends!"}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Colette start vo 06.ogg|Filedescription = "This is so cool!"}}
+|
+|{{Ogg|Filename = Colette hurt vo 06.ogg|Filedescription = "That's a keeper!"}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Colette start vo 07.ogg|Filedescription = "So many cool Brawlers!"}}
+|
+|{{Ogg|Filename = Colette hurt vo 07.ogg|Filedescription = "I know you like me!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*11/09/20:
+**{{Balance|Content=Colette became available to play in the [[Training Cave]].|Change=Neutral}}
+*14/09/20:
+**{{Balance|Content=Colette and her Trixie skin were added to the game.|Change=Neutral}}
+*17/09/20:
+**{{Balance|Content=Colette now deals fixed damage (from attack and Super alike) against spawnables such as [[Nita]]'s bear and [[Jessie]]'s turret (similar as against other "special targets" such as bosses in Special Events or [[Showdown]] boxes).|Change=Buff}}
+**{{Balance|Content=Her main attack damage percent was increased to 37% (from 35%).|Change=Buff}}
+**{{Balance|Content=Her main attack minimum damage was increased to 500 (from 200) and now scales with buffs.|Change=Buff}}
+**{{Balance|Content=Her Super fixed damage against special targets was increased to 2000 (from 1000) per hit.|Change=Buff}}
+**{{Balance|Content=Colette's Na-ah! Gadget was reworked from making her next attack deal 40% of Colette's current health as damage to making her next attack deal 37% of an enemy Brawler's maximum health and deal double the damage against special targets.|Change=Neutral}}
+*02/10/20:
+**{{Balance|Content=Colette's Mass Tax Star Power was added.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Colette's reload time was decreased to 1.6 seconds (from 1.8).|Change=Buff}}
+**{{Balance|Content=Colette's Super recharge rate was increased by 100%. |Change=Buff}}
+*15/12/20:
+**{{Balance|Content=Colette's health was increased to 3400 (from 3200).|Change=Buff}}
+**{{Balance|Content=Colette's Mass Tax Star Power base shield gain increased to 20% (from 10%).|Change=Buff}}
+*05/02/21:
+**{{Balance|Content=The Navigator Colette skin was added. It was featured as a Lunar Brawl 2021 skin.|Change=Neutral}}
+*16/06/21:
+**{{Balance|Content=Colette's Na-Ah! Gadget was reworked from making Colette's next attack deal 37% of the enemy's full health to making Colette's next attack deal 1000 more damage.|Change=Neutral}}
+*15/10/21:
+**{{Balance|Content=The Gladiator Colette skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Colette's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Colette's class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Colette's Gotcha! Gadget was added.|Change=Neutral}}
+*07/11/22:
+**{{Balance|Content=The Inspector Colette skin was added. It was featured as a Power League skin for Brawl Pass Season 15.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Inspector Colette now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Colette's Na-Ah! Gadget damage bonus was increased to 1200 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Colette's Teen Spirit Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Colette's flavor text was changed from "Colette is going to get you! She taxes opponents' health and has fancy moves to boot." to "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Colette's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*04/01/24:
+**{{Balance|Content=The Pinku, Kiiro, and Midori Pawlette skins were added. They were featured as Brawl Pass Season 22 skins and Cartoon Studios skins.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Colette's Teen Spirit Hypercharge speed boost was decreased to 26% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Colette's Teen Spirit Hypercharge shield boost was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+*01/03/24:
+**{{Balance|Content=The Fangirl Cony skin was added. It was featured as a Brown & Friends skin.|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Colette's Teen Spirit Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+*17/10/24:
+**{{Balance|Content=The Cuckoo Colette skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=The Impie Colette skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Colette's Mass Tax Star Power shield duration was changed to 5 seconds in the description (from 5.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Colette's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Colette's Wasabi Power Super damage was increased to 200 per projectile (from 100).|Change=Buff}}
+**{{Balance|Content=Colette's Wasabi Power Super number of projectiles was increased to 6 (from 4).|Change=Buff}}
+*30/05/25:
+**{{Balance|Content=Colette's Wasabi Power was removed from the game.|Change=Neutral}}
+*05/06/25: 
+**{{Balance|Content=The Tokusatsu Colette skin was unlockable by winning the Free Skin in-game Challenge. It was featured as a Kaiju Invasion skin.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Colette's main attack and Super damage now counts bonus hitpoints along with the original hitpoints.|Change=Buff}}
+*30/06/25:
+**{{Balance|Content=Colette's level up damage was decreased to 4% (from 6%) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Colette's level up movement speed boost was decreased to 4 (from 8) in Brawl Arena.|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=Colette's health was increased to 3500 (from 3400).|Change=Buff}}
+**{{Balance|Content=Colette's level up reload speed was increased to 1% (from 0.5%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Colette's level up health was increased to 400 (from 200) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Colette's main attack and Super damage percentages no longer scale with buffs and debuffs, including damage boosts. Her minimum damage is unaffected.|Change=Nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Colette's Teen Spirit Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Colette Teen Spirit Hypercharge damage boost from 25%.}}
+*12/11/25:
+**{{Balance|Content=Replaced Colette's duplicate epic Projectile Range Power Card with the +25% Damage to Enemies Above 50% Health Power Card.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Colette's health was increased to 3600 (from 3500).}}
+*25/02/26:
+**{{Balance|Content=Colette's main attack damage percent was increased to 39% (from 37%).|Change=Buff}}
+**{{Balance|Content=Her main attack fixed damage against special targets was increased to 1100 (from 1000) per hit.|Change=Buff}}
+**{{Balance|Content=Colette's Super damage percent was increased to 22% (from 20%).|Change=Buff}}
+**{{Balance|Content=Her Super fixed damage against special targets was increased to 2200 (from 2000) per hit.|Change=Buff}}
+**{{Balance|Content=Colette's Teen Spirit Hypercharge multiplier was decreased to 27% (from 30%).|Change=Nerf}}
+*04/03/26:
+**{{Balance|Neutral|Fixed a bug where Colette charged her Super with 5 hits instead of 4.}}
+*22/04/26:
+**{{Balance|Buff|Colette's Push It Star Power now stuns enemies hit for 0.2 seconds when reaching maximum range.}}
+**{{Balance|Nerf|Colette's Na-ah! Gadget cooldown was increased to 17 seconds (from 10).}}
+**{{Balance|Nerf|Colette's Gotcha! Gadget no longer deals 20% more damage to special targets and instead deals Colette's minimum damage against enemies to them.}}
+**{{Balance|Neutral|Colette's Na-ah! Gadget was reworked from increasing the damage of Colette's next attack to firing a projectile that hypnotizes the enemy hit for 1 second.}}
+**{{Balance|Neutral|Colette's Gotcha! Gadget now affects the next 3 attacks aimed with the Gadget (from affecting all main attacks 5 seconds after activation).}}
+**{{Balance|Neutral|Colette's Mass Tax Star Power was reworked from giving Colette a 20% shield when using her Super which increases in strength by 10% for each target hit to giving Colette a damage 75% shield during her Super and a 30% shield for 3 seconds if hitting a target.}}
+**{{Balance|Neutral|Colette's Buffies were added.}}
+*28/04/26:
+**{{Balance|Neutral|Fixed an issue where Colette dealt an extra hit of damage when using her Hypercharged Super.}}
+**{{Balance|Neutral|Colette now loses her Mass Tax Star Power shield when pushed, pulled, stunned, or knocked back.}}
+*07/05/26:
+**{{Balance|Neutral|The Void, Black Hole and White Dwarf Colette skins were added. They were featured as Brawl Pass Season 50 skins and Starr Patrol skins.}}
+*13/05/26:
+**{{Balance|Neutral|Colette now loses her Mass Tax Star Power shield when her Super is interrupted.}}
+*30/06/26:	
+**{{Balance|Nerf|Colette's Super charge rate was decreased to 90 (from 100).}}
+**{{Balance|Nerf|Colette's Na-ah! Gadget cooldown was increased to 22 seconds (from 17).}}
+**{{Balance|Nerf|Colette's Mass Tax Star Power damage reduction during Super was decreased to 60% (from 75%).}}
+**{{Balance|Neutral|Fixed a crash where Colette's Hypercharged Teen Spirit Buffie attack could execute after she died.}}
+**{{Balance|Neutral|Fixed an issue where Colette's Super aiming indicator didn’t match her actual travel distance.}}
+*08/07/26:
+**{{Balance|Nerf|Colette's Na-ah! Gadget charm duration was decreased to 0.5 seconds (from 1).}}
+*01/09/26:	
+**{{Balance|Buff|Colette's Super charge rate was increased to 100 (from 90).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Colette's movement speed to 750 (from 720).}}
+*16/09/26:
+**{{Balance|Nerf|Colette's second shot damage from Hyper Buffied attack was decreased to 22.5% (from 30%).}}
+*03/11/26:
+**{{Balance|Nerf|Colette's Super charge rate from her Hypercharged Super spirit was decreased by 75%.}}
+
+==Cosmetics==
+===Skins (16)===
+{{Skin Gallery
+|Name1 = Cuckoo|Cost1 = Free from Dead Boxes, Pumpkin Boxes, Strangest Packs, Coffin Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1 = Brawl-o-ween|Rarity1=Rare
+|Name2 = Navigator|Cost2 = 79 Gems • '''S'''|Campaign2 = StarrForce Assemble|Rarity2=Super Rare
+|Name3 = Fangirl Cony|Cost3 = 79 Gems|Campaign3 = Brown & Friends|Rarity3=Super Rare
+|Name4 = Gladiator|Cost4 = 149 Gems|Campaign4 = Supercell Make|Campaign4_2=Legends of Olympus|Rarity4=Epic
+|Name5 = Inspector|Cost5 = Free from Pumpkin Boxes, Coffin Boxes or 149 Gems|Campaign5 = Ranked|Campaign5_2=Brawl-o-ween|Rarity5=Epic
+|Name6 = Impie|Cost6 = Free from Demonic Drops or 149 Gems|Campaign6 = Angels vs. Demons|Rarity6 = Epic
+|Name7 = Tokusatsu|Cost7 = Free from the Free Skin Challenge or 149 Gems|Campaign7 = Kaiju Invasion|Rarity7 = Epic
+|TrueSkins=Yes
+|NameP1 = Trixie|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic
+|NameP2 = Pinku Pawlette|CostP2=Brawl Pass, free from Starr Nova Boxes or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Cartoon Studios|RarityP2=Epic
+|NameP3 = Kiiro Pawlette|CostP3=Brawl Pass Plus, free from Starr Nova Boxes or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Cartoon Studios|RarityP3=Epic
+|NameP4 = Midori Pawlette|CostP4=Brawl Pass Plus, free from Starr Nova Boxes or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2=Cartoon Studios|RarityP4=Epic
+|NameP5 = Void|CostP5=2 Skin Keys|CampaignP5=Brawl Pass|CampaignP5_2=Starr Patrol|RarityP5=Epic
+|NameP6 = White Dwarf|CostP6=Free after purchasing the Skin Set|CampaignP6=Brawl Pass|CampaignP6_2=Starr Patrol|RarityP6=Epic
+|NameP7 = Black Hole|CostP7=Free after purchasing the Skin Set|CampaignP7=Brawl Pass|CampaignP7_2=Starr Patrol|RarityP7=Epic
+}}
+
+===Buffie Skins===
+<gallery>
+File:Colette Buffie Skin-Gadget.png|Gadget
+File:Colette Buffie Skin-Star.png|Star
+File:Colette Buffie Skin-Hyper.png|Hyper
+File:Colette Buffie Skin-Bling.png|Bling
+File:Colette Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Colette
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Trixie}}
+{{Pin Table|Inspector}}
+{{Pin Table|Gladiator}}
+{{Pin Table|Pinku Pawlette|Special}}
+{{Pin Table|Kiiro Pawlette|Special}}
+{{Pin Table|Midori Pawlette|Special}}
+{{Pin Table|Fangirl Cony|Special}}
+{{Pin Table|Navigator|GG}}
+{{Pin Table|Impie|Happy}}
+{{Pin Table|Tokusatsu|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Colette|Rarity = Common}}
+|{{Spray|Type = Colette Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Colette1}}
+|{{Pfp|Colette2}}
+|{{Pfp|Colette3}}
+|{{Pfp|Colette4}}
+|{{Pfp|Pinku Pawlette}}
+|-
+|{{Pfp|Inspector Colette}}
+|{{Pfp|Trixie Colette}}
+|{{Pfp|Impie Colette}}
+|{{Pfp|Gladiator Colette}}
+|{{Pfp|Tokusatsu Colette}}
+|}
+
+{{Navigation}}
+[[es:Colette]]
+[[ru:Колетт]]

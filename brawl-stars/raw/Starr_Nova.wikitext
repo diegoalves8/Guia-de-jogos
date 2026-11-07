@@ -1,0 +1,252 @@
+{{Protection}}{{MagicWords}}{{About|the Brawler|the event with the same name|Starr Nova Event}}
+{{Brawler Infobox|Title = Magical|PrestigeTitle = Anime Fan|Rarity = Mythic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>2300 (Super dash)<br>1069 (with Super)|HealthLabel = Health|Health = 3700|AttackRange = 5.67 (Normal)|Reload =1.6 seconds (Normal) |AttackSuperCharge =10.125% |AttackLabel = Damage per projectile|Attack = 480|AttackBullets=2|AttackSpeed=15000|SuperSpeed = |SuperRange = 4.33 (dash; Short)<br>3.67 (Sword Mode; Short)|SuperSuperCharge =7.5% (dash)<br>20.625% (sword) |SuperLabel = Dash Damage|Super = 300|SuperLabel2 = Sword Damage|Super2 = 1100|SuperDuration=7 seconds|SuperSpread = 135° (Sword Mode)|VoiceActor =Unknown |Gadget1Name=Floaty Time|Gadget1Cooldown=20 seconds|Gadget2Name = Shining Starr of Friendship and Justice|Gadget2=1280|Gadget2Label=Damage/Heal|Gadget2Cooldown=20 seconds|Previous=Damian|Next=Wendy|AttackWidth=2.33|SuperMovementSpeed=|SuperAmmoReload=0.7 seconds (Very Fast)|Gadget1Range=7.33|Gadget2Range=7.33|StarPower2Name=Mystical Starr Technique|StarPower2=389|StarPower2Label=Heal per hit|HyperchargeMultiplier=25%|AttackHyperchargeCharge=2.53125%|SuperHyperchargeCharge=1.875% (dash)<br>5.15625% (sword)}}
+{{Quote|A cosplayer who believes they are the anime character Starr Nova! This can get a bit awkward, as she believes problems in the real world can *also* be solved by hitting them with a massive sword.}}{{Portrait}}
+Starr Nova (also known as Stella)<ref>[https://youtu.be/n8GposKb0dE Origin Story - How Stella Became Starr Nova! (Music: “polaris” by Aooo)]</ref> is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, great mobility with her Super and her very fast movement speed, and a variable range and damage output. She was the 103rd Brawler added to the game. She attacks by firing two piercing sparkles from her hair that shoot from right side then left. For her Super, she dashes forward, transforming into her alternate form, damaging enemies on her way. Starr Nova's alternate form attacks by swiping her sword in a wide and close-ranged arc, healing her slightly when she hits enemies with her attack. Her first Gadget, Floaty Time, she places a crystal that allows her and allies to fly over obstacles within its area-of-effect until it is destroyed. Her second Gadget, Shining Starr of Friendship and Justice, fires a projectile that damages enemies, and heals allies, while Starr Nova can use it again to instantly teleport. Her first Star Power, Power Level: Maximum!, increases her alternate form's attack damage after hitting a target. Her second Star Power, Mystical Starr Technique, allows Starr Nova's normal attack to heal allies it hits. Her Hypercharge, Starr Nova: The Hypercharge, makes her invulnerable while dashing and her alternate form has unlimited ammo.
+
+==Attack: Nova Hair, Go!==
+{{Quote|Starr Nova uses her glorious anime hair as a weapon, firing 2 blonde projectiles.}}
+Starr Nova fires large, piercing sparkles from her hair in 2 waves that deal moderate damage. The projectiles have a slight horizontal spread. This attack is very wide and extremely fast, making it next to impossible for enemies to dodge. Starr Nova's attack has an extremely fast unload speed, and it takes 0.15 seconds to complete.
+
+==Super: Nova Crystal, Transform!==
+{{Quote|Starr Nova dashes and transforms into her ultimate form, conjuring her Nova sword! She gains movement speed, converts dealt damage to health, and her main attack changes shape. Transformation lasts 7 sec.}}
+Starr Nova dashes forward, dealing low damage to enemies along her way and transforming into her alternate form for 7 seconds. While in this form, Starr Nova's movement speed is increased by 25%, she attacks by swinging with her sword, hitting enemies in a wide, 135 degree arc, and her attacks heal her for 30% of the damage dealt. The attack has no wind up, she isn't immobile while attacking and there isn't any travel time, so the attack instantly takes effect. Using Starr Nova's Super when she is already in her alternate form will reset the duration of it back to 7 seconds. Starr Nova's Super transformation can be cancelled if she is stunned, knocked back, or pulled during the dash.
+
+==Gadgets==
+===Floaty Time===
+{{Quote|Starr Nova deploys an anti-gravity device, allowing teammates to float inside of the area! Cooldown: 20 seconds.}}{{Gadget|1}}
+When aiming using the Gadget button, Starr Nova lobs a crystal that creates an area that allows her and her allies to fly in a 4.33-tile radius, similar to [[Janet]]'s Super. The crystal has 3000 health, and will be destroyed if Starr Nova drops another crystal. It also decays by 450 health per second until it is destroyed, lasting for up to 7 seconds if it doesn't take any damage. While allies are flying, they cannot attack or use their Super, Gadget, or Hypercharge, and if the crystal was destroyed the allies that were flying will descend. Allies can also descend by leaving the Gadget area.
+
+===Shining Starr of Friendship and Justice===
+{{Quote|Starr Nova fires an energy ball that damages enemies and heals teammates for 1600. This energy ball can also be teleported to before it hits a target! Cooldown: 20 seconds.}}{{Gadget|2}}
+When aiming using the Gadget button, Starr Nova fires a projectile that damages enemies and heals allies along the way. In addition, she can use the Gadget again while the projectile is active to instantly teleport.
+
+==Star Powers==
+===Power Level: Maximum!===
+{{Quote|Hitting an enemy Brawler while transformed increases your damage by 4% to a maximum of 20%.}}{{StarPower|1}}
+Starr Nova's alternate form attack damage increases by 4% after every target hit, up to 20%. The damage boost is retained if she uses her Super while she is already in her alternate form, but it is cancelled instantly after she transforms back into her normal form.
+
+===Mystical Starr Technique===
+{{Quote|Starr Nova's main attack also heals teammates for 384, charging her Super based on healing.}}{{StarPower|2}}
+Starr Nova's main attack heals allied Brawlers for 40% of the damage dealt. Healing allies with it also charges Starr Nova's Super very slightly. This does not apply to her transformed attack.
+
+==Hypercharge: Starr Nova: The Hypercharge==
+{{Quote|Starr Nova becomes invulnerable while dashing and has almost unlimited ammo!}}{{Hypercharge}}
+When activated, Starr Nova is invulnerable while dashing and has unlimited ammo in the alternate form. In addition, when activating the Hypercharge, her ammo bar refills instantly. However, during her Hypercharged Super, her slash does not add to her Hypercharge if it runs out during the transformation. Starr Nova also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*Starr Nova's base attack has the fastest projectile speed in the game, making her extremely useful at continuously chipping away at Brawlers while maintaining her distance. She is also good at bush checking as opponents won't be able to anticipate her shots easily. 
+**When fighting against her, it's generally advised to just outrange or burst her down, as it's basically impossible to dodge her attacks. Alternatively, just dodge behind obstacles as due to her wide attack hitbox, any walls in the way will block at least one of the projectiles.
+**Due to the extremely fast attacks, it will be difficult to get a perception of how much distance to keep away to avoid being hit, as the attacks will be difficult to see. Try to make a comparison with other similar lengths to get an idea of how far you should be.
+*Starr Nova's extremely fast unload speed, decent range and survivability in her Super form make up for her lack of DPS when compared to other aggressive Brawlers. As such, always keep your distance from other aggressive brawlers and use your Super to escape whenever needed.
+**Her instant unload speed also means that she can easily strafe around other assassins and aggressive brawlers. 
+**Do not use your Super to dive into enemy crowds: Starr Nova's healing is nowhere as potent as [[Edgar]], [[Mortis]], or [[Kenji]]'s, and she will often end up being defeated very quickly, which is why strafing from a safe distance is advised. Even with your Hypercharge, use it to bait enemies into wasting ammo before actually diving in.
+*Owing to her agility and fast unload speed, Starr Nova is best used to harass teams and act as a distraction instead of actually taking them out herself. However, her Power Level: Maximum! Star Power still makes her very capable of dealing heavy damage to opponents, especially in crowds, allowing her to force retreats or help to wipe out survivors.
+*Avoid using your Floaty Time Gadget near important choke points or objectives, as you will often only end up sabotaging your team. Instead, use it as an escape from powerful enemy attacks when no other options are available, or place it near obstacles to overcome them.
+**Do note that when confronted with a lot of enemy fire, the Gadget will most likely get destroyed in one or two seconds. Therefore, you should act fast in these situations.
+**An alternative way you can use this Gadget when you have your Super is by faking a charge at the enemy and deploying it immediately. This will make your opponents waste most of their ammo and allow you to quickly retaliate.
+**Alternatively, place your Gadget near to, but not directly in, a choke point, providing a safe zone where your allies can retreat to if the resistance becomes too overwhelming. Somewhere like behind a nearby wall is ideal.
+*Starr Nova's Shining Starr of Friendship and Justice Gadget is a useful tool for ambushing opposing Brawlers or repositioning when in danger. Activate this Gadget when facing a bunched-up group of enemies and activate your Super before teleporting to their backs, as this will allow you to catch your opponents off guard or at least make them waste ammo targeting you from the front.
+
+==Voice Lines==
+{{TranslationToggle|Japanese}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = starr nova start vo 01.ogg|Filedescription = "By the power of the star!"}}
+|{{Ogg|Filename = starr nova lead vo 01.ogg|Filedescription = "I'm totally winning, just like Starr Nova!"}}
+|{{Ogg|Filename = starr nova hurt vo 01.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = starr nova kill vo 01.ogg|Filedescription = {{Translate|"This is for my おたく fam!" ("This is for my otaku fam!")|"This is for my geek fam!"}}}}
+|{{Ogg|Filename = starr nova dies vo 01.ogg|Filedescription = "No! Not like this!"}}
+|{{Ogg|Filename = starr nova atk vo 01.ogg|Filedescription = "Ha!"}}
+|{{Ogg|Filename = starr nova ulti vo 01.ogg|Filedescription = "Star power, go!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 02.ogg|Filedescription = "Starr Patrol reporting for duty."}}
+|{{Ogg|Filename = starr nova lead vo 02.ogg|Filedescription = "Justice is on my side."}}
+|{{Ogg|Filename = starr nova hurt vo 02.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = starr nova kill vo 02.ogg|Filedescription = "Justice prevails!"}}
+|{{Ogg|Filename = starr nova dies vo 02.ogg|Filedescription = "The show isn't over yet!"}}
+|{{Ogg|Filename = starr nova atk vo 02.ogg|Filedescription = "Yah!"}}
+|{{Ogg|Filename = starr nova ulti vo 02.ogg|Filedescription = "Star burst!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 03.ogg|Filedescription = "Justice time!"}}
+|{{Ogg|Filename = starr nova lead vo 03.ogg|Filedescription = "Best heroine ever!"}}
+|{{Ogg|Filename = starr nova hurt vo 03.ogg|Filedescription = "Eee!"}}
+|{{Ogg|Filename = starr nova kill vo 03.ogg|Filedescription = "Evil defeated!"}}
+|{{Ogg|Filename = starr nova dies vo 03.ogg|Filedescription = "I'll be back for justice."}}
+|{{Ogg|Filename = starr nova atk vo 03.ogg|Filedescription = "Hi-yah!"}}
+|{{Ogg|Filename = starr nova ulti vo 03.ogg|Filedescription = "Maximum star!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 04.ogg|Filedescription = "Let's go save the day! Just like episode 6 7!"}}
+|{{Ogg|Filename = starr nova lead vo 04.ogg|Filedescription = "Peak weeb moment."}}
+|{{Ogg|Filename = starr nova hurt vo 04.ogg|Filedescription = "Ah!"}}
+|{{Ogg|Filename = starr nova kill vo 04.ogg|Filedescription = {{Translate|"So かわいい! I mean, so cool!" ("So kawaii! I mean, so cool!")|"So cute! I mean, so cool!"}}}}
+|{{Ogg|Filename = starr nova dies vo 04.ogg|Filedescription = "This can't be the end!"}}
+|
+|{{Ogg|Filename = starr nova ulti vo 04.ogg|Filedescription = "Shining justice."}}
+|-
+|{{Ogg|Filename = starr nova start vo 05.ogg|Filedescription = "Evil doesn't stand a chance."}}
+|{{Ogg|Filename = starr nova lead vo 05.ogg|Filedescription = "The power of the star is real."}}
+|{{Ogg|Filename = starr nova hurt vo 05.ogg|Filedescription = "You'll pay for that!"}}
+|{{Ogg|Filename = starr nova kill vo 05.ogg|Filedescription = "Just like in the show."}}
+|{{Ogg|Filename = starr nova dies vo 05.ogg|Filedescription = "Starr Nova will return."}}
+|
+|{{Ogg|Filename = starr nova ulti vo 05.ogg|Filedescription = "Star sword strike!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 06.ogg|Filedescription = "Starr Nova mode, activate."}}
+|{{Ogg|Filename = starr nova lead vo 06.ogg|Filedescription = "Nobody can stop Starr Patrol."}}
+|{{Ogg|Filename = starr nova hurt vo 06.ogg|Filedescription = "Ow! So not fair!"}}
+|{{Ogg|Filename = starr nova kill vo 06.ogg|Filedescription = "Another villain down!"}}
+|{{Ogg|Filename = starr nova dies vo 06.ogg|Filedescription = "Wait! Sequel hook."}}
+|
+|{{Ogg|Filename = starr nova ulti vo 06.ogg|Filedescription = "Feel the power of the star!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 07.ogg|Filedescription = "For justice, and sparkles."}}
+|{{Ogg|Filename = starr nova lead vo 07.ogg|Filedescription = "Victory sparkles!"}}
+|{{Ogg|Filename = starr nova hurt vo 07.ogg|Filedescription = "Starr Nova would never-ow!"}}
+|{{Ogg|Filename = starr nova kill vo 07.ogg|Filedescription = "Starr Nova never loses!"}}
+|{{Ogg|Filename = starr nova dies vo 07.ogg|Filedescription = "Just wait for season two!"}}
+|
+|{{Ogg|Filename = starr nova ulti vo 07.ogg|Filedescription = "Signature move."}}
+|-
+|{{Ogg|Filename = starr nova start vo 08.ogg|Filedescription = "Main character energy."}}
+|{{Ogg|Filename = starr nova lead vo 08.ogg|Filedescription = {{Translate|"おたく power!" ("Otaku power!")|"Geek power!"}}}}
+|{{Ogg|Filename = starr nova hurt vo 08.ogg|Filedescription = "Hey! That's villain behavior!"}}
+|{{Ogg|Filename = starr nova kill vo 08.ogg|Filedescription = "Bye-bye, baddie."}}
+|{{Ogg|Filename = starr nova dies vo 08.ogg|Filedescription = "Uh, u- filler episode! Uh, definitely a filler!"}}
+|
+|{{Ogg|Filename = starr nova ulti vo 08.ogg|Filedescription = {{Translate|"Star  変身!" ("Star henshin!")|"Star Transformation!"}}}}
+|-
+|{{Ogg|Filename = starr nova start vo 09.ogg|Filedescription = "Main character energy."}}
+|{{Ogg|Filename = starr nova lead vo 09.ogg|Filedescription = "Main character energy confirmed."}}
+|{{Ogg|Filename = starr nova hurt vo 09.ogg|Filedescription = "Meanies!"}}
+|{{Ogg|Filename = starr nova kill vo 09.ogg|Filedescription = "That's a wrap, villain!"}}
+|{{Ogg|Filename = starr nova dies vo 09.ogg|Filedescription = "Not canon, not canon!"}}
+|
+|{{Ogg|Filename = starr nova ulti vo 09.ogg|Filedescription = "Special move, star strike!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 10.ogg|Filedescription = {{Translate|"変身-uh, I mean, star mode." ("Henshin-uh, I mean, star mode".)|"Transformation-uh, I mean, star mode."}}}}
+|{{Ogg|Filename = starr nova lead vo 10.ogg|Filedescription = "Protagonist prevails."}}
+|{{Ogg|Filename = starr nova hurt vo 10.ogg|Filedescription =  {{Translate|"ばか!" ("Baka!")|"Stupid!"}}}}
+|{{Ogg|Filename = starr nova kill vo 10.ogg|Filedescription = "Main character wins again."}}
+|{{Ogg|Filename = starr nova dies vo 10.ogg|Filedescription = "Curse you, cliffhanger!"}}
+|
+|{{Ogg|Filename = starr nova ulti vo 10.ogg|Filedescription = "Ultimate attack, calling it now!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 11.ogg|Filedescription = "Just like the season finale."}}
+|{{Ogg|Filename = starr nova lead vo 11.ogg|Filedescription = "In this episode, I win."}}
+|{{Ogg|Filename = starr nova hurt vo 11.ogg|Filedescription = "Ugh! Not in the script!"}}
+|{{Ogg|Filename = starr nova kill vo 11.ogg|Filedescription = "Best girl stays winning."}}
+|{{Ogg|Filename = starr nova dies vo 11.ogg|Filedescription = "My OTP is justice and winning."}}
+|
+|{{Ogg|Filename = starr nova ulti vo 11.ogg|Filedescription = "Star burst, go go go!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 12.ogg|Filedescription = "This is my arc."}}
+|{{Ogg|Filename = starr nova lead vo 12.ogg|Filedescription = "Canon ending victory."}}
+|{{Ogg|Filename = starr nova hurt vo 12.ogg|Filedescription = "Hey! I'm the protagonist here!"}}
+|{{Ogg|Filename = starr nova kill vo 12.ogg|Filedescription = "Sorry, you're not in the script!"}}
+|
+|
+|{{Ogg|Filename = starr nova ulti vo 12.ogg|Filedescription = "Power up sequence complete!"}}
+|-
+|{{Ogg|Filename = starr nova start vo 13.ogg|Filedescription = "Subbed and ready."}}
+|{{Ogg|Filename = starr nova lead vo 13.ogg|Filedescription = "Starr Patrol undefeated."}}
+|{{Ogg|Filename = starr nova hurt vo 13.ogg|Filedescription = {{Translate|"Ow! so not かわいい! ("Ow! So not kawaii")|""Ow! So not cute!""}}}}
+|{{Ogg|Filename = starr nova kill vo 13.ogg|Filedescription = "Villain of the week defeated."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = starr nova start vo 14.ogg|Filedescription = "Protagonist power, activate."}}
+|{{Ogg|Filename = starr nova lead vo 14.ogg|Filedescription = "My power level is showing!"}}
+|{{Ogg|Filename = starr nova hurt vo 14.ogg|Filedescription = "Oh, my character arc isn't over!"}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = starr nova start vo 15.ogg|Filedescription = "Canon hero moment!"}}
+|{{Ogg|Filename = starr nova lead vo 15.ogg|Filedescription = {{Translate|"かわいい and winning." ("Kawaii and winning.")|"Cute and winning."}}}}
+|{{Ogg|Filename = starr nova hurt vo 15.ogg|Filedescription = "Starr Nova isn't over!"}}
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = starr nova start vo 16.ogg|Filedescription = "Starr Patrol arc, let's go!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==Starr Nova Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Starr Nova}}
+
+==History==
+*22/05/26:
+**{{Balance|Content=Starr Nova became available in [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=Starr Nova could be unlocked early from [[Brawl Boxes|Starr Nova Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+*04/06/26:
+**{{Balance|Neutral|Starr Nova became available in the Starr Road.}}
+*30/06/26:
+**{{Balance|Buff|Starr Nova's health was increased to 4000 (from 3700).}}
+**{{Balance|Buff|Starr Nova's damage in her alternate form was increased to 1100 (from 1000).}}
+**{{Balance|Buff|Starr Nova's Mystical Starr Technique Star Power healing was increased to 40% of her main attack's damage (from 30%).}}
+**{{Balance|Nerf|Starr Nova's level up reload speed was decreased to 1.2% (from 2%) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Starr Nova's level up movement speed was decreased to 6 (from 8) in Brawl Arena.}}
+**{{Balance|Nerf|Starr Nova's level up health was decreased to 400 (from 450) in Brawl Arena.}}
+**{{Balance|Neutral|Starr Nova's Power Level: Maximum! and Mystical Starr Technique Star Power descriptions were reworked.}}
+**{{Balance|Neutral|Fixed a bug where Starr Nova's Shining Starr of Friendship and Justice Gadget wouldn’t go on cooldown when interrupted by knockback.}}
+**{{Balance|Neutral|Starr Nova's facial animations were fixed.}}
+**{{Balance|Neutral|Starr Nova's True Silver and True Gold skins were added.}}
+*08/07/26:
+**{{Balance|Nerf|Starr Nova's main attack damage in her base form was decreased to 480 (from 540).}}
+**{{Balance|Neutral|Fixed Starr Nova being able to use a second Hypercharged Super and nearly recharge Hypercharge.}}
+*21/07/26:
+**{{Balance|Neutral|Starr Nova's Starr Nova: The Hypercharge Hypercharge was added.}}
+*04/08/26:
+**{{Balance|Nerf|Starr Nova's health was decreased to 3700 (from 4000).}}
+**{{Balance|Nerf|Starr Nova's reload time in her base form was increased to 1.6 seconds (from 1.4).}}
+**{{Balance|Nerf|Starr Nova's Power Level: Maximum! Star Power damage buff was decreased to 4% for a maximum of 20% (from 5% for a maximum of 30%).}}
+**{{Balance|Nerf|Starr Nova's Floaty Time Gadget health decay was increased to 450 (from 300) health per second.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Starr Nova's movement speed to 855 (from 820).}}
+*03/11/26:
+**{{Balance|Nerf|Starr Nova's level up health was decreased to 2% (from 3%) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (2)===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Starr Nova
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Starr Nova|Rarity = Common}}
+|{{Spray|Type = Starr Nova Punch|Rarity = Common}}
+|{{Spray|Type = Starr Nova Sword|Rarity = Common}}
+|{{Spray|Type = Starr Nova Hypercharge|Rarity = Exclusive}}
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Starr Nova1}}
+|{{Pfp|Starr Nova2}}
+|{{Pfp|Starr Nova3}}
+|{{Pfp|Starr Nova4}}
+|}
+
+{{Navigation}}
+[[ru:Старр Нова]]

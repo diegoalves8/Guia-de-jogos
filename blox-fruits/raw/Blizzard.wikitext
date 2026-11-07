@@ -1,0 +1,236 @@
+
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Blizzard
+|image  = <gallery>
+Blizzard Fruit.png|Fruit Icon
+BlizzardGIF.gif|Fruit GIF
+Blizzard.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Legendary
+|M1     = No
+|update = 17.3.5
+
+<!-- Fruit Price -->
+|money  = 2,400,000
+|robux  = 2,250
+}}
+{{Quote|Grants the user control over violent blizzards, allowing them to cloak themselves in freezing winds and dominate enemies with crushing cold.|Shop}}
+'''Blizzard''' is a {{Legendary}} [[Elemental]]-type [[Blox Fruit]] that costs {{Money|2,400,000}} or {{Robux|2,250}} from the [[Blox Fruit Dealer]].
+
+Blizzard allows the user to create, become and manipulate snow, allowing them to control phenomena such as snowstorms, or as suggested by the fruit's name, blizzards.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive/Elemental Reflex|Blizzard Passive.gif}}
+
+|Moveset|
+{{Skill
+|key = Z
+|name = Snowflake Shuriken
+|mastery = 1
+|cooldown = 8.25
+|energy = 40
+|break = Yes
+
+|instinct = Can be dodged on direct impact. Explosion [[Instinct/Break|breaks Instinct]].
+|gif = Snow Shuriken
+|gif1 = Snow Shurkiens
+|desc = The user throws snowy shurikens that explode on impact, or when they have reached their maximum distance, causing damage to all enemies. When the move is tapped, two shurikens will be launched.
+|desc1 = If the move is held for longer, then six shurikens will be released.
+}}
+
+{{Skill
+|key = X
+|name = White Out
+|mastery = 90
+|cooldown = 12.75
+|energy = 60
+|break = No
+
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way, but drains a large amount of dodges.
+|gif = Christmas Wind
+|desc = The user creates a snow tornado which increases in size, and starts pushing enemies until it launches them up into the air. This tornado spins around for a few seconds and hard stuns any enemies caught in it, even if it is Instinct-tricked.
+}}
+
+{{Skill
+|key = C
+|name = Howling Wind
+|mastery = 160
+|cooldown = 16.5
+|energy = 80
+|break = Yes
+
+|instinct = Can be dodged on the edge.
+|gif = Snow Pillar
+|desc = The user creates a large and powerful whirlwind with their hand, stunning and damaging enemies while slightly sending them up. The position of the tornado can be controlled with the cursor. This move is similar to [[Lightning]]'s [C] move except smaller and lasts slightly longer.
+}}
+
+{{Skill
+|key = V
+|name = Blizzard Domain
+|mastery = 250
+|cooldown = 27
+|energy = 100
+|break = Yes
+
+|instinct = The DoT [[Instinct/Break|breaks Instinct]], but the startup can rarely be dodged on the edge.
+|gif = Blizzard Expansion
+|desc = The user charges and sucks in nearby enemies before expanding and summoning a massive snow dome, pushing back enemies, causing high damage to enemies within its boundaries. This move will last for seven seconds.
+}}
+
+{{Skill
+|key = F
+|name = Tornado Flight
+|mastery = 40
+|cooldown = 6
+|energy = 60
+|break = Yes
+
+|instinct = Can be dodged on the edge.
+|gif = Tornado Flights
+|desc = The user rides on a snowy tornado, damaging and stunning enemies caught in it. This move can be sustained indefinitely, unless the user takes damage.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Incredibly versatile for grinding, PvP, Sea Beasts, Raids, etc. 
+* Really good in PvP as all of its moves break/quickly drain [[Instinct]], along with decent combo potential and a lot of stuns.
+* Amazing for grinding [[NPC]]s because of Blizzard having [[Elemental]] Reflex, large [[AoE]], and can indefinitely sustain the [F] ability which [[NPCs|NPC's]] will either not have an ability to cancel it or not be able to bypass [[Elemental]] Immunity.
+* Great for [[raids]] because of [V] move's AoE and spam potential.
+* Excellent choice for [[Sea Events]].
+* Multiple stuns, making it good for farming [[bosses]] and PvP.
+* All moves have a wide [[AoE]], especially the [V] move (able to cover the entirety of the 1v1 arena).
+* Overall Decent cooldowns.
+* Overall provides high damage and DPS alongside great AoE
+
+|'''[Z] Snowflake Shuriken'''
+* Doesn't need exact aim, because they explode when at least one shuriken hits a target.
+* Good range.
+* Easier to hit when held.
+* Low cooldown.
+* Good damage.
+
+|'''[X] White Out'''
+* Great stun, making excellent for combos.
+* Even when the enemy dodges the move, they will still get picked up and stunned by the tornado.
+** This allows follow-up attacks for combos to continue regardless if the opponent is using [[Instinct]].
+*** However, the I-Frames from [[Instinct]] can cause some of the user's combo to be missed, so it is recommended to try to [[Instinct/Break|Break]] the opponent's instinct while they are stunned.
+
+|'''[C] Howling Wind'''
+* No knockback.
+* Good stun.
+* Great AoE.
+* Amazing range.
+
+|'''[V] Blizzard Domain'''
+* Amazing damage.
+* Decent stun.
+* Huge AoE.
+* Breaks [[Instinct]].
+* Good against teamers because of the great AoE this move has.
+* Low knockback.
+* Great for enclosed locations (i.e. [[Smoke Admiral]]'s Boss Room), making it optimal for trials.
+* Amazing for any [[Sea Events]].
+* Can be used in PvP to camp inside the domain and heal some extra health.
+** Note that the opponent may still attempt to combo you, however even then the domain will deal a decent amount of damage.
+* Since the AoE is so big, it can cancel abilities (ex. Godhuman C) when opponents aren't expecting it in PvP.
+
+|'''[F] Tornado Flight'''
+* Can be held infinitely just like [[Smoke]]'s [F] ability.
+* Great for grinding.
+* Great against [[Dragon]] [V] and [[Mammoth]] [F] (while transformed).
+* Great for [[Sea Beast]]s, as holding the move continuously can do a lot of damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Moves are quite slow.
+* Require a short period of time to deal high damage.
+* Hard to combo with.
+
+|'''[Z] Snowflake Shuriken'''
+* Does less damage if not held.
+* Slow and can be easily avoided with decent speed.
+* The snowflakes explode at maximum range, however, [[Instinct]] gives the player I-frames upon a successful dodge, making it rare to actually break said [[Instinct]].
+
+|'''[X] White Out'''
+* Hard to use in air combat.
+* Has to be aimed correctly to get its full damage for [[Sea Beast]]s.
+* Has knockback, making it unsuitable for grinding.
+* Doesn't break [[Instinct]].
+
+|'''[C] Howling Wind''' 
+* The grabbing force is very weak, sometimes allowing opponents to not get stunned for the full duration and escape easily.
+* Low damage.
+* Difficult to properly extend with.
+
+|'''[V] Blizzard Domain'''
+* Long start up.
+* Weak without a combo against good players.
+* The pull has a decent horizontal reach but a poor vertical reach, making the pull weak against skycampers.
+* Easily baitable for newer/less skilled '''Blizzard''' users.
+* Can sometimes send players in a random direction during combos, forcing the user to quickly change their extender's position.
+* Very difficult to utilize the full damage on players in PvP.
+
+|'''[F] Tornado Flight'''
+* Slow speed, making it less effective for mobility and PvP.
+* Knocks back enemies, making it slightly annoying for grinding in compact places.
+* Hard to see and control on mobile.
+* In some cases, the pull can stop dragging enemies along while damaging them.
+}}
+</tabber>
+
+==Tips & Tricks==
+* Blizzard is one of the best fruits for [[Race Awakening]] trials, because of the huge [[Area of Effect|AoE]] effect it has.
+* In [[raids]], it is recommended to spam all of Blizzard's moves, then use Blizzard [F] for more damage, and when at low health, keep a far distance and not use the [F] move, to avoid risk of getting damaged by a long ranged move, and could fall into a group of [[enemies]] and lose health quickly.
+* While grinding, the user can group up [[enemies]] by using [V] or [F] and damage them with [Z], [X] and [C] abilities afterwards to finish them off.
+* During pvp, it is recommended to have either the ghoul, cyborg, or angel race to guarantee more damage and lower cooldowns. However, due to Blizzard needing some skill to be used as a combo started, it is recommended to use Godhuman C or any other combo starter that can be followed through with blizzard moves.
+* While fighting a [[Buddha]] user, the user can use the [V] move then [C] move to guarantee stuns and start combos since Buddha users have a huge hitbox for stunning.
+* The user can also simply hold the [F] ability, since the m1 range with [[Buddha]] is too small and the windup gets canceled by the stun of someone using the flight ability, allowing them to "plow" through them and deal a lot of damage.
+** Note that the Buddha user can '''still use ranged abilities''' so don't overdo it.
+* {{Ability|F}} is highly recommended for [[Ship Raid]]s as it does a lot of continuous damage.
+
+==Trivia==
+* Blizzard is the third most expensive [[Elemental]] [[Blox Fruits|fruit]], with [[Dough]] being the second, and [[Gas]] being the first.
+* Blizzard is the most expensive {{Legendary}} Fruit.
+* {{Ability|V}} has the second-largest [[Area of Effect|AoE]] damage over time in the game, the first being Full Transformed [[Dragon]] '''[C] Scorching Downfall'''.
+* A distinct sound effect will play if the player holds one of Blizzard's moves for at least a second, which is the same as [[Ice]].
+* Every move of Blizzard can break objects with [[Destructible Physics]].
+* {{Ability|F}} has the same name as Awakened [[Sand]]'s {{Ability|Sand|F}}.
+* Blizzard's mastery requirements have the same amount as [[Lightning]]'s and [[Phoenix]]'s.
+* Blizzard is one of the Four [[Elemental]] [[Blox Fruits|Fruits]] that do not have an awakening, alongside [[Smoke]], [[Gas]] and [[Lightning]].
+** However, [[Lightning]] used to have an awakening before it was reworked.
+
+==Change History==
+{{Change History|17.3.5|content=
+<tabber>
+|-|20=
+{{Update|20}}
+* Blizzard Fruit's model was remade.
+: <gallery>
+Blizzard 150x150.png|Old Blizzard Fruit's icon.
+</gallery>
+
+|-|17.3.5=
+{{Update|17.3.5}}
+* Blizzard was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Immunity Fruits]]

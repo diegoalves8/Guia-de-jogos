@@ -1,0 +1,97 @@
+{{About|the First Sea Island|the Third Sea Island|Submerged Island}}
+{{MapTab}}
+{{Location Infobox
+|name       = Underwater City
+|image      = UNDC.PNG
+|type       = Island
+|sea        = First Sea
+|level      = 375-450
+|music      = Undersea Life
+|prev       = Magma Village
+|next       = Upper Skylands
+}}
+The '''Underwater City''' is an [[Locations|island]] in the [[First Sea]].
+
+==Location==
+The Underwater City's entrance is located between the [[Frozen Village]] and the [[Prison]]. To access it, the player has to enter the [[Whirlpool (Location)|Whirlpool ]] surrounded by three large rocks. Since it is a relatively small area, it may be difficult to find.
+
+The Underwater City can be found by traveling at the back from [[Fountain City]], but it is blocked by an invisible wall. Although [[Flash Step|Flash Stepping]] inside works. (Not recommended)
+
+==Appearance==
+The Underwater City is covered in a dome/atmosphere to preventing water from flooding. In the center of the island is a large castle, which is where the [[Fishman Lord]] can be found. The outer edge of the island is lined with tall rocks, and the ground is covered in sand and is dotted with large, mushroom like trees.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[King Neptune]]
+* [[Water Kung Fu Teacher]]
+|
+* [[Fishman Warrior]]
+* [[Fishman Commando]]
+|
+* [[Fishman Lord]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" |[[King Neptune]]
+|[[Fishman Warrior|Fishman Warriors]]
+|375
+|Defeat 8 [[Fishman Warrior|Fishman Warriors]]
+|{{Money|8,750}}<br />{{EXP|3,050,000}}
+|-
+|[[Fishman Commando|Fishman Commandos]]
+|400
+|Defeat 7 [[Fishman Commando|Fishman Commandos]]
+|{{Money|9,000}}<br />{{EXP|3,350,000}}
+|-
+|[[Fishman Lord]]
+|425
+|Defeat [[Fishman Lord]]
+|{{Money|15,000}}<br />{{EXP|4,250,000}}
+|}
+
+== Secret Quests ==
+
+* Find any clear, white bubble floating upward and jump into it. Upon doing so, the player will be brought upwards to the Coral Cave, where a chest is at the center. Interact with it to spawn three enemies, kill them and go back down through the whirlpool.
+* To the right of the Fishman Lord's castle, find the crystals that have a light going through them and a dark patch of sand on the wall. Move the nearby crystals not being hit by the light to reflect the light at the dark patch of sand. The crystal you are moving will become immovable when in the correct position. Upon doing so, the player will free the [[Water Kung-fu Teacher]] and then talk to them.
+* When [[Fishman Lord]] awakens, a message will appear in chat saying: '''[[System Messages|''"The water is stirring - the Fishman Lord has risen..."'']]'''  The player must search the nearby clams till the one that holds the black pearl is found and then claim it, this will start the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) defeated the awakened Fishman Lord"'']]'''
+
+==Notes==
+* The [[Water Kung Fu Teacher]] can be found behind the [[Fishman Commando]] area, all the way to the wall. The player should be able to see that one part of the wall is colored differently from the rest. Go to the left of it and the player should find him. Upon interaction, he will offer to teach the player [[Water Kung Fu]] for {{Money|750,000}}.
+* Upon defeating the boss of this island, [[Fishman Lord]], the player has a small chance to get the [[Trident]].
+* [[Blox Fruits]] do not spawn on the Underwater City.
+
+==Trivia==
+* All enemies in the Underwater City drop [[Fish Tails]] with a low chance.
+* One of the Fisherman Commandos spawn inside the yellow coral next to the wall.
+* There are three gold chests and one diamond chest in the Underwater City.
+* It is possible to get to the Underwater City without going through the whirlpool by using a flight ability to eventually find the island way off in the distance.
+* The Underwater City is one of nine islands to contain a [[Portals|Portal]], the others being [[Castle on the Sea]], [[Hydra Island]], [[Kingdom of Rose]], [[Cursed Ship]], [[Skylands]]/[[Upper Skylands]], [[Tiki Outpost]], [[Submerged Island]] and [[Floating Turtle]]; however, this island uses a completely different system and model for the portals.
+* The Underwater City, along with [[Submerged Island]] is one of the two islands to be supposedly located [[Water|underwater]].
+** Even though it is depicted as being "Underwater", the player can see a round shaped island (dome/atmosphere) really far away from the islands over water. The player can also access outside the dome by finding a gap in the invisible wall near the Fisherman Commandos, and swim towards the shell of the dome. The dome does not collide with the player so they can walk through it.
+* The Underwater City is so far away on the map that ones avatar might start glitching upon closer inspection.
+
+==Gallery==
+<gallery>
+File:Underwater city dome exterior.png .jpg|The exterior view of Underwater City.
+File:Underwater city view from whirpool island.png.jpg|Underwater City seen from [[Whirlpool (Location)|Whirlpool]], the entrance to it.
+File:Outside the underwater city....png|Outside Underwater City.
+File:UnderwaterCityOutside.jpg|The full image of Underwater City viewed from outside.
+File:UnderwaterCityRework.png|'''[https://gamerrobot.com/blogs/news/the-blox-bulletin-024 4]'''.The image of Underwater City post update
+</gallery>
+==Change History==
+{{Change History|3}}
+
+==Navigation==
+{{IslandNavigation}}

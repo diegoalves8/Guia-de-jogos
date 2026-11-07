@@ -1,0 +1,60 @@
+'''Evo Weapons''' are weapons that evolve from one rarity to another. These weapons start at [[Rare Weapons|rare]] and evolve to [[Ancient Weapons|ancient]]. They cannot be traded. They can only be acquired via purchasing each Evo's gamepass.
+
+In order to 'evolve' an Evo weapon, the player must collect XP [[File:XP Symbol.png|25px|link=XP]] with it equipped during rounds. Collecting enough XP [[File:XP Symbol.png|25px|link=XP]] will allow an Evo weapon to evolve, advancing to the next rarity and changing its shape. Evo weapons require a total of 864,000 XP [[File:XP Symbol.png|25px|link=XP]] to unlock all 4 rarity types.
+
+{| class="wikitable" style="text-align:center; width:100%"
+! style="background:-webkit-linear-gradient(0deg, #5030F3, #0CD97D); color: #fff" colspan="6" |Evo Weapons
+|-
+!style="background:#770000; color:white; min-width: 25%" rowspan="2"|Name
+!style="background:#00C802; color:white; min-width: 25%"|Rare
+!style="background:#DB0106; color:white; min-width: 25%"|Legendary
+!style="background:#FA03B0; color:white; min-width: 25%"|Godly
+!style="background:#640BF8; color:white; min-width: 25%"|Ancient
+|-
+!Start Point
+!36,000 XP [[File:XP Symbol.png|25px|link=XP]]
+!216,000 XP [[File:XP Symbol.png|25px|link=XP]]
+!864,000 XP [[File:XP Symbol.png|25px|link=XP]]
+|-
+|[[Gingerscythe]]
+|[[File:Gingerscythe Rare.png|175px]]
+|[[File:Gingerscythe Legendary.png|175px]]
+|[[File:Gingerscythe Godly.png|175px]]
+|[[File:Gingerscythe Ancient.png|175px]]
+|-
+|[[Icecrusher]]
+|[[File:Icecrusher1.png|175px]]
+|[[File:Icecrusher2.png|175px]]
+|[[File:Icecrusher3.png|175px]]
+|[[File:Icecrusher4.png|175px]]
+|-
+|[[Reaver]]
+|[[File:ReaverLegendaryUpdated.png|175px]]
+|[[File:ReaverRareUpdated.png|175px]]
+|[[File:ReaverGodly.png|175px]]
+|[[File:ReaverAncient.png|175px]]
+|-
+|[[Synthwave]]
+|[[File:Synthwave Rare.webp|175px]]
+|[[File:Synthwave Legendary.webp|175px]]
+|[[File:Synthwave Godly.webp|175px]]
+|[[File:Synthwave Ancient.webp|175px]]
+|}
+
+==Trivia==
+* They were first introduced during the [[Halloween Event 2021]].
+*"Evo" is short for "Evolution", hence how you "evolve" your knives.
+*Players are able to equip any of the 4 rarities once their evo fully evolved.
+*[[Reaver]] was the first Evo to be released in the game.
+*Using your Evo after reaching the ancient tier will still count the XP progress bar past the limit.
+*Players that own at least 1 Evo will gain the "Trophies" section on their player card in game, despite nothing showing up there otherwise. This is likely due to Evos, Nerf Promos and Trophies using the same untradable status in the game's code.
+*There are currently no Evo guns.
+
+==Gallery==
+<gallery>
+Reaver evolution.png|The module that's shown when clicking on an Evo weapon in a personal inventory. It shows the amount of XP [[File:XP Symbol.png|25px|link=XP]] you need to evolve.
+</gallery>
+{{EvosNav}}
+[[Category:Evo]]
+[[Category:Weapons]]
+[[Category:Knives]]

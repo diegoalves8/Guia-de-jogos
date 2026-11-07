@@ -1,0 +1,144 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Fox Lamp
+|image     = <gallery>
+Fox Lamp.png|Icon
+Foxlanterningame.png|In-Game
+Fox lamp held with animation.gif|Held
+Fox Lamp Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 22
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Kitsune Island
+|source    = [[Kitsune Shrine]]
+|price     = {{Azure Ember|15+}}
+}}
+{{Quote|A mystical lamp with the essence of a clever fox. It illuminates the path with an otherworldly light.|Item}}
+The '''Fox Lamp''' is a {{Legendary}} [[sword]].
+
+The Fox Lamp is known for its [[stun]] ability and extremely fast [M1] attacks. It can be used to extend or initiate [[combos]] with its {{Ability|Z}} move. Fox Lamp is a powerful sword for PvP as well, having long stuns, [[Instinct]] breaks, high damage, and good combo potential, as well as great synergy with almost any fighting style. These traits make it very versatile, allowing it to work with any stat build. 
+
+Its [M1] attacks make it a decent option for grinding with [[Buddha]] because of their short cooldown. However, its skills lack [[Area of Effect|AoE]] and proper stun for efficient grinding.
+
+==Obtainment==
+The Fox Lamp has a chance to be rewarded by the [[Kitsune Shrine]] upon offering 15 [[Azure Ember]]s or more to the [[Kitsune Shrine]] during the [[Blue Moon]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = FoxLamp m1s
+|desc     = The player performs 4 swipes, having absolutely no delay.
+}}
+
+{{Skill
+|key      = Z
+|name     = Scorching Azure
+|mastery  = 150
+|cooldown = 10
+|energy   = 30 
+|break    = Yes
+|instinct = Breaks Instinct at the initial hit and the explosion, but could be dodged if it is not properly aimed.
+|gif      = Azure Latch
+|desc     = The user summons a rotating ring of blue letters that envelop the player. Once released, the azure embers swiftly move towards the target aimed at the cursor's location. Upon contact with an enemy, the azure embers inflict multiple slashing attacks before propelling the enemy into the air, resulting in a powerful explosion. If held, the letters transform into blue spheres that rotate around the player, though this is just a visual change and does not affect damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Firestorm
+|mastery  = 350
+|cooldown = 13
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct at the initial hit of the tapped variation. The held version's dash also breaks Instinct, but could still be dodged due to Instinct I-frames while holding. The blue flames can be dodged.
+|gif      = Infernal FireStorm
+|desc     = This ability consists of two variations:
+'''When tapped:'''
+** User swiftly dashes toward the target and unleashes a beam of intense blue fire, pushing the target backward.
+|gif1     = Infernal FireStorm Held
+|desc1    = 
+'''When held:'''
+** User releases a massive beam of fire, pushing the enemy away. The user then finishes the move by dashing through the opponent and landing a single slicing attack. This move is similar to [[Ghost]] [C], awakened [[Flame]] [X], and [[Sound]] [X].
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Extremely high combo potential.
+* Compatible with air PvP.
+* High damage.
+* Both moves have no endlag.
+* Has very short cooldowns, fast [M1] attack speed, and no dash on the fourth [M1] attack, making it a good choice for grinding.
+* Drains [[Instinct]] dodges efficiently.
+* All moves can damage [[Sea Beast]]s.
+* Both moves can [[Instinct/Break|break instinct]].
+* Both moves work with Awakened [[Buddha]].
+
+|'''[Z] Scorching Azure'''
+* Good range.
+* Amazing stun.
+
+|'''[X] Infernal Firestorm'''
+* Decent mobility.
+* Can hit multiple targets.
+* Good [[AoE]].
+* Decent stun.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Requires good aiming ability and quick reaction.
+* Difficult to obtain.
+* High mastery requirements.
+* Both moves can be [[Instinct]] tricked.
+|'''[Z] Scorching Azure'''
+* The knockback trajectory can make combos more difficult, such as having to aim [[Godhuman]]'s {{Ability|Godhuman|Z}} at the enemy.
+* Single target.
+* Can be dodged if not aimed correctly.
+* Requires precise aim.
+* Does not true-stun, meaning the target can still move and use abilities if they Instinct-trick this attack.
+
+|'''[X] Infernal Firestorm'''
+* Mediocre range.
+* After holding and rushing to the target, a small delay makes it possible for enemies to use [[Flash Step]].
+* Enemies can punish the player if they hold the skill for too long.
+* The blue flame doesn't true-stun in either the hold or tap versions, meaning the target can counterattack during the ability's duration if they use Instinct Trick.}}
+</tabber>
+
+==Trivia==
+* The Fox Lamp is more recommended for grinding by pairing it with [[Buddha]].
+* The Fox Lamp's {{Ability|Z}} cannot be held for more than 15 seconds
+* The Fox Lamp does not turn black when [[Aura]] is active, though [[Skins|Aura colors]] still appear (Similar to the [[Shark Anchor]]).
+* Despite being a [[Swords|sword]], the Fox Lamp resembles a lantern rather than a blade.
+* The [https://en.wikipedia.org/wiki/Katakana Japanese symbols] (キツネ) shown when charging {{Ability|Z}} and {{Ability|X}} (The player can briefly see the symbols as it is spun at a very fast speed), mean "Kitsune" which when translated means "Fox" in English 
+** "Kitsune" can also be written as the kanji character "狐"
+** Or "Kitsune" can also be written as the hiragana symbols "きつね"
+* {{Ability|X}}, when tapped, bears a slight resemblance to [[Dragon Talon]]'s {{Ability|Dragon Talon|Z}}.
+* When paired with awakened buddha it gives little stun making it easier to kill the players but if you repeat using m1 the player you will get a suspicious kill
+** Fox Lamp's [M1] attacks' sound effect is similar to [[Dragon Breath]] and [[Dragon Talon]], but with a slightly lower pitch and a slight reverb.
+*The fox lamp's {{Ability|X}} can clip through soft floors. For example, [[Tiki Outpost]], [[Café|Cafe]], etc can be clipped through.
+
+== Gallery ==
+<gallery>
+File:Azure show.gif|The blue azure that form while holding '''[Z] Scorching Azure'''
+File:Clip.gif|The floor clipping from using '''[X] Infernal Firestorm'''.
+</gallery>
+
+==Change History==
+{{Change History|22}}
+
+==Navigation==
+{{Sword Navbox}}

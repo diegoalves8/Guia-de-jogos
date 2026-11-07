@@ -1,0 +1,259 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Venomous|PrestigeTitle = Snake Charmer|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 800 (Fast)|HealthLabel = Health|Health = 3400|AttackRange = 6 (jar; Normal)<br>6.67 (snake; Normal)|Reload = 0.8 seconds (Very Fast)|AttackSuperCharge =8.5% (jar)<br>10.2–17% (snake)<br>3.7% (snake poison)<br>2.125% (with Poison Puddles) |AttackLabel = Jar Damage|Attack = 300|AttackLabel2 = Snake Damage|Attack2 = 600|AttackSpeed=1700 (jar)<br>3100 (snake)|SuperSpeed = 900|SuperRange = 5.33 (Normal)|SuperSuperCharge =1.56% (jars)<br>2.5% (snakes) |SuperBullets = 3<br>6 (with Hypercharge)|SuperLabel = Snake Health|Super = 1200|SuperLabel2 = Jar Poison Damage|Super2 = 250|SuperLabel3 = Snake Poison Damage|Super3 = 400|VoiceActor =Yasmeen Ansari |Gadget1Name=Poison Puddles|Gadget1Cooldown=17 seconds|Gadget2Name = Najia Jar|Gadget2Cooldown=20 seconds|Previous=Glowy|Next=Damian|AttackWidth=0.67 (jar)<br>0.53 (snake)|AttackLabel3=Snake Poison Damage|Attack3=350|SuperMovementSpeed=950<br>1050 (with Hypercharge)|Gadget2=4800|Gadget2Label=Vase Health|Gadget1Duration=2 seconds|Gadget1=272|Gadget1Label=Poison Damage|StarPower2=180|StarPower2Label=Max Bonus Damage|StarPower2Name=Venomous|HyperchargeMultiplier=35%|AttackHyperchargeCharge=3.4% (jar)<br>4.08–6.8% (snake)<br>1.48% (snake poison)|SuperHyperchargeCharge=0.875% (jars)<br>1.4% (snakes)|SuperMinionRange=2.67|SuperMinion=Snake}}
+{{Quote|Hired by [[Finx]] to make Pyramid Quest's puzzles harder, her good nature actually lead her to help those trapped by his time-warping mischief instead.}}{{Portrait}}
+Najia is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a fast movement speed, a very fast reload speed, and a variable range and damage output. She was the 101st Brawler added to the game. She attacks by firing a jar that contains a paper snake that can be aimed mid-launch, which damages enemies over time. For her Super, she lobs three jars which spawns snakes that chase down the nearest enemies to poison them. Her first Gadget, Poison Puddles, temporarily creates poisonous puddles after being hit by her attacks. Her second Gadget, Najia Jar, allows Najia to spawn in a vase, and knock enemies bar after it's destroyed. Her first Star Power, Poisonous Protector, spawns a snake where the Brawler were defeated while poisoned. Her second Star Power, Venomous, scales the poison damage, based of a Brawler's current health. Her Hypercharge, Twin Snakes, allows her Super to spawn 6 snakes that also leave behind a trail of poison.
+
+==Attack: Ssssnake Delivery==
+{{Quote|Najia hurls a jar containing a deadly 'snake'! While the jar is in flight, the snake can be released in any direction.<br><br>The jar deals damage while snake poisons its target. Snake poison can stack, dealing increased damage over time! Her jar pierces Brawlers!}}
+Najia fires a jar that contains a paper snake. While the jar is in flight, using the attack again will release the snake from the jar's location; otherwise it will automatically release the snake at max range. The snake's direction can be aimed independently, and autoaims towards the nearest enemy if not manually aimed. If the attack button is held and aimed in a direction but not released, the snake will still automatically travel in the aimed direction. The jar pierces enemies, while the snake deals damage on hit and then two ticks of damage over time to enemies over 2 seconds. The damage on hit of the snake scales with distance travelled, only dealing 60% of max damage at minimum range. The damage over time stacks, meaning you can attack the same target multiple times to increase its effect. Najia has only one ammo slot, so kicking the ball in [[Brawl Ball]] doesn't consume any ammo. The ammo is only consumed once the snake is fired.
+
+==Super: Danger Noodles==
+{{Quote|Najia unleashes 3 of her paper snakes, which slither a set distance and will poison any enemies in an area when they explode. The snakes can also be thrown from a jar to a target location!}}
+Najia lobs 3 jars of snakes at a long range that break on landing and spawn paper snakes. The spread of the jars is always fixed and perpendicular to the direction she throws them. Upon landing, they deal poison damage over 3 seconds in a 1.33-tile radius. The snakes chase the nearest enemies, like [[Tick]]'s and [[Ash]]'s Supers, and once close enough, they dash into their target, also poisoning on contact to damage enemies over 3 seconds to a small area, 2.33 tiles in radius. The snakes also lose 16% of their health every second until they're destroyed. The Super can also be made to spawn from the location of the jar from her main attack while it is mid-flight, however, when stunned, muted, or being knocked back, if Najia is holding the Super button in any form, the jar will simply not release a Super and not use it up. Using the Super will consume ammo like her main attack does.
+
+==Gadgets==
+===Poison Puddles===
+{{Quote|All enemies currently poisoned by Najia will create poisonous puddles for the next 2 sec. Cooldown: 17 seconds.}}{{Gadget|1}}
+Activating this Gadget allows all enemies currently poisoned by Najia to leave a poisonous puddle trail for 2 seconds, which can deal 2 ticks of damage over time but does not stack. Summons 2 poisonous puddles in total, 1.33 tiles in radius, with approximately 1 second delay between each spawn. The puddles spawn with a 1 second delay at the enemy's last known location. 
+
+===Najia Jar===
+{{Quote|Najia hides inside a vase. Once the vase is broken, she will knock back any nearby enemies! Cooldown: 20 seconds.}}{{Gadget|2}}
+Activating this Gadget causes Najia to hide inside a vase, becoming completely immobile and unable to attack, but impervious to all damage for up to 4 seconds. After the vase is destroyed, all nearby enemies in a 3-tile radius will be knocked back by 2 tiles. This Gadget is similar to [[Charlie]]'s Personal Space Gadget, but instead of self healing, Najia knocks back enemies.
+
+==Star Powers==
+===Poisonous Protector===
+{{Quote|Brawlers defeated while poisoned by Najia will spawn a snake in their place.}}{{StarPower|1}}
+Enemy Brawlers defeated by Najia's poison effects will spawn a snake in their place. These snakes have 50% less health than those from her Super, but deal the same amount of damage. Enemies defeated with the initial snake damage, the main attack jar, or the Super's jars will not spawn a snake.
+
+===Venomous===
+{{Quote|Poison damage scales with the target Brawler's current percent health, dealing up to an extra 200 damage when a target is at 100% health.}}{{StarPower|2}}
+This Star Power increases the poison damage dealt to enemies, based off their current health. The maximum possible bonus damage value is multiplied by the enemy's current health percentage to give the actual damage value.
+
+==Hypercharge: Twin Snakes==
+{{Hypercharge}}
+{{Quote|Najia throws 6 jars for her Super, and the snakes from those jars leave a poison trail.}}
+When activated, Najia throws 6 jars of snakes, instead of 3. These snakes have an increased health of 3000 and move slightly faster, and also leave trails of poison behind that damage enemies over time. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*One of Najia's big advantages is her range, being one of the highest in the game at maximum main attack jar distance. However, it is backed off by her relatively slow projectile speed. The best positioning for Najia is at maximum distance on open maps and behind walls in other maps.
+*Najia is terrible at high DPS. She is extremely damage-consistent, but lacks burst damage and self-defense. As such, it is best to play her in Team Game Modes where she excels at suppressing grouped enemies or in Assassin/Tank-unfriendly Maps where she excels at high range and aim.
+*Najia is capable of stacking her poisons on the [[Heist]] safe, making her quite potent in this game mode as she can deal consistent damage. She can even activate her Poison Puddles Gadget when poisoning the Heist safe to stack more poison and prevent enemies from defending it.
+
+===Recommended Build===
+*Najia's Venomous Star Power has a fixed damage boost that does not increase with buffs or debuffs. As a result, her Poisonous Protector Star Power is recommended over it.
+*Najia works well with Damage and Shield [[Gears]]. Extra damage is preferred to increase Najia's DPS, while the Shield is preferred to increase Najia's low maximum health.
+*Beware when using Najia's Najia Jar Gadget, as it will occasionally stun Najia for 2 seconds when destroyed, leaving her unable to move. It additionally will not be enough to tank high damaging attacks such as [[Mandy]]'s or [[Dynamike]]'s Super, and will result in Najia's defeat if she's hit by one as she's hiding inside the jar.
+
+===Other===
+*Najia has a very unique attack, capable of aiming after releasing a projectile. This allows her to snipe enemies behind obstacles. However, it is incredibly hard to aim with such projectile, and it takes lots of time to learn. Once you mastered it, Najia gets to shine her incredible controlling skill.
+*It is possible to auto-attack her main attack, but it often brings no value. The best time to use an auto-attack is right when the enemy is hit by the jar. This immediately places the snake's hitbox near the enemy, allowing a free hit.
+*Her Super can be launched at very high ranges. This is done by aiming the Super when releasing her main attack's jar. This allows you to have even more control of the snakes' positioning.
+
+==Voice Lines==
+{{TranslationToggle|Arabic}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Najia start vo 01.ogg|Filedescription = "Don't rush. That's how you die."}}
+|{{Ogg|Filename = Najia lead vo 01.ogg|Filedescription = "Even Finx can't undo this, hahaha!"}}
+|{{Ogg|Filename = Najia hurt vo 01.ogg|Filedescription = "Pain is information, I'm learning."}}
+|{{Ogg|Filename = Najia kill vo 01.ogg|Filedescription = "Finx thinks chaos wins, he's wrong!"}}
+|{{Ogg|Filename = Najia die vo 01.ogg|Filedescription = "And that's why we don't improvise."}}
+|
+|{{Ogg|Filename = Najia ulti vo 01.ogg|Filedescription = "Hope you like snakes."}}
+|-
+|{{Ogg|Filename = Najia start vo 02.ogg|Filedescription = "Cats are afraid of snakes. Right, Finx?"}}
+|{{Ogg|Filename = Najia lead vo 02.ogg|Filedescription = "You're playing my game now!"}}
+|{{Ogg|Filename = Najia hurt vo 02.ogg|Filedescription = "Look at that, competence."}}
+|{{Ogg|Filename = Najia kill vo 02.ogg|Filedescription = "The answer is not hidden, you're just blind."}}
+|{{Ogg|Filename = Najia die vo 02.ogg|Filedescription = "I blame Finx."}}
+|
+|{{Ogg|Filename = Najia ulti vo 02.ogg|Filedescription = "And yes, they bite."}}
+|-
+|{{Ogg|Filename = Najia start vo 03.ogg|Filedescription = "Stay behind me, I'll handle this."}}
+|{{Ogg|Filename = Najia lead vo 03.ogg|Filedescription = "♫Ain't no puzzle hard enough!"}}
+|{{Ogg|Filename = Najia hurt vo 03.ogg|Filedescription = "You just triggered a death trap."}}
+|{{Ogg|Filename = Najia kill vo 03.ogg|Filedescription = "My snakes don't bite, unless you deserve it."}}
+|{{Ogg|Filename = Najia die vo 03.ogg|Filedescription = "I need a new team."}}
+|
+|{{Ogg|Filename = Najia ulti vo 03.ogg|Filedescription = "Finx hates this one."}}
+|-
+|{{Ogg|Filename = Najia start vo 04.ogg|Filedescription = "Someone's getting mummified."}}
+|{{Ogg|Filename = Najia lead vo 04.ogg|Filedescription = "Solved it for you!"}}
+|{{Ogg|Filename = Najia hurt vo 04.ogg|Filedescription = "Touch me again, I dare you!"}}
+|{{Ogg|Filename = Najia kill vo 04.ogg|Filedescription = "You triggered the wrong step."}}
+|{{Ogg|Filename = Najia die vo 04.ogg|Filedescription = "Go ahead, panic!"}}
+|
+|{{Ogg|Filename = Najia ulti vo 04.ogg|Filedescription = "It's sneaky snaky time."}}
+|-
+|{{Ogg|Filename = Najia start vo 05.ogg|Filedescription = "Finx, pay attention."}}
+|{{Ogg|Filename = Najia lead vo 05.ogg|Filedescription = "This is the part where Finx gets annoyed."}}
+|{{Ogg|Filename = Najia hurt vo 05.ogg|Filedescription = {{Translate|"ايه ده؟ وجع." ("eh dah? wagae")|"What's that? Ow."}}}}
+|{{Ogg|Filename = Najia kill vo 05.ogg|Filedescription = "That was a test. You failed."}}
+|{{Ogg|Filename = Najia die vo 05.ogg|Filedescription = "Finx is going to be unbearable."}}
+|
+|{{Ogg|Filename = Najia ulti vo 05.ogg|Filedescription = "Serpent surprise."}}
+|-
+|{{Ogg|Filename = Najia start vo 06.ogg|Filedescription = "Try not to touch anything, I mean it."}}
+|{{Ogg|Filename = Najia lead vo 06.ogg|Filedescription = "I mapped this place blindfolded."}}
+|{{Ogg|Filename = Najia hurt vo 06.ogg|Filedescription = {{Translate|"ده مش هيوقفني." ("dah mish haywa'efni")|"This will not stop me."}}}}
+|{{Ogg|Filename = Najia kill vo 06.ogg|Filedescription = "See? Planning works."}}
+|{{Ogg|Filename = Najia die vo 06.ogg|Filedescription = {{Translate|"ده مش نهاية القصة." ("dah mish nihayat alqisa.")|"That's not the end of the story."}}}}
+|
+|{{Ogg|Filename = Najia ulti vo 06.ogg|Filedescription = "Snack time, serpents."}}
+|-
+|{{Ogg|Filename = Najia start vo 07.ogg|Filedescription = "Yes, yes, very scary. Can we focus?"}}
+|{{Ogg|Filename = Najia lead vo 07.ogg|Filedescription = "This puzzle is solved."}}
+|{{Ogg|Filename = Najia hurt vo 07.ogg|Filedescription = {{Translate|"أنا أقوى من كده." ("'ana 'aqwaa min kidah")|"I'm way stronger than that."}}}}
+|{{Ogg|Filename = Najia kill vo 07.ogg|Filedescription = "You just wouldn't listen."}}
+|{{Ogg|Filename = Najia die vo 07.ogg|Filedescription = {{Translate|"كيف كده!؟" ("kief kedah!?"|"How's that possible!?"}}}}
+|
+|{{Ogg|Filename = Najia ulti vo 07.ogg|Filedescription = "Venom vibes!"}}
+|-
+|{{Ogg|Filename = Najia start vo 08.ogg|Filedescription = "Frenemies forever, furball!"}}
+|{{Ogg|Filename = Najia lead vo 08.ogg|Filedescription = {{Translate|"أنا الأفضل." ("'ana al'afdal")|"I'm the best."}}}}
+|{{Ogg|Filename = Najia hurt vo 08.ogg|Filedescription = {{Translate|"ده كان قريب." ("dah kan 'arib.")|"That was close."}}}}
+|{{Ogg|Filename = Najia kill vo 08.ogg|Filedescription = "Wow! You made every possible wrong move."}}
+|{{Ogg|Filename = Najia die vo 08.ogg|Filedescription = {{Translate|"لا. مش ممكن." ("la'. mish mumkin.")|"No. This can't be."}}}}
+|
+|{{Ogg|Filename = Najia ulti vo 08.ogg|Filedescription = "Who let the snakes out? Me!"}}
+|-
+|{{Ogg|Filename = Najia start vo 09.ogg|Filedescription = {{Translate|"القتال ده ليَّ." ("al'ital dah lyã")|"This fight is mine."}}}}
+|{{Ogg|Filename = Najia lead vo 09.ogg|Filedescription = {{Translate|"أنا الأقوى." ("'ana al'aqwaa."|"I'm the strongest."}}}}
+|
+|{{Ogg|Filename = Najia kill vo 09.ogg|Filedescription = "My snakes make no mistakes."}}
+|{{Ogg|Filename = Najia die vo 09.ogg|Filedescription = {{Translate|"هتعلم من ده." ("hatealam min dah.")|"I'll learn from that."}}}}
+|
+|{{Ogg|Filename = Najia ulti vo 09.ogg|Filedescription = "Queen of the cobras!"}}
+|-
+|{{Ogg|Filename = Najia start vo 10.ogg|Filedescription = {{Translate|"دلوقتي هوريكم ايه أنا." ("dilua'ti hurikum ayh 'ana.")|"Now I'll show you all who I am."}}}}
+|{{Ogg|Filename = Najia lead vo 10.ogg|Filedescription = {{Translate|"محدّش في مستواي." ("mahadish fi mistawai")|"No one is on my level."}}}}
+|
+|{{Ogg|Filename = Najia kill vo 10.ogg|Filedescription = "You slither, I strike."}}
+|
+|
+|{{Ogg|Filename = Najia ulti vo 10.ogg|Filedescription = "Run the math, snakes."}}
+|-
+|{{Ogg|Filename = Najia start vo 11.ogg|Filedescription = {{Translate|"أنا جاهزة." ("'ana gahza.")|"I'm ready."}}}}
+|
+|
+|{{Ogg|Filename = Najia kill vo 11.ogg|Filedescription = {{Translate|"ده كان متوقع." ("dah kan mitwaqae.")|"That was expected."}}}}
+|
+|
+|{{Ogg|Filename = Najia ulti vo 11.ogg|Filedescription = "Executing plan python."}}
+|-
+|{{Ogg|Filename = Najia start vo 12.ogg|Filedescription = {{Translate|"خلصنا الكلام." ("khalasna alkalam.")|"Enough talking."}}}}
+|
+|
+|{{Ogg|Filename = Najia kill vo 12.ogg|Filedescription = {{Translate|"مش كان في شك." ("mish kan fi shak.")|"There was no doubt."}}}}
+|
+|
+|{{Ogg|Filename = Najia ulti vo 12.ogg|Filedescription = "The snakes say hi."}}
+|-
+|{{Ogg|Filename = Najia start vo 13.ogg|Filedescription = {{Translate|"يلا نولعها." ("yalla nualeha.")|"Let's get this started."}}}}
+|
+|
+|{{Ogg|Filename = Najia kill vo 13.ogg|Filedescription = {{Translate|"النتيجة واضحة." ("alnatiga wadeha.")|"The result is clear."}}}}
+|
+|
+|{{Ogg|Filename = Najia ulti vo 13.ogg|Filedescription = {{Translate|"الثعابين بتسلم." ("athaeabin bitsalem.")|"The snakes say hi."}}}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Najia kill vo 14.ogg|Filedescription = "The result is clear."}}
+|
+|
+|{{Ogg|Filename = Najia ulti vo 14.ogg|Filedescription = {{Translate|"دلوقتي الـshow." ("dluqati alshow.")|"It's show time."}}}}
+|-
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Najia ulti vo 15.ogg|Filedescription = {{Translate|"هتخافوا ولا ايه؟" ("hatkhafuu wala ayh?")|"Are you gonna be scared or what?"}}}}
+|-
+|}
+
+==Najia Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Najia}}
+
+==History==
+*19/03/26:
+**{{Balance|Content=Najia's primary & secondary main attack Super charge rate was increased by 6%.|Change=Buff}}
+**{{Balance|Content=Najia's primary main attack range was increased to 6 tiles (from 5.33).|Change=Buff}}
+**{{Balance|Content=Najia's secondary main attack range was increased to 6.67 tiles (from 6).|Change=Buff}}
+**{{Balance|Content=Najia's secondary main attack projectile speed was increased to 3100 (from 2800).|Change=Buff}}
+**{{Balance|Content=Najia's main attack poison damage per tick was increased to 350 (from 170).|Change=Buff}}
+**{{Balance|Content=Najia's main attack poison Super charge rate was increased by 118%.|Change=Buff}}
+**{{Balance|Content=Najia became available in [[Training Cave]].|Change=Neutral}}
+*20/03/26:
+**{{Balance|Content=Najia could be unlocked early from [[Brawl Boxes|Najia Boxes]], obtaining 14 of them, or from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).|Change=Neutral}}
+*31/03/26:
+**{{Balance|Content=Najia's primary main attack damage was decreased to 300 (from 400).|Change=Nerf}}
+**{{Balance|Content=Najia's secondary main attack damage was decreased to 600 (from 800).|Change=Nerf}}
+*02/04/26:
+**{{Balance|Neutral|Najia became available in the Starr Road.}}
+*22/04/26:
+**{{Balance|Buff|Najia's Venomous Star Power now affects her Super's snakes poison damage.}}
+**{{Balance|Buff|Najia's Super now applies both the jar and the snake's poison effect on impact.}}
+**{{Balance|Nerf|Najia's main attack second projectile no longer auto-aims at enemy Brawlers after the first projectile is fired without input.}}
+**{{Balance|Nerf|Najia's main attack second projectile no longer auto-aims at hidden enemy Brawlers in bushes.}}
+**{{Balance|Nerf|Najia's snakes health was decreased to 1200 (from 1600).}}
+**{{Balance|Nerf|Snakes summoned by Najia's Super and Star Power no longer explode when defeated. They will only explode when striking enemy Brawlers.}}
+**{{Balance|Neutral|Najia's Twin Snakes Hypercharge was added.}}
+**{{Balance|Neutral|Najia's True Silver and True Gold skins were added.}}
+*28/04/26:
+**{{Balance|Nerf|Najia's Super recharge rate was decreased to 80 (from 100).}}
+**{{Balance|Nerf|Najia's Hypercharge multiplier was decreased to 35% (from 40%).}}
+**{{Balance|Nerf|Najia's Poison Puddles Gadget duration was decreased to 2 seconds (from 4).}}
+*30/06/26:
+**{{Balance|Nerf|Najia's Super recharge rate was decreased to 50 (from 80).}}
+**{{Balance|Nerf|Najia's Hypercharged Super's snakes' health was decreased to 3000 (from 4000).}}
+**{{Balance|Nerf|Najia's Super no longer applies the snake's poison effect on impact.}}
+*01/09/26:
+**{{Balance|Buff|Najia's Venomous Star Power now affects her Super's jar poison damage.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Najia's movement speed to 800 (from 770).}}
+*03/09/26:
+**{{Balance|Neutral|Najia gained sound effects for firing her primary attack, firing her secondary attack and for her Super spawning and exploding.}}
+**{{Balance|Neutral|The Drum Major Najia skin was added. It was featured as a Brawl Academy skin.}}
+*03/11/26:
+**{{Balance|Content=Najia's level up damage was increased to 7% (from 6%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Neutral|Fixed a server error that Najia could trigger when interacting with transforming characters.}}
+
+==Cosmetics==
+===Skins (3)===
+{{Skin Gallery
+|Name1=Drum Major|Cost1=199 Gems|Campaign1=Brawl Academy|Rarity1=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Najia
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Najia|Rarity = Common}}
+|{{Spray|Type = Najia Paper Snake|Rarity = Common}}
+|{{Spray|Type = Najia Vase|Rarity = Common}}
+|{{Spray|Type = Najia Hypercharge|Rarity = Exclusive}}
+|
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Najia1}}
+|{{Pfp|Najia2}}
+|{{Pfp|Najia3}}
+|{{Pfp|Najia4}}
+|}
+
+{{Navigation}}
+[[ru:Наджия]]

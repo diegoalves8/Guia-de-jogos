@@ -1,0 +1,148 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Dragon Trident
+|image     = <gallery>
+DragonTrident.png|Icon
+Dragon Trident Display.png|In-Game
+Dragintridentidle.png|Held
+Drag. Trident (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 14
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Forgotten Island
+|obtain    = Dropped (5%)
+|source    = [[Tide Keeper]]
+}}
+{{Quote|Wielded by the [[Tide Keeper|keeper of tides]], a spear that controls water with the power of a dragon.|Item}}
+The '''Dragon Trident''' is a {{Rare}} [[sword]].
+
+The Dragon Trident is a decent pick due to its [[Area of Effect|AoE]] and ease. It is also somewhat easy to get due to being obtainable in [[Second Sea]]. 
+
+It is best suited for grinding, as its '''[X] Water Dragon Shower''' is an un-true [[stun]].
+
+==Obtainment==
+The Dragon Trident can be dropped by the [[Tide Keeper]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dragon Trident M1
+|desc     = The player does a stab, 2 swipes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Sea Dragon Fury
+|mastery  = 150
+|cooldown = 9
+|energy   = 30
+|break    = Yes
+|instinct = The explosion breaks Instinct, but the projectile does not.
+|gif      = DragonTridentVampZ
+|desc     = The user fires a large water dragon's head at the direction of their cursor, damaging and pushing away enemies in its path similar to [[Magma]] awakened {{Ability|C}} move. This move has high knockback.
+}}
+
+{{Skill
+|key      = X
+|name     = Water Dragon Shower
+|mastery  = 350
+|cooldown = 13.5
+|energy   = 60
+|break    = Yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Water Dragon Shower
+|desc     = The user summons a whirlpool of water dragons with a large [[AoE]]. This has a really short knockback, producing an effect almost like a stun.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Great [[combo]] potential.
+* Very big hitbox compared to other [[swords]].
+* Good range.
+* On the fourth swing, it provides a dash good for locomotion.
+* Very good as a support weapon, as '''[X] Water Dragon Shower''' has a lot of [[AoE]] and a good [[stun]].
+
+|'''[Z] Sea Dragon Fury'''
+* Decent [[AoE]] damage, making it quite easy to hit.
+* High knockback, which is useful against transformed [[Buddha]] users in [[PvP]].
+
+|'''[X] Water Dragon Shower'''
+* Does not require a lot of aiming.
+* Largest [[Area of Effect|AoE]] in the game out of every [[Swords|sword]].
+* Good stun.
+* Brings down enemies to the ground, can be extremely viable against sky campers.
+* [[Instinct/Break|Breaks Instinct]] if the player aims the center whirlpool at the enemy.
+* Good for starting combos.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Melee attacks cause a short dash on the fourth swing, making it less ideal for auto clicking.
+* High mastery requirements compared to most {{Rare}} [[swords]].
+* No mobility.
+* Low damage.
+
+|'''[Z] Sea Dragon Fury'''
+* High knockback can make it bad for grinding.
+* Only [[Instinct/Break|breaks Instinct]] if aimed correctly.
+
+|'''[X] Water Dragon Shower'''
+* A bit weak in the air. (Can not hit players in the air if too close.)
+* Can be dodged with [[Instinct]] if the target is at the end of the move.
+* Useless in the [[water]]. (The shower goes beneath the sea.)
+* Very low damage.
+}}
+</tabber>
+
+==Trivia==
+* If the player uses the Dragon Trident's [M1] dash attack in mid-air, they will go very far.
+* The [[Tide Keeper]] uses the old abilities of Dragon Trident.
+* The Dragon Trident is the only {{Rare}} [[Swords|sword]] to have its [X] move [[mastery]] requirement being 350.
+* The Dragon Trident can be considered as an upgrade to the [[Trident]].
+
+==Change History==
+{{Change History|14|content=
+{{Update|26}}
+* Dragon Trident was nerfed.
+** {{Arrow|nerf}} '''[X] Water Dragon Shower''' AoE was greatly reduced.
+** {{Arrow|nerf}} '''[X] Water Dragon Shower''' stun was greatly reduced.
+
+<gallery>
+DragontridentrevampedX.gif|Pre-nerf AoE of '''[X] Water Dragon Shower'''
+</gallery>
+----
+{{Update|24}}
+* Dragon Trident's model was revamped.
+<gallery>
+Dragon Trident Icon (Old).png|Dragon Trident's old icon
+</gallery>
+----
+{{Update|20}}
+* Dragon Trident's moves were reworked.
+** '''[X] Water Dragon Prison''' was renamed to '''[X] Water Dragon Shower'''.
+*: <gallery>
+DragonTridentZ.gif|Old '''[Z] Sea Dragon Fury'''
+DragonTridentX.gif|Old '''[X] Water Dragon Prison'''
+</gallery>
+----
+{{Update|14}}
+* Dragon Trident was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

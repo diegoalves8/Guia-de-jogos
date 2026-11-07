@@ -1,0 +1,124 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Longsword
+|image     = <gallery>
+Longsword.png|Icon
+LongswordInGameRework.png|In-Game
+Longsword (No Aura).png|Held
+Longsword (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 8
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Kingdom of Rose
+|obtain    = Defeat
+|source    = [[Diamond (Boss)|Diamond]]
+}}
+{{Quote|A straight double-edged sword with a cross-section shaped like a hexagon.|Item}}
+The '''Longsword''' is a {{Rare}} [[sword]].
+
+Despite being available in early [[Second Sea]], there are much better options for grinding. However, this sword can perform well in PvP due to its good mobility skills and if the user is not a sword main. Despite so, it still needs practice to learn this sword.
+
+==Obtainment==
+The Longsword can be obtained after defeating the [[Diamond (Boss)|Diamond]] [[Bosses|boss]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Longsword M1
+|desc     = The player does a stab, 2 swipes, then performs another stab.
+}}
+
+{{Skill
+|key      = Z
+|name     = Annihilate
+|mastery  = 100
+|cooldown = 8
+|energy   = 20
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = LongSwordReworkZ
+|desc     = The user dashes towards their cursor, then sends out a green slash that deals damage and creates temporary grass as it flies near a surface. If an enemy is hit by the dash, they become briefly stunned, take some extra damage and deal decent knockback.
+}}
+
+{{Skill
+|key      = X
+|name     = Glorious Smash
+|mastery  = 200
+|cooldown = 13
+|energy   = 20
+|break    = Yes
+|instinct = The slam breaks Instinct.
+|gif      = LongSwordReworkX
+|desc     = The user jumps over the enemy, dealing damage and creating a grassy area launching the target upwards. If there is a player on top of them at the start of the leap, the user will drag the player that is in contact with them alongside the leap.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High combo potential.
+* Decent for farming because all moves have [[AoE]].
+* Low mastery requirements.
+* Easy to obtain.
+* All moves have [[AoE]].
+
+|'''[Z] Annihilate'''
+* Decent knockback.
+
+|'''[X] Glorious Smash'''
+* Can be used for traveling and as a short ranged [[Flash Step]].
+* Has an aiming feature.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Low damage compared to other Rare [[swords]].
+
+|'''[Z] Annihilate'''
+* Close range.
+
+|'''[X] Glorious Smash'''
+* Short range.
+}}
+</tabber>
+
+==Trivia==
+* Despite the description saying that the Longsword has a hexagonal cross-section, the older model used to look like a pentagon.
+* Longsword is the only sword to have an aiming feature, which its [X] move does.
+** [[Dark Step]]s [Z] move also has a similar aiming crosshair.
+** [[File:20260813 195206 2.gif|thumb|longsword [X] glitch]]There is a bug: if the user uses the [X] movement on the underwater island, they will be immediately teleported into the sea.
+
+==Change History==
+{{Change History|8|content=
+{{Update|24}}
+* Longsword's model was reworked.
+<gallery>
+Longsword Icon (Old).png|Old Longsword model
+</gallery>
+----
+{{Update|20}}
+* Longsword's moves were reworked.
+<gallery>
+Annihilate.gif|Old '''[Z] Annihilate'''
+GloriousSmash.gif|Old '''[X] Glorious Smash'''
+</gallery>
+----
+{{Update|8}}
+* Longsword was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

@@ -1,0 +1,125 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Buddy Sword
+|image     = <gallery>
+BuddySword.png|Icon
+Buddy Sword EQ.png|In-Game
+Buddy Sword Held.png|Held
+Buddy Sword (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 17
+
+<!-- Weapon Obtainment -->
+|sea       = 3
+|location  = Sea of Treats
+|obtain    = Defeat
+|source    = [[Cake Queen]]
+}}
+{{Quote|Created by a spirit infused into a blade, it carries the power of weather.|Item}}
+The '''Buddy Sword''' is a {{Legendary}} [[sword]].
+
+Often used for its extreme range, Buddy Sword allows the player to deal high damage with speed, however, it also requires the user to have relatively good aim.
+
+==Obtainment==
+The Buddy Sword can be obtained after defeating the [[Cake Queen]], who can be found on the second island in the [[Sea of Treats]] ([[Sea of Treats#Ice Cream Land|Ice Cream Land]]), located in the [[Third Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Buddy Sword M1
+|desc     = The player does 4 basic slashes.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heat Slash
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = Yes
+|instinct = The initial hit and burn damage break Instinct. However, it is possible to dodge the multitude of slashes.
+|gif      = Buddy Sword Z
+|desc     = The user slashes their sword, launching a single flaming sword slash at the direction of their cursor. Upon hitting an enemy, they will be rapidly damaged as they are enveloped in a flaming sphere that then explodes, knocking them back while burning them, which deals tick damage over time.
+}}
+
+{{Skill
+|key      = X
+|name     = Lightning Wave
+|mastery  = 300
+|cooldown = 13.5
+|energy   = 40
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Buddy Sword X
+|desc     = The user fires a purple lightning beam at high speed in the direction of their cursor that deals damage and knocks back enemies in its path. This attack deals more damage the further the enemy is from the user. This move is similar to [[Spider]]s [C] move, but lower range.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Fast click speed for sword attacks.
+* All moves are very fast, making them hard to dodge. 
+* Good for AFK grinding (No M1 dash).
+* Excellent combo potential.
+* High damage output.
+
+|'''[Z] Heat Slash'''
+* Decent range and stuns the opponent temporarily (roughly a second).
+* High damage output.
+* Decent hitbox.
+* Fast "projectile".
+
+|'''[X] Lightning Wave'''
+* Allows the user to heal (passive heal) while holding it.
+* Very long range.
+* Great knockback (making it useful for running away).
+* Has a tripwire effect similar to [[Spider]] '''[C] Over-heated Sniper''' as long as the bright purple effect is visible or for a short millisecond.
+* Damage increases as the enemy gets further away.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Hard to use/requires great prediction.
+* Cannot hit [[Blade]] users.
+* No mobility moves.
+* Not recommended to use the sword moves for grinding, as the moves knockback a lot.
+* Moves do major knockback, making them hard to use in combos.
+
+|'''[Z] Heat Slash'''
+* Single target.
+* Cannot hit [[Sea Beast]]s.
+* Hard to hit from far away.
+
+|'''[X] Lightning Wave'''
+* Small hitbox, making it hard to hit.
+* Requires precise aim.
+* Has a delay, causing it to still be on cooldown but not be used if the user switches their weapon after pressing X.
+}}
+</tabber>
+
+==Trivia==
+* {{Ability|X}} can be dodged if the target is currently dodging another hit concurrently (e.g. the target is shot with [[Skull Guitar]] {{Ability|Skull Guitar|Z}}, turns on [[Instinct]], and later be shot with {{Ability|X}} while dodging, thus making them dodge out of the way of the wave).
+* {{Ability|X}} has a glitch if the player uses the tab glitch, they can aimbot the lightning wave hitting it no matter where they are. This glitch does not always 100% work.
+* The Buddy Sword can be hard to combo with, because {{Ability|X}} launches the enemy pretty far away and the player can't continue the combo. The solution for this is to have the player face downwards and do the combo, causing the enemy to not go anywhere but get stuck at the ground for an open combo.
+* The description for Buddy Sword was silently changed, likely to cut ties from the [[Soul]] fruit.
+
+==Change History==
+{{Change History|17.1|content={{Update|24}}
+* The [Z] and [X] startup animations were changed.
+----
+{{Update|17.1}}
+* Buddy Sword was released.}}
+
+==Navigation==
+{{Sword Navbox}}

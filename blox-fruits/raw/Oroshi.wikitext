@@ -1,0 +1,142 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Oroshi
+|image     = <gallery>
+Oroshi.png|Icon
+Oroshi EQ.png|In-Game
+Oroshi Held.png|Held
+Oroshi (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 8
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|obtain    = Bought
+|source    = [[Legendary Sword Dealer]]
+|price     = {{Money|2,000,000}}
+}}
+{{Quote|One of the three Legendary Swords, infused with a soul.|Item}}
+'''Oroshi''' (formerly known as '''Wando''') is a {{Legendary}} [[sword]].
+
+Usually regarded as weak among the legendary swords, Oroshi does not possess any remarkable traits, usually only being used to obtain the [[True Triple Katana]] or farm levels. However, it does have decent damage and stun.
+
+==Obtainment==
+{{Main|Legendary Sword Dealer}}
+Oroshi can be bought at the price of {{Money|2,000,000}} from the [[Legendary Sword Dealer]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Oroshi M1
+|desc     = The player swings 3 times, ending with a lunge forward.
+}}
+
+{{Skill
+|key      = Z
+|name     = Continuous Slashing
+|mastery  = 150
+|cooldown = 8
+|energy   = 20
+|break    = Yes
+|instinct = The barrage breaks Instinct.
+|gif      = Oroshi_Z
+|desc     = The user rapidly slashes with the sword, creating a flurry of white sword slashes in front of them that continuously damages enemies within the area. The duration of this attack can be extended by holding the associated key, with a maximum duration of 5 seconds. After the move concludes, the sword slashes expand, knocking back enemies. This ability is similar to [[Spin]]'s '''[Z]''' and [[Superhuman]]’s '''[Z]''' move.
+}}
+
+{{Skill
+|key      = X
+|name     = Dragon Gust
+|mastery  = 300
+|cooldown = 13
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Oroshi_X
+|desc     = The user dashes forward, grabs the opponent and shoots a ball of wind that deals slight knockback upon impact.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High damage.
+* One of the best [[swords]] for grinding and PvP in [[Second Sea]] due to good damage and a long range move.
+* Good for any playstyle because of its stuns.
+* Good [[sword]] for [[Guns|Gun]] mains because the player can force people into the tick damage of some guns.
+* Fun for combos.
+** Both gun and sword stats are good for this sword.
+
+|'''[Z] Continuous Slashing'''
+* Long stun.
+* Decent knockback which counters the endlag.
+* Great for teamers.
+* Good combo starter.
+
+|'''[X] Dragon Gust'''
+* Good for combos.
+* Decent range.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Dashes on the fourth click.
+* Bad for PvP compared to [[Third Sea]] [[swords]].
+* Outclassed by meta swords like [[Cursed Dual Katana]].
+* Difficult to combo with.
+
+|'''[Z] Continuous Slashing'''
+* Short range.
+* The knockback makes it hard to combo with afterwards.
+* Can be countered by [[Cyborg (race)|Cyborg race]] or tick damage that can disturb the user who is holding the move.
+* Medium endlag.
+
+|'''[X] Dragon Gust'''
+* Does not [[break Instinct]].
+}}
+</tabber>
+
+==Trivia==
+* Oroshi, along with [[Shizu]] and [[Saishi]] are required (and with 300 mastery on each respectively) to obtain the [[True Triple Katana]]. 
+* Oroshi's pre-rework [X] move ('''Scatter Shot''') was much similar to that of pre-rework [[Bisento]]'s.
+* Oroshi is often used in skilled builds, together with [[Bizarre Revolver]] and [[Lightning]].
+* {{Ability|Z}} is similar to both [[Spin]]'s and [[Dark Blade]]'s [Z] moves, although it is smaller and lasts longer.
+** {{Ability|Z}} had a larger hitbox before it was reworked.
+<gallery>
+File:Soul Winds.gif|White wind fused effects swirling around the user while holding '''[X] Dragon Gust'''.
+</gallery>
+
+==Change History==
+{{Change History|8|content=
+{{Update|24}}
+* Wando was remodeled and renamed to Oroshi.
+: <gallery>
+Wando.png|Oroshi's old model
+</gallery>
+----
+{{Update|20}}
+* Wando was reworked.
+** {{Arrow|nerf}} The hitbox of '''[Z] Continuous Slashing''' was reduced
+** '''[X] Scatter Shot''' was renamed to '''[X] Dragon Gust'''.
+<gallery>
+WandowZ.gif|Old '''[Z] Continuous Slashing'''
+WandowX.gif|Old '''[X] Scatter Shot'''
+</gallery>
+----
+{{Update|8}}
+* Wando was released.
+}}
+
+==Navigation==
+{{Legendary Sword Navbox}}
+{{Sword Navbox}}

@@ -1,0 +1,166 @@
+{{CombosTab}}
+{{Removed|Blox Fruit|Creation|26}}
+{{Admin}}
+{{Blox Fruit Infobox
+|name   = Barrier
+|image  = <gallery>
+Barrier Fruit.png|Fruit Icon
+barrier model.gif|Fruit GIF
+Barrier.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Rare
+|M1     = No
+|update = 8
+
+<!-- Fruit Price -->
+|money  = 800,000
+|robux  = 1,250
+}}
+{{Quote|Creates barriers for defense and can trap enemies.|Shop}}
+'''Barrier''' was a {{Rare}} [[Natural]]-type [[Blox Fruit]] that used to cost {{Money|800,000}} or {{Robux|1,250}} from the [[Blox Fruit Dealer]].
+
+The Barrier Fruit granted the user the ability to create and manifest green barriers that blocked attacks, trapped foes, ambushed enemies, and damaged opponents that got hit by it. The user could create green structures such as towers and stairs to elevate them.
+
+Barrier was highly useful for trolling, as the user could block other players' paths—for example, by blocking the entrance of the [[Mansion (Third Sea)|Mansion]] at [[Floating Turtle]], the portal created by [[Portal]] V, or the [[Cursed Ship]]. Barrier was a mid-tier PvP fruit and okay for grinding, since the Z move allowed you to be immune to damage from M1s, while being able to hit through them yourself.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Barrier Wall
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 25
+|gif      = BarrierZ
+|desc     = The user fired a medium-sized rectangular barrier that damaged opponents and blocked certain incoming attacks.
+}}
+
+{{Skill
+|key      = X
+|name     = Surprise Attack
+|mastery  = 45
+|cooldown = 10.5
+|energy   = 25
+|gif      = BarrierX
+|desc     = The user teleported to their cursor and slammed down on the ground, dealing high AoE damage. If used inside a building, the player would teleport out of it.
+}}
+
+{{Skill
+|key      = C
+|name     = Barrier Prison
+|mastery  = 90
+|cooldown = 13.5
+|energy   = 35
+|gif      = Barrier_C
+|desc     = The user fired a sphere that can be controlled with their mouse, which trapped opponents while damaging them. The player was uninterruptible and invincible while using this move. If the player "threw" the opponent (by aiming the cursor at a wall) it had a chance to slam into the wall and do extra AoE damage. If aiming upwards, it would fling the enemy. This move could be used to drag/throw opponents into the water and make them take damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Barrier Towers
+|mastery  = 130
+|cooldown = 26
+|energy   = 70
+|gif      = Barrier_V
+|desc     = The user summoned five large barrier towers in front of them that slammed onto the ground and dealt high damage. This move buried opponents and could trap them in the ground.
+}}
+
+{{Skill
+|key      = F
+|name     = Stairs
+|mastery  = 10
+|cooldown = 1.5
+|energy   = 10/s
+|gif      = Barrier_F
+|desc     = The user summoned a constantly growing staircase in the direction their character was facing that would continue to go up until the player ran out of energy or released the key. This move took around one [[energy]] per step created. It was decent in aerial mobility as it allowed the user to reset their [[Air Jump]]s without touching the ground, helping the user reach higher elevation.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for trolling.
+* Easy to obtain.
+* Decent for controlling the area and fighting.
+* Good defense against ranged attacks.
+* Decent damage.
+
+|'''[Z] Barrier Wall'''
+* M1s could hit through, making it really effective grinding with [[Fighting Styles|melee]] or [[swords]].
+* Could be used as a counter just like [[Dough]]'s {{Ability|Dough|Z}} Move.
+* Could ragdoll enemies by being directly above them when hitting them.
+* Reset [[Air Jump]]s in mid-air, allowing the user to [[Dashing|dash]] more across the [[Water]].
+* Could hit other players into [[lava]].
+
+|'''[X] Surprise Attack'''
+* Can be used as a free escape move.
+
+|'''[C] Barrier Prison'''
+* The user gained immunity to all types of damage while inside the green sphere.
+* Could be used to drag a fruit user into the [[water]] or [[lava]].
+* Could be used to trap an [[NPC]] and slam it into another.
+
+|'''[V] Barrier Towers'''
+* Not too hard to aim.
+* Could be used as a blocking wall.
+* The stun ability is quite annoying for players.
+
+|'''[F] Stairs'''
+* The player could reset [[Air Jump]] in mid-air, allowing Barrier users to [[Dashing|dash]] more across the [[water]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Low damage.
+* Not great in horizontal movement.
+* Decent endlag.
+
+|'''[Z] Barrier Wall'''
+* Could be used as a standing ground. (If the enemy took advantage of it)
+
+|'''[X] Surprise Attack'''
+* Not good in enclosed spaces. (Although it still works as a teleportation move, making it effective when trying to escape through walls)
+
+|'''[C] Barrier Prison'''
+* Not the best against people who had an arsenal of mobility moves. (Due to them being able to dodge it more consistently)
+
+|'''[V] Barrier Towers'''
+* Did not work properly inside places with low ceilings.
+* Hard to hit in [[PvP]] as the barriers took a relatively long time to place.
+
+|'''[F] Stairs'''
+* Generally slower than walking, as the player had to wait for the next step to be created.
+}}
+</tabber>
+
+==Trivia==
+* Previously, Barrier was the only fruit capable of changing color cycling between green and blue repeatedly.
+
+==Change History==
+{{Change History|8|content=
+{{Update|26}}
+* Barrier was replaced by [[Creation]].
+----
+{{Update|25}}
+* Barrier was made unavailable to purchase from the [[Blox Fruit Dealer]]'s stock and Shop.
+----
+{{Update|20}}
+* Barrier Fruit's model was remade.
+: <gallery>
+Barrier 150x150.png|Old Barrier Fruit's icon.
+</gallery>
+----
+{{Update|8}}
+* Barrier was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Барьер]]

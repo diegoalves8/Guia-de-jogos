@@ -1,0 +1,400 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Meow|PrestigeTitle = Purrfect|Rarity = Legendary|Class = Support|MovementSpeed = 855 (Very Fast)<br>2000 (with Super; detaching)|HealthLabel = Health|Health = 3100|AttackRange = 3.67 (Short)<br> 7.33 (attached; Long)<br>10 (attached; with Hypercharge)|Reload =0.8 seconds (Very Fast)<br>2 seconds (attached; Slow)|AttackSuperCharge = 20%<br>32% (attached)|AttackLabel = Damage|Attack = 1000 |AttackLabel2 = Attached damage|Attack2 = 1600|AttackSpeed=1900 (attached)|AttackSpread=67.5°|SuperHealth = 3900|SuperRange = 6.67 (jumping; Normal)<br>2 (detaching, Short)|SuperSuperCharge = 25%<br>0.925% (damage over time)|Super=1000|SuperLabel=Damage|SuperDuration=1.5 seconds (on enemies) <br>8 seconds (on allies)<br>13 seconds (on allies with Overly Attached)|SuperSpeed=|VoiceActor=Chris Nichter|Previous=Cordelius|Next=Draco|SuperLabel2=Damage over time|Super2=125|Gadget1Name=Cardboard Box|Gadget1Cooldown=23 seconds|Gadget2Name=Cheeseburger|Gadget2Cooldown=15 seconds|HyperchargeMultiplier=30%|AttackHyperchargeCharge=6%<br>9.6% (attached)|SuperHyperchargeCharge=7.5%<br>0.275% (damage over time)|Gadget1Duration=3 seconds}}
+{{Quote|Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.}}{{Portrait}}
+Kit is a {{Rarity|Legendary}} [[Brawler]] who has a short range, a very fast reload and movement speed, moderately low health, and a moderate damage output, but immense utility with his Super in his normal mode. In his alternate form, he has a long range and very high damage output, at the expense of having a slow reload speed. He was the 75th Brawler added to the game. Kit's normal form attacks with a quick short-ranged claw with an extremely fast cooldown and reload speed. His Trait allows his Super to charge itself over time. For his Super, Kit quickly jumps a moderate distance. If he jumps on an enemy Brawler, he stuns and deals damage to them over time. If Kit jumps on an ally Brawler, he momentarily rides them, transforming into his alternate form and healing them over time in the process. Kit's alternate form attacks by throwing his ball of yarn over obstacles that blow up and deal high damage in a medium radius, while making him invulnerable for the duration of the alternate form. For his alternate form's Super, Kit jumps off the ally Brawler and transforms back into his normal form. His first Gadget, Cardboard Box, doubles his Trait's Super charge rate if he is standing still and makes him temporarily invisible to enemies. His second Gadget, Cheeseburger, immediately heals him and the ally he is attached to. His first Star Power, Power Hungry, increases the health and damage buffs from every [[Showdown|Power Cube]] collected. His second Star Power, Overly Attached, increases Kit's alternate form duration when attached to an ally. His Hypercharge, Making Biscuits, allows Kit to move and attack normally, while stunning enemies with his Super, but when using his Super on an ally, he heals them more, and his attack range increases in the alternate form. 
+
+==Trait==
+{{Quote|This Brawler charges Super over time.}}{{Trait|Auto}}Kit's Super charges automatically over time, similar to [[Darryl]] and [[Edgar]]. It takes 20 seconds to fully charge his Super without other Super-charging abilities; however, unlike Darryl and Edgar, this Trait does not charge his Hypercharge.
+
+==Attacks==
+===Basic: Claws===
+{{Quote|Claw nearby enemies in a cone.}}
+Kit attacks with a quick short-ranged claw, hitting enemies in a wide cone. There exists an extremely short 0.1-second delay to the attack, but there isn’t any travel time, so the attack instantly takes effect after the delay. However, the attack cooldown overall is extremely short, and it takes 0.4 seconds to complete.
+
+===Attached: Yarn Balls===
+{{Quote|Kit throws yarn balls while attached to a friendly Brawler, dealing damage in an area.}}
+Kit throws a ball of yarn over obstacles that bounces upon hitting the ground, and blows up after 0.8 seconds, dealing massive damage to any enemies caught in its 1.5-tile blast radius. However, Kit has a slow reload speed and slower attack cooldown in this form. He takes 0.5 seconds to complete his attack in the alternate form. 
+
+==Super: Carry Me==
+{{Quote|Jump and attach to the back of another Brawler. Heals allies and damages enemies over time.}}
+Similar to [[Edgar]], Kit jumps into the air and over obstacles briefly, staying airborne for 0.5 seconds, before landing onto the area where the Super was aimed. If there are lakes, his jump range is extended to the nearest ground. While in the air, Kit is completely immune to all damage besides status effects and damage applied over time. Kit will instantly lock on to his target so long as he jumps close enough such that they are within the aiming circle when he lands. Kit cannot jump on allies or enemies if they have an invulnerability shield. 
+
+When he lands on an enemy Brawler, he instantly deals damage to them, and stays attached to them for 1.5 seconds, during which he stuns them and deals low damage over time. Kit cannot move or attack while attached to an enemy; however, he can hold the ball in [[Brawl Ball]]. When Kit lands on an ally Brawler, he transforms into his alternate form, becomes immune to all damage, attaches to his teammate for 8 seconds, and instantly recharges his Super. While attached, Kit heals both himself and the Brawler he is attached to over time for 15% of their maximum health per second. 
+
+If the duration ends, the ally Brawler is defeated, or Kit uses his Super in the alternate form, he jumps off, transforming back into his normal form and loses his Super charge. If he uses his Super to detach, he dashes a short distance; otherwise, he drops in the same spot he was immediately before detaching. 
+
+==Gadgets==
+===Cardboard Box===
+{{Quote|Hide in a cardboard box becoming invisible for 3 seconds. Charges the Super 100% faster while stationary. Cooldown: 23 seconds.}}{{Gadget|1}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+When activated, Kit hides in a cardboard box, turning himself invisible for 3 seconds, allowing him to either retreat or ambush an enemy. Similar to [[Leon]]'s Super, if Kit takes damage during the Gadget activation, he will momentarily be visible. If Kit uses his main attack while invisible, he loses his invisibility, but if he uses his Super, he does not. In addition, if Kit stands still, the effectiveness of his Super charge rate from his Trait is doubled. This Gadget can be activated in both his normal form and his alternate form, though using it in his alternate form is useless.
+
+===Cheeseburger===
+{{Quote|Heals himself and the friendly Brawler he is attached to for 30%. Cooldown: 15 seconds.}}{{Gadget|2}}
+Upon activation, Kit heals both himself and the friendly Brawler he is attached to for 30% of their maximum health. This Gadget can only be activated if Kit is in his alternate form.
+
+==Star Powers==
+===Power Hungry===
+{{Quote|Kit gains 150% power from each Power Cube.}}{{StarPower|1}}
+This Star Power increases the damage and health buffs from every [[Showdown|Power Cube]] collected by 1.5x.
+
+===Overly Attached===
+{{Quote|Kit attaches to friendly Brawlers for 5 seconds longer.}}{{StarPower|2}}
+With this Star Power equipped, Kit's alternate form lasts 5 seconds longer, increasing its duration from 8 to 13 seconds.
+
+==Hypercharge: Making Biscuits==
+{{Quote|Kit's Super stuns the enemy but he can move and attack normally. Attaching to teammates will heal them more and his Yarn Balls have a longer range.}}{{Hypercharge}}
+While activated, when Kit uses his Super on an enemy Brawler, he will stun the enemy whilst still being able to move and attack. However, he will no longer deal damage over time to enemies he hits. If Kit uses his Super on a friendly Brawler, he heals them for 25% of their maximum health per second instead of 15%, and his attack range in the alternate form increases significantly. However, Kit will not heal himself for twice as much as normal. The healing on the friendly Brawler is increased for the Hypercharge's duration and goes back down to normal once the Hypercharge ends, but the attack's additional range stays until the Super duration ends. Kit also gains a 20% speed boost, as well as a 5% damage and shield.
+
+==Tips==
+*Kit's Super is best used in team game modes, where he can attach to an ally and deal massive damage with his attack, while also healing himself.
+*Do not jump on an enemy if they have their teammates near them. Instead, use the Super on isolated enemies to allow your teammates to finish them off, or onto low health enemies to defeat them.
+*Kit is a decent choice in [[Showdown]] as while he lacks in damage output and health, he has a lot of mobility and map control to make up for it. His Power Hungry Star Power is an excellent choice for Showdown as every two Power Cubes he obtains counts as three, so he gets more powerful quicker than others. He works better in [[Duo Showdown]] as he can heal his teammates, control and damage his enemies while being invulnerable, and acquire double Power Cube buffs. His Cardboard Box Gadget is also useful, as it allows him to speed up his Super charge rate, sneak up on enemies, or flee from enemies.
+*Be aware that Kit's Super will be cancelled if used on enemies currently moving during their Super such as [[Buzz]], [[Fang]], [[Chuck]], [[Berry]], [[Darryl]], or [[Bull]], with Kit even being pulled along and suffering the aftereffects of the Super. As such, try not to target such Brawlers when they're in situations where they are anticipating using their Super, granting you the element of surprise.
+*If Kit is attached to a teammate when a round resets, he will have his Super when the next round begins. This allows Kit to use his yarn ball attack to guarantee a takedown without worrying about wasting his Super.
+
+===Strategies===
+*Kit is powerful with tanks such as [[Draco]], [[Frank]], [[Hank]], [[El Primo]], [[Bull]], or [[Darryl]] as Kit can instantly heal a good amount of health with his Cheeseburger Gadget and do a good amount of damage when attached. Kit can also heal a good amount of HP overtime to the attached teammate.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 01.ogg|Filedescription ="Thrilled to be here, really."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 06.ogg|Filedescription ="Thrilled to be online, really."}}
+|'''Normal:'''
+{{Ogg|Filename = kit lead vo 01.ogg|Filedescription ="Have waited all my nine lives for this moment."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 01.ogg|Filedescription ="I've waited nine lives for this update!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 01.ogg|Filedescription ="Now, it's purr-sonal."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 01.ogg|Filedescription ="Hey, purr-sonal data."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 01.ogg|Filedescription ="Purr-fect."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 01.ogg|Filedescription ="Purr-fect execution!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 01.ogg|Filedescription ="Huh, what a catastrophe."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 01.ogg|Filedescription ="What a catastrophic crash!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit atk vo 01.ogg|Filedescription =Kit groans}}'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 01.ogg|Filedescription ="Scratch file."}}
+|'''Normal:'''
+{{Ogg|Filename = kit ulti vo 01.ogg|Filedescription ="Feline frenzy!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 01.ogg|Filedescription ="Feline firewall!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 02.ogg|Filedescription ="Wow, I'm a cat. Try to get over it."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 02.ogg|Filedescription ="Booting up against my will."}}
+|'''Normal:'''
+{{Ogg|Filename = kit lead vo 02.ogg|Filedescription ="I'm a cat, of course I win."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 03.ogg|Filedescription ="I'm a cat, of course I run the Internet."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 02.ogg|Filedescription ="But... I'm a cat."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 02.ogg|Filedescription ="But I'm a mascot."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 02.ogg|Filedescription ="You are gonna cry, aren't you?"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 02.ogg|Filedescription ="You've got a face for failure. Low res."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 02.ogg|Filedescription ="Catastrophic!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 02.ogg|Filedescription ="Finally, sleep mode. Purr."}}
+|'''Normal:'''
+{{Ogg|Filename = kit atk vo 02.ogg|Filedescription =Kit groans}}'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 02.ogg|Filedescription ="Send!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit ulti vo 02.ogg|Filedescription ="Pounce, flounce, and bounce!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 02.ogg|Filedescription ="Pounce, flounce, and bounce!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 03.ogg|Filedescription ="Meow! Sorry, got caught up in the moment."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 03.ogg|Filedescription ="Another update? I just got comfortable."}}
+|'''Normal:'''
+{{Ogg|Filename = kit lead vo 03.ogg|Filedescription ="Live, love, laugh, and lick."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 04.ogg|Filedescription ="Live, love, laugh, and login."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 03.ogg|Filedescription =Kit hisses}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 03.ogg|Filedescription ="Meow! The old visual glitch."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 03.ogg|Filedescription ="Cat's got your tongue? Yes, I have."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 07.ogg|Filedescription ="Skill issue, hmm, try rebooting."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 03.ogg|Filedescription ="Gonna start running out of lives."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 07.ogg|Filedescription ="Enough screen time."}}
+|'''Normal:'''
+{{Ogg|Filename = kit atk vo 03.ogg|Filedescription =Kit groans}}'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 03.ogg|Filedescription ="Download this!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit ulti vo 03.ogg|Filedescription ="Friends forever!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 04.ogg|Filedescription ="Download this!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 04.ogg|Filedescription ="Cat's out of the bag."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 04.ogg|Filedescription ="Computer's out of the bag."}}
+|'''Normal:'''
+{{Ogg|Filename = kit lead vo 04.ogg|Filedescription ="Something smells fishy here, and I love it!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 02.ogg|Filedescription ="Pixel purr-fect."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 04.ogg|Filedescription =Kit snarls}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 04.ogg|Filedescription ="From clickbait to cat hate."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 04.ogg|Filedescription ="You've got a face for failure."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 04.ogg|Filedescription ="Uninstalled."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 04.ogg|Filedescription ="Ahh, finally some rest."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 04.ogg|Filedescription ="Blue screen of me-ow."}}
+|'''Normal:'''
+{{Ogg|Filename = kit atk vo 04.ogg|Filedescription =Kit groans}}'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 04.ogg|Filedescription ="Pop-up!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit ulti vo 04.ogg|Filedescription ="You are stuck with me-ow!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 03.ogg|Filedescription ="You are stuck with me-ow!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 05.ogg|Filedescription ="Don't start believing."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 05.ogg|Filedescription ="Hey! Where's my meow-se?"}}
+|'''Normal:'''
+{{Ogg|Filename = kit lead vo 05.ogg|Filedescription ="Of course, I'm paw-some!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 05.ogg|Filedescription ="Top of the server, naturally!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 05.ogg|Filedescription ="Me-ow!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 05.ogg|Filedescription ="Critical hiss detected."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 05.ogg|Filedescription ="Smartphones, stupid people."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 05.ogg|Filedescription ="Meow. That was a clean wipe."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 05.ogg|Filedescription ="Was this ever fun?"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 05.ogg|Filedescription ="System shutdown."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 05.ogg|Filedescription ="Mouse trap!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit ulti vo 05.ogg|Filedescription ="Claws of love!"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 05.ogg|Filedescription ="Attach file? Me-ow!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 06.ogg|Filedescription ="Ugh, whe-, wher-, where did that small red dot go?"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 01.ogg|Filedescription ="Wow, I'm a cat-puter. How utterly groundbreaking."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 06.ogg|Filedescription ="Victory scream!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 06.ogg|Filedescription ="You aren't kitten around, are you?"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 06.ogg|Filedescription ="Mark my files, you'll remember this."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 06.ogg|Filedescription ="Feline good."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 06.ogg|Filedescription ="Moved you to trash."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 06.ogg|Filedescription ="Back to the Internet."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 06.ogg|Filedescription ="I should've stayed offline."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 06.ogg|Filedescription =Kit groans}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 06.ogg|Filedescription ="Pop-up pounce!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 07.ogg|Filedescription ="Oh, did I smell tuna?"}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 07.ogg|Filedescription ="Finally, some screen time."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 07.ogg|Filedescription ="I'm not old, I'm legacy software."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 07.ogg|Filedescription ="Claws are out, free facelift."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin hurt vo 07.ogg|Filedescription ="Ow! That was a hard reset!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 07.ogg|Filedescription ="Making everyone else look good. Well done."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin kill vo 03.ogg|Filedescription ="Making everyone else look optimized. Well done."}}
+|'''Normal:'''
+{{Ogg|Filename = kit die vo 07.ogg|Filedescription ="Ugh, gotta go lick myself."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 03.ogg|Filedescription ="Gotta go... clear my history."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 07.ogg|Filedescription ="Control-cat-delete!"}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin ulti vo 07.ogg|Filedescription ="Full screen furball!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 08.ogg|Filedescription ="Come on, let's get physical. Physical."}}'''Retro:'''
+{{Ogg|Filename = kit computer skin start vo 08.ogg|Filedescription ="Cat.exe has launched. Purr."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 08.ogg|Filedescription ="Everyone else is lagging."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 08.ogg|Filedescription ="Crying cat face."}}
+|'''Normal:'''
+{{Ogg|Filename = kit kill vo 08.ogg|Filedescription ="You aimed low, and managed to miss the mark."}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin die vo 08.ogg|Filedescription ="Did somebody move my mouse?"}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin atk vo 08.ogg|Filedescription ="Screen swipe!"}}
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = kit start vo 09.ogg|Filedescription ="Has it really come to this?"}}
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 09.ogg|Filedescription ="Starr Park runs on cat videos."}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 09.ogg|Filedescription ="Mark my claws, you'll remember this moment."}}
+|
+|
+|
+|
+|-
+|
+|'''Retro:'''
+{{Ogg|Filename = kit computer skin lead vo 10.ogg|Filedescription ="Your Wi-Fi wishes it had my range!"}}
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 10.ogg|Filedescription ="Now, it's my turn."}}
+|
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = kit hurt vo 11.ogg|Filedescription =Kit growls}}
+|
+|
+|
+|
+|}
+
+==History==
+*28/12/23:
+**{{Balance|Content=Kit could be unlocked early as a bundle for $29.99.|Neutral}}
+**{{Balance|Content=Kit became available to play in [[Training Cave]].|Neutral}} 
+**{{Balance|Content=The Billy the Kit skin was added.|Neutral}}
+*04/01/24:
+**{{Balance|Content=Kit became available in the Starr Road.|Neutral}}
+*11/01/24:
+**{{Balance|Content=Kit's main attack damage was decreased to 1600 (from 2000) in his alternate form.|Nerf}}
+**{{Balance|Content=Kit's Super charge rate was decreased by 20% in his alternate form.|Nerf}}
+**{{Balance|Content=Kit is no longer impervious to all damage when landing on an enemy Brawler.|Nerf}}
+**{{Balance|Content=Kit no longer attaches to Brawlers with invulnerability shields.|Nerf}}
+**{{Balance|Content=Fixed an issue with Kit's Super charge rate scaling with Power Cubes when attached to enemies.|Neutral}}
+**{{Balance|Content=Fixed an issue with Kit's Cardboard Box Gadget charging his Super at a faster rate when moving.|Neutral}}
+**{{Balance|Content=Fixed an issue where Kit could use his Super again if he detaches from an ally Brawler before the current Super runs out.|Neutral}}
+*01/02/24:
+**{{Balance|Content=The KitBoxer, KitBoxer Darkpaw, and KitBoxer Goldpaw skins were added. They were featured as Brawl Pass Season 23 skins and Lunar Brawl skins.|Neutral}}
+*27/02/24:
+**{{Balance|Content=Fixed a localization issue with Kit's attack values.|Neutral}}
+**{{Balance|Content=KitBoxer, KitBoxer Darkpaw, and KitBoxer Goldpaw were slightly remodeled.|Neutral}}
+**{{Balance|Content=KitBoxer, KitBoxer Darkpaw, and KitBoxer Goldpaw main attack visual effects were reworked.|Neutral}}
+*23/04/24:
+**{{Balance|Content=Kit's main attack damage was increased to 1000 (from 800) in his normal form.|Buff}}
+**{{Balance|Content=The number of hits required to charge Kit's Super was decreased to 4 (from 5).|Buff}}
+**{{Balance|Content=Kit's Super damage was increased to 1000 (from 800).|Buff}}
+**{{Balance|Content=Kit's Super recharge rate was increased by 25%.|Buff}}
+**{{Balance|Content=Kit's Cardboard Box Gadget duration was decreased to 3 seconds (from 5).|Nerf}}
+**{{Balance|Content=Kit's True Silver and True Gold skins were added.|Neutral}}
+*25/04/24:
+**{{Balance|Content=Fixed Kit's Gadget description.|Neutral}}
+*25/06/24:
+**{{Balance|Content=Kit's Power Hungry Star Power damage and health buff was decreased to 150% (from 200%) per Power Cube.|Nerf}}
+*27/08/24:
+**{{Balance|Content=Kit's Cheeseburger Gadget healing was decreased to 30% (from 40%).|Nerf}}
+*05/10/24:
+**{{Balance|Content=The LockpicKit skin was added. It was featured as a Once Upon skin.|Neutral}}
+*29/10/24:
+**{{Balance|Content=Kit's Super damage over time now recharges his Super.|Buff}}
+**{{Balance|Content=Kit's Super damage over time was decreased to 125 (from 250) per second but now scales with Power Levels.|Nerf}}
+*31/10/24:
+**{{Balance|Content=Kit's Super damage over time Super recharge rate was decreased by 70%.|Nerf}}
+*12/12/24:
+**{{Balance|Content=The Cuddly Kit skin was added. It was featured as a Come Play With Us! skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that allowed Kit to float and move on his own if he jumped on an ally or an opponent, being completely immune to damage.|Change=Neutral}} 
+*23/04/25:
+**{{Balance|Content=Fixed Kit being a "bad kitty" in certain situations.|Change=Neutral}}
+*24/07/25:
+**{{Balance|Content=Kit's Making Biscuits Hypercharge was added.|Change=Neutral}}
+*31/07/25:
+**{{Balance|Content=The Yuki Kit skin was unlockable by winning the Yuki Kit Skin in-game Challenge. It was featured as a Misc skin.|Change=Neutral}}
+**{{Balance|Content=The Siamese, Calico, and Tabby Kit skins were added. They were featured as Misc skins.|Change=Neutral}}
+*02/08/25:
+**{{Balance|Content=The Mariano Kit skin was unlockable by winning the Mariano Kit Skin in-game Challenge. It was featured as a Misc skin.|Change=Neutral}}
+*04/08/25:
+**{{Balance|Content=The Guismo Kit skin was unlockable by winning the Guismo Kit Skin in-game Challenge. It was featured as a Misc skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Kit's Making Biscuits Hypercharge Super now deals jump damage.|Change=Buff}}
+**{{Balance|Content=Kit's Making Biscuits Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*12/09/25:
+**{{Balance|Content=Fixed a bug where Kit's Super animation was skipped by using [[Subway Supers]].|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=The number of hits required to charge Kit's Super was increased to 5 hits (from 4).|Nerf}}
+**{{Balance|Content=Kit's Super charge rate was decreased by 20% in his alternate form.|Nerf}}
+**{{Balance|Content=Kit's Cardboard Box Gadget cooldown was increased to 23 seconds (from 20).|Nerf}}
+**{{Balance|Content=Kit's Making Biscuits Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Kit's Making Biscuits Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Kit's Making Biscuits Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Kit's health was increased to 3100 (from 3000).}}
+*25/02/26:
+**{{Balance|Buff|Kit's Super healing was increased to 15% maximum health per second (from 10).}}
+**{{Balance|Buff|Kit's Making Biscuits Hypercharge healing was increased to 25% maximum health per second (from 20).}}
+**{{Balance|Nerf|Kit's Super duration while attached to an ally was decreased to 8 seconds (from 10).}}
+**{{Balance|Neutral|Kit's yarn ball explodes in 0.8 seconds (from 1). This is also an indirect Nerf to Kit because it does not allow the projectile to reach its maximum range anymore before it explodes. Throwing range is limited to 5.07 tiles for both Kit's Super and Hypercharged Super.}}
+**{{Balance|Neutral|Kit's Super duration while attached to an enemy was decreased to 1.5 seconds (from 2).}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where Kit teleported incorrectly after detaching from allies.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Kit's movement speed to 855 (from 820).}}
+*23/10/26:
+**{{Balance|Neutral|The Retro Kit Skin was added. It was featured as a Supercell Make Skin.}}
+*03/11/26:
+**{{Balance|Neutral|Kit's Super tick damage duration was changed from 1/2 seconds to 0.75/1.5.}}
+**{{Balance|Neutral|Fixed a bug with Kit's stun lasting after he was defeated.}}
+
+==Cosmetics==
+===Skins (15)===
+{{Skin Gallery
+|Name1=Billy the|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Outlaws|Rarity1=Rare
+|Name2=Yuki|Cost2=Free from the Yuki Kit Skin Challenge, free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign2=Misc|Rarity2=Rare
+|Name3=Siamese|Cost3=Free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign3=Misc|Rarity3=Rare
+|Name4=Calico|Cost4=Free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign4=Misc|Rarity4=Rare
+|Name5=Tabby|Cost5=Free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign5=Misc|Rarity5=Rare
+|Name6=Mariano|Cost6=Free from the Mariano Kit Skin Challenge, free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign6=Misc|Rarity6=Rare
+|Name7=Guismo|Cost7=Free from the Guismo Kit Skin Challenge, free from Starr Nova Boxes or 29 Gems • '''S'''|Campaign7=Misc|Rarity7=Rare
+|Name8=Cuddly|Cost8=Free from Presents, free from Nova Drops or 79 Gems|Campaign8=Come Play With Us!|Rarity8=Super Rare
+|Name9=LockpicKit|Cost9=Free from Damian Boxes or 149 Gems|Campaign9=Once Upon|Rarity9=Epic
+|Name10=Retro|Cost10=299 Gems|Rarity10=Legendary|Campaign10=Supercell Make
+|TrueSkins=Yes
+|NameP1=KitBoxer|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Lunar Brawl|RarityP1=Epic
+|NameP2=KitBoxer Darkpaw|CostP2=Brawl Pass Plus or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Lunar Brawl|RarityP2=Epic
+|NameP3=KitBoxer Goldpaw|CostP3=Brawl Pass Plus or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Lunar Brawl|RarityP3=Epic}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Kit
+|-
+!Skin
+!colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|KitBoxer|Special}}
+{{Pin Table|KitBoxer Darkpaw|Special}}
+{{Pin Table|KitBoxer Goldpaw|Special}}
+{{Pin Table|LockpicKit|Special}}
+{{Pin Table|Cuddly|Special}}
+{{Pin Table|Retro|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Kit|Rarity = Common}}
+|{{Spray|Type = Kit Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Kit1}}
+|{{Pfp|Kit2}}
+|{{Pfp|Kit3}}
+|{{Pfp|KitBoxer}}
+|{{Pfp|LockpicKit}}
+|}
+
+{{Navigation}}
+[[ru:Кит]]
+[[pl:Kit]]

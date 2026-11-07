@@ -1,0 +1,41 @@
+{{Location Infobox
+|name      = Treasure Island
+|image     = <gallery>
+Treasure Island Small.png|Small
+Treasure Island Big.png|Large
+Treasure Island Desert.png|Desert
+</gallery>
+|type      = Island
+|sea       = 2/3
+|location  = [[Sea Danger Level|Sea Danger Levels]]
+|music     = Haunted Halls
+}}
+The '''Treasure Island''' is a [[Sea Events|sea event]] that spawns when the player moves a significant distance away from land; although they can occasionally spawn near, or even in, an island.
+
+==Appearance==
+The Treasure Island is relatively small and consists of three distinct sections, each at a different elevation. A few trees and rocks are scattered across the terrain, with a chance for [[Chests]] to spawn. Aside from these features, the island is largely barren.
+
+There are multiple variations of Treasure Island: one composed entirely of sand, another covered only in grass and dirt, and a third featuring a mix of sand and grass along with a single tree.
+
+==Spawning==
+When the player sails in [[Sea Danger Level]] 1 and beyond, Treasure Island has a chance of spawning. This level requires the player to move only a relatively short distance away from land, meaning that this event will spawn very commonly, even during quick trips between islands.
+
+==Chests==
+[[Chests]] of all types can spawn on Treasure Island, however, the rarer they are, the less likely they will spawn. [[Fragments|Fragment]] [[Chests]] are especially rare, being a rare sight even for a common event.
+
+==Trivia== 
+* The Treasure Island one of the smallest [[Locations|islands]] in the game, comparable to only the [[Remote Island]], [[Jean-Luc Island]] and the [[Cave Island]].
+* There is a chance of the Treasure Island spawning without the island itself, as if there is no island and only the chests can be seen floating.
+* The trees are considered part of Treasure Island. As a result, they do not have [[Destructible Physics]].
+* If the player uses a flying boat, such as [[The Sentinel]] or [[Miracle]], it will automatically lower upon approaching the Treasure Island, treating it like a standard island. This mechanic can be used to determine whether a Treasure Island has spawned, unlike the [[Mirage Island]], whose appearance cannot be confirmed in the same way.
+* The [[Soundtracks|theme]] for the Treasure Island is the same as [[Sea Beast]], [[Dark Arena]], [[Rumbling Waters]] and inactive [[Prehistoric Island]], which is the soundtrack composed by Roblox called "Haunted Halls".
+* The Treasure Island can be very useful for taking a break while sailing in Sea Danger 6, as going there will remove the fog, give you time to repair the ship, and stop enemies from spawning near you.
+* If the player takes a quest from the [[Player Hunter]] and their target on located on Treasure Island, it will say that the player they are hunting has been seen around there.
+
+==Change History==
+{{Change History|20}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Sea Events]]

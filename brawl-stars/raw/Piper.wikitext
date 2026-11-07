@@ -1,0 +1,371 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Sniper|PrestigeTitle = Headshots Only|Rarity = Epic|Class = Marksman|MovementSpeed = 750 (Normal)|VoiceActor = Elizabeth Saydah|HealthLabel = Health|Health = 2800|AttackRange = 10 (Very Long)<br>11.67 (with Homemade Recipe)|Reload = 2.3 seconds (Very Slow)|AttackCooldown =0.5 seconds |AttackSuperCharge = 8.225–41.225% (close to max range)|AttackLabel = Damage at min. range|Attack = 360|AttackLabel2 = Damage at max. range|Attack2 = 1800|SuperRange = 8.67 (Long)|SuperBullets = 4<br>6 (with Hypercharge)|SuperSuperCharge = 20.25%|SuperLabel = Damage per grenade|Super = 900|AttackSpeed=4000|AttackWidth=0.67|Gadget1Name = Auto Aimer|Gadget1 = 144|Gadget1Label = Damage|Gadget1Cooldown=18 seconds|Gadget2Name = Homemade Recipe|Gadget2Cooldown=18 seconds|StarPower1Name = Ambush|StarPower1 = 1134|StarPower1Label = Damage Increase|Previous=Bo|Next=Pam|HyperchargeMultiplier = 35%|AttackHyperchargeCharge = 2.875–14.425% (close to max range)|SuperHyperchargeCharge = 7.075%|Gadget1Range=7}}
+{{Quote|Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.}}
+{{Portrait}}
+Piper is an {{Rarity|Epic}} [[Brawler]] who has a very long range and a variable damage output, but suffers from having low health and a very slow reload speed. She was the 16th Brawler added, and the first to be added from an update. She fires a very long-ranged bullet from her umbrella that deals more damage the further it travels. Her Super pops grenades at her feet before jumping away from her enemies, dealing damage to enemies upon detonation. Her first Gadget, Auto Aimer, allows her to fire a bullet from a side pistol towards the closest enemy, pushing them back. Her second Gadget, Homemade Recipe, makes her next bullet home in on enemies while gaining slightly more range. Her first Star Power, Ambush, allows her to deal extra damage at max range while firing from a bush. Her second Star Power, Snappy Sniping, reloads part of her ammo when she hits an enemy. Her Hypercharge, Boppin', makes her Super pop more grenades and travel faster than her normal Super, knocking enemies back and destroying obstacles upon landing.
+
+==Attack: Gunbrella==
+{{Quote|Piper fires a sniper shot from the tip of her parasol. The shot gains more oompf the farther it flies!}}Piper shoots a single bullet from her parasol that has a long range and travels very quickly. The farther the bullet travels, the more damage the bullet will inflict, so Piper is less effective against enemies near her, but excels at supporting her team at range. The damage ranges from 20% of the max damage at minimum range, to full damage in the last 15% of Piper's attack range. Her attack has a very slow reload speed and a moderate cooldown of 0.5 seconds.
+
+==Super: Poppin'==
+{{Quote|Piper hops away to avoid pushy suitors. She leaves them a lady's favor though: live grenades from her garter!}}When her Super is used, Piper will jump up into the air for 2 seconds and drop 4 grenades below her that deal heavy damage, knock back enemies near them, and destroy obstacles when they detonate. While in the air, Piper is completely immune to all damage besides status effects and damage applied over time. The grenades take 0.3 seconds to detonate after they stop moving and have a 2 tile explosion radius.
+
+==Gadgets==
+===Auto Aimer===
+{{Quote|Piper pops a defensive shot at the closest enemy, dealing 180 damage, while also pushing them back. Cooldown: 18 seconds.}}{{Gadget|1}}Piper pulls out a pistol and fires a small glowing bullet at the nearest enemy. The bullet deals 25% of her minimum damage and will knock back the enemy. The Gadget can trigger her Snappy Sniping Star Power. This Gadget can only be used if there is an enemy in a 7-tile radius, and its cooldown begins 0.25 seconds after it's activated.
+
+===Homemade Recipe===
+{{Quote|On activation, Piper's next main attack will home in on enemies. Cooldown: 18 seconds.}}{{Gadget|2}}Piper's next attack is a seeking bullet that will curve towards the nearest enemy. The homing bullets can fly for an additional 1.67 tiles. In addition, the minimum damage is increased to 25% of the max damage. A Gadget symbol will glow above Piper's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used. 
+
+==Star Powers==
+===Ambush===
+{{Quote|Piper's attack deals +1260 extra damage (at max range) when she's hidden in a bush.}}{{StarPower|1}}When Piper is hidden within a bush, her main attack gains 35% bonus damage, which amounts to 1260 bonus damage at max range (for a total of 4860) at max level. Piper's ammunition bar becomes yellow instead of the usual orange when hidden inside a bush. The bullet also gets a rainbow trail replacing the standard rings, and the sound of the shot is also altered.
+
+===Snappy Sniping===
+{{Quote|When Piper hits an enemy with her attack, she reloads 0.4 ammo instantly.}}{{StarPower|2}}Upon hitting an enemy, Piper instantly reloads 0.4 ammo, increasing her reload speed. Unlike other abilities, this Star Power reloads 0.4 of one ammo per hit, not 0.4 of the entire ammo bar. If Piper hits turrets or minions (such as [[Nita]]'s bear), it will also activate. This also includes hits from her Auto Aimer Gadget. 
+
+==Hypercharge: Boppin'==
+{{Quote|Piper drops even more bombs as she departs at an increased speed! She also destroys terrain when she lands.}}{{Hypercharge}}When activated, Piper's next Super will drop 6 bombs instead of 4. She will also stay less time in the air, staying airborne for 1.2 seconds. When she lands, she knocks enemies back 4 tiles and destroys environment in a 3-tile radius around her. She also gains a 20% speed boost and a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Piper's gunbrella shoots twice.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Piper shot 2 bullets in an interval of 0.2 seconds with her main attack. If the Homemade Recipe Gadget was used, only the first bullet was affected. However, the second ammo could still deal additional damage with the Ambush Star Power or allowed Piper to reload with the Snappy Sniping Star Power.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Each main attack fires two bullets!}}<div style="float:right">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Piper shot 2 bullets in an interval of 0.2 seconds with her main attack. If the Homemade Recipe Gadget was used, only the first bullet was affected. However, the second ammo could still deal additional damage with the Ambush Star Power or allowed Piper to reload with the Snappy Sniping Star Power.
+
+==Tips==
+===Game Modes and Maps===
+*Piper's Super can be used to shape the map to your advantage, destroying walls which your opponents would otherwise be hiding behind. This is especially useful on maps such as [[Shooting Star]], where there isn't much cover to begin with. Due to Piper's very low damage at close range and her low health, she cannot afford to be ambushed by tanks at close range and instead must have an open area which tanks have to cross to get to her, allowing Piper to position herself well and attack the enemy.
+*Due to Piper's attack mechanics, she is very likely to have boxes stolen in [[Showdown]] as attacking boxes at close range will be very time consuming due to her very slow reload speed and low damage. When breaking down a box at range and an enemy is close to it, target the enemy instead until they are fended off or defeated and then continue with the box.
+
+===Recommended Build===
+*Piper's Auto Aimer Gadget can be used to stop Brawlers who are pursuing her at close range since her main attack does very little damage at close range. It can also help Piper land her narrow shots. Auto Aimer can also be used to cancel enemy attacks if fired while the attack cycle is ongoing, e.g. opposing Frank's Super.
+*Piper's Homemade Recipe Gadget can be used to defeat low health enemies hiding behind walls or to increase the chances of hitting an enemy Brawler at low health to guarantee their defeat. Piper can also take advantage of the extra range of her Gadget to finish off enemies that are out of her attack range.
+*Since Homemade Recipe homes in on Brawlers and determines their location to an extent, it's a good idea to use it when you know someone is in bushes but don't know where they are. This works best on small bushes, as large bushes will be too large for the curvature of the bullet to reach.
+*Both of Piper's Star Powers are usable. Ambush grants extra damage to her attacks as long as she's in a bush, allowing Piper to deal significant damage to enemies from far away. Snappy Sniping allows her to reload faster by reloading part of her ammo, since Piper has a very slow reload speed, so you can use it to deal high damage while regaining some ammo.
+*Piper's Snappy Sniping pairs particularly well with her Auto Aimer Gadget, as the projectile from the Gadget will activate the Star Power, effectively granting her 0.4 ammo. This can be helpful in situations where a 4th attack is needed.
+
+===Strategies===
+*Try to predict your target's movement when firing. Piper's shots are narrow, so you will need to aim ahead of moving targets in case they move out of the shot's range.
+*Since Piper's Hypercharge can knock back enemies when landing, she can use that to her advantage by knocking enemies back and quickly walk backwards and snipe at the enemy, which would give you a free kill, but don't aim at walls, or the enemy won't get knocked back.
+*Since Piper does more damage the further away from Piper the bullet hits, after a Hypercharged Super, you can use the Auto Aimer Gadget to deal even more damage.
+*To deal massive damage to brawlers when using a Hypercharge, aim the Hypercharged Super behind them, and then use it, and the enemy Brawler will get knocked into the bombs dealing massive damage.
+
+===Other===
+*Piper's range is very deceiving due to the fast speed of the bullets. Don't underestimate a Piper's range. If you are a more close-ranged brawler juke her shots by moving side to side while steadily advancing to her. Piper is only easy to defeat at close range, otherwise she will definitely put up a good fight from long range.
+*Piper can be overwhelmed and defeated easily if she is unprotected due to her low health and very slow reload, as well as the fact that she only does sufficient damage from distance. Piper is most effective when she is covered by other Brawlers on her team. If enemies do get too close, it may be a good idea to use Piper's Super to escape if the Super is charged. You need to aim too because otherwise, you land in the place from where you jumped.
+*Piper has a very defensive Super since it only affects the area right near her, but it can also be used offensively in a riskier play. Piper can rush the enemy team, drop the grenades, and fly away. In addition, she can use her Super to destroy enemy cover to open up the map. This plays to her advantage because her long range is more effective in open maps.
+*When escaping, always try your best to aim Piper away from the enemy rather than auto-aiming because if you quickfire her super, she will only land in the place from where she activated her super, without covering any distance. However, if you are in a very pressurized situation and your enemy has short range, you can quickfire the Super because the knockback of the grenades is reliable to distance yourself from them. However, always aim the landing point when you can.
+*Charge up Piper's Super as a priority, as there are Brawlers that can pop right in such as [[Darryl]], [[Bull]], [[Mortis]], [[Shelly]], [[El Primo]], [[Buzz]], Leon, [[Bonnie]], Kenji, [[Surge]], [[Rosa]], [[Kit]], [[Fang]], Crow, [[Bibi]], and [[Edgar]]. If you have your Auto Aimer Gadget, use it primarily to escape as its offensive capabilities are negligible.
+*Assassin Brawlers are a major counter to Piper due to their above-average speed and abilities that help them dodge and reach her very easily (Mortis, [[Kenji]], and [[Mico]]'s attack, [[Crow]], Edgar, [[Melodie]], Buzz, Fang, [[Shade]], and [[Leon]]'s Supers, and [[Stu]]'s Hypercharge etc.), so it is best to avoid and keep an eye on them from distance.
+*Think carefully when it comes to the position of Piper's landing after her Super. Since it takes a long time for her to land, it is easy for the enemy to predict where she will end up. Try going to places that the enemy will take a long time to reach such as across water regions or behind walls, but make sure you do not land close to the location of other enemies.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''{{Ogg|Filename = Piper start 01.ogg|Filedescription = "I'm sugar and spice."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper start 01.ogg|Filedescription = "I'm sugar and spice."}}
+|'''Normal:'''{{Ogg|Filename = Piper lead 01.ogg|Filedescription = "Oh my!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper lead 01.ogg|Filedescription = "Oh my!"}}
+|'''Normal:'''{{Ogg|Filename = Piper hurt 01.ogg|Filedescription = "Well, I do declare!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 01.ogg|Filedescription = "Well, I do declare!"}}
+|'''Normal:'''{{Ogg|Filename = Piper kill 01.ogg|Filedescription = "Bless your heart."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper kill 01.ogg|Filedescription = "Bless your heart."}}
+|'''Normal:'''{{Ogg|Filename = Piper die 01.ogg|Filedescription = "Goodness gracious!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper die 01.ogg|Filedescription = "Goodness gracious!"}}
+|
+|'''Normal:'''{{Ogg|Filename = Piper ulti 01.ogg|Filedescription = Piper laughs}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper ulti 01.ogg|Filedescription = Piper laughs}}
+|-
+|'''Normal:'''{{Ogg|Filename = Piper start 02.ogg|Filedescription = "Come get it."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper start 02.ogg|Filedescription = "Come get it."}}
+|'''Normal:'''{{Ogg|Filename = Piper lead 02.ogg|Filedescription = "Ha, kiss my grits."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper lead 02.ogg|Filedescription = "Ha, kiss my grits."}}
+|'''Normal:'''{{Ogg|Filename = Piper hurt 02.ogg|Filedescription = "Mind your manners!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 02.ogg|Filedescription = "Mind your manners!"}}
+|'''Normal:'''{{Ogg|Filename = Piper kill 02.ogg|Filedescription = "Aww, sweetie?"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper kill 02.ogg|Filedescription = "Aww, sweetie?"}}
+|'''Normal:'''{{Ogg|Filename = Piper die 02.ogg|Filedescription = "Ah, stick a fork in me, I'm done."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper die 02.ogg|Filedescription = "Ah, stick a fork in me, I'm done."}}
+|
+|'''Normal:'''{{Ogg|Filename = Piper ulti 02.ogg|Filedescription = Piper laughs}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper ulti 02.ogg|Filedescription = Piper laughs}}
+|-
+|'''Normal:'''{{Ogg|Filename = Piper start 03.ogg|Filedescription = "This ain't my first rodeo."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper start 03.ogg|Filedescription = "This ain't my first rodeo."}}
+|'''Normal:'''{{Ogg|Filename = Piper lead 03.ogg|Filedescription = Piper laughs}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper lead 03.ogg|Filedescription = Piper laughs}}
+|'''Normal:'''{{Ogg|Filename = Piper hurt 03.ogg|Filedescription = "Ah!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 03.ogg|Filedescription = "Ah!"}}
+|'''Normal:'''{{Ogg|Filename = Piper kill 03.ogg|Filedescription = "You're welcome."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper kill 03.ogg|Filedescription = "You're welcome."}}
+|'''Normal:'''{{Ogg|Filename = Piper die 03.ogg|Filedescription = "Oh my stars."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper die 03.ogg|Filedescription = "Oh my stars."}}
+|
+|
+|-
+|'''Normal:'''{{Ogg|Filename = Piper start 04.ogg|Filedescription = "Gimme some sugar!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper start 04.ogg|Filedescription = "Gimme some sugar!"}}
+|
+|'''Normal:'''{{Ogg|Filename = Piper hurt 04.ogg|Filedescription = "Ouch!"}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 04.ogg|Filedescription = "Ouch!"}}
+|'''Normal:'''{{Ogg|Filename = Piper kill 04.ogg|Filedescription = "Aww, too bad."}}
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''{{Ogg|Filename = Piper hurt 05.ogg|Filedescription = "Ouf."}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 05.ogg|Filedescription = "Ouf."}}
+|
+|
+|
+|
+|-
+|
+|
+|'''Normal:'''{{Ogg|Filename = Piper hurt 06.ogg|Filedescription = Piper yelps}}'''Mecha Lotus:'''
+{{Ogg|Filename = Mech piper hurt 06.ogg|Filedescription = Piper yelps}}
+|
+|
+|
+|
+|}
+
+==History==
+*03/07/17:
+**{{Balance|Content=Piper was added to the game.|Change=Neutral}}
+*06/07/17:
+**{{Balance|Content=Piper's Super recharge rate was decreased by 25%.|Change=Nerf}}
+*16/08/17:
+**{{Balance|Content=Piper's main attack damage was decreased to 440 (from 460) at max range.|Change=Nerf}}
+**{{Balance|Content=Her Super damage was decreased to 200 (from 300) per grenade.|Change=Nerf}}
+*04/09/17:
+**{{Balance|Content=Piper's main attack damage was decreased to 420 (from 440) at max range.|Change=Nerf}}
+*07/12/17:
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Piper's Ambush Star Power was added.|Change=Neutral}}
+*27/01/18:
+**{{Balance|Content=Piper's reload time was decreased to 2.5 seconds (from 3).|Change=Buff}}
+**{{Balance|Content=Her damage was decreased to 1480 (from 1680) at max range.|Change=Nerf}}
+*21/03/18:
+**{{Balance|Content= Piper's main attack damage was increased to 1560 (from 1480) at max range.|Change=Buff}}
+**{{Balance|Content=Her main attack projectile size was increased.|Change=Buff}}
+**{{Balance|Content=Her main attack range was decreased to be in view of the screen.|Change=Nerf}}
+**{{Balance|Content= Every Brawler's movement speed was increased by 70 points, increasing Piper's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content= All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Piper's main attack projectile speed was decreased by 3%.|Change=Nerf}}
+**{{Balance|Content=Her main attack projectile size was decreased by 33%.|Change=Nerf}}
+*09/04/18:
+**{{Balance|Content=Piper's main attack damage increased to 1640 (from 1560) at max range.|Change=Buff}}
+**{{Balance|Content=Her cooldown between shots was increased to 0.5 seconds (from 0.25).|Change=Nerf}}
+*29/05/18:
+**{{Balance|Content=Piper's reload time was decreased to 2.3 seconds (from 2.5).|Change=Buff}}
+*15/04/19:
+**{{Balance|Content=Piper's Super damage was increased to 900 (from 800) per grenade.|Change=Buff}}
+**{{Balance|Content=Her Super grenade count was increased to 4 (from 3).|Change=Buff}}
+**{{Balance|Content=Her Super's grenades are placed further away from each other.|Change=Neutral}}
+*14/08/19:
+**{{Balance|Content=Piper's Snappy Sniping Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Piper's Ambush Star Power bonus damage was increased to 500 (from 400).|Change=Buff}}
+**{{Balance|Content=Piper's Snappy Sniping Star Power ammo gain was decreased to 0.4 (from 0.5).|Change=Nerf}}
+**{{Balance|Content=Piper was remodeled, and the Pink Piper skin was added.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Piper's Snappy Sniping Star Power ammo gain was decreased to 0.3 (from 0.4).|Change=Nerf}}
+*09/10/19:
+**{{Balance|Content=Piper's Ambush Star Power bonus damage was increased to 800 (from 500).|Change=Buff}}
+**{{Balance|Content=Her Super now drops the grenades in a fixed pattern on the ground.|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=Piper's main attack damage was decreased to 1600 (from 1640) at max range.|Change=Nerf}}
+*01/11/19:
+**{{Balance|Content=The Calavera Piper skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*07/11/19:
+**{{Balance|Content=Piper's main attack damage was decreased to 1520 (from 1600) at max range.|Change=Nerf}}
+*14/02/20:
+**{{Balance|Content=The Cupid Piper skin was added. It was featured as a Brawlentine's Day skin.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Piper's Auto Aimer Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Piper's Auto Aimer Gadget was reworked from firing 4 homing bullets that deal 500 damage each in a very large radius to firing a single bullet that deals 100 damage, knocks back enemies, and slows them down for 1 second.|Change=Neutral}}
+*02/07/20:
+**{{Balance|Content=Piper's True Silver and True Gold skins were added.|Change=Neutral}}
+*15/07/20:
+**{{Balance|Content= Piper's Homemade Recipe Gadget was added.|Change=Neutral}}
+*18/08/20:
+**{{Balance|Content=Piper's Homemade Recipe Gadget homing bullet range was decreased by 15%.|Change=Nerf}}
+*10/09/20:
+**{{Balance|Content=Piper and her Pink skin were slightly remodeled.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Piper, Cupid Piper, and Pink Piper received facial animations.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Piper's Auto Aimer Gadget overrode Frank's Active Noise Cancelling Gadget.|Change=Neutral}}
+*04/12/20:
+**{{Balance|Content=The Choco Piper skin was added. It was featured as a Line Friends skin.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Piper's Snappy Sniping ammo gain was increased to 0.4 (from 0.3).|Change=Buff}}
+**{{Balance|Content=Piper's Super landing indicator was added (X).|Change=Neutral}}
+*27/01/21: 
+**{{Balance|Content=Calavera Piper received facial animations.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Calavera Piper's main attack and Super visual effects were reworked.|Change=Neutral}}
+*15/09/21:
+**{{Balance|Content=The Lunar Piper skin was added.|Change=Neutral}}
+*28/09/21:
+**{{Balance|Content=Fixed an issue where the Lunar Piper skin would cause a small screen shake when she starts moving.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Piper's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Piper's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+*06/03/23:
+**{{Balance|Content=The Mariposa Piper skin was added. It was featured as a Power League skin for Brawl Pass Season 17.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Pink Piper now costs 29 [[Gems]] (from 500 [[Star Points]]).|Change=Neutral}}
+**{{Balance|Content=Mariposa Piper now costs 149 Gems (from 25000 Star Points).|Change=Neutral}}
+**{{Balance|Content=Piper, Pink Piper, and Choco Piper's main attack and Super visual effects were reworked.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Piper's main attack damage was increased to 1700 (from 1520) at max range.|Change=Buff}}
+**{{Balance|Content=Piper's Super charge rate was increased by 12%.|Change=Buff}}
+**{{Balance|Content=Piper's Homemade Recipe Gadget homing bullet range was decreased by 33%.|Change=Nerf}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Piper's Auto Aimer Gadget damage was increased to 136 (from 100) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Piper's Ambush Star Power bonus damage was increased to 1071 (from 800) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Piper's flavor text was changed from "Piper's sniper shots do more damage the farther they travel. Her Super drops grenades at her feet, while Piper herself leaps away!" to "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Fixed an issue with Pink Piper's Super visual effects.|Change=Neutral}}
+*13/02/24:
+**{{Balance|Content=The Flag Bearer Piper skin was added. It was featured as a Brawlnaval skin.|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Piper's health was decreased to 2300 (from 2400).|Change=Nerf}}
+*23/04/24:
+**{{Balance|Content=Piper's main attack damage was decreased to 443 (from 492) at min range.|Change=Nerf}}
+**{{Balance|Change=Nerf|Content=Piper’s Super charge rate was decreased by 10% at min range.}}
+*29/04/24:
+**{{Balance|Content=Piper's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Piper's Mutation was removed from the game.|Change=Neutral}}
+*22/05/24:
+**{{Balance|Content=Piper's main attack damage was decreased to 340 (from 443) at min range.|Change=Nerf}}
+**{{Balance|Change=Nerf|Content=Piper’s Super charge rate was decreased by 23% at min range.}}
+*25/06/24:
+**{{Balance|Content=Piper's Boppin' Hypercharge was added.|Change=Neutral}}
+*08/07/24:
+**{{Balance|Content=The Athena Piper skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Piper's Auto Aimer Gadget slow for 1 second was removed.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Content=Fixed an issue where Calavera Piper's attack projectile would disappear when the Ambush Star Power was active.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=The Kasa-obake, Yokai, and Tsukumogami Piper skins were added. They were featured as Brawl Pass Season 38  skins and Battle for Katana Kingdom skins.|Change=Neutral}}
+**{{Balance|Content=Piper's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Piper's Wasabi Power was removed from the game.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Piper's Boppin' Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Piper's Boppin' Hypercharge damage boost from 25%.}}
+*25/11/25:
+**{{Balance|Content=Replaced Piper's legendary Gadget cooldown Power Card with Damage +35% Power Card.|Change=Neutral}}
+**{{Balance|Content=Replaced Piper's epic Gadget cooldown Power Card with epic Projectile Speed Power Card.|Change=Neutral}}
+**{{Balance|Content=Replaced Piper's super rare Gadget cooldown Power Card with super rare Projectile Speed Power Card.|Change=Neutral}}
+*04/12/25:
+**{{Balance|Neutral|The Mecha Lotus, Mecha Rose, and Mecha Petal Piper skins were added. They were featured as Mecha Squad skins.}}
+*16/12/25:
+**{{Balance|Buff|Piper's health was increased to 2500 (from 2300).}}
+*30/06/26:
+**{{Balance|Buff|Piper's health was increased to 2800 (from 2500).}}
+**{{Balance|Buff|Piper's main attack damage was increased to 1800 (from 1700) at max range.}}
+**{{Balance|Nerf|Piper's Super charge rate was decreased to 93 (from 97).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Piper's movement speed to 750 (from 720).}}
+*01/10/26:
+**{{Balance|Neutral|The Bellenstein's Monster skin was added. It was featured as a Brawl-o-ween skin.}}
+*03/11/26:
+**{{Balance|Nerf|Piper's level up damage was decreased to 7% (from 8%) in [[Brawl Arena]].}}
+
+==Cosmetics==
+===Skins (17)===
+{{Skin Gallery
+|Name1 = Pink|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1 = Misc|Rarity1 = Rare
+|Name2 = Calavera|Cost2 = 79 Gems • '''E'''|Campaign2 = Brawl-o-ween|Rarity2 = Super Rare
+|Name3 = Choco|Cost3=79 Gems|Campaign3=Brown & Friends|Rarity3 = Super Rare
+|Name4 = Cupid|Cost4 = Free from Love Boxes or 149 Gems|Campaign4 = My Brawlentine|Rarity4 = Epic
+|Name5 = Lunar|Cost5 = 149 Gems|Campaign5=Lunar Stories|Rarity5 = Epic
+|Name6 = Mariposa|Cost6 = Free from Ranked Drops or 149 Gems|Campaign6=Ranked|Campaign6_2=License to Brawl|Rarity6 = Epic
+|Name7 = Flag Bearer|Cost7 = 149 Gems|Campaign7 = Brawlnaval|Rarity7 = Epic
+|Name8 = Athena|Cost8 = 199 Gems|Campaign8 = Legends of Olympus|Rarity8 = Mythic
+|Name9=Bellenstein's Monster|Cost9=Free from Coffin Boxes or 199 Gems • '''S'''|Campaign9=Brawl-o-ween|Rarity9=Mythic
+|Name10 = Mecha Lotus|Cost10 = Free from Mecha Boxes or Ultra Trophy Boxes, $19.99, or 499 Gems • '''S'''|Campaign10 = Mecha Squad|Rarity10 = Hypercharge
+|Name11 = Mecha Rose|Cost11 = Free from Mecha Boxes or Ultra Trophy Boxes, $19.99, or 499 Gems • '''S'''|Campaign11 = Mecha Squad|Rarity11 = Hypercharge
+|Name12 = Mecha Petal|Cost12 = Free from Mecha Boxes or Ultra Trophy Boxes, $19.99, or 499 Gems • '''S'''|Campaign12 = Mecha Squad|Rarity12 = Hypercharge
+|TrueSkins=Yes
+|NameP1=Kasa-obake|CostP1=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Battle for Katana Kingdom|RarityP1=Epic
+|NameP2=Yokai|CostP2=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=Battle for Katana Kingdom|RarityP2=Epic
+|NameP3=Tsukumogami|CostP3=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=Battle for Katana Kingdom|RarityP3=Epic}}
+
+===Pins===
+{|class="article-table" style="width: 100%;"
+!colspan=12|Piper
+|-
+!Skin
+!colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Calavera}}
+{{Pin Table|Cupid}}
+{{Pin Table|Mariposa}}
+{{Pin Table|Flag Bearer|Special}}
+{{Pin Table|Lunar}}
+{{Pin Table|Athena|Thanks}}
+{{Pin Table|Kasa-obake|Special}}
+{{Pin Table|Yokai|Special}}
+{{Pin Table|Tsukumogami|Special}}
+{{Pin Table|Mecha Lotus}}
+{{Pin Table|Mecha Rose|Special}}
+{{Pin Table|Mecha Petal|Special}}
+{{Pin Table|Choco}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|-
+|{{Spray|Type = Piper|Rarity = Common}}
+|{{Spray|Type = Piper Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Athena Piper|Rarity = Common}}
+|{{Spray|Type = Mecha Lotus Piper|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Piper1}}
+|{{Pfp|Piper2}}
+|{{Pfp|Piper3}}
+|{{Pfp|Piper4}}
+|{{Pfp|Flag Bearer Piper}}
+|-
+|{{Pfp|Lunar Piper}}
+|{{Pfp|Mariposa Piper}}
+|{{Pfp|Cupid Piper}}
+|{{Pfp|Athena Piper}}
+|{{Pfp|Kasa-obake Piper}}
+|-
+|{{Pfp|Mecha Lotus Piper}}
+|}
+
+{{Navigation}}
+[[es:Piper]]
+[[nl:Piper]]
+[[pt:Piper]]
+[[ru:Пайпер]]

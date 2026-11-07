@@ -1,0 +1,123 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name     = Dual-Headed Blade
+|image    = <gallery>
+DualHeadedBlade.png|Icon
+Dual-Headed Blade EQ.png|In-Game
+Dual-Headed Blade Held.png|Held
+DHB (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type     = Sword
+|rarity   = Rare
+|update   = 1
+
+<!-- Weapon Obtainment -->
+|sea      = 1
+|location = [[Skylands]]
+|obtain   = Buy from
+|source   = [[Master Sword Dealer]]
+|price    = {{Money|400,000}}
+}}
+
+{{Quote|Be careful when swinging this. Hard to miss, though.|Item}}
+The '''Dual-Headed Blade''' is a {{Rare}} [[sword]].
+
+Despite its unique appearance and high price, it is not recommended to buy, as saving up for the [[Bisento]] is much more beneficial.
+
+==Obtainment==
+The Dual-Headed Blade can be bought for {{Money|400,000}} from the [[Master Sword Dealer]], who is located on the fourth island of the [[Skylands]] in the [[First Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dual Headed Blade M1
+|desc     = The player does 3 slashes around them, before ending with the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Assassinate
+|mastery  = 20
+|cooldown = 7.5
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Dual.HBlade updated
+|desc     = The user dashes forward in a slow spinning motion, slashing enemies in their path and leaving a glittering trail behind them.
+}}
+
+{{Skill
+|key      = X
+|name     = Raging Wind
+|mastery  = 100
+|cooldown = 10
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = RagingWinds
+|desc     = The user propels three small tornadoes towards the direction of their cursor, damaging enemies upon impact.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Decent damage.
+* No endlag when using moves.
+* No dash on melee attacks, making it great to farm with [[Elemental]] fruits.
+* Low mastery requirements.
+
+|'''[Z] Assassinate'''
+* Decent damage.
+
+|'''[X] Raging Wind'''
+* Quick start.
+* Good range and [[AoE]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* No stun whatsoever.
+* Performs terribly in air combat.
+* Pretty expensive for players in the [[First Sea]].
+* Generally bad in later seas, so it is recommended to replace this in the [[Second Sea]].
+
+|'''[Z] Assassinate'''
+* Short range.
+
+|'''[X] Raging Wind'''
+* Low stun.
+}}
+</tabber>
+
+==Trivia==
+* In the moveset, the Dual-Headed Blade is called "Headed Blade" (due to the lack of wording space).
+* {{Ability|X}} appears to be an upgraded version of the [[Wardens Sword]]'s {{Ability|Wardens Sword|X}}.
+* The Dual-Headed Blade is the third most expensive sword in the [[First Sea]] behind [[Soul Cane]] and [[Bisento]].
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Dual-Headed Blade's model was revamped.
+<gallery>
+Dual Headed Blade Icon (Old).png|Old Dual Headed Blade model
+</gallery>
+----
+{{Update|20}}
+* Dual-Headed Blade's moves were revamped.
+----
+{{Update|1}}
+* Dual-Headed Blade was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

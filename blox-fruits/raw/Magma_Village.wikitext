@@ -1,0 +1,93 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Magma Village
+|image      = Magma Village 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 300-375
+|music      = The Calm of Night
+|prev       = Colosseum
+|next       = Underwater City
+}}
+The '''Magma Village''' is an island in the [[First Sea]].
+
+==Appearance==
+The Magma Village if often distinguished by its' huge volcano in the center with smoke rings all around it (no collision hitbox). The front of the island is covered in rocky ground and red trees, with a small village near the dock. Behind the volcano is a raised stone platform that extends out from the back of the island, being able to be navigated to through a slope in front of it.
+
+==Location==
+The Magma Village can be found at the south of the [[Pirate Village]] in First Sea.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Ability Teacher]]
+* [[Living Skeleton]]
+* [[The Mayor]]
+* [[Set Home Point]]
+|
+* [[Military Soldier]]
+* [[Military Spy]]
+|
+* [[Magma General]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" |[[The Mayor]]
+|[[Mil. Soldier|Mil. Soldiers]]
+|300
+|Defeat 7 [[Mil. Soldier|Mil. Soldiers]]
+|{{Money|8,250}}<br />{{EXP|1,700,000}}
+|-
+|[[Mil. Spy|Mil. Spys]]
+|325
+|Defeat 8 [[Mil. Spy|Mil. Spys]]
+|{{Money|8,500}}<br />{{EXP|2,000,000}}
+|-
+|[[Magma General]]
+|350
+|Defeat [[Magma General]]
+|{{Money|15,000}}<br />{{EXP|3,000,000}}
+|}
+
+==Secret Quests==
+* In the middle of the lava lake, a lava geyser can be seen. Break it using any M1 and an elemental mini-boss will come out of it. Defeat it and it will split into three more enemies, kill those three as well.
+* After waiting an unspecified amount of time at Magma Village (Probably every 1 hour and a half.), a message will appear in chat saying: '''[[System Messages|''"A loud drilling is shaking the Magma Village"'']]'''  At the back of the island near the water will be a mineshaft entrance. Enter the mineshaft by getting on the elevator, the player will find themselves in a mini-game. Avoid the light shined by the workers and get to the drill area, then destroy the drill at the end of the mineshaft and get on the 2nd elevator.
+* When [[Magma General]] awakens (every hour, someone or you must stay in the island or else it will not activate), a message will appear in chat saying:  '''[[System Messages|''"A rumbling echoes out to the sea..."'']]'''  To start the boss fight, break five miniature lava geysers on the outside of the volcano using an M1 attack.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) defeated the awakened Magma General"'']]'''
+
+==Notes==
+* To save time, it would've been recommended to grind [[Swan]] from [[Levels]] 300 through 350 instead of the [[Military Soldier]] or [[Military Spy]], because they were less efficient to grind. Afterwards, the player could proceed with the [[Magma Admiral]]. This cannot be done anymore as Swan was replaced with Don Megalo's Guard.
+* There's a chance that you can obtain [[Magma Ore]] by killing enemies on Magma Village.
+* It is recommended to use [[Blade]], [[Buddha]], or long-ranged fruits like [[Light]] at the Magma Village, as majority of the enemies have [[Aura]].
+* Some of the  [[Military Soldier]]s have a chance to spawn without aura.
+* If the player uses the [[Magma]] fruit, they won't take any damage from the lava stream from the volcano. The player will be damaged upon touching the lava otherwise, unless they are using the transformed forms of [[Mammoth]], [[Leopard]] or [[Venom]].
+** More about lava immunity can be found '''[[Lava|here]]'''.
+
+== Gallery ==
+<gallery>
+File:MagmaVillageRework.png|Magma Village shooting out rocks and lava exploding out, cutscene similar to [[Prehistoric Island]], from the trailer [https://www.youtube.com/watch?v=ZeiCK3sNCRo&t=162 here].
+File:MagmaVillageRework (Cave).png|Magma Village having a cave, from the '''[https://gamerrobot.com/blogs/news/the-blox-bulletin-024 Blox Bulletin #024]'''.
+</gallery>
+
+==Trivia==
+* The [[Living Skeleton]] can be found at the Magma Village, selling the [[Soul Cane]] for {{Money|750,000}}. The player can find him in a secret passageway in the volcano near the left side of the island and close to the fruit spawn location.
+* Magma Village is the first island to include a surface that damages players (that being the [[lava]] river that goes beneath the bridge and some magma inside the volcano).
+* [[Blade]] and [[Buddha]] are recommended when grinding on Magma Village as the enemies [[aura]] shall cause their sword not to hit the player. In the case of Buddha, its long range prevents NPCs from hitting the player.
+* Magma Village is the first island that was added to the game after the original release.
+* The portion of Lava initially hidden by the bridge is also capable of damaging the player when exposed by breaking it.
+
+==Change History==
+{{Change History|2}}
+
+==Navigation==
+{{IslandNavigation}}

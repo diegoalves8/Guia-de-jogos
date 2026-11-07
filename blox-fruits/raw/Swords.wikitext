@@ -1,0 +1,187 @@
+{{Tabber V2
+|link1 = Blox Fruits
+|tab1  = Blox Fruits
+|link2 = Fighting Styles
+|tab2  = Fighting Styles
+|link3 = Swords
+|tab3  = Swords
+|link4 = Guns
+|tab4  = Guns
+|link5 = Gears
+|tab5  = Gears
+}}
+{{Game_Mechanics
+|title1            = Swords
+|image1            = SwordsHeader.png
+|date_of_addition: = {{Release Date|Update 1}}
+|purpose:          = Close Weaponry Combat
+}}
+'''Swords''' are a weapon classification of up-close-and-personal melee weapons that can be found and bought everywhere in ''Blox Fruits''.
+
+Most swords have a focus on precise, close-ranged moves that deal high damage. All swords have two unique abilities, and some swords have imbued or skills that originate from their [[Blox Fruits|Blox Fruit]] counterpart (or from somewhere else).
+
+All swords can also be [[Upgrading|upgraded]] via the [[Blacksmith]] and [[Enchantments|enchanted]] via the [[Dragon Talon Sage]] to deal extra damage or to gain unique abilities relative to the [[enchantments]].
+
+==Obtainment==
+There are several ways of obtaining swords, including:
+* Buying swords from [[NPCs]].
+* Drops from [[bosses]].
+* Completing [[puzzles]] and tasks, although these are usually boss drops as well.
+* In the case of [[Dark Blade]], players can obtain the [[Shop#Game Passes|Game Pass]] by purchasing it with {{Robux|Robux}}, receiving it as a gift, or trading for it.
+
+==List of Swords==
+There is a total of '''42''' swords in the game:
+{| class="article-table"
+!Rarity
+!Amount
+!Description
+|-
+|{{Common}}
+|<center>'''3'''</center>
+|The weakest and cheapest swords usually used by low [[Levels|level]] players.
+|-
+|{{Uncommon}}
+|<center>'''5'''</center>
+|Still weak, but slightly better than common swords. Only one of them is not as bad, which is the [[Twin Hooks]].
+|-
+|{{Rare}}
+|<center>'''9'''</center>
+|Decent, but still not as good as higher tier swords. Some of them are considered as great swords.
+|-
+|{{Legendary}}
+|<center>'''19'''</center>
+|These swords are strong and are usually effective for both grinding and [[PVP mechanics|PvP]]. Most of them are popular amongst players for PvP.
+|-
+|{{Mythical}}
+|<center>'''6'''</center>
+|These swords are the rarest and are considered as the best [[swords]] in most cases.
+|}
+
+{{Weapon/List}}
+
+==Notes==
+* All swords and their abilities cannot harm [[Blade]] users due to their passive immunity to swords, even by using [[Aura]]. However, certain sword abilities will still be able to stun-lock [[Blade]] users.
+** However, [[bosses]] with swords can still damage [[Blade]] users because bosses can overcome all immunities.
+** This also applies to the [[Chef]] who uses [[Blade]], although he has a rare (1/3) chance of being hit.
+* [[Koko]] is the only sword which is buffed by a [[Blox Fruits|fruit]] other than [[Buddha]], and that fruit is [[Control]].
+** When the user is in [[Control#Abilities|Control Area]], [[Koko]]'s range and AoE output are significantly increased.
+* In their transformations, [[Buddha]] can increase the size of the sword and the AoE of its M1 output of [[fighting styles]] or swords.
+** Some sword abilities may not be affected by transformation. (e.g. [[Midnight Blade]])
+** The [M1] attacks' damage is slightly reduced by [[Buddha]]'s transformation, but due to the defense buff of [[Buddha]] and increased AoE, this is not a significant issue.
+* When [[Aura]] is active while using certain higher rarity swords, they will emanate a glowing aura, as seen with the [[Cursed Dual Katana]].
+* Many swords have [[Destructible Physics]], similar to many other [[Guns]], [[Blox Fruits|Fruits]], and [[fighting styles]].
+* Some swords have level prerequisites (e.g. [[Tushita]] requires the player to be Lv. 2000+)
+* Swords at higher rarities, especially Mythical and Legendary tend to have higher raw damage than fruits (both M1's and skills), presumably to make up for their fewer skills and inferior mobility.
+* If the player is playing on console, swords will appear in their hotbar by name.
+
+==Change History==
+{{Change History|1|content=
+{{Update|29.5}}
+* A new sword was added:
+** [[Dog Blade]]
+----
+{{Update|27.4}}
+* A new sword was added:
+** [[Fishing Trophy]]
+----
+{{Update|24}}
+* A new sword was added:
+** [[Dragonheart]]
+----
+{{Update|22}}
+* A new sword was added:
+** [[Fox Lamp]]
+----
+{{Update|20}}
+* A new sword was added:
+** [[Shark Anchor]]
+----
+{{Update|17.3}}
+* A new sword was added:
+** [[Cursed Dual Katana]]
+----
+{{Update|17.2}}
+* A new sword was added:
+** [[Spikey Trident]]
+----
+{{Update|17.1}}
+* A new sword was added:
+** [[Buddy Sword]]
+----
+{{Update|16}}
+* A new sword was added:
+** [[Hallow Scythe]]
+----
+{{Update|15}}
+* New swords were added:
+** [[Canvander]]
+** [[Dark Dagger]]
+** [[Tushita]]
+** [[Twin Hooks]]
+** [[Yama]]
+----
+{{Update|14}}
+* New swords were added:
+** [[Dragon Trident]]
+** [[Pole (2nd Form)]]
+----
+{{Update|13-14}}
+* A new sword was added:
+** [[Triple Dark Blade]]
+----
+{{Update|13}}
+* A new sword was added:
+** [[Rengoku]]
+----
+{{Update|12}}
+* A new sword was added:
+** [[Midnight Blade]]
+----
+{{Update|10}}
+* New swords were added:
+** [[Jitte]]
+** [[Koko]]
+----
+{{Update|9}}
+* A new sword was added:
+** [[True Triple Katana]]
+----
+{{Update|8}}
+* New swords were added:
+** [[Gravity Cane]]
+** [[Longsword]]
+** [[Saddi]]
+** [[Shisui]]
+** [[Wando]]
+----
+{{Update|3}}
+* New swords were added:
+** [[Pole (1st Form)]]
+** [[Trident]]
+----
+{{Update|2}}
+* A new sword was added:
+** [[Soul Cane]]
+----
+{{Update|1}}
+* Swords were released with:
+** [[Bisento]]
+** [[Cutlass]]
+** [[Dark Blade]]
+** [[Dual Katana]]
+** [[Dual-Headed Blade]]
+** [[Iron Mace]]
+** [[Katana]]
+** [[Pipe]]
+** [[Saber]]
+** [[Shark Saw]]
+** [[Triple Katana]]
+** [[Wardens Sword]]
+}}
+
+==Navigation==
+{{MiscNav}}
+
+[[Category:Swords| ]]
+[[Category:Game Mechanics]]
+[[ru:Мечи]]

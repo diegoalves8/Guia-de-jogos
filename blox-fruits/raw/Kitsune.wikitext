@@ -1,0 +1,423 @@
+{{Tabber V2
+|tab1  = Kitsune
+|tab2  = Empyrean
+}}
+{{CombosTab}}
+{{About|the Blox Fruit||Kitsune (Disambiguation)}}
+{{Blox Fruit Infobox
+|name   = Kitsune
+|image  = <gallery>
+Kitsune Fruit.png|Fruit Icon
+KitsuneFruitGIF.gif|Fruit GIF
+Kitsune.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Yes
+|update = 22
+
+<!-- Fruit Price -->
+|money  = 8,000,000
+|robux  = 4,000
+}}
+{{Quote|Grants fox-like abilities, with amazing agility and blue fire-base attacks. Damage enemies to fully transform into the mythical Kitsune.|Shop}}
+'''Kitsune''' is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|8,000,000}} or {{Robux|4,000}} from the [[Blox Fruit Dealer]].
+
+Kitsune grants the user the ability to conjure and manipulate blue fire into destructive attacks and allows them to transform into a creature from Japanese mythology, the Kitsune, enhancing their attacks significantly, and many abilities such as speed and the ability to walk on water, at the cost of some of their tails.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Kitsune Tails
+|meter    = Tail Meter.gif
+|file     = Kitusne Movement Passives.gif
+|file1    = 3 tails_high_fps.gif
+|desc     = Swift Tails: the user can gain tails passively as well as by dealing damage. The user can transform when the tail meter reaches 3 (the meter will turn rainbow when the user has max tails). The meter will decrease if the user uses an ability and misses (this includes Kitsune's M1s, but these consume less of the tails meter than other abilities). It takes 5 minutes to gain max tails, 1 minute and 40 seconds for each tail. Transformed Energy: after transforming, the user will slowly drain one third of the tails meter (doesn't passively drain), and it will slowly drain if the user takes any type of damage (including lava and water). The user will not passively gain any tail meter while transformed, and can only increase the meter by dealing damage with Kitsune (including Kitsune's tick damage).
+|desc1    = At 1 Tail, there are no known benefits. At 2 Tails, the user gets a speed boost (+100%, 2x) and a dash boost, and now runs on all fours; Air Jumping, dashing, and walking also gain a unique animation, shown here.
+|desc2    = At 3 Tails, the user gets three glowing orbs floating around them, and when using the [F] move or an M1 attack, the enemy will take tick damage from blue flames. The DoT effect lasts for 3 seconds, dealing 1 tick of damage every second. As the player gains more tails, the damage increases. This effect only breaks Instinct when it triggers via a grab from [TAP] or [F]; it requires a full tail bar to activate while untransformed, while transformed it activates automatically whenever a grab lands the same way.
+}}
+
+{{Skill/Passive
+|name     = Mythical Fox Fur
+|file     = KitsuneTransform.gif
+|desc     = While [[Transformations|transformed]], the user gains a 20% damage reduction from all sources, improved attacks, reduced cooldowns, faster speed, [[Air Jump|jump]] twice higher than average, and increased [[Dashing|dash]] distance.
+}}
+
+{{Skill/Passive
+|name     = Spirited Beast of the Sea
+|file     = Kitsune Transformed Water Walking.gif
+|desc     = When transformed, the user gains the ability to run on [[Water]], but they are not able to idle on it.
+}}
+
+{{Skill/Passive
+|name     = Kitsune Mount
+|file     = Kitsunemount.png
+|desc     = When transformed, the user can be mounted by another allied player, via their saddle.
+}}
+
+|Moveset|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Kitsune_M1A
+|gif1     = Kitsune_M1B
+|desc     = The user slashes the air, creating blue flame slashes. On the fourth slash, the user swipes in a whirlwind style. The last slash has two variations. On the ground, the user swipes downwards, leaving a faint crack for a few moments. Once at 3 tails, the slashes will inflict ticking damage and the opponent will be covered in blue flames for between 4-5 seconds and the base damage will increase too. Every slash drains the Tails meter by a bit. This attack consumes 7.5% of the visible Tails meter if all 5 M1s are used.
+|desc1    = In the air, the user kicks the opponent to the ground instead of the downward slam (both variations deal the same amount of damage). Jumping right before the final slam, or using the M1s in the air, will make the user perform a slash instead of a slam.
+}}
+
+{{Skill
+|key      = Z
+|name     = Accursed Enchantment
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = no
+|instinct = Both variants cannot break [[Instinct]] in any way.
+|gif      = Kitsune_ZA
+|gif1     = Kitsune_ZB
+|desc     = If hit, the user summons blue fire flames that circle the opponent for some time before hitting the opponent multiple times, dealing damage. This move consumes 10% of the visible Tails meter.
+|desc1    = If not hit, the user creates a small AoE that deals low damage to nearby targets.
+}}
+
+{{Skill
+|key      = X
+|name     = Tails of Burning Agony
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = no
+|instinct = Doesn't [[Instinct/Break|break Instinct]], but drains a lot of it when hit.
+|gif      = Kitsune_X
+|desc     = This move does damage in a zig-zag shape, first hitting one corner, then hitting another, and finally hitting the target. This move stuns the enemy for ~0.65s. This move consumes 12.5% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Fox Fire Disruption
+|mastery  = 100
+|cooldown = 15
+|energy   = 80
+|break    = yes
+|instinct = The initial hit and flames (if inside them) [[Instinct/Break|break Instinct]]. Can be dodged during the explosion and on the edge of the flames.
+|gif      = Kitsune_C
+|desc     = The user summons a ball of blue flames and strikes it at the enemy when the key is released. The ball of flames will erupt into a huge explosion, and flames will be present if landed near the ground. The move deals slightly more damage if it is a direct hit. This move consumes 15% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged on the edge while transforming. The small explosion can [[Instinct/Break|break Instinct]].
+|gif      = Kitsune_V
+|desc     = The user transforms into a full Kitsune. The user gains the ability to avoid all basic damage (for one second) while transforming. In total, this move consumes 30% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = F
+|name     = Wild Assault
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if grabbed. Initial hit can be dodged.
+|gif      = Kitsune_F
+|desc     = The user dashes forward and, if they hit a target, slashes the target with its claws multiple times, similar to a mix of the [[True Triple Katana]]'s {{Ability|True Triple Katana|Z}} and [[Rengoku]]'s {{Ability|Rengoku|Z}} move and the [[Empyrean]]'s M1s. This move consumes 10% of the visible tails meter.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Kitsune_Transformed_M1A
+|gif1     = Kitsune_Transformed_M1B
+|desc     = Same as untransformed with 3 tails, but with slightly larger AoE, hitbox and damage. This attack consumes 7.5% of the visible Tails meter if all 5 M1s are used.
+|desc1    = The air variant of the attack.
+}}
+
+{{Skill
+|key      = Z
+|name     = Accursed Enchantment
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = Hit version: the small damage when thrown can be dodged, but the explosion [[Instinct/Break|breaks Instinct]]. Missed version: the edge (if missed) can sometimes be dodged.
+|gif      = Kitsune_Transformed_ZA
+|gif1     = Accursed Enchantment triple Shot
+|gif2     = Kitsune_Transformed_ZB
+|desc     = The user summons three blue fireballs and dashes forward. This move consumes 15% of the visible Tails meter.
+|desc1    = If hit, the move targets up to 1-3 opponents, launching them backward and shooting a ball of blue flames per target (untransformed C is used), causing an explosion of blue flames as well as ticking damage.
+|desc2    = If not hit, the user will spin and launch a flurry of blue fireballs around them, causing a large AoE explosion.
+}}
+
+{{Skill
+|key      = X
+|name     = Tails of Burning Agony
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = Only the slam can [[Instinct/Break|break Instinct]]. The initial grab and the flames (if missed) can be dodged.
+|gif      = Kitsune_Transformed_X
+|desc     = The user dashes forward in a zig-zag shape. If it hits, the user will grab the enemy, carry them into the air, and then slam them to the ground hard, and blue flames will then rise from the ground along with several large tails. This move instantly slams an opponent if used in air. The face of a Kitsune will be printed on the ground when hit. This move consumes 20% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Fox Fire Disruption
+|mastery  = 100
+|cooldown = 11.25
+|energy   = 80
+|break    = yes
+|instinct = No changes except range, damage, and AoE.
+|gif      = Kitsune_Transformed_C
+|desc     = The user launches a blue fireball and causes widespread damage. After impact, there will be blue flames that cause extremely large damage over time. This move consumes 25% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 2
+|energy   = 20
+|instinct = Doesn't deal damage.
+|gif      = Kitsune_Transformed_V
+|desc     = The user transforms back into their human form instantly and in turn restores their ability to use [[Fighting Styles]], [[Swords]], and [[Guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Wild Assault
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = Only the slashes [[Instinct/Break|break Instinct]]. The initial grab and the flames (if missed) can be dodged.
+|gif      = Kitsune_Transformed_F
+|desc     = The user dashes towards the enemy and swipes with their tail, similar to the [[True Triple Katana]]'s {{Ability|True Triple Katana|Z}} move, [[Rengoku]] {{Ability|Rengoku|Z}} move and [[Empyrean]]'s M1s. This move consumes 15% of the visible Tails meter.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{#tag:tabber|Untransformed=
+{{Overview|Pros|type=Untransformed
+|'''General'''
+* Extremely high value in [[trading]] as it is the third rarest [[Blox Fruits|fruit]] to obtain, with the second being [[Control]] and the first being [[Dragon]].
+* Great movement speed with three tails.
+* Passive can [[Instinct/Break|break Instinct]].
+* Works well in both ground and air combat.
+
+|'''[M1] Normal Attack'''
+* Good range.
+* Fast cooldown between attacks.
+* Slight stun makes this useful as a close-range combo chainer.
+* Deals tick damage that can [[Instinct/Break|break Instinct]] when 3 tails are acquired.
+
+|'''[Z] Accursed Enchantment'''
+* Decent [[Area of Effect|AoE]]. (The explosion when a single target is hit can also deal damage to multiple enemies) 
+* No end-lag.
+* Auto-aim.
+
+|'''[X] Tails of Burning Agony'''
+* Decent hitbox.
+* Good combo potential.
+* Has stun.
+
+|'''[C] Fox Fire Disruption'''
+* High damage.
+* Large hitbox.
+* Slight stun.
+
+|'''[V] Transformation'''
+* Decent damage and knockback.
+* The user gains the ability to avoid all basic damage when in the transforming state. (Ex: [[Godhuman]] [X] Normal Attack)
+** This move can also be used as a combo breaker, as during the transformation animation, it lets the player negate all damage.
+
+|'''[F] Wild Assault'''
+* Low cooldown for a decent range dash that deals damage.
+* Decent hitbox and mobility.
+* Can be used to extend M1 attacks by using it before the final strike.
+* The Blue Flames passive is automatically active upon grabbing an enemy once the user has gained 3 tails.
+** Each tick of burn can [[Instinct/Break|break Instinct]].
+* Has good mobility and combo potential, as it can grab enemies after performing a move like [[Godhuman]] [C].
+}}
+
+{{!}}-{{!}}Transformed=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Very good mobility.
+* Even higher damage.
+* Can walk on [[water]].
+* Multiple buffs. (Speed, damage, armor)
+* Can carry other players for easier transport.
+* Much better moves.
+
+|'''[M1] Normal Attack'''
+* Great damage.
+* Fast cooldown between attacks.
+* Slight knockback.
+* Deals burn damage per second.
+* Slight stun makes this useful as a close-range combo chainer.
+
+|'''[Z] Accursed Enchantment'''
+* Good damage.
+* No end-lag.
+* Good [[Area of Effect|AoE]].
+* Decent mobility.
+
+|'''[X] Tails of Burning Agony'''
+* Decent stun.
+* Large [[Area of Effect|AoE]] if it hits.
+* The user can use this to drag players underwater if they're not the [[Shark]] race and deal huge amounts of damage. 
+* Decent mobility.
+
+|'''[C] Fox Fire Disruption'''
+* Amazing damage.
+* Massive [[Area of Effect|AoE]].
+* Extremely long range.
+
+|'''[F] Wild Assault'''
+* Decent hitbox.
+* Decent mobility.
+}}
+}}
+
+|-|Cons=
+{{#tag:tabber|Untransformed=
+{{Overview|Cons|type=Untransformed
+|'''General'''
+* Although Kitsune is powerful in close-range and mid-range combat, the only long-range move this fruit possesses is its [C] move, so the user could get outranged by fruits like [[Flame]], [[Light]] and [[Gravity]].
+* One of the hardest fruits to obtain in the game.
+* Only one movement ability (three in [[Transformation]], compensated by speed boost after gaining two tails).
+* High mastery requirements.
+
+|'''[M1] Normal Attack'''
+* Enemy can use skills while stunned.
+
+|'''[Z] Accursed Enchantment'''
+* Below-average damage.
+* Delayed damage and knockback, which can be problematic.
+* Can not break instinct.
+
+|'''[X] Tails of Burning Agony'''
+* Can bounce off of surroundings resulting in sometimes unpredictable final positions of the opponent or even complete misses.
+* Works best at close range, despite being able to reach medium range.
+* Can easily be dodged with [[Instinct]].
+* User cannot attack for the duration of its stun.
+
+|'''[C] Fox Fire Disruption'''
+* Can be dodged if the enemy uses [[Flash Step]] or they can simply just dash away.
+* Most of the damage can be dodged with [[Instinct]].
+* Endlag prevents instant chaining.
+
+|'''[V] Transformation'''
+* Requires the full bar (3 Tails) in order to transform.
+* Slows the user for a small amount of time.
+
+|'''[F] Wild Assault'''
+* Hitbox is much smaller than the slash animation.
+* Hard to land since it requires precise aim.
+}}
+
+{{!}}-{{!}}Transformed=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Needs three tails to transform.
+* [[Fighting Styles|Fighting styles]], [[swords]], [[guns]] cannot be used.
+* The user needs to move instead of staying idle on [[water]] in order to not take damage by partially sinking.
+* The user might find it too hard to move inside small areas such as Mansion due to the absurd speed boost.
+* Hard to use against runners / sky campers as only the [C] move has sufficient [[Area of Effect|AoE]] for such enemies.
+* Hard to use in the air.
+
+|'''[M1] Normal Attack'''
+* Enemy can use skills while stunned.
+* Dashes the user forward.
+
+|'''[Z] Accursed Enchantment'''
+* Slight endlag.
+* Can be weird to aim in the air.
+
+|'''[X] Tails of Burning Agony'''
+* Can be quite hard to aim/hit target in PvP.
+* The dash and fire can be dodged with [[Instinct]].
+* This move can force the player underwater if they are not on an island, which can lead to their health being depleted rapidly.
+* Cannot be aimed up or down, meaning the user has to be at the same height in the air as their target for this move to work.
+* When used against a wall with an enemy, the player may glitch through thin walls into undesirable spaces.
+
+|'''[C] Fox Fire Disruption'''
+* Can be dodged.
+
+|'''[F] Wild Assault'''
+* Can unintentionally run into attacks such as [[Skull Guitar]] [X].
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Kitsune contest 2022.png|First concept of ​​Kitsune, made by @Kuzuryu_Kei.
+File:Kitsune Passive Idle animated.gif|Kitsune idle animation.
+</gallery>
+
+==Trivia==
+* Kitsune is the second fan-made [[Blox Fruits|fruit]] to be added to the game, with the first being [[Sound]]. 
+** The original concept was created by @Kuzuryu_Kei (X Handle), one of the winners of the first fan fruit/art contest.
+* Kitsune is currently the third most expensive fruit in the game behind [[Control]] and [[Dragon]]. 
+* Kitsune is the first [[Beast]] fruit that allows allied players to mount, the second being [[Dragon]].
+* It is worth noting that [[Agility]] (Rabbit's V3 ability) does not have nearly as much effect as when not transformed. While it is noticeable, it is mostly negligible.
+* Despite being based on a nine-tailed fox, Kitsune normally only has three tails and five tails when transformed; this is probably due to the design of the model, although it still has nine tails in the icon.
+** The same happens to Inventory Icon and Physical Fruit, while the Inventory Icon model has 4 tails, Physical Fruit only has 3 tails.
+* When ''walking'' whilst using Kitsune with two or more tails, the player animation will shift from crawling on all fours to an upright & skipping animation.
+* Kitsune used to have a move called "Tailed Beast Bomb" as its [C] move, which got changed into "Fox Fire Disruption" and the [F] move, "'''Wild''' Assault" , was called "'''Swift''' Assault" in the fruit's sneak peek. 
+* All of Kitsune's moves (excluding {{Ability|V}}) can only be held for 12 seconds.
+* In the fan made design, the [X] move was called "'''Claws''' of Burning Agony" which was changed to "'''Tails''' of Burning Agony" in the game.
+* A physical Kitsune Fruit can also be obtained at a very low chance (0.1%/1 in 1000) by offering [[Azure Ember]]s to the [[Kitsune Shrine]] in the [[Third Sea]].
+* The player can reach up to 9.3x of their original speed by using Kitsune's 2 tails (+100%/2x speed), having [[Rabbit|Rabbit's]] race v2 passive (+100%/2x speed), [[Rabbit]] [[Agility|race's V3 ability]] (+400%/4x speed) and [[Pilot Helmet|Pilot Helmet]] (+130%/1.3x speed).
+* Kitsune is the second fruit with a mutation, the first being [[Tiger]].
+* Although Kitsune and reworked [[Control]] share the robux price of ({{Robux|4,000}}), they do not share the same {{Money|Money}} value. Kitsune is valued at {{Money|8,000,000}} and [[Control]] is valued at {{Money|9,000,000}}.
+
+
+==Change History==
+{{Change History|22|content=<tabber>
+|-|29.6=
+{{Update|29.6}}
+* Kitsune was heavily nerfed.
+** [Z] No longer breaks instinct.
+** [X] Now channels on hit; the user cannot cast another ability before the animation completes.
+** [C] End-lag increased by 0.3 seconds.
+
+|-|29.1=
+{{Update|29.1}}
+*Added [[Empyrean]] [[Mutations|mutation]].
+*Added the Galaxy skin for Empyrean.
+
+|-|24=
+{{Update|24}}
+* {{Arrow|nerf}} Transformed Kitsune's speed was severely nerfed, but then later got buffed to be slightly slower than its original speed.
+
+|-|22=
+{{Update|22}}
+* Kitsune was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Кицунэ]]

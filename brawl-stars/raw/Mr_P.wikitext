@@ -1,0 +1,321 @@
+{{Protection}}{{MagicWords}}
+
+{{Brawler Infobox|Title = The Boss|PrestigeTitle = The biggest bird|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3700|AttackRange = 7 (Long)<br>10.33 (after bounce)|Reload = 1.6 seconds (Normal)|AttackSuperCharge = 12.525%|AttackLabel = Damage on hit|Attack = 760|SuperRange = 5|SuperSuperCharge = 5.575%<br>4.3% (with Porter Reinforcements)|SuperMinion = Porter|SuperMinionRange = 4.67|SuperReload = 0.7 seconds|SuperMovementSpeed = 1000<br>800 (with Porter Reinforcements)<br>1150 (with Hypercharge)|SuperLabel = Base Health|Super = 2800|SuperLabel2 = Porter Health|Super2 = 1520|SuperLabel3 = Porter Dmg.|Super3 = 300|AttackSpeed=3000<br>1000 (bounce)|AttackWidth=1.33|SuperSpeed=1196 (home base)<br>2500 (porter)|SuperWidth=0.67 (porter)|Gadget1Name=Service Bell|Gadget1=1184|Gadget12=183|Gadget1Label=Health Increase|Gadget1Label2=Damage Increase|Gadget1Cooldown=17 seconds|Gadget2Name=Porter Reinforcements|Gadget2Cooldown=17 seconds|VoiceActor=Martin Schjøler|Previous=Max|Next=Sprout|AttackHyperchargeCharge=3.75%|SuperHyperchargeCharge=1.65%<br>1.275% (with Porter Reinforcements)|HyperchargeMultiplier=30%|Gadget2=1200|Gadget2Label=Porter Health|Gadget2Label2=Porter Dmg.|Gadget22=352}}
+{{Quote|Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!}}
+{{Portrait}}
+Mr. P is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health, a variable range, and an inconsistenly high damage output. He attacks with suitcases that bounce and deal additional damage. He was the 33rd Brawler added to the game. His Super deploys a home base that periodically spawns a robo-porter that follows and attacks enemies. His first Gadget, Service Bell, significantly increases the damage and health of the current porter. His second Gadget, Porter Reinforcements, spawns a weaker porter at the end of Mr. P's next attack’s range. Mr. P's first Star Power, Handle With Care, periodically makes his suitcase deal more damage after bouncing. His second Star Power, Revolving Door, increases the damage and health of the porters spawned by Mr. P's Super. His Hypercharge, Super Porters! Assemble!, makes Mr. P's Super to deploy a home base with more health, and increases the number of active porters to two.
+
+==Attack: Your Suitcase Sir!==
+{{Quote|Mr. P throws a heavy suitcase with angry intent. If the suitcase hits an obstacle or reaching maximum range, it bounces over them, lands with a bang and deals area damage.}}Mr. P throws a long-ranged suitcase that bounces for an additional 3.33 tiles at the end of its range. After bouncing, the suitcase deals splash damage in a 1.5-tile radius.
+==Super: Porters! Attack!==
+{{Quote|Mr. P deploys the home base for his robo-porters. He has reprogrammed the small penguin-head robots to attack and harass opponents (and unruly guests).}}Mr. P throws a home base with moderate health. It can be thrown anywhere within a short distance from Mr. P. The home base is stationary and spawns robo-porters with very low health and damage to assist Mr. P and his allies (to track down enemies). The porters move relatively fast towards the nearest/furthest target, and when they get within the range of the target, they stop and shoot it with short-ranged shots. The porters keep spawning until the home base is destroyed. However, there can only be one robo-porter from Mr. P's Super on the battlefield at a time. The home base has a 4 second delay before it can spawn another robo-porter after one is destroyed. There can be only one home base on the battlefield at a time, unless there are multiple Mr. Ps.
+
+==Gadgets==
+===Service Bell===
+{{Quote|Mr. P buffs his current porter by increasing its damage by 228 and health by 1480. Cooldown: 17 seconds.}}{{Gadget|1|64|Mr.P}}Mr. P increases the damage of the current porter by 37.8% and its health by 48.6%. This only applies to one porter on the battlefield. This will also heal the porter to maximum health. The buffed porter appears bigger in size and gets a shade of purple (similar to the effect from the Damage Gear or any damage buffs). Mr. P must be within 12 tiles of his current porter to use this Gadget. Buffs are only applied to a porter once. 
+
+{{Quote|Mr. P and his current porter also get a shield of 2140.}}{{Buffie|Gadget}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+With the Buffie, the Gadget also provides the buffed porter and Mr. P a consumable shield that initially blocks for 2140 health. The shield decays by 5% health every 0.5 second, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Mr. P and his porter are damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on Mr. P's max health when this shield is active. With the Buffie, Mr. P no longer needs a porter on the field to use the Gadget.
+
+===Porter Reinforcements===
+{{Quote|Mr. P launches a Porter-filled suitcase, dealing 1520 damage and spawning a mini-porter where it lands. Cooldown: 22 seconds.}}{{Gadget|2|64|Mr.P}}Mr. P throws a suitcase in the direction the Gadget is aimed. It is identical to his attack but spawns a porter from his Super after its second explosion. Porters spawned from this Gadget have 98.6% of the health, 20% reduced movement speed, and deal 73.3% the damage of a porter spawned by Mr. P's Super. They’re also visually smaller than their Super counterparts. The porters spawned from his Gadget won’t despawn even if Mr. P uses another Gadget. His attack still deals its base damage before spawning a porter, and this Gadget can be affected by [[Power Cubes]], but not by his Revolving Door Star Power. This Gadget does not consume ammo. This Gadget's cooldown starts after this attack is shot.
+
+{{Quote|Spawns an additional porter for each enemy hit by the attack.}}{{Buffie|Gadget}}
+With the Buffie, an additional porter is spawned for each enemy hit.
+
+==Star Powers==
+===Handle With Care===
+{{Quote|Every 4 seconds, the explosion damage of Mr. P's next overstuffed suitcase is increased by 40%.}} {{StarPower|1|64|Mr.P}}
+Mr. P gains a bar similar to [[Bibi]]'s Home Run bar. When the bar is charged up after 4 seconds, Mr. P's next attack or Porter Reinforcements Gadget has its damage from its second phase (after the bounce) increased by 40%. Mr. P doesn’t require all three ammo to charge the bar, similar to [[Sprout]]‘s Overgrowth Star Power.
+
+{{Quote|Mr. P's next explosion triggers a second time dealing 50% damage.}}{{Buffie|Star}}
+With the Buffie, Mr. P's next attack explodes a second time, but deals 50% less damage. If the Porter Reinforcements Gadget was affected by the Star Power, the second explosion will not produce a porter.
+
+===Revolving Door===
+{{Quote|All robo-porters from the home base now have 20% more health and 30% higher damage.}} {{StarPower|2|64|Mr.P}}Mr. P's porters that originate from his Super have their health increased by 20% and their damage increased by 30%.
+
+{{Quote|Mr. P's suitcase now heals his porters 840 with a direct hit.}}{{Buffie|Star}}
+With the Buffie, Mr. P can hit his porters with his main attack to bounce it and heal the porter for 57.627% of the attack damage.
+
+==Hypercharge: Super Porters! Assemble!==
+{{Quote|Mr. P's home base now spawns much stronger porters and he can have two active 'Super Porters' at the same time.}}{{Hypercharge}}
+When activated, Mr. P throws a home base with 200 more health. The home base will spawn robo-porters that have 4000 health and a much faster movement speed. Additionally, Mr. P can have up to 2 porters from the home base active at once. However, the Hypercharged porters decay by 400 health per second until they're destroyed, lasting up to 10 seconds if they don't take any damage. When using the Service Bell Gadget, only the first porter spawned will be buffed. Mr. P also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|After exploding, overstuffed suitcases will bounce 3 times back towards Mr. P.}}{{Buffie|Hyper}}
+With the Buffie, Mr. P's attack bounces 3 times back towards him after its second explosion. The Handle with Care Star Power Buffie affects all 3 explosions. Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attack splits into more suitcases after the second bounce!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Mr. P's main attack split into two suitcases after the bounce, which traveled angled to the left and right.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+* In Special Events such as [[Boss Fight]], [[Robo Rumble]] and [[Big Game]], Mr. P's Super can prove very useful as the porters can distract the enemies, and if a porter is destroyed, another one spawns to take its place. His Revolving Door Star Power makes this more of a threat.
+* In [[Siege]], throwing your home base inside the IKE zone can serve as a meat shield for you as long as it is closer to the IKE, causing the IKE to target it instead of you. This gives you more time to dive into the IKE to land extra shots and is amplified with his Revolving Door Star Power, which gives the porters additional health and therefore give you an even better meat shield. His Service Bell Gadget amplifies this further, as it can instantly heal a low health porter back to full health.
+* Mr. P can be a real nuisance on maps a plethora of bushes, such as [[Snake Prairie]], as his porters can flush out hidden enemies. This strategy works even better with his Porter Reinforcements Gadget, so Mr. P can instantly root out enemies at the start of the match without a Super.
+
+=== Recommended Build ===
+
+* On maps with an abundance of walls, it's usually a good idea to use his Handle With Care Star Power, as the walls give Mr. P plenty of opportunities to utilize the extra damage that the Star Power provides.
+* Mr. P’s Porter Reinforcements Gadget is a good way to block shots from enemies, making them expend their ammo on the porter despite its low health. It can also effectively counter Brawlers that have difficulty defending themselves at close range such as [[Piper]] or Brawlers with low damage or a slow reload speed. Using the Gadget right in front of an enemy can sometimes force them to retreat, allowing Mr. P to hit them with his attack and deal twice the damage.
+* Mr. P's Handle With Care Star Power is better on damage orientated modes, such as [[Heist]], because it can help melt the safe quicker, although it is not advisable to play Mr. P in Heist as he has a low damage output by himself without porters.
+
+=== Strategies ===
+
+* Mr. P's attack is unique in that it bounces after hitting an obstacle or target. If you throw attacks at walls, you can hit enemies behind them, like a thrower. This only works with one-tile-thick walls. If you hit a Brawler, the attack can hit them again if they stand still or are running away from you, effectively doubling your damage per hit against fleeing targets.
+* Continue to set up a home base when taking control of lanes in battles. Mr. P's Super can be charged consistently which allows them to secure control faster using their Super. It also means it's safe to bring the base further into the battlefield where it can be of more use. Take into note that sometimes spawning a new home base is better then that of waiting for a porter to spawn since a porter immediately spawns right when it's placed down.
+
+=== Other ===
+*Mr. P is a very versatile Brawler due to his pseudo-thrower attacks and his range. Taking note of the enemy's movement and position can be vital when dealing maximum damage with the bounce from his attack.
+*In a pinch, his porters can be used as a meat shield to hide behind them and heal up or attack the enemy. This should only be used in situations like [[Showdown]] or the last few seconds in [[Bounty]] or [[Siege]]. Watch out for [[Penny]], [[Jessie]], [[Belle]], [[Carl]], [[Rico]], [[Ruffs]], [[Tara]], [[Bibi]], [[Grom]], and other piercing or bouncing Brawlers though, since they can hit through spawnables, including Mr. P's porters.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Mrp start vo 01.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp lead vo 01.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp get hurt vo 01.ogg|Filedescription = Mr. P cries}}
+|{{Ogg|Filename = Mrp kill vo 01.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp die vo 01.ogg|Filedescription = Mr. P gags}}
+|{{Ogg|Filename = Mrp atk vo 01.ogg|Filedescription = Mr. P cheers}}
+|{{Ogg|Filename = Mrp ulti vo 01.ogg|Filedescription = Mr. P laughs}}
+|-
+|{{Ogg|Filename = Mrp start vo 02.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp lead vo 02.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp get hurt vo 02.ogg|Filedescription = Mr. P whimpers}}
+|{{Ogg|Filename = Mrp kill vo 02.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp die vo 02.ogg|Filedescription = Mr. P grumbles}}
+|{{Ogg|Filename = Mrp atk vo 02.ogg|Filedescription = Mr. P yells}}
+|{{Ogg|Filename = Mrp ulti vo 02.ogg|Filedescription = Mr. P laughs}}
+|-
+|{{Ogg|Filename = Mrp start vo 03.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp lead vo 03.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp get hurt vo 03.ogg|Filedescription = Mr. P groans}}
+|{{Ogg|Filename = Mrp kill vo 03.ogg|Filedescription = Mr. P laughs}}
+|{{Ogg|Filename = Mrp die vo 03.ogg|Filedescription = Bell rattles}}
+|{{Ogg|Filename = Mrp atk vo 03.ogg|Filedescription = Mr. P yells}}
+|
+|-
+|{{Ogg|Filename = Mrp start vo 04.ogg|Filedescription = Mr. P laughs}}
+|
+|{{Ogg|Filename = Mrp get hurt vo 04.ogg|Filedescription = Mr. P wails}}
+|{{Ogg|Filename = Mrp kill vo 04.ogg|Filedescription = Mr. P laughs}}
+|
+|{{Ogg|Filename = Mrp atk vo 04.ogg|Filedescription = Mr. P yells}}
+|
+|-
+|{{Ogg|Filename = Mrp start vo 05.ogg|Filedescription = Bell chimes}}
+|
+|
+|{{Ogg|Filename = Mrp kill vo 05.ogg|Filedescription = Bell chimes}}
+|
+|
+|
+|}
+
+==History==
+*23/01/20:
+**{{Balance|Content=Mr. P was added to the game.|Change=Neutral}}
+*05/02/20:
+**{{Balance|Content=Mr. P's Tin Can Star Power was added.|Change=Neutral}}
+*07/02/20:
+**{{Balance|Content=The Agent P skin was added.|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Mr. P's main attack range was decreased to 7 tiles (from 8).|Change=Nerf}}
+*17/03/20:
+**{{Balance|Content=Mr. P's Super spawn delay was increased to 4 seconds (from 2).|Change=Nerf}}
+**{{Balance|Content=Mr. P's Service Bell Gadget was added.|Change=Neutral}}
+*16/06/20:
+**{{Balance|Content=Mr. P's health was increased to 3200 (from 2900).|Change=Buff}}
+*02/07/20:
+**{{Balance|Content=Mr. P's Tin Can Star Power was renamed to Revolving Door and reworked from giving the home base 3000 extra health to making the porters spawn 3 seconds faster.|Change=Neutral}}
+*18/08/20:
+**{{Balance|Content=Mr. P's Super porter home base health was decreased to 2200 (from 2800).|Change=Nerf}}
+**{{Balance|Content=His Super porter's health was decreased to 1400 (from 1500).|Change=Nerf}}
+*10/09/20:
+**{{Balance|Content=Mr. P's Super charge rate was decreased slightly.|Change=Nerf}}
+**{{Balance|Content=Mr. P's Super recharge rate was increased to 18 porter attack hits (from 16).|Change=Nerf}}
+*11/11/20:
+**{{Balance|Content=Mr. P's Super porters will now return to their home base if there are no enemies present on the battlefield.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Mr. P's main attack damage was increased to 760 (from 700) per hit.|Change=Buff}}
+*12/02/21:
+**{{Balance|Content=Mr. P's Porter Reinforcements Gadget was added.|Change=Neutral}}
+*15/03/21: 
+**{{Balance|Content=Mr. P's health was decreased to 3000 (from 3200).|Change=Nerf}}
+*07/04/21:
+**{{Balance|Content=Mr. P's main attack damage was decreased to 720 (from 760) per hit.|Change=Nerf}}
+**{{Balance|Content=Mr. P's Porter Reinforcements Gadget porter health was decreased by 50%.|Change=Nerf}}
+**{{Balance|Content=Mr. P's Porter Reinforcements Gadget porter damage was decreased by 23%.|Change=Nerf}}
+*16/06/21:
+**{{Balance|Content=Mr. P's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Mr. P's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*31/10/21:
+**{{Balance|Content=The Count Pengula skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Mr. P’s main attack now bounces even if it doesn't hit an enemy or obstacle.|Change=Buff}}
+**{{Balance|Content=Mr. P's Handle with Care Star Power was reworked from making Mr. P's suitcase bounce even if it doesn't hit an enemy or an obstacle to making Mr. P's suitcase deal 40% more damage after bouncing every 4 seconds.|Change=Neutral}}
+**{{Balance|Content=Mr. P's Revolving Door Star Power was reworked from making the porters spawn 3 seconds faster to making the porters deal 20% more damage and have 30% more health.|Change=Neutral}}
+*31/03/22:
+**{{Balance|Content=The Mr. Fly skin was added. It was featured as a Biodome skin.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=The Daruma Mr. P skin was added. It was featured as a Golden Week skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Mr. P's main attack damage was increased to 760 (from 720) per hit.|Change=Buff}}
+**{{Balance|Content=Count Pengula, Mr. Fly, and Daruma Mr. P's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Mr. P's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Mr. P's health was increased to 3400 (from 3000).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Mr. P's Service Bell Gadget porter health bonus was increased to 1088 (from 1000), and its damage bonus was increased to 183 (from 150) and it now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Mr. P's aiming line was reworked.|Change=Neutral}}
+**{{Balance|Content=Mr. P's flavor text was changed from "Mr. P is a disgruntled luggage handler who angrily hurls suitcases at opponents. His Super calls robo-porters to help him." to "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!"|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Mr. P's Super home base health was increased to 2500 (from 2200).|Change=Buff}}
+**{{Balance|Content=Mr. P's Super porter movement speed was increased to 1000 (from 800). This does not affect the porters from his Porter Reinforcements Gadget.|Change=Buff}}
+*25/04/24:
+**{{Balance|Content=Fixed Count Pengula attack projectile texture.|Change=Neutral}}
+*24/07/24:
+**{{Balance|Content=The Mr Dragonfruit skin was added. It was featured as a Supercell Make skin and a Biodome skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Mr Dragonfruit was renamed to Mr. Dragonfruit.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Mr. P's Super Porters! Assemble! Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Mr. P's Super Porters! Assemble! Hypercharge porters now gradually lose health overtime after being spawned until they're destroyed.|Change=Nerf}}
+**{{Balance|Content=Mr. P's Super Porters! Assemble! Hypercharge porter movement speed was decreased to 1300 (from 1400).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Mr. P's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Mr. P's Wasabi Power was removed from the game.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Mr. P's Porter Reinforcements Gadget cooldown was increased to 17 seconds (from 15).|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Mr. P's Super Porters! Assemble! Hypercharge multiplier was decreased to 30% (from 35%).|Change=Nerf}}
+*28/10/25:
+**{{Balance|Content=The number of hits necessary to charge Mr. P's Super was increased to 8 hits (from 6).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Mr. P's Super Porters! Assemble! Hypercharge speed boost from 24%.|Change=nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Mr. P's Super Porters! Assemble! Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Mr. P's Super Porters! Assemble! Hypercharge shield boost from 15%.}}
+*12/11/25:
+**{{Balance|Content=Mr. P's Projectile Size Power Card now makes the damage area from the projectile bigger too.|Change=Buff}}
+*19/11/25:
+**{{Balance|Content=The Gym Rat Mr. P skin was added. It was featured as a Gym Rats skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Mr. P's health was increased to 3700 (from 3400).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Mr.P's movement speed to 750 (from 720).}}
+*01/10/26:
+**{{Balance|Neutral|The Fortune Teller P, Mr. Psychic and Mystic P skins were added. They were featured as Brawl Pass Season 55 skins and Brawl-o-ween skins.}}
+*03/11/26:
+**{{Balance|Buff|Mr. P's Super home base health was increased to 2800 (from 2500).}}
+**{{Balance|Buff|Mr. P's Super porter health was increased to 1520 (from 1400).}}
+**{{Balance|Buff|Mr. P's Super porter damage was increased to 300 (from 260).}}
+**{{Balance|Buff|Mr. P's Porter Reinforcements Gadget is now aimable.}}
+**{{Balance|Buff|Mr. P's Porter Reinforcements Gadget no longer consumes ammo.}}
+**{{Balance|Buff|Mr. P's Porter Reinforcements Gadget porter health was increased to 1200 (from 1120).}}
+**{{Balance|Buff|Mr. P's Porter Reinforcements Gadget porter damage was increased to 352 (from 320).}}
+**{{Balance|Nerf|Mr. P's Porter Reinforcements Gadget cooldown was increased to 22 seconds (from 17).}}
+**{{Balance|Nerf|Mr. P's Super Porters! Assemble! Hypercharge home base health bonus was decreased to 200 (from 500).}}
+**{{Balance|Neutral|Mr. P's Buffies were added.}}
+**{{Balance|Neutral|Mr. P's Epic Gear was removed.}}
+
+==Cosmetics==
+===Skins (11)===
+====Mr. P====
+{{Skin Gallery
+|Name1 = Agent P|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1=License to Brawl|Rarity1=Rare
+|Name2 = Count Pengula|Cost2=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign2=Brawl-o-ween|Rarity2=Super Rare
+|Name3 = Mr. Fly|Cost3=Free from Glowbert Boxes or 79 Gems|Campaign3=Biodome|Rarity3=Super Rare
+|Name4 = Daruma|Cost4=79 Gems|Campaign4 = Golden Kawaii|Rarity4=Super Rare
+|Name5 = Gym Rat|Cost5=Free from Mr. P's Gym Rat Workout! Challenge or 79 Gems|Campaign5 = Gym Rats|Rarity5=Super Rare
+|Name6 = Mr. Dragonfruit|Cost6=149 Gems|Campaign6=Supercell Make|Campaign6_2=Biodome|Rarity6=Epic
+|TrueSkins=Yes
+|NameP1=Fortune Teller P|CostP1=1 Skin Key|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic
+|NameP2=Mr. Psychic|CostP2=Free after purchasing the Skin Set|CampaignP2=Brawl Pass|CampaignP2_2=Brawl-o-ween|RarityP2=Epic
+|NameP3=Mystic P|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=Brawl-o-ween|RarityP3=Epic
+}}
+
+====Porter====
+{{Skin Gallery|For=Minion
+|Name1 = Agent P|Campaign1=License to Brawl|Rarity1=Rare
+|Name2 = Count Pengula|Campaign2=Brawl-o-ween|Rarity2=Super Rare
+|Name3 = Mr. Fly|Campaign3 = Biodome|Rarity3=Super Rare
+|Name4 = Daruma|Campaign4 = Golden Kawaii|Rarity4=Super Rare
+|Name5 = Gym Rat|Campaign5 = Gym Rats|Rarity5=Super Rare
+|Name6 = Mr. Dragonfruit|Campaign6=Supercell Make|Campaign6_2=Biodome|Rarity6=Epic
+|TrueSkins=Yes
+|NameP1=Fortune Teller P|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic
+|NameP2=Mr. Psychic|CampaignP2=Brawl Pass|CampaignP2_2=Brawl-o-ween|RarityP2=Epic
+|NameP3=Mystic P|CampaignP3=Brawl Pass|CampaignP3_2=Brawl-o-ween|RarityP3=Epic
+}}
+
+===Buffie Skins===
+<gallery>
+Mr. P Buffie Skin-Gadget.png|Gadget
+Mr. P Buffie Skin-Star.png|Star
+Mr. P Buffie Skin-Hyper.png|Hyper
+Mr. P Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Mr. P
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Count Pengula}}
+{{Pin Table|Mr. Fly}}
+|-
+|{{Skin|Mr. P|Daruma}}
+|{{Pin|Mr. P Daruma|Neutral|Rarity=Exclusive}}
+|{{Pin|Mr. P Daruma|Special|Rarity=Exclusive}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+{{Pin Table|Mr. Dragonfruit}}
+{{Pin Table|Gym Rat|Angry}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Mr. P|Rarity = Common}}
+|{{Spray|Type = Mr. P Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Daruma Mr. P|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Mr. P1}}
+|{{Pfp|Mr. P2}}
+|{{Pfp|Mr. P3}}
+|{{Pfp|Mr. Dragonfruit}}
+|}
+
+{{Navigation}}
+[[ru: Мистер П.]]
+[[pl:Pan P]]

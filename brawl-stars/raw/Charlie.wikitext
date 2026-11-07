@@ -1,0 +1,344 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Amazing|PrestigeTitle = Main Attraction|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3700|AttackRange = 9 (Long)|Reload = |AttackBullets = |AttackSuperCharge =16.8% |AttackLabel = Damage|Attack = 800|AttackSpeed=4200|AttackWidth=1|SuperRange = 9 (Long)|SuperSuperCharge = |SuperDuration=5 seconds|SuperLabel = Cocoon Health|Super = 4200|SuperSpeed = 3300|SuperWidth=1.33|VoiceActor=Elsa Perusin|Name=Charlie|Gadget1Name=Spiders|Gadget1=1120|Gadget12=640|Gadget1Label=Health per spider|Gadget1Label2=Damage per spider|Gadget1Cooldown=20 seconds|Gadget2Cooldown=15 seconds|Gadget2Name=Personal Space|Gadget2=6720|Gadget2Label=Cocoon Health|HyperchargeMultiplier=60%|Previous=Chuck|Next=Mico|AttackHyperchargeCharge=10.075%}}
+{{Quote|Itsy bitsy Charlie<br>Put on a crazy show<br>She let down her hair<br>And made off with all your dough<br>In came the crowd<br>It filled up the circus tent<br>So Charlie weaved away while<br>Taking every cent!}}{{Portrait}}
+Charlie is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 21: Bizarre Circus. Charlie has moderately high health, a low damage output, and a long range, but immense utility with her Super. She was the 73rd Brawler added to the game. When she attacks, Charlie slings her yo-yo, dealing damage to any enemies hit while the yo-yo is flying forward or traveling back to Charlie, and consuming her only ammo which reloads when the yo-yo returns. For her Super, Charlie fires a bundle of hair that allows her to temporarily trap enemy Brawlers in a cocoon. Her first Gadget, Spiders, summons three spiders with low health and damage that chase down enemies, and have quick melee attacks. Her second Gadget, Personal Space, allows Charlie to spawn in a cocoon, and heals her when used. Her first Star Power, Digestive, decreases the enemy Brawler's health when they get hit by her Super. Her second Star Power, Slimy, makes her Super drop puddles of slime that slow enemies down. Her Hypercharge, Pestilence, summons three spiders around her Super that behave identically to her first Gadget.
+
+==Attack: Yo-yo==
+{{Quote|Charlie slings her yo-yo forward, damaging the first enemy hit and then returning back to her.}}
+Charlie slings a long-ranged yo-yo that deals damage to enemies while flying forward and when returning to her. Similar to [[Carl]], the yo-yo can return to Charlie through walls, but can't be slung through walls. If Charlie slings her yo-yo against a wall or an enemy, the travel time of her yo-yo is decreased. Charlie's attack doesn't reload like normal Brawlers, because once her yo-yo returns to her, Charlie reloads her only ammo bar. When Charlie respawns, her only ammo bar will reload in 2 seconds. In [[Brawl Ball]], Charlie can shoot the ball without consuming ammo. Charlie has an moderate attack cooldown of 0.5 seconds.
+
+==Super: Cocoon==
+{{Quote|Charlie throws forward a bundle of hair wrapping around an enemy on hit, disabling them until the hairy cocoon is destroyed.}}
+Charlie fires a bundle of hair that, upon hitting an enemy Brawler, traps them in a cocoon. The Super ignores pets and spawnables, and the projectile will simply pass through them. The cocoon has high health, and decays by 20% of its health until it's destroyed, lasting for up to 5 seconds if it doesn't take any damage. While the enemy Brawlers are trapped, they can't move, heal, or use their main attacks, Supers, Gadgets, or Hypercharges, and in [[Gem Grab]], they will drop any Gems they have upon hit. Brawlers cannot reload while in the cocoon, but Brawlers with auto-charging Supers such as [[Darryl]], [[Edgar]], or [[Kit]] can charge their Supers. Brawlers such as [[Cordelius]], [[Buzz]], [[Lily]], or [[Shade]] can also passively charge their Supers if a cocooned enemy Brawler is within a radius of them, due to their Traits.
+
+==Gadgets==
+===Spiders===
+{{Quote|Charlie releases 3 spiders that seek and attack the nearest enemies. Cooldown: 20 seconds.}}{{Gadget|1}}
+When Charlie uses this Gadget, she summons three spiders in a triangular formation around her that follow and attack the closest enemies. They each have 20% of Charlie's maximum health, deal 50% of her damage within a range of 2 tiles every second, and decay by 20% of their health until they're destroyed, lasting for up to 5 seconds if they don't take any damage. Charlie can only have a maximum of three spiders on the map, so if she uses the Gadget again, or uses her Hypercharge to spawn more spiders, or uses the Gadget after using her Hypercharge, the previous spiders will despawn. 
+
+===Personal Space===
+{{Quote|Charlie cocoons herself, healing 50% of her total health. Cooldown: 15 seconds.}}{{Gadget|2}}
+Activating this Gadget causes Charlie to cocoon herself, which behaves identically to that of her Super. When used, she also heals for 50% of her maximum health. This Gadget's cooldown starts 2 seconds after the button is pressed.
+
+==Star Powers==
+===Digestive===
+{{Quote|Cocooned enemies lose 25% of their health while cocooned.}}{{StarPower|1}}
+When the enemy Brawler gets hit by Charlie's Super, they lose 25% of their remaining health.
+
+===Slimy===
+{{Quote|Cocoon leaves a slimy trail behind it for 5 seconds that slows down enemies walking over it.}}{{StarPower|2}}
+Charlie's Super drops puddles of slime on the ground that follow the Super's travel path. The trail of slime is 2 tiles wide. The puddles last for 5 seconds each, and slow enemies down by 350 points for 1.05 seconds on contact.
+
+==Hypercharge: Pestilence==
+{{Quote|Cocoon spawns 3 spiders that seek and attack the nearest enemies.}}{{Hypercharge}}
+When activated, Charlie's Super summons three spiders in a triangular formation around the cocoon that behave identically to those of her Spiders Gadget. The spiders will spawn even if Charlie misses her Super. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Continuously releases spiders while moving.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>When Charlie moved, she spawned a spider that behaved identically to those of her Spiders Gadget. However, the spiders spawned from this ability had 50% less health and damage than those from her Gadget.
+
+==Tips==
+*When an enemy Brawler is in a cocoon, [[Penny]] can either splash onto your or onto her teammate, which can get the enemy out of the cocoon faster. Because of this, when facing a Penny in Duo Showdown or 3v3, it is better to not be close to the cocoon.
+*The cocoon can be used for a teammate like [[Shelly]], [[Griff]], [[Spike]], or [[Leon]] to catch up and wait for the enemy to be released. After that, the teammate can quickly burst and kill the enemy.
+*Since Charlie's attack comes back after hitting one target, it is more reliable to use auto-aim than [[Carl]]. 
+*Charlie's Super can cancel out any Super, so when a Brawler like [[Bull]], [[Buzz]], [[Fang]], [[Kit]], [[Berry]], [[El Primo]], [[Crow]], [[Surge]], or [[Chuck]] is attempting to come towards you/your team, you can use her Super to save you and/or your teammates from harm.
+**Using the Super when someone is chasing you also gives you time to heal up.
+*Charlie's Spiders Gadget can be used to follow enemies that are hiding in bushes. It can also be used to tank shots from single target Brawlers such as [[Piper]], [[Nani]], [[Bea]], [[8-Bit]], [[Colt]], [[Pam]], or [[Mandy]].
+*Charlie's Super can be used in [[Gem Grab]] to disarm the Gem carrier, which makes them drop the Gems. In [[Brawl Ball]], her Super is handy, as she can disarm the ball carrier.
+*Since Charlie's ammo reloads after her yo-yo returns, she attacks much quicker at close range. This makes her an effective counter to short range Brawlers like [[Mortis]], [[Kenji]], [[Buzz]], [[Lily]], [[Ash]], [[Draco]], [[Mico]], [[Shade]], [[Bibi]], or [[Edgar]], If the enemy is a longer range Brawler, using her Super can allow her to close the distance on them and do very high damage to them once they escape.
+*Charlie's Hypercharge can spawn 3 spiders even if the Super doesn't hit the target, so use it at long range.
+
+==Voice Lines==
+{{TranslationToggle|French}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 01.ogg|Filedescription ="Straight from the streets with zero defeats!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 01.ogg|Filedescription ="Straight from the streets with zero defeats!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 01.ogg|Filedescription ="Circus crown, not clown!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 01.ogg|Filedescription ="Circus crown, not clown!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 01.ogg|Filedescription ={{Translate|"Oh mon dieu!"|"Oh my god!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 01.ogg|Filedescription ={{Translate|"Oh mon dieu!"|"Oh my god!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 01.ogg|Filedescription ="My yo-yo brings all the pain to your face."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 01.ogg|Filedescription ="My yo-yo brings all the pain to your face."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 01.ogg|Filedescription ="I'll come back just like a yo-yo."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 01.ogg|Filedescription ="I'll come back just like a yo-yo."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 01.ogg|Filedescription ="Web of wonder!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 01.ogg|Filedescription ="Web of wonder!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 02.ogg|Filedescription ="Distract and disarm."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 02.ogg|Filedescription ="Distract and disarm."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 02.ogg|Filedescription ="Spin when you're winning!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 02.ogg|Filedescription ="Spin when you're winning!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 02.ogg|Filedescription ={{Translate|"Excuse-moi ?"|"Excuse me?"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 02.ogg|Filedescription ={{Translate|"Excuse-moi ?"|"Excuse me?"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 02.ogg|Filedescription ="It's my yo-yo."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 02.ogg|Filedescription ="It's my yo-yo."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 02.ogg|Filedescription ="Like a sad clown without a circus."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 02.ogg|Filedescription ="Like a sad clown without a circus."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 02.ogg|Filedescription ={{Translate|"Like a papillon!"|"Like a butterfly!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 02.ogg|Filedescription ={{Translate|"Like a papillon!"|"Like a butterfly!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 03.ogg|Filedescription ="You can't resist my charm."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 03.ogg|Filedescription ="You can't resist my charm."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 03.ogg|Filedescription ="My life is a circus and I love it!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 03.ogg|Filedescription ="My life is a circus and I love it!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 03.ogg|Filedescription ="It will take more than that!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 03.ogg|Filedescription ="It will take more than that!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 03.ogg|Filedescription ="You better brie-lieve it."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 03.ogg|Filedescription ="You better brie-lieve it."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 03.ogg|Filedescription ="Messing with a yo-yo has its ups and downs."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 03.ogg|Filedescription ="Messing with a yo-yo has its ups and downs."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 03.ogg|Filedescription ="Hush, little baby!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 03.ogg|Filedescription ="Hush, little baby!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 04.ogg|Filedescription ="Watch the string! I'll take your bling."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 04.ogg|Filedescription ="Watch the string! I'll take your bling."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 04.ogg|Filedescription ={{Translate|"Magnifique!"|"Magnificent!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 04.ogg|Filedescription ={{Translate|"Magnifique!"|"Magnificent!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 04.ogg|Filedescription ="Ooh, so, you wanna play rough?"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 04.ogg|Filedescription ="Ooh, so, you wanna play rough?"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 04.ogg|Filedescription ="I stole your heart, literally."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 04.ogg|Filedescription ="I stole your heart, literally."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 04.ogg|Filedescription ={{Translate|"Oh, pâtisserie of misery!"|"Oh, bakery of misery!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 04.ogg|Filedescription ={{Translate|"Oh, pâtisserie of misery!"|"Oh, bakery of misery!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 04.ogg|Filedescription ="Ta-da!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 04.ogg|Filedescription ="Ta-da!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 05.ogg|Filedescription ="Spin, swing, and circus bling!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 05.ogg|Filedescription ="Spin, swing, and circus bling!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 05.ogg|Filedescription ="What a carnival of clowns."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 05.ogg|Filedescription ="What a carnival of clowns."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 05.ogg|Filedescription ="This puts a new spin on things."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 05.ogg|Filedescription ="This puts a new spin on things."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 05.ogg|Filedescription ={{Translate|"Très bien ! I killed again!"|"Very good! I killed again!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 05.ogg|Filedescription ={{Translate|"Très bien ! I killed again!"|"Very good! I killed again!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 05.ogg|Filedescription ={{Translate|"Au revoir !"|"Goodbye!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 05.ogg|Filedescription ={{Translate|"Au revoir !"|"Goodbye!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 05.ogg|Filedescription ="Showstopper!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 05.ogg|Filedescription ="Showstopper!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = charlotte start vo 06.ogg|Filedescription ="Let the carnival of carnage begin!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie start vo 06.ogg|Filedescription ="Let the carnival of carnage begin!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte lead vo 06.ogg|Filedescription ={{Translate|"Le fric, c'est chic!"|"The money, it's chic!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie lead vo 06.ogg|Filedescription ={{Translate|"Le fric, c'est chic!"|"The money, it's chic!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 06.ogg|Filedescription ="Ooh la la!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 06.ogg|Filedescription ="Ooh la la!"}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 06.ogg|Filedescription ="You're French toast."}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 06.ogg|Filedescription ="You're French toast."}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte die vo 06.ogg|Filedescription ={{Translate|"Oh, j'suis cramé."|"Oh, I'm burnt out."}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie die vo 06.ogg|Filedescription ={{Translate|"Oh, j'suis cramé."|"Oh, I'm burnt out."}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 06.ogg|Filedescription ={{Translate|"Calme-toi."|"Calm down."}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 06.ogg|Filedescription ={{Translate|"Calme-toi."|"Calm down."}}}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 07.ogg|Filedescription ={{Translate|"Espèce de ouf!"|"Are you crazy?!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 07.ogg|Filedescription ={{Translate|"Espèce de ouf!"|"Are you crazy?!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 07.ogg|Filedescription ={{Translate|"Et voilà!"|"And there you have it!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 07.ogg|Filedescription ={{Translate|"Et voilà!"|"And there you have it!"}}}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 07.ogg|Filedescription ={{Translate|"Tais-toi!"|"Shut up!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 07.ogg|Filedescription ={{Translate|"Tais-toi!"|"Shut up!"}}}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 08.ogg|Filedescription ={{Translate|"Aïe!"|"Ouch!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 08.ogg|Filedescription ={{Translate|"Aïe!"|"Ouch!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 08.ogg|Filedescription ={{Translate|"Et voilà!"|"And there you have it!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 08.ogg|Filedescription ={{Translate|"Et voilà!"|"And there you have it!"}}}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte ulti vo 08.ogg|Filedescription ={{Translate|"Tais-toi!"|"Shut up!"}}}}'''Virus:'''
+{{Ogg|Filename = Virus charlie ulti vo 08.ogg|Filedescription ={{Translate|"Tais-toi!"|"Shut up!"}}}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = charlotte hurt vo 09.ogg|Filedescription = Charlie shrieks}}'''Virus:'''
+{{Ogg|Filename = Virus charlie hurt vo 09.ogg|Filedescription = Charlie shrieks}}
+|'''Normal:'''
+{{Ogg|Filename = charlotte kill vo 09.ogg|Filedescription ="♫Lala lala laaaa!"}}'''Virus:'''
+{{Ogg|Filename = Virus charlie kill vo 09.ogg|Filedescription ="♫Lala lala laaaa!"}}
+|
+|
+|
+|}
+
+==History==
+*30/10/23:
+**{{Balance|Neutral|Charlie became available to play in the [[Training Cave]].}}
+*06/11/23:
+**{{Balance|Neutral|Charlie, her Amazing, and her Rosie skins were added to the game.}}
+*09/11/23:
+**{{Balance|Nerf|Charlie's Super duration was decreased to 7 seconds (from 10).}}
+**{{Balance|Nerf|Charlie's Digestive Star Power health reduction was decreased to 25% (from 50%).}}
+**{{Balance|Neutral|Enemy Brawlers and Charlie now keep the ammo they had when entering, after getting out of a cocoon.}}
+**{{Balance|Neutral|Cocoons now deal damage or healing at the start of the instance rather than at the end.}}
+**{{Balance|Neutral|Fixed an issue where other types of damage over time would continue to have effect while inside a cocoon.}}
+*12/12/23:
+**{{Balance|Nerf|Charlie's delay between attacks was increased to 500ms (from 250ms).}}
+**{{Balance|Nerf|The number of hits necessary to charge Charlie's Super was increased to 6 hits (from 5).}}
+**{{Balance|Nerf|The number of hits necessary to charge Charlie’s Hypercharge was increased to 14 (from 13).}}
+**{{Balance|Nerf|Charlie's Super duration was decreased to 5 seconds (from 7).}}
+**{{Balance|Nerf|Charlie's Spiders Gadget and Pestilence Hypercharge spider health was decreased to 1120 (from 1760) per spider.}}
+**{{Balance|Neutral|Charlie's rarity was changed to Mythic (from Chromatic).}}
+**{{Balance|Neutral|Charlie's walking animation was slightly reworked.}}
+*11/01/24:
+**{{Balance|Neutral|Charlie became available in the Starr Road.}}
+*27/02/24:
+**{{Balance|Buff|Charlie's Pestilence Hypercharge multiplier was increased to 60% (from 40%).}} 
+**{{Balance|Nerf|Charlie's Super projectile speed was decreased to 3300 (from 4200).}}
+**{{Balance|Nerf|Charlie's Pestilence Hypercharge damage boost was decreased to 25% (from 30%).}}
+**{{Balance|Nerf|Charlie's Pestilence Hypercharge speed boost was decreased to 26% (from 30%).}}
+**{{Balance|Nerf|Charlie's Pestilence Hypercharge shield boost was decreased to 5% (from 10%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+*23/04/24:
+**{{Balance|Nerf|Charlie's main attack range was decreased to 8.33 tiles (from 9).}}
+**{{Balance|Nerf|The number of hits necessary to charge Charlie's Super was increased to 7 hits (from 6).}}
+**{{Balance|Nerf|The number of hits necessary to charge Charlie’s Hypercharge was increased to 11 (from 10).}}
+**{{Balance|Neutral|Charlie's True Silver and True Gold skins were added.}}
+*17/06/24:
+**{{Balance|Neutral|The Virus Charlie skin was added. It was featured as a CyberBrawl skin.}}
+*25/06/24:
+**{{Balance|Nerf|Charlie's main attack damage was decreased to 760 (from 800).}}
+**{{Balance|Nerf|The number of hits necessary to charge Charlie’s Hypercharge was increased to 12 (from 11).}}
+**{{Balance|Nerf|Charlie's Spiders Gadget duration was decreased to 5 seconds (from 10).}}
+*29/10/24:
+**{{Balance|Neutral|Virus Charlie was slightly remodeled.}}
+*14/11/24:
+**{{Balance|Buff|Charlie's main attack damage was increased to 800 (from 760).}}
+**{{Balance|Buff|The number of hits necessary to charge Charlie’s Hypercharge was decreased to 11 (from 12}}).
+*10/12/24:
+**{{Balance|Buff|Charlie's health was increased to 3500 (from 3300).}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Buff|The number of hits necessary to charge Charlie's Super was decreased to 6 hits (from 7).}}
+**{{Balance|Buff|The number of hits necessary to charge Charlie’s Hypercharge was decreased to 10 (from 11).}}
+*01/05/25:
+**{{Balance|Neutral|Charlie's Wasabi Power was added for a limited time.}}
+*30/05/25:
+**{{Balance|Neutral|Charlie's Wasabi Power was removed from the game.}}
+*24/06/25:
+**{{Balance|Buff|Content=Charlie's main attack range was increased to 9 tiles (from 8.33).}}
+*23/07/25:
+**{{Balance|Nerf|Content=Charlie's Spiders Gadget cooldown was increased to 20 seconds (from 18).}}
+*28/10/25:
+**{{Balance|Content=Charlie's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Charlie's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Charlie's Pestilence Hypercharge speed boost from 26%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Charlie's Pestilence Hypercharge damage boost from 25%.}}
+*19/11/25:
+**{{Balance|Neutral|The Workout Charlie skin was added. It was featured as a Gym Rats skin.}}
+*16/12/25:
+**{{Balance|Buff|Charlie's health was increased to 3700 (from 3500).}}
+*22/04/26:
+**{{Balance|Content=Charlie's Slimy Star Power slow visual effects were reworked.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Buff|Charlie's level up damage was increased to 6% (from 5%) in Brawl Arena.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed a bug where Charlie fired duplicate returning projectiles after picking up [[8-Bit]]'s ammo clips.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Charlie's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (6)===
+{{Skin Gallery
+|Name1=Amazing|Cost1=Free from Gigi Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Max Force|Rarity1=Rare
+|Name2=Workout|Cost2=149 Gems|Campaign2=Gym Rats|Rarity2=Epic
+|Name3=Virus|Cost3=Free from Cosmo Boxes or 299 Gems|Campaign3=CyberBrawl|Rarity3=Legendary
+|TrueSkins=Yes
+|NameP1=Rosie|CostP1=Brawl Pass, free from Wendy Boxes or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Biodome|RarityP1=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Charlie
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Rosie}}
+{{Pin Table|Virus}}
+{{Pin Table|Workout|Phew}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Charlie|Rarity = Common}}
+|{{Spray|Type = Charlie Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Virus Charlie|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Charlie1}}
+|{{Pfp|Charlie2}}
+|{{Pfp|Charlie3}}
+|{{Pfp|Virus Charlie}}
+|{{Pfp|Rosie Charlie}}
+|-
+|{{Pfp|Workout Charlie}}
+|}
+
+{{Navigation}}
+
+[[ru:Чарли]]

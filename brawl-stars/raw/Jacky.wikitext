@@ -1,0 +1,365 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = #@%**|PrestigeTitle = Don't #@%$ with me!|Rarity = Super Rare|Class = Tank|MovementSpeed = 800 (Fast)<br>1000 (with Pneumatic Booster)|GadgetCharges = 3|VoiceActor = Sandra Espinoza|HealthLabel = Health|Health = 5200|AttackRange = 3.33 (Short)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 25.4%<br>27.95% (with Super Charge Gear)|AttackLabel = Damage|Attack = 1240|SuperRange = 5 (Normal)|SuperDuration = 1 second|AttackCooldown=|AttackBullets=|AttackLabel2=|Attack2=|SuperBullets=|SuperSuperCharge=|SuperMinionRange=|SuperReload=|SuperMovementSpeed=|Super=|SuperLabel=|SuperLabel2=|SuperLabel3=|Super2=|Super3=|AttackSpread=360°|HyperchargeMultiplier=40%|Previous=8-Bit|Next=Gus|SuperSpread=360°|AttackHyperchargeCharge=10.15%<br>11.175% (with Super Charge Gear)|Gadget1Cooldown=15 seconds|Gadget2Cooldown=11 seconds|Gadget1Name=Pneumatic Booster|Gadget2Name=Rebuild|Gadget1Duration=4 seconds}}
+{{Quote|Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer}}
+{{Portrait}}
+Jacky is a {{Rarity|Super Rare}} [[Brawler]] with high health, a fast movement speed, and a moderately high and consistent damage output, but a short range and a moderately slow reload speed. She was the 34th Brawler added to the game. She has a Trait that allows her to charge her Super from enemies damaging her. She attacks with her jackhammer, which smashes the ground and instantly deals damage in a circular area around her. Her Super pulls in enemies in a large radius. Her first Gadget, Pneumatic Booster, briefly increases her movement speed. Her second Gadget, Rebuild, restores all destroyed obstacles in a small radius around Jacky. Her first Star Power, Counter Crush, reflects a portion of damage she receives in a medium-sized radius around her. Her second Star Power, Hardy Hard Hat, passively reduces all damage she takes for the entire duration of the match. Her Hypercharge, Seismic Event, temporarily slows the enemies down in the Super's radius. 
+
+==Trait==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Jacky takes damage from an enemy Brawler and the enemy Brawler's spawnables, she charges her Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Jacky's max health of damage to charge her Super completely, and all damage is calculated after shielding and other effects.
+
+==Attack: Groundbreaker==
+{{Quote|Jacky hops on her Jackhammer to shake the ground all around. Enemies caught too close will get a pounding!}}Jacky quickly jumps on her jackhammer, crushing the ground and inflicting moderately high damage on all enemies in a radius around her, including enemies behind walls. The damage is dealt immediately without any travel time, but Jacky has a relatively slow reload speed and attack cooldown. There is no direction of travel to this attack, so aiming is not required, though aiming can be used to show you the area-of-effect. Jacky's attack takes 0.55 seconds to complete. 
+
+==Super: Holey Moley!==
+{{Quote|Jacky drills a hole in the ground, pulling in foes to introduce them to her Jackhammer! }}Jacky uses her jackhammer to drill the ground, creating a hole in a circular area around that pulls in enemies in a radius around her up to 3 tiles inward, until they are 1.33 tiles away from the center of the pull. If an enemy is less than 1.33 tiles from Jacky at the beginning of her Super, they get knocked back. While pulled, enemies will have their attacks canceled and will be unable to move or attack for 1 second. However, Jacky cannot reload ammo or attack while pulling, although she can still move. Just like Jacky's attack, main aiming is not required, but there's an area-of-effect displayed if you aim. Enemies in bushes and invisible enemies like [[Leon]], [[Kit]], and [[Sandy]] will be revealed if they are pulled. If Jacky is moving while using her Super, enemies will only be pulled to the location at which she was when activating her Super.
+
+==Gadgets==
+===Pneumatic Booster===
+{{Quote|Jacky gets a burst of energy and moves 25% faster for 4 seconds. Cooldown: 15 seconds.}}{{Gadget|1}}This Gadget allows Jacky to move 25% faster than usual for 4 seconds. This doesn't stack with other speed boosts except her Hypercharge. This Gadget's cooldown starts immediately after it is activated. 
+
+===Rebuild===
+{{Quote|Jacky rebuilds the environment in a small radius around her. Cooldown: 11 seconds.}}{{Gadget|2}}This Gadget restores all broken environment within a 3x3 tile area, including walls, bushes, fences, and even skulls or other with-attack breakable objects.
+
+==Star Powers==
+===Counter Crush===
+{{Quote|When receiving damage, Jacky returns the favor by converting 30% of the damage into a Groundbreaker counterattack.}}{{StarPower|1}}Any time Jacky is damaged, she will spontaneously perform a counterattack similar to her attack. It has a radius of 4 tiles, and it damages for 30% of the damage Jacky received. This won't consume ammo, and Counter Crush doesn't trigger Counter Crush on an opposing Jacky.
+
+===Hardy Hard Hat===
+{{Quote|Jacky's Hard Hat protects her by reducing any damage she takes by 25%.}}{{StarPower|2}}This Star Power passively reduces all damage she takes by 25% for the full duration of the match.
+
+==Hypercharge: Seismic Event==
+{{Quote|Holey Moley slows down nearby enemies for 1.5 seconds.}}{{Hypercharge}}
+When activated, her next Super will have enemies pulled in also slowed by 150 points for 1.5 seconds. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+===Game Modes and Maps===
+*Due to Jacky's short range, she isn't ideal for extremely open maps such as [[Purple Paradise]] in Bounty, where long-ranged Brawlers will outrange her and fend Jacky off. If playing Jacky on an open map, use her Hardy Hard Hat Star Power because she can rush enemies and dodge their shots, and she can withstand more damage. Her Counter Crush Star Power is less useful since its range won't be enough to defeat long-ranged Brawlers from a range, and is used to engage in close-ranged combat.
+*In Showdown, Jacky's circular area damage mechanics along with her high damage is useful in some maps to destroy large groups of Power Cube Boxes in maps like [[Feast or Famine]], [[Dark Passage]], [[Two Thousand Lakes]] and [[Acid Lakes]]. However, since her range is short like other heavyweights, she should prioritize getting Power Cubes and should avoid immediate conflict with other Brawlers.
+*In Brawl Ball, if an enemy holding the Ball gets caught in her Super, the Ball drops. This allows teammates to quickly steal the Ball or prevent an enemy from scoring. In addition, Jacky has a high damage output, high health, and a fast movement speed, which is better justified with her Pneumatic Booster Gadget, making Jacky very viable in this event.
+*Jacky has the same movement speed as other heavyweights. This means that she can catch up to Brawlers that are escaping from her. If she has her Pneumatic Booster Gadget, this can be useful when chasing other fast Brawlers like Max and assassins, and will help in game modes like [[Brawl Ball]], [[Bounty]] and [[Showdown]]. With her high health as well, she can rush enemies and defeat them easily. However, be wary of slowing Gadgets and Supers like [[Bea]], [[Spike]], [[Lou]], and [[Emz]]'s since they will slow Jacky down, allowing them to outrun Jacky.
+*Jacky is amazing in [[Brawl Arena]]. Her levels scales very quickly, allowing her to quickly attack and corner brawlers with less damage from the middle, defeating them with ease while assisting the lane brawlers in destroying the bots due to her circular attack radius. Not only that, but Jacky also has high health, high damage output with her Counter Crush Star Power and high mobility with her Pneumatic Booster Gadget, making her extremely dangerous in this mode.
+
+===Recommended Build===
+*The quick burst of speed from her Pneumatic Booster Gadget is helpful to position Jacky quickly, escape in dangerous situations or when low on health, hunt enemies down, or secure vital items like Bolts in [[Siege]] or Gems in [[Gem Grab]].
+*Using Jacky's Rebuild Gadget is risky in normal matches, because it could result in neither team being able to break walls, effectively resulting in Jacky entering a match without a functional Gadget. However, this risk is eliminated if she is supported with teammates that can break walls, in Power Matches, where the chances of finding opponent that can break walls is higher, or in game modes with an overtime like Brawl Ball.
+*Due to the spammable nature of her Pneumatic Booster Gadget, it pairs very well with the Gadget Cooldown Gear. This will allow her to boost her speed for many more opportunities within a match, and allow for more plays based on mobility.
+*Jacky's Counter Crush Star Power increases her offensive potential, allowing her to deal significantly more damage and eliminate targets with higher health. Due to her slow reload speed, this Star Power ends up being the preferred option, since it allows Jacky to easily defeat short-range assassins like [[Mortis]], [[Edgar]], [[Kenji]], and [[Fang]]. However, be careful with tanks like [[Bull]], [[Rosa]], Draco, and [[Darryl]], as the four possess shield abilities that reduce the effectiveness of Counter Crush.
+
+===Strategies===
+*Jacky can use her Super to pull in enemies before using her attack since she requires to be close to enemies to damage them. Note that her ammo won't recharge during her Super, so make sure to reload all your ammo before you use her Super. Jacky's Super can also be used to interrupt potentially dangerous Supers (like [[Carl]]'s or [[Frank]]'s), or to drag away enemies from the goal in Brawl Ball to her. Pairing her with a Brawler that deals area damage is very effective when you use her Super, like [[Dynamike]] or [[Brock]]. First, pull the enemies in with your Super. Then, the other Brawler can attack the pulled in enemies with their Super, dealing massive damage and leading to a potential team-wipe, which can be devastating to enemies.
+*It is possible to secure a goal in [[Brawl Ball]] using Jacky's Super. First, hold the ball and aim it towards the goal. When an enemy tries to defend, pass the ball quickly and use the Super afterwards. The enemy Brawler will be unable to hold the ball, causing it to pass right past them and into the goal.
+*Jacky has excellent synergy with mobility supports like [[Gray]] and [[Max]], as both can use their Supers to facilitate Jacky's approach, allowing her to catch enemies off guard and take them down, which could even lead to the complete elimination of a team.
+
+===Other===
+*Jacky's short range limits her offensive capabilities, but she has enough range to attack enemies that are at most a tile behind walls, which she can use to her advantage by attacking enemies behind walls. This strictly limits throwers that can otherwise take cover behind walls.
+*Jacky is prone to absorbing a lot of damage. Be careful not to absorb too much damage and fuel the enemies' Super, as well as becoming an easy target in case you position yourself poorly. Use surrounding walls to pressure enemies with your presence. 
+*Jacky's attack circles around her, which means that she can attack behind her, so if an enemy approaches you from behind, you can still hit them, as long as they are close to you. However, keep in mind that her attack is instantaneous, so you cannot run to extend your range.
+*Jacky's attack is unique; auto-aiming or manually aiming renders the same attack direction and range. Because of this, players can focus on other aspects of the match such as dodging attacks and positioning, although players can still aim to see the attack range when they need to. This is especially useful with her Super, in this case try to drag the joystick to know if the enemy is in your Super range or not.
+*Jacky, despite being a tank, can't outmatch other tanks. This is because she reloads rather slowly and doesn't deal enough damage to eliminate such Brawlers with three ammos. Since all other heavyweights reload faster and/or deal more damage than her (like Bull, [[El Primo]], Frank, Rosa, [[Draco]], or Darryl), she can neither defeat heavyweights in three shots nor can she reload fast enough to get a fourth one before getting eliminated. When facing Bull, [[Shelly]], [[Griff]], [[Spike]], Rosa, [[Leon]], [[Nani]], [[Buzz]], El Primo, or Darryl, try to stay out of their range as much as possible while attacking them. Using your Pneumatic Booster Gadget to escape from them is also possible. However, with her Counter Crush Star Power, she can deal massive damage in short periods that her main attack alone wouldn't be able to deal, helping a lot in some interactions.
+*Jacky should focus on picking on low to medium health Brawlers or low-damaging and slow-reloading ones. If a Brawler reloads slower or deals less damage, Jacky can eliminate them easily as she has high health and can withstand three to five of their shots. In addition, make sure that the enemy has exhausted all their ammo so you can get close to them without taking major damage from being out-ranged.
+*Remember that Jacky does have a 1.8 second reload speed, so after attacking or defeating an enemy, you would want to stay out of the battle and heal up or reload your ammo, instead of going too aggressive on enemies.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Jackie start vo 01.ogg|Filedescription = "Let's go kick some *drill*!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill start vo 01.ogg|Filedescription = "Let's go kick some *drill*!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie lead vo 01.ogg|Filedescription = "Ha, I'm wicked good!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill lead vo 01.ogg|Filedescription = "Ha, I'm wicked good!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 01.ogg|Filedescription = "Hey! Leave me alone."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 01.ogg|Filedescription = "Hey! Leave me alone."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie kill vo 01.ogg|Filedescription = "Ha! Got you good."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill kill vo 01.ogg|Filedescription = "Ha! Got you good."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie die vo 01.ogg|Filedescription = "I'll stick a *drill* in your *drill*!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill die vo 01.ogg|Filedescription = "I'll stick a *drill* in your *drill*!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 01.ogg|Filedescription = "Drill skills? Yeah!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 01.ogg|Filedescription = "Drill skills? Yeah!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Jackie start vo 02.ogg|Filedescription = "Time to go to work."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill start vo 02.ogg|Filedescription = "Time to go to work."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie lead vo 02.ogg|Filedescription = "Jacked up Jacky does it again."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill lead vo 02.ogg|Filedescription = "Jacked up Jacky does it again."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 02.ogg|Filedescription = "You dirty *drill*!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 06.ogg|Filedescription = "You dirty *drill*!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie kill vo 02.ogg|Filedescription = "That's what you get!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill kill vo 02.ogg|Filedescription = "That's what you get!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie die vo 02.ogg|Filedescription = "*drill* and *drill*, and *drill*, and also *drill*!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill die vo 02.ogg|Filedescription = "*drill* and *drill*, and *drill*, and also *drill*!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 02.ogg|Filedescription = Jacky laughs}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 02.ogg|Filedescription = Jacky laughs}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Jackie start vo 03.ogg|Filedescription = "I'll fix this situation."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill start vo 03.ogg|Filedescription = "I'll fix this situation."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie lead vo 03.ogg|Filedescription = "This is one wicked rippa!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill lead vo 04.ogg|Filedescription = "This is one wicked rippa!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 03.ogg|Filedescription = "Why, I oughta..."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 05.ogg|Filedescription = "Why, I oughta..."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie kill vo 03.ogg|Filedescription = "Ha! I got plenty more where that came from."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill kill vo 03.ogg|Filedescription = "Ha! I got plenty more where that came from."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie die vo 03.ogg|Filedescription = "Seriously? *drill* this!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill die vo 03.ogg|Filedescription = "Seriously? *drill* this!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 03.ogg|Filedescription = "Drilla!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 04.ogg|Filedescription = "Drilla!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename =  Jackie start vo 04.ogg|Filedescription = "Outta my way, jabroni."}}'''Ultra Driller:'''
+{{Ogg|Filename =  Jackie drill start vo 04.ogg|Filedescription = "Outta my way, jabroni."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie lead vo 04.ogg|Filedescription = "*drill* yeah!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill lead vo 03.ogg|Filedescription = "*drill* yeah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 04.ogg|Filedescription = "Holy *drill*!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 04.ogg|Filedescription = "Holy *drill*!"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie kill vo 04.ogg|Filedescription = "How do you like them apples?"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill kill vo 04.ogg|Filedescription = "How do you like them apples?"}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie die vo 04.ogg|Filedescription = "What the *drill* was that?!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill die vo 04.ogg|Filedescription = "What the *drill* was that?!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 04.ogg|Filedescription = "It's drillin' time!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 06.ogg|Filedescription = "It's drillin' time!"}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 05.ogg|Filedescription = "Hey! Watch out chowderhead."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 03.ogg|Filedescription = "Hey! Watch out chowderhead."}}
+|'''Normal:'''
+{{Ogg|Filename = Jackie kill vo 05.ogg|Filedescription = "Ha. You look bored."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill kill vo 05.ogg|Filedescription = "Ha. You look bored."}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 05.ogg|Filedescription = "Come to Jacky and get some smacky!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 05.ogg|Filedescription = "Come to Jacky and get some smacky!"}}
+|-
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie hurt vo 06.ogg|Filedescription = "Bore off."}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill hurt vo 02.ogg|Filedescription = "Bore off."}}
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Jackie ulti vo 06.ogg|Filedescription = "Hey chucklehead, come over here!"}}'''Ultra Driller:'''
+{{Ogg|Filename = Jackie drill ulti vo 03.ogg|Filedescription = "Hey chucklehead, come over here!"}}
+|}
+
+==History==
+*17/03/20:
+**{{Balance|Neutral|Jacky was added to the game.}}
+**{{Balance|Neutral|Jacky's facial animations were slightly tweaked.}}
+*25/03/20:
+**{{Balance|Neutral|Jacky's Hardy Hard Hat Star Power was added.}}
+*26/03/20:
+**{{Balance|Nerf|Jacky's main attack damage was decreased to 1200 (from 1300) and delay between attacks was increased by 25%.}}
+**{{Balance|Nerf|Her Pneumatic Booster Gadget speed boost was decreased to 30% (from 38%).}}
+*07/04/20:
+**{{Balance|Nerf|Jacky's health was decreased to 5200 (from 5500).}}
+**{{Balance|Neutral|Fixed a bug that sometimes allowed Jacky to kick the ball in [[Brawl Ball]] while using her Super.}}
+*12/06/20:
+**{{Balance|Neutral|The Constructor Jacky skin was added.}}
+*16/06/20:
+**{{Balance|Nerf|Jacky's Pneumatic Booster Gadget charges were decreased to 2 (from 3).}}
+*02/07/20:
+**{{Balance|Buff|Jacky's Pneumatic Booster Gadget charges were increased to 3 (from 2).}}
+**{{Balance|Nerf|Jacky's health was decreased to 5000 (from 5200).}}
+**{{Balance|Nerf|Jacky's Pneumatic Booster Gadget speed boost was decreased to 20% (from 30%).}}
+*07/08/20:
+**{{Balance|Neutral|The Ultra Driller Jacky skin was added.}}
+*10/09/20:
+**{{Balance|Buff|Jacky's Counter Crush Star Power radius was increased to 3 tiles (from 2).}}
+*15/12/20:
+**{{Balance|Buff|Jacky's main attack damage was increased to 1280 (from 1200).}}
+**{{Balance|Buff|Her Counter Crush Star Power efficiency was increased to 30% (from 15%).}}
+*27/01/21:
+**{{Balance|Neutral|Jacky's Counter Crush no longer triggers an opposing Jacky's Counter Crush to remove damage loops.}}
+**{{Balance|Neutral|Jacky and Constructor Jacky received facial animations.}}
+*15/03/21:
+**{{Balance|Neutral|Jacky's walking effects were slightly reworked.}}
+*07/04/21:
+**{{Balance|Buff|Jacky's Counter Crush Star Power radius was increased to 4 tiles (from 3).}}
+*16/06/21:
+**{{Balance|Buff|Jacky gained a Trait where she can now charge her Super from receiving damage.}}
+**{{Balance|Nerf|Jacky's Hardy Hard Hat Star Power damage reduction was decreased to 10% (from 15%).}}
+*17/06/21:
+**{{Balance|Nerf|The Super charge rate from her Trait was decreased to 20% (from 30%).}}
+*21/06/21:
+**{{Balance|Neutral|The Jet Ski Jacky skin was added. It was featured as a Power League skin for Brawl Pass Season 7.}}
+*25/08/21:
+**{{Balance|Neutral|The Super charge rate from her Trait is now based on Jacky's max health.}}
+*28/09/21:
+**{{Balance|Buff|Jacky's Super activation delay was removed.}}
+**{{Balance|Buff|Jacky's Super no longer stops her from moving and she can attack earlier after using it.}}
+*30/09/21:
+**{{Balance|Buff|Jacky's Hardy Hard Hat Star Power damage reduction was increased to 15% (from 10%).}}
+**{{Balance|Nerf|Jacky's health was decreased to 4600 (from 5000).}}
+**{{Balance|Nerf|Jacky's main attack damage was decreased to 1160 (from 1280).}}
+**{{Balance|Nerf|The number of hits necessary to charge Jacky's Super was increased to 5 hits (from 4).}}
+*27/10/21:
+**{{Balance|Buff|Jacky's health was increased to 5000 (from 4600).}}
+**{{Balance|Buff|The number of hits necessary to charge Jacky's Super was decreased to 4 hits (from 5).}}
+**{{Balance|Nerf|Jacky's Super no longer provides her damage reduction.}}
+**{{Balance|Neutral|Jacky's class was changed to Tank (from Heavyweight).}}
+*16/12/21:
+**{{Balance|Neutral|Jacky's True Silver and True Gold skins were added.}}
+**{{Balance|Neutral|Fixed an issue where Jacky was doing 1 damage at the very edge of her attack.}}
+*21/12/21:
+**{{Balance|Neutral|The Gift Express Jacky skin was added. It was featured as a Brawlidays 2021 skin.}}
+*01/03/22:
+**{{Balance|Buff|Jacky's Hardy Hard Hat Star Power damage reduction was increased to 20% (from 15%).}}
+*27/04/22:
+**{{Balance|Neutral|Jacky's Rebuild Gadget was added.}}
+*29/07/22:
+**{{Balance|Neutral|The Jacky Cooky skin was added. It was featured as a BT21 skin.}}
+*31/08/22:
+**{{Balance|Buff|Jacky's main attack damage was increased to 1240 (from 1160).}}
+*12/12/22:
+**{{Balance|Neutral|Jet Ski Jacky's main attack visual effects were slightly reworked.}}
+**{{Balance|Neutral|Jacky's Counter Crush Star Power visual effects when she's damaged were slightly reworked.}}
+*25/04/23:
+**{{Balance|Neutral|Jet Ski Jacky now costs 149 [[Gems]] (from 25000 [[Star Points]]).}}
+*15/08/23:
+**{{Balance|Buff|Jacky's Pneumatic Booster Gadget speed boost was increased to 25% (from 20%), and its duration was increased to 4 seconds (from 3).}}
+*05/09/23:
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+*22/09/23:
+**{{Balance|Neutral|Jacky's Seismic Event Hypercharge was added.}}
+*24/10/23:
+**{{Balance|Neutral|Fixed an issue with tooltips on upgrading Jacky.}}
+**{{Balance|Neutral|Jacky's flavor text was changed from "Jacky works her Jackhammer to shake up the ground and nearby enemies. Her Super pulls in nearby foes, leaving them in the dust!" to "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer"}}
+*27/02/24:
+**{{Balance|Buff|Jacky Seismic Event Hypercharge shield boost was increased to 25% (from 15%).}}
+**{{Balance|Nerf|Jacky Seismic Event Hypercharge damage boost was decreased to 5% (from 25%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+*23/04/24:
+**{{Balance|Neutral|The Wave Hopper Jacky skin was added. It was featured as a Ranked skin.}}
+*01/07/24:
+**{{Balance|Neutral|Fixed an issue where Jacky Cooky's walking animation was missing.|Change=Neutral}}
+*05/08/24:
+**{{Balance|Neutral|The Cuttlefish Jacky skin was added. It was featured as a Deep Sea League skin.}}
+*27/08/24:
+**{{Balance|Neutral|Fixed Cuttlefish Jacky's missing smile on her mask.}}
+*25/02/25:
+**{{Balance|Content=Jacky's Pneumatic Booster Gadget duration was changed to 4 seconds in the description (from 4.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Nerf|Jacky's level up health was decreased to 500 (from 750) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Jacky's level up damage was decreased to 2% (from 4%) in Brawl Arena.}}
+**{{Balance|Neutral|Fixed Jacky's Rebuild Gadget acting as a shield in Brawl Arena.}}
+*24/06/25:
+**{{Balance|Nerf|Content=Jacky's Health was decreased to 4700 (from 5000).}}
+*23/07/25:
+**{{Balance|Neutral|Fixed an issue where Jacky caused massive damage with the Counter Crush Star Power equipped in [[Dodgebrawl]].}}
+*28/08/25:
+**{{Balance|Neutral|The Knight Jacky skin was added. It was featured as a Knights! skin.}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Jacky's Seismic Event Hypercharge speed boost from 25%.}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Jacky's Seismic Event Hypercharge shield boost from 25%.|Change=nerf}}
+*16/12/25:
+**{{Balance|Buff|Jacky's health was increased to 5000 (from 4700).}}
+*22/04/26:
+**{{Balance|Buff|Jacky's level up damage was increased to 4% (from 2%) in Brawl Arena.}}
+**{{Balance|Buff|Jacky's level up reload speed boost was increased to 2% (from 1.5%) in Brawl Arena.}}
+**{{Balance|Content=Jacky's Seismic Event Hypercharge slow was decreased to 150 points (from 350).|Change=Nerf}}
+**{{Balance|Content=Jacky's Seismic Event Hypercharge slow now only affects those in the Super's radius (from 8.67 tiles).|Change=Nerf}}
+**{{Balance|Content=Jacky's Seismic Event Hypercharge slow visual effects were reworked.|Change=Neutral}}
+*08/05/26:
+**{{Balance|Neutral|The Esports Jacky Skin was added. It was featured as a Brawl Stars Championship 2026 skin.}}
+*30/06/26:
+**{{Balance|Content=Jacky's Pneumatic Booster Gadget speed boost was changed to 25% (from 195 points).|Change=Nerf}}
+*08/07/26:
+**{{Balance|Content=Jacky's health was increased to 5200 (from 5000).|Change=Buff}}
+*01/09/26:
+**{{Balance|Buff|Jacky's Hardy Hard Hat Star Power damage reduction was increased to 25% (from 20%).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Jacky's movement speed to 800 (from 770).}}
+**{{Balance|Change=Neutral|Content=Fixed an issue where Jacky's Pneumatic Booster Gadget didn't increase her reload speed properly.}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=Constructor|Cost1=Free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Gift Express|Cost2=Free from Presents or 79 Gems • '''S'''|Campaign2=Brawlidays|Rarity2=Super Rare
+|Name3=Cuttlefish|Cost3=Free from Smoothie Drops or 79 Gems|Campaign3=Deep Sea League|Rarity3=Super Rare
+|Name4=Ultra Driller|Cost4=149 Gems|Campaign4=Max Force|Rarity4=Epic
+|Name5=Jet Ski|Cost5=149 Gems • '''E'''|Campaign5=Ranked|Campaign5_2 = Summer of Brawl|Rarity5=Epic
+|Name6=Jacky Cooky|Cost6=149 Gems|Campaign6=BT21|Rarity6=Epic
+|Name7=Wave Hopper|Cost7=Free from Ranked Starr Drops or 149 Gems|Campaign7=Ranked|Campaign7_2 = Summer of Brawl|Rarity7=Epic
+|Name8=Esports|Cost8=149 Gems • '''S'''|Campaign8=BSC 2026|Rarity8=Epic
+|Name9=Knight|Cost9=Free from Cosmo Boxes or 199 Gems|Campaign9=Knights!|Rarity9=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Jacky
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Gift Express|Happy}}
+{{Pin Table|Jacky Cooky}}
+{{Pin Table|Ultra Driller}}
+{{Pin Table|Jet Ski}}
+{{Pin Table|Wave Hopper}}
+{{Pin Table|Cuttlefish|Special}}
+{{Pin Table|Knight|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Jacky|Rarity = Common}}
+|{{Spray|Type = Jacky Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Jacky Cooky|Rarity = Common}}
+|{{Spray|Type = Knight Jacky|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Jacky1}}
+|{{Pfp|Jacky2}}
+|{{Pfp|Jacky3}}
+|{{Pfp|Jacky4}}
+|{{Pfp|Jacky Cooky}}
+|-
+|{{Pfp|Jet Ski Jacky}}
+|{{Pfp|Wave Hopper Jacky}}
+|{{Pfp|Ultra Driller Jacky}}
+|{{Pfp|Knight Jacky}}
+|}
+
+{{Navigation}}
+[[ru:Джеки]]

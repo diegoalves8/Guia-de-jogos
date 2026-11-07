@@ -1,0 +1,83 @@
+{{Location Infobox
+|name     = Forgotten Island
+|image    = FImap.png
+|type     = Island
+|sea      = Second Sea
+|level    = 1425-1500
+|music    = Exploring the Ruins
+|prev     = Ice Castle
+|next     = Indra Island
+}}
+{{MapTab}}
+
+The '''Forgotten Island''' is the final [[Locations|island]] in the [[Second Sea]].
+
+==Appearance==
+The Forgotten Island is relatively large, consisting of one big mainland on a cliff with houses on it, a decent-sized beach, and an enormous skull in front of the cliff. There is another mini island behind the cliff mainland, where the [[Tide Keeper]] spawns.
+
+==Location==
+The Forgotten Island is located in between [[Snow Mountain]] and [[Hot and Cold]], in the [[Second Sea]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Sharkman Teacher]]
+* [[Forgotten Quest Giver]]
+* [[Luxury Boat Dealer]]
+* [[Barista Cousin]] (Sometimes)
+* [[Set Home Point]]
+|
+* [[Sea Soldier]]
+* [[Water Fighter]]
+|
+* [[Tide Keeper]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward 
+|-
+| rowspan="3" | [[Forgotten Quest Giver]]
+|[[Sea Soldier]]
+|1425
+|Defeat 8 [[Sea Soldier]]s
+|{{Money|12,250}}<br />{{EXP|47,000,000}}
+|-
+|[[Water Fighter]]
+|1450
+|Defeat 8 [[Water Fighter]]s
+|{{Money|12,500}}<br />{{EXP|49,000,000}} 
+|-
+|[[Tide Keeper]]
+|1475
+|Defeat [[Tide Keeper]]
+|{{Money|12,500}}<br />{{EXP|51,000,000}}
+|}
+
+==Chests==
+Forgotten Island has a total of 9 [[chests]]:
+* 3 Silver Chests
+* 5 Golden Chests
+* 1 Diamond Chest
+
+==Trivia==
+* The Forgotten Island has a high number of exploiters farming [[Water Fighter]]s, so it is recommended to try to use codes for 2x XP to pass this island as soon as possible, or use a private server.
+** Due to the large number of exploiters, the Forgotten Island is also one of the best places to kill them and get lots of [[Bounty and Honor System|Bounty/Honor]].
+
+==Change History==
+{{Change History|14}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Forgotten Island| ]]
+[[Category:Last islands]]

@@ -1,0 +1,99 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Fountain City
+|image    = Fountain City.png
+|type     = Island
+|sea      = First Sea
+|level    = 625-700
+|music    = Cottage Industry
+|prev     = Upper Skylands
+|next     = Kingdom of Rose
+}}
+The '''Fountain City''' is the final [[Locations|island]] of the [[First Sea]].
+
+==Appearance==
+The most notable feature of the Fountain City is its massive fountain in the center, with water flowing downwards towards the island. The land around the island is slanted downwards, towards a large, arched seawall surrounding the island. There are many small rivers that flow away from the fountain and into the ocean through granite arches in the wall. Besides this, the island has some houses and trees, and grass where it is not paved.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Freezeburg Quest Giver]]
+* [[Set Home Point]]
+|
+* [[Galley Pirate]]
+* [[Galley Captain]]
+|
+* [[Cyborg (Boss)|Cyborg]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" | [[Freezeburg Quest Giver]]
+|[[Galley Pirate]]
+|625
+|Defeat 8 [[Galley Pirate]]s
+|{{Money|10,000}}<br />{{EXP|7.500,000}}
+|-
+|[[Galley Captain]]
+|650
+|Defeat 9 [[Galley Captain]]s
+|{{Money|10,000}}<br />{{EXP|8.500,000}}
+|-
+|[[Cyborg (Boss)|Cyborg]]
+|675
+|Defeat [[Cyborg (Boss)|Cyborg]]
+|{{Money|20,000}}<br />{{EXP|10,000,000}}
+|}
+
+== Secret Quests ==
+
+* Head to the largest, central fountain. Hit the pipes with M1s to realign them, fixing water pressure through the pipes. Once all the pipes are aligned and the water pressure is fixed, the boat will be ready to be launched out. Hop on the driver seat and be blasted off the top of the fountain into the sea.
+* There will be a platform with grey-ish wooden platforms on it to the left of the [[Freezeburg Quest Giver]]. Lift the platform  about every 15min to reveal a manhole leading to the sewers. Enter the manhole, defeat the enemies in each room, and break down the wall to continue on to the next room. In the third and final room will be the boss the player must kill.
+* When [[Cyborg (Boss)|Cyborg]] awakens, a message will appear in chat saying: '''[[System Messages|''"The junkyard has been magnetized by lightning..."'']]'''  On the ground surrounding Cyborg, the wires will be damaged. Repair them using any attack, this will start the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) repaired the junkyard wires and put the Cyborg down"'']]'''
+
+==Chests==
+In Fountain City, there are: 
+* 3 Golden Chests
+* 1 Diamond Chest
+
+== Subareas ==
+
+* Sewer
+
+==Gallery==
+<gallery>
+Fountain City Workshop.png|The workshop where the [[Cyborg_(Boss)|Cyborg]] can be found.  (prior to [[Updates/30|Update 30]]) 
+</gallery>
+
+==Trivia==
+* [[Galley Pirate]]s can be farmed at Lv. 1 for a large boost in [[Levels]] and [[Mastery]].
+* The Fountain City is the largest island in the [[First Sea]].
+* There is a diamond [[Chests|chest]] at the top of the fountain.
+* Like some of the rivers found in [[Hydra Island]], the [[water]] here will not damage [[Blox Fruit]] users.
+* Due to the fountain's great height, the Fountain City is visible from anywhere in the [[First Sea]].
+* Some [[Wanted Poster|Wanted Posters]] can be found at the docks of the Fountain City.
+* It is recommended to farm the [[Cyborg (Boss)|Cyborg]] boss until Lv.725 in order to be better prepared for the [[Second Sea|Second Sea]].
+* There is a glitch where, by dashing into one of the poles on the bridges, the player can be flung into the air.
+* As of Update 30, the whole island has been reworked.
+* When you unlock the Galley Captains quest, it is recommended to keep grinding the Galley Pirates.
+
+==Change History==
+{{Change History|5}}
+
+==Navigation==
+{{IslandNavigation}}
+[[Category:Islands]]
+[[Category:Locations]]
+[[Category:First Sea]]
+[[Category:Last islands]]

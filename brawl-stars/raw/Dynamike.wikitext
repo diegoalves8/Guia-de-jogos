@@ -1,0 +1,452 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Birdie, birdie, birdie!|PrestigeTitle = BOOMBASTIC|Rarity = Super Rare|Class = Artillery|MovementSpeed = 800 (Fast)<br>960 (with Fidget Spinner)|GadgetCharges = 3|VoiceActor = Jas Patrick|Health = 3000|HealthLabel = Health|AttackRange = 7.33 (Long)|Reload = 1.4 seconds (Fast)|AttackBullets = 2|AttackSuperCharge = 25%|Attack = 800|AttackLabel = Damage per dynamite|SuperRange = 7.33 (Long)|SuperSuperCharge = 50.05%|Super = 2200|SuperLabel = Damage|AttackSpeed=1900|SuperSpeed=1600<br>1900 (split projectiles; with Hypercharge)|SuperWidth=|SuperMinionRange=2.67|SuperMinion=Explosion|Gadget1Label= Damage per dynamite|Gadget1Name = Fidget Spinner|Gadget1 = 2240|Gadget1Cooldown = 12 seconds|Gadget2Name = Satchel Charge|Gadget2Cooldown = 23 seconds|StarPower2Name = Demolition|StarPower2 = 1440|StarPower2Label = Damage Increase|HyperchargeMultiplier=30%|Previous=Jessie|Next=Rico|AttackHyperchargeCharge=7.5%|SuperHyperchargeCharge=15%|Gadget1Duration=2 seconds|Gadget1Range=2.33–8.67}}
+{{Quote|Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!}}
+{{Portrait}}
+Dynamike is a {{Rarity|Super Rare}} [[Brawler]] who has moderately low health, a fast reload speed, a high damage output, and an above-average movement speed. He was one of the 15 Brawlers who released at the first Beta launch. He attacks by lobbing sticks of dynamite over obstacles at a long range that blow up and deal high damage in a medium radius. For his Super, he lobs a large barrel of dynamite that deals very high damage and knocks surviving enemies back in a large radius while also destroying obstacles. His first Gadget, Fidget Spinner, allows him to spin with a speed boost and rapidly fire sticks of dynamite in a large radius around himself. His second Gadget, Satchel Charge, makes Dynamike's next main attack stun enemies briefly. His first Star Power, Dyna-Jump, allows his attack, Super and Hypercharge to propel him over obstacles and Brawlers. His second Star Power, Demolition, allows his Super to deal more damage. His Hypercharge, Boomer, spawns multiple sticks of dynamite from his Super upon detonation in every direction that blow up and deal high damage in a small radius.
+
+==Attack: Short Fuse==
+{{Quote|Mike tosses two sticks of dynamite, passing over any obstacles in the way. The fuses are cut as short as Mike's explosive temper!}}Dynamike lobs two sticks of dynamite over obstacles at a long range that blow up after 1 second of being thrown, each dealing damage to any enemies caught in their 1.5-tile blast radius. The two sticks spread out a short distance from each other perpendicular to the direction of the throw as they travel, and they detonate simultaneously. If both sticks' explosions hit the enemy, the attack deals massive damage. Dynamike's attack will land on the ground sooner the closer he throws his dynamite sticks to himself. Due to the fuse time being after the dynamite is thrown rather than when it lands, dynamite that lands closer will spend slightly more time on the ground than dynamite thrown farther.
+
+==Super: Big Barrel o' Boom==
+{{Quote|A big-bada-barrel of dynamite blows up cover. Any surviving enemies get knocked back on impact!}}Dynamike lobs the big barrel of dynamite that he carries on his back. The bomb has the same range as his main attack, and after 1.3 seconds of being thrown, it detonates and deals very high damage to enemies, knocks them back by 3 tiles, and destroys cover in its 2.67-tile blast radius. Just like his main attack, Dynamike's Super will land on the ground sooner the closer he throws his barrel to himself, and the fuse starts after being thrown rather than after landing. 
+
+==Gadgets==
+===Fidget Spinner===
+{{Quote|Dynamike spins furiously with 20% increased movement speed and throws multiple sticks of dynamite around himself. Each dynamite deals 2800 damage to enemies. Cooldown: 12 seconds.}}
+{{Gadget|1}}
+Dynamike rapidly fires a total of 20 sticks of dynamite at gradually increasing distances around him, each stick dealing 75% more damage than a stick from his attack upon detonation. The first stick is thrown 2.33 tiles to the right, and each stick after will be thrown 100 degrees clockwise and 0.33 tiles further out than the previous. He also gains a 20% speed boost for 2 seconds, increasing his movement speed to 960 points, but is unable to attack while this Gadget is in effect. His Dyna-Jump Star Power doesn't work with this Gadget. This Gadget's cooldown begins after the effect duration ends.
+
+===Satchel Charge===
+{{Quote|Once activated, the next main attack also stuns enemies for 1.5 seconds. Cooldown: 23 seconds.}}
+{{Gadget|2}}
+Dynamike's next attack stuns enemies hit by its explosion for 1.5 seconds. A Gadget symbol will glow above Dynamike's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Dyna-Jump===
+{{Quote|Dynamike can ride the blast wave of his explosives to jump over obstacles!}}
+{{StarPower|1}}
+Dynamike's main attack, Super, and Hypercharge can propel him into the air to jump a short distance opposite and away from the detonation point. He can use this to jump over obstacles and attacks. His main attack propels him 3 tiles, and his Super propels him 5 tiles. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Dynamike is completely immune to all damage besides status effects and damage applied over time. The jump is considered a self-knockback and as such, it is affected by the Sick Beats modifier.
+
+===Demolition===
+{{Quote|Adds +1600 damage to Mike's Super.}}
+{{StarPower|2}}
+Dynamike's Super deals a dynamite stick's worth of extra damage. This doesn't affect other aspects of his Super.
+
+==Hypercharge: Boomer==
+{{Quote|Super bomb spawns smaller bombs.}}{{Hypercharge}}
+When activated, Dynamike's Super spawns 8 smaller bombs in any direction upon detonation, each dealing 30% of the Super's damage to any enemies caught in their blast radius. The Dyna-Jump Star Power works with his Hypercharged Super, as well as the smaller bombs that split from it. He also gains a 20% speed, as well as a 5% damage and shield boost.
+
+==Tips==
+=== Game Modes and Maps ===
+*In [[Gem Grab]] or [[Siege]], throwing an attack near a Gem/Bolt can drive enemies away from it, therefore allowing Dynamike or his teammates to retrieve the item more easily and preventing enemies from retrieving it. The same strategy works with Tick.
+*In [[Showdown]], if your enemy is near the gas, you can throw your Big Barrel o' Boom to knock them into the gas for them to take extra damage. The Super already deals massive damage, and when with coupled with the gas, it can secure a defeat against low-medium health enemies. Your Demolition Star Power amplifies this strategy's effectiveness.
+*With his high-damage attacks, decent range, and ability to attack from behind walls, Dynamike is an excellent choice in [[Heist]]. If he hides safely behind a wall, he can consistently hit the Safe with both of his sticks, even when auto-aiming, and his splash damage may also catch some enemies with it. This is more effective with his Demolition Star Power, as that increases the damage dealt to the Safe.
+
+===Recommended Build===
+*His Fidget Spinner Gadget is useful for checking bushes because it covers an extremely wide area. He can also use his Gadget to reliably defeat low-health enemies who are very close to him, which would be otherwise very hard to hit with his main attack. His Fidget Spinner Gadget is also useful in [[Heist]] due to the large amount of dynamite it fires, so make sure you move slightly clockwise to maximize its damage.
+*Dynamike's attack fuse makes it hard for him to defend. His Satchel Charge Gadget allows him to burst enemies down safely, especially low-health ones. This is also incredibly useful in Heist when attempting to take out heavyweights. His reliance on this Gadget makes it more niche in offense-oriented modes such as [[Bounty]], where stuns are valuable tools to have.
+*Dynamike's Dyna-Jump Star Power takes many hours to master but is very rewarding. This Star Power will reduce or eliminate his counters' abilities to counter him. An effective strategy with this is Dyna-Jumping and right before it takes effect, throw a Satchel Charge attack at your enemies to trick them and easily defeat them.
+*A moderately difficult but useful strategy is double-jumping with his Dyna-Jump. To do this, throw a shot at your feet and then quickly throw another shot parallel and 1-2 tiles away from the first shot. The first shot will propel you forward and if your timing and position are right, it'll propel you towards the second shot for that shot to propel you. It's much trickier with his Super as you'll have to throw an attack further. Double-jumping will take a lot of practice to master, but it can assist you in many situations and if you master it, you can even triple-jump or quad-jump and avoid getting hit for the while that you're jumping. Though the timing is tricky, it's possible to jump over enemy attacks with Dynamike's Dyna-Jump Star Power. This is rare, but can help in sticky situations when under heavy fire.
+*His Dyna-Jump Star Power is effective to escape from danger by throwing dynamite at your feet. This not only damages nearby enemies, but also throws you far enough away from enemies to avoid damage, and allows for a speedy escape over walls. In desperate situations, his Super propels him even further, making it a more reliable tool for escape while also being able to damage and even defeat enemies due to the large amounts of damage dealt by the Super or attack. He can also utilize it to boost him towards vital areas or items such as the zones in [[Hot Zone]].
+*Dynamike's Demolition Star Power can be used to fool enemies when they head into enclosed areas that you're in. This especially works with [[Edgar]], [[Mico]], [[Leon]], [[Crow]], [[Mortis]], or [[Surge]] as they don't have wall-breaking abilities, making them unable to escape from his Super.
+*Dynamike's Satchel Charge Gadget and Demolition Star Power is a good build for Dynamike. In certain situations, Dynamike can stun enemies and then throw his Super at them. Due to the stun, the enemy won't be able to dodge the Super as people often do nor can they provide counter fire. Demolition deals a lot of damage to the enemy and, coupled with the attack, it'll incinerate out medium-to lower-health Brawlers. For tanks, throw more attacks with the Super to knock them out while they're stunned. Though not necessary, Demolition, if available, should definitely be used because it aids in taking out or heavily damaging Brawlers, especially tanks.
+*While Fidget Spinner can be used to check bushes or flee from Assassins, Satchel Charge is almost always better, especially when you have your Super ready and with Demolition equipped. Enemies hit by Satchel Charge have no chance of escaping your Super, and you can easily get a free Super back, or half of your Super if only one enemy is hit.
+*Shield and Gadget Cooldown gears are best for Dynamike because his Satchel Charge Gadget takes a long time to recharge, at 23 seconds. He also doesn't have a lot of health and gets easily ambushed by Assassins, so having more HP is beneficial to him. Damage Gear can be used to make your Super more deadly as it will deal 6,660 damage when you're below 50% HP with Demolition equipped, but it's risky to use due to his low health and vulnerability.
+*Demolition is usually the better Star Power to use for Dynamike, as it makes his Super more dangerous by increasing its damage to 6,000. However, Dyna-Jump can be used to defend yourself against Tanks or Assassins, as you can fly away when you're close enough to your Super, Hypercharge, or main attack, though it is hard to use this Star Power to its full advantage.
+
+===Strategies===
+*A difficult but rewarding tactic with Dynamike is where you aim Dynamike's Super and quickly toss a main attack in such a way that Super can push enemies into the sticks of dynamite. This deals extreme amounts of damage to them and usually eliminates them unless they're heavyweights like [[Frank]], [[Bull]], [[Darryl]], [[Draco]], or [[El Primo]]. If the enemy had enough health and the sticks of dynamite were perfectly placed, Dynamike also instantly recharges his Super, in which he can chain Supers.
+*Assassins are huge counters to Dynamike due to their above-average speeds and traveling abilities, which help him escape Dynamike's delayed shots, so watch out for them before they can burst you down. Alternatively, if caught by them, you can use Satchel Charge to possibly change the fate of the fight, though this only works if you land the shot correctly or specifically for [[Mortis]] waste his ammo so it's easier to land the shot. You can also use your Fidget Spinner Gadget's speed boost to escape before they get too close to you, but it isn't very useful when they've already reached you because of again, assassins' traveling abilities and fast movement speed.
+*If a close-range Brawler is chasing you, throw your dynamites a little ahead of you. This can stop them from following or deal damage. With his Dyna-Jump Star Power, you can also surprise enemies and increase your chances of escaping.
+*Hiding behind a wall within a bush in front of it and throwing the dynamite towards the enemy from there can be effective since it's difficult for most other Brawlers to reach you, and they'll be caught by surprise due to you being hidden. This also means that his Satchel Charge Gadget, if activated, will be more likely to hit, which can be devastating towards an opponent and enable Dynamike to easily decimate them.
+*Dynamike should not be touching a wall directly when facing a [[Brock]], [[Hank]], [[Squeak]], or [[Jacky]], as their attacks can still hit him despite the wall being in front. It is important to keep a buffer distance from the wall to force them to come closer and attack them from range.
+*Dynamike's dynamites can deal massive damage if thrown correctly. Since the dynamite has a delay before blowing up, try predicting the enemy's movement and throwing it where the enemy is likely to be by the time the dynamite detonates. Auto-aiming almost guarantees a miss against moving enemies, but if in a pinch, auto-aiming is more reliable when enemies are farther away. You may also want to throw two pairs of dynamites in succession in two different areas as it's more likely that at least one will hit and still deal a decent amount of damage.
+*If there's a [[Meeple]] on your team, have them use their Mansions of Meeple Gadget so you can throw dynamite into the dice towers, blowing up enemies from a safe distance. However, Dynamike's Super will destroy the towers, so refrain from using it unless the walls are about to expire or the enemies will be defeated by it.
+
+===Other===
+*Try throwing your Super to damage at least two enemies, because as it deals enough damage to charge another Super, allowing you to chain Supers and deal plethoras of damage.
+*The spread between Dynamike's dynamites decreases as he throws the sticks closer to himself, making it significantly harder to hit enemies close to him. However, he can also use this to his advantage as such enemies are more likely to be hit by both dynamites and will take more damage.
+*Be very careful when using your Super. Since it can break walls, it will remove protective barriers for him, and may inevitably make him more vulrenable to direct attacks. However, he can be more effective at breaking walls than other Brawlers, due to being able to aim at the wall directly regardless of his distance from it.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy start vo 01.ogg|Filedescription = "I've got a short fuse."}}'''Robo:'''
+{{Ogg|Filename = Mech mike start vo 01.ogg|Filedescription = "I've got a short fuse."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 01.ogg|Filedescription = "Rotten and ready to rumble!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy lead 01.ogg|Filedescription = "Birds are singin'."}}'''Robo:'''
+{{Ogg|Filename = Mech mike lead vo 01.ogg|Filedescription = "Birds are singin'."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost lead vo 02.ogg|Filedescription = "Ooh, my souls still lit!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy hurt 01.ogg|Filedescription = "Huh?"}}'''Robo:'''
+{{Ogg|Filename = Mech mike hurt vo 01.ogg|Filedescription = "Huh?"}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost hurt vo 01.ogg|Filedescription = "I've got a bone to blast!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy kill 01.ogg|Filedescription = "Kapowie."}}'''Robo:'''
+{{Ogg|Filename = Mech mike kill vo 01.ogg|Filedescription = "Kapowie."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 07.ogg|Filedescription = "Kapow!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy die 01.ogg|Filedescription = "Yow!"}}'''Robo:'''
+{{Ogg|Filename = Mech mike die vo 01.ogg|Filedescription = "Yow!"}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 01.ogg|Filedescription = "Down in the dungeon."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy ulti 01.ogg|Filedescription = Dynamike laughs}}'''Robo:'''
+{{Ogg|Filename = Mech mike ulti vo 01.ogg|Filedescription = Dynamike laughs}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 01.ogg|Filedescription = "Candelabras of chaos!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy start vo 02.ogg|Filedescription = "Here, birdie birdie birdie."}}'''Robo:'''
+{{Ogg|Filename = Mech mike start vo 02.ogg|Filedescription = "Here, birdie birdie birdie."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 02.ogg|Filedescription = "Here, ghosty ghosty ghosty."}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy lead 02.ogg|Filedescription = "Not bad for an old-timer."}}'''Robo:'''
+{{Ogg|Filename = Mech mike lead vo 02.ogg|Filedescription = "Not bad for an old-timer."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost lead vo 01.ogg|Filedescription = "Not half bad for an undead candle holder!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy hurt 02.ogg|Filedescription = "Don't touch my canary."}}'''Robo:'''
+{{Ogg|Filename = Mech mike hurt vo 02.ogg|Filedescription = "Don't touch my canary."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost hurt vo 02.ogg|Filedescription = "Who disturbs the undead?"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy kill 02.ogg|Filedescription = "Dyno-mite!"}}'''Robo:'''
+{{Ogg|Filename = Mech mike kill vo 02.ogg|Filedescription = "Dyno-mite!"}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 02.ogg|Filedescription = "Undead and unhinged!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy die 02.ogg|Filedescription = "Ow!"}}'''Robo:'''
+{{Ogg|Filename = Mech mike die vo 02.ogg|Filedescription = "Ow!"}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 06.ogg|Filedescription = "Ow!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy ulti 02.ogg|Filedescription = Dynamike laughs}}'''Robo:'''
+{{Ogg|Filename = Mech mike ulti vo 02.ogg|Filedescription = Dynamike laughs}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 02.ogg|Filedescription = "Boom baby boom, candle inferno!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy start vo 03.ogg|Filedescription = "Who wants some TNT?"}}'''Robo:'''
+{{Ogg|Filename = Mech mike start vo 03.ogg|Filedescription = "Who wants some TNT?"}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 03.ogg|Filedescription = "Who wants some creepy candles?"}}
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost lead vo 03.ogg|Filedescription = "Oh, you wanna take the lead? Bring a shovel!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy hurt 03.ogg|Filedescription = "I'm gettin' grumpy."}}'''Robo:'''
+{{Ogg|Filename = Mech mike hurt vo 03.ogg|Filedescription = "I'm gettin' grumpy."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost hurt vo 03.ogg|Filedescription = "I'll haunt you for that!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy kill 03.ogg|Filedescription = Dynamike chuckles}}'''Robo:'''
+{{Ogg|Filename = Mech mike kill vo 03.ogg|Filedescription = Dynamike chuckles}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 03.ogg|Filedescription = "I might be dusty, but my aim ain't rusty!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy die 03.ogg|Filedescription = Dynamike whimpers}}'''Robo:'''
+{{Ogg|Filename = Mech mike die vo 03.ogg|Filedescription = Dynamike whimpers}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 03.ogg|Filedescription = "Ah! I should've stayed dead!"}}
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 03.ogg|Filedescription = "Candles of carnage!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy start vo 04.ogg|Filedescription = "Down the mine."}}'''Robo:'''
+{{Ogg|Filename = Mech mike start vo 04.ogg|Filedescription = "Down the mine."}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 04.ogg|Filedescription = "Haunted and lit."}}
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost lead vo 04.ogg|Filedescription = "The wonder from six feet under, can you dig it?"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy hurt 04.ogg|Filedescription = Dynamike blows}}'''Robo:'''
+{{Ogg|Filename = Mech mike hurt vo 04.ogg|Filedescription = Dynamike blows}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost hurt vo 04.ogg|Filedescription = "Oh, my bones are rattling!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy kill 04.ogg|Filedescription = Dynamike chuckles}}'''Robo:'''
+{{Ogg|Filename = Mech mike kill vo 04.ogg|Filedescription = Dynamike chuckles}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 04.ogg|Filedescription = "Gloomy kaboomy!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy die 04.ogg|Filedescription = Dynamike cries}}'''Robo:'''
+{{Ogg|Filename = Mech mike die vo 04.ogg|Filedescription = Dynamike cries}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 05.ogg|Filedescription = Dynamike cries}}
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 04.ogg|Filedescription = "Candle for your thoughts."}}
+|-
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 05.ogg|Filedescription = "I see dead birdies."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy hurt 05.ogg|Filedescription = Dynamike grunts}}'''Robo:'''
+{{Ogg|Filename = Mech mike hurt vo 05.ogg|Filedescription = Dynamike grunts}}
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 05.ogg|Filedescription = "Oh, lighten the fuse of fear!"}}
+|'''Normal:'''
+{{Ogg|Filename = Tnt guy die 05.ogg|Filedescription = Dynamike groans}}'''Robo:'''
+{{Ogg|Filename = Mech mike die vo 05.ogg|Filedescription = Dynamike groans}}'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 04.ogg|Filedescription = "Booing blast."}}
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 05.ogg|Filedescription = "Barrels of doom boom."}}
+|-
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost start vo 06.ogg|Filedescription = "Time to haunt and hurl!"}}
+|
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 06.ogg|Filedescription = "Lights out for you!"}}
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost die vo 02.ogg|Filedescription = "Ah! I'm all burnt out!"}}
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost ulti vo 06.ogg|Filedescription = "Kaboom doom!"}}
+|-
+|
+|
+|
+|'''Possessed:'''
+{{Ogg|Filename = Dynamike ghost kill vo 01.ogg|Filedescription = "Rest in pieces!"}}
+|
+|
+|
+|}
+
+==History==
+*20/06/17:
+**{{Balance|Content=Dynamike's main attack damage was increased to 160 (from 140) per dynamite.|Change=Buff}}
+*27/06/17:
+**{{Balance|Content=Dynamike's Super damage was increased to 500 (from 400).|Change=Buff}}
+*16/08/17:
+**{{Balance|Content=Dynamike's main attack damage was increased to 180 (from 160) per dynamite.|Change=Buff}}
+**{{Balance|Content=His Super damage was increased to 540 (from 500).|Change=Buff}}
+**{{Balance|Content=The delay and projectile speed for his main attack and Super were decreased to 1.4 seconds (from 1.5).|Change=Buff}}
+*12/09/17:
+**{{Balance|Content=Dynamike's health was increased to 700 (from 600).|Change=Buff}}
+*05/10/17:
+**{{Balance|Content=Dynamike's Super damage was decreased to 500 (from 540).|Change=Nerf}}
+*07/12/17:
+**{{Balance|Content=Dynamike's Super recharge rate was decreased by 17%.|Change=Nerf}}
+**{{Balance|Content=Dynamike's Dyna-Jump Star Power was added.|Change=Neutral}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+*16/01/18:
+**{{Balance|Content=Dynamike's main attack damage was increased to 800 (from 720) per dynamite.|Change=Buff}}
+*21/03/18:
+**{{Balance|Content=Dynamike's main attack projectile speed was increased by 14%.|Change=Buff}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Dynamike's movement speed to 720 (from 650).|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Dynamike's main attack and Super projectile speeds were increased by 12%.|Change=Buff}}
+*09/04/18:
+**{{Balance|Content=Dynamike's main attack and Super projectile speeds were increased by 10%.|Change=Buff}}
+*21/05/18:
+**{{Balance|Content=Dynamike's main attack and Super projectile speeds were decreased by 5%.|Change=Nerf}}
+*19/06/18:
+**{{Balance|Content=Dynamike's main attack damage was decreased to 760 (from 800) per dynamite.|Change=Nerf}}
+*31/08/18:
+**{{Balance|Content=Dynamike's Super explosion delay was increased to 1.3 seconds (from 1.1).|Change=Nerf}}
+*05/12/18:
+**{{Balance|Content=Dynamike was remodeled.|Change=Neutral}}
+*20/12/18:
+**{{Balance|Content=The Santa Mike skin was added. It was featured as a Brawlidays 2018 skin.|Change=Neutral}}
+*18/01/19:
+**{{Balance|Content=The Spicy Mike skin was added.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Dynamike's Super damage was increased to 2200 (from 2000).|Change=Buff}}
+**{{Balance|Content=Dynamike's Super recharge rate was decreased by 10%.|Change=Nerf}}
+*26/06/19:
+**{{Balance|Content=Dynamike's Super recharge rate was increased by 1%.|Change=Buff}}
+*10/07/19:
+**{{Balance|Content=Dynamike's Demolition Star Power was added.|Change=Neutral}}
+*19/07/19:
+**{{Balance|Content=The Robo Mike skin was added.|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Dynamike's main attack damage was increased to 800 (from 760) per dynamite.|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget was added.|Change=Neutral}}
+*02/04/20:
+**{{Balance|Content=The Coach Mike skin was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget no longer stops Dynamike from moving.|Change=Buff}}
+*02/07/20:
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget now boosts his movement speed upon activation.|Change=Buff}}
+*02/09/20:
+**{{Balance|Content=Dynamike's Satchel Charge Gadget was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=The number of hits necessary to charge Dynamike's Super was decreased to 4 hits (from 5).|Change=Buff}}
+**{{Balance|Content=Fixed an issue where Dynamike's Satchel Charge Gadget stun effect was only applied to one dynamite stick.|Change=Neutral}}
+*23/11/20:
+**{{Balance|Content=The Bellhop Mike skin was added. It is featured as a Brawl Pass Season 4 exclusive skin.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Dynamike's reload time was decreased to 1.6 seconds (from 1.7).|Change=Buff}}
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget damage was increased to 1200 (from 700) per dynamite.|Change=Buff}}
+*27/01/21:
+**{{Balance|Content=Dynamike and his skins received facial animations.|Change=Neutral}}
+*27/03/21:
+**{{Balance|Content=The PSG Mike skin was unlockable by winning the PSG Cup 2021 in-game challenge.|Change=Neutral}}
+*19/05/21:
+**{{Balance|Content=Dynamike's movement speed was increased to 770 (from 720).|Change=Buff}}
+*09/07/21:
+**{{Balance|Content=Dynamike's Latin America Master League skins were added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Dynamike's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=His class was changed to Damage Dealer (from Thrower).|Change=Neutral}}
+*24/11/21:
+**{{Balance|Content=The Moldy Mike skin was added. It was featured as a Club League skin.|Change=Neutral}}
+*24/12/21:
+**{{Balance|Content=The Classic Dynamike skin became available for every user to claim until 09/01/22.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Dynamike's flavor text was changed from “Dynamike lobs two explosive sticks of dynamite. His Super attack is a whole barrel full of dynamite that blows up cover!” to “Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!”|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Dynamike's main attack explosion delay was decreased to 1 second (from 1.1).|Change=Buff}}
+**{{Balance|Content=Dynamike's rarity was changed to Super Rare (from Common).|Change=Neutral}}
+**{{Balance|Content=Robo Mike, Bellhop Mike, and Moldy Mike's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Dynamike's class was changed to Artillery (from Damage Dealer).|Change=Neutral}}
+*14/04/23:
+**{{Balance|Content=The Tengu Mike skin was added. It was featured as a The Ayakashi Clan skin.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget damage was increased to 2000 (from 1200) per dynamite.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Dynamike's Demolition Star Power damage bonus was increased to 1440 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Dynamike's Fidget Spinner Gadget damage was decreased to 1920 (from 2000) per dynamite but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Moldy Mike now costs 199 [[Gems]] (from 2500 [[Club Games|Club Coins]]).|Change=Neutral}}
+**{{Balance|Content=Robo Mike's takedown visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Dynamike's flavor text was changed from "Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!" to "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!"|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Dynamike's air time from his Dyna-Jump Star Power was decreased.|Change=Buff}}
+**{{Balance|Content=Dynamike's Boomer Hypercharge was added.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Dynamike's Boomer Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+**{{Balance|Content=Dynamike's Boomer Hypercharge damage boost was decreased to 25% (from 30%).|Change=Nerf}}
+**{{Balance|Content=Dynamike's Boomer Hypercharge shield boost was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+**{{Balance|Content=Dynamike, Spicy Mike, and Robo Mike's dynamites and barrel on his Brawler model are now red in match.|Change=Neutral}}
+*04/03/24:
+**{{Balance|Content=The Dynasty Mike skin was added. It was featured as a Ranked skin for Brawl Pass Season 24 and a Sands of Time skin.|Change=Neutral}}
+*22/05/24:
+**{{Balance|Content=Fixed Dynasty Mike's Super visual effects.|Change=Neutral}}
+*12/07/24:
+**{{Balance|Content=The Boomer Dynamike skin was added. It was featured as an Outlaws skin.|Change=Neutral}}
+*17/10/24:
+**{{Balance|Content=The Decaying Dynamike skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*17/12/24:
+**{{Balance|Content=The Sugar Bomb Mike skin was added. It was featured as a Brawlidays skin.|Change=Neutral}}
+*20/02/25:
+**{{Balance|Content=The Romantic Dynamike skin was added and was available for every user to claim for free until 24/02. It was featured as a My Brawlentine skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*09/06/25:
+**{{Balance|Content=The Firecracker Wizard Mike skin was added. It was featured as a Once Upon skin.|Change=Neutral}}
+*17/07/25:
+**{{Balance|Content=The Occultist, Haunted, Possessed, Ghastly, and Ghoulish Dynamike skins were added. They were featured as Pro Pass skins.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Fixed an issue where Dynamike's Pro Pass skins caused unintended damage with his Hypercharged Super.|Change=Neutral}}
+*13/08/25:
+**{{Balance|Content=Fixed an issue where the Possessed Dynamike skin was dealing less damage with his main attack than intended while hypercharged.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Neutral|Dynamike was slightly remodeled.}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Dynamike's Boomer Hypercharge speed boost from 25%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Dynamike's Boomer Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Dynamike's health was increased to 3000 (from 2800).}}
+*30/06/26:
+**{{Balance|Buff|Dynamike's reload time was decreased to 1.4 seconds (from 1.6).}}
+**{{Balance|Buff|Dynamike's Fidget Spinner Gadget speed boost was increased to 20% (from 150 points).}}
+*01/09/26:
+**{{Balance|Buff|Dynamike's Fidget Spinner Gadget damage was increased to 2800 (from 2400) per dynamite.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Dynamike's movement speed to 800 (from 770).}}
+
+==Cosmetics==
+===Skins (25)===
+{{Skin Gallery
+|Name1=Classic|Cost1 = Free from Brawlidays 2021 gift • '''E'''|Campaign1 = 2021 Anniversary|Rarity1=Epic
+|Name2=Firecracker Wizard Mike|Cost2 = Free from Ziggy Boxes, free after reaching 750 Trophies or 29 Gems|Campaign2 = Once Upon|Rarity2=Rare
+|Name3=Flamengo Mike|Cost3 = 49 Gems • '''E'''|Campaign3 = Latin America Master League|Rarity3=Rare
+|Name4=LDU Quito Mike|Cost4 = 49 Gems • '''E'''|Campaign4 = Latin America Master League|Rarity4=Rare
+|Name5=Chivas Mike|Cost5 = 49 Gems • '''E'''|Campaign5 = Latin America Master League|Rarity5=Rare
+|Name6=Santa Mike|Cost6 = 79 Gems • '''E'''|Campaign6 = Brawlidays|Rarity6=Super Rare
+|Name7=Boomer|Cost7 = Free from Classic Brawl Mega Boxes or 79 Gems|Campaign7=Outlaws|Rarity7=Super Rare
+|Name8=Decaying|Cost8 = Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign8=Brawl-o-ween|Rarity8=Super Rare
+|Name9=Sugar Bomb Mike|Cost9 = Free from Presents or 79 Gems • '''S'''|Campaign9=Brawlidays|Rarity9=Super Rare
+|Name10=Romantic|Cost10 = Free from the shop until 24/02/25, free from Love Boxes or 79 Gems|Campaign10=My Brawlentine|Rarity10=Super Rare
+|Name11=Spicy Mike|Cost11 = 149 Gems|Campaign11=Starry Meal|Rarity11=Epic
+|Name12=Coach Mike|Cost12 = 149 Gems|Campaign12=Golden Brawl Ball|Rarity12=Epic
+|Name13=PSG Mike|Cost13 = Free from the PSG Cup of 2021 or 149 Gems|Campaign13=PSG|Rarity13=Epic
+|Name14=Tengu Mike|Cost14 = Free from Nori Boxes or 149 Gems|Campaign14 = The Ayakashi Clan|Rarity14=Epic
+|Name15=Dynasty Mike|Cost15 = Free from Ranked Starr Drops or 149 Gems|Campaign15 = Ranked|Campaign15_2=Sands of Time|Rarity15=Epic
+|Name16=Moldy Mike|Cost16= Free from Wendy Boxes or 199 Gems|Campaign16=Wasteland|Rarity16=Mythic
+|Name17=Robo Mike|Cost17 = 299 Gems|Campaign17=Max Force|Rarity17=Legendary
+|TrueSkins = yes
+|NameP1=Bellhop Mike|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=Brawlidays|RarityP1=Super Rare
+|NamePP1 = Occultist|CostPP1 = Free from the Pro Pass|CampaignPP1 = Pro Pass
+|NamePP2 = Haunted|CostPP2 = Free from the Pro Pass|CampaignPP2 = Pro Pass
+|NamePP3 = Possessed|CostPP3 = Pro Pass Exclusive|CampaignPP3 = Pro Pass
+|NamePP4 = Ghastly|CostPP4 = Pro Pass Exclusive|CampaignPP4 = Pro Pass
+|NamePP5 = Ghoulish|CostPP5 = Pro Pass Exclusive|CampaignPP5 = Pro Pass}}
+
+===Portraits===
+<gallery widths="200">
+File:Dynamike Portrait.png|Default
+File:Occultist Dynamike Portrait.png|Occultist
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Dynamike
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Santa Mike|GG}}
+{{Pin Table|Tengu Mike}}
+{{Pin Table|Robo Mike}}
+{{Pin Table|Spicy Mike|Special}}
+{{Pin Table|Dynasty Mike|Thanks}}
+{{Pin Table|Moldy Mike}}
+{{Pin Table|Coach Mike|Special}}
+{{Pin Table|PSG Mike|Special}}
+{{Pin Table|Classic|Special}}
+{{Pin Table|Boomer|Special}}
+{{Pin Table|Bellhop Mike|Phew}}
+{{Pin Table|Decaying|Special}}
+{{Pin Table|Sugar Bomb Mike|GG}}
+{{Pin Table|Romantic|Special}}
+{{Pin Table|Occultist}}
+{{Pin Table|Ghastly|Special}}
+{{Pin Table|Ghoulish|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Dynamike|Rarity = Common}}
+|{{Spray|Type = Dynamike Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Tengu Mike|Rarity = Common}}
+|{{Spray|Type = Robo Mike|Rarity = Common}}
+|{{Spray|Type = Moldy Mike|Rarity = Common}}
+|-
+|{{Spray|Type = Occultist Dynamike|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Dynamike1}}
+|{{Pfp|Dynamike2}}
+|{{Pfp|Dynamike3}}
+|{{Pfp|Dynamike4}}
+|{{Pfp|Tengu Mike}}
+|-
+|{{Pfp|Robo Mike}}
+|{{Pfp|Spicy Mike}}
+|{{Pfp|Dynasty Mike}}
+|{{Pfp|Coach Mike}}
+|{{Pfp|PSG Mike}}
+|-
+|{{Pfp|Moldy Mike}}
+|{{Pfp|Classic Dynamike}}
+|{{Pfp|Occultist Dynamike}}
+|
+|
+|}
+
+{{Navigation}}
+[[es:Dynamike]]
+[[pt:Dynamike]]
+[[ru:Динамайк]]
+[[uk:Динамайк]]

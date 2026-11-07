@@ -1,0 +1,344 @@
+{{MagicWords}}{{Protection}}
+{{Chester Infobox|Title = Jack of all Trades|PrestigeTitle = Joker|Rarity = Legendary|Class = Damage Dealer|VoiceActor=Kai Skrotzki|MovementSpeed = 800 (Fast)<br>950 (with Candy Beans)|HealthLabel = Health|Health = 3800
+|AttackRange = 8.33 (Long)|AttackSpeed=3300|AttackWidth=0.67 (first sequence)|AttackBullets = 1 (first sequence)<br>2 (second sequence)<br>3 (third sequence)<br>4 (fourth sequence)|Reload = 1.9 seconds (Normal)<br>0.76 seconds (with Candy Beans)|AttackLabel = Damage per bell|AttackSuperCharge = 15.075%<br>19.5975% (4 bell sequence; with Jester's Privilege)|Attack = 670|AttackSpread=13.5° (second sequence)<br>27° (third sequence)<br>40.5° (fourth sequence)
+|Super = 1600|Super2 = 200|Super3 = 290|Super4 = 160|Super5 = 800
+|SuperLabel = Candy Popper damage|SuperLabel2 = Jawbreaker damage|SuperLabel3 = Salmiakki damage per second|SuperLabel4 = Pop Rocks damage per second|SuperLabel5 = Strong Mint heal per second
+|SuperRange = 6.33 (Normal)|SuperRange2 = 8.67 (Long)|SuperRange3 = 5.67 (Normal)<br>4.67 (with Hypercharge)|SuperRange4 = 3.67 (Short)|SuperRange5 = 
+|SuperDuration = |SuperDuration2 = 1 second|SuperDuration3 = 7 seconds|SuperDuration4 = 10 seconds<br>4 seconds (with Hypercharge)|SuperDuration5 = 3 seconds
+|SuperSuperCharge = 32%<br>40% (with Hypercharge)|SuperSuperCharge2 = 4%|SuperSuperCharge3 = 5.8%<br>11.6% (first tick)<br>7.25% (with Hypercharge)<br>13.25% (first tick; with Hypercharge)|SuperSuperCharge4 = 3.2% 
+|SuperSpread = |SuperSpread2 = |SuperSpread3 = 45°<br>360° (with Hypercharge)|SuperSpread4 = |SuperSpread5 = 
+|SuperSpeed = 800|SuperSpeed2 = 3000|SuperSpeed3 = 2000<br>1800 (with Hypercharge)|SuperSpeed4 = |SuperSpeed5 = 
+|Gadget2Duration = 5 seconds|Gadget1Name=Prankster's Surprise|Gadget1Cooldown=22 seconds|Gadget1Label=Health|Gadget1=3600|Gadget1Label2=Damage|Gadget12=1920|Gadget2Name=Candy Beans|Gadget2Cooldown=17 seconds|HyperchargeMultiplier=28%|Previous=Meg|Next=Cordelius|AttackHyperchargeCharge=4.2%|SuperHyperchargeCharge=8.95%<br>11.2% (with Hypercharge)|SuperHyperchargeCharge2=1.1%|SuperHyperchargeCharge3=1.6%<br>3.225% (first tick)<br>2.025% (with Hypercharge)<br>3.7% (first tick; with Hypercharge)|SuperHyperchargeCharge4=0.875%}}
+{{Quote|Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better... especially if that hater is [[Mandy]]!}}
+{{Portrait}}
+Chester is a {{Rarity|Legendary}} [[Brawler]] who has moderately high health, an extreme damage output, a fast movement speed, a long range, and a random Super, but a moderately slow reload speed. He was the 62nd Brawler added to the game. For his attack, he throws bells; how many bells he throws is based on a cyclic sequence. Chester's Super is one of five Supers that can either deal high damage, knock back enemies, and destroy obstacles; fire a candy boxing glove that stuns an enemy; spray a cloud of salt that deals damage over time; damage and slow down enemies in a moderate radius; or significantly heal himself over time. His first Gadget, Prankster's Surprise, hides a jack-in-the-box, which jumps out and explodes at enemies close by, randomly dealing damage, temporarily slowing, or temporarily fearing them. His second Gadget, Candy Beans, gives either a speed boost, a reload speed boost, a damage boost, or healing over time at random. His first Star Power, Single Bell 'O' Mania, increases the damage of his first attack sequence. His second Star Power, Jester's Privilege, charges his Super more with each bell hit with the fourth sequence. His Hypercharge, Crunchy, Chewy, Gooey, combines three Supers into one that deals high damage and destroy obstacles, then sprays a cloud of salt that deals damage over time and slow down enemies in a moderate radius.
+
+==Trait==
+{{Quote|This Brawler starts with a random Super that keeps changing after every use.}}{{Trait|Random}}
+Chester will have a random Super out of the 5 possible Supers Chester can use every time he charges a Super. The Super selected is always revealed, with each Super having a unique icon. If Chester dies, a round is over in [[Knockout]], or a goal is scored in [[Brawl Ball]] while his Super is charged, he will respawn with a randomized Super. In these cases, it is possible for Chester to get the same Super consecutively.
+
+==Attack: Cap and Bells==
+{{Quote|Chester shoots a sequence of bells from his cap, first one, then two, then three, and lastly four bells.}}Chester throws long-ranged bells that deal damage on hit. Chester's attack cycles in a sequence of firing one bell in a straight line, firing two bells with a spread, firing three bells with a wide spread, and firing four bells with a wider spread. Chester's attack cycles even if he doesn't hit an enemy, and if he is defeated, his attack starts with its first sequence.
+
+==Super: Jack in the Box==
+===Candy Popper===
+{{Quote|Chester throws an exploding candy popper that destroys the environment, knocking back and damaging enemies.}}
+[[File:Candy Popper.png|left|50x50px|link=]]
+Chester throws a projectile that can be thrown over obstacles, and causes an explosion upon landing, dealing splash damage to enemies and destroying obstacles in a radius, and knocking enemies back.
+
+===Jawbreaker===
+{{Quote|Chester shoots a large, hard candy that stuns enemies on hit.}}
+[[File:Jawbreaker.png|left|50x50px|link=]]
+Chester fires a candy boxing glove in a straight line, dealing damage and stunning an enemy for 1 second.
+
+===Salmiakki===
+{{Quote|Chester sprays a cone of salty salmiakki powder that poisons enemies, damaging them over time.}}
+[[File:Salmiakki.png|left|50x50px|link=]]
+Chester sprays powder in a medium-ranged cone shape. All enemies caught in the attack will take poison damage once every second for 7 seconds and take 1 tick worth of damage on impact.
+
+===Pop Rocks===
+{{Quote|Chester sprinkles crackling pop rocks on the ground, damaging enemies over time when standing on it.}}
+[[File:Pop Rocks.png|left|50x50px|link=]]
+Chester creates a radius of pop rocks around him that lasts for 10 seconds and slows by 350 points and damages enemies that stand in it over time. The damage scales with buffs and debuffs for every hit. If Chester is defeated while it is active, it would deal the base damage. This does not apply to his Hypercharge.
+
+===Strong Mint===
+{{Quote|Chester eats a refreshing mint that heals him over time.}}
+[[File:Strong Mint.png|left|50x50px|link=]]
+After a 1-second delay, Chester will heal for three pulses of health every second for 3 seconds. The healing doesn't scale with [[Showdown|Power Cubes]], outside buffs or debuffs.
+
+==Gadgets==
+===Prankster's Surprise===
+{{Quote|Chester hides a jack-in-the-box. When an enemy comes within 2 tiles, it reveals itself, briefly pauses, then hops in place and detonates on landing, randomly fearing, slowing, damaging enemies in an area. Cooldown: 22 seconds.}}{{Gadget|1}}Chester throws a jack-in-the-box in the direction the Gadget is aimed. It has 52.6% of his health and turns invisible upon landing on the ground. Once an enemy is within 2 tiles, the box reveals itself, jumps and detonates on impact. The explosion randomly chooses between dealing 179.1% of a bell's damage, leaving a slowing area behind for 3 seconds, or fearing nearby enemies for 2 seconds.
+
+{{Quote|Throw an extra fake jack-in-the-box and hide both faster.}}{{Buffie|Gadget}}
+With the Buffie, Chester also throws a second fake projectile in a random direction that does not spawn a jack-in-the-box, confusing enemies as to where the real jack-in-the-box is.
+
+===Candy Beans===
+{{Quote|Chester eats a mystery flavored candy bean from his cap, gaining a random buff for 5 seconds. Cooldown: 17 seconds.}}{{Gadget|2}}Upon activation, Chester will be randomly given one of four temporary buffs for 5 seconds, between a 20% damage buff, healing 420 health per second, 2.5x the reload speed, or a 150-point movement speed buff. This Gadget's cooldown starts after the button is pressed.
+
+{{Quote|Defeating a Brawler instantly charges 50% of the Gadget.}}{{Buffie|Gadget}}
+With the Buffie, defeating a Brawler also decreases the Gadget's cooldown by 50%.
+
+==Star Powers==
+===Single Bell 'O' Mania===
+{{Quote|The first bell of Chester's attack sequence does 150% damage.}}{{StarPower|1}}This Star Power increases the damage of Chester's single bell attack sequence by 50%. The attack's projectile will also turn golden.
+
+{{Quote|The first bell gains a bonus based on his next Super: an additional 50% of normal damage, a slow, poison, or healing.}}{{Buffie|Star}}
+With the Buffie, Chester's first bell gains an additional buff based on his next Super. With Candy Popper, it deals 50% more damage (200% total). With Jawbreaker or Pop Rocks, enemies are slowed down for 1.5 seconds. With Salmiakki, enemies are poisoned for 2 ticks of Salmiakki damage. With Strong Mint, Chester heals for 50% of the damage done.
+
+===Jester's Privilege===
+{{Quote|Hits from Chester's 4 bell attack charge his Super by an extra 30%, without charging his Hypercharge.}}{{StarPower|2}}The projectiles from Chester's fourth attack sequence charge his Super faster by 30%.
+
+{{Quote|After using his Super, Chester's next attack fires 4 bells.}}{{Buffie|Star}}
+With the Buffie, after using his Super, Chester immediately switches to his 4-bell sequence.
+
+==Hypercharge: Crunchy, Chewy, Gooey==
+{{Quote|Chester combines 3 of his Super abilities into one. He throws a sweet that explodes and deals damage, spreads a poison cloud, and leaves a lingering slowing area to finish.}}{{Hypercharge}}
+Chester gets a new Super that is like Candy Popper, Salmiakki, and Pop Rocks Supers combined into one. Upon activating the Hypercharge, the icon of Chester's Super will change into that of his Candy Popper Super. He throws a projectile that acts like his Candy Popper Super and upon exploding, instantaneously spawns eight projectiles like that of his Salmiakki Super in a circle. 0.7 seconds after the explosion, a circular slowing area like that of his Pop Rocks Super spawns in.
+
+However, the effects of each component of his Hypercharge Super will be nerfed with respect to their regular counterparts. Candy Popper no longer knocks enemies back; the Salmiakki sprays are slightly slower, travel 1 tile less distance than the normal Super, and have a 2-tile wide blind spot at the center of the explosion; and Pop Rocks only lasts for 4 seconds instead of 10. The first tick of Salmiakki is modified to deal 15% of the explosion's damage in addition to the normal damage. If Chester is defeated before Salmiakki spawns, it would deal the base damage. Pop Rocks is also changed to deal 8% of the explosion's damage per second instead of the normal amount. Chester also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Each of Chester's main attack fires twice as many bells, with each bell dealing 65% damage.}}{{Buffie|Hyper}}
+With the Buffie, Chester's main attack fires twice as many bells with every attack sequence, but each bell deals 65% of the damage. Chester's Single Bell 'O' Mania Star Power and its Buffie do not take effect on the converted 2-bell sequence. Increased Hypercharge duration by 2 seconds.
+
+==Tips==
+*If you forget how many bells Chester's next attack will fire, look at the attack spread. The 1-bell stage has a rectangular hitbox similar to most single-projectile attacks, while the other stages have cone-shaped hitboxes with varying sizes of spread.
+*Consider getting close to enemies when using his 3/4 bells attack. If you have difficulty approaching, try using his Candy Beans Gadget or his Jawbreaker Super. When you are fighting against assassins, by having 3-4-1 sequences you can deal a massive burst of damage in a very short time which is enough to kill most assassins with 3-4 bells. When you are having a close combat with Tanks 2-3-4 sequence is recommended to maximize damage deal to enemies.
+*Even though enemies might know what Super you have, his Candy Popper Super is effective at distancing enemies near your spawn, while not pushing them too far back to hit only one bell from Chester's attack.
+*At the start of the game, shoot one bell so that Chester will have his second, third, and fourth bells waiting. With Chester's next bells, you will be able to kill most Brawlers. 
+*He is a very viable option in [[Knockout]], very versatile and can come back from a 1v3 situation with his Supers.
+*The best setup for Chester is the Candy Beans Gadget and his Single Bell 'O' Mania Star Power, and it's recommended to have the Gadget Cooldown and Shield Gears equipped in order to get 5-second buffs every ~13 seconds, which is extremely useful in modes such as [[Brawl Ball]].
+*When using the Candy Beans Gadget, try to use it before combating to gain a massive advantage by having buffs or even healing from enemies' damage.
+*Always have a plan for each of the Supers you might get so that even if your Spicy Dice cannot get the Super you wanted you will still know what to do with it. All attacking Supers besides Jawbreaker can be useful for teamwipes, especially when multiple enemies are affected by the Super it can recharge very quickly.
+*He is also a very good last pick in [[Ranked]] if you are unsure of how to combat the synergy of the enemy team. However, don't pick him against multiple sharpshooters on an open map, as he has poor damage at far range.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = chester start vo 01.ogg|Filedescription ="Let's run around and do random things! Go team!"}}
+|{{Ogg|Filename = chester lead vo 01.ogg|Filedescription ="Doin' it for the lols!"}}
+|{{Ogg|Filename = chester hurt vo 01.ogg|Filedescription ="Hashtag oh my god, hashtag pain. Share, like, and subscribe."}}
+|{{Ogg|Filename = chester kill vo 01.ogg|Filedescription ="Ripperoni."}}
+|{{Ogg|Filename = chester die vo 01.ogg|Filedescription = "The grind don't stop."}}
+|
+|{{Ogg|Filename = chester ulti vo 01.ogg|Filedescription ="Surprise!"}}
+|-
+|{{Ogg|Filename = chester start vo 02.ogg|Filedescription ="Teamwork for the win! Yeah! You go first."}}
+|{{Ogg|Filename = chester lead vo 02.ogg|Filedescription ="Best clown in town!"}}
+|{{Ogg|Filename = chester hurt vo 02.ogg|Filedescription ="I'm only joking! Geez."}}
+|{{Ogg|Filename = chester kill vo 02.ogg|Filedescription ="You want salt with that?"}}
+|{{Ogg|Filename = chester die vo 02.ogg|Filedescription ="Carry on the salt legacy!"}}
+|
+|{{Ogg|Filename = chester ulti vo 02.ogg|Filedescription ="What will it be?" }}
+|-
+|{{Ogg|Filename = chester start vo 03.ogg|Filedescription ="Teamwork makes the dream work." }}
+|{{Ogg|Filename = chester lead vo 03.ogg|Filedescription ="Keep your friends close and your enemies laughing."}}
+|{{Ogg|Filename = chester hurt vo 03.ogg|Filedescription ="Ugh, you're so big and strong!"}}
+|{{Ogg|Filename = chester kill vo 03.ogg|Filedescription ="You got hurted. Aww, the poor baby."}}
+|{{Ogg|Filename = chester die vo 03.ogg|Filedescription ="Hold my salt!"}}
+|
+|{{Ogg|Filename = chester ulti vo 03.ogg|Filedescription ="Don't look!"}}
+|-
+|{{Ogg|Filename = chester start vo 04.ogg|Filedescription ="The best Brawlers make the best teams."}}
+|{{Ogg|Filename = chester lead vo 04.ogg|Filedescription ="Thank you all for making me look good! I love that."}}
+|{{Ogg|Filename = chester hurt vo 04.ogg|Filedescription ="Ugh, hope that made you feel better."}}
+|{{Ogg|Filename = chester kill vo 04.ogg|Filedescription ="Please, leave a review."}}
+|{{Ogg|Filename = chester die vo 04.ogg|Filedescription ="Where is the love?"}}
+|
+|{{Ogg|Filename = chester ulti vo 04.ogg|Filedescription ="Spoiler alert!"}}
+|-
+|{{Ogg|Filename = chester start vo 05.ogg|Filedescription ="Synergy is the key to victory. I've heard that somewhere."}}
+|{{Ogg|Filename = chester lead vo 05.ogg|Filedescription ="I'm YouTube famous!"}}
+|{{Ogg|Filename = chester hurt vo 05.ogg|Filedescription ="You are worse than Mandy!"}}
+|{{Ogg|Filename = chester kill vo 05.ogg|Filedescription ="Another satisfied customer."}}
+|{{Ogg|Filename = chester die vo 05.ogg|Filedescription ="Try passive aggression next time, please."}}
+|
+|{{Ogg|Filename = chester ulti vo 05.ogg|Filedescription ="Big reveal!"}}
+|-
+|{{Ogg|Filename = chester start vo 06.ogg|Filedescription ="To brawl or not to brawl. Was that a question?"}}
+|{{Ogg|Filename = chester lead vo 06.ogg|Filedescription ="Mom, I'm on TV!"}}
+|{{Ogg|Filename = chester hurt vo 06.ogg|Filedescription ="Oh, so much anger!"}}
+|{{Ogg|Filename = chester kill vo 06.ogg|Filedescription ="Kind regards."}}
+|{{Ogg|Filename = chester die vo 06.ogg|Filedescription ="Didn't we almost have it all?"}}
+|
+|{{Ogg|Filename = chester ulti vo 06.ogg|Filedescription ="Pleasure? Or pain?!"}}
+|-
+|{{Ogg|Filename = chester start vo 07.ogg|Filedescription ="Watch me as I move in a direction!"}}
+|{{Ogg|Filename = chester lead vo 07.ogg|Filedescription ="Time for a pay rise. Hey Mandy, are you watching this?"}}
+|{{Ogg|Filename = chester hurt vo 07.ogg|Filedescription ="Stop the hate. Appreciate."}}
+|{{Ogg|Filename = chester kill vo 07.ogg|Filedescription ="Best wishes!"}}
+|{{Ogg|Filename = chester die vo 07.ogg|Filedescription ="Hashtag learnings."}}
+|
+|{{Ogg|Filename = chester ulti vo 07.ogg|Filedescription ="Ta-da!"}}
+|-
+|{{Ogg|Filename = chester start vo 08.ogg|Filedescription ="Run, brawl, explode. Hashtag life goals."}}
+|{{Ogg|Filename = chester lead vo 08.ogg|Filedescription ="I might be a joker, but I'm nobody's fool."}}
+|
+|
+|
+|
+|{{Ogg|Filename = chester ulti vo 08.ogg|Filedescription =Chester laughs}}
+|-
+|{{Ogg|Filename = chester start vo 09.ogg|Filedescription ="Let's skedaddle, it's time for battle!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = chester start vo 10.ogg|Filedescription ="You have a strategy! Aww, aren't you special?"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = chester start vo 11.ogg|Filedescription ="Follow my lead! Hehe, suckers."}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = chester start vo 12.ogg|Filedescription ="All aboard the pain train! Woo woo!"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*12/12/22:
+**{{Balance|Content=Chester and his Dark skin were added to the game.|Neutral}}
+*16/12/22:
+**{{Balance|Content=Fixed an issue where Chester's Pop Rocks Super didn't spawn after activating it when he was defeated.|Neutral}}
+*26/12/22:
+**{{Balance|Content=Chester's Candy Beans Gadget and Sneak Peek Star Power were added.|Neutral}}
+*12/01/23:
+**{{Balance|Content=Chester's main attack damage was decreased to 640 (from 720) per projectile.|Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Chester's Super was increased to 7 hits (from 6).|Nerf}}
+**{{Balance|Content=Chester's Jawbreaker Super damage was decreased to 200 (from 1400).|Nerf}}
+**{{Balance|Content=Chester's Jawbreaker Super recharge rate was decreased by 86%.|Nerf}}
+**{{Balance|Content=Chester's Jawbreaker Super projectile speed was decreased by 3000 (from 4000).|Nerf}}
+**{{Balance|Content=Chester's Jawbreaker Super stun duration was decreased to 1 second (from 2).|Nerf}}
+*28/02/23:
+**{{Balance|Content=Chester's True Silver and True Gold skins were added.|Neutral}}
+*15/05/23:
+**{{Balance|Content=Chester's health was increased to 3500 (from 3300).|Buff}}
+*03/07/23:
+**{{Balance|Content=The Wood Spirit Chester skin was added. It was featured as an Enchanted Woods skin.|Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Neutral}}
+*07/09/23:
+**{{Balance|Content=Fixed an issue with the Wood Spirit Chester skin having extra abilities.|Neutral}}
+*24/10/23:
+**{{Balance|Content=Fixed an issue with Chester's Super after respawning.|Neutral}}
+**{{Balance|Content=Fixed an issue with Chester's Bell 'O' Mania Star Power not receiving damage buffs.|Neutral}}
+**{{Balance|Content=Chester's flavor text was changed from "What's in the box? Limitation of Liability: Under no circumstances shall Starr Corporation or its affiliates, partners, suppliers or licensors be liable for any indirect, incidental, ..." to "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better... especially if that hater is Mandy!"|Neutral}}
+*12/12/23:
+**{{Balance|Content=Chester's health was increased to 3700 (from 3500).|Buff}}
+*04/04/24:
+**{{Balance|Content=The Loki Chester skin was added. It was featured as a Ranked skin for Brawl Pass Season 25.|Neutral}}
+*25/06/24:
+**{{Balance|Content=Chester's attack now cycles in four sequences (from three), with the fourth attack having four bells.|Buff}}
+**{{Balance|Content=Chester's Bell 'O' Mania Star Power was renamed to Single Bell 'O' Mania and reworked from adding a fourth attack to his attack cycle that fires four bells to doubling the damage of the first attack sequence.|Neutral}}
+*27/08/24:
+**{{Balance|Content=Fixed an issue with Chester's Salmiakki Super charging faster than it should.|Neutral}}
+*13/09/24:
+**{{Balance|Content=The Moon Guardian Chester skin was added. It was featured as a Lunar Stories skin.|Neutral}}
+*04/10/24:
+**{{Balance|Content=Chester's health was decreased to 3500 (from 3700).|Nerf}}
+**{{Balance|Content=Chester's Single Bell 'O' Mania Star Power bonus damage was decreased to 150% (from 200%).|Nerf}}
+*14/11/24:
+**{{Balance|Content=Chester's Salmiakki Super now does impact damage equal to 1 tick of damage.|Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Neutral}}
+*24/03/25:
+**{{Balance|Content=Chester's Crunchy, Chewy, Gooey Hypercharge was added.|Neutral}}
+*27/03/25:
+**{{Balance|Content=Chester's Crunchy, Chewy, Gooey Hypercharge multiplier was decreased to 30% (from 40%).|Nerf}}
+*10/04/25: 
+**{{Balance|Content=The Uno Chester skin was unlockable by winning the Uno in-game Challenge. It was featured as an Uno skin.|Neutral}}
+*30/04/25:
+**{{Balance|Content=Chester's Crunchy, Chewy, Gooey Hypercharge multiplier was decreased to 25% (from 30%).|Nerf}}
+*24/06/25:
+**{{Balance|Content=Chester's Super recharge rate was decreased by 20%.|Nerf}}
+*03/09/25:
+**{{Balance|Content=Chester's Crunchy, Chewy, Gooey Hypercharge Super recharge rate was increased by 25%.|Buff}}
+*29/09/25:
+**{{Balance|Content=The Prankster Chester skin was added. It was featured as a Brawl Academy skin.|Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Chester's Crunchy, Chewy, Gooey Hypercharge speed boost from 24%.|Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Chester's Crunchy, Chewy, Gooey Hypercharge damage boost from 15%.|Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Chester's Crunchy, Chewy, Gooey Hypercharge shield boost from 15%.|Nerf}}
+*16/12/25:
+**{{Balance|Buff|Chester's health was increased to 3700 (from 3500).}}
+*25/02/26:
+**{{Balance|Buff|Chester's health was increased to 3800 (from 3700).}}
+**{{Balance|Buff|Chester's main attack damage was increased to 670 (from 640) per projectile.}}
+**{{Balance|Buff|The number of hits necessary to charge Chester's Super was decreased to 6 hits (from 7).}}
+*22/04/26:
+**{{Balance|Neutral|Chester's Pop Rocks Super slow visual effects were reworked.}}
+*28/04/26:
+**{{Balance|Buff|Chester's Crunchy, Chewy, Gooey Hypercharge multiplier was increased to 28% (from 25%).}}
+**{{Balance|Nerf|The number of hits necessary to charge Chester's Super was increased to 7 hits (from 6).}}
+*30/06/26:
+**{{Balance|Nerf|Chester's Candy Popper Super damage was decreased to 1600 (from 1880).}}
+**{{Balance|Nerf|Chester's Candy Popper Super damage while Hypercharged was decreased to 1600 (from 1880).}}
+**{{Balance|Nerf|Chester's Candy Beans Gadget damage boost was decreased to 20% (from 25%).}}
+**{{Balance|Nerf|Chester's Candy Beans Gadget reload speed boost was decreased to +150% (from +200%).}}
+**{{Balance|Nerf|Chester's level up damage was decreased to 5% (from 6%) in [[Brawl Arena]].}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Chester's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Buff|Chester can now see what Super he has before it is charged.}}
+**{{Balance|Nerf|Chester's Prankster's Surprise Gadget cooldown was increased to 22 seconds (from 12).}}
+**{{Balance|Nerf|Chester's Candy Beans Gadget cooldown was increased to 17 seconds (from 15).}}
+**{{Balance|Neutral|Chester's Spicy Dice Gadget was renamed to Prankster's Surprise, and reworked from changing his Super at random to hiding a jack-in-the-box, which jumps out and explodes at enemies close by, randomly dealing damage, temporarily slowing, or temporarily fearing them.}}
+**{{Balance|Neutral|Chester's Sneak Peek Star Power was renamed to Jester's Privilege, and reworked from allowing Chester to see what Super he has before it is charged to charges his Super more with each bell hit with the fourth sequence.}}
+**{{Balance|Neutral|Chester's Buffies were added.}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Dark|Cost1=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes, free after reaching 750 Trophies, or 29 Gems|Campaign1=Brawl-o-ween|Rarity1=Rare
+|Name2=Wood Spirit|Cost2=Free from Gigi Boxes or 79 Gems|Campaign2=Enchanted Woods|Rarity2=Super Rare
+|Name3=Loki|Cost3=Free from Ranked Starr Drops, free from Ziggy Boxes or 149 Gems|Campaign3=Ranked|Campaign3_2=Northern Saga|Rarity3=Epic
+|Name4=Moon Guardian|Cost4=149 Gems|Campaign4=Lunar Stories|Rarity4=Epic
+|Name5=Uno|Cost5=Free from the Uno Challenge or 149 Gems • '''E'''|Campaign5=Uno|Rarity5=Epic
+|Name6=Prankster|Cost6 = 149 Gems|Campaign6 = Brawl Academy|Rarity6=Epic
+|TrueSkins = Yes}}
+
+===Buffie Skins===
+<gallery>
+Chester Buffie Skin-Gadget.png|Gadget
+Chester Buffie Skin-Star.png|Star
+Chester Buffie Skin-Hyper.png|Hyper
+Chester Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Chester
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Wood Spirit}}
+{{Pin Table|Loki|Special}}
+{{Pin Table|Moon Guardian|Special}}
+{{Pin Table|Uno|Special}}
+{{Pin Table|Prankster|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Chester|Rarity = Common}}
+|{{Spray|Type = Chester Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Wood Spirit Chester|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Chester1}}
+|{{Pfp|Chester2}}
+|{{Pfp|Chester3}}
+|{{Pfp|Wood Spirit Chester}}
+|{{Pfp|Loki Chester}}
+|-
+|{{Pfp|Moon Guardian Chester}}
+|{{Pfp|Uno Chester}}
+|{{Pfp|Prankster Chester}}
+|
+|
+|}
+
+{{Navigation}}
+[[ru:Честер]]

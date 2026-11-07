@@ -1,0 +1,130 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Shizu
+|image     = <gallery>
+Shizu.png|Icon
+Shizu EQ.png|In-Game
+Shizu Held.png|Held
+Shizu Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 8
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|obtain    = Bought
+|source    = [[Legendary Sword Dealer]]
+|price     = {{Money|2,000,000}}
+}}
+{{Quote|One of the three Legendary Swords, infused with a ghost.|Item}}
+'''Shizu''' (formerly known as '''Shisui''') is a {{Legendary}} [[sword]].
+
+Shizu provides extremely fast and near instant combos, making it a viable option in PvP. 
+
+Much like [[Soul Cane]] however, it is hard to use due to small hitboxes and [[Instinct]] issues, which is why this sword is not seen much.
+
+==Obtainment==
+{{Main|Legendary Sword Dealer}}
+Shizu can be bought at the price of {{Money|2,000,000}} from the [[Legendary Sword Dealer]].
+
+The [[Legendary Sword Dealer]] rarely spawns in the [[Second Sea]], every time this [[NPCs|NPC]] spawns, he sells one sword out of the three '''Legendary Swords''' which are [[Saishi]], Shizu and [[Oroshi]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Shizu m1s
+|desc     = The player does 3 slashes, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = True Quiet Rush
+|mastery  = 150
+|cooldown = 9
+|energy   = 20
+|break    = No
+|instinct = Does not break Instinct.
+|gif      = Shizu_Z
+|desc     = The user dashes in the direction of their cursor, dealing damage to enemies in their path. Purple energy bursts from the user after their dash. This slightly stuns the enemies that were hit, similar to [[Katana]]'s [Z] move.
+}}
+
+{{Skill
+|key      = X
+|name     = Focus Shot
+|mastery  = 300
+|cooldown = 13.5
+|energy   = 30
+|break    = No
+|instinct = Does not break Instinct.
+|gif      = Shizu_X
+|desc     = The user swiftly fires an extremely fast purple projectile followed by a purple trail in the direction of their cursor. It slightly stuns and causes knockback when hit.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Very good range.
+* Fast moves with minimal endlag.
+* Good [[Combos|combo]] potential.
+* Good damage.
+* Both moves can hit multiple targets.
+* All moves can hit [[Sea Beast]]s.
+
+|'''[Z] True Quiet Rush'''
+* Reach extends further than its visuals.
+* Decent mobility.
+
+|'''[X] Focus Shot'''
+* Very long range.
+* Fast projectile and cast speed.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Small hitboxes.
+* Hard to hit.
+* Does not [[Instinct Break|break Instinct]].
+* Attacks can require skills.
+
+|'''[Z] True Quiet Rush'''
+* Short range.
+
+|'''[X] Focus Shot'''
+* Predictable, which makes them very hard to hit a victim from afar.
+}}
+</tabber>
+
+==Trivia==
+* Although Shizu is considered out meta by the community because of its bad hitbox and does not [[break Instinct]], its combos are still extremely fast and the sword itself deals good damage.
+* Shizu, along with [[Oroshi]] and [[Saishi]] are required (and with 300 mastery on each respectively) to obtain the [[True Triple Katana]].
+* Shizu is much like [[Canvander]] or [[Koko]].
+** Many people refer to Shizu as an improved version of [[Cutlass]] and [[Katana]].
+==Change History==
+{{Change History|8|content=
+{{Update|24}}
+* Shisui was remodeled and renamed to Shizu.
+: <gallery>
+Shisui.png|Shizu's old model
+</gallery>
+----
+{{Update|20}}
+* Shisui's moves were reworked.
+----
+{{Update|8}}
+* Shisui was released.
+}}
+
+==Navigation==
+{{Legendary Sword Navbox}}
+{{Sword Navbox}}

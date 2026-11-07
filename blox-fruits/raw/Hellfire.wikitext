@@ -1,0 +1,387 @@
+{{Tabber V2
+|tab1 = Gas
+|tab2 = Hellfire
+}}
+{{CombosTab}}
+{{About|the mutation|the Raid Boss|Hellfire Gas (Raid Boss)}}
+{{Mutation Infobox
+|name   = Hellfire
+|image  = <gallery>
+Hellfire Fruit.png|Fruit Icon
+Hellfire Fruit Animated.gif|Fruit GIF
+Hellfire.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Elemental
+|rarity = Mythical
+|M1     = Yes
+|update = 31st October 2026
+}}
+{{Quote|Allows the user to unleash hellish flames and transform into an infernal revenant wielding a blazing chainsaw.|Shop}}
+'''Hellfire''' is a {{Mythical}} [[mutation]] of [[Gas]].
+
+Hellfire allows the user to create, become, and manipulate concentrated and flammable infernal flames, unleashing devastating slicing against unfortunate foes. Additionally, the user can even transform into a Skeletal-Depicted spirit.
+
+The Hellfire mutation has much lower combo potential and moveset synergy when compared to [[Gas]], exchanging it for much superior damage, range and mobility.
+
+==Obtainment==
+As a [[mutation]], Hellfire has different obtainment methods compared to ordinary [[Blox Fruits]]. 
+
+Players are able to obtain it by:
+* Rolling it through the limited-time [[Spooky Gacha]].
+* Buying it with {{Robux|1250}} from the mutation section of the [[Gas]] fruit. (Must own [[Permanent Blox Fruits|Permanent]] Gas first).
+* Buying it with {{Robux|3499}} from the [[Shop#Bundles|Soulfire Bundle]] during the [[Events#Halloween Event 2026|Halloween Event 2026]] 
+** Players with Roblox Plus activated for over 2 months have the bundle's cost reduced to {{Robux|2799}}.
+* By defeating the [[Hellfire Gas (Raid Boss)]] during the [[Events#Halloween Event 2026|Halloween Event 2026]], with an extremely rare chance of dropping the physical '''Hellfire '''fruit.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive/Elemental Reflex|HellfireElementalReflex.gif}}
+
+{{Skill/Passive
+|name      = Hellfire Meter
+|meter     = Hellfire meter.png
+|desc      = The user passively gains hellfire. Additionally, the user gains hellfire by dealing damage to any NPC/player. The user can transform when the hellfire meter is full. In the untransformed state, the user cannot lose any of their hellfire meter. However, in the transformed state, the user passively consumes hellfire, with the consumption increasing when taking damage or using any attacks including the [M1] attacks. The consumption also increases while walking on water. This passive feature is very similar to the [[Fury Meter]].
+}}
+
+{{Skill/Passive
+|name      = Flamebound Surge
+|file      = HellFire gas transform afk.png
+|desc      = While untransformed, the user is surrounded by flames originating from their legs and torso. While transformed, the user gains '''50%''' damage reduction on all attacks, a '''33%''' speed increase, doubled jump height and dash distance. The user also gains the ability to walk on [[lava]] and [[water]]. 
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = Hot Slashes
+|desc     = The user manifests a chainsaw made of fire, and swings it left and right, creating long orange streaks of flames similar to [[Rengoku]]'s {{Ability|Rengoku|Z}}. The third and fourth swings pull both the enemy and the user into the air, and then slam them down into the ground respectively, which leaves a soot mark on the floor. Does not break Instinct whatsoever.
+}}
+
+{{Skill
+|key      = Z
+|name     = Infernal Rupture
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what. 
+|gif      = Infernal Rupture B
+|desc     = The user projects a concentrated fire projectile forward that splits into four distinct ones, each one exploding upon striking a target or object while leaving a trail of smoke. 
+}}
+
+{{Skill
+|key      = X
+|name     = Hellfire Onslaught
+|mastery  = 100
+|cooldown = 12
+|energy   = 50
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what. 
+|gif      = Hellish Burst
+|gif1     = Hellfire Asaault B
+|desc     = When tapped, the user raises their chainsaw and slams it into the ground, releasing a circular wave of flames which damages nearby enemies.
+|desc1    = When held, the user charges their chainsaw and then starts moving towards their cursor at a high speed while leaving small bursts of fire behind them. On impact, the move creates an explosion similar to the tap version.
+}}
+
+{{Skill
+|key      = C
+|name     = Hellspawn Legion
+|mastery  = 200
+|cooldown = 15
+|energy   = 75
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Under Legion
+|gif1     = Infernal Legion B
+|desc     = When tapped, the user summons multiple flame demons with large mouths and orange horns, before launching a small number of them towards their target quickly in two waves. The demons can auto aim to some extent.
+|desc1    = When held, more demons are summoned, dealing even more damage over a longer duration.
+}}
+
+{{Skill
+|key      = V
+|name     = Infernal Ascension
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|break    = yes
+|instinct = The first tick of the spiral [[Instinct/Break|Breaks Instinct]], the rest can be dodged. 
+|gif      = Red Ascension
+|desc     = The user manifests a burst of bright orange flames around them, transforming into a large gas-flame hybrid creature wearing chains and a leather jacket of sorts, which wields a chainsaw with both hands, before expelling the remaining flames outwards. The user has a ring of flames surrounding their legs and will leave an orange trail, passively draining the Hellfire Meter. While transformed, the user loses the ability to use [[Fighting styles|fighting styles]], [[swords]] and [[guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Phantom Inferno
+|mastery  = 50
+|cooldown = 6
+|energy   = 25
+|break    = yes
+|instinct = Initial burst [[Instinct/Break|Breaks Instinct]], the tracking projectiles do not. However, burn from the projectiles (if hit when Instinct is off) [[Instinct/Break|Breaks Instinct]].
+|gif      = Phantom Warp B
+|desc     = The user teleports to the location their cursor points at and releases a spherical wave of flames and energy, creating multiple projectiles which track down nearby enemies and damage them. 
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|gif      = Heavy Swings
+|desc     = The user does a series of flame-imbued slashes from their chainsaw that vary from left to right, and finally, they smash the chainsaw down onto the floor, launching the enemy away. Each slash drains a certain amount of Hellfire Meter, so aiming before hitting is recommended to preserve and regenerate the Hellfire Meter. Does not break Instinct whatsoever.
+}}
+
+{{Skill
+|key      = Z
+|name     = Infernal Rupture
+|mastery  = 1
+|cooldown = 8.5
+|energy   = 25
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Blazing Seration
+|desc     = The user swings their chainsaw around before throwing it towards the direction of their cursor. If the chainsaw hits an enemy directly, it creates an explosion and a crater on the ground, before pulling the enemy towards the user. If the user misses the attack, the chainsaw is still thrown and the explosion still occurs. If held, the user keeps swinging the chainsaw around themselves like a lasso until it is thrown.
+}}
+
+{{Skill
+|key      = X
+|name     = Hellfire Onslaught
+|mastery  = 100
+|cooldown = 12
+|energy   = 50
+|break    = yes
+|instinct = The vertical flame slash can be dodged, but the flame tornado [[Instinct/Break|Breaks Instinct]].
+|gif      = Superheated Slash
+|gif1     = Blazing Maelstorm
+|desc     = If tapped, the user shoots a vertical slash of flames which explode on impact and deal damage, leaving a trail of uprooted ground behind itself.
+|desc1    = If held, the user starts spinning rapidly similar to [[Magnet]]'s Transformed {{Ability|Magnet|C}}, creating a flame tornado while leaving blade marks on the ground. Once the user slows down, they shoot a vertical slash of flames similar to the tap version, which explodes on impact. The direction of the spin can be controlled by moving the user's cursor.
+}}
+
+{{Skill
+|key      = C
+|name     = Hellspawn Legion
+|mastery  = 200
+|cooldown = 15
+|energy   = 75
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Red Demons
+|gif1     = Red Demons B
+|desc     = When tapped, the user raises their chainsaw, creating several flame demons before they plunge toward their cursor. The victim will also take damage over time if the move connects. This move functions almost exactly the same as the untransformed variation.
+|desc1    = When held, this move summons more flame demons, dealing even more damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Infernal Ascension
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|instinct = Doesn not deal damage.
+|gif      = HellfireGasVmovetransformed
+|desc     = The user amasses flames to engulf them while they return back to their original form, regaining the ability to use [[Fighting Styles|fighting styles]], [[swords]] and [[guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Phantom Inferno
+|mastery  = 50
+|cooldown = 6
+|energy   = 25
+|break    = yes
+|instinct = Initial burst [[Instinct/Break|Breaks Instinct]], the tracking projectiles do not. However, burn from the projectiles (if hit when Instinct is off) [[Instinct/Break|Breaks Instinct]].
+|gif      = Phantom Warp
+|desc     = The user teleports to the location their cursor is pointing at, unleashing a circular wave of flame and energy to summon a large fire skull above themselves. This skull summons multiple auto-aiming flame projectiles similar to the untransformed version, which track down nearby enemies and damage them.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Very high base damage, almost all attacks dealing more than [[Gas]].
+* All moves except M1 break Instinct.
+* Has an M1 attack, making it decent for grinding.
+
+|'''[TAP] Normal Attack'''
+* Decent range.
+* Has an upper cut animation that stun enemies.
+* There is a short timeframe where an enemy gets teleported to location of a subsequent M1 after being hit by previous M1, only works with NPCs.
+* Good for grouping enemies.
+* The downslam has an extremely long drop duration.
+
+|'''[Z] Infernal Rupture'''
+* Decent-High damage.
+* Long range.
+* Decently short cooldown.
+
+|'''[X] Hellfire Onslaught'''
+* Good damage.
+* Automatically slides to opponents.
+* Actual hitbox is more smilar to Awakened [[Quake]]'s [C], despite the visuals showing otherwise.
+* Good reversal.
+
+|'''[C] Hellspawn Legion'''
+* Good range.
+* Auto-aims to nearest enemy if pointing at their direction.
+* Deals more damage than [[Gas]].
+
+|'''[V] Infernal Ascension'''
+* Instant startup.
+* Decent damage.
+
+|'''[F] Phantom Inferno'''
+* Great for mobility, almost completely superior to [[Gas]].
+* Very short cooldown.
+* Has auto aim.
+* Can be used as a finisher.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Most attacks are easily avoived by just keeping distance.
+* Sluggish attacks, making misses severably punishable.
+* High mastery requiriments for early Sea 1 players.
+* Very low combo potential, mostly being a neutral moveset.
+
+|'''[TAP] Normal Attack'''
+* Low damage.
+* Instinct trickable.
+* Unusable in PvP.
+* Bad Hitbox.
+* Extremely slow even for PvE.
+
+|'''[Z] Infernal Rupture'''
+* Small AoE.
+* No aim assist, causing the move to miss most times.
+* Slow travel speed.
+* Lacks stun.
+* Cannot be used properly in a combo.
+
+|'''[X] Hellfire Onslaught'''
+* Tapping the move is significantly weaker than when held.
+* Bad for grinding, as it has a high knockback.
+
+|'''[C] Hellspawn Legion'''
+* Tapping the move is weaker than when held.
+* Cannot move while holding the skill.
+* Lacks tick damage unlike [Gas].
+
+|'''[V] Infernal Ascension'''
+* Slight Endlag
+
+|'''[F] Phantom Inferno'''
+* Bad endlag.
+* Lacks stun.
+* Missing the move can make you vulnerable.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Extreme DPS (Damage per second), making it perfect for boss fights.
+* High defense increase. (50%)
+* Allows user to walk on water.
+* Very high air jump boost.
+* All moves except [V] and M1 [[Instinct/Break|Breaks Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Exceptionally long range.
+* Chains on the first hit, making the enemy take damage even if they escape from the M1 animation.
+* Overall very good damage.
+* Very spammable.
+
+|'''[Z] Infernal Rupture'''
+* Pulls enemies to the user (if directly hit).
+* Deals damage even when missed.
+* Good combo starter.
+* Good against runners.
+
+|'''[X] Hellfire Onslaught'''
+* Large AoE.
+* Very fast mobility.
+* High damage.
+* Can break enemy's Instinct due to burn tick damage.
+* Great combo extender.
+
+|'''[C] Hellspawn Legion'''
+* Long range.
+* Travels very quickly.
+* Deals tick damage.
+* Auto aim assist when launched near enemy.
+* High damage.
+* Can be used at far distant opponents.
+
+|'''[F] Phantom Inferno'''
+* Extremely powerful mobility.
+* Instant startup.
+* Extreme damage.
+* Very spammable.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* High mastery requiriments.
+* Larger hitbox.
+
+|'''[TAP] Normal Attack'''
+* Drains Infernal Meter when missed.
+* Slow speed.
+* Instinct-trickable.
+* Smash attack can knock enemies away.
+
+|'''[Z] Infernal Rupture'''
+* High end-lag.
+* Make user very vulnerable when missed.
+* Low damage compared to other skills.
+
+|'''[X] Hellfire Onslaught'''
+* The slash can be avoided.
+* Using the held version can mess up due to cursor placement.
+
+|'''[C] Hellspawn Legion'''
+* Not good as a combo-extender.
+
+|'''[F] Phantom Inferno'''
+* Lacks stun.
+* Endlag still leaves user vulnerable.
+* Cannot fly compared to Gas's [F] move if held.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Spirit of Vengence.gif|User's passive appearance
+File:Spirited craze of Vengence.gif|Transformed Idle
+File:RebellionB.gif|The untransformed chainsaw
+File:Hell Spore.png|Hellspawn (untransformed)
+File:Hellspore (transformed).png|Hellspawn (transformed)
+File:Hellsaw.gif|The transformed chainsaw
+File:Hellfire collection.png|Hellfire (transformed) holding a physical Hellfire fruit
+File:7754348703 7449423635 1794042760742.png|A full hellspawn army
+</gallery>
+
+== Trivia ==
+* '''Hellfire''' is the first [[Elemental]] [[Mutations|Mutation]].
+* Along with [[Magma]] and [[Tiger]], the '''Hellfire''' transformation is able to walk on [[Lava]].
+* This is the second [[Mutations|mutation]] to be part of the Halloween Event.
+* '''Hellfire''' can spawn under trees like [[Werewolf]] during 2025 Halloween event.
+
+==Change History==
+{{Change History|30.1}}
+
+==Navigation==
+{{Mutation Navbox}}
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[Category:Fruit Related]]

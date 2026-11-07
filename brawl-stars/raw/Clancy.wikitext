@@ -1,0 +1,276 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Shell Shocked|PrestigeTitle = No Mercy|Rarity = Mythic|Class = Damage Dealer|MovementSpeed = 750 (Normal)<br>850 (Stage 3; Very Fast)<br>3000 (with Tactical Retreat)|HealthLabel = Health|Health = 3800|AttackRange = 7.67 (Long)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = 11.2% (Stage 1)<br>12% (Stage 2)<br>12.8% (Stage 3)|AttackLabel =Damage at Stage 1|Attack = 700|AttackLabel2 =Damage at Stage 2|Attack2 = 750| AttackLabel3 =Damage at Stage 3|Attack3 = 800|AttackSpeed=3500|AttackWidth=1 (Stage 1 and 2)|AttackSpread=30° (Stage 3)|AttackBullets=1 (Stage 1)<br>2 (Stage 2)<br>4 (Stage 3)|SuperRange = 5.67 (Normal)<br>8.33 (Stage 2+; Long)|SuperSuperCharge = 4.875–9.75% (Stage 1 and 2)<br>5.675–11.375% (Stage 3)|Super=600|SuperLabel=Max. damage at Stage 1/2|Super2=700|SuperLabel2=Max. damage at Stage 3|SuperBullets=12|SuperSpeed=3000|Gadget1Name=Snappy Shooting|Gadget1Cooldown=12 seconds|Gadget2Name=Tactical Retreat|Gadget2Cooldown=13 seconds|VoiceActor=Oscar Conlon-Morrey|Previous=Lily|Next=Moe|SuperSpread=99°||Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=3.35% (Stage 1)<br>3.6% (Stage 2)<br>3.825% (Stage 3)|SuperHyperchargeCharge=1.45–2.925% (Stage 1 and 2)<br>1.7–3.4% (Stage 3)|Gadget1Duration=5 seconds|Gadget2Range=3.33}}
+{{Quote|There's no turning back with Clancy (unless [[Hank]] orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.}}{{Portrait}}
+Clancy is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health, a long range, and a variable damage output and movement speed, but a moderately slow reload speed. His Trait allows him to gather tokens and upgrade his attack and Super during a match. He was the 82nd Brawler added to the game. Clancy attacks by shooting bullets, with the attack pattern and damage changing depending on his Stage. His Super fires a barrage of projectiles in a fan shape, which increases in range and damage depending on his current Stage. His first Gadget, Snappy Shooting, allows him to obtain his upgrades faster in a short duration. His second Gadget, Tactical Retreat, allows him to dash a few tiles in the direction he is facing and reload one ammo. His first Star Power, Recon, gives him some tokens at the start of a match. His second Star Power, Pumping Up, reloads all his ammo when he defeats an enemy. His Hypercharge, Recall of Duty, makes his Super's paintballs pierce through enemies and return to him once they have reached max range.
+
+==Trait==
+{{Quote|Clancy gains tokens when his abilities hit enemy Brawlers!}}{{Trait|Tokens}}
+Clancy obtains tokens for every projectile he successfully hits with his main attack or Super. It takes 5 hits for him to level up from Stage 1 to Stage 2, and 19 hits from Stage 2 to Stage 3. Clancy also moves 100 points faster when he reaches Stage 3. Even if he is defeated, he will keep the Stage he was in after he respawns.
+
+==Attack: Power Wash==
+{{Quote|Clancy's attacks upgrade each stage.<br>STAGE 1: Clancy fires one paintball.<br>STAGE 2: Clancy fires a second paintball each attack!<br>STAGE 3: Clancy fires 2 additional paintballs diagonally each attack!}}
+Clancy shoots long-ranged bullets in different configurations at different stages, similar to [[Surge]] and [[Chester]]. At Stage 1, Clancy fires 1 bullet forward. At Stage 2, he fires 2 bullets in two waves. At Stage 3, he adds 2 additional bullets to the first wave that travel diagonally, for a total of 4 bullets in an attack.
+
+==Super: Torrent==
+{{Quote|Clancy's Super upgrades each stage.<br>STAGE 1: Clancy fires a torrent of paintballs in a cone in front of him.<br>STAGE 2: Paintballs travel further.<br>STAGE 3: Paintballs deal 16% additional damage + movement speed increase!}}
+Clancy shoots 2 streams of 6 bullets each, dealing damage erratically in a cone shape. As he fires, he initially aims both streams ahead of himself, then expands them outwards to each side, and then brings them back together slightly. At Stage 2, the range of the Super's projectiles is increased, and at Stage 3, the damage of each projectile is increased by 16.7%. At all stages, the damage is variable with distance. He deals significantly less damage in the first 25% of his range, as low as half of the full damage at minimum range, but deals full damage beyond 25% range.
+
+==Gadgets==
+===Snappy Shooting===
+{{Quote|Clancy gains double tokens for 5 seconds. Cooldown: 12 seconds.}}{{Gadget|1}}
+Upon activation, Clancy obtains double the amount of tokens for all paintballs he shoots for the next 5 seconds.
+
+===Tactical Retreat===
+{{Quote|Clancy dashes and reloads 1 ammo. Cooldown: 13 seconds.}}{{Gadget|2}}
+Clancy dashes forward 3.33 tiles in the direction he is facing upon using this Gadget, and also regains 1 ammo. However, the dash is cancelled if he is stunned, pulled, or knocked back. He also cannot dash through walls or water, as doing so will stop him directly on those tiles.
+
+==Star Powers==
+===Recon===
+{{Quote|Clancy starts the match with 2 tokens.}}{{StarPower|1}}
+This Star Power gives Clancy 2 existent tokens at the start of the match.
+
+===Pumping Up===
+{{Quote|Clancy reloads all of his ammo on every enemy takedown.}}{{StarPower|2}}
+This Star Power allows Clancy to fully reload his ammo each time he defeats an enemy Brawler.
+
+==Hypercharge: Recall of Duty==
+{{Quote|Clancy's Super paintballs pierce enemies then quickly return to him, dealing damage again.}}{{Hypercharge}}
+When activated, paintballs from Clancy's Super will pierce through enemies and return to him once they have reached max range. The projectiles do not despawn when they hit walls while traveling away from Clancy. However, if the projectiles contact a wall while returning to him, they will despawn. The projectiles have no damage scaling when returning to Clancy. He also gains a 20% speed boost, as well as a 5% damage and shield boost. 
+
+==Tips==
+*Because of the large spread of Clancy's Super, it is best to move back and forth while using it. This will allow more consistent hits on the enemy
+*Clancy is almost useless at the start of the match, as his low damage and mobility at Stage 1 heavily hinders his performance, so it's best to immediately aim for Stage 2 right at the start.
+**At Stage 2, Clancy becomes much better thanks to the second attack projectile, which makes it easier to get to Stage 3. Around this point, Clancy should also have his Super, which can be combined with the Snappy Shooting Gadget for an almost instant Stage 3 upgrade against assassins or tanks.
+**At Stage 3, Clancy is almost unstoppable, with his fast movement speed and devastating Super damage allowing him to control wide areas without dying himself.
+*In [[Heist]], Clancy potentially deal a quarter of the safe's health with a single Super at Stage 3. This makes him an extremely dangerous Brawler to be left alone with the safe, but due to the spread of his Super attack, it is important to go to point-blank range to hit every shot. However, this can be dangerous for Clancy due to his rather low health pool and the usual selection of Brawlers in this gamemode being ones with high DPS, which means he could be prevent from even getting close to the safe without dying.
+*If you decide to equip the Snappy Shooting Gadget, it is recommended to use it while you have full ammo for the most efficiency, as if you were to activate it while you're still reloading or have no ammo at all, its duration will be wasted. It is also a good decision to use it at the start of the game, so you can do more damage later in the game.
+*Clancy cannot adjust the direction of his Super once activated, making it possible to waste a large chunk of the salvo if an enemy gets behind him. Make sure to track enemy movement during your Super and instantly readjust if you find yourself in front of the enemy.
+**Alternatively, you can also use it mid-range away from your enemy, as then you will be less likely to miss and still guarantee at least 70% of your Super's maximum damage.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = clancy start vo 01.ogg|Filedescription = "Armored and ready for carnage."}}
+|{{Ogg|Filename = clancy lead vo 01.ogg|Filedescription = "Living the lobster life!"}}
+|{{Ogg|Filename = clancy hurt vo 01.ogg|Filedescription = Clancy yelps}}
+|{{Ogg|Filename = clancy kill vo 01.ogg|Filedescription = "Hahahahaha! A pinch pinch pinch."}}
+|{{Ogg|Filename = clancy die vo 01.ogg|Filedescription = Clancy screams}}
+|{{Ogg|Filename = clancy atk vo 01.ogg|Filedescription = "Saline salvo."}}
+|{{Ogg|Filename = clancy ulti vo 01.ogg|Filedescription = "I am lobster!"}}
+|-
+|{{Ogg|Filename = clancy start vo 02.ogg|Filedescription = "Snap to it."}}
+|{{Ogg|Filename = clancy lead vo 02.ogg|Filedescription = "Lobsters rock!"}}
+|{{Ogg|Filename = clancy hurt vo 02.ogg|Filedescription = Clancy grunts}}
+|{{Ogg|Filename = clancy kill vo 02.ogg|Filedescription = Clancy laughs}}
+|{{Ogg|Filename = clancy die vo 02.ogg|Filedescription = Clancy groans}}
+|{{Ogg|Filename = clancy atk vo 02.ogg|Filedescription = "Saline salvo!"}}
+|{{Ogg|Filename = clancy ulti vo 02.ogg|Filedescription = "I am the red warrior."}}
+|-
+|{{Ogg|Filename = clancy start vo 03.ogg|Filedescription = "Clancy Claws is coming to town."}}
+|{{Ogg|Filename = clancy lead vo 03.ogg|Filedescription = "From the depth of the sea, to the height of victory!"}}
+|{{Ogg|Filename = clancy hurt vo 03.ogg|Filedescription = Clancy groans}}
+|{{Ogg|Filename = clancy kill vo 03.ogg|Filedescription = "Claws of fury!"}}
+|{{Ogg|Filename = clancy die vo 03.ogg|Filedescription = Clancy yelps}}
+|{{Ogg|Filename = clancy atk vo 03.ogg|Filedescription = "Pinch and prevail!"}}
+|{{Ogg|Filename = clancy ulti vo 03.ogg|Filedescription = "I am the red warrior!"}}
+|-
+|{{Ogg|Filename = clancy start vo 04.ogg|Filedescription = "Pinch them into submission."}}
+|{{Ogg|Filename = clancy lead vo 04.ogg|Filedescription = "Fancy Clancy!"}}
+|{{Ogg|Filename = clancy hurt vo 04.ogg|Filedescription = "Cribbity crab sticks!"}}
+|{{Ogg|Filename = clancy kill vo 04.ogg|Filedescription = Clancy laughs}}
+|{{Ogg|Filename = clancy die vo 04.ogg|Filedescription = Clancy grunts}}
+|{{Ogg|Filename = clancy atk vo 04.ogg|Filedescription = "Pinch and prevail."}}
+|{{Ogg|Filename = clancy ulti vo 04.ogg|Filedescription = "Crusty commando!"}}
+|-
+|{{Ogg|Filename = clancy start vo 05.ogg|Filedescription = "Leave them shellshocked."}}
+|{{Ogg|Filename = clancy lead vo 05.ogg|Filedescription = "Fancy Clancy."}}
+|{{Ogg|Filename = clancy hurt vo 05.ogg|Filedescription = "Salty sea biscuit."}}
+|{{Ogg|Filename = clancy kill vo 05.ogg|Filedescription = Clancy laughs}}
+|{{Ogg|Filename = clancy die vo 05.ogg|Filedescription = Clancy gags}}
+|{{Ogg|Filename = clancy atk vo 05.ogg|Filedescription = "Lobster of valor."}}
+|{{Ogg|Filename = clancy ulti vo 05.ogg|Filedescription = "Shell shockwave!"}}
+|-
+|{{Ogg|Filename = clancy start vo 06.ogg|Filedescription = "I'll claw my way to victory, one pinch at a time!"}}
+|{{Ogg|Filename = clancy lead vo 06.ogg|Filedescription = "I don't break character, I break Brawlers!"}}
+|{{Ogg|Filename = clancy hurt vo 06.ogg|Filedescription = "Time to improvise."}}
+|{{Ogg|Filename = clancy kill vo 06.ogg|Filedescription = "Get in the sea."}}
+|{{Ogg|Filename = clancy die vo 06.ogg|Filedescription = Clancy gasps}}
+|{{Ogg|Filename = clancy atk vo 06.ogg|Filedescription = "Combat crayfish."}}
+|{{Ogg|Filename = clancy ulti vo 06.ogg|Filedescription = "Marine mayhem!"}}
+|-
+|{{Ogg|Filename = clancy start vo 07.ogg|Filedescription = "This isn't just a battle, it's a crustacean crusade."}}
+|{{Ogg|Filename = clancy lead vo 07.ogg|Filedescription = "I'm the terror of the tides."}}
+|{{Ogg|Filename = clancy hurt vo 07.ogg|Filedescription = "Ooh!"}}
+|{{Ogg|Filename = clancy kill vo 07.ogg|Filedescription = "Get in the sea!"}}
+|{{Ogg|Filename = clancy die vo 07.ogg|Filedescription = Clancy gags}}
+|{{Ogg|Filename = clancy atk vo 07.ogg|Filedescription = "Combat crayfish!"}}
+|{{Ogg|Filename = clancy ulti vo 07.ogg|Filedescription = "Marine mayhem."}}
+|-
+|{{Ogg|Filename = clancy start vo 08.ogg|Filedescription = "Scuttle into the fray."}}
+|{{Ogg|Filename = clancy lead vo 08.ogg|Filedescription = "I'm the terror of the tides!"}}
+|{{Ogg|Filename = clancy hurt vo 08.ogg|Filedescription = Clancy yelps}}
+|{{Ogg|Filename = clancy kill vo 08.ogg|Filedescription = "Humans are overrated."}}
+|{{Ogg|Filename = clancy die vo 08.ogg|Filedescription = "Boiled and buttered!"}}
+|{{Ogg|Filename = clancy atk vo 08.ogg|Filedescription = "A pinch."}}
+|{{Ogg|Filename = clancy ulti vo 08.ogg|Filedescription = "Crusty carnage!"}}
+|-
+|{{Ogg|Filename = clancy start vo 09.ogg|Filedescription = "Clancy is the name, going full lobster is the game."}}
+|{{Ogg|Filename = clancy lead vo 09.ogg|Filedescription = "I'm on a lobster roll."}}
+|{{Ogg|Filename = clancy hurt vo 09.ogg|Filedescription = Clancy yelps}}
+|{{Ogg|Filename = clancy kill vo 10.ogg|Filedescription = "Pinch pinch pinch!"}}
+|{{Ogg|Filename = clancy die vo 09.ogg|Filedescription = "Lethargic langoustine."}}
+|
+|{{Ogg|Filename = clancy ulti vo 09.ogg|Filedescription = "Lobsteeeeer!"}}
+|-
+|{{Ogg|Filename = clancy start vo 10.ogg|Filedescription = "Shell yeah, let's do this!"}}
+|
+|{{Ogg|Filename = clancy hurt vo 10.ogg|Filedescription = "Ooh!"}}
+|
+|{{Ogg|Filename = clancy die vo 10.ogg|Filedescription = "Feeling crabby!"}}
+|
+|{{Ogg|Filename = clancy ulti vo 10.ogg|Filedescription = "Looooobster!"}}
+|-
+|{{Ogg|Filename = clancy start vo 11.ogg|Filedescription = "Pinch pinch pinch pinch pinch pinch pinch pinch pinch!"}}
+|
+|{{Ogg|Filename = clancy hurt vo 11.ogg|Filedescription = Clancy grunts}}
+|
+|{{Ogg|Filename = clancy die vo 11.ogg|Filedescription = "Crustaceous calamity!"}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = clancy hurt vo 12.ogg|Filedescription = Clancy groans}}
+|
+|{{Ogg|Filename = clancy die vo 12.ogg|Filedescription = "Neptune awaits."}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = clancy die vo 13.ogg|Filedescription = "Son of a clambake!"}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = clancy die vo 14.ogg|Filedescription = Clancy blows}}
+|
+|
+|-
+|
+|
+|
+|
+|{{Ogg|Filename = clancy die vo 15.ogg|Filedescription = Clancy groans}}
+|
+|
+|}
+
+==History==
+*23/07/24:
+**{{Balance|Neutral|Clancy became available to play in the [[Training Cave]].}}
+*25/07/24:
+**{{Balance|Neutral|Clancy could be unlocked early as a bundle for $19.99.}}
+**{{Balance|Neutral|The High Stakes Clancy skin was added. It was featured as a Misc skin.}}
+*01/08/24:
+**{{Balance|Neutral|Clancy became available in the Starr Road.}}
+*27/08/24:
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 6 hits (from 5).}}
+**{{Balance|Nerf|Clancy's Super damage was decreased to 760 (from 900) per hit at Stage 3.}}
+**{{Balance|Nerf|The number of hits necessary to recharge Clancy's Super was increased to 11 hits (from 7) at Stages 1 and 2.}}
+**{{Balance|Nerf|The number of hits necessary to recharge Clancy's Super was increased to 9 hits (from 5) at Stage 3.}}
+**{{Balance|Nerf|Clancy's Tactical Retreat Gadget no longer stuns enemies.}}
+**{{Balance|Neutral|Clancy's True Gold and True Silver skins were added.}}
+*14/11/24:
+**{{Balance|Nerf|Clancy's main attack damage was decreased to 600 (from 800) per hit at Stage 1.}}
+**{{Balance|Nerf|Clancy's main attack damage was decreased to 700 (from 800) per hit at Stage 2.}}
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 8 hits (from 6) at Stage 1.}}
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 7 hits (from 6) at Stage 2.}}
+**{{Balance|Nerf|Clancy's Super damage was decreased to 700 (from 760) per hit at Stage 3.}}
+**{{Balance|Nerf|Clancy's Super recharge rate was decreased by 8% at Stage 3.}}
+**{{Balance|Neutral|Fixed an issue with the Demonfire Ability affecting Clancy's Stage charge.}}
+*10/12/24:
+**{{Balance|Nerf|Clancy's movement speed was decreased to 820 (from 890) at Stage 3.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*05/05/25:
+**{{Balance|Neutral|Clancy's Recall of Duty Hypercharge was added.}}
+*08/06/25:
+**{{Balance|Neutral|The Kaiju Clancy skin was added. It was featured as a Kaiju Invasion skin.}}
+*12/06/25:
+**{{Balance|Nerf|Clancy's level up damage was decreased to 1% (from 3%) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Clancy no longer obtains tokens upon hitting the robots in Brawl Arena.}}
+*03/09/25:
+**{{Balance|Buff|The number of hits necessary to reach Clancy's Stage 2 was decreased to 7 hits (from 9).}}
+**{{Balance|Buff|The number of hits necessary to reach Clancy's Stage 3 was decreased to 14 hits (from 15).}}
+**{{Balance|Buff|Clancy's Recall of Duty Hypercharge paintballs no longer despawn upon hitting walls. This only affects the projectiles while travelling away from him.}}
+**{{Balance|Nerf|Clancy's Recon Star Power existent tokens at the start of the match was decreased to 2 (from 3).}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Clancy's Recall of Duty Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Clancy's Recall of Duty Hypercharge damage boost from 15%}}.
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Clancy's Recall of Duty Hypercharge shield boost from 15%.}}
+*16/12/25:
+**{{Balance|Buff|Clancy's health was increased to 3500 (from 3300).}}
+*25/02/26:
+**{{Balance|Buff|Clancy's main attack damage was increased to 700 (from 600) per hit at Stage 1.}}
+**{{Balance|Buff|Clancy's main attack damage was increased to 750 (from 700) per hit at Stage 2.}}
+**{{Balance|Buff|The number of hits necessary to reach Clancy's Stage 2 was decreased to 6 hits (from 7).}}
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 9 hits (from 8) at Stage 1.}}
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 9 hits (from 7) at Stage 2.}}
+**{{Balance|Nerf|The number of hits necessary to charge Clancy's Super was increased to 8 hits (from 6) at Stage 3.}}
+**{{Balance|Nerf|The number of paintballs in Clancy's Super was decreased to 12 (from 16).}}
+**{{Balance|Nerf|The damage of Clancy's Super paintballs now depends on the distance. At the minimum distance, the damage is reduced by 50%.}}
+*31/03/26:
+**{{Balance|Buff|Clancy's health was increased to 3800 (from 3500).}}
+**{{Balance|Buff|Clancy's main attack spread at Stage 3 was decreased by 60%.}}
+**{{Balance|Buff|Clancy's main attack range was increased to 8.33 tiles (from 7.67).}}
+**{{Balance|Buff|Clancy's Snappy Shooting Gadget cooldown was decreased to 12 seconds (from 15).}}
+**{{Balance|Buff|Clancy's Tactical Retreat Gadget cooldown was decreased to 13 seconds (from 16).}}
+*22/04/26:
+**{{Balance|Nerf|Clancy's main attack range was decreased to 7.67 tiles (from 8.33).}}
+*01/09/26:
+**{{Balance|Buff|Clancy's reload time was decreased to 1.8 seconds (from 2).}}
+**{{Balance|Buff|The number of hits necessary to reach Clancy's Stage 2 was decreased to 5 hits (from 6).}}
+**{{Balance|Nerf|The number of hits necessary to reach Clancy's Stage 3 was increased to 19 hits (from 15).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Clancy's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (4)===
+{{Skin Gallery
+|Name1=High Stakes|Cost1=Free from the early bundle, free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Kaiju|Cost2=79 Gems|Campaign2=Kaiju Invasion|Rarity2=Super Rare
+|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Clancy
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Kaiju|Happy}}
+|}
+
+===Sprays===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|{{Spray|Type = Clancy|Rarity = Common}}
+|{{Spray|Type = Clancy Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Clancy1}}
+|{{Pfp|Clancy2}}
+|{{Pfp|Clancy3}}
+|{{Pfp|Clancy4}}
+|}
+
+{{Navigation}}
+[[es:Clancy]]
+[[ru:Клэнси]]

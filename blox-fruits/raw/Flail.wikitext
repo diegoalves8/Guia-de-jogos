@@ -1,0 +1,130 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Flail
+|image     = <gallery>
+Flail.png|Icon
+Flail EQ.png|In-Game
+Flaildragonupdatenew2.png|Held
+Flail (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 10
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Hot and Cold
+|obtain    = Dropped
+|source    = [[Smoke Admiral]] (20%)
+}}
+{{Quote|A smoke-infused flail that strikes with disorienting swings.|Item}}
+The '''Flail''' (formerly known as Jitte) is a {{Rare}} [[sword]].
+
+The Flail does not have many uses, but it does allow for spectacular mobility, with '''[X] Smoke Apparition''' working like a second flashstep.
+
+However, due to unusually high mastery requirements, low drop rate, and mediocre damage, it only works in extremely niche scenarios.
+
+==Obtainment==
+The Flail can be obtained after defeating [[Smoke Admiral]], who is located at the [[Hot and Cold]] in the [[Second Sea]].
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Flail M1
+|desc     = The player does 3 swipes, then performs a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Smoke Tiger
+|mastery  = 150
+|cooldown = 9
+|energy   = ?
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Flail_Z_Move
+|desc     = The user launches a Tiger-like blast of smoke in the direction of their cursor that travels for a long distance, briefly stunning, blinding, and damaging enemies hit.
+}}
+
+{{Skill
+|key      = X
+|name     = Smoke Apparition
+|mastery  = 300
+|cooldown = 12
+|energy   = ?
+|break    = Yes
+|instinct = Breaks Instinct at starting point and destination.
+|gif      = Flail_X_Move
+|desc     = The user teleports to their cursor's location and releases billowing smoke, damaging and blinding nearby enemies for approximately two seconds. Smoke is left at both the original and destination points, dealing damage in both areas.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* High mobility.
+* Can blind enemies.
+* Good [[stun]].
+
+|'''[Z] Smoke Tiger'''
+* Decent [[Combos|combo]] extender.
+
+|'''[X] Smoke Apparition'''
+* [[Instinct Break|Breaks Instinct]].
+* Very useful for escaping and movement.
+* Decent hitboxes.
+}}
+|-|
+
+Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Small [[Combos|combo]] potential.
+* Low damage.
+* Weak in air.
+
+|'''[Z] Smoke Tiger'''
+* Hard to hit.
+
+|'''[X] Smoke Apparition'''
+* Hard to deal full damage. 
+}}
+</tabber>
+
+==Trivia==
+* The Flail is used by the [[Smoke Admiral]] and the [[Tyrant of the Skies]].
+* The Flail is the only weapon used by two [[bosses]].
+** However, it is only dropped by one of them.
+* Flail is not a typical [[Swords|sword]], but actually a spin-off of {{w|Morning_star_(weapon)|Morning Star}}. It was typically used by the cavalry in the medieval times.
+* There is a client-side glitch where the Flail can appear in a weird position on the user's back.
+* When [[Leopard]] was reworked to [[Tiger]], the name of the [Z] move also changed from "Smoke Leopard" to "Smoke Tiger".
+
+==Change History==
+{{Change History|10|content=
+{{Update|28}}
+* Flail's '''[Z] Smoke Leopard''' was renamed to '''[Z] Smoke Tiger'''.
+----
+{{Update|24}}
+* Jitte was reworked and renamed to Flail.
+: <gallery>
+Jitte.png|Jitte's Icon
+JitteIG.png|Jitte In-Game
+JitteIGHeld.png|Jitte Held
+JitteIGAura.png|Jitte Aura
+</gallery>
+----
+{{Update|20}}
+* Jitte's moves were revamped.
+** '''[Z] Smoke Barrage''' was renamed to '''[Z] Smoke Leopard'''.
+----
+{{Update|10}}
+* Jitte was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

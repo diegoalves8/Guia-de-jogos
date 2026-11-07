@@ -1,0 +1,155 @@
+{{Tabber V2
+|link1 = Races
+|tab1  = Races
+|link2 = Race Awakening
+|tab2  = Race Awakening
+}}
+{{Tocright}}
+'''Races''' are a core mechanic in the game. Depending on the player's race, they will gain unique passives and buffs.
+
+==List of Races==
+{{Card List|
+{{Race|Human}}
+{{Race|Rabbit}}
+{{Race|Shark}}
+{{Race|Angel}}
+{{Race|Ghoul}}
+{{Race|Cyborg}}
+{{Race|Draco}}
+}}
+
+==Obtainment==
+A race is randomly given upon the player when they join for the first time. The obtainable races upon joining for the first time are:
+* [[Human]] (62.5%)
+* [[Rabbit]] (12.5%)
+* [[Shark]] (12.5%)
+* [[Angel]] (12.5%)
+
+;Other Races
+* [[Cyborg]]
+** Can be obtained through completing the [[Cyborg/Puzzle|Cyborg puzzle]].
+* [[Ghoul]]
+** Can be bought for 100 [[Ectoplasm]] and a [[Hellfire Torch]] through the [[Experimic]].
+* [[Draco]]
+** Can be obtained through completing the [[Dragon Wizard]] [[Quests|quest]].
+
+===Changing Race===
+The player's race can be randomly changed to [[Human]], [[Rabbit]], [[Shark]], or [[Angel]] in various ways listed below:
+* Giving {{Fragment|3,000}} to [[tort]]. (Unavailable in the [[First Sea]])
+* Buying a Race Re-roll for {{Robux|90}} in the [[Game Pass|Products Shop]].
+* Buying a Race Re-roll during certain [[In-game Events|Events]] such as the [[Christmas Event]], Halloween Event, and Valentines Event.
+
+;Other Races
+[[Ghoul]], [[Draco]], and [[Cyborg]] cannot be obtained from the methods listed above. However, if the player has already obtained them once, they can get them again by talking to their respective [[NPCs]]: 
+* [[Experimic]] for [[Ghoul]]
+* [[Cyborg/Puzzle|Secret NPC]] for [[Cyborg]]
+* [[Dragon Wizard]] for [[Draco]]
+To switch to [[Cyborg]], the [[Cyborg/Puzzle|secret NPC]] requires {{Fragment|2,500}} for each switch. However, [[Ghoul]] and [[Draco]] are free to switch to.
+
+==Race Versions==
+<tabber>
+Version 1=
+All Races have a second, third, and fourth version ''(also known as v2, v3, and v4)''. These versions come with different extensions to the user's abilities. V2 and v3 is available in the [[Second Sea]], while v4 is available in the [[Third Sea]] after meeting certain requirements.
+
+|-|Version 2=
+{{Main|Alchemist}}
+The second version of a race (''so-called V2'') can be obtained by talking to the [[Alchemist]] in the [[Green Zone]] and doing the [[Flowers|Flower Quest]]. In order to start this quest, the player must be Lv. 850 or more, and must have completed the [[Colosseum Quest]].
+
+''Purchasing V2 costs {{Money|500,000}}.''
+
+However for the [[Draco]] race, the player must be Lv. 2000. Talk to the [[Dragon Wizard]] and defeat enemies with a low chance of dropping [[Fire Flowers]], each with a five minute cooldown. Once the player has 5, they can talk to the [[Dragon Wizard]] again and pay him {{Money|1,000,000}}.
+
+|-|Version 3=
+{{Main|Arowe}}
+[[File:The Secret Entrance to go to Wenlocktoad.png|thumb|200px|The secret entrance to Arowe's room]]
+The third version (''so-called V3'') of a race unlocks an extra skill for the player to use (activated with the {{Key|T}} key) and requires certain quests to be completed depending on the race. To begin, the player needs:
+* V2 of their current race.
+* Lv. 1000
+* Defeated [[Don Swan]] and unlocked the door to his room.
+* {{Money|2,000,000}} (Before talking to [[Arowe]]) 
+If the player has all of these requirements, they can talk to [[Arowe]] (who can be found inside of a [[???|hidden entrance]] in the plateau that [[Diamond (Boss)|Diamond]] resides on), which in turn gives them a quest, depending on their race, to upgrade it to V3.
+
+''Purchasing V3 costs {{Money|2,000,000}}.''
+
+===Quest===
+''Once talked to, Arowe will give the player a quest depending on their race. The quests are as follows:''
+* [[Human]] - Kill the first 3 [[Bosses]] in the [[Second Sea]]: [[Diamond (Boss)|Diamond]], [[Jeremy]], and [[Orbitus]].
+* [[Rabbit]] - Collect 30 [[Chests]].
+* [[Shark]] - Kill a naturally spawned [[Sea Beast]]. [[Summon Sea Beast|Summoned]] ones ''(including the ones that the [[Tide Keeper]] summons)'' will not count.
+* [[Angel]] - Kill another player with the [[Angel]] race.
+* [[Ghoul]] - Kill 5 players. Can be any level as long as they're in the same server in the [[Second Sea]]. The player can kill the same person five times. Obtaining Bounty/Honor from the player(s) is not necessary. 
+* [[Cyborg]] - Show any physical fruit to [[Arowe]]. (He doesn't take the fruit)
+
+
+However for the [[Draco]] race, the player must talk to the [[Dragon Wizard]] and defeat a [[Terrorshark]]. After defeating it, talk to the [[Dragon Wizard]] again and pay him {{Money|3,000,000}}.
+
+|-|Version 4=
+{{Main|Race Awakening}}
+The fourth version (''so-called V4/race awakening'') of a race unlocks a few extra skills for the player to use and requires certain quests, puzzles and trials to be completed depending on the race. To begin, the player must need to:
+* Defeated the [[rip_indra (Raid Boss)|Rip_Indra Raid Boss]]
+* Defeated the  [[Dough King]]
+* Unlock Race V3
+If the player has all of these requirements met, they can talk to [[Sealed King]] to start. More info regarding Race V4 is put in a dedicated page: [[Race Awakening]].
+</tabber>
+
+==Notes==
+* In order to obtain the [[Dark Blade/Slayer Skin|Slayer Skin]] for the [[Dark Blade]], the player needs to have unlocked the V3 ability on every race, except for [[Ghoul]], [[Cyborg]], and [[Draco]] as they are not one of the four races that they can spawn with.
+* The player's [[Arowe|V3 quest]] will not be saved upon leaving the game. However, if they die, their progress will be saved.
+* It is impossible to reroll the players race or to join the game naturally to get the [[Ghoul]], [[Draco]], or [[Cyborg]] race, because they are only obtainable by completing a series of [[Quests]].
+* The player can get [[Ghoul]] or [[Draco]] back for free by talking to the [[Experimic]] or the [[Dragon Wizard]], if they have changed to another race after doing the Quests required to get it.
+** The same as above applies to [[Cyborg]] as well, however, the player has to pay {{Fragment|2,500}} in return.
+
+==Trivia==
+* To obtain all V3 race the player will need {{Money|19,000,000}} (excluding the amount of {{Fragment|Fragments}} to change the race).
+* The player can press {{Key|T}} on their keyboard to activate the V3 ability of each Race without having to use it from their inventory.
+* The player can press {{Key|Y}} on their keyboard to activate [[Race Awakening]] of each Race without having to use it from their inventory.
+* Switching races will keep the Race version of the player's original race. (Example: If the player gets Angel to V3, then switch to Human, they will still have V3 Angel when they switch back to it.)
+* [[Cyborg]] is the only race that doesn't provide any movement buffs passively (excluding V4).
+* The [[Rabbit]]'s special ability [[Agility]] does not stack with Awakened [[Ice]]'s Ice Skating ability.
+* The player used to be able to trade a [[Rare Artifact]] with [[Norp]] to get a Race Reroll but was replaced by [[Fragments]] in [[Updates|Update 13]].
+* It costs {{Fragment|187,250}} to fully awaken [[Race Awakening|V4]] for every race.
+* If a player changes their race during combat through any means of doing so, their respawning will not count as a death, and even if the player they were in combat with fulfilled the required bounty/honor gap to gain bounty from aforementioned player, they will simply go out of combat and the game will ignore it. (Meaning not even the bounty counter will have any change in it.) This could be because a race reroll directly respawns the player instead of killing them and then respawning the player.
+* [[Draco]] is the only race that has a visual change in the v2 form.
+* There might be an upcoming "Snake" race based on [[Tiki Outpost]]'s "Snake Symbol" and [[Serpent Hunter|Serpent Hunters]], and [[Hydra Island]]'s [[Venom]] [[Enemies]], [[Hydra Enforcer]], [[Venomous Assailant|Venomous Assailants]], and the [[Hydra Leader]], they must've conquered the land, the original ones were people from the [[Dragon Dojo]] and those Dragon Crew [[Enemies]] below.
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Race Added:
+** [[Draco]]
+----
+{{Update|18}}
+* [[Race Awakening|Race V4]] was added.
+----
+{{Update|17.3}}
+* Rebalanced dashes and run speed on all the races. The speed gap between [[Rabbit]] and other [[races]] was not huge anymore.
+----
+{{Update|17.2}}
+* Race activation effect has been changed.
+----
+{{Update|14}}
+* Race Added:
+** [[Cyborg]]
+----
+{{Update|12}}
+* Race Added:
+** [[Ghoul]]
+----
+{{Update|8}}
+* Race V2 and V3 were added. 
+----
+{{Update|1}}
+* Races were released with:
+** [[Human]]
+** [[Rabbit]]
+** [[Shark]]
+** [[Angel]]
+}}
+
+==Navigation==
+{{AbilityNavigation}}
+
+[[Category:Races| ]]
+[[Category:Game Mechanics]]
+
+[[ru:Расы]]

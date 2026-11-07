@@ -1,0 +1,324 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Queen|PrestigeTitle = Bee Kind!|Rarity = Epic|Class = Marksman|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 2800|AttackRange = 10 (Very Long)|Reload = 0.9 seconds (Very Fast)|AttackSuperCharge = 26%|AttackLabel = Damage|Attack = 800|AttackLabel2 = Supercharged Damage|Attack2 = 2200|SuperRange = 9 (Long)|SuperBullets = 7|SuperSuperCharge = 1.9%|SuperLabel = Damage per drone|Super = 130|VoiceActor = Tiffany Grant|AttackSpeed=3255|AttackWidth=1|SuperSpread=40° (split; with Hypercharge)|SuperSpeed=2500|SuperWidth=|Gadget1Name=Honey Molasses|Gadget1Cooldown=20 seconds|Gadget2Name = Rattled Hive|Gadget2 = 320|Gadget2Label = Damage per bee at min. range|Gadget2Cooldown=20 seconds|Gadget22 = 960|Gadget2Label2 = Damage per bee at max. range|HyperchargeMultiplier=40%|Hypercharge|Previous=Emz|Next=Gale|AttackHyperchargeCharge=10.4%|SuperHyperchargeCharge=0.76%}} 
+{{Quote|Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them... or even what it's like to be one.}}
+{{Portrait}}
+Bea is an {{Rarity|Epic}} [[Brawler]] with low health, a very fast reload speed, and a variable damage output. She was the 31st Brawler added to the game. Her attack is a long-ranged bee that deals moderately low damage. Hitting an enemy with this shot Supercharges her next shot to deal very high damage. Bea only has 1 ammo slot that reloads fast but has a long cooldown for each shot. Her Super shoots 7 drones that slightly damage enemies and slow them down. Her first Gadget, Honey Molasses, deploys a beehive that creates sticky honey around itself, slowing down enemies who step inside. Her second Gadget, Rattled Hive, sends 4 bees spiraling outwards from her that damage enemies depending on their travel distance. Her first Star Power, Insta Beaload, gives her a second chance to have a Supercharged shot if she misses her Supercharged shot once. Her second Star Power, Honeycomb, gives her a shield whenever she has a Supercharged shot ready. Her Hypercharge, Protect the Queen, makes her Super split into 2 when it hits a target or at max range.
+
+==Attack: Big Sting==
+{{Quote|Bea sends out a long range shot that, upon landing, Supercharges her next shot to deal epic damage!}}Bea launches a very long-ranged bee that deals moderately low damage. If the shot hits an enemy, her next attack becomes Supercharged and does 175% more damage, along with a yellow ammo bar. She only Supercharges her attack when hitting a Brawler or an appropriate entity in [[Boss Fight]], [[Robo Rumble]], or [[Super City Rampage]]. Bea has only one ammo slot, so kicking the ball in [[Brawl Ball]] doesn’t consume any ammo, and if Bea's attack was Supercharged, kicking the ball does not reset the Supercharged effect. If Bea is defeated with a Supercharged shot, the Supercharge effect is lost and must be regained. She can’t hit two consecutive Supercharged attacks.  
+
+==Super: Iron Hive==
+{{Quote|Bea deploys a swarm of drones that move and turn like jets. They slow down any opponents caught in their path.}}Bea releases 7 drones that spread out as they travel after 2.67 tiles. They each deal minor damage each to enemies they hit and slow them down by 350 points for 3 seconds.
+
+==Gadgets==
+===Honey Molasses===
+{{Quote|Bea drops a beehive with a splash of sticky honey around it. The honey slows down enemies that step in it. Cooldown: 20 seconds.}}{{Gadget|1}}Upon activation, Bea deploys a beehive at her position that creates a large yellow honey puddle around itself. This puddle spreads past walls and slows down enemies by 350 points in its 4 tile radius. The beehive has 1000 health and decays 30 health per second. The Gadget will be destroyed if Bea activates her Gadget again before her current one is destroyed.
+
+===Rattled Hive===
+{{Quote|Bea unleashes 4 angry bees that circle away from her, dealing more damage the further they go (up to 1200 damage). Cooldown: 20 seconds.}}{{Gadget|2}}When activated, 4 bees will circle around Bea that spiral away from her. Each bee deals 25% of her uncharged damage to 75% of her uncharged damage the further it travels, which together deals a maximum of 4800 damage if the bees hit an enemy at maximum range. The bees can fly over walls and cover up to 10 tiles horizontally and vertically before despawning. However, the bees can’t pierce multiple enemies and they disappear after hitting a target. If Bea is defeated, stunned, pulled-in, or knocked back before all bees are unleashed, the Gadget gets interrupted, but already unleashed bees continue on their path. This Gadget's cooldown begins 1 second after it's activated.
+
+==Star Powers==
+===Insta Beaload===
+{{Quote|Instantly Supercharge Bea's Big Sting one time if she misses a Supercharged shot.}}{{StarPower|1}}Every time Bea gains a Supercharged shot, she is guaranteed to get her Supercharge back if she misses the shot. However, she won’t get a third chance if she misses it again.
+
+===Honeycomb===
+{{Quote|Bea receives a 30% shield while Big Sting is Supercharged.}}{{StarPower|2}}When Bea's Big Sting attack is Supercharged, she gains a shield that reduces all damage received by 30%. This effect is lost the moment she fires the shot.
+
+==Hypercharge: Protect the Queen==
+{{Quote|Bea's Super projectiles split into 2 when at max distance (and on hit), increasing her Super's distance and spread even more.}}{{Hypercharge}}
+When activated, Bea's Super splits into two smaller sets of 7 drones upon hitting a target or at max range, which deal the same amount of damage. These drones travel for 5.67 tiles after the split. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Bea's Big Sting now also fires a Rattled Hive projectile.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>With every attack, Bea spawned a single bee from her Rattled Hive Gadget, regardless of whether the attack hit the enemy or not. The bee acted the exact same as the Gadget, spinning around her and dealing more damage at max range. Her Rattled Hive Gadget could stack with this Mutation.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|When dealing damage, Bea releases an angry bee!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Bea spawned a single bee that behaved identically as the bees from the Rattled Hives Gadget. However, unlike the Mutation, the ability did not activate if Bea missed the shot, but activated with bees from the Super. The bee acted the exact same as the Gadget, spinning around her and dealing more damage at max range. Her Rattled Hive Gadget could stack with this Wasabi Power.
+
+==Tips==
+===Game Modes and Maps===
+*Bea is a good choice in open maps. As a shooter, she can deal high damage from afar, but she lacks a failsafe escape method that could protect her from assassins. This means she requires an assassin or close-range Brawler that could protect her if such an situation occurred.
+*Bea is a viable counter against tanks. Since most tanks are close-ranged, in order to deal effective damage, they would have to get close up to other team. Bea's slowing Super and Gadget can be effective in this place, and she is able to shoot them down without getting hurt herself. However, a lot of tanks have Supers or Gadgets that can allow them to travel a distance, therefore closing up with Bea. In this case, it would be a good idea to team her with a Brawler that can protect her if she is threatened (i.e. [[Buster]], [[Bibi]], [[Rosa]], [[Frank]], [[El Primo]], or [[Shelly]]).
+
+===Recommended Build===
+*It is a good choice to place Bea's Honey Molasses Gadget behind a wall in order to make it harder for enemies to destroy the beehive, as it has very low health. Alternatively, you can use it as a shield to tank some damage if you find yourself in a desperate situation where you need to escape quickly with their remaining health. This can also slow down chasing Brawlers, helping you escape.
+*Honey Molasses can be very effective in closing off certain chokepoints in the map that can help your team with area control. For example, in [[Hot Zone]], you could put the Gadget down on a lane that the other team must or should pass in order to reach the zone. This can prevent them from reaching it in time or force them to choose another lane, giving your team an advantage on taking them down and gaining control of the zone. The same could be said for other modes.
+*Bea's Rattled Hive Gadget is very unpredictable and hard to dodge if players are dealing with other threats. Because the bees move faster and do more damage at a longer range, it is more advisable to use this Gadget offensively for massive area denial and damage potential than to use it defensively. It can also be used to check bushes that are behind walls and damage throwers hiding behind walls.
+*The Gadget Cooldown Gear is very effective with Rattled Hive; it has the longest cooldown of any Gadget, and equipping the Gadget Cooldown Gear reduces its cooldown from 24 seconds to 20.4 seconds. It is also a Gadget that is often activated as soon as it is off cooldown to help Bea control areas, meaning Bea will often make use of the faster cooldown.
+*While both Star Powers are usable overall, Insta Beaload is usually the better one to use for Bea, as missing a Supercharged shot gives you another one back. Honeycomb is good for more survivability as a 30% shield can make Bea a little tanky, considering her health is quite low. However, you'd use the Supercharged shot to deal large damage to enemies, and Honeycomb is only active if you hold onto your Supercharged shot.
+
+===Strategies===
+*Bea has only one ammo slot and low health, so she can be ambushed easily. It is advised not to stay too close to bushes that cover a large area like in [[Cavern Churn]], because close-ranged Brawlers and assassins such as Shelly, [[Bull]], [[Darryl]], Edgar, [[Leon]], [[Buzz]], El Primo, [[Doug]], or [[Fang]] can be great counters and can inflict lots of burst damage if they have been bush-camping or behind walls nearby, and assassins can dodge your shots easily with their fast movement speed and/or fast Supers (i.e. [[Stu]], [[Mortis]], [[Mico]], [[Crow]], [[Kenji]], [[Edgar]], and [[Melodie]]).
+*Usually, most Brawlers are fast enough to be able to dodge Bea's shots. However, upon hitting a Brawler with her Super, it is possible to auto-aim them down very quickly without aiming as the Brawler is slowed down and unable to move fast enough to dodge her shots. Keep in mind that Brawlers with movement speed boosts from Star Powers or Supers might still be able to dodge auto-aimed shots.
+*Bea’s Super projectiles spread out in a wide cone, which allows them to hit enemies around walls. It's useful for discouraging enemies from afar and defeating enemies that are close to you.
+*If you're not sure whether a Bea has a Supercharged shot or not, you can check the bee flying close to her. If it's glowing red (for enemies) or blue (for you/allies), that shows a Supercharged shot is ready. Her ammo bar will also turn yellow instead of the usual orange.
+*Since Bea's Super can slow down enemies, she can use it to escape from enemies who are chasing her. She can also use it to slow down enemies who are trying to escape from her.
+
+===Other===
+*Since Bea's Super spreads out, it is great for checking bushes when you know an enemy Brawler is hiding, but the area the bush covers is too large for her normal attack.
+*Note that Bea's shot will only Supercharge her next shot if it hits an enemy Brawler or Bosses in certain events; hitting anything else, such as [[Showdown]] crates, the [[Heist]] safe, the [[Siege]] IKE turret, and minions such as [[Jessie]], [[Penny]], [[Pam]], [[8-Bit]], or [[Mr. P]]'s turret, [[Larry & Lawrie|Lawrie]], [[Tara]]'s shadow clones, and [[Nita]]'s bear will not Supercharge her next shot.
+*Take into consideration that while it only takes four attacks to charge Bea's Super, her normal shot and Supercharged shot have the same Super charge.
+*Bea will actually take longer to shoot her next shot if you spam the aim button. Instead, wait for the shot to reload and instantly press the attack button. This may take practice but will overall boost your overall damage output.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bea start vo 01.ogg|Filedescription = "Let's go explore!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon start vo 01.ogg|Filedescription = "Let's go explore!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea lead vo 01.ogg|Filedescription = "I feel like the queen bee!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon lead vo 01.ogg|Filedescription = "I feel like the queen bee!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea hurt vo 01.ogg|Filedescription = "Buzz off."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon hurt vo 01.ogg|Filedescription = "Buzz off."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea kill vo 01.ogg|Filedescription = "Bee-utiful."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea die vo 01.ogg|Filedescription = "Think of the ecosystem!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon die vo 01.ogg|Filedescription = "Think of the ecosystem!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea atk vo 01.ogg|Filedescription = "Ha!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon atk vo 01.ogg|Filedescription = "Ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea ulti vo 01.ogg|Filedescription = "Bee free!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon ulti vo 01.ogg|Filedescription = "Bee free!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bea start vo 02.ogg|Filedescription = "Let's see what's buzzing!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon start vo 02.ogg|Filedescription = "Let's see what's buzzing!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea lead vo 02.ogg|Filedescription = "Hive-five!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon lead vo 02.ogg|Filedescription = "Hive-five!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea hurt vo 02.ogg|Filedescription = "Mind your own beeswax!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon hurt vo 02.ogg|Filedescription = "Mind your own beeswax!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea kill vo 02.ogg|Filedescription = "Bee-utiful!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon kill vo 02.ogg|Filedescription = "Bee-utiful!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea die vo 02.ogg|Filedescription = "This is most unfortunate."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon die vo 02.ogg|Filedescription = "This is most unfortunate."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea atk vo 02.ogg|Filedescription = "Ha."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon atk vo 02.ogg|Filedescription = "Ha."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea ulti vo 02.ogg|Filedescription = "Don't call me honey."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon ulti vo 02.ogg|Filedescription = "Don't call me honey."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bea start vo 03.ogg|Filedescription = "What a fascinating biosphere."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon start vo 03.ogg|Filedescription = "What a fascinating biosphere."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea lead vo 03.ogg|Filedescription = "I'm buzzing!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon lead vo 03.ogg|Filedescription = "I'm buzzing!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea hurt vo 03.ogg|Filedescription = "Can you bee more annoying?"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon hurt vo 03.ogg|Filedescription = "Can you bee more annoying?"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea kill vo 03.ogg|Filedescription = "Sweet nectar!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon kill vo 03.ogg|Filedescription = "Sweet nectar!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea die vo 03.ogg|Filedescription = "The hive never forgets!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon die vo 03.ogg|Filedescription = "The hive never forgets!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea atk vo 03.ogg|Filedescription = "Hiyah!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon atk vo 03.ogg|Filedescription = "Hiyah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea ulti vo 03.ogg|Filedescription = "For the colony!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon ulti vo 03.ogg|Filedescription = "For the colony!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bea start vo 04.ogg|Filedescription = "Bee cool."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon start vo 04.ogg|Filedescription = "Bee cool."}}
+|'''Normal:'''
+{{Ogg|Filename = Bea lead vo 04.ogg|Filedescription = "Bee-lieve in yourself."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon lead vo 04.ogg|Filedescription = "Bee-lieve in yourself."}}
+|'''Normal:'''{{Ogg|Filename=Bea hurt vo 04.ogg|Filedescription="Let me bee."}}
+'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon hurt vo 04.ogg|Filedescription = "Let me bee."}}
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = Bea ulti vo 04.ogg|Filedescription = "Hope you like bees!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon ulti vo 04.ogg|Filedescription = "Hope you like bees!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Bea start vo 05.ogg|Filedescription = "So many specimens to discover!"}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon start vo 05.ogg|Filedescription = "So many specimens to discover!"}}
+|'''Normal:'''
+{{Ogg|Filename = Bea lead vo 05.ogg|Filedescription = "I'm the bee's knees."}}'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon lead vo 05.ogg|Filedescription = "I'm the bee's knees."}}
+|'''Normal:'''{{Ogg|Filename=Bea hurt vo 05.ogg|Filedescription="That stings!"}}
+'''Mega Beetle:'''
+{{Ogg|Filename = Bea mon hurt vo 05.ogg|Filedescription = "That stings!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*18/12/19:
+**{{Balance|Content=Bea was added to the game.|Change=Neutral}}
+*01/01/20:
+**{{Balance|Content=Bea's Honey Coat Star Power was added.|Change=Neutral}}
+*04/01/20:
+**{{Balance|Content=The Ladybug Bea skin was added.|Change=Neutral}}
+*23/01/20:
+**{{Balance|Content=Bea's Honey Coat Star Power shield duration was decreased to 0.6 seconds (from 1).|Change=Nerf}}
+**{{Balance|Content=Her class was changed to Sharpshooter (from Sniper).|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Bea's Honey Coat Star Power shield duration was increased to 1 second (from 0.6).|Change=Buff}}
+**{{Balance|Content=Her Honey Coat Star Power now triggers only once per match (from once per spawn).|Change=Nerf}}
+*17/03/20:
+**{{Balance|Content=Bea's Honey Molasses Gadget was added.|Change=Neutral}}
+*07/04/20:
+**{{Balance|Content=Bea's main attack projectile speed was increased by 5%.|Change=Buff}}
+*13/05/20:
+**{{Balance|Content=Bea's Honey Molasses Gadget slow area was increased by 20% and now drops above Bea.|Change=Buff}}
+*24/07/20:
+**{{Balance|Content=The Mega Beetle Bea skin was added.|Change=Neutral}}
+*30/10/20:
+**{{Balance|Content=Bea's Rattled Hive Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=The bees spawned by Rattled Hive are now closer together.|Change=Neutral}}
+*14/01/21:
+**{{Balance|Content=Bea's Rattled Hive bee damage was decreased to 800 (from 1000) per bee.|Change=Nerf}}
+*27/01/21: 
+**{{Balance|Content=Mega Beetle Bea's facial animations were reworked.|Change=Neutral}}
+*08/02/21:
+**{{Balance|Content=Bea's Rattled Hive Gadget bee count was increased to 4 (from 3).|Change=Buff}}
+**{{Balance|Content=The bees' damage was decreased to 600 (from 800) per bee.|Change=Nerf}}
+**{{Balance|Content=The bees now stop at the first target hit.|Change=Nerf}}
+**{{Balance|Content=The bees' fly pattern changed slightly to move slower and cover less area.|Change=Nerf}}
+*15/03/21:
+**{{Balance|Content=Bea's second Star Power was renamed to Honeycomb (from Honey Coat) and reworked from retaining 1 health and gaining an immunity shield before defeat once per match to giving her a 20% shield when her attack is Supercharged.|Change=Neutral}}
+**{{Balance|Content=Bea's texture colors were made slightly more saturated.|Change=Neutral}}
+*29/04/21:
+**{{Balance|Content=The Neko and the Gold Neko Bea skins were added. They were featured as Golden Week skins.|Change=Neutral}}
+*04/06/21:
+**{{Balance|Content=The Archvillain Bea skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Bea's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Bea's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Bea's Honeycomb Star Power damage reduction was increased to 30% (from 20%).|Change=Buff}}
+*27/04/22:
+**{{Balance|Content=Fixed an issue with Bea VFX causing her to lose the charged shot visual after using her Super.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Bea and all of her skins' main attack visual effects were reworked.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Bea's Honey Molasses Gadget now gradually loses health overtime after being deployed until it's destroyed.|Change=Nerf}}
+*28/02/23:
+**{{Balance|Content=Bea's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Bea's Supercharged main attack damage was decreased to 2000 (from 2200).|Change=Nerf}}
+*06/06/23:
+**{{Balance|Content=The number of hits necessary to charge Bea's Super was increased to 4 hits (from 3).|Change=Nerf}}
+*27/06/23:
+**{{Balance|Content=Bea's Rattled Hive Gadget bees' damage was increased to 1000 (from 600) per bee.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*07/09/23:
+**{{Balance|Content=Fixed an issue with Bea's Rattled Hive Gadget not causing damage if the bees were outside the valid play area.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Bea's Rattled Hive Gadget bees' damage was decreased to 960 (from 1000) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Bea's aiming line was reworked.|Change=Neutral}}
+**{{Balance|Content=Bea's flavor text was changed from "Bea loves bugs and hugs. She shoots her mechanical drones at range, and her Super sends forth an angry army of swarming bees!" to "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them... or even what it's like to be one."|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Bea's health was increased to 2500 (from 2400).|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Bea's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Bea's Mutation was removed from the game.|Change=Neutral}}
+*11/06/24:
+**{{Balance|Content=The Bea Byte skin was added. It was featured as a CyberBrawl skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Bea's Supercharged main attack damage was increased to 2200 (from 2000).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Bea's Protect the Queen Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Bea's Rattled Hive Gadget cooldown was increased to 20 seconds (from 17).|Change=Nerf}}
+*30/04/25:
+**{{Balance|Content=Bea's Rattled Hive Gadget cooldown was increased to 24 seconds (from 20).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Bea's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Bea's Wasabi Power was removed from the game.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Bea's level up damage was increased to 8% (from 6%) in [[Brawl Arena]].|Change=Buff}}
+*02/10/25:
+**{{Balance|Content=The AEB skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Bea's Protect the Queen Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Bea's Protect the Queen Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Bea's health was increased to 2800 (from 2500).}}
+*22/04/26:
+**{{Balance|Neutral|Bea's Super and Honey Molasses Gadget slow visual effects were reworked.}}
+*07/05/26:
+**{{Balance|Neutral|The Starr Patrol Bea skin was added. It was featured as a Starr Patrol skin.}}
+*01/09/26:
+**{{Balance|Buff|Bea's Super damage was increased to 130 (from 100) per drone.}}
+**{{Balance|Buff|Bea's Rattled Hive Gadget cooldown was decreased to 20 seconds (from 24).}}
+**{{Balance|Nerf|Bea's Super recharge rate was decreased to 76 (from 100).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Bea's movement speed to 750 (from 720).}}
+*16/09/26:
+**{{Balance|Neutral|Bea's Rattled Hive Gadget now ends in the same position for both teams.}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1 = Ladybug|Cost1 = Free from Glowbert Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Animal Kingdom|Rarity1=Rare
+|Name2 = Neko|Cost2= 79 Gems|Campaign2 = Golden Kawaii|Rarity2=Super Rare
+|Name3 = Archvillain|Cost3 = Free from Starr Nova Boxes, free from Nori Boxes or 79 Gems|Campaign3 = Supercell Make|Campaign3_2=Cartoon Studios|Rarity3=Super Rare
+|Name4 = Bea Byte|Cost4 = Free from Nano Drops, Cosmo Boxes or 79 Gems|Campaign4 = CyberBrawl|Rarity4=Super Rare 
+|Name5 = Mega Beetle|Cost5 = 149 Gems|Campaign5=Max Force|Rarity5=Epic
+|Name6 = Gold Neko|Cost6= 149 Gems|Campaign6 = Golden Kawaii|Rarity6=Epic
+|Name7 = AEB|Cost7=Free from Pumpkin Boxes, Coffin Boxes, through chain offer or 149 Gems • '''S'''|Campaign7=Brawl-o-ween|Rarity7=Epic
+|Name8 = Starr Patrol|Cost8=Free from Nova Drops or 149 Gems|Campaign8=Starr Patrol|Rarity8=Epic
+|TrueSkins=yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Bea
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Neko}}
+{{Pin Table|Gold Neko}}
+{{Pin Table|Ladybug}}
+{{Pin Table|Archvillain}}
+{{Pin Table|Mega Beetle|Thanks}}
+{{Pin Table|Bea Byte|Special}}
+{{Pin Table|AEB|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Bea|Rarity = Common}}
+|{{Spray|Type = Bea Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Bea1}}
+|{{Pfp|Bea2}}
+|{{Pfp|Bea3}}
+|{{Pfp|Bea4}}
+|{{Pfp|Mega Beetle Bea}}
+|-
+|{{Pfp|Gold Neko Bea}}
+|{{Pfp|AEB}}
+|}
+
+{{Navigation}}
+[[es:Bea]]
+[[ru:Беа]]

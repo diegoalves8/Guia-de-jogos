@@ -1,0 +1,306 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Unicorn|PrestigeTitle = Sweet Dreams|Rarity = Epic|Class = Support|MovementSpeed = 750 (Normal)<br>3000 (with Super)|HealthLabel = Health|Health = 2600|AttackRange = 6.33 (Normal)|Reload = 2.4 seconds (Very Slow)<br>1.6 seconds (With Floor is Fine; Normal)|AttackSuperCharge = 12.375%<br>3.075–6.175% (heal; Power Level 1–11)<br>6.475% (heal; with Hypercharge)<br>10–12.5% (with Friendship is Great; Power Level 7–11)|AttackLabel = Damage per second|Attack = 660|AttackLabel2 = Healing per second|Attack2 = 330|AttackSpeed=2200|AttackWidth=|AttackBullets=|SuperRange = 8.33 (Long)|SuperSuperCharge = 22.8%<br>11.9–22.8% (heal; Power Level 1–11)<br>23.925% (heal; with Hypercharge)<br>9.9–19.8% (ice cream; Power Level 1–11)<br>20.775% (ice cream; with Hypercharge)<br>2.475–4.95% (ice cream heal; Power Level 1–11)|Super=1520|SuperLabel=Dmg/Heal|Super2=660|SuperLabel2=Dmg per second|Super3=330|SuperLabel3=Heal per second|SuperDuration=6 seconds|SuperSpeed=2400|Gadget1Name = Friendship is Great|Gadget1 = 832|Gadget1Label = Heal|Gadget2Name = Secret Formula|Gadget1Cooldown=17 seconds|Gadget2Cooldown=22 seconds|VoiceActor=James Alexander|Previous=Angelo|Next=Shade|AttackHyperchargeCharge=4.95%<br>2.475% (heal)<br>0% (with Friendship is Great)|SuperHyperchargeCharge=9.1%<br>9.1% (heal)<br>9.55% (heal; with Hypercharge)<br>7.9% (ice cream)<br>8.3% (ice cream; with Hypercharge)<br>1.975% (ice cream heal)|HyperchargeMultiplier=40%|Gadget1Range=2.67}}
+{{Quote|Working at [[Mandy]]'s Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.}}{{Portrait}}
+Berry (also known as Barry) is an {{Rarity|Epic}} [[Brawler]] who has low health, a potentially high burst damage, great mobility with his Super, and can provide consistent healing to himself and allies, at the expense of having a very slow reload speed. He was the 81st Brawler added to the game. His Trait allows him to charge his Super by healing himself and his allies. Berry attacks by lobbing a medium-ranged ice cream cone that splashes onto the ground and creates a melted ice cream puddle on the ground that lasts for a period of time, dealing damage to enemies/healing allies splashed and inside the puddle over time. For his Super, he dashes forward, momentarily sending him into a crazy spin and leaving behind melted ice cream area on the ground that behaves identically to his main attack. His first Gadget, Friendship is Great, pushes back all nearby enemies, healing him and his allies a small amount. His second Gadget, Secret Formula, throws a puddle with double duration; Berry can increase its size by throwing more puddles on it. His first Star Power, Floor is Fine, increases his reload speed standing on his melted ice cream puddle. His second Star Power, Sticky Toppings, temporarily slows enemies on the first tick of his main attack. His Hypercharge, Double Scoops, creates a second trail of ice cream puddles following the Super's path.
+
+==Trait==
+{{Quote|This Brawler charges Super from healing done.}}{{Trait|Heal SC}}
+Berry can charge his Super by healing himself and his allies. The Super charge per heal on an ally is proportional to the healing done. Damaging an enemy or healing an ally for the same amount will charge the same amount of Super. Unlike charging Super through damage, the amount of Super charged through healing depends on the actual amount of healing done, not the nominal healing value. The Super charge rate of this Trait scales with Power Levels, and also with any damage buff or debuff.
+
+==Attack: Meltdown==
+{{Quote|Berry throws melted ice cream at a targeted area, damage enemies and healing allies on impact and over time.}}
+Berry lobs an ice cream cone over walls at a medium range that deals damage on impact and creates a melted ice cream puddle where it lands, dealing up to 5 more ticks of damage to enemies who are splashed and standing within it. The puddle has a 1.67-tile radius and has a duration of 5.999 seconds. Berry's attack will land on the ground sooner the closer he throws his ice cream to himself.
+
+If Berry or allies stand in the puddle, it heals them for health that is 50% of the damage it normally deals to an enemy. The damage and healing of multiple puddles doesn't stack, meaning Brawlers can only take one tick of damage from the puddles per second, although the impact damage does stack. Damage buffs such as from the Damage [[Gears|Gear]] increase healing in addition to damage; the increased healing and damage of a puddle persists even if the damage buff wears off while the puddle is still active.
+==Super: Sweet Swirl==
+{{Quote|Berry dashes forward, spinning and dropping melted ice cream around him, damage enemies and healing allies on impact and over time.}}
+Berry spins forwards, dealing high damage to enemies he hits, healing allies he hits, and creating ice cream puddles following the Super's path. These ice cream puddles behave identically to those of his main attack, except they do not have impact damage. Berry can't use his Super to dash over walls or water, and if hit by a stun or knockback while his Super is active, it is cancelled. Unlike Berry's main attack, damage buffs do not increase healing from his Super. Also, the Super recharge rate of the ice cream's damage scales with Power Levels, and with any damage buff or debuff.
+
+==Gadgets==
+===Friendship is Great===
+{{Quote|Berry swipes his tail, knocking back enemies and healing nearby allies for 1040 health. Cooldown: 17 seconds.}}{{Gadget|1}}
+Upon activation, enemies around Berry are knocked back 2 tiles while simultaneously healing himself and teammates around him for 20% of his maximum health. The healing does not contribute to charging his Hypercharge.
+
+{{Quote|Berry drops an ice cream puddle under every healed ally.}}{{Buffie|Gadget}}
+With the Buffie, Berry also drops an ice cream puddle under every healed ally. 
+
+===Secret Formula===
+{{Quote|Berry throws an extra scoop of ice cream, creating a puddle with longer duration. Main attacks landing in the puddle make it bigger. Uses ammo. Cooldown: 22 seconds.}}{{Gadget|2}}
+
+Berry throws an ice cream puddle in the direction the Gadget is aimed. It is identical to his attack, but lasts twice as long (11.998 seconds) and throwing his main attack ice cream at it increases its size. This Gadget consumes ammo.
+
+{{Quote|Main attacks landing in this puddle bounce!}}{{Buffie|Gadget}}
+
+With the Buffie, puddles that land in the Gadget bounce off of it, effectively increasing their range. Puddles can bounce multiple times if they land on the Gadget area again.
+
+==Star Powers==
+===Floor is Fine===
+{{Quote|Berry gains 50% increased reload speed when standing on his own melted ice cream.}}{{StarPower|1}}
+This Star Power increases Berry's reload speed by 50% when standing on an ice cream puddle.
+
+{{Quote|Allies standing in Berry's ice cream gain 20% increased reload speed.}}{{Buffie|Star}}
+With the Buffie, allies in the puddle also gain a 20% reload speed boost.
+
+===Sticky Toppings===
+{{Quote|Berry's main attack slows enemies by 10% for 1 sec on first hit.}}{{StarPower|2}}
+This Star Power makes Berry's attack slow enemies by 10% for 1 second on impact.
+
+{{Quote|Each enemy slowed grants Berry a 10% movement speed boost for 2 sec.}}{{Buffie|Star}}
+With the Buffie, hitting enemies with the attack also grants Berry a 10% movement speed boost for 2 seconds.
+
+== Hypercharge: Double Scoops ==
+{{Quote|Sweet Swirl drops double the scoops of ice cream!}}{{Hypercharge}}
+When activated, Berry's Super creates two trails of ice cream puddles following the Super's path, instead of one. The Hypercharged puddles can stack with the puddles from his main attack and his normal Super. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Attacks split into two after the first splash, creating two smaller, shorter-duration puddles.}}{{Buffie|Hyper}}
+With the Buffie, Berry's attack creates two puddles to the left and right of it upon landing. These smaller puddles last for 3 seconds instead of 6. Increased Hypercharge duration by 2 seconds.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Leaves an ice cream trail behind him!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Berry left behind a trail of melted ice cream that similarly damaged enemies and healed allies.
+
+==Tips==
+===Games Modes and Maps===
+*Berry is perfect for [[Hot Zone]], or for controlling the center of the map in any mode. If you cover a large area with his long-lasting attacks, it will both prevent enemies from advancing into it, and create a space of constant healing for Berry's team.
+**With tanks like [[Hank]], [[Draco]], [[El Primo]], [[Rosa]], and [[Frank]] on his team, Berry can ensure that they stay alive longer in the zone by providing constant healing using his attacks, Super, and Friendship Is Great Gadget. This helps to extend your time in the zone and contribute more to the objective.
+
+===Recommended Build===
+*Both of Berry's Gadgets are useful. Friendship Is Great can be very useful in providing spontaneous healing to his teammates. This can be valuable in modes like [[Hot Zone]]. Healthy Additives, combined with his Making a Mess Star Power, allows Berry to deal more than 20% of the opposing team's safe's health with a single attack in [[Heist]]. It also allows him to keep control of a certain area longer.
+*In terms of Star Powers, Floor is Fine is almost always better, as it covers one of Berry's main weaknesses for essentially the entire match, as all Berry has to do to maintain its effects is occasionally throw a puddle under himself.  Making a Mess can be good to help finish off retreating Brawlers, but the opportunities to get value from it are few and far between.
+
+===Strategies===
+*Throwing Berry's ice cream on an existing puddle will only lengthen the puddle's duration without inflicting any extra damage (or healing), besides the initial hit. Because of this, throwing all your puddles in the same spot is a waste of ammo. It is best to spread out your attacks and focus on area denial.
+*Similarly to [[Stu]], when Berry's Super is auto-aimed, he will dash in the direction that he's facing, making this a useful way to quickly escape certain situations, or engage to an oblivious enemy.
+*Berry's ice cream puddles from his Hypercharged Super are counted as different puddles from his normal attacks. This means that he can stack his normal attack with his Hypercharged Super, allowing for double the damage and healing ticks.
+
+=== Other ===
+
+* Berry's attacks may seem similar to [[Barley]]'s, but you should not use them in the same way, because they have fundamental differences. Berry is better at covering a large area for a long time, dealing lasting damage over time, but does not have Barley's ability to deal stacked damage.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = berry start vo 01.ogg|Filedescription = "Great, time for more humiliation."}}
+|{{Ogg|Filename = berry lead vo 01.ogg|Filedescription = "So amazing. Go, me."}}
+|{{Ogg|Filename = berry hurt vo 01.ogg|Filedescription = "Ooh, stop horsing around!"}}
+|{{Ogg|Filename = berry kill vo 01.ogg|Filedescription = "Wow, you didn't even try."}}
+|{{Ogg|Filename = berry die vo 01.ogg|Filedescription = "Ooh, peace at last."}}
+|
+|{{Ogg|Filename = berry ulti vo 01.ogg|Filedescription = "All the colors of the rainbow!"}}
+|-
+|{{Ogg|Filename = berry start vo 02.ogg|Filedescription = "Let's melt your hopes and freeze your dreams."}}
+|{{Ogg|Filename = berry lead vo 02.ogg|Filedescription = "Sweet dreams are made of this."}}
+|{{Ogg|Filename = berry hurt vo 02.ogg|Filedescription = "Ugh, don't eat the horn."}}
+|{{Ogg|Filename = berry kill vo 02.ogg|Filedescription = "Why the long face? Oh, that's me."}}
+|{{Ogg|Filename = berry die vo 02.ogg|Filedescription = "Always with the self-destruction, ah."}}
+|
+|{{Ogg|Filename = berry ulti vo 02.ogg|Filedescription = "Crushing dreams and candy coating nightmares!"}}
+|-
+|{{Ogg|Filename = berry start vo 03.ogg|Filedescription = "Ain't no valley low eno-o-o-o-ough."}}
+|{{Ogg|Filename = berry lead vo 03.ogg|Filedescription = "Rainbow sparkles, woo."}}
+|{{Ogg|Filename = berry hurt vo 03.ogg|Filedescription = "Ow! Color me sad."}}
+|{{Ogg|Filename = berry kill vo 03.ogg|Filedescription = "What a colorful demise!"}}
+|{{Ogg|Filename = berry die vo 03.ogg|Filedescription = "Ah, you got me."}}
+|
+|{{Ogg|Filename = berry ulti vo 03.ogg|Filedescription = "Rainbows and mayhem!"}}
+|-
+|{{Ogg|Filename = berry start vo 04.ogg|Filedescription = "Time to turn that frown... further down."}}
+|{{Ogg|Filename = berry lead vo 04.ogg|Filedescription = "In chaos, we find our true colors."}}
+|{{Ogg|Filename = berry hurt vo 04.ogg|Filedescription = "Art is pain."}}
+|{{Ogg|Filename = berry kill vo 04.ogg|Filedescription = "Color me bad."}}
+|{{Ogg|Filename = berry die vo 04.ogg|Filedescription = "Unicorn tears."}}
+|
+|{{Ogg|Filename = berry ulti vo 04.ogg|Filedescription = "Unicorn power activate!"}}
+|-
+|{{Ogg|Filename = berry start vo 05.ogg|Filedescription = "War is my canvas, time to doodle!"}}
+|{{Ogg|Filename = berry lead vo 05.ogg|Filedescription = "Prepare for a bitter dose of reality with a dash of... Berry."}}
+|{{Ogg|Filename = berry hurt vo 05.ogg|Filedescription = "Oh, the bitter taste of disgrace."}}
+|{{Ogg|Filename = berry kill vo 05.ogg|Filedescription = "My candy is not for kids."}}
+|{{Ogg|Filename = berry die vo 05.ogg|Filedescription = "We don't make mistakes, just happy little accidents."}}
+|
+|
+|-
+|{{Ogg|Filename = berry start vo 06.ogg|Filedescription = "Here comes an extra scoop of Berry sugar."}}
+|{{Ogg|Filename = berry lead vo 06.ogg|Filedescription = "So many emotions."}}
+|{{Ogg|Filename = berry hurt vo 06.ogg|Filedescription = "Salty, sour and sore."}}
+|{{Ogg|Filename = berry kill vo 06.ogg|Filedescription = "I like to beat the brush."}}
+|{{Ogg|Filename = berry die vo 06.ogg|Filedescription = "Taking the sour of the sweet, getting back on my feet."}}
+|
+|
+|-
+|{{Ogg|Filename = berry start vo 07.ogg|Filedescription = "Sweet and sour, candy is my power."}}
+|
+|
+|{{Ogg|Filename = berry kill vo 07.ogg|Filedescription = "Time for candy. Ugh, gotta watch out for Mandy."}}
+|{{Ogg|Filename = berry die vo 07.ogg|Filedescription = "Not gonna sugarcoat it."}}
+|
+|
+|-
+|{{Ogg|Filename = berry start vo 08.ogg|Filedescription = "It's gonna be a sweet ride! Ugh."}}
+|
+|
+|{{Ogg|Filename = berry kill vo 08.ogg|Filedescription = "Happy horsey."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = berry start vo 09.ogg|Filedescription = "Berry nice to meet you, sparkles, ugh."}}
+|
+|
+|{{Ogg|Filename = berry kill vo 09.ogg|Filedescription = "Some tears for dessert."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = berry kill vo 10.ogg|Filedescription = "Sweet dreams!"}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = berry kill vo 11.ogg|Filedescription = "The sound of salty tears brings sweetness to my ears."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = berry kill vo 12.ogg|Filedescription = "Yummy gummy, what a dummy."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = berry kill vo 13.ogg|Filedescription = "Sour, not sweet, enjoy your defeat."}}
+|
+|
+|
+|}
+
+==History==
+*25/06/24:
+**{{Balance|Content=Berry became available to play in the [[Training Cave]].|Change=Neutral}}
+*27/06/24:
+**{{Balance|Content=Berry could be unlocked early as a bundle for $14.99.|Change=Neutral}}
+**{{Balance|Content=The Dark Horse Berry skin was added. It was featured as a Starrs of Brawlywood skin.|Change=Neutral}}
+*04/07/24:
+**{{Balance|Content=Berry became available in the Starr Road.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Berry's Super charge rate from healing was decreased by approximately 33%.|Change=Nerf}}
+**{{Balance|Content=Berry's True Silver and True Gold skins were added.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Berry's Double Scoops Hypercharge was added.|Change=Neutral}}
+*18/12/24:
+**{{Balance|Content=Fixed a bug where the first puddle from Berry's Super dealt the dash's amount of damage.|Change=Neutral}}
+*02/01/25:
+**{{Balance|Content=The StarrHorse Berry skin was added. It was featured as a StarrForce Assemble skin.|Change=Neutral}}
+*23/01/25:
+**{{Balance|Content=Fixed a bug that allows the StarrHorse Berry skin to stack damage and heal while Hypercharged.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Berry's main attack and Super puddle heal was decreased to 264 (from 330). This does not affect his Hypercharged puddles.|Change=Nerf}}
+**{{Balance|Content=Berry's main attack and Super puddle Super charge rate from healing was decreased by 20%. This does not affect his Hypercharged puddles.|Change=Nerf}}
+*23/04/25:
+**{{Balance|Content=Berry's main attack and Super puddle heal was increased to 330 (from 264). This does not affect his Hypercharged puddles.|Change=Buff}}
+**{{Balance|Content=Berry's main attack and Super puddle Super charge rate from healing was increased by 25%. This does not affect his Hypercharged puddles.|Change=Buff}}
+*01/05/25:
+**{{Balance|Content=Berry's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Berry's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Berry's level up health was decreased to 450 (from 550) in [[Brawl Arena]].|Change=Nerf}}
+*30/06/25:
+**{{Balance|Content=Berry's level up damage was decreased to 2% (from 3%) in Brawl Arena.|Change=Nerf}}
+*03/07/25:
+**{{Balance|Content=The Pegasus Berry skin was added. It was featured as a Legends of Hades skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Berry's Double Scoops Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Berry's Double Scoops Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Berry's Double Scoops Hypercharge shield boost from 15%.}}
+*06/11/25:
+**{{Balance|Content=The Scoops Ahoy Berry skin was added. It was featured as a Stranger Things skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Berry's health was increased to 2600 (from 2500).}}
+**{{Balance|Buff|Berry's Friendship Is Great Gadget healing was increased to 832 (from 800).}}
+*02/07/26:
+**{{Balance|Neutral|The Fighter Berry skin was added. It was featured as a Nanonoodles skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Berry's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Buff|Berry's Secret Formula Gadget is now throwable.}}
+**{{Balance|Buff|Berry can now throw his attack at his Secret Formula Gadget puddle to increase its size.}}
+**{{Balance|Nerf|Berry's Secret Formula Gadget cooldown was increased to 22 seconds (from 12).}}
+**{{Balance|Neutral|Berry's Healthy Additives Gadget was renamed to Secret Formula.}}
+**{{Balance|Neutral|Berry's Making a Mess Star Power was renamed to Sticky Toppings, and reworked from increases the damage of the first tick of his main attack if it's not thrown on an existing puddle to temporarily slowing enemies on the first tick of his main attack.}}
+**{{Balance|Neutral|Berry's Buffies were added.}}
+
+==Cosmetics==
+===Skins (7)===
+{{Skin Gallery
+|Name1=Dark Horse|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Starrs of Brawlywood|Rarity1=Rare
+|Name2=StarrHorse|Cost2=Available in bundles for Pizza Slices or 149 Gems • '''S'''|Campaign2=StarrForce Assemble|Rarity2=Epic
+|Name3=Pegasus|Cost3=Free from Damian Boxes or 149 Gems|Campaign3=Legends of Hades|Rarity3=Epic
+|Name4=Scoops Ahoy|Cost4=Free from Strangest Packs or 149 Gems • '''S'''|Campaign4=Stranger Things|Rarity4=Epic
+|Name5=Fighter|Cost5=Free after opening 120 Nano Drops or 199 Gems|Campaign5=Nanonoodles|Rarity5=Mythic
+|TrueSkins=Yes}}
+
+===Buffie Skins===
+<gallery>
+Berry Buffie Skin-Gadget.png|Gadget
+Berry Buffie Skin-Star.png|Star
+Berry Buffie Skin-Hyper.png|Hyper
+Berry Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Berry
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|StarrHorse}}
+{{Pin Table|Pegasus|Special}}
+{{Pin Table|Scoops Ahoy|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Berry|Rarity = Common}}
+|{{Spray|Type = Berry Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Berry1}}
+|{{Pfp|Berry2}}
+|{{Pfp|Berry3}}
+|{{Pfp|Berry4}}
+|{{Pfp|StarrHorse Berry}}
+|-
+|{{Pfp|Pegasus Berry}}
+|{{Pfp|Scoops Ahoy Berry}}
+|}
+
+{{Navigation}}
+[[pl:Berry]]
+[[ru:Берри]]

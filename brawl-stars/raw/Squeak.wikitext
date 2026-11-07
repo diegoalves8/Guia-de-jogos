@@ -1,0 +1,274 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = is an accident|PrestigeTitle = Squishy|Rarity = Mythic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3800|AttackRange = 7.67 (Long)<br>15.33 (with Windup; Very Long)|Reload = 2.1 seconds (Slow)|AttackSuperCharge=25.5%|AttackLabel = Damage|Attack =1280|AttackSpeed=4000|SuperRange =8.33 (Long)<br>13.33 (with Hypercharge)|Super=1100|SuperLabel=Damage per blob|AttackWidth=0.33|SuperBullets=6<br>12 (with Hypercharge)|SuperSuperCharge=12.5%|SuperSpeed=800<br>3000 (blob)|SuperWidth=0.67|Gadget1Name=Windup|Gadget1Cooldown=14 seconds|Gadget2Name=Residue|Gadget2Cooldown=20 seconds|VoiceActor=Martin Schjøler|Previous=Ruffs|Next=Buzz|HyperchargeMultiplier=40%|AttackHyperchargeCharge=10.2%|SuperHyperchargeCharge=5%}}
+{{Quote|Squeak is a blob of happy energy who loves his creator, [[Ruffs]]. He's a joy to be around, at least if you are unaware that he's made of dog slobber}}
+{{Portrait}}Squeak is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a long range, and a moderately high damage output, but a slow reload speed. He was the 47th Brawler added to the game. He attacks by shooting a blob of goo that sticks to obstacles and targets and then explodes after a delay. His Super shoots a giant ball that explodes into six smaller blobs that each explode after a delay, similarly to his main attack. His first Gadget, Windup, increases the range and damage of his next attack. His second Gadget, Residue, allows Squeak's next attack to reveal invisible enemies and enemies in bushes inside the attack's radius and also temporarily slows them down in the attack's radius. His first Star Power, Chain Reaction, increases his attack's damage for every enemy Brawler inside his attack's radius. His second Star Power, Super Sticky, slows enemies hit by his Super's secondary blobs. His Hypercharge, Bouncy Blob, gives his Super a second volley of Sticky Blombs. 
+
+==Attack: Sticky Blomb==
+{{Quote|Squeak's sticky blobs of goo are unstable, and blow up with a big splash and an ouch! They attach to any opponent they hit outright.}}Squeak attacks by throwing a long-ranged blob of goo that sticks to obstacles and targets before exploding, damaging anyone in a 2.67-tile radius after a 1.15-second delay, similar to [[Bo]]'s mines. If the attack doesn't hit anything, the Blomb explodes in place. The explosion can damage enemies behind walls, similar to [[Jacky]], [[Hank]], [[Doug]], [[Shade]], and [[Brock]]'s attack. These blobs can stack on an obstacle until they explode. If a blomb hits a target with a blomb already attached, the initial blomb instantly explodes and deals damage, but this is not the case for secondary Sticky Blombs.
+
+==Super: Big Blob==
+{{Quote|Squeak lobs a blob that blows up with aplomb! The explosion of goo sends six smaller Sticky Blombs in all directions.}}Squeak throws a giant ball of goo that explodes upon landing, sending out six secondary Sticky Blombs in a hexagon pattern that travel for 6.67 tiles and explode in a 1.33-tile explosion radius. The pattern is fixed, with 60 degrees between each blob, and it doesn't rotate with the projectile's angle. There is a limit of 10 Sticky Blombs, and spawning more Sticky Blombs causes the others to disappear (in the same order they appeared). This also includes the blobs from his Hypercharge and main attack.
+
+==Gadgets==
+=== Windup ===
+{{Quote|Squeak's next Sticky Blomb deals 50% more damage and has 100% longer range. Cooldown: 14 seconds.}}{{Gadget|1}}Activating this Gadget increases Squeak's next attack's range to 15.33 tiles and will deal 50% more damage. A Gadget symbol will glow above Squeak's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+=== Residue ===
+{{Quote|Squeak's next Sticky Blomb leaves a residue area behind after exploding, slowing down enemies and giving allies sight into bushes for 6 seconds. Cooldown: 20 seconds.}}{{Gadget|2}}Activating this Gadget allows Squeak's next attack to make a special radius after exploding that reveals and slows down invisible enemies and enemies in bushes inside for 6 seconds. The area effect has a 2.5-tile radius and slows by 350 points for 1.05 seconds on contact. If Squeak's attack hits an enemy, the radius appears over the spot where the attack explodes. A Gadget symbol will glow above Squeak's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts this attack is shot. Enemies can see which area is under the Gadget's effect.
+
+==Star Powers==
+===Chain Reaction===
+{{Quote|Each opponent within the area of a Sticky Blomb's explosion increases the Blomb's damage by 10%.}}{{StarPower|1}}Every enemy Brawler in the range of one of Squeak's attacks will result in 15% linearly increased damage to every target (including spawnables) in the explosion radius. This Star Power still takes effect if there is only one enemy Brawler, giving Squeak at least a permanent 10% extra damage for every attack. Secondary Sticky Blombs from his Super aren't affected by this Star Power. If Squeak uses his main attack and it hits an enemy Brawler while he is defeated, it will not trigger the extra damage.
+
+===Super Sticky===
+{{Quote|Secondary Sticky Blombs from Squeak's Super also slow down opponents for 4 seconds.}}{{StarPower|2}}The secondary Sticky Blombs from Squeak's Super now slow down enemies hit by the explosions for 4 seconds by 350 points.
+
+==Hypercharge: Bouncy Blob==
+{{Quote|The Sticky Blombs from Squeak's Super now bounce and split one more time.}}{{Hypercharge}}
+When activated, Squeak's Super bounces forward 5 tiles after landing, and spawns a second volley of Sticky Blombs. The secondary projectile passes through enemies and deals one Blomb worth of damage but bounces off walls. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Squeak's Big Blob now spawns Sticky Blombs, and he has an increased Super Charge.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Squeak's Super spawned normal-sizes Sticky Blombs (identical to his main attack) instead of smaller ones, and his Super charge rate was increased slightly.
+
+==Tips==
+
+===Game Modes and Maps===
+
+* Squeak is strong in modes and maps that require area control. The area of effect of his attack and Super makes him ideal for blocking key chokepoints of the map, which can be very effective in modes like [[Brawl Ball]] and [[Gem Grab]]. He also discourages enemies from teaming up and can be used to counter tanks at a reasonable range. However, his lack of burst damage renders him somewhat useless at close range against assassins or Brawlers with high-burst damage.
+* Squeak is ideal for modes like [[Heist]] and [[Siege]] despite his below-average attack damage, because his Super can deal incredible amounts of damage, similar to [[Spike]]'s attack or [[Crow]], [[Hank]], [[Shelly]], and [[Clancy]]'s Super. His Super charge rate is also quick (4 hits), allowing him to frequently Super the safe and deal high damage. Its wide area potential also allows it to sweep bushes, but its delay requires timing skills.
+* When playing Squeak in [[Duo Showdown]], keep a teammate with high close-ranged burst damage like [[Buzz]], Spike, Bull, [[Shelly]], Edgar, [[Leon]], [[Griff]], El Primo, or [[Darryl]] to cover up Squeak's weakness at close-quarters combat.
+* Squeak is unable to deal immediate burst damage due to his delayed attack and below-average damage, so in [[Brawl Ball]], he struggles to defend his goal and prevent enemies from scoring, not to mention his lack of any abilities that make the enemy drop the Ball, such as knockbacks, pulls, or stuns. If you choose to play Squeak in Brawl Ball, make sure to close off choke points with your lingering attack and stay alive for your team. It is best to close off areas and force your enemies to take a longer route in order to get to the ball.
+
+===Recommended Build===
+
+*Squeak's Windup Gadget combined with his Chain Reaction can greatly increase his damage and allow him to do team wipeouts due to his area of effect. It can also be used to catch up with an enemy who is out of range or escaping on low health.
+*Squeak's Windup Gadget should be used with care, since the range of the attack makes you unable to see where the attack will hit. However, if you need to quickly deal damage to the IKE turret in Siege, you can utilize this to guarantee a hit on the IKE turret without having to dive in to the IKE's range. This very useful to gain the lead during the last few seconds of a match.
+**Due to the modified attack's long range, you can also use his Windup Gadget to apply pressure on another lane on the map while covering one lane. This is really good in helping your teammates even if you're taking on your own fight.
+*Instead of using Squeak's Windup Gadget to get a hopeful snipe across the map, use it instead to finish off enemies that are barely outside of your attack range. More often than not, you will not always need to use all of the added range, but only a little extra of it to get that crucial kill. It can, however, be used at the beginning of the game or after a goal is scored in Brawl Ball to create some amount of area denial early on, or to maximise the usage of Squeak's multiple-target damage to weaken the enemy team and charge up more of your Super. This is, however, only possible in Brawl Ball due to the players spawning closer to each other than usual, at the beginning of the match or after a goal is scored.
+*Squeak's Chain Reaction Star Power is useful for enemies who are grouped up, which occurs only in certain situations. If you aim your attack correctly towards the grouped-up enemies, it can guarantee an extra 10% damage for each enemy.
+*In most maps with many choke points, Squeak's Residue Gadget can be very strong against enemies. His Gadget can slow enemies down while you and your teammates can defeat them easily.
+
+===Strategies===
+*Squeak's attacks and his Super can be used to safeguard specific areas to prevent Brawlers from entering by firing them at such areas ensuring that they get damaged by going there. For example, you can throw blombs at Gems in [[Gem Grab]]. Similarly, his Super and attack can be used to completely close off lanes and/or weaken enemies who are in your lane (more effectively with his slowing Star Power) to secure control of your lane. His attack's delay,  large radius and sticky effect coupled with his Super's area denial makes him an ideal control and lane defense Brawler.
+*Squeak can be used to discourage enemies from using teleporters. If you see a teleporter light up after its cooldown, try throwing your Sticky Blombs to the teleporter so that enemies take damage the moment they exit it, or avoid teleporting if they know there's a blob at their destination.
+*While Squeak's Super can cover a good chunk of the map, the bombs don't have a large range and experienced players can deter it. Aim it like [[Tick]]'s attack to prevent enemies from entering a point.
+*Due to his special attack projectile and the radius of damage, you'll be able to detect bush-camping enemies after you've hit them once. After that, you can continue to attack your enemies. However, some high-burst damage Brawlers like Spike, [[Edgar]], Buzz, [[El Primo]], Griff, Leon, [[Nani]], [[Emz]], Shelly, Darryl, or [[Bull]] could pop out of bushes and eliminate you easily due to Squeak's attack delay, so you need to check bushes more frequently or stay in an open area.
+*If you throw your Super directly onto an enemy, most, if not all of the blobs will attach to them, dealing massive damage after a short delay. This can be used to weaken a brawler, allowing your teammates to finish them off. It also charges your super by a significant amount, allowing you to repeatedly chain your Super. Practice aiming Squeak's Super directly onto an enemy and planning a precise hit on moving targets for proficiency in using Squeak's Super in this way.
+*When playing against Squeak, try to learn his super pattern so you can avoid getting hit. The blombs tend to burst out in an almost straight asterisk (*) shape.
+
+=== Other ===
+
+* When playing as Squeak, don't shoot all of your blombs at one go unless it is entirely necessary. It is much better to place them carefully so that your enemy is forced to walk in to your teammates' fire.
+* Keep in mind that Squeak's sticky blobs can stick to almost every obstacle and target. This can have plenty of unique and unpredictable outcomes, such as attaching Sticky Blombs to minecarts in [[Minecart Madness]] so they travel to enemies and (along with the minecart's 2000 damage) knock them out, should they become trapped, or attaching it to spawnables such as [[Pam]]'s Healing Station or [[8-Bit]]'s Damage Booster to prevent enemies from going near them.
+* Since Squeak has a delayed attack, there is a chance that your opponent could defeat you first, so you should maintain distancing from enemies, especially heavyweights and assassins, who can easily defy the delayed and slow-reloading attack. This still works effectively because Squeak is ideal at keeping control and keeping your opponents away.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning 
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+|-
+|{{Ogg|Filename = Squeak start vo 01.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 01.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak hurt vo 01.ogg|Filedescription = Squeak whimpers}}
+|{{Ogg|Filename = Squeak kill vo 01.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak die vo 01.ogg|Filedescription = Squeak whimpers}}
+|-
+|{{Ogg|Filename = Squeak start vo 02.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 02.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak hurt vo 02.ogg|Filedescription = Squeak screams}}
+|{{Ogg|Filename = Squeak kill vo 02.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak die vo 02.ogg|Filedescription = Squeak whimpers}}
+|-
+|{{Ogg|Filename = Squeak start vo 03.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 03.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak hurt vo 03.ogg|Filedescription = Squeak whimpers}}
+|{{Ogg|Filename = Squeak kill vo 03.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak die vo 03.ogg|Filedescription = Squeak whimpers}}
+|-
+|{{Ogg|Filename = Squeak start vo 04.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 04.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak hurt vo 04.ogg|Filedescription = Squeak whimpers}}
+|{{Ogg|Filename = Squeak kill vo 04.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak die vo 04.ogg|Filedescription = Squeak whimpers}}
+|-
+|{{Ogg|Filename = Squeak start vo 05.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 05.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak hurt vo 05.ogg|Filedescription = Squeak whimpers}}
+|{{Ogg|Filename = Squeak kill vo 05.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak die vo 05.ogg|Filedescription = Squeak whimpers}}
+|-
+|{{Ogg|Filename = Squeak start vo 06.ogg|Filedescription = Squeak giggles}}
+|{{Ogg|Filename = Squeak lead vo 06.ogg|Filedescription = Squeak giggles}}
+|
+|{{Ogg|Filename = Squeak kill vo 06.ogg|Filedescription = Squeak giggles}}
+|
+|-
+|{{Ogg|Filename = Squeak start vo 07.ogg|Filedescription = Squeak giggles}}
+|
+|
+|{{Ogg|Filename = Squeak kill vo 07.ogg|Filedescription = Squeak giggles}}
+|
+|-
+|{{Ogg|Filename = Squeak start vo 08.ogg|Filedescription = Squeak giggles}}
+|
+|
+|
+|
+|}
+
+==History==
+*13/05/21:
+**{{Balance|Content=Squeak became available to play in the [[Training Cave]].|Change=Neutral}}
+*20/05/21:
+**{{Balance|Content=Squeak became available to play in matches.|Change=Neutral}}
+*08/06/21:
+**{{Balance|Content=Squeak's Super Sticky Star Power was added.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Squeak's main attack projectile speed was increased by 15%.|Change=Buff}}
+**{{Balance|Content=His main attack blombs now make any previous attack blombs instantly explode if they hit the same enemy.|Change=Buff}}
+**{{Balance|Content=His Super no longer has a delay after landing.|Change=Buff}}
+**{{Balance|Content=Squeak's Super now takes the same time to land regardless of the distance thrown.|Change=Nerf}}
+*27/10/21:
+**{{Balance|Content=Squeak's class was changed to Damage Dealer (from Fighter).|Change=Neutral}}
+*29/10/21:
+**{{Balance|Content=The Ghost Squeak skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*24/11/21:
+**{{Balance|Content=The Potato Squeak skin was added. It was featured as a Club League skin.|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Squeak's main attack damage was increased to 1080 (from 1000).|Change=Buff}}
+*01/03/22: 
+**{{Balance|Content=Squeak's Residue Gadget was added.|Change=Neutral}}
+*02/03/22:
+**{{Balance|Content=Squeak's Residue Gadget no longer reveals Brawlers inside bushes while also inside [[Leon]]'s Lollipop Drop Gadget.|Change=Nerf}}
+*27/04/22:
+**{{Balance|Content=Squeak's Windup Gadget now also increases the damage of the next attack by 50%.|Change=Buff}}
+**{{Balance|Content=Squeak's Residue Gadget duration was increased to 20 seconds (from 15) and now also slows down enemies within the radius.|Change=Buff}}
+**{{Balance|Content=Ghost Squeak's facial animations were reworked.|Change=Neutral}}
+*04/05/22:
+**{{Balance|Content=Squeak's Residue Gadget duration was decreased to 10 seconds (from 20).|Change=Nerf}}
+*31/08/22:
+**{{Balance|Content=Squeak's True Silver and True Gold skins were added.|Change=Neutral}}
+*07/09/22:
+**{{Balance|Content=The Moon Bunny Squeak skin was added.|Change=Neutral}}
+*14/11/22:
+**{{Balance|Content=The First Blob Squeak skin was added. It was featured as an Action Heroes skin.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Squeak's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Ghost and Moon Bunny Squeak now cost 79 [[Gems]] each (from 49).|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Squeak's Chain Reaction Star Power damage bonus was increased to 20% (from 10%) per Brawler.|Change=Buff}} 
+*05/09/23:
+**{{Balance|Content=Squeak's Residue Gadget duration was decreased to 8 seconds (from 10).|Change=Nerf}}
+**{{Balance|Content=Squeak's Chain Reaction Star Power damage bonus was decreased to 15% (from 20%) per Brawler.|Change=Nerf}} 
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*21/09/23:
+**{{Balance|Content=The Nerd Squeak skin was added. It was featured as a Brawl Academy skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Squeak's Residue Gadget duration was decreased to 6 seconds (from 8).|Change=Nerf}}
+**{{Balance|Content=Potato Squeak now costs 79 [[Gems]] (from 2500 [[Club Games|Club Coins]]).|Change=Neutral}}
+**{{Balance|Content=Squeak's flavor text was changed from "As Col. Ruff's accidental creation, Squeak was born to play fetch!" to "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber"|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=The Squeaky Note skin was added.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Squeak's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Squeak's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Neutral|Squeak's Bouncy Blob Hypercharge was added.}}
+*04/10/24:
+**{{Balance|Content=Squeak's main attack damage was increased to 1160 (from 1080).|Change=Buff}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*14/03/25:
+**{{Balance|Content=The Scarab Squeak skin was added. It was featured as a Dark Sands skin.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Squeak's Windup Gadget cooldown was increased to 14 seconds (from 11).|Change=Nerf}}
+*30/04/25: 
+**{{Balance|Content=Fixed Squeak's visual issues on some low end Android devices.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Squeak's Super Sticky Star Power slow now stacks with other slows.|Change=Buff}}
+**{{Balance|Content=Squeak's Super Sticky Star Power slow visual effects were reworked.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Squeak's Bouncy Blob Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Squeak's Bouncy Blob Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Squeak's health was increased to 3800 (from 3600).}}
+*04/02/26:
+**{{Balance|Content=The Love Potion Squeak skin was added. It was featured as a My Brawlentine skin.|Change=Neutral}}
+*25/02/26:
+**{{Balance|Content=Fixed an issue where Squeak's Residue Gadget slow would stack and immobilize players.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=Squeak's level up damage was increased to 3% (from 2%) in [[Brawl Arena]].|Change=Buff}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Squeak's movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Squeak's Residue Gadget visual effects were reworked.}}
+*03/11/26:
+**{{Balance|Buff|Squeak's main attack damage was increased to 1280 (from 1160).}}
+**{{Balance|Buff|Squeak's Super damage was increased to 1100 (from 1000) per blob.}}
+**{{Balance|Nerf|Squeak's Chain Reaction bonus damage was decreased to 10% (from 15%).}}
+**{{Balance|Neutral|Fixed Squeak's Super projectiles showing default effects instead of skin-specific ones.}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1=Squeaky Note|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1 = Misc|Rarity1=Rare
+|Name2=Ghost|Cost2=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign2=Brawl-o-ween|Rarity2 = Super Rare
+|Name3=Potato|Cost3=Free from Presents, free from Nova Drops or 79 Gems|Campaign3=Come Play With Us!|Rarity3 = Super Rare
+|Name4=Moon Bunny|Cost4=79 Gems|Campaign4=Lunar Stories|Rarity4 = Super Rare
+|Name5=First Blob|Cost5=79 Gems|Campaign5=Max Force|Rarity5 = Super Rare
+|Name6=Nerd|Cost6=Free from Strangest Packs or 149 Gems|Campaign6=Brawl Academy|Rarity6 = Epic
+|Name7=Scarab|Cost7=149 Gems|Campaign7=Dark Sands|Rarity7 = Epic
+|Name8=Love Potion|Cost8=Free from Love Boxes or 199 Gems|Campaign8=My Brawlentine|Rarity8=Mythic
+|TrueSkins = Yes}}
+
+=== Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Squeak
+|-
+!Skin
+! colspan="11" | Pins
+{{Pin Table}}
+{{Pin Table|Ghost}}
+{{Pin Table|Moon Bunny|Special}}
+{{Pin Table|First Blob|Special}}
+{{Pin Table|Nerd|Special}}
+{{Pin Table|Scarab}}
+{{Pin Table|Potato}}
+{{Pin Table|Love Potion}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Squeak|Rarity = Common}}
+|{{Spray|Type = Squeak Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Nerd Squeak|Rarity = Common}}
+|{{Spray|Type = Love Potion Squeak|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Squeak1}}
+|{{Pfp|Squeak2}}
+|{{Pfp|Squeak3}}
+|{{Pfp|Nerd Squeak}}
+|{{Pfp|||First Blob Squeak|First Blob Squeak 2-pfp.png}}
+|-
+|{{Pfp|Scarab Squeak}}
+|{{Pfp|Love Potion Squeak}}
+|
+|
+|
+|
+|}
+
+{{Navigation}}
+[[pt:Squeak]]
+[[ru:Скуик]]

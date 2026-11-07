@@ -1,0 +1,355 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Mammoth
+|image  = <gallery>
+Mammoth Fruit.png|Fruit Icon
+MammothFruitGIF.gif|Fruit GIF
+Mammoth.png|Icon
+Schermafbeelding%202026-09-22%20200156.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Transformed
+|update = 20
+
+<!-- Fruit Price -->
+|money  = 2,700,000
+|robux  = 2,350
+}}
+{{Quote|Transforms the user into a mammoth, providing strength and size.|Shop}}
+'''Mammoth''' is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|2,700,000}} or {{Robux|2,350}} from the [[Blox Fruit Dealer]].
+Mammoth allows the user to transform into an armored {{w|mammoth}}, gaining the ability to unleash red, powerful air slashes and manipulate shadowy force before crushing them with brute strength.
+
+__TOC__
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Prehistoric Leap
+|file     = Mammoth_Transformed_Jump.gif
+|desc     = When jumping while transformed, the user creates a small [[AoE]] shockwave that does no damage, but the landing generates a crater that deals damage. This jump is estimated to be three times higher than [[Buddha]]'s Seismic Jump. Note that this heightened jump only occurs on the first attempt, while subsequent jumps will reach a normal height. This passive can be dodged on the edge, but otherwise [[Instinct/Break|breaks Instinct]].
+}}
+
+{{Skill/Passive
+|name     = Ancient Armor
+|file     = MammothIdleEnhanced.gif
+|desc     = The user is able to transform into a hulking, armored Mammoth. While transformed, the user is granted a 50% (58.75% against [[Enemies|NPCs]]) damage reduction. Being transformed also gives the user a jump boost and dash boost, at the expense of their overall walk speed.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Ancient Cutter
+|mastery  = 1
+|cooldown = 9
+|energy   = 25
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close to the user. It can be dodged otherwise.
+|gif      = Mammoth_Z
+|desc     = The user gets engulfed by a dark mammoth-shaped shadow with shining red eyes, and stomps on the ground, sending three large red strikes an exceedingly high distance forward. This move is similar to [[Bisento]]'s [Z] move on its second version.
+}}
+
+{{Skill
+|key      = X
+|name     = True Prehistoric Punt
+|mastery  = 50
+|cooldown = 12
+|energy   = 50
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Mammoth_X
+|desc     = The user is engulfed by a dark mammoth, then bolts to the aimed area. Upon hitting a target, the mammoth springs its head up, jabbing the target and sending them up.
+}}
+
+{{Skill
+|key      = C
+|name     = Colossal Crusher
+|mastery  = 100
+|cooldown = 15
+|energy   = 75
+|break    = yes
+|instinct = If grabbed, the afterwards slam [[Instinct/Break|breaks Instinct]]. The [[Area of Effect|AoE]] can be dodged on the edge.
+|gif      = Mammoth_C
+|desc     = The user dashes forward akin to the [X] move enshrouded in a dark, mammoth-shaped shadow, but upon striking a target, they are forcefully slammed down.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|break    = yes
+|instinct = The roar [[Instinct/Break|breaks Instinct]], but it can be dodged on the edge.
+|gif      = Mammoth_V
+|desc     = Upon transformation into an armored mammoth, the user emits a thunderous, wrathful uproar with red waves of energy exploding outward. The user is given armor and blue spikes on their body.
+}}
+
+{{Skill
+|key      = F
+|name     = Stampede
+|mastery  = 200
+|cooldown = 7.5
+|energy   = 50
+|break    = yes
+|instinct = Can rarely be dodged on the edge.
+|gif      = Mammoth_FA
+|gif1     = Mammoth_FB
+|desc     = The user pounces up into the air and falls down, causing a massive crater.
+|desc1    = The longer the move is held, the farther the user jumps. The distance of the move increases only once and roughly doubles, which could be seen by a slight change in the holding animation.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = yes
+|instinct = Only the roar can [[Instinct/Break|break Instinct]]. The roar can rarely be dodged on the edge.
+|gif      = Mammoth_Transformed_M1
+|desc     = The user unleashes a four-hit combo sequence, incorporating two trunk slaps, a powerful stomp with the front legs, and culminating with a blazing wrathful roar. After executing the roar, there is a moderate cooldown period for the combo. However, the cooldown can be bypassed by either performing only three hits (intentionally excluding the roar), executing {{Ability|C}} immediately after the combo, or waiting for half a second after the combo and then executing {{Ability|Z}}, {{Ability|X}}, or a held {{Ability|F}}.
+}}
+
+{{Skill
+|key      = Z
+|name     = Ancient Cutter
+|mastery  = 1
+|cooldown = 9
+|energy   = 25
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close to the user. It can be dodged otherwise.
+|gif      = Mammoth_Transformed_Z
+|desc     = The user lashes out three large strikes akin to the untransformed version, followed by three additional slashes launched at a wider angle. However, this version targets a single enemy once per set of slashes. If a single enemy is struck by two sets of slashes, the damage inflicted by the second set is significantly reduced, approximately 15% of the damage from the first set. The user's spikes become red instead of blue when holding or using this attack.
+}}
+
+{{Skill
+|key      = X
+|name     = True Prehistoric Punt
+|mastery  = 50
+|cooldown = 12
+|energy   = 50
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Mammoth_Transformed_X
+|desc     = The user bolts forward to the target. Upon impact, the target is thrusted upwards, soaring to great heights and sustaining significant damage. The user's spikes become red instead of blue when holding or using this attack.
+}}
+
+{{Skill
+|key      = C
+|name     = Colossal Crusher
+|mastery  = 100
+|cooldown = 15
+|energy   = 75
+|break    = yes
+|instinct = If grabbed, the afterwards slam [[Instinct/Break|breaks Instinct]]. The [[Area of Effect|AoE]] can rarely be dodged on the edge.
+|gif      = Mammoth_Transformed_C
+|desc     = The user darts forward. Upon contact, the target is forcefully crashed into the ground while sustaining an exceedingly high amount of damage. The user's spikes become red instead of blue when holding or using this attack.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 6
+|energy   = 50
+|instinct = Does not deal damage.
+|gif      = Mammoth_Transformed_V
+|desc     = The user returns to their human form, blowing their armor away with a powerful red wind wave.
+}}
+
+{{Skill
+|key      = F
+|name     = Stampede
+|mastery  = 200
+|cooldown = 7.5
+|energy   = 50
+|break    = yes
+|instinct = Initial hits can be dodged. Always [[Instinct/Break|breaks Instinct]] once grabbed in the stampede.
+|gif      = Mammoth_Transformed_F
+|desc     = The user lunges forward to their cursor, unleashing a thunderous raging stampede that inflicts continuous damage while the key is held. This move can drag up to 5 enemies at a time. Additionally, the user's spikes become red instead of blue when using this move.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Attacks have [[AoE]].
+* Unpredictable in PvP, as not many people know how to counter it untransformed if the user is skilled enough.
+* Good synergy with [[Sanguine Art]] compared to other [[Fighting Styles]].
+
+|'''[Z] Ancient Cutter'''
+* Multi-target attack.
+
+|'''[X] True Prehistoric Punt
+* Early pre-visual hit
+
+|'''[C] Colossal Crusher'''
+*Similar to [X], with lesser knockback.
+* Good Combo potential
+
+|'''[V] Transformation'''
+* Decent damage.
+* Quite intimidating transformation.
+
+|'''[F] Stampede'''
+* Great range if fully held.
+* The landing has great [[AoE]].
+*No end lag
+}}
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* High mastery requirements.
+* Difficult and relatively expensive to obtain.
+* Sluggish functionality and choppy animations.
+* High end-lag.
+* Poor combo potential.
+* Mediocre for grinding.
+
+|'''[Z] Ancient Cutter'''
+* Simple to evade.
+* Cannot aim vertically.
+
+|'''[X] True Prehistoric Punt'''
+* Move has physics, making it bad midair.
+
+|'''[C] Colossal Crusher'''
+* Highly predictable in PvP.
+* Difficulty chaining while mid-air.
+
+|'''[V] Transformation'''
+* No i-frames in transformation
+* High endlag.
+
+|'''[F] Stampede'''
+* The jumping animation may have a delay.
+*Does not hit airborne targets.
+}}
+}}
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Does not require a [[Power Meter]] to transform, unlike [[T-Rex]].
+* Strong damaging moves with overall bigger hitboxes.
+* Good choice for grinding.
+* Very good against [[Sea Events]] (with [[Shark]] race).
+* Higher jumps and offers significant damage reduction.
+
+|'''[TAP] Normal Attack'''
+* Big [[AoE]].
+* All moves can damage [[Sea Beasts]].
+
+|'''[Z] Ancient Cutter'''
+* Good [[AoE]].
+* Decent range.
+
+|'''[X] True Prehistoric Punt'''
+* Good knockback.
+* Almost no startup, making the attack almost immediate.
+
+|'''[C] Colossal Crusher'''
+* Good for both PvP and grinding due to minimal knockback.
+* Great for opening up a combo involving M1 attacks.
+* Move often randomly goes invisible, making it unpredictable.
+
+|'''[F] Stampede'''
+* Very powerful against [[Sea Beast]]s and close range stun moves like [[Yeti]]'s {{Ability|Yeti|C}} move or [[Godhuman]]'s {{Ability|Godhuman|Z}} and {{Ability|Godhuman|C}}.
+* Has infinite duration and cannot be canceled, making the player unable to get stunned or stopped.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Large body makes them an easy target, similar to [[Buddha]].
+* Movement speed is relatively slow.
+* Every move is [[Instinct]]-trickable.
+* Extremely predictable moves, with inconsistent hitboxes.
+* Defense increase is only 7% more than [[T-Rex]], a fruit with the same price, leaving a lot to be desired in comparison.
+
+|'''[TAP] Normal Attack'''
+* Bad endlag on full combo when compared to fruits like [[Tiger]] or [[Yeti]].
+* Very slow, and punishable if spammed too much.
+
+|'''[Z] Ancient Cutter'''
+* Might not hit opponents due to the fan-shaped pattern of the cutter attack.
+* Bad startup.
+* Very easy to [[Instinct]] dodge.
+
+|'''[X] True Prehistoric Punt 
+* Knockback may make grinding difficult.
+* [[Instinct]]-trickable.
+* Low damage.
+
+|'''[C] Colossal Crusher'''
+* Above average cooldown and lengthy animation sequence.
+* [[Instinct]]-trickable.
+* Very punishable if missed.
+
+|'''[V] Transformation'''
+* High endlag.
+
+|'''[F] Stampede'''
+* Holding the move makes the user's [[Instinct]] break on every hit, regardless of the type. (This is since the user cannot dodge while they're using a move)
+* Inconvenient knockback.
+* Low DPS.
+* Not very good for [[bosses]] or [[enemies]] as they can still attack the user.
+}}
+}}
+</tabber>
+
+==Tips==
+* When combined with the [[Shark]] race, Mammoth is tremendously effective in hunting [[Sea Events]] because it enables the user to hold {{Ability|F}} move indefinitely until the enemy is defeated, although it is somewhat slow, and it possesses a huge risk against [[Terrorshark]]s and other dangerous sea events. However it is extremely effective against [[Sea Beast]]s. 
+* Players should consider switching to Mammoth only when they reach or are close to reaching maximum [[Levels|Level]], as Mammoth has high mastery requirements.
+* If the player has allocated their stats towards fruit-based attributes, they may find Mammoth suitable. However, if their stats are focused on Melee, Defense, and Sword, they should opt for other fruits instead.
+* Similar to other transformation-based fruits, it disables the user's other weapons such as [[Fighting Style]], [[Sword]], and [[Gun]]. The user should activate their transformation prior to engaging in battles with [[Bosses]] or in PvP encounters.
+* Mammoth is very good for farming when transformed because it enables the to hold {{Ability|F}} indefinitely and unlock {{Ability|TAP}}. Additionally, the fourth [M1] attack has a very good [[Area of Effect|AoE]].
+* It is also recommend to turn off "Camera Shake" in the settings so the user can farm smoothly.
+
+==Trivia==
+* The impact from jumping works the opposite way from Awakened [[Buddha]]. Buddha's jump damage applies on the initial jump from the ground, as for Mammoth, it applies on its landing. The impact from jumping can reset air jumps. This can be useful in evading water for players not of the [[Shark]] race by touching the surface of the water to reset air jumps while taking little to no damage. 
+* The {{Ability|Twin Hooks|X}} move on [[Twin Hooks]], parallels the {{Ability|X}} move on Mammoth.
+* If the player pairs [[Bear Ears]] and [[Shark]] race with Mammoth, their damage reduction will be increased from 50 to about 70%. With [[Water Body]], the player's damage reduction will increase from about 70% to about 80% due to [[Water Body]] boosting their defense by 65% for 4.5 seconds. (Recommended to get [[Race Awakening]] due to [[Shark]] V3 being heavily nerfed)
+* If the player pairs [[Bear Ears]] and [[Cyborg (race)|Cyborg]] race (V2 and above) with Mammoth, its passive damage reduction will be raised from 55% to about 62% for any attack, and for attacks by Melee, Sword or Gun the player will have 85.5%. With the [T] ability active, the player will have ~69% in any attack and for attacks by Melee, Sword and Gun the player will have ~72%.
+* Mammoth is one of two pairs of fruits to share the same monetary value. The other pairs are, [[Yeti]] and [[Tiger]] at {{Money|5,000,000}} or {{Robux|3000}}. 
+** (Shared with [[T-Rex]] at {{Money|2,700,000}} or {{Robux|2,350}})
+* Mammoth is the third fruit that doesn't need a [[Fury Meter]] to transform. (The first being [[Phoenix]], second being [[Tiger]], fourth being [[Yeti]])
+* When getting hit by a move that has a grabbing animation while transformed, such as [[Dragon]] {{Ability|Dragon|X}}, the user will fly in weird ways that should be normal when at the size of a regular player, making it look comical in some sorts. 
+* Mammoth's fruit model is completely different to its icon and transformation, while the former wears a purple cloth lined with gold and blue spikes, the latter wears dark armor plates with blue/red spikes.  
+* Defeating the Youtuber [https://www.youtube.com/@Senpirates Senpirates] will earn the player the [[Titles|title]] "'''Mammoth Fan Club'''"  
+* Mammoth is considered to be [[T-Rex]]'s rival.  
+** Despite being the slower 'tank' variant between the two, Mammoth only has 7% more defense over its counterpart, while also lacking a Passive Ability, no '''[M1]''' untransformed, and overall much weaker offensive-attacks.
+
+==Change History==
+{{Change History|20|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} Mammoth was buffed.
+** {{Arrow|buff}} All damage increased by 10%.
+** {{Arrow|buff}} Dash distance increased by 10% when transformed.
+
+|-|23=
+{{Update|23}}
+* Mammoth's hitbox was broken for a brief amount of time, allowing users to stand in water and survive as the hitbox was just slightly above the water. This has been fixed in a later hotfix.
+
+|-|21=
+{{Update|21}}
+*Fixed stun on mammoth C and made it break instinct.
+
+|-|20=
+{{Update|20}}
+* Mammoth was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Мамонт]]

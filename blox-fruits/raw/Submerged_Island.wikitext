@@ -1,0 +1,110 @@
+{{About|the Third Sea Island|the First Sea Island|Underwater City}}
+{{MapTab}}{{Location Infobox
+|name       = Submerged Island
+|image      = Submerged Island.png
+|type       = Island
+|sea        = Third Sea
+|music      = Undersea Remnants
+|level      = 2600+
+|prev       = Tiki Outpost
+}}
+The '''Submerged Island''' is an [[Locations|island]] in the [[Third Sea]]. 
+
+==Appearance==
+From the entrance the Submerged Island, there is a large archway with a greyish, abandoned appearance, similar to the other colonial structures. There are corals of different colors in various parts of the island. In the center, a coral flower with buildings fused with coral and gigantic clams appears. The left side of the island contains a small abandoned dock area, with many barrels and boxes scattered along the floors. A large coral covered mountain also sits on the left side of the island, with a small cave on the bottom of it connecting the suspended dock area to the outside dock. There are multiple broken archway-type structures scattered in the sea around the island.
+
+==Location==
+The Submerged Island is located under the [[Water|sea]] of the [[Tiki Outpost]], accessible by talking to the [[Submarine Worker]], who is located inside Sub Port 01, near the second dock area at [[Tiki Outpost]]. (Must have defeated the [[Tyrant of the Skies]] raid boss to gain access.)
+
+==Inhabitants ==
+
+{| class="article-table"
+!Enemies 
+!NPCs
+|-
+|
+* [[Reef Bandit]]
+* [[Coral Pirate]]
+* [[Sea Chanter]]
+* [[Ocean Prophet]]
+* [[High Disciple]]
+* [[Grand Devotee]]
+|
+* [[Submarine Worker]]
+* [[Sharkman Master]]
+* [[Tournament Master]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver 
+![[Quests]]
+!Lv. Required
+!Reward 
+|-
+| rowspan="2" | [[Submerged Quest Giver 1]]
+|Defeat 8 [[Reef Bandit]]s
+|2600
+|{{Money|15,450}} <br> {{EXP|145,000,000}}
+|-
+|Defeat 8 [[Coral Pirate]]s
+|2625
+|{{Money|15,500}} <br> {{EXP|147,000,000}}
+|-
+|Rowspan="2" |[[Submerged Quest Giver 2]]
+|Defeat 8 [[Sea Chanter]]s
+|2650
+|{{Money|15,550}} <br> {{EXP|150,000,000}}
+|-
+|Defeat 8 [[Ocean Prophet]]s
+|2675
+|{{Money|15,600}} <br> {{EXP|152,000,000}}
+|-
+| rowspan="2" |[[Submerged Quest Giver 3]]
+|Defeat 8 [[High Disciple]]
+|2700
+|{{Money|16,650}}
+{{EXP|154,000,000}}
+|-
+|Defeat 8 [[Grand Devotee]]
+|2725
+|{{Money|16,700}}
+{{EXP|156,000,000}}
+|}
+
+==Notes==
+* Going high enough into the air above the island (or too far to the sides) will cause the player to return to the [[sea]] above, resurfacing them at [[Tiki Outpost]].
+* The [[Submarine Worker]] can be interacted for the player to exit the Submerged Island (back to [[Tiki Outpost]]) for free or travel to other islands for a price of {{Money|10,000}}-{{Money|30,000}}.
+* This island is the host of the [[Sealed Cavern]], where the [[Sharkman Master]] resides.
+
+==Trivia==
+* The Submerged Island is the second island to be based under the [[sea]], the first being [[Underwater City]].
+* Unlike the [[Underwater City]], the Submerged Island is actually underwater.
+* The [[Third Sea]] islands can be seen above the island off in the distance.
+* As of Update 27.0, there exists a bug where if a person uses [[Dough]]'s {{Ability|Dough|F|1}} or {{Ability|Dough|C|1}} in the Submerged Island, they will begin to rapidly accelerate upwards, either forcing them to exit or even drown. (Can be recreated with [[Longsword]]'s {{Ability|Longsword|X}} and/or [[Blade]]'s {{Ability|Blade|F}} as well.)
+* There is a secret diamond chest with no entrance inside a rock, player can drink [[Loot Seeker]] potion to see it.
+* As of Update 28.0, players can bypass the [[Tyrant of the Skies]] requirement for a friend by transforming into [[Kitsune]] above the [[Submerged Island]] coordinates and using the {{Ability|Kitsune|X}} grab move to force the target player through the ocean ceiling.
+** Entering in person requires the user to hold some [[swords]] or [[Fighting Styles|fighting styles]] moves, such as [[Godhuman]]'s {{Ability|Godhuman|C}}, [[Sharkman Karate]]'s {{Ability|Sharkman Karate|Z}}, [[Dark Blade]]'s {{Ability|Dark Blade|Z}}, or [[Electric Claw]]'s {{Ability|Electric Claw|Z}} and aim right at the water’s surface. You can access the sunken island by using the X move [[CDK]]
+*The Submerged Island is the only main island in the game to not have a [https://blox-fruits.fandom.com/wiki/Set_Home_Point?so=search Set Home Point NPC].
+*If you don't want to fight [[Tyrant of the Skies]], you could ask your friend with [[Portal]] equipped to go in Submerged Island and let them teleport in [[Tiki Outpost]], this way you can go in there.
+*The [[Recommended Quest]] instead of leading to the npc which teleports you, like the [[Whirlpool (Location)|Whirlpool]], leads you to the actual place, instead of the Submarine Worker and it has not been fixed ever since, and if you end up going to it, it would still be under the water.
+[[File:Submerged Island recommended quest bug.png|left|thumb|The Recommended Quest leading you to the island instead of the Submarine Worker.]]
+
+[[File:Submerged island quest location.png|left|thumb| near the location.]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Change History==
+{{Change History|27.0|content={{Update|27.4}}
+*Submerged Island was expanded}}
+[[Category:Last island]]

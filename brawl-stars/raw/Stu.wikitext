@@ -1,0 +1,445 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Wicked|PrestigeTitle = Test Dummy|Rarity = Epic|Class = Assassin|MovementSpeed = 750 (Normal)<br>850 (with Speed Zone)<br>3000 (with Super)|HealthLabel = Health|Health = 3500|AttackRange = 7.67 (Long)|Reload = 1.5 seconds (Normal)|AttackBullets = 2|AttackSuperCharge=108%|AttackLabel = Damage per firework|Attack = 540|AttackSpeed=3300|SuperRange =2.33 (Short)<br>4 (with Zero Drag)|Super=200|SuperSuperCharge=5%|AttackWidth=1.33|SuperWidth=2|VoiceActor=Kai Skrotzki|SuperLabel=Damage per second|Gadget1Name=Speed Zone|Gadget1Cooldown=20 seconds|Gadget2Name = Breakthrough|Gadget2 = 173|Gadget2Label= Damage per hit|Gadget2Cooldown=16 seconds|StarPower2Name = Gaso-Heal|StarPower2 = 504|StarPower2Label = Heal|Previous=Edgar|Next=Belle|HyperchargeMultiplier=3%|AttackHyperchargeCharge=3.225%|SuperHyperchargeCharge=0.15%}}
+{{Quote|A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.}}
+{{Portrait}}
+Stu is an {{Rarity|Epic}} [[Brawler]] who has moderate health but a high burst damage potential, great mobility with his Super, and the unique ability to charge his Super in one hit. He was the 45th Brawler added to the game. He attacks with two fireworks that have a long range, and his Super is a short dash that leaves a trail of burning rubber behind him, burning enemies if they touch it. His first Gadget, Speed Zone, drops a booster that increases the movement speed of himself and allies in a large area-of-effect around it. His second Gadget, Breakthrough, allows his next Super to destroy obstacles and send the debris of the destroyed obstacles to damage enemies. His first Star Power, Zero Drag, increases his Super's range. His second Star Power, Gaso-Heal, slightly heals Stu when his Super is used. His Hypercharge, Infinitro, gives Stu infinite Supers for the entire duration.
+
+==Attack: Razzle Dazzle==
+{{Quote|Stu fires out two pyrotechnic shots that pack quite a wallop.}}Stu fires two long-ranged pyrotechnic fireworks linearly in quick succession that each charging up one full Super. This attack has an extremely fast unload speed, taking only 0.35 seconds to complete which makes him deal massive damage in quick succession. 
+
+==Super: Nitro Boost==
+{{Quote|Hitting an opponent with Razzle Dazzle charges up Stu's Nitro Boost, a short dash that leaves a trail of burning rubber on the ground. The trail will set fire to any opponents that touch it.}}Stu's Super is a short dash forward, leaving a 2-tile wide trail of burning rubber on the ground that lasts for 3 seconds. Enemies who touch it are set on fire to burn over 4 seconds, similar to [[Amber]]'s Super and [[El Primo]]'s El Fuego Star Power. If enemies touch it more than once, the burn duration doesn't stack but resets, for up to 6 seconds total. Stu can't use his Super to dash over water.
+
+==Gadgets==
+===Speed Zone===
+{{Quote|Stu drops a booster that makes himself, his teammates, and other allies move faster while inside of it's area of effect. Cooldown: 20 seconds.}}
+{{Gadget|1}}
+When activated, Stu drops a turret that increases the movement speed of Stu and his teammates in a 6.67-tile radius around it by 100 points. The turret has 1000 health, will be destroyed if Stu drops another turret and decays 100 health per second until it is destroyed. This doesn't stack with other speed-boost abilities and doesn't affect spawnables like [[Nita]]'s bear, [[Tick]]'s head, [[Tara]]'s clones, [[Ash]]'s rats, or [[Mr. P]]'s porters.
+
+===Breakthrough===
+{{Quote|Stu's next Super can bash through obstacles, making debris fly forward. Each piece of debris deals 216 damage to any opponent it hits. Cooldown: 16 seconds.}}
+{{Gadget|2}}
+Upon activation, Stu's next Super can destroy obstacles. For every wall tile destroyed, 3 pieces of non-piercing debris fly forward in a cone-shaped formation (like [[Penny]]'s attack) for 6.67 tiles, with each piece dealing 13.5% of his Super's initial damage. A Gadget symbol will glow above Stu's head signaling this Gadget's usage, as well as a glowing Super joystick. This Gadget's cooldown starts after its button is pressed.
+
+==Star Powers==
+===Zero Drag===
+{{Quote|Stu's Nitro Boost Super dash distance increases by 71%.}}
+{{StarPower|1}}
+Stu's Super range is increased from 2.33 tiles to 4 tiles. This doesn't affect his Super speed.
+
+===Gaso-Heal===
+{{Quote|Using his Nitro Boost Super restores 560 of Stu's health.}}
+{{StarPower|2}}
+Stu heals for 8% of his maximum health when using his Super.
+
+==Hypercharge: Infinitro==
+{{Quote|Stu's Super can be used continuously while Hypercharged.}}{{Hypercharge}}When activated, Stu's Super instantly recharges when used, giving him infinite Supers for the Hypercharge duration. However, the Hypercharge will not charge his Super if it is not charged upon activation, and kicking the ball in [[Brawl Ball]] will consume the Super and require him to charge it again. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Stu's Nitro Boost is permanently charged.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Stu's Super was always charged, giving him infinite Supers. If he used his Gaso-Heal Star Power, its healing was decreased by 50%. Kicking the ball in [[Brawl Ball]], however, would consume Stu's Super, and he had to charge it again to reactivate his Mutation.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|With every boost during his Super, Stu also shoots all around himself!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>With every Super, Stu also shot 12 smaller main attack projectiles around him. These projectiles could make Stu charge his Super again.
+
+==Tips==
+===Game Modes and Maps===
+*Stu is solid in [[Hot Zone]]. He can hit the enemies from afar and use his Super to dash towards zones. In addition, his quick burst attacks and his Super that allows him to dodge enemy fire make him a deadly and hard to hit target while fighting and allows him to gain better control of the zones.
+*Stu is decent in [[Big Game]] because he can dash around and dodge enemy fire, and he can burn the enemies with his Super as the Big Boss. As a Hunter, he can use his Speed Zone Gadget for enhanced mobility and he can continuously poke the Big Boss while dashing unpredictably and quickly.
+*Stu is outstanding in [[Brawl Ball]]/[[Trophy Thieves]]/[[Volley Brawl]]/[[Basket Brawl]] because of his high mobility with his Super. In addition, Stu can self-pass by kicking the ball/trophy ahead and dashing forward to retrieve it back, then continuously hitting the enemies from afar to recharge and chain Supers so he can dash towards the ball/trophy.
+
+===Recommended Build===
+*Stu's Speed Zone Gadget should be kept behind obstacles so it's protected from enemies. He can also use it at the team's spawn point of the map to help him and his allies get back into action after being defeated or as a temporary shield to block shots from enemies that can't hit multiple targets.
+*Although a niche technique, you can use Stu's Breakthrough Gadget as a way to escape, if your path is blocked by a wall. this is mostly useful if you get ambushed by a close range Brawler near a wall.
+*Stu's Breakthrough Gadget is helpful as it can destroy obstacles. He can use it to defeat enemies who are taking cover behind obstacles or to destroy the goalpost in Brawl Ball to score goals at ease.
+*With Stu's Zero Drag Star Power, he can escape a direct [[Edgar]] or [[Kit]] jump. with some follow up shots and Supers,  you should be able to easily defeat an enemy Edgar or Kit. Keep this in mind in [[Solo Showdown]].
+*Stu's Zero Drag Star Power makes self-passing the ball in Brawl Ball and dodging shots easier and makes opponents harder to hit while dashing around. It also allows him to collect vital items such as [[Siege]] Bolts faster, to reach a certain area of the map faster, or to better counter close-ranged Brawlers as he can dash out of their range more effectively.
+*With his Gaso-Heal Star Power, Stu can use his attack and Super in quick succession to quickly heal up in a pinch because of his fast Super charge rate and fast unload speed. You can dash around and heal and use this as an alternative to self-regeneration.
+
+===Strategies===
+*Stu can actually get two Supers from one attack. If you attack an enemy and the first projectile lands, there is a small window for you to use your Super before the second projectile hits, essentially granting a free second Super. This is tricky to pull off though. 
+*Stu can poke effectively by using his Super, his fast unload speed, and his attack's fast Super charge rate. He can fire a shot at an enemy, then dash backwards to avoid their counter fire. This recharges Stu's Super if the shot lands, which allows him to continuously poke, and once they're low on health, you can use your Super to get close to them and burst your attacks to finish them off.
+*In overtime, Stu can easily use his Hypercharge to keep dribbling the ball from one end to the other end, hence providing an opportunity to score. However, this trick is hard to pull off and requires practice, it is also recommended to use the Gaso-Heal Star Power when performing this trick, so that you will not die so easily.
+**It is important to note that, even with his Hypercharge active, using his Super to kick the ball with still use it, and require him to hit an enemy Brawler to continue using it again. 
+
+===Other===
+*Since Stu charges his Super with only one projectile, despite being an assassin with the slowest movement speed, he can easily escape with his Super in dangerous situations, which makes him highly mobile and allows him to dodge enemy fire with ease. Stu can use his Super to dodge an attack once, get another hit that recharges his Super, and use the Super again to escape unharmed.
+*When Stu's Super is auto-aimed, he dashes in the direction that he is facing. Thus, auto-aiming is useful to escape from enemies chasing you or to engage long-ranged Brawlers by dashing randomly and dodging their shots.
+*Stu's Super makes him an outstanding counter to close-ranged Brawlers because Stu can hit them once and dash away and out of their range, and then attack them with ease. Use this to your advantage when facing close-ranged Brawlers.
+*Stu's fast Super charge rate, his high mobility with his Super, and his quick burst attacks make him niche in offense-oriented modes such as [[Bounty]]. However, Stu's attack doesn't pierce, so he does best in a 1v1 situation where he can continuously poke at the enemy and dodge their attacks.
+*Stu has the fastest-charging Super in the game, being able to charge it in a single hit, but it’s still important to always have one ready. This helps you stay prepared and escape tricky situations. Try to save your Supers by using them only when you know you can hit an enemy and charge another one, or after you start shooting and think your shot will land.
+*If you use Stu often, consider making your Gadget button much larger in [[Training Cave]], as you will need to activate both Gadgets very quickly. This only applies to the Speed Zone Gadget if you are planning on using it as a meat shield.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 01.ogg|Filedescription = "Dah-da-da-da, ha-ha-ah-ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 01.ogg|Filedescription = "Who wa-wa-wants an au-au-autograph?"}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 01.ogg|Filedescription ="Who wants an autograph?"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu hurt vo 01.ogg|Filedescription = "It's nothi-thi-thing."}}'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 01.ogg|Filedescription ="It's nothing."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu kill vo 01.ogg|Filedescription = "Ha-ha! I got-got-ga-got you!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 01.ogg|Filedescription ="Ha-ha-ha! I got you!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 01.ogg|Filedescription = "Crash and burn, get fixed, return!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 01.ogg|Filedescription ="Crash and burn, respawn, return!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 01.ogg|Filedescription = "Wheeeee!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 07.ogg|Filedescription = Stu laughs}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 02.ogg|Filedescription ="Safety last, ha-ha-ha-ha-ha!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 01.ogg|Filedescription ="Safety last!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 02.ogg|Filedescription = "Spectacular Stu merchandise now for sale. Si-si-side effects may include being awesome-"}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 02.ogg|Filedescription ="Slithering Stu merch now for sale."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu hurt vo 02.ogg|Filedescription = Stu groans}}'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 02.ogg|Filedescription ="Easy bro!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu kill vo 02.ogg|Filedescription = "Oh, you get used to it."}}'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 02.ogg|Filedescription ="Get used to it."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 02.ogg|Filedescription = "I'm oka-a-ay, I thi-i-i-ink."}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 05.ogg|Filedescription ="Oh, too many nerds!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 02.ogg|Filedescription = "Spin-pin-pin to win, ba-ba-ba-baby!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 05.ogg|Filedescription ="Excellent!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 03.ogg|Filedescription = "I'll sh-sh-show you crazy!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 02.ogg|Filedescription ="I'll show you crazy!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 03.ogg|Filedescription = "Smell my fumes! Ha-ha!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 06.ogg|Filedescription =*laughs* "I am hysterically brilliant."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu hurt vo 03.ogg|Filedescription = "If only I could feel-feel-feel pain."}}'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 03.ogg|Filedescription ="If only I could feel pain."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu kill vo 03.ogg|Filedescription = "You failed the cra-a-ash test, ya dummy!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 03.ogg|Filedescription ="You passed the math test, nerd!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 03.ogg|Filedescription = "I'm-I'm-I'm only a bit-b-bi-bi-bit broken."}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 02.ogg|Filedescription ="I'm only a bit broken."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 03.ogg|Filedescription = "Spin to win! 'Til you drop!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 04.ogg|Filedescription ="Slithering Stu!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 04.ogg|Filedescription = "Hey, ki-ki-kiddos! W-w-w-watch this!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 03.ogg|Filedescription ="Hey kids! Watch this!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 04.ogg|Filedescription = "Winners munch on Col-Col-Colt Crunch. It's spectacular!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 05.ogg|Filedescription ="Winners munch on Colt Crunch."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu hurt vo 04.ogg|Filedescription = "This machine is ge-ge-gettin' mean!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 05.ogg|Filedescription ="Teacher's pet."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu kill vo 04.ogg|Filedescription = "Spectacular Stu!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 05.ogg|Filedescription ="Spectacular Stu!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 04.ogg|Filedescription = "Time to wipe my tears and clean my gears!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 04.ogg|Filedescription = "Dash, bash, and crash!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 03.ogg|Filedescription ="Dash, bash, and crash!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 05.ogg|Filedescription = "Do-Do-Doin' it for all the lonely c-a-ats out there!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 07.ogg|Filedescription ="Time to slither and slay! Get out of my way, nerd!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 05.ogg|Filedescription = "I'm one lean mean winnin' machi-i-ine!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 03.ogg|Filedescription ="I'm one lean mean winnin' machine."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu hurt vo 05.ogg|Filedescription = "Nerd alert."}}'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 04.ogg|Filedescription ="Nerd alert!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu kill vo 05.ogg|Filedescription = "Kee-e-e-eep the tire marks as a souvenir..."}}'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 04.ogg|Filedescription ="Keep the burn marks as a souvenir."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 05.ogg|Filedescription = "Fa-a-ailure... Builds character!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 03.ogg|Filedescription ="Failure builds character."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 05.ogg|Filedescription = "Rush! Crush!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 02.ogg|Filedescription ="Rush! Crush!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 06.ogg|Filedescription = "I'm cr-r-r-r-cruisin' for a bruisin'!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 04.ogg|Filedescription ="I'm cruisin' for a bruisin'!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu lead vo 06.ogg|Filedescription = "This mo-mo-mo-moment is sponsored by Colt Crunch cereal."}}'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 04.ogg|Filedescription ="This moment is sponsored by Colt Crunch cereal."}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 06.ogg|Filedescription ="What are you looking at, brawly brains?"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 06.ogg|Filedescription ="Wedgie!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 06.ogg|Filedescription = "Wow... Lo-o-ook at all those stars!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 04.ogg|Filedescription ="Wow, look at all those stars!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Stu ulti vo 06.ogg|Filedescription = "One wheel peel!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 06.ogg|Filedescription ="Spectacular!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 07.ogg|Filedescription = "Time to bu-bu-bu-burn some rubber!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 05.ogg|Filedescription ="Time to burn some Brawlers!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 07.ogg|Filedescription ="Reskin for the win."}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 07.ogg|Filedescription ="Oh, we're all very impressed."}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 07.ogg|Filedescription ="Ha-ha! You are hiss-tory."}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 07.ogg|Filedescription = "I'm ju-ju-just a hunk of junk..."}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 07.ogg|Filedescription ="Ugh, still better than being in class!"}}
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 01.ogg|Filedescription ="Raging reptile!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Stu start vo 08.ogg|Filedescription = "Spectacular Stu is here...for — o-o-oh."}}'''Jock:'''
+{{Ogg|Filename = Monster stu start vo 06.ogg|Filedescription ="Slithering Stu is here for you!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu lead vo 08.ogg|Filedescription ="Scaling up!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 08.ogg|Filedescription ="Why so angry? Want a cookie?"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 08.ogg|Filedescription ="You got my homework finished, nerd!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 08.ogg|Filedescription = "I almost made that ju-ju-jump."}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 08.ogg|Filedescription ="Time to... scale down."}}
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu ulti vo 08.ogg|Filedescription ="Reptilius!"}}
+|-
+|
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 09.ogg|Filedescription ="Stop it!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 09.ogg|Filedescription ="Stop hitting yourself!"}}
+|'''Normal:'''
+{{Ogg|Filename = Stu die vo 09.ogg|Filedescription = "Wa-a-a-asted! Ugh!"}}'''Jock:'''
+{{Ogg|Filename = Monster stu die vo 06.ogg|Filedescription ="Wasted!"}}
+|
+|
+|-
+|
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 10.ogg|Filedescription ="Scram!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 10.ogg|Filedescription ="Smell you later!"}}
+|
+|
+|
+|-
+|
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu hurt vo 11.ogg|Filedescription ="Get off my tail!"}}
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 11.ogg|Filedescription ="Aww, better run back to your parents!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Jock:'''
+{{Ogg|Filename = Monster stu kill vo 12.ogg|Filedescription = Stu laughs}}
+|
+|
+|
+|}
+
+==History==
+*15/03/21:
+**{{Balance|Content=Stu and his Superstar skin were added to the game.|Change=Neutral}}
+*31/03/21: 
+**{{Balance|Content=Stu's Gaso-Heal Star Power was added.|Change=Neutral}}
+*07/04/21:
+**{{Balance|Content=Stu's health was decreased to 3000 (from 3200).|Change=Nerf}}
+**{{Balance|Content=Stu's main attack damage was decreased to 580 (from 600) per shot.|Change=Nerf}}
+**{{Balance|Content=His Super charge rate was decreased slightly.|Change=Nerf}}
+*22/04/21:
+**{{Balance|Content=Stu's health was decreased to 2800 (from 3000).|Change=Nerf}}
+*16/06/21:
+**{{Balance|Content=Stu's Super can no longer knock enemies back.|Change=Nerf}}
+*15/07/21:
+**{{Balance|Content=Stu's Breakthrough Gadget was added.|Change=Neutral}}
+*18/08/21:
+**{{Balance|Content=The Wicked Stu skin was added. It was featured as a Bad Randoms skin.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Stu's Breakthrough Gadget damage was decreased to 200 (from 500) per hit and now requires his Super to activate it.|Change=Nerf}}
+**{{Balance|Content=Stu's Gaso-Heal Star Power healing was decreased to 400 (from 500).|Change=Nerf}}
+*27/10/21:
+**{{Balance|Content=Stu's class was changed to Assassin (from Action Assassin).|Change=Neutral}}
+*30/10/21:
+**{{Balance|Content=The Headless Rider Stu skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Stu's main attack damage was decreased to 540 (from 580) per shot.|Change=Nerf}}
+**{{Balance|Content=His Super charge rate was decreased slightly.|Change=Nerf}}
+*27/04/22:
+**{{Balance|Content=Stu's True Silver and True Gold skins were added.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Stu's main attack visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Stu's Breakthrough Gadget can now be activated without requiring his Super.|Change=Neutral}}
+*19/09/22:
+**{{Balance|Content=Stu's health was increased to 2900 (from 2800).|Change=Buff}}
+**{{Balance|Content=Fixed a bug that gave Stu his Super upon activating his Breakthrough Gadget.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Stu's Speed Zone Gadget now gradually loses health overtime after being deployed until it's destroyed.|Change=Nerf}}
+*12/12/22:
+**{{Balance|Content=Stu's rarity was changed to Epic (from Common).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Wicked Stu now costs 79 [[Gems]] (from 49).|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*23/09/23:
+**{{Balance|Content=The Jock Stu skin was added. It was featured as a Brawl Academy skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Stu's Gaso-Heal Star Power healing was increased to 522 (from 400) and now scales with Power Levels.|Change=Buff}} 
+**{{Balance|Content=Stu's Breakthrough Gadget damage was decreased to 173 (from 200) per hit but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Stu's flavor text was changed from "Stu is a stunt driver extraordinaire with gasoline in his veins! He makes a big entrance, burning serious rubber all over the stage." to "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Stu's Super flames now recharges his Super.|Change=Buff}}
+**{{Balance|Content=Stu's Super flames' damage over time can now refresh while enemies are on fire.|Change=Buff}}
+*23/12/23:
+**{{Balance|Content=The Santa Stu skin was added. It was featured as a Brawlidays skin.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Santa Stu's burn effects were reworked.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Stu's Mutation was added for a limited time.|Change=Neutral}}
+*03/05/24:
+**{{Balance|Content=Stu's Gaso-Heal Star Power healing was decreased to 261 (from 522) while his Mutation is active.|Change=Nerf}}
+*20/05/24:
+**{{Balance|Content=Stu's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Stu's health was increased to 3200 (from 2900).|Change=Buff}}
+**{{Balance|Content=Stu's Gaso-Heal Star Power healing was increased to 576 (from 522).|Change=Buff}}
+*29/10/24: 
+**{{Balance|Content=Stu's Super recharge no longer scales with Power Levels or damage buffs.|Change=Nerf}}
+*04/11/24:
+**{{Balance|Content=Stu's Infinitro Hypercharge was added.|Change=Neutral}}
+*07/02/25:
+**{{Balance|Content=The Woodriver Stu skin was added. It was featured as a Good Randoms skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Stu's Gaso-Heal Star Power healing was decreased to 461 (from 576).|Change=Nerf}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Stu, Superstar Stu, and Wicked Stu received facial animations.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Stu's Speed Zone Gadget health decay was increased to 100 (from 30) per second.|Change=Nerf}}
+*30/04/25:
+**{{Balance|Content=Stu's Infinitro Hypercharge Hypercharge multipler was decreased to 2% (from 3%).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Stu's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Stu's Wasabi Power Super now fires 12 projectiles (from 6).|Change=Buff}}
+*30/05/25:
+**{{Balance|Content=Stu's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Stu's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Stu's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Stu's level up health was increased to 600 (from 550) in Brawl Arena.|Change=Buff}}
+*30/06/25:
+**{{Balance|Content=Stu's level up health was increased to 700 (from 600) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Stu's level up damage was increased to 7% (from 5%) in Brawl Arena.|Change=Buff}}
+*04/09/25:
+**{{Balance|Content=The Graffiti Stu skin was added. It was featured as a Streetwear skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Stu's Infinitro Hypercharge multipler was increased to 3% (from 2%).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Stu's Infinitro Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Stu's Infinitro Hypercharge damage boost from 25%.}}
+**{{Balance|Content=Stu's Super charge rate was decreased by 20%.|Change=Nerf}}
+**{{Balance|Content=Fixed a bug where Hypercharge Tokens in Hypercharge Unleashed mode were not fully charging Stu's Hypercharge.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Stu's health was increased to 3400 (from 3200).}}
+**{{Balance|Buff|Stu's Gaso-Heal Star Power healing was increased to 490 (from 461).}}
+*01/01/26:
+**{{Balance|Content=The Steampunk, Crime Lord and Iced Out Stu skins were added. They were featured as Brawl Pass Season 46 skins and Steampunk skins.|Change=Neutral}}
+*25/02/26:
+**{{Balance|Buff|Stu's health was increased to 3500 (from 3400).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Stu's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Stu's level up health was decreased to 500 (from 700) in Brawl Arena.}}
+**{{Balance|Nerf|Stu's level up damage was decreased to 6% (from 7%) in Brawl Arena.}}
+**{{Balance|Neutral|Fixed Stu's winning pose showing after losing a match.}}
+
+==Cosmetics==
+===Skins (12)===
+{{Skin Gallery
+|Name1=Superstar|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Stunt Show|Rarity1=Rare
+|Name2=Graffiti|Cost2=Free from Boom Boxes or 29 Gems • '''S'''|Campaign2=Streetwear|Rarity2=Rare
+|Name3=Wicked|Cost3=Free from Ziggy Boxes, free from Bolt Boxes or 79 Gems|Campaign3=THE BAD RANDOMS|Rarity3=Super Rare
+|Name4=Woodriver|Cost4=79 Gems|Campaign4=THE GOOD RANDOMS|Rarity4=Super Rare
+|Name5=Headless Rider|Cost5=Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems • '''S'''|Campaign5=Brawl-o-ween|Rarity5=Epic
+|Name6=Santa|Cost6=Free from Presents or 149 Gems • '''S'''|Campaign6=Brawlidays|Rarity6=Epic
+|Name7=Jock|Cost7=299 Gems|Campaign7=Brawl Academy|Rarity7=Legendary
+|TrueSkins=Yes
+|NameP1 = Steampunk|CostP1 = 2 Skin Keys|CampaignP1 = Brawl Pass|CampaignP1_2 = Steampunk|RarityP1=Epic
+|NameP2 = Crime Lord|CostP2 = Free after purchasing Skin Set with Skin Keys|CampaignP2 = Brawl Pass|CampaignP2_2 = Steampunk|RarityP2=Epic
+|NameP3 = Iced Out|CostP3 = Free after purchasing Skin Set with Skin Keys|CampaignP3 = Brawl Pass|CampaignP3_2 = Steampunk|RarityP3=Epic
+}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Stu
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Headless Rider}}
+{{Pin Table|Wicked|Special}}
+{{Pin Table|Jock}}
+{{Pin Table|Santa}}
+{{Pin Table|Woodriver|Special}}
+{{Pin Table|Steampunk|Thanks}}
+{{Pin Table|Crime Lord|Thanks}}
+{{Pin Table|Iced Out|Thanks}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Stu|Rarity = Common}}
+|{{Spray|Type = Stu Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Jock Stu|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Stu1}}
+|{{Pfp|Stu2}}
+|{{Pfp|Stu3}}
+|{{Pfp|Stu4}}
+|{{Pfp|Jock Stu}}
+|-
+|{{Pfp|Santa Stu}}
+|{{Pfp|Headless Rider Stu}}
+|{{Pfp|Steampunk Stu}}
+|}
+
+{{Navigation}}
+[[pt:Stu]]
+[[ru:Сту]]

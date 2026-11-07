@@ -1,0 +1,235 @@
+{{CombosTab}}
+{{About|the Blox Fruit|the Boss|Diamond (Boss)}}
+{{Blox Fruit Infobox
+|name   = Diamond
+|image  = <gallery>
+Diamond Fruit.png|Fruit Icon
+Diamond fruit gif.gif|Fruit GIF
+Diamond.png|Icon
+DiamondIdle.gif|Transformed
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Uncommon
+|M1     = Yes
+|update = 15
+
+<!-- Fruit Price -->
+|money  = 600,000
+|robux  = 1,000
+}}
+{{Quote|Turns the user into diamond, enhancing defense and providing sharp attacks.|Shop}}
+'''Diamond''' is an {{Uncommon}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|600,000}} or {{Robux|1,000}} from the [[Blox Fruit Dealer]].
+
+Diamond allows the user to encrust their body with {{w|diamond}}, giving themselves protection, the ability to conjure and manipulate diamonds to attack opponents, and also using their shiny body to reflect light and blind nearby opponents. The user can only use the fruit's attacks while transformed.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Encrustation
+|file     = Encrust.gif
+|desc     = The user gains the ability to envelop themselves in a shimmering coat of diamonds, providing a 23% damage reduction. While transformed, the user is able to use the rest of Diamond's moveset while also retaining full access to their [[swords]], [[guns]], and [[fighting styles]].
+}}
+
+|Moveset|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 3.5
+|energy   = 25
+|break    = No
+|instinct = Cannot break [[Instinct]] in any way.
+|gif      = Diamond M1
+|desc     = The user lunges themselves in the direction of their cursor, damaging any enemies caught in their way. Upon contact with a surface, the tackle creates a crater that explodes with diamonds.
+}}
+
+{{Skill
+|key      = Z
+|name     = Encrust
+|mastery  = 1
+|cooldown = 6
+|energy   = 15
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = EncrustFull
+|gif2     = Un-Encrust
+|desc     = The user's skin transforms into solid diamond while growing out two large diamond spikes on their back, giving a 23% defense boost. Upon transformation, the user releases a large AoE blast of light. Tapping the move will cause the user to fire diamond shards in all directions.
+|desc2    = Holding down the move while transformed will cause the user to untransform.
+}}
+
+{{Skill
+|key      = X
+|name     = Shard Storm
+|mastery  = 1
+|cooldown = 12
+|energy   = 25
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Diamond X
+|desc     = The user fires a storm of diamond shards from their hands, with the amount of shards fired depending on how long the move is held down for, before releasing a large, final shard that explodes on the opponent, dealing great damage. 
+}}
+
+{{Skill
+|key      = C
+|name     = Shimmering Disruption
+|mastery  = 80
+|cooldown = 15
+|energy   = 30
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Diamond C
+|gif2     = Shimmering Stun
+|desc     = The user uses their body to reflect concentrated light, releasing a large [[AoE]] blast of light and dealing medium damage while simultaneously blinding hit enemies for 3 seconds, while stunning them for 1-second.
+|desc2    = This move can be held to slightly increase size and damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Prismatic Reflection
+|mastery  = 110
+|cooldown = 21
+|energy   = 60
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Prism Reflections
+|desc     = The user creates a barrage of floating diamond mirrors in the air surrounding themselves. Each mirror releases a blue beam of concentrated light, dealing continuous damage to enemies caught in its radius. Similar to [[Creation]] [C] and [[Sound]] [C].
+}}
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Cheap and easy to obtain.
+* Good for [[sword]]/[[gun]]/[[fighting style]] mains due to [Z]'s defense buff, increasing their survivability.
+* Great for grinding and [[Raids|raids]].
+
+|'''[TAP] Normal Attack'''
+* Good mobility move.
+* Hits multiple enemies when hitting a wall or the ground.
+* Can fling the user really far if used correctly
+
+|'''[Z] Encrust'''
+* The defense boost is good for tanking [[bosses]], players, and [[Enemies|NPCs]].
+* Quick transformation.
+* Deals damage while transforming.
+* Deals high damage if near a surface.
+
+|'''[X] Shard Storm'''
+* Good damage (if all projectiles hit).
+* Good stun.
+
+|'''[C] Shimmering Disruption'''
+* Large [[Area of Effect|AoE]].
+* Blinds enemies for three seconds, making it a somewhat good combo starter and for running.
+
+|'''[V] Prismatic Reflection'''
+* Auto-aims.
+* Decent for grinding.
+* Decent hitbox.
+* Can be deadly in combos if used correctly.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Most moves are close range and difficult to hit by themselves, making them require help from other attacks.
+* Not suitable for fighting against teamers.
+
+|'''[TAP] Normal Attack'''
+* Bad for grinding.
+* Can sometimes fling the player into water, causing the player to die (most likely unintended).
+* Easy to dodge.
+
+|'''[Z] Encrust'''
+* Low damage.
+* Small range.
+
+|'''[X] Shard Storm'''
+* Mediocre damage if only a small amount of shards hit.
+* If held, the stun can prove a bit rough and can give the enemy a chance to escape.
+
+|'''[C] Shimmering Disruption'''
+* Slight startup.
+* Not a lot of range if tapped.
+
+|'''[V] Prismatic Reflection'''
+* Single target.
+* No stun.
+* Can be dodged.
+* Cannot break [[Instinct]].
+}}
+</tabber>
+
+==Trivia==
+* The {{Ability|TAP}} move is similar to an old move prior to the rework, '''Beaming Tackle'''. 
+* All of Diamond's [[skins]] are based off gems and minerals.
+
+==Change History==
+{{Change History|15|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|neutral}} Diamond was adjusted.
+* {{Arrow|nerf}} All damage decreased by 10%.
+* {{Arrow|nerf}} TAP no longer breaks Instinct.
+* {{Arrow|Buff}} TAP cooldown was decreased by 20%.
+* {{Arrow|buff}} '''[C] Shimmering Disruption''' now has a 1-second stun.
+
+|-|27.1=
+{{Update|27.1}}
+* Diamond received 4 {{CHROMATIC}} [[skins]]: {{skin|Ruby}}, {{skin|Topaz}}, {{skin|Emerald}} and {{skin|Rose Quartz}}.
+
+|-|26=
+{{Update|26}}
+* Diamond's icon was changed.
+* {{Arrow|nerf}} Diamond was nerfed.
+** {{Arrow|nerf}} {{Ability|Z}}'s defense was reduced from 25% to 23%.
+** {{Arrow|nerf}} {{Ability|X}} now can be dodged by instinct, the stun was reduced and its damage got slightly reduced.
+** {{Arrow|nerf}} {{Ability|C}} now only stuns enemies for around 0.5 seconds.
+** {{Arrow|nerf}} {{Ability|V}} now can be dodged by Instinct, its AoE was greatly reduced and the damage got slightly reduced.
+
+|-|24=
+{{Update|24}}
+* Diamond's icon was remade.
+* Added a '''[TAP]''' attack.
+* All moves were reworked.
+** '''[X] Beaming Tackle''' was renamed to '''[X] Shard Storm'''.
+** '''[C] Diamond Hail''' was renamed to '''[C] Shimmering Disruption'''.
+** '''[V] Solar Flare''' was renamed to '''[V] Prismatic Reflection'''.
+: <gallery>
+DiamondIcon (Old).png|Old Diamond icon
+Diamond skill z.gif|'''[Z] Encrust''' (Old)
+Diamond skill x.gif|'''[X] Beaming Tackle''' (Old)
+Diamond C skill.gif|'''[C] Diamond Hail''' (Old)
+Diamonda V.gif|'''[V] Solar Flare''' (Old)
+Diamond VB.gif|'''[V] Solar Flare''' (Old Effect)
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Diamond Fruit's model was remade.
+: <gallery>
+Diamond 150x150.png|Old Diamond Fruit's model.
+</gallery>
+
+|-|17.2=
+{{Update|17.2}}
+*{{Arrow|buff}} Increased passive defense from 22.5% to 25%.
+
+|-|15=
+{{Update|15}}
+* Diamond was released.
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[Category:M1 Fruits]]
+[[ru:Алмаз]]

@@ -1,0 +1,204 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Spike
+|image  = <gallery>
+Spike Fruit.png|Fruit Icon
+Spike fruit gif.gif|Fruit GIF
+Spike.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 180,000
+|robux  = 380
+}}
+{{Quote|Grants the user sharp spikes on their body, full of offensive attacks skills.|Shop}}
+'''Spike''' is a {{Common}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|180,000}} or {{Robux|380}} from the [[Blox Fruit Dealer]].
+
+Spike allows the user to deploy spikes anywhere they choose to. The user can also transform their body into spikes, allowing them to damage opponents in close range.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Spike Summon
+|mastery  = 1
+|cooldown = 6
+|energy   = 20
+|break    = Yes
+|instinct = The main spike can be dodged on the edge. The smaller spikes when held can be dodged too.
+|gif      = Spike Z (Tap)
+|gif2     = Spike Z (Held)
+|desc     = When tapped, the user summons a singular spike from the ground at the location of their cursor, launching hit enemies into the air.
+|desc2    = When held, the spike becomes bigger while summoning more smaller spikes around it. this skill requires holding the move for 1 second. The maximum amount of spikes summoned by this move is 6.
+}}
+
+{{Skill
+|key       = X
+|name      = Whirlwind
+|mastery   = 25
+|cooldown  = 10.5
+|energy    = 35
+|break     = Yes
+|instinct  = Can be dodged on the edge. Always [[Instinct/Break|breaks Instinct]] once caught in the attack.
+|gif       = Spike X
+|desc      = The user rotates their arms in a spinning motion and starts slowly rising up, inflicting damage and stunning anyone caught in the attack.
+* The longer the move is held, the greater the amount of damage it will deal, the bigger the move's hitbox will get, and the longer the move will last. When tapped, the duration of the move is 1.5 seconds. This move can be held for 3 seconds.
+}}
+
+{{Skill
+|key      = C
+|name     = Spiky Ball
+|mastery  = 50
+|cooldown = 13.5
+|energy   = 50
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Spike C
+|desc     = The user transforms into a spiky ball and starts rolling forward in the direction of the cursor, stunning any enemy they touch and pulling them along as they roll. This move has a duration of 3 seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Spike Barrage
+|mastery  = 75
+|cooldown = 12
+|energy   = 40
+|break    = Yes
+|instinct = Can be dodged on the edge.
+|gif      = Spike V (Tap)
+|gif2     = Spike V (Held)
+|desc     = The user conjures a row of spikes in the direction they are facing, each spike being bigger than the last. The damage and the amount of spikes increases the longer the ability is held. Tapping the move will summon 4 spikes.
+|desc2    = If held for 3 seconds, the move will summon 7 spikes. Once released, the direction at which the spikes summon can be controlled by the cursor.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Very common to find and very cheap to buy.
+* Good combo potential.
+* Decent for grinding in early [[First Sea]].
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Spike Summon'''
+* Decent damage.
+* Good reach.
+* Good [[Area of Effect|AoE]] when held.
+* Quite easy to hit when held.
+
+|'''[X] Whirlwind '''
+* Stuns multiple enemies.
+* Good vertical hitbox.
+* Good damage when held.
+* Great combo extender.
+
+|'''[C] Spiky Ball'''
+* Decent for traveling on land.
+* Good damage.
+* Decent for stacking up NPCs.
+* Able to rapidly decline enemy combos. 
+* Multitarget.
+
+|'''[V] Spike Barrage'''
+* Decent range.
+* Decent damage when held.
+* Very low cooldown compared to other [[Blox Fruits|fruits]]' '''[V]''' moves.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Most moves need to be held to deal full damage.
+* Not recommended for grinding as it is not an [[Elemental]] fruit.
+* Only has four moves.
+* Moves have only short-medium range.
+* Lacks mobility.
+
+|'''[Z] Spike Summon'''
+* Has to be held to deal full damage and [[Area of Effect|AoE]].
+** Very small [[Area of Effect|AoE]] when tapped.
+* The position of smaller spikes when held is random.
+* Quite high knockback when fully charged.
+* Limited range.
+
+|'''[X] Whirlwind'''
+* Low initial range.
+* Needs to be held to deal full damage.
+* Locks the user in place, making them vulnerable to long-ranged moves if they miss.
+
+|'''[C] Spiky Ball'''
+* Long cooldown.
+* Generally slow.
+* Not as useful as other [[Blox Fruits|fruits]] for mobility.
+* Not reliable for combos due to its decent end-lag (about ~0.5 seconds), as the enemy player can easily escape/attack the user.
+* Cannot be canceled once started.
+* Can sometimes fling NPCs when used on a group of them.
+
+|'''[V] Spike Barrage'''
+* Bad damage compared to other [[Blox Fruits|fruits']] '''[V]''' moves, especially when tapped.
+* Long time to hold down the move.
+* The user is vulnerable to attacks when charging the move.
+* The user needs to be close to the ground to use the move.
+* Cannot be used in areas with very low ceiling.
+}}
+</tabber>
+
+==Trivia==
+* Spike used to always be in stock alongside [[Bomb]], but this was changed when [[Rocket]] and [[Spin]] became the new two cheapest fruits. 
+* Before its rework in [[Updates/17.3|Update 17.3]], Spike had only two moves. 
+** The old version of Spike is used by the [[Factory Staff]] and [[Sorcerer]].
+* During the {{Ability|Spike|C}} move, the user is able to jump. However, they cannot double jump nor [[Air Jump]]. 
+* Spike is the last fruit in the [[Common]] rarity. 
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* Spike Fruit's icon was remade.
+: <gallery>
+SpikeIconOld.webp|Old Spike Fruit's icon.
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Spike Fruit's model was remade.
+: <gallery>
+Spike 150x150.png|Old Spike Fruit's model.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Spike's price was increased.
+** {{Money|7,500}} -> {{Money|180,000}}
+** {{Robux|75}} -> {{Robux|380}}
+* All moves were reworked and added new moves.
+** '''[Z] Rush''' was renamed to '''[Z] Spike Summon'''.
+** '''[X] Spiky Ball''' was renamed '''[X] Whirlwind''' and moved to '''[C] Spiky Ball'''.
+
+|-|17.2=
+{{Update|17.2}}
+* Spike's moves cooldown was decreased.
+
+|-|2=
+{{Update|2}}
+* Increased damage of the '''[X] Spiky Ball''' move.
+
+|-|1=
+{{Update|1}}
+* Spike was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Шипы]]

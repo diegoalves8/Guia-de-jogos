@@ -1,0 +1,218 @@
+{{Tabber V2
+|tab1  = Water Kung Fu
+|tab2  = Sharkman Karate
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Sharkman Karate
+|source    = Sharkman Teacher
+|update    = 14
+|sea       = 2/3
+|location  = Forgotten Island
+|location1 = Castle on the Sea
+|mastery   = [[Water Kung Fu]] Mas. 400+
+|item      = Water Key
+|money     = 2,500,000
+|fragments = 5,000
+}}
+'''Sharkman Karate''' is a [[Fighting Styles|fighting style]] obtainable in the [[Second Sea]] and the [[Third Sea]].
+
+Sharkman Karate has relatively low damage, especially compared with the v2 fighting styles. However, it makes up for this by offering excellent combo potential and stuns. However, it is a bit stronger than [[Water Kung Fu]] for grinding purposes. It also is great for breaking and starting combos, and offers a versatile moveset. 
+
+Sharkman Karate can also be upgraded from the [[Sharkman Master]] [[NPCs|NPC]] in the [[Submerged Island]].
+
+==Obtainment==
+Sharkman Karate can be obtained from the [[Sharkman Teacher]] after giving him a [[Water Key]] and having [[Water Kung Fu]] at 400 mastery or more. The player needs to pay {{Money|2,500,000}} and {{Fragment|5,000}}.
+
+The "{{Title|Sharkman}}" [[Titles|title]] #0130 will be granted upon obtaining this fighting style.
+
+==Mastery==
+* 400+ Mastery: Sharkman Karate is one of the requirements to obtain [[Godhuman]] in the [[Third Sea]].
+* 500+ Mastery: Upgrades for the style become available at the [[Sharkman Master]].
+
+==Upgrading==
+Sharkman Karate's moveset can be upgraded by interacting, training and buying upgrades from the [[Sharkman Master]], with the interaction having a requirement of at least 500 mastery on the style and the player has to be level 2200
+* Upgrading {{Ability|Z}} requires the [[Headband (Yellow)]] and {{fragment|2,000}}. Once upgraded, it allows the user to shoot out a shark after the palm rush.
+* Upgrading {{Ability|X}} requires the [[Headband (Blue)]] and {{fragment|3,000}}. Once upgraded, it allows the user to control the positioning of the bubble encasing the enemy with their cursor or finger whilst holding the move.
+* Upgrading {{Ability|C}} requires the [[Headband (Black)]] and {{fragment|5,000}}. Once upgraded, if hit, it grants the user a temporary shield that gives a 35% defense buff for a short while, similar to [[Shark]]'s [[Water Body|V3 ability]].
+In total, upgrading all the moves costs {{fragment|10,000}}.
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Water Combo
+|gif      = Sharkman Karate M1
+|desc     = The user performs a hook punch followed up by a spinning hook kick before executing a slide forward and a ground slam with their fists.
+}}
+
+{{Skill
+|key      = Z
+|name     = Twelve Water Palms
+|mastery  = 100
+|cooldown = 7
+|energy   = 30
+|break    = yes
+|instinct = The startup breaks Instinct but the strikes do not. The upgraded shark breaks instinct.
+|gif      = 12 Water Palms
+|gif1     = 12 Water Palms upgraded
+|desc     = The user summons six water bodies and rushes forward. If hit, the enemy will be caught in an onslaught of palm strikes by all six figures and the user.
+|desc1    = If upgraded, the user will condense the water figures into a shark, shooting it out onto an enemy, carrying them after the rush.
+}}
+
+{{Skill
+|key      = X
+|name     = Pressure Vortex
+|mastery  = 200
+|cooldown = 11
+|energy   = 40
+|break    = yes
+|instinct = The initial strike by the shark can be dodged, but the second strike by the bubble breaks [[Instinct]]. Held version breaks instinct no matter what, due to the fact that it merges the hits together.
+|gif      = Pressure Bubble
+|gif1     = Shakmanxbubble
+|desc     = The player fires a shark made of water, which on hitting an enemy, traps the enemy in a water bubble for about 1 second, before exploding. The unheld version is similar to [[Sand]] {{Ability|Sand|X}}, while the upgraded version is similar to old [[Barrier]] {{Ability|Barrier|C}}.
+|desc1    = If upgraded, the user will be able to control the position of the bubble, and the bubble will last longer.
+}}
+
+{{Skill
+|key      = C
+|name     = Great Sea Spear
+|mastery  = 300
+|cooldown = 16
+|energy   = 75
+|break    = yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Great Sea Speared
+|gif1     = Great Sea Shield
+|desc     = The player launches a vortex of water and draws it towards their body. If hit, the vortex pulls in the enemy, followed up by a barrage of aquatic strikes and a finishing double-palm strike. This move cannot be cancelled.
+|desc1    = When held, the move grants a 70% damage reduction and converts a portion of the damage received/absorbed during the hold into temporary health (does not need to be upgraded, but the effect will be somewhat improved when upgraded). If upgraded, a 35% damage reduction will also be granted after the move ends, lasting for 3 seconds.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Can work with many builds.
+* Insane combo potential, even higher than [[Godhuman]] with the correct build.
+* Precise knockback.
+* Moves can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Twelve Water Palms'''
+* Short cooldown.
+* Good mobility.
+* Fast casting.
+* [[Instinct/Break|Breaks Instinct]].
+
+|'''[X] Pressure Vortex'''
+* Good range.
+* [[Instinct/Break|Breaks Instinct]] on the 2nd hit.
+* Strong [[stun]].
+** Stronger stun when upgraded
+** The strongest stun for any fighting style, only when upgraded and held fully.
+* Controllable to a good degree (only when upgraded and held).
+* The held version merges both of the hits into one, resulting in a guaranteed instinct break.
+* Grabs upon contact with the shark (both versions, the tap version even if instinct-tricked)
+* Very long range.
+* Distorts the enemies screen (bubble).
+* No knockback.
+
+|'''[C] Great Sea Spear'''
+* Can grab multiple targets at once.
+* One of the best combo starters if used correctly, and can be easily followed by [[Flash Step]] to follow up with other moves.
+* Quick start-up.
+* [[Instinct/Break|Breaks Instinct]].
+* Upgraded water shield is very effective in avoiding being damaged by jumpers.
+* When held, the user gains a 70% damage reduction.
+* Grants additional 35% damage reduction after the move.
+* This move cannot be canceled by incoming damage, and will turn a portion of the damage received during the hold into temporary health. This converts into normal health after a while. (Does not need to be upgraded, but will be stronger when it is)
+* Can be used to interrupt enemy combos and start combos (By holding).
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* It is hard to hit a moving opponent from far away, so it may require some prediction and skill.
+* Bad M1s compared to other [[fighting Styles|fighting styles]].
+** M1s have terrible hitboxes, long cooldowns, and dash at the third hit.
+** Sometimes the third M1 won't even hit at all, unless the user is using [[Buddha]].
+** The fourth M1 does not hit if Buddha Transformation is active.
+* Severe lack of mobility.
+* May be expensive in the [[Second Sea]].
+* Relatively weak damage.
+
+|'''[Z] Twelve Water Palms'''
+* Short range.
+* May bug with high ping or overexaggerated movement.
+* Low mobility.
+* Punishable endlag unless upgraded.
+* No longer carries momentum. 
+* Has a huge delay.
+
+|'''[X] Pressure Vortex'''
+* The bubble is single target.
+* Slow travel speed.
+* Sometimes, the shark may circle around the opponent without trapping them in a bubble.
+
+|'''[C] Great Sea Spear'''
+* Grants no I-frames.
+* Small range.
+* High knockback, making it unreliable for grinding.
+* The upgrade requires the [[Headband (Black)]], which is relatively hard to obtain with it requiring 100% accuracy in the [[Fish Fights|Fish Fight]] against the [[Sharkman Master]].
+* Temporary Health does not last very long.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Water Kungfu-Sharkman Idle.gif|Idle Stance
+File:Sharkman Figures.png|Model of the water figures of '''[Z] Twelve Water Palms.'''
+</gallery>
+
+==Trivia==
+* Both [[Kilo Admiral]] and [[Fish Crew Member]] uses Sharkman Karate Old's M1's as its melee.
+* Sharkman Karate is considerably one of the best ways to grind for [[Aura]] levels, as almost all the moves are tick damage, especially {{Ability|C}} as it has lots of tick damage.
+* Sharkman Karate is the second V2 [[Fighting Styles|Fighting Style]] to have an upgraded version, the first being [[Dragon Talon]].
+* Before [[Updates/27.2|Update 27.2]], Sharkman Karate was obtained from Daigrock, the Sharkman.
+* Despite being an upgrade to [[Water Kung Fu]], Sharkman Karate's M1’s are not considered worth using by the community due to its dash. It is recommended to use Sharkman Karate solely for PvP, and [[Water Kung Fu]] for grinding since it’s spammable.
+* Currently, the Sharkman Master's final belt in the [[Fish Fights|Fish Fight]] battle training is excruciatingly hard to obtain, as it requires a 100% critical hit ratio, and involves luck over the Sharkman Master misses his final hit.
+* Sharkman Karate shared very similar visual effects with awakened [[Flame]]'s '''[Z] Burning Blast''', (prior to it's revamp) as it shared the same meshes and almost seemed like a recolored version.
+* This also applies for old Sharkman Karate's [C] Move having similar effects to awakened [[Flame]]'s {{Ability|Flame|X|1}}, most likely due to it being a very old fighting style.
+==Change History==
+{{Change History|14|content=
+{{Update|29.2}}
+* Sharkman Karate was buffed.
+** [X] No longer launches enemies into the air; bubble speed increased by 25%
+** [C] Completely revamped.
+*** Upgrade grants health based on damage absorbed.
+*** Breaks instinct, has hyper armor.
+*** Damage reduction while holding move, max hold time increased to 1.5 seconds.
+----
+{{Update|27.5}}
+* Sharkman Karate {{Ability|Z}} received a small change.
+** The figures are now made of translucent water.
+** The dash is slightly extended.
+** 🔻The dash now has delay.
+----
+{{Update|27.2}}
+* {{Arrow|neutral}} Sharkman Karate was reworked.
+<gallery>
+SharkmanZ.gif|Old '''[Z] Twelve Water Palms'''
+SharkmanX.gif|Old '''[X] Pressure Vortex'''
+SharkmanC.gif|Old '''[C] Great Sea Spear'''
+</gallery>
+* {{Arrow|nerf}} M1's now dash the user forward and have lag at the end.
+----
+{{Update|17.3.5}}
+* {{Arrow|buff}} '''[X] Pressure Vortex''' was reworked and now drags the opponent(s) further.
+* {{Arrow|buff}} '''[C] Great Sea Spear''' was reworked and is now multi-target.
+----
+{{Update|14}}
+* Sharkman Karate was released.
+}} 
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Каратэ Акуло-Человека]]

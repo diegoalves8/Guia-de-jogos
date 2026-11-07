@@ -1,0 +1,586 @@
+{{Tabber V2
+|tab1  = Tiger
+|tab2  = Werewolf
+}}
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Tiger
+|image  = <gallery>
+Tiger Fruit.png|Fruit Icon
+TigerGif.gif|Fruit GIF
+Tiger.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Transformed
+|update = 28
+
+<!-- Fruit Price -->
+|money  = 5,000,000
+|robux  = 3,000
+}}
+
+{{Quote|Allows the user to turn into a Tiger, granting enhanced agility and powerful melee attacks.|Shop}}
+'''Tiger''' (formerly known as [[Leopard]]) is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|5,000,000}} or {{Robux|3,000}} from the [[Blox Fruit Dealer]].
+
+Tiger allows the user to acquire powerful and quick-paced attacks, as well as to transform into an anthropomorphic {{w|tiger}}, granting them speed, agility, and offense. 
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Fire Meter
+|meter    = Fire Meter.png
+|desc     = The wielder has a meter which they start gaining during their transformation passively or landing Tiger's moves. This allows the user to use {{Ability|C}}'s held/cutscene variant at 75% Fire Meter, and their Blazing Form at 100% (Full Meter).
+}}
+
+{{Skill/Passive
+|name     = Lava Immunity
+|file     = Flaming Paws.gif
+|desc     = Once transformed, the user becomes immune to [[Lava]] puddles found on [[Hot and Cold]] and [[Magma Village]], as well as in [[Flame]] and [[Magma]] [[raids]], but not to the Lava found in [[Prehistoric Island]].
+}}
+
+{{Skill/Passive
+|name     = Overheat
+|file     = MaxOverheat.gif
+|desc     = The wielder enters this state after usage of the Blazing Form, by running out of Fire Meter or by untransforming early. In this state, their transformation is completely disabled. The duration of the overheating effect is around half of the time the user spent in the Blazing Form (for example: if the player was in Blazing Form for 30 seconds, then Overheating will last for 15 seconds). During this state, the user's speed is reduced by roughly 30%.
+}}
+
+{{Skill/Passive
+|name     = Ferocious Feline
+|file     = Tiger Transformation.gif
+|desc     = The wielder can transform into a Tiger-Human hybrid. While in this form, they gain 33% cooldown reduction, a ~80% speed boost, a jump boost, a dash boost, and 20% damage reduction. They cannot switch to a fighting style, sword, or gun. The wielder is incapable of going into this form whilst being Overheated.
+}}
+
+{{Skill/Passive
+|name     = Blazing Form
+|file     = Blazing Form.gif
+|desc     = The wielder can further push past their limits by transforming a second time after their Fire Meter is maxed out. In this form, the user's moveset changes, cooldowns are reduced by 50% of base form, and all bonuses from the earlier transformation are nearly doubled. This form lasts for 60 seconds. The wielder goes into Overheat stage after running out of Fire Meter or after untransforming.
+}}
+
+|Moveset (Normal)|
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 13.5
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The fireball and explosion [[Instinct/Break|break Instinct]].
+|gif      = Tiger Z (Tap)
+|gif1     = Tiger Z (Held)
+|desc     = The user shoots a fireball from their finger.
+|desc1    = If the key is held, it will send a barrage of ghostly index pointing hands first, firing the blazing projectile after a short moment. If damage is taken while the move is held, the final projectile will be fired early.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 18
+|energy   = 40
+|break    = yes
+|instinct = The initial hit [[Instinct/Break|breaks Instinct]], but the second hit can be dodged.
+|gif      = Tiger X (Ground)
+|gif1     = Tiger X (Air)
+|desc     = The user creates and sends a large, powerful air-blade in the shape of a swirl with their legs, which is impelled at the cursor like a razor blade and slashes the target several times upon hitting, while dragging them along for a few moments, and then shoots them upward.
+|desc1    = The aerial version of the move.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 22
+|energy   = 80
+|break    = yes
+|instinct = The first few dashes can be dodged with [[Instinct]]. The slam (roar) after them can be dodged on the edge.
+|gif      = Tiger C
+|desc     = The user teleports a couple of times in their cursor's direction, then lets out a roar that deals damage and knockback. If the user is on the ground, then they will smash the ground instead.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = The start-up when Transforming can [[Instinct/Break|break Instinct]], but it can rarely be dodged on the edge.
+|gif      = Tiger V
+|desc     = The user transforms into a Tiger-Human hybrid, unleashing a roar.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 13.5
+|energy   = 60
+|break    = no
+|instinct = Does not [[Instinct/Break|break Instinct]]. However, the move grabs regardless.
+|gif      = Tiger F
+|desc     = The user moves forward a short distance quickly and if there is an enemy in front of the user, the user knocks the enemy back with a swift kick and deals a good amount of damage.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = The first three M1s can rarely be dodged on the edge, but the roar [[Instinct/Break|breaks Instinct]].
+|gif      = Tiger M1
+|desc     = The user swings and hits with the claws two times then kicks before letting out a roar.
+}}
+
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 13.5
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The fireball and explosion [[Instinct/Break|break Instinct]].
+|gif      = Tiger Z (Transformed Tap)
+|gif1     = Tiger Z (Transformed Held)
+|desc     = The user shoots out a blazing projectile out of the user's hand (supposedly their finger) where their cursor is aiming. After a while, this projectile explodes.
+|desc1    = If the key is held down, it will send a barrage of ghostly index-pointing hands where the cursor is aiming, then, after a short moment, the blazing projectile will be fired. If the user takes damage while holding this move, they will automatically shoot the final projectile.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = yes
+|instinct = The initial hit [[Instinct/Break|breaks Instinct]], but the second hit can be dodged.
+|gif      = Tiger X (Transformed Ground)
+|gif1     = Tiger X (Transformed Air)
+|desc     = The user produces a slice of wind with their leg. If this ability hits, it will send out a thin, saw-like blade, hitting their opponent multiple times.
+|desc1    = The aerial version of the move.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 14.7
+|energy   = 80
+|break    = yes
+|instinct = Both the tap and the held version [[Instinct/Break|break Instinct]] no matter what.
+|gif      = Tiger C (Transformed Tap)
+|gif1     = Tiger C (Transformed Held)
+|desc     = When tapped, the user teleports towards the location of the user's cursor, then lets out a furious roar. If this move is used on the ground, the user also smashes the ground with a great slam at the end of it. This move also adds a fire effect (cosmetic), which increases speed by 40% for 3-4 seconds.
+|desc1    = When held, after holding the move for at least 1.25 seconds, the user enters a stance. Upon release, the user dashes forward. If an enemy is hit, they'll be sent through a furious barrage of fists, finishing off with a devastating punch, knocking back the enemy. This move requires 75% of the Fire Meter in order to execute.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 4.5
+|energy   = 20
+|break    = yes
+|instinct = The explosion when entering blazing form can [[Instinct/Break|break Instinct]], but it can be dodged on the edge.
+|gif      = tigerbaseforml
+|gif1     = Tiger V (Transformed)
+|desc     = If the Fire Meter is not full, the user transforms back into their human form instantly, reverting the user to their normal state, removing their ability to use Tiger's transformed moves, but in turn restoring their ability to use Fighting Styles, Swords, and Guns.
+|desc1    = If the user's Fire Meter is at 100%, the user will transform into their Blazing Form, enhancing all of their current abilities.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = no
+|instinct = Does not [[Instinct/Break|break Instinct]]. However, the move grabs regardless.
+|gif      = Tiger F (Transformed)
+|desc     = The user teleports forward a short distance in the blink of an eye (sort of like a mini flash-step). Anyone hit by this move will be held for a second, before being blasted away with a jab. This move is faster than its untransformed counterpart.
+}}
+
+|Moveset (Transformed - Blazing Form)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = The first three M1s can rarely be dodged on the edge, but the roar [[Instinct/Break|breaks Instinct]].
+|gif      = BTM!
+|desc     = The user swings and hits with the claws three times before letting out a roar, range and damage have been enhanced.
+}}
+
+{{Skill
+|key      = Z
+|name     = Finger Revolver
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = The projectiles can be dodged. The blast can be dodged on the edge and/or if far enough.
+|gif      = BTN_Z
+|gif1     = Tiger Z (Blazing Form Held)
+|desc     = The user shoots out a flurry of jabs almost akin to a barrage, out of the user's hand (supposedly their finger) where their cursor is aiming. After a while, they finish with a shove. If the user takes damage while holding this move, they will automatically execute the final shove, similar to other held moves. The user goes forward when holding this move.
+|desc1    = The held variant of this move.
+}}
+
+{{Skill
+|key      = X
+|name     = Spiraling Kick
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = The start-up can be dodged on the edge. The projectile can be dodged (both the initial hit and at the drag) and the explosion can be dodged on the edge. Only [[Instinct/Break|breaks Instinct]] if too close to the start-up or the explosion.
+|gif      = Tiger X (Blazing Form)
+|desc     = The user produces a blazing Tiger-shaped projectile that blasts enemies with high range and [[AoE]]. This variant is similar to [[Pain]]'s held [V] move.
+}}
+
+{{Skill
+|key      = C
+|name     = Afterimage Assault
+|mastery  = 100
+|cooldown = 11
+|energy   = 80
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Tiger C (Blazing Form)
+|desc     = The user teleports towards the location of the user's cursor, then lets out a furious roar. If this move is used on the ground, the user also smashes the ground with a great slam at the end of it. This move also adds a fire effect (cosmetic), which increases speed by 40% for 3-4 seconds.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3.3
+|energy   = 20
+|instinct = Does not deal any damage.
+|gif      = BTV
+|desc     = The user transforms back into their human form instantly, igniting the user on fire. This reverts the user to their normal state, removing their ability to use Tiger's transformed moves, but in turn restores their ability to use Fighting Styles, Swords, and Guns.
+}}
+
+{{Skill
+|key      = F
+|name     = Body Flicker
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] no matter what.
+|gif      = Tiger F (Blazing Form)
+|desc     = The user quickly moves forward in a zig-zag motion. If an enemy is hit, the user blitzes them in a flurry of slashes and blows whilst ascending, knocking them down at last.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Most moves have low-end lag maneuvers.
+* High damage.
+* Great mobility.
+* All moves are multi-target and can [[Instinct/Break|break Instinct]].
+
+|'''[Z] Finger Revolver'''
+* Great range.
+* Huge [[Area of Effect|AoE]].
+* Long stun when held.
+* Can glide across the surfaces.
+* The fireball has a huge hitbox.
+
+|'''[X] Spiraling Kick'''
+* Decent [[Area of Effect|AoE]].
+* Long range.
+* Can glide across the surfaces.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Good damage.
+
+|'''[V] Transformation'''
+* Decent damage.
+* Quick transformation.
+
+|'''[F] Body Flicker'''
+* Decent mobility.
+* Decent for extending combos.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Not recommended for [[First Sea|First]] / Early [[Second Sea]] players due to its high mastery requirements and mediocre grinding capabilities.
+* Very expensive and difficult to obtain.
+* Long cooldowns compared to other [[Beast]]-type fruits.
+* Because of its strong close-range and underground abilities, Tiger can easily be countered by [[Ice]] because Tiger does not replenish its [[health]] or stun ability effectively.
+* All moves can be dodged with [[Instinct]].
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+
+|'''[X] Spiraling Kick'''
+* Quite high knockback.
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* The first few dashes can be dodged using [[Instinct]].
+* The opponent can punish it if timed correctly.
+
+|'''[V] Transformation'''
+* Does not grant i-frames while transforming.
+
+|'''[F] Body Flicker'''
+* The range is quite low, so the move is hard to hit.
+* Takes a bit of time to fully execute after hitting an enemy, possibly leaving the user vulnerable to damage if used against a group of [[NPCs]].
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Provides a small damage reduction. (Roughly 20%)
+* Gain a speed buff (~80%) and a [[Air Jump|jump]] buff.
+* Moves deal more damage and have lower cooldowns.
+* Easy to use.
+* Small hitbox compared to other transformations.
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Fast M1.
+* Decent stun.
+* The roar has decent [[Area of Effect|AoE]].
+* Can be used in between other abilities, allowing for more pressure.
+
+|'''[Z] Finger Revolver'''
+* Very high damage when used properly.
+* Quite long range.
+* The explosion has extremely large [[Area of Effect|AoE]], making this move very easy to hit.
+* Long stun if held.
+
+|'''[X] Spiraling Kick'''
+* Long range.
+
+|'''[C] Afterimage Assault'''
+* Good mobility.
+* Boosts the user's speed for a while.
+* Huge damage (when held).
+* The held version has little-to-no end-lag.
+
+|'''[F] Body Flicker'''
+* Good mobility.
+* Good for extending combos.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Quite weak defense.
+* Cannot use [[Fighting Styles|fighting styles]], [[swords]] or [[guns]] while transformed.
+* Most moves can be dodged with [[Instinct]].
+* Not recommended for water travel while transformed, since over water its dashes become quite short, and the C move is its main source of mobility.
+
+|'''[TAP] Normal Attack'''
+* Short range, so it is not recommended to use in PvP.
+* Might be difficult to use in grinding.
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+
+|'''[X] Spiraling Kick'''
+* May be difficult to combo with due to its high knockback.
+** May be difficult to use in grinding as well, although the user could simply use this move against the floor to fix this issue slightly.
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* Tap version can be dodged.
+* The held version might be difficult to hit opponents.
+* The held version requires a huge chunk of the Fire Meter in order to execute.
+* The held version doesn't grant i-frames to the user, making them vulnerable to attacks.
+
+|'''[F] Body Flicker'''
+* Although having a longer range and hitbox, this move is still hard to hit.
+}}
+}}
+
+|-|Blazing Form=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Blazing Form
+|'''General'''
+* Cooldowns are reduced even more.
+* Even greater speed, dash and jump buff.
+* All moves can [[Instinct/Break|break Instinct]].
+
+|'''[TAP] Normal Attack'''
+* Deals higher damage.
+
+|'''[Z] Finger Revolver'''
+* The blast has great [[Area of Effect|AoE]].
+* The blast is executed almost instantly.
+* Can be used as a reversal tool.
+* Long stun (when held).
+
+|'''[X] Spiraling Kick'''
+* Very long range.
+* Good damage.
+* Decent stun.
+* Decent [[Area of Effect|AoE]].
+
+|'''[C] Afterimage Assault'''
+* Great damage.
+* Good mobility.
+* Great damage.
+
+|'''[V] Transformation'''
+* Decent damage.
+* Decent [[Area of Effect|AoE]].
+* Breaks [[Instinct]].
+
+|'''[F] Body Flicker'''
+* Decent mobility.
+* High damage.
+* Grants i-frames during the move.
+* If the opponent's health is low enough, it will be a finisher, like [[Dragon Talon]]'s {{Ability|Dragon Talon|Z}}.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Blazing Form
+|'''General'''
+* Requires full Fire Meter in order to transform.
+* Lasts for only 60 seconds.
+* Not good for grinding due to most moves having high knockback.
+* After untransforming, the user is unable to transform again and their speed is reduced for a certain period of time, possibly leaving them vulnerable.
+* Most moves can still be dodged with [[Instinct]].
+* May cause lag on weak or low-end devices.
+
+|'''[TAP] Normal Attack'''
+* Still has short range.
+* Might be difficult to use in grinding.
+
+|'''[Z] Finger Revolver'''
+* High knockback.
+* Deals lower damage.
+* Has shorter range.
+
+|'''[X] Spiraling Kick'''
+* High knockback, making it bad for combos and grinding.
+* Not difficult to avoid.
+
+|'''[C] Afterimage Assault'''
+* can be dodged with instinct at the edge
+
+|'''[V] Transformation'''
+* No i-frames while transforming.
+
+|'''[F] Body Flicker'''
+* Still might be difficult to hit.
+* Decent end-lag.
+
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Tiger Dash.gif|Tiger [[Dashing]] animation
+File:Tiger Air Jump.gif|Tiger [[Air Jump]]ing animation
+File:Tiger Dash (Blazing Form).gif|Tiger [[Dashing]] Animation (Blazing Form)
+File:Tiger Air Jump (Blazing Form).gif|Tiger [[Air Jump]]ing Animation (Blazing Form)
+File:BTglitch.gif|Tiger in Blazing Form running glitch
+File:Tiger (From TIGER SHOWCASE - Gamer Robot).png|Tiger appearing in the Blox Fruits Tiger Showcase, [https://www.youtube.com/watch?v=hf8ViizYpb4&t=46 here].
+File:Tiger (Blazing Form) (From TIGER SHOWCASE - Gamer Robot).png|Tiger appearing in the Blox Fruits Tiger Showcase in Blazing Form, [https://www.youtube.com/watch?v=hf8ViizYpb4&t=93 here].
+</gallery>
+
+==Trivia==
+* During Tiger's transformation, the user will gain a moderate speed boost/buff. Using [[Rabbit V3]] and the [[Pilot Helmet]] adds even more speed buffs. Combining all of them can make the user surpass the speed of Awakened [[Light]]'s {{Ability|Light|F|2}} (the second fastest flight).
+** This move can also be added onto the transformation combination to make it even faster.
+* The fruit takes heavy design inspiration from the Kung Fu Panda antagonist, Tai Lung.
+* Tiger's M1 attacks can damage [[Sea Beast]]s.
+* Strangely, using transformed (Blazing Form) {{Ability|X}} to a transformed [[Dragon]], they can "push" the Dragon away briefly.
+* Tiger is widely considered a ''spammable'' fruit. Using the combination of [[Zebra Cap]], [[Ghoul]] V3/V4 - which has the ability to reduce cooldowns - and its '''Blazing Form''' will massively contribute to the fruit's cooldown reduction, or ''spammability'', so much that if used properly, the player can almost use the moves continuously.
+* [[Yeti]] and Tiger are the second pair of fruits to share the same price, the first being [[Mammoth]] and [[T-Rex]].
+* Tiger is the first fruit to have a [[Mutations|mutation]] in Blox Fruits, being [[Werewolf]].
+* Tiger is the second fruit that has 2 transformations, the first one being [[Dragon]].
+* [[Yeti]] is considered to be the rival of Leopard as shown in their respective rework/release trailers, and both [[Yeti]] and Tiger stand as the pinnacle for non-fury-meter [[Beast]] fruits.
+* Despite the '''[Z]''' move being called '''''Finger'' Revolver''', the animation is more resemblant to punching.
+** This is likely due to the name not being changed from [[Leopard]], since it indeed had animations for finger movement.
+* When using the M1's (with enough lag) while transformed, there's a chance that the user will be abruptly teleported to the [[sea]] and then be teleported back right after.
+** Sometimes, the user will be abruptly teleported to a nearby location after briefly teleporting to the [[sea]], rather than their exact position prior to the glitch happening. When at [[Castle on the Sea]], [[Hydra Island]], or near [[Mansion (Third Sea)|Mansion]], the user may be teleported to the [[Third Sea]] [[portals]], causing them to go back and forth between islands if they have access.
+** There is also a very rare chance the user will not be teleported back and will be stranded at [[sea]].
+* {{Ability|X}} can fling objects on the ground.
+* After using {{Ability|V}} before the fire meter is full will take the user back to base form and completely deplete the fire meter.
+* Tiger now allows for the newest, highest potential speed on ground for a player in the game by combining the following: Blazing Form + 
+Afterimage Assault + [[Rabbit#Version 4|Rabbit V4]] (and [[Agility]]) + [[Pilot Helmet]]. However, this is still not the fastest transportation method, as [[Portal]] has the ability to almost instantly teleport to most [[locations|islands]] in any sea.
+
+==Change History==
+{{Change History|17.3|content=
+<tabber>
+|-|29.6=
+{{Update|29.6}}
+* Tiger was heavily buffed.
+** Transformed
+*** [X] windup removed, hitbox increased by 15%
+*** [C] range increased by 20%, hitbox increased by 10%
+*** [C] hold cast time reduced, range increased by 10%
+*** [F] no longer breaks instinct. 10% more speed
+** Blazing form
+*** [Z] damage increased by 30%
+*** [X] speed increased by 50%
+*** [C] damage increased by 10%, speed increased by 15%, hitbox increased by 15%
+*** [V] heals 30% of maximum HP upon transforming.
+*** [F] now breaks instinct, windup decreased by 30%
+
+|-|28=
+{{Update|28}}
+* [[Leopard]] was remade to Tiger and was available to purchase.
+* [[Leopard]] was reworked and renamed to Tiger. 
+** Added Tiger's Blazing Form.
+* Added [[Werewolf]] [[mutation]].
+* {{Arrow|buff}} Tiger was buffed.
+** {{Arrow|buff}} General:
+*** {{Arrow|buff}} '''[M1] Normal Attack:''' breaks [[instinct]] and push-forward was reduced by 66%.
+*** {{Arrow|buff}} '''[Z] Finger Revolver:''' final projectile can break [[instinct]], had larger AOE & hitbox. Transformation final strike had increased range.
+*** {{Arrow|buff}} '''[X] Spiraling Kick:''' breaks [[instinct]] (both grounded & aerial) and hitbox was increased by 25%.
+*** {{Arrow|buff}} '''[C] Afterimage Assault:''' breaks [[instinct]], hitboxes for both Grab & Slam versions were improved.
+** {{Arrow|buff}} Blazing Form:
+*** {{Arrow|buff}} All moves damage was buffed.
+*** {{Arrow|buff}} '''[X] Spiraling Kick:''' damage was buffed by 80%.
+*** {{Arrow|buff}} '''[F] Body Flicker:''' breaks [[instinct]] and has i-frames while using move on enemies.
+<gallery>
+Leopard Transformed.gif|Old transformed idle.
+Leopard Fruit.png|Leopards's old inventory icon.
+Leopard.png|Leopard's old fruit icon.
+Leopard Fruit Gif.gif|Leopard’s old physical fruit.
+</gallery>
+
+|-|27.5=
+{{Update|27.5}}
+* Leopard was made unavailable to purchase from the [[Blox Fruit Dealer]] and [[Shop]].
+
+|-|20=
+{{Update|20}}
+* Leopard Fruit's model was remade.
+: <gallery>
+Leopard 150x150.png|Old Leopard Fruit's icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Leopard was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[ru:Тигр]]

@@ -1,0 +1,183 @@
+{{CombosTab}}
+{{Removed|type=[[Blox Fruit]]|desc=It was replaced by [[Eagle]] in [[Updates/26|Update 26]].}}
+{{Blox Fruit Infobox
+|name   = Falcon
+|image  = <gallery>
+Falcon Fruit.png|Fruit Icon
+FalconGIF.gif|Fruit GIF
+Falcon.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Uncommon
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->
+|money  = 300,000
+|robux  = 650
+}}
+{{Quote|Gives the user wings, and bird-like attacks.|Shop}}
+'''Falcon''' (formerly known as '''Bird: Falcon''') was an {{Uncommon}} [[Beast]]-type [[Blox Fruit]] that costed {{Money|300,000}} or {{Robux|650}} from the [[Blox Fruit Dealer]].
+
+The Falcon Fruit allowed the user to transform into a human-hybrid {{w|Falcon}}, allowing them to fly and dash to attack foes.
+
+Falcon was generally known as one of the worst fruits in the game, as it only had three attack moves, all of which dealt medium damage and lacked [[AoE]]. Although it could be useful in PvP if used properly, it was not worth the risk of using it as a main fruit.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Jump Boost
+|file     = Falcon Passive.gif
+|desc     = While transformed, the user gained a [[jump]] boost that made them [[jump]] slightly higher.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Plumage
+|mastery  = 1
+|cooldown = 1
+|energy   = 15
+|gif      = falcon_skill_z
+|desc     = The user grew a pair of wings from their back. This move had to be active to use other moves.
+}}
+
+{{Skill
+|key      = X
+|name     = Wind Burst
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 25
+|gif      = falcon_skill_x
+|desc     = The user launched a blast of wind in the direction of the cursor by flapping their wings.
+}}
+
+{{Skill
+|key      = C
+|name     = Bone Crusher
+|mastery  = 80
+|cooldown = 11.5
+|energy   = 30
+|gif      = falcon_skill_c
+|desc     = The user charged at the enemy. If the attack landed, they would grip the opponent with their feet and slam them into the ground, causing debris to fly up and cracks to appear. This move targeted a single enemy and caused a slight stun after the impact.
+}}
+
+{{Skill
+|key      = V
+|name     = Soaring Talon
+|mastery  = 120
+|cooldown = 11.5
+|energy   = 60
+|gif      = falcon_skill_v
+|desc     = The user dashed through the enemy, slashing them several times and dealing damage, momentarily stunned the target(s).
+}}
+
+{{Skill
+|key      = F
+|name     = Flight
+|mastery  = 20
+|cooldown = 7.5
+|energy   = 40
+|gif      = falcon_skill_f
+|desc     = The user flapped their wings to achieve flight.
+}}
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Usable for PvP if used correctly.
+* Able to evade ground based attacks.
+
+|'''[Z] Plumage'''
+* Helped users [[jump]] a little higher.
+* Quick transform.
+
+|'''[X] Wind Burst'''
+* Slight knockback.
+
+|'''[C] Bone Crusher'''
+* Good stun.
+
+|'''[V] Soaring Talon'''
+* Good mobility.
+* Moderate combo potential.
+
+|'''[F] Flight'''
+* Decent speed.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Required good aim for [[Blox Fruit]] mains because of the small hitbox.
+* Very bad for grinding due to single target and knockback.
+* Low damage.
+
+|'''[Z] Plumage'''
+* Boosts from this move were minimal and practically useless for high level players.
+
+|'''[X] Wind Burst'''
+* Easy to avoid.
+* Bad range.
+
+|'''[C] Bone Crusher'''
+* Single-target.
+* Bad range.
+* The user could still take damage while stunning a target, making it ineffective for grinding.
+
+|'''[V] Soaring Talon'''
+* Easy to avoid.
+
+|'''[F] Flight'''
+* Relatively slow.
+}}
+</tabber>
+
+==Trivia==
+* Falcon was one of two [[Blox Fruits]] to have "Bird:" in their name, along [[Phoenix]].
+* Falcon was the only {{Uncommon}} [[Beast]]-type fruit.
+* Falcon was the cheapest [[Beast]] Blox Fruit in [[money]] and value.
+* If the player used '''[Z] Plumage''' and switches to another [[Blox Fruit]], they would keep Falcon's wings, along with the buffs.
+** The player would lose these wings when they died, switched teams, or left the game.
+* Falcon was sometimes considered half-beast by the community, as it did not have a full [[transformation]].
+** This was slightly justified, as it could see some use in most cases, though its moves were not very powerful by most measures.
+
+==Change History==
+{{Change History|15|content=
+{{Update|26}}
+* Falcon was replaced by [[Eagle]].
+----
+{{Update|25}}
+* Falcon was made unavailable to purchase from the [[Blox Fruit Dealer]]'s stock and Shop.
+----
+{{Update|20}}
+* Falcon Fruit's model was remade.
+: <gallery>
+Falcon 150x150.png|Old Falcon Fruit's icon.
+</gallery>
+----
+{{Update|19}}
+* Bird: Falcon was renamed to "Falcon".
+----
+{{Update|17.2}}
+* Increased passive defense from 7.5% to 10%. (This passive is currently not working.)
+----
+{{Update|15}}
+* Bird: Falcon was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[Category:Things removed from the game]]
+[[ru:Сокол]]

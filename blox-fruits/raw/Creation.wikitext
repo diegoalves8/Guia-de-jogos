@@ -1,0 +1,288 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Creation
+|image  = <gallery>
+Creation Fruit.png|Fruit Icon
+CreationFruitGIF.gif|Fruit GIF
+Creation.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = Yes
+|update = 26
+
+<!-- Fruit Price -->
+|money  = 1,400,000
+|robux  = 1,750
+}}
+{{Quote|Creates barriers for defense and can trap enemies.|Shop}}
+'''Creation''' (formerly known as [[Barrier]]) is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,400,000}} or {{Robux|1,750}} from the [[Blox Fruit Dealer]].
+
+Creation grants the user the ability to generate and manipulate structures. This includes both defensive constructs and offensive formations, such as buildings and skylines, which strike enemies out of thin platforms. The user can also shape a dark substance into functional constructs such as giant swords, a functional cannon, aerial platforms, or even a usable hand.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|passive|
+{{Skill/Passive
+|name     = Construction
+|meter    = Build_Meter.png
+|desc     = When the user activates {{Ability|F}}, they gain a Build Meter indicating how many pieces can be placed. The limit is 40 in public servers and 200 in [[Private Server|private servers]]. The user starts with an empty meter. Whenever the user builds a piece, the meter increases, and whenever they delete a piece, the meter decreases.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 3
+|energy   = 10
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]].
+|gif      = Creation_M1
+|desc     = The user creates a pink wall of cards that moves upward or downward based on their facing direction. It deals decent damage to nearby enemies that come into contact with it. When the move is released or the wall is damaged by an enemy, it shatters, causing the cards to fall. The move can be held to repeatedly damage enemies and lasts for around 20 seconds.
+}}
+
+{{Skill
+|key      = Z
+|name     = Batter Up
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 25
+|break    = Yes
+|instinct = Can [[Instinct/Break|break Instinct]] no matter what.
+|gif      = Creation_Z
+|desc     = The user creates a cannon and launches themselves from it when the move is released. Upon colliding with an enemy, the user creates a wall behind them before smashing the target into it with a mace. This move distorts the enemy's screen with a dizzying effect for around 2 seconds.
+}}
+
+{{Skill
+|key      = X
+|name     = Sleight of Hand
+|mastery  = 45
+|cooldown = 10.5
+|energy   = 25
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Creation_X (Throw)
+|desc     = This move has three variations:
+If tapped, the user creates a huge hand and swings it, crushing any enemies caught on the ground. If facing upward, the hand punches enemies into the sky and sends them flying.
+|gif1     = Creation_X
+|desc1    = If held: The giant hand rushes forward, and the user can control its movement with their mouse cursor. Targets cannot escape once caught. [[Enemies]] can be held for up to 10 seconds, while Players and Bosses can be held for only 2 seconds.
+|gif2     = Sleight Of Hand Aerial
+|desc2    = After catching a target with the giant hand, the user throws them into the air, launching them away.
+}}
+
+{{Skill
+|key      = C
+|name     = Sword Box
+|mastery  = 90
+|cooldown = 15
+|energy   = 35
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Creation_C
+|desc     = The user creates a cube with an extremely large [[Area of Effect|AoE]], after which several swords manifest around the structure, continuously piercing and stunning any targets within. The cube dissipates after a few seconds. This move can hit multiple enemies. 
+}}
+
+{{Skill
+|key      = V
+|name     = Magic City
+|mastery  = 130
+|cooldown = 24
+|energy   = 70
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] on slam, but the building push can be dodged.
+|gif      = Magic CIty fixed
+|desc     = The user summons 15 giant pillars that fall onto the ground. Enemies are damaged and bounced away upon touching them, while the user phases through the pillars and teleports to another pillar upon contact. The pillars last for around 10 seconds before dissipating.
+}}
+
+{{Skill
+|key      = F
+|name     = Fortify
+|mastery  = 10
+|cooldown = 1
+|energy   = 5
+|break    = No
+|gif      = Creation_F
+|desc     = The user summons a slope when facing upward or downward, or creates a floor when facing forward. The floor or slope disappears after 3 seconds if the user walks away. If held while moving, the user creates a continuous path in the direction they are moving.
+|gif1     = Creation_F (Build)
+|desc1    = While standing still, the user enters Build Mode by spinning as a top hat appears and flies onto their head, before finishing the spin with a magician-like pose.
+}}
+
+|Build Mode|
+{{Skill
+|key      = Z
+|name     = Wall
+|mastery  = 0
+|gif      = CreationWall
+|desc     = The user creates a wall with six variants: a normal wall, a doorway, a small window, a flat slab, and flat stairs facing left or right. Using this move again while it is already activated switches the type of wall to be placed.
+}}
+
+{{Skill
+|key      = X
+|name     = Floor
+|mastery  = 0
+|gif      = CreationFloor
+|desc     = The user creates a floor with five variants: a basic floor and four half-floor variants, one facing each direction. Using this move again while it is already activated switches the type of floor to be placed.
+}}
+
+{{Skill
+|key      = C
+|name     = Ramp
+|mastery  = 0
+|gif      = CreationRamp
+|desc     = The user creates a ramp with four variants: a basic ramp, two half-ramp variants facing left and right, and a pyramid. Using this move again while it is already activated switches the type of ramp to be placed.
+}}
+
+{{Skill
+|key      = V
+|name     = Erase
+|mastery  = 0
+|gif      = CreationErase
+|desc     = The user raises their hands, highlighting the nearest Wall, Floor, or Ramp in red. Clicking removes the highlighted part, while holding removes all placed parts.
+}}
+
+{{Skill
+|key      = F
+|name     = Exit
+|mastery  = 0
+|gif      = Creation_F (Exit)
+|desc     = The user throws their hat into the air, causing it to disappear into thin air before exiting Build Mode.
+}}
+
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good mobility.
+* Large [[Area of Effect|AoE]].
+* Relatively high damage.
+
+|{{Ability|TAP}}
+* Can block projectiles from [[guns]] or other attacks.
+
+|{{Ability|Z}}
+* Decent damage.
+* Good mobility.
+* Long stun.
+* Great combo potential.
+* Screen shake can be confusing for enemies.
+
+|{{Ability|X}}
+* Easy to toss enemies into the ocean, or away from the user.
+* Long stun. 
+
+|{{Ability|C}}
+* Huge AoE.
+* Good stun.
+* Disables the target's movement.
+
+|{{Ability|V}}
+* [[Instinct/Break|Breaks Instinct]].
+* Can confuse enemies, giving time to run away.
+* Huge [[Area of Effect|AoE]].
+
+|{{Ability|F}}
+* Great for replenishing [[energy]] and mobility.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Build mode is rather difficult to use on mobile and controller, and takes a long time to initiate.
+* Most of its attacks can be dodged with [[Instinct]].
+
+|{{Ability|TAP}}
+* Cannot block moves that penetrate objects.
+* Cannot move while holding.
+
+|{{Ability|Z}}
+* Single target.
+* Small hitbox.
+
+|{{Ability|X}}
+* Long windup.
+* Very difficult to hit a constantly moving target.
+
+|{{Ability|C}}
+* Obscures vision in small areas.
+
+|{{Ability|V}}
+* Can be dodged.
+* Long windup.
+* Repels attacks from allies and enemies alike.
+
+|{{Ability|F}}
+* Cannot build near NPCs, player spawns, or boats.
+* Pieces can be easily broken by destructive moves.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:CreationConceptArt.png|Concept art of the Creation fruit model posted on Twitter by @disardo1.
+File:CreationAssets.png|Creation assets posted on Twitter by @Skai_dev.
+File:CreationBanner.png|Shop artwork for the Creation Fruit posted on Twitter by @EGOTISMS_RBLX.
+File:CreationPreRework.webp|A hidden Creation fruit teased before the trailer's release.
+</gallery>
+
+==Trivia==
+* Creation was reworked in [[Updates/26|Update 26]], renaming the fruit from Barrier to Creation and adding a TAP ability, alongside changing the prices.
+* Creation's {{Ability|Z}} move shakes the opponent's screen, even with Screen Shake off.
+* If the user leaves the server, all their creations will vanish.
+* Creation's held M1 cannot be used on mobile normally. Instead, there is an alternative button located above {{Ability|Z}} that functions just the same as tapping, although resembles an activation of a move instead.
+* During the Halloween Event 2026, burglar Bery and burglar Bert ride a creation-styled car.
+
+==Change History==
+{{Change History|8|content=
+<tabber>
+|-|26=
+{{Update|26}}
+* [[Barrier]] was reworked and renamed to Creation.
+** '''[M1]''' ability was added.
+** '''[Z] Barrier Wall''' was replaced by {{Ability|Z}}.
+** '''[X] Surprise Attack''' was replaced by {{Ability|X}}.
+** '''[C] Barrier Prison''' was replaced by {{Ability|C}}
+** '''[V] Barrier Towers''' was enhanced to become {{Ability|V}}.
+** '''[F] Stairs''' was enhanced to become {{Ability|F}}.
+* Creation's rarity was changed from {{Rare}} to {{Legendary}}.
+* Creation's price was increased:
+** {{Money|800,000}} -> {{Money|1,400,000}}
+** {{Robux|1,250}} -> {{Robux|1,750}}
+: <gallery>
+BarrierIcon.png|Previous inventory icon.
+BarrierFruit.png|Previous inventory icon.
+Barrier model.gif|Previous physical model.
+BarrierZ.gif|Old '''[Z] Barrier Wall'''
+BarrierX.gif|Old '''[X] Surprise Attack'''
+Barrier C.gif|Old '''[C] Barrier Prison'''
+Barrier V.gif|Old '''[V] Barrier Towers'''
+Barrier F.gif|Old '''[F] Stairs'''
+</gallery>
+
+|-|25=
+{{Update|25}}
+* Barrier was made unavailable to purchase from the [[Blox Fruit Dealer]]'s stock and Shop. (Price in trading remains the same)
+
+|-|20=
+{{Update|20}}
+* Barrier Fruit's model was remade.
+: <gallery>
+Barrier 150x150.png|Old Barrier Fruit's icon.
+</gallery>
+
+|-|8=
+{{Update|8}}
+* Barrier was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Творение]]

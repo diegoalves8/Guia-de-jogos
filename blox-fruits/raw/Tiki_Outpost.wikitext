@@ -1,0 +1,111 @@
+{{MapTab}}
+{{Tabber V2
+|tab1 = Tiki Outpost
+|tab2 = Liberation of Tiki Outpost
+}}
+{{Location Infobox
+|name       = Tiki Outpost
+|image      = <gallery>
+TikiOutpostdragonupdate.png|Island
+Tiki Outpost Map.png|Map
+</gallery>
+|type       = Island
+|sea        = Third Sea
+|level      = 2450-2600
+|music      = Maximum Strength
+|prev       = Sea of Treats
+|next       = Submerged Island
+}}
+The '''Tiki Outpost''' is an [[Locations|island]] in the [[Third Sea]]. 
+
+The Tiki Outpost is a highly important island as it is used for many things, such as unlocking [[Sanguine Art]], summoning the [[Leviathan]] and unlocking [[Submerged Island]]. 
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Raid Bosses
+|-
+|
+* [[Beast Hunter (NPC)|Beast Hunter]]
+* [[Boat Dealer]] (3)
+* [[Dragon Talon Sage]]
+* [[Luxury Boat Dealer]] (3)
+* [[Set Home Point]]
+* [[Shark Hunter]]
+* [[Shafi]]
+* [[Shipwright Teacher]]
+* [[Spy]]
+* [[Submarine Worker]]
+|
+* [[Isle Outlaw]] (5)
+* [[Island Boy]] (5)
+* [[Isle Champion]] (5)
+* [[Sun-kissed Warrior]] (5)
+* [[Serpent Hunter]] (5)
+* [[Skull Slayer]] (6)
+|
+* [[Tyrant of the Skies]]
+|}
+
+==Notable Features==
+===Spy===
+{{Main|Spy}}
+Interacting with the Spy is the only way to summon the [[Leviathan]]. The player can bribe him after the completion of 15-20 [[Sea Events]]. After this, they may pay {{Fragment|1,500}} to receive a clue about the Leviathan's status.
+
+===Leviathan===
+{{Main|Leviathan}}
+To spawn the Leviathan, the [[Spy]] must say "''The Leviathan is out there! Go find it before it causes more destruction.''" to be able to spawn the [[Frozen Dimension]] where the Leviathan remains by going with a group exploration of 5 players or more into the [[Sea Danger Level|Sea Danger Level 6]].
+
+===Sanguine Art===
+{{Main|Sanguine Art}}
+Further tying into the island's connection to the Leviathan, the Sanguine Art [[Fighting Styles|Fighting Style]] can be learned from [[Shafi]].
+
+===Tyrant of the Skies===
+{{Main|Tyrant of the Skies}}
+The Tyrant of the Skies is a Lv. 2600 [[Raid Boss]] that can be spawned by killing 300 [[enemies]] in the [[Tiki Outpost]] (75 for each eye) in order to light up the eyes of the falcon statues, then break the vases around the area.
+
+=== Dragon Talon Sage ===
+{{Main|Dragon Talon Sage}}
+The [[Dragon Talon Sage]] is located at the top of the tower on the left side upon entering [[Tiki Outpost]]. He allows the player to craft [[scrolls]] and [[Enchantments|enchant]] [[guns]], [[swords]] and [[Fishing Rods|fishing rods]] using the scrolls they have.
+
+==Gallery==
+<gallery>
+Liberation of Tiki Outpost Area.png|Location of the [[Tyrant of the Skies]]
+Picture of Snake symbol.png|The snake symbol, which may be an upcoming [[Races|Race]].
+Tiki view 1.png
+Tiki view 2.png
+Tiki view 3.png
+Tiki view 4.png
+</gallery>
+
+==Notes==
+* This island is famously known as a hub for players to host [[Sea Events|sea event]] hunts, most notably the [[Leviathan]]. This is possibly due to the island itself housing several [[NPCs]] that have sea event-related requirements, and its quest givers being a stationary compass for players to track how far they are out at sea. (Given that the player is within the level threshold of the island).
+* It is not recommended that those with devices having lower performance output, as the Tiki Outpost has a high amount of visual effects that can cause lag to occur in such devices.
+* The Tiki Outpost's back port directly leads to further [[Sea Danger Level|Danger Levels]], similar to [[Floating Turtle]] and [[Great Tree]].	
+** [[Sea Events|Sea Event hunting]] is recommended to be practised from said location because it is faster.
+* The Tiki Outpost will be renamed to '''<Liberation of Tiki Outpost>''' if the player is in the spawn area of the [[Tyrant of the Skies]]. But if they go to a specific area outside that spawn, the [[Locations|island]] will be renamed back to '''<Tiki Outpost>'''.
+
+==Trivia==
+* The Tiki Outpost is the first and only island to introduce rain and cloud physics, although rain can be seen outside islands in the [[Rumbling Waters]] and [[Rough Sea]].
+* The rain sound effects on the island are technically part of the background music, as muting the background music also turns off the rain sounds.
+* The landmass that the castle is built on is an island inside a lake inside an island, making the Tiki Outpost currently the only true recursive island in the game.
+* The [[Heaven Dimension]] and [[Hell Dimension]] can be found at the top of the Tiki Outpost. It can only appear when someone is doing the [[Cursed Dual Katana/Puzzle|Cursed Dual Katana quest]].
+* Near the [[Submarine Worker]]'s location, there is a room full of bookshelves. In this room there is a ladder and behind said ladder there is a snake symbol, possibly hinting at a new race. There are also cranes with the same symbol on them. There are also snake symbols on [[Hydra Island]].
+* Near the area when [[Serpent Hunter]] spawns, a [[campfire]] also spawns.
+* The [[Portals|Portal]] Is located at the side where the [[Sea Danger Level]] starts. 
+
+==Change History==
+{{Change History|20|content=
+{{Update|26}}
+* Added an area to the Tiki Outpost for the [[Tyrant of the Skies]].
+----
+{{Update|24}}
+* The Tiki Outpost's area was extended.
+----
+{{Update|20}}
+* The Tiki Outpost was released.
+}}
+
+==Navigation==
+{{IslandNavigation}}
+[[Category:Last island]]

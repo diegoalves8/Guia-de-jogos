@@ -1,0 +1,432 @@
+{{Tabber V2
+|tab1  = Kitsune
+|tab2  = Empyrean
+}}
+{{CombosTab}}{{Mutation Infobox
+|name   = Empyrean
+|image  = <gallery>
+Empyrean Fruit.png|Fruit Icon
+EmpyreanFruit.gif|Fruit GIF
+Empyrean.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Yes
+|update = 29.1
+}}
+
+'''Empyrean''' is a {{Mythical}} [[Mutations|mutation]] of [[Kitsune]].
+
+The Empyrean version grants the user a slightly modified moveset, notable differences being the M1’s, {{Ability|Z}}, and transformed {{Ability|C}} abilities. When the [[Power Meter]] hits 3 tails, the first three M1’s will gain more range, similar to [[Dragon]] M1’s, and the fourth loses some damage in exchange for a large [[Area of Effect|AoE]] grab that pulls in nearby opponents. It is slightly better than the normal one.
+
+While untransformed, {{Ability|Z}} shoots a beam at the cursor, which can be held to deal extreme damage. When transformed, the Empyrean version of {{Ability|Z}} has a modified animation compared to Kitsune's {{Ability|Kitsune|Z}}. Additionally, the held version of {{Ability|C}} is granted a special cutscene unique to the mutation.
+
+==Obtainment==
+As a [[Mutations|Mutation]], Empyrean has different obtainment methods compared to ordinary [[Blox Fruits]]. Players are able to obtain it in a few ways:
+* Rolling it in through the limited-time [[Winter 2025 Fruit Box]]. ({{Skin|Galaxy}} Skin)
+** [[Winter 2025 Fruit Box|The Winter 2025 Fruit Box]] can also be rolled as a '''Premium Box''' in the [[Winter Gacha]].
+*Purchasing it in the mutation section of the Kitsune fruit for {{Robux|2,000}} (Must own [[Permanent Blox Fruits|Permanent]] [[Kitsune]] first).
+*Purchasing the [[shop|Fox Spirit Bundle]] during the 2025 [[Christmas Event]].
+* [[Trading]] for it, with it being a special item.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Empyrean Tails
+|meter    = Tail Meter.gif
+|file     = Empyrean Kitsune 2 tailed animations.gif
+|file1    = Empyrean Kitsune 3 tails hit passive.gif
+|desc     = Swift Tails: the user can gain tails passively as well as by dealing damage. The user can transform when the tail meter reaches 3 (the meter will turn rainbow when the user has max tails). The meter will decrease if the user uses an ability and misses (this includes Kitsune's M1s, but these consume less of the tails meter than other abilities). Transformed Energy: after transforming, the user will slowly drain one third of the tail meter (doesn't passively drain), and it will slowly drain if the user takes any type of damage (including lava and water). The user will not passively gain any tail meter while transformed, and can only increase the meter by dealing damage with Kitsune (including Kitsune's tick damage).
+|desc1    = At 2 Tails, the user gets a speed boost (+100%, 2x) and a dash boost, and now runs on all fours; Air Jumping, dashing, and walking also gain a unique animation, shown here.
+|desc2    = At 3 Tails, the user gets three glowing orbs floating around them, and when using the [F] move or an M1 attack, the enemy will take tick damage from red flames. The DoT effect lasts for 3 seconds, dealing 1 tick of damage every second. The fourth [M1] gets a slightly different visual, and the first 3 M1s gain extended reach represented by three flaming slashes thrown forward, exclusive to Empyrean. This passive does not increase the user's damage in any way.
+}}
+
+{{Skill/Passive
+|name     = Heavenly Fox Fur
+|file     = EmpyreanKitsune.gif
+|desc     = While [[Transformations|transformed]], the user gains a 20% damage reduction from all sources, improved attacks, reduced cooldowns, faster speed, [[Air Jump|jump]] twice higher than average, and increased [[Dashing|dash]] distance.
+}}
+
+{{Skill/Passive
+|name     = Tread of the Highest Heaven
+|file     = Empyrean Kitsune Water Walking Trasformed.gif
+|desc     = When transformed, the user gains the ability to run on [[Water]], but they are not able to idle on it.
+}}
+
+{{Skill/Passive
+|name     = Empyrean Mount
+|file     = Empyrean Kitsune mount.png
+|desc     = When transformed, the user can be mounted by another allied player, via their saddle.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Empyrean2TailM1
+|gif1     = Empyrean2TailAerialM1
+|gif2     = EmpyreanNormalM1
+|desc     = The user slashes the air, creating red flame slashes that fly forward. On the fourth slash, the user swipes in a whirlwind style, grabbing any enemies in an extended range into one spot, this move does severely reduced damage to compensate. On the ground, the user swipes downwards on the last slash, leaving a faint crack for a few moments. Once at 3 tails, the slashes will inflict ticking damage and the opponent will be covered in red flames for between 4-5 seconds and the base damage will increase too. Every slash drains the Tails meter by a bit. This attack consumes 7.5% of the visible Tails meter if all 5 M1s are used.
+|desc1    = In the air, the user kicks the opponent to the ground instead of the downward slam (both variations deal the same amount of damage). Jumping right before the final slam, or using the M1s in the air, will make the user perform a slash instead of a slam.
+|desc2    = The normal, unenhanced version of the M1 combo below 3 tails.
+}}
+
+{{Skill
+|key      = Z
+|name     = Sweeping Firestorm
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = Tap can be dodged, but held always breaks [[Instinct]].
+|gif      = EmpyreanNormalZTap
+|gif1     = EmpyreanNormalZHeld
+|desc     = If not held, the user fires a short red fire beam that deals low damage to the target. Does not [[Instinct/Break|break Instinct]].
+|desc1    = If held, the user creates a rotating ring of red letters similar to [[Fox Lamp]]'s {{Ability|Fox Lamp|Z}} move, before firing a red fire beam that deals extremely high damage. Note that the beam and explosion have separate and equal damage, both of which can deal damage at the same time. This ability can be aimed, however, it moves slowly.
+}}
+
+{{Skill
+|key      = X
+|name     = Tails of Burning Agony
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = no
+|instinct = Doesn't [[Instinct/Break|break Instinct]], but drains a lot of it if Instinct-tricked.
+|gif      = EmpyreanNormalX
+|desc     = This move does damage in a zig-zag shape, first hitting one corner, then hitting another, and finally hitting the target. This move stuns the enemy for ~0.65s. This move consumes 12.5% of the visible Tails meter. This move has two variations, one hits the opponent in the air and sends them to the floor, and the other hits them on the floor to send them to the air.
+}}
+
+{{Skill
+|key      = C
+|name     = Burstfire Cannon
+|mastery  = 100
+|cooldown = 15
+|energy   = 80
+|break    = yes
+|instinct = The initial hit and flames (if inside them) [[Instinct/Break|break Instinct]]. But the explosion can be dodged.
+|gif      = EmpyreanNormalC
+|desc     = The user summons a ball of light red flames and strikes it at the enemy when the key is released. The ball of flames will erupt into a huge explosion, and flames will be present if landed near the ground. The move deals slightly more damage if it is a direct hit. This move consumes 15% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 2
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged on the edge while transforming. The small explosion can [[Instinct/Break|break Instinct]].
+|gif      = EmpyreanTransform
+|desc     = The user transforms into a full Empyrean. The user gains the ability to avoid all basic damage (for one second) while transforming. In total, this move consumes 30% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = F
+|name     = Wild Assault
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if grabbed. Initial hit can be dodged.
+|gif      = EmpyreanNormalF
+|desc     = The user dashes forward and, if they hit a target, slashes the target with its claws multiple times, similar to a mix of the [[True Triple Katana]]'s {{Ability|True Triple Katana|Z}} and [[Rengoku]]'s {{Ability|Rengoku|Z}} move and [[Kitsune]]'s M1s. This move consumes 10% of the visible Tails meter.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = KitEmpyreanM1Transform
+|gif1     = EmpyreanKitsuneM1Air
+|desc     = Same as untransformed with 3 tails, but with slightly larger AoE, hitbox and damage. This attack consumes 7.5% of the visible Tails meter if all 5 M1s are used.
+|desc1    = The air variant of the attack.
+}}
+
+{{Skill
+|key      = Z
+|name     = Sweeping Firestorm
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = Hit version: the small damage when thrown can be dodged, but the explosion [[Instinct/Break|breaks Instinct]]. Missed version: the edge (if missed) can sometimes be dodged.
+|gif      = EmpyreanTransformedZ
+|gif1     = Empyrean Kitsune Sweeping Firestorm miss transformed
+|desc     = The user summons three red fireballs and dashes forward. This move consumes 15% of the visible Tails meter.
+|desc1    = If hit, the user will spin behind the target before shooting a ball of red flames, causing an explosion of red flames as well as tick damage. If not hit, the user will spin and launch a flurry of red fireballs around them, causing a large AoE explosion, as shown here.
+}}
+
+{{Skill
+|key      = X
+|name     = Tails of Burning Agony
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = Only the slam can [[Instinct/Break|break Instinct]]. The initial grab and the flames (if missed) can be dodged.
+|gif      = EmpyreanTransfomedX
+|desc     = The user dashes forward in a zig-zag shape. If it hits, the user will grab the enemy, carry them into the air, and then slam them to the ground hard, and red flames will then rise from the ground along with several large tails. This move instantly slams an opponent if used in air. The face of a Kitsune will be printed on the ground when hit. This move consumes 20% of the visible Tails meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Burstfire Cannon
+|mastery  = 100
+|cooldown = 11.25
+|energy   = 80
+|break    = no
+|instinct = [[Instinct/Break|Breaks Instinct]] if landed. The cutscene stuns both the user and opponent.
+|gif      = EmpyreanKitCTap
+|gif1     = Empyrean Kitsune Burstfire Cannon Transformed
+|desc     = If tapped, the user launches a red fireball and causes widespread damage. After impact, there will be red flames that cause extremely large damage over time. This version consumes 25% of the visible Tails meter, and is identical to regular [[Kitsune]]'s transformed {{Ability|Kitsune|C}}.
+|desc1    = If held, the user swiftly dashes forwards, and if they come into contact with an enemy, it will initiate a cutscene in which the user fires a large energy ball at the enemy from point blank range. This version consumes a staggering 75% of the visible Tails meter, 50% more than the normal [[Kitsune]].
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3
+|energy   = 20
+|instinct = Doesn't deal damage.
+|gif      = KitEmpyreanUntransforming
+|desc     = The user transforms back into their human form instantly and in turn restores their ability to use [[Fighting Styles]], [[Swords]], and [[Guns]].
+}}
+
+{{Skill
+|key      = F
+|name     = Wild Assault
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = Only the slashes [[Instinct/Break|break Instinct]]. The initial grab and the flames (if missed) can be dodged.
+|gif      = EmpyreanTransformedF
+|desc     = The user dashes towards the enemy and swipes with their tail, similar to the [[True Triple Katana]]'s {{Ability|True Triple Katana|Z}} move, [[Rengoku]]'s {{Ability|Rengoku|Z}} move and [[Kitsune]]'s M1s. This move consumes 15% of the visible Tails meter.
+}}
+}}
+
+== Overview ==
+<tabber>
+Pros=
+{{#tag:tabber|Untransformed=
+{{Overview|Pros|type=Untransformed
+|'''General'''
+* Has one of the highest value in [[trading]].
+* Great movement speed if above 2 Tails.
+* Passive can [[Instinct/Break|break Instinct]].
+* High damage.
+* Long stuns.
+* Works well in both ground and air combat.
+* Virtually all moves are AoE/multi-target, which, combined with the M1 attacks, gives Empyrean some of the best grinding capabilities in the game.
+
+|'''[TAP] Normal Attack'''
+* Outstanding range for an M1, especially if the user has reached 3 Tails.
+* Decent grab. Even though it has less comparable damage than the default [[Kitsune]], its 4th attack can be useful for crowd control.
+* Fast cooldown between attacks.
+* Slight knockback.
+* Slight stun makes this useful as a close-range combo chainer.
+* Deals tick damage that can [[Instinct/Break|break Instinct]] when 3 tails are acquired.
+
+|'''[Z] Sweeping Firestorm'''
+* [[Instinct/Break|Breaks Instinct]] when held.
+* Wide hitbox.
+* Held version has good damage.
+* Long range.
+
+|'''[X] Tails of Burning Agony'''
+* Decent hitbox.
+* Good combo potential.
+* Incredibly good stun.
+
+|'''[C] Burstfire Cannon'''
+* High damage.
+* Large hitbox.
+* Slight stun.
+* Quick release, allowing it to be a solid combo starter.
+* Gives burn damage if on the ground.
+* Combos literally perfectly with [[Spikey Trident]] [X].
+
+|'''[V] Transformation'''
+* Decent damage and knockback.
+* The user gains the ability to avoid all basic damage when in the transforming state. (Ex: [[Godhuman]] [X] Tap)
+** This move can also be used as a combo breaker, as during the transformation animation, it lets the player negate all damage.
+
+|'''[F] Wild Assault'''
+* Low cooldown for a decent range dash that deals damage.
+* Decent hitbox and mobility.
+* Can be used to extend M1 attacks by using it before the final strike.
+* The Blue Flames passive is automatically active upon grabbing an enemy once the user has gained 3 tails.
+** Each tick of burn can [[Instinct/Break|break Instinct]].
+* Has good mobility and combo potential, as it can grab enemies after performing a move like [[Godhuman]]’s {{Ability|Godhuman|C}}.
+}}
+
+{{!}}-{{!}}Transformed=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Very good mobility.
+* Even higher damage.
+* Can walk on [[water]].
+* Multiple buffs. (Speed, damage, armor)
+* Can carry other players for easier transport.
+
+|'''[TAP] Normal Attack'''
+* Great damage.
+* Fast cooldown between attacks.
+* Slight knockback.
+* Deals burn damage per second.
+* Slight stun makes this useful as a close-range combo chainer.
+
+|'''[Z] Sweeping Firestorm'''
+* Good damage.
+* Good [[Area of Effect|AoE]].
+* Decent mobility.
+* Empyrean's version (if hit) brings enemies closer and makes combo extension easier.
+
+|'''[X] Tails of Burning Agony'''
+* Decent stun.
+* Large [[Area of Effect|AoE]] if it hits.
+* The user can use this to drag players underwater if they're not the [[Shark]] race and deal huge amounts of damage. 
+* Decent mobility.
+
+|'''[C] Burstfire Cannon'''
+* Amazing damage.
+* Massive [[Area of Effect|AoE]].
+* Extremely long range.
+* Held version's cutscene gives immunity to the user.
+* Little to no windup.
+
+|'''[F] Wild Assault'''
+* Decent hitbox.
+* Decent mobility.
+}}
+}}
+
+|-|Cons=
+{{#tag:tabber|Untransformed=
+{{Overview|Cons|type=Untransformed
+|'''General'''
+* Even though Empyrean's {{Ability|Z}} move gives the fruit more overall range, it makes the user vulnerable to counters, so the user could get countered by fruits like [[Tiger]], [[Dragon]], [[Lightning]] and even its normal version; [[Kitsune]].
+* One of the rarest and hardest skins/mutation to obtain, but gives permanent reusability once eaten.
+* All moves take up some energy from the Tails meter.
+* Only one movement ability (four in [[Transformation]], compensated by speed boost after gaining two tails).
+* High mastery requirements. And is separated from the normal [[Kitsune]]'s mastery.
+
+|'''[TAP] Normal Attack'''
+* Enemy can use skills while stunned.
+* Empyrean m1 attacks above 3 Tails no longer actively grabs like its default version, possibly making this move less effective.
+* The Fourth m1 attack doesn't/deals significant lesser damage to Standard Kitsune's Fourth m1, making the damage output significantly weaker.
+
+|'''[Z] Sweeping Firestorm'''
+* Tap version has one of the lowest damages of all moves, (accommodated by the held version being one of the most damaging).
+* Has noticeable windup.
+* Held version is slow to aim and causes strong knockbacks, making it difficult to utilize all of the move's damage.
+* Cannot break instinct unless held.
+
+|'''[X] Tails of Burning Agony'''
+* Can bounce off of surroundings resulting in sometimes unpredictable final positions of the opponent or even complete misses.
+* Works best at close range, despite being able to reach medium range.
+* Can easily be dodged with [[Instinct]].
+* User cannot attack for the duration of it's stun.
+
+|'''[C] Burstfire Cannon'''
+* Can be dodged if the enemy uses [[Flash Step]] or they can simply just dash away.
+* Most of the damage can be dodged with [[Instinct]].
+* Small grab hitbox.
+* Endlag prevents instant chaining.
+
+|'''[V] Transformation'''
+* Requires the full bar (3 Tails) in order to transform.
+* Slows the user for a small amount of time.
+
+|'''[F] Wild Assault'''
+* Hitbox is much smaller than the slash animation.
+* Hard to land since it requires precise aim.
+}}
+
+{{!}}-{{!}}Transformed=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Needs three tails to transform.
+* [[Fighting Styles|Fighting styles]], [[swords]], [[guns]] cannot be used.
+* The user needs to move instead of staying idle on [[water]] in order to not take damage by partially sinking.
+* The user might find it too hard to move inside small areas such as Mansion due to the absurd speed boost.
+* Hard to use against runners / sky campers as only the [C] move has sufficient [[Area of Effect|AoE]] for such enemies. Untransformed version is recommended for PvP.
+* Hard to use in the air.
+
+|'''[TAP] Normal Attack'''
+* Enemy can use skills while stunned.
+
+|'''[Z] Sweeping Firestorm'''
+* Slight endlag.
+* Can be weird to aim in the air.
+* Stuns the user, leaving them vulnerable to outside attacks.
+
+|'''[X] Tails of Burning Agony'''
+* Can be quite hard to aim/hit target in PvP.
+* The dash and fire can be dodged with [[Instinct]].
+* This move can force the player underwater if they are not on an island, which can lead to their health being depleted rapidly.
+* Cannot be aimed up or down, meaning the user has to be at the same height in the air as their target for this move to work.
+* When used against a wall with an enemy, the player may glitch through thin walls into undesirable spaces.
+
+|'''[C] Burstfire Cannon'''
+* Held version has windup, requires precise aim to land, and consumes a huge amount of Tails bar.
+* Held version does not recover Tails meter.
+* The cutscene can cause lag to the user.
+
+|'''[F] Wild Assault'''
+* Can unintentionally run into attacks such as [[Skull Guitar]] [X].
+}}
+}}
+</tabber>
+
+==Trivia==
+* The word “Empyrean” is derived from Greek origins (''en'' – ''pyr'') and translates to “in fire.”
+* With 3 tails, the M1’s of the fruit at max tails lets off slash like projectile into a spin with grabbing hands.
+* It is easier to damage laggy players with {{Ability|Z}} as their hitbox has delay and doesn't easily move.
+* [[Kitsune]]'s first three M1 attacks actively grab and [[stun]] enemies, so even while the user is moving, the target/s will move along, though this is not the case for Empyrean as once it reaches 3 tails or transformed. Instead, the Empyrean's first three M1 attacks function like [[Dragon]]'s M1, pushing enemies forward.
+* The transformed {{Ability|C}} (held version) cannot regenerate the Tails meter, despite being the most damaging transformed move.
+* On the 6th day of the 2025 [[Christmas Event]], Empyrean was silently updated and its transformed {{Ability|C}} move now has the option for the normal ranged move by tapping it (identical to the normal [[Kitsune]] but with red flames), although transformed {{Ability|Z}} was nerfed and now it temporarily disables the user from using any move while using {{Ability|Z}}.
+* When the player reaches 3 tails, the Empyrean version's M1's do significantly less damage, and do not actively grab like the ones seen on 1 and 2 tails and the regular [[Kitsune]]. Though it is compensated by the fact that their range is significantly increased. 
+* Empyrean is the first [[Mutations|Mutation]] to have a [[Skins#Empyrean (Kitsune)|Skin]], with the second one being [[Fiend]]
+* Despite being a '[[Mutations|Mutation]]', in gameplay Empyrean essentially outperforms [[Kitsune]] in nearly all aspects.
+** Other mutations have alternate changes (for example; Werewolf being tankier and slower). Empyrean has no known changes apart from being stronger than it's counterpart, which has players criticizing Empyrean.
+* Empyrean Kitsune has 9 tails while the regular one only has 5.
+* Empyrean could not be found under trees like Werewolf and Fiend.
+* Empyrean was often criticized for being completely locked behind a paywall unlike Werewolf, Fiend and Hellfire.
+
+==Bugs==
+* Empyrean (transformed) has a larger hitbox than normal [[Kitsune]] in some servers.
+* While using Empyrean (transformed) during [[Ship Raid|Ship Raids]] or [[Haunted Ship Raid|Haunted Ship Raids]], when you try to approach the large ships, they teleport backwards at the same speed as you approach them.
+
+==Change History==
+{{Change History|29.1|content={{Update|29.6}}
+* Empyrean was severely nerfed.
+** {{Arrow|Nerf}} '''[Z] Sweeping Firestorm (Tap)''' No longer breaks instinct.
+** {{Arrow|Nerf}} '''[Z] Sweeping Firestorm (Hold)''' damage was decreased by 30%.
+** {{Arrow|Nerf}} '''[X] Tails of Burning Agony''' Now channels on hit; the user cannot cast another ability before the animation completes.
+** {{Arrow|Nerf}} '''[C] Burstfire Cannon''' End-lag increased by 0.3 seconds.
+{{Update|29.1}}
+* Empyrean was released.
+* Added Galaxy skin.
+* Empyrean was rebalanced.
+** {{Arrow|nerf}} Transformed [Z] Sweeping Firestorm now has endlag.
+** {{Arrow|neutral}} Transformed [C] Burstfire Cannon now has a projectile variant (identical to to [[Kitsune]]) when tapped.}}
+
+==Navigation==
+{{Mutation Navbox}}
+{{Navigation|Fruit}}
+
+[[ru:Эмпирей]]
+[[Category:M1 Fruits]]
+[[Category:Transformation-based Fruits]]

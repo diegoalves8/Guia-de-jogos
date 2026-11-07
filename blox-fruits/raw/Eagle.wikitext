@@ -1,0 +1,316 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Eagle
+|image  = <gallery>
+Eagle Fruit.png|Fruit Icon
+EagleFruitAnimated.gif|Fruit GIF
+Eagle.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Uncommon
+|M1     = Yes
+|update = 26
+
+<!-- Fruit Price -->
+|money  = 550,000
+|robux  = 975
+}}
+{{Quote|Gives the user wings, and bird-like attacks.|Shop}}
+Eagle is an {{Uncommon}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|550,000}} or {{Robux|975}} from the [[Blox Fruit Dealer]].
+
+The fruit grants the user a pair of anatomically accurate wings of a {{w|Bald Eagle}}, allowing the user to dominate the skies with unmatched speed and style. Eagle can soar, dive, and strike in rapid succession while bombarding enemies with explosive feathers.
+
+__TOC__{{Clr}}
+
+==Upgrading==
+Eagle can be upgraded via the [[Admin Panel]]:
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="article-table"
+!Ability
+!Mastery
+!Research
+!Changes
+!Cost
+|-
+|'''Aerodynamic Feathers'''
+|200
+|Fly up 2000 studs. The player must remain at this height until they receive the message "Research Complete". The user can keep holding M1 after getting progress until they complete the research. (Note: The player does not have to keep flying upwards to complete the first stage. They simply must stay airborne at an altitude of 2,000 studs for around 3 minutes.)
+|Increases the flight speed of Eagle's '''[F] Flight''' move, by approximately 18.5% (''estimated value'').
+|{{Fragment|300}} <br> {{Angel Wings|5}}
+|-
+|'''Flight Capacitor'''
+|300
+|Damage enemies using Eagle's moves while flying.
+|Feather Meter duration is doubled, from 100 seconds to 200 seconds. '''[M1] Normal Attack''' and '''[F] Flight (held)''' meter consumption is reduced by 50%.
+|{{Fragment|800}} <br> {{Fool's Gold|2}} <br> {{Angel Wings|6}}
+|-
+|'''Avian Propulsion'''
+|400
+|Defeat 10 enemies using Eagle's held '''[M1] Normal Attack''' . Players can let enemies get to low health using other moves and then use the M1, or they can use the charged M1s on really weak enemies like [[Bandit]]s.
+|Allows the player to dash in the air by holding the  '''[F] Flight ''' while flight is active.
+|{{Fragment|1,500}} <br> {{Electric Wing|5}} <br> {{Fire Feather|3}} <br> {{Angel Wings|5}}
+|}</table-progress-tracking>
+
+To fully upgrade Eagle, the player needs 400 Mastery, {{Fragment|2,600}}, {{Fire Feather|3}}, {{Electric Wing|5}}, {{Fool's Gold|2}}, and {{Angel Wings|16}}.
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive
+|name     = Feather Meter
+|meter    = Feather Meter.png
+|desc     = The user begins with 50% of the Feather Meter. Unlike most transformations, the [F] move can be activated without a full meter. The meter regenerates quickly and passively when not using [F] (it takes 20 seconds to fully regenerate). While in flight mode, feathers fall from the user's wings, slowly draining the meter. It also depletes when using [M1] attacks, the [F] dash, or when losing HP. The meter's duration can be extended by approximately a 100% via the [[Admin Panel]], being this the second upgrade on eagle.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 0.5
+|energy   = 10
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Explosive Quils
+|desc     = The user shoots out glowing, heat-seeking feathers from their wings at the target, which later explode when landed, dealing damage and some knockback. This move can be charged for up to 1 second, increasing in range and damage as the move is held. When fully charged, range is doubled and damage is significantly increased. This move drains 5% of the Feather Meter (2.5% with ''Flight Capacitor'' upgrade), regardless of whether in flight mode or not.
+* The [M1] attacks can only hit opponents at a certain distance away from the user, being too close will cause it not to work.
+}}
+
+{{Skill
+|key      = Z
+|name     = Wind Burst
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close. Can be dodged if far enough or on the edge.
+|gif      = EagleZ
+|desc     = The user blows a huge whirlwind of explosive feathers. dealing damage and knocking enemies backwards while leaving scorch marks on the ground. This move is similar to [[Dark Blade]]'s [Z] move, except smaller.
+}}
+
+{{Skill
+|key      = X
+|name     = Feather Storm
+|mastery  = 35
+|cooldown = 10.5
+|energy   = 25
+|break    = Yes
+|instinct = The barrage can be dodged on the edge. The final hit also can be dodged.
+|gif      = Feather Maelstorm
+|desc     = The user rapidly dashes around within a radius, slashing and stunning opponents within the radius with their razor‑sharp feathers. This move is similar to the [X] move of [[Dual Flintlock]] but does not need to be held, which also means it cannot be cancelled by the user. When used while looking upward, Feather Storm becomes vertical, increasing its height while reducing its width.
+}}
+
+{{Skill
+|key      = C
+|name     = Bone Crusher
+|mastery  = 80
+|cooldown = 13.5
+|energy   = 30
+|break    = No
+|instinct = Cannot [[Instinct/Break|break Instinct]], though [[Instinct]] only negates the damage, not the stun.
+|gif      = Eagle C
+|desc     = The user launches themselves swiftly at the target. If hit, the user will grab the target, drag them up high in the air, before slamming them down to the floor with devastating amounts of force. This attack is single target, and the drag up in the air can be varied by the environment.
+}}
+
+{{Skill
+|key      = V
+|name     = Soaring Talon
+|mastery  = 110
+|cooldown = 21
+|energy   = 60
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] on direct hit, but the barrage after it can be dodged. Indirect hit can be dodged. The feathers' explosion can be dodged on the edge. The [[Area of Effect|AoE]] impact also can be dodged on the edge.
+|gif      = Feather Tlon
+|desc     = The user propels themselves using explosive feathers, violently lunging at the target. As they pass through the opponent, they slash them with explosive feathers left behind from the attack. If they collide with a solid surface, it will create a small [[Area of Effect|AoE]] blast where the user collided, knocking back any nearby enemies.
+}}
+
+{{Skill
+|key      = F
+|name     = Flight
+|mastery  = 150
+|cooldown = 4.5
+|energy   = 80
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if too close to the user activating/deactivating the move, but it can rarely be dodged on the edge. The feathers' explosion also can be dodged on the edge.
+'''When held:''' Cannot [[Instinct/Break|break Instinct]] in any way, as it does not deal damage.
+|gif      = Eagle Launch
+|gif1     = Eagle Descent
+|gif2     = Aerial Dash
+|desc     = The user flies up into the air, spins, and begins to flap their wings, gaining the ability to hover and soar in the air, and then unleashes a few explosive feathers around themselves, dealing minor damage and knockback to nearby enemies. While in flight mode, the Feather Meter passively drains, and the user is able to use '''any''' ability at their disposal (including non-[[Blox Fruits|Blox Fruit]] attacks). When HP falls below 30%, flight speed decreases and continues to scale down with HP, reaching up to a 60% reduction at 0 HP.
+|desc1    = Tapping this move again while flying will revert the user back to normal, dropping explosive feathers in the process. 
+|desc2    = When the ''Avian Propulsion'' upgrade is equipped, holding this move for at least 0.25 seconds while in flight mode allows the user to dash forward a good distance, draining 10% of the Feather Meter in the process (5% with ''Flight Capacitor'' upgrade).
+}}
+}}
+
+==Overview==
+{{Tabber
+|Pros|
+{{Overview|Pros
+|'''General'''
+* Relatively powerful fruit for PvP.
+* Unmatched mobility, allowing the user to completely blitz most other fruits in nearly all sorts of environments.
+* Good for grinding and sea events. 
+* Versatile for various stat builds. 
+* Cheap to obtain. 
+
+|{{Ability|TAP}}
+* Decent range, even longer when charged.
+* Good for grinding.
+* Quite fast. 
+* Low knockback.
+* Can be aimed vertically.
+
+|{{Ability|Z}}
+* Good for grinding lots of enemies.
+* Can act as a reversal tool, as it pushes enemies back a good distance, similarly to [[Yeti]] [Z] move.
+* Great combo extender. 
+
+|{{Ability|X}}
+* Decent [[Area of Effect|AoE]] attack.
+* Good for when surrounded by enemies.
+* Long stun.
+
+|{{Ability|C}}
+* Decent range.
+* Relatively high damage compared to other {{Uncommon}} fruits.
+* Long stun and little to no knockback.
+* Great combo starter/extender.
+* Can grab the enemy through a wall if used correctly, as long as the enemy is within the move's path.
+
+|{{Ability|V}}
+* Has an [[Area of Effect|AoE]] blast after the initial impact.
+* Good mobility.
+** Can fling the user very far with enough lag.
+* Deals very good damage when all the slashes hit. 
+* Is great to use as combo finisher, often useful after [[Godhuman]] [C].
+
+|{{Ability|F}}
+* The player is able to use other moves while flying, and is not limited to only the fruit's moves.
+* Does not immediately cancel upon taking damage.
+* Extremely fast speed, faster than [[Light]]'s [F] move due to the recent buff.
+}}
+
+|Cons|
+{{Overview|Cons
+|'''General'''
+* Requires moderate aiming skills.
+* All moves distribute damage throughout multiple hitboxes, which means being at the edge of an attack allows the enemy to take less damage and possibly escape.
+* Flight lasts only as long as the Feather Meter.
+* All moves can be [[Instinct]]-tricked very easily, some of which can even leave an opening for the opponent to counter-attack.
+* Almost all the moves lock the user in place, leaving them vulnerable to combos if missed. 
+
+|{{Ability|TAP}}
+* Low damage.
+* Hitbox is quite a distance away from the user.
+* Impractical for damage in PvP.
+* Drains the meter decently fast, making it most of all at early mastery level pretty bad for grinding.
+
+|{{Ability|Z}}
+* Mediocre range.
+* Not very reliable for combo starting.
+* Can be dodged easily by side stepping. 
+* Most of the damage can be dodged if the target stands at the edge.
+
+|{{Ability|X}}
+* Short range and no I-frames (The enemy can damage the user while not being able to stop the attack.)
+* Target can escape if they are right at the edge of the attack.
+* Slight startup, making this move a bit predictable.
+
+|{{Ability|C}}
+* Easy to miss.
+* Single target, putting it at a disadvantage for grinding.
+* Can cause some clipping. 
+* Quite slow movement, not very helpful for mobility.
+* Un-true stun.
+
+|{{Ability|V}}
+* Poor combo extender.
+* Damage may be inconsistent at times.
+* Most of the damage is situated to a small radius of the attack, making it reliable for damage only if hit directly.
+
+|{{Ability|F}}
+* Drains the meter quite fast.
+* Will be cancelled either if the meter runs out, or if the user loses enough HP (around 25% HP with full meter), and it is very easy to run out when using [M1] or taking damage.
+* Once HP drops below 30%, flight speed decreases, scaling down further as HP decreases.
+}} 
+}}
+
+==Gallery==
+<gallery>
+EagleIdle.gif|Eagle's idle animation.
+EagleFlapFeathers.gif|Eagle's flying idle animation.
+Hidden EM2.webp|Hidden Eagle fruit before trailer release.
+ParrotConcept.png|Concept Chromatic {{Skin|Parrot}} for Eagle, made by @acheeg.
+EagleParrotBanner.png|Shop artwork for the {{Skin|Parrot}} skin, made by @EGOTISMS_RBLX.
+Requiem Physical Fruit.png|Requiem Physical Fruit
+Glaciereagle.png|Glacier Physical Fruit
+Matrix Physical.png|Matrix Physical Fruit
+</gallery>
+
+==Trivia==
+* Eagle was reworked into its current version in [[Updates/26|Update 26]]. Before its rework, Eagle was known as [[Falcon]].
+* A physical Eagle Fruit can be obtained from defeating the [[Tyrant of the Skies]].
+* The {{Skin|Parrot}} and {{Skin|Falcon}} skins depict another species of bird, rather than variations of eagles.
+* The sound effects of the {{Ability|F}} move are similar to awakened [[Phoenix]]'s {{Ability|Phoenix|V}} move, as both make the scream of a {{w|Red-tailed hawk}}.
+* Eagle's physical fruit model is noticeably small when compared to other fruit models.
+* A real life bald eagle typically cruise at around 13.5 meters per second, and soar at speeds up to 45 meters per second. The in-game counterpart, however, flies at around 10 meters per second, and approximately 40-44 meters per second when lunging forwards with {{Ability|V}} or upgraded {{Ability|F}}.
+* The game considers Eagle's {{Ability|F}} a transformation which needs to be disabled in order to change fruits or use the [[Portals|Portal]] in [[Tiki Outpost]]. 
+* After [[Updates/30|Update 30]], [[Eagle|Eagle's]] [F] Flight move is actually faster than awakened [[Light|Light's]] [F] move, making it one of the fastest flights in the game. 
+
+* The {{CHROMATIC}} skins also have some trivia:
+** {{Skin|Matrix}}'s color scheme seems to be inspired by the green and black of a computer hacker's coding screen. It bears a strong resemblance to the colours of the [https://roblox-elemental-battlegrounds.fandom.com/wiki/Technology Technology] element from [https://roblox-elemental-battlegrounds.fandom.com/wiki/Roblox_Elemental_Battlegrounds_Wiki Elemental Battlegrounds], another game developed by [[Gamer Robot Inc|Gamer Robot]].
+** {{Skin|Parrot}}'s color scheme is based off the {{w|Scarlet Macaw}}, one of the most iconic species of parrot.
+
+==Change History==
+{{Change History|15|content=<tabber>
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|buff}} Eagle was buffed.
+** {{Arrow|buff}} {{Ability|Z}} End-lag decreased by 20%.
+** {{Arrow|buff}} {{Ability|C}} Wind-up decreased by 45%; travel speed increased by 25%.
+** {{Arrow|buff}} {{Ability|V}} Hitbox size increased by 20%; stun duration increased by 30%.
+** {{Arrow|buff}} {{Ability|F}} Flight speed increased by 30%.
+** {{Arrow|nerf}} {{Ability|F}} meter drain increased while flying with a gun or sword equipped.
+
+|-|27.3=
+{{Update|27.3}}
+* {{Arrow|buff}} Eagle was buffed.
+** {{Arrow|buff}} {{Ability|TAP}} damage increased by 70%.
+** {{Arrow|buff}} {{Ability|Z}} damage increased by 20%.
+** {{Arrow|buff}} {{Ability|X}} endlag reduced.
+** {{Arrow|buff}} {{Ability|F}} flight speed increased by 25%.
+
+|-|26.8=
+{{Update|26.8}}
+* {{Arrow|neutral}} Eagle was adjusted.
+** {{Arrow|buff}} Flight speed increased by 25%.
+** {{Arrow|Nerf}} Flight speed gradually decreases after falling below 30% Health (60% slower at 1% Health).
+
+|-|26=
+{{Update|26}}
+* [[Falcon]] was reworked and renamed to Eagle.
+** {{Ability|TAP}} was added.
+** {{Ability|Falcon|Z}} was replaced by {{Ability|Z}}.
+** {{Ability|Falcon|X}} was moved to the [Z] move and replaced by {{Ability|X}}.
+* Eagle was made available to purchase.
+* Eagle's price was increased.
+** {{Money|300,000}} -> {{Money|550,000}}
+** {{Robux|650}} -> {{Robux|975}}
+* Eagle was given usable skins.
+: <gallery>
+FalconIcon.png|Previous icon.
+FalconFruit.png|Previous inventory icon.
+FalconGIF.gif|Previous physical model.
+Falcon skill z.gif|Old '''[Z] Plumage'''
+Falcon skill x.gif|Old '''[X] Wind Burst'''
+Falcon skill c.gif|Old '''[C] Bone Crusher'''
+Falcon skill v.gif|Old '''[V] Soaring Talon'''
+Falcon skill f.gif|Old '''[F] Flight'''
+</gallery>
+</tabber>}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Орёл]]

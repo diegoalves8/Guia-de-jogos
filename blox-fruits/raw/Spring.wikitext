@@ -1,0 +1,174 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Spring
+|image  = <gallery>
+Spring Fruit.png|Fruit Icon
+Spring fruit gif.gif|Fruit GIF
+Spring.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Common
+|M1     = No
+|update = 2
+
+<!-- Fruit Price -->
+|money  = 60,000
+|robux  = 180
+}}
+{{Quote|Offers spring like movement and bouncing attacks.|Shop}}
+'''Spring''' is a {{Common}} [[Natural]]-type [[Blox Fruits|Blox Fruit]] that costs {{Money|60,000}} or {{Robux|180}} from the [[Blox Fruit Dealer]].
+
+Spring allows the user to turn their body parts into springs, giving the user the ability to deal quick, long ranged attacks; and the ability to spring themselves quickly.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Knock
+|mastery  = 1
+|cooldown = 6
+|energy   = 15
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if too close. Can be dodged on the edge or if far enough.
+|gif      = Knock
+|desc     = The user turns their right forearm into a spring, launching a punch at their cursor, dealing damage to enemies & knocking them back. 
+}}
+
+{{Skill
+|key      = X
+|name     = Spring Snipe
+|mastery  = 20
+|cooldown = 9
+|energy   = 25
+|break    = Yes
+|instinct = Direct impact [[Instinct/Break|breaks Instinct]]. Can be dodged if hit indirectly or if far enough.
+|gif      = SpringSnipe
+|desc     = The user turns their knees into springs, leaping towards their cursor, dealing damage to enemies & knocking them back.
+}}
+
+{{Skill
+|key      = C
+|name     = Spring Cannon
+|mastery  = 50
+|cooldown = 13.5
+|energy   = 35
+|break    = Yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if too close. Can be dodged on the edge.
+|gif      = SpringCannon
+|desc     = The user turns their legs into springs, stretches a decent distance up, and then withdraws, causing a small-sized crater which deals damage to enemies & knocks them into the air.
+}}
+
+{{Skill
+|key      = V
+|name     = Spring Emperor
+|mastery  = 125
+|cooldown = 19.5
+|energy   = 65
+|break    = Yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] on direct impact when close. Can be dodged if hit indirectly or if far enough.
+|gif      = SpringEmperor
+|desc     = The user turns their legs into springs, bouncing around a square-shaped [[Area of Effect|AoE]] area, dealing damage.
+}}
+
+{{Skill
+|key      = F
+|name     = Spring Leap
+|mastery  = 75
+|cooldown = 6
+|energy   = 35
+|gif      = SpringLeap
+|desc     = The user turns their legs into springs and leaps forward. The user can bounce on walls, gaining speed and momentum while doing so.
+}}
+
+==Overview==
+{{Tabber
+|Pros|
+{{Overview
+|'''General'''
+* Easy to obtain and very cheap to buy.
+* Good mobility.
+* All moves are able to [[Instinct/Break|break Instinct]].
+* All moves are multi-target.
+* Most moves have low end-lag.
+
+|'''[Z] Knock'''
+* Practically no startup time.
+* Decent cooldown.
+
+|'''[X] Spring Snipe'''
+* Can be used for mobility.
+* Decent range.
+
+|'''[C] Spring Cannon'''
+* Can be used for extending combos.
+
+|'''[V] Spring Emperor'''
+* Can deal above average damage if used correctly, though it's hard to pull this off.
+* Can be used as a combo ender.
+
+|'''[F] Spring Leap'''
+* Bounces really fast, which makes it ideal for running and dodging attacks.
+* No end-lag.
+}}
+
+|Cons|
+{{Overview
+|'''General'''
+* Low damage output.
+* Low [[Area of Effect|AoE]].
+* All moves can be dodged with [[Instinct]].
+* Small hitboxes on almost every move.
+
+|'''[Z] Knock'''
+* Bad range.
+* A bit easy to avoid.
+
+|'''[X] Spring Snipe'''
+* Easy to avoid.
+
+|'''[C] Spring Cannon'''
+* Bad midair.
+* Easy to avoid.
+* Can be easily punished if missed.
+
+|'''[V] Spring Emperor'''
+* Very unreliable as the player is not guaranteed to hit more than once (especially on open areas) and sometimes the move will not hit at all.
+* Terrible for starting/extending combos as it often leads to going off the planned trajectory.
+
+|'''[F] Spring Leap'''
+* Hard to control correctly.
+* Only really effective in areas with objects to rebound.
+}}
+}}
+
+==Trivia==
+* Spring is used by [[Jeremy]].
+* The {{Ability|F}} ability can reach an incredible top speed if the user keeps bouncing, but quickly loses said speed.
+
+==Change History==
+{{Change History|2|content=
+<tabber>
+|-|20=
+{{Update|20}}
+* Spring Fruit's model was remade.
+: <gallery>
+Spring 150x150.png|Old Spring Fruit's icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Added '''[V] Spring Emperor'''.
+
+|-|2=
+{{Update|2}}
+* Spring was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Пружина]]

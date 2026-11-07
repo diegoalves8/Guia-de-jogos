@@ -1,0 +1,479 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Fire Starter|PrestigeTitle = is on fire!|Rarity = Legendary|Class = Controller|MovementSpeed = 750 (Normal)<br>825 (With Wild Flames and Star Buffie)<br>900 (with Dancing Flames and Gadget Buffie)|VoiceActor = Leah Arscott|Health = 3400|AttackRange = 8.33 (Long)|Reload = 0.22 seconds (8.8 seconds max; Very Fast)|AttackCooldown = |AttackSuperCharge = 4.3%|AttackLabel = Damage per flame|Attack = 210|AttackLabel2=Damage per second|Attack2=2100|SuperRange = 7.33 (Long)|SuperSuperCharge = 12%<br>12.5% (with Hypercharge)|SuperLabel=Damage per second|SuperLabel2=Damage|Super=400|Super2=1600|AttackBullets=40 (full ammo bar)|AttackSpread=15°|AttackSpeed=3500|AttackWidth=|SuperSpeed=1750|Gadget1Name=Fire Starters|Gadget1 = 1600|Gadget1Label = Barrel Health|Gadget1Range=4.33|Gadget1Cooldown=28 seconds|Gadget2Name=Dancing Flames|Gadget2Cooldown=20 seconds|Gadget2=1520|Gadget2Label=Damage per fireball|Previous=Surge|Next=Meg|Hypercharge|HyperchargeMultiplier=30%|AttackHyperchargeCharge=1.275%|SuperHyperchargeCharge=3.6%<br>3.75% (with Hypercharge)|Gadget2Range=2.67}}
+{{Quote|Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.}}
+{{Portrait}}
+Amber is a {{Rarity|Legendary}} [[Brawler]] that has moderate health, an extremely fast reload speed, and a consistently high damage output. She was the 40th Brawler added to the game. She attacks by shooting a continuous, long-ranged stream of fire. Amber's Super is a flask of fire fluid that creates a flammable puddle on the ground which can be ignited by her attack, and when ignited, it sets enemies that are in it on fire to burn over time. Amber's first Gadget, Fire Starters, spawns an oil barrel that spills a puddle of fire fluid in the area where it was destroyed, and behaves identically to her Super's puddle. Her second Gadget, Dancing Flames, creates three fireballs that revolve around herself and each deal damage. Her first Star Power, Wild Flames, slows enemies inside her fluid and allows them to create trails of it as they move. Her second Star Power, Scorchin' Siphon, reloads some of her ammo when the enemies take burn damage. Her Hypercharge, Oil Spill, increases the size of her Super, and when ignited, it sets enemies that are in it on fire to burn over time.
+
+==Attack: Dragon's Breath==
+{{Quote|Amber blows a flaming inferno at her opponents. It looks awesome, but watch out or you'll get seared!}}Amber continuously shoots long-ranged, piercing flames at a slight spread from a large ammo bar. If the player taps on the attack joystick, Amber only shoots one flame, and if the player aims the attack joystick, Amber continuously shoots flames in the direction aimed. Amber stops attacking when the player lets go of the joystick or her ammo bar is depleted. Her ammo drains when she attacks and she automatically reloads the bar when not attacking. Each flame is shot at a tenth of a second, and if the attack isn't stopped, the attack takes 4 seconds to complete.
+
+==Super: Torch 'Em!==
+{{Quote|Amber throws a flask of her fire fluid that she can then light up with her firebreathing. Bushes and opposing Brawlers will be toast! (One flask at a time!)}}Amber lobs a flask of fire fluid over obstacles that creates a 2-tile wide trail of fire fluid as it travels and in a 5.33-tile wide area where it lands. The fluid can be interrupted by lakes, but not walls. The puddle stays indefinitely until it's ignited by her attack, and doesn't affect the enemies normally. However, if Amber's attack flames touch the puddle, it ignites for 0.5 seconds and disappears, spreading fire throughout the puddle that burns enemies that touch it for 4 seconds and destroying bushes inside it. If an enemy is burned by another one of Amber's puddles before the burn disappears, the burns don't stack, but the duration resets. Despite the description, there is no limit to how many flasks she can place at a time. If there are multiple Ambers in the same team, they can ignite each other's puddles.
+
+==Gadgets==
+===Fire Starters===
+{{Quote|Amber summons an Oil barrel with 2000 health, spiling oil when destroyed. Cooldown: 28 seconds.}}{{Gadget|1}}Amber throws an oil barrel in the direction the Gadget is aimed. It has 29.4117% of her maximum health, and when it is destroyed it leaves behind a 3x3-tile area of her fire fluid around it. The barrel decays by 12% of its maximum health every second, lasting up to 9 seconds if it doesn't take any damage. Using her Fire Starters Gadget again doesn't remove any previous Gadget's fluid.
+
+{{Quote|Amber can place up to 2 barrels!}}{{Buffie|Gadget}}
+With the Buffie, the Gadget gains a second charge, allowing Amber to deploy up to 2 barrels at a time. The cooldown begins once both barrels are placed.
+
+===Dancing Flames===
+{{Quote|Amber creates 3 orbiting flames around her for 5 seconds, dealing 1900 damage on hit. Cooldown: 20 seconds.}}{{Gadget|2}}Amber spawns 3 fireballs that revolve around her in at a range of 2.67 tiles, dealing 452.38% the damage of one of Amber's main projectiles if they hit an enemy. Upon using the Gadget, all enemies within the area of effect instantly receive 1900 damage.
+
+{{Quote|Amber covers herself in flames, gaining 20% movement speed and dealing 400 damage to enemies she touches.}}{{Buffie|Gadget}}
+With the Buffie, Amber gains a 20% movement speed boost, gains a reddish appearance to indicate the Gadget is active, and enemies between Amber and the fireballs take 95.2% of an attack flame's damage every second, hitting 5 times if the enemy remains standing around her.
+
+==Star Powers==
+===Wild Flames===
+{{Quote|Amber's Fire Fluid become sticky, attaching to Brawlers and leaving a trail of oil while they move.}}{{StarPower|1}}This Star Power causes enemies that step in Amber's fire fluid to leave trails of the fluid for up to 1 second when they exit it. Any fluid created by this Star Power cannot activate it, and trails from her Hypercharge Super do not retain the Hypercharge effect. In addition, enemies inside Amber's fire fluid are slowed down by 10%. Enemies affected by the Star Power visually drip oil to indicate it is active.
+
+{{Quote|Amber gains a 10% movement speed when near oil.}}{{Buffie|Star}}
+With the Buffie, Amber gains a 10% movement speed boost while near her fire fluid.
+
+===Scorchin' Siphon===
+{{Quote|Amber reloads 7% of her fire-breathing when an enemy takes fire damage.}}{{StarPower|2}}This Star Power reloads 7% of Amber's maximum ammo (3 flames) when an enemy takes burn damage from her fire fluid.
+
+{{Quote|Duration of burns are increased by 1 sec.}}{{Buffie|Star}}
+With the Buffie, the duration of burns from either her Super or Fire Starters Gadget is increased from 4 to 5 seconds.
+
+==Hypercharge: Oil Spill==
+{{Quote|Super's oil spill area is increased. Oil keeps burning for 3 seconds after being lit on fire.}}{{Hypercharge}}
+When activated, the radius of the puddle created upon Amber's fire flask landing is 1.5x larger. However, despite the description, when the puddle is ignited, it burns for 2 seconds before disappearing, setting enemies that touch it for long enough on fire to burn for 5 ticks of damage. However, if the enemy is hit early enough with the trail of oil, and is hit again late enough with the splash puddle of oil, they will be hit with 6 ticks of damage. The damage is also slightly increased from the base Super. Amber also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attacks also burn like oil.}}{{Buffie|Hyper}}
+With the Buffie, Amber's attacks apply her Hypercharged Super's burn to enemies hit, dealing 50% less damage. The burn duration is affected by Scorchin' Siphon's Star Power Buffie. Increased Hypercharge duration by 2 seconds.
+
+==Mythic Gear: Sticky Oil==
+{{RemovedContent|section}}
+{{Quote|Amber's oil spills now also slow down enemies by 10%.}}{{Gear|Filename=AmberGear}}
+With this Gear equipped, enemies inside Amber's fire fluid from either her Super or Fire Starters Gadget would be slowed down by 10%.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Main attack fires two streams and Amber spills oil while moving.}}<div style="float:right">[[File:Inferno Wasabi.png|64px|link=]]</div>Amber continuously and additionally shot two long-ranged, piercing flames that traveled angled to the left and right of the original attack. In addition, she left a trail of her fire fluid behind her while moving.
+
+==Tips==
+===Game Modes and Maps===
+*Amber's Super and Fire Starters Gadget can provide area control, making her niche in events like [[Gem Grab]] and [[Hot Zone]]. She can place her puddles over the Gem mine or a zone and prohibit enemies from achieving the respective event objective. If an enemy attempts to cross the puddle, she can ignite it to deal significant damage to the enemy. In addition, the puddles from her Super and Fire Starters Gadget can connect to create an extremely large puddle to control massive areas. The area control provided from the puddles is amplified with her Wild Flames Star Power. You can either connect the puddles to clear bushes or separate them to allow for select area denial.
+
+===Recommended Build===
+*Amber's Dancing Flames Gadget can deal incredible damage if all fireballs hit the target, so it gives her sturdy protection against assassin Brawlers or Brawlers with Supers that could fly over obstacles that would normally defeat Amber (e.g. [[El Primo]], [[Surge]], [[Mico]], [[Bonnie]], [[Crow]], [[Kit]], and [[Edgar]]). She can also use this Gadget effectively in modes like [[Heist]], where there is a stationary target. This allows her to deal massive damage with this Gadget, and combined with her piercing attack, Super, and Gadget Gear, she is a menace in such modes.
+*Amber's Wild Flames Star Power and Fire Starters Gadget are extremely useful in helping Amber quickly regain her Super, especially when Supers are most necessary. With her Fire Starters Gadget, she can create a large puddle area in which her Super recharges, allowing for an insane pace of Supers while fighting.
+*Trails from Amber's Fire Starters Gadget can also be used as firewalls to protect you and allies. Make sure to keep puddles connected so enemies, especially heavyweights and assassins, are damaged when crossing the puddles.
+
+===Strategies===
+*Amber is an excellent cover destroyer that can burn down a large amount of bushes from her fire puddles and her attack combined while also being able to inflict burn damage, restricting an enemy's ability to heal and retreat.
+*Be careful about positioning Amber's Super because if it's thrown in an undesirable position, you might accidentally ignite the puddle when attacking an enemy near it, so try to place the fluid outside your attacking spot but still in your range so you can ignite the puddle at the right time. This also enables you to control two lanes at once.
+*Try to predict the enemy's movement in order to land more shots, because there's a tiny yet noticeable delay between aiming and firing. You'll deal maximum damage by aiming where the enemy is likely to move as aiming at the enemy's current position won't damage the moving enemy since Amber's flames travel slowly.
+*Amber is an excellent counter to high-health Brawlers because her continuous attack deals enough damage to eliminate them. She can also use her Super to prevent them from healing and finish them off. However, maintain your distance from these Brawlers because Amber, with her moderate health, can be two-shotted or three-shotted by those Brawlers if they get close enough, and she's helpless at close range due to her inability to deal immediate damage and her lack of stuns, slows, or knockbacks to distance herself from such Brawlers.
+*Try not to waste ammo with Amber. If Amber is out of ammo, she needs to wait a while to fully reload despite what seems to be an incredibly fast reload speed. With her Scorchin' Siphon Star Power, you can partially mitigate this issue by using her Super or her Fire Starters Gadget to reload quicker. You can also place her Fire Starters Gadget at your spawn point and reload quicker if you die. If you do this you will enter battle with a full ammo bar.
+*If you have the Wild Flames Star Power, when you get your Super and throw it, sometimes it is a better idea to wait and keep the Super on the ground so that you charge up more of your Super. This is a good strategy in passive maps and also good if you aren't going to hit an enemy with it, as you can charge another Super.
+*Amber's fire fluid can be ignited before it fully spills on the ground which can be used to give enemies no time to escape the fire fluid's radius.
+*Especially if you have her Mythic Gear, don't immediately waste your Hypercharge Super. The simple threat of the size of the puddle is more than enough to scare off lower ranks or slow down higher ones.
+*In certain situations, you can throw your fire fluid across a body of water, which is the only way to separate individual puddles. This can be helpful if you want to charge your super or reload off of a small tile of fluid, while allowing the majority to deal damage. This can best be seen in the corner of Safe Zone.
+
+==Voice Lines==
+{{TranslationToggle|Spanish/Japanese}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 01.ogg|Filedescription = "Ha ha! Wow, so much heat!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 03.ogg|Filedescription = "Wow, so much ice!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 01.ogg|Filedescription = "Flame heroine, reporting for duty."}}
+|'''Normal:'''
+{{Ogg|Filename = Amber lead vo 01.ogg|Filedescription = "Woah! Guess I'm flamous now!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice lead vo 01.ogg|Filedescription = "Brr, it's cold in here. There must be some ice queen in the atmosphere."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 01.ogg|Filedescription = "A blazing ever arc!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber hurts vo 01.ogg|Filedescription = "You're playing with fire."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 01.ogg|Filedescription = "You are gonna catch a cold!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 01.ogg|Filedescription = "Ow! So not fair!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber kills vo 01.ogg|Filedescription = "Ha ha! Sick burn!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 01.ogg|Filedescription = "Time to chill out!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 01.ogg|Filedescription = "Ha ha! The roasting continues, hmph!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber dies vo 01.ogg|Filedescription = "Time to hibernate."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice die vo 01.ogg|Filedescription = "Time to hibernate."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 01.ogg|Filedescription = "This can't be the end!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 01.ogg|Filedescription = Amber scoffs}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 01.ogg|Filedescription = Amber screams}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 05.ogg|Filedescription = "Ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber ulti vo 01.ogg|Filedescription = "Fire fuel!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 01.ogg|Filedescription = "Freeze!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin ulti vo 02.ogg|Filedescription = "Fire fuel, go, go, go!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 02.ogg|Filedescription = "Does anyone have a fire extinguisher?"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 05.ogg|Filedescription = "Ice queen, sliding into the scene!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 02.ogg|Filedescription = "Ready for a flame war."}}
+|'''Normal:'''
+{{Ogg|Filename = Amber lead vo 02.ogg|Filedescription = "Who's flamous now?"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice lead vo 02.ogg|Filedescription = "Freeze frame, I'm winning the game!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 02.ogg|Filedescription = "Main character energy confirmed"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber hurts vo 02.ogg|Filedescription = "Ouch."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 02.ogg|Filedescription = "Icy!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 02.ogg|Filedescription = "Ugh, that's villain behavior!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber kills vo 02.ogg|Filedescription = "Hah! Apply cold water to that burn! No seriously, get it checked."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 02.ogg|Filedescription = "Freezer burn!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 02.ogg|Filedescription = "Another villain down!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber dies vo 02.ogg|Filedescription = "I'm burnt out."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice die vo 02.ogg|Filedescription = "I'm melting."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 02.ogg|Filedescription = {{Translate|"さようなら, until the next episode." ("Sayonara, until the next episode.")|"Goodbye, until the next episode."}}}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 02.ogg|Filedescription = Amber laughs}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 07.ogg|Filedescription = "Hahaha!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 02.ogg|Filedescription = "Burn!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber ulti vo 02.ogg|Filedescription = "Fire starter!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 02.ogg|Filedescription = "Frosty blast!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin ulti vo 01.ogg|Filedescription = "Special move: flame blast!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 03.ogg|Filedescription = "And the burning continues."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 02.ogg|Filedescription = "And the freezing continues."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 03.ogg|Filedescription = {{Translate|"I'm too 熱い to handle." ("I'm too atsui to handle.")|"I'm too hot to handle."}}|}}
+|'''Normal:'''
+{{Ogg|Filename = Amber lead vo 03.ogg|Filedescription = "Ah! I'm a-blazing!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice lead vo 03.ogg|Filedescription = "Chilled to perfection!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 03.ogg|Filedescription = "Drama arc completed!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber hurts vo 03.ogg|Filedescription = "You wanna play the flame game?"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 03.ogg|Filedescription = "That was cold!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 03.ogg|Filedescription = {{Translate|"This is かわいい, this is かわいい!, uh. ("This is kawaii, this is kawaii, uh.")|"This is cute, this is cute, uh."}}}}
+|'''Normal:'''
+{{Ogg|Filename = Amber kills vo 03.ogg|Filedescription = "Ha ha! You got roasted. Yikes!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 03.ogg|Filedescription = "You got frozen! Yikes!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 03.ogg|Filedescription = "Burn voyage, villain!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber dies vo 03.ogg|Filedescription = "Found the fire exit?"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice die vo 03.ogg|Filedescription = "What a chilling defeat."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 03.ogg|Filedescription = "Not canon! Not canon!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 03.ogg|Filedescription = "Feel the heat!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 02.ogg|Filedescription = "Feel the cold!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 03.ogg|Filedescription = "Woah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber ulti vo 03.ogg|Filedescription = "Ignite this!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 03.ogg|Filedescription = "Snowstorm!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 04.ogg|Filedescription = "Hot hot hot hot hot! Hoo, ha, hot!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 01.ogg|Filedescription = "Cold, ooh, cold!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 04.ogg|Filedescription = "Main character energy, go!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber lead vo 04.ogg|Filedescription = "I'm on fire! Hoo! Hoo! I'm-I'm actually on fire!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice lead vo 04.ogg|Filedescription = "I'm so hot, ay ay ay! Oh wait, I'm so cold. Hoo, ha ha ha."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 04.ogg|Filedescription = "Ha ha, nobody can stop this heroine!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber hurts vo 04.ogg|Filedescription = "I'm flaming furious!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 04.ogg|Filedescription = "Frozen and frustrated."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 04.ogg|Filedescription = "Hey, uh-I'm the protagonist here!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber kills vo 04.ogg|Filedescription = "Burn voyage!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 04.ogg|Filedescription = "Keeping it cool!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 04.ogg|Filedescription = "Main character wins again, yeah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber dies vo 04.ogg|Filedescription = "I will re-amber you!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice die vo 04.ogg|Filedescription = "I've been snowed under."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 04.ogg|Filedescription = "I'll be back for justice and flame!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 04.ogg|Filedescription = "This is lit!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 06.ogg|Filedescription = "Too cool."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 04.ogg|Filedescription = "Ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber ulti vo 04.ogg|Filedescription = "Hoo hoo, I flame to please!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 04.ogg|Filedescription = "Arctic fury!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin ulti vo 04.ogg|Filedescription = "Signature move!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 05.ogg|Filedescription = "I'm still on fire over here!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 04.ogg|Filedescription = "I'm still freezing over here!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 05.ogg|Filedescription = "By the power of Hondo!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber lead vo 05.ogg|Filedescription = "Finally! My fifteen minutes of flame!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice lead vo 06.ogg|Filedescription = "Here I am. I've come so far!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 05.ogg|Filedescription = "Flammable, flamboyant, and fabulous! Hee hee!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber hurts vo 05.ogg|Filedescription = "This is fine."}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 05.ogg|Filedescription = "This is snow joke."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 05.ogg|Filedescription = Amber yelps}}
+|'''Normal:'''
+{{Ogg|Filename = Amber kills vo 05.ogg|Filedescription = "Ya burnt!"}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 05.ogg|Filedescription = "Brr-rilliant!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 05.ogg|Filedescription = "Scortchio!"}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 05.ogg|Filedescription = "Ugh, cliffhanger!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 05.ogg|Filedescription = {{Translate|"Fuego!"|"Fire!"}}}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 04.ogg|Filedescription = {{Translate|"Hielo!"|"Ice!"}}}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 01.ogg|Filedescription = {{Translate|"Fuego!"|"Fire!"}}}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 05.ogg|Filedescription = "Icy inferno!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin ulti vo 05.ogg|Filedescription = {{Translate|"Fuego fiesta!"|"Fire party!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Amber start vo 06.ogg|Filedescription = {{Translate|"¡Woah, muy caliente!"|"Whoa, very hot!"}}}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 10.ogg|Filedescription = {{Translate|"Muy frio, ahh!"|"Very cold, ahh!"}}}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 06.ogg|Filedescription = "This is my arc!"}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 06.ogg|Filedescription = "Ha! That was a spark of genius!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice hurt vo 06.ogg|Filedescription = "Hoo!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 06.ogg|Filedescription = "Ah-ah!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 06.ogg|Filedescription = "Another fallen snowflake."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 06.ogg|Filedescription = "Don't mess with my flame game!"}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 06.ogg|Filedescription = "Eee!"}}
+|'''Normal:'''
+{{Ogg|Filename = Amber atk vo 06.ogg|Filedescription = {{Translate|"Fuego!"|"Fire!"}}}}'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 03.ogg|Filedescription = "Chill!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 06.ogg|Filedescription = {{Translate|"Que sí!"|"Yes!"}}}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 06.ogg|Filedescription = "Let it snow!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin ulti vo 06.ogg|Filedescription = {{Translate|"Que sí! Woo!"|"Yes! Woo!"}}}}
+|-
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 06.ogg|Filedescription = "Ice, ice queeny."}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 07.ogg|Filedescription = "I bring the s- heat!"}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 07.ogg|Filedescription = {{Translate|"Mi fuego nunca se apaga."|"My fire never goes out."}}}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 07.ogg|Filedescription = "Ah!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 07.ogg|Filedescription = "I'm too cool for you, fool!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin kill vo 07.ogg|Filedescription = {{Translate|"¡El pan tostado, jajaja!"|"The Toasted Bread, ha ha ha ha!"}}}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin die vo 07.ogg|Filedescription = "Ah! Ooh!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice atk vo 05.ogg|Filedescription = "Woah!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 07.ogg|Filedescription = "Hiya!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 07.ogg|Filedescription = {{Translate|"Y hielo!"|"And ice!"}}}}
+|-
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 07.ogg|Filedescription = "It's snow time!"}}
+|
+|
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 08.ogg|Filedescription = {{Translate|"Fresca latina!"|"Fresh latina!"}}}}
+|
+|
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice ulti vo 08.ogg|Filedescription = "Chilled to perfection!"}}
+|-
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 08.ogg|Filedescription = "Do you want to build a Brawler?"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 08.ogg|Filedescription = "Anime edit incoming!"}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin lead vo 08.ogg|Filedescription = {{Translate|"Too hot para tocarme."|"Too hot to touch me."}}}}
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin hurt vo 08.ogg|Filedescription = "Are you dubbing me? Ugh!"}}
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice kill vo 09.ogg|Filedescription = {{Translate|"Soy fresquita!"|"I'm cool!"}}}}
+|
+|'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin atk vo 08.ogg|Filedescription = "Ha ya!"}}
+|
+|-
+|'''Frost Queen:'''
+{{Ogg|Filename = Amber ice start vo 09.ogg|Filedescription = "Pfft, ice doesn't bother me!"}}'''Starr Patrol:'''
+{{Ogg|Filename = Amber starr anime skin start vo 09.ogg|Filedescription = {{Translate|"Calor máximo!"|"Maximum heat!"}}}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*22/10/20:
+**{{Balance|Content=Amber became available to play in the [[Training Cave]].|Change=Neutral}}
+*23/10/20:
+**{{Balance|Content=Amber became available to play in matches.|Change=Neutral}}
+*29/10/20:
+**{{Balance|Content=Amber's health was decreased to 3000 (from 3300).|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge her Super was increased to 22 hits (from 17).|Change=Nerf}}
+**{{Balance|Content=Her Super damage was decreased to 1800 (from 2000).|Change=Nerf}}
+**{{Balance|Content=Her Super recharge rate was decreased by 16%.|Change=Nerf}}
+**{{Balance|Content=Fixed an issue which caused Amber to gain increased Super charge rate with increased Power Levels.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where Amber's Super only dealt 1 damage if she was defeated right before igniting her Super.|Change=Neutral}}
+*11/11/20:
+**{{Balance|Content=Amber's movement speed was decreased to 720 (from 820).|Change=Nerf}}
+**{{Balance|Content=Her main attack damage per second was decreased to 2000 (from 2400).|Change=Nerf}}
+*13/11/20:
+**{{Balance|Content=Amber's Scorchin' Siphon Star Power was added.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Amber's health was increased to 3200 (from 3000).|Change=Buff}}
+**{{Balance|Content=Her main attack damage per second was increased to 2200 (from 2000).|Change=Buff}}
+*15/03/21:
+**{{Balance|Content=Amber's Super damage was increased to 1920 (from 1800).|Change=Buff}}
+**{{Balance|Content=Amber's main attack damage per second was decreased to 2000 (from 2200).|Change=Nerf}}
+*07/04/21:
+**{{Balance|Content=Amber's reload time was increased to 8.8 seconds (from 8).|Change=Nerf}}
+*28/05/21:
+**{{Balance|Content=The Amber de la Vega skin was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Amber's True Silver and True Gold skins were added.|Change=Neutral}}
+**{{Balance|Content=Amber's class was changed to Damage Dealer (from Firebreather).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Amber de la Vega's attack and Super visual effects were reworked.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Amber's Dancing Flames Gadget was added.|Change=Neutral}}
+*17/12/22:
+**{{Balance|Content=The Frost Queen Amber skin was added. It was featured as a Dark Brawlidays skin.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Amber's class was changed to Controller (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Amber's Sticky Oil Mythic Gear was added.|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Amber's Sticky Oil Mythic Gear slow was decreased to 10% (from 20%).|Change=Nerf}}
+*27/06/23:
+**{{Balance|Content=Amber's Dancing Flames Gadget damage was increased to 1000 (from 500) per fireball.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Amber's Dancing Flames Gadget damage was increased to 1600 (from 1000) per fireball and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Amber's flavor text was changed from "Amber has always been a firebug. She loves to light up the world and any opponents that come at her!" to "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last."|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with the Amber De La Vega and Frost Queen Amber skins doing extra damage with their Super.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Amber's main attack damage per second was increased to 2200 (from 2000).|Change=Buff}}
+**{{Balance|Content=Amber's Dancing Flames Gadget damage was increased to 1760 (from 1600) per fireball.|Change=Buff}}
+**{{Balance|Change=Nerf|Content=The number of hits necessary to charge her Super was increased to 23 hits (from 22).}}
+*27/02/24:
+**{{Balance|Content=Amber's main attack damage per second was decreased to 2100 (from 2200).|Change=Nerf}}
+**{{Balance|Content=Amber's Dancing Flames Gadget damage was decreased to 1680 (from 1760) per fireball.|Change=Nerf}}
+**{{Balance|Change=Nerf|Content=The number of hits necessary to charge her Super was increased to 24 hits (from 23).}}
+**{{Balance|Content=Frost Queen Amber's takedown visual effects were reworked.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Frost Queen Amber now costs 299 [[Gems]] (from 149).|Change=Neutral}}
+**{{Balance|Content=Frost Queen Amber was given voice lines.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Amber's Super recharge rate was increased by approximately 89%.|Change=Buff}}
+*24/07/24:
+**{{Balance|Content=The Bubble Trouble Amber skin was added. It was featured as a Supercell Make and a Summer of Brawl skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Amber's Dancing Flames Gadget damage was decreased to 1512 (from 1680) per fireball.|Change=Nerf}}
+*29/10/24:
+**{{Balance|Content=Amber no longer deals 3 times the damage with her Dancing Flames Gadget if she is standing right over an enemy.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Amber's Dancing Flames Gadget's visual effects were slightly reworked|Change=Neutral}}.
+*21/03/25:
+**{{Balance|Content=The Fiendish Amber skin was added. It was featured as an Angels vs. Demons skin.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Amber's Wasabi Power was added for a limited time.|Change=Neutral}}
+*12/05/25:
+**{{Balance|Content=Amber's Oil Spill Hypercharge was added.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Amber's Wasabi Power main attack number of projectiles was increased to 3 (from 2).|Change=Buff}}
+**{{Balance|Content=Amber's Wasabi Power main attack spread was increased.|Change=Nerf}}
+*30/05/25:
+**{{Balance|Content=Amber's Wasabi Power was removed from the game.|Change=Neutral}}
+*14/08/25: 
+**{{Balance|Content=The Knight Amber skin was unlockable by winning the Knight Amber Skin in-game Challenge. It was featured as a Knights! skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Amber's level up damage was increased to 3% (from 2%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Amber's level up reload speed boost was increased to 2.5% (from 2%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, increasing Amber's Oil Spill Hypercharge speed boost from 15%.|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Amber's Oil Spill Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Amber's health was increased to 3400 (from 3200).}}
+*22/04/26:
+**{{Balance|Neutral|Amber's Sticky Oil Mythic Gear slow visual effects were reworked.}}
+*07/05/26:
+**{{Balance|Neutral|The Starr Patrol and Void Amber skins were added. They were featured as Starr Patrol skins.}}
+*30/06/26:
+**{{Balance|Buff|Amber's Fire Starters Gadget speed boost was changed to 15% (from 100 points).}}
+**{{Balance|Buff|Amber's level up damage was increased to 4% (from 3%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Buff|Amber can now place an unlimited number of Super flasks (from 1).}}
+**{{Balance|Buff|Amber's Dancing Flames Gadget damage was increased to 1900 (from 450% of an attack's damage).}}
+**{{Balance|Nerf|Amber's Fire Starters Gadget cooldown was increased to 24 seconds (from 15). The cooldown starts immediately after activation (from 3 seconds).}}
+**{{Balance|Neutral|Amber's Fire Starters Gadget was reworked from increasing her movement speed by 15% and dropping oil for 3 seconds to spawning a throwable barrel with 3500 health that spills oil in a 3x3 area when destroyed.}}
+**{{Balance|Neutral|Amber's Wild Flames Star Power was reworked from increasing the maximum Super puddles by 1 and charging her Super when standing on oil to making enemies standing on oil spill oil for 3 seconds.}}
+**{{Balance|Neutral|Amber's Scorchin' Siphon Star Power was reworked from increasing her reload speed by 50% while standing on oil to reloading 7% of her ammo bar when enemies take fire damage.}}
+**{{Balance|Neutral|Amber's Fire Starters Gadget icon was changed.}}
+**{{Balance|Neutral|Amber's Wild Flames Star Power icon was changed.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Amber's movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Amber's Epic Gear was removed.}}
+**{{Balance|Neutral|Amber's Sticky Oil Mythic Gear was removed.}}
+**{{Balance|Neutral|Amber's Buffies were added.}}
+*16/09/26:
+**{{Balance|Nerf|Amber's Fire Starters Gadget barrel health was decreased to 2080 (from 2800).}}
+**{{Balance|Nerf|Amber's Wild Flames trail duration was decreased to 1 second (from 3).}}
+**{{Balance|Nerf|Amber's burn damage from Hyper Buffie was decreased to 480 (from 960) per second.}}
+*03/11/26:
+**{{Balance|Nerf|Amber's Super damage was decreased to 400 (from 480) per second.}}
+**{{Balance|Nerf|Amber's Fire Starters Gadget cooldown was increased to 28 seconds (from 24).}}
+**{{Balance|Nerf|Amber's Fire Starters Gadget barrel health was decreased to 1600 (from 2080).}}
+**{{Balance|Nerf|Amber's Dancing Flames Gadget cooldown was increased to 20 seconds (from 14).}}
+**{{Balance|Nerf|Amber's Hypercharged Super oil radius was decreased to 4 tiles (from 5.33).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed Amber's Fire Starters Gadget icon turning green after use when her Buffie wasn't unlocked.}}
+
+==Cosmetics==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Fiendish|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Angels vs. Demons|Rarity1=Rare
+|Name2 = Amber de la Vega|Cost2 = 149 Gems|Campaign2=Outlaws|Rarity2=Epic
+|Name3 = Bubble Trouble|Cost3=149 Gems|Campaign3=Supercell Make|Campaign3_2=Summer of Brawl|Rarity3=Epic
+|Name4=Knight|Cost4=Free from the Knight Amber Skin Challenge or 149 Gems|Campaign4=Knights!|Rarity4=Epic
+|Name5=Frost Queen|Cost5=Free from Presents, free from Pierce Boxes or 299 Gems|Campaign5=Dark Winter Tales|Rarity5=Legendary
+|Name6=Starr Patrol|Cost6=Free from Nova Drops or 299 Gems|Campaign6=Starr Patrol|Rarity6=Legendary
+|Name7=Void|Cost7=Free from Nova Drops or 299 Gems|Campaign7=Starr Patrol|Rarity7=Legendary
+|TrueSkins = Yes}}
+
+===Buffie Skins===
+<gallery>
+Amber Buffie Skin-Gadget.png|Gadget
+Amber Buffie Skin-Star.png|Star
+Amber Buffie Skin-Hyper.png|Hyper
+Amber Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Amber
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Amber de la Vega}}
+{{Pin Table|Frost Queen}}
+{{Pin Table|Bubble Trouble}}
+{{Pin Table|Knight|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Amber|Rarity = Common}}
+|{{Spray|Type = Amber Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Frost Queen Amber|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Amber1}}
+|{{Pfp|Amber2}}
+|{{Pfp|Amber3}}
+|{{Pfp|Amber4}}
+|{{Pfp|Frost Queen Amber}}
+|-
+|{{Pfp|Amber de la Vega}}
+|{{Pfp|Bubble Trouble Amber}}
+|{{Pfp|Knight Amber}}
+|}
+
+{{Navigation}}
+[[es:Amber]]
+[[pt:Amber]]
+[[ru:Амбер]]

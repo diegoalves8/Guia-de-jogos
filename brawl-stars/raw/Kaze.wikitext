@@ -1,0 +1,441 @@
+{{Protection}}{{MagicWords}}
+{{Kaze Infobox|Title = Ninja|PrestigeTitle = Like the wind|Rarity = Ultra|Class = Assassin|MovementSpeed = 855 (geisha; Very Fast)<br>2700 (geisha; with attack)<br>3000 (geisha; with Hensojutsu)<br>750 (ninja; Normal)<br>4000 (ninja; with Super)<br>975 (ninja; with Gracious Host)<br>5200 (ninja; with Hypercharged Super)|VoiceActor =Unknown<br>Shin-Fei Chen (Clockwork Kaze) |HealthLabel1 = Health|Health1 = 4100|HealthLabel2 = Health|Health2 = 4100
+|AttackLabel1 = Damage|Attack1 = 750|AttackLabel12 = Strike Spot Damage|Attack12 = 1500
+|AttackLabel2 = Damage at close range|Attack2 = 750|AttackLabel22 = Damage at max. range|Attack22 = 375
+|AttackRange1 = 2.67 (Short)|AttackRange2 = 6.67 (Normal)
+|AttackSpeed1 = |AttackSpeed2 =3500 
+|Reload1 = 1 second (Very Fast)|Reload2 = 1.9 seconds (Normal)|AttackBullets2=2
+|AttackSuperCharge1 =21.55% |AttackSuperCharge2 =21.55–10.775% (close to max range) 
+|SuperRange = 7.33 (Long)|SuperLabel = Outer Edge Damage per second|Super = 650|SuperDuration = 5 seconds|SuperSuperCharge=10.5625%<br>0.315% (center damage; with Hypercharge)|SuperMinion = Storm|SuperMinionRange = 5
+|SuperRange2 = 9 (Long)|SuperLabel2 = Mark Damage|Super2 = 1360|SuperSuperCharge2=22.1%|Gadget1Name=Gracious Host|Gadget1Cooldown=6 seconds|Gadget2Name=Hensojutsu|Gadget2Cooldown=6 seconds|HyperchargeMultiplier=30%|Hypercharge|Previous=Thunderfrogs|Next=Sirius|SuperHyperchargeCharge=3.16875%<br>0.625% (center damage; with Hypercharge)|AttackHyperchargeCharge1=6.45%|SuperSpeed=1000|AttackHyperchargeCharge2=6.45–3.225% (close to max range)|AttackWidth2=0.67|SuperHyperchargeCharge2=6.625%|AttackSpread1=120° (Strike Spot)|Gadget1Duration=2.5 seconds (speed boost)<br>3.75 seconds (speed boost; with Gratuity Included)|Gadget2Range=3.33 (dash)|Gadget2Duration=1.5 seconds (invisibility)<br>2.25 seconds (invisibility; with Gratuity Included)}}
+{{Quote|Kaze was raised to be a living weapon by her parents, but this was not the life she wanted. After escaping to Starr Park with [[Kenji]], she can now live how she wants. However, she is still torn between the two aspects of her life, being a humble geisha and a deadly ninja.}}{{Portrait}}
+Kaze is an {{Rarity|Ultra}} [[Brawler]] with moderately high health and two modes. She was the 92nd Brawler added to the game. In her geisha aspect, she has a very fast movement speed, a variable damage output, and a very fast reload speed, and immense utility with her attack. She attacks by dashing forward and slashing, dealing moderate damage. For her Super, she throws a hand fan which summons a storm that makes her and allies invisible to enemies in it, dealing damage overtime to enemies that touch the outer edge. In her ninja aspect, she has a normal movement speed, a higher damage output at close range, and immense utility with her Super, at the expense of having a moderately low reload speed. Kaze attacks by throwing two knives that deal more damage up close. For her Super, she travels a long distance quickly. Enemies caught in her path will be temporarily marked, which detonates shortly after for high damage. For her first Gadget, Gracious Host, Kaze gains a temporary movement speed boost when switching to ninja, and recovers health when switching to geisha. For her second Gadget, Hensojutsu, Kaze becomes temporary invisible to enemies when switching to ninja, and dashes forward when switching to geisha. Her first Star Power, Advanced Techniques, temporary slows enemies down if she hits enemies in the Strike Spot in her geisha aspect, and nearby enemies will be damaged when marked targets explode in her ninja aspect. Her second Star Power, Gratuity Included, removes ammo from any enemy Brawler caught in the storm in her geisha aspect, and increases the duration of her Gadgets in her ninja aspect. Her Hypercharge, Ancient Energy, allows her Super to slightly damage enemies inside it over time in her geisha aspect, and increases the Super dash speed, while instantly damaging marked enemies in her ninja aspect.
+
+==Ultra Trait==
+{{Quote|2 Brawlers in 1! Activate Gadget to change aspect!}}
+{{Gadget|0}}
+Kaze has two aspects, geisha and ninja, with different main attacks and Supers. Her Gadgets, Star Powers, and Hypercharge affect each aspect differently. She starts in her geisha aspect at the start of the battle and whenever she respawns, and uses her Gadget to swap aspects. Uniquely, if Kaze is Power 1-6 or does not own a Gadget, she will have a free default Gadget with a 6-second cooldown that only switches aspects. This Gadget becomes unusable once Kaze has either Gracious Host, Hensojutsu, or both.
+
+==Attacks==
+===Kaze's Delivery Service===
+{{Quote|Kaze dashes a short distance and strikes the nearest target. Kaze has a 'Strike Spot' at a fixed angle around herself.<br>Hitting an enemy in a Strike Spot deals 200% damage and resets the Strike Spot to a new position.}}
+In her geisha aspect, Kaze dashes forward a short distance, similar to [[Mortis]] and [[Kenji]], and then slashes in a short 2-tile range circle around her, dealing moderate damage, but not behind walls. Like many dashing abilities, Kaze's dash will be cut short if she attempts to dash into walls or water, causing her to slash early. Unlike Mortis and Kenji, the dash itself deals no damage. Kaze's attack also features a Strike Spot that initially covers a 120-degree cone at the top of the circle; if an enemy is hit within the cone, they will take double damage and the Strike Spot will be repositioned 90 degrees clockwise after. More specifically, the centre of the enemy's hitbox must be within the 120-degree cone. This attack has an extremely short cooldown, taking 0.2 seconds to complete.
+
+===Silent Shuriken===
+{{Quote|Kaze throws 2 knives in succession, dealing increased damage to closer targets.}}
+In her ninja aspect, Kaze fires two knives in a line. Targets closer to Kaze take the most damage, and targets near Kaze's maximum range take significantly less damage, similar to [[Leon]] and [[Buster]]. The second knife thrown deals slightly more damage at all ranges except at minimum range. The attack cooldown is extremely short, taking 0.25 seconds to complete.
+
+==Supers==
+===Fan Storm===
+{{Quote|Kaze throws her fans, creating a deadly storm of fans in an area. Enemies within the Fan Storm can't see outside of it. The Fan Storm will also deal damage to an enemy if they touch it.}}
+In her geisha aspect, Kaze throws a hand fan that creates a storm in a large radius that lasts for 5 seconds. Enemies inside are unable to see Brawlers or projectiles outside of the storm, and any projectiles will not be visible to them once they travel outside the storm. Enemies that are caught at the edge of the storm will be damaged, and the damage can hit multiple times if the enemy remains standing on it. More specifically, the centre of the enemy's hitbox must be within 1 tile of the edge.
+
+===Fist of the Brawl Star===
+{{Quote|Kaze dashes a long distance and marks enemies she passes through. Marks explode after 2.5 seconds.}}
+In her ninja aspect, Kaze quickly dashes 9 tiles. Enemies caught in her path will be marked for 2.5 seconds, after which the marks detonate, dealing high damage. Kaze can't use her Super to dash over walls or water.
+
+==Gadgets==
+In both aspects, both her Gadgets' cooldowns start immediately after they are activated.
+
+===Gracious Host===
+{{Quote|Switch to Ninja Aspect and gain 30% Movement Speed for 2.5 sec. Cooldown: 6 seconds.}}{{Gadget|1}}
+When activated, Kaze switches to her ninja aspect and gains a 30% movement speed buff for 2.5 seconds.
+
+{{Quote|Switch to Geisha Aspect and heal for 30% of max health. Cooldown: 6 seconds.}}
+When activated, Kaze switches to her geisha aspect and recovers 30% of her maximum health, not accounting for any healing buffs or debuffs.
+
+===Hensojutsu===
+{{Quote|Switch to Ninja Aspect and gain short invisibility. Cooldown: 6 seconds.}}{{Gadget|2}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+When activated, Kaze switches to her ninja aspect and turns invisible for 1.5 seconds. If Kaze takes damage or uses her main attack during the Gadget's duration, her invisibility is cancelled, but if she uses her Super, it is not. 
+
+{{Quote|Switch to Geisha Aspect and dash forward. Cooldown: 6 seconds.}}
+When activated, Kaze switches to her geisha aspect, and she quickly dashes 3.33 tiles forward.
+
+==Star Powers==
+===Advanced Techniques===
+{{Quote|Hitting an enemy in a Strike Spot also slows them by 30% for 2.5 sec.}}{{StarPower|1}}
+Enemies hit by Kaze's Strike Spot will be slowed down by 30% for 2.5 seconds.
+
+{{Quote|When a marked enemy is defeated, they will deal area damage to other enemies.}}
+When marked enemies are defeated, the explosion will also affect nearby enemies within 2 tiles for the same amount of damage.
+
+===Gratuity Included===
+{{Quote|Removes 34% ammo from brawlers initially caught in the Fan Storm.}}{{StarPower|2}}
+In her geisha aspect, enemies caught in Kaze's storm will lose one-third of their ammo when the storm lands. However, enemies walking in the existing storm will not lose their ammo. In addition, this only affects enemies hit by the centre of the storm, enemies only hit by the edge will not be affected. More specifically, the centre of the enemy's hitbox must not be within 1 tile of the edge. This Star Power does not work against the [[Heist]] safe, the IKE turret in [[Siege]], or spawnables.
+
+{{Quote|Increases duration of Gadget effects by 50%.}}
+In her ninja aspect, this Star Power increases the duration of her Gadgets by 50%, resulting in a 3.75-second speed boost with Gracious Host or 2.25 seconds of invisibility with Hensojutsu.
+
+==Hypercharge: Ancient Energy==
+In both aspects, Kaze gains a 20% speed boost, and a 5% damage and shield boost.{{Quote|The center of the Fan Storm damages enemies over time.}}{{Hypercharge}}
+When activated in her geisha aspect, Kaze's storm now deals 136 damage per second, including the Hypercharge damage buff to enemies, up to a maximum of 680 damage over 5 seconds. This only affects enemies hit by the centre of the storm, enemies only hit by the edge will not be affected. More specifically, the centre of the enemy's hitbox must not be within 1 tile of the edge. This effect can stack with multiple storms.
+
+{{Quote|Kaze gains increased dash speed and her marks instantly damage if the target's health is low enough to be defeated.}}
+When activated in her ninja aspect, Kaze's Super dashes 30% faster and marked enemies will be damaged instantly if the damage would be enough to kill them. The threshold is 2720 by default and is affected by damage buffs and debuffs on Kaze, including the Hypercharge damage buff, bringing the starting threshold to 2856. This ability can activate even if the target is over the threshold if the target has damage-increasing features such as [[Belle]]'s Super, [[R-T]]'s attack, and [[Draco]]'s Expose Star Power.
+
+==Tips==
+===General===
+* Her geisha form has a very fast movement speed whereas her Ninja form only has normal movement speed. Try to use her geisha form to maneuver around the map as well as approach enemies. Due to her very quick reload speed in geisha form, she can also switch between forms to reload.
+* Her ninja form Super is very versatile and strong. Try to gain positioning using geisha form and then switch to ninja form to Super onto enemies and ambush them.
+
+==Voice Lines==
+{| class="article-table"
+{{TranslationToggle|Japanese}}
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 01.ogg|Filedescription ="Please, let us end this gently."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 01.ogg|Filedescription ="Fans ready, let's stir the air."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 01.ogg|Filedescription ="I come, I slay, I leave."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk start 01.ogg|Filedescription ="Gears engaged. Ready to light out some steam?"}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 01.ogg|Filedescription ="The lotus blooms."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk lead 01.ogg|Filedescription ="Flawless, like clockwork."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 01.ogg|Filedescription ="I kill time harder than this."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk lead 03.ogg|Filedescription ="The wind favors the well-crafted."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 01.ogg|Filedescription ="I've spilled the tea, literally."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 01.ogg|Filedescription ="You've scuffed the plating!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 01.ogg|Filedescription ="That was your big move?"}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 01.ogg|Filedescription ="A dent. Nothing a wrench can't fix."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 01.ogg|Filedescription ="A cherry blossom falls, so do you."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk kill 01.ogg|Filedescription ="Let this be a polite correction."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 01.ogg|Filedescription ="Aha, is this really your best?"}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk kill 01.ogg|Filedescription ="Your fear fuels my pistons."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 01.ogg|Filedescription ="No worries, I-I'll recover quickly."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk die 01.ogg|Filedescription ="Even machines long for rest."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze die vo 01.ogg|Filedescription ="Fate cuts deeper than steel."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk die 01.ogg|Filedescription ="Every defeat recalibrates perfection."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 01.ogg|Filedescription ="A little wind, a little chaos."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 01.ogg|Filedescription ="Oh my! Pardon the turbulence."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 01.ogg|Filedescription ="Too slow, too weak, too gone."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk ulti 01.ogg|Filedescription ="I warned you not to wake the storm."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 02.ogg|Filedescription ="Forgive my intrusion, I mean no harm."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 02.ogg|Filedescription ="Such unruly guests today."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 02.ogg|Filedescription ="My katana is thirsty. Who is next?"}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk start 02.ogg|Filedescription ="No mercy, no malfunction."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 02.ogg|Filedescription ="I will cherish this moment quietly."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk lead 02.ogg|Filedescription ="Simply good engineering."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 02.ogg|Filedescription ="Should I pretend that was difficult?"}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk lead 02.ogg|Filedescription ="Should I pretend this is a challenge?"}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 02.ogg|Filedescription ="My mistake, I should dodge better!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 02.ogg|Filedescription ="How undignified of me!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 02.ogg|Filedescription ="Cute, but ineffective."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 02.ogg|Filedescription ="A fine hit, rare craftsmanship."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 02.ogg|Filedescription ="You're still a winner inside."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 02.ogg|Filedescription ="One strike, one Brawler."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk kill 02.ogg|Filedescription ="Too slow, too fragile, too obsolete."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 02.ogg|Filedescription ="Fading like a whispered secret."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk die 02.ogg|Filedescription ="The wind slows, but never truly stops."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze die vo 02.ogg|Filedescription ="Lost by focus."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk die 02.ogg|Filedescription ="The mechanism fails, but memory endures."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 02.ogg|Filedescription ="I didn't expect such trauma."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 04.ogg|Filedescription ="A gentle fan, powered by fury."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 02.ogg|Filedescription ="Training is underrated."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk ulti 02.ogg|Filedescription ="Your end arrives before the wind."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 03.ogg|Filedescription ="So much chaos, so little calm."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 03.ogg|Filedescription ="Please, no shouting."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 03.ogg|Filedescription ="Line up. I'll make this quick."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk start 03.ogg|Filedescription ="Silent as steam, swift as steel."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 03.ogg|Filedescription ="A gentle step toward victory!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk lead 03.ogg|Filedescription ="I lead with poise."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 03.ogg|Filedescription ="I expected warriors, not clowns."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk lead 01.ogg|Filedescription ="I expected clockwork warriors, not broken toys."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 03.ogg|Filedescription ="I insist. No need to apologize."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 03.ogg|Filedescription ="My! How brutal!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 03.ogg|Filedescription ="Now, you've got my attention."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 03.ogg|Filedescription ="Now, you have truly wound me up."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 03.ogg|Filedescription ="Oh no! I made a mess!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk kill 03.ogg|Filedescription ="Effiency is the truest form of beauty."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 03.ogg|Filedescription ="Your story ends here."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk kill 03.ogg|Filedescription ="One cut, perfectly timed."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 03.ogg|Filedescription ="Time for my beauty sleep."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk die 03.ogg|Filedescription ="A lady must know when to retire."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze die vo 03.ogg|Filedescription ="I won't forget that."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk die 03.ogg|Filedescription ="I must be getting rusty."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 03.ogg|Filedescription ="A gentle fan, a mighty wind."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 03.ogg|Filedescription ="The air grows sharp."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 03.ogg|Filedescription ="Another soul fades into darkness."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk ulti 03.ogg|Filedescription ="Engraving your destiny."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 04.ogg|Filedescription ="Forgive me, I'm not used to violence."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 04.ogg|Filedescription ="A most elegant arrival."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 04.ogg|Filedescription ="Who ordered a swift demise?"}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk start 04.ogg|Filedescription ="I arrive, I slice, I vanish into the fog."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 04.ogg|Filedescription ="Grace guides my every move."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk lead 04.ogg|Filedescription ="Touched by grace."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 04.ogg|Filedescription ="Not even worth sharpening my blade."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk lead 04.ogg|Filedescription ="Engineered to perfection."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 04.ogg|Filedescription ="Oh my! Excellent move! Well done!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 06.ogg|Filedescription ="My elegance must prevail."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 04.ogg|Filedescription ="You're making this fun."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 04.ogg|Filedescription ="Cute trick, but inefficient."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 04.ogg|Filedescription ="Oh my! I hope you're okay!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk kill 04.ogg|Filedescription ="May this serve as a graceful reminder."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 04.ogg|Filedescription ="I strike, you fall. Simple."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk kill 04.ogg|Filedescription ="Another mechanism silenced."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 04.ogg|Filedescription ="A lady never lingers."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk die 04.ogg|Filedescription ="As the sakura drifts to Earth, so, too, do I."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze die vo 04.ogg|Filedescription ="Yo-you got me. Well played."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk die 04.ogg|Filedescription ="You may stop the gears, but never the wind."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 04.ogg|Filedescription ="Even a storm can be elegant."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 02.ogg|Filedescription ="Even a tempest can be elegant."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 04.ogg|Filedescription ="A ghost leaves no trace."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk ulti 04.ogg|Filedescription ="A mark seals your fate."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 05.ogg|Filedescription ="My! Such rude company today!"}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 05.ogg|Filedescription ="So much brutality."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 05.ogg|Filedescription ="Strong, silent, and swift."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk start 05.ogg|Filedescription ="Engage in combat protocols."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 05.ogg|Filedescription ="I remain humbly grateful."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk lead 05.ogg|Filedescription = Kaze laughs}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 05.ogg|Filedescription ="This is hardly worth my effort."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk lead 05.ogg|Filedescription ="Your struggle oils my momentum."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 05.ogg|Filedescription ="I struggle, but my beauty must endure."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 05.ogg|Filedescription ="I must learn to evade more gracefully!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 05.ogg|Filedescription ="Just a scratch, but keep trying."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 05.ogg|Filedescription ="That strike was well-engineered."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 05.ogg|Filedescription ="You got served." *laughs*}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk kill 05.ogg|Filedescription ={{Translate|"ごめんなさい！I do hope you're unharmed!" ("Gomen'nasai! I do hope you're unharmed!")|"I'm sorry! I do hope you're unharmed!"}}}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 05.ogg|Filedescription ="Your fear feeds my blade."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk kill 05.ogg|Filedescription ="Precision requires sacrifice."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 05.ogg|Filedescription ="I simply must go."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze die vo 05.ogg|Filedescription ="Every defeat makes me stronger."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk die 05.ogg|Filedescription ="You can break the machine, but not my purpose."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 05.ogg|Filedescription ="May the wind soothe your soul."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 05.ogg|Filedescription ="Even chaos can be served with poise."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 05.ogg|Filedescription ="I can taste your fear."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 06.ogg|Filedescription ="Oshiroi on point."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 06.ogg|Filedescription ="I assure you, I come in peace."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 06.ogg|Filedescription ="No mercy, no survivors."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 06.ogg|Filedescription ="Fantastic!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze lead vo 06.ogg|Filedescription ="You are but falling leaves."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 06.ogg|Filedescription ="You've wrinkled my kimono."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk hurt 04.ogg|Filedescription ="My kimono is creased."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 06.ogg|Filedescription ="A worthy challenger, nice."}}'''Ninja (Clockwork):'''
+{{Ogg|Filename = Kaze steampunk hurt 06.ogg|Filedescription ="I've seen better craftsmanship in scrapyards."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 06.ogg|Filedescription ="Let this be a gentle lesson."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze kill vo 06.ogg|Filedescription ="Too much fandom."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi die vo 06.ogg|Filedescription ="I must fall gracefully."}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 06.ogg|Filedescription ="May the wind guide my path."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 06.ogg|Filedescription ="Breeze of balance."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze ulti vo 06.ogg|Filedescription ="Your fate is sealed."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 07.ogg|Filedescription ="Graceful entrance."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk start 07.ogg|Filedescription ="Let us conclude this, gracefully."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze start vo 07.ogg|Filedescription ="Silent, deadly, unstoppable."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi lead vo 07.ogg|Filedescription ="Flawless."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 07.ogg|Filedescription ="Such violence!"}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 07.ogg|Filedescription ="Anyone can get lucky."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 07.ogg|Filedescription ="A most elegant conclusion."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk kill 02.ogg|Filedescription ="A most elegant disassembly."}}
+|
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 07.ogg|Filedescription ="A gentle movement like the wind."}}'''Geisha (Clockwork):'''
+{{Ogg|Filename = Kotomi steampunk ulti 07.ogg|Filedescription ="A storm brewed to perfection."}}
+|-
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi start vo 08.ogg|Filedescription ="Fan out everyone!"}}
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 08.ogg|Filedescription ="This is... most unbecoming."}}'''Ninja (Normal):'''
+{{Ogg|Filename = Kaze hurt vo 08.ogg|Filedescription ="You will regret that."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 08.ogg|Filedescription ="Oh dear, was that too much?"}}
+|
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi ulti vo 08.ogg|Filedescription ="Forgive me, but it must be done."}}
+|-
+|
+|
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi hurt vo 09.ogg|Filedescription ="I did not permit that."}}
+|'''Geisha (Normal):'''
+{{Ogg|Filename = Kotomi kill vo 09.ogg|Filedescription ="Hehe! You fight like weak tea."}}
+|
+|
+|
+|}
+
+==History==
+*28/05/25:
+**{{Balance|Content=Kaze could be unlocked early as a bundle for $49.99.|Change=Neutral}}
+**{{Balance|Content=Kaze became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Fruity Kaze skin was added. It was featured as a Starry Meal skin.|Change=Neutral}}
+*05/06/25:
+**{{Balance|Content=Kaze became available in the Starr Road.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Fixed Kaze's visual effects.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Kaze's health was increased to 4000 (from 3800).|Change=Buff}}
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge center damage was decreased to 130 (from 260) per second while in her geisha aspect.|Change=Nerf}}
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge center damage Super recharge rate was decreased by 50% while in her geisha aspect.|Change=Nerf}}
+**{{Balance|Content=Kaze's True Gold and True Silver skins were added.|Change=Neutral}}
+**{{Balance|Content=Kaze's default animation now loops and alternates between switching geisha and ninja aspects.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Kaze's Hypercharge had the incorrect visual effects for her ninja aspect's super.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Kaze would no longer be marked by other Brawlers upon changing aspects.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Hexed Kaze in her Geisha Aspect could still damage [[Willow]] and her team but not Willow's enemies.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Kaze could become visible and reveals her position for a split second after triggering her Hensojutsu Gadget whilst in a bush.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Kaze's default animation no longer loops and alternates between switching geisha and ninja aspects.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug where Kaze's Super crashed the game in certain situations in [[Brawl Ball]].|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge multiplier was decreased to 45% (from 55%).|Change=Nerf}}
+*13/08/25:
+**{{Balance|Content=Kaze's Hensojutsu Gadget description was reworked when switching to ninja aspect.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Kaze's geisha aspect level up health was increased to 600 (from 450) in [[Brawl Arena]].|Change=Buff}}
+*28/10/25:
+**{{Balance|Content=Kaze's geisha aspect level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge multiplier was decreased to 30% (from 45%).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Kaze's Ancient Energy Hypercharge speed boost in her geisha aspect from 25%. This does not affect Kaze in her ninja aspect.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Kaze's Ancient Energy Hypercharge damage boost in her geisha aspect from 25%. This does not affect Kaze in her ninja aspect.|Change=Nerf}}
+*12/11/25:
+**{{Balance|Content=Kaze's ninja aspect Super dash speed was reduced to 4000 (from 5000).|Change=Nerf}}
+**{{Balance|Content=Kaze's ninja aspect Super mark damage was decreased to 1360 (from 1500).|Change=Nerf}}
+**{{Balance|Content=Kaze's ninja aspect Super recharge rate was decreased by 9%.|Change=Nerf}}
+**{{Balance|Content=Kaze's Gracious Host Gadget speed boost was decreased to 20% (from 30%) when switching to ninja aspect.|Change=Nerf}}
+**{{Balance|Content=Kaze's Gracious Host Gadget speed boost no longer stacks with other speed boosts.|Change=Nerf}}
+**{{Balance|Content=Kaze's Hensojutsu Gadget duration was decreased to 1.5 seconds (from 2) when switching to ninja aspect.|Change=Nerf}}
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge speed boost in her ninja aspect was decreased to 20% (from 26%).|Change=Nerf}}
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge damage boost in her ninja aspect was decreased to 5% (from 25%).|Change=Nerf}}
+**{{Balance|Content=Kaze's Hypercharge charge rate Power Cards were replaced with the bush visibility Power Cards.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Kaze's geisha aspect health was increased to 4100 (from 4000).}}
+**{{Balance|Content=Kaze's Gracious Host Gadget speed boost was increased to 30% (from 20%) when switching to ninja aspect.|Change=Buff}}
+*17/01/26:
+**{{Balance|Content=The Clockwork Kaze skin was added. It was featured as a Steampunk skin.|Change=Neutral}}
+*23/01/26:
+**{{Balance|Buff|Kaze's Ninja aspect health was increased to 4100 (from 4000).}}
+*25/02/26:
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge center damage was decreased to 128 (from 130) per second while in her geisha aspect.|Change=Nerf}}
+*04/03/26:
+**{{Balance|Content=Fixed an issue where if Kaze was defeated before Fan Storm or Hyper Fan landed, the ability would only deal 1 damage per second.|Change=Neutral}}
+*22/04/26:
+**{{Balance|Content=Kaze's Ancient Energy Hypercharge center damage was increased to 130 (from 128) per second while in her geisha aspect.|Change=Buff}}
+**{{Balance|Nerf|Kaze's Geisha aspect Super damage was decreased to 650 (from 1300) but now scales with Power Levels.}}
+**{{Balance|Nerf|Kaze's Geisha aspect Super recharge rate was decreased by 50%.}}
+**{{Balance|Neutral|Fixed an issue where Kaze's Geisha aspect Super damage did not scale with buffs and debuffs, including damage boosts.}}
+*13/05/26:
+**{{Balance|Buff|Kaze's Geisha aspect Super recharge rate was increased by 100%.}}
+*01/09/26:
+**{{Balance|Neutral|Kaze's rarity was changed to Ultra (from Ultra Legendary).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Kaze's movement speed to 855 (from 820) in her Geisha aspect, and to 750 (from 720) in her Ninja aspect.}}
+*16/09/26:
+**{{Balance|Neutral|Kaze no longer receives an unintended respawn shield when changing forms in [[Showdown]].}}
+
+==Cosmetics==
+===Skins (4)===
+====Geisha====
+{{Skin Gallery
+|Name1=Fruity|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Clockwork|Cost2=299 Gems|Campaign2=Steampunk|Rarity2=Legendary
+|TrueSkins = yes}}
+
+====Ninja====
+{{Skin Gallery
+|For=Ninja
+|Name1=Fruity|Campaign1=Starry Meal|Rarity1=Rare
+|Name2=Clockwork|Campaign2=Steampunk|Rarity2=Legendary
+|TrueSkins = yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Kaze
+|-
+! Skin
+! colspan="11" |Pins
+{{Pin Table}}
+|-
+|[[File:Kaze_Ninja-Default.png|center|120x120px|link=Kaze]]
+|{{Pin|Kaze Ninja|Neutral|Rarity = Free}}
+|{{Pin|Kaze Ninja|Happy|Rarity = Common}}
+|{{Pin|Kaze Ninja|Sad|Rarity = Common}}
+|{{Pin|Kaze Ninja|Angry|Rarity = Common}}
+|{{Pin|Kaze Ninja|GG|Rarity = Rare}}
+|{{Pin|Kaze Ninja|Clap|Rarity = Rare}}
+|{{Pin|Kaze Ninja|Thanks|Rarity = Epic}}
+|{{Pin|Kaze Ninja|Phew|Rarity = Epic}}
+|{{Pin|Kaze Ninja|Special|Rarity = Epic}}
+|{{Pin|Kaze Ninja|Facepalm|Rarity = Exclusive}}
+|{{Pin|Kaze Ninja|Hypercharge|Rarity = Exclusive}}
+{{Pin Table|Clockwork}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Kaze|Rarity = Common}}
+|{{Spray|Type = Kaze Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Clockwork Kaze|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Kaze1}}
+|{{Pfp|Kaze2}}
+|{{Pfp|Kaze3}}
+|{{Pfp|Kaze4}}
+|{{Pfp|Clockwork Kaze}}
+|}
+
+{{Navigation}}
+
+[[pt:Kaze]]
+[[ru:Кадзэ]]

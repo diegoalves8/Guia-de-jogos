@@ -1,0 +1,262 @@
+{{FutureUpdate}}{{Protection}}{{MagicWords}}<blockquote>{{SimilarTitle|Ruby|the Brawler being released alongside Rey}}</blockquote>
+{{Brawler Infobox
+|Title = Checkmate
+|PrestigeTitle = Grandmaster
+|Rarity = Mythic|Class = Marksman
+|MovementSpeed = 750 (Normal)
+|VoiceActor = Nicola Lanci
+|HealthLabel = Health|Health = 3500
+<!-- Attack -->
+|AttackRange = 10 (Very Long)|Reload = 1.8 seconds (Normal)|AttackSuperCharge = |AttackSpeed = 4000|AttackWidth = |AttackBullets =
+|AttackLabel = Damage|Attack = 1000
+|AttackLabel2 = Maximum marked damage|Attack2 = 1800
+<!-- Super -->
+|SuperSpeed = 4000|SuperRange = 9.67 (Very Long)|SuperSuperCharge = |SuperBullets = |SuperSpread =
+|SuperLabel = Damage|Super = 2000
+|SuperLabel2 = Maximum marked damage|Super2 = 3600
+<!-- Gadget -->
+|Gadget1Name = Queen's Gambit|Gadget1Label = Damage|Gadget1 = 400|Gadget1Cooldown = 15 seconds|Gadget1Range = 6
+|Gadget2Name = Rey Lopez|Gadget2Cooldown = 18 seconds
+<!-- Star Power -->
+|StarPower2Name = |StarPower2 = |StarPower2Label =
+<!-- Other Links -->
+|Previous = Vince|Next = Ruby|Image=Rey Skin-Default.png}}
+{{Quote|Rey dominates brawls with his queen, [[Ruby]], at his side. He makes every shot count and never misses an opportunity to exploit a gap in his opponent's defenses (or to impress his wife).}}{{Portrait}}
+Rey is a {{Rarity|Mythic}} [[Brawler]], who has moderate health, a very long attack range, a variable damage output, immense utility with his Super, a moderately slow reload speed, and a powerful synergy with [[Ruby]]. He is the 110th/111th Brawler added to the game, alongside Ruby. His Trait allows him to heal and move faster towards an ally Ruby when she is on the field. His attack is a marker onto enemies that increases any damage dealt to them if they're inside a reticle. For his Super, Rey charges and marks all targets in the radius, gaining a shield in the process, and then automatically attacks by shooting projectiles that slightly home in on the enemies. His first Gadget, Queen's Gambit, fires 5 projectiles in a cone that deal low damage and knocks enemies back. His second Gadget, Rey Lopez, throws a knight that marks and temporarily slows enemies. His first Star Power, Clock Management, slows all enemies within his Super Radius. His second Star Power, En Passant, is a small projectile that bounces toward the nearest enemy that is within Rey's range, after he hits an enemy with a fully charged mark. His Hypercharge, Winning Position, makes his Super reveal invisible enemies, and they are marked by a stronger mark that grants Rey higher damage for his Super.
+
+==Trait==
+{{Quote|POWER COUPLE <br><br> Rey's main attacks heal Ruby for 1600 health. He also moves 10% faster towards her}}When an ally Ruby is on the field, Rey gains the ability to heal her and will also move towards her faster, able to reach each other quickly if both are approaching each other.{{Trait|Rey-Power Couple}}
+
+== Attack: Marked for Greatness ==
+{{Quote|Rey's main attack marks his enemies, filling a meter after 1.1 sec. Rey's attacks deal extra damage the fuller the meter is.}}
+Rey fires a single projectile that deals variable damage based on a charging mark. While aiming, a blue reticle appears around the aiming circle. Opponents who stand inside the reticle begin charging a blue mark, indicated by a blue circle around them. Even if the opponent is inside a bush, they can still be marked. The mark takes 1.1 seconds to fully charge and fades shortly after the opponent leaves the reticle. Multiple opponents can be marked at the same time if they are all inside the reticle. The more a mark is charged, the more damage the projectile deals to that opponent. Opponents can see if they are currently marked by Rey.
+
+== Super: Endgame ==
+{{Quote|Rey aims for up to 3 sec, charging a 30% shield and marking enemies. He will then fire at any visible enemy in range. Using the Super again in this period fires faster.}}
+Rey creates a large area that charges a mark on enemies within range for up to 3 seconds. During this time, he gains a 30% shield. Opponents behind walls, inside bushes, or invisible are not marked, even if they stand inside the area. After 3 seconds, or when Rey activates the Super a second time early, he fires a projectile at every visible marked enemy in range. The projectile homes slightly towards enemies and can reach outside the marking circle. Activating early deals reduced damage if the marks have not fully charged. During the charging period, Rey cannot use his normal attack. Opponents can see if they are currently marked by Rey's Super, but not the charging area.
+
+== Gadgets ==
+=== Queen's Gambit ===
+{{Quote|Rey fires a cone of 5 queens that deal 500 damage and push back any enemies they hit.}}{{Gadget|1}}
+Rey fires 5 projectiles in a cone that deal a small amount of damage and push enemies out of range.
+
+=== Rey Lopez ===
+{{Quote|Rey throws a knight that marks and slows enemies by 20% for 2 sec.}}{{Gadget|2}}
+Rey throws a projectile that slows all enemies within a small radius by 20% for 2 seconds. Enemies hit will also have a fully charged mark that Rey could use to increase his attack damage. The projectile can be thrown over walls.
+
+== Star Powers ==
+=== Clock Management ===
+{{Quote|Rey slows enemies being marked by his Super by 25%.}}{{StarPower|1}}
+With this Star Power equipped, all enemies within his Super radius will be slowed down by 25%.
+
+=== En Passant ===
+{{Quote|When Rey hits a fully marked enemy with his main attack or Super, a full mark spreads to the closest enemy in range.}}{{StarPower|2}}
+With this Star Power equipped, after Rey hits an enemy with a fully charged mark, a small projectile will bounce toward the nearest enemy that is within Rey's range. The extra projectile does not deal any damage, but applies a full mark to the second enemy, allowing Rey to deal maximum damage to the enemy.
+
+== Hypercharge: Winning Position ==
+{{Quote|Rey's Super reveals invisible enemies and applies Hyper marks that deal up to 5400 damage when triggered.}}{{Hypercharge}}
+When activated, during the charging period of Rey's Super, he reveals all invisible enemies and enemies inside bushes within the area. All enemies (including those revealed) will be marked by a stronger mark that grants Rey higher damage for his Super. However, enemies behind a wall remain unmarked. Rey also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+
+* Spinning the attack joystick quickly can keep enemies marked for a prolonged amount of time.
+* Queens Gambit it heavily effective to deal with close range brawlers and brawlers that are charging a deadly super (Mandy, Frank, etc.).
+* You can mark an enemy brawler with the base mechanic, hit them, then hit them with Rey Lopez and hit them again, which very useful if you want to deal massive damage ina short period of time.
+* With Clock management, this can significantly slow enemies down, so allies can help pick the enemies off easily.
+* Doing an main attack, hypercharge super, attack, Rey Lopez, and Main attack again will give out an high damage output.
+
+==Voice Lines==
+{{TranslationToggle|Spanish}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Giving Ruby Life||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = rey start vo 01.ogg|Filedescription = "Ruby and Rey are here to slay!"}}
+|{{Ogg|Filename = rey lead vo 01.ogg|Filedescription = "I might be winning, she's still the prize."}}
+|{{Ogg|Filename = rey hurt vo 01.ogg|Filedescription = "Checked, but not mate'd."}}
+|{{Ogg|Filename = rey kill vo 01.ogg|Filedescription = "Straight to the ban list, next!"}}
+|{{Ogg|Filename = rey die vo 01.ogg|Filedescription = "Checkmate on me, this time."}}
+|{{Ogg|Filename = rey givesrubylife vo 01.ogg|Filedescription = "Ruby first, always."}}
+|{{Ogg|Filename = rey atk vo 01.ogg|Filedescription = "Check."}}
+|{{Ogg|Filename = rey ulti vo 01.ogg|Filedescription = "For Ruby!"}}
+|-
+|{{Ogg|Filename = rey start vo 02.ogg|Filedescription = "Darling, shall we restore a little order?"}}
+|{{Ogg|Filename = rey lead vo 02.ogg|Filedescription = "Bow for the rulers of Toyland."}}
+|{{Ogg|Filename = rey hurt vo 02.ogg|Filedescription = "Careful, Ruby hates a messy game."}}
+|{{Ogg|Filename = rey kill vo 02.ogg|Filedescription = "Fair play is my love language."}}
+|{{Ogg|Filename = rey die vo 02.ogg|Filedescription = "Ruby!"}}
+|{{Ogg|Filename = rey givesrubylife vo 02.ogg|Filedescription = "Come here, I've got you."}}
+|{{Ogg|Filename = rey atk vo 02.ogg|Filedescription = "Locked in."}}
+|{{Ogg|Filename = rey ulti vo 02.ogg|Filedescription = "No more shortcuts!"}}
+|-
+|{{Ogg|Filename = rey start vo 03.ogg|Filedescription = "Meeple shift is over, the king and queen are home."}}
+|{{Ogg|Filename = rey lead vo 03.ogg|Filedescription = "Order restored, romance ongoing."}}
+|{{Ogg|Filename = rey hurt vo 03.ogg|Filedescription = "Ow, still better than cheating."}}
+|{{Ogg|Filename = rey kill vo 03.ogg|Filedescription = "Permaban!"}}
+|{{Ogg|Filename = rey die vo 03.ogg|Filedescription = "Ah! Lost track."}}
+|{{Ogg|Filename = rey givesrubylife vo 03.ogg|Filedescription = "The board needs its queen."}}
+|{{Ogg|Filename = rey atk vo 03.ogg|Filedescription = "Trapped."}}
+|{{Ogg|Filename = rey ulti vo 03.ogg|Filedescription = "Castle power, engaged!"}}
+|-
+|{{Ogg|Filename = rey start vo 04.ogg|Filedescription = "Ah, chaos, how romantic."}}
+|{{Ogg|Filename = rey lead vo 04.ogg|Filedescription = "King and queen undefeated!"}}
+|{{Ogg|Filename = rey hurt vo 04.ogg|Filedescription = "Ooh, spicy! Ruby, did you see that?"}}
+|{{Ogg|Filename = rey kill vo 04.ogg|Filedescription = "That's what happens when you cut corners."}}
+|{{Ogg|Filename = rey die vo 04.ogg|Filedescription = "The king was rigged."}}
+|{{Ogg|Filename = rey givesrubylife vo 04.ogg|Filedescription = "Darling, don't fold!"}}
+|{{Ogg|Filename = rey atk vo 04.ogg|Filedescription = "Marked."}}
+|{{Ogg|Filename = rey ulti vo 04.ogg|Filedescription = "Darling, watch this!"}}
+|-
+|{{Ogg|Filename = rey start vo 05.ogg|Filedescription = "Let's make them play fair."}}
+|{{Ogg|Filename = rey lead vo 05.ogg|Filedescription = "They play, we rule!"}}
+|{{Ogg|Filename = rey hurt vo 05.ogg|Filedescription = "A check on me? Bold."}}
+|{{Ogg|Filename = rey kill vo 05.ogg|Filedescription = "One less space, one more move."}}
+|{{Ogg|Filename = rey die vo 05.ogg|Filedescription = "Save your tears, my love."}}
+|{{Ogg|Filename = rey givesrubylife vo 05.ogg|Filedescription = "Take my heart, keep it."}}
+|{{Ogg|Filename = rey atk vo 05.ogg|Filedescription = {{Translate|"¡Jaque!"|"Check!"}}}}
+|{{Ogg|Filename = rey ulti vo 05.ogg|Filedescription = "The board belongs to us!"}}
+|-
+|{{Ogg|Filename = rey start vo 06.ogg|Filedescription = "Smile for me, Ruby! Then, we begin."}}
+|{{Ogg|Filename = rey lead vo 06.ogg|Filedescription = "Winning is my second love language."}}
+|{{Ogg|Filename = rey hurt vo 06.ogg|Filedescription = "I will keep you in check."}}
+|{{Ogg|Filename = rey kill vo 06.ogg|Filedescription = "Meeple would have let that slide. We don't!"}}
+|{{Ogg|Filename = rey die vo 06.ogg|Filedescription = "Ah, I retire, for now."}}
+|{{Ogg|Filename = rey givesrubylife vo 06.ogg|Filedescription = "Without you, the game is meaningless."}}
+|{{Ogg|Filename = rey atk vo 06.ogg|Filedescription = {{Translate|"¡Toma!"|"Take!"}}}}
+|{{Ogg|Filename = rey ulti vo 06.ogg|Filedescription = "Checkmate!"}}
+|-
+|{{Ogg|Filename = rey start vo 07.ogg|Filedescription = "Ruby and I, power couple, literally."}}
+|{{Ogg|Filename = rey lead vo 07.ogg|Filedescription = "Ahead, and still tracking!"}}
+|{{Ogg|Filename = rey hurt vo 07.ogg|Filedescription = "They took a pawn? I still have the queen."}}
+|{{Ogg|Filename = rey kill vo 07.ogg|Filedescription = "Check check check, gone!"}}
+|{{Ogg|Filename = rey die vo 07.ogg|Filedescription = {{Translate|"¡Que me quiten lo bailao!"|""}}}}
+|
+|
+|{{Ogg|Filename = rey ulti vo 07.ogg|Filedescription = "No mercy! Only love!"}}
+|-
+|{{Ogg|Filename = rey start vo 08.ogg|Filedescription = "The board is set, so is my heart."}}
+|{{Ogg|Filename = rey lead vo 08.ogg|Filedescription = "They can't hide, neither can my feelings."}}
+|{{Ogg|Filename = rey hurt vo 08.ogg|Filedescription = {{Translate|"¡Tierra trágame!"|"Earth, swallow me!"}}}}
+|{{Ogg|Filename = rey kill vo 08.ogg|Filedescription = "Tracked, tagged, terminated."}}
+|{{Ogg|Filename = rey die vo 08.ogg|Filedescription = {{Translate|"¡Uh, se acabó!"|"Uh, it's over!"}}}}
+|
+|
+|{{Ogg|Filename = rey ulti vo 08.ogg|Filedescription = "Watch the board light up, darling."}}
+|-
+|{{Ogg|Filename = rey start vo 09.ogg|Filedescription = "King and queen, back on the scene."}}
+|{{Ogg|Filename = rey lead vo 09.ogg|Filedescription = {{Translate|"¡El que parte reparte, se lleva la mejor parte!"|""}}}}
+|{{Ogg|Filename = rey hurt vo 09.ogg|Filedescription = {{Translate|"¡Sarna con gusto no pica!"|""}}}}
+|{{Ogg|Filename = rey kill vo 09.ogg|Filedescription = "Ha ha ha ha! You were marked for destruction!"}}
+|{{Ogg|Filename = rey die vo 09.ogg|Filedescription = {{Translate|"¡Genio y figura, hasta la sepultura!"|"Genius and figure, until burial!"}}}}
+|
+|
+|{{Ogg|Filename = rey ulti vo 09.ogg|Filedescription = {{Translate|"¡Jaque, y mate!"|"Check, and mate!"}}}}
+|-
+|{{Ogg|Filename = rey start vo 10.ogg|Filedescription = "Every piece has a place. Cheaters, don't."}}
+|
+|
+|{{Ogg|Filename = rey kill vo 10.ogg|Filedescription = "One less space on our board."}}
+|{{Ogg|Filename = rey die vo 10.ogg|Filedescription = {{Translate|"¡Que me entierren con la reina!"|"Let them bury me with the queen!"}}}}
+|
+|
+|{{Ogg|Filename = rey ulti vo 10.ogg|Filedescription = {{Translate|"¡Por mi reina!"|"For my queen!"}}}}
+|-
+|{{Ogg|Filename = rey start vo 11.ogg|Filedescription = "Locked on, to love."}}
+|
+|
+|{{Ogg|Filename = rey kill vo 11.ogg|Filedescription = {{Translate|"¡Aquí te pillo, aquí te mato!"|"Here I catch you, here I Kill you."}}}}
+|
+|
+|
+|{{Ogg|Filename = rey ulti vo 11.ogg|Filedescription = {{Translate|"¡A por ellos, que son pocos y cobardes!"|"Let's go for them, they are a few and cowards!"}}}}
+|-
+|{{Ogg|Filename = rey start vo 12.ogg|Filedescription = {{Translate|"¡Qué empiece la función!"|"Let the show begin!"}}}}
+|
+|
+|{{Ogg|Filename = rey kill vo 12.ogg|Filedescription = {{Translate|"¡A Rey muerto, Rey puesto!"|""}}}}
+|
+|
+|
+|{{Ogg|Filename = rey ulti vo 12.ogg|Filedescription = {{Translate|"¡Fuego a discreción!"|"Fire at will!"}}}}
+|-
+|{{Ogg|Filename = rey start vo 13.ogg|Filedescription = {{Translate|"Tanto monta, monta tanto."|""}}}}
+|
+|
+|{{Ogg|Filename = rey kill vo 13.ogg|Filedescription = {{Translate|"¡El que la hace, la paga!"|""}}}}
+|
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = rey kill vo 14.ogg|Filedescription = {{Translate|"¡Se acabó lo que se daba!"|""}}}}
+|
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = rey kill vo 15.ogg|Filedescription = {{Translate|"¡Pieza tocada, pieza jugada!"|"Touched piece, Played piece!"}}}}
+|
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = rey kill vo 16.ogg|Filedescription = {{Translate|"A otra cosa, mariposa."|"To another thing, butterfly!"}}}}
+|
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = rey kill vo 17.ogg|Filedescription = {{Translate|"Quien juega con fuego, se quema."|"Whoever plays with fire, burns."}}}}
+|
+|
+|
+|
+|}
+
+<!--==Rey Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Rey}}
+
+==History==
+==Cosmetics==
+===Skins===
+{{Skin Gallery
+|Name1=|Cost1=|Campaign1=|Rarity1=}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Vince
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Rey|Rarity = Common}}
+|{{Spray|Type = Rey Knight|Rarity = Common}}
+|{{Spray|Type = Rey Card|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Rey1}}
+|{{Pfp|Rey2}}
+|
+|{{Pfp|Rey4}}
+|}-->
+
+{{Navigation}}
+
+[[ru:Рэй]]

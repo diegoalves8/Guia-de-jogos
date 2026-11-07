@@ -1,0 +1,511 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Lover|PrestigeTitle = Trickshot Pro|Rarity = Super Rare|Class = Damage Dealer|MovementSpeed = 750 (Normal)<br>900 (with Robo Retreat)<br>1050 (with Robo Retreat and Star Buffie)|HealthLabel = Health|Health = 3000|AttackRange = 9.67 (Very Long)|Reload = 1.1 seconds (Very Fast)|AttackBullets = 5|AttackSuperCharge = 6.375%|AttackLabel = Damage per bullet|Attack = 300|SuperRange = 13.33 (Very Long)|SuperBullets = 12|SuperSuperCharge = 9.45%|SuperLabel = Damage per bullet|Super = 360|AttackSpread=6.75°|AttackSpeed=3478|AttackWidth=0.67|SuperSpread=9°|SuperSpeed=4891|SuperWidth=0.67|Gadget1Name = Multiball Launcher|Gadget1 = 3200|Gadget1Cooldown=22 seconds|Gadget1Label= Health|Gadget1Label2= Damage per bullet|Gadget12=640|Gadget2Name = Multiball|Gadget2Cooldown=17 seconds|Gadget2 = 1440|Gadget2Label= Damage per bullet|StarPower1Name = Super Bouncy|StarPower1 = 216|StarPower1Label = Damage Increase|VoiceActor=Martin Schjøler|Previous=Dynamike|Next=Darryl|HyperchargeMultiplier=35%|AttackHyperchargeCharge=2.225%|SuperHyperchargeCharge=3.3%|Gadget1Range=7.33|Gadget2Range=9.67}}
+{{Quote|Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.}}
+{{Portrait}}
+Rico (formerly Ricochet) is a {{Rarity|Super Rare}} [[Brawler]] with moderately low health but a very fast reload speed and a high burst damage potential. He was one of the 15 Brawlers who released at the first Beta launch. Both his attack and Super fire long-ranged bullets that can bounce off walls and continue traveling. However, his Super travels further and pierces, dealing damage to multiple enemies at once, though the bullets can only hit the target once. If used correctly, Rico can defeat enemies around walls without coming under enemy fire. His first Gadget, Multiball Launcher, deploys a vending machine that provides cover for him and his teammates, and blasts waves of bouncy bullets all around it upon being destroyed. His second Gadget, Multiball, fires a large bullet that splits into 3 smaller bullets upon hitting a wall or enemy Brawlers. His first Star Power, Super Bouncy, grants extra damage to his bullets from his attack or Super if they bounce. His second Star Power, Robo Retreat, increases his movement speed when he is at low health. His Hypercharge, Trick Shot King, allows the projectiles from his Super to bounce much further than normal.
+
+==Attack: Bouncy Bullets==
+{{Quote|Rico's bullets bounce off walls, gaining range. They can hit enemies behind cover.}}Rico fires a burst of five long-ranged bullets with a slight spread that can bounce off walls, and they each gain 1.67 tiles of additional range for every bounce. This attack has a moderate cooldown, and it takes 0.6 seconds to complete.
+
+==Super: Trick Shot==
+{{Quote|Rico fires a long burst of bullets that pierce through enemies and bounce off walls, gaining range.}}Rico's Super fires a larger, longer-ranged burst of twelve piercing bullets with a slight spread that can bounce off walls, and they each gain 1.67 tiles of additional range for every bounce. Even though the bullets can pierce through enemies, they can only damage enemies once. This Super has a long cooldown and takes 1.25 seconds to complete. However, he can't attack or reload while using his Super, and it is cancelled if Rico is knocked back, pulled, or stunned. 
+
+==Gadgets==
+===Multiball Launcher===
+{{Quote|Rico deploys a vending machine with 4000 health. Rico can bounce attacks off the vending machine until it explodes, firing bouncing projectiles in all directions. Cooldown: 22 seconds.}}{{Gadget|1}}
+Rico deploys a vending machine that has 66.67% of his health. It blocks non-piercing or bouncing/splitting narrow enemy fire, and Rico can bounce his attack and Super off it. If the vending machine is destroyed, it blasts a wave of piercing bullets with a range of 11.67 tiles all around himself that each deal 133.33% the damage as one of his attack bullets. These bullets behave identically to his Super's bullets, but last for a shorter period. Even though the bullets can hit multiple enemies, they can only damage each enemy once. If Rico places down another vending machine, the initial one will be destroyed and will blast a wave of piercing bullets.
+
+{{Quote|When Rico bounces bullets off the vending machine, extra bullets are added to it when it explodes.}}{{Buffie|Gadget}}
+With the Buffie, if Rico bounces bullets off the vending machine, more bullets will be added to it when it explodes.
+
+===Multiball===
+{{Quote|Rico fires a big bullet that splits into 3 smaller bullets when hitting a wall or enemy Brawlers. Cooldown: 17 seconds.}}{{Gadget|2}}Rico fires a big bullet that splits into 3 smaller bullets upon hitting a wall or enemy Brawlers. Both the big and small bullets deal damage equal to 300% of the damage of one of Rico's bullets, and the small bullets can also bounce off walls. Even though the smaller bullets can't pierce through enemies, they can stack its damage dealt to the enemy by behind the enemy by hitting them multiple bullets at once. This Gadget doesn't use ammo. 
+
+{{Quote|Bullets also slow enemies.}}{{Buffie|Gadget}}
+With the Buffie, both the big and small projectiles slow enemies hit by 20% for 1.5 seconds.
+
+==Star Powers==
+===Super Bouncy===
+{{Quote|Rico's bullets, from attack and Super alike, get supercharged by their first bounce and deal +240 damage!}}{{StarPower|1}}
+If Rico's bullets (from either his main attack or his Super) bounce off a wall, they will glow and deal 240 additional damage at Power 11, increasing his main attack bullets' damage by 40% and his Super bullets' damage by 33.33%. The bullets can only be supercharged once, and enemies will take regular damage if the bullets aren't bounced before they hit enemies. 
+
+{{Quote|Bounced bullets also give 10% Super charge on hit.}}{{Buffie|Star}}
+With the Buffie, the bounced bullets also charge the Super by 10% more.
+
+===Robo Retreat===
+{{Quote|Rico runs 25% faster when his health falls below 40%.}}{{StarPower|2}}
+When Rico's health falls below 40%, he runs 25% faster, allowing him to move much faster than most Brawlers and escape enemies more easily. This speed boost disappears when his health restores above 40%.
+
+{{Quote|Increase movement speed by up to 40% when Rico is at 10% health.}}{{Buffie|Star}}
+With the Buffie, Rico's movement speed boost increases as his health decreases, reaching up to 40% at 10% health.
+
+==Hypercharge: Trick Shot King==
+{{Quote|Rico's Super's projectiles bounce even further!}}{{Hypercharge}}
+When activated, projectiles from Rico's Super bounce much further than usual, gaining 6 tiles of additional range for the first 8 bounces, instead of 6. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Rico's Main Attack has increased bullet speed and fires additional bullets.}}{{Buffie|Hyper}}
+With the Buffie, Rico's attack has 7 bullets and a faster projectile speed. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|All Rico's projectiles bounce more.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Rico's projectiles from his attack, Super, and Multiball Launcher Gadget bounced more, and therefore stayed on the map longer. The healing from his Bouncy Castle Gadget was also decreased by 50%.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|More bullet bounces? More bullet bounces.}}<div style="float:right">[[File:Inferno Wasabi.png|64px|link=]]</div>Rico's projectiles could only gain additional range for the first 5 bounces instead of 6, but they gained 6.67 tiles from each bounce, for a total attack range of 43 tiles. This did not affect his Super's projectiles.
+
+==Tips==
+===Game Modes and Maps===
+*Rico is an exceptional asset for Special Events. In these scenarios, he delivers sustained fire on robots thanks to his impressive damage output and rapid reload speed, all while remaining safe by attacking from behind cover. His Robo Retreat Star Power proves invaluable for evading danger, whether it’s while waiting for teammates to respawn or evading the Boss and its attacks. Additionally, his piercing and high-damaging Super enables him to inflict substantial damage on robots, further enhancing his effectiveness on the battlefield.
+*Because Rico can bounce his shots off walls, which increases each bullet's range for every bounce, he's outstanding on enclosed maps such as [[Cavern Churn]] and [[Pinball Dreams]], where other sharpshooters would have difficulty hitting shots due to the abundance of walls.
+
+===Recommended Build===
+*Rico's Multiball Launcher Gadget deals very high damage if all of the bullets hit. However, it's very inconsistent as the bullets spread out from the launcher, so it's best to use this Gadget at point-blank range so all of the bullets can hit a target. However, this Gadget is mainly used in an enclosed area where the bullets will bounce multiple times and guarantee a hit to an enemy trapped in the area.
+*Rico and [[Meeple]] can be used as a deadly trap if used correctly. Rico fills up his vending machine all the way and waits for his Gadget to come off, cooldown, and then when an enemy comes, Meeple throws down Mansions of Meeple and Rico throws down a new Gadget and destroys his old one, instantly doing damage and possibly killing an enemy (this requires having a Gadget Buffie for Rico).
+*Rico's Multiball Launcher does require a enemy to destroy it, however if you have waited enough and the enemy has not destroyed it, you can place down another Gadget and manually destroy the old Gadget 
+*Rico's Super Bouncy Star Power grants his bullets an extra 256 damage upon bouncing. While it doesn't seem like much additional damage for each bullet, when all five bullets are bounced, an additional 1280 damage is added, making his total damage 4480. Similarly, a bounced Super will deal a total of 11712 damage. This encourages Rico to bounce shots off walls for them to deal more damage (especially in maps like [[Snaked Assault]] and [[Turnaround]]) where he has the potential to bounce his shots from a safe distance. However, don't shoot Rico's Super directly onto a target and expect the bullets to deal damage to the target again when they bounce off another wall, as his Super's bullets only deal damage once, and to properly use this Star Power, you must bounce the Super off a wall in such a way that the bounced shots hit the target and not the normal shots.
+*Rico's Robo Retreat Star Power allows Rico to perform guerrilla tactics by rushing into fights and then escaping when you're on low health. Doing so allows more of your bullets to hit enemies due to the increased accuracy. If you're a good sniper, you should back away from fights and attack from a distance. If you're a good dodger, you can keep firing to prevent Rico from healing and stay below 40% health to use the speed buff to dodge enemy fire and even outrun fast Brawlers like assassins, tanks, and [[Max]].
+
+===Strategies===
+===Other===
+*When shooting off of a wall at a fleeing enemy, move towards the place you're shooting to increase the range of your bullets so that you can hit more of them. If they're hiding in bushes, move side-to-side while shooting off of the wall to cover more ground with your bullets.
+*Similarly to [[Colt]], though difficult to perform, Rico can chain his Super if every bullet from his Super successfully hits an enemy Brawler. This is more practical if Rico hits several enemies in a single Super.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 01.ogg|Filedescription = "I do not come in peace."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 01.ogg|Filedescription = "I do not come in peace."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded start vo 01.ogg|Filedescription = "I bring the Bling."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick lead 01.ogg|Filedescription = Rico laughs}}'''Guard:'''
+{{Ogg|Filename = Evil rick lead vo 01.ogg|Filedescription = Rico laughs}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 01.ogg|Filedescription = "Just another regular day at the top of the world."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick hurt 01.ogg|Filedescription = "You hurt me."}}'''Guard:'''
+{{Ogg|Filename = Evil rick hurt vo 01.ogg|Filedescription = "You hurt me."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 02.ogg|Filedescription = "Respect the royal ruler."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 01.ogg|Filedescription = "I am not sorry."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 01.ogg|Filedescription = "I am not sorry."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 01.ogg|Filedescription = "Brawl king in the house."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick die 01.ogg|Filedescription = "Sadness."}}'''Guard:'''
+{{Ogg|Filename = Evil rick die vo 01.ogg|Filedescription = "Sadness."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 01.ogg|Filedescription = "Royal pain."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 01.ogg|Filedescription = "Domination mode engaged."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 01.ogg|Filedescription = "Domination mode engaged."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded ulti vo 01.ogg|Filedescription = "Blue-blooded brutality."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 02.ogg|Filedescription = "Ready for battle."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 02.ogg|Filedescription = "Ready for battle."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded start vo 02.ogg|Filedescription = "Ready to rule."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick lead 02.ogg|Filedescription = "I am ridiculously amazing."}}'''Guard:'''
+{{Ogg|Filename = Evil rick lead vo 02.ogg|Filedescription = "I am ridiculously amazing."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 02.ogg|Filedescription = "Loaded and leading."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick hurt 02.ogg|Filedescription = "That was painful."}}'''Guard:'''
+{{Ogg|Filename = Evil rick hurt vo 02.ogg|Filedescription = "That was painful."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 01.ogg|Filedescription = "That was rather painful."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 02.ogg|Filedescription = Rico laughs}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 02.ogg|Filedescription = Rico laughs}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 02.ogg|Filedescription = Rico laughs}}
+|'''Normal:'''
+{{Ogg|Filename = Rick die 02.ogg|Filedescription = Rico gives a weak cry}}'''Guard:'''
+{{Ogg|Filename = Evil rick die vo 02.ogg|Filedescription = Rico gives a weak cry}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 02.ogg|Filedescription = "Oh, the indignity."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 02.ogg|Filedescription = "Playtime is over."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 02.ogg|Filedescription = "Playtime is over."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded ulti vo 02.ogg|Filedescription = "Royal rampage."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 03.ogg|Filedescription = "Let's go."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 03.ogg|Filedescription = "Let's go."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded start vo 03.ogg|Filedescription = "I'm so shiny."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick lead 03.ogg|Filedescription = "Robot power."}}'''Guard:'''
+{{Ogg|Filename = Evil rick lead vo 03.ogg|Filedescription = "Robot power."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 03.ogg|Filedescription = "Royal power."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick hurt 03.ogg|Filedescription = "Ow ow ow!"}}'''Guard:'''
+{{Ogg|Filename = Evil rick hurt vo 03.ogg|Filedescription = "Ow ow ow!"}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 03.ogg|Filedescription = "Bling god goes owie owie."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 03.ogg|Filedescription = "I got you."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 03.ogg|Filedescription = "I got you."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 03.ogg|Filedescription = "You got bestified."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick die 03.ogg|Filedescription = "Owawa owawa ow."}}'''Guard:'''
+{{Ogg|Filename = Evil rick die vo 03.ogg|Filedescription = "Owawa owawa ow."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 03.ogg|Filedescription = "Don't look at me."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 03.ogg|Filedescription = "Danger. Danger."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 03.ogg|Filedescription = "Danger. Danger."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded ulti vo 03.ogg|Filedescription = "Royal roulette."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 04.ogg|Filedescription = "Do not run away."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 04.ogg|Filedescription = "Do not run away."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded start vo 05.ogg|Filedescription = "Locked and absolutely loaded."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick lead 04.ogg|Filedescription = "Total pwnage."}}'''Guard:'''
+{{Ogg|Filename = Evil rick lead vo 04.ogg|Filedescription = "Total pwnage."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 04.ogg|Filedescription = "Bow to the Bling king."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick hurt 04.ogg|Filedescription = "Why did you do that?"}}'''Guard:'''
+{{Ogg|Filename = Evil rick hurt vo 04.ogg|Filedescription = "Why did you do that?"}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 04.ogg|Filedescription = "Envy is a terrible thing."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 04.ogg|Filedescription = "You have been eliminated."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 04.ogg|Filedescription = "You have been eliminated."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 04.ogg|Filedescription = "Your services are no longer needed."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick die 04.ogg|Filedescription = "Game over."}}'''Guard:'''
+{{Ogg|Filename = Evil rick die vo 04.ogg|Filedescription = "Game over."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 04.ogg|Filedescription = "Royal ruler regrets roughhousing."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 04.ogg|Filedescription = "Unleashing ultimate power."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 04.ogg|Filedescription = "Unleashing ultimate power."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded ulti vo 05.ogg|Filedescription = "Scatter, peasants."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 05.ogg|Filedescription = "Go team."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 05.ogg|Filedescription = "Go team."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded start vo 04.ogg|Filedescription = "Go me."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick lead 05.ogg|Filedescription = "I got skills to pay the bills."}}'''Guard:'''
+{{Ogg|Filename = Evil rick lead vo 05.ogg|Filedescription = "I got skills to pay the bills."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 05.ogg|Filedescription = "Ruling and rizzing."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick hurt 05.ogg|Filedescription = "You are a hacker."}}'''Guard:'''
+{{Ogg|Filename = Evil rick hurt vo 05.ogg|Filedescription = "You are a hacker."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 05.ogg|Filedescription = "Watch the crown jewels."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 05.ogg|Filedescription = "Sorry."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 05.ogg|Filedescription = "Sorry."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 05.ogg|Filedescription = "Royal pwnage."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick die 05.ogg|Filedescription = "I will be back."}}'''Guard:'''
+{{Ogg|Filename = Evil rick die vo 05.ogg|Filedescription = "I will be back."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 05.ogg|Filedescription = "I shall return to my throne."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 05.ogg|Filedescription = "Run away, think of your future."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 05.ogg|Filedescription = "Run away, think of your future."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Rick start vo 06.ogg|Filedescription = "Teamwork for the win."}}'''Guard:'''
+{{Ogg|Filename = Evil rick start vo 06.ogg|Filedescription = "Teamwork for the win."}}
+|'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 06.ogg|Filedescription = "Regal ruler of rampage."}}
+|'''Sovereign:'''
+{{Ogg|Filename = Rico loaded hurt vo 06.ogg|Filedescription = "But I am rich."}}
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 06.ogg|Filedescription = "That must have hurt."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 06.ogg|Filedescription = "That must have hurt."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 06.ogg|Filedescription = "Pain is for peasants."}}
+|'''Sovereign:'''
+{{Ogg|Filename = Rico loaded die vo 06.ogg|Filedescription = "I shall return."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick ulti 06.ogg|Filedescription = "Just a regular day at the office."}}'''Guard:'''
+{{Ogg|Filename = Evil rick ulti vo 06.ogg|Filedescription = "Just a regular day at the office."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded ulti vo 04.ogg|Filedescription = "Just a regular day in the throne room."}}
+|-
+|
+|'''Sovereign:'''
+{{Ogg|Filename = Rico loaded lead vo 07.ogg|Filedescription = "Victory is my birthright."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Rick kill vo 07.ogg|Filedescription = "You lose. I win."}}'''Guard:'''
+{{Ogg|Filename = Evil rick kill vo 07.ogg|Filedescription = "You lose. I win."}}'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 07.ogg|Filedescription = "I got gains in my veins."}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Sovereign:'''
+{{Ogg|Filename = Rico loaded kill vo 08.ogg|Filedescription = "Loaded and laughing."}}
+|
+|
+|
+|}
+
+==History==
+*20/06/17:
+**{{Balance|Content=The number of projectiles in Ricochet's main attack was increased to 5 (from 4).|Change=Buff}}
+*11/08/17:
+**{{Balance|Content=Ricochet's health was increased to 600 (from 500).|Change=Buff}}
+*04/09/17:
+**{{Balance|Content=Ricochet's rarity was changed to Super Rare (from Rare).|Change=Neutral}}
+*12/09/17:
+**{{Balance|Content=Ricochet's health was increased to 700 (from 600).|Change=Buff}}
+**{{Balance|Content=His reload time was decreased to 1 second (from 1.25).|Change=Buff}}
+*07/12/17:
+**{{Balance|Content=Ricochet's Super Bouncy Star Power was added.|Change=Neutral}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Ricochet's Super Bouncy Star Power damage bonus was decreased to 80 (from 100) per bullet.|Change=Nerf}}
+**{{Balance|Content=Ricochet's Super Bouncy Star Power visual effect was reworked.|Change=Neutral}}
+*16/01/18:
+**{{Balance|Content=Ricochet's health was decreased to 2400 (from 2800).|Change=Nerf}}
+*21/03/18:
+**{{Balance|Content=Ricochet's bullets now travel further every time they bounce by 2 tiles.|Change=Buff}}
+**{{Balance|Content=His projectile size was increased.|Change=Buff}}
+**{{Balance|Content=Ricochet's main attack range was slightly decreased to better fit the screen.|Change=Nerf}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Ricochet's base movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds are increased by 9%.|Change=Neutral}}
+*09/04/18:
+**{{Balance|Content=Ricochet's reload time was increased to 1.2 seconds (from 1).|Change=Nerf}}
+*21/05/18:
+**{{Balance|Content=Ricochet's main attack and Super damage were decreased to 300 (from 320) per bullet.|Change=Nerf}}
+*29/05/18:
+**{{Balance|Content=Ricochet's main attack and Super damage were decreased to 280 (from 300) per bullet.|Change=Nerf}}
+*19/06/18:
+**{{Balance|Content=Ricochet's main attack range was decreased to 9.67 tiles (from 10).|Change=Nerf}}
+**{{Balance|Content=His bounce range was decreased to 1.67 tiles (from 2).|Change=Nerf}}
+*29/01/19:
+**{{Balance|Content=Ricochet's main attack and Super damage were increased to 300 (from 280) per bullet.|Change=Buff}}
+**{{Balance|Content=Ricochet and his Gold Medalist Ricochet skin were remodeled.|Change=Neutral}}
+**{{Balance|Content=Ricochet was renamed to Rico.|Change=Neutral}}
+**{{Balance|Content=Gold Medalist Ricochet was renamed to Loaded Rico and now costs 150 Gems (from 30).|Change=Neutral}}
+**{{Balance|Content=Rico's flavor text was changed from "A former Pool Bot made obsolete by a newer model, Ricochet is banking on his amazing angle-calculation skills to become a great Brawler." to "Rico fires a burst of bullets that bounce off walls. His Super burst is a long barrage of bouncy bullets that pierce targets!"|Change=Neutral}}
+*22/02/19:
+**{{Balance|Content=The Popcorn Rico skin was added.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Rico's main attack and Super damage was increased to 320 (from 300) per bullet.|Change=Buff}}
+**{{Balance|Content=His Super Bouncy Star Power damage bonus was increased to 100 (from 80) per bullet.|Change=Buff}}
+*03/07/19:
+**{{Balance|Content=Rico's Robo Retreat Star Power was added.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Rico's animations were reworked.|Change=Neutral}}
+*07/11/19:
+**{{Balance|Content=Rico's health was increased to 2600 (from 2400).|Change=Buff}}
+*24/12/19:
+**{{Balance|Content=The Ricochet skin became available for every user to claim until 01/01/20.|Change=Neutral}}
+*17/03/20:
+**{{Balance|Content=Rico's Multiball Launcher Gadget was added.|Change=Neutral}}
+*27/05/20:
+**{{Balance|Content=The Guard Rico skin was added.|Change=Neutral}}
+*02/07/20:
+**{{Balance|Content=Rico's Multiball Launcher Gadget was retextured.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Rico's jacket was retextured.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Rico's True Silver and True Gold skins were added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Rico's health was increased to 2800 (from 2600).|Change=Buff}}
+**{{Balance|Content=His Super Bouncy Star Power damage bonus was increased to 124 (from 100) per bullet and the bonus damage now also applies to his Super.|Change=Buff}}
+*15/03/21:
+**{{Balance|Content=Rico, Ricochet, Loaded Rico, Popcorn Rico, and Guard Rico received facial animations.|Change=Neutral}}
+*01/07/21:
+**{{Balance|Content=Rico's Bouncy Castle Gadget was added.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Rico's Bouncy Castle Gadget healing was decreased to 250 (from 300) per shot.|Change=Nerf}}
+*27/10/21:
+**{{Balance|Content=Rico's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*24/11/21:
+**{{Balance|Content=The Chicken Rico skin was added. It was featured as a Club League skin.|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Rico's Bouncy Castle Gadget healing was decreased to 200 (from 250) per shot.|Change=Nerf}}
+*07/03/22:
+**{{Balance|Content=The Firefly Rico skin was added. It was featured as a Brawl Pass Season 11 skin.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Rico's Multiball Launcher Gadget damage was increased to 800 (from 320) per bullet.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Rico's Multiball Launcher Gadget damage was increased to 819 (from 800) per bullet and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Rico's Bouncy Castle Gadget healing was increased to 205 (from 200) per shot and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Rico's Super Bouncy Star Power damage bonus was increased to 230 (from 124) per bullet and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Chicken Rico now costs 149 [[Gems]] (from 2500 [[Club Games|Club Coins]]).|Change=Neutral}}
+**{{Balance|Content=Rico's flavor text was changed from "Rico fires a burst of bullets that bounce off walls. His Super is a long barrage of bouncy bullets that pierce targets!" to "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool."|Change=Neutral}}
+*18/12/23:
+**{{Balance|Content=Fixed an issue with Rico's Multiball Launcher Gadget damage.|Change=Neutral}}
+*04/01/24:
+**{{Balance|Content=The Final Boss Rico skin was added. It was featured as a Power League skin for Brawl Pass Seasons 22 and 23.|Change=Neutral}}
+*11/01/24:
+**{{Balance|Content=Rico's Super damage was increased to 360 (from 320) per bullet.|Change=Buff}}
+**{{Balance|Content=Rico's Super recharge rate was increased by 12.5%.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Rico's Mutation was added for a limited time.|Change=Neutral}}
+*03/05/24:
+**{{Balance|Content=Rico's projectiles bounce less while his Mutation is active.|Change=Nerf}}
+*20/05/24:
+**{{Balance|Content=Rico's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Rico's Multiball Launcher Gadget damage was decreased to 717 (from 819) per bullet.|Change=Nerf}}
+**{{Balance|Content=Rico's Trick Shot King Hypercharge was added.|Change=Neutral}}
+*12/07/24:
+**{{Balance|Content=The Reloaded Ricochet skin was added. It was featured as an Outlaws skin.|Change=Neutral}}
+**{{Balance|Content=The Sovereign, Sovereign Gem, and Sovereign Bling Rico skins were added. They were featured as Royals skins.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=The Redjacket Rico skin was added. It was featured as a Misc skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Rico's Multiball Launcher Gadget damage was decreased to 615 (from 717) per bullet.|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=Rico's Trick Shot King Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/04/25:
+**{{Balance|Content=The Egg Rico skin was added. It was featured as an April Fool's skin.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Rico's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Rico's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25
+**{{Balance|Content=Rico was slightly remodeled.|Change=Neutral}}
+*02/10/25:
+**{{Balance|Content=The Ghost Diver Rico skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Rico's Trick Shot King Hypercharge speed boost from 26%.}}
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Rico's Trick Shot King Hypercharge damage boost from 25%.}}
+**{{Balance|Content=Redjacket Rico was slightly remodeled.|Change=Neutral}}
+*25/11/25:
+**{{Balance|Buff|Rico's Bullet Bounce Power Card buffs were increased to 80/150/250% (from 50/100/200%).}}
+**{{Balance|Buff|Rico's Bullet Bounce Power Card max bounce time was increased to 6 seconds (from 5).}}
+*16/12/25:
+**{{Balance|Buff|Rico's health was increased to 3000 (from 2800).}}
+*23/01/26:
+**{{Balance|Buff|Rico's main attack time between projectiles was decreased to 0.1 seconds (from 0.15).}}
+**{{Balance|Buff|Rico's main attack animation time was decreased to 0.6 seconds (from 0.8).}}
+*30/01/26:
+**{{Balance|Neutral|Fixed a bug that sometimes made Rico shoot 6 projectiles in his main attack.}}
+*05/02/26:
+**{{Balance|Neutral|The Heartbroken, Breakup, and Revenge Bling Rico skins were added. They were featured as Brawl Pass Season 47 skins and My Brawlentine skins.}}
+*25/02/26:
+**{{Balance|Nerf|The number of hits necessary to charge Rico's Super was increased to 15 hits (from 12).}}
+*31/03/26:
+**{{Balance|Nerf|Rico's main attack damage was decreased to 300 (from 320) per bullet.}}
+**{{Balance|Nerf|The number of hits necessary to charge Rico's Super was increased to 16 hits (from 15).}}
+**{{Balance|Content=Rico's Multiball Launcher Gadget damage was decreased to 576 (from 615) per bullet.|Change=Nerf}}
+**{{Balance|Content=Rico's Bouncy Castle Gadget healing was decreased to 192 (from 205) per shot.|Change=Nerf}}
+**{{Balance|Content=Rico's Super Bouncy Star Power damage bonus was decreased to 216 (from 230) per bullet.|Change=Nerf}}
+*22/04/26:
+**{{Balance|Content=Rico's Multiball Launcher Gadget cooldown was increased to 22 seconds (from 20).|Change=Nerf}}
+**{{Balance|Content=Ricochet and Reloaded Ricochet were slightly remodeled.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Content=Rico's reload time was decreased to 1.1 seconds (from 1.2).|Change=Buff}}
+**{{Balance|Buff|Rico's Multiball Launcher Gadget cooldown was decreased to 19 seconds (from 22).}}
+**{{Balance|Buff|Rico's Robo Retreat Star Power speed boost was increased to 35% (from 250 points).}}
+**{{Balance|Nerf|Rico's Multiball Launcher Gadget damage was decreased to 320 (from 615) per bullet.}}
+**{{Balance|Neutral|Rico's Multiball Launcher Gadget was reworked from blasting waves of bouncy bullets all around himself to deploying a vending machine that provides cover for him and his teammates and blasts waves of bouncy bullets all around it upon being destroyed.}}
+**{{Balance|Neutral|Rico's Bouncy Castle Gadget was reworked from allowing his next attack to heal him each time one of its bullets bounces off a wall to firing a large bullet that splits into 3 smaller bullets upon hitting a wall or enemy Brawlers.}}
+**{{Balance|Neutral|Rico's Buffies were added.}}
+**{{Balance|Neutral|Rico's Epic Gear was removed.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed a bug where Rico was able to use his Bouncy Castle Gadget in the Shadow Realm.}}
+**{{Balance|Neutral|Fixed a bug where Rico was able to charge his Super by bouncing projectiles from walls to [[Showdown|Power Cube]] boxes with Super Bouncy Star Power equipped.}}
+*01/09/26:
+**{{Balance|Buff|Rico's Multiball Launcher Gadget damage was increased to 800 (from 400) per bullet.}}
+**{{Balance|Nerf|Rico's Multiball Launcher Gadget cooldown was decreased to 22 seconds (from 19).}}
+**{{Balance|Nerf|Rico's Multiball Gadget damage was decreased to 1800 (from 1960) per bullet.}}
+**{{Balance|Nerf|Rico's Buffied Robo Retreat Star Power max movement speed boost was decreased to 50% (from 60%).}}
+**{{Balance|Neutral|Rico's Bouncy Castle Gadget was renamed to Multiball.}}
+**{{Balance|Neutral|Rico's Multiball Gadget icon was changed.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Rico's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Rico's Buffied Multiball Gadget slow was decreased to 20% (from 30%).}}
+**{{Balance|Nerf|Rico's Robo Retreat Star Power movement speed boost was decreased to 25% (from 35%).}}
+**{{Balance|Nerf|Rico's Buffied Robo Retreat Star Power max movement speed boost was decreased to 40% (from 50%).}}
+
+==Cosmetics==
+===Skins (19)===
+{{Skin Gallery
+|Name1=Redjacket|Cost1=Free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Ricochet|Cost2=Free from Brawlidays 2019 gift • '''E'''|Campaign2=2019 Anniversary|Rarity2=Super Rare
+|Name3=Reloaded Ricochet|Cost3=Free from Classic Brawl Mega Boxes, free from Nano Drops or 79 Gems|Campaign3=Outlaws|Rarity3=Super Rare
+|Name4=Loaded|Cost4=149 Gems|Campaign4=Royals|Rarity4=Epic
+|Name5=Popcorn|Cost5=149 Gems|Campaign5=Starrs of Brawlywood|Rarity5=Epic
+|Name6=Guard|Cost6=Free from Najia Boxes or 149 Gems|Campaign6=Sands of Time|Rarity6=Epic
+|Name7=Chicken|Cost7=149 Gems|Campaign7=Animal Kingdom|Rarity7=Epic
+|Name8=Final Boss|Cost8=Free from Ranked Drops, Starr Nova Boxes or 149 Gems|Campaign8=Ranked|Campaign8_2=Cartoon Studios|Rarity8=Epic
+|Name9=Egg|Cost9=199 Gems|Campaign9=April Fool's|Rarity9=Mythic
+|Name10=Ghost Diver|Cost10=Free from Pumpkin Boxes, Coffin Boxes or 199 Gems • '''S'''|Campaign10=Brawl-o-ween|Rarity10=Mythic
+|Name11=Sovereign|Cost11=Free after opening 10 Classic Brawl Mega Boxes, free from Classic Brawl Mega Boxes or Ultra Trophy Boxes|Campaign11=Royals|Rarity11=Hypercharge
+|Name12=Sovereign Gem|Cost12=Free from Classic Brawl Mega Boxes or Ultra Trophy Boxes|Campaign12=Royals|Rarity12=Hypercharge
+|Name13=Sovereign Bling|Cost13=Free from Classic Brawl Mega Boxes or Ultra Trophy Boxes|Campaign13=Royals|Rarity13=Hypercharge
+|TrueSkins = yes
+|NameP1=Firefly|CostP1=Brawl Pass, free from Wendy Boxes or 79 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Biodome|RarityP1=Super Rare
+|NameP2=Heartbroken|CostP2=2 Skin Keys|CampaignP2=Brawl Pass|CampaignP2_2=My Brawlentine|RarityP2=Epic
+|NameP3=Breakup|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2=My Brawlentine|RarityP3=Epic
+|NameP4=Revenge|CostP4=Free after purchasing the Skin Set|CampaignP4=Brawl Pass|CampaignP4_2=My Brawlentine|RarityP4=Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Rico Buffie Skin-Gadget.png|Gadget
+File:Rico Buffie Skin-Star.png|Star
+File:Rico Buffie Skin-Hyper.png|Hyper
+File:Rico Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Rico
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Firefly}}
+{{Pin Table|Final Boss|Special}}
+{{Pin Table|Loaded|Special}}
+{{Pin Table|Ricochet|Special}}
+{{Pin Table|Chicken|GG}}
+{{Pin Table|Reloaded Ricochet|Special}}
+{{Pin Table|Sovereign}}
+{{Pin Table|Sovereign Gem|GG}}
+{{Pin Table|Sovereign Bling|GG}}
+{{Pin Table|Popcorn|Thanks}}
+{{Pin Table|Guard|Special}}
+{{Pin Table|Egg}}
+{{Pin Table|Ghost Diver|Special}}
+{{Pin Table|Heartbroken}}
+{{Pin Table|Breakup}}
+{{Pin Table|Revenge}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Rico|Rarity = Common}}
+|{{Spray|Type = Rico Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Sovereign Rico|Rarity = Common}}
+|{{Spray|Type = Egg Rico|Rarity = Common}}
+|{{Spray|Type = Ghost Diver Rico|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Rico1}}
+|{{Pfp|Rico2}}
+|{{Pfp|Rico3}}
+|{{Pfp|Rico4}}
+|{{Pfp|Final Boss Rico}}
+|-
+|{{Pfp|Loaded Rico}}
+|{{Pfp|Popcorn Rico}}
+|{{Pfp|Guard Rico}}
+|{{Pfp|Chicken Rico}}
+|{{Pfp|Sovereign Rico}}
+|-
+|{{Pfp|Egg Rico}}
+|{{Pfp|Ghost Diver Rico}}
+|{{Pfp|Heartbroken Rico}}
+|}
+
+{{Navigation}}
+[[es:Rico]]
+[[pl:Rico]]
+[[ru:Рико]]

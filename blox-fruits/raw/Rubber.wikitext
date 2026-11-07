@@ -1,0 +1,373 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Rubber
+|image  = <gallery>
+Rubber Fruit.png|Fruit Icon
+Rubber fruit gif.gif|Fruit GIF
+Rubber.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Rare
+|M1     = Yes
+|update = 1
+
+<!-- Fruit Price -->
+|money  = 750,000
+|robux  = 1,200
+}}
+{{Quote|Grants the user a rubber body, immune to electric attacks, and stretchy enough to deal a barrage of offensive attacks.|Shop}}
+'''Rubber''' is a {{Rare}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|750,000}} or {{Robux|1,200}} from the [[Blox Fruit Dealer]]. 
+
+The Rubber fruit gives the user a stretchy body, allowing them to extend their limbs to use ranged attacks. Rubber also allows the user to enter into an enhanced state through their '''[V] Transformation''', which makes their attacks instant. Rubber also grants total immunity to [[Guns]] & most attacks infused with electricity.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Rubber Body
+|file     = Rubber Passive.gif
+|desc     = Rubber users are granted immunity to all [[Guns|Gun]], [[Lightning]] and [[Electric]] attacks, even those infused with [[Aura]]. 
+* Does not grant immunity to [[Electric Claw]], [[Pole (1st Form)]] and [[Pole (2nd Form)]].
+* This is always true for Player attacks, though for NPC attacks, the user is only immune if they are a certain level above the NPC (roughly 2% higher), and if the NPC is not a boss.
+}}
+
+|Moveset|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 2
+|energy   = 15
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Rubber - Click
+|desc     = The user stretches their arm using their right hand, dealing damage to whoever is in the direction of the arm.
+}}
+
+{{Skill
+|key      = Z
+|name     = Cannon
+|mastery  = 25
+|cooldown = 7.5
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Rubber - Cannon
+|desc     = The user pulls their arms backward, stretching them as they do so. Upon releasing the respective button, the user springs their arms forward, dealing knockback as well as damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Smash
+|mastery  = 50
+|cooldown = 9
+|energy   = 35
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Rubber - Smash
+|desc     = The user stretches their right leg upwards, and upon releasing the respective button they launch their leg down, dealing damage as well as a small amount of knockback.
+}}
+
+{{Skill
+|key      = C
+|name     = Rush
+|mastery  = 125
+|cooldown = 16.5
+|energy   = 50
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Rubber - Rush
+|desc     = The user does a barrage of punches towards the direction they are facing, dealing continuous damage. Holding down the respective button for this move causes it to last longer.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 225
+|cooldown = 17
+|energy   = 100
+|instinct = Doesn't deal damage.
+|gif      = RubbersNewV
+|desc     = Upon activation, the user gains a pink-like texture on their skin and begins to emit steam. While having this move active, all animations change to be faster and all moves gain a damage increase, but the user's energy regeneration is reduced by 25%. This ability will last as long as the user does not die or run out of energy.
+}}
+
+{{Skill
+|key      = F
+|name     = Slingshot
+|mastery  = 80
+|cooldown = 6
+|energy   = 50
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = Slingshot hit Base
+|gif2     = Rubber - Slingshot
+|desc     = The user stretches both their arms in the direction of the cursor. If they hit an object, the user will be launched at a fast speed towards the object. This can be used to launch the user beyond or above the object. If they hit a player/NPC, the user will launch towards the player/NPC, dealing damage and slight knockback. If held, the user can charge it up to four stages, which is seen by rings appearing around the user. Each stage allows the user's arms to go a bit farther upon release.
+|desc2    = The further the user is from said object, the further the user goes.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|cooldown = 2
+|energy   = 15
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = RubberT - Click
+|desc     = The user quickly stretches their arm, dealing damage in the cursor's direction.
+}}
+
+{{Skill
+|key      = Z
+|name     = Cannon
+|mastery  = 25
+|cooldown = 7.5
+|energy   = 25
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] on direct hit. Otherwise, it can be dodged.
+|gif      = RubberT - Cannon
+|desc     = The user pulls their arms backward, resulting in them being stretched. Upon releasing the respective button, the user quickly springs their arms forward, dealing knockback as well as damage.
+}}
+
+{{Skill
+|key      = X
+|name     = Smash
+|mastery  = 50
+|cooldown = 9
+|energy   = 35
+|break    = yes
+|instinct = The punch downwards will always [[Instinct/Break|break Instinct]].
+|gif      = RubberT - Smash
+|desc     = The user teleports above the location of their cursor and quickly throws a heavy punch in its direction, breaking the ground below them and dealing damage to targets as well as knockback.
+}}
+
+{{Skill
+|key      = C
+|name     = Rush
+|mastery  = 125
+|cooldown = 16.5
+|energy   = 50
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] when close. Otherwise, it can be dodged.
+|gif      = RubberT - Rush
+|desc     = The user launches a barrage of high-speed punches in the direction they are facing, dealing continuous damage. Holding down the respective button for this move causes it to last longer.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 225
+|cooldown = 17
+|energy   = 100
+|gif      = RubberT - Detransformation
+|desc     = The user's skin goes back to its normal state and they stop emitting steam, causing the abilities gained while transformed to be removed, but restoring the user's [[energy]] regeneration back to normal.
+}}
+
+{{Skill
+|key      = F
+|name     = Slingshot
+|mastery  = 80
+|cooldown = 6
+|energy   = 50
+|break    = no
+|instinct = Cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = SlingshotV
+|gif2     = RubberT - Slingshot
+|desc     = The user stretches both their arms in the direction of the cursor. If they hit an object, the user will be launched at a fast speed towards the object. This can be used to launch the user beyond or above the object. If they hit a player/NPC, the user will launch towards, dealing damage and slight knockback. If held, the user can charge it up to four stages, which is seen by rings appearing around the user. Each stage allows the user's arms to go a bit farther upon release.
+|desc2    = The further the user is from said object, the further the user goes.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Easy to obtain.
+* Immunity to [[Electric]], [[Lightning]] and [[gun]] attacks.
+* All moves are [[AoE]].
+
+|{{Ability|TAP}}
+* Decent range.
+
+|{{Ability|Z}}
+* Decent damage.
+
+|{{Ability|X}}
+* Good [[AoE]].
+
+|{{Ability|C}}
+* High damage.
+* Good stuns.
+
+|{{Ability|V}}
+* Low end-lag.
+
+|{{Ability|F}}
+* Can propel the user extremely far if used correctly.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Needs to get close to land the moves.
+* Hard to grind with, as the attacks have a lot of knockback (except for C).
+* None of the moves [[Instinct/Break|break Instinct]].
+
+|{{Ability|TAP}}
+* Extremely small hitbox.
+* Takes [[Energy]], making it less usable for early game grinding.
+
+|{{Ability|Z}}
+* High startup time.
+* High knockback.
+
+|{{Ability|X}}
+* Bad range.
+* High startup time.
+
+|{{Ability|C}}
+* Must be held to deal full damage.
+* Bad range.
+
+|{{Ability|F}}
+* Not great for traversing open areas, as it requires solid surfaces or NPCs to move large distances.
+* Must be charged to move quickly and deal full damage, making it less useful in [[PvP]].
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Speed, damage, knockback, and range all increase.
+* All moves have low endlag.
+* High mobility.
+
+|{{Ability|TAP}}
+* Decent range.
+* Instant.
+* Can be good to use as tick damage.
+
+|{{Ability|Z}}
+* Decent damage.
+* Faster than M1.
+
+|{{Ability|X}}
+* Very low startup
+* Good [[AoE]].
+* Long range.
+
+|{{Ability|C}}
+* Good stuns.
+* Long stun.
+
+|{{Ability|F}}
+* Can propel the user extremely far if used correctly.
+* Latches onto players very well, and has quite low knockback.
+* Even the untransformed version launches the user high.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Moves have small hitboxes, requiring sharp accuracy.
+* The user's [[energy]] regeneration amount is reduced by 25% (three instead of four).
+** Although this is hardly an issue for max level players.
+
+|{{Ability|TAP}}
+* Takes [[Energy]], making it less usable for early game grinding.
+* Cannot be used continuously.
+* Has startup.
+
+|{{Ability|Z}}
+* Mediocre damage.
+* High knockback.
+
+|{{Ability|X}}
+* Slight startup.
+
+|{{Ability|C}}
+* Must be held to deal full damage.
+* Low range.
+
+|{{Ability|F}}
+* Not great for traversing open areas, as it requires solid surfaces or NPCs to move large distances.
+* Must be charged to move quickly and deal full damage.
+* Hard to land on players, as it has a small hitbox.
+}}
+}}
+</tabber>
+
+==Trivia==
+* Prior to [[Updates/20|Update 20]], [[Pole (1st Form)]] could not damage Rubber. 
+* Rubber received a rework in [[Updates/17.3|Update 17.3]], upgrading its transformation and renaming it from Gum to the current name.
+* Rubber does not provide immunity to the attacks used by the [[Thunder God]], as it is a [[Bosses|boss]].
+* The {{Ability|Rubber|Z}} ability has the same name as [[Phoenix]]'s unawakened {{Ability|Phoenix|Z}} ability.
+* Despite being immune to [[guns]] and [[Lightning]], Rubber users can still be stunned by the [[Skull Guitar]]'s {{Ability|Skull Guitar|X}} ability and [[Lightning]]'s {{Ability|Lightning|Z}}.
+
+==Change History==
+{{Change History|1|content=
+<tabber>
+|-|24=
+{{Update|24}}
+* The animation of '''[V] Transformation''' was changed.
+: <gallery>	
+RubberPreTransformation.mov|Old Rubber transformation
+</gallery>
+
+|-|20=
+{{Update|20}}
+* Rubber Fruit's model was remade.
+: <gallery>
+Rubber 150x150.png|Old Rubber Fruit's icon
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* Gum-Gum was renamed to Rubber
+* Rubber was revamped.
+
+|-|11=
+{{Update|11}}
+* {{Arrow|nerf}} '''[V] Transformation''' was nerfed.
+** {{Arrow|nerf}} [[Energy]] regeneration was decreased from 50% to 25%.
+
+|-|8=
+{{Update|8}}
+* Gum-Gum was reworked and its visuals were enhanced.
+
+|-|4=
+{{Update|4}}
+* [[Aura]] now works properly on Gum-Gum.
+
+|-|3.5=
+{{Update|3.5}}
+* Gum-Gum was nerfed.
+** {{Arrow|nerf}} Gum-Gum's 2nd Transformation's damage boost is now 22.5% instead of 25%.
+
+|-|3=
+{{Update|3}}
+* Gum-Gum was buffed.
+** {{Arrow|buff}} Added immunity to [[Electric]] fighting style and [[Rumble]].
+* {{Arrow|neutral}} Enlarged the [[Aura]] visual with Gum-Gum.
+
+|-|2=
+{{Update|2}}
+* Gum-Gum was reworked.
+|-|1=
+{{Update|1}}
+* Gum-Gum was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Transformation-based Fruits]]
+[[Category:Immunity Fruits]]
+[[ru:Резина]]

@@ -1,0 +1,95 @@
+{{Tabber V2
+|tab1 = First Sea
+|tab2 = Second Sea
+|tab3 = Third Sea
+}}
+{{Sea Infobox
+|name  = First Sea
+|image = First Sea.png
+|level = 1-700
+}}
+
+The '''First Sea''' is the starter sea for the game and the location that players spawn in when they join the game for the first time.
+
+==Description==
+===Spawning===
+Whenever the player first starts the game, they will spawn here, either on the [[Marine Starter Island]] or the [[Pirate Starter Island]], depending on whether they picked the [[Marines]] or the [[Pirates]] as their team on the home screen. Each [[Locations|island]] has basic signage that instructs the player on how to play the game with dash and walk/sprint keybinds, and also has weak and easy-to-fight [[enemies]] to introduce them to combat.
+
+===Difficulty===
+The First Sea is generally considered to be the easiest sea to play in. The [[enemies]] are quite weak, with very few having [[Aura]], and [[Bounty and Honor System|bounty/honor hunting]] is not very prevalent, so it is not particularly hazardous. Additionally, there are a very few things that the player needs to purchase or unlock in the First Sea to be successful, making resource management easy. However, high level players tend to join the First Sea for various reasons (one of these being mischief), so new players must keep that in mind.
+
+===Design===
+Since the First Sea was developed in the early stages of the game and has received few overhauls, its design used to be relatively basic. After the revamp in [[Updates/30|Update 30]] however, it may as well be the best sea. The buildings are accurate and some have extremely detailed interiors. The First Sea is also the only sea at the moment with a working map.
+
+==List of Islands==
+{| class="article-table"
+!Main
+!Other
+|-
+|
+* [[Pirate Starter Island]]
+* [[Marine Starter Island]]
+* [[Jungle]]
+* [[Pirate Village]]
+* [[Desert]]
+* [[Frozen Village]]
+* [[Marine Fortress]]
+* [[Skylands]]
+* [[Prison]]
+* [[Colosseum]]
+* [[Magma Village]]
+* [[Underwater City]]
+* [[Upper Skylands]]
+* [[Fountain City]]
+|
+* [[Middle Town]]
+* [[Jean-Luc Island]]
+|}
+
+==Gallery==
+<gallery>
+First Sea Map 1.png|First Sea - Map 1 (Old)
+First Sea Map 2.png|First Sea - Map 2 (Old)
+First Sea.png|Current version of the First Sea Map
+</gallery>
+
+==Trivia==
+* Only [[Middle Town]] has the homepoint NPC in First Sea.
+* Only [[Desert]], [[Skylands|Lower Skylands]], [[Colosseum (First Sea)|Colosseum]] and the starter islands don't have bosses, Every other island has a boss.
+* The First Sea is the sea where players begin their journey as a [[Pirates|Pirate]] or a [[Marines|Marine]]. 
+* The First Sea got a Full Rework in Update 30, revamping all the islands, and changing the enemies in [[Prison]] a second time.
+* The First Sea is the first sea to receive a Sea Rework.
+* Players with high bounty can only summon one [[Sea Beast]]. 
+
+==Change History==
+{{Change History|1|content={{Update|30}}
+* Sea 1 got a total rework.
+----
+{{Update|5}}
+* Added Islands:
+** [[Fountain City]]
+----
+{{Update|3}}
+* Added Islands:
+** [[Colosseum]]
+** [[Underwater City]]
+** [[Upper Skylands]]
+----
+{{Update|2}}
+* Added Islands:
+** [[Magma Village]]
+----
+{{Update|1}}
+* First Sea was released with:
+** [[Pirate Starter Island]]
+** [[Marine Starter Island]]
+** [[Middle Town]]
+** [[Jungle]]
+** [[Pirate Village]]
+** [[Desert]]
+** [[Frozen Village]]
+** [[Marine Fortress]]
+** [[Skylands]]
+** [[Prison]]
+** [[Jean-Luc Island]]}}
+[[Category:Guns]]

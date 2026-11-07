@@ -1,0 +1,261 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Mother|PrestigeTitle = Mommy|Rarity = Mythic|Class = Damage Dealer|MovementSpeed =750 (Normal)|HealthLabel = Health|Health = 3100|AttackRange = 9.33 (Very Long)|Reload = 1.6 seconds (Normal) <br> 1.36 seconds (with Reload Gear)|AttackBullets = 3|AttackSuperCharge = 12%|AttackLabel = Small Egg|Attack = 400|AttackLabel2 = Medium Egg|Attack2=520|AttackLabel3 = Large Egg|Attack3=640|SuperRange = 5 |SuperSuperCharge = 3%|SuperMinion = Hatchling|SuperMovementSpeed = 1000<br>2700 (attack)|SuperLabel = Big Egg Health|Super = 1900|SuperLabel2 = Hatchling Health|Super2 =1700|SuperLabel3 = Hatchling Dmg.|Super3=800 |AttackSpeed=3500|SuperSpeed=1200<br>1000 (with Hypercharge)<br>800 (big egg)|VoiceActor=Beth Curry|AttackWidth=0.67 (small egg)<br>1 (medium egg)<br>1.33 (large egg)|SuperMinionRange=2.67|Gadget1Name=Gotta Go!|Gadget1Cooldown=17 seconds|Gadget2Name=Motherly Love|Gadget2Cooldown=11 seconds|Gadget2=1600|Gadget2Label=Healing|Previous=Fang|Next=Janet|AttackHyperchargeCharge=4.8%|SuperHyperchargeCharge=1.2%|HyperchargeMultiplier=40%|StarPower2=900|StarPower2Label=Hatchling Health|StarPower2Label2=Hatchling Dmg.|StarPower22=720|Gadget1Range=4|Gadget1=928|Gadget1Label=Hatchling Health|Gadget1Label2=Hatchling Dmg.|Gadget12=640|StarPower2Name=Happy Surprise}}
+{{Quote|Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home... preferably in [[Ruffs]]' fur}}
+{{Portrait}}
+Eve is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 11: The Biodome. She has moderately low health, a very long range, and a variable damage output. She was the 55th Brawler added to the game. Eve's Trait allows her to move over water. For her attack, she fires out three eggs that each deal different amounts of damage. Her Super drops a nest egg which, after some time, spawns four hatchlings that chase down the nearest enemies to poison them. Her first Gadget, Gotta Go!, makes Eve jump forward as well as leaving behind a hatchling. Her second Gadget, Motherly Love, makes the hatchlings spawned from her next Super heal her allies. Her Mythic Gear, Quadruplets, makes her Super spawn an additional hatchling. Her first Star Power, Unnatural Order, makes Eve's attack shoot out the biggest egg first and the smallest egg last. Her second Star Power, Happy Surprise, spawns a hatchling when her biggest egg hits an enemy. Her Hypercharge, Generations, makes her nest egg spawn hatchlings every second before it explodes.
+
+==Trait==
+{{Quote|This Brawler can move over water}}{{Trait|Water}}Eve's Trait allows her to be able to move on water.
+
+==Attack: Egg Shooter==
+{{Quote|Eve shoots three eggs in a row, with each one being bigger and dealing more damage than the previous egg.}}
+Eve fires three long-ranged eggs in quick succession. The eggs have different sizes, with the smallest egg fired first and the largest egg fired last. Larger eggs have a larger hitbox and deal more damage, but the Super charge rate remains the same. Eve's attack has a moderate reload speed and a very long cooldown.
+
+==Super: Baby Boom==
+{{Quote|Eve releases a big egg, which incubates a group of hatchlings. Hatchlings attach to enemies and deal damage over time.}}
+Eve throws out a nest egg over obstacles, and after 5 seconds, it explodes and spawns 4 hatchlings in a diamond formation around it in a radius of 4.33 tiles. If the nest egg is destroyed before it explodes, the hatchlings won't spawn. The hatchlings chase the nearest enemies, like [[Tick]]'s and [[Ash]]'s Super, and once close enough, they dash into their target, poisoning on contact to damage enemies over 4 seconds to any enemies in their path. The hatchlings also lose 10% of their health every second until they're destroyed. The hatchlings' health does not scale with Power Cubes.
+
+==Gadgets== 
+===Gotta Go!===
+{{Quote|Eve jumps away and leaves behind a hatchling. Cooldown: 17 seconds.}}{{Gadget|1}}Eve jumps forward in the direction she's facing, similar to [[Brock]]'s Rocket Laces Gadget, allowing her to jump over walls, and leaves behind a hatchling. The hatchling has less health than a hatchling from her Super at 20% of Eve's maximum health, and its poison duration is cut in half. If required to cross over a larger amount of blocks, the distance will be increased up to a limit or to the nearest piece of valid terrain. Eve can use this Gadget while on water, and the hatchling will spawn on the nearest piece of ground. 
+
+===Motherly Love===
+{{Quote|Hatchlings spawned from an active big egg will now heal allies over time instead of dealing damage. Cooldown: 11 seconds.}}{{Gadget|2}}Activating this Gadget while a nest egg is active allows Eve's hatchlings from her Super to heal her or allies, instead of damaging enemies. This Gadget has no effect on hatchlings already spawned. The hatchlings heal for 25% more than their damage to enemies. Eve must be within 12 tiles of an active nest egg to use this Gadget. If there is more than one nest egg active, only the first one spawned will be affected. This Gadget's cooldown starts 1 second after it is activated.
+
+==Mythic Gear: Quadruplets==
+{{Quote|Eve's Super spawns 1 extra hatchling.}}{{Gear|Filename=EveGear}}
+With this Gear equipped, Eve's Super will spawn 5 hatchlings instead of 4.
+
+==Star Powers==
+===Unnatural Order===
+{{Quote|Reverses the order of the eggs shot by her egg shooter.}}{{StarPower|1}}With this Star Power equipped, Eve shoots the largest egg first and the smallest egg last.
+
+===Happy Surprise===
+{{Quote|Every 5 seconds, the largest egg hitting an enemy from her Egg Shooter will spawn a hatchling.}}{{StarPower|2}}Eve gains a charge bar which takes 5 seconds to charge up, and when charged if Eve hits an enemy with the largest egg from her attack, a projectile will bounce forward 3.33 tiles and spawn a hatchling. The hatchling has roughly 30% of the health of a hatchling from her Super and its poison duration is halved. The bar gets used up when the largest egg is fired. This Star Power does not work against the [[Heist]] safe, the IKE turret in [[Siege]], or spawnables.
+
+==Hypercharge: Generations==
+{{Quote|Baby Boom now spawns hatchlings over time!}}{{Hypercharge}}
+When activated, Eve's nest egg will decay by 16% of its maximum health per second until destroyed, but will last for up to 6 seconds if it doesn't take any damage. It spawns a hatchling every 0.85 seconds, spawning 6 hatchlings over the decay duration in a triangle pattern if it takes no damage, in addition to the hatchlings spawned upon expiring. The Hypercharge also modifies the Super projectile to take the same time to land regardless of the distance thrown. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Eve spawns two hatchlings when getting hit.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Eve spawned 2 hatchlings when she got hit.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Spawns a hatchling whenever she takes damage.}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>Eve spawned a hatchling when she got hit.
+
+==Tips==
+===Game Modes and Maps===
+*On maps with a lot of lakes like [[Island Invasion]], [[Flowing Springs]] or [[Sapphire Plains]], Eve can travel across the lakes to reach enemies faster and prevent taking much damage.
+
+===Recommended Build===
+*Eve's Unnatural Order Star Power allows Eve to fire the biggest egg first. This allows her to deal more immediate damage. This also allows Eve to have slightly more range.
+*Eve's Happy Surprise Star Power can be good against single-target Brawlers like [[Piper]], [[Byron]], [[Bea]], Fang, [[Pam]], [[Angelo]], [[Mandy]], [[Cordelius]], and [[Bonnie]] while in her cannon form, as they have no way to effectively deal with a hatchling invasion.
+
+===Other===
+*Eve has moderate health, but Brawlers like [[Edgar]], [[Leon]], [[Mortis]], [[Crow]], Kenji, [[Buzz]], [[Spike]], or [[Mico]] can defeat her with ease because of Eve's slow unload speed. Her Trait perfectly counters this as short-ranged Brawlers like Edgar, [[Kenji]], [[Lily]], El Primo, Mico, and Mortis cannot reach her in a sufficiently large lake.
+*Because of Eve's slow unload and reload speed, she can struggle in 1v1 situations with Brawlers with a high damage burst potential like [[Fang]], [[El Primo]], Buzz, [[Stu]], [[Emz]], [[Griff]], and Edgar, so you should play her passively from a long range, poking in and out of cover similarly to [[Mr. P]].
+*Because Eve's Super takes five seconds to crack open, you may think it's a good idea to place it in the map's backline. However, the hatchlings' health decreases over time, so try to use it decently far, but not too far from enemies.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In the Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Flea start vo 01.ogg|Filedescription ="Kids, follow mommy!"}}
+|{{Ogg|Filename = Flea lead vo 01.ogg|Filedescription ="Wait 'til I tell the kids!"}}
+|{{Ogg|Filename = Flea hurt vo 01.ogg|Filedescription ="Don't make me go there."}}
+|{{Ogg|Filename = Flea kill vo 01.ogg|Filedescription ="Look at this primitive life form! Huh, pathetic."}}
+|{{Ogg|Filename = Flea die vo 01.ogg|Filedescription ="This isn't a place for my babies!"}}
+|
+|{{Ogg|Filename = Flea ulti vo 01.ogg|Filedescription ="Get them kids!"}}
+|-
+|{{Ogg|Filename = Flea start vo 02.ogg|Filedescription ="Useful and mostly harmless."}}
+|{{Ogg|Filename = Flea lead vo 02.ogg|Filedescription ="Mother knows best!"}}
+|{{Ogg|Filename = Flea hurt vo 02.ogg|Filedescription ="I don't want to say this twice!"}}
+|{{Ogg|Filename = Flea kill vo 02.ogg|Filedescription ="Agh, what a waste of resources!"}}
+|{{Ogg|Filename = Flea die vo 02.ogg|Filedescription ="I'm not mad, I'm disappointed."}}
+|
+|{{Ogg|Filename = Flea ulti vo 02.ogg|Filedescription ="Aren't they lovely!"}}
+|-
+|{{Ogg|Filename = Flea start vo 03.ogg|Filedescription ="Doing it for the children!"}}
+|{{Ogg|Filename = Flea lead vo 03.ogg|Filedescription ="I wear the pants in this family."}}
+|{{Ogg|Filename = Flea hurt vo 03.ogg|Filedescription ="Oh dear, now I have to use force."}}
+|{{Ogg|Filename = Flea kill vo 03.ogg|Filedescription ="Mind your language!"}}
+|{{Ogg|Filename = Flea die vo 03.ogg|Filedescription ="I can't leave my children!"}}
+|
+|{{Ogg|Filename = Flea ulti vo 03.ogg|Filedescription ="Aren't they lovely!"}}
+|-
+|{{Ogg|Filename = Flea start vo 04.ogg|Filedescription ="I am your forever friend."}}
+|{{Ogg|Filename = Flea lead vo 04.ogg|Filedescription ="One flea and the place to be!"}}
+|{{Ogg|Filename = Flea hurt vo 04.ogg|Filedescription ="Oh my oh my!"}}
+|{{Ogg|Filename = Flea kill vo 04.ogg|Filedescription ="Agh, be better, please!"}}
+|{{Ogg|Filename = Flea die vo 04.ogg|Filedescription ="I leave everything to the babies."}}
+|
+|{{Ogg|Filename = Flea ulti vo 04.ogg|Filedescription ="I gave you life, but really, you gave me mine."}}
+|-
+|{{Ogg|Filename = Flea start vo 05.ogg|Filedescription="Mommy needs to find a host."}}
+|{{Ogg|Filename = Flea lead vo 05.ogg|Filedescription ="The queen flea, that's me!"}}
+|{{Ogg|Filename = Flea hurt vo 05.ogg|Filedescription ="Who would hurt a mother?"}}
+|{{Ogg|Filename = Flea kill vo 05.ogg|Filedescription ="Sorry, but you deserve that!"}}
+|{{Ogg|Filename = Flea die vo 05.ogg|Filedescription ="Avenge me, children!"}}
+|
+|{{Ogg|Filename = Flea ulti vo 05.ogg|Filedescription ="How adorbs!"}}
+|-
+|{{Ogg|Filename = Flea start vo 06.ogg|Filedescription ="Time for a field trip!"}}
+|{{Ogg|Filename = Flea lead vo 06.ogg|Filedescription=Eve laughs}} 
+|{{Ogg|Filename = Flea hurt vo 06.ogg|Filedescription ="You're grounded!"}}
+|{{Ogg|Filename = Flea kill vo 06.ogg|Filedescription=Eve laughs}}
+|
+|
+|{{Ogg|Filename = Flea ulti vo 06.ogg|Filedescription ="Mommy loves you!"}}
+|-
+|
+|
+|{{Ogg|Filename = Flea hurt vo 07.ogg|Filedescription ="You better start behaving!"}}
+|
+|
+|
+|{{Ogg|Filename = Flea ulti vo 07.ogg|Filedescription ="How do you like your eggs?"}}
+|-
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Flea ulti vo 08.ogg|Filedescription ="Play time, kids!"}}
+|-
+|
+|
+|
+|
+|
+|
+|{{Ogg|Filename = Flea ulti vo 09.ogg|Filedescription ="Off you pop!"}}
+|}
+
+==History==
+*05/03/22:
+**{{Balance|Content=Eve became available to play in the [[Training Cave]].|Change=Neutral}}
+*07/03/22:
+**{{Balance|Content=Eve and her Spiky skin were added to the game.|Change=Neutral}}
+*31/03/22:
+**{{Balance|Content=Eve's main attack range was decreased to 9.33 tiles (from 10).|Change=Nerf}}
+*06/04/22:
+**{{Balance|Content=Eve's Happy Surprise Star Power was added.|Change=Neutral}}
+*20/04/22:
+**{{Balance|Content=Eve's Motherly Love Gadget was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Eve's health was decreased to 2900 (from 3000).|Change=Nerf}}
+**{{Balance|Content=Eve's main attack damage was decreased to 370, 481, 592 (from 400, 520, 640).|Change=Nerf}}
+**{{Balance|Content=Eve's main attack projectile speed was decreased to 3500 (from 3700).|Change=Nerf}}
+*29/06/22:
+**{{Balance|Content=The number of hits necessary to charge Eve's Super was increased to 9 hits (from 7).|Change=Nerf}}
+**{{Balance|Content=Eve's Happy Surprise Star Power now takes 5 seconds to charge instead of activating with every big egg landed on the enemy.|Change=Nerf}}
+**{{Balance|Content=Eve's True Silver and True Gold skins were added.|Change=Neutral}}
+*25/10/22:
+**{{Balance|Content=Eve's main attack damage was increased to 400, 520, 640 (from 370, 481, 592).|Change=Buff}}
+*17/01/23:
+**{{Balance|Content=The Baiku Eve skin was added. It was featured as a Lunar New Year 2023 skin.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Eve's Quadruplets Mythic Gear was added.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=Eve's aiming line was reworked.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Eve's Gotta Go! Gadget hatchling health was increased to 928 (from 500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Eve's aiming line was reworked.|Change=Neutral}}
+**{{Balance|Content=Eve's flavor text was changed from "Eve believes that everyone can be valuable... as a resource for her babies." to "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home... preferably in Ruffs' fur"|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Eve's rarity was changed to Mythic (from Chromatic).|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Eve's Mutation was added for a limited time.|Change=Neutral}}
+*02/05/24:
+**{{Balance|Content=The Mothra Eve skin was added. It was featured as a Ranked skin for Brawl Pass Season 26.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Eve's Mutation was removed from the game.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Eve's Generations Hypercharge was added.|Change=Neutral}}
+*02/01/25:
+**{{Balance|Content=The Extraterrestrial Eve skin was added. It was featured as a StarrForce Assemble skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*21/03/25:
+**{{Balance|Content=The Cored Eve skin was added. It was featured as a Starry Meal skin.|Change=Neutral}}
+*30/04/25: 
+**{{Balance|Content=Fixed Eve's visual issues on some low end Android devices.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Eve's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Eve's Wasabi Power was removed from the game.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Fixed an issue where Eve's Motherly Love Gadget was not working while her Super or Hypercharge were used.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Buff|Eve's level up damage was increased to 4% (from 2%) in [[Brawl Arena]].}}
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Eve's Generations Hypercharge speed boost from 25%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Eve's Generations Hypercharge damage boost from 25%.}}
+*12/11/25:
+**{{Balance|Buff|Eve's level up health was increased to 600 (from 450) in Brawl Arena.}}
+**{{Balance|Buff|Eve's level up reload speed boost was increased to 2% (from 1.5%) in Brawl Arena.}}
+*16/12/25:
+**{{Balance|Buff|Eve's health was increased to 3100 (from 2900).}}
+*22/04/26:
+**{{Balance|Buff|Eve's level up damage was increased to 5% (from 4%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Buff|Eve's Super now spawns 4 hatchlings (from 3).}}
+**{{Balance|Buff|Eve's Super recharge rate was increased to 60 (from 50).}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Eve's movement speed to 750 (from 720).}}
+**{{Balance|Neutral|Fixed an issue where Eve under max level would show her hatchling count as Super damage in her Super info box.}}
+*16/09/26:
+**{{Balance|Neutral|Fixed an issue where Eve's Hypercharged Super would not spawn 4 hatchlings when it explodes.}}
+*25/09/26:
+**{{Balance|Neutral|The Moonlight Eve skin was added. It was featured as a Lunar Stories skin.}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Cored|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Starry Meal|Rarity1=Rare
+|Name2 = Baiku|Cost2=149 Gems • '''S'''|Campaign2=Lunar Brawl|Rarity2=Epic
+|Name3 = Mothra|Cost3=Free from Ranked Starr Drops or Trophy Boxes • '''E'''|Campaign3=Ranked|Campaign3_2=Godzilla|Rarity3=Epic
+|Name4 = Extraterrestrial|Cost4=Available in bundles for Pizza Slices or 149 Gems • '''S'''|Campaign4=StarrForce Assemble|Rarity4=Epic
+|Name5 = Moonlight|Cost5=199 Gems|Campaign5=Lunar Stories|Rarity5=Mythic
+|TrueSkins=yes
+|NameP1 = Spiky|CostP1=Brawl Pass, free from Wendy Boxes or 149 Gems|CampaignP1=Brawl Pass|RarityP1=Epic|CampaignP1_2=Biodome}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Eve
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Spiky}}
+{{Pin Table|Baiku}}
+{{Pin Table|Mothra|Thanks}}
+{{Pin Table|Extraterrestrial}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Eve|Rarity = Common}}
+|{{Spray|Type = Eve Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Eve1}}
+|{{Pfp|Eve2}} 
+|{{Pfp|Eve3}}
+|{{Pfp|Eve4}}
+|{{Pfp|Mothra Eve}}
+|-
+|{{Pfp|Baiku Eve}}
+|{{Pfp|Extraterrestrial Eve}}
+|{{Pfp|Spiky Eve}}
+|}
+
+{{Navigation}}
+[[es:Eve]]
+[[ru:Ева]]

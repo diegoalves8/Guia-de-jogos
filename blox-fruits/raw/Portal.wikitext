@@ -1,0 +1,323 @@
+{{CombosTab}}
+{{About|the Blox Fruit|the portals in [[Third Sea]]|Portals}}
+{{Blox Fruit Infobox
+|name   = Portal
+|image  = <gallery>
+Portal Fruit.png|Fruit Icon
+Portal Fruit.gif|Fruit GIF
+Portal.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Legendary
+|M1     = Yes
+|update = 17.3.5
+
+<!-- Fruit Price -->
+|money  = 1,900,000
+|robux  = 2,000
+}}
+{{Quote|Allows the user to instantly travel to any location, or create a portal to a dimension of their own.|Shop}}
+'''Portal''' (formerly known as [[Door]]) is a {{Legendary}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|1,900,000}} or {{Robux|2,000}} from the [[Blox Fruit Dealer]].
+
+Portal grants the user the ability to create portals, enabling instantaneous movement and teleportation across various set locations.
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Portal Leap
+|cooldown = 3.5
+|gif      = Portal_M1
+|desc     = The user jumps forward with great speed while backflipping, and leaps off of any nearby objects. This move does not deal damage and does not collide with [[Enemies]] or players.
+}}
+
+{{Skill
+|key      = Z
+|name     = Portal Dash
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 15
+|break    = yes
+|instinct = Only breaks [[Instinct]] at the initial hit. Can also be dodged if in-direct.
+|gif      = PortalZWOW
+|desc     = The user dashes forward, in a manner closer to a teleport than a dash. If it hits an enemy, it sends them through multiple portals throwing them around, and finally smashing them to the ground. This move does not break [[Instinct]] on the final smash and does only on the impact with the first dash. This move also has slight aim-assist.
+}}
+
+{{Skill
+|key      = X
+|name     = Parallel Escape
+|mastery  = 50
+|cooldown = 18.75
+|energy   = 50
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if close to the user entering/exiting the dimension. Can be dodged on the edge.
+|gif      = Portal World
+|desc     = The user enters a separate dimension that lasts for a few seconds. During this state, the user becomes invisible and invincible and is able to move around freely (Even through [[Castle on the Sea]] portal) , and it also makes the user immune to [[water]], but not [[Lava|lava]]. However, if the user uses any skill or M1, it exits them out of the dimension immediately. If the user uses this move next to an enemy, it damages and stuns them for a little bit. This move cannot be held.
+}}
+
+{{Skill
+|key      = C
+|name     = World Warp
+|mastery  = 200
+|cooldown = 16.5
+|energy   = 100
+|break    = yes
+|instinct = [[Instinct/Break|Breaks Instinct]] if the enemy is still chained. The portal can be dodged.
+|gif      = MapWarp
+|desc     = Upon usage, an interface having [[locations]] corresponding to their own seas shows up. After choosing the desired destination, a portal forms, with chains wrapping the user and nearby enemies/allies. After the formation, they are teleported to the destination alongside their allies , and enemies are stunned and damaged. Up until the portal lasts, the user, their allies and enemies can repeatedly go from the origin to the destination back and forth. Afterwards, the portal disintegrates.
+}}
+
+{{Skill
+|key      = V
+|name     = Dimensional Rift
+|mastery  = 300
+|cooldown = 12-24 (Varies)
+|energy   = 100
+|break    = yes
+|instinct = The pull [[Instinct/Break|breaks Instinct]], but the dimension teleport does not. The initial pull can rarely be dodged on the edge.
+|gif      = Dminsional Rifter_
+|gif1     = Rift Escape
+|desc     = The user creates a rift to a separate dimension that attracts and pulls in the user along with other nearby enemies within its proximity. Everyone who is absorbed into it will be put into a flat dimension, with the only exit being a portal above the rift's center. This move cannot be held.
+|desc1    = While in the dimension, the user's [[energy]] slowly drains. The rift lasts until the user's [[energy]] fully drains, or until the user leaves/closes the rift by reusing the ability or dying or jumping out of the portal located at the top between the clouds as shown.
+}}
+
+{{Skill
+|key      = F
+|name     = Quantum Leap
+|mastery  = 100
+|cooldown = 7.5
+|energy   = 25
+|break    = no
+|instinct = Cannot [[Instinct/Break|break instinct]] in any way.
+|gif      = Portal Hallway
+|gif1     = Portal Leap loop
+|desc     = The user creates two portals - one at their cursor and another where they are standing. This is a short-range move that instantly teleports the user upon use, and anyone who enters said portals will be teleported to the other side.The portals last for around 12 seconds. This move cannot be held.
+|desc1    = If an enemy walks into either of these portals, they will receive damage and get slightly stunned every time they get teleported.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Best mobility fruit in the game (four mobility abilities).
+* Good for avoiding and escaping fights.
+* Great for PvP.
+* Unpredictable attack patterns (land and sky mobility).
+* Great counter to [[Instinct]]'s player detection as moves such as [X], [C], and [V] make the player disappear from the area. However, if the enemy has [[Pale Scarf]], they can usually also detect players on other islands.
+* Great for [[guns|gun]] or [[Swords|sword]] mains.
+* Great for chasing an enemy who has better mobility than the user. (E.g. [[Light]], [[Tiger]], [[Phoenix]])
+* Most reliable source for finding [[Legendary Sword Dealer]], [[Barista Cousin]] and [[Elite Pirates]] as well as [[Fruit Notifier|Fruit Hunting]].
+* All moves have minor stun damage.
+
+|{{Ability|TAP}}
+* Good mobility.
+
+|{{Ability|Z}}
+* Good stun.
+* Good AoE.
+* Amazing [[Combos|combo]] starter.
+* Can grab players even if they have [[Instinct]] activated.
+
+|{{Ability|X}}
+*Completely negates delayed damage moves, such as Sanguine's C move or Kitsune's Z move
+* Extremely abusable stun, especially since the user is un-detectable.
+* Makes the user invisible/invincible for a short period of time, and also unable to be detected by [[Instinct]].
+** Completely negates [[water]] damage.
+* The duration is unaffected by [[Races#Version 3|V3]]/[[Races#Version 4|V4]] abilities, [[Flash Step]], etc. as these won't make the user exit. (Because they count as individual moves.)
+* Can be used to punish charge moves like [[Dark Blade]] {{Ability|Dark Blade|X}} (hold) or [[Godhuman]] [C] (hold).
+* Good for escaping combos ([[Instinct|Instinct-Trick]] and use, or time it).
+
+|{{Ability|C}}
+* The best mobility move in the entire game.
+* Can teleport to almost any island in the current sea.
+* Extremely useful for transportation.
+* Great for boss hopping.
+* Good for chasing [[Portals]] runners ([[Portals]] in the [[Third Sea]]), as the user can teleport to their location behind their back.
+* Quite good for escaping Bounty Hunters.
+** Allows the user to run to any area (like the [[Sea of Treats#Cake Land|Cake Land]]) and hide or run until they can teleport to a Safe Zone.
+* Very useful when doing sea events. (If an ally dies, the Portal user can spawn a portal, which allows the player to "teleport")
+
+|{{Ability|V}}
+* High damage to [[NPCs]].
+* Large hitbox.
+* Can be used to trap flying exploiters. (Everything that tries to fly out or fall from the flat platform will be instantly teleported into the center)
+* Great for dealing against runners.
+* Great combo potential due to its large hitbox and all players who are in the dimension will be forced out of it after the user leaves it.
+* Good for hiding, as the user can use {{Ability|C}}, hide, and then use {{Ability|V}} to escape.
+* Can get rid of [[Terrorshark]]s or any [[sea event]] by having all players of the [[Sea Exploration Group]] enter the portal.
+
+|{{Ability|F}}
+* Easy to grind with.
+** Can do massive damage if stacked in the right way (infinite loop).
+* Can be used to confuse and displace players.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Not recommended for fruit mains for PvP due to having long cooldowns, lack of [[Area of Effect|AoE]] and overall low damage, except for the {{Ability|Z}} ability.
+** Easily countered by [[Blade]] if both players are [[sword]] users.
+* Mainly close-ranged attacks.
+* Requires very precise aiming and timing.
+* Not recommended for [[Sea Beast]] hunts for [[fruit]] mains because of low damage.
+* High mastery requirements for [[First Sea]] and early [[Second Sea]] players.
+
+|{{Ability|TAP}}
+* No damage.
+* Can be annoying, as it could fling the user while grinding.
+
+|{{Ability|Z}}
+* Can be hard to hit in PvP without stun or at long range.
+* Short range.
+* Mostly focuses on one target, making it less viable for grinding [[Enemies|NPCs]].
+* Can easily be [[Instinct]]-tricked, allowing the opponent to escape a potential combo.
+
+|{{Ability|X}}
+* Can be hard to hit in PvP without stun.
+* A well-timed [[Buddha]] {{Ability|Buddha|F}} can drag the player out of the ability.
+** On rare occasions, other well timed attacks may pull the user out too (ex: [[Godhuman]] {{Ability|Godhuman|Z}})
+* Bosses can snipe the user as soon as the user exits. (This can be countered by using a different move.)
+
+|{{Ability|C}}
+* Long startup, the user has to wait 2 seconds before getting teleported upon activation.
+* Very low damage.
+* The portal stays for a while, making it easy for players to catch up.
+
+|{{Ability|V}}
+* Low damage to players.
+* Most exploiters can somehow disappear or move non-stop and can still kill the user if they are not careful. Most of them will find a way to turn off the PvP to reset.
+* Drains a small amount of [[energy]] over time.
+* Only useful on players, although it still does damage and brings [[Enemies|NPCs]] to the dimension, but they glitch out.
+* Cannot be used in [[Friendly PvP]] without leaving the arena.
+* When the opponent exits out of the portal, they gain i-frames for one second, so the user won't be able to do combos after they get out of the portal.
+
+|{{Ability|F}}
+* Damages enemies slowly.
+}}
+</tabber>
+
+== Gallery ==
+<gallery>
+File:OrangePortal.PNG|Orange Portal Physical [[fruit]]
+File:PinkPortal.PNG|Pink Portal Physical [[fruit]]
+File:Pink Dimensional Escape.gif|The teased '''Pink''' skin.
+File:Sideways Escape.png|Sideways {{Ability|X}}
+File:Sideways Portal.png|Sideways Portal animation
+File:Dimensional Rift Looks.jpg|A view of the [[Dimensional Rift]] from the outside. It was observed through a very strange glitch.
+File:Outer Dimension.gif|The Earth and Moon, seen from inside the [[Dimensional Rift|Rift]].
+File:DivineDimensionalRift.jpg|[[Dimensional Rift]] with the {{Skin|Divine}} [[skin]].
+File:DivinePortal.gif|Physical {{Skin|Divine}} Portal [[fruit]] gif
+</gallery>
+==Trivia==
+* When the Portal dimension is used while having no stats in melee, the player can stay in the dimension forever due to the low energy drain being so low.
+* The teleport abilities do not teleport other players if they have PvP disabled or if they are in a Safe Zone and are not allied to the user.
+* Portal is the first fruit that has a teleport move that other players can access.
+* Although Portal and [[Phoenix]] share the Robux price of 2,000, they do not share the same money value. Portal is valued at {{money|1,900,000}}, while Phoenix is valued at {{money|1,800,000}}.
+** This is the first pair to share the same Robux price but not the same value, the second pair being [[Control]] and [[Kitsune]]. Both are priced at 4,000, but Control is valued at {{money|9,000,000}}, while Kitsune is valued at {{money|8,000,000}}.
+* Portal is the first fruit that is able to bring up a separate GUI.
+* The old Portal C UI was shared with Door's C UI, until it was reworked in Update 27.0
+* Alongside the teleport move, Portal has the most mobility moves at four. Phoenix is second at three.
+* The permanent version of Portal has a lot of value, mostly because of its [C] World Warp move, as it can teleport nearly anywhere.
+* [[Midnight Blade]] and [[Bizarre Revolver]] create portals similar to those created by Portal.
+* None of Portal’s moves have destructible physics.
+* The portals once appeared sideways due to a bug. It is unknown why it occurred, but as of now the bug has been patched. However, the user can still make a sideways portal by somehow glitching and making themselves underground until their body is sideways, then using [C] World Warp, and the portal will be sideways.
+* [[Raids]] seem to teleport players to the raid islands through portals similar to the ones created by Portal.
+* Portal is the only blox fruit to be Octagon shaped.
+* If the Player uses the Divine Portal skin, its '''[V] Dimensional Rift''' will make an different ambient sound while in the dimension compared to its Default skin.
+;{{Ability|TAP}}
+* Can be used to glitch through some walls (E.g.: The igloo entrance on the cold side of [[Hot and Cold]] in the [[Second Sea]]).
+* Used to have the shortest cooldown at 2–2.5 seconds, but it has since been nerfed to 3.5 seconds.
+* This move is buffed slightly in the [[dungeons]] lobby.
+
+;{{Ability|X}}
+* When using this ability and passing through {{Ability|C}} from the enemy, the invisible duration will reset upon teleportation, causing the user to become invisible again.
+
+;{{Ability|C}}
+* The user can teleport to the [[Cursed Ship]] without reaching [[Levels|Lv]]. 1000 through the use of this move. However, the enemies do not drop [[Ectoplasm]]s. The user will still be able to talk to the [[NPCs|NPC's]], also the [[Cursed Captain]] will not drop the [[Hellfire Torch]] to the player, and they will not be able to accept any [[Quests]] (because of the level requirement).
+* This is a great move for escaping Portal {{Ability|V}} loopers as this move cannot be canceled when used no matter what damage is taken.
+* This move could actually deal damage, even to the user. However, the amount of damage dealt was 1 damage or less, which is also why when the user teleported through the portal, the [[health]] bar on the top right appeared instead of being hidden.
+* This move could teleport the user out of a [[raid]] and still keeps the timer. This means if the raid was beaten, they would still be awarded the [[fragments]] even if they did not actively participate in the raid. When outside the raid, the user was immune to the attacks of other players. (This has been patched in {{Update|26.8}})
+* While the GUI (menu) is open, players can use moves and [[Air Jump]]/[[Dashing|Dash]] freely, whereas before [[Update 27.0]], players were unable to do anything except walk and jump only once.
+* If a player uses this ability then dies, the portal will constantly teleport the player's remains (pieces shattered after dying), meaning upon respawning, the player will be constantly teleported to the target location.
+* If used on lower-end devices it can cause lag from being constantly teleported from both ends of the portal.
+* Portal's C move can be used as a "Admin Killer Combo," when the user teleports someone to Hot and Cold in [[Second Sea]] and use the Hallow Scythe to launch them into the lava which will kill them almost instantly. This can also be done with swords other than Hallow Scythe that have moves that knockback players.
+
+;{{Ability|V}} 
+* There's a bug that could happen by someone letting the player enter {{Ability|V}} and then immediately quit the game. This leads to players being able to turn off fog, which effectively helps to clarify vision.
+* If the player is launched out of the dimension through the top portal by a high-knockback move, such as [[Godhuman]] {{Ability|Godhuman|C}}, a bug may cause them to end up in a void far away from the islands.
+* Sometimes, when the dimension despawns and a player is in it, they will fall from the sky, high above the islands.
+* During a Terrorshark Event, the user can use {{Ability|V}} to cancel the Event (note: if theres other people, they have to join too or the event wont be canceled)
+
+;{{Ability|F}}
+* The user can use this to "swap places" with an enemy. However, if they use this when the enemies are really close to them, they will be at the portal where the user exits.
+* The portals can still be used while in the void from {{Ability|X}}, which means that the user can use this move for transporting/escaping quickly on the battlefield.
+* It can be opened up at any position and distance between each other, so the user can essentially trap [[NPCs]], [[bosses]] or players in a loop dealing massive damage to them along with the minor [[stun]] damage dealt from entering the portal until the portal closes.
+* Since it is an instant teleport move, it can be used to clip through walls, such as the [[Temple of Time]], allowing players to view the outside of the temple.
+
+==Change History==
+---
+{{Change History|15|content=
+<tabber>
+|-|29=
+{{Update|29}}
+* A {{CHROMATIC}} Portal [[skin]] was added.
+|-|27.0=
+{{Update|27.0}}
+* Portal {{Ability|C}}'s GUI was reworked.
+* Portal {{Ability|C}}'s was buffed.
+** {{Arrow|buff}} {{Ability|C}} can dash in GUI and use moves as well as healing.
+|-|26.8=
+{{Update|26.8}}
+* Portal was nerfed.
+** {{Arrow|nerf}} {{Ability|Z}} final hit no longer breaks [[Instinct]].
+* {{Ability|C}} was reworked.
+** {{Ability|C}} received some sound changes.
+: <gallery>
+PortalCWOW.gif|Old {{Ability|C}}
+</gallery>
+|-|26=
+{{Update|26}}
+* {{Arrow|neutral}} Blur background visual for entering {{Ability|C}} was changed back to the former visuals.
+|-|24=
+{{Update|24}}
+* Portal was nerfed.
+** {{Arrow|nerf}} Removed the ability to stay in {{Ability|X}} while using M1s, as well as slightly decreasing the total time of the move.
+** {{Arrow|nerf}} Added a blur background visual when entering a portal formed by {{Ability|C}}.
+** {{Arrow|nerf}} Players now have to close the screen of fruit shop in order to use the GUI of {{Ability|C}}.
+** {{Arrow|nerf}} Portal's M1 can no longer be used when talking to an NPC.
+** {{Arrow|nerf}} Enemies now gain approximately 60 invincibility frames when being forced out of {{Ability|V}}, effectively removing its ability to infinite combo.
+|-|21=
+{{Update|21}}
+* {{Arrow|nerf}} Slightly increased cooldown of {{Ability|V}} and {{Ability|X}}.
+|-|20=
+{{Update|20}}
+* Portal Fruit's model was remade.
+: <gallery>
+Portal 150x150.png|Old Portal Fruit's Model.
+</gallery>
+|-|18=
+{{Update|18}}
+* {{Arrow|nerf}} Slightly increased cooldowns on {{Ability|TAP}}.
+|-|17.3.5=
+{{Update|17.3.5}}
+* [[Door]] was reworked and was renamed to [[Portal]].
+** {{Ability|Door|Z}} was renamed to {{Ability|Z}}.
+** {{Ability|Door|X}} was renamed to {{Ability|X}}.
+** {{Ability|Door|C}} was renamed to {{Ability|C}}.
+** Added {{Ability|V}}.
+** {{Ability|Door|F}} was renamed to {{Ability|F}}.
+|-|17.2=
+{{Update|17.2}}
+* Added short immunity frames to the user while teleporting with {{Ability|Door|C}}.
+|-|15=
+{{Update|15}}
+* Portal was released as [[Door]].
+</tabber>
+}}
+
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Портал]]

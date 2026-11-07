@@ -1,0 +1,282 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Am I a joke to you?|PrestigeTitle = Going Bananas|Rarity = Mythic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>1025 (with Super)|HealthLabel = Health|Health = 3500|AttackLabel = Damage|Attack = 1140|AttackRange = 4 (Normal)<br>5.33 (with Presto)|Reload = 2.4 seconds (Very Slow)|AttackSpeed = |AttackSuperCharge = 21.65%|SuperSuperCharge = 14.875–29.75% (Power Level 1–11)<br>31.225% (with Hypercharge)|VoiceActor=Allen Enlow<br>Lin Qiang (Wukong Mico)|SuperDuration= 6 seconds|Super=1190|SuperLabel=Landing Damage|SuperSpeed=|Gadget1Name=Clipping Scream|Gadget1Label= Damage per projectile|Gadget1=456|Gadget1Cooldown=15 seconds|Gadget2Name=Presto|Gadget2Cooldown=14 seconds|HyperchargeMultiplier=50%|Previous=Charlie|Next=Melodie|AttackHyperchargeCharge=10.825%|SuperHyperchargeCharge=14.875%<br>15.6% (with Hypercharge)|Gadget1Range=9}}
+{{Quote|Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...}}{{Portrait}}
+Mico is a {{Rarity|Mythic}} [[Brawler]] who could be unlocked for free as a Brawlidays 2023 gift from December 14th through December 31st. He has moderate health and damage output, a very fast movement speed, a short attack range, and immense utility with his attack and Super, but suffers by having a very slow reload speed. He was the 74th Brawler added to the game. He attacks by jumping over obstacles, dealing damage to any enemies in a small radius when he lands. His Super is a jump that, upon landing, deals damage and knocks enemies back. His first Gadget, Clipping Scream, fires 3 long-ranged projectiles that slow down and damage enemies on impact. His second Gadget, Presto, increases the range of his next attack. His first Star Power, Monkey Business, periodically makes his next attack remove ammo from enemy Brawlers hit while restoring Mico's ammo. His second Star Power, Record Smash, doubles the damage on special targets. His Hypercharge, Sound Check, makes Mico's next Super stun enemies.
+
+== Attack: Mic BOOM!==
+{{Quote|Mico jumps forward for a short distance attacking with his mic boom and damaging nearby enemies after landing. }}Mico attacks by jumping a short distance, staying airborne for approximately 0.58 seconds, regardless of the distance traveled. Upon landing, he deals moderate damage in a 1.5-tile radius. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Mico is completely immune to all damage besides status effects and damage applied over time. Mico's attack has a slow cooldown and a very slow reload speed. He takes 0.75 seconds to complete his attack.
+
+==Super: Out of Frame==
+{{Quote|Mico jumps out of frame, becoming invulnerable while controlling his landing position and damaging nearby enemies while landing.}}After a 1-second delay, Mico jumps in the air for 6 seconds, dealing damage and knocking enemies back in a 2.33-tile radius upon landing. Where he will land is highlighted with an area-of-effect that gradually increases in size over time. While in the air, Mico can reload and heal, and is completely immune to all damage besides status effects and damage applied over time. However, if hit with a stun, pull, or knockback during the delay, his Super is cancelled. His Super recharge rate scales based on the damage done, meaning it is increased with Power Levels as well as by damage buffs and debuffs.
+
+==Gadgets==
+===Clipping Scream===
+{{Quote|Mico lets out a deafening scream towards the nearest enemy dealing 570 damage and slowing enemies down for 2 seconds on hit. Cooldown: 15 seconds.}}{{Gadget|1}}Mico fires three long-ranged projectiles with a slight spread. These projectiles deal 25% of the attack damage to enemies upon contact, while also slowing them down by 350 points for 2 seconds. This Gadget can only be used if there is an enemy in a 9-tile radius, and its cooldown begins 0.25 seconds after it's activated.
+
+=== Presto===
+{{Quote|Mico's next jump has 34% longer range. Cooldown: 14 seconds.}}{{Gadget|2}}
+Upon activation, Mico's next attack range is increased by 1.33 tiles. The attack joystick will glow signaling this Gadget's activation. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Monkey Business===
+{{Quote|Every 5 seconds, Mico's basic attack steals ammo from his enemies after hitting them.}}{{StarPower|1}}
+Mico gains a bar that takes 5 seconds to charge up, and when fully charged, enemies hit by Mico's next attack will lose one-third of their ammo. Meanwhile, Mico gains the stolen ammo to his own ammo bar. If an enemy Brawler's ammo bar is empty, Mico will not receive any more ammo even if the attack hits them, but Mico can still remove enemies' ammo even if his ammo bar is full. This Star Power does not work against the [[Heist]] safe or spawnables. However, the bar resets if Mico doesn't hit a target.
+
+===Record Smash===
+{{Quote|Mico deals 100% extra damage against non-Brawlers.}}{{StarPower|2}}
+This Star Power doubles Mico's attack damage to every special target, such as [[Nita]]'s bear, [[Jessie]], [[Pam]], and [[8-Bit]]'s turrets, [[Penny]]'s mortar, [[Mr. P]]'s porter, [[Larry & Lawrie|Lawrie]], [[Showdown]] boxes, and [[Heist]] safe.
+
+== Hypercharge: Sound Check==
+{{Quote|Mico's Super also stuns nearby enemies after landing for 1.5 seconds.}}{{Hypercharge}}
+When activated, Mico's next Super stuns enemies hit by its impact damage for 1.5 seconds. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips ==
+*Use your jumps sparingly. Mico's reload speed is very slow, so avoid wasting too much ammo while using your attack for mobility. Try not to burst down all your ammo, and instead time your attacks with those of your target's.
+*To optimise the usage of Clipping Scream Gadget, jump directly onto opponents before using it, ensuring that all 3 projectiles hit. While this Gadget's slow should buy you time to escape, ensure to keep at least 1 ammo to escape.
+*You can also use Mico's Clipping Scream to slow down melee Brawlers trying to chase you down, allowing you to not have to use his main attack to jump away.
+*When engaging other Micos, it may be better to auto-aim right on top of them to deal damage. This is because many Mico confrontations will likely result in both parties trying to attack each other simultaneously and as such, it may be better to dodge at the last second and attack your opponent.
+*Keep in mind that Mico's Super slows down as it locks on, so try to corner Brawlers you target before you strike.
+* Mico's health is not extremely high and the 1 second delay to execute his Super leaves him vulnerable to defeat. As such, take advantage of the 6 second delay and use your Super behind cover before tracking your target.
+*Thanks to Mico's long airtime during his Super, he can use it similarly to [[Janet]]'s Super in Gem Grab, escaping from opponents during the countdown as well as recovering in the air.
+*When engaging assassins, ensure you have at least one ammo to disengage. This is because, Mico lacks any real options for dealing high burst damage or recovering health, meaning that without his Clipping Scream Gadget, Mico cannot escape effectively and will likely be defeated.
+*Thanks to Mico's small damage radius, train to anticipate enemy movement, corner enemies into smaller bundles or use a more ambush-oriented fighting style. The latter style is best paired with his Monkey Business Star Power as it prevents Brawlers with slow reload from fighting back, especially after confronting other Brawlers.
+*Thanks to the long time in the air that Mico's Super possesses, using the Hypercharge and immediately using your Super would cause the Hypercharge to be wasted. The Hypercharged Super is less impactful in relation to other Hypercharges, so using the Hypercharge as a pure stat buff for attacks is a good idea. Landing on an opponent, and then activating Hypercharge to quickly defeat them is a good strategy.
+*Unlike other Brawlers with similar attack-boosting bars, Mico's Monkey Business bar recharges regardless of whether he’s attacking or not. As such, it’s recommended for Mico players to attack as soon as possible their bar is full, allowing for possible team wipes when Mico recharges during his attack.
+*Mico's attack damage is done a frame before the jump ends, making him immune to immediate damage retaliation from the likes of [[Jacky]]'s Counter Crush, [[Nani]]'s Return to Sender, or [[Meg]]'s Heavy Metal Star Power. This applies to knockbacks as well, meaning Mico can damage enemies attempting to hide inside [[Gale]]'s Twister Gadget.
+*Similar to [[Buzz]]'s Reserve Buoy Gadget, Presto can be used as a kill confirm option to counteract Mico's short range more effectively than Clipping Scream due to Mico's main attack dealing more damage. Unlike most Gadgets that buff a Brawlers main attack however, Presto does not show a Gadget symbol above him, making it a great surprise option at practically any time.
+*Using the Record Smash Star Power, Mico can deal immense amounts of damage to the [[Heist]] safe and Power Cube boxes.
+*If you are going to use Monkey Business Star Power, use one attack just before the bar fills so you can approach the enemy and activate your ammo stealing ability, which makes up the ammo you used to approach the enemy. Alternatively, you can use Presto Gadget.
+*Don't go against enemies that can deal constant damage with very fast unload speed such as [[Carl]] or [[Gigi]], because they deal damage whenever someone is near them using their Super and attack respectively, so it's impossible to dodge their attacks using the jumping feature because they will damage whenever Mico is on the ground.
+
+==Voice Lines==
+{{TranslationToggle|Mandarin Chinese}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+! Defeating An Enemy
+!Defeated
+!Attacking
+! Activating A Super 
+|-
+|'''Normal:'''
+{{Ogg|Filename = mico start vo 01.ogg|Filedescription ="Countdown to chaos!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk start vo 01.ogg|Filedescription ={{Translate|"俺老孙来也！" 
+("Ǎn lǎo sūn lái yě!" )|"I, Sun Wukong, have arrived!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 01.ogg|Filedescription ="Ha ha! I'm the chimp champ, baby!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 01.ogg|Filedescription ={{Translate|"你没听过……喔……齐天大圣？" ("Nǐ méi tīngguò……ō……qí tiān dà shèng?")|"Haven't you heard of... oh... the Monkey King?"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico hurt vo 01.ogg|Filedescription ="Oh! Easy knucklehead."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk hurt vo 01.ogg|Filedescription ={{Translate|"这点疼痛算什么，呸！" ("Zhè diǎn téngtòng suàn shénme, pēi!")|"What's this little pain, hmph!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 01.ogg|Filedescription ="Ka-boom, mic!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 01.ogg|Filedescription ={{Translate|"唔嘿嘿，嘣嘎！" ("Wú hēihēi, bēng gā!")|"Uh-huh, bam!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico die vo 01.ogg|Filedescription ="Yeah, go ahead. Just keep laughing."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk die vo 01.ogg|Filedescription ={{Translate|"看你能笑多久！" ( "Kàn nǐ néng xiào duōjiǔ!" )|"Let's see how long you can laugh!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico ulti vo 01.ogg|Filedescription ="I'm going bananas!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 01.ogg|Filedescription ={{Translate|"喝喝，吃俺老孙一棒！" ("Hē hē, chī ǎn lǎo sūn yī bàng!" )|"Take that, and have a taste of my staff!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = mico start vo 02.ogg|Filedescription ="Testing, 1, 2, 3. Testing!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk start vo 02.ogg|Filedescription ={{Translate|"哦？有妖怪？" ( "Ó? Yǒu yāoguài?" )|"Oh? There are demons?"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 02.ogg|Filedescription ="And, the Oscar goes to..."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 02.ogg|Filedescription ={{Translate|"我就问，还有谁！" ( "Wǒ jiù wèn, hái yǒu shéi!" )|"I'm asking, who else is there?!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico hurt vo 02.ogg|Filedescription ="Hey hey hey! Easy fella!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk hurt vo 02.ogg|Filedescription ={{Translate|"嘿嘿，小伤，不值一提！" ( "Hēihēi, xiǎo shāng, bù zhí yī tí!" )|"Hehe, minor injury, not worth mentioning!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 02.ogg|Filedescription ="Woah, I am way too talented for this schmuckerini."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 02.ogg|Filedescription ={{Translate|"我若成佛，天下无魔！" ( "Wǒ ruò chéng fó, tiānxià wú mó!" )|"If I attain Buddhahood, there will be no demons in the world!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico die vo 02.ogg|Filedescription ="What am I, a joke to you? I'm a chimp, I jump around on the monkey bars. Say, huh?"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk die vo 02.ogg|Filedescription ={{Translate|"一切皆是幻象……" ( "yīqiè jiē shì huànxiàng……" )|"All is illusion..."}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico ulti vo 02.ogg|Filedescription ="Mic-o drop moment!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 02.ogg|Filedescription ={{Translate|"喔，妖怪！哪里逃？" ( "Ō, yāoguài! Nǎlǐ táo?" )|"Oh, demon! Where are you fleeing?"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = mico start vo 03.ogg|Filedescription ="Yeah, this is just a side gig."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk start vo 03.ogg|Filedescription ={{Translate|"这只是俺的兼职工作" ( "Zhè zhǐshì ǎn de jiānzhí gōngzuò" )|"This is just my part-time job."}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 03.ogg|Filedescription ="Ho ho ho! I'm gonna be a star for sure!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 03.ogg|Filedescription ={{Translate|"哎嘿嘿嘿嘿，超出三界之外，不在五行之中！" ( "Āi hēihēihēi hēi, chāochū sānjiè zhī wài, bùzài wǔháng zhī zhōng!" )|"Hehehe, beyond the three realms, not among the five elements!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico hurt vo 03.ogg|Filedescription ="Oh! Back off!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk hurt vo 03.ogg|Filedescription ={{Translate|"咳，起开！" ( "Hāi, qǐ kai!" )|"Ahem, move aside!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 03.ogg|Filedescription ="Telling ya, I'm always the one sorting out the mess here."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 03.ogg|Filedescription ={{Translate|"挡我老孙者，统统让开！" ( "Dǎng wǒ lǎo sūn zhě, tǒngtǒng ràng kāi!" )|"Those who block me, Sun Wukong, get out of the way!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico die vo 03.ogg|Filedescription ="I think there's some monkey business going on around here."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk die vo 03.ogg|Filedescription ={{Translate|"俺老孙去也！" ( "Ǎn lǎo sūn qù yě!" )|"I, Sun Wukong, am off!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico ulti vo 03.ogg|Filedescription ="Not so tough now, are you, wisenheimers?"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 03.ogg|Filedescription ={{Translate|"看我七十二变！" ( "kàn wǒ qīshí'èr biàn!" )|"Watch my seventy-two transformations!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = mico start vo 04.ogg|Filedescription ="Hello, my good fellas!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk start vo 04.ogg|Filedescription ={{Translate|"啊哈，我的徒子徒孙们" ( "A hā, wǒ de túzǐtúsūnmen" )|"Aha, my disciples and grandchildren!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 04.ogg|Filedescription ="I'm number one, baby! Top of the world!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 04.ogg|Filedescription ={{Translate|"我若成魔，佛奈我何？" ( "Wǒ ruò chéng mó, fú nài wǒ hé?" )|"If I become a demon, what can the Buddha do to me?"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico hurt vo 04.ogg|Filedescription ="Alright, that's it. Enough monkeying around. Yeah!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk hurt vo 04.ogg|Filedescription ={{Translate|"嘿嘿！都是小意思！" ( "Hēihēi! Dōu shì xiǎoyìsi!" )|"Hehe! It's all trivial!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 04.ogg|Filedescription ="Yeah! Got your guts on take!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 04.ogg|Filedescription ={{Translate|"嘿，让你知道这金箍棒的厉害！" ( "Hēi, ràng nǐ zhīdào zhè jīn gū bàng de lìhài!" )|"Hey, let me show you the power of this golden-banded staff!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico die vo 04.ogg|Filedescription ="Bye bye! I'm going up to the big jungle gym in the sky."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico ulti vo 04.ogg|Filedescription ="Primate power!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 04.ogg|Filedescription ={{Translate|"嘿嘿嘿，天压我，那我就劈开这天！" ( "Hēihēi hēi, tiān yā wǒ, nà wǒ jiù pī kāi zhè tiān!" )|"Hehehe, if the heavens press down on me, then I'll split them open!"}}}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = mico start vo 05.ogg|Filedescription ="Woah, time for some whack-a-noodle."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk start vo 05.ogg|Filedescription ={{Translate|"嘿，准备大闹一场！" ( "Hēi, zhǔnbèi dà nào yī chǎng!" )|"Hey, get ready to cause some havoc!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 05.ogg|Filedescription ="The world and everything in it."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 05.ogg|Filedescription ={{Translate|"哦，都在哪儿呢？高处不胜寒呐！" ( "ó, dōu zài nǎ'er ne? Gāo chù bùshèng hán nà!" )|"Oh, where are they all? It's lonely at the top!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 05.ogg|Filedescription ="Louder mister, I'm recording your screams."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 05.ogg|Filedescription ={{Translate|"啊，哦，你说啥？大点儿声！" ( "A, ó, nǐ shuō shá? Dà diǎn er shēng!" )|"Ah, oh, what did you say? Speak louder!"}}}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = mico ulti vo 05.ogg|Filedescription ="Boom baboon!"}}'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 05.ogg|Filedescription ={{Translate|"哦？嘿嘿，棒！棒！棒！" ( "Ó? Hēihēi, bàng! Bàng! Bàng!" )|"Oh? Hehe, great! Great! Great!"}}}}
+|-
+|
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 06.ogg|Filedescription ="Ain't no monkeying around over here."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk lead vo 06.ogg|Filedescription ={{Translate|"孩儿们，美猴王来啦！" ( "Hái'érmen, měi hóu wáng lái la!" )|"Children, the Monkey King has arrived!"}}}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 06.ogg|Filedescription ="Oh oh oh oh, please with the screaming."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 06.ogg|Filedescription ={{Translate|"给我一点尖叫声！" ( "Gěi wǒ yīdiǎn jiān jiào shēng!" )|"Give me a little scream!"}}}}
+|
+|
+|'''Wukong:'''
+{{Ogg|Filename = mico wuk ulti vo 06.ogg|Filedescription ={{Translate|"送你一路上西天！" ( "Sòng nǐ yī lùshàng xītiān!" )|"I'll escort you to the Western Heaven!"}}}}
+|-
+|
+|'''Normal:'''
+{{Ogg|Filename = mico lead vo 07.ogg|Filedescription ="Ooh ooh ooh ooh ooh! Woah, that was primal."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = mico kill vo 07.ogg|Filedescription ="Heh heh, we all knew the risks."}}'''Wukong:'''
+{{Ogg|Filename = mico wuk kill vo 07.ogg|Filedescription ={{Translate|"嘿嘿嘿……你孙外公在此！" ( "Hēihēi hēi……nǐ sūn wàigōng zài cǐ!" )|"Hehehe... Your Grandfather-in-law is here!"}}}}
+|
+|
+|
+|}
+
+==History==
+*14/12/23:
+**{{Balance|Neutral|Mico was added to the game and was available for every user to claim for free until 31/12/23.}}
+**{{Balance|Neutral|The Macaron Mico skin was added.}}
+*16/12/23:
+**{{Balance|Neutral|The Grouch Mico skin was added. It was featured as a Dark Winter Tales skin.}}
+*05/01/24:
+**{{Balance|Neutral|Fixed a bug where Mico was dealing too much damage with [[Showdown|Power Cubes]] or outside buffs.}}
+* 09/02/24:
+**{{Balance|Neutral|The Wukong Mico skin was added. It was featured as a Lunar Brawl skin.}} 
+*27/02/24:
+**{{Balance|Buff|Mico's Sound Check Hypercharge multiplier was increased to 50% (from 40%).}}
+**{{Balance|Buff|Mico's Sound Check Hypercharge speed boost was increased to 24% (from 20%).}} 
+**{{Balance|Nerf|Mico's Sound Check Hypercharge shield boost was decreased to 5% (from 25%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+**{{Balance|Neutral|Fixed an issue where Mico could be damaged while in the air.}}
+*23/04/24:
+**{{Balance|Neutral|Mico's True Silver and True Gold skins were added.}}
+*04/09/24:
+**{{Balance|Nerf|Mico is no longer immune to the poisonous gas in [[Showdown]], [[Knockout]], and [[Duels]] during his Super.}}
+*10/12/24:
+**{{Balance|Buff|Mico's health was increased to 3300 (from 3000).}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Buff|Mico's reload time was decreased to 2.4 seconds (from 2.6).}}
+*07/06/25:
+**{{Balance|Neutral|The Monstro Mico skin was added. It was featured as a Kaiju Invasion skin.}}
+*30/06/25:
+**{{Balance|Neutral|Fixed a bug where Mico's Monkey Business Star Power wasn't working.}}
+*23/07/25:
+**{{Balance|Buff|Mico’s main attack damage was increased to 1140 (from 1090).}}
+**{{Balance|Buff|Mico's Super charge rate was increased slightly, which allows Mico to charge his Super with 1 Hypercharged Super hit + 3 main attack hits (from 1 Hypercharged Super hit + 4 main attack hits).}}
+**{{Balance|Buff|Mico’s Clipping Scream Gadget damage was increased to 456 (from 436) per projectile.}}
+*12/09/25:
+**{{Balance|Neutral|Fixed a bug where Mico's Super would not go over obstacles and water.}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Mico's Sound Check Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Mico's Sound Check Hypercharge damage boost from 25%.}}
+**{{Balance|Neutral|Fixed a bug where Mico's Super would not go over obstacles and water smoothly.}}
+*16/12/25:
+**{{Balance|Buff|Mico's health was increased to 3500 (from 3300).}}
+*22/04/26:
+**{{Balance|Buff|Mico's level up reload speed boost was increased to 3% (from 2%) in [[Brawl Arena]].}}
+**{{Balance|Content=Mico's Clipping Scream Gadget slow visual effects were reworked.|Change=Neutral}}
+*02/07/26:
+**{{Balance|Neutral|The Master, Fire Master and Earth Master Mico skins were added. They were featured as Brawl Pass Season 52 skins and Nanonoodles skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Mico's movement speed to 855 (from 820).}}
+
+== Cosmetics ==
+===Skins (9)===
+{{Skin Gallery
+|Name1=Macaron|Cost1=Free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Grouch|Cost2=Free from Presents or 149 Gems|Campaign2=Dark Winter Tales|Rarity2=Epic
+|Name3=Monstro|Cost3=149 Gems|Campaign3=Kaiju Invasion|Rarity3=Epic
+|Name4=Wukong|Cost4=299 Gems • '''S'''|Campaign4=Lunar Brawl|Rarity4=Legendary
+|TrueSkins = Yes
+|NameP1=Master|CostP1=2 Skin Keys|CampaignP1=Nanonoodles|RarityP1=Epic
+|NameP2=Fire Master|CostP2=Free after purchasing the Skin Set|CampaignP2_1=Brawl Pass|CampaignP2_2=Nanonoodles|RarityP2=Epic
+|NameP3=Earth Master|CostP3=Free after purchasing the Skin Set|CampaignP3_1=Brawl Pass|CampaignP3_2=Nanonoodles|RarityP3=Epic
+}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Mico
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Grouch|Special}}
+{{Pin Table|Wukong}}
+{{Pin Table|Monstro|Angry}}
+|}
+
+=== Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Mico|Rarity = Common}}
+|{{Spray|Type = Mico Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Wukong Mico|Rarity = Common}}
+|}
+
+===Profile Icons ===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Mico1}}
+|{{Pfp|Mico2}}
+|{{Pfp|Mico3}}
+|{{Pfp|Mico4}}
+|{{Pfp|Grouch Mico}}
+|-
+|{{Pfp|Wukong Mico}}
+|{{Pfp|Monstro Mico}}
+|}
+
+{{Navigation}}
+
+[[ru:Мико]]

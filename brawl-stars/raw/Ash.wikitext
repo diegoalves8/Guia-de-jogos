@@ -1,0 +1,316 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Trash Tier|PrestigeTitle = Trashy|Rarity = Epic|Class = Tank|MovementSpeed = 750 (Normal)<br>800 (Fast; half Rage)<br>850 (Very Fast, full Rage)|HealthLabel = Health|Health = 5900|AttackLabel = Stage 1 damage|Attack = 800|AttackRange = 4.67 (Normal)|Reload = 1.4 seconds (Fast)<br>1 second (with full Rage and Mad As Heck)|AttackSuperCharge = 14.28%<br>15.708% (with Super Charge Gear)<br>21.42% (half Rage)<br>23.562% (with half Rage and Super Charge Gear)<br>28.56% (full Rage)<br>31.416% (with full Rage and Super Charge Gear)|SuperRange = 5 (Normal)|AttackSpeed=5000|AttackWidth=1.67|SuperLabel = Health per rat|Super = 300|SuperSpeed=1196|VoiceActor=Russ Bain|SuperMinion=Rat|SuperMovementSpeed=1200|SuperLabel2=Damage per rat|Super2=300|SuperSuperCharge=2.25%<br>2.475% (with Super Charge Gear)|AttackLabel2=Stage 2 damage|AttackLabel3=Stage 3 damage|Attack2=1200|Attack3=1600|Gadget1Name = Chill Pill|Gadget1 = 2832|Gadget1Label = Maximum Heal|Gadget1Cooldown=13 seconds|Gadget2Name=Rotten Banana|Gadget2Cooldown=8 seconds|Previous=Griff|Next=Lola|AttackHyperchargeCharge=4.998%<br>5.4978% (with Super Charge Gear)<br>7.497% (half Rage)<br>8.2467% (with half Rage and Super Charge Gear)<br>9.996% (full Rage)<br>10.9956% (with full Rage and Super Charge Gear)|SuperHyperchargeCharge=1.875%<br>2.0625% (with Super Charge Gear)|HyperchargeMultiplier=35%}}
+{{Quote|Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!}}{{Portrait}}Ash is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 8: Once Upon A Brawl. He has very high health, a variable damage output and movement speed, a fast reload speed, and a short attack range. He was the 50th Brawler added to the game. Ash's Trait allows him to charge his Super from enemies damaging him. His Rage bar gets filled by a certain amount whenever he deals or receives damage and it gives Ash speed boosts and damage boosts that increase the more his Rage bar is filled. He attacks by smashing his broom on the ground, sending a piercing shockwave that deals more damage the more Ash's Rage bar is filled. His Super spawns five robotic rats with low health that chase the nearest enemy and explode on contact. His first Gadget, Chill Pill, heals Ash with the healed amount depending on how much his Rage bar is filled. His second Gadget, Rotten Banana, instantly increases his Rage in exchange for some of his current health. His first Star Power, First Bash, doubles the amount of Rage charged if he attacks an enemy when his ammo bars are full. His second Star Power, Mad As Heck, boosts his reload speed the more Rage Ash has. His Hypercharge, Rat King, doubles the amount of robotic rats spawned from Ash's Super.
+
+== Trait ==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Ash takes damage from enemy Brawlers or spawnables, he charge his Super. The Super charge rate depends on the damage the enemy deals. It takes 2.76x Ash's max health of damage to charge his Super completely, and all damage is calculated after shielding and other effects.
+
+==Rage Bar==
+[[File:Rage.png|97x97px|left|link=]]
+Ash has a Rage bar that gets filled when he deals damage or when he receives damage and will slowly deplete when Ash isn't dealing or receiving damage. The Rage bar gives Ash speed and damage boosts depending on how much it's filled. The Rage bar is divided into three segments. If one segment is filled, his attack deals 50% more damage and his movement speed is increased to 800 points. If two segments are filled, his attack will deal 100% more damage and his movement speed is increased to 850. The Rage bar does not grant any more boosts when it's fully charged. In total, it takes 15 seconds for the entire bar to decay. Attacks charge it by 17.4%, Supers by 15%, and enemy Brawler damage received charges it fully if Ash takes 125% of his maximum health. Allies and enemies cannot see the Rage Bar, but can see the castle icon showing the amount of Rage Ash has.
+
+==Attack: Clean-Up==
+{{Quote|Ash angrily smashes down with his broom. Get out of the way or you might bite the dust!}}Ash winds up his broom and smashes it on the ground, sending a piercing shockwave. Although Ash reloads relatively quickly, the wind-up of 0.3 seconds inhibits him from bursting his attack. This attack has a long cooldown, which takes 0.7 seconds to complete.
+
+==Super: Little Helpers==
+{{Quote|Robotic rats for cleaning up? That's right, they explode on contact, dealing damage to opponents and greatly increasing Ash's Rage level.}}Ash throws down 5 robotic rats with low health and damage that chase the nearest enemy and explode upon contact with them in a 2-tile radius. Unlike other spawnables, the rats' hitpoints only increases by 80 per powercube instead of 400.
+
+==Gadgets==
+===Chill Pill===
+{{Quote|Though furious, Ash has to collect himself. A full rage meter will recover 3540 health when this Gadget is popped - less Rage, less recovery. Cooldown: 13 seconds.}}{{Gadget|1}}Upon activation, Ash will heal for up to 30% of his max health if his Rage bar is fully filled. However, the less Rage Ash has, the less he will heal. This resets all of Ash's Rage and this Gadget cannot be used if Ash has no Rage. 
+
+===Rotten Banana===
+{{Quote|Ash loses 5% health and instantly gains 40% rage. Cooldown: 8 seconds.}}{{Gadget|2}}Ash instantly loses 5% of his current health and gains 40% of his Rage. Since the health reduction is based on his current health, Ash cannot defeat himself when using this Gadget, unless he is marked by [[R-T]]. The health reduction from this Gadget does not trigger his Trait. Ash can only use this Gadget when he has 2 health or more.
+
+==Star Powers==
+===First Bash===
+{{Quote|When hitting an opponent with his attack charges full, Ash gets even more angry. His Rage goes up by 200%.}}{{StarPower|1}}When Ash has all his ammo, the first enemy he hits charges his Rage bar by 52.2% (instead of 17.4%). This doesn't affect his Super's Rage charge rate and does not stack if he hits multiple enemies with his first attack.
+
+===Mad As Heck===
+{{Quote|Ash progressively gains up to 40% faster reload speed, equal to how enraged he's become.}}{{StarPower|2}}Ash reloads his attack up to 40% faster the more Rage he has. This Star Power will still take effect even without maximum Rage.
+
+==Hypercharge: Rat King==
+{{Quote|Little Helper spawns 5 more rats!}}{{Hypercharge}}
+When activated, Ash's next Super doubles the amount of robotic rats, from 5 to 10. He also gains a 20% speed boost, as well as a 5% damage and speed boost. 
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Ash spawns more Little Helpers, and he has an increased Super Charge.}}<div style="float:right">[[File:Mutation.png|64px|link=]]</div>Ash's main attacks charged his Super 78.57% more, and his Super spawned 10 rats instead of 5.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Super charges faster and launches more rats!}}<div style="float:right">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Ash's main attacks charged his Super 78.57% more, his Super spawned 10 rats instead of 5, and his Hypercharged Super spawned 20 rats instead of 10.
+
+==Tips==
+===Game Modes and Maps===
+*Ash is strong in modes and maps that require constant area control. His high health allows him to withstand a healthy amount of damage, and once his rage bar is filled, he can deal very high damage to enemies. This allows him to go aggressive with his improved speed and damage, and possibly turn the outcome of the match. However, this also means he is somewhat ineffective in modes and strategies that require high burst-damage or quick maneuvering.
+*Ash is a good pick in [[Brawl Ball]]. His short range is compensated in many Brawl Ball maps that have a lot of bushes or walls, which can help him sneak up on enemies or retreat. His high health and fast movement speed renders him an excellent ball holder, and with his Super and piercing attacks, he can fill up his Rage bar quickly. Once he does fill up his rage bar, he can go aggressive on enemies with his high-damaging attack and very fast movement speed. It is important to remember that while Ash can deal a huge amount of potential damage, his output is inconsistent, and sometimes the better thing might be to retreat rather than rushing forward. Ash can also be a lot more reliable if paired with a healer, as goes for all tanks. Once Ash's survivability improves, he can regularly deal damage and fill up his Rage bar.
+*Ash's lengthy unload speed and variable damage makes him vulnerable to other tanks and aggressive Brawlers, who tend to dodge his attacks or just outburst him. As such, try to play him on maps that favor mid-ranged Brawlers such as [[Double Swoosh]].
+*Ash is a powerful lane guarder in [[Brawl Arena]], using his longer than average range to poke into bushes for assassins, building up his Rage off of bots, and using his Super to impede snipers. Keep in mind that he struggles in prolonged battles or lacks protection against more agile/aggressive Brawlers, so keep him near Brawlers with healing or crowd control abilities, such as [[Byron]], [[Poco]], [[Berry]], and [[Jae-yong]].
+
+===Recommended Build===
+*Ash's Chill Pill Gadget can provide a quick and significant heal to Ash. However, Ash's Rage will be depleted by using this Gadget. Because of this, it's best to use this Gadget with full Rage, with low health, and with a close-ranged enemy chasing you so that you can use your Gadget to heal significantly and then attack the enemy while also recharging your Rage and forcing the enemy to flee. You may also gain your Rage back by using your Super after you heal as the rats will recharge his Rage significantly, or by hitting the enemies with the First Bash Star Power (while having all of his ammo).
+*Ash with his Rotten Banana Gadget is strong when paired with a healer such as Byron, [[Pam]], [[Doug]], Berry, or Poco. Since Ash gains Rage while taking damage, a healer can offset that damage and allow Ash to gain his Rage more effectively. With a healer behind Ash, he can use his Rage's speed and damage boost to catch up to enemies and defeat them while the healer provides Ash a higher chance of surviving.
+*Maintaining Ash's Rage comes with the trade-off of being more vulnerable to opponents thanks to his low health. Thus, he should equip the Health Gear to decrease the time needed to recover and as such, decrease the amount by which his Rage bar falls.
+*Ash's Super is an incredibly useful tool to either whittle down opponents' health, provide a shield for himself or charge up his Rage. As such, try to use the Super Charge Gear when possible to keep up the availability of your Super and allow yourself to continuously renew your Rage.
+*Ash is incredibly vulnerable without his Rage, seeing as his mediocre initial damage and lack of range make him an easy target. Thus, try using his First Bash Star Power to capitalise on the first opponent you hit, allowing you to build your defences much quicker.
+*Although Mad As Heck grants Ash a faster reload speed based on how much Rage he has, it isn't as powerful as First Bash, since the Star Power only triggers when Ash has Rage. First Bash will give Ash more Rage if he hits an enemy with all of his ammo, allowing him to gain more speed and damage, as well as giving more healing if he uses his Chill Pill Gadget. As such, only use Mad As Heck if you're in a game mode where gaining Rage is nearly guaranteed, such as [[Brawl Arena]] or [[Boss Fight]].
+
+===Strategies===
+*The most important thing you need to do while playing Ash is to charge up his Rage bar as Ash also needs his Rage to match other heavyweights on damage. Normally, Ash deals moderately low damage and has a normal movement speed but better potential can be extracted by filling up his Rage bar. Because Ash has a short range, it's best to deal or take damage in enclosed areas due to the abundance of cover that allows Ash to attack enemies with ease or to heal up.
+*Ash's Super in a way can act like [[Tick]]'s Super. The rats have low health, so they're best used against low-health enemies to force the enemies to attack, prevent them from healing, and make them waste their ammo. It's also niche to place the rats to surround an enemy so that they're guaranteed to hit them and that his Rage bar is charged significantly. However, be aware of Brawlers with attacks that can hit multiple entities as they can easily eliminate the rats.
+*You can use Ash's rats to block incoming, non-piercing projectiles like [[Bea]]'s supercharged shot, [[Angelo]]'s fully charged shot, or a far-ranged [[Piper]]'s shot, especially when Ash is on low health. Place the rats in front of him at the right time so the enemy's shots hit the rats. You may also auto-aim Ash's Super, which will spawn the rats around him, also blocking the enemy's shots.
+*Ash can be used in very aggressive strategies. You can throw his Super onto the enemy team, which will weaken the enemies and charge up your Rage bar significantly. Then, use your fully charged Rage bar's damage boost and your attack's piercing ability to defeat the enemies.
+*Ash's attack delay makes him vulnerable to high-burst damage Brawlers like [[Bull]], [[Leon]], [[Griff]], [[Nani]], or [[Colt]], who can deal massive damage quickly. When facing these Brawlers, attack them with the tip of Ash's range so that they can't hit all of their projectiles and defeat him easily.
+*Though Ash's attack and Super charge his Rage significantly, his short attack range makes charging his Rage and Super quite difficult to do. Because of this, you should head to choke points because enemies will usually be bunched up in those areas and Ash can charge his Rage significantly by attacking all the enemies or by using his First Bash Star Power to charge more of his Rage.
+*Be wary when taking damage to charge your Rage because while it can be charged significantly from taking little damage, taking too much damage can leave you more vulnerable.
+*Ash, despite being a tank, can't match other tanks due to his relatively low damage at low Rage and his attack delay. As such, it's best to take or deal damage to fill up his Rage and then use his Rage's damage boost to match other tanks.
+*If you have full Rage, it's better to not use your Super, as the Super is intended to charge your Rage bar. The only exception to this is to try to finish off a low health brawler.
+*Ash's Hypercharge Rat King is an incredibly useful tool for overwhelming enemy teams, seeing as the sheer number of rats can deal an incredible amount of damage to opponents. As such, try to wait until all enemy teammates are present before throwing down his Hypercharged Super, maximising the disruption caused, allowing easy Rage recharge and even team wipes.
+**Since his Hypercharge recharges so much Rage, it's recommended that Ash uses his Gadget Chill Pill before throwing down his Super, seeing as it's almost guaranteed to recharge the Rage he's lost.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = ash start vo 01.ogg|Filedescription = "Time to take out the rubbish."}}
+|{{Ogg|Filename = ash lead vo 01.ogg|Filedescription = "Bins for the wins."}}
+|{{Ogg|Filename = ash hurt vo 01.ogg|Filedescription = "You're off your heid!"}}
+|{{Ogg|Filename = ash kill vo 01.ogg|Filedescription = "Get in ma bin."}}
+|{{Ogg|Filename = ash die vo 01.ogg|Filedescription = "Nah I'm done."}}
+|
+|{{Ogg|Filename = ash ulti vo 01.ogg|Filedescription = "Rat attack!"}}
+|-
+|{{Ogg|Filename = ash start vo 02.ogg|Filedescription = "I smell rubbish!"}}
+|{{Ogg|Filename = ash lead vo 02.ogg|Filedescription = "Who's rubbish now?"}}
+|{{Ogg|Filename = ash hurt vo 02.ogg|Filedescription = "Get off me ya wee rascal."}}
+|{{Ogg|Filename = ash kill vo 02.ogg|Filedescription = "Up ye."}}
+|{{Ogg|Filename = ash die vo 02.ogg|Filedescription = "I'm boggin'."}}
+|
+|{{Ogg|Filename = ash ulti vo 02.ogg|Filedescription = "Welcome to the rat race!"}}
+|-
+|{{Ogg|Filename = ash start vo 03.ogg|Filedescription = "I'm so manky!"}}
+|{{Ogg|Filename = ash lead vo 03.ogg|Filedescription = "Just bin, taking out the trash."}}
+|{{Ogg|Filename = ash hurt vo 03.ogg|Filedescription = "Get off me ya wee toerag."}}
+|{{Ogg|Filename = ash kill vo 03.ogg|Filedescription = "So rubbish."}}
+|{{Ogg|Filename = ash die vo 03.ogg|Filedescription = "Ah, nippin' ma heid man!"}}
+|
+|{{Ogg|Filename = ash ulti vo 03.ogg|Filedescription = "Run free, ma wee beasties!"}}
+|-
+|{{Ogg|Filename = ash start vo 04.ogg|Filedescription = "Bin-it to win-it!"}}
+|{{Ogg|Filename = ash lead vo 04.ogg|Filedescription = Ash cackles}}
+|{{Ogg|Filename = ash hurt vo 04.ogg|Filedescription = "Twee!"}}
+|{{Ogg|Filename = ash kill vo 04.ogg|Filedescription = "Pure rubbish!"}}
+|{{Ogg|Filename = ash die vo 04.ogg|Filedescription = "Oh! Rats."}}
+|
+|{{Ogg|Filename = ash ulti vo 04.ogg|Filedescription = "Make daddy proud."}}
+|-
+|
+|{{Ogg|Filename = ash lead vo 05.ogg|Filedescription = "One more win for the bin!"}}
+|{{Ogg|Filename = ash hurt vo 05.ogg|Filedescription = "Away you go!"}}
+|{{Ogg|Filename = ash kill vo 05.ogg|Filedescription = "Numpty!"}}
+|{{Ogg|Filename = ash die vo 05.ogg|Filedescription = Ash groans}}
+|
+|{{Ogg|Filename = ash ulti vo 05.ogg|Filedescription = "Meet ma pals!"}}
+|-
+|
+|
+|{{Ogg|Filename = ash hurt vo 06.ogg|Filedescription = Ash groans}}
+|{{Ogg|Filename = ash kill vo 06.ogg|Filedescription = "Lavvy heid!"}}
+|{{Ogg|Filename = ash die vo 06.ogg|Filedescription = Ash screams}}
+|
+|{{Ogg|Filename = ash ulti vo 06.ogg|Filedescription = "Look at the weans go!"}}
+|-
+|
+|
+|{{Ogg|Filename = ash hurt vo 07.ogg|Filedescription = "My head is ringin."}}
+|
+|
+|
+|{{Ogg|Filename = ash ulti vo 07.ogg|Filedescription = "Off yee go."}}
+|-
+|
+|
+|{{Ogg|Filename = ash hurt vo 08.ogg|Filedescription = "Pure riddy!"}}
+|
+|
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = ash hurt vo 09.ogg|Filedescription = "Oh yep!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*25/08/21:
+**{{Balance|Content=Ash became available to play in the Training Cave.|Change=Neutral}}
+*30/08/21:
+**{{Balance|Content=Ash and his Ninja skin were added to the game.|Change=Neutral}}
+*06/10/21:
+**{{Balance|Content=Ash's Mad As Heck Star Power was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Ash's First Bash Star Power Rage bar charge was increased to 200% (from 100%).|Change=Buff}}
+**{{Balance|Content=Ash's Rage bar now takes 125% (from 75%) of his max health of damage to charge it.|Change=Nerf}}
+**{{Balance|Content=His class was changed to Tank (from Heavyweight).|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Ash's health was increased to 5400 (from 4800).|Change=Buff}}
+*01/03/22:
+**{{Balance|Content=Ash's Rotten Banana Gadget was added.|Change=Neutral}}
+*02/03/22:
+**{{Balance|Content=Ash's Rotten Banana Gadget health reduction was increased to 40% (from 20%).|Change=Nerf}}
+**{{Balance|Content=Ash's Rotten Banana Gadget Rage boost was decreased to 40% (from 50%).|Change=Nerf}}
+**{{Balance|Content=Ash's Rage bar no longer charges from Rotten Banana Gadget health reduction.|Change=Nerf}}
+*27/04/22:
+**{{Balance|Content=Ash's True Silver and True Gold skins were added.|Change=Neutral}}
+*25/10/22: 
+**{{Balance|Content=The Pizza Oven Ash skin was added. It was featured as a Club League skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Ash's main attack visual effects were slightly reworked.|Change=Neutral}}
+*17/12/22:
+**{{Balance|Content=The Krampus Ash skin was added. It was featured as a Dark Brawlidays skin.|Change=Neutral}}
+*02/01/23:
+**{{Balance|Content=The Piñata Ash skin was added. It was featured as a Power League exclusive skin for Brawl Pass Season 16.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Piñata Ash now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=Ash's health was decreased to 5200 (from 5400).|Change=Nerf}}
+*27/06/23:
+**{{Balance|Content=Ash's Rotten Banana Gadget health reduction was decreased to 25% (from 40%).|Change=Buff}}
+**{{Balance|Content=Ash's Mad As Heck Star Power reload buff was increased to 40% (from 30%).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Ash's Chill Pill Gadget maximum healing was decreased to 2496 (from 2500) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Pizza Oven Ash now costs 149 [[Gems]] (from 2500 [[Club Games|Club Coins]]).|Change=Neutral}}
+**{{Balance|Content=Ash's flavor text was changed from "Ash easily gets furious about all the junk he has to clean up. Dealing and receiving blows, even more so. The Fury makes him faster and more dangerous, but eventually he cools down." to "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!"|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Ash's health was increased to 5400 (from 5200).|Change=Buff}}
+**{{Balance|Content=Ash's Chill Pill Gadget maximum healing was increased to 2592 (from 2500).|Change=Buff}}
+**{{Balance|Content=Ash's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Ash's main attack now charges his Rage bar faster by 16%.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Ash's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Ash's Mutation was removed from the game.|Change=Neutral}}
+*06/06/24:
+**{{Balance|Content=Fixed an issue where Ash in [[Duels]] would crash the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Ash's Rotten Banana Gadget health reduction was decreased to 10% (from 25%).|Change=Buff}}
+*14/11/24:
+**{{Balance|Content=Ash's Rage bar from taking damage was increased to 17.4% (from 14.5%).|Change=Buff}}
+**{{Balance|Content=Be Less Ash was renamed to Ash Boy.|Change=Neutral}}
+*09/12/24:
+**{{Balance|Content=The Ash Boy skin was added. It was featured as a Cartoon Studios skin.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Ash's Rat King Hypercharge was added.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Fixed a bug where Ash's Hypercharge could be extended.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=The Shinobi Ash skin was added. It was featured as a The Ayakashi Clan skin.|Change=Neutral}}
+**{{Balance|Content=Ash's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Ash's Wasabi Power Super charge rate bonus was decreased by 20%.|Change=Nerf}}
+**{{Balance|Content=Shinobi Ash's main attack and Super visual effects were fixed.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Ash's Wasabi Power was removed from the game.|Change=Neutral}}
+*06/06/25:
+**{{Balance|Content=The Sandcastle Ash skin was added. It was featured as a Summer of Brawl skin.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Ash's level up health was decreased to 550 (from 750) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Ash's level up damage was decreased to 3% (from 4%) in Brawl Arena.|Change=Nerf}}
+*24/06/25:
+**{{Balance|Content=Ash's level up damage was decreased to 2% (from 3%) in Brawl Arena.|Change=Nerf}}
+*26/06/25:
+**{{Balance|Content=The P.E.K.K.A.S.H skin could be obtained by redeeming it from the {{Link|Supercell ID}} with 1000 Supercell ID points. It was featured as a Clash Stories skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Ash's health was increased to 5600 (from 5400).|Change=Buff}}
+**{{Balance|Content=Ash's Chill Pill Gadget maximum healing was increased to 2688 (from 2592).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Ash's Rat King Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Ash's Rat King Hypercharge shield boost from 25%.}}
+*16/12/25:
+**{{Balance|Content=Ash's health was increased to 5900 (from 5600).|Change=Buff}}
+**{{Balance|Content=Ash's Chill Pill Gadget maximum healing was increased to 2832 (from 2688).|Change=Buff}}
+*22/04/26:
+**{{Balance|Content=Ash's Rotten Banana Gadget health reduction was decreased to 5% (from 10%).|Change=Buff}}
+**{{Balance|Content=Ash's level up damage was increased to 3% (from 2%) in Brawl Arena.|Change=Buff}}
+*30/06/26:
+**{{Balance|Content=Ash gained a Trait where he can now charge his Super when receiving damage.|Change=Buff}}
+**{{Balance|Content=Ash's Rat King Hypercharge multipier was decreased to 35% (from 50%).|Change=Nerf}}
+*31/07/26:
+**{{Balance|Content=The Adidas Ash skin was added. It was featured as an Adidas skin.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Content=The Super charge rate from Ash's Trait was decreased by 15%.|Change=Nerf}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Ash's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Content=The number of hits necessary to charge Ash's Super was increased to 8 hits (from 6).|Change=Nerf}}
+**{{Balance|Content=Ash's Super recharge rate was decreased by 40%.|Change=Nerf}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=Sandcastle|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Summer of Brawl|Rarity1 = Rare
+|Name2=Krampus|Cost2=Free from Presents or 79 Gems|Campaign2=Dark Winter Tales|Rarity2 = Super Rare
+|Name3=Ash Boy|Cost3=Free from Nova Drops or 79 Gems|Campaign3=Cartoon Studios|Rarity3 = Super Rare
+|Name4=P.E.K.K.A.S.H|Cost4=1000 Supercell ID points from the {{Link|Supercell ID}}|Campaign4=Clash Stories|Rarity4 = Super Rare
+|Name5=Pizza Oven|Cost5=Free from Strangest Packs, Bolt Boxes or 149 Gems|Campaign5 = Starry Meal|Rarity5 = Epic
+|Name6=Piñata|Cost6=Free from Presents, Pumpkin Boxes, Coffin Boxes or 149 Gems|Campaign6=Ranked|Campaign6_2=Sugar Rush|Rarity6 = Epic
+|Name7=Shinobi|Cost7=Through chain offer, free from Sushi Rolls, Nano Drops, Nori Boxes, Smoothie Drops or 149 Gems • '''S'''|Campaign7=The Ayakashi Clan|Rarity7 = Epic
+|Name8=Adidas|Cost8=149 Gems · '''S'''|Campaign8=Adidas|Rarity8=Epic
+|TrueSkins = yes
+|NameP1=Ninja|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=The Ayakashi Clan|RarityP1 = Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Ash
+|-
+!Skin
+!colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Ninja}}
+{{Pin Table|Pizza Oven|Angry}}
+{{Pin Table|Krampus}}
+{{Pin Table|Piñata}}
+{{Pin Table|Ash Boy}}
+{{Pin Table|Shinobi}}
+{{Pin Table|P.E.K.K.A.S.H|Happy}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Ash|Rarity = Common}}
+|{{Spray|Type = Ash Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Ash1}}
+|{{Pfp|Ash2}}
+|{{Pfp|Ash3}}
+|{{Pfp|Ash4}}
+|{{Pfp|Pizza Oven Ash}}
+|-
+|{{Pfp|Piñata Ash}}
+|{{Pfp|Ninja Ash}}
+|{{Pfp|Shinobi Ash}}
+|}
+{{Navigation}}
+[[ru:Эш]]
+[[nl:Ash]]

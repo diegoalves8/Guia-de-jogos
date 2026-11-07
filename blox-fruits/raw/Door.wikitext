@@ -1,0 +1,152 @@
+{{Admin}}{{Removed|type=[[Blox Fruit]]|desc=It was replaced by [[Portal]] in [[Updates/17.3.5|Update 17.3.5]].}}
+{{Blox Fruit Infobox
+|name   = Door
+|image  =
+<gallery>
+Door Fruit.png|Fruit Icon
+Door.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Rare
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->
+|money = 950,000
+|robux = 1.400
+}}
+'''Door''' was a {{Rare}} [[Natural]]-type [[Blox Fruit]] that costed {{Money|950,000}} or {{Robux|1,400}} from the [[Blox Fruit Dealer]].
+
+Door used to be the best [[Blox Fruit]] for mobility and travel. Unlike its newer counterpart, Door was mainly considered useful for travel, with decent potential in PvP.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Skill
+|key      = Z
+|name     = Spinning Door
+|mastery  = 1
+|gif      = Z_-_Spinning_Door
+|desc     = The user dashes forward. If an enemy is hit, their head will spin and the dash will stun them a little.
+}}
+
+{{Skill
+|key      = X
+|name     = Dimensional Door
+|mastery  = 50
+|gif      = X_-_Dimensionally_Door
+|desc     = The user opens a door in front of them and enters a different dimension that lasts for around 4 seconds. During this state, the user becomes invisible and invincible and can move around freely. However, if the user uses any skill, it exits them out of the dimension immediately.
+}}
+
+{{Skill
+|key      = C
+|name     = Door Gateway
+|mastery  = 200
+|gif      = C_-_Door_Gateway
+|desc     = The user opens a door that allows them to teleport to a place of their choice. Other players can go through the same portal unless it is a safe zone. Players allied with the user can be teleported, in safe zone or not. When a player enters the door, they will be in a dimension, granting invincibility and invisibility for around one second.
+}}
+
+{{Skill
+|key      = F
+|name     = Hallway
+|mastery  = 100
+|gif      = F_-_Hallway
+|desc     = The user opens a door in front of them and exits through another at their cursor. This is a short-range teleport move. If it is opened on an enemy, it will deal some damage. (Also deals damage if the user was right next to them when using the skill)
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Door was the best mobility [[fruit]] in the game.
+* Could run from [[Bounty]] Hunters easily.
+* Good for [[gun]] or [[sword]] mains.
+* Had decent combo potential.
+* Fun for trolling with the mobility and invincibility Door had.
+* Had low mastery requirements for [[Second Sea|Second]] and [[Third Sea]] players.
+
+|'''[Z] Spinning Door'''
+* Decent stun.
+* Decent mobility.
+
+|'''[X] Dimensional Door'''
+* Can make the user invisible for a short period of time.
+* Can be used to escape.
+
+|'''[C] Door Gateway'''
+* Can teleport to any island on the map.
+** Could teleport freely into the [[Cursed Ship]] without even being Lv. 1000, although the user cannot get [[Ectoplasm]]s until they reach Lv. 1000.
+* Incredible for [[fruit]] hunting.
+* Great for searching [[bosses]].
+* Good for finding [[Legendary Sword Dealer]] and [[Master of Auras]].
+
+|'''[F] Hallway'''
+* Great mobility move.
+* Good for chasing players.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Moves did mediocre damage at best, so it was not recommended for [[fruit]] mains.
+* Mainly close ranged attacks.
+* No ranged moves.
+* Terrible for grinding.
+* Required very precise aiming and timing.
+* High [[mastery]] requirements for [[First Sea]] players.
+
+|'''[Z] Spinning Door'''
+* Hard to hit in PvP even with a stun.
+
+|'''[X] Dimensional Door'''
+* Can be hard to hit in PvP without stun.
+* A well-timed [[Buddha]] [F] move could drag the user out of the ability.
+* Cannot enter the dimension during a [[Raids|raid]] but could still damage enemies with the door's opening.
+
+|'''[C] Door Gateway'''
+* No damage.
+* Cannot go back.
+* The portal stays for a while, making it easy for players to catch up.
+* While the GUI (menu) is open, passive healing is paused, and users cannot dash or [[Air Jump]], making them very vulnerable.
+
+|'''[F] Hallway'''
+* Hard to deal damage in PvP.
+}}
+</tabber>
+
+==Notes==
+* '''[X] Dimensional Door ''' would have ended immediately when the user had used another skill, [[fruit]] or not. However, they could still use their M1, race skill without being sent out.
+* '''[C] Door Gateway''', if used during a [[Raids|raid]], a door would appear, but the player would not teleport.
+* '''[C] Door Gateway''', if the player opened the menu but did not teleport, the ability would still go on cooldown.
+* '''[C] Door Gateway''' did not teleport people if they had PvP disabled or were in a [[Safe Zone]].
+* '''[F] Hallway''' doors could have been used while in the dimension from Dimension Door, which means transporting/escaping quickly on the battlefield.
+
+==Glitches==
+* If the user used the X move of Door and did not move, they would have been invisible unless viewed through [[Instinct]]. If any skill hits them, it would make them appear again. [[Enemies|NPCs]] can still attack them as normal.
+* When using X and F rapidly, the user had a small chance of glitching an [[Enemies|NPC]] into the dimension and they will not leave that. The [[bosses]] become glitched until someone either buys a re-spawn [[bosses]] with Robux or the server restarts.
+* When someone other than the user enters '''[C] Door Gateway,''' they had a small chance of briefly appearing on the other side then going back to where they tried to enter at. They won't be able to use the door again, so if the user tries to move someone, it can cause annoying situations. Although was very helpful if [[Bounty]] Hunters were after the user.
+
+==Trivia==
+* Door was the first [[fruit]] that had a teleport move that other players could access.
+* Door was the first [[fruit]] that was able to bring up a separate GUI.
+
+==Change History==
+{{Change History|15|content=
+{{Update|17.3.5}}
+* Door was replaced by [[Portal]].
+----
+{{Update|17.2}}
+* Added short immunity frames to the user while teleporting with '''[C] Door Gateway'''.
+----
+{{Update|15}}
+* Door was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Things removed from the game]]
+[[ru:Дверь]]

@@ -1,0 +1,89 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Frozen Village
+|image      = Snow Island 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 90-120
+|music      = The Start of Winter
+|prev       = Desert
+|next       = Marine Fortress
+}}
+The '''Frozen Village''' is an island located in [[First Sea]].
+
+At Frozen Village, players can encounter the [[Sword Dealer of the East]], the [[Ability Teacher]] to learn new skills from, and a [[Sick Man|Story NPC]] that is part of the [[Saber Expert/Puzzle|Saber Expert Puzzle]]. The Frozen Village also has the [[Ice Admiral]], which is part of the [[Second Sea]] quest.
+
+==Appearance==
+The Frozen Village is a plateau of medium height that rises above the surrounding sea. It is surrounded by broken ice sheets and covered in snow. The island has a few evergreen trees, houses, and ladders scattered about, as well as a hidden cave at the back and a dock at the front.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Ability Teacher]]
+* [[Sword Dealer of the East]]
+* [[Sick Man]]
+* [[Dog House (Indra)]]
+* [[Fisherman]]
+|
+* [[Snow Bandit]]
+* [[Snowman]]
+|
+* [[Yeti (Boss)|Yeti]]
+* [[Ice Admiral]]
+|}
+
+== Quests ==
+{| class="fandom-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="3" |[[Villager]]
+|[[Snow Bandit|Snow Bandits]]
+|90
+|Defeat 7 Snow Bandits
+|{{Money|5,000}}
+{{EXP|90,000}}
+|-
+|[[Snowman]]
+|100
+|Defeat 8 [[Dangerous Prisoner|Snowman]]
+|{{Money|5,500}}
+{{EXP|150,000}}
+|-
+|[[Yeti (Boss)|Yeti]]
+|105
+|Defeat [[Yeti (Boss)|Yeti]]
+|{{Money|10,000}}
+{{EXP|220,000}}
+|}
+
+== Secret Quests ==
+
+* Go into the large cave on the island and punch the large block of ice with the [[Ability Teacher]] trapped in it. After the ice breaks, talk to the Ability Teacher.
+* After waiting an unspecified amount of time at Frozen Village, a message will appear in chat saying: '''[[System Messages|''"It begins to snow heavily over Frozen Village..."'']]'''  Piles of snow will appear across the island and touching one will turn it into a snowball, which can be rolled to make it larger. Push three of these snowballs together to create a snowman.  After the quest is completed, the snowman will speak: "Whoa, I'm alive! It's been quite some time since the last time, thank you friend!"
+* When [[Yeti (Boss)|Yeti]] awakens, a message will appear in chat saying:  '''[[System Messages|''"A dark energy awakens..."'']]'''  Find and destroy the three green ice blocks emitting green curse energy, three in total. This will start the boss sequence.  After they are defeated, a message will appear in chat saying:  '''[[System Messages|''"(Roblox username) put down the awakened Yeti!"'']]'''
+* [[File:Snowman.jpg|thumb|A snowman built in the Frozen Village.]]
+
+==Saber Expert Puzzle==
+The Frozen Village contains the continuation of the [[Saber Expert/Puzzle|Saber Expert Puzzle]]. Inside a house, the player will find the [[Sick Man]], to whom they need to give a cup filled with water from a dripping icicle in the cave. After completing this task, the player can proceed to the [[Pirate Village]] to find the [[Rich Man]].
+
+==Cave==
+The main attraction of the Frozen Village is the '''secret cave''' where the Ability Teacher resides. The Ability Teacher teaches players how to use [[Flash Step]], [[Aura]], and [[Air Jump]]. Additionally, the '''cave''' is also home to the [[Ice Admiral]] who is part of the [[Military Detective|Military Detective's quest]] to reach the [[Second Sea]]. Furthermore, a dripping stalactite found in the cave is also part of the [[Saber Expert/Puzzle|Saber Expert Puzzle]].
+
+==Trivia==
+* The [[Soundtracks|theme]] at Frozen Village is called The Start Of Winter.
+** This theme is also used in [[w:c:zombie-attack-roblox: Festive Village Map|Festive Village]]'s old theme from Zombie Attack.
+* The Frozen Village is one of the five winter-themed islands in the game, the others being [[Snow Mountain]], [[Ice Castle]], [[Hot and Cold]] (cold side), and [[Candy Cane Land]] in the [[Sea of Treats]].
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{IslandNavigation}}

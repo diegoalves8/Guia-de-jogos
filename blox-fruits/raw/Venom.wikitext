@@ -1,0 +1,383 @@
+{{MessageBox
+|header = This Blox Fruit is currently unavailable for purchase.
+|image  = InProgress.png
+|imagewidth = 100px
+}}
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Venom
+|image  = <gallery>
+Venom Fruit.png|Fruit Icon
+VenomGIF.gif|Fruit GIF
+Venom.png|Icon
+</gallery>
+
+<!-- Fruit Information -->|type   = Natural
+|rarity = Mythical
+|M1     = No
+|update = 15
+
+<!-- Fruit Price -->|money  = 3,000,000
+|robux  = 2,450
+}}
+{{Quote|Transforms the user into a venomous hydra, granting the user poison-based attacks that damage over time.|Shop}}
+'''Venom''' is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that used to cost {{Money|3,000,000}} or {{Robux|2,450}} from the [[Blox Fruit Dealer]].
+
+Venom allows the user to control and manipulate venomous sludge, dealing poisonous damage to enemies. The user can transform into a giant humanoid hydra that deals large poisonous damage.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Fury Meter
+|meter    = Fury Meter.png
+|desc     = The user starts with 50% of their "Fury Meter" bar filled upon spawning. The user's Fury Meter needs to be full to be able to transform. Fury is regained over time and drains while the user is transformed. Using moves while transformed also decreases the user's fury meter by various amounts. When transformed, the user gains a 50% defense buff with enhanced attacks.
+}}
+
+{{Skill/Passive
+|name     = Hazardous Puddles
+|file     = Venom Effect.gif
+|desc     = The user can make poisonous puddles by all attacks, besides [F]. If caused by attack [X] or [C] (Transformed), the enemy's screen will turn dark purple and wobble.
+}}
+
+{{Skill/Passive
+|name     = Poison
+|file     = Poisoned.gif
+|desc     = The user also inflicts poison directly to opponents, which deals a hefty amount of tick damage. [F] deals the highest poison DoT, with the longest ticks.
+}}
+
+{{Skill/Passive
+|name     = Venomous Drop
+|file     = Venom Drop.gif
+|desc     = While transformed, [[Air Jump]]ing two or more times or going up to a good height and then falling to the ground will cause a small explosion and leave poison puddles. The duration of the user's fall does not affect the spread of the puddles. This passive is similar to [[Mammoth]]'s Prehistoric Leap and Awakened [[Buddha]]'s Seismic Jump passive.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Poison Daggers
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|break    = yes
+|instinct = Can be dodged if not close enough.
+|gif      = Venom Z (Base)
+|desc     = The user fires a barrage of poisonous blades in the direction of the cursor, stunning any enemy in the attack if multiple blades simultaneously hit the target, and leaving puddles of venom on the ground if used close enough to it. Holding this move will make the user launch more blades.
+}}
+
+{{Skill
+|key      = X
+|name     = Noxious Shot
+|mastery  = 100
+|cooldown = 9.5
+|energy   = 50
+|break    = yes
+|instinct = Can be dodged if in fringe part.
+|gif      = Venom X (Base)
+|desc     = The user gathers venom in their hands, creating a big poison ball. The user then launches three bolts of venom at the same time in the direction of the cursor, which explode and leave multiple puddles of Venom Miasma on the ground if used close enough to it. Any enemy who got hit by the explosion will be poisoned and their screen will be distorted for a short period of time. This ability has aim-assist/auto-aim.
+}}
+
+{{Skill
+|key      = C
+|name     = Toxic Fog
+|mastery  = 200
+|cooldown = 16.5
+|energy   = 80
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks instinct]] if inside Fog zone.
+|gif      = ToxicSneeze
+|gif2      = ToxicMist
+|desc     = The user produces a deadly smoke, surrounding them completely until its duration ends. The smoke will continually damage the opponent (5-6 ticks) if they stay within the proximity of the Venom user. Interestingly, once the opponent is damaged by only one tick of this move, or damaged until the smoke ends, they will still take poison damage, meaning that this move inflicts extra poison damage (3-4 ticks), which is pretty much similar to the [X] move.
+|desc2     = This move can also be performed while transformed, if it was used prior to transforming.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 1.5
+|energy   = 80
+|instinct = Does not deal damage.
+|gif      = Venom Transformation
+|desc     = The user gathers a large amount of venom and then transforms, taking the form of a giant three-headed draconic monster, resembling a hydra. This move tremendously boosts damage for all of its attacks in the moveset, and massively increases poison damage (from puddles). Additionally, all of Venom's moves gain a different color scheme. Immune to basic LMB attacks from NPCs (note that players could still hit the user with M1s). The user also gains a jump boost, but their dash distance and walking speed are significantly reduced. While transformed, the user cannot use any other moves and attacks besides Venom's. This move consumes 15% of the Fury Meter.
+}}
+
+{{Skill
+|key      = F
+|name     = Serpent's Wrath
+|mastery  = 50
+|cooldown = 5.25
+|energy   = 25
+|break    = no
+|instinct = Only [[Instinct/Break|breaks instinct]] at the explosion.
+|gif      = Venom Head
+|desc     = The user surrounds themselves with venom that resembles a long serpent before beginning to fly. The user's movement speed is quite slow in this form, but their speed increases as their health gets lower. Anyone who goes through the serpent will take continual poison damage. When the user stops holding the [F] key, it creates a small purple explosion, dealing AoE damage and high poison tick damage. This move lasts for 40 seconds.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = Z
+|name     = Poison Daggers
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|break    = yes
+|instinct = Can be dodged if not close enough.
+|gif      = Venom Z (Transformed)
+|desc     = The user fires a barrage of venom projectiles. This time, the user is able to shoot more projectiles, deal more damage, larger hitbox, longer range, and leave more puddles on the ground. This move consumes 7.5% of the Fury Meter.
+}}
+
+{{Skill
+|key      = X
+|name     = Noxious Shot
+|mastery  = 100
+|cooldown = 9.5
+|energy   = 50
+|break    = yes
+|instinct = Can be dodged if in fringe part.
+|gif      = Noxious Bomb
+|desc     = The user gathers a large amount of venom, creating a large sphere of poison. The user then spits out three bolts of venom at the same time in the direction of the cursor, which explode and leave multiple puddles of Venom Miasma on the ground. Any enemy who got hit by the explosion will have their screen distorted and will be poisoned, dealing four ticks of damage. This version has a bigger hitbox and longer range, while also retaining its aim assist/auto-aim feature. This move consumes 10% of the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Toxic Fog
+|mastery  = 200
+|cooldown = 16.5
+|energy   = 80
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks instinct]] if inside Fog zone.
+|gif      = Toxic Chamber
+|desc     = The user breathes out a massive cloud of venomous gas that surrounds the player and deals massive damage to anyone in its radius. Players who are inside the fog and are taking damage will be unable to [[Dashing|Dash]] and use their [[Air Jump]]s and they also cannot activate [[Instinct]] until they either go out of the fog or the fog dissipates. Each cycle deals three ticks of damage, the user can do two cycles with this skill. Once enemies take one tick of poison, they will take the next two ticks. This move consumes 15% of the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 1.5
+|energy   = 80
+|instinct = Does not deal damage.
+|gif      = Venom Release
+|desc     = The user absorbs the venom in a sphere and returns back to their human form, regaining the ability to use their [[Fighting Style]], [[Sword]] and [[Gun]].
+}}
+
+{{Skill
+|key      = F
+|name     = Serpent's Wrath
+|mastery  = 50
+|cooldown = 5.25
+|energy   = 25
+|break    = yes
+|instinct = The explosion from homing heads can break [[Instinct]]. (Although enemies can dodge the heads mid-air if timed correctly.)
+|gif      = Serpent Path
+|gif2     = Venom Heads
+|desc     = The user surrounds themselves with venom that resembles a long serpent before taking to the sky. This time, the serpent is much larger, and moves much faster based on how much damage the user has taken in total. Three smaller dragon heads spin around the serpent. Once the user hits a target or stops pressing F, the serpent explodes, dealing damage and leaving a poison puddle if near the ground.
+|desc2     = The three heads will also be released, homing in on any nearby targets and dealing more damage. Unlike the untransformed version of this move, moving into the enemy while using this move does not affect them with the poisonous effect. This move lasts for 10 seconds. This move consumes 5% of the Fury Meter. Only one target per head; if there's only one enemy near, one head will target them, and the other two will despawn after they hit the ground.
+}}
+}}
+
+==Overview==
+<tabber> 
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* All moves can [[Instinct/Break|break Instinct]], excluding [V].
+* Extremely low cooldowns.
+* Very versatile, fits/pairs almost every playstyle/weapons, and counters most fruits.
+* Extremely good for close-range battles in an enclosed space (just like in the source material) even compared to other fruits, as two of its moves work best in close proximity, and the poisonous puddles that deal damage over time are extremely powerful.
+* Works well on both air and ground combats.
+* Puddles of Poison passive can drain [[Instinct]] dodges, making the Instinct of enemies nearly useless against Venom.
+* Venom puddles stay on the ground for 10 seconds, giving enough time for the user's cooldowns to regenerate while keeping the enemy at bay.
+* Its high damage output with a lack of knockback makes it extremely useful for grinding.
+
+|'''[Z] Poison Daggers'''
+* Decent stun.
+* Decent range.
+* Relatively low cooldown.
+
+|'''[X] Noxious Shot'''
+* Auto-aims to the nearest enemy. (Must be pointing in the direction where the enemy is)
+* Good hitbox.
+* Causes enemy vision to be distorted.
+
+|'''[C] Toxic Fog'''
+* High damage.
+* Puts short poison after-effect.
+* Good against [[Sea Beast]]s.
+
+|'''[V] Transformation'''
+* Fast transformation.
+
+|'''[F] Serpent’s Wrath'''
+* The lower the user's [[health]] is, the faster the flight speed is.
+* Strong move for grinding that is accessible to lower level players due to the low mastery (50).
+* Deadly Venom passive can last longer, unlike other moves (seven ticks of damage).
+* Relatively low cooldown.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Passive Puddles are useless while in the air.
+* All moves have limited range and are somewhat slow.
+* Fury meter charges passively, meaning it does not increase by dealing damage.
+* Poison effect from three moves do not stack, meaning, if a player get the [X] move poison effect while having [F] or [C] poison effect, the new effect will cancel the old one and vice versa.
+
+|'''[Z] Poison Daggers'''
+* Individual blades have low damage.
+
+|'''[X] Noxious Shot'''
+* Might be difficult to hit fast-moving targets from afar.
+
+|'''[C] Toxic Fog'''
+* Bad range.
+* Certain combos can prevent the enemy player from taking damage, such as [[Godhuman]] C. 
+
+|'''[V] Transformation'''
+* Requires full Fury Meter in order to transform.
+* The user cannot use Fighting styles, Swords and Guns.
+
+|'''[F] Serpent’s Wrath'''
+* Can only fly for a certain period of time.
+* Having low [[health]] giving a speed boost isn't really that useful in some situations.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* The user cannot be hit by any basic LMB attacks from [[NPCs]].
+* Transformation includes extremely boosted attacks  Greatly buffs the strength and AoE of attacks.
+* While transformed, the user's [[Air Jump]]s are greatly buffed, similar to [[Buddha]] and leaves toxic puddles.
+* Can walk on [[lava]].
+* Grants a very high damage reduction of 50% against all attacks.
+* Attacks create much more poison puddles.
+
+|'''[Z] Poison Daggers'''
+* High DPS.
+* Slightly stuns.
+* Good for applying pressure on targets.
+* High range, roughly double that of the untransformed form.
+
+|'''[X] Noxious Shot'''
+* High damage.
+* Slightly stuns.
+* Has a strong auto-aim feature.
+* Causes enemy vision to be distorted.
+* High range.
+
+|'''[C] Toxic Fog'''
+* Enormous [[Area of Effect|AoE]]
+* Extremely good for raids.
+* Causes enemy vision to be distorted.
+
+|'''[F] Serpent’s Wrath'''
+* Extremely useful for grinding because after the flight is used, the three homing heads rush towards the nearest enemies (each on a different enemy), allowing the user to easily group up enemies and annihilate them.
+* Puddles of Poison passive can last longer, unlike other moves (seven ticks of damage).
+* The three homing heads can also be used to counter runners.
+* Three homing heads have extremely long range.
+* Sea Beasts can be hit by all the three homing heads at once, dealing immense damage.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Speed and [[Dashing|dash]] distance are nerfed in the transformed state.
+* Hard to see over the body model without instinct.
+* Bigger hitbox, making attacks easier to hit on the user while transformed.
+
+|'''[Z] Poison Daggers'''
+* Small hitbox.
+
+|'''[X] Noxious Shot'''
+* Mainly used for single target.
+
+|'''[C] Toxic Fog'''
+* The user's vision may be obscured without instinct.
+* Using Toxic Fog while transformed forces the skill to stay in one spot, allowing enemies to easily avoid it. (Although it has a big hitbox so most of the time it will hit an I-frame of one second)
+* Damage in PvP is unreliable.
+* Bad start up.
+
+|'''[F] Serpent’s Wrath'''
+* Slow speed.
+}}
+}}
+</tabber>
+
+==Tips & Tricks==
+* If combined with Shark V4, Venom is very good in teaming situations as the constant tick damage will refill Shark's Leviathan's Armor, providing more survivability.
+* Venom's transformation with Ghoul V4 is very potent against Rumbling Waters], as the user can spam all their moves and get their V4 in a matter of seconds, making this combination just as good as Magma].
+* It is recommended to wait out moves before using them, since the poison tick cannot stack, and will render most moves null.
+** An example of this is avoiding using '''[X]''' after using '''[F]'''. This is because the ticks from '''[F]''' deal very high damage, but get cancelled by '''[X]'''. During the tick duration, the player can stun the enemy, or even use the '''[Z]''' move, as it does not reset poison. 
+** This also applies for the '''[C]''' move, which, contrary to popular belief, is only useful for self defense. It gets reset by '''[X]''' during combos, making the move pointless.
+*** Due to these conditions, Venom may be rather hard to use in active combat efficiently, however, the Strong Grip Enchantment can help with this, as it provides valuable damage to supporting Sword and Guns.
+
+==Gallery==
+<gallery>
+File:Venom Transformed.gif|Transformed Venom's Idle animation.
+File:Radioactive.gif|Transformed Venom's  model under extreme lighting.
+File:Plastic Venom on the ground.png|Plastic Venom on the ground.
+</gallery>
+
+==Trivia==
+* Venom is one of three [[natural]] fruits that has a transformation and is not considered as a [[beast]]. The other two fruits are [[Rubber]] and [[Magnet]].
+* [[Transformation]] model was made by Mary (@Marubravery on X).
+* Venom is the only fruit that starts with the letter "V".
+* Venom shares similarities with [[Magma]], as both have abilities that create puddles that cause damage over time. Their damage stacks as well (However with some exceptions), making them deal incredible amounts of damage.
+* The transformation works similarly to the Awakened Buddha, gaining reduced dash and acceleration buffs from accessories.
+* Sometimes, transformed {{Ability|C}} only does one cycle of poison damage. This is a very old, unpatched bug.
+* Despite Venom having a [[transformation]] and having a [[Power Meter|Meter]] mechanic, it is not a [[Beast]] fruit, making it the first [[Natural]] fruit with a transformation and a meter mechanic, with [[Magnet]] being the second.
+** Likewise, it does not turn the player ''into'' venom, it just uses venom in the form of attacks, along with the ability to encase oneself in it.
+*** it is not based off of an animal, rather, a natural substance, hence why Venom is not a [[Beast]] or [[Elemental]] [[Blox Fruits|fruit]].
+* Just like [[Dragon]] and [[T-Rex]], Venom's [[Fury Meter]] needs 1 minute and 30 seconds to fully recharge.
+* Venom is the first [[Natural]] fruit to have a [[Power Meter|power meter]], the second being [[Shadow]] and the third being [[Spirit]].
+* Venom, along with [[Spirit|Spirit,]] are the only fruits to retain their original physical fruit models since [[Updates/20|Update 20]].
+* Venom, [[Love]] and [[T-Rex]] are the only fruits to have a skill whose name has an apostrophe in it. One might think [[Control]]'s {{Ability|Control|X|2}}'''Slice N’ Dice''' also has one too, but it's actually a quotation mark instead of an apostrophe.
+* Venom and [[Shadow]] are the only {{Mythical}} fruits without M1s.
+* Venom is the only fruit with a [[transformation]] and no M1s.
+* Venom is of the three fruits that share a damaging leap passive. The other ones being Buddha] and [[Mammoth]].
+* {{Ability|F}} duration isn't infinite, so it cannot deal infinite damage to NPCs or guarantee getting the user from island to island.
+* When transformed, Venom's skills turn pink-ish instead of turning into the usual purple.
+** Under extremely bright lighting, the Transformation's model gains a striking pink.
+* Venom, [[Spirit]] and [[Dragon (Classic)|Classic Dragon]] are the only fruits not to receive a model rework in [[Updates/20|Update 20]].
+* As of the 2026 Halloween Update, Venom is unavailable to be purchased through the Blox Fruit Dealer, and is 'in progress'.
+
+==Change History==
+{{Change History|15|content=
+<tabber>
+|-|30.1=
+{{Update|30.1}}
+* Venom Fruit was made unavailable to purchase from the [[Blox Fruit Dealer]]
+
+|-|20=
+{{Update|20}}
+* Venom Fruit's model's icon was remade.
+: <gallery>
+Venom 150x150.png|Old Venom Fruit's icon.
+</gallery>
+
+|-|17.2=
+{{Update|17.2}}
+* {{Arrow|nerf}} Transformation now costs 20% of the user's [[Fury Meter]].
+
+|-|16=
+{{Update|16}}
+* {{Arrow|neutral}} Patched the infinite [[Fury Meter]] with Venom glitch.
+
+|-|15=
+{{Update|15}}
+* Venom was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Transformation-based Fruits]]
+[[ru:Яд]]

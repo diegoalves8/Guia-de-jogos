@@ -1,0 +1,126 @@
+{{About|the sword dropped by The Saw||Shark (Disambiguation)}}
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Shark Saw
+|image     = <gallery>
+Shark Saw.png|Icon
+Shark Saw EQ.png|In-Game
+Shark Saw Held.png|Held
+Shark Saw (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Uncommon
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Middle Town
+|obtain    = Dropped
+|source    = [[The Saw]]
+}}
+{{Quote|Rumored to be made with real shark teeth. Seems hard to swing.|Item}}
+The '''Shark Saw''' is an {{Uncommon}} [[Sword]].
+
+Often obtained by players early on, Shark Saw is decent for [[First Sea]] grinding.
+
+==Obtainment==
+The Shark Saw is a weapon that has a chance to be obtained as a drop after defeating [[The Saw]], a boss that spawns in [[Middle Town]] in the [[First Sea]]. The Saw spawns for a duration of 15 minutes at intervals of 1 hour and 15 minutes. Players are eligible for the drop only if they have inflicted at least 10% of the total damage to the boss during the encounter.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Shark Saw M1
+|desc     = The player does 3 slashes, then performs a slam to the floor on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Consecutive Slashes
+|mastery  = 10
+|cooldown = 8
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Shark Saw Z
+|desc     = The user swings the sword two times diagonally before releasing a heavy slash vertically, knocking the enemy back. The slashes have a black and dark red aura.
+}}
+
+{{Skill
+|key      = X
+|name     = Execution
+|mastery  = 60
+|cooldown = 12
+|energy   = 25
+|break    = Yes
+|instinct = Breaks Instinct on direct hit.
+|gif      = Shark Saw X
+|desc     = The user spins around in a circle while moving towards the cursor, slashing the sword around them. When hitting an enemy, they get pulled in and receive continuous damage. When the move finishes, the player does a small horizontal slash, dealing knockback and damage to the enemies caught in by the attack.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for [[Buddha]] users as the fourth M1 slams and deals [[AoE]] damage, but it is not recommended.
+* All moves have a stun effect.
+* Decent combo potential.
+* Good for early-game farming.
+* Low mastery requirements.
+
+|'''[Z] Consecutive Slashes'''
+* Quick start.
+* Good combo extender.
+* Can hit multiple targets.
+
+|'''[X] Execution'''
+* Good combo starter for early [[First Sea]].
+* Great for farming.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Has low M1 damage, like most [[First Sea]] swords.
+* Only the X move provides mobility, which is generally slower than regular movement.
+
+|'''[Z] Consecutive Slashes'''
+* Makes the player stuck in place for a little while.
+* Terrible range.
+
+|'''[X] Execution'''
+* Also short ranged.
+* Makes the users movement slower.
+* Cannot be released until the move is done.
+}}
+</tabber>
+
+==Trivia==
+* The Shark Saw, alongside [[Iron Mace]] and [[Bisento]] are the only swords that slam on the ground on the last M1.
+* [[Fishman Raider]]s use the Shark Saw with the old version of {{Ability|X}}.
+* Shark Saw´s {{Ability|X}} is  similar to [[Spin]]´s {{Ability|Spin|X}}.
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Shark Saw's model was reworked.
+<gallery>
+Shark Saw Icon (Old).png|Old Shark Saw model
+</gallery>
+----
+{{Update|20}}
+* Shark Saw's moves were reworked.
+----
+{{Update|1}}
+* Shark Saw was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

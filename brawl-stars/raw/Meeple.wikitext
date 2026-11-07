@@ -1,0 +1,283 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Cheater|PrestigeTitle = My game, my rules!|Rarity = Epic|Class = Controller|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3300|AttackRange = 7.67 (Long)|Reload = 1.7 seconds (Normal)<br> 1.417 seconds (with Rule Bending)<br>2 seconds (while Mansions of Meeple is active)<br>1.667 seconds (with Rule Bending and while Mansions of Meeple is active)|AttackSuperCharge =22.05%<br>31.5–32.55% (with Do Not Pass Go; Power Level 9–11)<br>8.75% (with Mansions of Meeple)|AttackLabel = Damage|Attack = 1260|AttackSpeed = 3000<br>1600 (with Mansions of Meeple)|SuperSpeed = 1196|SuperRange = 5 (Normal)|SuperSuperCharge =|SuperDuration = 10 seconds|Gadget1Name=Mansions of Meeple|Gadget1Label=Damage|Gadget1=800|Gadget1Cooldown=22 seconds|Gadget2Name=Ragequit|Gadget2Cooldown=20 seconds|StarPower1Name=Do Not Pass Go|StarPower1Label=Damage Bonus|StarPower1=540|VoiceActor=André Refig|Previous=Shade|Next=Trunk|SuperWidth=|AttackWidth=0.67|AttackHyperchargeCharge=8.82%<br>13.02% (with Do Not Pass Go)<br>3.5% (with Mansions of Meeple)|HyperchargeMultiplier=40%|Gadget1Duration=4 seconds|Gadget2Range=5.33}}
+{{Quote|Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!}}{{Portrait}}
+Meeple is an {{Rarity|Epic}} [[Brawler]] who could be unlocked with Pizza Slices from the Pizza Planet event from January 9th to February 6th. They have a long range and a high damage output, but a moderately low health and slow reload speed. They were the 87th Brawler added to the game. Meeple attacks by shooting pawns that slightly home in on the enemies. For their Super, Meeple throws a 20-sided dice, which creates an area that allows Meeple and their allies to temporarily attack through obstacles. Their first Gadget, Mansions of Meeple, changes their next attack into a thrown attack that summons a square wall of dice to trap enemies and deal damage to them inside the wall. For their second Gadget, Ragequit, Meeple knocks enemies back in a large radius, momentarily stunning them. Their first Star Power, Do Not Pass Go, increases Meeple's damage when they're attacking through the environment inside the Super. Their second Star Power, Rule Bending, increases Meeple's and their allies' reload speed while they're inside their Super. Their Hypercharge, The Last Rulebender, increases the Super's area radius, and allows Meeple and allies to walk through obstacles and over water.
+
+==Attack: Boomhaven==
+{{Quote|Meeple shoots a powerful projectile that slightly homes towards the nearest enemy.}}Meeple shoots a long-ranged chess pawn that will slightly curve towards the nearest enemy. The attack has a moderate cooldown, and it takes 0.5 seconds to complete.
+
+==Super: Critical Success==
+{{Quote|Meeple cheats, somehow rolling a NAT21 on a d20, allowing all team projectiles in the Super area to pierce through environment for 10 seconds.}}Meeple throws a 20-sided die that creates a 3.33-tile area radius that lasts for 10 seconds, and makes them and their allies able to attack through the obstacles that are inside the area. This doesn't work with the ball in [[Brawl Ball]] or with Brawlers who use themselves as a projectile, such as [[Kenji]] and [[Mortis]]' attack or [[Fang]], [[Bull]], and [[Darryl]]'s Super. It also does not work with attacks with no travel time such as [[Kit]] and [[Bibi]]'s attack.
+
+==Gadgets==
+===Mansions of Meeple===
+{{Quote|Meeple's next attack creates dice towers around the impact area and deal 1000 damage. Cooldown: 22 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Meeple's next attack to change into a thrown attack and summon a large, 6-by-6 square wall of dice, which traps both allies and enemies alike inside it for 4 seconds, while also dealing moderate damage to enemies inside. As with any other wall, they can be destroyed by wall-breaking abilities and do not hinder lobbed projectiles. These walls can also be destroyed on contact by Brawlers with spawning invulnerability shields. If any entity is in the way of the walls when spawned, they will be pushed out of the way, which also interrupts attacks or Supers (i.e. [[Frank]]'s attack and [[Meg]]'s Super) when they land. The damage area is actually a 6-tile wide circle, so it is possible for enemies to take damage but still be pushed outside of the walls. Unlike [[Sprout]]'s walls, these walls will not be destroyed upon reaching overtime in [[Brawl Ball]].
+
+The attack cooldown is reduced to zero for the next attack, but reloading ammo is slower while this Gadget is active. A Gadget symbol will glow above Meeple's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+===Ragequit===
+{{Quote|Meeple lashes out in rage at nearby enemies, stunning and knocking them back. The less hitpoints Meeple has, the stun and knockback effects increase. Cooldown: 20 seconds.}}{{Gadget|2}}
+Meeple creates a shockwave in a 5.33-tile radius around themself that momentarily knockbacks and stuns enemies. This effect can go through walls. Affected enemies are knocked back farther and stunned for a longer duration the lower Meeple's health is. The maximum knockback distance is 2.4 tiles and the minimum is 0 tiles; the maximum stun duration is 1.5 seconds and the minimum is 0.25 seconds. 
+
+==Star Powers==
+===Do Not Pass Go===
+{{Quote|When you shoot through the environment deal 600 more damage.}}{{StarPower|1}}
+When Meeple attacks through obstacles, their damage is increased by 600. Their Super charge is also increased by a certain amount, and it scales with Power Levels.
+
+===Rule Bending===
+{{Quote|Critical success also increases allies reload speed within the area by 20%.}}{{StarPower|2}}
+When Meeple and their allies are inside Meeple's Super, their reload speeds are increased by 20%.
+
+==Hypercharge: The Last Rulebender==
+{{Quote|Super covers a larger area. It now allows Meeple and their teammates to walk through walls and over water.}}{{Hypercharge}}
+When activated, Meeple's Super has a 30% larger radius and allows Meeple and allies to walk through the map in its radius, in addition to Brawlers who use themselves to attack like Mortis and Alli being able to hit enemies. If either Meeple or an ally gets out of the Hypercharged Super, they can still go through walls and over water for an additional 0.5 seconds. Meeple also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Their main attack fires more projectiles that have increased homing!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>Meeple shot 2 additional projectiles with their main attack that traveled angled to the left and right of the original attack, that would curve more towards the nearest target.
+
+==Tips==
+===Game Modes and Maps===
+*Meeple shines in modes like [[Knockout]] and [[Bounty]] that lack assassins, much like other marksmen. However, Meeple is unable to compete with characters like [[Piper]], [[Brock]], [[Nani]], [[Colt]], Rico, [[Amber]], [[Lou]], [[R-T]], and [[Mandy]] on completely open maps, so opt for maps with both short and long sightlines where Meeple can get immense value off their Super, such as [[Layer Bake]].
+*When playing Meeple in modes like [[Brawl Hockey]] and [[Brawl Ball]], if you have the ball/puck, line yourself up at the goal, shoot the ball/puck, and then use his Ragequit Gadget. This stuns all enemies in a large radius, and you get a free goal. This is more effective if you absorb a bit of damage first, as the Gadget will stun for a longer duration.
+
+===Recommended Build===
+*Try to use the Mansions of Meeple Gadget only when all or most members of the enemy team are close together. This will allow maximum effect on the enemy team. This strategy is best used with a [[Dynamike]], [[Barley]], [[Tick]], [[Larry & Lawrie]], or any other thrower in your team.
+**The Mansions of Meeple Gadget can also be used with a [[Rico]] teammate. If Rico uses his Super (especially with his Hypercharge) within the Gadget's walls, his attacks will repeatedly bounce within the walls and deal significant damage.
+*When playing in modes such as [[Gem Grab]] or [[Brawl Ball]], use the Ragequit Gadget as a trump card to turn the tables. For example, in Gem Grab, if Meeple is on low health and is being pursued by multiple Brawlers, using Ragequit at this point would give Meeple some time to escape and/or heal. Alternatively, Meeple can use the stun duration to finish them off.
+*Do Not Pass Go is better for greedy Supers, where Meeple uses it for themselves to secure kills. On the other hand, Rule Bending is great when sharing it with teammates to maximize the reload buff, and it is also less dependent on high concentrations of walls.
+*Ragequit can be used with the Damage Gear. Meeple can lose enough health for the Gear to activate and then use their Gadget for a quick kill.
+*As Meeple's Gadgets are very powerful, you can use the Gadget Cooldown Gear in order to use them more often. This is more useful with the Ragequit Gadget as it is the only way Meeple can defend themself against an enemy at close range.
+*You can place Meeple's Gadgets to trap an enemy and then Do Not Pass Go will do enough damage to finish most brawlers off
+
+===Other===
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Meeple start vo 01.ogg|Filedescription = "Time for a game-changing play!"}}
+|{{Ogg|Filename = Meeple lead vo 01.ogg|Filedescription = "Intelligence wins!"}}
+|{{Ogg|Filename = Meeple hurt vo 01.ogg|Filedescription = "Nerd rage!"}}
+|{{Ogg|Filename = Meeple kill vo 01.ogg|Filedescription = "If you read the player's handbook, this wouldn't have happened."}}
+|{{Ogg|Filename = Meeple die vo 01.ogg|Filedescription = "RNG is ruining the game!"}}
+|
+|{{Ogg|Filename = Meeple ulti vo 01.ogg|Filedescription = "I rolled a NAT21."}}
+|-
+|{{Ogg|Filename = Meeple start vo 02.ogg|Filedescription = "Let the dice decide our fate!"}}
+|{{Ogg|Filename = Meeple lead vo 02.ogg|Filedescription = "Brains before brawl."}}
+|{{Ogg|Filename = Meeple hurt vo 02.ogg|Filedescription = "I demand a reroll."}}
+|{{Ogg|Filename = Meeple kill vo 02.ogg|Filedescription = "Shhh."}}
+|{{Ogg|Filename = Meeple die vo 02.ogg|Filedescription = "Ooh, but-but my calculations, oh!"}}
+|
+|{{Ogg|Filename = Meeple ulti vo 02.ogg|Filedescription = "A critical success!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 03.ogg|Filedescription = "Roll for initiative, let's go."}}
+|{{Ogg|Filename = Meeple lead vo 03.ogg|Filedescription = "The one with the rules rules."}}
+|{{Ogg|Filename = Meeple hurt vo 03.ogg|Filedescription = "This violates the player agreement."}}
+|{{Ogg|Filename = Meeple kill vo 03.ogg|Filedescription = "You broke the rules."}}
+|{{Ogg|Filename = Meeple die vo 03.ogg|Filedescription = "Losing to a noob, perfect."}}
+|
+|{{Ogg|Filename = Meeple ulti vo 03.ogg|Filedescription = "NAT21!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 04.ogg|Filedescription = "Tactical positioning is key, everyone!"}}
+|{{Ogg|Filename = Meeple lead vo 04.ogg|Filedescription = "Rules rule."}}
+|{{Ogg|Filename = Meeple hurt vo 04.ogg|Filedescription = "That roll was rigged."}}
+|{{Ogg|Filename = Meeple kill vo 04.ogg|Filedescription = "You should have followed the rules!"}}
+|{{Ogg|Filename = Meeple die vo 04.ogg|Filedescription = "Time to reroll."}}
+|
+|{{Ogg|Filename = Meeple ulti vo 04.ogg|Filedescription = "Eh, if my calculations are correct."}}
+|-
+|{{Ogg|Filename = Meeple start vo 05.ogg|Filedescription = "Time to roll the dice!"}}
+|{{Ogg|Filename = Meeple lead vo 05.ogg|Filedescription = "Perfectly to plan."}}
+|{{Ogg|Filename = Meeple hurt vo 05.ogg|Filedescription = "That wasn't in the rule book."}}
+|{{Ogg|Filename = Meeple kill vo 05.ogg|Filedescription = "Unlucky!"}}
+|{{Ogg|Filename = Meeple die vo 05.ogg|Filedescription = "The meta is clearly broken!"}}
+|
+|{{Ogg|Filename = Meeple ulti vo 05.ogg|Filedescription = "Cheat mode enabled!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 06.ogg|Filedescription = "Always play by the rules, mhmhmhmhm fools."}}
+|{{Ogg|Filename = Meeple lead vo 06.ogg|Filedescription = "I love it when a plan comes together."}}
+|{{Ogg|Filename = Meeple hurt vo 06.ogg|Filedescription = "Getting dicey!"}}
+|{{Ogg|Filename = Meeple kill vo 06.ogg|Filedescription = "Them be the rules."}}
+|{{Ogg|Filename = Meeple die vo 06.ogg|Filedescription = "I... lost? Aaaaah!"}}
+|
+|{{Ogg|Filename = Meeple ulti vo 06.ogg|Filedescription = "Time for some dicey hacks!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 07.ogg|Filedescription = "Rules are my secret weapon."}}
+|{{Ogg|Filename = Meeple lead vo 07.ogg|Filedescription = "The king of the nerds!"}}
+|{{Ogg|Filename = Meeple hurt vo 07.ogg|Filedescription = "Time to get organized."}}
+|{{Ogg|Filename = Meeple kill vo 07.ogg|Filedescription = "You should've listened more in school."}}
+|{{Ogg|Filename = Meeple die vo 07.ogg|Filedescription = Meeple cries}}
+|
+|{{Ogg|Filename = Meeple ulti vo 07.ogg|Filedescription = "Rule breaker, play maker!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 08.ogg|Filedescription = "Dice to meet you."}}
+|{{Ogg|Filename = Meeple lead vo 08.ogg|Filedescription = "Ruling ruler of all the rules."}}
+|{{Ogg|Filename = Meeple hurt vo 08.ogg|Filedescription = "Follow the rules."}}
+|{{Ogg|Filename = Meeple kill vo 08.ogg|Filedescription = "You appear to have had a critical failure."}}
+|{{Ogg|Filename = Meeple die vo 08.ogg|Filedescription = "Skill can't fix bad game design, obviously!"}}
+|
+|{{Ogg|Filename = Meeple ulti vo 08.ogg|Filedescription = "My game, my rules."}}
+|-
+|{{Ogg|Filename = Meeple start vo 09.ogg|Filedescription = "Now see how a master tactician plays."}}
+|{{Ogg|Filename = Meeple lead vo 09.ogg|Filedescription = "I came in like a rolling dice, mmh."}}
+|{{Ogg|Filename = Meeple hurt vo 09.ogg|Filedescription = "Need to get better at min-maxing."}}<ref>Min-maxing is a game theory concept where a player of a game tries to maximise the minimum score they gain no matter what the other player(s) do</ref>
+|{{Ogg|Filename = Meeple kill vo 09.ogg|Filedescription = "You should seriously read the rules, some time."}}
+|{{Ogg|Filename = Meeple die vo 09.ogg|Filedescription = "Great, I lost to another broken Brawler."}}
+|
+|{{Ogg|Filename = Meeple ulti vo 09.ogg|Filedescription = "Dice of do-o-om!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 10.ogg|Filedescription = "I'm feeling lucky, time to roll."}}
+|{{Ogg|Filename = Meeple lead vo 10.ogg|Filedescription = "I kissed a dice and I liked it!"}}
+|{{Ogg|Filename = Meeple hurt vo 10.ogg|Filedescription = "Rules violation."}}
+|{{Ogg|Filename = Meeple kill vo 10.ogg|Filedescription = "Silence is golden."}}
+|{{Ogg|Filename = Meeple die vo 10.ogg|Filedescription = "Zero skill achievement unlocked, good for you."}}
+|
+|{{Ogg|Filename = Meeple ulti vo 10.ogg|Filedescription = "I'm bringing dicey back, yeah!"}}
+|-
+|{{Ogg|Filename = Meeple start vo 11.ogg|Filedescription = "Dice, dice, baby! Mhmhmhmhm."}}
+|{{Ogg|Filename = Meeple lead vo 11.ogg|Filedescription = Meeple giggles}}
+|{{Ogg|Filename = Meeple hurt vo 11.ogg|Filedescription = "Who dares defy the mighty Meeple!"}}
+|{{Ogg|Filename = Meeple kill vo 11.ogg|Filedescription = "Meeple wins, hmhm, again, hmhm."}}
+|{{Ogg|Filename = Meeple die vo 11.ogg|Filedescription = "Eh eh eh, someone ban this bot!"}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Meeple hurt vo 12.ogg|Filedescription = "Am I the only one around here who gives a damn about the rules?"}}
+|{{Ogg|Filename = Meeple kill vo 12.ogg|Filedescription = "You clearly forgot to read subsection 37 of rule 749, loser."}}
+|{{Ogg|Filename = Meeple die vo 12.ogg|Filedescription = "Oh, my subreddit is gonna love this."}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Meeple hurt vo 13.ogg|Filedescription = "Outlook not so good."}}
+|{{Ogg|Filename = Meeple kill vo 13.ogg|Filedescription = "Outlook good."}}
+|{{Ogg|Filename = Meeple die vo 13.ogg|Filedescription = "Winning by teaming, how original."}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Meeple hurt vo 14.ogg|Filedescription = "Eh eh, rules violation!"}}
+|
+|{{Ogg|Filename = Meeple die vo 14.ogg|Filedescription = "You won't get this lucky next time!"}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Meeple hurt vo 15.ogg|Filedescription = "I got rigged-rolled!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*02/01/25:
+**{{Balance|Content=Meeple became available to play in the [[Training Cave]].|Change=Neutral}}
+*09/01/25:
+**{{Balance|Content=Meeple can be unlocked as a bundle with Pizza Slices during the Pizza Planet Event until 06/02.|Change=Neutral}}
+*16/01/25:
+**{{Balance|Content=Fixed a bug that caused Meeple's Mansions of Meeple Gadget to apply to every attack after being controlled by [[Willow]] or revived by [[Doug]].|Change=Neutral}}
+**{{Balance|Content=Fixed several unintended map interactions with Meeple's Ragequit Gadget.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that allowed Meeple's Ragequit Gadget to affect airborne Brawlers.|Change=Neutral}}
+**{{Balance|Content=Meeple's main attack description was reworked.|Change=Neutral}}
+**{{Balance|Content=The Strike Meeple skin was added. It was featured as a Come Play With Us! skin.|Change=Neutral}}
+*06/02/25:
+**{{Balance|Content=Meeple became available in the Starr Road.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Meeple's reload time was decreased to 1.9 seconds (from 2). This does not affect their reload with Mansions of Meeple Gadget active.|Change=Buff}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=Meeple's Ragequit Gadget description was reworked.|Change=Neutral}}
+**{{Balance|Content=Meeple's True Silver and True Gold skins were added.|Change=Neutral}}
+*16/03/25:
+**{{Balance|Content=The Mystic Meeple skin was added. It was featured as a Dark Sands skin.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Meeple's Mansions of Meeple Gadget cooldown was increased to 22 seconds (from 20).|Change=Nerf}}
+**{{Balance|Content=Meeple's Ragequit Gadget cooldown was increased to 18 seconds (from 16).|Change=Nerf}}
+*23/04/25:
+**{{Balance|Content=Fixed Meeple's aiming in [[Brawl Hockey]].|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=The Super charge rates of Meeple's Mansions of Meeple Gadget damage and Do Not Pass Go Star Power damage bonus were increased slightly.|Change=Buff}}
+**{{Balance|Content=Meeple's main attack damage was decreased to 1200 (from 1300).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Meeple's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Meeple's Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Meeple's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Meeple's level up damage was increased to 4% (from 2%) in Brawl Arena.|Change=Buff}}
+*24/06/25:
+**{{Balance|Content=Meeple's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Meeple's level up reload speed boost was increased to 2.5% (from 2%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Meeple's Ragequit Gadget description was reworked.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Meeple's level up health was increased to 650 (from 550) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Meeple's level up damage was increased to 6% (from 5%) in Brawl Arena.|Change=Buff}}
+*23/07/25:
+**{{Balance|Content=Meeple's health was increased to 3200 (from 3000).|Change=Buff}}
+**{{Balance|Content=Meeple's reload time was decreased to 1.7 seconds (from 1.9). This does not affect their reload with Mansions of Meeple Gadget active.|Change=Buff}}
+**{{Balance|Content=Meeple's main attack damage was increased to 1260 (from 1200).|Change=Buff}}
+**{{Balance|Content=Meeple's Super charge rate was increased slightly.|Change=Buff}}
+*13/10/25:
+**{{Balance|Content=Meeple's The Last Rulebender Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Meeple's The Last Rulebender Hypercharge speed boost from 25%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Meeple's The Last Rulebender Hypercharge damage boost from 20%.}}
+*12/11/25:
+**{{Balance|Change=nerf|Content=Meeple's The Last Rulebender Hypercharge no longer increases the duration of their Super.}}
+**{{Balance|Change=nerf|Content=Meeple's level up health was decreased to 600 (from 650) in Brawl Arena.}}
+**{{Balance|Change=nerf|Content=Meeple's level up damage was decreased to 5% (from 6%) in Brawl Arena.}}
+*16/12/25:
+**{{Balance|Content=Meeple's health was increased to 3300 (from 3200).|Change=Buff}}
+**{{Balance|Content=Meeple's The Last Rulebender Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*13/05/26:
+**{{Balance|Neutral|Fixed an issue where Meeple had infinite Gadget attacks with Starr Nova Juju transformation.}}
+*04/06/26:
+**{{Balance|Neutral|The Refereeple skin was added. It was featured as an Adidas skin.}}
+*30/06/26:
+**{{Balance|Nerf|Meeple's Ragequit Gadget cooldown was increased to 20 seconds (from 18).}}
+**{{Balance|Nerf|Meeple's Ragequit Gadget radius was decreased to 5.33 tiles (from 6.67).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Meeple's movement speed to 750 (from 720).}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Strike|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Come Play With Us!|Rarity1=Rare
+|Name2=Mystic|Cost2=Free from Najia Boxes or 149 Gems|Campaign2=Dark Sands|Rarity2=Epic
+|Name3=Refereeple|Cost3=199 Gems · '''S'''|Campaign3=Adidas|Rarity3=Mythic
+|TrueSkins= Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Meeple
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Mystic|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Meeple|Rarity = Common}}
+|{{Spray|Type = Meeple Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Meeple1}}
+|{{Pfp|Meeple2}}
+|{{Pfp|Meeple3}}
+|{{Pfp|Mystic Meeple}}
+|}
+
+{{Navigation}}
+[[ru:Мипл]]
+[[pl:Planszowy Ludzik]]
+[[pt:Meeple]]

@@ -1,0 +1,181 @@
+{{Tabber V2
+|tab1 = Superhuman
+|tab2 = Godhuman
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|source    = Martial Arts Master
+|update    = 9
+|sea       = 2/3
+|location  = Snow Mountain
+|location1 = Castle on the Sea
+|mastery   = <!--
+-->[[Dark Step]] Mas. 300+ <br /><!--
+-->[[Electric]] Mas. 300+ <br /><!--
+-->[[Water Kung Fu]] Mas. 300+ <br /><!--
+-->[[Dragon Breath]] Mas. 300+
+|money     = 3,000,000
+}}
+'''Superhuman''' is a [[Fighting Styles|fighting style]] obtainable in the [[Second Sea]] or [[Third Sea]].
+
+The style enhances the users overall strength, giving them a strong array of fast attacks, with good knockback and damage.
+
+Superhuman is a long-standing fighting style in [[PVP mechanics|PvP]] due to its simple and agile moves. Because of its flexible mobility, this fighting style used to be extremely popular. 
+
+However, it's grown quite outdated when compared to the newer and better [[fighting styles]] such as [[Dragon Talon]], [[Electric Claw]], and its upgraded version, [[Godhuman]]. This fighting style is often used to practice precision, as it's infamously known for it's slow attacks and inability to break [[Instinct]]. This fighting style is mostly used in skilled builds.
+
+==Obtainment==
+Superhuman can be learned from the [[Martial Arts Master]] by meeting the following requirements: 
+* 300+ mastery on [[Dark Step]], [[Electric]], [[Water Kung Fu]], and [[Dragon Breath]] 
+* {{Money|3,000,000}}
+
+Upon obtaining Superhuman, the player will receive two [[titles]]: 
+
+* "{{Title|The Killer}}" #142 
+* "{{Title|Human Weapon}}" #143.
+
+==Mastery==
+* '''400+ Mastery:''' Superhuman is one of the requirements to obtain its "upgraded successor", [[Godhuman]].
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Heavy Punches
+|gif      = Superhuman M1
+|desc     = The user does 4 powerful punches while having a white with a hint of blue trail along. When using aura the trail will turn black.
+}}
+
+{{Skill
+|key      = Z
+|name     = Beast Owl Pounce
+|mastery  = 110
+|cooldown = 7
+|energy   = 25
+|break    = yes
+|instinct = Can break if close. Cannot otherwise [[Instinct/Break|break instinct]].
+|gif      = Beastly Owl Pounce
+|desc     = The user travels a decent amount of distance in any direction (can move in different directions while using the move), and if the user collides with an enemy, they will rapidly punch the target 20+ times, dealing a good amount of damage, and knocking them back slightly with a strong punch. If the user does not hit an enemy, they will just travel a decent distance. This move doesn't [[Instinct/Break|break Instinct]], but can be useful in draining it. This move does not work when used with awakened [[Buddha]] unless aimed downward at the enemy, but it can be used with unawakened [[Buddha]].
+}}
+
+{{Skill
+|key      = X
+|name     = Thunder Clap
+|mastery  = 220
+|cooldown = 10
+|energy   = 25
+|break    = yes
+|instinct = Breaks instinct in the center. Can be dodged on the edge.
+|gif      = Thundering Clap
+|desc     = The user charges up an attack and summons a tornado (if held down, the tornado does not deal damage), and when released or used, the user stomps the ground and releases a ring of power horizontally with a thunderous boom that deals decent damage to nearby enemies. Holding the move does not increase damage or knockback. This move somewhat works with [[Buddha]] as the ring is off-ground but can hit enemies on the ground, although its knockback makes it very bad for grinding.
+}}
+
+{{Skill
+|key      = C
+|name     = Conqueror Gun
+|mastery  = 330
+|cooldown = ?
+|energy   = ?
+|break    = yes
+|instinct = Breaks instinct if aimed at the centre of the enemy's hitbox. Otherwise, it can always be dodged.
+|gif      = Conquerers Gun
+|desc     = The user dashes forward in immense speed and knocks the enemy back (great knockback and damage).
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* High combo potential.
+* All moves can be used in a combo for excellent damage output. The Z and C moves are good for running away when the players health is low.
+* Very good knockback.
+* Good damage.
+* Great for [[Raids]] since the player can use the Z move to stun the raid boss so others can also hit it.
+* Good [[Fighting Styles|fighting style]] for traveling.
+* Does not cost any [[Fragments]] to buy, unlike the V2 [[Fighting Styles|fighting styles]].
+* Both the [Z] and [C] moves combo into each other, and the user can follow this up with [[Flash Step]] and [X].
+* Decent alternative to [[Godhuman]].
+
+|'''[Z] Beast Owl Pounce'''
+* Decent for mobility.
+* Long stun.
+* Brief cooldown.
+* Decent for draining opponent's [[Instinct]] because of tick damage if they try to Instinct-trick.
+* Good for traveling long distances.
+
+|'''[X] Thunder Clap'''
+* [[Instinct Break|Breaks Instinct]] if hit in the middle.
+* Big AOE.
+
+|'''[C] Conqueror Gun'''
+* Decent for mobility.
+* Good damage.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Underwhelming compared to its upgraded version, [[Godhuman]]
+* Very time-consuming to unlock, just like its successor, Godhuman (Costs {{Money|3,000,000}}, and players need to grind four [[fighting styles]] to 300 mastery). The player also needs to be in [[Second Sea]] or above.
+* Slow [M1] attacks
+* It is more efficient to just get [[Water Kung Fu]], [[Dark Step]], or [[Electric]] to 400 mastery and then getting [[Sharkman Karate]], [[Death Step]] or [[Electric Claw]] with it, which are better than [[Superhuman]] in terms of grinding.
+* Horrible for grinding, as [Z] and [C] are single target, and [X] has a ton of knockback.
+* Moves are not recommended while using [[Buddha]] or hunting [[Sea Events]].
+* All moves can be dodged easily if used individually rather than as a consecutive combo.
+
+|'''[Z] Beast Owl Pounce'''
+* Lower damage if hit from afar.
+* Can be dodged with [[Instinct]] while still using the attack.
+* Locks the user in place for a significant amount of time without I-frames, so the user can get easily targeted. This also leads to the move being risky for grinding.
+* Hard to hit because the move itself is generally slow travel.
+
+|'''[X] Thunder Clap'''
+* Can be dodged with [[Instinct]] if the user doesn't directly hit the target.
+* Hard to land.
+* Leaves the user very vulnerable to counterattacks.
+* Small range.
+* Does not affect players above or below the user.
+* Doesn't work on [[Sea Beast]]s.
+
+|'''[C] Conqueror Gun'''
+* Can be dodged with [[Instinct]].
+* Only works on [[Sea Beast]]s when close enough, leaving the user vulnerable.
+}}
+
+|-|Notes=
+{{Overview|Notes
+|
+* Superhuman is not very good for farming levels due to its high knockback, but its PvP potential makes up for it.
+** Superhuman can be effectively used for farming if using [[Buddha]] due to the [Z] move increasing range.
+* Superhuman requires a lot of skill and aim to use effectively.
+* Superhuman's M1 (tap) leaves a white trail for a split second, just like how Instinct V2 leaves a trail when enabled.
+* When the player hits a target, '''[Z] Beast Owl Pounce''' deals 50% the damage of the total damage and the collision will also deal 50% of '''[Z] Beast Owl Pounce'''.
+* When using '''[Z] Beast Owl Pounce''' on a target that has low [[health]], the user simply travels through and kill the target without punching the target.
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+Super-God human Idle Stance.gif|Idle Stance
+</gallery>
+
+==Trivia==
+* Superhuman is used by the [[Living Zombie]]s at [[Haunted Castle]], but they only utilize M1s (left clicks) and not the moves.
+* Even though Superhuman is the most expensive V1 [[Fighting Styles|fighting style]], and others are better due to factors such as damage or range, this still is a decent fighting style to use.
+* Superhuman is said to be [[Combat]]'s successor, although it was proven false after the announcement of "Superhuman V2" ([[Godhuman]]) by '''rip_indra'''.
+* Superhuman is essentially a weaker version of [[Godhuman]] because both fighting styles have similar moves with Superhuman. This fighting style simply has older, more outdated design, slightly lower damage and almost no [[Instinct]] breaks, with '''[X] Thunder Clap''' not containing two variants compared to its successor, [[Godhuman]].
+* Superhuman can be good for grinding [[aura]] since '''[Z] Beast Owl Pounce''' deals a decent amount of hits.
+* Superhuman is the fighting style with the second highest mastery requiring obtainment, with all other [[fighting Styles|fighting styles]] (except [[Godhuman]]) being tied to each other in the mastery requirements.
+* Superhuman isn't very good for grinding or PvP compared to the V2s, so it is recommended to use a different [[Fighting Styles|fighting style]], such as its upgraded version, [[Godhuman]].
+* Z move can technically be a multi-target, though it works only with enemies that have current HP lower than the damage from collision. The player must also be close to the group for that to happen.
+
+==Change History==
+{{Change History|9}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[Category:Upgradable]]
+[[ru:Суперчеловек]]

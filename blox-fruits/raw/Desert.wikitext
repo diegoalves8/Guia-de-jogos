@@ -1,0 +1,82 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Desert
+|image      = Desert 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 60-90
+|music      = The Endless Desert
+|prev       = Pirate Village
+|next       = Frozen Village
+}}
+The '''Desert''' is an island in the [[First Sea]].
+
+==Appearance==
+The Desert is covered almost entirely in sand, except for a few paths and courtyards. From the docks, the player will find a pathway leading to a village full of [[Desert Bandit]]s. Going from the other path, the player will pass a dilapidated house and a pyramid with a [[Chests|Silver Chest]] in front of it, the path leads to a bridge leading to another section with a set of houses along with the [[Desert Officer]]s.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+|-
+|
+* [[Boat Dealer]]
+* [[Desert Adventurer]]
+* [[Hasan]]
+* [[Home Points]]
+* [[Desert Merchant]]
+|
+* [[Desert Bandit]]
+* [[Desert Officer]]
+|}
+
+== Quests ==
+{| class="article-table"
+!Quest Giver
+!Quest
+!Level Required
+!Description
+!Reward
+|-
+| rowspan="2" |[[Desert Adventurer]]
+|[[Desert Bandit|Desert Bandits]]
+|60
+|Defeat 8 [[Desert Bandit|Desert Bandits]]
+|{{Money|4,000}}
+{{EXP|45,000}}
+|-
+|[[Desert Officer|Desert Officers]]
+|70
+|Defeat 8 [[Desert Officer|Desert Officers]]
+|{{Money|4,500}}
+{{EXP|65,000}}
+|}
+
+==Saber Expert Puzzle==
+The Desert also has the continuation of the [[Saber/Puzzle|Saber Expert Puzzle]]. In the fallen house, there will be curtains that can be burnt down with the torch the player collects at [[Jungle]], and they will see a riddle and a cup, after which the player will need to take the cup and go to [[Frozen Village]].
+
+== Secret Quests ==
+
+* The player must enter the pyramid through a passage located beneath the Silver Chest. Inside the pyramid, they must defeat the skeleton attacking the NPC [[Hasan]]. Three additional skeletons will then emerge from the tombs one at a time and must also be defeated. Finally, the player must speak to the Desert Merchant to complete the quest.
+* The player must go to the area next to the pyramid, where they will find a circle of stones covered in sand. The player must hit the stones with a fighting style or sword to remove the sand covering it. The stones will then rise and begin rotating, causing a platform beneath the player to rise. Once this is complete, the player must return to the Desert Adventurer to complete the quest.
+* The player must destroy 10 blooming cacti by hitting them then talk to the desert merchant, Cacti will be blooming at random after a few hours in a server. On completion on the quest , the player is awarded a desert juice
+
+==Trivia==
+* The [[Soundtracks|theme]] that plays at the Desert is The Endless Desert.
+* The Desert is the only desert-themed island in the entire game.
+* If the player collects the [[Chests|Silver Chest]] near the pyramid, there is a secret passage under it that leads to [[Hasan]] from whom the player can buy the [[Swordsman Hat]].
+* [[Light]]'s [[Raids|raid]] islands are based on the Desert.
+* The Desert was one of few islands that does not have a [[Luxury Boat Dealer]] before Update 30, deleting all of them and putting the [[Fast Boats]] on the normal Boat dealer.
+
+==Change History==
+{{Change History|1|content=<tabber>
+|-|30=
+{{Update|30}}
+Desert was reworked
+|-|1=
+Desert was released
+</tabber>
+}}
+
+==Navigation ==
+{{IslandNavigation}}

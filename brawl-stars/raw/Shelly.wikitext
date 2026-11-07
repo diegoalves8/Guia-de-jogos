@@ -1,0 +1,464 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = No time to explain!|PrestigeTitle = Fantástico|Rarity = Starting Brawler|Class = Damage Dealer|MovementSpeed = 800 (Fast)<br>2400 (with Fast Forward)|VoiceActor = Sandra Espinoza|HealthLabel = Health|Health = 3900|AttackRange = 7.67 (Long)<br>10 (with Clay Pigeons)|Reload = 1.5 seconds (Normal)|AttackBullets = 5|AttackSuperCharge = 10.05%<br>7.5% (with Clay Pigeons)|AttackLabel = Damage per shell|Attack = 340|SuperRange = 7.67 (Long)|SuperBullets = 9<br>12 (with Hypercharge)|SuperSuperCharge = 4.8%|SuperLabel = Damage per shell|Super = 360|AttackSpread=27°<br>13.5° (with Clay Pigeons)|AttackSpeed=3100<br>4300 (with Clay Pigeons)<br>4430 (with Hyper Buffie)|SuperSpread=45°<br>59.85° (with Hypercharge)|SuperSpeed=4130|SuperWidth=|Gadget1Name = Fast Forward|Gadget1Cooldown = 16 seconds|Gadget2Name = Clay Pigeons|Gadget2Cooldown = 18 seconds|StarPower2Name = Band-Aid|StarPower2 = 2106|StarPower2Label = Heal|HyperchargeMultiplier=30%|Next=Nita|AttackHyperchargeCharge=3%<br>2.25% (with Clay Pigeons)|SuperHyperchargeCharge=1.425%|Gadget1Range=2.67|Gadget2Duration=}}
+{{Quote|Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why [[Colt]] got to steal the limelight...}}
+{{Portrait}}
+Shelly is the {{Rarity|Starting}} [[:Category:Brawlers|Brawler]] that is unlocked upon beginning the game. She was one of the 15 Brawlers who released at the first Beta launch. She has moderately high health, a high damage output at close range, a long range, and a fast movement speed. Her attack is a burst of shotgun shells that deal high damage up close. Her Super pierces and knocks surviving enemies back and destroys obstacles, similarly dealing high damage up close. Her first Gadget, Fast Forward, allows her to dash a few tiles forward and instantly reloads all of her ammo. Her second Gadget, Clay Pigeons, narrows the width and increases the range of the next 3 attacks. Her first Star Power, Shell Shock, makes her Super momentarily slow enemies down. Her second Star Power, Band-Aid, gives her a bar that charges over time and, when fully charged, heals her when her health falls below 40%. Her Hypercharge, Double Barrel, increases the spread and number of projectiles her Super fires.
+
+==Attack: Buckshot==
+{{Quote|Shelly's boomstick fires a wide spread of pellets to a medium range. The more pellets hit, the greater the damage.}}
+Shelly fires a burst of shotgun pellets at a long range that deal low damage by themselves, but can deal a lot together. The attack deals more damage at close range since more pellets will hit the enemy, but the range of her attack is quite long, making her able to charge her Super from a safe distance. This attack allows Shelly to excel in close-quarters combat, especially against Brawlers with low health and/or shorter-ranged attacks.
+
+==Super: Super Shell==
+{{Quote|Shelly's Super Shell obliterates both cover and enemies. Any survivors get knocked back.}}
+Shelly's Super fires a larger, high-damaging burst of pellets which pierces, destroys obstacles and knocks enemies back. Like her main attack, the pellets spread out with distance and deal massive damage together at close range. Note that the individual pellets cannot pierce through walls, and will disappear upon destroying a wall tile.
+
+==Gadgets==
+===Fast Forward===
+{{Quote|Shelly dashes to an aimed direction or forwards, fully reloading her ammo! Cooldown: 16 seconds.}}
+{{Gadget|1}}
+Shelly dashes 2.67 tiles in the direction aimed upon using this Gadget, instantly reloading all her ammo. However, it is cancelled if she is stunned, pulled, or knocked back, and she cannot dash through walls or water and the dash will be interrupted if she dashes into any of them. If the Gadget is autoaimed, she will dash in the direction she is moving, or facing if she is standing still.
+
+{{Quote|Take no damage while dashing.}}{{Buffie|Gadget}}
+With the Buffie, Shelly becomes immune to damage while dashing.
+
+===Clay Pigeons===
+{{Quote|Shelly focuses her fire to a smaller area with an increased range. Can be used 3 times per activation. Cooldown: 18 seconds.}}
+{{Gadget|2}}
+When aiming using the Gadget button, Shelly shoots a shot that has its spread decreased by half and its range increased to 10 tiles, as well as a projectile speed boost. The amount of bullets and the damage of each bullet is identical to her main attack, and each shot with this Gadget consumes ammo. Attacks can still be done normally by using the regular aim button. This Gadget's cooldown starts after all 3 attacks are used or if even 1 is used and Shelly is knocked out.
+
+{{Quote|Attacks slow enemies. Increases duration with each hit.}}{{Buffie|Gadget}}
+With the Buffie, shots with this Gadget additionally cause a slowdown effect of 30%. Each pellet hit causes a slow effect for 0.5 seconds, and the duration stacks with each hit.
+
+==Star Powers==
+===Shell Shock===
+{{Quote|Shelly's Super shells slow down enemies for 2 sec!}}
+{{StarPower|1}}
+Enemies hit by Shelly's Super are slowed down by 55% for 2 seconds.
+
+{{Quote|Using patented Draco Dragonbreath shells, Shelly leaves a burning area with her Super.}}{{Buffie|Star}}
+With the Buffie, three burning circles are left at where the shots ended, which deal damage over time.
+
+===Band-Aid===
+{{Quote|When Shelly falls below 40% health, she instantly heals for 2340 health. Band-Aid recharges in 15 sec.}}
+{{StarPower|2}}
+Shelly gains a bar which takes 15 seconds to charge up completely. Once the bar is fully charged, if she falls below 40% health, she instantly heals 30% of her maximum health, and the bar resets. However, if she takes enough damage in one frame to be defeated by a high-damage Brawler (like [[Bull]], [[Darryl]], [[Nani]], [[Griff]], or [[Spike]]) her Star Power will not activate, and she will have to wait another 15 seconds to get Band-Aid back after respawning, regardless of whether her bar was charged or not. The amount of health healed from Band-Aid scales with any type of power-ups, including [[Showdown]] Power Cubes and will always heal 30% of her total health, excluding any type of healing debuff.
+
+{{Quote|Gain 15% movement speed for 3 secs.}}{{Buffie|Star}}
+With the Buffie, Shelly gets a 15% movement for 3 seconds when Band-Aid activates.
+
+==Hypercharge: Double Barrel==
+{{Quote|Super Shell is 33% larger.}}{{Hypercharge}}When activated, Shelly's Super spread is increased by 33%, and the number of projectiles is increased from 9 to 12. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Main attack projectile speed is greatly increased during Hypercharge.}}{{Buffie|Hyper}}
+With the Buffie, Shelly's main attack has increased projectile speed during her Hypercharge. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Shelly's shotgun fires twice.}}<div style="float:right">[[File:Mutation.png|80x80px]]</div>
+Shelly fired her shotgun like normal, and another round of shotgun shells followed in quick succession, effectively doubling her damage. This did not affect her Super or Hypercharged Super, nor her attacks using the Clay Pigeons Gadget. This also effectively doubled her Super charge rate, allowing her to chain Supers at point blank range.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Fires her Super in a circle around herself... with MORE PELLETS!}}<div style="float:right">[[File:Hot Wasabi.png|link=|82x82px]]</div>
+Shelly's Super fired 35 bullets in a radius around her. This Wasabi Power also affected her Hypercharge.
+
+==Tips==
+===Game Modes and Maps===
+*Shelly is good in [[Brawl Ball]] since she can destroy the walls blocking the enemy's goal, which allows your team to score easier. A rather useful tactic when using Shelly in Brawl Ball is to shoot the ball and then immediately use her Super to break any obstacles in the way while pushing back enemies blocking the goal. If the timing is done correctly it should be a guaranteed goal.
+*In [[Duo Showdown]], three useful team compositions are Shelly with [[Tara]], [[Jacky]], or [[Gene]], as either of them can pull enemies into Shelly, who can then finish them off with her Super. Another useful team composition is Shelly with any Brawler who can stun, like [[Frank]], [[Bull]], [[Kit]], or [[Bo]], that allow her to quickly eliminate the stunned Brawler with her super.
+*In [[Showdown|Solo Showdown]], if Shelly has her Super, she can bush camp and wait for enemies to come close then ambush them with her Super.
+
+===Recommended Build===
+*Shelly's Fast Forward Gadget allows Shelly to use 6 attacks with a Super (optionally) all at once. However, it serves more as a tactical retreat.
+*Shelly's Clay Pigeons Gadget can be used directly after using her Super at mid-range. While the enemy gets knocked back, Shelly is able to hit all bullets with the longer attacks provided by the Gadget to get maximum value out of it. This is especially effective when combined with her Shell Shock Star Power, allowing Shelly to easily land even more shots and take down foes, usually getting her Super back in the process, which could help her in a later combat.
+*Using her Shell Shock Star Power, Shelly can slow down Brawlers that are trying to escape, allowing her and/or her teammates to catch up and eliminate them. Shelly can also slow down the entire enemy team with her Shell Shock Star Power, making way for a potential team wipe with the help of allies. In [[Showdown]], this can be used to catch up with longer-range Brawlers if they get hit by Shelly's Super.
+**Alternatively, you can also use Shell Shock to slow down the enemy and quickly activating Clay Pigeons to get quick and easy hits off while also recharging your Super in the process.
+*Both Gadgets can be used depending on their own respected scenarios. For an example, Clay Pigeons can be used to finish off enemy Brawlers who manage to escape from being up close, while Fast Forward can be used to quickly close a distance with an enemy, while also fully reloading your ammo bar to continue the pressure.
+
+===Strategies===
+*When using Shelly, take advantage of walls or bushes when approaching brawlers that outrange her, though be mindful as destroying too many walls and bushes can put her at disadvantage
+*The spread of Shelly's attacks allows her to sweep bushes and expose any enemies hiding in them without having to go inside the bush, potentially risking being defeated by a high-damage Brawler such as [[Bull]], [[Griff]], [[Rosa]], or [[Leon]].
+*Shelly's Super has the ability to cancel or interrupt other Brawlers' Supers because it knocks them back. For example, she can stop [[Frank]] and [[Meg]] from finishing their Supers if she interrupts them with her Super during their wind-up and transformation respectively (be careful of Frank's active Noise Canceling Gadget). This can become even more deadly by waiting in a bush and then ambushing.
+*If Shelly is at low health and is being chased by a Brawler, she can use her Super to knock them back and gain a bit more time to escape. This works even better if she has her Shell Shock Star Power since she can also slow them down for a few seconds. Note that this only applies to Showdown and Knockout where survival is the key objective.
+
+===Other===
+*Shelly is best on maps with lots of bushes, notably [[Center Stage]], where she has been a top pick for several years as she can easily scout bushes and sneak up upon opponents.
+*Similar to [[Colt]] and [[Grom]]'s Super, projectiles from Shelly's Super don't pierce through walls, they disappear after breaking one. Keep this in mind if you are trying to use Shelly's Super to defeat a Brawler behind a wall, because the opponent will take less damage due to some of the shells disappearing after breaking a wall; the more walls between you and your enemy (in a scenario where the Super is aimed perfectly at the opponent), the less damage they'll take from the Super.
+*Shelly is an excellent counter to tanks with her Super. However, you should be mindful of tanks with high burst damage, such as Bull or [[El Primo]], as they can kill you before your Super goes off. So try to have your Super charged up before facing them.
+*For dealing with close-range assassins, focus on landing your shots correctly to quickly defeat them or use her Clay Pigeons Gadget to outrange them and slowly whittle them down.
+
+==Voice Lines==
+{{TranslationToggle|Spanish}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Shelly start 01.ogg|Filedescription = "Let's go!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 01.ogg|Filedescription = "Street's hot- ouch! I'm hotter!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly lead 01.ogg|Filedescription = "Winning."}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 04.ogg|Filedescription = {{Translate|"¡Así me gusta! Keep feeding me targets!"|"That's how I like it! Keep feeding me targets!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly hurt 01.ogg|Filedescription = Shelly whimpers}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 01.ogg|Filedescription = "Eugh, cheap shot!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly kill 01.ogg|Filedescription = {{Translate|"¡Así me gusta!"|"That's how I like it!"}}}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 01.ogg|Filedescription = "That's a hard disconnect."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly die 01.ogg|Filedescription = "No!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 01.ogg|Filedescription = "Nano trauma!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 01.ogg|Filedescription = "Ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly ulti 01.ogg|Filedescription = Shelly laughs}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 01.ogg|Filedescription = "Nano boom! Clear the lane!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Shelly start 02.ogg|Filedescription = "Let's go get 'em."}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 02.ogg|Filedescription = "Cash or chrome. Pick one."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly lead 02.ogg|Filedescription = "Bling bling."}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 02.ogg|Filedescription = "Leaderboard's mine, chooms!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly hurt 02.ogg|Filedescription = Shelly whimpers}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 02.ogg|Filedescription = "Argh, that's not covered by warranty!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly kill 02.ogg|Filedescription = "Yes!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 02.ogg|Filedescription = {{Translate|""Increíble, you're offline!"|"Incredible, you're offline!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly die 02.ogg|Filedescription = "No!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 02.ogg|Filedescription = "No, not now!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 02.ogg|Filedescription = "Ha ha!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly ulti 02.ogg|Filedescription = "Boom!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 03.ogg|Filedescription = "Supersize the trauma!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Shelly start 03.ogg|Filedescription = "Let's do this."}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 03.ogg|Filedescription = {{Translate|"¡Vamos! I'm clocking hazards!"|"Come on! I'm clocking hazards!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly lead 03.ogg|Filedescription = {{Translate|"¡Increíble!"|"Incredible!"}}}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 03.ogg|Filedescription = "Bling bling. Eddies well spent."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly hurt 03.ogg|Filedescription = Shelly whimpers}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 03.ogg|Filedescription = "Hey hey, personal space, choom!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly kill 03.ogg|Filedescription = "Yippee!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 03.ogg|Filedescription = "Zero'd! Next ticket."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly die 03.ogg|Filedescription = Shelly groans}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 03.ogg|Filedescription = {{Translate|"¡No, no puede ser!"|"No, it can't be!"}}}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 03.ogg|Filedescription = "Move!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly ulti 03.ogg|Filedescription = "Bang."}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 02.ogg|Filedescription = "Bang! Full breach!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Shelly start 04.ogg|Filedescription = "Ha ha!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 04.ogg|Filedescription = "You picked the wrong alley."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly lead 04.ogg|Filedescription = {{Translate|"¡Fantástico!"|"Fantastic!"}}}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 01.ogg|Filedescription = {{Translate|"¡Fantástico! I'm top of the food chain!"|"Fantastic! I'm top of the food chain!"}}}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly hurt 04.ogg|Filedescription = Shelly groans}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 04.ogg|Filedescription = "Argh, armor's a suggestion out here."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly kill 04.ogg|Filedescription = "Woo-hoo!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 04.ogg|Filedescription = {{Translate|"Thanks for the rep, Carnal."|"Thanks for the rep, brother."}}}} 
+|'''Normal:'''
+{{Ogg|Filename = Shelly die 04.ogg|Filedescription = Shelly groans}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 04.ogg|Filedescription = "Hmph! System crashed!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 04.ogg|Filedescription = "Down range!"}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly ulti 04.ogg|Filedescription = "Ha ha!"}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 06.ogg|Filedescription = "Ha ha!"}}
+|-
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 05.ogg|Filedescription = "You're buying time. I'm printing damage."}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 05.ogg|Filedescription = "I'm the boss of this block."}}
+|'''Normal:'''
+{{Ogg|Filename = Shelly hurt 05.ogg|Filedescription = Shelly groans}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 05.ogg|Filedescription = "Hey, I'm still on the clock!"}} 
+|'''Normal:'''
+{{Ogg|Filename = Shelly kill 05.ogg|Filedescription = Shelly laughs}}'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 05.ogg|Filedescription = "Account closed... permanently!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 05.ogg|Filedescription = "Tell the reaper: I'll be back."}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 05.ogg|Filedescription = "Eat metal!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 05.ogg|Filedescription = "Yeah!"}}
+|-
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle start vo 06.ogg|Filedescription = "Good morning, samurai!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle lead vo 06.ogg|Filedescription = "Preem lifestyle!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 06.ogg|Filedescription = "Nano-grade malfunction!"}}  
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle kill vo 06.ogg|Filedescription = "Don't bleed on the counter."}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle die vo 06.ogg|Filedescription = "Nano Brawler firmware reboot."}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 06.ogg|Filedescription = "Fun, ha ha!"}}
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle ulti vo 04.ogg|Filedescription = "Payload delivered, pay up."}}
+|-
+|
+|
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle hurt vo 07.ogg|Filedescription = "Watch out, gonk!"}} 
+|
+|
+|'''Cyber:'''
+{{Ogg|Filename = Shelly cybernoodle atk vo 07.ogg|Filedescription = "Ha ha ha!"}}
+|
+|}
+
+==History==
+*16/08/17:
+**{{Balance|Nerf|Shelly's reload time was increased to 1.5 seconds (from 1.25).}}
+**{{Balance|Nerf|Her main attack range was decreased to 6.67 tiles (from 7.67).}}
+**{{Balance|Neutral|Her main attack shells have a larger spread.}}
+*04/09/17:
+**{{Balance|Neutral|Shelly and her Bandita Shelly skin were remodeled.}}
+*07/12/17:
+**{{Balance|Neutral|Shelly's Shell Shock Star Power was added.}}
+**{{Balance|Neutral|The health and damage statistics of all Brawlers were multiplied by 4.}}
+*16/01/18:
+**{{Balance|Nerf|Shelly's Shell Shock Star Power slow duration was decreased to 2.5 seconds (from 3).}}
+*21/03/18:
+**{{Balance|Nerf|Shelly's main attack damage was decreased to 300 (from 320) per shell.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased by 70 points, increasing Shelly's movement speed to 720 (from 650).}}
+**{{Balance|Neutral|All Brawlers' projectile speeds are increased by 9%.}}
+*21/05/18:
+**{{Balance|Buff|Shelly's health was increased to 3600 (from 3200).}}
+*29/05/18:
+**{{Balance|Buff|Shelly's main attack range was increased to 7.33 tiles (from 6.67).}}
+*05/12/18:
+**{{Balance|Neutral|Shelly and her Bandita Shelly skin were remodeled, and the Star Shelly skin was added.}}
+*12/12/18:
+**{{Balance|Neutral|Star Shelly became available to every user until 01/01/19.}}
+*15/04/19:
+**{{Balance|Buff|Shelly's main attack range was increased to 7.67 tiles (from 7.33).}}
+**{{Balance|Buff|Her main attack projectile speed was increased by 5%.}}
+*11/06/19:
+**{{Balance|Buff|Shelly's Shell Shock Star Power slow duration was increased to 3 seconds (from 2.5).}}
+*26/06/19:
+**{{Balance|Neutral|Shelly's Band-Aid Star Power was added.}}
+*29/08/19:
+**{{Balance|Nerf|Shelly's Band-Aid Star Power healing was decreased to 2000 (from reaching full health).}}
+*18/09/19:
+**{{Balance|Nerf|Shelly's Band-Aid Star Power healing was decreased to 1800 (from 2000).}}
+*23/10/19:
+**{{Balance|Neutral|Shelly's animations were reworked.}}
+*24/10/19:
+**{{Balance|Neutral|The Witch Shelly skin was added. It was featured as a Brawl-o-ween skin.}}
+*17/03/20:
+**{{Balance|Neutral|Shelly's Fast Forward Gadget was added.}}
+*19/03/20:
+**{{Balance|Neutral|The PSG Shelly skin was unlockable by winning the PSG Cup 2020 in-game [[Challenge]].}}
+*02/07/20:
+**{{Balance|Neutral|Shelly, Star Shelly, and PSG Shelly received facial animations.}}
+**{{Balance|Neutral|Shelly's True Silver and True Gold skins were added.}} 
+*09/09/20:
+**{{Balance|Neutral|Shelly's Clay Pigeons Gadget was added.}}
+*10/09/20:
+**{{Balance|Buff|Shelly's health was increased to 3800 (from 3600).}}
+**{{Balance|Buff|The number of hits necessary to charge Shelly's Super was decreased to 10 hits (from 11).}}
+**{{Balance|Nerf|Her Super recharge rate was decreased slightly.}}
+*15/12/20:
+**{{Balance|Buff|Shelly's Shell Shock Star Power slow duration was increased to 4 seconds (from 3).}}
+**{{Balance|Buff|Shelly's Band-Aid Star Power now charges in 15 seconds (from 20).}}
+*27/01/21:
+**{{Balance|Neutral|Bandita Shelly and Witch Shelly received facial animations.}}
+*19/05/21:
+**{{Balance|Buff|Shelly's Fast Forward Gadget range was increased to 3.33 tiles (from 3).}}
+**{{Balance|Buff|Her Shell Shock Star Power slow duration was increased to 4.5 seconds (from 4).}}
+**{{Balance|Buff|Her Band-Aid Star Power healing was increased to 2000 (from 1800).}}
+*16/06/21:
+**{{Balance|Buff|Shelly’s Clay Pigeons Gadget projectile speed was increased by 20%.}}
+*09/07/21:
+**{{Balance|Neutral|Shelly's Latin America Master League skins were added.}} 
+*25/08/21:
+**{{Balance|Neutral|Shelly's Clay Pigeons Gadget was reworked from affecting Shelly's next attack to increase her range for her attack for the next 5 seconds.}}
+*30/08/21:
+**{{Balance|Neutral|The Princess Shelly skin was added. It was featured as a Brawl Pass Season 8 exclusive skin.}}
+*27/10/21:
+**{{Balance|Neutral|Shelly's class was changed to Damage Dealer (From Fighter).}}
+*29/06/22:
+**{{Balance|Neutral|Shelly's Fast Forward Gadget visual effects were slightly reworked.}}
+*24/12/22:
+**{{Balance|Neutral|The Classic Shelly skin became available for every user to claim until 02/01/23.}}
+*25/04/23:
+**{{Balance|Buff|Shelly's movement speed was increased to 820 (from 720).}}
+*06/06/23:
+**{{Balance|Nerf|Shelly's health was decreased to 3700 (from 3800).}}
+**{{Balance|Nerf|Shelly's Shell Shock Star Power slow duration was decreased to 2 seconds (from 4.5).}}
+*15/08/23:
+**{{Balance|Nerf|Shelly's movement speed was decreased to 770 (from 820).}}
+*05/09/23:
+**{{Balance|Neutral|All Brawlers' health and damage were increased from 5% to 10% with each Power Level.}}
+**{{Balance|Neutral|Shelly's Double Barrel Hypercharge can be obtained by completing a special quest required to win 25 matches in Hypercharge Unleashed until 11/09/23.}}
+*24/10/23:
+**{{Balance|Nerf|Shelly's Super recharge rate was decreased by 46%.}}
+**{{Balance|Neutral|Shelly's Band-Aid Star Power healing was decreased to 1998 (from 2000) but now scales with Power Levels.}}
+**{{Balance|Neutral|Shelly's flavor text was changed from "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!" to "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight..."}}
+*27/10/23:
+**{{Balance|Neutral|The Hoot Hoot Shelly skin was added. It was featured as a Brawl-o-ween skin.}}
+*12/12/23:
+**{{Balance|Neutral|Shelly was slightly remodeled.}}
+*27/02/24:
+**{{Balance|Buff|Shelly's Double Barrel Hypercharge shield boost was increased to 25% (from 15%).}}
+**{{Balance|Nerf|Shelly's Double Barrel Hypercharge multiplier was decreased to 30% (from 40%).}}
+**{{Balance|Nerf|Shelly's Double Barrel Hypercharge damage boost was decreased to 5% (from 25%).}}
+**{{Balance|Neutral|All Brawlers' Hypercharges duration can no longer be extended.}}
+**{{Balance|Neutral|Shelly's face texture was slightly changed.}}
+*07/03/24:
+**{{Balance|Neutral|The Shelly Dancer, Shelly Dancer Iris, and Shelly Dancer Dahlia skins were added. They were featured as Brawl Pass Season 24 skins and Sands of Time skins.}}
+*29/04/24:
+**{{Balance|Neutral|Shelly's Mutation was added for a limited time.}}
+*14/05/24:
+**{{Balance|Neutral|The Squad Buster Shelly skin was added and was available to every user until 04/06/24. It was featured to celebrate the arrival of the Squad Busters game.}}
+*20/05/24:
+**{{Balance|Neutral|Shelly's Mutation was removed from the game.}}
+*12/07/24:
+**{{Balance|Neutral|The Sheriff Shelly skin was added. It was featured as an Outlaws skin.}}
+**{{Balance|Neutral|The Stellar Shelly skin was added. It was featured as a Misc skin.}}
+*25/02/25:
+**{{Balance|Neutral|All Gadgets no longer have 3 charges and now have cooldowns.}}
+**{{Balance|Neutral|All True Gold skins were slightly remodeled.}}
+*01/05/25:
+**{{Balance|Neutral|Shelly's Wasabi Power was added for a limited time.}}
+*20/05/25:
+**{{Balance|Buff|Shelly's Wasabi Power Super number of projectiles was increased to 35 (from 30).}}
+*30/05/25:
+**{{Balance|Neutral|Shelly's Wasabi Power was removed from the game.}}
+*24/06/25:
+**{{Balance|Neutral|Bandita Shelly was slightly remodeled.}}
+*03/09/25:
+**{{Balance|Buff|Shelly's Fast Forward Gadget now instantly reloads all of her ammo.}}
+*28/10/25:
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Shelly's Double Barrel Hypercharge speed boost from 25%.}}
+**{{Balance|Change=Nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Shelly's Double Barrel Hypercharge shield boost from 25%.}}
+*12/11/25:
+**{{Balance|Change=Nerf|Content=Shelly's Shield Power Card buffs were reduced from 15/25% to 5/10%.}}
+**{{Balance|Change=Nerf|Content=Shelly's Super charge rate Power Card buffs were reduced from 30/60% to 25/50%.}}
+**{{Balance|Change=Nerf|Content=Shelly's legendary Max Health Power Card buff was reduced from 2000 to 1500.}}
+**{{Balance|Change=Nerf|Content=Shelly's Projectile range Power Card no longer has less spread.}}
+*16/12/25:
+**{{Balance|Buff|Shelly's health was increased to 3900 (from 3700).}}
+**{{Balance|Buff|Shelly's Fast Forward Gadget movement speed was increased to 2400 (from 2000).}}
+**{{Balance|Buff|Shelly's Band-Aid Star Power healing was increased to 2106 (from 1998).}}
+**{{Balance|Nerf|Shelly's Fast Forward Gadget cooldown was increased to 20 seconds (from 13).}}
+**{{Balance|Nerf|Shelly's Fast Forward Gadget range was decreased to 2.67 tiles (from 3.33).}}
+**{{Balance|Nerf|Shelly's Clay Pigeons Gadget cooldown was increased to 18 seconds (from 16).}}
+**{{Balance|Nerf|Shelly's Clay Pigeons Gadget spread was increased to 13.5 degrees (from 9).}}
+**{{Balance|Content=Shelly's Super charge rate with her Clay Pigeons Gadget was decreased by 25%.|Change=Nerf}}
+**{{Balance|Neutral|Shelly's Fast Forward Gadget can now be aimed.}}
+**{{Balance|Neutral|Shelly's Clay Pigeons Gadget now affects the next 3 attacks aimed with the Gadget (from affecting all main attacks 5 seconds after activation).}}
+**{{Balance|Neutral|Shelly's Buffies were added.}}
+*23/01/26:
+**{{Balance|Nerf|Shelly's Clay Pigeons Gadget Buffie slow was decreased to 30% (from 60%).}}
+**{{Balance|Nerf|Shelly's Clay Pigeons Gadget Buffie slow duration was decreased to 0.5 seconds per pellet (from 1).}}
+**{{Balance|Neutral|Fixed an issue where Shelly could unload her ammo faster by alternating her attack and Clay Pigeons Gadget.}}
+*22/04/26:
+** {{Balance|Content=Shelly's Shell Shock slow visual effects were reworked.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Buff|Shelly's Fast Forward Gadget cooldown was decreased to 16 seconds (from 20).}}
+**{{Balance|Neutral|Shelly's Shell Shock Star Power slow efficiency was changed to 55% (from 350 points).}}
+*02/07/26:
+**{{Balance|Neutral|The Cyber Shelly skin was added. It was featured as a Nanonoodles skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Shelly's movement speed to 800 (from 770).}}
+*03/11/26:
+**{{Balance|Buff|Shelly's main attack damage was increased to 340 (from 300) per shell.}}
+**{{Balance|Buff|Shelly's Super damage was increased to 360 (from 340) per shell.}}
+
+==Cosmetics==
+===Skins (19)===
+{{Skin Gallery
+|Name1 = Star|Cost1 = Free for registering before 2019 • '''E'''|Campaign1 = 2018 Anniversary
+|Name2 = Classic|Cost2 = Free from Brawlidays 2022 gift • '''E'''|Campaign2 = 2022 Anniversary|Rarity2 = Rare
+|Name3 = Bandita|Cost3 = Free after reaching 750 Trophies or 29 Gems|Campaign3=Outlaws|Rarity3 = Rare
+|Name4 = Boca Juniors|Cost4 = 49 Gems • '''E'''|Campaign4 = Latin America Master League|Rarity4 = Rare
+|Name5 = America|Cost5 = 49 Gems • '''E'''|Campaign5 = Latin America Master League|Rarity5 = Rare
+|Name6 = U De Chile|Cost6 = 49 Gems • '''E'''|Campaign6 = Latin America Master League|Rarity6 = Rare
+|Name7 = PSG|Cost7 = Free from the PSG Cup of 2020 or 79 Gems|Campaign7 = PSG|Rarity7 = Super Rare
+|Name8 = Sheriff|Cost8 = Free from Classic Brawl Mega Boxes or 79 Gems|Campaign8 = Outlaws|Rarity8 = Super Rare
+|Name9 = Witch|Cost9 = 149 Gems • '''E'''|Campaign9 = Brawl-o-ween|Rarity9 = Epic
+|Name10 = Stellar|Cost10 = Free from Classic Brawl Mega Boxes or 149 Gems|Campaign10 = Misc|Rarity10 = Epic
+|Name11 = Hoot Hoot|Cost11 = Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 199 Gems • '''S'''|Campaign11 = Brawl-o-ween|Rarity11 = Mythic
+|Name12 = Squad Buster|Cost12 = Free for pre-registering 30 million times on Squad Busters and for the then-upcoming deletion of Squad Busters, or 199 Gems • '''E'''|Campaign12 = Squad Busters|Rarity12 = Mythic
+|Name13 = Cyber|Cost13 = Free from Nano Drops or 299 Gems|Campaign13 = Nanonoodles|Rarity13 = Legendary
+|TrueSkins = yes
+|NameP1 = Princess|CostP1 = Brawl Pass Exclusive • '''E'''|CampaignP1 = Brawl Pass|CampaignP1_2 = Once Upon|RarityP1 = Super Rare
+|NameP2 = Shelly Dancer|CostP2 = Brawl Pass or 149 Gems|CampaignP2 = Brawl Pass|CampaignP2_2 = Sands of Time|RarityP2 = Epic
+|NameP3 = Shelly Dancer Iris|CostP3 = Brawl Pass Plus or 149 Gems|CampaignP3 = Brawl Pass|CampaignP3_2 = Sands of Time|RarityP3 = Epic
+|NameP4 = Shelly Dancer Dahlia|CostP4 = Brawl Pass Plus or 149 Gems|CampaignP4 = Brawl Pass|CampaignP4_2 = Sands of Time|RarityP4 = Epic}}
+
+===Buffie Skins===
+<gallery>
+Shelly Buffie Skin-Gadget.png|Gadget
+Shelly Buffie Skin-Star.png|Star
+Shelly Buffie Skin-Hyper.png|Hyper
+Shelly Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Shelly
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Witch}}
+{{Pin Table|Star|Thanks}}
+{{Pin Table|Hoot Hoot|Special}}
+{{Pin Table|Shelly Dancer|Special}}
+{{Pin Table|Shelly Dancer Iris|Special}}
+{{Pin Table|Shelly Dancer Dahlia|Special}}
+{{Pin Table|Squad Buster|Special}}
+{{Pin Table|Classic|GG}}
+{{Pin Table|Sheriff|GG}}
+{{Pin Table|Stellar}}
+{{Pin Table|Princess|Special}}
+{{Pin Table|PSG|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Shelly|Rarity = Common}}
+|{{Spray|Type = Shelly Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Hoot Hoot Shelly|Rarity = Common}}
+|{{Spray|Type = Squad Buster Shelly|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Shelly1}}
+|{{Pfp|Shelly2}}
+|{{Pfp|Shelly3}}
+|{{Pfp|Shelly4}}
+|{{Pfp|Hoot Hoot Shelly}}
+|-
+|{{Pfp|Shelly Dancer}}
+|{{Pfp|Squad Buster Shelly}}
+|{{Pfp|Stellar Shelly}}
+|{{Pfp|Witch Shelly}}
+|}
+
+{{Navigation}}
+[[Category:Starting Brawlers]]
+[[de:Shelly]]
+[[es:Shelly]]
+[[fi:Shelly]]
+[[nl:Shelly]]
+[[pl:Shelly]]
+[[pt:Shelly]]
+[[ru:Шелли]]
+[[uk:Шеллі]]
+[[vi:Shelly]]

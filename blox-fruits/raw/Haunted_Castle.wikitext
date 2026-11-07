@@ -1,0 +1,99 @@
+{{MapTab}}
+{{Location Infobox
+|name     = Haunted Castle
+|image    = Haunted Castle.png
+|type     = Island
+|sea      = 3
+|level    = 1975-2075
+|music    = Pleasant Dreams
+|prev     = Floating Turtle
+|next     = Sea of Treats
+}}
+The '''Haunted Castle''' is a ship-like island.
+
+The Haunted Castle is the third-largest island in the game and has the tallest height of all maps because of its enormous mast. Players can find the Haunted Castle by going to the [[Castle on the Sea]] and looking around until they spot a flag surrounded by giant walls.
+
+* It should be noted that as of recent updates however, for some strange reason the Haunted Castle is not visible from afar, requiring the user to be fairly close for it to render. 
+** This is most likely to cut down on lag, as the island is very big.
+
+The graveyard is where the cemetery is located, along with a [[Gravestone]] on the left side, from which the player can receive random rewards from by praying. Inside the mausoleum, the player can find the [[Death King]], with whom they can exchange [[Bones]] with for a Random Surprise (10 rolls per 2 hours).
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies 
+!Raid Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Death King]]
+* [[Ghost (NPC)|Ghost (as NPC)]]
+* [[Gravestone]]
+* [[Luxury Boat Dealer]]
+* [[Set Home Point]]
+* [[Weird Machine]]
+|
+* [[Reborn Skeleton]]
+* [[Living Zombie]]
+* [[Demonic Soul]]
+* [[Posessed Mummy]]
+* [[Ghost (Enemy)|Ghost]]
+|
+* [[Soul Reaper]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+![[Quests|Quest]]
+!Lv. Required
+![[Elemental]] Lv.
+!Reward
+|-
+| rowspan="2" |[[Haunted Castle Quest Giver 1]]
+|Defeat 8 [[Reborn Skeleton]]s
+|1975 
+|2056 
+|{{Money|13,000}}<br />{{EXP|91,000,000}}
+|-
+|Defeat 8 [[Living Zombie]]s
+|2000
+|N/A
+|{{Money|13,250}}<br />{{EXP|93,500,000}}
+|-
+| rowspan="2" |[[Haunted Castle Quest Giver 2]]
+|Defeat 8 [[Demonic Soul]]s
+| 2025
+| 2107
+|{{Money|13,500}}<br />{{EXP|96,000,000}}
+|-
+|Defeat 8 [[Posessed Mummy]]s 
+|2050
+|2134
+|{{Money|13,750}}<br />{{EXP|98,500,000}}
+|}
+
+==Chests==
+There are a total of 13 [[chests]] at Haunted Castle:
+* 5 Silver Chests.
+* 5 Golden Chests.
+* 3 Diamond Chests, inside the crow's nest located on top of the castle's flag pole.
+
+==Trivia==
+* Before [[Updates/17|Update 17]], players could get bones from [[enemies]] when they killed one around their [[level]].
+* The background music of Haunted Castle is the same as that of [[Floating Turtle]]'s and [[Castle on the Sea]]'s background music.
+* Haunted Castle is a good place to grind chests for money. After the player travels to the top of the flag and collects the chests, they can go to the stone hut where the [[Death King]] NPC is located and collects the two golden chests there. In total, this can give the player around {{Money|31,750}} to{{Money|46,400}} in total. If the player server hops, they can earn more money — provided someone else hasn't already collected the chests on that server.
+* The Haunted Castle is the location where players can begin and complete the [[Skull Guitar/Puzzle|Skull Guitar Puzzle]].
+* The Haunted Castle is similar to [[Cursed Ship]].
+** Both are horror-themed locations.
+** Both have a Raid Boss, being [[Soul Reaper]] here and [[Cursed Captain]] at the [[Cursed Ship]]. The [[Cursed Captain]] and the [[Soul Reaper]] both drop mastery instead of levels.
+* There is an altar with blue flames on the way to the cemetery, which is on the left side of the island. It is used to summon the [[Soul Reaper]] by placing a [[Hallow Essence]] on it.
+* The [[Uzoth]] NPC used to be found here inside the right gear behind the castle, but was moved to [[Dragon Dojo]] in [[Hydra Island]] in [[Updates/24|Update 24]].
+* The island cannot be seen with max graphics quality from nearby islands ([[Port Town]], [[Castle on the Sea]], [[Tiki Outpost]]), only can be seen when close to it.
+* Exploiters can be found at this island grinding all the npcs for bones to give to Death King.
+
+==Change History==
+{{Change History|16}}
+
+==Navigation==
+{{IslandNavigation}}

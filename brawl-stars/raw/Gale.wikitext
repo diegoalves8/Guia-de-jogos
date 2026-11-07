@@ -1,0 +1,323 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Janitor|PrestigeTitle = Retired|Rarity = Epic|Class = Controller|MovementSpeed = 750 (Normal)
+900 (with Twister and Gadget Buffie)|VoiceActor = Dean Compoginis|HealthLabel = Health|Health = 4000|Reload = 1.2 seconds (Very Fast)|AttackBullets = 6|AttackSuperCharge = 6.75%|AttackLabel = Damage per snowball|Attack = 300|SuperRange = 10 (Very Long)|SuperSuperCharge = 12.45%|SuperLabel = Damage|Super = 800|AttackRange = 8.33 (Long)|AttackCooldown=|AttackLabel2=|Attack2=|SuperBullets=1<br>2 (with Hypercharge)|SuperDuration=|SuperMinionRange=|SuperReload=|SuperMovementSpeed=|AttackSpeed=3000<br>3900 (with North Wind Wall and Gadget Buffie)|AttackWidth=2|SuperSpread=|SuperSpeed=5000<br>6500 (with North Wind Wall and Gadget Buffie)|SuperWidth=4<br>7 (with Hypercharge)|Gadget1Name=North Wind Wall|Gadget1Duration= 5 seconds|Gadget1Cooldown=22 seconds|Gadget2Name = Twister|Gadget2Cooldown=21 seconds|Previous=Bea|Next=Nani|HyperchargeMultiplier=25%|AttackHyperchargeCharge=1.6875%|SuperHyperchargeCharge=3.1%|Gadget2Duration=5 seconds}}
+{{Quote|Gale's job is to use his snowblower to clear the areas around [[Mr. P]]'s Snowtel. Nobody mentioned anything about stopping when the guests were around...}}
+{{Portrait}}
+Gale is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 from Season 1: Tara's Bazaar. He has moderate health, a very fast reload speed, and a moderate and consistent damage output. He was the 36th Brawler added to the game. Gale attacks with waves of long-ranged, damaging snowballs. Gale's Super creates a wide and long-ranged gust of wind and snow that pushes enemies back. His first Gadget, North Wind Wall, spawns a temporary wind wall that his and allies' attacks pass through it while enemy projectiles are redirected sideways. His second Gadget, Twister, creates a tornado that prevents enemies from passing through it. His first Star Power, Blustery Blow, causes enemies who are pushed back into obstacles to become stunned momentarily. His second Star Power, Freezing Snow, briefly slows enemies hit by his attack. His Hypercharge, Raging Blizzard, increases the width of his Super and creates 2 gusts of winds and snow.
+
+==Attack: Polar Vortex==
+{{Quote|Gale blasts a large snow ball wall at his enemies!}}Gale fires 6 long-ranged snowballs which travel in a straight and wide line, each dealing low damage. The snowballs are fired directly next to each other and have a wide spread. Unlike many Brawlers who shoot multiple projectiles at once, Gale can’t deal maximum damage at point-blank range due to the spread, but as a result it's easier for him to sweep bushes and hit multiple enemies. 
+
+==Super: Gale Force!==
+{{Quote|Gale delivers an almighty gust of wind and snow, pushing back all enemies caught in its path.}}Gale's Super creates a very long-ranged, wider gust of wind and snow that passes through obstacles. It pushes away enemies it hits to a maximum of 8.33 tiles and slightly damages them. 
+
+==Gadgets==
+===North Wind Wall===
+{{Quote|Gale throws down a temporary wind wall. Teammates' attacks pass through it while enemy projectiles are redirected sideways. Cooldown: 22 seconds.}}
+{{Gadget|1}}Gale throws a propeller that creates a wind wall for 5 seconds. Gale's and teammates' attacks pass through it, but enemy projectiles are redirected away from the center of the wall. Unlike [[Damian]]'s Wall of Sound Gadget, it does not block movement through it and cannot be destroyed by attacks that break walls.
+
+{{Quote|Teammates' projectiles passing through the wind wall travel +30% faster.}}{{Buffie|Gadget}}
+With the Buffie, Gale's and teammates' attacks that pass through the wind wall also travel 30% faster.
+
+===Twister===
+{{Quote|Gale uses his snow blower to create a local tornado that pushes away any opponents that try to pass through. Cooldown: 21 seconds.}}{{Gadget|2}}Gale creates a small tornado on top of himself with a 2-tile radius that pushes enemies out of it and knocks back any enemy that try to pass through. The tornado lasts for 5 seconds. This Gadget's cooldown starts after it's activated. 
+
+{{Quote|Teammates gain +20% movement speed for 2 sec when passing through the tornado.}}{{Buffie|Gadget}}
+With the Buffie, Gale and teammates also gain a 20% movement speed boost for 2 seconds after passing through the tornado.
+
+==Star Powers==
+===Blustery Blow===
+{{Quote|Gale's Super now stuns enemies for 1.25 seconds if they are pushed against obstacles.}}
+{{StarPower|1}}If Gale's Super pushes enemies into obstacles (with the exception of bushes), they’ll be stunned for 1.25 seconds.
+
+{{Quote|Stunned enemies take 880 damage.}}{{Buffie|Star}}
+With the Buffie, stunning enemies with the Star Power also deals 293.3% of a snowball's damage to them.
+
+===Freezing Snow===
+{{Quote|Gale's snow balls now also slow down opponents for 0.5 seconds. }}
+{{StarPower|2}}When Gale's main attack hits an enemy, they’ll be slowed down for 0.5 seconds.
+
+{{Quote|Slows enemies up to 50% the closer they are to Gale.}}{{Buffie|Star}}
+With the Buffie, Gale's main attack slow enemies up to 50% the closer they are to him.  
+
+==Hypercharge: Raging Blizzard==
+{{Quote|Gale's Super is slightly wider and fires twice, pushing enemies even further away!}}{{Hypercharge}}
+When activated, Gale's Super is 3 tiles wider and creates 2 gusts of winds and snow at a 0.2-second interval, which pushes enemies further away than usual. He also gains a 20% speed boost, as well as 5% damage and shield boost.
+
+{{Quote|Gale follows up each main attack with a single, much larger snowball.}}{{Buffie|Hyper}}
+With the Buffie, Gale's main attack also launches a single, larger snowball that deals as much damage as two small snowballs. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Gale's Polar Vortex is now wider.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Gale's attack width was increased from 2 to 4 tiles and he shot 12 projectiles with his main attack instead of 6.
+
+==Tips==
+===Game Modes and Maps===
+*Gale has mainly everything a Brawler would require: decent health, decent damage, long range, a fast reload speed, a reasonable movement speed, and support abilities such as his Super and his Spring Ejector Gadget, and he finds use in every game mode, similar to [[8-Bit]]. Some of the modes he excels at most are control-based events like [[Hot Zone]], [[Brawl Ball]], [[Gem Grab]], and [[Siege]] where pushing back enemies helps his team gain control of important areas such as the zones, the goalposts, the Gem mine, and the Bolts in each respective game mode. This is amplified if you have his Twister Gadget, which allows him to completely deny access to certain parts of the map like mentioned above for 5 seconds.
+*Gale's support abilities truly shine in events like Gem Grab and [[Bounty]] where he should use his Super to protect the Gem or Star carrier from approaching enemy tanks and other high-damaging enemies by pushing them back a considerable distance. He may also push enemies away from the Gem mine, allow for control of it and collecting Gems at ease.
+*Gale is also useful for [[Heist]] and Siege. One of the best ways to use Gale's Spring Ejector Gadget in these events is to position the launch pad in such a way that when Gale and fellow Brawlers use it, they are able to reach the other team's safe or IKE. Make sure to change the position of the launch pad every so often in order to make it more unpredictable as to where allies will land. In addition, if Gale is the protector of his and team’s safe or IKE, he can push enemies away from his and his team’s safe or IKE in a direction that the enemies will be far from their safe or IKE as well, buying more time for his teammates to defeat the enemies’ safe or IKE; He can also push enemies away from the Bolts, or slow them down from receiving Bolts with the Freezing Snow Star Power.
+*Gale can be a great asset to any Brawl Ball/[[Basket Brawl]]/[[Trophy Thieves]] team, as his Spring Ejector Gadget can help get his teammates back into action by placing it at the foot of his goal or trophy area, and his Super can knock the Ball or trophy out of a carrier's grasp, while blowing them away from the ball or trophy. Gale's Super also affects the landing position of the respective item if it’s being carried which allows him to potentially score goals within 3 tiles away from the enemy goal or shoot the trophy into the trophy area.
+*Gale is an outstanding control Brawler for Hot Zone. His Super pushes enemy Brawlers back, giving time for teammates to heal up and for allies to deal damage. This allows for more capturing of the zones while the enemies have to make their way back. This is most useful in maps where there is a single hot zone in the center (i.e. [[Dueling Beetles]] and [[Ring of Fire]]). Gale’s Spring Ejector Gadget is also a valuable help, as the launch pad can allow allies to reach zones quicker and providing a solid defense in the zone.
+*Gale is not a bad choice in [[Boss Fight]] and [[Super City Rampage]] since the Boss's and the Monster's hitboxes are larger than normal, so all 6 snowballs from Gale's attack will hit, dealing more damage than usual. At maximum level, his snowballs can deal up to 3600 damage, and he can deal damage consistently. His Super is also useful to cancel out the Boss's or Monster's special attacks, especially with his Blustery Blow Star Power so you can stun them, or to distance yourself from them when they are using their melee attacks on you or chasing you when both teammates are dead. You can also use his Freezing Snow Star Power on the Mega Monster to buy time to defeat it.
+*Gale is a decent choice in [[Big Game]] because as the Big Boss, he can push enemies away from him, and with his Blustery Blow Star Power, he can stun the Hunters, though Blustery Blow is only effective when he is the Big Boss, as stuns are ineffective against the Big Boss. As a Hunter, he can place his Spring Ejector Gadget to allow close-ranged Hunters to circumvent obstacles or allow other Hunters to get back into action faster after being defeated, and he can slow the Big Boss with his Freezing Snow Star Power. Since the Big Boss has an extremely large hitbox, all of the snowballs will hit, dealing massive damage. If long-ranged Brawlers are on his team, he can push the Big Boss far, allowing them to deal massive damage.
+
+===Recommended Build===
+*Gale with his Freezing Snow Star Power can limit enemy's strafing abilities and also force groups of Brawlers to group up to defeat Gale together by slowing them down, thus allowing splash-damage teammates or allies with piercing mechanics to easily perform a team-wipe.
+*Note that Gale's Twister Gadget only hinders enemy movement, not enemy attacks, so stay an ample distance away from it to avoid heavy, long-ranged fire. Gale's Twister Gadget can also make enemy Brawlers go over walls.
+
+===Strategies===
+*Gale's Super, Freezing Snow Star Power, and Twister Gadget are all very effective at countering certain Assassins, such as [[Lily]], [[Leon]], [[Edgar]], [[Kenji]], Buzz, [[Mico]], [[Crow]], or [[Mortis]], as well as some aggressive Tanks, such as [[Darryl]], [[Bull]], [[Rosa]], and [[El Primo]], as these can disrupt sneak attack tactics, by slowing down Brawlers and pushing certain Assassins and Tanks out of attack range. 
+**Gale's Twister Gadget can also quickly disrupt [[Buzz]], [[Colette]], Bull, Darryl, [[Berry]], and [[Fang]]'s Supers.
+
+===Other===
+*A maximum of 4 snowballs hit targets with normal-sized hitboxes like Brawlers and the Heist safe at a relatively close range unless the target moves considerably, as the snowballs don’t originate from the center of the attack.
+*Gale's Super allows him to displace enemies into his favor, depending on the situation. He can either push them away from him and his team to save him and them (especially from close-ranged attacks) or push the enemy team into his, allowing for allied close-ranged Brawlers to deal more damage.
+*Be careful when facing [[Emz]] or [[Piper]] as they deal more damage the further away their target is. In some situations, using Gale’s Super on them inadvertently allows them to deal massive damage to you, so it’s better to push them when behind walls, into walls with his Blustery Blow Star Power, or into other enemies or into the poison clouds in Showdown. However, if Gale is near them, he should quickly eliminate them and ignore a charged Super, because both the Brawlers deal mediocre damage at close range and won't be a match for Gale.
+*A combination of Gale's Super with his Blustery Blow Star Power and three main attacks (assuming that four projectiles hit per attack) can guarantee defeat to an enemy with 7920 or less health.
+*When vulnerable enemies are hiding behind a one or two tile thick wall, Gale can use his Super to push them away from them the wall and then defeat them.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = Gale start vo 01.ogg|Filedescription = "No rest for the wicked! Heh heh heh."}}
+|{{Ogg|Filename = Gale lead vo 01.ogg|Filedescription = "You showed them, Gale, you showed them all!"}}
+|{{Ogg|Filename = Gale hurt vo 01.ogg|Filedescription = "Ooh, that smarts!"}}
+|{{Ogg|Filename = Gale kill vo 01.ogg|Filedescription = "Heh-hey!"}}
+|{{Ogg|Filename = Gale die vo 01.ogg|Filedescription = "Kids today."}}
+|
+|{{Ogg|Filename = Gale ulti vo 01.ogg|Filedescription = "What does this button do?"}}
+|-
+|{{Ogg|Filename = Gale start vo 02.ogg|Filedescription = "I'm a-comin', I'm a-comin'."}}
+|{{Ogg|Filename = Gale lead vo 02.ogg|Filedescription = "Mr. P is gonna be so happy!"}}
+|{{Ogg|Filename = Gale hurt vo 02.ogg|Filedescription = "Jeez Louise!"}}
+|{{Ogg|Filename = Gale kill vo 02.ogg|Filedescription = "Never too old to be a bit bold!"}}
+|{{Ogg|Filename = Gale die vo 02.ogg|Filedescription = "Gosh darn!"}}
+|
+|{{Ogg|Filename = Gale ulti vo 02.ogg|Filedescription = "Hold onto your hats!"}}
+|-
+|{{Ogg|Filename = Gale start vo 03.ogg|Filedescription = "Off I go."}}
+|{{Ogg|Filename = Gale lead vo 03.ogg|Filedescription = "Old Gale lived to tell the tale!"}}
+|{{Ogg|Filename = Gale hurt vo 03.ogg|Filedescription = "Ah shoot!"}}
+|{{Ogg|Filename = Gale kill vo 03.ogg|Filedescription = "Old Gale still got it!"}}
+|{{Ogg|Filename = Gale die vo 03.ogg|Filedescription = "Down I go."}}
+|
+|{{Ogg|Filename = Gale ulti vo 03.ogg|Filedescription = "Old Gale is gonna make it snow!"}}
+|-
+|{{Ogg|Filename = Gale start vo 04.ogg|Filedescription = "Slow and steady wins the race!"}}
+|{{Ogg|Filename = Gale lead vo 04.ogg|Filedescription = "Sweet and dandy like cotton candy!"}}
+|{{Ogg|Filename = Gale hurt vo 04.ogg|Filedescription = "Dagnabbit!"}}
+|{{Ogg|Filename = Gale kill vo 04.ogg|Filedescription = "Don't blame me! I just work for Mr. P!"}}
+|{{Ogg|Filename = Gale die vo 04.ogg|Filedescription = "Well, blow me down."}}
+|
+|{{Ogg|Filename = Gale ulti vo 04.ogg|Filedescription = "I might be slow, but I can sure make it snow! Heh heh."}}
+|-
+|
+|
+|{{Ogg|Filename = Gale hurt vo 05.ogg|Filedescription = "Oh Gale, you silly sausage!"}}
+|{{Ogg|Filename = Gale kill vo 05.ogg|Filedescription = "Wowza!"}}
+|{{Ogg|Filename = Gale die vo 05.ogg|Filedescription = "Oh dear."}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Gale hurt vo 06.ogg|Filedescription = Gale groans}}
+|
+|{{Ogg|Filename = Gale die vo 06.ogg|Filedescription = "I'm just gonna rest here for a minute."}}
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = Gale hurt vo 07.ogg|Filedescription = Gale groans}}
+|
+|
+|
+|
+|}
+
+==History==
+*13/05/20:
+**{{Balance|Content=Gale and his Merchant skin were added to the game.|Change=Neutral}}
+*03/06/20:
+**{{Balance|Content=Gale's Second Wind Star Power was added.|Change=Neutral}}
+*02/07/20:
+**{{Balance|Content=The number of projectiles in Gale's main attack was increased to 6 (from 5).|Change=Buff}}
+**{{Balance|Content=Gale's Super enemy knockback distance was increased.|Change=Buff}}
+**{{Balance|Content=Gale's main attack projectile width was decreased to 0.33 tiles (from 0.67).|Change=Nerf}}
+**{{Balance|Content=Gale's main attack width was decreased to 2 tiles (from 3.33).|Change=Nerf}}
+**{{Balance|Content=Gale's main attack damage was decreased to 320 (from 360) per snowball.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Super was increased to 10 hits (from 9).|Change=Nerf}}
+**{{Balance|Content=Gale no longer knocks himself back upon activating his Super.|Change=Neutral}}
+*18/08/20:
+**{{Balance|Content=Gale's main attack damage was decreased to 280 (from 320) per snowball.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Super was increased to 12 hits (from 10).|Change=Nerf}}
+*09/10/20:
+**{{Balance|Content=Gale's Spring Ejector Gadget range was decreased to 6 tiles (from 12) and given an altered look.|Change=Nerf}}
+**{{Balance|Content=Gale's second Star Power was renamed to Freezing Snow (from Second Wind) and reworked from giving teammates hit by his Super a 20% speed boost for 2 seconds to slowing down enemies hit by his attack for 0.3 seconds.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=Gale's reload time was decreased to 1.2 seconds (from 1.4).|Change=Buff}}
+*15/12/20:
+**{{Balance|Content=Gale's health was increased to 3600 (from 3400).|Change=Buff}}
+*23/12/20:
+**{{Balance|Content=The Nutcracker Gale skin was added. It was featured as a Supercell Make skin.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Gale's Super damage was increased to 240 (from 100).|Change=Buff}}
+*16/06/21:
+**{{Balance|Content=Gale's Freezing Snow Star Power slow duration was increased to 0.5 seconds (from 0.3).|Change=Buff}}
+*22/07/21:
+**{{Balance|Content=Gale's Twister Gadget was added.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Gale's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Gale's class was changed to Hybrid (from Support).|Change=Neutral}}
+*11/11/21:
+**{{Balance|Content=The Squeakbuster Gale skin was added. It was featured as a Brawlywood skin.|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Gale's Super damage was increased to 420 (from 240).|Change=Buff}}
+**{{Balance|Content=Gale's Super recharge rate was increased by 42%.|Change=Buff}}
+*01/03/22:
+**{{Balance|Content=Gale's Blustery Blow Star Power stun duration was increased to 1.5 seconds (from 1).|Change=Buff}}
+*27/04/22:
+**{{Balance|Content=Gale's Blustery Blow Star Power stun duration was decreased to 1.25 seconds (from 1.5).|Change=Nerf}}
+*12/12/22:
+**{{Balance|Content=The number of hits necessary to charge Gale's Super was increased to 16 hits (from 12).|Change=Nerf}}
+**{{Balance|Content=Gale's Super recharge rate was decreased by 41%.|Change=Nerf}}
+**{{Balance|Content=Gale's Twister Gadget duration was decreased to 5 seconds (from 10).|Change=Nerf}}
+*28/02/23:
+**{{Balance|Content=Gale's class was changed to Controller (from Hybrid).|Change=Neutral}}
+*29/06/23:
+**{{Balance|Content=Fixed an issue that caused Gale's Twister Gadget to push away his allies.|Change=Neutral}} 
+*15/08/23:
+**{{Balance|Content=Gale's health was increased to 3800 (from 3600).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Gale's flavor text was changed from "Gale is a tireless handyman who gets no rest. With his blower, he blasts foes with a wide shot of wind and snow, while his Super pushes them back with a forceful blizzard!" to "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around..."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Gale's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Gale's Super damage was increased to 500 (from 420).|Change=Buff}}
+**{{Balance|Content=Gale's Super recharge rate was increased by 19%.|Change=Buff}}
+*29/04/24:
+**{{Balance|Content=Gale's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Gale's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Gale's Blizzard Hypercharge was added.|Change=Neutral}}
+*01/07/24:
+**{{Balance|Content=Gale's Super damage was increased to 610 (from 500) per projectile.|Change=Buff}}
+**{{Balance|Content=Gale's Super recharge rate was increased by 22%.|Change=Buff}}
+**{{Balance|Content=Gale's Super width was decreased to 4 tiles (from 5).|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where Gale's Super shot more projectiles than intended.|Change=Neutral}}
+*01/08/24:
+**{{Balance|Content=The Shell Blaster Gale skin was added. It was featured as a Ranked skin for Brawl Pass Season 29 and a Deep Sea League skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Gale's Super damage was increased to 820 (from 610) per projectile.|Change=Buff}}
+**{{Balance|Content=Gale's Super recharge rate was increased by 34%.|Change=Buff}} 
+**{{Balance|Content=Fixed an issue that caused Gale's Super to sometimes deal double damage.|Change=Neutral}}
+*04/10/24:
+**{{Balance|Content=Gale's Super damage was decreased to 600 (from 820) per projectile.|Change=Nerf}}
+**{{Balance|Content=Gale's Super recharge rate was decreased by 27%.|Change=Nerf}}
+**{{Balance|Content=Gale's Blizzard Hypercharge multiplier was decreased to 25% (from 30%).|Change=Nerf}}
+*14/11/24:
+**{{Balance|Content=The number of hits necessary to charge Gale's Super was increased to 18 hits (from 16).|Change=Nerf}}
+*12/12/24:
+**{{Balance|Content=The Galactic Gale skin was added. It was featured as a Misc skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Gale's Blustery Blow Star Power stun duration was changed to 1.25 seconds in the description (from 1.2).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Gale's Super recharge rate was increased by 20%.|Change=Buff}}
+*03/09/25:
+**{{Balance|Content=Gale's main attack damage was increased to 300 (from 280) per snowball.|Change=Buff}}
+**{{Balance|Change=Nerf|Content=Gale's Super recharge rate was decreased by 8%.}}
+*12/09/25:
+**{{Balance|Content=Fixed an issue with Gale’s Super not charging at the correct rate.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=The number of hits necessary to charge Gale's Super and Hypercharge was decreased to 15 hits (from 18) and to 60 hits (from 71).|Change=Buff}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Gale's Blizzard Hypercharge speed boost from 26%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Gale's Blizzard Hypercharge damage boost from 15%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% shield boost, decreasing Gale's Blizzard Hypercharge shield boost from 15%.}}
+*12/11/25:
+**{{Balance|Change=Nerf|Content=Gale's Slow Enemies on Hit Power Card slow was reduced by 20%.}}
+*16/12/25:
+**{{Balance|Buff|Gale's health was increased to 4000 (from 3800).}}
+*01/01/26:
+**{{Balance|Neutral|Steampunk, Fancy Man and Dapper Gale skins were added. They were featured as Brawl Pass Season 46 skins and Steampunk skins.}}
+*22/04/26:
+**{{Balance|Content=Gale's Freezing Snow Star Power slow visual effects were reworked.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Buff|Gale's Super damage was increased to 800 (from 600) per projectile.}}
+**{{Balance|Nerf|Gale's Super recharge rate was decreased to 83 (from 110).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Gale's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Gale's North Wind Wall Gadget cooldown was increased to 22 seconds (from 20).}}
+**{{Balance|Neutral|Gale's Spring Ejector Gadget was renamed to North Wind Wall, and reworked from spawning a launch pad beneath himself that can launch any target to creating a temporary wind wall that redirects enemy projectiles sideways.}}
+**{{Balance|Neutral|Gale's Blizzard Hypercharge was renamed to Raging Blizzard.}}
+**{{Balance|Neutral|Gale's Buffies were added.}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1 = Galactic|Cost1 = Free after reaching 750 Trophies or 29 Gems|Campaign1 = Misc|Rarity1=Rare
+|Name2 = Nutcracker|Cost2= Free from Presents or 149 Gems|Campaign2=Supercell Make|Campaign2_2=Brawlidays|Rarity2=Epic
+|Name3 = Squeakbuster|Cost3 = Free from Strangest Packs or 149 Gems|Campaign3 = Starrs of Brawlywood|Rarity3=Epic
+|Name4 = Shell Blaster|Cost4 = Free from Ranked Starr Drops, Smoothie Drops or 149 Gems|Campaign4 = Ranked|Campaign4_2 = Deep Sea League|Rarity4=Epic
+|TrueSkins = yes
+|NameP1 = Merchant|CostP1 = Brawl Pass Exclusive • '''E'''|CampaignP1 = Brawl Pass|CampaignP1_2 = Sands of Time|RarityP1=Epic
+|NameP2 = Steampunk|CostP2 = 2 Skin Keys|CampaignP2 = Brawl Pass|CampaignP2_2 = Steampunk|RarityP2=Epic
+|NameP3 = Fancy Man|CostP3 = Free after purchasing Skin Set with Skin Keys|CampaignP3 = Brawl Pass|CampaignP3_2 = Steampunk|RarityP3=Epic
+|NameP4 = Dapper|CostP4 = Free after purchasing Skin Set with Skin Keys|CampaignP4 = Brawl Pass|CampaignP4_2 = Steampunk|RarityP4=Epic
+}}
+
+===Buffie Skins===
+<gallery>
+Gale Buffie Skin-Gadget.png|Gadget
+Gale Buffie Skin-Star.png|Star
+Gale Buffie Skin-Hyper.png|Hyper
+Gale Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Gale
+|-
+!Skin||colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Merchant}}
+{{Pin Table|Nutcracker}}
+{{Pin Table|Squeakbuster|Deny}}
+{{Pin Table|Shell Blaster|Happy}}
+{{Pin Table|Steampunk|Sad}}
+{{Pin Table|Fancy Man|Sad}}
+{{Pin Table|Dapper|Sad}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Gale|Rarity = Common}}
+|{{Spray|Type = Gale Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Gale1}}
+|{{Pfp|Gale2}}
+|{{Pfp|Gale3}}
+|{{Pfp|Gale4}}
+|{{Pfp|Squeakbuster Gale}}
+|-
+|{{Pfp|Shell Blaster Gale}}
+|{{Pfp|Nutcracker Gale}}
+|{{Pfp|Merchant Gale}}
+|{{Pfp|Steampunk Gale}}
+|}
+
+{{Navigation}}
+[[nl:Gale]]
+[[ru:Гэйл]]

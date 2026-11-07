@@ -1,0 +1,265 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title=Headbanger|PrestigeTitle = Hot & Cold|Rarity=Mythic|Class=Damage Dealer|MovementSpeed=750 (Normal)|HealthLabel=Health|Health=3500|AttackRange=8 (Long)|AttackSuperCharge=10.35% (while throwing the maces)<br>15.525% (while retrieving the maces)|AttackLabel=Damage while throwing maces|Attack=600|AttackLabel2=Damage while retrieving maces|Attack2=800|AttackBullets=2 (when retrieving the maces)|AttackSpeed=3500 (while throwing the maces)<br>4000 (while retrieving the maces)|SuperSuperCharge=20%|SuperLabel=1st Explosion|Super=1000|SuperLabel2=2nd Explosion|Super2=1200|SuperLabel3=3rd Explosion|Super3=1400|SuperRange=7.33 (Long)|SuperBullets=3<br>5 (with Hypercharge)|SuperSpeed=29000|Gadget1Name=Hit the Lights|Gadget1Cooldown=14 seconds|Gadget1Label=Damage per second|Gadget1=288|Gadget2Name=Grim and Frostbitten|Gadget2Cooldown=23 seconds|StarPower1Name=42% Burnt|StarPower1Label=1st Fire per second|StarPower1=360|StarPower1Label2=2nd Fire per second|StarPower12=432|StarPower1Label3=3rd Fire per second|StarPower13=504|Previous=Finx|Next=Jae-yong|AttackWidth=1.13|VoiceActor=Tuuli Paju|Hypercharge|HyperchargeMultiplier=40%|AttackHyperchargeCharge=4.125% (while throwing the maces)<br>6.2% (while retrieving the maces)|SuperHyperchargeCharge=8%}}{{Quote|A passionate metalhead and a talented drummer, Lumi traded her drumsticks for morning stars when she got her job at Starr Park. She controls elements of ice and fire, which reflects her shy nature and her burning passion for music!}}{{Portrait}}
+Lumi is a {{Rarity|Mythic}} [[Brawler]] who has moderate health, a long range, and a variable damage output. She was the 90th Brawler added to the game. She attacks by throwing maces at her opponents and recalling them to fly back to her. For her Super, she creates three circular explosive areas with increasing size and damage. Enemies hit by the biggest explosive area have their movement temporarily stunned while still being able to attack. Her first Gadget, Hit the Lights, leaves a burning area on the ground around her maces, burning enemies if they touch it. Her second Gadget, Grim and Frostbitten, creates an area of ice that slows down enemies and makes maneuvering harder. Her first Star Power, 42% Burnt, makes her Super leave a burning area on the ground, burning enemies temporarily if they touch or stay on the area affected by the fire. Her second Star Power, Half-time, makes her attack temporarily slow enemies down when the maces fly back. Her Hypercharge, Drum Solo, adds one more explosive area on each side of the biggest explosion.
+
+==Attack: Good Morning... Star==
+{{Quote|Lumi throws one of her morning stars. She can throw both of her weapons, with her third attack recalling them, dealing damage to any enemies caught in their path!}}Lumi throws her morning star at a long range that pierces and damages enemies while flying forward, placing a mace on the floor where the attack stopped. Her attack doesn't reload like normal Brawlers; she only has 2 ammo slots that do not automatically reload. After using both ammo, Lumi will have only one ammo yellow ammo slot; using it makes her maces fly back to her, damaging and piercing through both enemies and terrain along the way. This also sets her ammo count back to 2. They deal more damage and fly faster when returning than when they fly forward. If [[Buster]]'s Super deflects Lumi's mace, the damage will be blocked, but the mace will still be placed on the floor. The maces do not have a length limit to be recalled; Lumi can make them come from one side of the arena to another, though it would take more time for the maces to return. While maces cannot go through walls while they are thrown, they can go through walls when being recalled. In [[Brawl Ball]], Lumi can shoot the ball without consuming ammo. If Lumi attacks and has less than 1 ammo slot remaining, but there are not 2 maces on the floor due to her ammo being stolen, her ammo will be restored to 1 slot once the mace is placed. When both maces are on the floor, her ammo will immediately be reloaded to full if stolen. 
+
+==Super: Blast Beat==
+{{Quote|Lumi pounds the ground three times, causing explosions that deal area damage. The third explosion briefly snares enemies, making them unable to move but still able to attack.}}Lumi creates 3 circular explosions in a straight line in front of her in quick succession, staggered at 0.3-second intervals. Each of them deal damage based on the size of the explosion; the first explosion is the smallest and deals the least damage, while the third one is the biggest and deals the most damage. These explosions can go through walls, but not destroy them, and can affect multiple enemies. In order, the explosions are 1.8, 2.67, and 3.67 tiles wide. The spawn locations of the explosions shift with Lumi as she moves, and their travel time is essentially instant. If the second and third explosions are aimed so that they would go off the edge of the map, they will be offset away from the edge up to a limit, or if past this limit, not spawn entirely.
+
+Additionally, enemies hit by the third explosion will become rooted, indicated by a vibrating yellow ring around the target. The third explosion's area effect is active for 0.7 seconds. Enemies caught in the radius and those who walk into it while it is still active are rooted for 1 second on hit, and the duration can be extended up to 1.7 seconds if the enemy remains standing in the area. Rooted enemies will be unable to move normally, but can still attack. An enemy's dash or charge can be interrupted by a root, but enemies can still use their dashes or charges while rooted.
+
+==Gadgets==
+===Hit the Lights===
+{{Quote|Lumi iginites her morning stars on the ground, producing flames which damage nearby enemies for 3.9 seconds. Damage per second: 360. Cooldown: 14 seconds.}}{{Gadget|1}}When activated, Lumi's maces each leave a burning area on the ground that lasts for 3.9 seconds. The damage per second is 30% of Lumi's attack damage when thrown. This area has a radius of 2 tiles, and the damage can hit 4 times if the enemy remains standing on the area. However, if the maces are placed on top of each other, the damage won't stack. This Gadget can still be used if Lumi has maces that are not on the ground; this will cause Lumi to create a flame area around herself. The Gadget can also be used while throwing or recalling maces, which will cause the area effect to spawn at the mace's location at the time of the Gadget's activation.
+
+===Grim and Frostbitten===
+{{Quote|Lumi creates freezing winds around her morning stars on the ground, creating a slippery surface for 3 secs. Cooldown: 23 seconds.}}{{Gadget|2}}When activated, Lumi's maces each create a small icy, slippery area on the ground, similar to [[Lou]]'s Super (although it will not fill an allied Lou's Freeze meter). This area has a radius of 2 tiles. Any enemy who changes direction while moving on it will have difficulty maneuvering or escaping. This doesn't affect Lumi or allies. This Gadget can still be used if Lumi has maces that are not on the ground; this will cause Lumi to create an ice area around herself. The Gadget can also be used while throwing or recalling maces, which will cause the area effect to spawn at the mace's location at the time of the Gadget's activation. 
+
+==Star Powers==
+===42% Burnt===
+{{Quote|The explosions from Lumi's Blast Beat also set the area on fire for 4 seconds. Fire damage also scales with explosion damage. Damage per second for the biggest explosion: 560.}}{{StarPower|1}}Lumi's Super leaves a burning area on the ground that lasts for 4 seconds on each explosion. Each fire deals 20% of an explosion's damage per tick, and it can hit 4 times if the enemy remains standing on the area.
+
+===Half-time===
+{{Quote|Lumi slows enemies hit by her recalled morning stars for 1 seconds.}}{{StarPower|2}}When Lumi's maces hit enemies when being recalled, enemies that have been hit will be slowed down by 30% for 1 second.
+
+==Hypercharge: Drum Solo==
+{{Quote|The final explosion from Lumi's Super has an extra blast on both sides.}}{{Hypercharge}}
+When activated, Lumi's Super gains one more explosion on each side of the biggest explosive area that similarly makes the enemies not move for 1 second on hit. If you use a Super and activate a Hypercharge right after using Super, the side explosions will appear too. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+== Tips ==
+*When throwing the maces, try to keep enemies at the tip of your range to make it easier to hit them with the recalled maces. This is especially important when throwing the second one, as if done right, Lumi can instantly recall the second mace after it hits for an additional burst of damage.
+*Against close range assassins such as [[Edgar]], [[Fang]], [[Sam]], [[Mico]], [[Kenji]], [[Shade]], [[Mortis]], [[Lily]], [[Alli]], and [[Buzz]], do not throw the maces far, as this will result in Lumi losing valuable damage due to the maces long travel time. Instead, in a similar manner to [[Carl]] and [[Charlie]], shoot the maces against a nearby wall to increase the amount you can throw.
+*When Lumi recalls the maces, they can go through walls and obstacles. This can be crucial when opponents only need one more hit to be defeated but are hiding behind a wall. She can take advantage of this by throwing her maces and moving towards the enemy behind the wall before they return. allowing them to get an indirect hit.
+*The fire from her Hit the Lights Gadget is very effective at restricting where an enemy is willing to go, often cutting off their escape route.
+*Her Grim and Frostbitten Gadget can cover zones in [[Hot Zone]]. She can use it to her and team's advantage as enemies can't enter the hot zones without slowing down and being quickly defeated with ease from Lumi and her teammates.
+*The Grim and Frostbitten Gadget can also be used to counter some assassins. If playing against Brawlers with a jumping Super and close range like Edgar, [[Kit]], [[Bonnie]], and [[El Primo]], make sure you haven’t thrown your maces, wait for them to jump, walk towards the jump while they are in the air, while using the Gadget so it leaves the slippery frost area behind, preventing them from moving, making it easier for you to kill them.
+
+==Voice Lines==
+{{TranslationToggle|Finnish}}
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Lumi start vo 01.ogg|Filedescription ="Let's leave the cat on the table."}}
+|{{Ogg|Filename = Lumi lead vo 01.ogg|Filedescription ="Drumroll, please! Ba dum tsh."}}
+|{{Ogg|Filename = Lumi hurt vo 01.ogg|Filedescription ="Even the smallest cow has horn."}}
+|{{Ogg|Filename = Lumi kill vo 01.ogg|Filedescription ="And so the forest answers as you scream."}}
+|{{Ogg|Filename = Lumi die vo 01.ogg|Filedescription ="I'm throwing my spoon in the corner."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 01.ogg|Filedescription ="Ooooo!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 02.ogg|Filedescription ="Serving blast beats and broken teeth!"}}
+|{{Ogg|Filename = Lumi lead vo 02.ogg|Filedescription ="I won! Yay! Can I go home now?"}}
+|{{Ogg|Filename = Lumi hurt vo 02.ogg|Filedescription ="Pain doesn't kill, but it makes you weak."}}
+|{{Ogg|Filename = Lumi kill vo 02.ogg|Filedescription ="You miss a beat, you pay the price."}}
+|{{Ogg|Filename = Lumi die vo 02.ogg|Filedescription ="Burnt my butt and sat on the blisters."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 02.ogg|Filedescription ="Drums of doom go boom boom boom!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 03.ogg|Filedescription ="1, 2, 1, 2, 3, 4!"}}
+|{{Ogg|Filename = Lumi lead vo 03.ogg|Filedescription ="This was a victory like wearing victory pants."}}
+|{{Ogg|Filename = Lumi hurt vo 03.ogg|Filedescription ="Pain makes you grow, and suffering refines you."}}
+|{{Ogg|Filename = Lumi kill vo 03.ogg|Filedescription ="Guess you can't handle my tempo."}}
+|{{Ogg|Filename = Lumi die vo 03.ogg|Filedescription ={{Translate|"Ei auta itku markkinoilla."|"No use on crying at the market."}}}}
+|
+|{{Ogg|Filename = Lumi ulti vo 03.ogg|Filedescription ="Ooooh!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 04.ogg|Filedescription ="Let's kick things up a notch!"}}
+|{{Ogg|Filename = Lumi lead vo 04.ogg|Filedescription ="Didn't miss a beat!"}}
+|{{Ogg|Filename = Lumi hurt vo 04.ogg|Filedescription ="Life is not just dancing on roses."}}
+|{{Ogg|Filename = Lumi kill vo 04.ogg|Filedescription ="I wish you all the stamina."}}
+|{{Ogg|Filename = Lumi die vo 04.ogg|Filedescription ={{Translate|"Ei hätä ole tämän näköinen."|"The emergency is not as it looks."}}}}
+|
+|{{Ogg|Filename = Lumi ulti vo 04.ogg|Filedescription ="Blast beat!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 05.ogg|Filedescription ="This is deeply uncomfortable."}}
+|{{Ogg|Filename = Lumi lead vo 05.ogg|Filedescription ="I ran to the finish like a moose in a swamp."}}
+|{{Ogg|Filename = Lumi hurt vo 05.ogg|Filedescription ="Pain is weakness leaving the body."}}
+|{{Ogg|Filename = Lumi kill vo 05.ogg|Filedescription ="You just got drumrolled!"}}
+|{{Ogg|Filename = Lumi die vo 05.ogg|Filedescription ="I'm feeling a little offbeat."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 05.ogg|Filedescription ="Drums of destruction!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 06.ogg|Filedescription ="Are we done yet?"}}
+|{{Ogg|Filename = Lumi lead vo 06.ogg|Filedescription ={{Translate|"Voitto kotiin!"|"Bring victory to home!"}}}}
+|{{Ogg|Filename = Lumi hurt vo 06.ogg|Filedescription ="Metal drummers don't tap out."}}
+|{{Ogg|Filename = Lumi kill vo 06.ogg|Filedescription ="Joy and sorrow work hand in hand."}}
+|{{Ogg|Filename = Lumi die vo 06.ogg|Filedescription ="Metal breakdown."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 06.ogg|Filedescription ="Time for some Brawler breaking beats!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 07.ogg|Filedescription ="Mosh pit ruless!"}}
+|
+|{{Ogg|Filename = Lumi hurt vo 07.ogg|Filedescription ="Paradiddle of pain."}}
+|{{Ogg|Filename = Lumi kill vo 07.ogg|Filedescription ="I rock it, you just roll it."}}
+|{{Ogg|Filename = Lumi die vo 07.ogg|Filedescription ="Crashing like a cymbal."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 07.ogg|Filedescription ="Breaking the sound barrier!"}}
+|-
+|{{Ogg|Filename = Lumi start vo 08.ogg|Filedescription ={{Translate|"Let's kick some pylly!"|"Let's kick some butt!"}}}}
+|
+|{{Ogg|Filename = Lumi hurt vo 08.ogg|Filedescription ="I haven't got time for this."}}
+|{{Ogg|Filename = Lumi kill vo 08.ogg|Filedescription ="There's still space behind the sauna."}}
+|{{Ogg|Filename = Lumi die vo 08.ogg|Filedescription ="Guess I missed a beat?"}}
+|
+|{{Ogg|Filename = Lumi ulti vo 08.ogg|Filedescription ={{Translate|"Heittää löylyä kuin sauna majuri?"|"Throwing fire like a sauna major?"}}}}
+|-
+|{{Ogg|Filename = Lumi start vo 09.ogg|Filedescription ="Going in at 200 beats per minute."}}
+|
+|{{Ogg|Filename = Lumi hurt vo 09.ogg|Filedescription ="Ah!"}}
+|{{Ogg|Filename = Lumi kill vo 09.ogg|Filedescription ="I double kicked you to oblivion!"}}
+|{{Ogg|Filename = Lumi die vo 09.ogg|Filedescription ="I won't be getting up from this."}}
+|
+|{{Ogg|Filename = Lumi ulti vo 09.ogg|Filedescription ={{Translate|"Soittaa kuin hullu myrskyn keskellä!"|"Calling like a madman in the middle of a storm!"}}}}
+|-
+|{{Ogg|Filename = Lumi start vo 10.ogg|Filedescription ={{Translate|"Nyt mennään 200 BPM."|"Going in at 200 beats per minute."}}}}
+|
+|
+|{{Ogg|Filename = Lumi kill vo 10.ogg|Filedescription ="The deceased do not complain!"}}
+|{{Ogg|Filename = Lumi die vo 10.ogg|Filedescription ="The drums of doom are calling."}}
+|
+|
+|-
+|{{Ogg|Filename = Lumi start vo 11.ogg|Filedescription ="Let's jump into cold water!"}}
+|
+|
+|
+|{{Ogg|Filename = Lumi die vo 11.ogg|Filedescription =Lumi screams}}
+|
+|
+|-
+|{{Ogg|Filename = Lumi start vo 12.ogg|Filedescription ={{Translate|"Tulta munille!"|"Fire for the eggs!"}}}}
+|
+|
+|
+|{{Ogg|Filename = Lumi die vo 12.ogg|Filedescription ={{Translate|"Ojasta allikkoon."|"From the trench to the bottom."}}}}
+|
+|
+|-
+|{{Ogg|Filename = Lumi start vo 13.ogg|Filedescription ="Just get out of my way!"}}
+|
+|
+|
+|{{Ogg|Filename = Lumi die vo 13.ogg|Filedescription ={{Translate|"Aikansa kutakin, sanoi pässi kun päätä leikattiin."|"'Each stint takes its time', said the ram when its head was cut."}}}}
+|
+|
+|-
+|{{Ogg|Filename = Lumi start vo 14.ogg|Filedescription ="I get my kicks from my sticks!"}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = Lumi start vo 15.ogg|Filedescription ={{Translate|"Antaa tulla lunta tupaan ja jäitä porstuaan!"|"Let the snow come in and let the ice melt!"}}}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*27/03/25:
+**{{Balance|Content=Lumi could be unlocked early as a bundle for $19.99.|Change=Neutral}}
+**{{Balance|Content=Lumi became available to play in the [[Training Cave]].|Change=Neutral}}
+**{{Balance|Content=The Dark Knight Lumi skin was added. It was featured as a Misc skin.|Change=Neutral}}
+*03/04/25:
+**{{Balance|Content=Lumi became available in the Starr Road.|Change=Neutral}}
+*23/04/25:
+**{{Balance|Content=Lumi's True Silver and True Gold skins were added.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Lumi's health was decreased to 2800 (from 3000).|Change=Nerf}}
+**{{Balance|Content=Lumi's Grim and Frostbitten Gadget cooldown was increased to 22 seconds (from 18).|Change=Nerf}}
+**{{Balance|Content=Lumi's next attack no longer stuck because of the Quickfire [[Modifier]].|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Lumi's Half-time Star Power slow duration was decreased to 1 second (from 2).|Change=Nerf}}
+**{{Balance|Content=Lumi's level up health was decreased to 300 (from 450) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Lumi's level up damage was decreased to 2% (from 6%) in Brawl Arena.|Change=Nerf}}
+**{{Balance|Content=Lumi's level up movement speed boost was decreased to 5 (from 8) in Brawl Arena.|Change=Nerf}}
+*24/06/25:
+**{{Balance|Content=Lumi's health was decreased to 2600 (from 2800).|Change=Nerf}}
+**{{Balance|Content=Lumi's main attack range was decreased to 8 tiles (from 8.67).|Change=Nerf}}
+*03/07/25:
+**{{Balance|Content=The Persephone Lumi skin was added. It was featured as a Legends of Olympus skin and a Legends of Hades skin.|Change=Neutral}}
+**{{Balance|Content=Lumi's Drum Solo Hypercharge was added.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Change=Nerf|Content=Lumi’s Grim and Frostbitten Gadget cooldown was increased to 23 seconds (from 22).}}
+**{{Balance|Change=Nerf|Content=Lumi’s Grim and Frostbitten Gadget no longer deals damage over time.}}
+*28/10/25:
+**{{Balance|Content=Lumi's main attack projectile speed while throwing the maces was decreased to 3000 (from 3400).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Lumi's Drum Solo Hypercharge speed boost from 26%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Lumi's Drum Solo Hypercharge damage boost from 25%.|Change=Nerf}}
+*06/11/25:
+**{{Balance|Content=The Eleven, Retro Eleven, and Thrilled Eleven Lumi skins were added. They were featured as Brawl Pass Season 44 exclusive skins and Stranger Things skins.|Change=Neutral}}
+*12/11/25:
+**{{Balance|Content=Lumi's level up health was increased to 400 (from 300) in Brawl Arena.|Change=Buff}}
+*16/12/25:
+**{{Balance|Buff|Lumi's health was increased to 2900 (from 2600).}}
+*23/01/26:
+**{{Balance|Content=Lumi's main attack projectile speed while throwing the maces was increased to 3200 (from 3000).|Change=Buff}}
+*25/02/26:
+**{{Balance|Buff|Lumi's health was increased to 3100 (from 2900).}}
+*22/04/26:
+**{{Balance|Buff|Lumi's health was increased to 3500 (from 3100).}}
+**{{Balance|Buff|Lumi's main attack projectile speed while throwing the maces was increased to 3500 (from 3200).}}
+*30/06/26:
+**{{Balance|Change=Nerf|Content=Lumi’s Grim and Frostbitten Gadget duration was decreased to 3 seconds (from 3.9).}}
+**{{Balance|Change=Nerf|Content=Lumi’s Grim and Frostbitten Gadget radius was decreased to 2 tiles (from 2.33).}}
+*01/09/26:
+**{{Balance|Content=Lumi's main attack damage while retrieving the maces was decreased to 800 (from 900).|Change=Nerf}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Lumi's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Neutral|Fixed parts of Lumi's main attack projectiles not showing.}}
+
+==Cosmetics==
+===Skins (7)===
+{{Skin Gallery
+|Name1=Dark Knight|Cost1=Free from the early bundle, free after reaching 750 Trophies or 29 Gems|Campaign1=Knights!|Rarity1=Rare
+|Name2=Persephone|Cost2=Free from Damian Boxes or 79 Gems|Campaign2=Legends of Olympus|Campaign2_2=Legends of Hades|Rarity2=Super Rare
+|TrueSkins=yes
+|NameP1=Eleven|CostP1=Brawl Pass Exclusive|CampaignP1=Brawl Pass|CampaignP1_2=Stranger Things|RarityP1=Epic
+|NameP2=Retro Eleven|CostP2=Brawl Pass Plus Exclusive|CampaignP2=Brawl Pass|CampaignP2_2=Stranger Things|RarityP2=Epic
+|NameP3=Thrilled Eleven|CostP3=Brawl Pass Plus Exclusive|CampaignP3=Brawl Pass|CampaignP3_2=Stranger Things|RarityP3=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Lumi
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Persephone}}
+{{Pin Table|Eleven|Special}}
+{{Pin Table|Retro Eleven|Special}}
+{{Pin Table|Thrilled Eleven|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Lumi|Rarity = Common}}
+|{{Spray|Type = Lumi Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Lumi1}}
+|{{Pfp|Lumi2}}
+|{{Pfp|Lumi3}}
+|{{Pfp|Lumi4}}
+|{{Pfp|Eleven Lumi}}
+|}
+{{Navigation}}
+[[ru:Луми]]
+[[es:Lumi]]

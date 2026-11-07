@@ -1,0 +1,381 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Toxic|PrestigeTitle = Spore Warden|Rarity = Legendary|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>941 (with Super)|HealthLabel = Health|Health = 3500|AttackRange = 5.33 (Normal)|Reload = 1.2 seconds (Very Fast)<br>0.96 seconds (with Super)|AttackSuperCharge = 18%<br>21.6% (with Comboshrooms)|AttackLabel = Damage per mushroom|Attack = 800|AttackSpeed = 3800|AttackWidth=0.67<br>1.33 (with Poison Mushroom)|AttackBullets=2<br>1 (with Poison Mushroom)|SuperRange = 9 (Long)|SuperSuperCharge =1.8% (with Mushroom Kingdom) |SuperLabel = |Super =|SuperSpread=|SuperSpeed=3800|SuperWidth=1.33|VoiceActor=Nicholas Contreras|SuperDuration=8 seconds|Gadget1Name=Replanting|Gadget1Cooldown=18 seconds|Gadget2Name=Poison Mushroom|Gadget2Cooldown=18 seconds|StarPower2Name = Mushroom Kingdom|StarPower2=1296|StarPower22=1269|StarPower2Label=Damage per mushroom|StarPower2Label2=Heal per mushroom|Previous=Chester|Next=Kit|HyperchargeMultiplier=25%|AttackHyperchargeCharge=4.5%<br>5.4% (with Comboshrooms)|SuperHyperchargeCharge=0.45% (with Mushroom Kingdom)|Gadget1Range=3}}{{Quote|Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.}}{{Portrait}}
+Cordelius is a {{Rarity|Legendary}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 19: Enchanted Woods. He has moderate health, a high burst damage output, and a very fast movement and reload speed. His Trait allows Cordelius to passively charge his Super if an enemy Brawler is within a radius of him. He was the 69th Brawler added to the game. He attacks by firing two medium-ranged mushrooms from his gardening tool. For his Super, he shoots a large, long-ranged mushroom that allows him and his enemy Brawler to transport them to the Shadow Realm, temporarily increasing his movement speed and decreasing his attack's reload time. Cordelius and enemies affected by his Super can't use or charge their Super, Gadgets, or Hypercharge. His first Gadget, Replanting, makes Cordelius jump forward. His second Gadget, Poison Mushroom, allows his next attack to fire one mushroom that deals damage on hit. Enemies affected by Cordelius' Gadget can't attack or use their Super, Gadget, or Hypercharge. His first Star Power, Comboshrooms, increases his second attack projectile's damage on a target. His second Star Power, Mushroom Kingdom, spawns mushrooms in the Shadow Realm that heal Cordelius and his allies or damage enemies over time. His Hypercharge, Complete Darkness, slows enemies down in the Shadow Realm.
+
+==Trait==
+{{Quote|This Brawler charges Super from staying close to opposing enemies.}}{{Trait|Radius}}Cordelius' Trait is a 6-tile circle around him. Similar to [[Buzz]], all enemy Brawlers within this circle charge Cordelius' Super. He charges his Super and Hypercharge faster if there are multiple enemies inside the radius, and the amount of Super charge per second is 3.375% multiplied by one more than the number of enemies present within the circle. This results in the Super charging by 6.75% per second each or over 15 seconds for one enemy, and his Hypercharge by 1.6875% per second each or over 60 seconds for one enemy. His Super and Hypercharge still charge even with invisible or bush-camping enemies, but they do not charge when inside the Shadow Realm. Ally Cordeliuses will have their Trait radius shown, while enemy Cordeliuses will have their Trait radius hidden.
+
+==Attack: Mushrooms==
+{{Quote|Cordelius shoots two mushrooms with his gardening tool, damaging enemies on hit.}}
+Cordelius fires two medium-ranged mushrooms linearly in quick succession with his gardening tool, which deal a high total damage upon hitting an enemy. This attack has an extremely fast cooldown, taking 0.3 seconds to complete.
+
+==Super: This Is My Domain==
+{{Quote|Cordelius shoots a Shadow Mushroom that passes through walls and on hit transfers the target and him to the Shadow Realm for 8 seconds. Cordelius has 10% higher movement speed and 20% faster reload speed in the Shadow Realm.}}
+Cordelius shoots out a large mushroom that has a long range and can pass through walls and, upon hitting an enemy Brawler, it transports both of them to the Shadow Realm for 8 seconds, where they are isolated from other players. The Super ignores pets and spawnables, and the projectile will simply pass through them. The Shadow Realm's environment will glow a purple tone, while Cordelius and his enemy will glow a pinkish-purple tone. Bushes will not hide Brawlers in the Shadow Realm, and launch pads, teleporters, and healing pads are not usable in the Shadow Realm. Obstacles destroyed in the normal map will also be destroyed in real time in the Shadow Realm. Both Brawlers' allies can see where their teammate's equivalent location is in the normal environment, but not the enemy's. In the Shadow Realm, a countdown will appear on screen, Cordelius' movement speed is increased by 10%, and his reload speed is increased by 20%. Both Cordelius and the enemy Brawler can use their main attacks, but neither of them can use their Supers, Gadgets, or Hypercharges. Cordelius cannot charge his Super by any means in his Shadow Realm even though his Trait radius is visible. His opponent also cannot charge their Super. After 8 seconds, or if either Cordelius or his enemy are defeated, they will no longer be in the Shadow Realm, and the countdown will stop. Cordelius will receive the movement and reload speed boosts even if transported to the Shadow Realm by an enemy Cordelius or [[Lily]].
+
+==Gadgets==
+===Replanting===
+{{Quote|Cordelius jumps over a piece of terrain quickly. Cooldown: 18 seconds.}}{{Gadget|1}}
+Cordelius jumps forward 3 tiles in the direction he's facing, similar to [[Brock]]'s Rocket Laces Gadget, allowing him to jump over walls or water. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Cordelius is completely immune to all damage besides status effects and damage applied over time. This Gadget cannot be used in the Shadow Realm.
+
+===Poison Mushroom===
+{{Quote|Cordelius' next main attack shoots a poison mushroom that prevents the enemy from attacking for 1 seconds. Cooldown: 18 seconds.}}{{Gadget|2}}
+[[File:OtisSuperIcon.png|left|40x40px|link=]]
+Upon activation, Cordelius' next attack only shoots one mushroom, but prevents affected enemies from using any attacks, Supers, Gadgets, or Hypercharges, similar to [[Otis]]' Super, for 1 second, dealing damage equal to one of Cordelius's mushrooms upon impact. This Gadget doesn't affect passive effects like the [[Gears|Speed Gear]]'s speed boost or [[Bo]]'s Circling Eagle Star Power. This Gadget works on spawnables like [[Nita]]'s bear, [[Penny]]'s cannon, [[Mr. P]]'s base, or [[Jessie]]'s turret; however, it won't affect passive turrets like [[8-Bit]]'s and [[Pam]]'s. For the whole duration, a red, crossed-out symbol will show above the head of the affected target, signifying that this effect is active, and if it hits an enemy Brawler, the affected Brawler's screen will turn a bit dark. Enemies can't shoot the ball if they are hit by his Gadget. This Gadget cannot be activated in the Shadow Realm, but it can be activated beforehand and used in the Shadow Realm. A Gadget symbol will glow above Cordelius' head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Comboshrooms===
+{{Quote|Hitting the second mushroom to the same target as the first, deals 20% extra damage.}}{{StarPower|1}}
+This Star Power increases the second attack projectile's damage by 20% if both projectiles hit the same target. However, this doesn't take effect if one of the mushrooms hits a different target. In addition, both of the projectiles' Super charge rate is increased by 20% regardless of whether both projectiles hit the same target.
+
+===Mushroom Kingdom===
+{{Quote|Cordelius spawns 3 mushrooms to the Shadow Realm after using his Super, healing allies and damaging enemies for 1440 health on pickup.}}{{StarPower|2}}
+Three mushrooms will spawn in random places in Cordelius' Shadow Realm. If enemies pick them up, it will damage them for 480 damage every second for 3 ticks for a total of 1440 damage. But if Cordelius or his allies picks them up, they will heal them for a slightly less amount, at 470 health every second for three ticks for a total of 1410 healing (despite the description). If an opposing Cordelius has this Star Power equipped, but an allied Cordelius doesn't, the mushroom will damage him instead, and vice versa. The healing/damage doesn't scale with [[Showdown|Power Cubes]] or outside buffs.
+
+==Hypercharge: Complete Darkness==
+{{Quote|Cordelius slows down his targets when sending them to the Shadow Realm.}}{{Hypercharge}}
+When activated, Cordelius' Super slows enemies down in the Shadow Realm. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Tips==
+*While Cordelius' Super is a powerful offensive tool, entering the Shadow Realm also leaves him unaware of his surroundings. Thus, if you find yourself on low health in the Shadow Realm, try to go to a more secluded place to retreat so that enemy Brawlers can't ambush you when your Super ends.
+*Thanks to his enhanced speed in the Shadow Realm, Cordelius can use his Super to "teleport" to other ends of the map unseen by enemy Brawlers, making him useful for getting to objective zones such as the [[Heist]] Safe or [[Hot Zone]].
+*If you can consistently charge your Super, Cordelius is a great pick in [[Gem Grab]]. He can send a random enemy to the shadow realm and ambush the enemy gem carrier by predicting their location. Keep in mind that this leaves your team vulnerable to the enemy.
+**Note that this strategy isn't necessarily exclusive to Gem Grab.
+*In a pinch, Cordelius' Super coupled with his Mushroom Kingdom Star Power can be used as a last-minute resort to heal, allowing him to slip past enemy Brawlers undetected while grabbing mushrooms to heal.
+*Thanks to his Trait and Super, Cordelius is well suited to guard places where enemy standoffs tend to occur, where he can camp behind a wall and charge his Super before using it and chasing the enemy Brawler away.
+*While Cordelius' Super prevents enemies from using Gadgets or their Supers, do note that Brawlers with Gadgets that modify their attacks retain the effects when transported to the Shadow Realm, making them more of a hassle to deal with.
+**However, although his Poison Mushroom Gadget cannot be activated in the Shadow Realm, if Cordelius activates the Gadget before entering the Shadow Realm, his next attack will still preserve the Gadget's effect even in the Shadow Realm.
+*Cordelius' Super can be used as an emergency escape if he is low on health, and his enhanced speed helps him outpace the enemy he sent to the Shadow Realm and heal before his Super ends. This can be more effective with his Mushroom Kingdom Star Power.
+*Cordelius can remove an enemy instantly, which is useful in [[Brawl Ball]]. For example, you can use the Super at the goalkeeper while kicking the ball into the goal.
+**Be careful however, as you won't be able to defend your goal either.
+*Multiple Brawlers can be in the Shadow Realm at the same time. This can be helpful when a teammate is transported by an opposing Cordelius.
+**Keep in mind that if one of the two Brawlers that entered the Shadow Realm together is defeated by a third party, the other one will still remain there until defeated or until their time is out.
+**Furthermore, it's advised for one not to send another Cordelius to the Shadow Realm as all Cordeliuses present will receive buffs no matter whose Super they were affected by, essentially negating any advantage you'd have.
+*Thanks to his unique kit and strengths, Cordelius functions best as a counter to other assassins and tanks, being weak to long-ranged and more agile Brawlers in return. As such, in modes such as [[Ranked]], be sure to pick Cordelius only as a counter to the enemy team's Brawlers and not as a leading offensive Brawler, seeing as he struggles to lead charges with his middling range and fairly low HP.
+*Be very cautious if going up against [[Jacky]], since Cordelius' short range, coupled with how squishy he is, makes fighting her incredibly dangerous. This is especially the case if Jacky is using her Counter Crush Star Power (Which she will have most of the time over Hardy Hard Hat), which coupled with having enough range from her main attack allows her to defeat Cordelius with little to no issue if he gets in her range.
+
+
+==Voice Lines==
+{| class="article-table"
+|+
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 01.ogg|Filedescription ="Who's a fungi? Me!" *laughs*}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 01.ogg|Filedescription ="Ah, you're in for walloping."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 01.ogg|Filedescription ="I'm winning? I thought I was hallucinating."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 01.ogg|Filedescription ="That's how the cookie crumbles!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 01.ogg|Filedescription ="Put a cap on it."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 01.ogg|Filedescription ="Hey!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 01.ogg|Filedescription =*laughs* "You're not mold enough!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 01.ogg|Filedescription ="Kapow, that's a real knuckle buster."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 01.ogg|Filedescription ="Fungi fiend!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 01.ogg|Filedescription ="That knocked the fungus out of me!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 01.ogg|Filedescription ="Spores of destruction, spread your love!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 01.ogg|Filedescription ="Boom shroom!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 02.ogg|Filedescription =*laughs* "Time for the shroom and doom show!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 02.ogg|Filedescription ="Hold on to your hats, folks."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 02.ogg|Filedescription ="Wow, look at all those colors!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 02.ogg|Filedescription ="Knocked them out of the park."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 02.ogg|Filedescription ="No, don't touch my shrooms!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 02.ogg|Filedescription =Cordelius grunts}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 02.ogg|Filedescription ="You are going on the compost pile."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 02.ogg|Filedescription ="Man, right in the kisser."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 02.ogg|Filedescription ="Spore you later, alligator."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 02.ogg|Filedescription ="Well, that's a fun how-do-you-do."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 02.ogg|Filedescription ="Fungi fury!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 02.ogg|Filedescription ="Doom shroom goes boom."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 03.ogg|Filedescription ="Prepare to be fungified!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 03.ogg|Filedescription ="Let's spore things up, fellas."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 03.ogg|Filedescription ="Just leave me alone!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 03.ogg|Filedescription ="That's the old razzle dazzle."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 03.ogg|Filedescription ="Mind the plants."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 03.ogg|Filedescription ="Ouch! That really spores the fun."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 03.ogg|Filedescription =*laughs* "You're more bark than bite."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 03.ogg|Filedescription ="Tickle my toadstool."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 03.ogg|Filedescription ="Time to turn over a new leaf."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 03.ogg|Filedescription ="Pushing up the daffodils."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 03.ogg|Filedescription ="Doom shroom!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 03.ogg|Filedescription ="Mushroom!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 04.ogg|Filedescription ="Time for truffle."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 04.ogg|Filedescription ="You're in for a shroomy surprise."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 04.ogg|Filedescription ="Doing it for the shrooms."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 04.ogg|Filedescription ="Cap-tastic!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 04.ogg|Filedescription ="Mushroom!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 04.ogg|Filedescription ="That hit me right in the cups!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 04.ogg|Filedescription ="Friends!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 04.ogg|Filedescription =Cordelius laughs}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 04.ogg|Filedescription ="Ah, my shroom!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 04.ogg|Filedescription ="I got a kick in the plants."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 04.ogg|Filedescription ="Weee, mushroom!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 04.ogg|Filedescription ="Spore-tacular!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 05.ogg|Filedescription ="Mushy mushy mushrooms."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 05.ogg|Filedescription =Cordelius laughs}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 05.ogg|Filedescription ="You reap what you sow."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 05.ogg|Filedescription =Cordelius sings}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 05.ogg|Filedescription ="You prickly person."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 05.ogg|Filedescription ="Uhm, I'm feeling a bit fungi."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 05.ogg|Filedescription ="Mushroom power!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 05.ogg|Filedescription =Cordelius laughs}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 05.ogg|Filedescription ="Going back to my roots."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 05.ogg|Filedescription ="Oh boy, oh boy!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 05.ogg|Filedescription ="Fly my shroomies!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 05.ogg|Filedescription ="Hehe he hee!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = cordelius start vo 06.ogg|Filedescription =*blabbers* "Mush!" *blabbers* "Mush!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 06.ogg|Filedescription ="This fight's gonna be spore-tacular."}}
+|'''Paper:'''
+{{Ogg|Filename = Toon cordelius lead vo 06.ogg|Filedescription =Cordelius laughs}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 06.ogg|Filedescription ="Thorn in my side, I better go hide."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 06.ogg|Filedescription ="Great googly moogly!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 06.ogg|Filedescription ="Never trust a shroom in a raincoat."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 06.ogg|Filedescription =Cordelius laughs}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 06.ogg|Filedescription ="Pushing up the daisies."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 06.ogg|Filedescription ="That's all she wrote, folks!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 06.ogg|Filedescription =Cordelius laughs}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 06.ogg|Filedescription ="Ya hee!"}}
+|-
+|'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 07.ogg|Filedescription ="Prepare for fungal fisticuffs."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 07.ogg|Filedescription ="Too weird to live! Too wild to die!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 07.ogg|Filedescription ="Tree-mendous pain."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 07.ogg|Filedescription ="My funny bone's not laughing."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 07.ogg|Filedescription ="Oh, getting rid of the bad seeds."}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius kill vo 07.ogg|Filedescription ="Mo-ral of the story, I won!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 07.ogg|Filedescription =Cordelius cries}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 07.ogg|Filedescription ="Nooooo!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius ulti vo 07.ogg|Filedescription ="Shroomy shroomy mushroom!, *Laughs*"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius ulti vo 07.ogg|Filedescription ="Ha ha!"}}
+|-
+|'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 08.ogg|Filedescription ="Time to make mushroom soup, fellas!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 08.ogg|Filedescription ="Mushroom, mushroom, mushroom, mushroom, mushroom, mushroom!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 08.ogg|Filedescription =Cordelius blabbers}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 08.ogg|Filedescription ="Brrr."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 08.ogg|Filedescription ="Wooo!" *blabbers* "Shroom!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius die vo 08.ogg|Filedescription ="Nooooo!" *cries*}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius die vo 08.ogg|Filedescription ="Nooooo!"}}
+|
+|
+|-
+|'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 09.ogg|Filedescription ="Time to dish out some whammies."}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius lead vo 09.ogg|Filedescription ="A shroom, and a shroom, and a Mush, and a Mush, and and a... Weee!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 09.ogg|Filedescription =Cordelius blabbers}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 09.ogg|Filedescription ="Yikes!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 09.ogg|Filedescription =Cordelius laughs}}
+|
+|
+|
+|-
+|'''Paper:'''
+{{Ogg|Filename = Toon cordelius start vo 10.ogg|Filedescription ="Oh my God, this will be a hoot."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius hurt vo 10.ogg|Filedescription =*blabbers* "Blegh!"}}'''Paper:'''
+{{Ogg|Filename = Toon cordelius hurt vo 10.ogg|Filedescription ="Yowza!"}}
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 10.ogg|Filedescription =Cordelius sings}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = cordelius kill vo 11.ogg|Filedescription =Cordelius laughs}}
+|
+|
+|
+|}
+
+==History==
+*27/06/23: 
+**{{Balance|Content=Cordelius became available to play in the [[Training Cave]].|Neutral}}
+*03/07/23:
+**{{Balance|Content=Cordelius, his Poison Cap, and his Sporemind skins were added to the game.|Neutral}} 
+* 15/08/23:
+**{{Balance|Content=Cordelius can no longer use his Super in the Shadow Realm.|Nerf}}
+**{{Balance|Content=Cordelius can no longer activate his Poison Mushroom Gadget in the Shadow Realm.|Nerf}}
+**{{Balance|Content=Cordelius' Poison Mushroom Gadget duration was decreased to 1 second (from 1.5).|Nerf}}
+**{{Balance|Content=Cordelius and the enemy Brawler no longer charge their Supers in the Shadow Realm.|Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Neutral}}
+**{{Balance|Content=Fixed an issue with Sporemind Cordelius' head mushroom.|Neutral}}
+*14/09/23:
+**{{Balance|Content=The Raider Cordelius skin was added. It was featured as a Wasteland skin.|Neutral}}
+*24/10/23: 
+**{{Balance|Content=Fixed a visual effect issue happening with Cordelius' jumps.|Neutral}}
+*12/12/23:
+**{{Balance|Content=Cordelius' rarity was changed to Legendary (from Chromatic).|Neutral}}
+*27/02/24:
+**{{Balance|Content=Cordelius can no longer activate his Replanting Gadget in the Shadow Realm.|Nerf}}
+**{{Balance|Content=Cordelius' Complete Darkness Hypercharge was added.|Neutral}}
+**{{Balance|Content=Cordelius' True Silver and True Gold skins were added.|Neutral}}
+**{{Balance|Content=Cordelius was slightly remodeled.|Neutral}}
+*08/04/24:
+**{{Balance|Content=The Odin Cordelius skin was added. It was featured as a Northern Saga skin.|Neutral}}
+*23/04/24: 
+**{{Balance|Content=Cordelius' main attack damage was decreased to 700 (from 730) per mushroom.|Nerf}} 
+**{{Balance|Change=Nerf|Content=The number of hits necessary to charge Cordelius' Super was increased to 7 hits (from 6).}}
+**{{Balance|Content=Cordelius' Mushroom Kingdom Star Power damage/healing was decreased to 1260 (from 1314) per mushroom.|Nerf}}
+*25/06/24:
+**{{Balance|Content=Fixed an issue where Cordelius' Poison Mushroom Gadget silenced Brawlers that were still under spawn protection.|Neutral}}
+
+*29/10/24:
+**{{Balance|Content=Cordelius' Mushroom Kingdom Star Power damage now also charges his Super and Hypercharge.|Buff}}
+**{{Balance|Content=Cordelius' Mushroom Kingdom Star Power damage was increased to 1296 (from 1260) per mushroom.|Buff}}
+**{{Balance|Content=Cordelius' Mushroom Kingdom Star Power healing was increased to 1269 (from 1260) per mushroom.|Buff}}
+*31/10/24:
+**{{Balance|Content=Cordelius' Mushroom Kingdom Star Power damage Super and Hyper charge rate was decreased by 70%.|Nerf}}
+*06/12/24: 
+**{{Balance|Content=The Paper Cordelius skin was added. It was featured as a Cartoon Studios skin.|Neutral}}
+*25/02/25:
+**{{Balance|Content=Cordelius' Poison Mushroom Gadget silence duration was changed to 1 seconds in the description (from 1.0).|Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Change=Buff|Content=Cordelius' health was increased to 3400 (from 3200).}}
+*23/07/25:
+**{{Balance|Change=Buff|Content=Cordelius' main attack damage was increased to 800 (from 700) per mushroom.}}
+**{{Balance|Change=Buff|Content=The number of hits necessary to charge Cordelius' Super was decreased to 6 hits (from 7).}}
+*28/10/25:
+**{{Balance|Content=Cordelius' Comboshrooms Star Power bonus damage on the second mushroom was decreased to 20% (from 30%).|Nerf}}
+**{{Balance|Content=Cordelius' Comboshrooms Star Power Super charge bonus was decreased to 20% (from 30%).|Nerf}}
+**{{Balance|Content=Cordelius' level up damage was decreased to 3% (from 4%) in [[Brawl Arena]]. |Change=Nerf}}
+**{{Balance|Content=Cordelius' level up health was decreased to 400 (from 450) in Brawl Arena.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Cordelius' Complete Darkness Hypercharge speed boost from 24%.|Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Cordelius' Complete Darkness Hypercharge damage boost from 25%.|Nerf}}
+*12/11/25:
+**{{Balance|Content=Cordelius' reload speed bonus while in the Shadow Realm was decreased to 20% (from 30%).|Nerf}}
+**{{Balance|Content=Cordelius' movement speed bonus while in the Shadow Realm was decreased to 10% (from 20%).|Nerf}}
+*16/12/25:
+**{{Balance|Buff|Cordelius' health was increased to 3500 (from 3400).}}
+**{{Balance|Buff|Brawlers with the Tank Trait no longer passively charge their Super in the Shadow Realm.}}
+*05/03/26:
+**{{Balance|Neutral|The Sultan, Cooled Sultan, and Heated Sultan Cordelius skins were added. They were featured as Brawl Pass Season 48 skins and Dark Sands skins.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Cordelius' movement speed to 855 (from 820).}}
+
+==Cosmetics==
+===Skins (10)===
+{{Skin Gallery
+|Name1=Poison Cap|Cost1=Free from Strangest Packs, free after reaching 750 Trophies or 29 Gems|Campaign1=Enchanted Woods|Rarity1=Rare
+|Name2=Raider|Cost2=Free from Glowbert Boxes or 149 Gems|Campaign2=Wasteland|Rarity2=Epic
+|Name3=Odin|Cost3=149 Gems|Campaign3=Northern Saga|Rarity3=Epic
+|Name4=Paper|Cost4=Free from Nova Drops or 299 Gems|Campaign4=Cartoon Studios|Rarity4=Legendary
+|TrueSkins = Yes
+|NameP1=Sporemind|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2 = The Worst Bunch|RarityP1=Epic
+|NameP2=Sultan|CostP2=2 Skin Keys|CampaignP2=Brawl Pass|CampaignP2_2 = Dark Sands|RarityP2=Epic
+|NameP3=Heated Sultan|CostP4=Free after purchasing the Skin Set|CampaignP4=Brawl Pass|CampaignP4_2 = Dark Sands|RarityP4=Epic
+|NameP4=Cooled Sultan|CostP3=Free after purchasing the Skin Set|CampaignP3=Brawl Pass|CampaignP3_2 = Dark Sands|RarityP3=Epic
+}}
+
+=== Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Cordelius
+|-
+!Skin
+! colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Sporemind}}
+{{Pin Table|Raider|Special}}
+{{Pin Table|Odin|Special}}
+{{Pin Table|Paper}}
+{{Pin Table|Sultan|Thanks}}
+{{Pin Table|Heated Sultan|Thanks}}
+{{Pin Table|Cooled Sultan|Thanks}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Cordelius|Rarity = Common}}
+|{{Spray|Type = Cordelius Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Raider Cordelius|Rarity = Common}} 
+|{{Spray|Type = Paper Cordelius|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Cordelius1}}
+|{{Pfp|Cordelius2}}
+|{{Pfp|Cordelius3}}
+|{{Pfp|Raider Cordelius}}
+|{{Pfp|Odin Cordelius}}
+|-
+|{{Pfp|Paper Cordelius}}
+|{{Pfp|Sporemind Cordelius}}
+|{{Pfp|Sultan Cordelius}}
+|
+|
+|}
+{{Navigation}}
+
+[[ru:Корделиус]]

@@ -1,0 +1,858 @@
+{{CombosTab}}
+{{About|the Blox Fruit|its old version|Dragon (Classic)|the race|Draco}}
+{{Blox Fruit Infobox
+|name   = Dragon
+|tab1   = All
+|image1 = <gallery>
+Dragon Fruit.png|Fruit Icon
+Dragon.png|Icon
+</gallery>
+|tab2   = East
+|image2 = <gallery>
+Dragon (East) Fruit.png|Fruit Icon
+PhysicalDragonEast.gif|Fruit GIF
+Dragon (East).png|Icon
+</gallery>
+|tab3   = West
+|image3 = <gallery>
+Dragon (West) Fruit.png|Fruit Icon
+Dragonwest.gif|Fruit GIF
+Dragon (West).png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Yes
+|update = 13
+
+<!-- Fruit Price -->
+|money  = 15,000,000
+|robux  = 5,000
+}}
+{{Quote|Transforms the user into a mighty Dragon, allowing them to rule over the skies with scorching flames.|Shop}}
+'''Dragon''' is a {{Mythical}} [[Beast]]-type [[Blox Fruit]] that costs {{Money|15,000,000}} or {{Robux|5,000}} from the [[Blox Fruit Dealer]].
+
+Dragon grants the user dragon-like powers, allowing them to transform into a mythical Dragon. The user can transform into either an Eastern Dragon, resembling those from the East Asian culture, or the Western Dragon, resembling a medieval armored Dragon from European folklore. The user can also transform into a large, tall human-hybrid dragon that deals more massive fiery damage.
+
+Dragon has two versions: one being the '''Western Variant''' and the other being the '''Eastern Variant''', each with different moves mechanic, animations, and appearances while transformed. It also has a Hybrid Form for both versions when a player uses {{Ability|V}} after the Orange Fury Meter (First [[Power Meter|Fury Meter]]) is full and before the Red Fury Meter (Second [[Power Meter|Fury Meter]]) is full.
+
+__TOC__
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Draconic Dominance
+|meter    = DragonMeter.gif
+|desc     = The user starts with a small "[[Power Meter|Fury Meter]]" that must be full to transform into a Dragon hybrid. The Orange meter refills slowly over time when not transformed and drains with any move used. The second Fury Meter fills only by dealing damage and must be full to transform into full Dragon Form. While transformed, the Fury meter begins draining for a short time, indicated by flames above it, and taking damage starts draining it again. However, the Fury meter doesn't drain passively while transformed, allowing indefinite transformation as long as it is not emptied. When transformed, the Fury Meter will be fully restored upon killing a player. However, it will be drained 2x faster when hit in the head.
+}}
+
+{{Skill/Passive
+|name     = Draconic Blood
+|desc     = In Hybrid form, the user gains a 20% (34% against [[Enemies|NPCs]]) damage resistance to all attacks, causes a burning effect with M1 attacks, and has their moveset greatly enhanced.
+}}
+
+{{Skill/Passive
+|name     = Draconic Monarch's Scales
+|desc     = In Dragon form, the user gains a 60% damage resistance to all attacks and is able to [[Flight|fly]]. The user is immune to all stuns and is able to attack freely.
+}}
+
+{{Skill/Passive
+|name     = Strong Hair/Saddle
+|desc     = Can be unlocked after getting 500 mastery on Dragon and talking to the [[Dragon Tamer]] NPC and paying {{Fragment|5,000}}. When transformed, the user can be mounted by other allied players, with a maximum of 4 for Eastern Form and 5 for Western Form. (The purchase only applies to the currently equipped variant, and the user will have to make another purchase in the other variant to obtain the passive on both.)
+}}
+
+|Moveset (Normal)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_M1
+|desc     = The user scratches their opponent with fiery claws three times. Each scratch has differing directions and a short dash. This move is similar to the ones of [[Kitsune]] and [[T-Rex]]. This move does not drain the Fury Meter.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heatwave Cannon
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|break    = yes
+|instinct = The blast [[Instinct/Break|breaks Instinct]] but the direct beam is dodgeable.
+|gif      = Dragon_ZA
+|gif1     = Dragon_ZB
+|desc     = The user fires a beam of scorching hot energy, knocking enemies back. Using this move drains approximately 4% of the Fury Meter.
+|desc1    = Holding this move will increase the range and damage when the key is released. It can be held for around 5-6 seconds. While using this attack, the user floats, so they won't fall.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Pincer
+|mastery  = 150
+|cooldown = 10
+|energy   = 60
+|break    = yes
+|instinct = The initial grab is dodgeable, but breaks Instinct if grabbed.
+|gif      = Dragon_XB
+|gif1     = Dragon_XA
+|desc     = When held, the user prepares themselves to launch towards their opponent. As the key is released, the user will dash at their opponent and drag them before full on throwing them at their cursor. This move deals 2 ticks of burn afterwards. This move is similar to [[Eagle]]'s [C] move and [[Pain]]'s held [X] move. Using this move drains approximately 6% of the Fury Meter.
+|desc1    = If the cursor is aimed downward, the opponent will be smashed into the ground.
+}}
+
+{{Skill
+|key      = C
+|name     = Scorching Downfall
+|mastery  = 250
+|cooldown = 15
+|energy   = 100
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_C
+|desc     = The user leaps into the air and begins summoning fiery projectiles and shooting them at the ground. Upon impact, the projectiles explode, damaging enemies caught in the vicinity, knocking them back, and stunning them for a brief moment. Holding this move allows the user to shoot fireballs for around 2.5 seconds. After an individual enemy reaches a certain threshold of damage from fireballs, they will take greatly reduced damage from fireballs. This threshold is reached after about half of the total fireballs hit the enemy, meaning the user can miss some of their fireballs or end their skill early and still deal most of the damage. This move is similar to unawakened [[Light]]'s [X] move. Using this move drains approximately 9-19% of the Fury Meter, depending on how many fireballs land.
+}}
+
+{{Skill
+|key      = V
+|name     = Imperial Evolution
+|mastery  = 350
+|cooldown = 2
+|energy   = 10
+|break    = yes
+|instinct = Transforming into West: the explosion [[Instinct/Break|breaks Instinct]]. Transforming into East: the lightning bolts are dodgeable.
+|gif      = Dragon_VA
+|gif1     = Dragon_VB
+|gif2     = Dragon_VC
+|desc     = If the user has acquired all of the orange fury meter bar, they will proceed to evolve into hybrid form. But if the user has the red fury meter bar full, they will transform into a dragon depending on their choice of east or west. However, the user cannot use fighting styles, swords, and guns while transformed. Transforming into Hybrid Form drains approximately 15% of the Fury Meter, while transforming into full Dragon Form drains approximately 30%.
+|desc1    = East transformation.
+|desc2    = West transformation.
+}}
+
+{{Skill
+|key      = F
+|name     = Draconic Soar
+|mastery  = 75
+|cooldown = 5
+|energy   = 50
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_FA
+|gif1     = Dragon_FB
+|desc     = The user grows dragon wings and lunges at their desired opponent. The user will fly faster when aiming downward. Using this move drains approximately 2.5% of the Fury Meter.
+|desc1    = If the attack lands, the player will grab the opponent, damage them and dash away (the user can keep flying after hitting by holding the move). If not, they will be able to soar.
+}}
+
+|Moveset (Hybrid Form)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_Hybrid_M1
+|desc     = The user attacks their desired opponent with scorching scratches five times. The hybrid version's range is a lot better, and the slashes also set anyone hit on fire for a short period. This move does not drain the Fury Meter.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heatwave Cannon
+|mastery  = 1
+|cooldown = 7.5
+|energy   = 40
+|break    = yes
+|instinct = The blast [[Instinct/Break|breaks Instinct]] but the direct beam is dodgeable.
+|gif      = Dragon_Hybrid_ZA
+|gif1     = Dragon_Hybrid_ZB
+|desc     = The user violently fires a beam of scorching energy at their desired opponent (or their cursor), knocking enemies backward. Using this move drains approximately 4% of the Fury Meter.
+|desc1    = If the key is held, the move becomes significantly more powerful, dealing even more damage and range.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Pincer
+|mastery  = 150
+|cooldown = 10
+|energy   = 60
+|break    = yes
+|instinct = Breaks Instinct no matter what.
+|gif      = Dragon_Hybrid_XB
+|gif1     = Dragon_Hybrid_XA
+|desc     = When held, the user gets ready to dash. On release, they lunge at their opponent in a trail of flames and slam them down at the cursor. This move applies 2 ticks of burn afterward. Using it drains around 6% of the Fury Meter.
+|desc1    = Aiming the cursor downward smashes the opponent straight into the ground.
+}}
+
+{{Skill
+|key      = C
+|name     = Scorching Downfall
+|mastery  = 250
+|cooldown = 15
+|energy   = 100
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_Hybrid_C
+|desc     = The hybrid version lets the user hold it for longer, bigger [[Area of Effect|AoE]], and more damage. The user leaps into the air and bombards the ground with multiple fiery projectiles. Upon impact, the projectiles explode, damaging enemies caught in the vicinity, knocking them back, and stunning them for a brief moment. Holding this move allows the user to shoot fireballs for around 4 seconds. After an individual enemy reaches a certain threshold of damage from fireballs, they will take greatly reduced damage from fireballs. This threshold is reached after about half of the total fireballs hit the enemy, meaning the user can miss some of their fireballs or end their skill early and still deal most of the damage. Using this move drains approximately 9-24% of the Fury Meter, depending on how many fireballs land.
+}}
+
+{{Skill
+|key      = V
+|name     = Imperial Evolution
+|mastery  = 350
+|cooldown = 2
+|energy   = 10
+|break    = yes
+|instinct = Transforming into West: the explosion [[Instinct/Break|breaks Instinct]]. Transforming into East: the lightning bolts are dodgeable.
+|gif      = Dragon_Hybrid_VA
+|gif1     = Dragon_Hybrid_VB
+|gif2     = Dragon_Hybrid_VC
+|desc     = Depending on whether the user's fury meter is full or not, the user will transform into either their human form or their Dragon form. Transforming back to base form does not drain the Fury Meter, while transforming into full Dragon Form drains approximately 30%.
+|desc1    = East transformation.
+|desc2    = West transformation.
+}}
+
+{{Skill
+|key      = F
+|name     = Draconic Soar
+|mastery  = 75
+|cooldown = 5
+|energy   = 50
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_Hybrid_FA
+|gif1     = Dragon_Hybrid_FB
+|desc     = The user sprouts draconic wings out of their back and lunges forward. The user usually flies faster when aiming downward, and if the move hits, the flight won't be interrupted. Using this move drains approximately 2.5% of the Fury Meter.
+|desc1    = If the attack lands, the user will grab said person and slash them away (the user can keep flying after hitting by holding the move). If nobody is hit, they will be able to continue their soar.
+}}
+
+|Moveset (Transformed East)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_East_M1
+|desc     = The player opens their mouth and begins to blast fire at their cursor for around 2 seconds before completely depleting. (Can be held for longer, but the range will decrease rapidly.) Landing this move restores approximately 3-15.5% of the Fury Meter.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heatwave Cannon
+|mastery  = 1
+|cooldown = 6
+|energy   = 40
+|break    = yes
+|instinct = The blast [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_East_ZA
+|gif1     = Dragon_East_ZB
+|desc     = The user charges a beam from their mouth (depending on if the move is held) and fire a huge beam of hot energy on release. This move has an extremely big range and [[Area of Effect|AoE]]. Landing this move restores approximately 9-39% of the Fury Meter.
+|desc1    = If the beam is fully charged it causes the rings to glow purple. The user can move around while charging this move.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Pincer
+|mastery  = 150
+|cooldown = 8.25
+|energy   = 60
+|break    = yes
+|instinct = The tornado [[Instinct/Break|breaks Instinct]] but the end slam is dodgeable.
+|gif      = Dragon_East_X
+|desc     = The user spins in an upward motion, grabbing anyone unlucky enough to be within vicinity. The user then dives downwards, causing a massive explosion and leaving debris everywhere. Landing this move restores approximately 15.5% of the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Scorching Downfall
+|mastery  = 250
+|cooldown = 15
+|energy   = 100
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_East_C
+|desc     = The user spins upwards, albeit much slower and in a wider space than the previous move, during which a firestorm will accompany the user's spin. At the end, the user reaches peak altitude, and a purple explosion finishes off the move. The length of this move depends on how long it is held. Landing this move restores approximately 17-25% of the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Imperial Evolution
+|mastery  = 350
+|cooldown = 2
+|energy   = 10
+|instinct = Doesn't deal damage.
+|gif      = Dragon_East_VA
+|gif1     = Dragon_East_VB
+|desc     = The user turns back to their normal form (or hybrid if they were in that state before turning into a Dragon). This move does not affect the Fury Meter, as it deals no damage.
+|desc1    = The user returning to their hybrid form.
+}}
+
+{{Skill
+|key      = F
+|name     = Draconic Soar
+|mastery  = 75
+|cooldown = 7
+|energy   = 50
+|break    = yes
+|instinct = Aerial: the ending spin [[Instinct/Break|breaks Instinct]]. Ground: the slam into the ground is dodgeable.
+|gif      = Dragon_East_FA
+|gif1     = Dragon_East_FB
+|desc     = The user aims at their cursor and begins spinning. The user gains speed aiming downward, and can even crash onto solid surfaces which causes a large, fiery explosion. Attempting to crash into the ocean will damage non-shark users, including the users themselves.
+|desc1    = Landing this move restores approximately 9-13.3% of the Fury Meter.
+}}
+
+|Moveset (Transformed West)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_West_M1
+|desc     = The user creates fire out of its mouth, and it lasts for around two seconds before running out. (Can be held for longer, but the range will decrease heavily.) Landing this move restores approximately 3-15.5% of the Fury Meter.
+}}
+
+{{Skill
+|key      = Z
+|name     = Heatwave Cannon
+|mastery  = 1
+|cooldown = 6
+|energy   = 40
+|break    = yes
+|instinct = The blast [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_West_ZA
+|gif1     = Dragon_West_ZB
+|desc     = The user shoots a huge beam of fire from their mouth. Landing this move restores approximately 9-39% of the Fury Meter.
+|desc1    = When the move is fully charged it causes a ring of fire to appear in front of the player's head. This move has a considerable range and [[Area of Effect|AoE]]. Unlike the East variant, the player is unable to move while charging this move.
+}}
+
+{{Skill
+|key      = X
+|name     = Infernal Pincer
+|mastery  = 150
+|cooldown = 8.5
+|energy   = 60
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_West_X
+|desc     = The user uses their claws to create huge slashes, similar to [[Sanguine Art]]'s X move but a lot better in visuals, speed, AoE and damage. Landing this move restores approximately 13.3% of the Fury Meter.
+}}
+
+{{Skill
+|key      = C
+|name     = Scorching Downfall
+|mastery  = 250
+|cooldown = 15
+|energy   = 100
+|break    = yes
+|instinct = Always [[Instinct/Break|breaks Instinct]].
+|gif      = Dragon_West_C
+|desc     = The user shoots an fiery orb out of their dragon mouth, which rises to the sky and rains flame-meteors downwards, doing very high damage and having an explosion at the end. Landing this move restores approximately 18% of the Fury Meter.
+}}
+
+{{Skill
+|key      = V
+|name     = Imperial Evolution
+|mastery  = 350
+|cooldown = 2
+|energy   = 10
+|instinct = Doesn't deal damage.
+|gif      = Dragon_West_VA
+|gif1     = Dragon_West_VB
+|desc     = The user turns back to their normal avatar (or hybrid if they were in that state before turning into a Dragon). This move does not affect the Fury Meter, as it deals no damage.
+|desc1    = The user returning to their hybrid form.
+}}
+
+{{Skill
+|key      = F
+|name     = Draconic Soar
+|mastery  = 75
+|cooldown = 7
+|energy   = 50
+|break    = yes
+|instinct = The initial grab [[Instinct/Break|breaks Instinct]], but the slam and crash are dodgeable.
+|gif      = Dragon_West_FB
+|gif1     = Dragon_West_FA
+|desc     = The user picks up an opponent, slices them, throws them back to the ground, and then slams themselves onto them. Landing this move restores approximately 9% of the Fury Meter.
+|desc1    = If not hitting an opponent, the user dashes, creating a cone of fire in front of them, propelling them forwards faster than their original flying speed.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* Good damage.
+* Can be nice for grinding, due to the high AoE, damage and the M1 ability.
+* Hybrid form grants 20% damage resistance and a buffed moveset, while still allowing usage of items and abilities.
+
+|'''[TAP] Normal Attack'''
+* Good range.
+* Good for grinding.
+* Can damage [[Sea Beast]] and [[Leviathan]]. (Normal & Hybrid forms)
+* Doesn't drain the fury meter, making it a good way to replenish it.
+* Breaks [[Instinct]].
+* M1 chain becomes extremely good in hybrid.
+
+|'''[Z] Heatwave Cannon'''
+* Long range.
+** Much longer range with Hybrid form.
+* Large hitbox.
+** Huge jump in AoE in Hybrid form.
+* Good for [[instinct]] break chip damage.
+* Deals high damage.
+
+|'''[X] Infernal Pincer'''
+* Longer dash in Hybrid form.
+* Easily chains with [[Fighting Styles]] like [[Godhuman]] and [[Electric Claw]].
+* Good mobility.
+* Small AoE explosion on impact.
+* Applies burn damage over time, disabling enemy [[instinct]].
+* Long dash and animation makes it easy to aim towards a surface, making it easy to extend with [Z] or [C].
+* Much bigger hitbox in Hybrid Form.
+* Breaks [[Instinct]].
+
+|'''[C] Scorching Downfall'''
+* Long range.
+* Large hitbox.
+* Great stun.
+* Very reliable on the ground.
+** Explosion are bigger and more closely packed in Hybrid, further increasing effectiveness.
+* Great combo starter or extender.
+
+|'''[V] Imperial Evolution'''
+* Decent damage.
+
+|'''[F] Draconic Soar'''
+* Very fast travel speed.
+* The user can quickly dive and then uplift, constantly keeping the player at maximum speed, and making it perfect for running away when fury is low.
+* Faster while aiming downward.
+* Useful, quick mobility when tapped.
+* Strong combo extender.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Extremely hard to obtain without spending Robux.
+* High [[mastery]] requirements.
+* Inconvenient in air.
+* Hybrid form increases hitbox.
+
+|'''[Z] Heatwave Cannon'''
+* Difficult to land in air.
+* Sometimes, even if the explosion AOE seems to hit the enemy, the ability doesn't deal any damage. 
+
+|'''[X] Infernal Pincer'''
+* Single-target grab.
+* Sometimes, the attack throws the opponent to a completely different direction, not following the user's cursor, this especially happens to Mobile users, likely due to an FoV bug.
+
+|'''[C] Scorching Downfall'''
+* Can be countered by DoT.
+* Nearly unusable in air PvP, due to explosions reaching max distance.
+** The user can predict and land the entire barrage, but this is tedious.
+*** This is more manage-able in Hybrid form.
+
+|'''[V] Imperial Evolution'''
+* Requires 100% of the first Fury Meter.
+* Cannot transform in small spaces.
+
+|'''[F] Draconic Soar'''
+* Damage variant is very close ranged.
+* Does too much knockback when aiming it sideways.
+}}
+}}
+
+|-|Transformed (East)=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed East
+|'''General'''
+* Immune to all stuns.
+* High damage reduction.
+* Shorter cooldowns.
+* Better for grinding compared to the Western form.
+* Great for [[raids]].
+
+|'''[TAP] Normal Attack'''
+* Can damage [[Sea Beast]] and [[Leviathan]].
+* Continuous AoE attack.
+* Breaks [[Instinct]].
+
+|'''[Z] Heatwave Cannon'''
+* Highest range in the game if held.
+* Insane AoE.
+* Huge knockback.
+* Charging attacks will not be interrupted by damage in any means.
+* Very easy to land even midair with good aim.
+
+|'''[X] Infernal Pincer'''
+* Large hitbox.
+* Applies burn damage over time.
+* High stun.
+
+|'''[C] Scorching Downfall'''
+* Extremely large hitbox.
+* High damage, especially deadly in enclosed areas. 
+* Cannot be cancelled by damage.
+* The user can control the duration of the move for combos, unlike the West version.
+* When used with [[Ghoul]] [[V4]], it will make the player replenish almost all of their [[health]].
+
+|'''[V] Imperial Evolution'''
+* Decent damage.
+* Gives the user a long i-frame.
+
+|'''[F] Draconic Soar'''
+* Good combo potential.
+* Very fast.
+* Can easily bring enemies to the ground
+* Breaks [[Instinct]] in the air.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed East
+|'''General'''
+* Good coverage, but poor range relative to the player's character.
+* User loses 2x Rage when damaged in the head.
+* Is inferior in comparison to West Dragon: has slower flight speed, which cannot be increased in any way, even with [[accessories]].
+* [[Cursed Dual Katana]] {{Ability|Cursed Dual Katana|X}} ignores defenses.
+
+|'''[TAP] Normal Attack'''
+* Weakens if used for a long time, shortening the flame distance.
+* Requires some time to use fully recharge flames.
+* Lacks stun.
+* Fury Meter drains fast if missed.
+
+|'''[Z] Heatwave Cannon'''
+* Beam is dodge-able in aerial combat.
+* Drastically drains the fury meter when charging it up, making it severely punishing if the user misses.
+* Makes the user vulnerable to attacks if they charge the attack for too long.
+* VERY hard to hit the beam mid-air when fully charged.
+
+|'''[X] Infernal Pincer'''
+* Lack of range.
+* Can be [[Instinct]] tricked.
+* Make user vulnerable if missed, since it won't stop until the animation ends.
+
+
+|'''[C] Scorching Downfall'''
+* Lacks stun.
+* Cannot be aimed, unlike the West Dragon.
+* Drains the user's Fury Meter, and does not return a third of the Fury bar if they deal damage to a single player, making it bad for 1v1.
+
+|'''[F] Draconic Soar'''
+* Inconsistent [[Area of Effect|AoE]].
+* Makes the user vulnerable to attacks if they hold it for too long.
+* Ground smash does not [[Break Instinct]].
+
+}}
+}}
+
+|-|Transformed (West)=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed West
+|'''General'''
+* Immune to all stuns.
+* All moves (Except F move) always break instinct.
+* High damage reduction.
+* Shorter cooldowns.
+* Good grinding fruit.
+* Great for [[raids]].
+* Fastest traveling speed in the game.
+** Extremely easy to flee fights, as the user is un-interrupted by stuns.
+
+|'''[TAP] Normal Attack'''
+* Capable of damaging [[Sea Beast]]s and [[Leviathan]]s.
+* Continuous AoE damage.
+* Breaks [[Instinct]].
+
+|'''[Z] Heatwave Cannon'''
+* Highest range in the game if held.
+* Insane hitbox.
+* Huge knockback.
+
+|'''[X] Infernal Pincer'''
+* Long range.
+* Large hitbox.
+* Very good burst damage.
+* High knockback.
+* Applies burn damage over time.
+* Excellent for hitting airborne enemies.
+
+|'''[C] Scorching Downfall'''
+* Extremely large hitbox.
+* Quick start-up.
+* Aimable, unlike the East Dragon.
+
+|'''[F] Draconic Soar'''
+* Decent mobility.
+* Good raw damage.
+* Instantly drowns opponents and kills them when used over the sea, making it super easy to pressure/get easy bounty/honor.
+* Instantly brings opponents to the floor.
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed West
+|'''General'''
+* User loses 2x Rage when damaged in the head.
+* [[Cursed Dual Katana]] {{Ability|Cursed Dual Katana|X}} ignores the damage reduction.
+* Although the fastest speed, it still relies on the [F] due to its low sustained speed when flying upwards.
+
+|'''[TAP] Normal Attack'''
+* Weakens if used for long time, shortening flame distance.
+* Requires some time to use fully recharged flames.
+* Lacks stun.
+* Drains fury meter, especially if the user miss it too much.
+
+|'''[Z] Heatwave Cannon'''
+* Beam can be dodged in aerial combat.
+* Drastically drains the fury meter when charging it up.
+* Makes the user vulnerable if they hold it for too long.
+* Cannot move while holding, unlike East Dragon.
+* VERY hard to land the beam mid-air if fully charged.
+
+|'''[X] Infernal Pincer'''
+* Drains a lot of Fury Meter, especially if the user misses the attack.
+* Doesn't deal insane damage compared to other abilities.
+* Can be [[Instinct]] dodged if opponent is too near/far.
+* Uneffective if the enemy is too far.
+
+|'''[C] Scorching Downfall'''
+* Lacks stun.
+* Drains the fury meter when holding down the move.
+* Missing the move drains a significant amount of fury meter.
+* Has reasonable start-up before causing damage, making it rather avoidable.
+
+|'''[F] Draconic Soar'''
+* Requires a solid surface to deal full damage.
+* Can be [[Instinct]] tricked.
+* Drains significant fury meter if missed.
+}}
+}}
+</tabber>
+
+==Dragon Token==
+{{Main|Dragon Token}}
+Upon the release of [[Updates/24|Update 24]], the [[Dragon (Classic)|old Dragon fruits]] (physical and equipped) were converted into [[Dragon Token]]s, which could be exchanged for a random {{Mythical}} fruit, (including Dragon East and West) when used. Players who got it could also use the [[Dragon (Classic)]] if they had a [[Dragon Token|Permanent Dragon Token]]. Permanent Dragon fruits were instead converted into [[Dragon Token|Permanent Dragon Tokens]], which could be exchanged for one of these four sets of items:
+* '''Upgrade:''' A discount on purchasing the new permanent Dragon (making it {{Robux|2,400}} instead of {{Robux|5,000}}).
+* '''Fruits:''' A [[Dough|Permanent Dough]] alongside a [[Flame|Permanent Flame]].
+* '''Game Passes:''' Some [[Shop#Game_Passes|Game Passes]], such as x2 [[Money]], x2 boss Drops, x2 [[Mastery]], Fast [[Boats]], [[+1 Fruit Storage]] (3x), and [[Fragments]].
+* '''Swordsman:''' A [[Dark Blade]], 2 [[Mythical Scroll|Mythical]] and 2 [[Legendary Scroll]]s, and some [[Fragments]].
+After heavy backlash from the community, the [[Dragon Token|Dragon Tokens]] were changed three days after the update (December 17, 2024).
+* After the change, everyone who had a physical Dragon were given one of either an Eastern or Western Dragon in physical form, with the rest of the regular Dragon Tokens being changed to randomly exchange to any of these {{Mythical}} fruits (with an equal chance): [[Shadow]], [[Dough]], [[Venom]], [[Gas]], [[Tiger]], [[Kitsune]] and Dragon.
+* Permanent Dragon Tokens were instead removed, and everyone who had a permanent Dragon were instead able to choose to get either the Eastern or Western version permanently.
+* Those who bought Permanent Dragon with the [[Dragon Token|Permanent Dragon Token's]] discount would have their Token returned in tradeable form.
+* The [[Dragon (Classic)|old version of Dragon]] was made unobtainable.
+
+==Gallery==
+<gallery>
+File:3667283172 135658482799046 1793605696207.png|Phoenix Sky West Dragon model.
+File:3667283172 135658482799046 1793605641774.png|Bloodmoon west dragon model.
+File:3667283172 135658482799046 1793605959594.png|Eclipse West Dragon model.
+File:3667283172 135658482799046 1793605986370.png|Ember West Dragon Model.
+File:3667283172 135658482799046 1793605794374.png|Violet night East dragon model.
+File:3667283172 135658482799046 1793605824888.png|Phoenix sky east dragon model.
+File:3667283172 135658482799046 1793605841549.png|Bloodmon East Dragon model.
+File:3667283172 135658482799046 1793605858154.png|Ember East Dragon model.
+File:3667283172 135658482799046 1793605868632.png
+</gallery><gallery>
+File:Dragon Hybrid Form.gif|Hybrid Form
+File:DragonEast38242342.png|Eastern Dragon Form
+File:DragonEast3422423423.png|Eastern Dragon Form (with [[Aura]] activated)
+File:DragonWest233.png|Western Dragon Form
+File:DragonWest3489.png|Western Dragon Form (with [[Aura]] activated)
+File:East Dragon Concept Artist.jpeg|Eastern Dragon concept artist was created by @Tobey_D_Artist (on X/Twitter)
+File:RedgreenandblueEastern.jpg|Eastern Dragon 3D model was created by @oreI_orL (on X/Twitter)
+File:RedgreenandblueWestern.jpg|Western Dragon 3D model was created by @oreI_orL (on X/Twitter)
+File:Eastern and Western dragon.png|Both Eastern and Western Dragons together
+File:GreenEast0.png|Eastern Dragon in the air
+File:GreenWest0.png|Western Dragon in the air
+File:Dragon Form.png|[[Dragon (Classic)]]'s transformed model.
+File:Ember Dragon (West)Fruit.png|Ember Dragon (West) Physical Fruit
+File:Western Dragon Fruit that naturally spawned under a tree..png|A western Dragon fruit that spawned under a tree
+</gallery>
+
+==Tip & Tricks==
+* {{Ability|X}} is much better in Hybrid Form after the recent buffs and aligns perfectly with a held {{Ability|Godhuman|C}} from [[Godhuman]].
+* Using transformed '''[C] Scorching Downfall''' near the ground or in some specific places like Swan's mansion, Diamond tree and other big trees will stuck it making it do more damage and get bigger AoE due to it becoming more close to the move core. 
+
+==Trivia==
+* The Dragon Fruit can be obtained from the {{Dragon Egg}} [[Dragon Egg]]s at the [[Prehistoric Island]] or in Gacha, being able to get either the East or West variants.
+* Dragon is the most expensive and difficult-to-obtain fruit in the game.
+* Before [[Updates/24|Update 24]], Dragon was the third most expensive fruit in the game, with the first being [[Kitsune]] and the second being [[Leopard]] (reworked to [[Tiger]]).
+* Before [[Updates/17.3|Update 17.3]], Dragon was once again the most expensive fruit in the game, valued {{Money|3,500,000}}. This is the second time that Dragon is the most valuable fruit.
+* Pre-rework, Dragon costed {{Robux|2,600}}, which increased by 92.3% up to {{Robux|5,000}} post-rework, making it by far the highest Robux price increase of any purchasable item in the game.
+** Similarly, it also has the highest [[Money]] price increase of any reworked item, going from {{Money|3,500,000}} to {{Money|15,000,000}}, an increase of 328.57%.
+* [[Mastery]] gained will be common to both Dragon variations.
+* Eastern Dragon has the largest transformed model in the game.
+* The transformed Eastern form dragon resembles a creature commonly found in Chinese myths, whereas the Western represents a European folklore Dragon, specifically a {{w|wyvern}}. Additionally, the Eastern Dragon is supposed to be the ruler of seas and bodies of water, unlike its ''Blox Fruits'' counterpart, whose moves are mostly fire-based.
+** Dragon's Western version is also similar to a fan-made Wyvern fruit showcased in the 2024 fan art competition.
+** Additionally, in most Chinese myths, Eastern Dragons are depicted to have control over the weather, thus allowing them to wield water, thunder, and wind.
+* Dragon and [[Kitsune]] are the only beast fruits that, while transformed, can carry players on their backs. However, Dragon needs [[Dragon Tamer|Saddle/Strong Hair]] to carry someone on their back.
+* It is also highly recommended to disable screen-shake while using dragon to fight [[bosses]] or for PvP, as it greatly aids the user's aim.
+* Dragon and [[Kitsune]] are the only fruits that can be obtained from [[Sea Event]]s such as the [[Kitsune Shrine]] and [[Prehistoric Island]].
+* The user can measure how fast they are moving using the Dragon's Hybrid form. The higher the speed, the higher the volume and pitch of the footsteps of the hybrid. 
+* Dragon is the first fruit to have two versions on its [[transformation]] and fruit model.
+* if the player has [[Aura]] activated during full [[transformation]], they can notice that the dragon gains armor, which is most noticeable on the head. However, this does not give any buffs aside from the normal [[Aura]] buffs.
+* Dragon had the highest damage reduction in the game '''(60% Defense)''' until {{Update|30}}, being surpassed by [[Magnet]] '''(62.5% defense).'''
+* Using a [[Race Awakening]] transformation while using the hybrid form drains the user's [[Power Meter|Fury Meter]].
+* Having the permanent version of Dragon allows the user to choose the version of the fruit used. (Either Western or Eastern.)
+* Sometimes, a bug can happen with the Western Dragon where if the user un-transforms, they will not be able to move. In the case of the Eastern Dragon, this bug causes players who untransformed to have a larger hitbox, allowing them to collect items such as fruits and chests much further than supposed and makes users sit in chairs frequently. This can be fixed by resetting the character or transforming into the hybrid form.
+* Dragon is often used for [[Leviathan]] hunt because the M1 Hybrid Form can deal great damage. The reason it's better than the [[Magma]] fruit is because its ability is easier to target than moving targets like segment and limits knockback when spamming M1. However, for the head, [[Magma]] is still better.
+* Dragon's icon in the [[shop]] is the only icon that goes out of the margin.
+* Dragon is the second [[Blox Fruits|fruit]] that has two icons, the other being the old version of [[Control#Trivia|Control]].
+* Dragon's untransformed {{Ability|C}} has a similar look to un-awakened [[Light]]'s {{Ability|Light|X}}.
+**Dragon's West variant's {{Ability|C}} is actually an eclipse, causing the sun or the moon to disappear momentarily until the move ends.
+* The icon on [[inventory]] of the permanent dragon looks merged.
+* Dragon is the first fruit in the [[Blox Fruits "Stock"|Stock]] menu to have a unique plaque, being changed in [[Updates/24|Update 24]].
+* There is a glitch where discounted Dragon appears on the recommended fruits bar.
+* There is a glitch where if the player transforms, they are sometimes "invisible" to other players.
+* Dragon was the first fruit to receive the "IN-PROGRESS" status.
+* Dragon (East)'s full [[transformation]] emits growling sounds, unlike the Western counterpart.
+* Dragon is the only fruit to possess a complete immunity to any sorts of stun, making the [[transformation]] nearly unstoppable, with the only ways to avoid taking damage being by either escaping the moves radius, or using [[Portal]]'s {{Ability|Portal|X}}. However despite having complete immunity, the West variant can still be "Grabbed/Picked" by [[Buddha]]'s {{Ability|Buddha|F|2}} and [[Advanced Combat]]'s '''[X]''' '''Ground Breaker (Charged).'''
+* Dragon has the most [[skins]] in the game at ten, with four chromatic skins yet to release.
+* If the player uses [[Suspicious Growth Potion]], the size of the dragon (Specifically West) will increase its size twice. (Around Starter Island size)
+* Dragon and [[Tiger]] are the only [[Blox Fruits|fruits]] that have two transformations.
+* Despite the buff from update 26.8 indicating that max fury will be rewarded from killing a player 50 levels apart, this feature is bugged and killing any player regardless of level will still grant max fury.
+* The [X] Move has an extremely hard to see finisher that bursts the target midair, as the finisher requires the enemy to be at less than 12 HP.
+* There is a glitch with the Dragon Fruit where if a user transforms into western dragon and lines themselves perfectly with a boat cannon and another player sits on the cannon and the saddle at the same time and the dragon user starts flying the boat will start flying with the dragon user. This glitch is really useful for sea events, and is very commonly used for hunting the Leviathan since the user can just avoid any unnecessary sea events without anyone driving.
+* When in Hybrid Form, Dragon's dash sound is the same as [[Yeti]]'s [[Air Jump]]'s while transformed.
+* Dragon's VFX has been highly reduced in [[Updates/29.1|Update 29.1]], this was later described as a bug. (Some of the broken VFX can be seem under the map in some locations.)
+* Uzoth confirmed during a comparison video between the old and new dragon, the old '''[F]''' move were old roblox assets.<ref>https://youtu.be/D1U5FQk-yIs?si=8m57i9oWWPmkLJRU</ref>
+* Ever since this fruit was reworked in Update 24, every fruit reworked or added after it has had M1s.
+* The dragon fruit is immune to stuns but for some reason the [[Tiger]] X move knocks back the dragon .
+
+==References==
+{{Reflist}}
+
+==Change History==
+{{Change History|13|content=
+<tabber>
+|-|30=
+{{Update|30}}
+* Dragon is now permanently rollable from the Blox Fruits Gacha.
+
+|-|29.6=
+{{Update|29.6}}
+* {{Arrow|Buff}} Dragon was buffed:
+** {{Arrow|Buff}} Hybrid:
+*** {{Arrow|Buff}} {{Ability|X}} can now [[Instinct/Break|break Instinct]].
+*** {{Arrow|Buff}} {{Ability|X}}'s hitbox increased by 20%.
+
+|-|29.5=
+{{Update|29.5}}
+* Days before the [https://blox-fruits.fandom.com/wiki/Events#Dog_House_Event_2026 Dog House Event], you were simply able to roll the fruit from the [[Blox Fruit Gacha]], however, on August 31, 2026, it was for the full day, meaning 24 hours.
+
+|-|27.5=
+{{Update|27.5}}
+* {{Arrow|neutral}} Dragon was rebalanced:
+** {{Arrow|buff}} Buffed C Dragon West Hitbox.
+** {{Arrow|buff}} Dragon Transformation became immune to all stuns.
+** {{Arrow|buff}} Buffed +7% defense. (From 53% to 60%)
+
+|-|26.8=
+{{Update|26.8}}
+* {{Arrow|neutral}} Dragon was rebalanced:
+** {{Arrow|buff}} Untransformed
+*** {{Arrow|buff}} Hold-ability damage increased
+*** {{Arrow|buff}} Fury Meter gain increased
+** {{Arrow|neutral}} Dragon (West):
+*** {{Arrow|buff}} Winning in PvP would now fully restore the Fury Meter against opponents within 50 [[levels]]
+*** {{Arrow|neutral}} Damage reduction is now equal on head and body
+*** {{Arrow|nerf}} The user would now lose 2x Fury Meter when hit in the head
+*** {{Arrow|nerf}} {{Ability|Dragon|TAP}}:
+**** {{Arrow|nerf}} No longer stuns
+**** {{Arrow|nerf}} Fury Meter gain -25%
+**** {{Arrow|nerf}} Damage -15%
+*** {{Arrow|neutral}} {{Ability|Dragon|Z}}:
+**** {{Arrow|buff}} Range +25%
+**** {{Arrow|buff}} Charge speed +25%
+**** {{Arrow|buff}} Hold bonus damage increased
+**** {{Arrow|nerf}} Fury Meter cost +75%
+**** {{Arrow|nerf}} Fury Meter gain on damage -25%
+**** {{Arrow|nerf}} Explosion size reduced when held
+*** {{Arrow|nerf}} {{Ability|Dragon|X}}:
+**** {{Arrow|nerf}} Fury Meter cost +50%
+**** {{Arrow|nerf}} Base damage -20%
+*** {{Arrow|neutral}} {{Ability|Dragon|C}}:
+**** {{Arrow|buff}} Ability damage +50%
+**** {{Arrow|nerf}} No longer stuns
+**** {{Arrow|nerf}} Fury Meter cost +50%
+**** {{Arrow|nerf}} AoE range -20%
+**** {{Arrow|nerf}} Fury Meter gain -25%
+** {{Arrow|neutral}} Dragon (East):
+*** {{Arrow|buff}} Winning in PvP would now fully restore the Fury Meter against opponents within 50 [[levels]]
+*** {{Arrow|neutral}} Damage reduction is now equal on head and body
+*** {{Arrow|nerf}} The user would now lose 2x Fury Meter when hit in the head
+*** {{Arrow|neutral}} {{Ability|Dragon|TAP}}:
+**** {{Arrow|buff}} Fury Meter gain +25%
+**** {{Arrow|nerf}} No longer stuns
+*** {{Arrow|neutral}} {{Ability|Dragon|Z}}:
+**** {{Arrow|buff}} Charge time -25%
+**** {{Arrow|buff}} Hold bonus damage increased
+**** {{Arrow|nerf}} Fury Meter cost +75%
+**** {{Arrow|nerf}} Fury Meter gain -25%
+**** {{Arrow|nerf}} Explosion size reduced when held
+**** {{Arrow|nerf}} Tap damage -15%
+*** {{Arrow|nerf}} {{Ability|Dragon|X}}:
+**** {{Arrow|nerf}} Fury Meter cost +25%
+**** {{Arrow|nerf}} Base damage -25%
+*** {{Arrow|neutral}} {{Ability|Dragon|C}}:
+**** {{Arrow|buff}} Cast speed -15%
+**** {{Arrow|buff}} Duration +15%
+**** {{Arrow|buff}} Ability damage +40%
+**** {{Arrow|nerf}} No longer stuns
+**** {{Arrow|nerf}} Fury Meter cost +75%
+**** {{Arrow|nerf}} Fury Meter gain -25%
+**** {{Arrow|nerf}} AoE range -20%
+
+|-|26=
+{{Update|26}}
+* {{Arrow|buff}} Buffed the [[Power Meter|Fury Meter]] gain from landing skills on base or hybrid mode.
+* {{Arrow|nerf}} Reduced the fury meter gain from landing skills on transformation.
+* {{Arrow|nerf}} Reduced transformed damage resistance from 60% to 53%.
+* {{Arrow|nerf}} Increased cooldowns for all moves (+0.5 seconds on each move).
+* {{Arrow|nerf}} Reduced damage of all moves (-5% on each move).
+* {{Arrow|nerf}} Slightly decreased Western Dragon transformation's flight speed.
+
+|-|24=
+{{Update|24}}
+* Dragon was remade available to purchase.
+* Dragon was reworked into two versions: Western and Eastern.
+** Added Dragon's Hybrid Form.
+** Added an M1 attack.
+** '''[Z] Heatwave Beam''' was renamed to '''[Z] Heatwave Cannon'''.
+** '''[X] Draconic Claw''' was renamed to '''[X] Infernal Pincer'''.
+** '''[C] Fire Shower''' was renamed to '''[C] Scorching Downfall'''.
+** '''[V] Transformation''' was renamed to '''[V] Imperial Evolution'''.
+** '''[F] Dragon Flight''' was renamed to '''[F] Draconic Soar'''.
+: <gallery>
+Dragon (Classic)Fruit.png|Old Dragon's inventory icon.
+Dragon (Classic)Icon.png|Old Dragon's fruit icon.
+</gallery>
+
+|-|23=
+{{Update|23}}
+* Dragon was made unavailable to purchase from the [[Blox Fruit Dealer]] and [[Shop]].
+** Its price was changed to "IN PROGRESS".
+
+|-|20=
+{{Update|20}}
+* Dragon Fruit's model icon was remade.
+: <gallery>
+Dragon 150x150.png|Older Dragon Fruit's inventory icon.
+</gallery>
+
+|-|17.3=
+{{Update|17.3}}
+* '''[C] Fire Shower''' and '''[X] Dragonic Claw''' were reworked.
+** {{Arrow|nerf}} '''[C] Fire Shower'''<nowiki>'s</nowiki> hitbox was reduced.
+** Both of these abilities got a small VFX rework.
+
+|-|13=
+{{Update|13}}
+* Dragon was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[ru:Дракон]]

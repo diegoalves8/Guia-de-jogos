@@ -1,0 +1,192 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Katana Kid|PrestigeTitle = Gone Fishin'|Rarity = Legendary|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>1026 (with His Mother's Son)|HealthLabel = Health|Health = 3500|AttackRange = 8.33 (melee; Very Long)<br>13.33 (ranged; Very Long)<br>16.67 (hook; Very Long)|Reload = 0.1 seconds (Very Fast)|AttackSuperCharge = 24.5% (melee)<br>16.67% (ranged)<br>16.67% (hook)|AttackLabel = Melee Damage|Attack = 1000|AttackLabel2 = Dash/Ranged Damage|Attack2 = 720|AttackSpeed=4000|SuperSpeed = 4000|SuperRange = |SuperSuperCharge = 9-36% (min to max range)|SuperLabel = Min. Damage|Super = 1250|SuperLabel2 = Max. Damage|Super2 = 1625|SuperDuration=|SuperSpread = 360°|AttackWidth=|SuperMovementSpeed=|VoiceActor =Unknown |Gadget1Name=Sushi Snack|Gadget1Cooldown=18 seconds|Gadget1Label=Heal per fish|Gadget1=800|Gadget2Name = Gonna Need a Bigger Net|Gadget2=640|Gadget2Label=Damage|Gadget2Cooldown=20 seconds|HyperchargeMultiplier=28%|AttackHyperchargeCharge=6.86% (melee)<br>4.67% (ranged)<br>4.67% (hook)|SuperHyperchargeCharge=2.52-10.08% (min to max range)|Previous=Pierce|Next=Thunderfrogs}}
+{{Quote|As the child of [[Kenji]] and [[Kaze]], Nori was always destined for great things. Being the first Brawler ever born in Starr Park has also given him extraordinary powers! He's not too bad at cooking either.}}{{Portrait}}
+Nori is a {{Rarity|Legendary}} [[Brawler]] who has moderate health, a variable damage output and range, an extremely fast reload speed, and great mobility with his very fast movement speed, attack and Super. He was the 105th Brawler added to the game. Nori has two attacks, and these attacks catch fish by hitting Brawlers. In the first attack, he swings his fishing rod in a wide and close-ranged arc, dealing moderate damage. His second attack throws out the hook that can grapple walls or enemies, pulling him to them, dealing potentially high damage. For his Super, Nori dives into a puddle, which summons a giant fish after a delay, dealing damage to enemies caught in his puddle, and the puddle size and the fish damage is based off how many fish he has. His first Gadget, Sushi Snack, instantly heals him after eating fish. His second Gadget, Gonna Need a Bigger Net, fires a fishing net that deals damage and temporarily roots the enemy. His first Star Power, Big Haul, makes Nori catch three fish for every enemy hit. His second Star Power, His Mother's Son, temporarily increases his movement speed when he hits an enemy with his attacks. His Hypercharge, Master Fisherman, makes his Super immediately gain the strength of 10 fish, and upon landing, tosses enemies upwards and slightly towards the center.
+
+==Attack: Fishing Fury==
+{{Quote|Nori slashes forward. Charging his attack casts his fishing rod. The longer the charge, the farther he casts. He can pull himself to a wall or Brawler ⎯ dashing through Brawlers and dealing damage. At max charge, he will jump over walls!<br>Nori catches fish by hitting Brawlers with his main attack. Fish are used for various abilities!}}
+Nori has three different attacks based on how long the attack button is held for. The first is swinging his fishing rod in a wide arc, dealing moderate damage, performed by aiming his attack for a short amount of time or tapping the attack button. If the player holds the attack button, Nori charges his ammo bar (similar to [[Hank]] and [[Angelo]]). During this time, if the player releases the attack button, Nori throws out a hook that latches onto either enemies or walls, pulling himself toward the target. The longer he charges, the longer the hook becomes. If the hook hits an enemy, it deals low damage on impact. During the pull, Nori also damages any enemies he comes into contact with. When the ammo bar is fully charged after 2.5 seconds, Nori will jump over obstacles or any short distance if the hook hits a wall or enemy.
+
+Nori also cannot heal from auto-regeneration while charging his shot, though he is still hidden in bushes. If Nori is stunned, pushed back, or knocked back while charging, the attack is cancelled.
+
+Whenever Nori hits enemies with any of his attacks, he catches fish. He can hold a maximum of 10 fish at once. His rod swing can catch multiple fish if it hits several enemies, but his hook can only catch one fish per use, even if it hits multiple enemies.
+
+==Super: Catch of the Day==
+{{Quote|Nori dives into water then emerges, dealing area damage after a short delay. His Super consumes all fish, increasing its size by 5% and damage by 3% per fish.}}
+Nori jumps into the air towards the targeted location, and upon landing, he disappears from the map and creates a water puddle in a small area. after a 1-second delay, a giant fish spawns, dealing high damage to all enemies caught in the puddle, and consuming all fish in the process. The amount of fish increases the size of the puddle by 5% and increases the damage of the giant fish by 3% per fish. Nori consumes all fish even if the attack hits no enemies. After the Super ends, Nori reappears in the center of the puddle.
+
+==Gadgets==
+===Sushi Snack===
+{{Quote|Nori eats up to 3 fish to heal himself for 1000 per fish. Cooldown: 18 seconds.}}{{Gadget|1}}
+Nori instantly heals himself after eating 3 fish. However, if he doesn't have at least 3 fish, he instead eats less fish, receiving less healing. The amount of healing doesn't scale with Power Cubes, Brawl Arena level ups, buffs or debuffs. 
+
+===Gonna Need a Bigger Net===
+{{Quote|Aim a fishing net that roots the first Brawler hit for 1.25 sec and deals 800 damage. Cooldown: 20 seconds.}}{{Gadget|2}}
+Nori throws a fishing net that deals damage and roots the enemy Brawler hit for 1.25 seconds.
+
+==Star Powers==
+===Big Haul===
+{{Quote|Nori catches 3 fish when his Super hits enemy Brawlers.}}{{StarPower|1}}
+Nori catches 3 fish when his Super hits enemy Brawlers. He can catch more fish when more enemies are standing in the puddle. The fish are collected after the damage is dealt, so they don't affect the damage or radius of the Super.
+
+===His Mother's Son===
+{{Quote|Nori gains +20% speed for 1 sec whenever he hits an enemy with his Main Attack.}}{{StarPower|2}}
+When Nori hits his attacks, he gains a 20% movement speed buff for 1 second. The speed buff doesn't stack if Nori hits more enemies.
+
+==Hypercharge: Master Fisherman==
+{{Quote|When Nori jumps into the water, he pulls all enemies in before dealing area damage!}}{{Hypercharge}}
+When activated, Nori's Super tosses enemies upwards and slightly towards the center before dealing damage to a enemies caught in it. Although not stated by the description, activating the Hypercharge will instantly give Nori 10 Fish. He also gains a 20% speed, and a 5% damage and shield boost.
+
+==Tips==
+*In [[Brawl Arena]], you can obtain fish by hitting the bots, so you will hit 10 fish very easily. Use Sushi Snack Gadget to make use of the fish after having 10 fish and prevent them from being wasted.
+*While Nori's main attack makes him resistant to most anti-aggressive Brawlers, he himself is weak to Brawlers with high burst damage such as [[Bull]], [[Griff]], and [[Darryl]], owing to his low health and slower method of escape. As such, try to avoid them whenever possible and use your charged attack purely to escape.
+*As Nori's Super executes rather slowly, use it at choke points or when enemy Brawlers are already dealing in skirmishes, allowing you to strike them off-guard.
+
+==Voice Lines==
+{{TranslationToggle|Japanese}}
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|{{Ogg|Filename = nori start vo 01.ogg|Filedescription = "Gonna catch some Brawlers, for real!"}}
+|{{Ogg|Filename = nori lead vo 01.ogg|Filedescription = {{Translate|"ママ パパ I got a big one!" ("Mama papa I got a big one!")|"Mom, dad, I got a big one!"}}}}
+|{{Ogg|Filename = nori hurt vo 01.ogg|Filedescription = "Ah! I'm gonna get my parents!"}}
+|{{Ogg|Filename = nori kill vo 01.ogg|Filedescription = "Taught a kid how to fish, now I'm feeding Brawlers for a lifetime!" *laughs*}}
+|{{Ogg|Filename = nori die vo 01.ogg|Filedescription = "Okay, I'll go back to the kitche-eh-eh-en."}}
+|
+|{{Ogg|Filename = nori ulti vo 01.ogg|Filedescription = "Diving in!"}}
+|-
+|{{Ogg|Filename = nori start vo 02.ogg|Filedescription = "Time to fish and dish."}}
+|{{Ogg|Filename = nori lead vo 02.ogg|Filedescription = "Reel them in, for the win!"}}
+|{{Ogg|Filename = nori hurt vo 02.ogg|Filedescription = "You don't want to make my parents angry!"}}
+|{{Ogg|Filename = nori kill vo 02.ogg|Filedescription = "I might be a baby, but I know how to brawl!"}}
+|{{Ogg|Filename = nori die vo 02.ogg|Filedescription = "Hooked and cooked!" *cries*}}
+|
+|{{Ogg|Filename = nori ulti vo 02.ogg|Filedescription = "Time to splash and dash!"}}
+|-
+|{{Ogg|Filename = nori start vo 03.ogg|Filedescription = "I'm not in the kitchen, dad! Time to play!"}}
+|{{Ogg|Filename = nori lead vo 03.ogg|Filedescription = "Lure is pure, and I got many fish to cure!"}}
+|{{Ogg|Filename = nori hurt vo 03.ogg|Filedescription = "Is that even legal!"}}
+|{{Ogg|Filename = nori kill vo 03.ogg|Filedescription = {{Translate|"いらっしゃいませ. Today's special: freshly cut Brawler!" ("Irasshaimase. Today's special: freshly cut Brawler!")|"Welcome. Today's special: freshly cut Brawler!"}}}}
+|{{Ogg|Filename = nori die vo 03.ogg|Filedescription = "Eugh! Crab cake!"}}
+|
+|{{Ogg|Filename = nori ulti vo 03.ogg|Filedescription = {{Translate|"う、やった！" ("Ooh, yatta!")|"Ooh, I did it!"}}}}
+|-
+|{{Ogg|Filename = nori start vo 04.ogg|Filedescription = "Let's throw out some rage bait!"}}
+|{{Ogg|Filename = nori lead vo 04.ogg|Filedescription = "I am the real deal!"}}
+|{{Ogg|Filename = nori hurt vo 04.ogg|Filedescription = "Hurting a child! People these days!"}}
+|{{Ogg|Filename = nori kill vo 04.ogg|Filedescription = {{Translate|"Beaten by a チビコ. Must hurt!" ("Beaten by a chibiko. Must hurt!")|"Beaten by a small child. Must hurt!"}}}}
+|{{Ogg|Filename = nori die vo 04.ogg|Filedescription = {{Translate|"ママ と パパ are gonna love this... not." ("Mama and papa are gonna to love this... not.")|"Mom and dad are gonna to love this... not."}}}}
+|
+|{{Ogg|Filename = nori ulti vo 04.ogg|Filedescription = "Whee, puddle play time!"}}
+|-
+|{{Ogg|Filename = nori start vo 05.ogg|Filedescription = "One rod, many rascals!"}}
+|{{Ogg|Filename = nori lead vo 05.ogg|Filedescription = "I'll take that salt to cure my fish!"}}
+|{{Ogg|Filename = nori hurt vo 05.ogg|Filedescription = "Ew! Broccoli breath!"}}
+|{{Ogg|Filename = nori kill vo 05.ogg|Filedescription = "I'm 5 and a half!"}}
+|{{Ogg|Filename = nori die vo 05.ogg|Filedescription = "I won't give up!"}}
+|
+|{{Ogg|Filename = nori ulti vo 05.ogg|Filedescription = "Diving in to catch a big one!"}}
+|-
+|{{Ogg|Filename = nori start vo 06.ogg|Filedescription = "Pacifier, locked in. Let's cook!"}}
+|
+|{{Ogg|Filename = nori hurt vo 06.ogg|Filedescription = "Poo-poo hat!"}}
+|{{Ogg|Filename = nori kill vo 06.ogg|Filedescription = "Dad would never let me do this!"}}
+|{{Ogg|Filename = nori die vo 06.ogg|Filedescription = Nori cries}}
+|
+|{{Ogg|Filename = nori ulti vo 06.ogg|Filedescription = "Diving in!"}}
+|-
+|{{Ogg|Filename = nori start vo 07.ogg|Filedescription = "Rod is ready to rule the roost!"}}
+|
+|{{Ogg|Filename = nori hurt vo 07.ogg|Filedescription = "Fish breath!"}}
+|{{Ogg|Filename = nori kill vo 07.ogg|Filedescription = "Where did you learn how to fight? Ask for a refund!"}}
+|{{Ogg|Filename = nori die vo 07.ogg|Filedescription = Nori cries}}
+|
+|
+|-
+|{{Ogg|Filename = nori start vo 08.ogg|Filedescription = "Oh, don't tell mom I'm brawling!"}}
+|
+|{{Ogg|Filename = nori hurt vo 08.ogg|Filedescription = {{Translate|"やだやだ Stinky Stars!" ("Yada yada Stinky Stars!")|"Bad, bad, Stinky Stars!"}}}}
+|{{Ogg|Filename = nori kill vo 08.ogg|Filedescription = "Been a bit boring!"}}
+|
+|
+|
+|-
+|{{Ogg|Filename = nori start vo 09.ogg|Filedescription = "Starr Park, born and raised."}}
+|
+|
+|
+|
+|
+|
+|-
+|{{Ogg|Filename = nori start vo 10.ogg|Filedescription = "Have you seen my pet tuna?"}}
+|
+|
+|
+|
+|
+|
+|}
+
+==Nori Release Event==
+{{Main|New Brawler Event}}
+{{#lst:New Brawler Event/2026|Nori}}
+
+==History==
+*09/07/26:
+**{{Balance|Neutral|Nori became available to play in the [[Training Cave]].}}
+**{{Balance|Neutral|Nori could be unlocked early from [[Brawler Boxes|Nori Boxes]], obtaining 20 of them, from the {{Link|Supercell Store}}, or in the Shop for $19.99 (standard pack) or $29.99 (premium pack).}}
+**{{Balance|Neutral|The Nano Nori skin was added. It was featured as a Nanonoodles skins.}}
+*04/08/26:
+**{{Balance|Neutral|Nori's Super no longer gets canceled if thrown while dashing.}}
+**{{Balance|Neutral|Nori's dash no longer breaks [[Gene]]'s Super.}}
+*06/08/26:
+**{{Balance|Neutral|Nori became available in the [[Starr Road]].}}
+*01/09/26:
+**{{Balance|Buff|Nori's Super charge rate was increased to 96 (from 94).}}
+**{{Balance|Nerf|Nori's health was decreased to 3500 (from 3800).}}
+**{{Balance|Nerf|Nori's main attack swing damage was decreased to 1000 (from 1100).}}
+**{{Balance|Nerf|Nori's Sushi Snack Gadget cooldown was increased to 18 seconds (from 12).}}
+**{{Balance|Nerf|Nori's level up damage was decreased to 3% (from 5%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Nori's movement speed to 855 (from 820).}}
+**{{Balance|Neutral|Nori's Master Fisherman Hypercharge was added.}}
+**{{Balance|Neutral|Nori's True Silver and True Gold skins were added.}}
+*16/09/26:
+**{{Balance|Nerf|Nori's main attack max charge time was increased to 2.5 seconds (from 2).}}
+**{{Balance|Nerf|Nori's Master Fisherman Hypercharge multiplier was decreased to 28% (from 50%).}}
+*03/11/26:
+**{{Balance|Content=Nori's level up damage was increased to 4% (from 3%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Nerf|Nori's Super bonus damage was decreased to 3% (from 4%) per fish.}}
+
+==Cosmetics==
+===Skins (1)===
+{{Skin Gallery
+|Name1=Nano|Cost1=17p from Nori Side Quest or 29 Gems • '''S'''|Campaign1=Nanonoodles|Rarity1=Rare|TrueSkins=Yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Nori
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+|}
+
+===Sprays===
+{|class="article-table"style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Nori|Rarity = Common}}
+|{{Spray|Type = Nori Fishing|Rarity = Common}}
+|{{Spray|Type = Nori Fish|Rarity = Common}}
+|{{Spray|Type = Nori Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Nori1}}
+|{{Pfp|Nori2}}
+|{{Pfp|Nori3}}
+|{{Pfp|Nori4}}
+|}
+
+{{Navigation}}
+[[es:Nori]]
+[[ru:Нори]]

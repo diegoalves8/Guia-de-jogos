@@ -1,0 +1,152 @@
+{{CombosTab}}
+{{Unavailable
+|type = [[Blox Fruit]]
+|desc = It was replaced by [[Ghost]] in {{Update|21}}.
+}}
+{{Blox Fruit Infobox
+|name   = Revive
+|image  = <gallery>
+Revive Fruit.png|Fruit Icon
+Revive.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Uncommon
+|M1     = No
+|update = 16
+
+<!-- Fruit Price -->
+|money  = 550,000
+|robux  = 975
+}}
+'''Revive''' was an {{Uncommon}} [[Natural]]-type [[Blox Fruit]] that costed {{Money|550,000}} or {{Robux|975}} from the [[Blox Fruit Dealer]].
+
+Revive could revive the player by using {{Ability|C}} after being killed. This was the only fruit with this ability, but it was very unused because of the fact that it had only two attack moves, and they were often not useful.
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passive|
+{{Skill/Passive
+|name     = Resurrection
+|file     = Skeleton.png
+|desc     = Revive had an ability which enhanced the user's soul to the point where they could come back to life at half health after dying once, remaining alive until their body was sufficiently damaged, and using several other soul-based abilities.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Possession
+|mastery  = 1
+|gif      = Revive_Z
+|desc     = The user seemingly left its body and transformed into a translucent, green ghost. Any entity that came in contact would be frozen and damaged. If their main body took damage, they would be teleported to where their soul was last at.
+}}
+
+{{Skill
+|key      = X
+|name     = Soul Ruler
+|mastery  = 60
+|gif      = Revive_X
+|desc     = The user unleashed a green mist with the shape of a skull around themselves, causing an explosion and stun to enemies within the proximity.
+}}
+
+{{Skill
+|key      = C
+|name     = Resurrection
+|mastery  = 110
+|gif      = Revive_C
+|desc     = If the user died while {{Ability|C}} was active, they would be resurrected at 50% of their original [[health]] and transformed the user to a skeleton.
+}}
+
+{{Skill
+|key      = F
+|name     = Wandering Soul
+|mastery  = 30
+|gif      = Revive_F
+|desc     = The user's soul left their body, being able to fly in 8 seconds. The users original body was left behind and if attacked, they would be forcefully removed from their flight.
+}}
+}}
+
+==Overview==
+{{Tabber
+|Pros|
+{{Overview|Pros
+|'''General'''
+* Did not cost a lot to obtain.
+* Did not require high mastery.
+
+|'''[Z] Possession'''
+* Good stun.
+* Good [[AoE]].
+* Good mobility.
+
+|'''[X] Soul Ruler'''
+* Decent damage.
+* Great stun.
+
+|'''[C] Resurrection'''
+* Gave the user a second life if the move is active.
+* Could easily defy one-shot combos (though at the cost of the first life).
+
+|'''[F] Wandering Soul'''
+* While using this move the user’s ghost body is immortal.
+}}
+
+|Cons|
+{{Overview|Cons
+|'''General'''
+* It had no ranged moves and only two attack moves.
+* Not ideal for grinding due to the lack of [[Elemental]] immunity and moves that deal damage.
+* Ground-based and not good against combos although the user could run when their first life was over.
+
+|'''[Z] Possession'''
+* Slight delay while using the move.
+
+|'''[X] Soul Ruler'''
+* Small [[AoE]].
+
+|'''[C] Resurrection'''
+* Not really useful to counter long combos. (Such as [[Dough/Combos|Dough combos]])
+
+|'''[F] Wandering Soul'''
+* Quite slow.
+* Left the user unprotected and had a time limit.
+* Bad for traveling from island to island because of the limited distance and the user could not use it above water as they would take damage unless the user has the [[Shark]] race V2 or V3. The user could also hold space while using the [[flight]] move to make their main body keep [[Air Jump|jumping]], but it fails sometimes. (If they have high ping.)
+}}
+}}
+
+==Notes==
+* {{Ability|Z}} and {{Ability|F}} had a small gray cube in the avatar of the user. When using the Z move in first person, the cube spins. The F move just stays inside of the user's avatar. This cube prevents the user from walking through walls.
+* If the player used {{Ability|F}} while being in a safe zone, they could leave the safe zone during the flight and their body would stay in the safe zone (meaning it could not be attacked). However, if the time ends it would be teleported back to them.
+* The total travel time/distance of Revive's {{Ability|F}} was roughly the length of [[Pirate Village]], from the very back where the [[Brute]]s are located all the way to the docks.
+
+==Trivia==
+* Revive was the only fruit that could revive players.
+* Revive was one of the only three fruits that can freeze opponents (the others being [[Ice]] and [[Spirit]]).
+* When the user revived as a skeleton from Resurrection, the skeleton was actually a Roblox Rthro package called Skelly. It also removed the hair from the package.
+** The skeleton was normal without clothes, however, if they used jackets from Roblox, the jacket would have stayed, this was a Roblox bug that happens in most games. This only works in specific Roblox accessories.
+* When Revive F move was used, the user's physical body could be harmed and if they used it when they were right above [[water]], they would take damage. However, there was a bug where they were able to spam jump (during the flight) and their body would keep jumping on the sea giving them free time to use their [[flight]].
+
+==Change History==
+{{Change History|16|content=
+{{Update|21}}
+* Revive was revamped and renamed to [[Ghost]].
+----
+{{Update|20}}
+* Revive Fruit's model was remade.
+: <gallery>
+GhostFruit.png|Revive Fruit's icon during Update 20-21.
+</gallery>
+----
+{{Update|16}}
+* Revive was released.
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[Category:Things removed from the game]]
+[[ru:Воскрешение]]

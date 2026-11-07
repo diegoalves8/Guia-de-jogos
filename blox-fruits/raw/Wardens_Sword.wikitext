@@ -1,0 +1,124 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Wardens Sword
+|image     = <gallery>
+Wardens Sword.png|Icon
+Wardens Sword EQ.png|In-Game
+Wardens Sword Held.png|Held
+Wardens Sword (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->|type      = Sword
+|rarity    = Rare
+|update    = 1
+
+<!-- Weapon Obtainment -->|sea       = 1
+|location  = Prison
+|obtain    = Dropped from Warden
+|source    = [[Warden]]
+}}
+{{Quote|Big sword, big range. The ring seems odd...|Item}}
+The '''Wardens Sword''' is a {{Rare}} [[sword]].
+
+The Wardens Sword is decent for early grinding, due to big range and low [[mastery]] requirements. It is recommended to swap it as soon as possible after entering the [[Second Sea]].
+
+==Obtainment==
+The Wardens Sword can be obtained by defeating the [[Warden]] with a drop chance between 5% and 10%, who is located in [[Prison]], [[First Sea]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Wardens Sword M1
+|desc     = The player does 3 swings, then ending on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Multi-Target Slash
+|mastery  = 35
+|cooldown = 9
+|energy   = 15
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Multiple Target Slash
+|desc     = The user smashes their blade into the ground, creating a blue shockwave that damages all enemies around them and knocks them back.
+}}
+
+{{Skill
+|key      = X
+|name     = Tornado Slash
+|mastery  = 80
+|cooldown = 15
+|energy   = 25
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Tornadus Slashe
+|desc     = The user launches a tornado in the direction of their cursor that launches any enemy it hits into the air.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good for early-game farming. 
+* Low mastery requirements. 
+* Easy to upgrade.
+* Abnormally large hitbox.
+
+
+|'''[Z] Multi-Target Slash'''
+* Has a [[stun]] effect.
+* Can hit multiple targets.
+* Good [[AoE]]. 
+
+|'''[X] Tornado Slash'''
+* Can hit multiple targets.
+* Also has a stun effect.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* No mobility moves.
+* Lack of range with both moves.
+* Has low M1 damage, like most [[First Sea]] swords.
+
+|'''[Z] Multi-Target Slash'''
+* Has high knockback, making it unsuitable for grinding.
+* Terrible range.
+* Despite turning invisible the ability does not provide Invincibility Frames.
+
+|'''[X] Tornado Slash'''
+* Also has high knockback, making it harder to grind [[NPCs|Enemies]].
+}}
+</tabber>
+
+==Trivia==
+* The [[Cookie Crafter]]s in the [[Sea of Treats]] use the Wardens Sword.
+* {{Ability|X}} is similar to [[Blizzard]]'s X move, {{Ability|Blizzard|X}}.
+* The item description states that the Wardens Sword has a ring, but due to the revamped model, The ring is now gone.
+* Despite the [[Swords|sword]] being called the "Wardens Sword", before [[Updates/30|Update 30]], it actually dropped from the [[Chief Warden]], not the [[Warden]] himself, who used to use the [[Dual Katana]].
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Wardens Sword's model was reworked.
+<gallery>
+Wardens Sword Icon (Old).png|Old Wardens Sword Icon
+</gallery>
+----
+{{Update|20}}
+* Wardens Sword's moves were reworked.
+----
+{{Update|1}}
+* Wardens Sword was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

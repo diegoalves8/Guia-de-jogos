@@ -1,0 +1,303 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = The Shady|PrestigeTitle = Shhhh!|Rarity = Mythic|Class = Support|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3400|AttackRange = 9 (Long) |Reload = 1.4 seconds (Fast)|AttackBullets = |AttackSuperCharge = 32%|AttackLabel = Damage|Attack = 1280 |SuperRange = 6.67 (Normal)|AttackSpeed=3804<br>3200 (with Walking Cane; launched)<br>2000 (with Walking Cane; hooked)|AttackWidth=0.33<br>1.33 (with Walking Cane)|Gadget1Name=Walking Cane|Gadget1Cooldown=23 seconds|Gadget2Name=Grand Piano|Gadget2Cooldown=14 seconds|StarPower2Name=New Perspective|Previous=Buster|Next=R-T|VoiceActor=Martin Schjøler|AttackHyperchargeCharge=12.8%|HyperchargeMultiplier=40%}}
+{{Quote|Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.}}
+{{Portrait}}
+Gray is a {{Rarity|Mythic}} [[Brawler]] who could also be unlocked for free early for a limited time by completing a special quest. Gray has moderate health and damage output, but has immense utility with his Super, a fast reload speed, and a long range. He was the 63rd Brawler added to the game. For his attack, he shoots out a fake finger gun bullet. Gray's Super spawns teleporters that can be used by him and allies. Gray's first Gadget, Walking Cane, makes his next attack partially pull in an enemy. His second Gadget, Grand Piano, summons a grand piano over where his attack lands, dealing high damage, knocking back enemies, and destroying obstacles upon landing. His first Star Power, Fake Injury, partially shields Gray when he has full health. His second Star Power, New Perspective, heals allies who uses his teleporters. His Hypercharge, Another Dimension, provides a shield to whoever uses his teleporters.
+
+==Attack: Finger Pistol==
+{{Quote|Are the bullets even real?}}Gray shoots out a long-ranged dotted line from his fingers. A sign pops up from the ground where his attack lands; if the line hits an enemy, the sign will have a bang effect, and if it does not, the sign will have a cross mark. The attack has a slow cooldown, and it takes 0.75 seconds to complete.
+
+==Super: Dimensional Doors==
+{{Quote|Gray creates a set of doors for him and his teammates, useful for quick escapes and sneaky attacks!}} Gray creates 2 teleporters: one on top of him, and one in the direction he's aiming. If any Brawler (including enemies) stands on a teleporter, they will activate it after a 1-second delay. Once the teleporter is activated, it will remain so indefinitely until Gray or his allies steps on it, and then it will remain active for 1 more second before deactivating. Any allied Brawler close enough to an active teleporter will be instantly teleported to the other teleporter. There is a 3-second cooldown after the teleporter deactivates, resulting in 5 seconds of time in total between uses. 
+
+In addition, upon creating the teleporters, Gray instantly teleports to the other teleporter, not having to wait for the activation delay. However, the teleporters will not actually be activated and be available for use by allies, and they will have to go through cooldown to be active. Despite not being activated, the 1-second activation delay is still there, so Gray's allies will have to wait 5 seconds after the teleporters are created before they can first use them. Gray can only instantly teleport when he first creates the teleporters, not when he uses them later, and allies cannot be instantly teleported along with Gray.
+
+The teleporters cannot be placed at less than max range unless they're forced to by obstacles or Gray auto-aims towards the closest target. The teleporters stay indefinitely until Gray uses another Super, a round is over in [[Knockout]], a goal is scored in [[Brawl Ball]], or a point is scored in [[Basket Brawl]].
+
+==Gadgets==
+===Walking Cane===
+{{Quote|Gray's next hit from Finger Pistol shoots a walking cane which pulls in enemies back by a bit. Cooldown: 23 seconds.}}{{Gadget|1}} Activating this Gadget allows Gray's next attack to pass through obstacles. If it hits an enemy Brawler, it partially pulls the enemy to him, destroying all obstacles between the enemy and Gray. The distance enemies get pulled in by increases the further the attack travels. However, the damage doesn't scale with [[Showdown|Power Cubes]] or outside buffs. A Gadget symbol will glow above Gray's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+===Grand Piano===
+{{Quote|Gray's next hit from Finger Pistol will also leave a target on the ground where a piano will land and hurt enemies. It would be too bad if someone got hurt, right? Cooldown: 14 seconds.}}{{Gadget|2}} Activating this Gadget allows Gray's next attack to summon a grand piano where the attack lands. Similar to the Meteor [[Modifiers|Modifier]], the grand piano deals damage, destroys obstacles, and knocks back enemies in a 2-tile blast radius after a 1.5-second delay. The piano deals the same amount of damage as his attack. A Gadget symbol will glow above Gray's head signaling this Gadget's usage, as well as a glowing attack joystick. This Gadget's cooldown starts after this attack is shot.
+
+==Star Powers==
+===Fake Injury===
+{{Quote|When Gray has full health, the next damage taken is reduced by 50%.}}{{StarPower|1}} Whenever Gray is at full health, he takes 50% less damage. If Gray has additional Shield health, such as from [[Gus]]' Super, this Star Power will remain active as long as Gray's HP bar is full. This Star Power will not be active if Gray increases his maximum HP via [[Power Cubes]] or outside buffs.
+
+===New Perspective===
+{{Quote|When Gray or his Allies use Doors, they recover 20% of their max hit points.}}{{StarPower|2}} Every time Gray or his allies use his teleporters, they heal for 20% of their max health each. This value for Gray himself is 1360 hitpoints at max level. This includes allied spawnables like [[Nita]]'s bear, [[Penny]]'s cannon, or [[Jessie]]'s turret.
+
+==Hypercharge: Another Dimension==
+{{Quote|Gray opens a new pair of portals that shields him and allies for 1000 when they pass through.}}{{Hypercharge}}[[File:Hardcore Icon.png|left|link=]]When activated, Gray creates teleporters that whenever he or his allies use them, they receive a shield that initially blocks the next 1000 damage dealt to them. The shield decays for 50 health every 0.75 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Gray or his allies are damaged by the remaining damage. [[Colette]]'s attack and Super will deal damage based on Gray or his allies' max health when this shield is active. When Gray or his allies use his teleporters, while their shields are active, they will reset back to 1000. The Hypercharged Super can be placed alongside the normal Super. Gray also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Gray can have up to 6 active Dimensional Doors at a time, and he has an increased Super Charge.}}<div style="float: right;">[[File:Mutation.png|link=|85x85px]]</div>Gray could place a maximum of 6 teleporters. Spawning more teleporters causes the others to disappear in the order they are placed. Additionally, Gray's Super charge rate was increased.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Dimensional Doors pull enemies towards them whenever Gray enters!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|link=|89x89px]]</div>When Gray used his Super, the teleporters would send out 6 smaller Walking Cane Gadgets radially. The pattern was fixed, with 60 degrees between each cane, and it didn't rotate with the projectile's angle. Unlike the Walking Cane Gadget, the smaller cane didn't deal damage. This Wasabi Power could also affect the gates spawned by using the Hypercharge.
+
+==Tips==
+===Game Mode and Maps===
+*In Solo [[Showdown]], you should save your Super as a last resort when you need to escape from a tight situation. The Super activation is instant and unlike regular teleportation gates, enemies can't use the dimensional door.
+*Gray is useful in any mode where an objective needs to be reached quickly, such as Heist or Hot Zone.
+*In [[Heist]], Gray can put his Super near the enemies' safe, so that teammates can quickly teleport to the safe to do damage and/or quickly escape from defending enemies. With his Hypercharge, where his teammates can gain an additional 1000 shield, he can deal more damage before being defeated by an enemy. With 2 pairs of doors, teammates can easily reach the enemy Heist safe very quickly after respawning.
+**This can be devastating to the enemies' safe when used by teammates such as [[Griff]], [[Leon]], Shelly, [[Buzz]], Darryl, [[Clancy]], [[Amber]], El Primo, Nani, [[Emz]], [[8-Bit]], Bull, and [[Spike]], as they can quickly melt the enemies' safe at close range. Enemies will be pressured to defend against teleporting enemies that approach their safe quicker than usual.
+
+===Recommended Build===
+*Using a Shield [[Gears|Gear]] on Gray and his Fake Injury Star Power together is a good idea, since Gray will always have full health as long as his Gear's shield is up, meaning all hits he takes will stay reduced by 50% until he takes a hit without the shield up.
+
+===Strategies===
+*His attack reload is slow and his bullets are delayed, so it is best to aim your attacks rather than auto aiming.
+*By using his Walking Cane Gadget, Gray can finish off low health brawlers hiding behind walls, or can even disarm enemies holding the ball in [[Brawl Ball]].
+*Gray's Super can easily finish artilleries who cannot closely combat against Brawlers easily or enemies that are on low health. However, try to accumulate 2 or 3 ammos before doing that so you don't give the enemy time to escape while you are reloading your ammo.
+*Be wary when using his Super because Gray can accidentally teleport in front of a high damaging Brawler such as [[Darryl]], [[Colt]], [[Fang]], [[Doug]], 8-Bit, [[Shelly]], [[Nani]], Buzz, [[Brock]], [[Bibi]], Leon, [[El Primo]], Spike, [[Frank]], Griff, or [[Bull]]. This can be prevented by manually aiming his Super away from close range Brawlers.
+*Teleporting while pulling an enemy with Gray's Walking Cane Gadget can allow the pull range to be extended to Gray's initial position before teleporting, allowing the player to bring high-focus targets, like a Gem carrier, closer to your team.
+
+===Other===
+*While camping near Gray's teleporters is a viable strategy to ambush him or his teammates, do note that if you stand too close to one, they will begin to glow similarly to when they are being activated, betraying your location. Also, note that there is a delay between using the portals.
+
+==Voice Lines==
+{| class="article-table"
+!colspan=7 style=text-align: center |Attacking Sounds
+|-
+|{{Ogg|Filename = Grey atk 01.ogg|Filedescription ="Pew!"}}
+|{{Ogg|Filename = Grey atk 02.ogg|Filedescription ="Pewoing!"}}
+|{{Ogg|Filename = Grey atk 03.ogg|Filedescription ="Pew!"}}
+|{{Ogg|Filename = Grey atk 04.ogg|Filedescription ="Pew!"}}
+|{{Ogg|Filename = Grey atk 05.ogg|Filedescription ="Pewoing!"}}
+|{{Ogg|Filename = Grey atk 06.ogg|Filedescription ="Pew!"}}
+|
+|-
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 01.ogg|Filedescription = "Poo-poo-poo-pee!""}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut lead vo 01.ogg|Filedescription = "Pee-poo-poo-pee-pee-pee!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 01.ogg|Filedescription = "Pee-poo-poo-poo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut kill vo 01.ogg|Filedescription = "Ploo-ploo-ploo-ploo-plip!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut die vo 01.ogg|Filedescription = "Mee-moo-moo-moo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 01.ogg|Filedescription = "Pew!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 01.ogg|Filedescription = "Woo-hoo-hoo!"}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 02.ogg|Filedescription = "Pee-poo-poo-pee-poo."}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut lead vo 02.ogg|Filedescription = "Poo-poo-poo-poo-pee!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 02.ogg|Filedescription = Pee-poo-poo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut kill vo 02.ogg|Filedescription = "Ple-ploo-ploo-plip-plip!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut die vo 02.ogg|Filedescription = "Pli-plu-plu-plu-plu."}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 02.ogg|Filedescription = "Fziu!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 02.ogg|Filedescription = Gray laughs}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 03.ogg|Filedescription = "Pli-plu-plu-plu."}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut lead vo 03.ogg|Filedescription = "Poo-poo-poo-poo-pee!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 03.ogg|Filedescription = "Mi!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut kill vo 03.ogg|Filedescription = "Pee-poo-poo-ploo-ploo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut die vo 03.ogg|Filedescription = "Mi-moo-moo-moo-moo-moo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 03.ogg|Filedescription = "Fhiu!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 03.ogg|Filedescription = "Bzy-poo-poo-poo-poo-pee!"}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 04.ogg|Filedescription = "Piu-piu-piu-piu-piu!"}}
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 04.ogg|Filedescription = "Pee-pee-poo-pee!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut kill vo 04.ogg|Filedescription = "Pli-plu-plu-pli!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut die vo 04.ogg|Filedescription = "Pli-plu-plu-plu-plu-plu-plu..."}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 04.ogg|Filedescription = "Fhiu!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 04.ogg|Filedescription = "Blue-blue-blup-blip-blip-blip-blup!"}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 05.ogg|Filedescription = "Pee-poo-pee-poo-pee!"}}
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 05.ogg|Filedescription = "Eoo-eoo!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut kill vo 05.ogg|Filedescription = "Be-bu-boo-boo-bep-bep!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut die vo 05.ogg|Filedescription = "Phew-phew-phew..."}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 05.ogg|Filedescription = "Peew!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 05.ogg|Filedescription = "Blue-blue-blip-blip-blip!"}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 06.ogg|Filedescription = "Poo-poo-poo-poo-poo!"}}
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 06.ogg|Filedescription = "Bz-pu!"}}
+|
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 06.ogg|Filedescription = "Peew!"}}
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut ulti vo 06.ogg|Filedescription = "Poo-poo-poo-poo!"}}
+|-
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut start vo 07.ogg|Filedescription = "Plu-pli-pli-plu-plip."}}
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut hurt vo 07.ogg|Filedescription = "Bziu!"}}
+|
+|
+|'''Windstock:'''
+{{Ogg|Filename = Grey retrofut atk vo 07.ogg|Filedescription = "Pee-wee-wee-wee!"}}
+|
+|}
+
+==History==
+*12/12/22:
+**{{Balance|Content=Gray can be unlocked by completing a special quest required to deal 500,000 damage points until 02/01/23.|Change=Neutral}}
+**{{Balance|Content=The Runaway Gray skin was added.|Change=Neutral}}
+*26/12/22:
+**{{Balance|Content=Gray's Grand Piano Gadget and New Perspective Star Power were added.|Change=Neutral}}
+*02/01/23:
+**{{Balance|Content=Gray became available in the Starr Road.|Change=Neutral}}
+*12/01/23:
+**{{Balance|Content=Gray's Grand Piano Gadget radius was decreased to 2 tiles (from 4).|Change=Nerf}}
+*28/02/23:
+**{{Balance|Content=Gray's Super no longer teleports his allies instantly upon placing them.|Change=Nerf}}
+**{{Balance|Content=Gray's main attack visual effects were reworked.|Change=Neutral}}
+**{{Balance|Content=Gray's True Silver and True Gold skins were added.|Change=Neutral}}
+*08/03/23:
+**{{Balance|Content=Fixed a bug where Gray's Super would rarely crash the game.|Change=Neutral}}
+*09/03/23:
+**{{Balance|Content=The Detective and Detective Gray (Noir Edition) skins were added. They were featured as License to Brawl skins.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Fixed an issue with Detective Gray (Noir Edition)'s Super visual effects.|Change=Neutral}}
+*27/04/23:
+**{{Balance|Content=Fixed an issue with Gray's Star Power localization.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue where the Detective Gray (Noir Edition) skin could be bought without owning the Detective Gray skin.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Gray's Fake Injury Star Power damage reduction was increased to 50% (from 25%).|Change=Buff}} 
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Gray's New Perspective Star Power now heals for 20% of maximum health (from 1000).|Change=Neutral}}
+**{{Balance|Content=Gray's flavor text was changed from "What's the meaning of Orthochromatic? Gray would tell you, but he doesn't speak much." to "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets."|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Gray's Mutation was added for a limited time.|Change=Neutral}}
+*03/05/24:
+**{{Balance|Content=Gray can no longer use his Walking Cane Gadget to pull [[Godzilla City Smash|Godzilla]].|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Gray's Mutation was removed from the game.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Gray's Another Dimension Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Gray's Super's teleportation SFX was removed.|Change=Neutral}}
+*18/12/24:
+**{{Balance|Content=Gray's Walking Cane Gadget now charges his Hypercharge.|Change=Buff}}
+*02/01/25:
+**{{Balance|Content=The Gigantophis Gray skin was added. It was featured as a StarrForce Assemble skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Gray's Walking Cane Gadget cooldown was increased to 20 seconds (from 18).|Change=Nerf}}
+*23/04/25:
+**{{Balance|Content=Gray's Another Dimension Hypercharge shield boost was increased to 15% (from 10%).|Change=Buff}}
+**{{Balance|Content=Gray's Another Dimension Hypercharge damage boost was decreased to 15% (from 20%).|Change=Nerf}}
+**{{Balance|Content=Gray's Walking Cane Gadget aiming line now goes through walls.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Gray's Walking Cane Gadget cooldown was increased to 23 seconds (from 20).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=The Wanderer Gray skin was added. It was featured as a Battle for Katana Kingdom skin.|Change=Neutral}}
+**{{Balance|Content=Gray's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Gray's Wasabi Power was removed from the game.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Fixed the description of Gray's New Perspective to match its functionality.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Gray's Another Dimension Hypercharge damage boost from 15%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Gray's Another Dimension Hypercharge shield boost from 15%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Gray's health was increased to 3400 (from 3300).}}
+*22/04/26:
+**{{Balance|Neutral|Fixed an issue with Gray's Walking Cane Gadget bypassing crowd control immunity.}}
+*30/06/26:
+**{{Balance|Buff|Gray's Grand Piano Gadget drops after 1.5 seconds (from 2.5).}}
+**{{Balance|Buff|Gray's main attack damage was increased to 1280 (from 1160).}}
+**{{Balance|Neutral|Gray's Super received new sound effects.}}
+**{{Balance|Neutral|Fixed a bug where Gray’s Fake Injury Star Power did not work correctly when his maximum health was increased above its base value.}}
+*06/08/26:
+**{{Balance|Neutral|The Windstock Gray skin was added. It was featured as a Windstock skin.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Gray's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Nerf|Gray's level up damage was decreased to 5% (from 6%) in Brawl Arena.}}
+
+==Cosmetics==
+===Skins (8)===
+{{Skin Gallery
+|Name1=Runaway|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=Outlaws|Rarity1=Rare
+|Name2=Detective (Noir Edition)|Cost2=29 Gems, available after purchasing Detective Gray|Campaign2=License to Brawl|Rarity2=Super Rare
+|Name3=Detective|Cost3=79 Gems|Campaign3=License to Brawl|Rarity3=Super Rare
+|Name4=Gigantophis|Cost4=Available in bundles for Pizza Slices or 149 Gems • '''S'''|Campaign4=StarrForce Assemble|Rarity4=Epic
+|Name5=Wanderer|Cost5=Free from Sushi Rolls or 149 Gems • '''S'''|Campaign5=Battle for Katana Kingdom|Rarity5=Epic
+|Name6=Windstock|Cost6=Free from Smoothie Drops or 299 Gems|Campaign6=Windstock|Rarity6=Legendary
+|TrueSkins = yes}}
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Gray
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Detective}}
+{{Pin Table|Gigantophis|Special}}
+{{Pin Table|Wanderer}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Gray|Rarity = Common}}
+|{{Spray|Type = Gray Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Gray1}}
+|{{Pfp|Gray2}}
+|{{Pfp|Gray3}}
+|{{Pfp|Gray4}}
+|{{Pfp|Gigantophis Gray}}
+|-
+|{{Pfp|Wanderer Gray}}
+|
+|
+|
+|
+|}
+
+{{Navigation}}
+[[ru:Грей]]

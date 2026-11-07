@@ -1,0 +1,330 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = The Salty|PrestigeTitle = The Rebel|Rarity = Super Rare|Class = Controller|MovementSpeed = 750 (Normal)|GadgetCharges = 3|VoiceActor = Maria Arteaga|HealthLabel = Health|Health = 3500|AttackRange = 8.67 (Long)|Reload = 2 seconds (Slow)|AttackSuperCharge = 21.8%<br>16.35% (spray)|AttackBullets = 1<br>4 (after split)<br>6 (after split; with Heavy Coffers)|AttackLabel = Damage|Attack = 980|AttackLabel2 = Spray Damage|Attack2 = 735|SuperRange = 5 (Normal)|SuperSuperCharge = 30%<br>6.6% (fire)|SuperMinion = Cannon|SuperMinionRange = 13.33|SuperReload = 3.3 seconds|SuperLabel = Health|Super = 3400|SuperLabel2 = Damage|Super2 = 1200|SuperSpeed=1196<br>750 (cannonball)|AttackSpeed=3400<br>2500 (spray)|AttackWidth=1<br>0.67 (spray)|SuperLabel3=Fire Damage|Super3=264|Gadget1Name = Salty Barrel|Gadget1 = 1960|Gadget1Label= Health|Gadget1Cooldown = 18 seconds|Gadget2Name = Trusty Spyglass|Gadget2Cooldown = 15 seconds|StarPower2Name = Master Blaster|StarPower2 = 1235|StarPower2Label= Damage|Previous=Darryl|Next=Carl|AttackSpread=40° (coins)<br>80° (spray; with Heavy Coffers)|AttackHyperchargeCharge=6.525%<br>4.9% (spray)|SuperHyperchargeCharge=9%<br>1.975% (fire)|HyperchargeMultiplier=30%}}
+{{Quote|Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!}}
+{{Portrait}}
+Penny is a {{Rarity|Super Rare}} [[Brawler]] with moderate health and a variable damage output, but a slow reload speed. She was the 20th/21st Brawler added to the game. Penny's attack fires a pouch of gold that has a long range and deals splash damage when it hits a target. Her Super deploys a mortar with moderate health that lobs high-damaging, long-ranged cannonballs that also briefly set the ground on fire. Her first Gadget, Salty Barrel, drops a barrel that block non-piercing enemy fire and make Penny's attack splash out upon being hit. Her second Gadget, Trusty Spyglass, makes her cannon fire a cannonball at every enemy within range. Her first Star Power, Heavy Coffers, allows her attack to spread wider upon hitting an enemy. Her second Star Power, Master Blaster, makes her cannon knock back and deal damage to nearby enemies when deployed. Her Hypercharge, New Lobber, increases the size of her next Super, and it makes it fire two cannonballs instead of one.
+
+==Attack: Plunderbuss==
+{{Quote|Shoots out a pouch of fool's gold. If the pouch hits an enemy, it bursts and coins pepper targets behind the first enemy.}}Penny shoots a medium-sized pouch of gold that has a long range. If it hits an opposing target, it sprays three additional clumps of golden coins behind the target in a cone formation that travel for 5.33 tiles, piercing opponents and dealing 75% damage of the pouch for each clump of gold. With this, she can deal double or even triple the damage of her attack if she's attacking multiple targets. However, the pouch itself deals relatively low damage, and she has a slow reload speed.
+
+==Super: Old Lobber==
+{{Quote|Penny sets up her cannon! It can shoot at enemies at a long range, over cover and setting the ground on fire.}}Penny's Super deploys a cannon with a high damage output and moderate health. This turret can be thrown anywhere over obstacles within a short distance from Penny. The turret is stationary and fires cannonballs that deal high area damage in a 1.5 tiles radius, and leave an area 2 tiles in radius on fire over 3.9 seconds and dealing 22% of the cannonball's damage per second. Where the shots will land is highlighted with an area effect. The cannon's range is extremely large; however, it has a rather slow firing speed and the cannonballs have a slow travel speed, which make them easy to dodge. The travel time of the cannonballs doesn't decrease the closer the target is to the cannon.
+
+==Gadgets==
+===Salty Barrel===
+{{Quote|Penny drops a barrel of salt that blocks enemy projectiles. She can also use it to burst her own gold pouches. Cooldown: 18 seconds.}}{{Gadget|1}}Penny places a barrel that has 35% of her max health that blocks non-piercing attacks. The barrel also blocks Penny's attacks, causing her attack to spray out behind it, but will also deal 100 damage to the barrel this way. If Penny places another barrel while one exists, the first one will disappear. This Gadget's cooldown begins after the attack is used.
+
+===Trusty Spyglass===
+{{Quote|Penny's cannon blasts at every visible enemy position within range. Cooldown: 15 seconds.}}{{Gadget|2}}Upon activation, Penny's cannon rapidly blasts a cannonball at every visible target in its range at 0.3-second intervals. It can shoot a maximum of 17 targets, but neither the cannonballs nor the fire they leave can charge her Super. Penny cannot use this Gadget if her cannon is not active, and must be within 14 tiles of its location. This Gadget's cooldown begins after the attack is used.
+
+==Star Powers==
+===Heavy Coffers===
+{{Quote|Penny's gold pouches burst with a 100% wider cone after each hit.}}{{StarPower|1}}This Star Power doubles the spread of the golden coins of the burst of every attack, as well as adding 2 more clumps, increasing its width and total damage.
+
+===Master Blaster===
+{{Quote|Penny's cannon deals 1372 damage and knocks back nearby enemies on landing.}}{{StarPower|2}}Whenever Penny drops her cannon, any enemy near the landing spot gets knocked back and takes 70% of her attack damage.
+
+==Hypercharge: New Lobber==
+{{Quote|Penny deploys a bigger cannon that shoots 2 cannonballs at a time instead of 1}}{{Hypercharge}}When activated, Penny's next Super deploys a visually larger cannon that fires two cannonballs in quick succession instead of one. The fire damage from both cannonballs doesn't stack. The second cannonball is fired at a 0.3-second delay after the first one. She also gains a 20% speed boost, as well as a 5% shield and damage boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Penny deploys an additional cannon with old Lobber.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Penny deployed two turrets with her Super. The extra one would always spawn three tiles above the first turret, although it could be offset if it would've been deployed inside a wall. Both her Trusty Spyglass Gadget and Master Blaster Star Power would affect both turrets.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Deploys two cannons with her Super}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Penny deployed two turrets with her Super. The extra one would always spawn three tiles above the first turret, although it could be offset if it will be deployed inside a wall. Her Trusty Spyglass Gadget, Master Blaster Star Power, and Hypercharge would affect both turrets, while her Salty Barrel Gadget would spawn two barrels.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+*The leftover fire from her cannonballs is very effective at restricting where an enemy is willing to go, often cutting off their escape route. This is valuable in game modes focused on control, such as [[Gem Grab]] and [[Hot Zone]]. The additional damage it deals is also effective against stationary targets such as safes.
+*Penny's pouch will not burst upon impact with walls or other obstacles. Her attack will, however, burst upon impact with a Power Cube box in [[Showdown]]. Use this to your advantage in keeping enemies away from the box with the coins from when your pouch splits. This strategy works particularly well in [[Rockwall Brawl]] in 8 out of the 10 spawn points. This also helps Penny open multiple grouped up boxes at ease, while she struggles to destroy single boxes due to her slow reload speed and pouch's low damage.
+
+=== Recommended Build ===
+
+*Salty Barrel is incredible against tanks and assassins because it can deal high damage if you are close to enemies. This also works if you put it near the safe, as it can destroy it very fast.
+*If a Brawler with a moving ability like [[Edgar]], [[El Primo]], [[Fang]], [[Bull]], [[Crow]], [[Mico]], [[Bonnie]], [[Darryl]], [[Kit]], or [[Buzz]] jumps, dashes, or charges on you, Penny's Master Blaster Star Power can be used to distance yourself from the said Brawler with moving ability.
+
+=== Strategies ===
+
+*To maximize the lifespan of the cannon, one of the very optimal placements for it is behind walls on the player's side of the map. The turret's extremely long range allows it to shoot cannonballs to the enemy's side of the map from the safety of the player's side and it is protected from enemy fire when behind walls. Additionally, close-ranged Brawlers' movement will be restricted by the walls when trying to take the turret down, causing them to be hit by its cannonballs.
+*It is better to put Penny's Cannon behind walls since it can attack through walls and make enemies have difficulty destroying it. The cannonballs from her Super take the same amount of time to land regardless of how far the opponent is. Use this to your advantage by placing the cannon as far back on the map as possible.
+
+=== Other ===
+*When an opponent is positioned behind another opponent, the splash effect of Penny's main attack is able to hit both of them. This makes her very effective against any Brawler that has a meat shield, like [[Mr. P]]'s Porters, [[Ash]]'s Rats, [[Tick]]'s Head, [[Nita]]'s Bruce, or [[Tara]]'s Shadow Clone.
+*Penny's cannon forces players to keep moving around the map. Use this to your advantage to predict your opponents' movement and shoot your attacks ahead of them in the direction they are moving. They will not be able to dodge the attack if it's aimed correctly, as by changing direction they'll be hit by the turret's cannonballs.
+*Like [[Jessie]], Penny's Super can act as a meat shield in a pinch, absorbing enemy fire for a while and allowing herself or an ally to escape from a dangerous situation. It is even more effective combined with Master Blaster, which deals 1000 damage and knocks the enemy back. However, it's less effective against opposing Pennys who can maximize their damage by hitting you and your cannon.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = Penny start vo 01.ogg|Filedescription = "Let's go!"}}
+|{{Ogg|Filename = Penny lead vo 01.ogg|Filedescription = "Number one!"}}
+|{{Ogg|Filename = Penny hurt vo 01.ogg|Filedescription = Penny groans}}
+|{{Ogg|Filename = Penny kill vo 01.ogg|Filedescription = "Yeah!"}}
+|{{Ogg|Filename = Penny die vo 01.ogg|Filedescription = "Noooo..."}}
+|
+|{{Ogg|Filename = Penny ulti vo 01.ogg|Filedescription = Penny cackles}}
+|-
+|{{Ogg|Filename = Penny start vo 02.ogg|Filedescription = "Yeah!"}}
+|{{Ogg|Filename = Penny lead vo 02.ogg|Filedescription = "I'm the best!"}}
+|{{Ogg|Filename = Penny hurt vo 02.ogg|Filedescription = Penny groans}}
+|{{Ogg|Filename = Penny kill vo 02.ogg|Filedescription = "Ha ha ha ha ha ha!"}}
+|{{Ogg|Filename = Penny die vo 02.ogg|Filedescription = Penny groans}}
+|
+|{{Ogg|Filename = Penny ulti vo 02.ogg|Filedescription = Penny laughs}}
+|-
+|{{Ogg|Filename = Penny start vo 03.ogg|Filedescription = "Ha ha!"}}
+|{{Ogg|Filename = Penny lead vo 03.ogg|Filedescription = "Yeah!"}}
+|{{Ogg|Filename = Penny hurt vo 03.ogg|Filedescription = "Ow!"}}
+|{{Ogg|Filename = Penny kill vo 03.ogg|Filedescription = "Ha ha!"}}
+|{{Ogg|Filename = Penny die vo 03.ogg|Filedescription = Penny groans}}
+|
+|{{Ogg|Filename =  Penny ulti vo 03.ogg|Filedescription = "Hee hee hee!"}}
+|-
+|
+|
+|
+|{{Ogg|Filename = Penny kill vo 04.ogg|Filedescription = "Bye bye."}}
+|
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = Penny kill vo 05.ogg|Filedescription = "Yes!"}}
+|
+|
+|
+|}
+
+==History==
+*21/05/18:
+**{{Balance|Content=Penny was added to the game.|Change=Neutral}}
+*19/06/18:
+**{{Balance|Content=Penny's cannonballs projectile speed was increased by 25%.|Change=Buff}}
+**{{Balance|Content=Her cannon's attack delay was decreased to 2.5 seconds (from 3).|Change=Buff}}
+*30/08/18:
+**{{Balance|Content=Penny's main attack damage was increased to 840 (from 800).|Change=Buff}}
+**{{Balance|Content=Penny's coin burst main attack now pierces enemies.|Change=Buff}}
+*27/09/18:
+**{{Balance|Content=Penny's main attack was made 50% wider.|Change=Buff}}
+*05/12/18:
+**{{Balance|Content=Penny's Super no longer fires randomly and instead targets at a close enemy.|Change=Buff}}
+**{{Balance|Content=Her main attack projectile speed was decreased by 6%.|Change=Nerf}}
+**{{Balance|Content=Penny was given voice lines.|Change=Neutral}}
+*20/12/18:
+**{{Balance|Content=The Lil Helper Penny skin was added. It was featured as a Brawlidays 2018 skin.|Change=Neutral}}
+*19/04/19:
+**{{Balance|Content=The Bunny Penny skin was added.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Penny's Last Blast Star Power was reworked from shooting 6 cannonballs randomly when the cannon is destroyed to fire 6 cannonballs that targets enemies in the range of the turret.|Change=Buff}}
+*26/06/19:
+**{{Balance|Content=Penny's Last Blast Star Power cannonballs was decreased to 4 (from 6).|Change=Nerf}}
+*14/08/19:
+**{{Balance|Content=Penny's Balls of Fire Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Penny's animations were reworked and Bunny Penny was retextured.|Change=Neutral}}
+**{{Balance|Content=Fixed a bug that didn't take into account of Penny's Last Blast bombs defeating enemies and adding to Penny's bounty in [[Bounty]].|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=Penny's main attack damage was increased to 900 (from 840).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Penny's Pocket Detonator Gadget and the Dark Bunny Penny skin were added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Dark Bunny Penny's main attack visual effects were reworked.|Change=Neutral}}
+*05/08/20:
+**{{Balance|Content=Penny's Captain's Compass Gadget was added.|Change=Neutral}}
+*16/03/21:
+**{{Balance|Content=The Smuggler Penny skin was added. It was featured as a Power League exclusive skin for Brawl Pass Season 5.|Change=Neutral}}
+*16/06/21:
+**{{Balance|Content=Penny's main attack damage was increased to 940 (from 900).|Change=Buff}}
+*25/08/21:
+**{{Balance|Content=Penny's health was increased to 3400 (from 3200).|Change=Buff}}
+*27/10/21:
+**{{Balance|Content=Penny's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*16/12/21:
+**{{Balance|Content=Penny's True Silver and True Gold skins were added.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Penny's health was increased to 3800 (from 3400).|Change=Buff}}
+**{{Balance|Content=Penny's main attack projectile speed was increased by 13%.|Change=Buff}}
+**{{Balance|Content=Penny's cannonballs from her Super now set the ground on fire for 3 seconds.|Change=Buff}}
+**{{Balance|Content=Penny's cannonballs from her Super became slightly larger.|Change=Buff}}
+**{{Balance|Content=Penny's main attack range was decreased to 8 tiles (from 9).|Change=Nerf}}
+**{{Balance|Content=Penny's cannonballs projectile speed from her Super was decreased slightly.|Change=Nerf}}
+**{{Balance|Content=Penny and her cannon were remodeled, along with her True Silver and True Gold skins.|Change=Neutral}}
+**{{Balance|Content=Penny's cannon now has an X indicator which shows where the cannonball lands.|Change=Neutral}}
+**{{Balance|Content=Penny's Pocket Detonator Gadget was renamed to Salty Barrel and reworked from blowing up her cannon which knocks back enemies and deal 1500 damage to nearby enemies to dropping a barrel that blocks enemy projectiles and allows her attack to splash when hit by it.|Change=Neutral}}
+**{{Balance|Content=Penny's Captain's Compass Gadget was renamed to Trusty Spyglass and reworked from firing 5 cannonballs to Penny's location to making her cannon fire at every visible enemy position within range.|Change=Neutral}}
+**{{Balance|Content=Penny's Last Blast Star Power was renamed to Heavy Coffers and reworked from shooting out 4 cannonballs that deal 1860 damage to enemies upon being destroyed to making her attack splash wider and fire 2 more coins upon hitting an enemy.|Change=Neutral}}
+**{{Balance|Content=Penny's Balls of Fire Star Power was renamed to Master Blaster and reworked from making her cannonballs set the ground on fire for 1200 damage over 3 seconds to making her cannon dealing 1000 damage and knocking back enemies when deployed.|Change=Neutral}}
+**{{Balance|Content=Penny's flavor text was changed from “Penny shoots bags of coins, damaging the target and anyone standing behind. Her Super is a mortar-style cannon turret!” to “A rebel without a cause, mischievous Penny rules the “high seas”. She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder.”|Change=Neutral}}
+*30/06/22:
+**{{Balance|Content=Penny's coin burst main attack now deals 25% less damage.|Change=Nerf}}
+**{{Balance|Content=Penny's cannon's attack delay was increased to 3.5 seconds (from 2.5).|Change=Nerf}}
+*31/08/22:
+**{{Balance|Content=Penny's health was decreased to 3600 (from 3800).|Change=Nerf}}
+*07/11/22:
+**{{Balance|Content=The Trash Panda Penny skin was added. It was featured as a Brawl Pass Season 15 skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Bunny Penny's main attack and Super visual effects were slightly reworked.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Penny's class was changed to Artillery (from Damage Dealer).|Change=Neutral}}
+**{{Balance|Content=Bunny Penny, Dark Bunny Penny, and their cannons were remodeled.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Dark Bunny Penny now costs 29 [[Gems]] (from 10000 [[Star Points]]).|Change=Neutral}}
+**{{Balance|Content=Fixed a visual bug with Bunny Penny and Dark Bunny Penny's cannons model.|Change=Neutral}}
+*15/05/23:
+**{{Balance|Content=Penny's health was decreased to 3400 (from 3600).|Change=Nerf}}
+*06/06/23:
+**{{Balance|Content=Penny's health was decreased to 3200 (from 3400).|Change=Nerf}}
+**{{Balance|Content=Penny's Salty Barrel Gadget health was decreased to 1500 (from 2000).|Change=Nerf}}
+*27/06/23:
+**{{Balance|Content=Smuggler Penny and her cannon were remodeled.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=Lil Helper Penny and her cannon were remodeled.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Smuggler Penny's cannon.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Penny's Salty Barrel Gadget health was increased to 1792 (from 1500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Penny's Master Blaster Star Power damage was increased to 1185 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Penny's flavor text was changed from "A rebel without a cause, mischievous Penny rules the "high seas". She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder." to "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!"|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=Penny's main attack damage was increased to 980 (from 940).|Change=Buff}}
+**{{Balance|Content=Penny's Master Blaster Star Power damage was increased to 1235 (from 1185).|Change=Buff}}
+*23/04/24:
+**{{Balance|Content=The Moon-Curser Penny skin was added. It was featured as a Ranked skin.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Penny's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Penny's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Penny's Super health was increased to 3400 (from 2800).|Change=Buff}}
+**{{Balance|Content=Penny's class was changed to Controller (from Artillery).|Change=Neutral}}
+*04/10/24:
+**{{Balance|Content=Penny's main attack range was increased to 8.67 tiles (from 8).|Change=Buff}}
+*04/11/24:
+**{{Balance|Content=Penny's New Lobber Hypercharge was added.|Change=Neutral}}
+*10/12/24:
+**{{Balance|Content=Fixed idle animation for default Penny, True Silver Penny, and True Gold Penny.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=The Robo Penny skin was added. It was featured as a CyberBrawl skin.|Change=Neutral}}
+**{{Balance|Content=The Pop Penny skin was added. It was featured as a Come Play With Us! skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=Penny's New Lobber Hypercharge multiplier was decreased to 30% (from 35%).|Change=Nerf}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Fixed a bug where Penny's Hypercharged cannon's second projectile targeted the same spot as the first one instead of aiming at enemies.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Penny's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Penny's Wasabi Power was removed from the game.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Penny's New Lobber Hypercharge shield boost was increased to 15% (from 5%).|Change=Buff}}
+**{{Balance|Content=Penny's New Lobber Hypercharge damage boost was decreased to 15% (from 25%).|Change=Nerf}}
+*29/09/25:
+**{{Balance|Content=The Truant Penny skin was added. It was featured as a Brawl Academy skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=Penny's cannon's attack delay was decreased to 3.3 seconds (from 3.5).|Change=Buff}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Penny's New Lobber Hypercharge speed boost from 26%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Penny's New Lobber Hypercharge damage boost from 15%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Penny's New Lobber Hypercharge shield boost from 15%.|Change=Nerf}}
+*28/11/25:
+**{{Balance|Content=The Archer Queen Penny skin could be obtained by redeeming it from {{Link|Supercell ID}} with 2,000 Supercell ID points. It was featured as Clash Stories skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Penny's health was increased to 3500 (from 3200).}}
+**{{Balance|Buff|Penny's Salty Barrel Gadget health was increased to 1960 (from 1792).}}
+*30/06/26:
+**{{Balance|Nerf|Penny's level up movement speed was decreased to 6 (from 8) in [[Brawl Arena]].}}
+**{{Balance|Nerf|Penny's level up reload speed was decreased to 1.5% (from 2%) in Brawl Arena.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Penny's movement speed to 750 (from 720).}}
+==Cosmetics==
+===Skins (12)===
+====Penny====
+{{Skin Gallery
+|Name1=Robo|Cost1=Free after reaching 750 Trophies or 29 Gems|Campaign1=CyberBrawl|Rarity1=Rare
+|Name2=Dark Bunny|Cost2=29 Gems, available after purchasing Bunny Penny|Campaign2=Bunny Brigade|Rarity2=Super Rare
+|Name3=Lil Helper|Cost3=79 Gems • '''E'''|Campaign3=Brawlidays|Rarity3=Super Rare
+|Name4=Bunny|Cost4=79 Gems|Campaign4=Bunny Brigade|Rarity4=Super Rare
+|Name5=Smuggler|Cost5=149 Gems • '''E'''|Campaign5=Ranked|Campaign5_2=The Worst Bunch|Rarity5=Epic
+|Name6=Moon-Curser|Cost6=Free from Ranked Starr Drops or 149 Gems|Campaign6=Ranked|Campaign6_2=The Worst Bunch|Rarity6=Epic
+|Name7=Truant|Cost7=149 Gems|Campaign7=Brawl Academy|Rarity7=Epic
+|Name8=Archer Queen|Cost8=2000 Supercell ID points from {{Link|Supercell ID}}|Campaign8=Clash Stories|Rarity8=Epic
+|Name9=Pop|Cost9=Free from Presents, free from Nova Drops or 199 Gems|Campaign9=Come Play With Us!|Rarity9=Mythic
+|TrueSkins = yes
+|NameP1=Trash Panda|CostP1=Brawl Pass, free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic}}
+
+====Cannon====
+{{Skin Gallery
+|For=Minion
+|Name1=Robo|Campaign1=CyberBrawl|Rarity1=Rare
+|Name2=Dark Bunny|Campaign2=Bunny Brigade|Rarity2=Super Rare
+|Name3=Lil Helper|Campaign3=Brawlidays|Rarity3=Super Rare
+|Name4=Bunny|Campaign4=Bunny Brigade|Rarity4=Super Rare
+|Name5=Smuggler|Campaign5=Ranked|Campaign5_2=The Worst Bunch|Rarity5=Epic
+|Name6=Moon-Curser|Campaign6=Ranked|Campaign6_2=The Worst Bunch|Rarity6=Epic
+|Name7=Truant|Campaign7=Brawl Academy|Rarity7=Epic
+|Name8=Archer Queen|Campaign8=Clash Stories|Rarity8=Epic
+|Name9=Pop|Campaign9=Come Play With Us!|Rarity9=Mythic
+|TrueSkins = yes
+|NameP1=Trash Panda|CampaignP1=Brawl Pass|CampaignP1_2=Brawl-o-ween|RarityP1=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Penny
+|-
+!Skin
+!colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Lil Helper}}
+{{Pin Table|Trash Panda}}
+{{Pin Table|Bunny|Special}}
+{{Pin Table|Dark Bunny|Special}}
+{{Pin Table|Smuggler}}
+{{Pin Table|Moon-Curser}}
+{{Pin Table|Pop|Special}}
+{{Pin Table|Truant|Special}}
+{{Pin Table|Archer Queen|Thanks}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Penny|Rarity = Common}}
+|{{Spray|Type = Penny Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Pop Penny|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Penny1}}
+|{{Pfp|Penny2}}
+|{{Pfp|Penny3}}
+|{{Pfp|Penny4}}
+|{{Pfp|Smuggler Penny}}
+|-
+|{{Pfp|Moon-Curser Penny}}
+|{{Pfp|Trash Panda Penny}}
+|{{Pfp|Pop Penny}}
+|{{Pfp|Truant Penny}}
+|{{Pfp|Archer Queen Penny}}
+|}
+{{Navigation}}
+[[pt:Penny]]
+[[ru:Пенни]]
+[[uk:Пенні]]
+[[pl:Penny]]
+[[nl:Penny]]
+[[es:Penny]]

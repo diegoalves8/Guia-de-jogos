@@ -1,0 +1,123 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Hot and Cold
+|image      = Hot and cold rework.png
+|type       = Island
+|sea        = Second Sea
+|level      = 1100-1250
+|music      = Acoustic Traveller a
+|music1     = Into Battle
+|prev       = Snow Mountain
+|next       = Cursed Ship
+}}
+'''Hot and Cold''' is a set of two islands located in the [[Second Sea]].
+
+==Appearance== 
+Hot and Cold is located to the south of the [[Green Zone]], being a pair of tomoe (comma) shaped islands, which, when put together, form a Taijitu (yin-yang) circle. It has a small river separating the islands. As the name suggests, one of the islands is cold, and the other is hot. 
+
+The cold side (left part of the image) resembles an icy tundra with pale and blue colors, being mainly covered in snow and ice. In the center lies a large layered [[laboratory]] with a glass globe on top of it, with multiple events being able to be hosted inside it. The laboratory features small extensions on either side, as well as a tall extension on the pointy tip of the island. The island also has a small village on the right.
+
+The hot side (right part of the image) is a hellscape-like area, with lava seeping on it. The elevated center hosts the [[Smoke Admiral]], inside a black cathedral with red stained glass windows, surrounded by a pool of [[lava]] and curved spires. The cathedral also has a crypt that can be accessed from a slightly opened door in behind, where players can buy [[Order]] raid chips from [[Arlthmetic]]. A volcano is located on the left and right side of cathedral. The left volcano and a hill are connected by a metal arch and the hill has a lava bucket. There's also another hill in between the arch, which leads to a hidden room for hosting [[Order]] raids and purchasing the [[Cyborg]] [[race]]. There's a large village in the right side of cathedral near the right volcano, with two sectors that are separated by an arch made by elevated center. The front side of the village is inhabiting the [[First Sea]]'s [[fighting style]] [[NPCs]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+!Raid Bosses
+|-
+|
+* [[Arlthmetic]] 
+* [[Barista Cousin]] (Sometimes) 
+* [[Boat Dealer]]
+* [[Dark Step Teacher]]
+* [[Lucien]]
+* [[Luxury Boat Dealer]]
+* [[Mad Scientist]]
+* [[Mysterious Scientist]]
+* [[Set Home Point]]
+* [[Trinket Expert]]
+* [[Water Kung Fu Teacher]]
+|
+* [[Lab Subordinate]]
+* [[Horned Warrior]]
+* [[Magma Ninja]]
+* [[Lava Pirate]]
+|
+* [[Smoke Admiral]]
+|
+* [[Order]]
+|}
+
+==Quests==
+===Cold Island===
+{{Quests
+|giver  = Ice Quest Giver
+
+|enemy1 = Lab Subordinate
+|num1   = 8
+|level1 = 1100
+|money1 = 12,250
+|exp1   = 25,500,000
+
+|enemy2 = Horned Warrior
+|num2   = 9
+|level2 = 1125
+|money2 = 12,500
+|exp2   = 27,000,000
+
+|enemy3 = Smoke Admiral
+|level3 = 1150
+|money3 = 20,000
+|exp3   = 32,500,000
+}}
+
+* Note: The [[Smoke Admiral]] is located in the black cathedral in the center of the Hot Island.
+
+===Hot Island===
+{{Quests
+|giver  = Fire Quest Giver
+
+|enemy1 = Magma Ninja
+|num1   = 8
+|level1 = 1175
+|money1 = 12,250
+|exp1   = 29,000,000
+
+|enemy2 = Lava Pirate
+|num2   = 8
+|level2 = 1200
+|money2 = 12,500
+|exp2   = 31,000,000
+}}
+
+==Laboratory==
+Upon entering the Laboratory, players will encounter four large panels. Clicking on one of the panels will cause the screen's color to change. Arranging the panels in the sequence of '''{{Color|red|Red}}''', '''{{Color|blue|Blue}}''', '''{{Color|lime|Green}}''', and '''{{Color|blue|Blue}}''' <big>(🟥🟦🟩🟦)</big> will open a door behind the panels which will lead to the raid room following a steep passage where the players can join or host a raid. (The player cannot transform or hold anything in order to press the button). Additionally, upon entering the room, the player can collect 2 golden chests and 1 silver chest.
+
+==Trivia==
+* Although the [[Smoke Admiral]]'s quest giver is on the cold side, his boss room is on the hot side.
+* The [[Barista Cousin]] has a chance of spawning next to the of the [[Smoke Admiral]]'s Castle.
+* There is a glitch where if the player spawns a [[Boat]] larger than the [[Brigade]] at the Ice Island's [[Boat Dealer]]/[[Luxury Boat Dealer]] spawn, the boat will get stuck.
+* The hot side of Hot and Cold is very infamous for allowing players with the [[Portal]] [[fruit]] be able to teleport to the [[lava]].
+* There is a small area on the bucket of pouring lava on the Hot side of Hot and Cold where the lava will not harm the player.
+* Hot and Cold is known to be annoying to grind in, due to all the enemies being spaced apart (especially the [[Magma Ninja]]s) dealing high damage, and having lengthy [[stun]]s.
+* There is an unused room with a [[Chests|Golden Chest]] where you can only [[Flash Step|flashstep]] inside near the [[Horned Warrior|Horned Warriors]].
+
+==Gallery==
+<gallery>
+Blox Fruits - Hot and Cold (Secret Room).png|Unused Room in Hot and Cold (Maybe a scrapped idea for [[Dungeons]])
+</gallery>
+
+==Change History==
+{{Change History|10|content={{Update|29}}
+* Hot and Cold was revamped. 
+<gallery>
+Hot and Cold-Background3|Old Hot and Cold
+</gallery>
+----
+{{Update|10}}
+* Hot and Cold was released.
+}}
+
+==Navigation==
+{{IslandNavigation}}

@@ -1,0 +1,386 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Dungeon Master|PrestigeTitle = Master of Metal|Rarity = Legendary|Class = Tank|MovementSpeed = 750 (Normal)<br>900 (with Super)|HealthLabel = Health|Health = 5600|AttackRange = 4 (Normal)|SuperRange=5.67 (Normal)<br>9 (with Hypercharge)|Reload = 1 second (Very Fast)|SuperAmmoReload = 0.2 seconds (Very Fast)|AttackSuperCharge = 17.5–35% (max range)|AttackLabel = Damage|Attack = 700|AttackLabel2 = Damage at max range|Attack2 = 1400|SuperLabel = Damage per projectile|Super = 81|SuperBullets=4<br>8 (with Hypercharge)|AttackSpeed=3800|SuperSpeed=3500|AttackWidth = 1.33|SuperSpread=45°|SuperSuperCharge = 1.4%|SuperDuration=10 seconds|Gadget1Name=Upper Cut|Gadget1Cooldown=11 seconds|Gadget2Name=Last Stand|Gadget2Cooldown=22 seconds|StarPower2Name=Shredding|StarPower2=2520|StarPower2Label=Heal|VoiceActor=Matthew Curtis|Previous=Kit|Next=Kenji|Hypercharge|HyperchargeMultiplier=25%|AttackHyperchargeCharge=4.375–8.75% (max range)|SuperHyperchargeCharge=0.35%|Gadget2Duration=2 seconds}}{{Quote|Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd, he turns the fantasy up to eleven!}}{{Portrait}}
+Draco is a {{Rarity|Legendary}} [[Brawler]] who has very high health, a very fast reload speed, a short range, immense utility with his Super, and a variable damage output. He was the 80th Brawler added to the game. His Trait allows Draco to charge his Super from enemies damaging him. His attack is a large beam of electricity that pierce through enemies and deals low damage at close range and more at far range. For his Super, he hops onto his inflatable dragon, transforming into his alternate form. Draco's alternate form attacks by a continuous stream of fire in a cone that deals more damage up close and less at the tip of the range. He also gains a shield and speed boost in this form. His first Gadget, Upper Cut, makes his next attack launch enemies in the air. His second Gadget, Last Stand, gives him a brief immunity shield at 1 health point when he would otherwise be defeated. His first Star Power, Expose, periodically makes his next attack mark an enemy that temporarily increases any damage dealt to that enemy. His second Star Power, Shredding, heals Draco when he uses his Super. His Hypercharge, Fire and Flames, adds more range, and more fire in a wider area to Draco's alternate form's attack.
+
+==Trait==
+{{Quote|This Brawler charges Super from damage received.}}{{Trait|Tank}}Whenever Draco takes damage from an enemy Brawler and the enemy Brawler's spawnables, he charges his Super. The Super charge rate depends on the damage the enemy deals. It takes 2.4x Draco's max health of damage to charge his Super completely, and all damage is calculated after shielding and other effects.
+
+==Attack: Lance Stab==
+{{Quote|Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.}}
+Draco fires a piercing, large beam of electricity from his electric guitar that deals very low damage in its initial range. However, in the last 30% of his range, he deals double the damage, and his Super charge rate is also doubled. Draco's attack has a moderate cooldown, and it takes 0.5 seconds to complete.
+
+==Super: Dragon Solo==
+{{Quote|Draco mounts up on his fire breathing dragon, gaining increased movement speed and damage reduction.}}
+After a 0.5-second delay, Draco hops onto his inflatable dragon, regaining 50% of his ammo and transforming into his alternate form for 10 seconds. While in this form, Draco's movement speed is increased by 20%, he gains a shield that reduces all damage he takes by 25%, and his attack changes to a continuous, cone-shaped stream of fire that does not pierce targets and utilizes a large ammo bar, similar to [[Amber]]. Targets closer to Draco take the most damage, and targets near Draco's maximum range take significantly less damage, similar to [[Leon]] and [[Buster]]. If the player taps on the attack joystick, Draco only shoots one ammo, and if the player aims the attack joystick, Draco continuously shoots flames in the direction aimed. Draco stops attacking when the player lets go of the joystick or his ammo bar is depleted. His ammo drains when he attacks and he automatically reloads the bar when not attacking. Each flame is shot at 0.18 seconds, and if the attack isn't stopped, the attack takes 7.2 seconds to complete.
+
+Using Draco's Super when he is already in his alternate form will reset the duration of it back to 10 seconds. Draco's Super transformation can be cancelled if he is stunned, knocked back, or pulled, and he is unable to attack or move during the 0.5-second delay.
+
+==Gadgets==
+===Upper Cut===
+{{Quote|The next Lance Stab also throws enemies in the air for a short time. Cooldown: 11 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Draco's next attack to knock enemies into the air for 1 second. While in the air, the enemies can't move or use their attack, Super, Gadget, or Hypercharge, but will be completely immune to all damage besides status effects and damage applied over time. A Gadget symbol will glow above Draco's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used. Draco cannot use this Gadget while he is in his alternate form.
+===Last Stand===
+{{Quote|Draco can not fall under one health for 2 seconds. Cooldown: 22 seconds.}}{{Gadget|2}}Draco activates a shield for 2 seconds that causes him to take regular damage but prevents him from falling under 1 health. If he is affected by any status effects or damage applied over time, he will immediately be eliminated once the shield wears off. Draco cannot hold the ball in [[Brawl Ball]] while this Gadget is activated. Unlike other shields, when Draco takes damage with this Gadget active, his Trait will charge Super based on how much damage Draco would have taken without the shield. This Gadget's cooldown starts after the duration ends.
+
+==Star Powers==
+===Expose===
+{{Quote|Every 5 seconds, the next Lance Stab exposes enemies on hit. Exposed enemies take 35% increased damage for 5 seconds.}}{{StarPower|1}}
+Draco gains a bar that takes 5 seconds to charge up, and when fully charged, his next attack will mark enemies, making the damage the enemy takes increased by 35% from any source, similar to [[Belle]]'s Super, for 5 seconds.
+===Shredding===
+{{Quote|Dragon Solo now also heals for 2800 when activated.}}{{StarPower|2}}
+When Draco's Super transformation completes, he heals for 25% of his maximum health, not accounting for any healing buffs or debuffs. This Star Power works even if Draco is already in his alternate form, but if his Super is canceled, he will not receive the healing.
+
+==Hypercharge: Fire and Flames==
+{{Quote|Draco's dragon breathes more flames in a wider area and with longer range.}}{{Hypercharge}}
+When activated, if Draco is in his alternate form, his attack has 3.33 tiles more range, double the projectiles, and Draco does not consume ammo when attacking. Much like Leon's Hypercharge and Super, if Draco's Hypercharge duration ends while still in the Dragon Solo form, his inflatable will once again spew the regular flames it did before. Draco also gains a 20% speed boost, and a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|After activating his Super, Draco stays mounted on his Dragon until defeated!}}<div style="float: right;">[[File:Inferno Wasabi.png|64px|link=]]</div>When Draco hopped onto his inflatable dragon, he stayed in his alternate form until he is defeated. Although using the Super did not extend the Super duration due to the timer disappearing, Draco still gained ammo and healing from the Shredding Star Power if he used his Super in the alternative form. Thus, Supers after the second Super were not entirely useless.
+
+==Tips==
+===Game Modes and Maps===
+* Draco is a menace in game modes that require lane control, especially [[Hot Zone]] and [[Brawl Ball]]. In Hot Zone, Draco's high hit points and Gadget allows him to withstand a considerable amount of damage, and with his Super, he is able to either force enemies out of the zone or prevent them from moving in a specific lane. In Brawl Ball, Draco is able to pressure the enemies with his Super and deal a substantial amount of damage at mid-close range. However, mind that Draco struggles against long-range Brawlers unless he is in close range. This means he is usually not a top-pick in an open map.
+
+===Recommended Build===
+*Because Draco's Uppercut Gadget has a short enough knockback range that it can actually pose as a disadvantage for you and your teammates because enemies cannot be hit midair. Instead, Draco should use this Gadget as a way of escaping if he is in danger.
+*Draco's Last Stand should be activated when Draco is still at medium health, therefore he can rush in, activate the Gadget, and deal a lot of damage to the enemy team. Unfortunately, he will probably end up being quickly defeated once the Gadget duration ends. He can also activate this Gadget and act as a meat shield for his allies to take control of key points on the map.
+*Because his Expose Star Power lasts for five seconds and takes five seconds to recharge, he can consistently apply 35% extra damage to the same enemy without it ever wearing off until the enemy or Draco himself is defeated.
+*Draco's Shredding Star Power will still give him the healing even if he activates his Super while his Super is already active. This can give Draco an overall larger amount of tanking.
+
+===Strategies===
+*Because of Draco's unique attack mechanic, it's recommended to use him to check for enemies in bushes first, dealing high damage at his range's apex before slowly hounding them down and charging up his Super.
+*Draco functions best as a counter to other tanks and close-ranged Brawlers; his main attack is perfect for keeping aggressive opponents at arm's length, while his Super can easily melt through whole teams and provide cover for his teammates.
+*It's better to activate Draco's Super first before using his Hypercharge rather than activating his Hypercharge first and then his Super. This is due to the delay when using his Super, which will lower the duration of his Hypercharge Super if it's activated first.
+
+===Other===
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 01.ogg|Filedescription = "Let's thrash, slash, bash and dash!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 07.ogg|Filedescription = "Let's thrash, slash, bash and dash."}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 01.ogg|Filedescription = "Turning it up to 11. Hahahahahaha!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 01.ogg|Filedescription = "Tremble before my power!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 01.ogg|Filedescription = "But my spirit remains unbroken!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 01.ogg|Filedescription = "In a flash of a blade!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 01.ogg|Filedescription = "Woo-hoo, total party kill! Ha ha!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 01.ogg|Filedescription = "Crusher destroyer!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 01.ogg|Filedescription = "I got shredded... bleh."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 08.ogg|Filedescription = "I got shredded."}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 01.ogg|Filedescription = "Seek and destroy!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 01.ogg|Filedescription = "Guitar smash face!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 01.ogg|Filedescription = "♫My dragon brings all the flames to the fight, and, dang right, they'll burn you up!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 01.ogg|Filedescription = "Bonded by blood."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 02.ogg|Filedescription = "Winging it, dragon style!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 01.ogg|Filedescription = "I am Draco."}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 02.ogg|Filedescription = "♫Turning it up to 11!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 05.ogg|Filedescription = "Turning it up to the number of the beast."}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 02.ogg|Filedescription = "Ah, you need a nerf."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 02.ogg|Filedescription = "Ow. I need a painkiller."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 02.ogg|Filedescription = "♫Total party ki-i-ill! Ha ha ha!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 02.ogg|Filedescription = "I am the beacon of brutality."}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 02.ogg|Filedescription = "Epic quest fail."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 09.ogg|Filedescription = "Epic domination fail."}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 02.ogg|Filedescription = "Shoot to thrill, play to kill."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 02.ogg|Filedescription = "Sonic axe of doom!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 02.ogg|Filedescription = "My dragon brings all the flames to the fight!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 02.ogg|Filedescription = "Summoning spectral steed."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 03.ogg|Filedescription = "D20 in hand, dragon at my command."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 03.ogg|Filedescription = "I am the spirit crusher!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 03.ogg|Filedescription = "Master of muppets."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 02.ogg|Filedescription = "I am the true dark lord!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 03.ogg|Filedescription = "You need a nerf!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 03.ogg|Filedescription = "Dialing the number of the beast."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 03.ogg|Filedescription = "♫Let the Brawlers hit the floor!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 03.ogg|Filedescription =Draco laughs}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 03.ogg|Filedescription = "Oh, woefully wiped out."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 10.ogg|Filedescription = "Ow, woefully wiped out."}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 03.ogg|Filedescription = "Seek and destroy!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 03.ogg|Filedescription = "Seek and destroy!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 03.ogg|Filedescription = "Fired up and ready to roast!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 04.ogg|Filedescription = "Fired up and ready to rule!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 04.ogg|Filedescription = "♫Time to shre-e-ed some foes."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 04.ogg|Filedescription = "♫Time to shre-e-ed some foes."}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 04.ogg|Filedescription = "♫Master of muppets!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 03.ogg|Filedescription = "Mosh pit ruler."}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 04.ogg|Filedescription = "Grr, MadEvil mosh pit mayhem."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 04.ogg|Filedescription = "Ah, nothing else awaits you."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 04.ogg|Filedescription = "Let the Brawlers hit the floor."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 04.ogg|Filedescription = "Let the Brawlers hit the floor."}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 04.ogg|Filedescription = "Ah, epic quest fail."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 01.ogg|Filedescription = "What a horrible night to have a curse."}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 04.ogg|Filedescription = "Stabidy stab!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 04.ogg|Filedescription = "Stabidy stab!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 04.ogg|Filedescription = "Flame wa-a-ar!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 03.ogg|Filedescription = "My demon, my destiny-y-y!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 05.ogg|Filedescription = "You see me rolling? You waiting."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 05.ogg|Filedescription = "Ha ha ha! Axe of agony in hand, evil forces at my command."}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 05.ogg|Filedescription = "Guitars wail when my enemies fail."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 04.ogg|Filedescription = "Demonic domination."}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 05.ogg|Filedescription = "MadEvil mosh pit mayhem!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 05.ogg|Filedescription = "O-ow, I mean, uh, ahehem, ow."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 05.ogg|Filedescription = "Just kidding!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 05.ogg|Filedescription = "King of chaos!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 05.ogg|Filedescription = "Hehe, epic quest fail."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 02.ogg|Filedescription = "I'll be back."}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 05.ogg|Filedescription = "Fancy lancey!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 07.ogg|Filedescription = "Hammer on!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 05.ogg|Filedescription = "Flame war!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 05.ogg|Filedescription = "Flame war!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 06.ogg|Filedescription = "♫My dice, my dragon, my destiny-y-y!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 06.ogg|Filedescription = "I am the catalyst of chaos."}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 06.ogg|Filedescription = "Rumble and roar, to the top I soar!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 06.ogg|Filedescription = "Ravage and ro-o-ock!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 06.ogg|Filedescription = "Huh, formidable foe, I'll best you for sure!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 06.ogg|Filedescription = "Axes of agony!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 06.ogg|Filedescription = "♫Metal magic mayhem!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 07.ogg|Filedescription = "Metal monster mayhem!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 06.ogg|Filedescription = "From kick flip to kick flop."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 03.ogg|Filedescription = "Nooooo!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 06.ogg|Filedescription = "The ace of blades!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 05.ogg|Filedescription = "The axe of agony!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 06.ogg|Filedescription = "Dragon bre-e-eath!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 07.ogg|Filedescription = "♫Enter the dragon, man!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 08.ogg|Filedescription = "Your screams, my symphony!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 07.ogg|Filedescription = "Rumble and roar, to the top I soar!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 07.ogg|Filedescription = "Ha ha ha ha! I am the chosen!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 07.ogg|Filedescription = "A formidable foe. Well, I'll best you for sure!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 07.ogg|Filedescription = "May the fires of evil devour your soul!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 07.ogg|Filedescription = "Dragon roar!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos kill vo 06.ogg|Filedescription = "Critical hit."}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 07.ogg|Filedescription = "Woefully wiped out."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 04.ogg|Filedescription =Draco cries}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 07.ogg|Filedescription = "Power chord!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 06.ogg|Filedescription = "Power chord!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 07.ogg|Filedescription = "Dragon breath!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 06.ogg|Filedescription = "Demon breath!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 08.ogg|Filedescription ="♫Metal warriors, number one!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco lead vo 08.ogg|Filedescription = Draco sings}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos lead vo 08.ogg|Filedescription = Draco laughs}}
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 08.ogg|Filedescription = "♫You better be nice, or I'll get my dice!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 08.ogg|Filedescription = "Ah! You have chosen mortality as your destiny."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 08.ogg|Filedescription = "Dragon rider, pain provider."}}
+|'''Normal:'''
+{{Ogg|Filename = draco die vo 08.ogg|Filedescription = "Ah, failed the saving throw."}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 05.ogg|Filedescription = "Nooooo!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco atk vo 08.ogg|Filedescription = "Dive bomb!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos atk vo 08.ogg|Filedescription = "Dive bomb!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 08.ogg|Filedescription = "Inflate-o-dragon!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 07.ogg|Filedescription = "Inflate-o-demon!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 09.ogg|Filedescription = "♫Say your prayers, little one."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 09.ogg|Filedescription = "Oh, you better be nice, or I'll get my dice!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 09.ogg|Filedescription = "You have chosen mortality as your destiny."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 09.ogg|Filedescription = "Dragon roar!"}}
+|'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 06.ogg|Filedescription = "Flames of wrath."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = draco ulti vo 09.ogg|Filedescription = "Inflate-o-dragon!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos ulti vo 08.ogg|Filedescription = "Feel my wrath!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 10.ogg|Filedescription = "Time to shred some foes."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 10.ogg|Filedescription = "You better be nice, or I'll get my dice!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos hurt vo 10.ogg|Filedescription = "Yeah, lick me."}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 11.ogg|Filedescription = "Draco!"}}
+|'''Dread Knight:'''
+{{Ogg|Filename = ddracos die vo 07.ogg|Filedescription = "I am... mortal?"}}
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 11.ogg|Filedescription = "♫I will, I will rock you!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = draco hurt vo 11.ogg|Filedescription = "You want a toast, get ready to roast!"}}
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 12.ogg|Filedescription = "Dragon roar!"}}
+|
+|
+|
+|-
+|'''Normal:'''
+{{Ogg|Filename = draco start vo 12.ogg|Filedescription = "♫Draco-o-o!"}}'''Dread Knight:'''
+{{Ogg|Filename = ddracos start vo 02.ogg|Filedescription = "Draco-o-o!"}}
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 13.ogg|Filedescription = "Dragon rider, pain provider."}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Normal:'''
+{{Ogg|Filename = draco kill vo 14.ogg|Filedescription = "Metal magic mayhem!"}}
+|
+|
+|
+|}
+
+==History==
+*30/05/24:
+**{{Balance|Neutral|Draco could be unlocked early as a bundle for $19.99.}}
+**{{Balance|Neutral|Draco became available to play in the [[Training Cave]].}}
+**{{Balance|Neutral|The Dark Knight Draco skin was added.}}
+*06/06/24:
+**{{Balance|Neutral|Draco became available in the Starr Road.}}
+*25/06/24:
+**{{Balance|Nerf|Draco's damage reduction was decreased to 15% (from 25%) while in his alternate form.}}
+**{{Balance|Neutral|Draco's True Silver and True Gold skins were added.}}
+*08/10/24:
+**{{Balance|Neutral|The Dread Knight Draco skin was added. It was featured as a Once Upon skin.}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Draco's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Draco's Wasabi Power was removed from the game.|Change=Neutral}}
+*25/06/25:
+**{{Balance|Content=Draco now has a timer bar that shows his Super's duration.|Change=Neutral}}
+*03/07/25:
+**{{Balance|Content=Draco's Fire and Flames Hypercharge was added.|Change=Neutral}}
+*23/07/25:
+**{{Balance|Content=Draco's Fire and Flames Hypercharge multiplier was decreased to 25% (from 35%).|Change=Nerf}}
+**{{Balance|Content=Draco's Fire and Flames Hypercharge damage boost was decreased to 5% (from 15%).|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where Draco sprayed the incorrect Hypercharge Spray.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Nerf|Draco's speed boost was decreased to 15% (from 20%) while in his alternate form.}}
+**{{Balance|Content=Draco's damage was decreased to 70 (from 80) per flame while in his alternate form.|Change=Nerf}}
+**{{Balance|Content=The number of hits required to charge his Super while in his alternate form was increased to 72 (from 63).|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Draco's Fire and Flames Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% shield boost, decreasing Draco's Fire and Flames Hypercharge shield boost from 10%.|Change=Nerf}}
+*06/11/25:
+**{{Balance|Content=The Eddie Draco skin was added. It was featured as a Stranger Things skin.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Draco's health was increased to 5600 (from 5500).}}
+*22/04/26:
+**{{Balance|Buff|Draco's speed boost was increased to 20% (from 15%) while in his alternate form.}}
+**{{Balance|Buff|Draco's damage reduction was increased to 20% (from 15%) while in his alternate form.}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Draco's movement speed to 750 (from 720).}}
+*03/11/26:
+**{{Balance|Buff|Draco's damage was increased to 76 (from 70) per flame while in his alternate form.}}
+**{{Balance|Buff|Draco's Super damage is now consistent.}}
+**{{Balance|Buff|Draco's damage reduction was increased to 25% (from 20%) while in his alternate form.}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Dark Knight|Cost1=Free from the early bundle, free from Strangest Packs, free after reaching 750 Trophies or 29 Gems|Campaign1=Knights!|Rarity1=Rare
+|Name2=Eddie|Cost2=Free from Strangest Packs or 199 Gems • '''S'''|Campaign2=Stranger Things|Rarity2=Mythic
+|Name3=Dread Knight|Cost3=Free from Ziggy Boxes, free from Damian Boxes or 299 Gems|Campaign3=Knights!|Rarity3=Legendary
+|TrueSkins = yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Draco
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Dread Knight}}
+{{Pin Table|Eddie|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Draco|Rarity = Common}}
+|{{Spray|Type = Draco Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Dread Knight Draco|Rarity = Common}}
+|{{Spray|Type = Eddie Draco|Rarity = Common}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Draco1}}
+|{{Pfp|Draco2}}
+|{{Pfp|Draco3}}
+|{{Pfp|Dread Knight Draco}}
+|{{Pfp|Eddie Draco}}
+|}
+{{Navigation}}
+[[ru:Драко]]

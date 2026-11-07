@@ -1,0 +1,411 @@
+{
+ "domain": "freefire.fandom.com",
+ "categories": {
+  "Category:Characters": [
+   "A-Patroa",
+   "A124",
+   "Alok",
+   "Alvaro",
+   "Andrew",
+   "Antonio",
+   "Caroline",
+   "Chrono",
+   "Clu",
+   "D-Bee",
+   "Dasha",
+   "Dimitri",
+   "Ford",
+   "Hayato",
+   "Homer",
+   "Iris",
+   "J.Beibs",
+   "Joseph",
+   "Jota",
+   "K",
+   "Kapella",
+   "Kelly",
+   "Kenta",
+   "Kla",
+   "Laura",
+   "Leon",
+   "Luna",
+   "Luqueta",
+   "Maro",
+   "Maxim",
+   "Miguel",
+   "Misha",
+   "Moco",
+   "Nairi",
+   "Nikita",
+   "Notora",
+   "Nulla (Eve)",
+   "Olivia",
+   "Otho",
+   "Paloma",
+   "Rafael",
+   "Shani",
+   "Shirou",
+   "Skyler",
+   "Steffie",
+   "Tatsuya",
+   "Thiva",
+   "Wukong",
+   "Xayne"
+  ],
+  "Category:Pets": [
+   "Agent Hop",
+   "Beaston",
+   "Detective Panda",
+   "Dreki",
+   "Fang",
+   "Fin",
+   "Hoot",
+   "Night Panther",
+   "Spirit Fox"
+  ],
+  "Category:Weapons": []
+ },
+ "pages": {
+  "Characters": "raw/Characters.wikitext",
+  "Free Fire": "raw/Free_Fire.wikitext",
+  "Weapons": "raw/Weapons.wikitext",
+  "A-Patroa": "raw/A-Patroa.wikitext",
+  "A124": "raw/A124.wikitext",
+  "Alok": "raw/Alok.wikitext",
+  "Alvaro": "raw/Alvaro.wikitext",
+  "Andrew": "raw/Andrew.wikitext",
+  "Antonio": "raw/Antonio.wikitext",
+  "Caroline": "raw/Caroline.wikitext",
+  "Chrono": "raw/Chrono.wikitext",
+  "Clu": "raw/Clu.wikitext",
+  "D-Bee": "raw/D-Bee.wikitext",
+  "Dasha": "raw/Dasha.wikitext",
+  "Dimitri": "raw/Dimitri.wikitext",
+  "Ford": "raw/Ford.wikitext",
+  "Hayato": "raw/Hayato.wikitext",
+  "Homer": "raw/Homer.wikitext",
+  "Iris": "raw/Iris.wikitext",
+  "J.Beibs": "raw/J_Beibs.wikitext",
+  "Joseph": "raw/Joseph.wikitext",
+  "Jota": "raw/Jota.wikitext",
+  "K": "raw/K.wikitext",
+  "Kapella": "raw/Kapella.wikitext",
+  "Kelly": "raw/Kelly.wikitext",
+  "Kenta": "raw/Kenta.wikitext",
+  "Kla": "raw/Kla.wikitext",
+  "Laura": "raw/Laura.wikitext",
+  "Leon": "raw/Leon.wikitext",
+  "Luna": "raw/Luna.wikitext",
+  "Luqueta": "raw/Luqueta.wikitext",
+  "Maro": "raw/Maro.wikitext",
+  "Maxim": "raw/Maxim.wikitext",
+  "Miguel": "raw/Miguel.wikitext",
+  "Misha": "raw/Misha.wikitext",
+  "Moco": "raw/Moco.wikitext",
+  "Nairi": "raw/Nairi.wikitext",
+  "Nikita": "raw/Nikita.wikitext",
+  "Notora": "raw/Notora.wikitext",
+  "Nulla (Eve)": "raw/Nulla_Eve_.wikitext",
+  "Olivia": "raw/Olivia.wikitext",
+  "Otho": "raw/Otho.wikitext",
+  "Paloma": "raw/Paloma.wikitext",
+  "Rafael": "raw/Rafael.wikitext",
+  "Shani": "raw/Shani.wikitext",
+  "Shirou": "raw/Shirou.wikitext",
+  "Skyler": "raw/Skyler.wikitext",
+  "Steffie": "raw/Steffie.wikitext",
+  "Tatsuya": "raw/Tatsuya.wikitext",
+  "Thiva": "raw/Thiva.wikitext",
+  "Wukong": "raw/Wukong.wikitext",
+  "Xayne": "raw/Xayne.wikitext",
+  "Agent Hop": "raw/Agent_Hop.wikitext",
+  "Beaston": "raw/Beaston.wikitext",
+  "Detective Panda": "raw/Detective_Panda.wikitext",
+  "Dreki": "raw/Dreki.wikitext",
+  "Fang": "raw/Fang.wikitext",
+  "Fin": "raw/Fin.wikitext",
+  "Hoot": "raw/Hoot.wikitext",
+  "Night Panther": "raw/Night_Panther.wikitext",
+  "Spirit Fox": "raw/Spirit_Fox.wikitext"
+ },
+ "pageimages": {
+  "Caroline": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest?cb=20230203091911",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/87/Caroline.png/revision/latest/scale-to-width-down/275?cb=20230203091911"
+  },
+  "Maxim": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest?cb=20221111151753",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/6/68/FreeFireMaxim.png/revision/latest/scale-to-width-down/278?cb=20221111151753"
+  },
+  "Misha": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest?cb=20221111152039",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/a/a1/FreeFireMisha.png/revision/latest/scale-to-width-down/278?cb=20221111152039"
+  },
+  "Kelly": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest?cb=20221111152406",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/e/e4/FreeFireKelly.png/revision/latest/scale-to-width-down/278?cb=20221111152406"
+  },
+  "Andrew": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest?cb=20221111152639",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/5/53/FreeFireAndrew.png/revision/latest/scale-to-width-down/278?cb=20221111152639"
+  },
+  "Laura": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest?cb=20230126102751",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/7/7c/Laura.png/revision/latest/scale-to-width-down/275?cb=20230126102751"
+  },
+  "Iris": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest?cb=20221112073453",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/c/c0/FFIris.png/revision/latest/scale-to-width-down/278?cb=20221112073453"
+  },
+  "Homer": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest?cb=20221112073519",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/8a/FFHomer.png/revision/latest/scale-to-width-down/278?cb=20221112073519"
+  },
+  "Joseph": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest?cb=20221112073542",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/3/3c/FFJoseph.png/revision/latest/scale-to-width-down/278?cb=20221112073542"
+  },
+  "Olivia": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest?cb=20221116125354",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/f/fb/FFOlivia.png/revision/latest/scale-to-width-down/275?cb=20221116125354"
+  },
+  "Ford": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest?cb=20221116125815",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/3/3a/FFFord.png/revision/latest/scale-to-width-down/275?cb=20221116125815"
+  },
+  "Luna": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest?cb=20230131052617",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/13/Luna.png/revision/latest/scale-to-width-down/275?cb=20230131052617"
+  },
+  "Kla": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest?cb=20230126103447",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/c/c8/Kla.png/revision/latest/scale-to-width-down/275?cb=20230126103447"
+  },
+  "Chrono": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest?cb=20230126100534",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/d/d8/Chrono.png/revision/latest/scale-to-width-down/275?cb=20230126100534"
+  },
+  "Dasha": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest?cb=20230126102818",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/d/d4/Dasha.png/revision/latest/scale-to-width-down/275?cb=20230126102818"
+  },
+  "Kenta": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest?cb=20230126103404",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/b/bc/Kenta.png/revision/latest/scale-to-width-down/275?cb=20230126103404"
+  },
+  "Shirou": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest?cb=20230126104157",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/5/5c/Shirou.png/revision/latest/scale-to-width-down/278?cb=20230126104157"
+  },
+  "A124": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest?cb=20230126105319",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/7/76/A124.png/revision/latest/scale-to-width-down/275?cb=20230126105319"
+  },
+  "Kapella": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest?cb=20230127023923",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/0/09/Kapella.png/revision/latest/scale-to-width-down/275?cb=20230127023923"
+  },
+  "Dimitri": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest?cb=20230129110913",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/5/5d/Dimitri.png/revision/latest/scale-to-width-down/275?cb=20230129110913"
+  },
+  "K": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest?cb=20230130023429",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/9/99/K.png/revision/latest/scale-to-width-down/275?cb=20230130023429"
+  },
+  "J.Beibs": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest?cb=20230129113449",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/0/00/JBeibs.png/revision/latest/scale-to-width-down/275?cb=20230129113449"
+  },
+  "Alok": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest?cb=20230130021017",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/7/71/Alok.png/revision/latest/scale-to-width-down/275?cb=20230130021017"
+  },
+  "Leon": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest?cb=20230130021616",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/2/21/Leon.png/revision/latest/scale-to-width-down/275?cb=20230130021616"
+  },
+  "Nairi": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest?cb=20230130022022",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/a/a7/Nairi.png/revision/latest/scale-to-width-down/275?cb=20230130022022"
+  },
+  "Luqueta": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest?cb=20230130023000",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/e/e7/Luqueta.png/revision/latest/scale-to-width-down/275?cb=20230130023000"
+  },
+  "Clu": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest?cb=20230130023237",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/3/35/Clu.png/revision/latest/scale-to-width-down/275?cb=20230130023237"
+  },
+  "Rafael": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest?cb=20230130023455",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/c/cb/Rafael.png/revision/latest/scale-to-width-down/275?cb=20230130023455"
+  },
+  "Paloma": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest?cb=20230130024702",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/e/ee/Paloma.png/revision/latest/scale-to-width-down/275?cb=20230130024702"
+  },
+  "Antonio": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest?cb=20230126104019",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/f/f0/Antonio.png/revision/latest/scale-to-width-down/278?cb=20230126104019"
+  },
+  "Miguel": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest?cb=20230130025053",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/6/6a/Miguel.png/revision/latest/scale-to-width-down/275?cb=20230130025053"
+  },
+  "Nikita": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest?cb=20230130025201",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/5/54/Nikita.png/revision/latest/scale-to-width-down/275?cb=20230130025201"
+  },
+  "Free Fire": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest?cb=20230131043654",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest/scale-to-width-down/289?cb=20230131043654"
+  },
+  "Shani": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest?cb=20230131050039",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/1f/Shani.png/revision/latest/scale-to-width-down/275?cb=20230131050039"
+  },
+  "Notora": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest?cb=20230131045847",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/7/76/Notora.png/revision/latest/scale-to-width-down/275?cb=20230131045847"
+  },
+  "Maro": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest?cb=20230131050859",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/0/08/Maro.png/revision/latest/scale-to-width-down/275?cb=20230131050859"
+  },
+  "D-Bee": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest?cb=20230131051506",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/18/DBee.png/revision/latest/scale-to-width-down/275?cb=20230131051506"
+  },
+  "A-Patroa": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest?cb=20230131051735",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/d/dd/APatroa.png/revision/latest/scale-to-width-down/275?cb=20230131051735"
+  },
+  "Jota": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest?cb=20230131052234",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/81/Jota.png/revision/latest/scale-to-width-down/275?cb=20230131052234"
+  },
+  "Otho": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest?cb=20230131052932",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/80/Otho.png/revision/latest/scale-to-width-down/275?cb=20230131052932"
+  },
+  "Alvaro": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest?cb=20230203092233",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/f/fc/Alvaro.png/revision/latest/scale-to-width-down/275?cb=20230203092233"
+  },
+  "Nulla (Eve)": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/f/fe/Free_fire_Eva_.jpg/revision/latest?cb=20251104084242"
+  },
+  "Steffie": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest?cb=20221111143535",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/d/d2/FreeFireSteffie.png/revision/latest/scale-to-width-down/278?cb=20221111143535"
+  },
+  "Thiva": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest?cb=20230129112548",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/17/Thiva.png/revision/latest/scale-to-width-down/275?cb=20230129112548"
+  },
+  "Fang": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/c/c3/Fang.png/revision/latest?cb=20230129115817",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/c/c3/Fang.png/revision/latest/scale-to-width-down/400?cb=20230129115817"
+  },
+  "Fin": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/82/Fin.png/revision/latest?cb=20230129115853",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/82/Fin.png/revision/latest/scale-to-width-down/400?cb=20230129115853"
+  },
+  "Spirit Fox": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/b/b0/Spirit_Fox.png/revision/latest?cb=20230129120228",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/b/b0/Spirit_Fox.png/revision/latest/scale-to-width-down/400?cb=20230129120228"
+  },
+  "Detective Panda": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/4/4d/Detective_Panda.png/revision/latest?cb=20230129115927",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/4/4d/Detective_Panda.png/revision/latest/scale-to-width-down/400?cb=20230129115927"
+  },
+  "Hoot": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/0/0e/Hoot.png/revision/latest?cb=20230129120053",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/0/0e/Hoot.png/revision/latest/scale-to-width-down/400?cb=20230129120053"
+  },
+  "Beaston": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/0/0e/Beaston.png/revision/latest?cb=20230129120118",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/0/0e/Beaston.png/revision/latest/scale-to-width-down/400?cb=20230129120118"
+  },
+  "Night Panther": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/6/61/Night_Panther.png/revision/latest?cb=20230129120152",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/6/61/Night_Panther.png/revision/latest/scale-to-width-down/400?cb=20230129120152"
+  },
+  "Dreki": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/14/Dreki.png/revision/latest?cb=20230129120001",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/14/Dreki.png/revision/latest/scale-to-width-down/400?cb=20230129120001"
+  },
+  "Agent Hop": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/8/8d/Agent_Hop.png/revision/latest?cb=20230130013620",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/8/8d/Agent_Hop.png/revision/latest/scale-to-width-down/400?cb=20230130013620"
+  },
+  "Xayne": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest?cb=20230131050418",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/5/52/Xayne.png/revision/latest/scale-to-width-down/275?cb=20230131050418"
+  },
+  "Wukong": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest?cb=20230131052311",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/b/b0/Wukong.png/revision/latest/scale-to-width-down/275?cb=20230131052311"
+  },
+  "Skyler": {
+   "original": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest?cb=20230131053055",
+   "thumb": "https://static.wikia.nocookie.net/freefire/images/1/1c/Skyler.png/revision/latest/scale-to-width-down/275?cb=20230131053055"
+  }
+ },
+ "allcategories": [
+  [
+   "Characters",
+   49
+  ],
+  [
+   "Template documentation",
+   44
+  ],
+  [
+   "AR",
+   14
+  ],
+  [
+   "Infobox templates",
+   13
+  ],
+  [
+   "Image license templates",
+   12
+  ],
+  [
+   "Notice templates",
+   10
+  ],
+  [
+   "General wiki templates",
+   9
+  ],
+  [
+   "Pets",
+   9
+  ],
+  [
+   "SMG",
+   9
+  ],
+  [
+   "Templates",
+   9
+  ],
+  [
+   "FreeFire Wiki",
+   6
+  ],
+  [
+   "Maintenance",
+   6
+  ],
+  [
+   "Guns",
+   5
+  ]
+ ]
+}

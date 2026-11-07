@@ -1,0 +1,413 @@
+{{Tabber V2
+|tab1  = Yeti
+|tab2  = Fiend
+}}
+{{CombosTab}}
+{{Mutation Infobox
+|name   = Fiend
+|image  = <gallery>
+Fiend Fruit.png|Fruit Icon
+FiendYetiFruit.gif|Fruit GIF
+Fiend.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Beast
+|rarity = Mythical
+|M1     = Only Transformed
+|update = 29.2
+}}
+'''Fiend''' is a {{Mythical}} [[mutation]] of [[Yeti]].
+
+Fiend grants the user the ability to manipulate and imbue their attacks with fire/energy, turning them into powerful and destructive attacks, along with transforming into a fiend, enhancing their already powerful and dangerous attacks even further, also healing people in their own crew. The transformation also grants additional perks such as increased durability, increased healing, enhanced physical abilities, and powerful flaming attacks.
+
+The Fiend mutation has slightly lower defense compared to [[Yeti]], exchanging it for much higher damage, combo potential and superior mobility and healing.
+
+Fiend also possesses a custom Super Dash, quite similar to [[Rabbit|Rabbit's]] awakened '''Lightning Cloak''' gear. The move deals damage, stuns, and works aerially.
+
+==Obtainment==
+As a limited [[Mutation]], Fiend had different obtainment methods compared to ordinary [[Blox Fruits]]. Players were able to obtain it by:
+* Rolling it through the limited-time [[Valentines Gacha Dealer]].
+* Buying it with {{Robux|1,500}} from the mutations section of the Yeti fruit. (Must own [[Permanent Blox Fruits|Permanent]] [[Yeti]] first).
+* Purchasing the [[Shop|Raging Frost Bundle]] during the 2026 Valentine's Event.
+* Finding it under [[Trees]], during its respective event.
+* [[Trading]] for it, with it being a special item.
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Corrupted Apparition
+|file     = FiendYetiTransformed.gif
+|desc     = The user is able to transform into a Fiend Yeti. While transformed, the user gains 34% defense from all damage, approximately 25% speed increase along with a 2x jump boost and dash distance, and approximately 25% cooldown reduction, along with several enhancements to the fruit's abilities.
+}}
+
+{{Skill/Passive
+|name     = Cursed Strider
+|file     = FiendWaterStride.gif
+|desc     = While transformed, the user gains the ability to walk and idle on water by creating whirls of corrupted energy below them. While walking on water, 4 energy is drained passively for each "whirl".
+}}
+
+{{Skill/Passive
+|name     = Afterimage Rush
+|file     = FiendDash.gif
+|desc     = When transformed, the user can hold down the [[Dashing|Q/Dash]] button to perform a superdash, similar to that of [[Rabbit]] [[Race Awakening|V4]], leaving afterimages behind the user briefly almost exactly like [[Buddha]]'s {{Ability|Buddha|F|1}}. This dash has a cooldown of 5 seconds. The dash deals minor damage and grabs any enemy in the path of the dash.
+}}
+
+|Moveset|
+{{Skill
+|key      = Z
+|name     = Incinerating Blaze
+|mastery  = 1
+|cooldown = 9
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged if on the edge or if far enough.
+|gif      = FiendZ
+|gif1     = FiendZHeld
+|desc     = If tapped, the user releases a swift shockwave of purple fire, knocking away enemies in front of them and dealing damage.
+|desc1    = If held, the user releases purple flames from their hands in the form of a flamethrower, similar to [[Fox Lamp]]'s {{Ability|Fox Lamp|X}}, and can also control the direction of the fire by moving their cursor/camera.
+}}
+
+{{Skill
+|key      = X
+|name     = Hellburst Impact
+|mastery  = 50
+|cooldown = 12
+|energy   = 40
+|break    = yes
+|instinct = The impact after the explosion can be dodged. The explosion can be dodged on the edge.
+|gif      = FiendX
+|gif1     = FiendXHeld
+|desc     = If tapped, the user charges compressed purple fire (or energy) within their hands into a large orb, releasing it forward and dealing damage on impact.
+|desc1    = If held, the user increases the amount of energy in the orb, making it bigger and faster. It deals more damage on impact than the tap version.
+}}
+
+{{Skill
+|key      = C
+|name     = Infernal Execution
+|mastery  = 100
+|cooldown = 15
+|energy   = 80
+|break    = yes
+|instinct = The blow [[Instinct/Break|breaks Instinct]]. The initial grab can be dodged on the edge. (The move won't execute if it's dodged.)
+|gif      = FiendCMiss
+|gif1     = FiendC
+|desc     = The user gathers a wad of purple energy in their hands and launches themselves towards the cursor. Upon contact, they encase the opponent in pink-colored energy before teleporting behind them.
+|desc1    = The user then punches the opponent with devastating energy, dealing damage and causing knockback, along with a mist of pink energy surrounding the sides of the user briefly.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 4.5
+|energy   = 20
+|break    = yes
+|instinct = The roar [[Instinct/Break|breaks Instinct]], but it can be dodged on the edge.
+|gif      = FiendV
+|desc     = The user roars, causing spikes to pierce out of the ground, dealing damage and knockback to any nearby enemies, before transforming into an upright, huge Fiend with pink, glowing eyes. The user loses the ability to use Fighting Styles, Swords, and Guns. While transformed, the user has a reddish-pink mist surrounding them and colors the ground beneath them in red.
+}}
+
+{{Skill
+|key      = F
+|name     = Abyssal Rush
+|mastery  = 200
+|cooldown = 9
+|energy   = 60
+|break    = yes
+|instinct = If used on the ground: the initial grab cannot be dodged; the first and second slam [[Instinct/Break|break Instinct]], and only the throw can be dodged; the [[Area of Effect|AoE]] slams can be dodged on the edge. If used in the air: cannot [[Instinct/Break|break Instinct]] in any way.
+|gif      = FiendF
+|gif1     = FiendFAir
+|desc     = If used on the ground, the user charges forward and grabs the enemy, slamming them into the ground two times, creating energy explosions and pinkish-purple spikes on the floor, and then knocks them away.
+|desc1    = If used in the air, the user charges forward and grabs the enemy, then spins with the enemy and finally throws them away. This variant deals slightly less damage but executes much faster.
+}}
+
+|Moveset (Transformed)|
+{{Skill
+|key      = TAP
+|name     = Normal Attack
+|cooldown = 1
+|break    = yes
+|instinct = Can rarely be dodged on the edge.
+|gif      = FiendM1
+|desc     = The user performs a combo striking the victim with claws of energy into a spinning uppercut in the air, and then a karate chop to the ground causing large impact and [[Area of Effect|AoE]].
+}}
+
+{{Skill
+|key      = Z
+|name     = Incinerating Blaze
+|mastery  = 1
+|cooldown = 6.75
+|energy   = 20
+|break    = yes
+|instinct = Can be dodged on the edge or if far enough.
+|gif      = FiendZTransformed
+|gif1     = FiendZHeldTransformed
+|desc     = If tapped, the user releases a fast shockwave of purple fire, knocking away enemies in front of them and dealing high damage.
+|desc1    = If held, the user releases purple flames from their hands in the form of a large flamethrower similar to the untransformed version, dealing continuous damage to the enemy engulfed in the flames. The user can control the direction of the flamethrower by moving their camera and gains super armor for the duration of the move which protects them from stuns.
+}}
+
+{{Skill
+|key      = X
+|name     = Hellburst Impact
+|mastery  = 50
+|cooldown = 9
+|energy   = 40
+|break    = yes
+|instinct = The direct hit from the explosion can be dodged. The explosion can be dodged on the edge.
+|gif      = FiendXTransformed
+|gif1     = FiendXFullyHeldTransformed
+|gif2     = FiendXFullyHeldTransformed2
+|desc     = Tap version: the user charges compressed purple fire (or energy) within their hands into a large orb, releasing it forward and dealing high damage on impact.
+|desc1    = Held (Stage 1): the user increases the amount of energy in the orb, making it bigger and faster. It deals more damage on impact than the tap version.
+|desc2    = Held (Stage 2): the user charges the large orb with even more energy, changing it into a large ball of energy. On impact, this move creates a large [[Area of Effect|AoE]] and deals a large amount of damage.
+}}
+
+{{Skill
+|key      = C
+|name     = Infernal Execution
+|mastery  = 100
+|cooldown = 11.25
+|energy   = 80
+|break    = yes
+|instinct = The blow [[Instinct/Break|breaks Instinct]]. The initial grab can rarely be dodged on the edge. (The move won't execute if it's dodged.)
+|gif      = FiendCMissTransformed
+|gif1     = FiendCTransformed
+|desc     = The user gathers a large wad of purple energy in their hands and launches themselves towards the cursor. Upon contact, they encase the opponent in a pink-coloured mass before teleporting behind them.
+|desc1    = The user then punches the opponent with devastating energy, dealing high damage and causing knockback, along with a mist of pink energy surrounding the sides of the user briefly.
+}}
+
+{{Skill
+|key      = V
+|name     = Transformation
+|mastery  = 300
+|cooldown = 3.4
+|energy   = 20
+|instinct = Does not deal damage.
+|gif      = FiendVTransformed
+|desc     = The user transforms back into their normal form, allowing the user to use fighting styles, swords, and guns.
+}}
+
+{{Skill
+|key      = F
+|name     = Abyssal Rush
+|mastery  = 200
+|cooldown = 6.75
+|energy   = 60
+|break    = yes
+|instinct = If used on the ground: the initial grab cannot be dodged; the first and second slam [[Instinct/Break|break Instinct]], and only the throw can be dodged; the [[Area of Effect|AoE]] slams can be dodged on the edge. If used in the air: the initial grab cannot be dodged; the first slam [[Instinct/Break|breaks Instinct]], and the throw can be dodged; the AoE can be dodged on the edge.
+|gif      = FiendFTransformed
+|gif1     = FiendFAirTransformed
+|desc     = If used on the ground, the user charges forward with high speed and grabs the enemy, slamming them into the ground two times, creating energy explosions and pinkish-purple spikes on the floor, and then knocks them away.
+|desc1    = If used in the air, the user charges forward and grabs the enemy while encasing them in a ball of magma, then spins with the enemy and finally throws them away.
+}}
+}}
+
+==Overview==
+<tabber>
+Normal=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Normal
+|'''General'''
+* High [[Trading|trading]] value. 
+* All moves can [[Instinct/Break|break Instinct]].
+* Potent for [[PvP Mechanics|PvP]].
+* A lot of mobility. 
+* Very high damage.
+
+|'''[Z] Incinerating Blaze'''
+* Decent [[Area of Effect|AoE]] and knockback.
+* Can be used as a counterattack if an opponent comes too close by pushing them away.
+* Held version is good for grinding.
+* Held version casts extremely quick, deals high damage.
+* Pairs well with moves that have long stun, such as [[Fox Lamp]]’s {{Ability|Fox Lamp|Z}}, which stuns the enemy and allows the user to charge the Z move for high damage.
+
+|'''[X] Hellburst Impact'''
+* Good range.
+* Good damage.
+* Decent [[Area of Effect|AoE]] when held.
+
+|'''[C] Infernal Execution'''
+* Long stun.
+* Good damage.
+* Decent traveling distance, can be used as an additional [[Flash Step]].
+
+|'''[V] Transformation'''
+* Quick [[transformation]].
+* Decent damage and relatively large [[Area of Effect|AoE]].
+* Knocks back nearby enemies, giving the user a bit of space to transform.
+
+|'''[F] Abyssal Rush'''
+* Great damage.
+* Good mobility.
+* Stuns the enemy.
+* Good for extending combos.
+* Can grab the enemy through a wall if used correctly.
+* First and second slams can hit multiple enemies. 
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Normal
+|'''General'''
+* Rare and event exclusive.
+* Most moves have high knockback.
+* Not great for grinding (untransformed).
+* All moves can be dodged with [[Instinct]].
+* Highly dependent on stuns.
+
+|'''[Z] Incinerating Blaze'''
+* Cannot be aimed vertically.
+
+|'''[X] Hellburst Impact'''
+* Needs to be charged for decent damage and range.
+* Mediocre hitbox.
+* Tap has low damage.
+
+|'''[C] Infernal Execution'''
+* Might be difficult to hit.
+* Single target.
+* Vulnerable to attacks while executing this move.
+* Can cause the user to drown when used on an enemy in the water.
+
+|'''[F] Abyssal Rush'''
+* The grab is single target.
+* Very vulnerable on the aerial variant.
+* Does not [[Instinct/Break|break Instinct]] on the air variant.
+}}
+}}
+
+|-|Transformed=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Transformed
+|'''General'''
+* Can walk on water.
+* Amazing combo potential.
+* All of its moves can [[Instinct/Break|break Instinct]].
+* Moves deal very high damage, even more so when held.
+* Very good for PvP due to its spammable moves.
+* Decent for grinding.
+* Dash has a very short cooldown, works aerially, and deals damage, giving the user consistently high mobility and a great combo extender.
+* All moves have lower endlag and deal more damage than [[Yeti]].
+
+|'''[TAP] Normal Attack'''
+* Great damage.
+* Decent mobility.
+* Stuns opponents, similar to [[Gas]] [M1]'s.
+* All four [M1] attacks can hit [[Sea Beast|Sea Beasts]] and [[Leviathan]].
+* Can make the user levitate for a few seconds before falling when using the third M1 then stopping (If the player does 3 M1’s and then wait for the M1’s cooldown and doing this non-stop, they can ascend upwards forever. 
+
+|'''[Z] Incinerating Blaze'''
+* Good range, damage and [[Area of Effect|AoE]].
+* High damage.
+* Can be used as a punishing move, especially against [[portal|Portal]] users.
+* Held version casts near instantly, deals extremely damage.
+* Cannot be cancelled once held.
+
+|'''[X] Hellburst Impact'''
+* Massive hitbox compared to the untransformed version.
+* Great damage when held.
+* Long range and AoE explosion.
+* Extremely large AoE when fully held, almost always lands.
+* Very fast projectile speed.
+
+|'''[C] Infernal Execution'''
+* Great damage. 
+* Can easily combo into any skill.
+* Low cooldown.
+* Stuns the enemy for a long time.
+* Can hit [[Sea Beast|Sea Beasts]].
+* Great mobility, can be used as an additional [[Flash Step]].
+* Multi target when used against [[Rumbling Waters]].
+* Travels quite far.
+* No endlag, compared to [[Yeti]].
+
+|'''[F] Abyssal Rush'''
+* Long stun.
+* Good range and mobility.
+* Great damage.
+* Good against sky campers, since the user will fall towards the ground at rapid speeds with the enemy if used high in the air.
+* Can grab the enemy through a wall if used correctly.
+* The slams are [[Area of Effect|AoE]], meaning that while only one enemy is being stunned, any enemy that comes close will take damage from the slamming of the target on the ground.
+* No endlag, compared to [[Yeti]].
+}}
+
+{{!}}-{{!}}Cons=
+{{Overview|Cons|type=Transformed
+|'''General'''
+* Loses the ability to use [[fighting styles]], [[swords]] and [[guns]].
+* Water walking passive is not very reliable as the user can still drown if they get knocked off their whirl platforms and into the water. The user will also start swimming if they [[Flash Step]] into the water as ice platforms will not form while they are underwater.
+* The user might struggle against teamers, as the [C] and [F] moves leave the user vulnerable to attacks.
+* Moves no longer create platforms like [[Yeti]].
+
+|'''[TAP] Normal Attack'''
+* The last roar has considerable knockback.
+* Not reliable in PvP.
+* Mediocre combo potential.
+* Not easy to spam.
+
+|'''[Z] Incinerating Blaze'''
+* Cannot be aimed vertically.
+* Although it can't be stopped by damage in the held version, the user is not immune to damage, leaving them vulnerable.
+
+|'''[X] Hellburst Impact'''
+* Needs to be held for proper damage.
+* Very high knockback. (If hit incorrectly.)
+* Low damage and range when tapped.
+
+|'''[C] Infernal Execution'''
+* Extremely high knockback.
+* Very risky to use over water as the user might be stuck underwater while grabbing the opponent if the opponent's hitbox is very low and close to the water. [[Shark]] users can ignore this.
+* Single target, meaning if used on a group of enemies, only one will be affected while the rest can still attack the user.
+
+|'''[F] Abyssal Rush'''
+* The grab is single target.
+}}
+}}
+</tabber>
+
+==Gallery==
+<gallery>
+File:Yeti (Front) Model.png|Fiend’s transformed model posted on [https://x.com/ X] by @oreI_orL.
+File:Oni Teaser.webp|Fiend hinted in [[The Blox Bulletin|The Blox Bulletin #19]].
+File:Runic1.png|Runic Fiend Model
+File:Imageeetsftgserty3ews46tegfsdftyws546y.png|Runic Fiend Model in a Side View
+</gallery>
+
+==Trivia==
+* Fiend is a "corrupted" form of Yeti, allegedly caused by [[Mygame43 (Player)|mygame43]]. 
+* The mutation takes heavy inspiration from the famous Street fighter, Akuma.
+* It originally was going to have an event transformed boss, similar to [[Unbound Werewolf]] and [[Hellfire Gas (Raid Boss)|Hellfire Gas]], but it was strangely never added.
+* "Fiend" means an evil spirit or demon in religion or mythology.
+* Fiend's obtainment is the exact same as [[Werewolf]], both being in a gacha, with their bundles costing {{Robux|3,999}} and both costing {{Robux|1,500}} individually, the only difference being the event in which they are obtainable.
+* Unlike [[Yeti]], [[Draco]]'s V2 [[Flash Step]] works while transformed.
+* The sound effect when walking on [[water]] (Fiend’s Cursed Strider passive) uses the exact same sound effect as [[Yeti]]'s similar ability even though it creates whirls and not ice.
+* This is the third fruit [[mutation]] to be released, the first being [[Werewolf]] while the second being [[Empyrean]].
+* This is the second fruit [[mutation]] to have a skin, the first one being [[Empyrean]].
+* Despite not being entirely related, the Fiend seems to be more similar to [[Tiger]], both being powerful fighters with flame-based attacks.
+* Fiend's {{Skin|Runic}} [[skin]] is one of the first skins to fully change the transformation model, with the other one being [[Magnet|Arcsteel Magnet]].
+* Fiend's {{Skin|Runic}} skin was originally named 'Sealed Fiend'
+
+==Change History==
+{{Change History|29.2|content={{Update|30}}
+* Fiend was given a new [[Skin]], {{Skin|Runic}}
+----
+{{Update|29.6}}
+* Fiend was heavily buffed.
+* Overall damage increased by 17%
+** [Z] tap windup decreased, range increased by 15%
+** [Z] hold cast time reduced
+** [X] hold range, cast time and hitbox increased by 20%
+** [C] endlag reduced by 60%
+** [F] hitbox increased by 15%}}
+
+==Navigation==
+{{Mutation Navbox}}
+{{Blox Fruit Navbox}}
+
+<!-- Categories -->
+[[Category:Transformation-based Fruits]]
+[[Category:M1 Fruits]]
+[[Category:Beast]]
+[[Category:Fruits over $1 million]]
+[[Category:Skins]]

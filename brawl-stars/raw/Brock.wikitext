@@ -1,0 +1,570 @@
+{{Protection}}{{MagicWords}}
+{{Brawler_Infobox|Title = Boom!|PrestigeTitle = Take the L|Rarity = Rare|Class = Marksman|MovementSpeed = 750 (Normal)<br>975 (with Rocket Laces + Gadget Buffie)<br>900 (with More Rockets! + Star Buffie)|VoiceActor = Scott Whyte<br>Anderson Stinson III (Cyberpunk Brock)|HealthLabel = Health|Health = 3000|AttackRange = 9 (Long)<br>11 (with Rocket No. 4 and Buffie)|Reload = 1.95 seconds (Normal)|AttackSuperCharge = 20%<br>6% (fire)|AttackLabel = Damage|Attack = 1160|SuperRange = 8.33 (Long)|SuperBullets = 9 <br> 13 (with More Rockets)<br>28 (with Hypercharge)<br>35 (with More Rockets and Hypercharge)|SuperSuperCharge = 18.2%<br>8% (with Hypercharge)|SuperLabel = Damage per rocket|Super = 1040|AttackSpeed = 2700<br>3500 (with Rocket Fuel)|AttackWidth = 0.67<br>1 (with Rocket Fuel)|SuperSpeed = 870|SuperWidth =|AttackLabel2 = Fire damage|Attack2 = 348|Gadget1Name = Rocket Laces|Gadget1 = 800|Gadget1Label = Damage|Gadget1Cooldown = 22 seconds|Gadget2Name = Rocket Fuel|Gadget2Cooldown = 22 seconds|Previous=Bull|Next=El Primo|HyperchargeMultiplier=32%|AttackHyperchargeCharge=6.4%<br>1.92% (fire)|SuperHyperchargeCharge=5.824% <br>2.56% (with Hypercharge)|Gadget1Range=4}}
+{{Quote|Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!}}
+{{Portrait}}
+Brock is a {{Rarity|Rare}} [[Brawler]] who has low health, a long range, and a high damage output, but a moderately slow reload speed. He was one of the 15 Brawlers who released at the first Beta launch. His attack shoots long-ranged rockets that explode and deal area damage in a short radius, leaving a fire puddle. His Super fires a barrage of rockets in a large area, destroying obstacles and dealing massive damage. His first Gadget, Rocket Laces, allows him to fire at his feet, damaging nearby enemies and knock them back, and launching Brock into the air. His second Gadget, Rocket Fuel, makes Brock's next attack a mega rocket that has a larger explosion radius, destroys walls and travels faster. His first Star Power, More Rockets!, increases the number of rockets fired from his Super. His second Star Power, Rocket No. Four, increases Brock's ammo capacity to 4. His Hypercharge, Rocket Barrage, increases the number of rockets fired from his next Super, which deal high damage.
+
+==Attack: Rockin' Rocket==
+{{Quote|Brock lets fly with a single Rockin' Rocket that really goes the distance.}} Brock's attack is a long-ranged rocket missile that deals high area damage in a 1.5-tile splash radius on impact. After exploding, it sets the ground on fire within a 1-tile radius for 2.9 seconds, dealing 30% of the rocket's damage per second. Unlike other marksmen with longer attack cooldowns, Brock's attack has a much faster cooldown, however, his attacks reload rather slowly and travel slowly as well. Brock takes 0.4 seconds to complete his attack.
+
+==Super: Rocket Rain==
+{{Quote|Brock fires a rocket barrage that takes out enemies and obstacles. He only wants to see you bathing in the Rocket Rain!}}When Brock's Super is used, he launches a volley of 9 rockets at 0.2-second intervals spread out over a large area, dealing heavy damage to any targets hit. These rockets can be fired over obstacles and destroy terrain within a 1.5-tile splash radius, but they can't set the ground on fire. The Super has an extremely long cooldown and takes 2.05 seconds to complete. Brock can still move while Rocket Rain is in effect, and the rockets fired move along with him. However, he can't attack or reload while using his Super, and it is cancelled if Brock is knocked back, pulled, or stunned. 
+
+==Gadgets==
+===Rocket Laces===
+{{Quote|Brock jumps to a targeted area, knocking back nearby enemies on takeoff and landing and dealing minor damage. Cooldown: 22 seconds.}}
+{{Gadget|1}}
+When used, Brock jumps up to 4 tiles in the aimed direction, making an explosion on takeoff and landing, and allowing him to jump over walls or water. Any enemy in the explosion is knocked back and takes 1000 damage. The explosion has a radius of 2 tiles, and can't destroy walls or bushes. If required to cross over a larger amount of blocks or over lakes, his jumping distance will be increased up to a limit or to the nearest piece of ground. While in the air, Brock is completely immune to all damage besides status effects and damage applied over time. Auto-aiming this Gadget will aim it in your direction of movement. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|Hitting an enemy Brawler gives +2 sec movement speed.}}{{Buffie|Gadget}}
+With the Buffie, after hitting an enemy Brawler with the Gadget, Brock will also receive 30% movement speed boost for 2 seconds. 
+
+===Rocket Fuel===
+{{Quote|Brock fires a large rocket that destroys terrain and deals damage. Cooldown: 22 seconds.}}
+{{Gadget|2}}
+When aiming using the Gadget button, Brock shoots a rocket which destroys obstacles and deals 86.21% the damage as one of his main attack rocket. This attack does not deal extra damage and does not have the fire effect. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|The rocket breaks into 4 smaller rockets after exploding that also do damage.}}{{Buffie|Gadget}}
+With the Buffie, after the rocket hits an obstacle or enemy Brawler, the rocket breaks into 4 smaller rockets which deal 25% the damage as the large rocket.
+
+==Star Powers==
+===More Rockets!===
+{{Quote|Rocket Rain now rains down 44% more rockets.}}{{StarPower|1}}Brock's Super now fires 4 more rockets, increasing the number of rockets from 9 to 13. This Star Power also decreases the time between rockets by 25%, but slightly increases the total Super time by 0.2 seconds.
+
+{{Quote|Brock gains 20% movement speed while firing his Super.}}{{Buffie|Star}}
+With the Buffie, Brock's movement speed is increased by 20% while using his Super.
+
+===Rocket No. 4===
+{{Quote|Brock loads a fourth rocket into his launcher, increasing his ammo capacity (and discarding the thermos bottle he's been keeping in his launcher's #4 tube).}}{{StarPower|2}}Brock gains an extra ammo bar, allowing him to have up to 4 attacks ready at once, instead of 3. However, Brock's reload speed remains the same, so it takes 33% longer for him to fully reload all his ammo after firing all four rockets.
+
+{{Quote|Every 8 sec Brock's next attack has increased range.}}{{Buffie|Star}}
+With the Buffie, Brock gains a charge bar which takes 8 seconds to charge, and when charged, Brock's next rocket range gets increased by 2 tiles. A radar symbol will glow above Brock's head, along with a sound effect, signaling the charged attack. The aiming reticle will also turn green.
+
+==Hypercharge: Rocket Barrage==
+{{Quote|Rockets fired during the Super are cluster bombs.}}{{Hypercharge}}
+When activated, Brock's next Super fires 4 waves of 7 rockets, each rocket dealing 800 damage, or 840 damage if he has the Hypercharge damage boost. If Brock has his More Rockets Star Power equipped, his Super will fire 5 waves of 7 rockets instead. He also gains a 20% speed boost, a 5% damage boost, and a 5% shield boost.
+
+{{Quote|Rockin' Rockets fires an additional two small rockets, each dealing 40% damage of the main rocket.}}{{Buffie|Hyper}}
+With the Buffie, during his Hypercharge, Brock fires two additional small rockets which move parallelly and deal 40% damage that of the normal rocket. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Brock fires another rocket with Rockin' Rocket.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Brock fired two side by side rockets with his main attack, similar to Ruffs' attack. They both left fire puddles on the ground.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Rockets leave large fires behind!}}<div style="float: right;">[[File:Hot Wasabi.png|64px|link=]]</div>
+Brock's attack left a larger fire puddle on the ground, which dealt more damage than the ones from his normal attack.
+
+==Tips==
+===Game Modes and Maps===
+*Brock's Super can be used against a wall in front of a goal in [[Brawl Ball]], meaning Brock does not have to go around the wall. He can also use his Rocket Fuel Gadget to break the walls. This applies to all Brawl Ball maps with a wall in front of the goal.
+*Use him in [[Heist]] to break the walls covering the enemy safe so that he can land burst damage on the enemy safe easily. Also, with his long range, he can deal massive damage to the safe while staying relatively safe from a safe distance as well. His attack's slow projectile speed will not be a disadvantage as the safe is stationary, but enemies might have time to go to the safe and tank some of the shots.
+*Brock isn't a viable Brawler to use in Special Events because he has slow reload speed and his Super can break walls, giving the robots a huge advantage in [[Robo Rumble]] and [[Boss Fight]]. He is also not viable in survival-based modes like Showdown and Hot Zone, as his low health means he is easily ambushed and eliminated.
+
+===Recommended Build===
+*Brock's Rocket No. Four is good in [[Knockout]] because you can easily defeat enemies once you have full ammo.
+*Brock's Rocket Laces Gadget can be used for briefly getting away from ambushing assassins or tanks. He can also use it to keep distance by jumping over walls or to get close to throwers behind walls.
+*Brock can use his Rocket Fuel Gadget to break open important walls on the map without needing to charge his Super - a very important tool in maps such as [[Backyard Bowl]] or [[Shooting Star]]. He can use his Gadget at the start of the match to give his team a huge defensive advantage. One advantage over his Super is that you can better predict the amount of walls Brock's Gadget will destroy as opposed to his Super, which only shows the area-of effect of possible missile hits which is harder to control. However, unlike his Super, this shot can be body-blocked by enemies or spawnables ([[Tara]]'s shadows, [[Ash]]'s rats, [[Mr. P]]'s porters, [[Eve]]'s hatchlings, [[Nita]]'s bear, and [[Charlie]]'s spiders), as the attack does not pierce. However, if your target is standing near their spawnables, the small explosion radius ensures they will still get damaged.
+*Brock's Rocket Fuel Gadget aids in Brock's area denial. Brock can deal splash damage, but it is rather difficult unless enemies stay within one tile. Making each individual shot count is vital for Brock whose slow reload speed and projectile speed makes him vulnerable once a couple of shots are fired. It also allows Brock to open up walls on the map without having to charge his Super first.
+
+===Strategies=== 
+*In [[Duo Showdown]], two Brawlers will most likely be near each other, and Brock's rockets have a small area of explosion when it hits something or when the rocket's range distance ends. Shooting a rocket in between the two Brawlers when they're near will damage both of them greatly. Since his attack's splash radius is also large enough to go through walls slightly, use it to damage enemies extremely close to walls, similarly to [[Jacky]], [[Doug]], [[Squeak]], [[Shade]], and [[Hank]]'s attacks.
+*Try to predict where opponents are going to be. His rockets move slowly, and the enemies will likely be moving, so shoot to where you think that they will be when your rocket reaches them.
+*Firing a single rocket from his Super and then immediately using his Rocket Laces Gadget will cancel his Super. This is especially useful in Brawl Ball when breaking open the goal barrier to make a quick and unexpected score.
+*Keep in mind that Brock's rockets explode by themselves if they reach maximum range. You will hit more of your shots if you are standing just barely in range of an enemy, because then the rockets will explode and deal damage even if they don't hit the enemy directly. Avoid staying at a medium distance, as his rockets will become easy to avoid. Missing two or more attacks at that distance means Brock can easily be pushed back, putting him in a disadvantageous position.
+
+===Other===
+*Brock performs the best in open maps that don't have a lot of cover so that close-ranged Brawlers can't ambush him.
+*Try to keep Brock behind other teammates, because he has fairly low health and is best used for long-ranged support instead.
+*Because of Brock's very slow reload time, it's important to make every shot count. Don't fire off all three rockets at once, since that will leave Brock completely defenseless. While his Rocket No. Four Star Power gives Brock one additional ammo, it is still worthwhile to maintain your ammo for when you need it. 
+*Use Brock's Super whenever the opponents group up or one is hiding behind a wall.
+*When using Brock's Super against an enemy, make it count and try to aim it perfectly, as sometimes some Brawlers can escape and deal damage to you when you are still in the duration of the Super.
+*Brock's Super is great for getting the enemy team to split up as they avoid the rockets so that teammates can deal with them individually. Brock's Super tracks his movement, so try to follow the enemies' path to spread the projectiles out; this covers a larger area, destroys more walls, and increases the number of hits. With the More Rockets Star Power equipped, Brock's Super becomes a massive tool for destruction and wall-breaking, deadly to low-health enemies caught in the blast zone and capable of wiping out entire teams if multiple Brawlers are caught in it.
+*Compared to other long-range Brawlers, Brock has a much shorter cooldown, allowing him to be a threat even when at close range. Because of this, he can easily defeat lower-health Brawlers by quickly firing 3 rockets. Saving Brock's ammunition and using his Gadget Rocket Laces is especially useful for close-range ambushes. This is more effective with his Rocket No. Four Star, allowing him to survive an encounter even against builkier Brawlers.
+*Despite being a Marksman, Brock is unable to outperform other Marksmen. This is due to his range being relatively shorter than others of his class, and the low speed of his projectiles hinders his effectiveness at holding his lane. When fighting other ranged Brawlers like [[Piper]], [[Belle]], and [[Mandy]], try to avoid being hit by two or more shots as much as possible, and use your quick unload to put on the pressure. The rockets' burning area and blast radius limit enemy movement, allowing you to fire a rocket on the side they are moving from and then fire in the opposite direction, causing them to be hit by the rockets inadvertently. It's advisable to use the Shield Gear on open maps against other Marksmen, as the extra health means these Brawlers will need one more attack to eliminate you, which can be crucial to winning a match. The Rocket Fuel Gadget can help at finishing enemies with low health at a safe distance.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 01.ogg|Filedescription = "Whew! Let's go."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 01.ogg|Filedescription = "Hoo-hoo! Let's Brock."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 01.ogg|Filedescription = "Brock is OP!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 01.ogg|Filedescription = "Brock's overclocked!"}}
+|'''Normal:'''
+{{Ogg|Filename = Brock hurt 01.ogg|Filedescription = "For real?"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 01.ogg|Filedescription = "For real?"}}
+|'''Normal:'''
+{{Ogg|Filename = Brock kill vo 01.ogg|Filedescription = "Whew! Take the L."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 01.ogg|Filedescription = "Take the hard disconnect."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock death 01.ogg|Filedescription = "Ooh, I was laggin'."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 01.ogg|Filedescription = "Ping spike, I swear!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Brock ulti vo 01.ogg|Filedescription = "The box goes boom!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 01.ogg|Filedescription = "The box goes boom!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 02.ogg|Filedescription = "Gotta get that loot."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 02.ogg|Filedescription = "Gotta farm that scrap."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 02.ogg|Filedescription = "Brock don't stop."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 02.ogg|Filedescription = "Cyber Brock don't stop."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock hurt 02.ogg|Filedescription = "Don't do that."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 02.ogg|Filedescription = "Don't do that."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock kill vo 02.ogg|Filedescription = "Ooh, you got destroyed."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 02.ogg|Filedescription = "You got zeroed!"}}
+|'''Normal:'''
+{{Ogg|Filename = Brock death 02.ogg|Filedescription = "Ooh, you're so lucky!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 02.ogg|Filedescription = "You got lucky."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Brock ulti vo 02.ogg|Filedescription = "Boombox, baby!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 02.ogg|Filedescription = "Feel the payload, baby!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 03.ogg|Filedescription = "Let's do this."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 05.ogg|Filedescription = "This alley's my mix."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 03.ogg|Filedescription = "I'm ballin'."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 03.ogg|Filedescription = "I'm stacking Brawlers."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock hurt 03.ogg|Filedescription = "Woah woah woah!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 03.ogg|Filedescription = "Woah, woah, woah!"}}
+|'''Normal:'''
+{{Ogg|Filename = Brock kill vo 03.ogg|Filedescription = "Easy."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 03.ogg|Filedescription = "Easy run."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock death 03.ogg|Filedescription = "Okay, okay, you got skills."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 03.ogg|Filedescription = "Okay, respect the build."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Brock ulti vo 03.ogg|Filedescription = "Ah yeah, turning up the boombox!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 03.ogg|Filedescription = "Max bass to the face!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 04.ogg|Filedescription = "Time to move to the boombox groove."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 03.ogg|Filedescription = "Time to drop the bass and blast the rockets."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 04.ogg|Filedescription = "Gotta flex."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 04.ogg|Filedescription = "Gotta flex the specs."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock hurt 04.ogg|Filedescription = "You gotta be kidding."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 04.ogg|Filedescription = "You gotta be kidding."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock kill vo 04.ogg|Filedescription = "You, got wrecked."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 04.ogg|Filedescription = "You got flatlined."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock death 04.ogg|Filedescription = "Man, Brock got nerfed."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 04.ogg|Filedescription = "Brock got hotfixed."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Brock ulti vo 04.ogg|Filedescription = "Rocket rain!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 05.ogg|Filedescription = "Rocket rain, uncut remix!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 05.ogg|Filedescription = "It's go time."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 04.ogg|Filedescription = "It's go time."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 05.ogg|Filedescription = "I'm on top of my game."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 05.ogg|Filedescription = "I'm on top of the board."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock hurt 05.ogg|Filedescription = "Oh no you didn't."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 06.ogg|Filedescription = "Oh no you did not just do that."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 05.ogg|Filedescription = *chuckles* "Don't tilt."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 05.ogg|Filedescription = "Broken Brock!"}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Brock ulti vo 05.ogg|Filedescription = "Move those feet to the boombox beat!"}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 04.ogg|Filedescription = "Cracking that illegal frequency!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Brock start vo 06.ogg|Filedescription = "It's time to level up."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 06.ogg|Filedescription = "Time to patch in."}}
+|'''Normal:'''
+{{Ogg|Filename = Brock lead vo 06.ogg|Filedescription = "High score."}}'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 06.ogg|Filedescription = "New high score, bro."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 05.ogg|Filedescription = "You gotta be kidding!"}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber kill vo 06.ogg|Filedescription = "Not bad for a bootleg rig."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber die vo 06.ogg|Filedescription = "Brock's in shock!"}}
+|
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber ulti vo 06.ogg|Filedescription = "Subwoofer systems activate!"}}
+|-
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 07.ogg|Filedescription = "Match found."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 07.ogg|Filedescription = "Numbers don't lie, bro."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 07.ogg|Filedescription = "Hey! You scratched the chrome."}}
+|
+|
+|
+|
+|-
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 08.ogg|Filedescription = "Send the maniac? Nah, send the boombox."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 08.ogg|Filedescription = "I'm just vibing."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber hurt vo 08.ogg|Filedescription = "Oh, you're making me mad now!"}}
+|
+|
+|
+|
+|-
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 09.ogg|Filedescription = "Cyber systems activated."}}
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber lead vo 09.ogg|Filedescription = "Top of the charts with rockets and street smarts."}}
+|
+|
+|
+|
+|
+|-
+|'''Cyberpunk:'''
+{{Ogg|Filename = Brock cyber start vo 10.ogg|Filedescription = "Locked in."}}
+|
+|
+|
+|
+|
+|
+|}
+
+==History==
+*03/07/17:
+**{{Balance|Content=Brock's reload time was decreased to 2.3 seconds (from 2.5).|Change=Buff}}
+*11/08/17:
+**{{Balance|Content=The number of projectiles from Brock's Super was increased to 9 (from 6).|Change=Buff}}
+**{{Balance|Content=His Super also has a larger area of effect.|Change=Buff}}
+*04/09/17:
+**{{Balance|Content=Brock's reload time was decreased to 2.1 seconds (from 2.3).|Change=Buff}}
+**{{Balance|Content=His main attack projectile speed was increased by 5%.|Change=Buff}} 
+**{{Balance|Content=His Super spread was made smaller.|Change=Neutral}}
+**{{Balance|Content=Brock's rarity was changed to Rare (from Common).|Change=Neutral}}
+*12/09/17: 
+**{{Balance|Content=Brock's health was increased to 700 (from 600).|Change=Buff}}
+**{{Balance|Content=His main attack projectile speed was increased by 17%.|Change=Buff}}
+*07/12/17:
+**{{Balance|Content=Brock's Super recharge rate was decreased by 25%.|Change=Nerf}}
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Brock's Incendiary Star Power was added.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Brock's Incendiary Star Power damage was increased to 240 (from 160) per second.|Change=Buff}}
+*21/03/18:
+**{{Balance|Content=Brock's main attack damage was increased to 1100 (from 1040).|Change=Buff}} 
+**{{Balance|Content=His main attack projectile size was increased.|Change=Buff}}
+**{{Balance|Content=His main attack range was decreased to better fit the screen.|Change=Nerf}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Brock's movement speed to 720 (from 650).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds were increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Brock's main attack projectile size was decreased by 33%.|Change=Nerf}}
+*21/05/18:
+**{{Balance|Content=Brock's rarity was changed to Common (from Rare).|Change=Neutral}}
+*05/12/18: 
+**{{Balance|Content=Brock and Beach Brock were remodeled.|Change=Neutral}}
+**{{Balance|Content=Beach Brock now costs 80 [[Gems]] (from 30).|Change=Neutral}}
+*05/01/19:
+**{{Balance|Content=The Boom Box Brock skin was added.|Change=Neutral}}
+*29/01/19:
+**{{Balance|Content=Brock's Incendiary Star Power damage was increased to 300 (from 240) per second.|Change=Buff}}
+**{{Balance|Content=He was given voice lines.|Change=Neutral}}
+*31/01/19:
+**{{Balance|Content=The Lion Dance Brock skin was added. It was featured as a Lunar Brawl 2019 skin.|Change=Neutral}}
+*15/04/19:
+**{{Balance|Content=Brock, Boom Box Brock, and Lion Dance Brock's animations were reworked.|Change=Neutral}}
+*01/06/19:
+**{{Balance|Content=The Hot Rod Brock skin was added.|Change=Neutral}}
+*24/07/19:
+**{{Balance|Content=Brock's Rocket No. Four Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Brock's Incendiary Star Power damage was increased to 400 (from 300) per second.|Change=Buff}}
+*18/09/19:
+**{{Balance|Content=Brock's Incendiary damage was increased to 500 (from 400) per second.|Change=Buff}}
+**{{Balance|Content=Beach Brock's main attack visual effects were reworked.|Change=Neutral}}
+*23/10/19:
+**{{Balance|Content=Brock's Incendiary Star Power damage was increased to 600 (from 500) per second.|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Brock's Rocket Laces Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Brock's Super rocket pattern is now fixed instead of random.|Change=Neutral}}
+*16/06/20:
+**{{Balance|Content=Brock's health was decreased to 2600 (from 2800).|Change=Nerf}}
+*06/07/20:
+**{{Balance|Content=The Super Ranger Brock skin was added. It was featured as a Brawl Pass Season 2 exclusive skin.|Change=Neutral}}
+*06/11/20:
+**{{Balance|Content=Brock's Rocket Fuel Gadget was added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Brock's health was decreased to 2400 (from 2600).|Change=Nerf}}
+**{{Balance|Content=His main attack damage was decreased to 1040 (from 1100).|Change=Nerf}}
+**{{Balance|Content=His Rocket Fuel Gadget damage bonus was decreased to 50% (from 100%).|Change=Nerf}}
+**{{Balance|Content=His Incendiary Star Power damage was decreased to 520 (from 600) per second.|Change=Nerf}}
+*24/12/20:
+**{{Balance|Content=The Old School Brock skin became available for every user to claim until 07/01/21.|Change=Neutral}}
+*15/03/21:
+**{{Balance|Content=Brock's main attack damage was increased to 1120 (from 1040).|Change=Buff}}
+**{{Balance|Content=Brock and all of his skins excluding Super Ranger Brock received facial animations.|Change=Neutral}}
+*19/05/21: 
+**{{Balance|Content=Brock's main attack damage was increased to 1180 (from 1120).|Change=Buff}}
+*25/08/21:
+**{{Balance|Content=Brock's main attack damage was increased to 1300 (from 1180).|Change=Buff}}
+**{{Balance|Content=Brock's Super charge rate was increased by 17%.|Change=Buff}}
+*31/08/21:
+**{{Balance|Content=Brock's main attack damage was decreased to 1220 (from 1300).|Change=Nerf}}
+**{{Balance|Content=Brock's Super charge rate was decreased by 14%.|Change=Nerf}}
+*28/09/21: 
+**{{Balance|Content=Brock's main attack explosion radius was increased by 50%. This does not affect his Rocket Fuel Gadget.|Change=Buff}}
+**{{Balance|Content=His main attack damage was decreased to 1160 (from 1220).|Change=Nerf}}
+**{{Balance|Content=His main attack range was decreased to 9 tiles (from 10).|Change=Nerf}}
+**{{Balance|Content=The damage bonus from his Rocket Fuel Gadget was removed.|Change=Nerf}}
+**{{Balance|Content=Brock's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Brock's main attack projectile speed was decreased by 11%. This does not affect his Rocket Fuel Gadget.|Change=Nerf}}
+**{{Balance|Content=Brock's class was changed to Damage Dealer (from Sharpshooter).|Change=Neutral}}
+*01/03/22:
+**{{Balance|Content=Brock's attacks now set the ground on fire within a 1-tile radius to burn over 2 seconds. This does not affect his Rocket Fuel Gadget.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge Brock's Super was increased to 5 hits (from 4).|Change=Nerf}}
+**{{Balance|Content=Brock's Incendiary Star Power was renamed to More Rockets and reworked from allowing his rockets to leave a patch of fire which deal damage over time to making his Super fire 4 extra rockets.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Brock's flavor text was changed from "Brock fires a long-range, explosive rocket at enemies. His Super is a ballistic rocket barrage that destroys cover!" to "When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves."|Change=Neutral}}
+*04/07/22:
+**{{Balance|Content=The Postal Brock Skin was added. It was featured as a Power League skin for Brawl Pass Season 13.|Change=Neutral}}
+*26/10/22:
+**{{Balance|Content=The ZomBrock skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Brock's rarity was changed to Rare (from Common).|Change=Neutral}}
+**{{Balance|Content=Lion Dance Brock's main attack visual effects were slightly reworked.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Brock's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Postal Brock now costs 149 Gems (from 25000 [[Star Points]]).|Change=Neutral}}
+*13/06/23:
+**{{Balance|Content=The Zeus Brock skin was added. It was featured as a Legends of Olympus skin.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Zeus Brock received facial animations.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Brock's Rocket Laces Gadget damage was decreased to 464 (from 500) but now scales with Power Levels.|Change=Neutral}}
+**{{Balance|Content=Brock's flavor text was changed from "When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves." to "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!"|Change=Neutral}} 
+*12/12/23:
+**{{Balance|Content=Zeus Brock's cloud effects were reworked.|Change=Neutral}}
+*18/12/23:
+**{{Balance|Content=Fixed an issue with Brock's Rocket Laces Gadget damage.|Change=Neutral}}
+*02/03/24:
+**{{Balance|Content=The Rocket Brown skin was added. It was featured as a Brown & Friends skin.|Change=Neutral}}
+*23/04/24:
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge was added.|Change=Neutral}}
+**{{Balance|Content=Zeus Brock's cloud effects were reworked.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=The Super Ranger Brock Red, Blue, Yellow, Pink, and Black skins were added. They were featured as Max Force skins.|Change=Neutral}}
+**{{Balance|Content=Brock's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Brock's Mutation was removed from the game.|Change=Neutral}}
+*06/06/24:
+**{{Balance|Content=The Hacker, Gold Hacker, and RGB Hacker Brock skins were added. They were featured as Brawl Pass Season 27 skins and CyberBrawl skins.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge damage was increased to 600 (from 400) per rocket.|Change=Buff}}
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge Super recharge rate was increased by 50%.|Change=Buff}}
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge rocket spread was increased slightly.|Change=Buff}}
+**{{Balance|Content=Brock was remodeled, along with his True Silver and True Gold skins.|Change=Neutral}}
+*12/07/24:
+**{{Balance|Content=The Deputy Brock skin was added. It was featured as an Outlaws skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge damage was increased to 800 (from 600) per rocket.|Change=Buff}}
+**{{Balance|Content=Brock's Rocket Barrage Hypercharge Super recharge rate was increased by 33%.|Change=Buff}}
+**{{Balance|Content=Brock was remodeled, along with his True Silver and True Gold skins.|Change=Neutral}}
+**{{Balance|Content=The Fresh Cut Brock skin was added, along with his True Silver and True Gold skins.|Change=Neutral}}
+**{{Balance|Content=Beach Brock, Lion Dance Brock, Super Ranger Brock, and ZomBrock's winning animation was reworked.|Change=Neutral}} 
+*14/11/24:
+**{{Balance|Content=Brock's health was increased to 2700 (from 2400).|Change=Buff}}
+*23/01/25:
+**{{Balance|Content=Fixed a bug where Brock's Hypercharged Super fired 3 waves of rockets instead of 4.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Brock's Wasabi Power was added for a limited time.|Change=Neutral}}
+*20/05/25:
+**{{Balance|Content=Brock's Wasabi Power main attack fire damage and radius were increased.|Change=Buff}}
+*30/05/25:
+**{{Balance|Content=Brock's Wasabi Power was removed from the game.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Brock's Rocket Barrage Hypercharge speed boost from 26%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Brock's Rocket Barrage Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Buff|Brock's health was increased to 3000 (from 2700).}}
+*10/01/26:
+**{{Balance|Content=The Boss Brock skin was added. It was featured as a Steampunk skin.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Change=Buff|Content=Brock’s reload time was decreased to 1.95 seconds (from 2.1)}}.
+**{{Balance|Change=Buff|Content=Brock’s Rocket Laces Gadget also deals damage and knockback on landing}}.
+**{{Balance|Change=Buff|Content=Brock’s Rocket Laces Gadget damage was increased to 800 (from 464)}}.
+**{{Balance|Change=Buff|Content=Brock’s Rocket Fuel Gadget now knocks enemies back.}}
+**{{Balance|Change=Buff|Content=Brock’s Rocket Fuel Gadget no longer consumes ammo.}}
+**{{Balance|Change=Nerf|Content=Brock’s Rocket Laces Gadget cooldown was increased to 20 seconds (from 15).}}
+**{{Balance|Change=Nerf|Content=Brock’s Rocket Laces Gadget area effect radius was decreased to 2 tiles (from 2.67).}}
+**{{Balance|Change=Nerf|Content=Brock’s Rocket Fuel Gadget damage was decreased to 1600 (from 1856).}}
+**{{Balance|Change=Nerf|Content=Brock’s Rocket Fuel Gadget cooldown was increased to 22 seconds (from 15).}}
+**{{Balance|Change=Nerf|Content=Brock’s Rocket Fuel Gadget no longer generates Super charge.}}
+**{{Balance|Neutral|Content=Brock's Super now follows him if he's moving.}}
+**{{Balance|Change=Neutral|Content=Brock’s Rocket Laces Gadget now auto-aims towards enemies instead of the direction of his movement.}}
+**{{Balance|Change=Neutral|Content=Brock’s Reload Gear was removed, with his base reload increasing from 2.1 to 1.95 to compensate.}}
+**{{Balance|Change=Neutral|Content=Brock’s Buffies were added.}}
+**{{Balance|Content=Hot Rod Brock was slightly remodeled.|Change=Neutral}}
+*08/07/26:
+**{{Balance|Change=Nerf|Content=Brock's Rocket Fuel Gadget can no longer knock enemies back.}}
+**{{Balance|Change=Nerf|Content=Brock's Buffied Rocket No. 4 Star Power charge bar was increased to 6 seconds (from 4).}}
+*16/07/26:
+**{{Balance|Content=The Cyber, Cyber IV, Cyberpunk, Corrpupted, and Cyberchaos Brock skins were added. They were featured as Pro Pass skins.|Change=Neutral}}
+*01/09/26:
+**{{Balance|Content=Brock's Hypercharge Buffie main attack small rockets now deal 40% of the damage (from 60%).|Change=Nerf}}
+**{{Balance|Nerf|Brock's level up damage was decreased to 5% (from 6%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Brock's movement speed to 750 (from 720).}}
+**{{Balance|Content=Brock's Rocket Laces Gadget now auto-aims in the direction of his movement instead of towards enemies.|Change=Neutral}}
+*16/09/26:
+**{{Balance|Nerf|Brock's Super recharge rate was decreased by 12.5%.}}
+**{{Balance|Nerf|Brock's Rocket Laces Gadget cooldown was increased to 22 seconds (from 20).}}
+*03/11/26:
+**{{Balance|Nerf|Brock's Rocket Barrage Hypercharge multiplier was decreased to 32% (from 45%).}}
+**{{Balance|Nerf|Brock's Buffied More Rockets! Star Power movement speed boost was decreased to 20% (from 30%).}}
+**{{Balance|Nerf|Brock's Buffied Rocket No. 4 Star Power charge bar was increased to 8 seconds (from 6).}}
+**{{Balance|Neutral|Fixed an issue where Brock's Hypercharged Super fired only 3 waves of rockets instead of 4 when no Star Power is equipped.}}
+**{{Balance|Neutral|Fixed audio and animation issues with Brock's Hypercharged Super.}}
+
+== Cosmetics ==
+
+===Skins (30)===
+{{Skin Gallery
+|Name1 = Fresh Cut|Cost1=Free after unlocking Brock
+|Name2 = Old School|Cost2 = Free from Brawlidays 2020 gift • '''E'''|Campaign2=2020 Anniversary|Rarity2=Super Rare
+|Name3 = ZomBrock|Cost3=Free from the ZomBrock Challenge, free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 29 Gems • '''S'''|Campaign3=Brawl-o-ween|Rarity3=Rare
+|Name4 = Beach|Cost4 = Free from Classic Brawl Mega Boxes, free from Pierce Boxes or 79 Gems|Campaign4=Summer of Brawl|Rarity4=Super Rare
+|Name5 = Boom Box|Cost5 = Free from Mina Boxes or 79 Gems|Campaign5=Vibing|Rarity5=Super Rare
+|Name6 = Deputy|Cost6 = Free from Classic Brawl Mega Boxes or 79 Gems|Campaign6=Outlaws|Rarity6=Super Rare
+|Name7 = Lion Dance|Cost7 = 149 Gems • '''E'''|Campaign7 = Lunar Brawl|Rarity7=Epic
+|Name8 = Hot Rod|Cost8 = Free from Ziggy Boxes or 149 Gems • '''S'''|Campaign8 = Retropolis Nights|Rarity8=Epic
+|Name9 = Postal|Cost9 = Free from Boom Boxes or 149 Gems|Campaign9 = Ranked|Campaign9_2=City Troubles|Rarity9=Epic
+|Name10 = Rocket Brown|Cost10 = 149 Gems|Campaign10 = Brown & Friends|Rarity10 = Epic
+|Name11 = Super Ranger Brock Red|Cost11 = Through chain offer, free from Monster Eggs or 149 Gems|Campaign11 = Max Force|Rarity11 = Epic
+|Name12 = Super Ranger Brock Blue|Cost12 = Through chain offer after obtaining Super Ranger Brock Red, free from Monster Eggs or 149 Gems|Campaign12 = Max Force|Rarity12 = Epic
+|Name13 = Super Ranger Brock Yellow|Cost13 = Through chain offer after obtaining Super Ranger Brock Red and Blue, free from Monster Eggs or 149 Gems|Campaign13 = Max Force|Rarity13 = Epic
+|Name14 = Super Ranger Brock Pink|Cost14 = Through chain offer after obtaining Super Ranger Brock Red, Blue and Yellow, free from Monster Eggs or 149 Gems|Campaign14 = Max Force|Rarity14 = Epic
+|Name15 = Super Ranger Brock Black|Cost15 = Through chain offer after obtaining Super Ranger Brock Red, Blue, Yellow and Pink, free from Monster Eggs or 149 Gems|Campaign15 = Max Force|Rarity15 = Epic
+|Name16 = Zeus|Cost16 = 199 Gems|Campaign16 = Legends of Olympus|Rarity16 = Mythic
+|Name17=Boss|Cost17=199 Gems|Campaign17=Steampunk|Rarity17=Mythic
+|Name18 = True Silver|Cost18=10000 Coins|Campaign18=True Silver
+|Name19 = True Silver (Fresh Cut)|Cost19=Free after purchasing True Silver Brock|Campaign19=True Silver
+|Name20= True Gold|Cost20=25000 Coins|Campaign20=True Gold
+|Name21= True Gold (Fresh Cut)|Cost21=Free after purchasing True Gold Brock|Campaign21=True Gold
+|NameP1 = Super Ranger|CostP1 = Brawl Pass Exclusive • '''E'''|CampaignP1 = Brawl Pass|CampaignP1_2 = Max Force|RarityP1 = Super Rare
+|NameP2 = Hacker|CostP2 = Brawl Pass, free from Nano Drops, Cosmo Boxes or 149 Gems|CampaignP2=Brawl Pass|CampaignP2_2=CyberBrawl|RarityP2 = Epic
+|NameP3 = Gold Hacker|CostP3 = Brawl Pass Plus, free from Nano Drops, Cosmo Boxes or 149 Gems|CampaignP3=Brawl Pass|CampaignP3_2=CyberBrawl|RarityP3 = Epic
+|NameP4 = RGB Hacker|CostP4 = Brawl Pass Plus, free from Nano Drops, Cosmo Boxes or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2=CyberBrawl|RarityP4 = Epic
+|NamePP1=Cyber|CostPP1=Free from Pro Pass|CampaignPP1=Pro Pass
+|NamePP2=Cyber IV|CostPP2=Free from Pro Pass|CampaignPP2=Pro Pass
+|NamePP3=Cyberpunk|CostPP3=Pro Pass Exclusive|CampaignPP3=Pro Pass
+|NamePP4=Corrupted|CostPP4=Pro Pass Exclusive|CampaignPP4=Pro Pass
+|NamePP5=Cyberchaos|CostPP5=Pro Pass Exclusive|CampaignPP5=Pro Pass}}
+
+===Portraits===
+<gallery>
+Brock Portrait.png|Default
+Cyber Brock Portrait.png|Cyber Brock
+</gallery>
+
+=== Buffie Skins ===
+<gallery>
+File:Brock Buffie Skin-Gadget.png|Gadget
+File:Brock Buffie Skin-Star.png|Star
+File:Brock Buffie Skin-Hyper.png|Hyper
+File:Brock Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Brock
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Hot Rod}}
+{{Pin Table|Postal}}
+{{Pin Table|ZomBrock|Special}}
+{{Pin Table|Zeus}}
+{{Pin Table|Rocket Brown}}
+{{Pin Table|Boom Box|Special}}
+{{Pin Table|Super Ranger Brock Red|Special}}
+{{Pin Table|Super Ranger Brock Blue|GG}}
+{{Pin Table|Super Ranger Brock Yellow|Clap}}
+{{Pin Table|Super Ranger Brock Pink|Thanks}}
+{{Pin Table|Super Ranger Brock Black|Special}}
+{{Pin Table|Hacker|Special}}
+{{Pin Table|Gold Hacker|Special}}
+{{Pin Table|RGB Hacker|Special}}
+{{Pin Table|Lion Dance|Happy}}
+{{Pin Table|Boss|Special}}
+{{Pin Table|Cyber}}
+{{Pin Table|Corrupted|Special}}
+{{Pin Table|Cyberchaos|Special}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Brock|Rarity = Common}} 
+|{{Spray|Type = Brock Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Zeus Brock|Rarity = Common}}
+|{{Spray|Type = Boss Brock|Rarity = Common}}
+|{{Spray|Type = Cyber Brock|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Brock1}}
+|{{Pfp|Brock2}}
+|{{Pfp|Brock3}}
+|{{Pfp|Brock4}}
+|{{Pfp|Zeus Brock}}
+|-
+|{{Pfp|Hot Rod Brock}}
+|{{Pfp|Rocket Brown}}
+|{{Pfp|Postal Brock}}
+|{{Pfp|Super Ranger Brock Red}}
+|{{Pfp|Super Ranger Brock Blue}}
+|-
+|{{Pfp|Super Ranger Brock Yellow}}
+|{{Pfp|Super Ranger Brock Pink}}
+|{{Pfp|Super Ranger Brock Black}}
+|{{Pfp|Hacker Brock}}
+|{{Pfp|Lion Dance Brock}}
+|-
+|{{Pfp|Boss Brock}}
+|{{Pfp|Cyber Brock}}
+|}
+
+{{Navigation}}
+
+[[es:Brock]]
+[[pl:Brock]]
+[[ru:Брок]]

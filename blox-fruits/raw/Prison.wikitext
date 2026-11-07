@@ -1,0 +1,101 @@
+{{MapTab}}
+{{Location Infobox
+|name       = Prison
+|image      = Prison 30.png
+|type       = Island
+|sea        = First Sea
+|level      = 190-250
+|music      = Lonely Dwarven Miner
+|prev       = Skylands
+|next       = Colosseum
+}}
+The '''Prison''' is an island west of the [[Fountain City]] that hosts quests for players [[Levels]] 190-250.
+
+==Appearance==
+The Prison is a large, circular fortress consisting of two main walls — an inner and outer layer. The dock at the front leads to the main gate, which is flanked by two blue-roofed towers. Upon entering through the gate, players will find a spacious grassy area with several trees and a small castle located toward the back. Between the two walls lies a water-filled area covered with wooden platforms, where prisoners are found and can be fought.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Bosses
+|-
+|
+* [[Boat Dealer]]
+* [[Military Detective]]
+* [[Remove Blox Fruit]]
+|
+* [[Prisoner]]
+* [[Dangerous Prisoner]]
+* [[Ruthless Prisoner]]
+|
+* [[Warden]]
+|}
+
+==Quests==
+{| class="article-table"
+!Quest Giver
+!Quest 
+!Level Required
+!Description 
+!Reward
+|-
+| rowspan="2" | [[Jail Keeper]]
+|[[Prisoner]]
+|190
+|Defeat 8 [[Prisoner]]s
+|{{Money|7,000}}<br />{{EXP|550,000}}
+|-
+|[[Dangerous Prisoner]]
+|210
+|Defeat 8 [[Dangerous Prisoner]]s
+|{{Money|7,500}}<br />{{EXP|780,000}}
+|-
+| rowspan="2" | [[Head Jailer]]
+|[[Ruthless Prisoner]]
+|225
+|Defeat 8 [[Ruthless Prisoner]]s
+|{{Money|8,000}}<br />{{EXP|900,000}}
+|-
+|[[Warden]]
+|230
+|Defeat [[Warden]]
+|{{Money|10,000}}<br />{{EXP|1,000,000}}
+|}
+
+==Secret Quests==
+* A Key can be found on the central platform behind [[Warden]]. After picking up the Key, the player must take to the central tower and go all the way up. There the player will be able to unlock the closed gate and get inside. Once inside the player will have to fight a guard after the dialog and attempting to steal the coat. With the guard defeated the player can steal Don Megalo's Coat and take it to the jailer. After talking with him the player wil unlock the coat. (Note: It does replace Pink Coat Model, it just doesn't show it in the player inventory).
+
+<gallery position="center">
+File:Prison_Key.png
+File:Prison_Gate.png
+File:Megalo_Guard.png
+</gallery>
+
+* Three "special" prisoners can be found around the prison. Interact with (and capture) them to complete the quest. There's one that's building a raft, one that's trying to break through a wall, and one that's trying to dig a hole. When the player gets a message saying "Confront prisoner before attacking", the player just has to hit one of those prisoners. (Note: The player can use [[Instinct]] to see the three prisoners; they have animations). 
+* Every hour the [[Warden]] has a chance to awaken. After he spawns in the center building, flick the levers in the rightmost room. The order is red, blue, green, and blue. This will start the boss sequence.
+
+<gallery position="center">
+File:Prison_Levers.png
+</gallery>
+
+==Trivia==
+* The Prison had no [[Set Home Point]] NPC but it was later added in [[Updates/17|Update 17]].
+* The [[Boat Dealer]] was originally not intended to be added for the sake of [[Remove Blox Fruit]], but since [[Updates/23|Update 23]] due to the ability to be able to hold down the jump button and jump on [[water]] without dying, he was added.
+* Before [[Updates/17.2|Update 17.2]], [[Prisoner]]s did not exist, which meant that the player had to grind the [[bosses]]. After the update, they were added, along with [[Dangerous Prisoner]]s.
+* It is recommended to server hop and grind the [[Bosses|Boss]] in this island than at the [[Colosseum (First Sea)]] due to the [[enemies]] there being further apart and few in number. (Each [[Quests|quest]] requires 7/8 of them to be defeated.)
+* As of [[Update 24]], the wall glitch has been fixed, so it will be annoying to fight the [[bosses]].
+* Before [[Updates/30|Update 30]], The Prison had the most bosses in one island, however [[Swan]] and [[Chief Warden]] were removed after the update.
+* The prison used to be one of the most efficient places for grinding [[Pirates|bounty]] or [[Marines|honor]] before [[Updates/30]] when [[Chief Warden|Chief]] [[Chief Warden|warden]] and [[Swan]] were removed.
+
+==Change History==
+{{Change History|1|content=
+{{Update|30}}
+* Prison has been reworked, aside from [[Swan]], [[Chief Warden]] and [[Set Home Point]] being removed, and the new [[Bosses|boss]], [[Megalo Guard]].
+----
+{{Update|1}}
+* Prison was released.
+}}
+
+==Navigation==
+{{IslandNavigation}}

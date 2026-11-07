@@ -1,0 +1,61 @@
+{{Location Infobox
+|name     = Frozen Dimension
+|image    = Frozen Dimension.png
+|type     = Sea Event
+|sea      = Third Sea
+|location = [[Sea Danger Level|Sea Danger Level 6 '''<font color="8c00ff">(????)</font>''']]
+|music    = The Courage Of A Warrior (accurate loop)
+|label    = The Courage Of A Warrior (in-game loop)
+}}
+The '''Frozen Dimension''' is a [[Sea Events|sea event]]. 
+
+==Spawning==
+The Frozen Dimension exclusively spawns in [[Sea Danger Level|Sea Danger Level 6 '''<font color="8c00ff">(????)</font>''']].
+* Bribing the [[Spy]] will significantly increase the chance of Frozen Dimension to spawn.
+* The Frozen Dimension’s spawn chance is influenced by a pity system. The longer a player spends searching for it, the higher the likelihood it will spawn. However, the exact mechanics and values of this pity system are currently unknown.
+
+;Notes
+* The Frozen Dimension's spawning can be triggered by any number of players, although the [[Frozen Watcher]] will not spawn the [[Leviathan]] unless the [[Sea Exploration Group]] has five or more players.
+* The Frozen Dimension can spawn regardless of whether the [[Spy]] is bribed, although the spawn chance is different.
+* Players being on cooldown to bribe the [[Spy]] has no effect on the Frozen Dimension's spawn chance.
+
+==Usage==
+The Frozen Dimension is where the [[Frozen Watcher]] is located.
+
+==Tips and Tricks==
+* Players are recommended to [[Allying|ally]] each other as they might kill one another if they are in the [[Pirate]] team, or the players can also join the [[Marines]] for them to automatically ally with one another.
+* Players should check if they still have enough people before entering [[Sea Danger Level|Sea Danger Level 6]] '''<font color="8c00ff">(????)</font>''', in order to prevent accidentally spawning Frozen Dimension when their [[Sea Exploration Group]] has less than 5 players, resulting in the waste of an opportunity to fight the [[Leviathan]]. But you still can spawn leviathan if you bring 5 or more players to the gate if you spawned it with less then 5 players on your group.
+* It is recommended to have as many people as possible, as it reduces the chances of a fatal run. (The boat sinking or everyone dying)
+* [[Portal]] users are able to despawn any skippable Sea Events such as [[Terrorshark]] using [[Portal]] {{Ability|Portal|V}}.
+
+==Notes==
+* Once Frozen Dimension appears, the entire [[Sea Danger Level#Level 6/????|Sea Danger Level]] 6 '''<font color="8c00ff">(????)</font>''' will be set at normal brightness.
+* Spawning the Frozen Dimension causes every player in the same [[Sea Exploration Group]] who spawned the [[Leviathan]] to be placed on a "cooldown", making them unable to bribe the Spy. This means that the player must clear at least 20 [[Sea Events|sea events]] before being able to bribe the [[Spy]] again.
+* If any player in a [[Sea Exploration Group]] has bribed the [[Spy]], the chances to spawn a Frozen Dimension will be increased for everyone in the Sea Exploration Group. Different players of the same group are able to bribe the [[Spy]], since the chances are stackable.
+* The Frozen Dimension does not have a despawn time. However, it will despawn if there are no players nearby, which includes using Portal's {{Ability|Portal|V}}.
+
+==Gallery==
+<gallery>
+Frozen_Dimension_Back.png|The back of the Frozen Dimension
+Frozen_Dimension_Back_No_Fog.png|The back of the Frozen Dimension without fog and snow
+Frozen_Dimension_Back_Afar.png|The back of the Frozen Dimension from afar
+Frozen Dimension Gate.png|The Frozen Dimension's gate
+Frozen_Dimension_Top.png|The top of the Frozen Dimension
+Frozen_Dimension_Dead_Tree.png|A dead tree at the Frozen Dimension
+Frozen_Dimension_Inside.png|The Frozen Dimension's inside, glitched in using [[Flash Step]]
+</gallery>
+
+==Trivia==
+* The ice at the Frozen Dimension is slippery, which is especially noticeable when dashing.
+* Frozen Dimension is one of the rarest and most difficult [[Sea Events|sea events]] to find, due to the [[Sea Danger Level]] requirement and other sea events likely being encountered along the way.
+* The Frozen Dimension can spawn alongside other sea events (e.g. [[Mirage Island]]); there is a chance the [[Frozen Watcher]] may be blocked and therefore unusable.
+
+==Change History==
+{{Change History|20}}
+
+==Navigation==
+{{IslandNavigation}}
+
+[[Category:Islands]]
+[[Category:Sea Events]]
+[[Category:Third Sea]]

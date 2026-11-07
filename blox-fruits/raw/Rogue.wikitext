@@ -1,0 +1,40 @@
+{{Admin}}
+'''Rogue''' is an unofficial [[Blox Fruits|Blox Fruit]] that is unobtainable for regular players. It can be obtained by typing the [[Commands|command]] "/test4".
+
+Rogue is a spec developed by Norp, also known as Norperz. It has 2 skills, effectively acting as a [[Blox Fruits|Blox Fruit]], both skills one-shotting anything it touches, as well as having no cooldown.
+
+Rogue that does not have a physical form or icon. This is the first secret fruit added to the game. After a while, the second fruit named [[Meme (Admin)]] was added.
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{SkillStart}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move           = Mori
+|Description    = The user shoots a single purple ball of light that will deal insane damage (precisely 37 billion) to anything it touches, effectively one-shotting anyone.
+|Mastery        = 1
+|GIF            = Mori_Z
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move           = Snap Mori
+|Description    = The user sends out a lot more purple balls of light. All of them still do the same damage as Mori.
+|Mastery        = 1
+|GIF            = Mori_X
+}}
+{{SkillEnd}}
+
+==Trivia==
+* Rogue was first revealed to the community in this [https://www.youtube.com/watch?v=IGhlI7BOid8&t=76s| video] by Norp.
+* Even though Rogue has no mechanism related to [[Blox Fruits]], some admins still classify this as a Blox Fruit.
+* Rogue is based on a spell from ''[https://www.roblox.com/games/3016661674 Rogue Lineage]'', also known as ''Mori''.
+* Since Rogue does not have an icon, it uses its ID "Rogue-Rogue" as icon.
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Admin Exclusive]]
+[[Category:Unavailable]]
+[[Category:Blox Fruits]]
+[[ru:Разбойник]]

@@ -1,0 +1,212 @@
+{{Tabber V2
+|tab1 = Dark Step
+|tab2 = Death Step
+}}
+{{CombosTab}}
+{{Fighting Style Infobox
+|name      = Death Step
+|source    = Phoeyu, the Reformed
+|update    = 13
+|sea       = 2/3
+|location  = Ice Castle
+|location1 = Castle on the Sea
+|mastery   = [[Dark Step]] Mas. 400+
+|item      = Library Key
+|money     = 2,500,000
+|fragments = 5,000
+}}
+'''Death Step''' is a [[Fighting Styles|fighting style]] obtainable in the [[Second Sea|Second]] and [[Third Sea|Third Seas]].
+
+Death Step is the upgraded version of [[Dark Step]], making it significantly more powerful in many aspects. It enhances the user's legs even further, now letting them wield extremely fast attacks.
+
+While this [[Fighting Styles|Fighting Style]] is equipped, [[Aura]] stages are based on the user's legs instead of their arms while activated. This is entirely visual and provides no buffs apart from regular [[Aura]] buffs.
+
+==Obtainment==
+Death Step can be learned from [[Phoeyu, the Reformed]], by meeting the following requirements:
+* [[Library Key]], that can be dropped by the [[Awakened Ice Admiral]] but the chances are low.
+** Used to unlock the door on the right side of the hallway entrance in [[Ice Castle]].
+*** If the door is not unlocked, the player will not be able to learn Death Step by talking to [[Phoeyu, the Reformed|Phoeyu]], even if the user flash steps in.
+* [[Dark Step]] mastery must be 400 or above.
+* {{Money|2,500,000}}
+* {{Fragment|5,000}}
+The "{{Title|Burning Leg}}" [[Titles|title]] #129 will be granted upon obtaining this fighting style.
+
+==Mastery==
+* '''400+ Mastery:''' Death Step is one of the requirements to obtain [[Godhuman]] in [[Third Sea]].
+
+__TOC__{{Clr}}
+
+==Moveset==
+{{Skill
+|key      = M1
+|name     = Heavy Kicks
+|gif      = Death Step M1
+|gif1     = Death Step M1 (Maximum Overheat)
+|desc     = The user uses their feet to deliver four hard kicks to the enemy. The damage can be amplified with {{Ability|V}}.
+|desc1    = With Maximum Overheat active.
+}}
+
+{{Skill
+|key      = Z
+|name     = Rocket Kick
+|mastery  = 100
+|cooldown = 7.5
+|energy   = 15
+|break    = yes
+|instinct = Direct hit [[Instinct/Break|breaks Instinct]]. Can be dodged if hit indirectly, and the [[Area of Effect|AoE]] slam can also be dodged on the edge.
+|gif      = Flying Kick
+|gif1     = Flying Kick V
+|desc     = The user enters a stance and a whirlwind-like effect appears around the user. After releasing the move, the user dashes forward at high speed in the direction of the cursor, kicking back anyone in their way. If the user or the hit enemy makes contact with a surface, it will create an [[Area of Effect|AoE]] dent in the surface and deals damage to anyone within it. This move can be held up to 1 second to dash further and faster.
+|desc1    = With Maximum Overheat active, the user enters a stance and a fiery whirlwind-like effect appears around the user. Upon releasing the move, the user dashes forward slightly faster, dealing higher damage to anyone in their way, while also leaving flames in the area of contact which deal tick damage to all enemies within it.
+}}
+
+{{Skill
+|key      = X
+|name     = Wind Bullet
+|mastery  = 200
+|cooldown = 10.5
+|energy   = 25
+|break    = yes
+|instinct = Direct hit [[Instinct/Break|breaks Instinct]]. Can be dodged if hit indirectly by the projectile, and the explosion can also be dodged on the edge.
+|gif      = Wind Shot
+|gif1     = Wind Shot V
+|desc     = The user pulls their left leg back and, upon releasing the move, kicks the air, creating a very fast wind bullet which explodes into an [[Area of Effect|AoE]] wind blast upon contact with a solid surface or reaching its maximum distance, dealing damage and knocking back nearby enemies. The explosion deals 25% more damage than the projectile. This move is similar to that of [[Godhuman]]'s [X] move, diverting in that it is faster, has less range, and can be dodged by [[Instinct]].
+|desc1    = With Maximum Overheat active, upon releasing the move, the user quickly kicks the air, creating a very fast flaming wind bullet that deals greater damage and leaves a flaming trail if used close to the ground.
+}}
+
+{{Skill
+|key      = C
+|name     = Vermillion Drill
+|mastery  = 300
+|cooldown = 16.5
+|energy   = 55
+|break    = yes
+|instinct = Only [[Instinct/Break|breaks Instinct]] if too close to the user. Can be dodged on the edge.
+|gif      = Vermillon Drill
+|gif1     = Vermillon Drill V
+|desc     = The user releases a barrage of kicks in a drill-like fashion towards their cursor, stunning anyone caught in the attack, and ends with a powerful downward axe kick if an enemy is caught in the barrage. The duration of this move will be increased if the key is held down. This move can be held for 3 seconds. If the user is on the ground, they will jump up upon starting this move.
+|desc1    = With Maximum Overheat active, the user barrages their opponent with flaming kicks, and the final axe kick lights the ground on fire, dealing extra burn damage.
+}}
+
+{{Skill
+|key      = V
+|name     = Maximum Overheat
+|mastery  = 400
+|cooldown = 90
+|energy   = 100
+|break    = yes
+|instinct = Can be dodged on the edge. The ground flame patches left by Death Step's attacks while this move is active can also be dodged on the edge if used close to the ground.
+|gif      = DeathStepReworkV
+|desc     = The user sets their legs on fire and creates a small explosion around their legs, damaging anyone near them. While active, this move increases Death Step's damage by ~15% for around 60 seconds. Additionally, all Death Step attacks leave fire on the ground that deals tick damage to enemies inside of it, lasting for 4 seconds.
+}}
+
+==Overview==
+<tabber>
+|-|Pros=
+{{Overview|Pros
+|'''General'''
+* Good combo potential. (Mainly because its C move has one of the highest fighting style stuns.)
+* Fair for grinding.
+* Excellent for PvP and bounty hunting due to its range, damage, and great [[Combos|combo]] potential.
+* Fixes most of the things that makes [[Dark Step]] bad, such as larger range, bigger AoE, and faster moveset.
+* Extra Requirement is easier to get compared to other V2 [[Fighting Styles|fighting styles]].
+* All of the moves has a low startup lag.
+*Beginner friendly V2 style.
+
+|'''[Z] Rocket Kick'''
+* Short cooldown.
+* Great mobility.
+* Decent knockback.
+* Extremely hard to dodge without instinct due to its speed
+
+|'''[X] Wind Bullet'''
+* The small explosion has good [[AoE]].
+* High speed.
+* Instantaneous travel speed if directly aimed.
+* Decent Range
+
+|'''[C] Vermillion Drill'''
+* Great stuns.
+* High damage.
+
+|'''[V] Maximum Overheat'''
+* Extremely high damage with the fire tick damage (over time).
+* The fire can [[Instinct/Break|break instinct]].
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Slow M1 speed.
+* Hard to hit opponents from afar.
+* Has semi-broken hitboxes when used with [[Buddha]], making its moves difficult to hit.
+* Hard to aim in the air.
+
+|'''[Z] Rocket Kick'''
+* Can be dodged with [[Instinct]], unless it's a headshot.
+
+|'''[X] Wind Bullet'''
+* Hard to hit.
+* Low range when compared to similar moves like [[Godhuman]] [X].
+* Does not break [[Instinct]].
+
+|'''[C] Vermillion Drill'''
+* A bit hard to land in PvP if the players opponent is moving (The player has to be in the same area as their enemy is in).
+* Can be dodged with [[Instinct]].
+
+|'''[V] Maximum Overheat'''
+* Highest mastery requirement in the game (400 Mastery).
+* Long Cooldown.
+* Can be interrupted.
+}}
+</tabber>
+
+== Gallery ==
+<gallery>
+File:Death Step Idle.png|Idle Stance
+</gallery>
+
+==Tips & Tricks==
+* Using Death Step with [[Ghoul]]'s V3 ability will allow the player to use Maximum Overheat infinitely. The player can simply activate Maximum Overheat, and when it runs out use [[Heightened Senses]] to be able to use the moves at 40% cooldown, then use Maximum Overheat again. And so, the player can maintain Maximum Overheat forever.
+* With Heightened Senses, the player can activate Maximum Overheat even before the current Maximum Overheat Buff expires. Doing so resets the cooldown of Maximum Overheat, but the buff will still expire after a few seconds. Therefore, the player should wait until the Maximum Overheat Buff has fully ended before reactivating it.
+* Death Step is recommended for killing [[Sea Beast]]s, as all skills can do damage to them. (Burning tick damage does not hit [[Sea Beast]]s)
+* The user can use shiftlock + [[Flash Step]] to glitch inside the room, but [[Phoeyu, the Reformed|Phoeyu]] will say that the player is not prepared enough even if they meet the requirements until they use the [[Library Key|key]] to unlock the door.
+** The user can also talk to [[Phoeyu, the Reformed|Phoeyu]] in [[Castle on the Sea]], but if they don't use the library key,  [[Phoeyu, the Reformed|Phoeyu]] will also say that the player is not prepared enough even if they get 400 mastery on dark step.
+* The player can fly through thin walls with '''[Z] Rocket Kick''' which is still inconsistent.
+* '''[C] Vermillion Drill''' links up well with '''[X] Wind Bullet''' and then '''[Z] Rocket Kick''' (or Z to X), allowing them to be easily used in a combo.
+
+==Trivia==
+* Death Step and its inferior version [[Dark Step]] are the only current fighting styles in the whole game that have a transformation-type move that enhances damage, as well as the only ones that have four moves.
+* There is a bug where if '''[V] Maximum Overheat''' is active while switching fighting styles, the visual effect on the user's feet will stay until the user dies or leaves the game. This also applies to [[Dark Step]]. Keep in mind that this is purely visual effect, and does not provide any buffs.
+* When using '''[Z] Rocket Kick''' on the edges of the volcano at the [[Magma Village]], the crater created will be purple, similar to [[T-Rex]]'s [F] move.
+* The [V] ability Maximum Overheat has the highest mastery required for a move in the whole game, being 400 mastery, with other [V] moves usually having mastery requirements of 150, 225, 250, 300, 350 mastery. However, Maximum Overheat before [[Updates|Update 14]] used to have a mastery requirement of 450.
+* Before [[Updates|Update 14]], Death Step's [V] was one of the most tedious things to get in the game, with things like [[Godhuman]], [[Sanguine Art]], [[Race Awakening]]s and others, did not exist at the time, so getting this move was one of the most tedious things to do at the time, similar to getting max level, 30m [[Bounty and Honor System|Bounty/Honor]], getting 600 mastery on something, owning the most expensive fruits, and others. But when [[Updates|Update 14]] rolled around, the mastery requirement went from 450 to 400.
+* Death Step, along with [[Dark Step]], are the only fighting styles that have [V] abilities.
+* Death Step's [V] move used to be called Devil Flames.
+
+== History: ==
+{{Change History|13|content={{Update|29.6}}
+* Deathstep was heavily buffed.
+** [Z] range increased by 50%; hitbox increased by 20%
+** [X] range and hitbox increased by 20%
+** [C] DoT increased by 20%, endlag removed, hitbox increased by 15%
+** [V] duration increased by 50%, cooldown creased by 50%
+----
+{{Update|17.3.5}}
+* Death Step was reworked.
+* Fire effects were greatly improved.
+** '''[V] Devil Flames''' was renamed to {{Ability|V}}.
+----
+{{Update|17.2}}
+* Improved the wind effect quality.
+----
+{{Update|14}}
+* Reduced the requirement from 450 mastery to 400.
+----
+{{Update|13}}
+* Death Step was released.}}
+
+==Navigation==
+{{Fighting Style Navbox}}
+
+[[ru:Смертельный Шаг]]

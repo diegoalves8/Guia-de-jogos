@@ -1,0 +1,53 @@
+{{About|the island||Kitsune (Disambiguation)}}
+{{System Message|A mysterious shrine has appeared in the sea...}}
+{{Location Infobox
+|name     = Kitsune Island
+|image    = <gallery>
+KitsuneIsland.png|Island
+Kitsune Island Entrance.png|Entrance
+KitsuneIslandAerial.png|Aerial View
+</gallery>
+|type     = Sea Event
+|sea      = 3
+|location = [[Sea Danger Level]] 6
+|music    = Clever Fox
+|label    = Clever Fox
+}}
+The '''Kitsune Island''' is a [[Sea Events|sea event]] that exclusively spawns in the [[Third Sea]].
+
+==Spawning==
+===Requirements=== 
+* [[Sea Danger Level]] 6
+* [[Full Moon]]
+* Any [[Boat]] 
+
+In order to spawn the Kitsune Island, players can either sail a boat into [[Sea Danger Level]] 6 in the daytime and stay there until the [[Full Moon]] arrives, or stay in [[Sea Danger Level#Level_5/Crazy|Danger Level 5]] and only go into [[Sea Danger Level#Level_6/????|Danger Level 6]] when the [[Full Moon]] rises. If the player wishes to do this to play it safe, be sure to not wait too long, as it will not spawn in an estimated amount of 5 minutes. Then, the Kitsune Island will spawn instantly, and a [[System Messages|system message]] will appear.
+
+Players can also stay on [[Prehistoric Island]], as it will not despawn while players remain there. They can move a short distance away and wait for the [[Full Moon]] to arrive, then safely sail to spawn the Kitsune Island.
+
+Note: The owner of the boat must be in the boat for the island to spawn.
+
+==Kitsune Shrine==
+{{Main|Kitsune Shrine}}
+The Kitsune Island holds the [[Kitsune Shrine]], which can give exclusive rewards in return for [[Azure Ember]]s.
+
+==Notes==  
+* It is not recommended to start hunting for the Kitsune Island when the day has started. It is recommended to start hunting for the island right before the sun goes down or afternoon. Doing it early will result in triggering another [[Sea Events|sea event]]. The player can also leave their boat 20 meters away from them and go to their boat when the moon is about to rise and then enter Sea Danger Level 6 and it should still spawn.
+* The Kitsune Island will spawn most of the time if entered within 25 seconds of the full moon text appearing on the player’s screen. It will also disappear after 15 minutes have passed, but it will not despawn if all of the players leave the Kitsune Island.
+* If a player tries to sail by using a different player’s boat and then reaches Sea Danger Level 6, the island will not spawn even if they are in the area and the [[Full Moon|full moon]] starts. The island will only spawn if the owner is in the [[boats|boat]]. (The owner of the boat does not have to drive it as long as they are sitting in the boat.)
+* Only one Kitsune Island can spawn in a server, which means whoever enters [[Sea Danger Level]] 6 first will be the one to spawn the island.
+* If the Kitsune Island spawns in a rough sea, collecting the [[Azure Ember]]s will be much harder due to the fact that lightning can take the player out of mobility moves (e.g: [[Dough#Moveset_(Awakened)|Dough]] awakened [F] move).
+** The player can bypass held mobility moves by using instant 'dash' moves that offer mobility without having to hold the move. These skills offer quick, short mobility for catching up to the [[Azure Ember|Azure Embers]]. Some examples include [[Yama]] [Z] and [X], [[Lightning]] [F], and [[Godhuman]] [Z] and [C].
+* There is a glitch where if multiple players sail together, the island won’t spawn even when the full moon starts. To find the Kitsune Island with multiple players, take the [[Boats|boat]] to [[Sea Danger Level|Danger Level 6 (???)]], then ask the other players to leave the [[Boats|boat]] and move far enough away until they can’t see the danger meter (it’s recommended to go even further just in case). Once the [[Full Moon|full moon]] rises, the owner should return to the [[Boats|boat]] to spawn the island. After the island has spawned, the other players can join before starting the [[Blue Moon]] event.
+
+==Trivia==
+* If [[Mirage Island]] spawns next to the island, the shrine will not work, and no [[Azure Ember]] will spawn on the island, the same with [[Rough Sea]]. If this happens, go far out away from the island. As long as the player still has the timer on their UI, embers will still spawn.
+* There is a bug that makes the Kitsune Island not spawnable after using [[Portal]] v ability.
+
+==Change History==
+{{Change History|22}}
+
+== Navigation ==
+{{IslandNavigation}}
+
+[[Category:Sea Events]]

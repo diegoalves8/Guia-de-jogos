@@ -1,0 +1,607 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Creature of the Night|PrestigeTitle = Bringer of Doom|Rarity = Mythic|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>2700 (dash)<br>1000 (with Creature of the Night)|GadgetCharges = |VoiceActor = Ed Mace|HealthLabel = Health|Health = 4000|AttackRange = 2.67 (Short)<br>4.67 (with dash bar charged)|Reload = 2.4 seconds (Very Slow)|AttackSuperCharge = 21.25%|AttackLabel = Damage|Attack = 1000|SuperRange = 10 (Very Long)|SuperSuperCharge = 30.15%|SuperLabel = Damage and Healing|Super = 900|SuperSpeed=3000<br>3500 (with Hypercharge)|SuperWidth=2.67|AttackSpeed=|SuperLabel2=|Super2=|Gadget1Name=Combo Spinner|Gadget1=1600|Gadget1Label=Damage|Previous=Bolt|Next=Tara|HyperchargeMultiplier=30%|SuperBullets=1<br>2 (with Hypercharge)|AttackHyperchargeCharge=6.375%|SuperHyperchargeCharge=9.025%|Gadget2Name=Creature of the Night|Gadget2Cooldown=24 seconds|Gadget1Cooldown=18 seconds|Gadget1Range=2.67 (Short)|Gadget2Label=Damage and Healing (with Buffie)|Gadget2=1216|Gadget2Range=5 (Normal)}}
+{{Quote|Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.}}
+{{Portrait}}
+Mortis is a {{Rarity|Mythic}} [[Brawler]] who has moderately high health, a moderate damage output, a short range, and great mobility with his attack and his very fast movement speed, at the expense of having a very slow reload speed. He was one of the 15 Brawlers who released at the first Beta launch. He attacks by swinging his shovel and dashing a few tiles forward, dealing damage to enemies in his path. When not attacking, a bar will charge over a few seconds, and a charged bar increases his next attack's range. His Super summons a swarm of bats that damage enemies and heal Mortis. His first Gadget, Combo Spinner, instantly spins his shovel around him, dealing damage to nearby enemies. His second Gadget, Creature of the Night, allows Mortis to pass over walls and become immune for a short time. His first Star Power, Creepy Harvest, heals him whenever he defeats an enemy Brawler. His second Star Power, Coiled Snake, reduces the time needed to charge his attack bar. His Hypercharge, Blood Boomerang, increases his Super's projectile speed and makes Mortis' Super return back to him, dealing a second wave of damage and healing.
+
+==Attack: Shovel Swing==
+{{Quote|Mortis dashes forward with a sharp swing of his shovel, creating business opportunities for himself. When he has all three dashes ready, he'll gain a longer dash after a short delay.}}Mortis dashes forward a short distance, damaging any enemy Brawlers in his path. Mortis can't perform his attack without dashing unless he dashes toward a nearby wall, where his dash is cut short. This is technically a melee attack because Mortis has to dash directly onto the enemy to damage them and the dash has a short range. Additionally, if Mortis does not attack, he begins to charge a yellow bar underneath his regular ammo bar that fully charges after not attacking for 4.5 seconds, and it makes Mortis' next dash range 2 tiles longer. Mortis' attack has no cooldown but a very slow reload speed.
+
+==Super: Life Blood==
+{{Quote|Mortis calls forth a swarm of vampire bats that drain the health of his enemies while restoring his. Creepy!}}Mortis summons a swarm of bats and sends them in a single direction that can go through walls and have a long range. If the bats hit an enemy Brawler, they deal damage and heal Mortis for the full amount at his Power Level, even if the enemy hit has less health than its damage. The healing stacks with multiple enemies hit. If the bats miss, Mortis doesn't heal, and he also doesn't heal when his Super damages non-Brawler entities, such as Power Cube Boxes in [[Showdown]]. 
+
+==Gadgets==
+===Combo Spinner===
+{{Quote|Mortis spins his shovel, dealing 2000 damage. Can be aimed for a short distance bat attack. Cooldown: 18 seconds.}}{{Gadget|1}}
+Mortis instantly spins his shovel around him or in a short area in front of himself, damaging all enemies in a 2.67-tile radius. This deals the same amount of damage as his main attack, and does not consume ammo.
+
+{{Quote|Deals increased damage to low health enemies.}}
+{{Buffie|Gadget}}
+With the Buffie, this Gadget deals 30% more damage to enemies below half health.
+
+===Creature of the Night===
+{{Quote|Mortis turns into a flock of bats and travels to a target location. Cooldown: 24 seconds.}}{{Gadget|2}}
+Upon activation, Mortis disappears and turns into a swarm of bats for a brief duration. While transformed, Mortis is immune, untargetable, and can pass over obstacles and water. However, for the duration, Mortis is forced to move directly forwards in whatever direction he aimed the Gadget. The Gadget's cooldown starts immediately upon use.
+
+{{Quote|Deals 1400 damage when passing through enemies and heals for the damage dealt.}}{{Buffie|Gadget}}
+With the Buffie, this Gadget additionally deals damage where the swarm of bats are, equal to 76% of his main attack while also healing him for the same amount.
+
+==Star Powers==
+===Creepy Harvest===
+{{Quote|Mortis reaps the life essence of a Brawler he defeats, restoring 20% of his max health.}}{{StarPower|1}}
+Mortis heals himself for 20% of his maximum health after defeating an enemy Brawler.
+
+{{Quote|Gains 500 additional max health until defeated (this stacks).}}{{Buffie|Star}}
+With the Buffie, this Star Power increases Mortis' health by an amount equal to 6.25% of his maximum health each time he defeats an enemy. The health boost persists until Mortis is defeated.
+
+===Coiled Snake===
+{{Quote|Mortis gains his longer dash 2 seconds faster.}}{{StarPower|2}}
+Mortis' long dash now charges in 2.5 seconds instead of the usual 4.5 seconds.
+
+{{Quote|Gains 35% damage reduction during his long dash.}}{{Buffie|Star}}
+With the Buffie, this Star Power gives Mortis a 35% shield for 0.5 seconds when he uses the long dash.
+
+==Hypercharge: Blood Boomerang==
+{{Quote|Life Blood now also returns to Mortis, allowing for double damage and healing.}}{{Hypercharge}}
+When activated, Mortis' Super now returns back to him, in a similar fashion to [[Carl]]'s main attack, dealing a second wave of damage and healing. The projectile speed is also increased. He also gains a 20% speed boost, a 5% damage and shield boost.
+
+{{Quote|After Mortis uses a main attack, a phantom attack hits the same area, after a delay.}}
+{{Buffie|Hyper}}
+With the Buffie, every time Mortis attacks, a shadow attacks behind him, dealing 1000 damage. The shadow ends at Mortis' current position, rather than the position he was at when the attack ended. Increased Hypercharge duration by 2 seconds.
+
+==Mythic Gear: Bat Storm==
+{{RemovedContent|section}}
+{{Quote|The speed of bats increased by 50%.}}{{Gear|Filename=MortisGear}}
+This Mythic Gear increased Mortis' Super projectile speed by 50%. It also affected the Hypercharged Super's projectile speed.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|His longer dash also fires his Super!}}<div style="float: right;">[[File:Crazy Hot Wasabi.png|64px|link=]]</div>Whenever Mortis used his long dash, it triggered his Super. The Supers created from the Wasabi Power wouldn't return to him if he was using the Hypercharge.
+
+==Tips==
+===Game Modes and Maps===
+*In [[Brawl Ball]], you can self-pass by kicking the ball and dashing twice to pick it up again. If fast enough, you'll only need one dash to pick up the ball again to conserve ammo. You can also use your Super to shoot the ball (even on the side of the map) and dash forward onto the ball (with his Creature of the Night Gadget or a fully charged attack bar) to dribble the ball down the field extremely quickly. To do this, you can allow your teammates to distract the opposition, then quickly self-pass and score a goal. This distraction isn't necessary for more skilled players who can dash through all the action to the other side. When defending, try to aim backwards instead of auto-aiming when an enemy is near your goal. This gives you the chance to dash back and catch the Ball, therefore preventing a goal.
+*In [[Showdown]], you can't check bushes, so if you are moving into an unknown bush, be ready to dash away very quickly. Pre-aiming his attack away from the bush will also help, as once you see the enemy, you can instantly dash away from them. His Creature of the Night Gadget is also helpful to escape better from enemies camping in bushes. Keep in mind that Mortis is prone to defeat by other close-ranged Brawlers, so be careful when going into a bush which likely has an enemy in it.
+*In Showdown, Mortis can do well by simply bush-camping and staying out of fights, dashing away when necessary. If you see a fight between other Brawlers, you can play as a Third-Party by waiting out-of-sight nearby until the fight is over, then dash in and defeat the surviving and low-health Brawler, then steal all the Power Cubes and escape. Mortis'  Creature of the Night Gadget greatly helps for this strategy.
+*In [[Gem Grab]], Mortis is an excellent Gem carrier due to his above-average health, his ability to dash up to the Gem mine and retrieve Gems quicker, and tasky dashing away if on low health. He's also an excellent assassin in this mode as he can quickly assassinate one target, especially if they have all the Gems, or wipe out the whole team using his Super. However, he requires support from his teammates to survive, as he needs to get dangerously close to enemies and the Gem mine and it leaves your teammates at a 2v3 situation.
+*Mortis' very slow reload speed and low damage output makes him a poor choice for Modes such as [[Heist]] and any Special Event due to the low damage he deals to the modes' targets (i.e. the safe, the bosses, etc.).
+
+===Recommended Build===
+*Mortis' Creepy Harvest Star Power is useless in [[Duels]] due to each round ending immediately after a takedown, so always use his Coiled Snake Star Power in Duels.
+*Using his Coiled Snake Star Power is useful as it reduces the charging time for his attack bar. His Survival Shovel Gadget is also a useful asset as it boosts his reload speed and allows him to dash more quickly.
+*Mortis' Creepy Harvest heals him for a considerable amount when defeating an enemy Brawler. It's sometimes necessary to be kept alive while taking fire from enemy Brawlers, especially in 3v3 modes.
+*Mortis' Combo Spinner Gadget is fit for a quick finish to Brawlers when you have no ammo or when you need to deal damage to a group of enemies. On the other hand, his Survival Shovel Gadget is more efficient in the long-term when taking out high-health Brawlers or when retreating.
+*You can increase Mortis' damage per second if you have equipped his Combo Spinner Gadget by simultaneously using this Gadget and main attack. You can use two fingers to achieve this. This can allow Mortis to deal with enemies grouped together and prioritize a single enemy (like the Gem carrier in Gem Grab).
+
+===Strategies===
+*Mortis' Super can act as a powerful fourth attack in tight situations. Use it when he's low on health and needs to heal quickly, or when the enemy is on low health and you can't reload an attack in time. Try not to use his Super as a first attack unless you are very low on health, and try to hit as many enemies as possible with Mortis' Super so that he recovers more health and charges his Super again much faster. It also has considerable range and travels quite quickly, which can be used to snipe low-health Brawlers even through walls.
+
+===Other===
+*The dash that comes with Mortis' main attack makes him highly mobile. He can quickly dash away and out of danger, making it difficult to land hits on him. He can also retreat quickly due to his above-average movement speed and his Creature of the Night Gadget. In addition, his attack bar makes dashing more effective and much easier due to the increased range.
+*When retreating/escaping, refrain from auto-aiming since you'll dash into the enemy you're trying to escape from. In addition, dashing to the side is favorable as opposed to dashing forward since you can dodge attacks better. Still, try to conserve your ammo, and if equipped with Mortis' Creature of the Night Gadget, use it sparingly in case you need to retreat.
+*Mortis' reload speed is one of the slowest in the entire game, which means that after you shouldn't waste the ammo. If possible, try charging his attack bar up to retreat more effectively.
+*Mortis' long dash from his attack bar allows him to close a significant gap between enemies and gives him a chance to get closer to enemies. Using this mechanic effectively requires preparation and being unpredictable, such as bush-camping and attacking when someone comes near. It also allows him to get close to certain close-ranged Brawlers and slash through them and out of their range. This can be used repeatedly to deal damage and charge Mortis' Super all the while taking minimal damage.
+*At the start of a Showdown match, try to go for defeats rather than Boxes as it takes a long time for Mortis to open boxes and it's also likely for the Power Cube to be stolen by an enemy, who can also defeat the nearby Mortis who will have no remaining ammo after trying to open the box. Pick off long-ranged Brawlers with low health like Brock, [[Dynamike]], [[Tick]], Colt, [[Nani]], [[Bea]], [[Barley]], [[Crow]], Piper, [[Meg]], or [[Rico]] while juking shots. Bush-camping and surprising enemies also works well. However, don't get hit by dangerous Supers or Gadgets (i.e. Rico's, [[Colt]]‘s, [[Piper]]‘s, etc.). You should also be wary of Brawlers who have a stun or slow in their kit such as Dynamike's Satchel Charge Gadget, because both effects can be detrimental to you. If going for Power Cube Boxes is necessary, try to use two dashes first, preferably close to a wall to attack faster, then let your ammo fully reload before destroying it. If a dangerous enemy comes by, you can use your ammo to escape rather than have it be wasted on a Box you couldn't destroy. There are some maps like [[Dark Passage]] and [[Scorched Stone]] where if you manage to get the entire middle area of Power Cubes, you will most likely have an advantage over enemies that would previously counter you.
+*Mortis is a satisfactory counter to [[Bibi]] as Mortis can keep dashing through Bibi during the delay before her attack, dealing damage to her while avoiding her attacks. However, this requires a lot of skill and timing, and doesn't work if Bibi has the Hyper Buffie as the delay is removed during their Hypercharge. You can firstly dash behind her to surprise her, then use your Creature of the Night Gadget, and while Bibi is attacking behind her, dash in front of her and then repeat this process. Be aware that the Bibi may know what you are doing (and thus swing opposite the direction you are currently in). This also works against [[Frank]] and [[Ash]] but is more difficult due to their higher health.
+*Mortis is excellent at performing team-wipes, especially with either Gadget and his Creepy Harvest Star Power. If the enemies are grouped up, you can ambush them, activate his Gadget, and chain Supers. The healing from his Super and Creepy Harvest ensures that he stays alive. Hitting multiple enemies with his Super also helps him survive longer and heal even more. However, it's best to avoid attacking heavyweights or other assassins as they'll defeat him if he gets too close to them due to their superior damage and much faster reload speed than Mortis.
+*Mortis makes an excellent counterpick in Bounty and Knockout because low-health Brawlers are mainly picked in Bounty such as [[Brock]], Piper, [[Sprout]], Rico, and [[Tick]] and Mortis can dodge their attacks with his dashes, dash up to them, and swiftly defeat them with all of his three ammo paired up with his Combo Spinner if needed. Mortis can also use his Survival Shovel Gadget to quickly steal the blue star. However, Mortis must be wary as these Brawlers have abilities that can counter him such as Tick's or Piper's Supers.
+*Mortis' unload speed can be reduced by dashing into walls, useful for if an enemy is standing next to one. This can be useful for quick eliminations, and in some specific situations too, such as preventing an enemy walk-in Brawl Ball goal, or opening boxes in Showdown.
+*When targeting enemy Brawlers in corridors, try to refrain from dashing at them while angled to the corridor's entrance, as this will increase the chance of you dashing into a wall.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Mortis start 01.ogg|Filedescription = "I bring you the gift of darkness!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis start vo 01.ogg|Filedescription = "I bring you the gift of darkness!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis start vo 01.ogg|Filedescription = "I bring you the gift of darkness!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 01.ogg|Filedescription = "I bring you the eternal night!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis lead 01.ogg|Filedescription = "Mortis, the magnificent!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis lead vo 01.ogg|Filedescription = "Mortis, the magnificent!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis lead vo 01.ogg|Filedescription = "Mortis, the magnificent!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 01.ogg|Filedescription = "Mortis, the maleficent!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis hurt 01.ogg|Filedescription = "I'm mortified."}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis hurt vo 01.ogg|Filedescription = "I'm mortified."}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis hurt vo 01.ogg|Filedescription = "I'm mortified."}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 05.ogg|Filedescription = "I'm mortified."}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis kill 01.ogg|Filedescription = "You have been bested!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis kill vo 01.ogg|Filedescription = "You have been bested!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis kill vo 01.ogg|Filedescription = "You have been bested!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 05.ogg|Filedescription = "You have been bested by a beasty!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis die 01.ogg|Filedescription = "Mortally wounded!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis die vo 01.ogg|Filedescription = "Mortally wounded!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis die vo 01.ogg|Filedescription = "Mortally wounded!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 01.ogg|Filedescription = "Fallen, but not forgotten!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis atk vo 01.ogg|Filedescription = "Dash and destroy!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis atk vo 01.ogg|Filedescription = "Dash and destroy!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis atk vo 01.ogg|Filedescription = "Dash and destroy!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 05.ogg|Filedescription = "Dash and defile!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis ulti vo 01.ogg|Filedescription = "Creatures of the night!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis ulti vo 04.ogg|Filedescription = "Creatures of the night!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis ulti vo 01.ogg|Filedescription = "Creatures of the night!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 07.ogg|Filedescription = "Creatures of the nefarious night!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Mortis start 02.ogg|Filedescription = "Mortis, bringer of doom!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis start vo 02.ogg|Filedescription = "Mortis, bringer of doom!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis start vo 02.ogg|Filedescription = "Mortis, bringer of doom!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 05.ogg|Filedescription = "Mortis, bringer of demonic doom!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis lead 02.ogg|Filedescription = "Witness my power!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis lead vo 02.ogg|Filedescription = "Witness my power!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis lead vo 02.ogg|Filedescription = "Witness my power!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 03.ogg|Filedescription = "Witness my demonic power!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis hurt 02.ogg|Filedescription = "You fiend!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis hurt vo 02.ogg|Filedescription = "You fiend!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis hurt vo 02.ogg|Filedescription = "You fiend!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 06.ogg|Filedescription = "You feeble fiend!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis kill 02.ogg|Filedescription = "Your soul is mine!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis kill vo 02.ogg|Filedescription = "Your soul is mine!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis kill vo 02.ogg|Filedescription = "Your soul is mine!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 06.ogg|Filedescription = "Your soul is mine!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis die 02.ogg|Filedescription = "Mortis, the mortal."}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis die vo 02.ogg|Filedescription = "Mortis, the mortal."}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis die vo 02.ogg|Filedescription = "Mortis, the mortal."}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 02.ogg|Filedescription = "Mortis shall rise again!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis atk vo 02.ogg|Filedescription = "Dashingly handsome!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis atk vo 02.ogg|Filedescription = "Dashingly handsome!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis atk vo 02.ogg|Filedescription = "Dashingly handsome!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 02.ogg|Filedescription = "Handsome harbringer of doom!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis ulti vo 02.ogg|Filedescription = "Feel my wrath!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis ulti vo 02.ogg|Filedescription = "Feel my wrath!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis ulti vo 02.ogg|Filedescription = "Feel my wrath!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 08.ogg|Filedescription = "Feel my un-ending wrath!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Mortis start 03.ogg|Filedescription = "I am a creature of the night!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis start vo 03.ogg|Filedescription = "I am a creature of the night!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis start vo 03.ogg|Filedescription = "I am a creature of the night!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 06.ogg|Filedescription = "I am an evil creature of the night!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis lead 03.ogg|Filedescription = "My excellence is undeniable!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis lead vo 03.ogg|Filedescription = "My excellence is undeniable!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis lead vo 03.ogg|Filedescription = "My excellence is undeniable!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 02.ogg|Filedescription = "My evil is undeniable!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis hurt 03.ogg|Filedescription = "How dare you!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis hurt vo 03.ogg|Filedescription = "How dare you!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis hurt vo 03.ogg|Filedescription = "How dare you!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 03.ogg|Filedescription = "How dare you strike at darkness itself!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis kill 03.ogg|Filedescription = "Time to rest."}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis kill vo 03.ogg|Filedescription = "Time to rest."}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis kill vo 03.ogg|Filedescription = "Time to rest."}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 03.ogg|Filedescription = "Welcome to your eternal slumber."}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis die 03.ogg|Filedescription = "Gloom and doom!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis die vo 05.ogg|Filedescription = "Gloom and doom!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis die vo 03.ogg|Filedescription = "Gloom and doom!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 06.ogg|Filedescription = "Gloom and demonic doom!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis atk vo 03.ogg|Filedescription = "Slice and dice!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis atk vo 03.ogg|Filedescription = "Slice and dice!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis atk vo 03.ogg|Filedescription = "Slice and dice!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 06.ogg|Filedescription = "Slice and dice it!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis ulti vo 03.ogg|Filedescription = Mortis taunts}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis ulti vo 03.ogg|Filedescription = Mortis taunts}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis ulti vo 03.ogg|Filedescription = Mortis taunts}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 11.ogg|Filedescription = Mortis taunts}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Mortis start 04.ogg|Filedescription = "Have much fear, Mortis is here!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis start vo 04.ogg|Filedescription = "Have much fear, Mortis is here!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis start vo 04.ogg|Filedescription = "Have much fear, Mortis is here!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 07.ogg|Filedescription = "Have so much fear, really evil Mortis is here!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis lead 04.ogg|Filedescription = "Bear witness to my fitness!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis lead vo 04.ogg|Filedescription = "Bear witness to my fitness!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis lead vo 04.ogg|Filedescription = "Bear witness to my fitness!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 05.ogg|Filedescription = "Bear witness to my fiendishness!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis hurt 04.ogg|Filedescription = "No!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis hurt vo 04.ogg|Filedescription = "No!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis hurt vo 04.ogg|Filedescription = "No!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 07.ogg|Filedescription = "No!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis kill 04.ogg|Filedescription = "I believe you got owned."}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis kill vo 04.ogg|Filedescription = "I believe you got owned."}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis kill vo 04.ogg|Filedescription = "I believe you got owned."}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 04.ogg|Filedescription = "You have been claimed by darkness."}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis die 04.ogg|Filedescription = "Betrayal!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis die vo 03.ogg|Filedescription = "Betrayal!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 07.ogg|Filedescription = "Betrayal!"}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis atk vo 04.ogg|Filedescription = Mortis laughs}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis atk vo 04.ogg|Filedescription = Mortis laughs}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis atk vo 04.ogg|Filedescription = Mortis laughs}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 07.ogg|Filedescription = Mortis laughs}}
+|'''Normal:'''
+{{Ogg|Filename = Mortis ulti vo 04.ogg|Filedescription = "Bringer of bats!"}}'''Rogue:'''
+{{Ogg|Filename = Evil mortis ulti vo 01.ogg|Filedescription = "Bringer of bats!"}}'''Mecha:'''
+{{Ogg|Filename = Mech mortis ulti vo 04.ogg|Filedescription = "Bringer of bats!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 09.ogg|Filedescription = "Bringer of beastly bats!"}}
+|-
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 02.ogg|Filedescription = "Mortis, harbinger of despair!"}}
+|'''Normal:'''
+{{Ogg|Filename=Mortis lead 05.ogg|Filedescription=Mortis laughs}}'''Rogue:'''
+{{Ogg|Filename=Evil mortis lead vo 05.ogg|Filedescription=Mortis laughs}}'''Mecha:'''
+{{Ogg|Filename=Mech mortis lead vo 05.ogg|Filedescription=Mortis laughs}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 10.ogg|Filedescription = Mortis laughs}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 01.ogg|Filedescription = "The darkness shall heal me!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 01.ogg|Filedescription = "Your soul is now my servant."}}
+|'''Normal:'''
+{{Ogg|Filename=Mortis die 05.ogg|Filedescription="We shall meet again!"}}'''Rogue:'''
+{{Ogg|Filename=Evil mortis die vo 04.ogg|Filedescription="We shall meet again!"}}'''Mecha:'''
+{{Ogg|Filename=Mech mortis die vo 05.ogg|Filedescription="We shall meet again!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 08.ogg|Filedescription = "We shall meet again... in the abyss."}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 01.ogg|Filedescription = "Carve and conquer!"}}
+|'''Normal:'''
+{{Ogg|Filename=Mortis ulti vo 05.ogg|Filedescription="Fly free my pretties!"}}'''Mecha:'''
+{{Ogg|Filename=Mech mortis ulti vo 05.ogg|Filedescription="Fly free my pretties!"}}'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 10.ogg|Filedescription = "Fly free my demonic pretties!"}}
+|-
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 03.ogg|Filedescription = "I am darkness incarnate!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 06.ogg|Filedescription = "Mortis, the malevolent!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 02.ogg|Filedescription = "You dare defy me?"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 02.ogg|Filedescription = "Your spirit is forfeit to the abyss!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 03.ogg|Filedescription = "The void calls, I shall answer!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 03.ogg|Filedescription = "Cleave through flesh and bone!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 06.ogg|Filedescription = Mortis laughs}}
+|-
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 04.ogg|Filedescription = "Fear the darkness, for Mortis is here!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 07.ogg|Filedescription = "Bow before my sinister might!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis hurt vo 04.ogg|Filedescription = "This pain fuels my fury."}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 07.ogg|Filedescription = Mortis laughs}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 04.ogg|Filedescription = "This is not the end, only the beginning of your torment!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis atk vo 04.ogg|Filedescription = "Ha ha ha, to the depths with you!"}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 01.ogg|Filedescription = "Unleash the fiends of the night!"}}
+|-
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis start vo 08.ogg|Filedescription = "Mischevious mayhem."}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 08.ogg|Filedescription = "My reign is eternal!"}}
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 08.ogg|Filedescription = Mortis laughs}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 05.ogg|Filedescription = "I am ready for the abyss!"}}
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 02.ogg|Filedescription = "Feel the fury of the underworld!"}}
+|-
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis lead vo 09.ogg|Filedescription = "Witness your doom, mortals."}}
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 09.ogg|Filedescription = "May you roast on the fires of doom."}}
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis die vo 09.ogg|Filedescription = "Betrayal!"}}
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 04.ogg|Filedescription = "Bats of blasphemy!"}}
+|-
+|
+|
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis kill vo 10.ogg|Filedescription = "Roasted!"}}
+|
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 05.ogg|Filedescription = "Fly my minions of the abyss!"}}
+|-
+|
+|
+|
+|
+|
+|
+|'''Demon:'''
+{{Ogg|Filename = Demonic mortis ulti vo 03.ogg|Filedescription = "I summon the swarm of shadows!"}}
+|}
+
+==History==
+*22/06/17:
+**{{Balance|Content=Mortis' dash range was decreased by 25%.|Change=Nerf}}
+*11/08/17:
+**{{Balance|Content=Mortis' health was decreased to 700 (from 800).|Change=Nerf}}
+*04/09/17:
+**{{Balance|Content=Mortis' rarity was changed to Mythic (from Epic).|Change=Neutral}}
+*12/09/17:
+**{{Balance|Content=Mortis' movement speed was decreased to 650 (from 750).|Change=Nerf}}
+**{{Balance|Content=His Super's range was decreased to 10 tiles (from 13.33).|Change=Nerf}}
+*07/12/17:
+**{{Balance|Content=The health and damage statistics of all Brawlers were multiplied by 4.|Change=Neutral}}
+**{{Balance|Content=Mortis' Creepy Harvest Star Power was added.|Change=Neutral}}
+*18/12/17:
+**{{Balance|Content=Mortis' Creepy Harvest healing was decreased to 1000 (from 1200) per soul collected.|Change=Nerf}}
+*16/01/18:
+**{{Balance|Content=Mortis' health was increased to 3200 (from 2800).|Change=Buff}}
+**{{Balance|Content=His movement speed was increased to 700 (from 650).|Change=Buff}}
+**{{Balance|Content=His main attack damage was increased to 800 (from 640).|Change=Buff}}
+**{{Balance|Content=His main attack range was decreased to 2.33 tiles (from 3 tiles).|Change=Nerf}}
+*21/03/18:
+**{{Balance|Content=Mortis' main attack range was increased to 2.67 tiles (from 2.33).|Change=Buff}}
+**{{Balance|Content=Every Brawler's movement speed was increased by 70 points, increasing Mortis' movement speed to 770 (from 700).|Change=Neutral}}
+**{{Balance|Content=All Brawlers' projectile speeds were increased by 9%.|Change=Neutral}}
+*23/03/18:
+**{{Balance|Content=Mortis' health was increased to 3500 (from 3200).|Change=Buff}}
+*09/04/18:
+**{{Balance|Content=Mortis' health was increased to 3800 (from 3500).|Change=Buff}}
+*18/06/18:
+**{{Balance|Content=Mortis' movement speed was increased to 820 (from 770).|Change=Buff}}
+*27/09/18:
+**{{Balance|Content=Mortis was remodeled, and the Rockabilly Mortis skin was added.|Change=Neutral}}
+*05/12/18:
+**{{Balance|Content=The Top Hat Mortis skin was added.|Change=Neutral}}
+*29/01/19:
+**{{Balance|Content=Mortis' main attack and Super damage was increased to 900 (from 800).|Change=Buff}}
+**{{Balance|Content=Mortis' Creepy Harvest Star Power was reworked from making enemies that Mortis defeats drop souls that he can collect to heal 1000 health to making Mortis heal 1800 health every time he defeats an enemy Brawler.|Change=Neutral}}
+**{{Balance|Content=He now has voice lines.|Change=Neutral}}
+*27/02/19:
+**{{Balance|Content=Mortis' Creepy Harvest Star Power healing was decreased to 1400 (from 1800).|Change=Nerf}}
+*01/03/19:
+**{{Balance|Content=The Night Witch Mortis skin was added.|Change=Neutral}}
+*11/06/19:
+**{{Balance|Content=Mortis' reload time was decreased to 2.4 seconds (from 2.5).|Change=Buff}}
+*31/07/19:
+**{{Balance|Content=Mortis' Coiled Snake Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Mortis' Coiled Snake Star Power range was decreased to 75% (from 100%).|Change=Nerf}}
+**{{Balance|Content=His main attack animation was reworked.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Mortis' Coiled Snake Star Power charge time was increased to 3.5 seconds (from 3).|Change=Nerf}}
+*09/10/19:
+**{{Balance|Content=Mortis' Creepy Harvest Star Power healing was increased to 1800 (from 1400).|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Mortis' Combo Spinner Gadget was added.|Change=Neutral}}
+*13/05/20:
+**{{Balance|Content=Mortis can now move while using Combo Spinner Gadget.|Change=Buff}}
+**{{Balance|Content=Mortis' cape and walking animation were reworked.|Change=Neutral}}
+*19/05/20:
+**{{Balance|Content=The Rogue Mortis skin was added.|Change=Neutral}}
+*22/07/20:
+**{{Balance|Content=Mortis' Survival Shovel Gadget was added.|Change=Neutral}}
+*10/09/20:
+**{{Balance|Content=Mortis' Super recharge rate was increased which allows Mortis to charge his Super with 2 Supers + 2 main attacks (from 2 Supers + 3 main attacks).|Change=Buff}}
+**{{Balance|Content=His Super charge rate was decreased slightly.|Change=Nerf}}
+*22/10/20:
+**{{Balance|Content=Mortis' True Silver and True Gold skins for both default and Top Hat Mortis were added.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Mortis' Super healing was increased to 125% (from 100%).|Change=Buff}}
+**{{Balance|Content=His Super now does not heal Mortis if it hits a pet or spawnable.|Change=Nerf}}
+*27/01/21:
+**{{Balance|Content=Mortis' facial animations were slightly reworked.|Change=Neutral}}
+*24/03/21:
+**{{Balance|Content=Fixed a bug that prevented Mortis' main attack from destroying bones/vases.|Change=Neutral}}
+*25/06/21:
+**{{Balance|Content=The Beach Time Mortis skin was added.|Change=Neutral}}
+*25/08/21:
+**{{Balance|Content=Mortis now has a bar that charges in 4.5 seconds when his ammo bars are fully charged and makes his next attack 2 tiles longer.|Change=Buff}}
+**{{Balance|Content=Mortis' Coiled Snake Star Power was reworked from giving Mortis a Dash Bar that charges in 3.5 seconds when his ammo bars are fully charged and making his next attack's range 75% longer to making his bar charge 1.5 seconds faster.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Mortis' Creepy Harvest Star Power healing was decreased to 1400 (from 1800).|Change=Nerf}}
+**{{Balance|Content=Mortis' class was changed to Assassin (from Dashing Assassin).|Change=Neutral}}
+*25/01/22:
+**{{Balance|Content=Mortis' Coiled Snake Star Power reduction was increased to 2 seconds (from 1.5).|Change=Buff}}
+**{{Balance|Content=Mortis' Creepy Harvest Star Power healing was decreased to 1000 (from 1400).|Change=Nerf}}
+*07/10/22:
+**{{Balance|Content=The Mecha, Light Mecha, and Dark Mecha Mortis skins were added. They were featured as Mecha skins.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Beach Time Mortis now costs 79 [[Gems]] (from 49).|Change=Neutral}}
+*06/06/23:
+**{{Balance|Content=Mortis' main attack damage was increased to 940 (from 900).|Change=Buff}}
+*27/06/23:
+**{{Balance|Content=Mortis' Combo Spinner Gadget damage was increased to 1500 (from 1300).|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=Mortis' dash bar no longer requires all 3 ammo to begin charging.|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Mortis' Combo Spinner Gadget damage was increased to 1504 (from 1500) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Mortis' Creepy Harvest Star Power now heals for 20% of his maximum health (from 1000).|Change=Neutral}}
+**{{Balance|Content=Mortis' flavor text was changed from "Mortis dashes forward with each swing of his shovel. As his Super attack, he sends a cloud of bats to damage enemies and heal himself!" to "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans."|Change=Neutral}}
+*03/11/23:
+**{{Balance|Content=The Hockey Mortis skin was added. It was featured as a Brawl Stars Championship 2023 skin.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Mortis' Bat Storm Mythic Gear was added.|Change=Neutral}}
+*18/12/23:
+**{{Balance|Content=Fixed an issue with Mortis' Combo Spinner Gadget damage.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Neutral|All Mecha Mortis skins' takedown visual effects were reworked.}}
+*23/04/24:
+**{{Balance|Content=Mortis' main attack damage was increased to 1000 (from 940).|Change=Buff}}
+**{{Balance|Content=Mortis' Combo Spinner Gadget damage was increased to 1600 (from 1504).|Change=Buff}}
+*12/06/24:
+**{{Balance|Content=The Gala Mortis skin was added. It was featured as a License to Brawl skin.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Mortis' Blood Boomerang Hypercharge was added.|Change=Neutral}}
+*05/09/24:
+**{{Balance|Content=The Squidward, Pink Squidward, and Blue Squidward Mortis skins were added. They were featured as Brawl Pass Season 30 skins and SpongeBob skins.|Change=Neutral}}
+*04/10/24:
+**{{Balance|Content=Mortis' Blood Boomerang Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*07/11/24:
+**{{Balance|Content=The Demon, Devilish, and Lambent Mortis skins were added. They were featured as Angels vs. Demons skins.|Change=Neutral}}
+*12/12/24:
+**{{Balance|Content=Mecha, Light Mecha, and Dark Mecha Mortis were slightly remodeled.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Mortis' Blood Boomerang Hypercharge multiplier was decreased to 30% (from 40%).|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Mortis' Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Mortis' Wasabi Power was removed from the game.|Change=Neutral}}
+*12/06/25:
+**{{Balance|Content=Mortis' level up health was increased to 650 (from 450) in [[Brawl Arena]].|Change=Buff}}
+*03/07/25:
+**{{Balance|Content=The Hades, Serapis, and Pluto Mortis skins were added. They were featured as Brawl Pass Season 40 skins and Legends of Hades skins.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Mortis and Top Hat Mortis were slightly remodeled.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Mortis' Blood Boomerang Hypercharge speed boost from 24%.|Change=nerf}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Mortis' Blood Boomerang Hypercharge damage boost from 25%.}}
+*16/12/25:
+**{{Balance|Buff|Mortis' health was increased to 4000 (from 3800).}}
+**{{Balance|Content=Mortis' Super projectile speed was increased to 3000 (from 2718). This does not affect his Hypercharged Super.|Change=Buff}}
+**{{Balance|Content=Mortis' Combo Spinner Gadget can now be aimed at a short distance.|Change=Buff}}
+**{{Balance|Content=Mortis' Combo Spinner Gadget now charges his Super.|Change=Buff}}
+**{{Balance|Content=Mortis' Combo Spinner Gadget area effect can now damage enemies through walls.|Change=Buff}}
+**{{Balance|Content=Mortis' Super healing was decreased to 100% (from 125%).|Change=Nerf}}
+**{{Balance|Content=Mortis' Combo Spinner Gadget damage radius was decreased to 2.67 tiles (from 3.33).|Change=Nerf}}
+**{{Balance|Content=Mortis' Creature of the Night Gadget cooldown was increased to 24 seconds (from 16).|Change=Nerf}}
+**{{Balance|Content=Mortis' Bat Storm Mythic Gear was removed.|Change=Neutral}}
+**{{Balance|Content=Mortis' Survival Shovel Gadget was renamed to Creature of the Night and reworked from doubling his reload speed for 4 seconds to allowing Mortis to become immune and travel over obstacles.|Change=Neutral}}
+**{{Balance|Content=Mortis' Buffies were added.|Change=Neutral}}
+*23/01/26:
+**{{Balance|Nerf|Mortis' Combo Spinner Gadget no longer charges his Super.}}
+**{{Balance|Nerf|Mortis' Combo Spinner Gadget cooldown was increased to 15 seconds (from 10).}}
+*25/02/26:
+**{{Balance|Nerf|Mortis' Combo Spinner Gadget no longer damages enemies through walls.}}
+**{{Balance|Nerf|Mortis' Creature of the Night Gadget Buffie damage no longer generates Super charge.}}
+*22/04/26:
+**{{Balance|Nerf|Mortis' Buffied Coiled Snake Star Power damage reduction decreased by 35% (from 40%).}}
+**{{Balance|Nerf|Mortis' level up reload speed boost was decreased to 1.5% (from 2%) in Brawl Arena.}}
+**{{Balance|Nerf|Mortis' level up health was decreased to 500 (from 650) in Brawl Arena.}}
+*28/04/26:
+**{{Balance|Neutral|Fixed an issue with Mortis' dash delay.}}
+*30/06/26:
+**{{Balance|Nerf|Mortis' Combo Spinner Gadget cooldown was increased to 18 seconds (from 15).}}
+**{{Balance|Nerf|Mortis' Combo Spinner Gadget Buffie bonus damage against enemies below 50% health was decreased to 30% (from 50%).}}
+**{{Balance|Nerf|Mortis' Creature of the Night Gadget damage (and healing when buffied) was decreased to 1400 (from 1520).}}
+**{{Balance|Neutral|Fixed a bug where Mortis' Creepy Harvest Star Power restored health based on the defeated Brawler's level instead of his own level.}}
+**{{Balance|Neutral|Rockabilly Mortis was slightly remodeled.}}
+*08/07/26:
+**{{Balance|Neutral|Fixed an issue where Mortis was dealing less damage than intended while Hypercharged with Buffie equipped.}}
+*01/09/26:
+**{{Balance|Content=Mortis' level up damage was increased to 5% (from 4%) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Mortis' movement speed to 855 (from 820).}}
+
+==Cosmetics==
+===Skins (23)===
+{{Skin Gallery
+|Name1=Top Hat|Cost1=Free after unlocking Mortis
+|Name2=Gala|Cost2=Free after reaching 750 Trophies or 29 Gems|Campaign2=License to Brawl|Rarity2=Rare
+|Name3=Light Mecha|Cost3=49 Gems, available after purchasing Mecha Mortis, or free from Mecha Boxes|Campaign3=Mecha Squad|Rarity3=Legendary
+|Name4=Dark Mecha|Cost4=49 Gems, available after purchasing Mecha Mortis, or free from Mecha Boxes|Campaign4=Mecha Squad|Rarity4=Legendary
+|Name5=Beach Time|Cost5=Free from Pierce Boxes or 79 Gems|Campaign5=Summer of Brawl|Rarity5=Super Rare
+|Name6=Rockabilly|Cost6=Free from Classic Brawl Mega Boxes, free from Ziggy Boxes or 149 Gems|Campaign6=Retropolis Nights|Rarity6=Epic
+|Name7=Night Witch|Cost7=149 Gems|Campaign7=Clash Stories|Rarity7=Epic
+|Name8=Rogue|Cost8=Free from Najia Boxes or 149 Gems|Campaign8=Sands of Time|Rarity8=Epic
+|Name9=Hockey|Cost9=149 Gems • '''S'''|Campaign9=BSC 2023|Rarity9=Epic
+|Name10=Mecha|Cost10=299 Gems or free from Mecha Boxes|Campaign10=Mecha Squad|Rarity10=Legendary
+|Name11=Demon|Cost11=Through chain offer, free from Demonic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign11=Angels vs. Demons|Rarity11=Hypercharge
+|Name12=Devilish|Cost12=Through chain offer after obtaining Demon Mortis, free from Demonic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign12=Angels vs. Demons|Rarity12=Hypercharge
+|Name13=Lambent|Cost13=Through chain offer after obtaining Demon Mortis and Devilish Mortis, free from Demonic Drops, Ultra Trophy Boxes or 499 Gems • '''S'''|Campaign13=Angels vs. Demons|Rarity13=Hypercharge
+|Name14=True Silver|Cost14=10000 Coins|Campaign14=True Silver
+|Name15=True Silver (Hat)|Cost15=Free after purchasing True Silver Mortis|Campaign15=True Silver
+|Name16=True Gold|Cost16=25000 Coins|Campaign16=True Gold
+|Name17=True Gold (Hat)|Cost17=Free after purchasing True Gold Mortis|Campaign17=True Gold
+|NameP1=Squidward|CostP1=Brawl Pass or $7.99 • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=SpongeBob|RarityP1=Epic
+|NameP2=Pink Squidward|CostP2=Brawl Pass Plus or $6.99 • '''E'''|CampaignP2=Brawl Pass|CampaignP2_2=SpongeBob|RarityP2=Epic
+|NameP3=Blue Squidward|CostP3=Brawl Pass Plus or $6.99 • '''E'''|CampaignP3=Brawl Pass|CampaignP3_2=SpongeBob|RarityP3=Epic
+|NameP4=Hades|CostP4=Brawl Pass, 2 Skin Keys or 149 Gems|CampaignP4=Brawl Pass|CampaignP4_2=Legends of Hades|RarityP4=Epic
+|NameP5=Serapis|CostP5=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP5=Brawl Pass|CampaignP5_2=Legends of Hades|RarityP5=Epic
+|NameP6=Pluto|CostP6=Brawl Pass Plus, free after purchasing Skin Set with Skin Keys or 149 Gems|CampaignP6=Brawl Pass|CampaignP6_2=Legends of Hades|RarityP6=Epic}}
+
+===Buffie Skins===
+<gallery>
+File:Mortis Buffie Skin-Gadget.png|Gadget
+File:Mortis Buffie Skin-Star.png|Star
+File:Mortis Buffie Skin-Hyper.png|Hyper
+File:Mortis Buffie Skin-Bling.png|Bling
+File:Mortis Buffie Skin-Ghost.png|Ghost
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Mortis
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Rockabilly}}
+{{Pin Table|Mecha}}
+{{Pin Table|Light Mecha}}
+{{Pin Table|Dark Mecha}}
+{{Pin Table|Hockey|Special}}
+{{Pin Table|Rogue|GG}}
+{{Pin Table|Squidward|Special}}
+{{Pin Table|Pink Squidward|Special}}
+{{Pin Table|Blue Squidward|Special}}
+{{Pin Table|Demon}}
+{{Pin Table|Devilish|Special}}
+{{Pin Table|Lambent|Special}}
+{{Pin Table|Night Witch|Thanks}}
+{{Pin Table|Beach Time|Phew}}
+{{Pin Table|Hades|Special}}
+{{Pin Table|Serapis|Special}}
+{{Pin Table|Pluto|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type=Mortis|Rarity=Common}}
+|{{Spray|Type=Mortis Hypercharge|Rarity=Exclusive}}
+|{{Spray|Type=Mecha Mortis|Rarity=Common}}
+|{{Spray|Type=Demon Mortis|Rarity=Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Mortis1}}
+|{{Pfp|Mortis2}}
+|{{Pfp|Mortis3}}
+|{{Pfp|Mecha Mortis}}
+|{{Pfp|Rockabilly Mortis}}
+|-
+|{{Pfp|Hockey Mortis}}
+|{{Pfp|Rogue Mortis}}
+|{{Pfp|Night Witch Mortis}}
+|{{Pfp|Squidward Mortis}}
+|{{Pfp|Demon Mortis}}
+|-
+|{{Pfp|Hades Mortis}}
+|
+|
+|
+|
+|}
+
+{{Navigation}}
+[[es:Mortis]]
+[[fi:Mortis]]
+[[pl:Mortis]]
+[[ru:Мортис]]

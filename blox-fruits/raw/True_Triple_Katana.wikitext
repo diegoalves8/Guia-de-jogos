@@ -1,0 +1,201 @@
+{{CombosTab}}
+{{About|the {{Mythical}} sword|the {{Uncommon}} sword|Triple Katana}}
+{{Weapon Infobox
+|name      = True Triple Katana
+|image     = <gallery>
+True Triple Katana.png|Icon
+True Triple Katana EQ.png|In-Game
+True Triple Katana Held.png|Held
+True Triple Katana Aura.gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Mythical
+|update    = 9
+
+<!-- Weapon Obtainment -->
+|sea       = 2
+|location  = Green Zone
+|obtain    = Bought
+|source    = [[Mysterious Man]]
+|price     = {{Money|2,000,000}}
+}}
+{{Quote|A mythical and more powerful variant of the [[Triple Katana]], using the Legendary Swords.|Item}}
+The '''True Triple Katana''' is a {{Mythical}} [[sword]].
+
+The True Triple Katana (aka TTK) is an excellent choice for sword mains in [[PvP mechanics|PvP]], especially when paired with the [[Portal]] fruit, offering consistently high damage, moves that drain [[Instinct]] dodges rapidly, and excellent combo potential. Its moves are also very compatible with air PvP. As a support sword, it can be reliably used to extend combos and trap or catch enemies, especially with the [X] move, however better choices exist as supports. 
+
+For grinding, it is great when paired with [[Buddha]] because of its {{Ability|TAP}} having amazing damage. However, it has a dash on the 4th click, meaning it may be a little annoying when trying to AFK farm with it.
+
+==Obtainment==
+To obtain the True Triple Katana, the player needs to get 300 [[Mastery]] on [[Saishi]], [[Shizu]], and [[Oroshi]]. Then, they have to buy it from the [[Mysterious Man]] for {{Money|2,000,000}}. Upon equipping the True Triple Katana, the player will receive:
+* {{Title|Demon Eye}} [[Title]] #144
+* {{Title|The Hurricane}} [[Title]] #145
+;Notes
+* The player will not lose any of the previously bought Legendary [[swords]] after purchase of the True Triple Katana.
+* Combining all costs (including the True Triple Katana), makes the total cost {{Money|8,000,000}}.
+
+===Tips ===
+
+* Try to server-hop and check the locations without checking the manager if you want the three Legendary Swords.
+
+====Mastery====
+* Because the True Triple Katana requires a total of 300 mastery on Oroshi, Saishi, and Shizu, to be obtained (a difficult challenge), a few methods to make the process easier are listed below:
+** [[Shop|2x Mastery Gamepass]] is recommended.
+** It is highly recommended to refund stats into a sword main and use [[Buddha#Moveset_(V2)|Awakened Buddha]] so it is easier to damage and level up the three [[Swords]].
+** [[Second Sea]]: Server hop for [[Awakened Ice Admiral]] or [[Smoke Admiral]], as they can drop the highest mastery in [[Second Sea]]. The player can also grind the [[Cursed Captain]] [[Raid Bosses|Raid Boss]], although this is less effective.
+** [[Third Sea]]: Server hop for [[Longma]], [[Cake Queen]], [[Kilo Admiral]], [[Hydra Leader]], or [[Captain Elephant]], depending on the player's level.
+** Grinding mastery occasionally and/or constantly can help too.
+** A good strategy is also to group up all the [[Cocoa Warrior]]s, kill them, then group up and kill the [[Chocolate Bar Battler]]s while taking the quests for both. This will help in getting money and mastery at the same time.
+** It is possible to just grind normally, and mastery can come easily too. 
+** You can also use an auto clicker if you do not want to grind manually. (And if you have to do something, you can keep the game running while grinding Mastery, by keeping the auto clicker speed at 750 ms, which allows for a delay before the next hit, so that you don't go ahead on the 4th m1.)
+*** It is possible to AFK grind using this trick, however, the player must be wary that without a private server, it is very likely that another player would kill the player, putting an end to the grind.
+
+====Money====
+* Since each sword's price is a firm {{Money|2,000,000}}, it is quite difficult to buy them. A few methods to make the process easier are provided below:
+** [[Shop|2x Money Gamepass]] is recommended.
+** [[Second Sea]]: Grind these bosses: [[Diamond (Boss)|Diamond]], [[Jeremy]], [[Orbitus]], via server hopping. Each server can yield {{Money|75,000}} ({{Money|150,000}} with 2x money) 
+*** Alternatively, the player could farm [[Sea Beast]], for their large quantity of money drops, within the range of {{Money|100,000-200,000}}. However, if the player would prefer a more consistent source of money, return to the first given option, as it is usually better to focus on more reliable methods and to only fight Sea Beasts if the player happens to locate one already spawned. (This method is recommended to be utilized in a private server.)
+**** Another alternative would be to grind the [[Order]] Boss if the player has enough [[Fragments]] for it. (Not recommended if the player is low level or does not have high amounts of [[fragments]])
+**** The other way is to AFK grind [[enemies]] in a [[Private Servers|private server]] with [[Buddha]] or any [[Elemental]] fruit. (not recommended in public servers unless the player is the only person in the server, the server is mostly new [[Second Sea]] players or they check the game often.)
+**** Inside the cursed ship, players can maximize efficiency by collecting all major chests before switching servers. The recommended route is:
+***** '''Left-hand side room''' → Collect '''6 gold chests'''
+***** '''Outside that same room''' → Pick up '''1 silver chest'''
+***** '''Kitchen area''' → Grab the '''diamond chest'''
+***** '''Right-hand side of the ship''' → Collect the '''final gold chest'''  .
+This gives a total of '''9 chests per run'''. This will also give around '''$20-30k''' per run and After looting, the player hops to a new server and repeats the process, ensuring continuous chest respawns and faster accumulation of rewards.
+* [[Third Sea]]: [[Sea Beast]] or [[Rumbling Waters]] hunt, as one Sea Beast would give {{Money|100,000-250,000}} without 2x Money, and [[Rumbling Waters]] can give around {{Money|650,000-750,000}} ({{Money|1,300,000-1,500,000}} with the 2x Money game pass.)    You could also go to the other dimension and grind [[Cake Prince]], and the player only needing to do 10%/71k of the damage. It gives around {{Money|50,000}} normally. (This method is not as efficient as the others.) Or they can farm the triple diamond chests at haunted castle as they give 8-10k each. They will have to serverhop each time after, and most of the time it is guaranteed to be there, as not many people farm those chests.
+* Another tactic is to simply server hop the chests near the [[Longma]] boss. This is a good tactic and can yield around ~$25k per server if all the chests are there. 
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = 
+|desc     = The player does 3 slashes, then performs a dash on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Wolf Fang Rush
+|mastery  = 150
+|cooldown = 8
+|energy   = 30
+|break    = No
+|instinct = Both the initial grab and the slashes can be dodged with Instinct. 
+|gif      = True_Triple_Katana_Z
+|desc     = The user dashes forward, creating a great shockwave that stuns the enemy. If the user hits an enemy, the user will slice the enemy four times, stunning them each slice. This move is similar to [[Rengoku]]'s [Z] and [[Kitsune]] and [[Empyrean]]'s [F].
+}}
+
+{{Skill
+|key      = X
+|name     = Dragon Hurricane
+|mastery  = 350
+|cooldown = 13
+|energy   = 60
+|break    = Yes
+|instinct = The projectile breaks Instinct on direct impact, but the tornado can be dodged. The projectile, tornado, and drag can all be dodged on the edge.
+|gif      = True_Triple_Katana_X
+|desc     = The user summons a fast-paced dragon that if an enemy touches, the enemy will get blown towards the sky, and a tornado will appear. This tornado can hit enemies which have touched it, whether or not they were harmed by the summoned dragon-projectile.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Extremely high damage.
+* All moves except [M1] can damage [[Sea Beast]]s.
+*Very good combo potential.
+*Performs well in both ground and air PvP.
+* Great for grinding, as both moves have high damage.
+* Good for [[raids]] due to the large hitboxes and very high damage per click.
+* The [M1] attack speed is above average.
+* Upgrading to Grade 1 significantly increases its damage compared to other {{Mythical}} [[swords]].
+* Very high synergy with [[Portal]].
+
+|'''[Z] Wolf Fang Rush'''
+* Decent mobility. 
+* Decent stun.
+* Low end lag.
+* Short cooldown.
+* Great combo starter.
+
+|'''[X] Dragon Hurricane'''
+* Excellent in disrupting different [[combos]].
+* Second biggest hitbox amongst all [[swords]].
+* If an enemy tries to [[Instinct|Instinct-trick]] this move, their dodges will drain rapidly.
+** Even if the enemy does dodge it, it will continue to hit and drag them up if their Instinct is disabled during the move.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Moves only [[Instinct/Break|break Instinct]] on direct hit.
+* Extremely difficult and expensive to obtain. The player will need to prepare a total of {{Money|8,000,000}} to own the True Triple Katana. To own all three swords [[Saishi]], [[Shizu]] and [[Oroshi]], the player needs to keep the server alive for at least 12 hours and 45 minutes to be able to own all three swords (if they are on a private server), and he randomly sells one of the three swords, so this depends a lot on luck. The player also needs to have 300 mastery on all three swords to be able to own the True Triple Katana. It is recommended to use [[Private Servers|private servers]].
+* High mastery requirements.
+* Has had 9 nerfs as it has been released.
+
+|'''[Z] Wolf Fang Rush'''
+* Easy to evade if it without a previous stun.
+* Can be dodged by [[Instinct]].
+* Does not true-stun, meaning it can countered during the move's animation if Instinct-tricked
+
+|'''[X] Dragon Hurricane'''
+* Not the best for grinding, although this can be solved by using it as a finisher.
+* Can be [[Instinct|Instinct-tricked]].
+}}
+</tabber>
+
+==Trivia==
+* The True Triple Katana is often abbreviated as "TTK".
+** The [[dictionary|abbreviation]] "TTK" sometimes cannot be said in Roblox chat depending on how it is used, mainly due to it also being an abbreviation for "Time To Kill". Instead, the player can use "True Trip" or "TT Katana" or other abbreviations.
+* If the True Triple Katana's fourth M1 is used in the air, the user would then be able to travel greater distances than the [Z] move does.
+* The True Triple Katana deals the third highest M1 damage out of every [[fighting style]] or [[sword]] in the game.
+* If {{Ability|Z}} is used in a corner of a wall, the player has a chance to glitch through.
+* {{Ability|X}}'s hitbox is much bigger than the projectile is visually.
+* {{Ability|X}} can go through thin walls like the walls of the [[Mansion (Third Sea)]].
+* The True Triple Katana can be obtained even without finishing the [[Colosseum Quest]], but it will be extremely difficult without the [[Manager]]'s help in finding the [[Legendary Sword Dealer]].
+* The True Triple Katana can be obtained by not using the manager, this could be more efficient, but the rate the player will have to guess when the [[Legendary Sword Dealer]] is very low. But they can use this method since the Manager can sometimes get bugged.
+* The True Triple Katana shares the same holding animation as The [[Triple Dark Blade]] and The [[Triple Katana]] due to all of them being three swords being held at the same time.
+<gallery>
+File:True power.gif|The power surging into the user as they hold '''[X] Dragon Hurricane'''.
+</gallery>
+
+==Change History==
+{{Change History|9|content={{Update|29.6}}
+* {{Arrow|buff}} [X] Now travels 25% faster.
+* {{Arrow|nerf}} [X] Endlag increased.
+----
+{{Update|26}}
+* {{Arrow|nerf}} The pull-back hitbox of '''[X] Dragon Hurricane''' was nerfed.
+* {{Arrow|nerf}} Instinct dodges no longer drain when moving out of the [X] move.
+----
+{{Update|24}}
+* {{Arrow|nerf}} The pull-back hitbox of '''[X] Dragon Hurricane''' was slightly nerfed.
+* The True Triple Katana's model was revamped.
+*: <gallery>
+True Triple Katana Icon (Old).png|Old True Triple Katana's Icon
+</gallery>
+----
+{{Update|20}}
+* The True Triple Katana's moves were revamped.
+----
+{{Update|11}}
+* {{Arrow|nerf}} The True Triple Katana was changed:
+** {{Arrow|nerf}} The range on [Z] was reduced by ~15%.
+** {{Arrow|nerf}} The stun on [Z] was reduced by 0.2 seconds.
+** {{Arrow|nerf}} The damage on [X] was reduced.
+** {{Arrow|nerf}} The tornado hitbox on [X] was fixed and reduced (it now acted more like a cone rather than a big sphere). The end delay was also increased by 0.1s.
+----
+{{Update|9}}
+* The True Triple Katana was released.}}
+
+==Navigation==
+{{Legendary Sword Navbox}}
+{{Sword Navbox}}

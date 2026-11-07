@@ -1,0 +1,490 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Rarity = Legendary|Title=The Sneaky|PrestigeTitle=Now you see me...|Class = Assassin|MovementSpeed = 855 (Very Fast)<br>1112 (with Smoke Trails)|HealthLabel = Health|Health = 3300|AttackRange= 9.67 (Very Long)|Reload = 1.9 seconds (Normal)|AttackBullets = 4|AttackSuperCharge = 12.6–4.4% (close to max range)|AttackLabel = Damage per blade at min. range|Attack = 480|AttackLabel2 = Damage per blade at max. range|Attack2 = 168|SuperDuration = 6 seconds<br>7 seconds (with Invisiheal and Buffie)|VoiceActor = Thomas Hagena|GadgetCharges = 3|AttackSpread=17.5°|AttackSpeed=3500|AttackWidth=|Gadget1Name=Clone Projector|Gadget1Label=Damage|Gadget1=640|Gadget1Cooldown=13 seconds|Gadget2Name=Lollipop Drop|Gadget2Cooldown=20 seconds|StarPower2Name=Invisiheal|StarPower2=1188|StarPower2Label=Heal per second|Previous=Crow|Next=Sandy|HyperchargeMultiplier=30%|AttackHyperchargeCharge=3.775–1.125% (close to max range)|HyperchargeSpeed=+20%|HyperchargeDamage=+5%|HyperchargeShield=+5%}}
+{{Quote|Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, [[Nita]], seems to get through to him.}}{{Portrait}}
+Leon is a {{Rarity|Legendary}} [[Brawler]] who has a very fast movement speed, moderate health, a long range, immense utility with his Super, and a high burst damage output at close range, in exchange for a moderately slow reload speed. He was the 22nd Brawler added to the game, and released alongside the global launch of Brawl Stars. He attacks by flicking out four Spinner Blades in a narrow cone that sweep and deal more damage close and less damage further away. Leon's Super makes him temporarily invisible to enemies. His first Gadget, Clone Projector, spawns a clone of himself to confuse and deal very low damage to enemies, although the conjured clone takes twice the amount of damage. His second Gadget, Lollipop Drop, places his lollipop that turns his teammates and him invisible within its area-of-effect until it is destroyed. His first Star Power, Smoke Trails, increases his movement speed while invisible. His second Star Power, Invisiheal, heals him over time while his Super is active. His Hypercharge, Limbo, allows him to stay invisible when attacking while his Super is active.
+
+==Attack: Spinner Blades==
+{{Quote|Leon flicks his wrist and fires four Spinner Blades. The blades deal less damage the farther they travel.}}Leon fires 4 long-ranged blades that sweep from left to right in a narrow cone. The damage dealt depends on how far they travel before hitting their targets. Targets close to Leon take the most damage, while targets that are farther away take significantly less damage. The damage ranges from full damage in the first 15% of Leon's attack range, to 35% of the max damage at maximum range. The attack cooldown is extremely short, and it takes 0.35 seconds to complete. 
+
+==Super: Smoke Bomb==
+{{Quote|Leon becomes invisible for 6 seconds. If he attacks, he will be revealed. Enemies close to Leon will be able to spot him.}}
+[[File:Visibility Warning.png|left|40x40px|link=]]
+Leon turns himself invisible for 6 seconds, allowing him to either retreat or ambush an enemy. A unique visual and sound effect plays when Leon goes invisible, even if he is in a bush. Enemy Brawlers can see him if he is within 4 tiles of them, and a symbol is displayed left of your health bar if they detect you. If Leon attacks while invisible, he loses his invisibility. If he takes damage during his Super, he will momentarily be visible. 
+
+Picking up items (like Gems in [[Gem Grab]], Power Cubes in [[Showdown]], or Bolts in [[Siege]]) or holding the Ball in [[Brawl Ball]] or the zombie head in [[Zombie Plunder]] while invisible makes him visible momentarily, but does not end the Super. Enemy minions (such as [[Nita]]'s bear, [[Tick]]'s head, [[Ash]]'s rats, and [[Larry & Lawrie|Lawrie]]) can't locate him while invisible, but allied minions (such as [[Tara]]'s Healing Shade) can still detect Leon while invisible. Knockbacks and stuns do not cancel Leon's Super. Aiming is not required when using this Super.
+
+==Gadgets==
+===Clone Projector===
+{{Quote|Leon creates an illusion of himself to confuse his enemies. The clone attacks enemies dealing minor damage. Cooldown: 13 seconds.}}{{Gadget|1}}Leon creates a clone of himself, which allows him to confuse enemies or to escape. The clone chases down the nearest enemy and will deal very low damage when it reaches the enemy. It replicates Leon's health (including in [[Big Game]] if Leon is the Big Brawler) at the Gadget's activation time and copies the number of items (such as the number of Gems, Power Cubes, etc.) that Leon himself has, as well as the status of his Super. However, the clone can't heal and all damage dealt to it will be doubled. The clone vanishes when defeated, if Leon summons another one, or after 10 seconds. The clone also doesn't drop anything when defeated. This Gadget's cooldown begins after the clone disappears.
+
+{{Quote|Leon can reactivate the Gadget, while a clone is active, to swap positions with the clone!}}{{Buffie|Gadget}}
+With the Buffie, Leon can use the Gadget again while a clone is active to instantly teleport and swap positions with it. The Gadget icon for swapping is different than the normal Clone Projector icon. The swap can only be used once, and if it was used the cooldown begins immediately.
+
+===Lollipop Drop===
+{{Quote|Leon creates a stealthy area for his team to hide in. The lollipop slowly loses its health over time. Cooldown: 20 seconds.}}{{Gadget|2}}When this Gadget is activated, Leon drops a lollipop below him that creates an area that turns him and his allies invisible in a 4.33-tile radius. The lollipop has 2000 health, and will be destroyed if Leon drops another lollipop. It also decays by 200 health per second until it is destroyed. Like other invisibility abilities, Brawlers will become visible to enemies if they're within 4 tiles of them. This Gadget's cooldown begins after the attack is used. 
+
+{{Quote|Leon and teammates gain +15% movement speed inside the area.}}{{Buffie|Gadget}}
+With the Buffie, Leon and his allies that are within its area-of-effect also gain a 15% movement speed boost.
+
+==Star Powers==
+===Smoke Trails===
+{{Quote|When Leon is not visible, he gains a 30% movement speed for the duration of his invisibility.}}{{StarPower|1}}Leon's movement speed is increased by 257 points while invisible, allowing him to move much faster.  
+
+{{Quote|Projectiles deal +15% damage for 0.5 seconds after breaking invisibility.}}{{Buffie|Star}}
+With the Buffie, after Leon loses his invisibility, his first attack deals 15% more damage.
+
+===Invisiheal===
+{{Quote|Leon recovers 1320 health per second while his Super is active.}}{{StarPower|2}}If Leon has missing health while using his Super, he regains 20% of his maximum every second for the duration of his Super, if he doesn't cancel his Super with an attack. He still heals even if he takes damage.
+
+{{Quote|Leon's Super duration is +1 sec longer.}}{{Buffie|Star}}
+With the Buffie, Leon's Super duration is increased from 6 seconds to 7 seconds.
+
+==Hypercharge: Limbo==
+{{Quote|Leon stays invisible while attacking his enemies.}}{{Hypercharge}}
+If Leon uses his Super during the Hypercharge or activates the Hypercharge during a Super, attacking will not remove his invisibility. However, if he uses a Hypercharged Super and the Hypercharge duration ends, the next attack will remove his invisibility. He also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Leon's main attacks do at least 75% damage regardless of distance.}}{{Buffie|Hyper}}
+With the Buffie, the minimum damage percent of Leon's attacks is increased from 35% to 75%. Increased Hypercharge duration by 2 seconds.
+
+==Mythic Gear: Lingering Smoke==
+{{RemovedContent|Section}}
+{{Quote|Leon's Smoke Bomb lasts 2 seconds longer.}}{{Gear|Filename=LeonGear}}
+With this Gear equipped, Leon's Super duration was increased from 6 seconds to 8 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Leon spawns 2 clones after using Smoke Bomb.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>With this Mutation, Leon spawned 2 clones of himself after using his Super, which behaved identically to those of his Clone Projector Gadget.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|His Super creates illusions that can now attack!}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>Leon spawned 2 clones of himself after using his Super, which could attack the nearest targets. There was a limit of 6 clones, and spawning more clones caused old clones to disappear in the order they were summoned. Clones from Leon's Clone Projector Gadget did not count towards the limit nor attack but still despawned after 10 seconds.
+
+==Tips==
+*Leon can deal a lot of damage if he hits all of his blades in his attack at short-range. Use obstacles and bushes to get as close as possible to enemies and unleash your attack.
+*If you're stuck at long range, you can use the strafing technique to chip out a moderate amount of the enemy's health. Similar to [[Bo]], Leon's projectiles are fired from left to right, so you can concentrate or spread out by strafing left or right while attacking. You can walk left while shooting to narrow his attack width and increase his damage. Conversely, you can walk right while attacking to get a wide attack with minor damage for chipping away at clumped up groups of enemies.
+*In [[Heist]], Leon's Super allows him to sneak behind the enemies to attack the enemy safe on the other side of the map.
+*In [[Bounty]], Leon can use his Super allows him to pick off enemies and defeat them one by one, racking up huge amounts of stars for his team. However, Leon is not effective at eliminating more than one enemy, so he could find himself in a disadvantageous position after eliminating an enemy.
+*Leon's Super is ineffective when used near an enemy when they know your path. Using his Super when hiding in bushes can make your escape route increasingly unpredictable. By doing this, enemies have a hard time finding him after firing at the now unoccupied bushes.
+*Leon's Super can be used both offensively and defensively. If you're in a bad position, you can use your Super to sneak away from the enemy or even defeat one of them. If you are carrying a lot of Gems in Gem Grab or have a high bounty in Bounty, use your invisibility to escape, making it hard for the opposition to attack you. When using it to escape, his Invisiheal Star Power can give him a higher chance of surviving tough situations.
+*You can flash your Super as you walk into a bush to trick your enemies into thinking that you've gone invisible. This allows you to heal up in the bush whilst your enemies scan the arena, thereby wasting their ammo. You can then actually use your Super to defeat them while their ammo is still low.
+*Leon's blades have a deceptively long range and a spread that widens as they travel. Chip away at enemies and build up your Super before slipping into stealth to defeat Brawlers at close range. This strategy works well in Events where you have to eliminate enemies, such as Bounty, Showdown, or [[Knockout]].
+*Conserving ammo is also particularly important with Leon. His relatively slow reload speed makes him vulnerable to an enemy who has managed to dodge, survive Leon's attacks, or both.
+*Both of Leon's Star Powers are useful for [[Brawl Ball]]. His Smoke Trails Star Power allows him to snatch the Ball quickly while enemies are unsuspecting of Leon's presence until Leon retrieved the Ball and attempts to score, while Invisiheal can grant Leon an exceptional survivability boost which allows him to withstand much more damage from multiple enemy defenders who are present at their goal.
+*Unlike most assassins, Leon is used for eliminating one enemy at a time and does not have the potential for multi-defeats because of his slow reload and non-piercing attack.
+*In [[Showdown]], Leon has two options for play styles: one is a Roamer and the other is a Third Party. Roamers (like [[Shelly]], [[Darryl]], [[El Primo]], [[Fang]], [[Edgar]], etc.) walk around the map searching for potential targets to pick them off one by one. Third Parties (like [[Mortis]], [[Mico]], [[Rosa]], [[Frank]], or [[Crow]]) search for two people who are already engaged in combat and wait (preferably in a nearby bush) till one of the two is defeated. The Third Party then finishes off the winning Brawler and collects the remaining Power Cubes from both enemies.
+*Leon's Smoke Trails Star Power grants him an incredibly fast movement speed for the Super's duration, making him incredibly hard to hit. This is also useful for making quick getaways or to engage someone faster.
+*Leon's Invisiheal Star Power heals him a large amount of health every second for 6 seconds. This is preferable over Smoke Trails in game modes like [[Gem Grab]] and [[Showdown]], where Leon might need to collect power-ups or objectives while staying invisible and also healing if detected. Invisiheal also allows you to dodge [[Modifiers#Meteor Shower|meteors]] or other potentially deadly threats in [[Showdown]]. When using Leon's Invisiheal Star Power, try activating his Super right before an engagement.
+*Leon's Clone Projector Gadget can prove to be incredibly useful in some situations, i.e. against a [[Shelly]], [[Colt]], [[Dynamike]], [[Brock]], or [[Mandy]] with their Super. They'll probably fire their Super at the clone, effectively wasting it. Don't try this when on low health, because your clone replicates the amount of health you have and the fact that it's charging at a person gives it away. A strategy you can do with it is to go into a bush, pop your Gadget, and then turn invisible for an ambush to finish off low-health Brawlers who will probably waste their ammo on your clone. Leon's Clone Projector can also chase the closest enemy even when they're inside a bush, letting Leon detect if the bushes have enemies. It can also be used as a meat shield to absorb damage from enemies with a non-piercing, bouncing, or splitting attack.
+*If necessary to step into the poison gas in Showdown, you can quickly escape a close fight using Leon's Invisiheal Star Power. The healing with partially counter the smoke damage, allowing him to survive longer. However, the poison's damage will build up over time, so you eventually will have to leave the gas.
+*If you ever use Leon's Super out in the open, use it while walking one way and immediately turn around and sneak up from another side. This makes it less predictable in where you'll come from or make them think you used your Super to escape.
+*Leon's Lollipop Drop Gadget can provide a lot of value in 3v3 Events as its invisibility range can allow you and your teammates to walk across otherwise separated bushes, and placing it behind walls will make it harder for most enemy Brawlers to destroy it.
+*Don't waste Leon's Super as it is most important to him since he can easily achieve eliminations with it. For example, if you're on low health and there is a high-burst damage Brawler near you, don't use his Super even if you have his Invisiheal Star Power as that Brawler will defeat you anyway. However, if the scenario is in [[Showdown]], use your Super to escape and/or either one of the Gadgets as a meat shield (since they're both spawnables). 
+*As the clone produced by the Clone Projector Gadget can reveal bushes around it, it's ideal to use it to scout out the area for any enemies. This is especially useful if the opponents are low on health and retreating, as they would likely panic-fire at the clone, wasting their ammo, stalling their healing and allowing the real Leon to take them out.
+*Enemies can spot Leon from 4 tiles away, however they can only spot enemies hiding in bushes from 2 tiles away. This can help Leon detect enemies nearby if he is invisible while hiding in bushes. Leon will be notified by a small yellow eye icon if an enemy is at least 4 tiles away while invisible, but they still won't see him while within the bushes. Keep in mind that this won't work with Brawlers who can see invisible enemies.
+*Most of the time, when Leon uses his Clone Projector Gadget, they use the clone as a scout to check the bushes or see where the enemies are, or they use the Gadget first and go behind them, using the clone as a shield, this means some brawlers will ignore the clone to consume ammo for surprise attacks, with this, you can use your Clone Projector Gadget, run towards the enemy without attacking, and suddenly surprise them and assassinate them quickly, and run away, because of this, the clone won't be harmed, (maybe, though not big chance) and you can use it to scout again.
+*In game modes such as [[Knockout]] or [[Bounty]] in a map with jump pads, Leon's Clone Projector Gadget is extremely helpful. With Leon's Super fully charged, you can stand on the jump pad and activate Super just before you are launched. Right before you are launched, also activate the Clone Projector Gadget. The jump pad will activate sending you towards the enemy team invisible, whilst they can see the clone. You can then quickly run to a nearby bush or enemy player while they enemy team wastes all their ammo on the clone. After this, you can either attack the enemy brawlers with now no ammo, or just wait for a better moment to strike.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning||In The Lead||Receiving Damage||Defeating An Enemy||Defeated||Attacking||Activating A Super
+|-
+|'''Normal:'''
+{{Ogg|Filename = Leon start vo 01.ogg|Filedescription = "Let's go!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon start vo 01.ogg|Filedescription = "Let's go!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 01.ogg|Filedescription = "They won't see me coming, but they'll feel it."}}
+|'''Normal:'''
+{{Ogg|Filename = Leon lead vo 01.ogg|Filedescription = "Leon in the lead!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon lead vo 01.ogg|Filedescription = "Leon in the lead!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger lead 01.ogg|Filedescription = "The stripes don't lie!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon hurt vo 01.ogg|Filedescription = "No way!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon hurt vo 01.ogg|Filedescription = "No way!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 01.ogg|Filedescription = "Yo, chill! I felt that!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 01.ogg|Filedescription = "Yes yes yes!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 01.ogg|Filedescription = "Yes yes yes!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 01.ogg|Filedescription = "Roar? More like snore!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon die vo 01.ogg|Filedescription = "Not fair!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon die vo 01.ogg|Filedescription = "Not fair!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 01.ogg|Filedescription = "Ah this tiger needs a catnap."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Leon ulti vo 01.ogg|Filedescription = "Sneaky-time!"}}'''Werewolf:'''
+{{Ogg|Filename = Leon wolf ulti vo 01.ogg|Filedescription = Leon howls}}'''Mecha:'''
+{{Ogg|Filename = Mech leon ulti vo 01.ogg|Filedescription = "Sneaky-time!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 01.ogg|Filedescription = "Sigma stealth energy."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Leon start vo 02.ogg|Filedescription = "We can do this!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon start vo 02.ogg|Filedescription = "We can do this!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 02.ogg|Filedescription = "Silent but savage!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon lead vo 02.ogg|Filedescription = "Hey Nita, check me out!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon lead vo 02.ogg|Filedescription = "Hey Nita, check me out!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger lead 02.ogg|Filedescription = "This lobby is so mid."}}
+|'''Normal:'''
+{{Ogg|Filename = Leon hurt vo 02.ogg|Filedescription = Leon grunts}}'''Mecha:'''
+{{Ogg|Filename = Mech leon hurt vo 02.ogg|Filedescription = Leon grunts}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 02.ogg|Filedescription = "Careful! You'll mess up my fur!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 02.ogg|Filedescription = Leon laughs}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 02.ogg|Filedescription = Leon laughs}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 02.ogg|Filedescription = "Even my shadows got more rizz!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon die vo 02.ogg|Filedescription = "You got me."}}'''Mecha:'''
+{{Ogg|Filename = Mech leon die vo 02.ogg|Filedescription = "You got me."}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 02.ogg|Filedescription = "I got clipped. That's on me."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Leon ulti vo 02.ogg|Filedescription = "Invisibility!"}}'''Werewolf:'''
+{{Ogg|Filename = Leon wolf ulti vo 02.ogg|Filedescription = Leon howls}}'''Mecha:'''
+{{Ogg|Filename = Mech leon ulti vo 02.ogg|Filedescription = "Invisibility!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 02.ogg|Filedescription = "About to stealth on some NPCs."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Leon start vo 03.ogg|Filedescription = "Time to brawl."}}'''Mecha:'''
+{{Ogg|Filename = Mech leon start vo 03.ogg|Filedescription = "Time to brawl."}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 03.ogg|Filedescription = "This jungle's mine. Time to hunt!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon lead vo 03.ogg|Filedescription = "Untouchable."}}'''Mecha:'''
+{{Ogg|Filename = Mech leon lead vo 03.ogg|Filedescription = "Untouchable."}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger lead 03.ogg|Filedescription = "Next-level ninja!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon hurt vo 03.ogg|Filedescription = Leon groans}}'''Mecha:'''
+{{Ogg|Filename = Mech leon hurt vo 03.ogg|Filedescription = Leon groans}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 03.ogg|Filedescription = "Okay! That one hit different."}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 03.ogg|Filedescription = "Yeah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 03.ogg|Filedescription = "Yeah!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 03.ogg|Filedescription = "You never saw it coming!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon die vo 03.ogg|Filedescription = "Nita!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon die vo 03.ogg|Filedescription = "Nita!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 03.ogg|Filedescription = "Huh, guess the hunter just became the hunted."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Leon ulti vo 04.ogg|Filedescription = "Watch this!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon ulti vo 03.ogg|Filedescription = "Watch this!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 03.ogg|Filedescription = "Can't fight what you can't see!"}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Leon start vo 04.ogg|Filedescription = "Yeah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon start vo 04.ogg|Filedescription = "Yeah!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 04.ogg|Filedescription = "Hope they say goodbye to their trophies!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon lead vo 04.ogg|Filedescription = "Yeah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon lead vo 04.ogg|Filedescription = "Yeah!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger lead 04.ogg|Filedescription = "Not even close, bro!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon hurt vo 04.ogg|Filedescription = "Don't make me get Nita!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon hurt vo 04.ogg|Filedescription = "Don't make me get Nita!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 04.ogg|Filedescription = "NPC move! You got lucky!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 04.ogg|Filedescription = "Yeah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 04.ogg|Filedescription = "Yeah!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 04.ogg|Filedescription = "Too late to scream!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon die vo 04.ogg|Filedescription = "No!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon die vo 04.ogg|Filedescription = "No!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 04.ogg|Filedescription = "This jungle's tougher than I thought."}}
+|
+|'''Normal:'''
+{{Ogg|Filename = Leon ulti vo 05.ogg|Filedescription = "Ha, see ya!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon ulti vo 04.ogg|Filedescription = "Ha, see ya!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 04.ogg|Filedescription = "Time to play hide and pounce."}}
+|-
+|'''Normal:'''
+{{Ogg|Filename = Leon start vo 05.ogg|Filedescription = "Yeah!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon start vo 05.ogg|Filedescription = "Yeah!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 05.ogg|Filedescription = "This map's about to get real quiet."}}
+|'''Normal:'''
+{{Ogg|Filename = Leon lead vo 05.ogg|Filedescription = "Woo-hoo!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon lead vo 05.ogg|Filedescription = "Woo-hoo!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger lead 05.ogg|Filedescription = "Flawless but not clawless!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon hurt vo 05.ogg|Filedescription = Leon grunts}}'''Mecha:'''
+{{Ogg|Filename = Mech leon hurt vo 05.ogg|Filedescription = Leon grunts}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 05.ogg|Filedescription = "Okay! I see you grinding."}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 05.ogg|Filedescription = "Woo-hoo!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 05.ogg|Filedescription = "Woo-hoo!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 05.ogg|Filedescription = "Hold the cell, clown!"}}
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 05.ogg|Filedescription = "Alright, prey bites back, noted."}}
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 05.ogg|Filedescription = "Roar!"}}
+|-
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 06.ogg|Filedescription = "About to speedrun this game."}}
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 06.ogg|Filedescription = "Not enough to drop me!"}}
+|'''Normal:'''
+{{Ogg|Filename = Leon kill vo 06.ogg|Filedescription = "Yes!"}}'''Mecha:'''
+{{Ogg|Filename = Mech leon kill vo 06.ogg|Filedescription = "Yes!"}}'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 06.ogg|Filedescription = "Lowkey lagging!"}}
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger die 06.ogg|Filedescription = "Ugh, back to the tiger cage, meow."}}
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger ulti 06.ogg|Filedescription = "Stealth is my true roar!"}}
+|-
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger start 07.ogg|Filedescription = "Ready to slay, and pounce on some prey!"}}
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 07.ogg|Filedescription = "I felt that. Respect!"}}
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 07.ogg|Filedescription = "You didn't read the tiger claws."}}
+|
+|
+|
+|-
+|
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 08.ogg|Filedescription = "Eh, good hit bro."}}
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger kill 08.ogg|Filedescription = "ROAR!"}}
+|
+|
+|
+|-
+|
+|
+|'''Shadow Tiger:'''
+{{Ogg|Filename = Leon tiger hurt 09.ogg|Filedescription = "Ugh, don't mess with the coat!"}}
+|
+|
+|
+|
+|}
+
+==History==
+*05/12/18:
+**{{Balance|Content=Leon was added to the game.|Change=Neutral}}
+*07/12/18:
+**{{Balance|Content=Leon is now visible to enemy Brawlers within 4 tiles of him if Leon is invisible.|Change=Nerf}}
+*29/01/19:
+**{{Balance|Content=Leon's main attack damage was decreased to 460 (from 500) at close range per blade.|Change=Nerf}}
+**{{Balance|Content=His Super duration was decreased to 8 seconds (from 10).|Change=Nerf}}
+*27/02/19:
+**{{Balance|Content=Leon's main attack damage was decreased to 440 (from 460) at close range per blade.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge his Super was increased to 9 (from 8) at close range.|Change=Nerf}}
+*15/04/19:
+**{{Balance|Content=Leon's Super duration was decreased to 7 seconds (from 8).|Change=Nerf}}
+**{{Balance|Content=Leon's attack projectiles were retextured.|Change=Neutral}}
+*31/07/19:
+**{{Balance|Content=Leon's Invisiheal Star Power was added.|Change=Neutral}}
+*29/08/19:
+**{{Balance|Content=Leon's Invisiheal Star Power healing was increased to 800 (from 600) per second.|Change=Buff}}
+*13/09/19:
+**{{Balance|Content=The Shark Leon skin was added.|Change=Neutral}}
+*18/09/19:
+**{{Balance|Content=Leon's Super invisibility now doesn't work against IKE turrets.|Change=Nerf}}
+*23/10/19:
+**{{Balance|Content=Leon's Invisiheal Star Power healing was increased to 1000 (from 800) per second.|Change=Buff}}
+**{{Balance|Content=Leon's Super duration was decreased to 6 seconds (from 7).|Change=Nerf}}
+**{{Balance|Content=Leon was given voice lines.|Change=Neutral}}
+*31/10/19:
+**{{Balance|Content=The Werewolf Leon skin was added. It was featured as Brawl-o-ween skin.|Change=Neutral}}
+**{{Balance|Content=Leon and his Werewolf skin were given voice lines.|Change=Neutral}}
+*29/11/19:
+**{{Balance|Content=The Sally Leon skin was added. It was featured as a Line Friends skin.|Change=Neutral}}
+*19/02/20:
+**{{Balance|Content=Leon's main attack damage was increased to 178 (from 103) at max range per blade.|Change=Buff}}
+*17/03/20:
+**{{Balance|Content=Leon's Clone Projector Gadget was added.|Change=Neutral}}
+*02/07/20:
+**{{Balance|Content=Leon's main attack damage was increased to 460 (from 440) at close range, and 186 (from 178) at max range per blade.|Change=Buff}}
+**{{Balance|Content=His Clone Projector Gadget clone no longer disappears with a single hit, but instead has damage dealt to it doubled.|Change=Buff}}
+**{{Balance|Content=Leon's True Silver and True Gold skins were added.|Change=Neutral}}
+*22/10/20:
+**{{Balance|Content=The Shark Leon skin projectiles were retextured.|Change=Neutral}}
+*11/11/20:
+**{{Balance|Content=Leon's Clone Projector clone now returns to Leon if there are no enemies present on the battlefield.|Change=Neutral}}
+*15/12/20:
+**{{Balance|Content=Leon's Smoke Trails Star Power speed boost was increased to 30% (from 24%).|Change=Buff}}
+**{{Balance|Content=Leon's Clone Projector Gadget clone now copies Leon's Super state at the time of spawning, not the current state.|Change=Neutral}}
+*27/01/21:
+**{{Balance|Content=Leon's main attack damage was increased to 480 (from 460) at close range, and 192 (from 186) at max range per blade.|Change=Buff}}
+**{{Balance|Content=The number of hits necessary to charge his Super was decreased to 8 hits (from 9) at close range.|Change=Buff}}
+*09/07/21:
+**{{Balance|Content=The Dino Leon skin was added.|Change=Neutral}}
+*22/07/21:
+**{{Balance|Content=Leon's Lollipop Drop Gadget was added.|Change=Neutral}}
+*27/10/21:
+**{{Balance|Content=Leon's Lollipop Drop Gadget now gradually loses health overtime after being deployed until it's destroyed.|Change=Nerf}}
+**{{Balance|Content=Leon's class was changed to Assassin (from Stealthy Assassin).|Change=Neutral}}
+*18/10/22:
+**{{Balance|Content=The Trick or Treat Leon skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*12/12/22:
+**{{Balance|Content=Leon's Lingering Smoke Mythic Gear was added.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Leon's Super and Lollipop Drop Gadget now display a new visual effect when Leon or allies turn invisible.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Trick or Treat Leon now costs 79 [[Gems]] (from 49).|Change=Neutral}}
+*11/05/23:
+**{{Balance|Content=The Leon the Stray skin was added.|Change=Neutral}}
+*05/09/23:
+**{{Balance|Content=Leon's health was increased to 3400 (from 3200).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Leon's Invisiheal Star Power healing was increased to 1224 (from 1000) per second and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Leon's Lingering Smoke Mythic Gear duration boost was increased to 2 seconds (from 1).|Change=Buff}}
+**{{Balance|Content=Leon's flavor text was changed from "Leon shoots a quick salvo of blades at his target. His Super trick is a smoke bomb that makes him invisible for a little while!" to "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him."|Change=Neutral}}
+*29/10/23:
+**{{Balance|Content=The White Wolf Leon skin was added. It was featured as a Brawl-o-ween skin.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Leon's Limbo Hypercharge was added.|Change=Neutral}}
+*27/02/24:
+**{{Balance|Content=All Brawlers' Hypercharges duration can no longer be extended.|Change=Neutral}}
+**{{Balance|Content=Leon's Clone Projector Gadget clone no longer shows the Hypercharge icon.|Change=Neutral}}
+*25/03/24:
+**{{Balance|Content=Leon's Limbo Hypercharge speed boost was increased to 24% (from 20%).|Change=Buff}}
+**{{Balance|Content=Leon's main attack damage was decreased to 144 (from 192) at max range.|Change=Nerf}}
+**{{Balance|Content=Leon's Super charge rate at max range was decreased by 25%.|Change=Nerf}}
+**{{Balance|Nerf|Leon's Limbo Hypercharge multiplier was decreased to 30% (from 40%).}}
+**{{Balance|Content=Leon's Limbo Hypercharge shield boost was decreased to 5% (from 25%).|Change=Nerf}}
+*20/04/24:
+**{{Balance|Content=The Mecha, Radiant Mecha, and Shadow Mecha Leon skins were added. They were featured as Mecha Squad skins.|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Leon's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Leon's Mutation was removed from the game.|Change=Neutral}}
+*11/12/24:
+**{{Balance|Content=The World Finals Leon skin was added. It was featured as a World Champions 2024 skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Leon's Lollipop Gadget health decay was increased to 150 (from 75) health per second.|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Leon's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Leon's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=Leon's level up health was increased to 550 (from 450) in [[Brawl Arena]].|Change=Buff}}
+**{{Balance|Content=Leon's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+*03/09/25:
+**{{Balance|Content=Leon's main attack damage was increased to 168 (from 144) at max range.|Change=Buff}}
+**{{Balance|Content=Leon's Super charge rate at max range was increased by approximately 17%.|Change=Buff}}
+**{{Balance|Content=Leon's level up damage was increased to 6% (from 5%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Leon was slightly remodeled.|Change=Neutral}}
+*11/09/25:
+**{{Balance|Content=The Graffiti Leon skin was added. It was featured as a Streetwear skin.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Leon's Limbo Hypercharge speed boost from 24%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Leon's Limbo Hypercharge damage boost from 25%.|Change=Nerf}}
+*20/11/25:
+**{{Balance|Content=The Tiger, Tiger IV, Shadow Tiger, White Tiger, and Stalking Tiger Leon skins were added. They were featured as Pro Pass skins.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Buff|Leon's health was increased to 3600 (from 3400).}}
+**{{Balance|Buff|Leon's Invisiheal Star Power healing was increased to 1296 (from 1224).}}
+*25/02/26:
+**{{Balance|Buff|Leon's Clone Projector Gadget clone can now attack enemies.}}
+**{{Balance|Buff|Leon's Smoke Trails Star Power is now active when invisible and not only during the duration of his Super.}}
+**{{Balance|Nerf|Clone Projector's cooldown now starts counting down when the clone disappears rather than when it was first spawned.}}
+**{{Balance|Neutral|Leon's Lingering Smoke Mythic Gear was removed, with its functionality partially added to the Invisiheal Buffie.}}
+**{{Balance|Neutral|Leon's Buffies were added.}}
+*04/03/26:
+**{{Balance|Neutral|Leon's Smoke Trails Star Power description was reworked.}}
+*19/03/26:
+**{{Balance|Neutral|Fixed an issue where Leon’s Lollipop Drop Gadget couldn't be damaged by damage over time effects.}}
+*22/04/26:
+**{{Balance|Nerf|Leon's health was decreased to 3300 (from 3600).}}
+**{{Balance|Nerf|The movement speed buff from Leon's Smoke Trails Star Power and Lollipop Drop Gadget Buffie no longer stack.}}
+*30/06/26:
+**{{Balance|Nerf|Leon's Lollipop Drop Gadget health was reduced to 2000 (from 3000).}}
+*01/09/26: 
+**{{Balance|Buff|Leon's Clone Projector clone now has the same movement speed as him.}}
+**{{Balance|Buff|Leon's Clone Projector Gadget clone attack range was increased to 8.33 tiles (from 1.67).}}
+**{{Balance|Buff|Leon's Clone Projector Gadget clone attack damage was increased to 800 (from 200).}}
+**{{Balance|Neutral|Fixed an issue where Leon's Hypercharge damage boost didn't apply to the decoy.}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Leon's movement speed to 855 (from 820).}}
+
+==Cosmetics==
+===Skins (19)===
+{{Skin Gallery
+|Name1 = Leon the Stray|Cost1 = Free from Glowbert Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1 = Animal Kingdom|Rarity1 = Rare
+|Name2 = Graffiti|Cost2=Free after 92 wins in a Club during Mega Train or 29 Gems • '''S'''|Campaign2=Streetwear|Rarity2=Rare
+|Name3 = Radiant Mecha|Cost3 = 49 Gems, available after purchasing Mecha Leon, or free from Mecha Boxes|Campaign3=Mecha Squad|Rarity3=Legendary
+|Name4 = Shadow Mecha|Cost4 = 49 Gems, available after purchasing Mecha Leon, or free from Mecha Boxes|Campaign4=Mecha Squad|Rarity4=Legendary
+|Name5 = Shark|Cost5 = 79 Gems|Campaign5 = Summer of Brawl|Rarity5 = Super Rare
+|Name6 = Sally|Cost6 = 79 Gems|Campaign6=Brown & Friends|Rarity6 = Super Rare
+|Name7 = Dino|Cost7 = Free from Pierce Boxes or 79 Gems|Campaign7 = Summer of Brawl|Rarity7 = Super Rare
+|Name8 = Trick or Treat|Cost8 = Free from Pumpkin Boxes, Coffin Boxes or 79 Gems • '''S'''|Campaign8 = Brawl-o-ween|Rarity8 = Super Rare
+|Name9 = Werewolf|Cost9 = 149 Gems • '''E'''|Campaign9 = Brawl-o-ween|Rarity9 = Epic
+|Name10 = World Finals|Cost10 = 149 Gems • '''S'''|Campaign10 = World Champions 2024|Rarity10 = Epic
+|Name11 = White Wolf|Cost11 = Free from Dead Boxes, Pumpkin Boxes, Coffin Boxes or 199 Gems • '''S'''|Campaign11 = Brawl-o-ween|Rarity11 = Mythic
+|Name12 = Mecha|Cost12 = 299 Gems or free from Mecha Boxes|Campaign12=Mecha Squad|Rarity12=Legendary
+|TrueSkins = yes
+|NamePP1 = Tiger|CostPP1 = Free from the Pro Pass|CampaignPP1 = Pro Pass
+|NamePP2 = Tiger IV|CostPP2 = Free from the Pro Pass|CampaignPP2 = Pro Pass
+|NamePP3 = Shadow Tiger|CostPP3 = Pro Pass Exclusive|CampaignPP3 = Pro Pass
+|NamePP4 = White Tiger|CostPP4 = Pro Pass Exclusive|CampaignPP4 = Pro Pass
+|NamePP5 = Stalking Tiger|CostPP5 = Pro Pass Exclusive|CampaignPP5 = Pro Pass}}
+
+===Buffie Skins===
+<gallery>
+Leon Buffie Skin-Gadget.png|Gadget
+Leon Buffie Skin-Star.png|Star
+Leon Buffie Skin-Hyper.png|Hyper
+Leon Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Portraits===
+<gallery widths="200">
+Leon Portrait.png|Default
+Tiger Leon Portrait.png|Tiger
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Leon
+|-
+!Skin||colspan=11|Pins
+{{Pin Table}}
+{{Pin Table|Werewolf}}
+{{Pin Table|Trick or Treat|Special}}
+{{Pin Table|White Wolf|GG}}
+{{Pin Table|Mecha}}
+{{Pin Table|Radiant Mecha|Special}}
+{{Pin Table|Shadow Mecha|Special}}
+{{Pin Table|Dino}}
+{{Pin Table|World Finals|Happy}}
+{{Pin Table|Shark|GG}}
+{{Pin Table|Tiger}}
+{{Pin Table|White Tiger|Special}}
+{{Pin Table|Stalking Tiger|Special}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Leon|Rarity = Common}}
+|{{Spray|Type = Leon Hypercharge|Rarity = Collector's}}
+|{{Spray|Type = White Wolf Leon|Rarity = Common}}
+|{{Spray|Type = Mecha Leon|Rarity = Common}}
+|{{Spray|Type = Tiger Leon|Rarity = Collector's}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Leon1}}
+|{{Pfp|Leon2}}
+|{{Pfp|Leon3}}
+|{{Pfp|Trick or Treat Leon}}
+|{{Pfp|White Wolf Leon}}
+|-
+|{{Pfp|Mecha Leon}}
+|{{Pfp|Werewolf Leon}}
+|{{Pfp|World Finals Leon}}
+|{{Pfp|Tiger Leon}}
+|}
+
+{{Navigation}}
+[[es:Leon]]
+[[pt:Leon]]
+[[ru:Леон]]

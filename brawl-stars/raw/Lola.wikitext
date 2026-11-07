@@ -1,0 +1,293 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Drama Queen|PrestigeTitle = Diva|Rarity = Epic|Class = Damage Dealer|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 4000|AttackLabel = Damage per jewel |Attack = 280|AttackRange = 9 (Long)|Reload = 1.7 seconds (Normal)<br>1.445 seconds (with Reload Gear)|AttackBullets=6|AttackSuperCharge = 7%|AttackSpread=15°|SuperRange = 5 (Normal)|SuperLabel = Clone Health|Super = 2200|VoiceActor =Alejandra Gollas |AttackSpeed=4500|AttackWidth=|SuperSuperCharge=3.5%<br>4.75% (with Hypercharge)|SuperMinion=Clone|SuperMinionRange=9|Gadget1Cooldown=11 seconds|Gadget1Name=Freeze Frame|Gadget2Cooldown=17 seconds|Gadget2Name = Stunt Double|Gadget2 = 1280|Gadget2Label = Heal|StarPower2Name=Sealed With a Kiss|StarPower2=202|StarPower2Label=Heal per projectile|Hypercharge|HyperchargeMultiplier=35%|Previous=Ash|Next=Grom|AttackHyperchargeCharge=2.45%|SuperHyperchargeCharge=1.225%<br>1.65% (with Hypercharge)|Gadget1Duration=4 seconds|Gadget2Range=12}}
+{{Quote|Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!}}
+{{Portrait}}
+Lola is an {{Rarity|Epic}} [[Brawler]] who could be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 9: Brawlywood. She has moderate health and a high damage output, but a moderately slow reload speed. She was the 52nd Brawler added to the game. For her attack, Lola fires six jewels from her fox scarf at a long range. Her Super summons her Ego, a clone that moves whenever Lola moves and attacks. Lola's first Gadget, Freeze Frame, will momentarily immobilize her clone in exchange for a significant damage reduction shield. Her second Gadget, Stunt Double, instantly makes her switch locations with her Ego while both slightly heal. Her first Star Power, Improvise, increases Lola's attack damage if she has only one ammo. Her second Star Power, Sealed With a Kiss, allows her Ego's attack to heal herself and allies. Her Hypercharge, Inflated Ego, increases the health and damage of her next Super.
+
+==Attack: Diamond Eyes==
+{{Quote|Lola's favorite accessory is also her favorite weapon! It shoots from the eyes in short bursts and with plenty of panache.}}Lola fires 6 jewels from her fox scarf at a long range with a slight spread. Her attack deals a high amount of damage if all of its projectiles hit, but Lola has a slow cooldown, and it takes 0.85 seconds to complete.
+
+==Super: Megalomaniac==
+{{Quote|Lola releases her Ego that mimics her every move. If it's too close to Lola though, it will deal less damage.}}
+Lola's Super summons her Ego, which both moves and attacks in the same direction as Lola at the same time, with an identical attack range and movement speed as Lola. Its damage per hit is equal to Lola's, but it charges Lola's Super half as quickly. The Ego has its own ammo and reload, which is affected by the [[Gears|Reload Gear]]. A 3-tile radius glows around Lola while her Ego is on the battlefield; if her Ego enters the radius, it shrinks in size visually and deals 35% less damage. Since it is a spawnable, Lola's Ego cannot pick up items such as the Gems in [[Gem Grab]] or give its team points in [[Hot Zone]]. If Lola runs into a wall but the movement joystick is still aimed, the Ego will continue to move in that direction, and vice versa. Her Ego has a slightly larger hitbox than Lola herself. 
+
+==Gadgets==
+===Freeze Frame===
+{{Quote|Lola's Ego stops moving to strike a pose! Gaining a 50% shield for 4 seconds. Cooldown: 11 seconds.}}{{Gadget|1}}When Lola uses this Gadget, her Ego will become immobile for 4 seconds, but it will receive a shield that reduces all damage it takes by 50% for the same duration. The Ego can still attack. Lola must be within 12 tiles of her Ego to activate this Gadget. This Gadget's cooldown starts after the duration ends.
+
+===Stunt Double===
+{{Quote|Lola and her Ego switch locations and recover 1600 health. Cooldown: 17 seconds.}}{{Gadget|2}}When Lola uses this Gadget, she instantly teleports to her Ego's location, and her Ego teleports to her location, while they both heal 20% of her maximum health. Lola must be within 12 tiles of her Ego to activate this Gadget, and she retains any status effects while teleporting.
+
+==Star Powers==
+===Improvise===
+{{Quote|When down to her last round, Lola deals an extra 30% damage.}}{{StarPower|1}}
+Whenever Lola has only one full ammo, each projectile from her next attack will deal 30% more damage. Using this Star Power also makes her last ammo yellow.
+
+===Sealed With a Kiss ===
+{{Quote|Projectiles from Lola's Ego heal allies that are caught in its path by 224 health.}}{{StarPower|2}}
+The projectiles of Lola's Ego can heal herself and allies for 40% of its damage, which at max level is 224 health per projectile. The projectiles pierce through allies and can still damage enemies.
+
+==Hypercharge: Inflated Ego==
+{{Quote|Spawns a mega inflated Ego with increased damage and health.}}{{Hypercharge}}When activated, any Ego deployed during the Hypercharge has its health increased to 5200 and its damage increased to 660 per projectile. Its Super recharge rate is also increased. Lola's Sealed With a Kiss Star Power heals 304 health per projectile with Lola's Hypercharged Ego. The Hypercharge does not affect existing Egos. Lola also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Lola spawns an additional Ego when using Megalomaniac, and she has an increased Super Charge.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>Lola's Super charged faster, and she spawned another clone 3 tiles below the original clone. However, this could be offset by a wall.
+
+==Wasabi Power==
+{{Quote|Summons another Ego with her Super. Or is it her Id?}}<div style="float: right;">[[File:Extra Hot Wasabi.png|64px|link=]]</div>
+Lola spawned an another clone 3 tiles below the original clone. However, this could be offset by a wall, although her Hypercharge affected both.
+
+==Tips==
+
+=== Game Modes and Maps ===
+
+* Lola can control multiple lanes with her Ego if played correctly. This is best used in [[Hot Zone]], where her Ego provides a distraction for the enemy team.
+* In Siege, Lola can use her Super and her Freeze Frame Gadget to temporarily delay the Siege Robot from attacking your team's IKE turret. Similarly, in [[Heist]], Lola can place her Ego near the safe and activate Freeze Frame while standing behind it so you can deal damage while the Ego is shielded and can block enemy fire more effectively.
+* In many [[Knockout]] and [[Bounty]] maps, Lola can use her Super and Stunt Double Gadget to teleport to and from the enemy "base".
+
+=== Recommended Build ===
+
+* Lola's Ego with her Freeze Frame Gadget can be used to attack enemies behind walls, especially throwers like [[Tick]], [[Barley]], [[Dynamike]], or [[Sprout]].
+
+* Lola's Freeze Frame Gadget can be used to reposition yourself to your desired location in relation to your Ego. For example, if you throw your Super and want to be on top of it, you can activate Freeze Frame to position yourself right on top of your Ego.
+** Lola can also reposition her Ego by moving such that her Ego runs into a wall. This way she can get closer to her Ego or position it to a desired position. A corner is very suitable in this situation. Stacking Lola's Ego on top of her allows for higher damage potential and consistency.
+* Lola's Stunt Double Gadget can be used as if Lola had double the health - the enemy could fight the clone and then have to fight the real Lola as well, leading to a guaranteed kill.
+* Improvise is the most used Lola Star Power, as Sealed With a Kiss is too complex and inefficient at healing. Given Lola's DPS nature, Improvise is helpful when spamming damage against targets.
+
+=== Other ===
+*How far away to place your Ego depends on the situation you are in. Placing it close to her can allow them to do a large amount of damage to a single target and eliminate them faster. Alternatively, Lola can place it away from her to control a large area with her damage. This also removes the damage penalty of her Ego, causing it to pose more of a threat.
+**Although it will die much quicker, Lola can also throw her Ego in front of her and use it as a shield, blocking non piercing attacks, especially with the help of her Freeze Frame Gadget. This can be combined with the Health [[Gears|Gear]] to recover a good portion of health behind your Ego. This strategy is obviously not recommended against bouncing or piercing attacks, like [[Nita]], [[Belle]], [[Carl]], [[Tara]], [[Mr. P]], [[Penny]], or [[Jessie]].
+**If throwing it away from her, walk away from your Super as it is spawning to maximize the distance. When trying to control a Lola clone, envision as if you are the clone to help aim better.
+*When using the Stunt Double gadget, use it horizontally, allowing your clone to be able to continue fighting without having to adjust using a wall.
+*It may be more advantageous to keep Lola without any ammo when she doesn't need to heal when she has her Improvise Star Power, thus maximizing her burst damage.
+*Lola's Ego can be used to have yourself attack enemies without the risk of being defeated yourself, such as throwing it next to the middle when starting off a [[Brawl Ball]] round, where more often than not, players frequently rush the middle.
+*Lola's Ego has its own ammo supply that always reloads at Lola's base speed. Status effects that change reload speed such as playing with the Quickfire Modifier do not affect her Ego.
+
+==Voice Lines==
+{{TranslationToggle|Spanish}}
+{| class="article-table"
+!Spawning
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated 
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = lola start vo 01.ogg|Filedescription = {{Translate|"Look at the eyes, chico! They never lie."|"Look at the eyes, boy! They never lie."}}}}
+|{{Ogg|Filename = lola lead vo 01.ogg|Filedescription ="Oh honey, don't you wish you were me?"}}
+|{{Ogg|Filename = lola hurt vo 01.ogg|Filedescription ="Oh, so I'm a joke to you?"}}
+|{{Ogg|Filename = lola kill vo 01.ogg|Filedescription ="Oops, sometimes a lady has to be the bad guy!"}}
+|{{Ogg|Filename = lola die vo 01.ogg|Filedescription ="But I'm the star!"}}
+|
+|{{Ogg|Filename = lola ulti vo 01.ogg|Filedescription ="Say hello to my little friend!"}}
+|-
+|{{Ogg|Filename = lola start vo 02.ogg|Filedescription ="Ready to shine!"}}
+|{{Ogg|Filename = lola lead vo 02.ogg|Filedescription ="Ready for my close-up!"}}
+|{{Ogg|Filename = lola hurt vo 02.ogg|Filedescription ="How rude!"}}
+|{{Ogg|Filename = lola kill vo 02.ogg|Filedescription ="Exit stage right."}}
+|{{Ogg|Filename = lola die vo 02.ogg|Filedescription ="I will be back in the limelight."}}
+|
+|{{Ogg|Filename = lola ulti vo 02.ogg|Filedescription ="Glitz and glamour!" }}
+|-
+|{{Ogg|Filename = lola start vo 03.ogg|Filedescription = {{Translate|"Hola, darlings!"|"Hello, darlings!"}}}}
+|{{Ogg|Filename = lola lead vo 03.ogg|Filedescription ="Who wants an autograph?"}}
+|{{Ogg|Filename = lola hurt vo 03.ogg|Filedescription ="Don't you know who I am?"}}
+|{{Ogg|Filename = lola kill vo 03.ogg|Filedescription ="No one outshines the diva!"}}
+|{{Ogg|Filename = lola die vo 03.ogg|Filedescription ="You haven't seen the last of me!"}}
+|
+|{{Ogg|Filename = lola ulti vo 03.ogg|Filedescription ="Double trouble!"}}
+|-
+|{{Ogg|Filename = lola start vo 04.ogg|Filedescription ="Roll out the red carpet."}}
+|{{Ogg|Filename = lola lead vo 04.ogg|Filedescription ="I'm an icon, a legend, and the moment."}}
+|{{Ogg|Filename = lola hurt vo 04.ogg|Filedescription ="Excuse me!"}}
+|{{Ogg|Filename = lola kill vo 04.ogg|Filedescription ="Oh, poor baby..."}}
+|{{Ogg|Filename = lola die vo 04.ogg|Filedescription ="The show needs me!"}}
+|
+|{{Ogg|Filename = lola ulti vo 04.ogg|Filedescription ="Time to steal the show!"}}
+|-
+|
+|
+|{{Ogg|Filename = lola hurt vo 05.ogg|Filedescription ="How dare you!"}}
+|{{Ogg|Filename = lola kill vo 05.ogg|Filedescription =Lola laughs}}
+|{{Ogg|Filename = lola die vo 05.ogg|Filedescription =Lola yells}}
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = lola kill vo 06.ogg|Filedescription =Lola cackles}}
+|{{Ogg|Filename = lola die vo 06.ogg|Filedescription =Lola cries}}
+|
+|
+|-
+|
+|
+|
+|{{Ogg|Filename = lola kill vo 07.ogg|Filedescription =Lola cackles}}
+|
+|
+|
+|}
+
+==History== 
+*28/10/21:
+**{{Balance|Content=Lola became available to play in the Training Cave.|Change=Neutral}}
+*08/11/21:
+**{{Balance|Content=Lola and Rebel Lola were added to the game.|Change=Neutral}}
+*17/11/21:
+**{{Balance|Content=Lola's health was decreased to 3800 (from 4000).|Change=Nerf}}
+**{{Balance|Content=Lola's main attack damage was decreased to 260 (from 280) per projectile.|Change=Nerf}}
+**{{Balance|Content=Lola's Ego's Super recharge rate was decreased by 7%.|Change=Nerf}}
+**{{Balance|Content=Lola's facial animations were reworked.|Change=Neutral}}
+*01/12/21:
+**{{Balance|Content=Lola's Sealed With a Kiss Star Power was added.|Change=Neutral}}
+*16/12/21: 
+**{{Balance|Content=Lola's Super Ego now deals 50% less damage if it is less than 3 tiles away from Lola.|Change=Nerf}}
+*01/03/22:
+**{{Balance|Content=Lola's Stunt Double Gadget was added.|Change=Neutral}}
+*27/04/22:
+**{{Balance|Content=Lola and Rebel Lola's facial animations were reworked.|Change=Neutral}}
+**{{Balance|Content=Lola's True Silver and True Gold skins were added.|Change=Neutral}}
+*08/06/22:
+**{{Balance|Content=The Galaxy Storm Lola skin was added. It was featured as a Worst Bunch skin.|Change=Neutral}}
+*29/06/22:
+**{{Balance|Content=Lola, Rebel Lola, and Galaxy Storm Lola's main attack visual effects were slightly reworked.|Change=Neutral}}
+*31/08/22:
+**{{Balance|Content=Lola's Stunt Double Gadget healing was increased to 1000 (from 350).|Change=Buff}}
+**{{Balance|Content=Lola's Freeze Frame Gadget damage reduction was decreased to 50% (from 75%).|Change=Nerf}}
+*05/09/22:
+**{{Balance|Content=The Lawless Lola skin was added. It was featured as a Power League skin for Brawl Pass Season 14.|Change=Neutral}}
+*12/12/22: 
+**{{Balance|Content=Lola's main attack and Super visual effects were reworked.|Change=Neutral}}
+*14/04/23:
+**{{Balance|Content=The Kitsune Lola skin was added. It was featured as a The Ayakashi Clan skin.|Change=Neutral}}
+*25/04/23:
+**{{Balance|Content=Lawless Lola now costs 149 [[Gems]] (from 25000 [[Star Points]]).|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Lola's Sealed With a Kiss Star Power healing was increased to 150 (from 100) per projectile.|Change=Buff}}
+*05/09/23:
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Lola's Stunt Double Gadget healing was increased to 1216 (from 1000) and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Lola's Sealed With a Kiss Star Power healing was increased to 187 (from 150) per projectile and now scales with Power Levels.|Change=Buff}}
+**{{Balance|Content=Lola's flavor text was changed from "Part guide and part actress and full diva, Lola is THE leading lady of Brawlywood. She attacks with her scarf and her super is a channeled manifestation of her Ego." to "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!"|Change=Neutral}}
+*06/11/23:
+**{{Balance|Content=The Cobra Lola skin was added. It was featured as a Power League skin for Brawl Pass Season 21 and a Bizarre Circus skin.|Change=Neutral}}
+*27/11/23:
+**{{Balance|Content=The Lavish Lola skin was added. It was featured as a Retropolis Nights skin.|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Lola's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Lola's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Lola's Mutation was removed from the game.|Change=Neutral}}
+*27/08/24:
+**{{Balance|Content=Lola's main attack damage was increased to 280 (from 260) per projectile.|Change=Buff}}
+**{{Balance|Content=Lola's Ego's Super recharge rate was increased by 8%.|Change=Buff}}
+**{{Balance|Content=Lola's Sealed With a Kiss Star Power healing was increased to 201 (from 187) per projectile.|Change=Buff}}
+*12/12/24:
+**{{Balance|Content=The High Flyer Lola skin was added. It was featured as a City Troubles skin.|Change=Neutral}}
+**{{Balance|Content=The Loopy Lola skin was added. It was featured as a Come Play With Us! skin.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+*24/03/25:
+**{{Balance|Content=Lola's Inflated Ego Hypercharge was added.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Lola's Inflated Ego Hypercharge multiplier was increased to 35% (from 25%).|Change=Buff}}
+**{{Balance|Content=Fixed a bug where Lola's Hypercharge could be extended.|Change=Neutral}}
+*01/05/25:
+**{{Balance|Content=Lola's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Lola's Wasabi Power was removed from the game.|Change=Neutral}}
+*30/06/25:
+**{{Balance|Content=Lola's level up damage was decreased to 4% (from 6%) in [[Brawl Arena]].|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Lola's Ego's damage reduction visual effects were reworked.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 20% speed boost, decreasing Lola's Inflated Ego Hypercharge speed boost from 24%.}}
+**{{Balance|Change=nerf|Content=All Hypercharges now give a 5% damage boost, decreasing Lola's Hypercharge damage boost from 25%.}}
+**{{Balance|Content=Fixed an issue with the Reload [[Gear]] not working on Lola's Super.|Change=Neutral}}
+*16/12/25:
+**{{Balance|Content=Lola's health was increased to 4000 (from 3800).|Change=Buff}}
+**{{Balance|Content=Lola's Stunt Double Gadget healing was increased to 1280 (from 1216).|Change=Buff}}
+**{{Balance|Content=Lola's Sealed with a Kiss Star Power healing was increased to 202 (from 201) per projectile.|Change=Buff}}
+*25/02/26:
+**{{Balance|Buff|Lola's Ego health was increased to 2200 (from 2000).}}
+**{{Balance|Buff|Lola's Inflated Ego Hypercharge no longer has an increased hitbox size compared to the normal Ego.}}
+**{{Balance|Buff|Lola's Inflated Ego Hypercharge Ego health was increased to 5200 (from 5000).}}
+*22/04/26: 
+**{{Balance|Content=Lola's Super Ego damage falloff was decreased to 35% (from 50%).|Change=Buff}}
+**{{Balance|Content=Lola's level up damage was increased to 5% (from 4%) in Brawl Arena.|Change=Buff}}
+**{{Balance|Content=Lola's level up reload speed was increased to 2% (from 1.5%) in Brawl Arena.|Change=Buff}}
+*30/06/26:
+**{{Balance|Content=Lola's level up damage was decreased to 4% (from 5%) in Brawl Arena.|Change=Nerf}}
+**{{Balance|Content=Fixed Lola’s base damage incorrectly being 150%.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Lola’s Ego's damage scaling incorrectly.|Change=Neutral}}
+*01/09/26: 
+**{{Balance|Content=Lola's Super Ego now has the same movement speed as her.|Change=Buff}}
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Lola's movement speed to 750 (from 720).}}
+*25/09/26:
+**{{Balance|Content=The Moonlight Lola skin was added. It was featured as a Lunar Stories skin.|Change=Neutral}}
+*03/11/26:
+**{{Balance|Neutral|Fixed a bug where Lola's Ego sometimes stopped moving forward when Lola walked into a wall.}}
+
+==Cosmetics==
+===Skins (11)===
+{{Skin Gallery
+|Name1=High Flyer|Cost1=Free from Boom Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=City Troubles|Rarity1=Rare
+|Name2=Galaxy Storm|Cost2=79 Gems|Campaign2=The Worst Bunch|Rarity2=Super Rare
+|Name3=Lawless|Cost3=Free from Ranked Drops, Gigi Boxes, Vince Boxes or 149 Gems|Campaign3=Ranked|Campaign3_2=The Calamity Gang|Rarity3=Epic
+|Name4=Kitsune|Cost4=Free from Nori Boxes or 149 Gems|Campaign4=The Ayakashi Clan|Rarity4=Epic
+|Name5=Cobra|Cost5=Free from Ranked Drops, Gigi Boxes, Vince Boxes or 149 Gems|Campaign5=Ranked|Campaign5_2=Bizarre Circus|Rarity5=Epic
+|Name6=Lavish|Cost6=Free from Mina Boxes or 149 Gems • '''S'''|Campaign6=Retropolis Nights|Rarity6=Epic
+|Name7=Loopy|Cost7=Free from Presents, free from Nova Drops or 149 Gems|Campaign7=Come Play With Us!|Rarity7=Epic
+|Name8=Moonlight|Cost8=149 Gems|Campaign8=Lunar Stories|Rarity8=Epic
+|TrueSkins = yes
+|NameP1=Rebel|CostP1=Brawl Pass Exclusive • '''E'''|CampaignP1=Brawl Pass|CampaignP1_2=City Troubles|RarityP1=Epic}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+!colspan="12" |Lola
+|-
+!Skin
+!colspan="11" |Pins
+|-
+{{Pin Table}}
+{{Pin Table|Rebel}}
+{{Pin Table|Galaxy Storm}}
+{{Pin Table|Lawless}}
+{{Pin Table|Kitsune}}
+{{Pin Table|Cobra|Special}}
+{{Pin Table|Lavish|Thanks}}
+{{Pin Table|Loopy}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Lola|Rarity = Common}}
+|{{Spray|Type = Lola Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Kitsune Lola|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Lola1}}
+|{{Pfp|Lola2}}
+|{{Pfp|Lola3}}
+|{{Pfp|Kitsune Lola}}
+|{{Pfp|Lavish Lola}}
+|-
+|{{Pfp|Lawless Lola}}
+|{{Pfp|Cobra Lola}}
+|{{Pfp|Rebel Lola}}
+|{{Pfp|Loopy Lola}}
+|}
+{{Navigation}}
+[[nl:Lola]]
+[[ru:Лола]]

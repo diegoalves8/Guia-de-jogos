@@ -1,0 +1,122 @@
+{{CombosTab}}
+{{About|the {{Common}} sword|the {{Mythical}} sword|Cursed Dual Katana}}
+{{Weapon Infobox
+|name      = Dual Katana
+|image     = <gallery>
+DualKatana.png|Icon
+DualKatanaIG.png|In-Game
+DualKatanaIGHeld.png|Held
+Dual Katana (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Common
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Pirate Village
+|obtain    = Bought
+|source    = [[Sword Dealer of the West]]
+|price     = {{Money|12,000}}
+}}
+{{Quote|It's two katanas. Requires a bit more skill to not hit yourself.|Item}}
+The '''Dual Katana''' is a {{Common}} [[sword]].
+
+Creates a better stunning slash, and can cause a whirlwind
+
+==Obtainment==
+The Dual Katana can be purchased for {{Money|12,000}} from the [[Sword Dealer of the West]].
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Dual Katana M1
+|desc     = The user performs 4 slashes, the first 3 having both swords coming from the same direction and the fourth being an X-slash.
+}}
+
+{{Skill
+|key      = Z
+|name     = Whirlwind
+|mastery  = 1
+|cooldown = 7
+|energy   = 15
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = DkZ
+|desc     = The user sends out a medium-range, spherical slicing attack formed by arcs which carry and knock back its targets.
+}}
+
+{{Skill
+|key      = X
+|name     = Tornado
+|mastery  = 30
+|cooldown = 13
+|energy   = 25
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = DkX
+|desc     = The user unleashes a violently rotating whirlwind attack that damages and flings away all enemies within its radius.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good option for beginners.
+* Low cooldowns, price, and mastery requirements.
+* Good for training [[Aura]] because of the low damage.
+* Both moves have [[AoE]].
+
+|'''[Z] Whirlwind'''
+* Decently large hitbox.
+* Decent stun.
+* Low knockback, making it a reliable source of damage whilst grinding.
+
+|'''[X] Tornado'''
+* Decent [[AoE]].
+* Good [[combo]] potential.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Does not [[Instinct Break|break Instinct]].
+* Low damage.
+* The cooldowns are very long for such a weak weapon, making it very ineffective, especially at such a low point in the game.
+* For its stage in the game, the Dual Katana's upgrade cost is exorbitant due to the requirement of [[Angel Wings]], a [[Materials|Material]] that can only be dropped by enemies in [[Upper Skylands]], which are [[level]] 450+.
+
+|'''[Z] Whirlwind'''
+* Low range.
+* Hard to hit in the air.
+
+|'''[X] Tornado'''
+* Limited range, making it less effective for engaging distant enemies.
+* Holds the player in place.
+}}
+</tabber>
+
+==Notes==
+* The Dual Katana is often preferred over the [[Iron Mace]] because of its wider [[Area of Effect]] and lack of knockback on its M1s, making it more effective for grinding against multiple [[enemies]].
+
+==Trivia==
+* The Dual Katana has a higher price than two separate [[Katana]]s, despite the fact that it is comprised of only two of them.
+
+==Change History==
+{{Change History|1|content=
+{{Update|20}}
+* Dual Katana's moves were reworked.
+----
+{{Update|1}}
+* Dual Katana was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

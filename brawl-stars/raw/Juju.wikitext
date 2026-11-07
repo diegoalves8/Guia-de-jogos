@@ -1,0 +1,255 @@
+{{Protection}}{{MagicWords}}
+{{Brawler Infobox|Title = Hexed|PrestigeTitle = Devil in Disguise|Rarity = Mythic|Class = Artillery|MovementSpeed = 750 (Normal)<br>1050 (on water; with Elementalist)|HealthLabel = Health|Health = 3500|AttackRange = 6.33 (Normal)<br>9 (in bushes; Long)<br>9 (with Voodoo Chile; Long)|Reload = 1.6 seconds (Normal)<br>2 seconds (while Voodoo Chile is active)|AttackSuperCharge =15%<br>18.75% (on the ground)<br>18.75% (with Voodoo Chile) |AttackLabel = Damage|Attack = 800|AttackLabel2 = Damage on the ground|Attack2 = 1000|AttackSpeed = 1750|SuperSpeed = 1196<br>2500 (Gris-Gris)|SuperRange = 5 (Normal)|SuperSuperCharge =6% |SuperLabel=Health|Super=4000|SuperLabel2=Damage|Super2=800|SuperMinion=Gris-Gris|SuperMinionRange=6.67|SuperMovementSpeed=610 (Slow)<br>763(with Hypercharge)|Gadget1Name=Voodoo Chile|Gadget1Cooldown=14 seconds|Gadget2Name=Elementalist|Gadget2Cooldown=17 seconds|StarPower1Name=Guarded Gris-Gris|StarPower1Label=Health|StarPower1=2160|VoiceActor=Nneka Okoye|Previous=Moe|Next=Ollie|SuperReload=0.9 seconds|SuperWidth=1.67 (Gris-Gris)<br>0.67 (Gris-Gris; with Numbing Needles)<br>2.17 (Gris-Gris; with Hypercharge)|AttackHyperchargeCharge=6%<br>7.5% (on the ground)<br>7.5% (with Voodoo Chile)|SuperHyperchargeCharge=2.4%|HyperchargeMultiplier=40%|Gadget2Duration=3 seconds}}
+{{Quote|Juju owns the [[Oddities Shop]] and is followed everywhere by her "pet" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.}}{{Portrait}}
+Juju is a {{Rarity|Mythic}} [[Brawler]] who has moderate health and a variable attack range and damage output. She was the 85th Brawler added to the game. Juju's Trait allows her to move over water. She attacks by lobbing a voodoo toy that explodes onto the ground in a small radius, which gets a different buff based on the environment she is standing on that can either increase more damage on the ground; has more range in bushes; or slow enemies down when over water. For her Super, she throws a head doll spawns her voodoo doll Gris-Gris who has moderate health and attacks by firing needles at the enemies. Her first Gadget, Voodoo Chile, makes her next attack combine the buffs of all environments. Her second Gadget, Elementalist, gives Juju a temporary buff on the environment she is standing on that can either give her a damage-reduction shield on the ground, make her invisible to enemies in bushes, or increase her movement speed over water. Her first Star Power, Guarded Gris-Gris, provides Juju's next Super a shield that absorbs damage and decays over time. Her second Star Power, Numbing Needles, makes her Super's attacks slow enemies upon impact. Her Hypercharge, Bokor, increases her next Super's health, movement speed, and damage, while increasing the size of his needles. Juju also appears in the [[Oddities Shop]], giving comments when entering it.
+
+==Trait==
+{{Quote|This Brawler can move over water.}}{{Trait|Water}}
+Juju's Trait allows her to be able to move on water.
+
+==Attack: Elemental Energy==
+{{Quote|Juju throws projectiles empowered by the environment she is standing on, giving them different properties!<br>Ground: More damage<br>Grass: More range<br>Water: Has a slowing effect}}Juju lobs a voodoo toy that explodes in a 2-tile radius. Juju's attack will land on the ground sooner the closer she throws it to herself. Her attack gets a different buff based on the environment she is standing on, increasing her attack damage by 25% on the ground, increasing her attack range in bushes by 2.67 tiles, or slowing damaged enemies by 300 points for 3 seconds when over water. Juju's attack cooldown is reduced to zero when she changes the environment she is standing on.
+
+==Super: From the Other Side==
+{{Quote|Juju summons Gris-Gris. This spooky voodoo doll drags itself to the nearest enemy and throws needles at them.}}Juju throws a doll head that spawns her voodoo doll Gris-Gris, which has higher health than her, who chases down and attacks enemies. Gris-Gris walks towards the nearest target, and when it gets within the range of the target, it stops and shoots it with medium-ranged needles. Unlike other spawnables, Gris-Gris can both be spawned on and move over water. If there are no enemies available to be attacked, Gris-Gris will follow Juju. 
+
+==Gadgets==
+===Voodoo Chile===
+{{Quote|Juju's next attack has the power of all three elements. Cooldown: 14 seconds.}}{{Gadget|1}}
+Activating this Gadget allows Juju's next attack to combine the buffs from all environments. The attack cooldown is reduced to zero for the next attack, but reloading ammo is slower while this Gadget is active. A Gadget symbol will glow above Juju's head signaling this Gadget's activation, as well as a glowing attack joystick. This Gadget's cooldown begins after the attack is used.
+
+===Elementalist===
+{{Quote|Juju gains a temporary buff based on the current environment she is standing on!<br>Ground: Damage reduction<br>Grass: Invisibility<br>Water: Increased movement speed<br>Cooldown: 17 seconds.}}{{Gadget|2}}
+[[File:Visibility Warning.png|left|40x40px]]
+Juju gains a buff for 3 seconds based on the current environment she is standing on: on the ground, she gains a shield that reduces all damage she takes by 30%; in bushes, she turns herself invisible, allowing her to either retreat or ambush an enemy; when over water, her movement speed is increased by 40%. Unlike most other invisibility abilities, Juju will not lose her invisibility if she attacks or is damaged. Enemy Brawlers can see her if she is within 4 tiles of them, and a symbol is displayed left of your health bar if they detect you.  
+
+==Star Powers==
+===Guarded Gris-Gris===
+{{Quote|Gris-Gris is summoned with a protective shield.}}{{StarPower|1}}[[File:Hardcore Icon.png|left|40x40px|link=]]
+When spawned, Gris-Gris instantly gains a shield that starts with 30% of his maximum health. The shield decays for 5% of its maximum health every 0.5 seconds, so the damage it can block decreases over time. If an attack deals more damage than the shield's current health, the shield disappears and Gris-Gris is damaged by the remaining damage. 
+
+===Numbing Needles===
+{{Quote|Gris-Gris' attack now also slows the enemy for 1 sec.}}{{StarPower|2}}
+Enemies hit by Gris-Gris' attacks will be slowed down by 350 points for 1 second. However, this Star Power also reduces the width of Gris-Gris's attacks from 1.67 tiles to 0.67 tiles.
+
+==Hypercharge: Bokor==
+{{Quote|Juju summons a Hypercharged Gris-Gris giving him bigger needles, 25% more speed, 20% more health, and 20% more damage.}}{{Hypercharge}}
+When activated, Juju spawns a Gris-Gris that has a 25% faster movement speed, 20% more health, deals 20% more damage, and fires needles that are larger. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+==Wasabi Power==
+{{RemovedContent|section}}
+{{Quote|Gris-Gris is bigger and has more health! Creepy.}}<div style="float: right;">[[File:Inferno Wasabi.png|64px|link=]]</div>Gris-Gris appeared bigger and had 5000 more health.
+
+==Tips==
+*When you have her Super charged, you can use Gris-Gris as a tank and get closer to her enemies to deal high burst damage. This is more efficient when paired with her Numbing Needles Star Power to increase the accuracy of your hits.
+*When enemies approach you, because her attacks on the ground are the highest among the three types of elements, it is best to leave bushes to deal higher damage, or escape onto water while slowing the enemy down.
+**On the contrary, when enemies are escaping from you, it is highly advisable that you hide in bushes to increase your range and try dealing as much damage as possible.
+*Since Gris-Gris attacks with medium frequency and low accuracy, deploying it near enemies gives a higher threat to your enemies than letting it chase your enemies from far away.
+
+==Voice Lines==
+{| class="article-table"
+!Spawning
+!In The Lead
+!Receiving Damage
+!Defeating An Enemy 
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|{{Ogg|Filename = juju start vo 01.ogg|Filedescription = "Mmm, Juju is gonna get you."}}
+|{{Ogg|Filename = juju lead vo 01.ogg|Filedescription = "Stitching up that W, y'all!"}}
+|{{Ogg|Filename = juju hurt vo 01.ogg|Filedescription = "Well, aren't you special?"}}
+|{{Ogg|Filename = juju kill vo 01.ogg|Filedescription = "Your luck just ran dry, honey."}}
+|{{Ogg|Filename = juju dies vo 01.ogg|Filedescription = "Ain't no grave gonna hold me."}}
+|
+|{{Ogg|Filename = juju ulti vo 01.ogg|Filedescription = "Gris-Gris magic."}}
+|-
+|{{Ogg|Filename = juju start vo 02.ogg|Filedescription = "Oh, you better bring it."}}
+|{{Ogg|Filename = juju lead vo 02.ogg|Filedescription = "I'm built different, y'all, ha. Stay mad."}}
+|{{Ogg|Filename = juju hurt vo 02.ogg|Filedescription = "Negative aura points."}}
+|{{Ogg|Filename = juju kill vo 02.ogg|Filedescription = Juju laughs}}
+|{{Ogg|Filename = juju dies vo 02.ogg|Filedescription = "Bite the bullet, taste the venom."}}
+|
+|{{Ogg|Filename = juju ulti vo 02.ogg|Filedescription = Juju laughs}}
+|-
+|{{Ogg|Filename = juju start vo 03.ogg|Filedescription = "I'll skin you alive."}}
+|{{Ogg|Filename = juju lead vo 03.ogg|Filedescription = "Y'all be lagging. Don't hate, appreciate."}}
+|{{Ogg|Filename = juju hurt vo 03.ogg|Filedescription = "Oh! Get stuffed."}}
+|{{Ogg|Filename = juju kill vo 03.ogg|Filedescription = "A stitch in time saves nine, girl."}}
+|{{Ogg|Filename = juju dies vo 03.ogg|Filedescription = "No more voodoo for Juju."}}
+|
+|{{Ogg|Filename = juju ulti vo 03.ogg|Filedescription = "My voodoo is gonna get you."}}
+|-
+|{{Ogg|Filename = juju start vo 04.ogg|Filedescription = "Heads up, you're next."}}
+|{{Ogg|Filename = juju lead vo 04.ogg|Filedescription = "Vibe check, straight fire."}}
+|{{Ogg|Filename = juju hurt vo 04.ogg|Filedescription = "Ow! Oh, you are dying to be displayed."}}
+|{{Ogg|Filename = juju kill vo 04.ogg|Filedescription = "Hotter than hell, and twice as mean."}}
+|{{Ogg|Filename = juju dies vo 04.ogg|Filedescription = "Back to my babies I go."}}
+|
+|{{Ogg|Filename = juju ulti vo 04.ogg|Filedescription = "Oh, Gregory!"}}
+|-
+|{{Ogg|Filename = juju start vo 05.ogg|Filedescription = "My magic is thicker than Gumbo."}}
+|{{Ogg|Filename = juju lead vo 05.ogg|Filedescription = "I'm pulling the strings here."}}
+|{{Ogg|Filename = juju hurt vo 05.ogg|Filedescription = "Ooh, oh-oh-oh. That's gonna need some extra stitches."}}
+|{{Ogg|Filename = juju kill vo 05.ogg|Filedescription = "Let's add you to my collection."}}
+|{{Ogg|Filename = juju dies vo 05.ogg|Filedescription = "Mmmm, back to my babies I go-go."}}
+|
+|{{Ogg|Filename = juju ulti vo 05.ogg|Filedescription = "My needle is on point, hoo!"}}
+|-
+|{{Ogg|Filename = juju start vo 06.ogg|Filedescription = "Step up or step out."}}
+|{{Ogg|Filename = juju lead vo 06.ogg|Filedescription = "Very demure, very mindful."}}
+|{{Ogg|Filename = juju hurt vo 06.ogg|Filedescription = "Oh, it's on, you made my dolls cry."}}
+|{{Ogg|Filename = juju kill vo 06.ogg|Filedescription = "You're my new forever friend."}}
+|{{Ogg|Filename = juju dies vo 06.ogg|Filedescription = Juju screams}}
+|
+|{{Ogg|Filename = juju ulti vo 06.ogg|Filedescription = "Dollmaker, soul taker."}}
+|-
+|{{Ogg|Filename = juju start vo 07.ogg|Filedescription = "Mmm, this hot mess is gonna melt your soul, child."}}
+|{{Ogg|Filename = juju lead vo 07.ogg|Filedescription = "Voodoo queen rules the scene, y'all."}}
+|{{Ogg|Filename = juju hurt vo 07.ogg|Filedescription = "Bless my bayonets."}}
+|{{Ogg|Filename = juju kill vo 07.ogg|Filedescription = "Womp womp!"}}
+|{{Ogg|Filename = juju dies vo 07.ogg|Filedescription = "Curse y'all!"}}
+|
+|
+|-
+|{{Ogg|Filename = juju start vo 08.ogg|Filedescription = "Freaky fierce and ready to pierce!"}}
+|{{Ogg|Filename = juju lead vo 08.ogg|Filedescription = Juju laughs}}
+|{{Ogg|Filename = juju hurt vo 08.ogg|Filedescription = "Ooh, shoot, I felt that voodoo."}}
+|{{Ogg|Filename = juju kill vo 08.ogg|Filedescription = "I'll preserve you."}}
+|{{Ogg|Filename = juju dies vo 08.ogg|Filedescription = "Aaah, pins and potions!"}}
+|
+|
+|-
+|{{Ogg|Filename = juju start vo 09.ogg|Filedescription = "Y'all about to get stitched up."}}
+|
+|{{Ogg|Filename = juju hurt vo 09.ogg|Filedescription = "Bad voodoo, angry Juju."}}
+|{{Ogg|Filename = juju kill vo 09.ogg|Filedescription = "Dolly says: 'Lights out.'"}}
+|
+|
+|
+|-
+|{{Ogg|Filename = juju start vo 10.ogg|Filedescription = "Looking for my next plaything."}}
+|
+|{{Ogg|Filename = juju hurt vo 10.ogg|Filedescription = "I said, who put a curse on me?"}}
+|{{Ogg|Filename = juju kill vo 10.ogg|Filedescription = "The spirits don't like you."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = juju start vo 11.ogg|Filedescription = "Bless your heart, I'll curse it."}}
+|
+|{{Ogg|Filename = juju hurt vo 11.ogg|Filedescription = "You hurt my Gris-Gris, you hurt me-me."}}
+|{{Ogg|Filename = juju kill vo 11.ogg|Filedescription = "Ain't no beating Cajun magic."}}
+|
+|
+|
+|-
+|{{Ogg|Filename = juju start vo 12.ogg|Filedescription = "Walk softly, for the dead, listen closely."}}
+|
+|{{Ogg|Filename = juju hurt vo 12.ogg|Filedescription = "Ah, dang it, that hurt my Gris-Gris."}}
+|{{Ogg|Filename = juju kill vo 12.ogg|Filedescription = "Told y'all not to mess."}}
+|
+|
+|
+|-
+|
+|
+|{{Ogg|Filename = juju hurt vo 13.ogg|Filedescription = "Hexes and curses coming your way!"}}
+|{{Ogg|Filename = juju kill vo 13.ogg|Filedescription = "Don't put all your heads in one basket. Ha ha ha."}}
+|
+|
+|
+|}
+
+==History==
+*29/10/24:
+**{{Balance|Content=Juju became available to play in the [[Training Cave]].|Change=Neutral}}
+*30/10/24:
+**{{Balance|Content=Juju could be unlocked early as a bundle for $16.99.|Change=Neutral}}
+**{{Balance|Content=The Unlucky Juju skin was added.|Change=Neutral}}
+*07/11/24:
+**{{Balance|Content=Juju became available in the Starr Road.|Change=Neutral}}
+*25/02/25:
+**{{Balance|Content=The number of hits necessary to charge Juju's Super was increased to 6 hits (from 5) while on the ground.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Juju's Super was increased to 7 hits (from 6) while in bushes or on water.|Change=Nerf}}
+**{{Balance|Content=Juju's Numbing Needles Star Power slow duration was changed to 1 sec in the description (from 1.0).|Change=Neutral}}
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=Juju's True Silver and True Gold skins were added.|Change=Neutral}}
+*04/03/25:
+**{{Balance|Content=Gris-Gris can now be spawned over water.|Change=Buff}}
+*07/03/25:
+**{{Balance|Content=The Queen Juju skin was added. It was featured as a Dark Sands skin.|Change=Neutral}}
+*27/03/25:
+**{{Balance|Content=Juju's Elementalist Gadget damage reduction was decreased to 30% (from 50%) while on the ground.|Change=Nerf}}
+*01/05/25:
+**{{Balance|Content=Juju's Wasabi Power was added for a limited time.|Change=Neutral}}
+*30/05/25:
+**{{Balance|Content=Juju's Wasabi Power was removed from the game.|Change=Neutral}}
+*24/06/25:
+**{{Balance|Content=The number of hits necessary to charge Juju's Super was increased to 7 hits (from 6) while on the ground.|Change=Nerf}}
+**{{Balance|Content=The number of hits necessary to charge Juju's Super was increased to 8 hits (from 7) while in bushes or on water.|Change=Nerf}}
+*03/09/25:
+**{{Balance|Content=Juju's level up health was decreased to 450 (from 550) in [[Brawl Arena]].|Change=Nerf}}
+**{{Balance|Content=Juju's level up reload speed buff was decreased to 1.5% (from 2%) in Brawl Arena.|Change=Nerf}}
+*13/10/25:
+**{{Balance|Content=Juju's Bokor Hypercharge was added.|Change=Neutral}}
+*28/10/25:
+**{{Balance|Content=All Hypercharges now give a 20% speed boost, decreasing Juju's Bokor Hypercharge speed boost from 25%.|Change=Nerf}}
+**{{Balance|Content=All Hypercharges now give a 5% damage boost, decreasing Juju's Bokor Hypercharge damage boost from 25%.|Change=Nerf}}
+*16/12/25:
+**{{Balance|Content=Juju's health was increased to 3100 (from 3000).|Change=Buff}}
+**{{Balance|Content=Juju's Bokor Hypercharge multiplier was decreased to 40% (from 50%).|Change=Nerf}}
+*22/04/26:
+**{{Balance|Content=Juju can no longer attack immediately after changing from the Ground buff.|Change=Nerf}}
+**{{Balance|Content=Juju's attack on water and her Numbing Needles Star Power slow visual effects were reworked.|Change=Neutral}}
+*07/05/26:
+**{{Balance|Neutral|The Starr Patrol Juju skin was added. It was featured as a Starr Patrol skin.}}
+*30/06/26:
+**{{Balance|Change=Buff|Content=Gris-Gris’ health was increased to 4000 (from 3600).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Juju's movement speed to 750 (from 720).}}
+*16/09/26:
+**{{Balance|Buff|Juju's health was increased to 3500 (from 3100).}}
+**{{Balance|Buff|The number of hits necessary to charge Juju's Super was increased to 6 hits (from 7) while on the ground.}}
+**{{Balance|Buff|The number of hits necessary to charge Juju's Super was increased to 7 hits (from 8) while in bushes or on water.}}
+*03/11/26:
+**{{Balance|Neutral|Fixed Juju's Hypercharge card showing the wrong movement speed increase for Gris-Gris.}}
+**{{Balance|Neutral|Juju's Hypercharged Gris-Gris now gets a percentage-based movement speed increase instead of a flat one.}}
+
+==Cosmetics==
+===Skins (5)===
+{{Skin Gallery
+|Name1=Unlucky|Cost1=Free from the early bundle, free from Gigi Boxes, free after reaching 750 Trophies or 29 Gems|Campaign1=Misc|Rarity1=Rare
+|Name2=Queen|Cost2=Free from Najia Boxes, Vince Boxes or 79 Gems|Campaign2=Dark Sands|Rarity2=Super Rare
+|Name3=Starr Patrol|Cost3=Free from Nova Drops or 199 Gems|Campaign3=Starr Patrol|Rarity3=Mythic
+|TrueSkins=Yes}}
+
+===Pins===
+{| class="article-table" style="width: 100%;"
+! colspan="12" |Juju
+|-
+!Skin
+! colspan="11" |Pins
+{{Pin Table}}
+{{Pin Table|Queen}}
+|}
+
+===Sprays===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Spray|Type = Juju|Rarity = Common}}
+|{{Spray|Type = Juju Hypercharge|Rarity = Exclusive}}
+|}
+
+===Profile Icons===
+{| class="article-table" style="width: 100%; text-align: center;" colspan="5"
+|-
+|{{Pfp|Juju1}}
+|{{Pfp|Juju2}}
+|{{Pfp|Juju3}}
+|{{Pfp|Juju4}}
+|}
+
+{{Navigation}}
+[[ru:Джуджу]]
+[[pl:Juju]]

@@ -1,0 +1,87 @@
+{{Unavailable
+|type = location
+|desc = The [[Updates/27.5|Celebration Event]] is over.
+}}
+{{Location Infobox
+|name      = Party Realm
+|image     = Celebration event.png
+|sea       = Any
+|music     = 
+}}
+The '''Party Realm''' was a special event location. It could be accessed through the [[Celebration Teleporter]] and contained unique NPCs, enemies, and raid bosses. Players could also earn and use [[Summer Token]]s, within this location.
+
+Both the [[Celestial Domain]] and the [[Oni Realm]] were also located and can be accessed within the Party Realm, albeit without their respective gachas.
+
+==Accessing==
+{{For|the locations|Celebration Teleporter#Locations}}
+The player could enter the Party Realm by interacting with the [[Celebration Teleporter]].
+
+==Subareas==
+* [[Celestial Domain]]
+* [[Grand Colosseum]]
+* [[Oni Realm]]
+* Arena 1, Arena 2 & Arena Above.
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies
+!Raid Bosses
+|-
+|
+* [[Ancient Monk]]
+* [[Awakenings Expert]]
+* [[Blox Fruit Dealer]]
+* [[Celebration Teleporter]]
+* [[Celestial Fisherman]]
+* [[Dark Step Teacher]]
+* [[Mad Scientist]]
+* [[Martial Arts Master]]
+* [[Mysterious Scientist]]
+* [[Nerd]]
+* [[Oni Fisherman]]
+* [[Party Gacha]]
+* [[Phoeyu, the Reformed]]
+* [[Previous Hero]]
+* [[Red Army Recruiter]]
+* [[Rip Family Recruiter]]
+* [[Sabi]]
+* [[Shafi]]
+* [[Sharkman Teacher]]
+* [[Titles Specialist]]
+* [[tort]]
+* [[Uzoth]]
+* [[Water Kung Fu Teacher]]
+|
+* [[Celestial Soldier]]
+* [[Rip Legionnaire]]
+* [[Rip Infantry]]
+* [[Oni Soldier]]
+* [[Red Legionnaire]]
+* [[Red Infantry]]
+* [[Lightning Bandit]]
+|
+* [[Agony]]
+* [[Ashen]]
+|}
+
+==Events==
+===Raids===
+Every hour one side attacked the other. Players have 10 minutes to end the raid. The player could protect any side, no matter which team they were in. The raiders include [[Rip Infantry|Rip]]/[[Red Infantry|Red]] Infantry and [[Rip Legionnaire|Rip]]/[[Red Legionnaire|Red]] Legionnaire. Infantry attack the Spirit Tree but are relatively easy to kill and have no abilities. Legionnaires are mini bosses that use fruits and attack players. Defeating units will deplete the raid bar at the top of the screen, and when it empties, a message reading "The commander has retreated with his army. The realm is safe, for now." will be displayed. Players will also be awarded Summer Tokens based on how long they took. A perfect clear time is 4:00 or less (SSS class), which awards 1000 [[Summer Token]]s. Every extra minute spent, as well as every bit of tree health lost will lower the class to SS, then S, then A, B, C, D, and decrease the reward by 100 tokens. Getting a score of A or higher (6:00 or less time spent) will reset the [[Party Gacha]]'s cooldown, effectively allowing the user to double how often they roll.
+
+===Bosses===
+[[Ashen]] and [[Agony]]. They take turns spawning in the [[Grand Colosseum]] every 10 minutes.<!-- About enemies/bosses that spawn every once in a while. -->
+
+== Trivia ==
+* There was a glitch that made the [[Celebration Teleporter]]s still in the 3 seas ([[First Sea]], [[Second Sea]], and [[Third Sea]]), and the player can still interact with them, but they didn't teleport the player.
+* Using World Warp (Portal C) or a [[Gate Potion]] would result in the menu having no locations to teleport to.
+
+== Soundtracks ==
+* Grand Colosseum: [[File:Blox Fruits - Grand Colosseum Theme.mp3|center|600px]]
+* Oni Realm: [[File:Zen Theme.mp3|center|600px]]
+* Celestial Domain: [[File:Celestial Domain.mp3|center|600px]]
+* Oni Realm and Celestial Domain (Interior): [[File:RED KING BOSS.mp3|center|600px]]
+* Tormented Boss: [[File:(BOSS BATTLE) Pain Update.mp3|center|600px]]
+
+==Change History==
+{{Change History|27.5}}

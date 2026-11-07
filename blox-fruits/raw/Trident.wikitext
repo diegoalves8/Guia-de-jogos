@@ -1,0 +1,127 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Trident
+|image     = <gallery>
+Trident.png|Icon
+Trident EQ.png|In-Game
+Trident Held.png|Held
+Trident (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Rare
+|update    = 3
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|location  = Underwater City
+|obtain    = Dropped
+|source    = [[Fishman Lord]]
+}}
+{{Quote|A spear with three prongs, with water-related powers left infused.|Item}}
+The '''Trident''' is a {{Rare}} [[sword]].
+
+It allows the user to use water based moves, and is a useful sword for mobility on land and late [[First Sea]] to early [[Second Sea]] grinding. However, it is outclassed by many Second Sea swords, which are generally considered better for all activities. 
+
+==Obtainment==
+The Trident can be obtained after defeating the [[Fishman Lord]]. It has around a 10% chance of dropping.
+
+==Upgrading==
+{{Upgrading}}
+
+==Abilities==
+{{Skill
+|key      = M1
+|name     = Normal Attack
+|gif      = Trident M1
+|desc     = The player does 2 swipes, a stab, then performs a lunge on the fourth.
+}}
+
+{{Skill
+|key      = Z
+|name     = Trident Throw
+|mastery  = 50
+|cooldown = 6
+|energy   = 30
+|break    = No
+|instinct = Cannot break Instinct in any way.
+|gif      = Trident Z (Surface)
+|desc     = The user throws the trident in the direction of their cursor, which is connected to the user's right hand via a black rope. Upon hitting an enemy, the target is damaged and pulled towards the user. Upon hitting terrain, the user is pulled towards the trident. This move can be very deadly if used correctly. It acts similar to [[Spikey Trident]]'s '''[X] Flying Trident Pull''' move but slower.
+|gif1     = Trident Z (Enemy)
+|desc1    = 
+}}
+
+{{Skill
+|key      = X
+|name     = Water Pulse
+|mastery  = 125
+|cooldown = 11
+|energy   = ?
+|break    = Yes
+|instinct = Breaks Instinct.
+|gif      = Trident X
+|desc     = The user spins the trident, creating a suction force that pulls nearby enemies towards them. Simultaneously, a blue circle appears in an area around the player and explodes in a burst of bubble shortly after, knocking enemies back.
+}}
+
+==Overview==
+<tabber>
+Pros=
+{{Overview|Pros
+|'''General'''
+* Good sword for beginners.
+* Faster attack speed compared to most swords obtained in the [[First Sea]].
+* Low mastery requirements.
+* Decent for early-game PvP due to its combo potential and damage. Later on, this sword can still be useful for its [Z] ability.
+
+|'''[Z] Trident Throw'''
+* Good mobility.
+* Combo potential.
+* Pulls the target towards the user.
+* Decent alternative for [[Spikey Trident]].
+* Shorter cooldown compared to [[Spikey Trident]]
+
+|'''[X] Water Pulse''' 
+* [[Instinct Break|Breaks Instinct]].
+* Decent knockback.
+* Good AoE.
+* Pulls players in.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Melee attacks cause a short dash on the fourth swing, making it less ideal for auto clicking.
+* Outclassed by higher damage swords like [[True Triple Katana]].
+
+|'''[Z] Trident Throw'''
+* Hard to aim.
+* Single-target move.
+* Does not break instinct.
+* Projectile is slower than [[Spikey Trident]] [X]
+
+|'''[X] Water Pulse'''
+* Short range.
+* Long start-up time.
+* Locks the user in place, leaving them vulnerable to attacks.
+}}
+</tabber>
+
+==Change History==
+{{Change History|3|content=
+{{Update|24}}
+* Trident's model was reworked.
+<gallery>
+Trident Icon (Old).png|Old Trident model
+</gallery>
+----
+{{Update|20}}
+* Trident's moves were reworked.
+----
+{{Update|3}}
+* Trident was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}

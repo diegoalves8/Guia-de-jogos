@@ -1,0 +1,267 @@
+{{CombosTab}}
+{{Blox Fruit Infobox
+|name   = Spirit
+|image  = <gallery>
+Spirit Fruit.png|Fruit Icon
+NewSpiritGIF.gif|Fruit GIF
+Spirit.png|Icon
+</gallery>
+
+<!-- Fruit Information -->
+|type   = Natural
+|rarity = Mythical
+|M1     = Yes
+|update = 17.1
+
+<!-- Fruit Price -->
+|money  = 3,400,000
+|robux  = 2,550
+}}
+
+{{Quote|Grants the user the ability to manipulate spirits, which can offer the user heavenly buffs to themselves or disastrous traps to their enemies.|Shop}}
+'''Spirit''' (formerly known as [[Soul]]) is a {{Mythical}} [[Natural]]-type [[Blox Fruit]] that costs {{Money|3,400,000}} or {{Robux|2,550}} from the [[Blox Fruit Dealer]].  
+
+Spirit grants the user control over two spirits, Ra and Shu, allowing them to manipulate spirit-based attacks, mainly revolving around {{w|Demon|Demons}} (Ra) and {{w|Angel|Angels}} (Shu).
+
+The user can summon spirits that attack, heal, or grant speed upon being summoned, providing strong support capabilities alongside devastating [[Area of Effect|AoE]] attacks.  
+
+__TOC__{{Clr}}
+
+==Abilities==
+{{Tabber
+|Passives|
+{{Skill/Passive
+|name     = Spirits
+|meter    = Spirit Bar.gif
+|desc     = The user will have a Spirit counter above their moveset and a line that constantly moves between each color. Spirits are collected over time after the bar reaches the end and are used when the user summons a buddy. The buddy summoned depends on the color the bar is in. The maximum amount of spirits that the player can summon is nine.
+}}
+
+{{Skill/Passive
+|name     = Heaven and Hell
+|file     = Ra and Shu animated.gif
+|desc     = The user will always have 2 certain Buddies around them, the Angel (Shu) and Demon (Ra). Clicking while the meter is in the cyan area will summon a supportive helper. Clicking while the meter is in the red area will summon an offensive helper.
+}}
+
+{{Skill/Passive
+|name     = Buddies
+|file     = Shining Star.gif
+|file1    = Heavenly Pig.gif
+|file2    = Toxic Mushroom.gif
+|file3    = Moldy Toad.gif
+|file4    = Cursed Tree.gif
+|desc     = Spirits can be used by the user by clicking on the ground, which will randomly summon unique and random buddies. The "Heaven" zone buddies support the player, and the "Hell" zone buddies offend enemies. Star heals the user every 2-5 seconds (the user can tell by seeing a green glow around them).
+|desc1    = Flying Pig gives a temporary speed boost to the player (the user can tell by seeing a small golden orb around them).
+|desc2    = Toxic Mushroom spouts out poisonous gas similar to Venom's C skill, passively damaging enemies.
+|desc3    = Toad pulls nearby enemies with its tongue and deals damage.
+|desc4    = Cursed Tree can summon roots that stun nearby enemies.
+}}
+
+|Moveset|
+{{Skill
+|key      = TAP
+|name     = Summon Buddies
+|break    = yes
+|instinct = Hellish Buddies: Toxic Mushroom's fog can [[Instinct/Break|break Instinct]]; Cursed Tree and Toad cannot break Instinct in any way.
+|gif      = Spirit_M1
+|desc     = Summons Heavenly Buddies if the bar is on the blue side and Hellish Buddies if the bar is on the red side.
+}}
+
+{{Skill
+|key      = Z
+|name     = Frostfire Grasp
+|mastery  = 1
+|break    = yes
+|instinct = The ice [[Instinct/Break|breaks Instinct]].
+|gif      = Spirit_Z
+|desc     = The user mounts on the Angel Buddy (Shu) and flies towards the position of their cursor. The user then summons an ice block, before bursting it with heat, damaging and stunning enemies.
+}}
+
+{{Skill
+|key      = X
+|name     = Wrath of Ra
+|mastery  = 150
+|break    = yes
+|instinct = Ra may be dodged, but the balls of fire and the DoT [[Instinct/Break|break Instinct]].
+|gif      = Spirit_X
+|gif1     = Ra rush
+|desc     = The user sends the Demon Buddy (Ra) to the position of the cursor. The Demon Buddy (Ra) then explodes into a pillar of fire, damaging enemies and launching 4 fiery balls into the air. This applies burn damage to enemies.
+|desc1    = This move can be held to reach further.
+}}
+
+{{Skill
+|key      = C
+|name     = Wrath of Shu
+|mastery  = 250
+|break    = yes
+|instinct = If near, this move can [[Instinct/Break|break Instinct]]. Can be dodged at the edge.
+|gif      = Spirit_C
+|desc     = The user mounts onto the Angel Buddy (Shu) and swiftly dashes to the cursor's location, then stomps on the Angel Buddy (Shu). This creates ice around the user as an AoE move. It also freezes enemies that get damaged by it.
+}}
+
+{{Skill
+|key      = V
+|name     = End of Times
+|mastery  = 350
+|break    = yes
+|instinct = The beams [[Instinct/Break|break Instinct]] no matter what, but the explosion can be dodged on the edge.
+|gif      = End of Time
+|desc     = The user commands both their Angel Buddy and their Demon Buddy (Shu and Ra) to shoot a beam of ice and fire respectively towards their cursor, trapping enemies. The two beams then merge, creating a large [[Area of Effect|AoE]] frozen explosion, leaving behind a flurry of sparks and snowflakes.
+}}
+
+{{Skill
+|key      = F
+|name     = Sky Ruler
+|mastery  = 75
+|break    = no
+|gif      = Spirit_FA
+|gif1     = Spirit_FB
+|desc     = The user mounts on one of the two Buddies, depending on whether the user used Demon Buddy (Ra) or Angel Buddy (Shu) last. The Angel Buddy (Shu) is set by default.
+|desc1    = Mounted on the Demon Buddy (Ra).
+}}
+}}
+
+==Overview==
+<tabber> 
+Pros=
+{{Overview|Pros
+|'''General'''
+* High combo potential, all moves can be combined easily.
+* All moves are AoE moves, making it a great fruit to grind with if the user can combine the high-damage abilities together with the summoned spirits.
+* Extremely high damage, easy to pressure enemies while in a PvP, since a small mistake can result in their health being depleted rapidly.
+* Extremely versatile. With the help of the buddies, the user can use a lot of the perks that the game has to offer: stun, healing, movement speed, DoT, AoE, and knockback.
+* Can be used for hybrid builds.
+
+|{{Ability|TAP}}
+* The Buddies cannot be harmed, but they vanish after a few seconds. The range of their parkside is also not affected by the players' distance from them. For example, if the user has a healing spirit, it will still heal them even if they are far away.
+* The healing/speed spirits allow the user to easily switch their play style from being aggressive to being passive.
+* Good for grinding
+* The Cursed Tree has auto-aim.
+
+|{{Ability|Z}}
+* Stuns enemies for a long time.
+* Has a big hitbox.
+* Useful for combo finishers.
+* Deals more damage when attacking more enemies.
+* Has hit-scan.
+
+|{{Ability|X}}
+* Provides DoT [burning], temporarily making it disable [[Instinct]] for a while in PvP.
+* High range (when held) and high damage, combining well into {{Ability|V}}.
+* The animation creates an explosion, making it difficult for the enemy to react in time.
+* Extremely high damage if landed, more than most [V] attacks.
+
+|{{Ability|C}}
+* Long stun and large [[Area of Effect|AoE]].
+* Quick start and low end-lag, making it a good move to "catch" people.
+
+|{{Ability|V}}
+* Long stun and large [[Area of Effect|AoE]].
+** Even the stun from the beams have extremely big hitboxes, making it good to 'snag' opponents.
+* Insanely high & powerful damage, allowing the user to kill enemies with much shorter combos.
+* Out-ranges [[Energy Core]] and [[Primordial Reign]], effectively making it un-cancelable.
+* Highly recommended to raise mouse sensitivity to make sharp angles easily (the beams are a little slow when turning).
+
+|{{Ability|F}}
+* Good for sky camping.
+* Moderately Fast.
+}}
+
+|-|Cons=
+{{Overview|Cons
+|'''General'''
+* Extremely high Mastery requirements for all moves, tied with [[Control]] and [[Dragon]] at 350 mastery.
+* Moves are considered to be relatively slow.
+* Hard to obtain.
+* Very punishing to miss abilities as almost all the moves have long endlag.
+
+|{{Ability|TAP}}
+* The possibility of spawning buddies is random, making it possible for the user to get buddies they do not want (Such as a star instead of a flying pig).
+* Toxic Mushroom is nearly useless in PvP, since no one's going to stay inside the fog, and Cursed Tree can be easily avoided by air camping or staying away. Along with that, dashing and running can avoid Toad extremely easily.
+
+|{{Ability|Z}}
+* Relatively short range, but makes up for it with its huge hitbox.
+* High endlag, makes the user vulnerable to attacks if missed.
+* Unpredicatable knockback makes it unreliable for combo starting.
+
+|{{Ability|X}}
+* Long range has a short wind up before release, relatively short range when tapped.
+* Can be [[Instinct]] tricked.
+
+|{{Ability|C}}
+* Can be punished if missed. (It is unlikely however, as the [[Area of Effect|AoE]] would freeze enemies had they been so close).
+
+|{{Ability|V}}
+* Vulnerable if missed. (Directing the beam’s explosion on the user may help keep enemies away from attacking).
+
+|{{Ability|F}}
+* Not recommended for use in pursuit of enemies or as a platform for aerial PvP.
+}}
+</tabber>
+
+==Trivia==
+* Rarely, Toad may lose its textures, as shown in the image above.
+* Both Ra and Shu attack in combination while using {{Ability|Z}} and {{Ability|V}}.
+* '''Cursed Tree''' is the only buddy whose form was not changed during the rework in {{Update|17.3}}.
+* Due to the nerf in [[Updates/24|Update 24]] to [[Angel]]'s [[Heavenly Blood|V3 ability]], the healing ability of the stars offers a great alternative for those looking to heal in a pinch. Much like [[Angel]]'s [[Heavenly Blood|V3 ability]], making it ideal in the heat of battle.
+* {{Ability|X}} has a visual bug that makes it slightly hard to land from afar, but it is easier to use when aiming under the user's avatar.
+* {{Ability|C}} has different sound effects for different targets, slowly scaling with larger opponents. The absolute maximum size is against a [[Sea Beast]], when cast on one, its sound effect is almost akin to the shattering of glass.
+* For some reason, the Spirit fruit model/image has the Angel and Demon sides switched.
+* Spirit, along with [[Venom]], are the only fruits to retain their original physical fruit models since [[Updates/20|Update 20]].
+* Shu is very expressive, but its animation cycle does not start until a few minutes have been spent in the server.
+** This is likely to reduce loading.
+* The speed buff from the pig buddy only affects run and dash speed, and not the speed of the flight move. Meaning that there is no purpose in trying to use the speed boost and then fly.
+
+==Change History==
+{{Change History|17.1|content=
+<tabber>
+|-|30=
+{{Update|30}}
+* Spirit X DoT burn removed, possibly due to a bug.
+** This was later fixed and now correctly applies burn.
+
+|-|20=
+{{Update|20}}
+* Spirit Fruit's model's icon was remade.
+: <gallery>
+Spirit 150x150.png|Old Spirit Fruit's icon.
+</gallery>
+
+|-|17.3.5=
+{{Update|17.3.5}}
+* [[Soul]] was revamped and renamed to Spirit.
+** {{Ability|Soul|Z}} was renamed to {{Ability|Z}}.
+** {{Ability|Soul|C}} was renamed to {{Ability|C}}.
+* Spirit users now get Buddies overtime instead of getting them from [[NPCs]] or Players.
+
+|-|17.3=
+{{Update|17.3}}
+* Soul received a balancing.
+** Changes on how Soul works:
+*** The size of {{Ability|X}} now scales with the blue bar.
+*** The damage of {{Ability|Soul|C}} now scales with the red bar.
+** Nerfed base stats of both moves.
+** Rebalanced dashes and run speed on all the races. The speed gap between [[Rabbit]] and other [[races]] should not be that huge anymore.
+** Character gravity now slowly increases the further away the user is from the ground, to avoid sky camping.
+
+|-|17.2=
+{{Update|17.2}}
+* Soul was buffed.
+** {{Arrow|buff}} Reduced cooldowns on {{Ability|X}}, {{Ability|Soul|C}},{{Ability|F}}, and {{Ability|TAP}}.
+*** {{Arrow|neutral}} {{Ability|X}} and {{Ability|Soul|C}} now have the same cooldown duration.
+** {{Arrow|buff}} {{Ability|Soul|Z}} can now steal up to 2 souls (spirit/buddies) by hitting multiple enemies at once.
+** {{Arrow|buff}} Slightly increased the mood damage modifier on the {{Ability|V}} move.
+** {{Arrow|buff}} Buffed the damage and hitbox on {{Ability|Soul|C}}.
+* Soul was nerfed.
+** {{Arrow|nerf}} The damage of {{Ability|X}} was reduced.
+
+|-|17.1=
+{{Update|17.1}}
+* Soul was released.
+</tabber>
+}}
+
+==Navigation==
+{{Blox Fruit Navbox}}
+
+[[Category:Flight fruits]]
+[[ru:Дух]]

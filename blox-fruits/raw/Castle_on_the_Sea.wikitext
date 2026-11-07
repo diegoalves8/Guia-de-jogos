@@ -1,0 +1,113 @@
+{{MapTab}}
+{{Tabber V2
+|tab1 = Castle on the Sea
+|tab2 = Battle of the Gods
+}}
+{{Location Infobox
+|name     = Castle on the Sea
+|image    = Castle on the Sea.png
+|type     = Island
+|sea      = Third Sea
+|music    = Pleasant Dreams
+}}
+The '''Castle on the Sea''' is an [[Locations|island]] located at the center of the [[Third Sea]]. This location regroups many [[NPCs]] with different functions and has no local [[enemies]].
+
+==Inhabitants==
+{| class="article-table"
+!NPCs
+!Enemies ([[Pirate Raid]])
+!Raid Bosses
+|-
+|
+* [[Aura Editor]]
+* [[Boat Dealer]]
+* [[Butler]]
+* [[Barista Cousin]] (sometimes) 
+* [[Daigrock, the Sharkman|Sharkman Teacher]]
+* [[Dark Step Teacher]]
+* [[Elite Hunter]]
+* [[Erin]]
+* [[Lucien]]
+* [[Lunoven]]
+* [[Luxury Boat Dealer]]
+* [[Mad Scientist]]
+* [[Martial Arts Master]]
+* [[Mysterious Scientist]]
+* [[Phoeyu, the Reformed]]
+* [[Player Hunter]]
+* [[Plokster]]
+* [[Remove Blox Fruit]]
+* [[Sabi]]
+* [[Sealed King]]
+* [[Set Home Point]]
+* [[Tacomura]]
+* [[Water Kung Fu Teacher]]
+|
+* [[Galley Pirate]]
+* [[Galley Captain]]
+* [[Raider]]
+* [[Mercenary]]
+* [[Zombie]]
+* [[Vampire]]
+* [[Snow Trooper]]
+* [[Winter Warrior]]
+* [[Lab Subordinate]]
+* [[Horned Warrior]]
+* [[Lava Pirate]]
+* [[Ship Deckhand]]
+* [[Ship Engineer]]
+* [[Ship Steward]]
+* [[Ship Officer]]
+* [[Arctic Warrior]]
+* [[Snow Lurker]]
+* [[Sea Soldier]]
+* [[Water Fighter]]
+|
+* [[rip_indra True Form]]
+|}
+
+==Pirate Raid==
+{{Main|Pirate Raid}}
+The '''[[Pirate Raid]]''' is an event only found in the [[Third Sea]] and happens every 1 hour and 15 minutes (75 minutes). During this event, a horde of non-boss enemies from [[First Sea]] and [[Second Sea]] will start spawning. A tanky enemy will spawn as the final enemy and has more HP than the other Pirates, hence the name. Whoever deals the final blow to the tanky enemy will get a random fruit. Any player that has defeated at least one Pirate, will get {{Fragment|100}} after all enemies are defeated.
+
+==Raids==
+{{Main|Raids}}
+Players can do [[raids]] in [[Third Sea]], and they can be found at the Castle on the Sea. Just like in the [[Second Sea]], the [[Mysterious Scientist]] is also here for a player to buy/trade [[microchip]]s.
+
+==rip_indra True Form==
+{{Main|rip_indra True Form}}
+'''rip_indra True Form''' is a Lv. 5000 [[Raid Bosses|Raid Boss]] that can be spawned by pressing the [[Skins|Aura Color]] buttons on the island with their corresponding '''{{Legendary}}''' [[Skins|Aura color]]. After all the buttons are pressed, the player must place the [[God's Chalice]] on the pedestal located to the right of the entrance.
+
+<gallery>
+File:Button.png|Pink Button (Winter Sky)
+File:Button 3.png|White Button (Snow White)
+File:Button 2.png|Red Button (Pure Red)
+File:Buttons Location.png|alt=Buttons Location|All Button Locations
+File:Rip indra chalice pedestal.png|Pedestal
+</gallery>
+
+==Portals==
+{{Main|Portals}}
+There are three [[portals]] available in the Castle on the Sea
+
+* The left orange portal is linked to [[Tiki Outpost]].
+* The middle portal is linked to the [[Mansion (Third Sea)|Mansion]] in [[Floating Turtle]].
+* The right portal is linked to [[Hydra Island]].
+
+In order to access the Mansion and Hydra Island [[portals]], the player must have defeated [[rip_indra True Form]] at least once.
+
+To access the [[Tiki Outpost]] portal, the player must have defeated [[Tyrant of the Skies|Tyrant Of The Skies]] at least once.
+
+==Trivia==
+* On top of the building in the middle, there is a [[Books|book]] that can be read called "'''''Echoes from the past"'''''.
+* When [[Rip indra True Form|rip_indra true form]] is summoned, the island is temporarily renamed to "''[[Battle of the Gods|Battle of the Gods"]].''
+* Using [[Control]]’s old '''[X] Levitate''' could levitate one of these castles. The reworked '''[C] Gamma Blade''' can cut the same towers, although cannot levitate them.
+* As of [[Updates/27.3]], A glitch is going on certain region servers, Where few [[Fighting Styles]] dealers do not spawn and only [[Sabi]] and [[Sharkman Teacher]] Exist there.
+* In [[Updates/29.1|Updates/29]], There was a bug that when you teleport to Castle on the Sea by using home button, a message will appear, it says: "Teleporting to Festive Snow[Random 6-digit number]".
+*
+
+==Change History==
+{{Change History|15}}
+
+==Navigation==
+{{IslandNavigation}}

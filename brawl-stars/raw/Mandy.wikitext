@@ -1,0 +1,489 @@
+{{MagicWords}}{{Protection}}
+{{Brawler Infobox|Title = Tough Cookie|PrestigeTitle = FREE CANDY|Rarity = Epic|Class = Marksman|MovementSpeed = 750 (Normal)|HealthLabel = Health|Health = 3000|AttackRange = 9 (Long)<br> 12 (Focused)|Reload = 1.5 seconds (Normal)|AttackBullets = |AttackSuperCharge = 29.05%<br>0% (with Caramelize or Cookie Crumbs)|AttackLabel = Damage|Attack = 1400|AttackSpeed= 3800<br>4400 (Focused)|AttackWidth=0.67|SuperRange = 40 (Very Long)|SuperSuperCharge = 50%<br>62.5% (with Hypercharge)|SuperDuration=2.4 seconds|SuperLabel = Damage|Super = 2500|SuperBullets=1<br>3 (with Hypercharge)|SuperSpeed=5000|SuperSpread=56.7° (with Hypercharge)|SuperWidth=1.67<br>2 (with Gobstopper)|Gadget1Name=Caramelize|Gadget1Cooldown=13 seconds|Gadget2Name=Cookie Crumbs|Gadget2Cooldown=16 seconds|VoiceActor=Nola Klop|Previous=Sam|Next=Maisie|AttackHyperchargeCharge=10.15%<br>0% (with Caramelize or Cookie Crumbs)|SuperHyperchargeCharge=17.5%<br>21.875% (with Hypercharge)|HyperchargeMultiplier=35%}}
+{{Quote|Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.}}{{Portrait}}
+Mandy is an {{Rarity|Epic}} [[Brawler]] who could also be unlocked as a [[Brawl Pass]] reward at Tier 30 in Season 16: Candyland. She has moderately low health, a high damage output, and a variable range. She was the 64th Brawler added to the game. She attacks by shooting a candy projectile from her candy dispenser. Mandy can charge her Focus bar by standing still, and charging it increases her attack's range. Her Super is a very long-ranged sugar blast that deals very high damage, pierces through enemies and travels through obstacles. Her first Gadget, Caramelize, allows her next attack to slow down an enemy. Her second Gadget, Cookie Crumbs, allows her next attack to pass through obstacles and pierce through enemies. Her first Star Power, In My Sights, increases her candy's range for every enemy hit when her Focus bar is charged. Her second Star Power, Gobstopper, increases the size of her Super. Her Hypercharge, Sugar for All!, makes her Super shoot 2 additional projectiles that travel angled to the left and right of the original Super.
+
+==Attack: Candy Dispenser==
+{{Quote|Mandy shoots candy from her Candy Dispenser and while staying still she gains Focus, increasing her attack range.}}
+Mandy shoots a long-ranged candy projectile that deals high damage. If Mandy stands still, her Focus bar begins to charge. Her Focus bar takes 0.45 seconds to charge up, and Mandy's attack and Gadget range increases by up to 3 tiles based on how full it is (without affecting its damage). Her projectile speed is also increased by 600 if the Focus bar is full. The Focus bar depletes at the same rate it fills at once Mandy begins moving again. Mandy's attack has a moderate cooldown of 0.5 seconds.
+
+==Super: Sugar Ray==
+{{Quote|Mandy shoots a long ray of sugar passing through enemies and the environment, dealing massive damage.}}
+Mandy sends out a very long-ranged large sugar blast after a 0.75-second delay. The blast deals very high damage, can pass through enemies and obstacles, and it keeps travelling until it disappears after 3 seconds. Mandy is also immobile while performing her Super, and if hit with a stun, pull, or knockback during the delay, her Super is cancelled. Mandy's Super can cross the entire map, regardless of what game mode she's playing. The delay lasts long enough to completely charge her Focus bar.
+
+==Gadgets==
+===Caramelize===
+{{Quote|Mandy's fires a caramelized candy that slows enemies on hit for 2.5 sec. The closer the target, the stronger the slow effect is. Uses ammo. Cooldown: 13 seconds.}}{{Gadget|1}}
+Mandy fires a caramel projectile in the direction the Gadget is aimed. The first enemy hit takes damage equal to her attack's damage and is slowed by 350 points for 2.5 seconds. The slow's strength increases the closer the enemy is to Mandy. This Gadget consumes ammo but does not generate Super charge. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|Mandy gains a speed boost proportional to the slow applied.}}{{Buffie|Gadget}}
+With the Buffie, Mandy also gains a movement speed boost for 2.5 seconds after hitting an enemy with the Gadget. The movement speed boost she gets is proportional to the slow applied, meaning Mandy will move faster the closer enemies were when they were hit.
+
+===Cookie Crumbs===
+{{Quote|Mandy fires a candy that uses ammo and pierces both enemies and walls. Cooldown: 16 seconds.}}{{Gadget|2}}
+Mandy fires a cookie projectile in the direction the Gadget is aimed. It is identical to Mandy's attack but pierces enemies and walls. This Gadget consumes ammo but does not generate Super charge. This Gadget's cooldown begins after the attack is used.
+
+{{Quote|Hitting a Brawler through a wall decreases the Gadget's cooldown by 50%.}}{{Buffie|Gadget}}
+With the Buffie, hitting a Brawler through a wall also decreases the Gadget's cooldown by 50% for every target hit. This stacks if multiple enemies are hit by the Gadget.
+
+==Star Powers==
+===In My Sights===
+{{Quote|Each enemy hit while Focused extends Mandy's attack range by 1 tile, stacking until Focus is broken.}}{{StarPower|1}}
+When Mandy hits an enemy while her Focus Bar is full, her attack increases by 1 tile until the bar is no longer full. Her Super and Gadgets do not trigger nor are affected by this effect.
+
+{{Quote|Mandy remains Focused for 0.75 sec after moving.}}{{Buffie|Star}}
+WIth the Buffie, if Mandy moves while she is fully Focused, the Focus bar will begin depleting after a 0.75 second delay instead of immediately. This allows for her to be able to inch a short distance while remaining focused, whether it's to dodge a shot or have a better spot.
+
+===Gobstopper===
+{{Quote|Mandy's Super is 20% bigger.}}{{StarPower|2}}
+This Star Power increases the size of Mandy's Super by 20%, increasing its size from 1.67 tiles to 2 tiles.
+
+{{Quote|30% shorter charge time while focused.}}{{Buffie|Star}}
+With the Buffie, the time it takes to unload the Super is shortened by 30% if Mandy's Focus bar was full when she used it.
+
+==Hypercharge: Sugar for All!==
+{{Quote|Mandy fires her Super in three different directions.}}{{Hypercharge}}
+When activated, Mandy shoots 2 additional projectiles with her Super that travel angled to the left and right of the original Super. She also gains a 20% speed boost, as well as a 5% damage and shield boost.
+
+{{Quote|Mandy stays Focused while moving, and her view zooms out to reveal more of the battlefield.}}{{Buffie|Hyper}}
+With the Buffie, Mandy's main attack will remain Focused even while moving. Additionally, the camera view of the player will zoom out, allowing her to see further than usual. Increased Hypercharge duration by 2 seconds.
+
+==Mutation==
+{{RemovedContent|section}}
+{{Quote|Mandy adds 2 additional projectiles to her Sugar Ray.}}<div style="float: right;">[[File:Mutation.png|64px|link=]]</div>
+Mandy shot 2 additional projectiles with her Super that traveled angled to the left and right of the original Super. These additional projectiles acted identically to her main Super.
+
+==Tips==
+===Game Modes and Maps===
+*In [[Heist]], you can charge up her Super to attack straight your enemy safe and Brawlers at the same time. On [[Safe Zone]], when you have charged your Super, you can shoot it down the middle of the map and damage the Safe and enemy Brawlers. 
+**Mandy is able to deal a lot of damage to her enemies' safe by aligning herself to her team's safe and aiming her Super towards her enemies' safe. Additionally, her piercing capabilities allow her to dispatch crowds of defenders, or at least force them to disperse.
+*Mandy's best game modes are modes where every kill matters, i.e. in [[Knockout]], [[Bounty]] and [[Wipeout]]. Since she can use her high damage output from a very long distance, she can take down enemies without the risk of dying.
+*While she lacks a high health pool or any knockback/pullback utilities, Mandy is a good defensive option for [[Volley Brawl]] as her range increases when she stands still, allowing her to defend the landing site of the volleyball more efficiently, especially coupled with her Hard Candy Star Power. Her Caramelize Gadget can also be used to slow down the opposing team, preventing them from reaching the volleyball's landing site in time, and her Super can be used effectively to force the opposing team to scatter or defeat anybody at the volleyball's landing site.
+*While Mandy is very effective at picking off fleeing opponents in Bounty, keep in mind that she is very vulnerable to assassins and the like. Thus, keep close to teammates with knockback/anti-aggression abilities, seeing as the both of you can burst any advancing assassins down.
+*Mandy is significantly more effective in maps in 5v5 Events. Their larger size allows her to align horizontally within the map, to make better use of her high range attacks, especially during her Focused states, without her point of view being blocked from the screen. 
+*Mandy is a surprisingly good Brawler in [[Brawl Arena]], as the vertically extended maps allow her free reign of most alleys in the game mode. Her damage also scales very well, allowing her to two-shot most Brawlers at Arena XP levels 10+.
+*In [[Knockout]], try to hold on to your Super at the end of a round because most Knockout maps have specific points where she can use her Super and reliably hit 1-2 enemies every time. If you have your Super at the start of a round, try immediately firing it to the enemy spawn point to instantly deal heavy damage, regain your Super, and even finish off some brawlers early (if conditions are right), though pulling this off without some luck (such as spawning in the middle) is a bit difficult.
+
+===Recommended Build===
+*In maps with more walls or walls that can provide decent cover for offensive Brawlers, Mandy should pick Cookie Crumbs as her Gadget to snipe enemies hiding from her. Conversely, on maps with little cover or highly exposed choke points, Mandy can use her Caramelize Gadget to slow down enemy advances or make picking them off easier.
+*As Mandy's projectile speed is rather lackluster, it's generally recommended for her to utilize the In My Sights Star Power as it allows her to snipe approaching Brawlers more easily, as well as better hold her own against other sniper Brawlers.
+*The Damage Gear is recommended for Mandy to use, seeing as she can retreat when on low health and retaliate from afar.
+*Shield gear is also very helpful considering her lack of abilities to protect herself from aggro Brawlers. It also lets her survive an extra hit from other ranged Brawlers like [[Bea]], [[Gus]], [[Belle]], [[Maisie]], [[Charlie]], [[Carl]], [[R-T]], [[Gray]], [[Byron]], and [[Janet]].
+*Mandy can actually make good use of the Vision Gear as she will be able to reliably pursue retreating targets when they hide in bushes, additionally helping teammates to track them down.
+
+===Strategies===
+*A trick you can learn with Mandy is: when Mandy stands still, the moment her focus bar is charged, quickly fire a shot and immediately retreat. This can be more useful with her In My Sights Star Power, and is a good tactic when used in conjunction with either of her gadgets and the Damage [[Gears|Gear]]. This is useful when you are at low health but still want to maintain control of the map.
+*Pay attention to the very edge of your screen: fired bullets will allow you to spot Brawlers that lie just out of your view and their trajectory, allowing you to snipe them down while they can't see you. You can also observe the movement and aiming of your teammates to estimate the position and trajectory of the Brawlers they’re currently fighting.
+*Try looking at the map before playing. This allows you to build a sense of the potential chokepoints and places where you can fire your Super.
+
+===Other===
+*Don't stay Focused for too long as it will leave you vulnerable to enemy attacks. Hide in bushes or behind walls to protect yourself.
+*You can use your Caramelize Gadget and be able to easily auto-aim your Super to hit an enemy.
+*Hold onto her Cookie Crumbs Gadget unless it is to finish off a Brawler who is hiding behind walls, get the last hit for Super, or to hit multiple enemies-  you could need to snipe someone behind a wall at any time.
+*Beware of [[Buster]]'s Super, as her attacks and Super get absorbed by it. Her attack will be converted into a counter projectile, but not her Super.
+*Use her Super in a bush or off-screen so that enemies won't suspect it. Point it at choke-points across the map where enemies would frequently camp at, like the small bushes in [[Riverside]] and the small gap near the wall in [[Out in the Open]]. On the latter map, firing your Super immediately on respawn will nearly guarantee you a hit on the opposing team if you respawn in the middle.
+*Do make sure not to waste Mandy's ammo. Even though her reload speed is better than many sharpshooters, do note that she has no escape tactics besides her Caramelize Gadget, which won't work in point-blank range. She also doesn't have a lot of health, so the only way is to use her attacks and/or Super for defense.
+*When playing against Mandy, be sure to be spread out and avoid choke points as Mandy's superior range means she can easily snipe anybody approaching a choke point and can team wipe fairly easily if her Super is charged.
+**Additionally, try to avoid forming straight lines with your teammates as Mandy can recharge her Super in two Super hits, allowing her to chain off the both of you.
+**When on low health against a Mandy with her Super, try to avoid hiding behind walls to recover as a skilled player will be able to remember where you're hiding and be able to snipe you. Moving in a serpentine motion will also minimise the chances of Mandy sniping you from across the map. 
+**If you’re hiding in a bush, take note of where the opposing Mandy is standing and stand in a corner away from the diagonal line formed by her shot. This should force her to abandon her chase, especially if you’re an aggressive Brawler, seeing as she’ll be forced to go closer or reposition, allowing you to escape or retaliate.
+*As Mandy lacks any defensive abilities that are effective at close range and has a lackluster unload speed, be sure to pick off assassins or tanks first, ensuring to check bushes from a safe distance or with your Cookie Crumbs Gadget.
+*Owing to her fairly slow projectile speed and reliance on her Focus ability, Mandy, despite her long range and high damage output, should take up a defensive role in most teams, lagging slightly behind to use her superior range to deter enemy Brawlers. Additionally, her Super can easily shut down any enemy last-ditch charges or at least, make them easier for her teammates to pick off.
+
+==Voice Lines==
+{|class="article-table"
+!Spawning 
+!In the Lead
+!Receiving Damage
+!Defeating An Enemy
+!Defeated
+!Attacking
+!Activating A Super
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 01.ogg|Filedescription ="Come on people, get a move on!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 01.ogg|Filedescription ="Come on people, get a move on!"}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 04.ogg|Filedescription ="Move it, freshman!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 01.ogg|Filedescription ="Sugar high!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 01.ogg|Filedescription ="Sugar high!"}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 05.ogg|Filedescription ="Crumb queen of sugar high!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 01.ogg|Filedescription ="Ugh, no special candy for you!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 01.ogg|Filedescription ="Ugh, no special candy for you!"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 04.ogg|Filedescription ="Ugh! Gummy brain!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 01.ogg|Filedescription ="Hands off my sweets."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 01.ogg|Filedescription ="Hands off my sweets."}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 01.ogg|Filedescription ="Took you to school, like Chester. Ha, that fool!"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 01.ogg|Filedescription ="Ugh, melting!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 01.ogg|Filedescription ="Ugh, melting!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 01.ogg|Filedescription ="Ugh, expelled by force."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 01.ogg|Filedescription ="Pencil this in!"}}
+|'''Normal:'''{{Ogg|Filename = mandy ulti vo 01.ogg|Filedescription ="Ah, sugar blast!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech ulti vo 01.ogg|Filedescription ="Ah, sugar blast!"}}'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 01.ogg|Filedescription ="Sugar blast, pop quiz!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 02.ogg|Filedescription ="Free candy!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 02.ogg|Filedescription ="Free candy!"}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 02.ogg|Filedescription ="Back to rule the school!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 02.ogg|Filedescription ="Suck on that."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 02.ogg|Filedescription ="Suck on that."}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 04.ogg|Filedescription ="Suck on that, school nerds!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 02.ogg|Filedescription ="Uhm, where is Chester when I need him?"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 02.ogg|Filedescription ="Uhm, where is Chester when I need him?"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 02.ogg|Filedescription ="Ah! Papercut energy!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 02.ogg|Filedescription ="Next time it will be Chester."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 02.ogg|Filedescription ="Next time it will be Chester."}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 02.ogg|Filedescription ="You just got an A... in total failure." *laughs*}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 02.ogg|Filedescription ="Sugar low!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 02.ogg|Filedescription ="Sugar low!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 06.ogg|Filedescription ="Class dismissed."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 02.ogg|Filedescription ="Pop quiz!"}}
+|'''Normal:'''{{Ogg|Filename = mandy ulti vo 02.ogg|Filedescription ="Sugar rush crush!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech ulti vo 02.ogg|Filedescription ="Sugar rush crush!"}}'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 08.ogg|Filedescription ="Study rush crush!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 03.ogg|Filedescription ="Try my special candy!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 03.ogg|Filedescription ="Try my special candy!"}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 03.ogg|Filedescription ="Lockers, lollipops and losers!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 03.ogg|Filedescription ="Sweet and sour, taste my power!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 03.ogg|Filedescription ="Sweet and sour, taste my power!"}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 07.ogg|Filedescription ="Sweet and sour, schoolyard power!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 03.ogg|Filedescription ="Moldy mints!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 03.ogg|Filedescription ="Moldy mints!"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 03.ogg|Filedescription ="Ugh! Lousy lockers!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 03.ogg|Filedescription ="Ha, mean like a jellybean!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 03.ogg|Filedescription ="Ha, mean like a jellybean!"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 03.ogg|Filedescription ="Straight F for you!"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 03.ogg|Filedescription ="I'm too sweet for this world!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 03.ogg|Filedescription ="I'm too sweet for this world!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 02.ogg|Filedescription ="Ugh, I'm too sweet for high school!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 03.ogg|Filedescription ="Wrong answer!"}}
+|'''Normal:'''{{Ogg|Filename = mandy ulti vo 03.ogg|Filedescription ="Time for a lifesaver!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech ulti vo 03.ogg|Filedescription ="Time for a lifesaver!"}}'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 03.ogg|Filedescription ="Final exam!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 04.ogg|Filedescription ="One taste is all it takes."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 04.ogg|Filedescription ="One taste is all it takes."}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 01.ogg|Filedescription ="Sweetness is on the syllabus."}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 04.ogg|Filedescription ="Sugary sweet and hard to beat!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 04.ogg|Filedescription ="Sugary sweet and hard to beat!"}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 02.ogg|Filedescription ="Best grades, worst attitude, ha ha."}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 04.ogg|Filedescription ="Cruddy caramel!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 04.ogg|Filedescription ="Cruddy caramel!"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 01.ogg|Filedescription ="Ugh, cruddy crayons!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 04.ogg|Filedescription ="Smackdown in Candy Town!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 04.ogg|Filedescription ="Smackdown in Candy Town!"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 04.ogg|Filedescription ="Smackdown in Student Town!"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 04.ogg|Filedescription ="My sweeties!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 04.ogg|Filedescription ="My sweeties!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 03.ogg|Filedescription ="My sweet lunch box!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 04.ogg|Filedescription ="Chalk it up!"}}
+|'''Normal:'''{{Ogg|Filename = mandy ulti vo 04.ogg|Filedescription ="Mandy's candy!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech ulti vo 04.ogg|Filedescription ="Mandy's candy!"}}'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 06.ogg|Filedescription ="Mandy's candy! High school edition!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 05.ogg|Filedescription ="Sweet like candy. Ha, not!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 05.ogg|Filedescription ="Sweet like candy. Ha, not!"}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 05.ogg|Filedescription ="Hall monitor Mandy, coming through!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 05.ogg|Filedescription ="I'm one tough cookie."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 05.ogg|Filedescription ="I'm one tough cookie."}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 01.ogg|Filedescription ="Ha ha, top of the class!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 05.ogg|Filedescription ="Lousy licorice."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 05.ogg|Filedescription ="Lousy licorice."}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 05.ogg|Filedescription ="You are failing manners!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 05.ogg|Filedescription ="Lollipop drop!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 05.ogg|Filedescription ="Lollipop drop!"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 05.ogg|Filedescription ="Lollipop dropout!"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 05.ogg|Filedescription ="Ugh, bitter like burned syrup!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 05.ogg|Filedescription ="Ugh, bitter like burned syrup!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 05.ogg|Filedescription ="No, my perfect attendance!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 05.ogg|Filedescription ="No cheating!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 05.ogg|Filedescription ="Chew on that!"}}
+|-
+|'''Normal:'''{{Ogg|Filename = mandy start vo 06.ogg|Filedescription ="Mandy is my name, sweetness ain't my game!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech start vo 06.ogg|Filedescription ="Mandy is my name, sweetness ain't my game!"}}'''Academy:'''
+{{Ogg|Filename = mandy school start vo 07.ogg|Filedescription ="Mandy is my name, sweet detention is my game!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 06.ogg|Filedescription ="Hehe, like a kid in a candy store."}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 06.ogg|Filedescription ="Hehe, like a kid in a candy store."}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 06.ogg|Filedescription ="Sweet and smart, mean at heart!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 06.ogg|Filedescription ="Stupid sprinkles!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 06.ogg|Filedescription ="Stupid sprinkles!"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 06.ogg|Filedescription ="Hands off my lunch candy!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 06.ogg|Filedescription ="Ha, like taking candy from a baby!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 06.ogg|Filedescription ="Ha, like taking candy from a baby!"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 06.ogg|Filedescription ="Ha, like taking candy from a freshman!"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 06.ogg|Filedescription ="Ugh, don't touch my candies, Chester!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 06.ogg|Filedescription ="Ugh, don't touch my candies, Chester!"}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 04.ogg|Filedescription ="Hey! Don't touch my snacks, Chester!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 06.ogg|Filedescription ="Study this!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 04.ogg|Filedescription ="Bun bun boom!"}}
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 06.ogg|Filedescription ="I'm not here to learn, I'm here to rule!"}}
+|'''Normal:'''{{Ogg|Filename = mandy lead vo 07.ogg|Filedescription =Mandy laughs}}'''Mecha:'''
+{{Ogg|Filename = mandy mech lead vo 07.ogg|Filedescription =Mandy laughs}}'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 03.ogg|Filedescription ="Win of the cafeteria!" *laughs*}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 07.ogg|Filedescription ="Ugh, gumballs!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 07.ogg|Filedescription ="Ugh, gumballs!"}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 07.ogg|Filedescription ="Ow! That's going on your report card!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 07.ogg|Filedescription ="Aww, too sour for ya?"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 07.ogg|Filedescription ="Aww, too sour for ya?"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 07.ogg|Filedescription ="Aww, to smart for ya?"}}
+|'''Normal:'''{{Ogg|Filename = mandy die vo 07.ogg|Filedescription =Mandy cries}}'''Mecha:'''
+{{Ogg|Filename = mandy mech die vo 07.ogg|Filedescription =Mandy cries}}'''Academy:'''
+{{Ogg|Filename = mandy school die vo 07.ogg|Filedescription ="This wasn't on the syllabus."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 07.ogg|Filedescription =Mandy laughs}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 07.ogg|Filedescription ="Eenie meenie Mandy's candy!"}}
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 08.ogg|Filedescription ="Class is in session!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 08.ogg|Filedescription ="I'm the class act!"}}
+|'''Normal:'''{{Ogg|Filename = mandy hurt vo 08.ogg|Filedescription =Mandy grunts}}'''Mecha:'''
+{{Ogg|Filename = mandy mech hurt vo 08.ogg|Filedescription =Mandy grunts}}'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 08.ogg|Filedescription ="No gold star for you!"}}
+|'''Normal:'''{{Ogg|Filename = mandy kil vo 08.ogg|Filedescription ="Ha ha!"}}'''Mecha:'''
+{{Ogg|Filename = mandy mech kill vo 08.ogg|Filedescription ="Ha ha!"}}'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 08.ogg|Filedescription ="Gold star for me!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school die vo 08.ogg|Filedescription ="Ugh, back to homeroom."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 08.ogg|Filedescription ="Ha ha!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school ulti vo 02.ogg|Filedescription ="Straight A, sugar ray!"}}
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 09.ogg|Filedescription ="Exchange student Mandy, time to bow!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 09.ogg|Filedescription ="Principal's favorite, obviously!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 09.ogg|Filedescription ="Ugh, detention, now!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 09.ogg|Filedescription ="You just got schooled!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school die vo 09.ogg|Filedescription ="Exchange program canceled."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 09.ogg|Filedescription ="Ha ha!"}}
+|
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 10.ogg|Filedescription ="Ugh! No running in the hallway."}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 10.ogg|Filedescription ="Recess belongs to Mandy!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 10.ogg|Filedescription ="Ouch! Jawbreaker!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 10.ogg|Filedescription ="Class dismissed!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school die vo 10.ogg|Filedescription = *cries* "I want my old school back!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school atk vo 10.ogg|Filedescription ="Suspended!"}}
+|
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 11.ogg|Filedescription ="Sweetness is mandatory, but not for me!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school lead vo 11.ogg|Filedescription ="Transfer student of the year!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school hurt vo 11.ogg|Filedescription ="Double detention, doofus!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 11.ogg|Filedescription ="Pop quiz! You lose!"}}
+|'''Academy:'''
+{{Ogg|Filename = mandy school die vo 11.ogg|Filedescription ="Ugh! That's how the candy cane crumbles."}}
+|
+|
+|-
+|'''Academy:'''
+{{Ogg|Filename = mandy school start vo 12.ogg|Filedescription ="Dishing out delicious discipline!"}}
+|
+|
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 12.ogg|Filedescription ="Ha, textbook Mandy!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 13.ogg|Filedescription ="School's out, dweeb!"}}
+|
+|
+|
+|-
+|
+|
+|
+|'''Academy:'''
+{{Ogg|Filename = mandy school kill vo 14.ogg|Filedescription ="Hall pass denied!"}}
+|
+|
+|
+|}
+
+==History==
+*26/12/22:
+**{{Balance|Content=Mandy became available to play in the [[Training Cave]].|Change=Neutral}}
+*02/01/23:
+**{{Balance|Content=Mandy, her Magma, and her MC skins were added to the game.|Change=Neutral}}
+*12/01/23:
+**{{Balance|Content=Mandy's Focus bar now charges in 0.45 seconds (from 0.75).|Change=Buff}}
+**{{Balance|Content=Fixed a bug where Mandy's Super would glitch when traveling outside of maps.|Change=Neutral}}
+*20/01/23:
+**{{Balance|Content=Mandy's Cookie Crumbs Gadget and Hard Candy Star Power were added.|Change=Neutral}}
+*28/02/23:
+**{{Balance|Content=Mandy's class was changed to Marksman (from Damage Dealer).|Change=Neutral}}
+**{{Balance|Content=Mandy's True Silver and True Gold skins were added.|Change=Neutral}}
+*27/06/23:
+**{{Balance|Content=Mandy's Hard Candy Star Power damage reduction was increased to 30% (from 20%).|Change=Buff}} 
+*05/09/23:
+**{{Balance|Content=Mandy's main attack damage was increased to 1300 (from 1200).|Change=Buff}}
+**{{Balance|Content=All Brawlers' health and damage were increased from 5% to 10% with each Power Level.|Change=Neutral}}
+**{{Balance|Content=Fixed an issue with Mandy's candy dispenser.|Change=Neutral}}
+*26/09/23:
+**{{Balance|Content=The Hanbok Mandy skin was added. It was featured as a Bountiful Harvest skin.|Change=Neutral}}
+*24/10/23:
+**{{Balance|Content=Mandy's flavor text was changed from "If you feel low on sugar, drop by Mandy's Rainbow Candy Shop. Remember kids- you'll always feel dandy with Mandy's Candy!" to "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist."|Change=Neutral}}
+*12/12/23:
+**{{Balance|Content=Mandy's rarity was changed to Epic (from Chromatic).|Change=Neutral}}
+*29/04/24:
+**{{Balance|Content=Mandy's Mutation was added for a limited time.|Change=Neutral}}
+*20/05/24:
+**{{Balance|Content=Mandy's Mutation was removed from the game.|Change=Neutral}}
+*25/06/24:
+**{{Balance|Content=The number of hits necessary to charge Mandy's Super was decreased to 4 hits (from 5).|Change=Buff}}
+*27/08/24:
+**{{Balance|Content=Mandy's Hard Candy Star Power damage reduction was increased to 40% (from 30%).|Change=Buff}} 
+*03/10/24:
+**{{Balance|Content=The Malicious Mandy skin was added. It was featured as a Ranked skin for Brawl Pass Season 31 and a Once Upon skin.|Change=Neutral}} 
+*04/10/24:
+**{{Balance|Content=Mandy's main attack projectile speed was increased to 4200 (from 3500).|Change=Buff}}
+**{{Balance|Content=Mandy's Super projectile speed was increased to 5000 (from 4200).|Change=Buff}}
+**{{Balance|Content=Mandy's In My Sights Star Power projectile speed boost was decreased to 16% (from 20%).|Change=Nerf}}
+**{{Balance|Content=Mandy's In My Sights Star Power no longer boosts her super's projectile speed.|Change=Nerf}}
+**{{Balance|Content=Fixed an issue where the Malicious Mandy skin was unavailable in [[Starr Drops#Ranked Starr Drops|Ranked Starr Drops]].|Change=Neutral}}
+*29/10/24:
+**{{Balance|Content=Fixed an issue with Mandy's main attack projectile speed with some of her skins.|Change=Neutral}}
+*31/10/24:
+**{{Balance|Content=Mandy's main attack projectile speed was decreased to 3800 (from 4200).|Change=Nerf}}
+**{{Balance|Content=Mandy's In My Sights Star Power projectile speed boost was decreased to 15% (from 16%).|Change=Nerf}}
+*25/02/25:
+**{{Balance|Content=All Gadgets no longer have 3 charges and now have cooldowns.|Change=Neutral}}
+**{{Balance|Content=All True Gold skins were slightly remodeled.|Change=Neutral}}
+**{{Balance|Content=Mandy's Sugar for All! Hypercharge was added.|Change=Neutral}}
+*28/02/25:
+**{{Balance|Content=The Carnaval Mandy skin was added. It was featured as a Brawlnaval skin.|Change=Neutral}}
+*30/04/25:
+**{{Balance|Content=Mandy's Sugar for All! Hypercharge multiplier was decreased to 35% (from 40%).|Change=Nerf}}
+*26/06/25:
+**{{Balance|Content=The Witch Mandy skin could be obtained by redeeming it from the {{Link|Supercell ID}} with 1000 Supercell ID points. It was featured as a Clash Stories skin.|Change=Neutral}}
+*03/09/25:
+**{{Balance|Content=Mandy's Sugar for All! Hypercharge Super recharge rate was increased by 25%.|Change=Buff}}
+**{{Balance|Content=Mandy's level up damage was decreased to 7% (from 9%) in [[Brawl Arena]].|Change=Nerf}}
+*28/10/25:
+**{{Balance|Nerf|All Hypercharges now give a 20% speed boost, decreasing Mandy's Sugar for All! Hypercharge speed boost from 24%.}}
+**{{Balance|Nerf|All Hypercharges now give a 5% damage boost, decreasing Mandy's Sugar for All! Hypercharge damage boost from 25%.}}
+*25/11/25:
+**{{Balance|Neutral|Replaced Mandy's Gadget cooldown Power Cards with movement speed Power Cards.}}
+*04/12/25:
+**{{Balance|Neutral|The Mecha, Mecha Wasp, and Mecha Shade Mandy skins were added. They were featured as Brawl Pass Season 45 skins and Mecha Squad skins.}}
+*16/12/25:
+**{{Balance|Buff|Mandy's health was increased to 3000 (from 2800).}}
+*22/04/26:
+**{{Balance|Content=Mandy's Caramelize Gadget slow visual effects were reworked.|Change=Neutral}}
+*30/06/26:
+**{{Balance|Buff|Mandy's main attack damage was increased to 1400 (from 1300).}}
+**{{Balance|Buff|Mandy's Super charge rate was increased slightly.}}
+**{{Balance|Buff|Mandy's Hard Candy Star Power damage reduction was increased to 50% (from 40%).}}
+*01/09/26:
+**{{Balance|Neutral|Every Brawler's movement speed was increased, increasing Mandy's movement speed to 750 (from 720).}}
+*03/09/26:
+**{{Balance|Neutral|The Academy Mandy skin was added. It was featured as a Brawl Academy Skin.}}
+*03/11/26:
+**{{Balance|Buff|Mandy's main attack projectile speed is now increased by 600 while her Focus bar is charged.}}
+**{{Balance|Buff|Mandy's range now increases with a partially charged Focus bar, proportional to its charge.}}
+**{{Balance|Buff|Mandy's Focus bar now takes 0.45 seconds to deplete (from immediately).}}
+**{{Balance|Buff|Mandy's Caramelize Gadget slow strength now increases the closer the target is.}}
+**{{Balance|Buff|Mandy's Caramelize Gadget and Cookie Crumbs Gadgets are now aimable}}.
+**{{Balance|Nerf|Mandy's Caramelize and Cookie Crumbs Gadgets no longer generate Super charge.}}
+**{{Balance|Nerf|Mandy's level up damage was decreased to 6% (from 7%) in [[Brawl Arena]].}}
+**{{Balance|Neutral|Mandy's In My Sights Star Power was reworked from increasing her attack projectile speed while in Focus to increasing her attack range after every attack hit while Focused.}}
+**{{Balance|Neutral|Mandy's Hard Candy Star Power was renamed to Gobstopper, and reworked from granting her a 50% shield when her Focus bar is charged to making her Super 20% bigger.}}
+**{{Balance|Neutral|Mandy's Buffies were added.}}
+
+==Cosmetics==
+===Skins (12)===
+{{Skin Gallery
+|Name1=MC|Cost1=Free from Mina Boxes, Free after reaching 750 Trophies or 29 Gems|Campaign1=Vibing|Rarity1=Rare
+|Name2=Witch|Cost2=1000 Supercell ID points from the {{Link|Supercell ID}}|Campaign2=Clash Stories|Rarity2=Super Rare
+|Name3=Hanbok|Cost3=149 Gems|Campaign3=Bountiful Harvest|Rarity3=Epic
+|Name4=Malicious|Cost4=Free from Ranked Starr Drops, free from Damian Boxes or 149 Gems|Campaign4=Ranked|Campaign4_2=Once Upon|Rarity4=Epic
+|Name5=Carnaval|Cost5=199 Gems|Campaign5=Brawlnaval|Rarity5=Mythic
+|Name6=Academy|Cost6=299 Gems|Campaign6=Brawl Academy|Rarity6=Legendary
+|TrueSkins=Yes
+|NameP1=Magma|CostP1=Brawl Pass or 149 Gems|CampaignP1=Brawl Pass|CampaignP1_2=Flaming|RarityP1=Epic
+|NameP2=Mecha|CostP2=Brawl Pass or 2 Skin Keys|CampaignP2=Brawl Pass|CampaignP2_2=Mecha Squad|RarityP2=Epic
+|NameP3=Mecha Wasp|CostP3=Brawl Pass Plus or free after purchasing Skin Set with Skin Keys|CampaignP3=Brawl Pass|CampaignP3_2=Mecha Squad|RarityP3=Epic
+|NameP4=Mecha Shade|CostP4=Brawl Pass Plus or free after purchasing Skin Set with Skin Keys|CampaignP4=Brawl Pass|CampaignP4_2=Mecha Squad|RarityP4=Epic}}
+
+===Buffie Skins===
+<gallery>
+Mandy Buffie Skin-Gadget.png|Gadget
+Mandy Buffie Skin-Star.png|Star
+Mandy Buffie Skin-Hyper.png|Hyper
+Mandy Buffie Skin-Bling.png|Bling
+</gallery>
+
+===Pins===
+{|class="article-table" style="width:100%"
+!colspan=12|Mandy
+|-
+!Skin
+!colspan=11|Pins
+|-
+{{Pin Table}}
+{{Pin Table|Magma}}
+{{Pin Table|Hanbok|Special}}
+{{Pin Table|Malicious|Special}}
+{{Pin Table|Carnaval|Special}}
+{{Pin Table|Witch|Special}}
+{{Pin Table|Mecha}}
+{{Pin Table|Mecha Wasp}}
+{{Pin Table|Mecha Shade}}
+|}
+
+===Sprays===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Spray|Type = Mandy|Rarity = Common}}
+|{{Spray|Type = Mandy Hypercharge|Rarity = Exclusive}}
+|{{Spray|Type = Hanbok Mandy|Rarity = Common}}
+|{{Spray|Type = Carnaval Mandy|Rarity = Common}}
+|}
+
+===Profile Icons===
+{|class="article-table" style="width:100%;text-align:center" colspan=5
+|{{Pfp|Mandy1}}
+|{{Pfp|Mandy2}}
+|{{Pfp|Mandy3}}
+|{{Pfp|Hanbok Mandy}}
+|{{Pfp|Malicious Mandy}}
+|-
+|{{Pfp|Magma Mandy}}
+|{{Pfp|Carnaval Mandy}}
+|{{Pfp|Mecha Mandy}}
+|}
+
+{{Navigation}}
+[[fi:Mandy]]
+[[pl:Mandy]]
+[[es:Mandy]]
+[[ru:Мэнди]]

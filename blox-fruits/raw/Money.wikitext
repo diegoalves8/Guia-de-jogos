@@ -1,0 +1,85 @@
+{{Tabber V2
+|tab1  = Money
+|tab2  = Fragments
+|tab3  = Valor
+}}
+{{Game_Mechanics
+|title1 = Money
+|image1 = <gallery>
+MoneyIcon.png|Symbol
+Money1.png|Icon
+</gallery>
+|date_of_addition: = {{Release Date|Update 1}}
+|purpose: = Currency
+|locations: = All locations
+}}
+'''Money''' ({{Money}}), also known as Beli, is a type of currency used throughout all of Blox Fruits. It is one of the three primary currencies, the others being {{Fragment|Fragments}} and {{Valor|Valor}}.
+
+Money is used to buy [[Fighting Styles]], [[Swords]], [[Guns]], [[Blox Fruits]], [[Accessories]], [[Abilities]], or [[Raids|Raid Chips]]. It is by far the easiest currency to obtain, as it is not only dropped in high amounts, but its obtainment methods are fast and simple. This makes up for the fact that Money prices are significantly higher than other currencies.
+
+The maximum amount of Money that a player can hold is {{Money|1,000,000,000}} and the maximum amount of money admins can hold is {{Money|inf}} (infinite, achievable only through commands).
+
+==Obtainment==
+* Defeating [[Enemies]].
+* Defeating [[Bosses]], [[Raid Bosses]].
+* Completing [[Quests]].
+* Collecting [[Chests]] throughout any island.
+* Bring any caught [[fish]] to the [[Fisherman]].
+* Opening [[Sunken Chest|sunken chest]] by [[fishing]].
+* Taking a [[Wanted Poster]] as a [[Marines|Marine]] and then hunting down the wanted [[Pirates|Pirate]] on the poster.
+* Defeating a YouTuber who is part of the [[Blox Fruits Star Program]] (or who drops a [[title]] upon defeat).
+* Completing [[Sea Events|sea events]].
+* Being gifted money from another player.
+* Trading for one time money (a player trading you a certain amount of money via a [[Shop|Gamepass]]), though this method is very unlikely to be possible for most.
+* Redeeming certain [[codes]].
+* Opening [[Fruit Box|Fruit boxes]].
+* Spinning from Event [[NPCs]].
+
+Getting the [[2x Money|2x Money Gamepass]] from the [[Shop]] will double the money earned from all the ways of obtainment (except from [[Chests]]).
+
+==Titles==
+There are three [[titles]] obtainable in this category:
+{| class="article-table"
+!'''Title'''
+!'''Requirements'''
+|-
+|The Rich
+|Have {{Money|5M+}}
+|-
+|{{Title|Unlimited Money}}
+|Have {{Money|20M+}}
+|-
+|{{Title|The Richest in the World}}
+|Have {{Money|50M+}}
+|}
+
+==Obtainment Tips== 
+* Server-hopping and defeat [[bosses]] (with quest) in public servers.
+* Server-hopping and collecting [[Chests]].
+* Defeating [[Sea Beast]]s is one of the fastest ways to grind money in [[Third Sea]], as each [[Sea Beast]] gives around {{Money|450,000}} with [[Shop|2x Money Gamepass]].
+* Completing "simple" [[Quests]] (e.g. [[Swan Pirate]]s).
+* [[Private Servers|Private servers]] can also be efficiently used to earn money through exploitation of their system.
+* Due to the way private servers operate, they can be used to spawn [[Chests]] whenever the player shuts down the private server by using <code>/shutdown</code>.
+* With this method, the player can set their spawn point at a place with a lot of [[Chests]] (such as the [[Upper Skylands]], the [[Forgotten Island]], or the [[Haunted Castle]]), collect the [[Chests]], use ‘/shutdown’ to shut down the server, and then rejoin to collect the [[Chests]] again.
+* Afk farming a [[NPCs|NPC]] with an autoclicker and an [[Elemental]] [[Blox Fruits|Blox Fruit]].
+* Doing Player hunter quest gives money but is not a effective way obtaining money as it has a cooldown and is inefficient compared to other methods .
+
+==Notes==
+* Buying money is not recommended in the [[First Sea|First]] and [[Second Sea|Second]] Seas, since players can buy more money at the same cost in the [[Third Sea]].
+* It is recommended to save up money to buy a Legendary or Mythical [[Blox Fruits|Blox Fruit]] from the [[Blox Fruit Dealer]] as it is easier to obtain those fruits then from finding them or rolling then at the [[Blox Fruit Gacha]].
+* These [[Codes]] are seen as troll codes ([[Easter Eggs]]), as they give very little to almost no Money. These codes (except CHANDLER) are dedicated to an admin by the name of "Fudd". 
+** "CHANDLER" gives the player {{Money|0}}.
+** "Fudd10" gives the player {{Money|1}}.
+** "Fudd10_V2" gives the player {{Money|2}}.
+
+==Change History==
+{{Change History|1}}
+
+==Navigation==
+{{MiscNav}}
+
+[[Category:Currencies]]
+[[Category:Game Mechanics]]
+[[Category:Drops]]
+[[Category:GUI]]
+__FORCETOC__

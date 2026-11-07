@@ -1,0 +1,223 @@
+{{CombosTab}}
+{{Weapon Infobox
+|name      = Saber
+|image     = <gallery>
+Saber.png|Icon
+Saber EQ.png|In-Game
+Saber Held.png|Held
+Saber (Aura Active).gif|Aura
+</gallery>
+
+<!-- Weapon Information -->
+|type      = Sword
+|rarity    = Legendary
+|update    = 1
+
+<!-- Weapon Obtainment -->
+|sea       = 1
+|obtain    = Complete [[Saber/Puzzle|Saber Puzzle]] and defeat [[Saber Expert]].
+}}
+{{Quote|A sword that carries many burdens and lives, once used by an [[Saber Expert|expert of its kind]].|Item}}
+The '''Saber''' is a {{Legendary}} [[sword]].
+
+Known for its incredible damage, Saber V2 is still considered to be a fairly decent [[Swords|sword]] in [[PvP mechanics|PvP]] in the [[Second Sea]]. However, it is recommended that the player upgrades to a better sword as they progress out of the [[Second Sea]] and enter the [[Third Sea]], due to it's moves being near useless if the opponents use [[Instinct]].  
+
+Despite it being a {{Legendary}} [[First Sea]] sword, because of the extremely slow M1’s, it's considered a horrible sword for late [[Second Sea]] and [[Third Sea]] as there are also other better choices of swords in those seas. 
+
+==Obtainment==
+===Version 1===
+The Saber can be obtained by defeating the [[Saber Expert]] in completing the [[Saber/Puzzle|Saber puzzle]]. It has a 100% drop chance.
+
+===Version 2===
+The Saber can be [[Upgrading|upgraded]] to '''Saber V2''' by completing the following steps:
+# Earn one million(1,000,000) [[Bounty and Honor System|Bounty/Honor]].
+# Player must kill another player with a similar [[Levels|level]] (Or player under 25% around your level and it is irrespective of bounty/honor).
+A message saying "Something weird has occurred to your <Saber>." will appear if done correctly. The names of the moves will not change, only the moves themselves.
+
+If the player completes all the steps but doesn't have the Saber, a message saying "Something weird has happened, but you lack the required item".
+
+;Notes
+* The player killed does not need to have 1 Million [[Bounty and Honor System|Bounty/Honor]].
+* Saber V1 will NOT change to Saber V2 if the kill was a suspicious kill.
+* The player can get it in every sea as long as Bounty/Honor and level requirements are met.
+* Saber V1 will NOT change to Saber V2 if the player killed was already killed 3/3 for the reward limit.
+
+==Upgrading==
+{{Upgrading}}
+
+==Movesets==
+<tabber>
+Version 1=
+{{SkillStart}}
+<!-- M1 Move -->
+{{SkillBox|M1
+|Move = Normal Attack
+|Desc = The player does 3 slashes, ending with a stab.
+|GIF = Saber M1
+}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move = Deadly Rush
+|Desc = The user charges up, then dashes forward into enemies, damaging everything in their path with blood-red slashes.
+|Mas  = 50
+|GIF  = Saber_V1_Deadly_Rush_Preview
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move = Triple Slash
+|Desc = The user sends three red air slashes in the direction of their cursor, dragging enemies back slightly whilst doing so.
+|Mas  = 125
+|GIF  = Saber_V1_Triple_Slash_Preview
+}}
+{{SkillEnd}}
+
+|-|Version 2=
+{{SkillStart}}
+<!-- M1 Move -->
+{{SkillBox|M1
+|Move = Normal Attack
+|Desc = The player does 3 slashes, ending with a stab.
+|GIF = Saber M1
+}}
+<!-- Z Move -->
+{{SkillBox|Z
+|Move = Deadly Rush
+|Desc = The user charges up, dashes forward, and this time sends two air slashes flying. This move is, in theory, V1's [Z] combined with V1's [X]. There's an area where the two moves combine, and once the user manages to land it on the enemy, will deal extremely high damage due to it being the equivalent of two sword moves at once. 
+|Mas  = 50
+|GIF  = Saberv2 DeadlyRush
+}}
+<!-- X Move -->
+{{SkillBox|X
+|Move = Triple Slash
+|Desc = The user sends a red projectile made out of four beams in the direction of their cursor, doing more damage than its V1 counterpart and having a larger hitbox.
+|Mas  = 125
+|GIF  = TripledSlash
+}}
+{{SkillEnd}}
+
+|-|Stats=
+{{Stats Table|
+{{Stats Table Row|Z|Deadly Rush|7.5|15}}
+{{Stats Table Row|X|Triple Slash|14|30}}
+}}
+
+==Instinct Chart==
+{{Instinct Table|
+{{Instinct Table Row|Z|Deadly Rush|No|Yes|Doesn't [[break Instinct]].}}
+{{Instinct Table Row|X|Triple Slash|No|Yes|Doesn't [[break Instinct]].}}
+}}
+</tabber>
+
+==Overview==
+<tabber> 
+Version 1=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Version 1
+|'''General'''
+* Obtainable as early as Lv. 200, making it a good starter weapon.
+* Good damage.
+* Decent hitbox on the attacks.
+* Good for grinding.
+* Low mastery requirements.
+
+|'''[Z] Deadly Rush'''
+* Good combo extender.
+* Has decent travel. (Better than Saber V2)
+
+|'''[X] Triple Slash'''
+* Good [[AoE]].
+}}
+{{!}}-{{!}}
+
+Cons=
+{{Overview|Cons|type=Version 1
+|'''General'''
+* Cannot hit [[Blade]] users.
+* Very slow M1.
+* Doesn't [[Instinct Break|break Instinct]].
+* Both moves don’t have that big of a hitbox, making them easy to avoid.
+* Low mobility compared to other swords, such as [[Yama]] and [[Spikey Trident]].
+* Slight endlag. (Barely affects, but punishable if not hit)
+
+|'''[Z] Deadly Rush'''
+* Decently hard to hit.
+
+|'''[X] Triple Slash'''
+* Unless the player has decently good aim, either one or two slashes will often completely miss the target.
+}}
+}}
+|-|
+
+Version 2=
+{{#tag:tabber|Pros=
+{{Overview|Pros|type=Version 2
+|'''General'''
+* Pretty decent range on the M1 and skills.
+* Both moves drain three [[Instinct]] dodges from the enemy, making it possible to drain a total of six [[Instinct]] dodges.
+* Not too hard to obtain.
+* Easy to use.
+* Great for grinding.
+* Low mastery requirements.
+
+|'''[Z] Deadly Rush'''
+* Extremely high damage if all slashes are hit.
+* Most damaging single sword move in the game so far.
+
+|'''[X] Triple Slash'''
+* Really good [[AoE]].
+}}
+{{!}}-{{!}}
+
+Cons=
+{{Overview|Cons|type=Version 2
+|'''General'''
+* Like V1, cannot hit [[Blade]] users.
+* Doesn't [[Instinct Break|break Instinct]].
+* Lower travel potential than Saber V1.
+* Slight endlag. (Barely affects, but punishable if not hit)
+* Hard to use effectively in PvP, as both move are not independent and requires a combo starter like [[Ice]] V or C to deal damage.
+
+|'''[Z] Deadly Rush'''
+* Quite difficult to hit all the slashes.
+
+|'''[X] Triple Slash'''
+* Easy to avoid.
+}}
+}}
+</tabber>
+
+==Trivia==
+* It is recommended to bounty hunt with [[Ice]] or [[Dark]] along with the Saber, as the player can pull enemies with [[Dark]]'s '''[X]''' ability to the critical '''[Z]''' ability range.
+* The player should aim accurately to deal a critical hit on their opponent. (V2)
+* Not recommended for beginners since this sword relies heavily on other support weapons to deal damage.
+** It is possible to do a one-shot combo using just the [[Last Resort]] ability along with the '''[Z]''' and '''[X]''' abilities, if done right.
+* The Saber is one of the best swords the player can obtain in the [[First Sea]].
+* The Saber is one of the best [[swords]] for grinding, as its M1 deals high damage, with little to no knockback, and has a low cooldown.
+* The Saber's handguard model cuts into the hilt.
+* '''[Z] Deadly Rush''' is a good combo extender so always try to combo with that (for low [[Levels|level]]).
+* The Saber has a very fast one-shot [[Combos|combo]], taking only about one second to eliminate an enemy when paired with [[Godhuman]] and [[Portal]], provided the user uses the right combo.
+* The Saber is required to obtain [[Instinct]].
+* [[Saber Expert]] uses the old moves of Saber.
+* The '''[Z] Deadly Rush''' ability (V1 or V2) can be used to go through thin walls, such as the igloos at the cold side of [[Hot and Cold]]. The user needs to get close to the igloo entrance, but don't touch the wall, then use the '''[Z] Deadly Rush''' ability forwards to the wall.
+* The Saber, along with [[Bisento]], [[Dark Blade]] and [[Pole (1st Form)]] are the only swords with a V2.
+* The user can obtain Saber V2 without equipping it when fighting.
+
+==Change History==
+{{Change History|1|content=
+{{Update|24}}
+* Saber's model was reworked.
+<gallery>
+Saber Icon (Old).png|Old Saber model
+</gallery>
+----
+{{Update|20}}
+* Saber's moves were reworked.
+----
+{{Update|1}}
+* Saber was released.
+}}
+
+==Navigation==
+{{Sword Navbox}}
+
+[[Category:Drops]]
