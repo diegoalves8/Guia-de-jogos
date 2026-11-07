@@ -10,10 +10,10 @@ android {
 
     defaultConfig {
         applicationId = "com.guiadejogos.app"
-        minSdk = 26          // Android 8.0+ (cobre celulares e tablets como o Galaxy Tab S6 Lite)
+        minSdk = 26          // Android 8.0+ (celulares, tablets como o Galaxy Tab S6 Lite e multimídia BYD DiLink 3.0+/Android 9)
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.1.0"
 
         // URL base do conteúdo remoto (atualização sem gerar novo APK).
         // Deixe "" para usar somente o conteúdo embutido no app.
@@ -27,7 +27,9 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            // Código otimizado e APK menor: roda melhor em centrais multimídia mais modestas.
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

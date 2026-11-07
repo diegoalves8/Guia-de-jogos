@@ -13,6 +13,9 @@ object AppConfig {
     /** Largura máxima do conteúdo em telas grandes (tablets), para não esticar demais. */
     const val MAX_CONTENT_WIDTH_DP = 900
 
+    /** Largura máxima das grades de cards (aproveita telas largas do tablet e do carro). */
+    const val MAX_GRID_WIDTH_DP = 1280
+
     /** Largura mínima de cada card nas grades adaptáveis. */
     const val GRID_MIN_CELL_DP = 260
 }

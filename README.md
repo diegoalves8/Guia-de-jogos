@@ -2,7 +2,7 @@
 
 Aplicativo Android que reúne **códigos, dicas, guias, skins, termos e novidades** de vários jogos — começando pelo **Dandy's World**.
 
-Feito em **Kotlin + Jetpack Compose (Material 3)**, com layout adaptável para **celulares e tablets** (testado para telas como o Galaxy Tab S6 Lite, em retrato e paisagem).
+Feito em **Kotlin + Jetpack Compose (Material 3)**, com layout adaptável para **celulares, tablets** (ex.: Galaxy Tab S6 Lite) e **multimídia de carro** (ex.: BYD King, tela giratória de 12,8"), em retrato e paisagem.
 
 ---
 
@@ -19,6 +19,22 @@ O repositório já gera o APK sozinho pelo **GitHub Actions** a cada `push` na `
 5. Passe o APK para o tablet/celular e abra. Se o Android pedir, permita **"Instalar apps desconhecidos"** para o app que você usou para abrir o arquivo (Arquivos, Chrome etc.).
 
 **Releases:** criando uma tag (ex.: `git tag v1.0.0 && git push --tags`), o APK também aparece na aba **Releases**, mais fácil de baixar direto no tablet.
+
+## 🚗 Instalar na multimídia do BYD
+
+O app roda em Android 8 ou superior, sem Google Play Services e sem bibliotecas nativas, então funciona em centrais BYD DiLink (Android 9+) com instalação de apps liberada.
+
+1. Baixe o `GuiaDeJogos.apk` (passos acima) no celular ou no PC.
+2. Copie o APK para um **pendrive** (FAT32 ou exFAT).
+3. Conecte o pendrive na USB do carro, abra o **gerenciador de arquivos** da multimídia e toque no APK para instalar.
+4. Pelo navegador da multimídia também dá: entre no GitHub logado e baixe o APK direto.
+
+O que muda no carro:
+- **Tela giratória:** o layout se ajusta na hora ao girar, sem reiniciar o app.
+- **Paisagem (tela larga e baixa):** tela inicial em duas colunas, cabeçalhos compactos e mais cards por linha.
+- **Toque:** botões grandes e botão Voltar ampliado.
+
+> ⚠️ Use o app com o carro parado ou pelo passageiro.
 
 ## 🛠️ Build local (opcional)
 

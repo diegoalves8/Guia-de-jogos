@@ -38,7 +38,7 @@ fun GameScreen(
     }
     val title = (state as? LoadState.Success)?.data?.name ?: ""
 
-    AppScreen(title = title, onBack = onBack) { padding ->
+    AppScreen(title = title, onBack = onBack, maxContentWidthDp = AppConfig.MAX_GRID_WIDTH_DP) { padding ->
         when (val s = state) {
             LoadState.Loading -> LoadingView()
             is LoadState.Error -> ErrorView(s.message) { reloadKey++ }

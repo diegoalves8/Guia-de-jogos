@@ -55,6 +55,7 @@ fun GamesScreen(
     AppScreen(
         title = "Escolha o jogo",
         onBack = onBack,
+        maxContentWidthDp = AppConfig.MAX_GRID_WIDTH_DP,
         actions = {
             if (refreshing) {
                 CircularProgressIndicator(Modifier.padding(12.dp), strokeWidth = 2.dp)

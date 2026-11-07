@@ -5,6 +5,10 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -42,6 +46,8 @@ fun AppScreen(
     title: String,
     onBack: (() -> Unit)?,
     actions: @Composable () -> Unit = {},
+    /** Largura máxima do conteúdo: grades usam mais espaço (tablet/carro), textos menos. */
+    maxContentWidthDp: Int = AppConfig.MAX_CONTENT_WIDTH_DP,
     content: @Composable (PaddingValues) -> Unit,
 ) {
     Scaffold(
@@ -53,8 +59,9 @@ fun AppScreen(
                 },
                 navigationIcon = {
                     if (onBack != null) {
-                        IconButton(onClick = onBack) {
-                            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Voltar")
+                        // Botão maior que o padrão: fácil de acertar no tablet e na multimídia do carro.
+                        IconButton(onClick = onBack, modifier = Modifier.size(56.dp)) {
+                            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Voltar", modifier = Modifier.size(30.dp))
                         }
                     }
                 },
@@ -74,7 +81,7 @@ fun AppScreen(
                 .background(Brush.verticalGradient(listOf(AppColors.Background, AppColors.Surface))),
             contentAlignment = Alignment.TopCenter,
         ) {
-            Box(Modifier.widthIn(max = AppConfig.MAX_CONTENT_WIDTH_DP.dp).fillMaxSize()) {
+            Box(Modifier.widthIn(max = maxContentWidthDp.dp).fillMaxSize()) {
                 content(padding)
             }
         }
@@ -122,18 +129,39 @@ fun Badge(text: String, color: androidx.compose.ui.graphics.Color) {
     )
 }
 
-/** Faixa de cabeçalho usada nas páginas de jogo e categoria. */
+/**
+ * Faixa de cabeçalho usada nas páginas de jogo e categoria.
+ * Em telas baixas (multimídia em paisagem) vira uma versão compacta em linha.
+ */
 @Composable
 fun HeaderBanner(emoji: String, title: String, subtitle: String, color: androidx.compose.ui.graphics.Color) {
-    Column(
-        Modifier
-            .fillMaxWidth()
-            .background(
-                Brush.linearGradient(listOf(color.copy(alpha = 0.55f), color.copy(alpha = 0.12f))),
-                RoundedCornerShape(24.dp),
-            )
-            .padding(24.dp),
-    ) {
+    val compact = rememberScreenInfo().isShortHeight
+    val background = Modifier
+        .fillMaxWidth()
+        .background(
+            Brush.linearGradient(listOf(color.copy(alpha = 0.55f), color.copy(alpha = 0.12f))),
+            RoundedCornerShape(24.dp),
+        )
+    if (compact) {
+        Row(background.padding(horizontal = 20.dp, vertical = 14.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text(emoji, style = MaterialTheme.typography.headlineLarge)
+            Spacer(Modifier.width(16.dp))
+            Column {
+                Text(title, style = MaterialTheme.typography.headlineSmall, color = AppColors.TextPrimary)
+                if (subtitle.isNotBlank()) {
+                    Text(
+                        subtitle,
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = AppColors.TextSecondary,
+                        maxLines = 2,
+                        overflow = TextOverflow.Ellipsis,
+                    )
+                }
+            }
+        }
+        return
+    }
+    Column(background.padding(24.dp)) {
         Text(emoji, style = MaterialTheme.typography.displayLarge)
         Text(title, style = MaterialTheme.typography.headlineLarge, color = AppColors.TextPrimary)
         if (subtitle.isNotBlank()) {

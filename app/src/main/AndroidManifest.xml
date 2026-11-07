@@ -4,7 +4,14 @@
     <!-- Usado apenas para baixar atualizações de conteúdo (JSON). -->
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <!-- Funciona em celulares e tablets, retrato e paisagem. -->
+    <!-- Não exige tela sensível ao toque nem recursos de celular: instala também
+         em centrais multimídia (ex.: BYD DiLink) e outros aparelhos Android. -->
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.telephony" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.type.automotive" android:required="false" />
+
+    <!-- Funciona em celulares, tablets e multimídia de carro, retrato e paisagem. -->
     <supports-screens
         android:smallScreens="true"
         android:normalScreens="true"
@@ -25,7 +32,7 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboardHidden"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboard|keyboardHidden|navigation|density|uiMode"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
