@@ -27,6 +27,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material.icons.filled.SystemUpdate
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -71,6 +72,7 @@ fun StoreHomeScreen(
     onOpenRoute: (String) -> Unit,
     onSearch: () -> Unit,
     onSettings: () -> Unit,
+    onUpdate: () -> Unit = onSettings,
 ) {
     var reloadKey by remember { mutableIntStateOf(0) }
     val state by rememberLoad(reloadKey) { repository.loadIndex() }
@@ -104,11 +106,22 @@ fun StoreHomeScreen(
                         }
                         SearchBarButton("Pesquisar jogos, personagens, skins…", Modifier.weight(1f), onClick = onSearch)
                         Spacer(Modifier.width(8.dp))
+                        // Botão de atualização do app (sempre visível)
+                        if (wide) {
+                            com.guiadejogos.app.ui.components.SecondaryButton("Atualizar app", Icons.Filled.SystemUpdate, onClick = onUpdate)
+                        } else {
+                            IconButton(onClick = onUpdate, modifier = Modifier.size(Dimens.TouchMin)) {
+                                Icon(Icons.Filled.SystemUpdate, contentDescription = "Atualizar app", tint = AppColors.Primary)
+                            }
+                        }
                         IconButton(onClick = onSettings, modifier = Modifier.size(Dimens.TouchMin)) {
                             Icon(Icons.Filled.Settings, contentDescription = "Configurações", tint = AppColors.TextSecondary)
                         }
                     }
                 }
+
+                // Aviso automático de versão nova
+                item { com.guiadejogos.app.ui.components.UpdateBanner() }
 
                 // Banner de destaque
                 item {

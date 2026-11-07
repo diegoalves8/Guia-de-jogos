@@ -14,6 +14,7 @@ BR, US, UK = "🇧🇷 Brasil", "🇺🇸 EUA", "🇬🇧 Reino Unido"
 CREATORS = {
  "dandys-world": [
    C("LimaMosca", BR, "YouTuber com vídeos todos os dias. Fez a live sobre a participação do Dandy's World no evento The Hollow do Roblox (24/10/2026).", YT("LimaMosca"), TT("LimaMosca"), "Dandy's World Wiki · perfil do TikTok"),
+   C("MoonyCaroll", BR, "Criadora brasileira de Dandy's World que faz vídeos de gameplays variadas.", YT("moonycaroll"), TT("moonycaroll"), "Perfil do TikTok (21,5 mil seguidores)"),
    C("Parkourdisaster2005", US, "Lives quase todo dia de Dandy's World, partidas de andares altos (recorde no andar 154) e Toon da Semana.", YT("Parkourdisaster2005"), TT("Parkourdisaster2005"), "CreatorDB · perfil do TikTok"),
  ],
  "brawl-stars": [
@@ -148,7 +149,7 @@ MONTH = {"period": "Novembro de 2026", "items": [
 gj = json.load(open(os.path.join(ROOT, "games.json"), encoding="utf-8"))
 gj["weeklyNews"] = WEEK
 gj["monthlyNews"] = MONTH
-gj["contentVersion"] = 5
+gj["contentVersion"] = 6
 gj["updatedAt"] = TODAY
 gj["appCredits"] = {"author": "Gustavo Bezerra", "text": "Aplicativo criado por Gustavo Bezerra."}
 for g in gj["games"]:
