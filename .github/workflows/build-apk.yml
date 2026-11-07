@@ -1,0 +1,55 @@
+# Gera o APK automaticamente a cada push na branch main (ou manualmente).
+# O APK fica em: Actions → execução → seção "Artifacts" → GuiaDeJogos-apk.
+# Criando uma tag "v1.0.0", o APK também é publicado em Releases.
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+    tags: [ 'v*' ]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Validar JSON de conteúdo
+        run: |
+          for f in $(find app/src/main/assets/content -name '*.json'); do
+            python3 -m json.tool "$f" > /dev/null || { echo "JSON inválido: $f"; exit 1; }
+          done
+
+      - name: Build APK (debug e release)
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug assembleRelease --stacktrace
+
+      - name: Renomear APKs
+        run: |
+          mkdir -p out
+          cp app/build/outputs/apk/debug/app-debug.apk out/GuiaDeJogos-debug.apk
+          cp app/build/outputs/apk/release/app-release.apk out/GuiaDeJogos.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: GuiaDeJogos-apk
+          path: out/*.apk
+
+      - name: Publicar Release (somente em tags)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: out/*.apk

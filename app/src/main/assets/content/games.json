@@ -1,0 +1,46 @@
+{
+  "contentVersion": 1,
+  "updatedAt": "2026-11-06",
+  "games": [
+    {
+      "id": "dandys-world",
+      "name": "Dandy's World",
+      "subtitle": "Terror cooperativo com Toons",
+      "platform": "Roblox",
+      "emoji": "🌼",
+      "color": "#F59E0B",
+      "status": "available",
+      "file": "games/dandys-world.json"
+    },
+    {
+      "id": "brawl-stars",
+      "name": "Brawl Stars",
+      "subtitle": "Batalhas rápidas da Supercell",
+      "platform": "Android / iOS",
+      "emoji": "⭐",
+      "color": "#FACC15",
+      "status": "coming_soon",
+      "file": "games/brawl-stars.json"
+    },
+    {
+      "id": "free-fire",
+      "name": "Free Fire",
+      "subtitle": "Battle royale da Garena",
+      "platform": "Android / iOS",
+      "emoji": "🔥",
+      "color": "#F97316",
+      "status": "coming_soon",
+      "file": "games/free-fire.json"
+    },
+    {
+      "id": "murder-mystery",
+      "name": "Murder Mystery",
+      "subtitle": "Descubra quem é o assassino",
+      "platform": "Roblox",
+      "emoji": "🔪",
+      "color": "#EF4444",
+      "status": "coming_soon",
+      "file": "games/murder-mystery.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone: controle de videogame estilizado (área segura 108dp, desenho central ~60dp). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Corpo do controle -->
+    <path
+        android:fillColor="#FF8B5CF6"
+        android:pathData="M36,38 L72,38 C82,38 88,46 89,58 C90,70 86,76 80,76 C75,76 72,71 68,66 L40,66 C36,71 33,76 28,76 C22,76 18,70 19,58 C20,46 26,38 36,38 Z" />
+    <!-- Direcional -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M33,47 L39,47 L39,51 L43,51 L43,57 L39,57 L39,61 L33,61 L33,57 L29,57 L29,51 L33,51 Z" />
+    <!-- Botões -->
+    <path
+        android:fillColor="#FF22D3EE"
+        android:pathData="M74,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFACC15"
+        android:pathData="M67,58 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>

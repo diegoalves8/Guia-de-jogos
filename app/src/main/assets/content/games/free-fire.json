@@ -1,0 +1,110 @@
+{
+  "id": "free-fire",
+  "name": "Free Fire",
+  "emoji": "🔥",
+  "color": "#F97316",
+  "description": "Battle royale da Garena. Conteúdo em preparação.",
+  "categories": [
+    {
+      "id": "codigos",
+      "title": "Códigos e Como Resgatar",
+      "emoji": "🎁",
+      "description": "Resgate pelo site oficial da Garena.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "notice",
+          "title": "",
+          "tone": "warning",
+          "body": "Use apenas o site oficial de resgate da Garena. Nunca informe sua senha em sites que prometem códigos ou diamantes grátis."
+        },
+        {
+          "type": "codes",
+          "title": "Códigos ativos",
+          "codes": []
+        },
+        {
+          "type": "links",
+          "title": "",
+          "links": [
+            {
+              "label": "Site oficial de resgate (Garena)",
+              "url": "https://reward.ff.garena.com/",
+              "official": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personagens",
+      "title": "Personagens",
+      "emoji": "🦸",
+      "description": "Habilidades e combinações.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "skins",
+      "title": "Skins",
+      "emoji": "👕",
+      "description": "Roupas e skins de armas.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "eventos",
+      "title": "Eventos",
+      "emoji": "🎉",
+      "description": "Eventos ativos.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "guias",
+      "title": "Guias e Dicas",
+      "emoji": "🧭",
+      "description": "Do iniciante ao pro.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "atualizacoes",
+      "title": "Atualizações",
+      "emoji": "🛠️",
+      "description": "Patches.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "novidades",
+      "title": "Novidades",
+      "emoji": "📰",
+      "description": "Últimas notícias.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "info",
+      "title": "Links Oficiais",
+      "emoji": "🔗",
+      "description": "Fontes oficiais do jogo.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "links",
+          "title": "",
+          "links": [
+            {
+              "label": "Site oficial do Free Fire (Garena)",
+              "url": "https://ff.garena.com/",
+              "official": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

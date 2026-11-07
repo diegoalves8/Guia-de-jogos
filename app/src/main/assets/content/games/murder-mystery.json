@@ -1,0 +1,78 @@
+{
+  "id": "murder-mystery",
+  "name": "Murder Mystery",
+  "emoji": "🔪",
+  "color": "#EF4444",
+  "description": "Jogo do Roblox em que um jogador é o assassino, outro o xerife e os demais inocentes. Conteúdo em preparação.",
+  "categories": [
+    {
+      "id": "codigos",
+      "title": "Códigos",
+      "emoji": "🎁",
+      "description": "Quando existirem.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "guias",
+      "title": "Guias",
+      "emoji": "🧭",
+      "description": "Como jogar cada papel.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "dicas",
+      "title": "Dicas",
+      "emoji": "💡",
+      "description": "Truques para sobreviver.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "itens",
+      "title": "Skins e Itens",
+      "emoji": "🗡️",
+      "description": "Facas, armas e pets.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "atualizacoes",
+      "title": "Atualizações",
+      "emoji": "🛠️",
+      "description": "Mudanças no jogo.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "novidades",
+      "title": "Novidades",
+      "emoji": "📰",
+      "description": "Últimas notícias.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "info",
+      "title": "Links Oficiais",
+      "emoji": "🔗",
+      "description": "Fontes oficiais do jogo.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "links",
+          "title": "",
+          "links": [
+            {
+              "label": "Murder Mystery no Roblox (busca oficial)",
+              "url": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery",
+              "official": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

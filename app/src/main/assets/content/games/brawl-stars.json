@@ -1,0 +1,86 @@
+{
+  "id": "brawl-stars",
+  "name": "Brawl Stars",
+  "emoji": "⭐",
+  "color": "#FACC15",
+  "description": "Jogo de batalhas rápidas da Supercell. Conteúdo em preparação.",
+  "categories": [
+    {
+      "id": "codigos",
+      "title": "Códigos",
+      "emoji": "🎁",
+      "description": "Quando existirem.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "personagens",
+      "title": "Brawlers",
+      "emoji": "🦸",
+      "description": "Personagens e habilidades.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "skins",
+      "title": "Skins",
+      "emoji": "👕",
+      "description": "Visuais dos Brawlers.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "estrategias",
+      "title": "Estratégias",
+      "emoji": "♟️",
+      "description": "Modos e táticas.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "guias",
+      "title": "Guias e Dicas",
+      "emoji": "🧭",
+      "description": "Do iniciante ao pro.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "atualizacoes",
+      "title": "Atualizações",
+      "emoji": "🛠️",
+      "description": "Patches e balanceamentos.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "novidades",
+      "title": "Novidades",
+      "emoji": "📰",
+      "description": "Últimas notícias.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "info",
+      "title": "Links Oficiais",
+      "emoji": "🔗",
+      "description": "Fontes oficiais do jogo.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "links",
+          "title": "",
+          "links": [
+            {
+              "label": "Site oficial do Brawl Stars (Supercell)",
+              "url": "https://supercell.com/en/games/brawlstars/",
+              "official": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "id": "dandys-world",
+  "name": "Dandy's World",
+  "emoji": "🌼",
+  "color": "#F59E0B",
+  "description": "Jogo de terror cooperativo no Roblox, da BlushCrunch Studio. Você joga como um Toon, conserta máquinas e foge dos Twisteds dentro do Gardenview Center.",
+  "categories": [
+    {
+      "id": "codigos",
+      "title": "Códigos e Como Resgatar",
+      "emoji": "🎁",
+      "description": "Códigos atuais, expirados e o passo a passo para resgatar.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "text",
+          "title": "O que são os códigos?",
+          "body": "Códigos são palavras liberadas pelos desenvolvedores do Dandy's World (BlushCrunch Studio). Ao digitar um código válido dentro do jogo, você ganha recompensas grátis — normalmente Ichor, a moeda do jogo. Já existiram códigos que davam skin."
+        },
+        {
+          "type": "text",
+          "title": "Para que serve a recompensa?",
+          "body": "O Ichor é usado na Dandy's Store para comprar novos Toons (personagens) e Trinkets (acessórios que ajudam na partida). Ou seja: códigos ajudam você a liberar coisas novas mais rápido."
+        },
+        {
+          "type": "notice",
+          "title": "",
+          "tone": "warning",
+          "body": "Os códigos podem expirar a qualquer momento e diferenciam maiúsculas de minúsculas. Digite exatamente como aparece aqui. Este app nunca inventa códigos: só listamos o que foi divulgado."
+        },
+        {
+          "type": "codes",
+          "title": "Códigos ativos",
+          "codes": [
+            {
+              "code": "ICHOR",
+              "reward": "50 Ichor",
+              "status": "active",
+              "note": "Reportado como ativo por vários sites especializados até abril de 2026. Se não funcionar, ele pode ter expirado."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "title": "Como resgatar",
+          "items": [
+            "Abra o Dandy's World no Roblox.",
+            "Espere o jogo carregar e fique no lobby (antes de entrar no elevador).",
+            "No lado esquerdo da tela, toque no botão \"USE CODE\" (fica na coluna de botões, abaixo de Twisteds).",
+            "Digite ou cole o código na caixa de texto.",
+            "Toque em \"USE\" para receber a recompensa."
+          ]
+        },
+        {
+          "type": "codes",
+          "title": "Códigos expirados (não funcionam mais)",
+          "codes": [
+            {
+              "code": "ONETHOUSAND",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "TENMILLION",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "FIFTYMILLION",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "HUNDREDMILLION",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "2HUNDREDMILLION",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "1BILLION",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "300K",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "SKINTICKET",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "EASTER2025",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "APRIL1",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            },
+            {
+              "code": "FESTIVEGIFT",
+              "reward": "",
+              "status": "expired",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Onde encontrar novos códigos?",
+          "body": "Novos códigos costumam sair em grandes atualizações, marcos de visitas e datas comemorativas. As fontes oficiais são o Discord da BlushCrunch Studio, o grupo BlushCrunch Studio no Roblox e a própria página do jogo no Roblox. Neste app, toque no botão de atualizar (↻) na tela de jogos para baixar a lista mais recente."
+        },
+        {
+          "type": "links",
+          "title": "Links úteis",
+          "links": [
+            {
+              "label": "Dandy's World no Roblox (busca oficial)",
+              "url": "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World",
+              "official": true
+            },
+            {
+              "label": "Lista de códigos — Roblox Den",
+              "url": "https://robloxden.com/game-codes/dandy-s-world",
+              "official": false
+            },
+            {
+              "label": "Lista de códigos — PC Gamer (inglês)",
+              "url": "https://www.pcgamer.com/games/roblox/dandys-world-codes",
+              "official": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skins",
+      "title": "Skins",
+      "emoji": "👕",
+      "description": "Visuais alternativos dos Toons e como conseguir.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "text",
+          "title": "",
+          "body": "Skins mudam só a aparência do Toon. Elas não deixam o personagem mais forte. Toque em uma skin para ver os detalhes."
+        },
+        {
+          "type": "items",
+          "title": "Tipos de skin",
+          "items": [
+            {
+              "name": "Skins Vintage",
+              "tags": [
+                "Gratuita",
+                "Maestria"
+              ],
+              "description": "Versão \"antiga\"/retrô de um Toon, dada como recompensa por completar a Maestria daquele Toon.",
+              "fields": {
+                "Como conseguir": "Complete todas as missões de Maestria do Toon.",
+                "Requisitos": "Ter o Toon e cumprir as missões dele (ex.: Connie pede usar a habilidade 100 vezes e terminar 50 máquinas).",
+                "Exemplos": "Vintage Brusha, Vintage Connie, Vintage Toodles."
+              }
+            },
+            {
+              "name": "Skins Douradas (Golden) de Natal",
+              "tags": [
+                "Evento",
+                "Tempo limitado"
+              ],
+              "description": "Skins natalinas liberadas pelas Holiday Quests, missões do evento de Natal lançado em 20/12/2025 (atualização \"Bobette and Coal Quests\").",
+              "fields": {
+                "Como conseguir": "Completar as Holiday Quests de cada personagem durante o evento.",
+                "Importante": "Recompensa de evento: só pode ser obtida enquanto o evento estiver ativo."
+              }
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "title": "",
+          "tone": "info",
+          "body": "A lista completa de skins por Toon será adicionada nas próximas atualizações de conteúdo."
+        }
+      ]
+    },
+    {
+      "id": "como-conseguir-skins",
+      "title": "Como Conseguir Skins",
+      "emoji": "🧩",
+      "description": "Os caminhos para liberar skins.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "items",
+          "title": "Formas de conseguir",
+          "items": [
+            {
+              "name": "Maestria",
+              "tags": [
+                "Gratuito"
+              ],
+              "description": "Complete as missões de Maestria de um Toon para ganhar a skin Vintage dele.",
+              "fields": {}
+            },
+            {
+              "name": "Eventos",
+              "tags": [
+                "Tempo limitado"
+              ],
+              "description": "Eventos sazonais (como o de Natal) trazem missões com skins exclusivas.",
+              "fields": {}
+            },
+            {
+              "name": "Códigos",
+              "tags": [
+                "Raro"
+              ],
+              "description": "De vez em quando um código dá skin (ex.: o código SKINTICKET, hoje expirado).",
+              "fields": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maestria",
+      "title": "Maestria",
+      "emoji": "🏅",
+      "description": "O que é e como completar.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "text",
+          "title": "O que é Maestria?",
+          "body": "Cada Toon tem uma lista de missões chamada Maestria (Mastery). São desafios como terminar um número de máquinas ou usar a habilidade do Toon várias vezes. Completar tudo dá a skin Vintage daquele Toon."
+        },
+        {
+          "type": "text",
+          "title": "Por que é importante?",
+          "body": "Além da skin, alguns Toons só podem ser comprados depois de completar a Maestria de outro. Exemplo: para liberar o Looey na Dandy's Store é preciso completar todas as missões de Maestria da Poppy (além de ter 1.000 Ichor)."
+        },
+        {
+          "type": "items",
+          "title": "Exemplos de missões",
+          "items": [
+            {
+              "name": "Connie",
+              "tags": [
+                "Vintage Connie"
+              ],
+              "description": "Usar a habilidade Haunting Escape 100 vezes e terminar 50 máquinas.",
+              "fields": {}
+            },
+            {
+              "name": "Yatta",
+              "tags": [
+                "Maestria"
+              ],
+              "description": "Inclui terminar 85 máquinas e pegar 50 Research Capsules (cápsulas de pesquisa), entre outras.",
+              "fields": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vintage",
+      "title": "Vintage",
+      "emoji": "📼",
+      "description": "O que significa \"Vintage\" no jogo.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "text",
+          "title": "O que significa Vintage?",
+          "body": "Vintage é o nome das skins ganhas ao completar a Maestria de um Toon. Elas mostram o personagem com um visual antigo/retrô. Ter uma skin Vintage mostra que você dominou aquele Toon."
+        }
+      ]
+    },
+    {
+      "id": "termos",
+      "title": "Termos do Jogo",
+      "emoji": "📖",
+      "description": "Dicionário para iniciantes.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "items",
+          "title": "",
+          "items": [
+            {
+              "name": "Toon",
+              "tags": [],
+              "description": "Os personagens que você controla. Cada Toon tem atributos e uma habilidade própria.",
+              "fields": {}
+            },
+            {
+              "name": "Twisted",
+              "tags": [],
+              "description": "As versões monstruosas dos Toons que perseguem os jogadores durante a partida.",
+              "fields": {}
+            },
+            {
+              "name": "Ichor",
+              "tags": [
+                "Moeda"
+              ],
+              "description": "A moeda do jogo. Serve para comprar Toons e Trinkets na Dandy's Store.",
+              "fields": {}
+            },
+            {
+              "name": "Dandy's Store",
+              "tags": [],
+              "description": "A loja do Dandy, onde você compra Toons e Trinkets com Ichor.",
+              "fields": {}
+            },
+            {
+              "name": "Trinkets",
+              "tags": [],
+              "description": "Acessórios que dão vantagens durante a partida.",
+              "fields": {}
+            },
+            {
+              "name": "Máquinas",
+              "tags": [],
+              "description": "Objetivos que os jogadores precisam completar para avançar.",
+              "fields": {}
+            },
+            {
+              "name": "Research (Pesquisa)",
+              "tags": [],
+              "description": "Progresso de pesquisa sobre os Twisteds, obtido pegando Research Capsules. Alguns Toons exigem pesquisa para serem liberados.",
+              "fields": {}
+            },
+            {
+              "name": "Maestria (Mastery)",
+              "tags": [],
+              "description": "Missões de cada Toon. Completar dá a skin Vintage.",
+              "fields": {}
+            },
+            {
+              "name": "Gardenview Center",
+              "tags": [],
+              "description": "O lugar assombrado onde o jogo acontece.",
+              "fields": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guias",
+      "title": "Guias por Nível",
+      "emoji": "🧭",
+      "description": "Do iniciante ao profissional.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "levels",
+          "title": "Escolha seu nível",
+          "levels": [
+            {
+              "level": "🟢 Fácil / Iniciante",
+              "tips": [
+                "Resgate os códigos ativos antes de jogar para ganhar Ichor extra.",
+                "Foque em completar as máquinas: é o principal objetivo da partida.",
+                "Aprenda o nome e a habilidade do seu Toon antes de tentar missões difíceis.",
+                "Use o Ichor para comprar um Toon novo ou Trinkets na Dandy's Store."
+              ]
+            },
+            {
+              "level": "🟡 Intermediário",
+              "tips": [
+                "Comece as missões de Maestria do Toon que você mais usa para ganhar a skin Vintage.",
+                "Pegue as Research Capsules: a pesquisa libera novos Toons."
+              ]
+            },
+            {
+              "level": "🟠 Avançado",
+              "tips": []
+            },
+            {
+              "level": "🔴 Profissional",
+              "tips": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dicas",
+      "title": "Dicas Rápidas",
+      "emoji": "💡",
+      "description": "Truques curtos para melhorar.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "atualizacoes",
+      "title": "Atualizações",
+      "emoji": "🛠️",
+      "description": "Histórico de atualizações do jogo.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "items",
+          "title": "",
+          "items": [
+            {
+              "name": "20/12/2025 — Bobette and Coal Quests",
+              "tags": [
+                "Natal"
+              ],
+              "description": "Trouxe as Holiday Quests, missões de Natal com skins Douradas como recompensa.",
+              "fields": {}
+            },
+            {
+              "name": "06/12/2024 — Connie e Looey",
+              "tags": [
+                "Novos Toons"
+              ],
+              "description": "Adicionou os Toons Connie e Looey.",
+              "fields": {}
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "title": "",
+          "tone": "info",
+          "body": "Novas atualizações serão adicionadas aqui pela atualização de conteúdo do app."
+        }
+      ]
+    },
+    {
+      "id": "novidades",
+      "title": "Novidades",
+      "emoji": "📰",
+      "description": "Últimas notícias do jogo.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "eventos",
+      "title": "Eventos",
+      "emoji": "🎉",
+      "description": "Eventos ativos e futuros.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "semana",
+      "title": "Coisas da Semana",
+      "emoji": "📅",
+      "description": "O que está rolando nesta semana.",
+      "status": "coming_soon",
+      "sections": []
+    },
+    {
+      "id": "info",
+      "title": "Informações Gerais",
+      "emoji": "ℹ️",
+      "description": "Sobre o jogo e links oficiais.",
+      "status": "available",
+      "updatedAt": "2026-11-06",
+      "sections": [
+        {
+          "type": "text",
+          "title": "Sobre o jogo",
+          "body": "Dandy's World é um jogo de terror cooperativo (estilo \"mascot horror\") do Roblox, criado pela BlushCrunch Studio. Os jogadores escolhem um Toon, completam máquinas e tentam escapar dos Twisteds no Gardenview Center."
+        },
+        {
+          "type": "links",
+          "title": "Links oficiais",
+          "links": [
+            {
+              "label": "Dandy's World no Roblox (busca oficial)",
+              "url": "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World",
+              "official": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
