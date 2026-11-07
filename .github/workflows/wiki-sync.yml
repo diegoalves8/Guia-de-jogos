@@ -1,0 +1,24 @@
+# Coleta textos e imagens da Dandy's World Wiki e grava na branch "wiki-data".
+# Rodar manualmente: Actions → Wiki Sync → Run workflow.
+name: Wiki Sync
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Coletar dados da wiki
+        run: python3 tools/wiki_sync.py /tmp/wiki-data
+      - name: Gravar na branch wiki-data
+        run: |
+          cd /tmp/wiki-data
+          git init -q -b wiki-data
+          git add -A
+          git -c user.name="wiki-sync" -c user.email="actions@users.noreply.github.com" commit -q -m "Wiki sync $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" wiki-data
