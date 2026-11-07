@@ -1,0 +1,13 @@
+[build]
+  publish = "web"
+  command = "mkdir -p web/content && cp -r app/src/main/assets/content/* web/content/"
+
+[[headers]]
+  for = "/content/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
