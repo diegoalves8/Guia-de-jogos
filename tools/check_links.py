@@ -8,7 +8,7 @@ for h in handles:
     urls += [f"https://www.youtube.com/@{h}", f"https://www.tiktok.com/@{h}"]
 def get(u):
     try:
-        req = urllib.request.Request(u, headers={"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9"})
+        req = urllib.request.Request(u + ("?hl=pt&gl=BR" if "youtube" in u else ""), headers={"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9", "Cookie": "CONSENT=YES+cb; SOCS=CAI"})
         with urllib.request.urlopen(req, timeout=25) as r:
             html = r.read(400000).decode("utf-8", "ignore")
             t = re.search(r"<title>(.*?)</title>", html, re.S)
@@ -16,6 +16,13 @@ def get(u):
             subs = re.search(r'"subscriberCountText":\{"accessibility":\{"accessibilityData":\{"label":"([^"]+)"', html) or re.search(r'([\d.,]+\s*(?:mi|mil|M|K)?\s*(?:de )?inscritos)', html)
             desc = re.search(r'<meta name="description" content="([^"]{0,160})', html)
             fol = re.search(r'"followerCount":(\d+)', html)
+            og = re.search(r'<meta property="og:title" content="([^"]*)"', html)
+            nick = re.search(r'"nickname":"([^"]*)"', html)
+            sig = re.search(r'"signature":"([^"]{0,140})', html)
+            yt = re.search(r'"description":\{"simpleText":"([^"]{0,140})', html) or re.search(r'<meta itemprop="description" content="([^"]{0,140})', html)
+            title = " / ".join(x for x in [title, og.group(1) if og else "", nick.group(1) if nick else ""] if x)
+            if sig: title += " | sig=" + sig.group(1)
+            if yt: title += " | yt=" + yt.group(1)
             return f"{r.status} | {u} | {title} | {subs.group(1) if subs else ''} | {('fol=' + fol.group(1)) if fol else ''} | {desc.group(1) if desc else ''}"
     except Exception as e:
         return f"ERR | {u} | {e}"
