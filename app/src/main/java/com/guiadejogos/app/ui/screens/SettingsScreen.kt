@@ -200,6 +200,11 @@ fun SettingsScreen(repository: ContentRepository, onBack: (() -> Unit)? = null) 
             }
             item {
                 UpdateCard(Icons.Filled.Info, "Sobre", "Guia de Jogos ${BuildConfig.VERSION_NAME}", AppColors.TextSecondary) {
+                    Text("Aplicativo criado por Gustavo Bezerra.", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary)
+                    (stats as? LoadState.Success)?.data?.let { games ->
+                        Text("Quem criou cada jogo", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary)
+                        games.forEach { g -> Text("• ${g.name}: ${g.credits.joinToString(" ")}", style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary) }
+                    }
                     Text("Dados e imagens vêm de wikis da comunidade (Fandom, licença CC BY-SA) e de fontes oficiais. Marcas e personagens pertencem aos seus donos. Este app não é oficial de nenhum dos jogos.", style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary)
                 }
             }

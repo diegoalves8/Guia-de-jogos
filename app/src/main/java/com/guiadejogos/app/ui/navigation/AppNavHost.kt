@@ -175,7 +175,7 @@ private fun Graph(nav: NavHostController, repository: ContentRepository, favorit
         }
         composable(Routes.GAMES) { GamesScreen(repository = repository, onGameClick = { id -> open(Routes.game(id)) }) }
         composable(Routes.FAVORITES) { FavoritesScreen(favorites = favorites, onOpenRoute = open) }
-        composable(Routes.NEWS) { NewsScreen(repository = repository, onOpenCategory = { g, c -> open(Routes.category(g, c)) }) }
+        composable(Routes.NEWS) { NewsScreen(repository = repository, onOpenCategory = { g, c -> open(Routes.category(g, c)) }, onOpenGame = { g -> open(Routes.game(g)) }) }
         composable(Routes.SETTINGS) { SettingsScreen(repository = repository) }
         composable(Routes.SEARCH) { SearchScreen(repository = repository, onBack = back, onOpenRoute = open) }
         composable(Routes.GAME, arguments = listOf(navArgument("gameId") { type = NavType.StringType })) { e ->

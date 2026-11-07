@@ -2832,12 +2832,37 @@
     {
      "type": "text",
      "title": "",
-     "body": "Os códigos do Blox Fruits costumam sair no X (Twitter) oficial do jogo e aparecem na wiki. Eles dão boost de XP, Beli ou reset de atributos. Ainda não temos códigos ativos confirmados para listar aqui."
+     "body": "Os códigos do Blox Fruits saem no X (Twitter) oficial e no canal Gamer Robot. Para resgatar: no jogo, toque no ícone de presente/Twitter no menu da esquerda, digite o código e confirme."
     },
     {
      "type": "codes",
-     "title": "Códigos ativos",
-     "codes": []
+     "title": "Códigos reportados como ativos",
+     "codes": [
+      {
+       "code": "KITT_RESET",
+       "reward": "Reset de atributos grátis",
+       "status": "unverified",
+       "note": "Listado como ativo pelo Beebom em 05/11/2026."
+      },
+      {
+       "code": "SUB2GAMERROBOT_EXP1",
+       "reward": "30 minutos de 2x EXP",
+       "status": "unverified",
+       "note": "Listado como ativo pelo Beebom em 05/11/2026."
+      },
+      {
+       "code": "BIGNEWS",
+       "reward": "Título \"Big News\"",
+       "status": "unverified",
+       "note": "Listado como ativo por Beebom e G2A em novembro de 2026."
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Códigos do Blox Fruits expiram sem aviso. Se não funcionar, ele provavelmente já expirou."
     }
    ]
   },
@@ -2845,62 +2870,29 @@
    "id": "criadores",
    "title": "Criadores de Conteúdo",
    "emoji": "📺",
-   "description": "YouTubers e tiktokers.",
+   "description": "Brasileiros e internacionais, com link direto para o canal.",
    "status": "available",
    "updatedAt": "2026-11-07",
    "sections": [
     {
-     "type": "items",
+     "type": "creators",
      "title": "Criadores para acompanhar",
-     "items": [
-      {
-       "name": "Gamer Robot",
-       "tags": [
-        "YouTube",
-        "Oficial"
-       ],
-       "description": "Canal oficial do Blox Fruits (Gamer Robot Inc), com novidades e atualizações.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "vidIQ (descrição do canal)"
-       }
-      },
+     "creators": [
       {
        "name": "Cafazera",
-       "tags": [
-        "YouTube",
-        "Instagram",
-        "Português"
-       ],
-       "description": "Criador brasileiro focado em Blox Fruits: tutoriais de combos, espadas e bounty.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "CreatorDB / Famous Birthdays"
-       }
+       "country": "🇧🇷 Brasil",
+       "about": "Criador brasileiro focado em Blox Fruits: combos, espadas e bounty.",
+       "youtube": "https://www.youtube.com/@Cafazera",
+       "tiktok": "https://www.tiktok.com/@Cafazera",
+       "source": "CreatorDB · perfil do TikTok (319 mil)"
       },
       {
-       "name": "Lucas Clash ON",
-       "tags": [
-        "YouTube",
-        "Português"
-       ],
-       "description": "Também posta tutoriais e gameplay de Blox Fruits.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Famous Birthdays"
-       }
-      },
-      {
-       "name": "AccelToWin",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Guias de progressão do Primeiro e Segundo Mar para iniciantes.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Lista de canais de estratégia de Blox Fruits"
-       }
+       "name": "Gamer Robot (oficial)",
+       "country": "🇺🇸 EUA",
+       "about": "Canal oficial do Blox Fruits, da Gamer Robot Inc.: novidades, prévias e códigos.",
+       "youtube": "https://www.youtube.com/@GamerRobot",
+       "tiktok": "",
+       "source": "vidIQ (descrição do canal)"
       }
      ]
     },
@@ -2908,53 +2900,7 @@
      "type": "notice",
      "title": "",
      "tone": "info",
-     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
-    },
-    {
-     "type": "links",
-     "title": "Ver vídeos (YouTube e TikTok)",
-     "links": [
-      {
-       "label": "Gamer Robot no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Gamer+Robot+Blox+Fruits",
-       "official": false
-      },
-      {
-       "label": "Gamer Robot no TikTok",
-       "url": "https://www.tiktok.com/search?q=Gamer%20Robot%20Blox%20Fruits",
-       "official": false
-      },
-      {
-       "label": "Cafazera no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Cafazera+Blox+Fruits",
-       "official": false
-      },
-      {
-       "label": "Cafazera no TikTok",
-       "url": "https://www.tiktok.com/search?q=Cafazera%20Blox%20Fruits",
-       "official": false
-      },
-      {
-       "label": "Lucas Clash ON no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Lucas+Clash+ON+Blox+Fruits",
-       "official": false
-      },
-      {
-       "label": "Lucas Clash ON no TikTok",
-       "url": "https://www.tiktok.com/search?q=Lucas%20Clash%20ON%20Blox%20Fruits",
-       "official": false
-      },
-      {
-       "label": "AccelToWin no YouTube",
-       "url": "https://www.youtube.com/results?search_query=AccelToWin+Blox+Fruits",
-       "official": false
-      },
-      {
-       "label": "AccelToWin no TikTok",
-       "url": "https://www.tiktok.com/search?q=AccelToWin%20Blox%20Fruits",
-       "official": false
-      }
-     ]
+     "body": "Os links abrem direto o canal no YouTube e o perfil no TikTok. Só colocamos link direto quando confirmamos o perfil; nos outros casos o link abre a busca."
     }
    ]
   },
@@ -2984,5 +2930,9 @@
     }
    ]
   }
+ ],
+ "credits": [
+  "Desenvolvido pela Gamer Robot Inc.",
+  "Criado pelos irmãos mygame43 e rip_indra."
  ]
 }

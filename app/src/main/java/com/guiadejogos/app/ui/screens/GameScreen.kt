@@ -164,6 +164,10 @@ private fun GameContent(
                 Column(m.background(AppColors.Surface, RoundedCornerShape(Dimens.CardRadius)).padding(22.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
                     Text("Sobre o jogo", style = MaterialTheme.typography.titleLarge, color = AppColors.TextPrimary)
                     Text(summary.longDescription.ifBlank { game.description }, style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary)
+                    if (summary.credits.isNotEmpty()) {
+                        Text("Quem criou", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary, modifier = Modifier.padding(top = 6.dp))
+                        summary.credits.forEach { Text("• $it", style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary) }
+                    }
                 }
             }
             val compat: @Composable (Modifier) -> Unit = { m ->

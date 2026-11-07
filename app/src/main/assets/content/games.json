@@ -1,5 +1,5 @@
 {
-  "contentVersion": 4,
+  "contentVersion": 5,
   "updatedAt": "2026-11-07",
   "news": [
     {
@@ -53,7 +53,11 @@
       "longDescription": "Jogo de terror cooperativo (estilo mascot horror) do Roblox. Você escolhe um Toon, conserta máquinas em cada andar do Gardenview Center e tenta escapar dos Twisteds. Cada Toon tem habilidades, missões de Maestria e skins.",
       "storeUrl": "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World",
       "storeLabel": "Abrir no Roblox",
-      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Desenvolvido e publicado pela BlushCrunch Studio no Roblox.",
+        "Idealizado por Qwelver (Roblox Creator Spotlight)."
+      ]
     },
     {
       "id": "brawl-stars",
@@ -81,7 +85,10 @@
       "longDescription": "Jogo de batalhas rápidas 3 contra 3 e Battle Royale da Supercell. Você desbloqueia e evolui Brawlers, cada um com ataque, Super, Gadgets, Star Powers e Hipercarga.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
       "storeLabel": "Baixar na Play Store",
-      "compatibility": "Android e iOS."
+      "compatibility": "Android e iOS.",
+      "credits": [
+        "Desenvolvido e publicado pela Supercell, estúdio da Finlândia."
+      ]
     },
     {
       "id": "free-fire",
@@ -109,7 +116,10 @@
       "longDescription": "Battle royale para celular da Garena: até 50 jogadores numa ilha, com personagens que têm habilidades próprias, pets e muitos modos de jogo.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
       "storeLabel": "Baixar na Play Store",
-      "compatibility": "Android e iOS."
+      "compatibility": "Android e iOS.",
+      "credits": [
+        "Desenvolvido pela 111dots Studio e publicado pela Garena."
+      ]
     },
     {
       "id": "murder-mystery",
@@ -137,7 +147,10 @@
       "longDescription": "Jogo de mistério do Roblox: a cada rodada um jogador é o Assassino, outro o Xerife e o resto Inocentes. Tem um dos maiores sistemas de troca de facas e armas do Roblox.",
       "storeUrl": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery%202",
       "storeLabel": "Abrir no Roblox",
-      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Criado por Nikilis, desenvolvedor independente do Roblox. É o único jogo publicado no perfil dele."
+      ]
     },
     {
       "id": "blox-fruits",
@@ -166,7 +179,161 @@
       "longDescription": "RPG de aventura do Roblox inspirado em One Piece. Você navega por três mares, sobe de nível, coleta frutas com poderes, espadas e estilos de luta.",
       "storeUrl": "https://www.roblox.com/discover/?Keyword=Blox%20Fruits",
       "storeLabel": "Abrir no Roblox",
-      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Desenvolvido pela Gamer Robot Inc.",
+        "Criado pelos irmãos mygame43 e rip_indra."
+      ]
     }
-  ]
+  ],
+  "weeklyNews": {
+    "period": "Semana de 01/11 a 07/11/2026",
+    "items": [
+      {
+        "game": "dandys-world",
+        "date": "2026-11-06",
+        "title": "Fim do evento de Halloween e começa a semana do Astro",
+        "body": "O evento de Halloween (02/10 a 06/11) acabou e a atualização \"Astro's Week\" (Alpha 0.30.1) removeu o conteúdo do evento. Astro é o Toon da Semana até 13/11.",
+        "source": "Dandy's World Wiki (Changelog)",
+        "url": ""
+      },
+      {
+        "game": "dandys-world",
+        "date": "2026-11-03",
+        "title": "Novo código AD2026",
+        "body": "O código AD2026 dá o Profile Print \"American Dream 2026\". O código QoM expirou em 06/11.",
+        "source": "GamesRadar",
+        "url": "https://www.gamesradar.com/games/survival/dandys-world-codes/"
+      },
+      {
+        "game": "dandys-world",
+        "date": "2026-11-03",
+        "title": "Fim da missão The Hollow",
+        "body": "A missão do Dandy's World no evento The Hollow, do Roblox, deixou de ser jogável em 03/11.",
+        "source": "Dandy's World Wiki",
+        "url": ""
+      },
+      {
+        "game": "brawl-stars",
+        "date": "2026-11-03",
+        "title": "Atualização de novembro: Ranqueado renovado",
+        "body": "Agora o Ranqueado exige Brawlers no nível de poder 11 em todos os ranks e 12 Brawlers no Diamante. Também chegaram filtros de Brawlers, sugestão de banimento e chat rápido no draft.",
+        "source": "Supercell (notas oficiais)",
+        "url": "https://supercell.com/en/games/brawlstars/blog/game-updates/release-notes-november-2026/"
+      },
+      {
+        "game": "brawl-stars",
+        "date": "2026-11-03",
+        "title": "Novos Brawlers e Hipercargas",
+        "body": "Chegam os Sapos Voltaicos (Lendário, Artilharia) e Rey (Mítico, Atirador), além de novas Hipercargas para Cosmo e Vince e o modo Mega Showdown, com 20 jogadores.",
+        "source": "GearUP Booster · BrawlZone",
+        "url": ""
+      },
+      {
+        "game": "free-fire",
+        "date": "2026-11-06",
+        "title": "Começam as Finais Globais do FFWS",
+        "body": "As Finais Globais do Free Fire World Series começam em 06/11, em Bangcoc (Tailândia), com 24 equipes ao longo de quatro fins de semana.",
+        "source": "Garena (site oficial)",
+        "url": "https://ff.garena.com/pt/article/1607/"
+      },
+      {
+        "game": "free-fire",
+        "date": "2026-11-07",
+        "title": "Codiguins de novembro confirmados",
+        "body": "A Garena confirmou 4 itens de codiguin para novembro: Conjunto Pulso Cósmico e Conjunto Aura Cósmica (07 a 19/11), AWM Núcleo Cósmico (14/11 a 10/12) e Invoque a Bandeira! (09/11 a 11/12). Resgate só no site oficial.",
+        "source": "Free Fire Mania (programa FFCP)",
+        "url": ""
+      },
+      {
+        "game": "free-fire",
+        "date": "2026-11-01",
+        "title": "Loja Prime e Passe de novembro",
+        "body": "A Loja Prime de novembro abriu com o Punho Ardente (2.899 diamantes). O Passe de novembro tem o tema Escorpiões Estelares.",
+        "source": "Free Fire Mania",
+        "url": ""
+      },
+      {
+        "game": "blox-fruits",
+        "date": "2026-10-31",
+        "title": "Evento de Halloween com a mutação Hellfire",
+        "body": "O evento de Halloween (Update 30 \"Magnet\") começou em 31/10 e vai até 15/11/2026, às 22h de 14/11 no horário de Brasília. Traz a mutação Hellfire do Gas, caça às abóboras e o Spooky Gacha.",
+        "source": "Timesaver · U7BUY",
+        "url": ""
+      },
+      {
+        "game": "murder-mystery",
+        "date": "2026-11-03",
+        "title": "Halloween retrô continua até 16/11",
+        "body": "O evento de Halloween segue até 16/11. Destaques: a Godly Embersickle (0,2% na caixa), o Ancient Emberbow (nível 30 do passe), a criação do Emberscythe no Caldeirão e as primeiras Chroma Ancients do jogo. Não há código ativo.",
+        "source": "Murder Mystery 2 Wiki · G2A",
+        "url": ""
+      }
+    ]
+  },
+  "monthlyNews": {
+    "period": "Novembro de 2026",
+    "items": [
+      {
+        "game": "dandys-world",
+        "date": "2026-11-13",
+        "title": "Próxima atualização e troca do Toon da Semana",
+        "body": "A wiki aponta um novo patch (versão Alpha 0.30) e a troca do Toon da Semana para sexta, 13/11. O próximo grande evento esperado é o de Natal.",
+        "source": "Dandy's World Wiki",
+        "url": ""
+      },
+      {
+        "game": "blox-fruits",
+        "date": "2026-11-15",
+        "title": "Fim do evento de Halloween",
+        "body": "O evento termina em 15/11 às 01:00 UTC (22h de 14/11 em Brasília).",
+        "source": "Lista oficial de eventos do Roblox (via Timesaver)",
+        "url": ""
+      },
+      {
+        "game": "murder-mystery",
+        "date": "2026-11-16",
+        "title": "Fim do Halloween 2026",
+        "body": "O evento acaba em 16/11 às 18:00 UTC (15h em Brasília). Depois disso as armas do evento só por troca.",
+        "source": "Lista oficial de eventos do Roblox (via allthings.how)",
+        "url": ""
+      },
+      {
+        "game": "brawl-stars",
+        "date": "2026-11-19",
+        "title": "Nova temporada do Ranqueado",
+        "body": "A próxima temporada do Ranqueado começa em 19/11, já com as novas regras.",
+        "source": "BrawlZone",
+        "url": ""
+      },
+      {
+        "game": "brawl-stars",
+        "date": "2026-11-20",
+        "title": "Finais Mundiais no Japão",
+        "body": "As Finais Mundiais de Brawl Stars acontecem de 20 a 22/11, no Japão, com recompensas para quem assistir pelo site oficial.",
+        "source": "Brawl Stars Dicas",
+        "url": ""
+      },
+      {
+        "game": "free-fire",
+        "date": "2026-11-30",
+        "title": "FFWS durante todo o mês",
+        "body": "As Finais Globais do FFWS seguem por quatro fins de semana em novembro. A Loja e a Loja Prime de novembro vão até 30/11.",
+        "source": "Garena · Free Fire Mania",
+        "url": ""
+      },
+      {
+        "game": "dandys-world",
+        "date": "2026-11-06",
+        "title": "Resumo: Halloween 2026",
+        "body": "Voltaram os Toons Gourdy, Soulvester, Eclipse e Ribecca, com loja de Pumpkins, missões de skins Douradas, a skin Toxic Experiment do Waxwell e a música oficial \"Queens of Mischief\".",
+        "source": "X (Twitter) · Gaming Route",
+        "url": ""
+      }
+    ]
+  },
+  "appCredits": {
+    "author": "Gustavo Bezerra",
+    "text": "Aplicativo criado por Gustavo Bezerra."
+  }
 }

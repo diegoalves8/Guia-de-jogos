@@ -2250,96 +2250,37 @@
    "id": "criadores",
    "title": "Criadores de Conteúdo",
    "emoji": "📺",
-   "description": "YouTubers, tiktokers e Instagram.",
+   "description": "Brasileiros e internacionais, com link direto para o canal.",
    "status": "available",
    "updatedAt": "2026-11-07",
    "sections": [
     {
-     "type": "items",
+     "type": "creators",
      "title": "Criadores para acompanhar",
-     "items": [
+     "creators": [
       {
        "name": "Nobru",
-       "tags": [
-        "YouTube",
-        "TikTok",
-        "Instagram"
-       ],
-       "description": "Um dos influenciadores brasileiros mais lembrados pelos gamers; cofundador da Fluxo.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Meio & Mensagem / TheTVDB"
-       }
+       "country": "🇧🇷 Brasil",
+       "about": "Bruno Goes, um dos maiores nomes do Free Fire no Brasil e cofundador da Fluxo.",
+       "youtube": "https://www.youtube.com/results?search_query=Nobru+Free+Fire",
+       "tiktok": "https://www.tiktok.com/@Nobru",
+       "source": "Meio & Mensagem · perfil do TikTok (12 mi)"
       },
       {
        "name": "Cerol",
-       "tags": [
-        "YouTube",
-        "Instagram"
-       ],
-       "description": "Eleito melhor streamer no Prêmio eSports Brasil 2019; cofundador da Fluxo.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "TheTVDB / Fragster"
-       }
+       "country": "🇧🇷 Brasil",
+       "about": "Eleito melhor streamer no Prêmio eSports Brasil 2019; cofundador da Fluxo.",
+       "youtube": "https://www.youtube.com/@Cerol",
+       "tiktok": "https://www.tiktok.com/@Cerol",
+       "source": "TheTVDB · perfil do TikTok (4,4 mi)"
       },
       {
        "name": "El Gato",
-       "tags": [
-        "YouTube",
-        "Instagram"
-       ],
-       "description": "Dono de uma das maiores organizações de esports e grande influenciador do mobile.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Fragster"
-       }
-      },
-      {
-       "name": "Thurzin",
-       "tags": [
-        "YouTube",
-        "TikTok"
-       ],
-       "description": "Streamer e jogador profissional, um dos maiores nomes da história do Free Fire.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Fragster"
-       }
-      },
-      {
-       "name": "Loud Babi",
-       "tags": [
-        "YouTube",
-        "Instagram"
-       ],
-       "description": "Uma das streamers e criadoras de Free Fire mais populares do Brasil.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "oEmbed (lista de canais)"
-       }
-      },
-      {
-       "name": "PlayHard",
-       "tags": [
-        "YouTube"
-       ],
-       "description": "Canal grande de gameplay de Free Fire.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Free Fire Mania"
-       }
-      },
-      {
-       "name": "Jefão",
-       "tags": [
-        "YouTube"
-       ],
-       "description": "Esteve no top 10 de criadores em ascensão do YouTube em 2020.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Free Fire Mania"
-       }
+       "country": "🇧🇷 Brasil",
+       "about": "Rodrigo El Gato, dono de uma das maiores organizações de esports do Brasil.",
+       "youtube": "https://www.youtube.com/@ElGato",
+       "tiktok": "https://www.tiktok.com/@ElGato",
+       "source": "Fragster · perfil do TikTok (3,6 mi)"
       }
      ]
     },
@@ -2347,83 +2288,7 @@
      "type": "notice",
      "title": "",
      "tone": "info",
-     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
-    },
-    {
-     "type": "links",
-     "title": "Ver vídeos (YouTube e TikTok)",
-     "links": [
-      {
-       "label": "Nobru no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Nobru+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "Nobru no TikTok",
-       "url": "https://www.tiktok.com/search?q=Nobru%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "Cerol no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Cerol+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "Cerol no TikTok",
-       "url": "https://www.tiktok.com/search?q=Cerol%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "El Gato no YouTube",
-       "url": "https://www.youtube.com/results?search_query=El+Gato+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "El Gato no TikTok",
-       "url": "https://www.tiktok.com/search?q=El%20Gato%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "Thurzin no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Thurzin+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "Thurzin no TikTok",
-       "url": "https://www.tiktok.com/search?q=Thurzin%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "Loud Babi no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Loud+Babi+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "Loud Babi no TikTok",
-       "url": "https://www.tiktok.com/search?q=Loud%20Babi%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "PlayHard no YouTube",
-       "url": "https://www.youtube.com/results?search_query=PlayHard+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "PlayHard no TikTok",
-       "url": "https://www.tiktok.com/search?q=PlayHard%20Free%20Fire",
-       "official": false
-      },
-      {
-       "label": "Jefão no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Jef%C3%A3o+Free+Fire",
-       "official": false
-      },
-      {
-       "label": "Jefão no TikTok",
-       "url": "https://www.tiktok.com/search?q=Jef%C3%A3o%20Free%20Fire",
-       "official": false
-      }
-     ]
+     "body": "Os links abrem direto o canal no YouTube e o perfil no TikTok. Só colocamos link direto quando confirmamos o perfil; nos outros casos o link abre a busca."
     }
    ]
   },
@@ -2453,5 +2318,8 @@
     }
    ]
   }
+ ],
+ "credits": [
+  "Desenvolvido pela 111dots Studio e publicado pela Garena."
  ]
 }

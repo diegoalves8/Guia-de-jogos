@@ -26,6 +26,8 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.ExpandMore
+import androidx.compose.material.icons.filled.MusicNote
+import androidx.compose.material.icons.filled.PlayCircle
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -87,6 +89,7 @@ fun SectionView(
             is Section.Items -> Column(verticalArrangement = Arrangement.spacedBy(10.dp)) { section.items.forEach { ItemView(it) } }
             is Section.Levels -> Column(verticalArrangement = Arrangement.spacedBy(10.dp)) { section.levels.forEach { LevelView(it.level, it.tips) } }
             is Section.Links -> LinksView(section)
+            is Section.Creators -> CreatorsView(section.creators)
             else -> Unit
         }
     }
@@ -261,6 +264,39 @@ private fun LinksView(section: Section.Links) {
                     Pill(if (link.official) "Oficial" else "Comunidade", if (link.official) AppColors.Success else AppColors.TextSecondary)
                 }
                 Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = "Abrir link", tint = AppColors.Primary)
+            }
+        }
+    }
+}
+
+/** Cartões de criadores de conteúdo com botões diretos para YouTube e TikTok. */
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+private fun CreatorsView(creators: List<com.guiadejogos.app.data.model.Creator>) {
+    val uri = LocalUriHandler.current
+    Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
+        creators.forEach { c ->
+            Column(
+                Modifier.fillMaxWidth().background(AppColors.SurfaceHigh, RoundedCornerShape(18.dp)).padding(18.dp),
+                verticalArrangement = Arrangement.spacedBy(10.dp),
+            ) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Box(
+                        Modifier.size(52.dp).background(androidx.compose.ui.graphics.Brush.linearGradient(listOf(AppColors.Primary, AppColors.Secondary)), CircleShape),
+                        contentAlignment = Alignment.Center,
+                    ) { Text(c.name.take(1).uppercase(), style = MaterialTheme.typography.titleLarge, color = Color.White) }
+                    Spacer(Modifier.width(14.dp))
+                    Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                        Text(c.name, style = MaterialTheme.typography.titleLarge, color = AppColors.TextPrimary)
+                        if (c.country.isNotBlank()) Pill(c.country, if (c.country.contains("Brasil")) AppColors.Success else AppColors.TextSecondary)
+                    }
+                }
+                if (c.about.isNotBlank()) Text(c.about, style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary)
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                    if (c.youtube.isNotBlank()) SecondaryButton("YouTube", Icons.Filled.PlayCircle) { runCatching { uri.openUri(c.youtube) } }
+                    if (c.tiktok.isNotBlank()) SecondaryButton("TikTok", Icons.Filled.MusicNote) { runCatching { uri.openUri(c.tiktok) } }
+                }
+                if (c.source.isNotBlank()) Text("Fonte: ${c.source}", style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary.copy(alpha = 0.7f))
             }
         }
     }

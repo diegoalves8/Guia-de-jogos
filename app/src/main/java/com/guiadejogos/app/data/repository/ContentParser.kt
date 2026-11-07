@@ -13,6 +13,9 @@ import com.guiadejogos.app.data.model.GamesIndex
 import com.guiadejogos.app.data.model.InfoItem
 import com.guiadejogos.app.data.model.LevelGroup
 import com.guiadejogos.app.data.model.NewsItem
+import com.guiadejogos.app.data.model.NewsPeriod
+import com.guiadejogos.app.data.model.GameNews
+import com.guiadejogos.app.data.model.Creator
 import com.guiadejogos.app.data.model.Section
 import com.guiadejogos.app.data.model.Toon
 import com.guiadejogos.app.data.model.ToonSkin
@@ -54,13 +57,24 @@ object ContentParser {
                     storeUrl = g.optString("storeUrl"),
                     storeLabel = g.optString("storeLabel"),
                     compatibility = g.optString("compatibility"),
+                    credits = g.optJSONArray("credits").strings(),
                 )
             },
             news = root.optJSONArray("news").objects().map { n ->
                 NewsItem(n.optString("date"), n.optString("title"), n.optString("body"))
             },
+            weeklyNews = parsePeriod(root.optJSONObject("weeklyNews")),
+            monthlyNews = parsePeriod(root.optJSONObject("monthlyNews")),
+            appAuthor = root.optJSONObject("appCredits")?.optString("author").orEmpty(),
         )
     }
+
+    private fun parsePeriod(o: JSONObject?): NewsPeriod = NewsPeriod(
+        period = o?.optString("period").orEmpty(),
+        items = o?.optJSONArray("items").objects().map { n ->
+            GameNews(n.optString("game"), n.optString("date"), n.optString("title"), n.optString("body"), n.optString("source"), n.optString("url"))
+        },
+    )
 
     fun parseGame(json: String): GameDetail {
         val root = JSONObject(json)
@@ -135,6 +149,12 @@ object ContentParser {
                 title,
                 s.optJSONArray("images").objects().map { g ->
                     GalleryImage(g.optString("image"), g.optString("caption"), g.optString("subtitle"))
+                },
+            )
+            "creators" -> Section.Creators(
+                title,
+                s.optJSONArray("creators").objects().map { c ->
+                    Creator(c.optString("name"), c.optString("country"), c.optString("about"), c.optString("youtube"), c.optString("tiktok"), c.optString("source"))
                 },
             )
             "toons" -> Section.Toons(title, s.optJSONArray("toons").objects().map(::parseToon))

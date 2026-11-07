@@ -15,6 +15,22 @@ data class GamesIndex(
     val games: List<GameSummary>,
     /** Novidades do app (mostradas na aba Novidades). */
     val news: List<NewsItem>,
+    /** Notícias dos jogos na semana e no mês (atualizadas toda semana). */
+    val weeklyNews: NewsPeriod,
+    val monthlyNews: NewsPeriod,
+    /** Quem criou o aplicativo. */
+    val appAuthor: String,
+)
+
+data class NewsPeriod(val period: String, val items: List<GameNews>)
+
+data class GameNews(
+    val gameId: String,
+    val date: String,
+    val title: String,
+    val body: String,
+    val source: String,
+    val url: String,
 )
 
 data class NewsItem(val date: String, val title: String, val body: String)
@@ -43,6 +59,8 @@ data class GameSummary(
     val storeUrl: String,
     val storeLabel: String,
     val compatibility: String,
+    /** Quem criou/desenvolveu o jogo. */
+    val credits: List<String>,
 )
 
 data class GameStats(
@@ -115,9 +133,21 @@ sealed interface Section {
     /** Grade de imagens com legenda (ex.: skins Vintage, skins Douradas). */
     data class Gallery(override val title: String, val images: List<GalleryImage>) : Section
 
+    /** Criadores de conteúdo com links diretos para YouTube e TikTok. */
+    data class Creators(override val title: String, val creators: List<Creator>) : Section
+
     /** Lista de personagens com página própria (foto, custo, requisitos, maestria, skins, tutorial). */
     data class Toons(override val title: String, val toons: List<Toon>) : Section
 }
+
+data class Creator(
+    val name: String,
+    val country: String,
+    val about: String,
+    val youtube: String,
+    val tiktok: String,
+    val source: String,
+)
 
 data class GalleryImage(
     val image: String,

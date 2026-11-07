@@ -138,7 +138,7 @@ private fun EnterButton(onEnter: () -> Unit) {
 @Composable
 private fun VersionLabel() {
     Text(
-        "Versão ${BuildConfig.VERSION_NAME}",
+        "Versão ${BuildConfig.VERSION_NAME} · Criado por Gustavo Bezerra",
         style = MaterialTheme.typography.bodyMedium,
         color = AppColors.TextSecondary.copy(alpha = 0.6f),
     )

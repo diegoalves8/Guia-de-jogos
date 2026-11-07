@@ -59,14 +59,17 @@ import com.guiadejogos.app.ui.theme.Dimens
 import kotlinx.coroutines.launch
 
 private data class NewsData(
+    val games: Map<String, GameSummary>,
+    val week: com.guiadejogos.app.data.model.NewsPeriod,
+    val month: com.guiadejogos.app.data.model.NewsPeriod,
     val codes: List<Pair<GameSummary, GameCode>>,
     val appNews: List<NewsItem>,
     val gameUpdates: List<Triple<GameSummary, String, InfoItem>>, // jogo, id da seção, item
 )
 
-/** Aba Novidades: códigos ativos, novidades do app e atualizações dos jogos. */
+/** Aba Novidades: notícias da semana e do mês, códigos ativos e novidades do app. */
 @Composable
-fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, categoryId: String) -> Unit) {
+fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, categoryId: String) -> Unit, onOpenGame: (String) -> Unit = {}) {
     var reloadKey by remember { mutableIntStateOf(0) }
     val state by rememberLoad(reloadKey) {
         val index = repository.loadIndex()
@@ -82,12 +85,15 @@ fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, c
                 }
             }
         }
-        NewsData(codes, index.news, ups)
+        NewsData(index.games.associateBy { it.id }, index.weeklyNews, index.monthlyNews, codes, index.news, ups)
     }
     val snackbar = remember { SnackbarHostState() }
     val scope = rememberCoroutineScope()
     val clipboard = LocalClipboardManager.current
     val wide = rememberScreenInfo().widthDp >= 900
+    val tabs = listOf("Da semana", "Do mês", "Códigos ativos", "Do app")
+    var tab by androidx.compose.runtime.saveable.rememberSaveable { androidx.compose.runtime.mutableStateOf(tabs[0]) }
+    val uri = androidx.compose.ui.platform.LocalUriHandler.current
 
     AppScreen(title = "Novidades", onBack = null, inShell = true) { padding ->
         when (val s = state) {
@@ -98,6 +104,35 @@ fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, c
                 verticalArrangement = Arrangement.spacedBy(Dimens.Gap),
                 modifier = Modifier.fillMaxSize(),
             ) {
+                item { com.guiadejogos.app.ui.components.FilterChipRow(tabs, tab, onSelect = { tab = it }) }
+                when (tab) {
+                    "Da semana", "Do mês" -> {
+                        val p = if (tab == "Da semana") s.data.week else s.data.month
+                        item { SectionHeader(if (tab == "Da semana") "Notícias da semana" else "Notícias do mês", p.period) }
+                        if (p.items.isEmpty()) item { Text("Ainda não há notícias neste período.", style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary) }
+                        items(p.items) { n ->
+                            val g = s.data.games[n.gameId]
+                            Row(
+                                Modifier.fillMaxWidth().clip(RoundedCornerShape(Dimens.CardRadius)).background(AppColors.Surface)
+                                    .pressable { if (n.url.isNotBlank()) runCatching { uri.openUri(n.url) } else if (g != null) onOpenGame(g.id) }
+                                    .padding(18.dp),
+                                verticalAlignment = Alignment.Top,
+                            ) {
+                                if (g != null) { GameIcon(g.cover, g.emoji, 56.dp); Spacer(Modifier.width(16.dp)) }
+                                Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                                    Row(verticalAlignment = Alignment.CenterVertically) {
+                                        if (g != null) Pill(g.name, AppColors.Secondary)
+                                        Spacer(Modifier.width(10.dp))
+                                        Text(n.date.split("-").reversed().joinToString("/"), style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary)
+                                    }
+                                    Text(n.title, style = MaterialTheme.typography.titleLarge, color = AppColors.TextPrimary)
+                                    Text(n.body, style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary)
+                                    Text("Fonte: ${n.source}" + if (n.url.isNotBlank()) "  ·  toque para abrir" else "", style = MaterialTheme.typography.bodyMedium, color = AppColors.Primary)
+                                }
+                            }
+                        }
+                    }
+                    "Códigos ativos" -> {
                 item { SectionHeader("Códigos ativos agora", "Toque para copiar") }
                 if (s.data.codes.isEmpty()) item { Text("Nenhum código ativo confirmado no momento.", style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary) }
                 items(s.data.codes) { (g, c) ->
@@ -120,7 +155,9 @@ fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, c
                     }
                 }
 
-                item { Spacer(Modifier.size(8.dp)); SectionHeader("Novidades do app") }
+                    }
+                    else -> {
+                item { SectionHeader("Novidades do app") }
                 items(s.data.appNews) { n -> Timeline(n.date, n.title, n.body) }
 
                 if (s.data.gameUpdates.isNotEmpty()) {
@@ -139,6 +176,8 @@ fun NewsScreen(repository: ContentRepository, onOpenCategory: (gameId: String, c
                             }
                             Pill(g.name, AppColors.Secondary)
                         }
+                    }
+                }
                     }
                 }
             }

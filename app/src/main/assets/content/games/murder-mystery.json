@@ -1016,47 +1016,21 @@
    "id": "criadores",
    "title": "Criadores de Conteúdo",
    "emoji": "📺",
-   "description": "Canais de MM2.",
+   "description": "Brasileiros e internacionais, com link direto para o canal.",
    "status": "available",
    "updatedAt": "2026-11-07",
    "sections": [
     {
-     "type": "items",
+     "type": "creators",
      "title": "Criadores para acompanhar",
-     "items": [
+     "creators": [
       {
        "name": "FocusRBX",
-       "tags": [
-        "YouTube"
-       ],
-       "description": "Canal focado em Murder Mystery 2, com vídeos e shorts.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "The Famous People"
-       }
-      },
-      {
-       "name": "iFres",
-       "tags": [
-        "YouTube",
-        "Espanhol"
-       ],
-       "description": "Vídeos de MM2 com centenas de milhares de visualizações.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "vidIQ"
-       }
-      },
-      {
-       "name": "Nikilis",
-       "tags": [
-        "Criador do jogo"
-       ],
-       "description": "Desenvolvedor do Murder Mystery 2; acompanhe as novidades oficiais.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Rowatcher"
-       }
+       "country": "🇺🇸 EUA",
+       "about": "Canal focado em Murder Mystery 2, com vídeos e shorts.",
+       "youtube": "https://www.youtube.com/@FocusRBX",
+       "tiktok": "",
+       "source": "The Famous People"
       }
      ]
     },
@@ -1064,43 +1038,7 @@
      "type": "notice",
      "title": "",
      "tone": "info",
-     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
-    },
-    {
-     "type": "links",
-     "title": "Ver vídeos (YouTube e TikTok)",
-     "links": [
-      {
-       "label": "FocusRBX no YouTube",
-       "url": "https://www.youtube.com/results?search_query=FocusRBX+Murder+Mystery+2",
-       "official": false
-      },
-      {
-       "label": "FocusRBX no TikTok",
-       "url": "https://www.tiktok.com/search?q=FocusRBX%20Murder%20Mystery%202",
-       "official": false
-      },
-      {
-       "label": "iFres no YouTube",
-       "url": "https://www.youtube.com/results?search_query=iFres+Murder+Mystery+2",
-       "official": false
-      },
-      {
-       "label": "iFres no TikTok",
-       "url": "https://www.tiktok.com/search?q=iFres%20Murder%20Mystery%202",
-       "official": false
-      },
-      {
-       "label": "Nikilis no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Nikilis+Murder+Mystery+2",
-       "official": false
-      },
-      {
-       "label": "Nikilis no TikTok",
-       "url": "https://www.tiktok.com/search?q=Nikilis%20Murder%20Mystery%202",
-       "official": false
-      }
-     ]
+     "body": "Os links abrem direto o canal no YouTube e o perfil no TikTok. Só colocamos link direto quando confirmamos o perfil; nos outros casos o link abre a busca."
     }
    ]
   },
@@ -1130,5 +1068,8 @@
     }
    ]
   }
+ ],
+ "credits": [
+  "Criado por Nikilis, desenvolvedor independente do Roblox. É o único jogo publicado no perfil dele."
  ]
 }

@@ -1,5 +1,7 @@
 # 🎮 Guia de Jogos
 
+> Aplicativo criado por **Gustavo Bezerra**.
+
 Aplicativo Android que reúne **personagens, skins, códigos, guias, dicas e criadores de conteúdo** de **Dandy's World, Brawl Stars, Free Fire, Murder Mystery 2 e Blox Fruits**, com painel e gráficos.
 
 Feito em **Kotlin + Jetpack Compose (Material 3)**, com layout adaptável para **celulares, tablets** (ex.: Galaxy Tab S6 Lite) e **multimídia de carro** (ex.: BYD King, tela giratória de 12,8"), em retrato e paisagem.

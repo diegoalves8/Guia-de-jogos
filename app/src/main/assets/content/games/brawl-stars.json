@@ -10791,85 +10791,53 @@
    "id": "criadores",
    "title": "Criadores de Conteúdo",
    "emoji": "📺",
-   "description": "YouTubers e tiktokers para aprender.",
+   "description": "Brasileiros e internacionais, com link direto para o canal.",
    "status": "available",
    "updatedAt": "2026-11-07",
    "sections": [
     {
-     "type": "items",
+     "type": "creators",
      "title": "Criadores para acompanhar",
-     "items": [
+     "creators": [
       {
-       "name": "KairosTime Gaming",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Listas de melhores Brawlers (tier list) e análise do meta.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Sites de rankings de criadores (Feedspot, SponsorRadar)"
-       }
+       "name": "VTzim",
+       "country": "🇧🇷 Brasil",
+       "about": "Jogador profissional brasileiro (ex-QLASH, Finais Mundiais 2021 e 2022) e Super Criador oficial da Supercell desde 2020.",
+       "youtube": "https://www.youtube.com/@VTzim",
+       "tiktok": "",
+       "source": "Blog oficial da Supercell · Esports Earnings"
       },
       {
-       "name": "Lex - Brawl Stars",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Gameplay, guias de estratégia e momentos engraçados.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Feedspot / vidIQ"
-       }
-      },
-      {
-       "name": "SpenLC - Brawl Stars",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Ex-jogador profissional da Tribe Gaming e campeão mundial de 2019; conteúdo competitivo.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Descrição do canal (Feedspot)"
-       }
-      },
-      {
-       "name": "Rey - Brawl Stars",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Gameplay de alto nível.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "SponsorRadar"
-       }
-      },
-      {
-       "name": "Coach Cory - Brawl Stars",
-       "tags": [
-        "YouTube",
-        "Inglês"
-       ],
-       "description": "Canal de dicas e treino.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "SponsorRadar"
-       }
+       "name": "Vinni Portento",
+       "country": "🇧🇷 Brasil",
+       "about": "Criador de Brawl Stars de São Paulo, parceiro oficial da Supercell.",
+       "youtube": "https://www.youtube.com/@VinniPortento",
+       "tiktok": "https://www.tiktok.com/@VinniPortento",
+       "source": "Blog da Supercell · perfil do TikTok"
       },
       {
        "name": "Bruno Clash",
-       "tags": [
-        "YouTube",
-        "Português"
-       ],
-       "description": "Personalidade brasileira dos jogos da Supercell e narrador de campeonatos.",
-       "fields": {
-        "Onde encontrar": "Toque nos links abaixo",
-        "Fonte da indicação": "Blog oficial da Supercell"
-       }
+       "country": "🇧🇷 Brasil",
+       "about": "Narrador de esports e criador com mais de 1 milhão de inscritos no YouTube.",
+       "youtube": "https://www.youtube.com/@BrunoClash",
+       "tiktok": "https://www.tiktok.com/@BrunoClash",
+       "source": "Blog da Supercell · perfil do TikTok"
+      },
+      {
+       "name": "KairosTime Gaming",
+       "country": "🇺🇸 EUA",
+       "about": "Tier lists e análise do meta a cada atualização.",
+       "youtube": "https://www.youtube.com/@KairosTime",
+       "tiktok": "https://www.tiktok.com/@KairosTime",
+       "source": "Perfil do TikTok"
+      },
+      {
+       "name": "SpenLC",
+       "country": "🇬🇧 Reino Unido",
+       "about": "Primeiro campeão mundial de Brawl Stars (2019); conteúdo competitivo.",
+       "youtube": "https://www.youtube.com/@SpenLC",
+       "tiktok": "https://www.tiktok.com/@SpenLC",
+       "source": "Perfil do TikTok"
       }
      ]
     },
@@ -10877,73 +10845,7 @@
      "type": "notice",
      "title": "",
      "tone": "info",
-     "body": "Os links abrem a busca pelo nome do criador no YouTube e no TikTok, assim nunca levam a um perfil errado ou apagado. No Instagram, procure pelo mesmo nome."
-    },
-    {
-     "type": "links",
-     "title": "Ver vídeos (YouTube e TikTok)",
-     "links": [
-      {
-       "label": "KairosTime Gaming no YouTube",
-       "url": "https://www.youtube.com/results?search_query=KairosTime+Gaming+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "KairosTime Gaming no TikTok",
-       "url": "https://www.tiktok.com/search?q=KairosTime%20Gaming%20Brawl%20Stars",
-       "official": false
-      },
-      {
-       "label": "Lex - Brawl Stars no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Lex+-+Brawl+Stars+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "Lex - Brawl Stars no TikTok",
-       "url": "https://www.tiktok.com/search?q=Lex%20-%20Brawl%20Stars%20Brawl%20Stars",
-       "official": false
-      },
-      {
-       "label": "SpenLC - Brawl Stars no YouTube",
-       "url": "https://www.youtube.com/results?search_query=SpenLC+-+Brawl+Stars+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "SpenLC - Brawl Stars no TikTok",
-       "url": "https://www.tiktok.com/search?q=SpenLC%20-%20Brawl%20Stars%20Brawl%20Stars",
-       "official": false
-      },
-      {
-       "label": "Rey - Brawl Stars no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Rey+-+Brawl+Stars+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "Rey - Brawl Stars no TikTok",
-       "url": "https://www.tiktok.com/search?q=Rey%20-%20Brawl%20Stars%20Brawl%20Stars",
-       "official": false
-      },
-      {
-       "label": "Coach Cory - Brawl Stars no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Coach+Cory+-+Brawl+Stars+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "Coach Cory - Brawl Stars no TikTok",
-       "url": "https://www.tiktok.com/search?q=Coach%20Cory%20-%20Brawl%20Stars%20Brawl%20Stars",
-       "official": false
-      },
-      {
-       "label": "Bruno Clash no YouTube",
-       "url": "https://www.youtube.com/results?search_query=Bruno+Clash+Brawl+Stars",
-       "official": false
-      },
-      {
-       "label": "Bruno Clash no TikTok",
-       "url": "https://www.tiktok.com/search?q=Bruno%20Clash%20Brawl%20Stars",
-       "official": false
-      }
-     ]
+     "body": "Os links abrem direto o canal no YouTube e o perfil no TikTok. Só colocamos link direto quando confirmamos o perfil; nos outros casos o link abre a busca."
     }
    ]
   },
@@ -10973,5 +10875,8 @@
     }
    ]
   }
+ ],
+ "credits": [
+  "Desenvolvido e publicado pela Supercell, estúdio da Finlândia."
  ]
 }
