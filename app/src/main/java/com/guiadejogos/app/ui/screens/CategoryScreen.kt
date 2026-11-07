@@ -39,6 +39,7 @@ fun CategoryScreen(
     gameId: String,
     categoryId: String,
     onBack: () -> Unit,
+    onToonClick: (String) -> Unit = {},
 ) {
     var reloadKey by remember { mutableIntStateOf(0) }
     val state by rememberLoad(gameId, categoryId, reloadKey) {
@@ -59,6 +60,7 @@ fun CategoryScreen(
                 category = s.data.second,
                 padding = padding,
                 onCopied = { code -> scope.launch { snackbar.showSnackbar("Código $code copiado!") } },
+                onToonClick = onToonClick,
             )
         }
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.BottomCenter) {
@@ -73,6 +75,7 @@ private fun CategoryContent(
     category: Category,
     padding: PaddingValues,
     onCopied: (String) -> Unit,
+    onToonClick: (String) -> Unit,
 ) {
     val accent = parseHexColor(game.colorHex)
     LazyColumn(
@@ -96,7 +99,7 @@ private fun CategoryContent(
             }
         }
 
-        items(category.sections) { section -> SectionView(section, accent, onCopied) }
+        items(category.sections) { section -> SectionView(section, accent, onCopied, onToonClick) }
 
         if (category.updatedAt.isNotBlank()) {
             item {

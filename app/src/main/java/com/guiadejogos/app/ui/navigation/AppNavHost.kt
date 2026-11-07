@@ -11,10 +11,11 @@ import com.guiadejogos.app.ui.screens.CategoryScreen
 import com.guiadejogos.app.ui.screens.GameScreen
 import com.guiadejogos.app.ui.screens.GamesScreen
 import com.guiadejogos.app.ui.screens.HomeScreen
+import com.guiadejogos.app.ui.screens.ToonScreen
 
 /**
  * Rotas do app:
- *   home → games → game/{gameId} → game/{gameId}/category/{categoryId}
+ *   home → games → game/{gameId} → game/{gameId}/category/{categoryId} → .../toon/{toonId}
  * Novas telas (busca, favoritos, notícias...) entram aqui como novas rotas.
  */
 object Routes {
@@ -22,9 +23,11 @@ object Routes {
     const val GAMES = "games"
     const val GAME = "game/{gameId}"
     const val CATEGORY = "game/{gameId}/category/{categoryId}"
+    const val TOON = "game/{gameId}/category/{categoryId}/toon/{toonId}"
 
     fun game(gameId: String) = "game/$gameId"
     fun category(gameId: String, categoryId: String) = "game/$gameId/category/$categoryId"
+    fun toon(gameId: String, categoryId: String, toonId: String) = "game/$gameId/category/$categoryId/toon/$toonId"
 }
 
 @Composable
@@ -62,10 +65,29 @@ fun AppNavHost(repository: ContentRepository) {
                 navArgument("categoryId") { type = NavType.StringType },
             ),
         ) { entry ->
+            val gameId = entry.arguments?.getString("gameId").orEmpty()
+            val categoryId = entry.arguments?.getString("categoryId").orEmpty()
             CategoryScreen(
+                repository = repository,
+                gameId = gameId,
+                categoryId = categoryId,
+                onBack = back,
+                onToonClick = { toonId -> nav.navigate(Routes.toon(gameId, categoryId, toonId)) },
+            )
+        }
+        composable(
+            Routes.TOON,
+            arguments = listOf(
+                navArgument("gameId") { type = NavType.StringType },
+                navArgument("categoryId") { type = NavType.StringType },
+                navArgument("toonId") { type = NavType.StringType },
+            ),
+        ) { entry ->
+            ToonScreen(
                 repository = repository,
                 gameId = entry.arguments?.getString("gameId").orEmpty(),
                 categoryId = entry.arguments?.getString("categoryId").orEmpty(),
+                toonId = entry.arguments?.getString("toonId").orEmpty(),
                 onBack = back,
             )
         }

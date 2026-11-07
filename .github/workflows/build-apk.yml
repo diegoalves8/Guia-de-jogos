@@ -32,6 +32,9 @@ jobs:
             python3 -m json.tool "$f" > /dev/null || { echo "JSON inválido: $f"; exit 1; }
           done
 
+      - name: Verificar imagens do conteúdo
+        run: python3 tools/check_images.py
+
       - name: Build APK (debug e release)
         run: |
           chmod +x gradlew

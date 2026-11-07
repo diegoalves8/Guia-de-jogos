@@ -5,11 +5,15 @@ import com.guiadejogos.app.data.model.CodeStatus
 import com.guiadejogos.app.data.model.ContentStatus
 import com.guiadejogos.app.data.model.GameCode
 import com.guiadejogos.app.data.model.GameDetail
+import com.guiadejogos.app.data.model.GalleryImage
 import com.guiadejogos.app.data.model.GameSummary
 import com.guiadejogos.app.data.model.GamesIndex
 import com.guiadejogos.app.data.model.InfoItem
 import com.guiadejogos.app.data.model.LevelGroup
 import com.guiadejogos.app.data.model.Section
+import com.guiadejogos.app.data.model.Toon
+import com.guiadejogos.app.data.model.ToonSkin
+import com.guiadejogos.app.data.model.TutorialStep
 import com.guiadejogos.app.data.model.UsefulLink
 import org.json.JSONArray
 import org.json.JSONObject
@@ -90,6 +94,7 @@ object ContentParser {
                         .orEmpty()
                     InfoItem(
                         name = i.optString("name"),
+                        image = i.optString("image"),
                         description = i.optString("description"),
                         tags = i.optJSONArray("tags").strings(),
                         fields = fields,
@@ -108,9 +113,34 @@ object ContentParser {
                     UsefulLink(l.optString("label"), l.optString("url"), l.optBoolean("official"))
                 },
             )
+            "gallery" -> Section.Gallery(
+                title,
+                s.optJSONArray("images").objects().map { g ->
+                    GalleryImage(g.optString("image"), g.optString("caption"), g.optString("subtitle"))
+                },
+            )
+            "toons" -> Section.Toons(title, s.optJSONArray("toons").objects().map(::parseToon))
             else -> null // tipo desconhecido: ignorado
         }
     }
+
+    private fun parseToon(t: JSONObject) = Toon(
+        id = t.getString("id"),
+        name = t.optString("name"),
+        image = t.optString("image"),
+        vintageImage = t.optString("vintageImage"),
+        kind = t.optString("kind"),
+        cost = t.optString("cost"),
+        requirements = t.optJSONArray("requirements").strings(),
+        mastery = t.optJSONArray("mastery").strings(),
+        skins = t.optJSONArray("skins").objects().map { s ->
+            ToonSkin(s.optString("name"), s.optString("image"), s.optString("category"), s.optString("howTo"))
+        },
+        tutorial = t.optJSONArray("tutorial").objects().map { s ->
+            TutorialStep(s.optString("title"), s.optString("text"), s.optString("image"))
+        },
+        videoUrl = t.optString("videoUrl"),
+    )
 
     private fun JSONArray?.objects(): List<JSONObject> =
         if (this == null) emptyList() else (0 until length()).mapNotNull { optJSONObject(it) }

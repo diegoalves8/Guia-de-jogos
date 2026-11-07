@@ -51,7 +51,12 @@ import com.guiadejogos.app.ui.theme.AppColors
  * Para criar um novo tipo de bloco: adicione em Models.kt, ContentParser.kt e aqui.
  */
 @Composable
-fun SectionView(section: Section, accent: Color, onCopied: (String) -> Unit) {
+fun SectionView(
+    section: Section,
+    accent: Color,
+    onCopied: (String) -> Unit,
+    onToonClick: (String) -> Unit = {},
+) {
     SectionContainer(section.title) {
         when (section) {
             is Section.Text -> Text(section.body, style = MaterialTheme.typography.bodyLarge, color = AppColors.TextPrimary)
@@ -61,6 +66,8 @@ fun SectionView(section: Section, accent: Color, onCopied: (String) -> Unit) {
             is Section.Items -> section.items.forEach { ItemView(it, accent) }
             is Section.Levels -> LevelsView(section, accent)
             is Section.Links -> LinksView(section)
+            is Section.Gallery -> GalleryView(section.images)
+            is Section.Toons -> ToonsGrid(section.toons, accent, onToonClick)
         }
     }
 }
@@ -186,6 +193,10 @@ private fun ItemView(item: InfoItem, accent: Color) {
         verticalArrangement = Arrangement.spacedBy(6.dp),
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
+            if (item.image.isNotBlank()) {
+                RemoteImage(item.image, item.name, Modifier.size(84.dp))
+                Spacer(Modifier.width(14.dp))
+            }
             Text(item.name, style = MaterialTheme.typography.titleLarge, color = AppColors.TextPrimary, modifier = Modifier.weight(1f))
             if (hasDetails) {
                 Icon(if (expanded) Icons.Filled.ExpandLess else Icons.Filled.ExpandMore, contentDescription = null, tint = accent)

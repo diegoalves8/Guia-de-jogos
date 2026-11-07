@@ -11,7 +11,7 @@
       "emoji": "🎁",
       "description": "Resgate pelo site oficial da Garena.",
       "status": "available",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "sections": [
         {
           "type": "notice",
@@ -91,7 +91,7 @@
       "emoji": "🔗",
       "description": "Fontes oficiais do jogo.",
       "status": "available",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "sections": [
         {
           "type": "links",

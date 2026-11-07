@@ -86,7 +86,47 @@ sealed interface Section {
 
     /** Links úteis (fontes oficiais marcadas). */
     data class Links(override val title: String, val links: List<UsefulLink>) : Section
+
+    /** Grade de imagens com legenda (ex.: skins Vintage, skins Douradas). */
+    data class Gallery(override val title: String, val images: List<GalleryImage>) : Section
+
+    /** Lista de personagens com página própria (foto, custo, requisitos, maestria, skins, tutorial). */
+    data class Toons(override val title: String, val toons: List<Toon>) : Section
 }
+
+data class GalleryImage(
+    val image: String,
+    val caption: String,
+    val subtitle: String,
+)
+
+data class Toon(
+    val id: String,
+    val name: String,
+    val image: String,
+    val vintageImage: String,
+    val kind: String,
+    val cost: String,
+    val requirements: List<String>,
+    val mastery: List<String>,
+    val skins: List<ToonSkin>,
+    val tutorial: List<TutorialStep>,
+    val videoUrl: String,
+)
+
+data class ToonSkin(
+    val name: String,
+    val image: String,
+    val category: String,
+    val howTo: String,
+)
+
+/** Um "quadro" do mini tutorial animado. */
+data class TutorialStep(
+    val title: String,
+    val text: String,
+    val image: String,
+)
 
 data class GameCode(
     val code: String,
@@ -109,6 +149,8 @@ enum class CodeStatus {
 
 data class InfoItem(
     val name: String,
+    /** URL de imagem opcional (miniatura ao lado do nome). */
+    val image: String,
     val description: String,
     val tags: List<String>,
     /** Pares "rótulo → valor" (ex.: "Como conseguir" → "Completar a Maestria"). */

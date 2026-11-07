@@ -12,8 +12,8 @@ android {
         applicationId = "com.guiadejogos.app"
         minSdk = 26          // Android 8.0+ (celulares, tablets como o Galaxy Tab S6 Lite e multimídia BYD DiLink 3.0+/Android 9)
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.1.0"
+        versionCode = 3
+        versionName = "1.2.0"
 
         // URL base do conteúdo remoto (atualização sem gerar novo APK).
         // Deixe "" para usar somente o conteúdo embutido no app.
@@ -64,5 +64,6 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.navigation.compose)
+    implementation(libs.coil.compose) // carregamento e cache de imagens
     debugImplementation(libs.androidx.ui.tooling)
 }
