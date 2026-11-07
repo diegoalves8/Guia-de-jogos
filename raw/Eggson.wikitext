@@ -1,0 +1,139 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#E8AA77,#E8AA77,#FFF8FF,#FF9E45,#FABF4A); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Eggson Render.png|Render
+Eggson Full Render.png|Full Render
+Eggson Icon.png|Icon
+Eggson Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|'''Fixer Upper'''<br>{{Small|''(Passive)''}}}}<br>When Eggson first touches a [[machine]], he hits the side of it with his cane, giving it 20% of total completion. This can only be used once per machine per player but works on multiple machines on the same floor.
+|requirement_1={{Currency|Baskets|300}}
+|skins=*Vintage
+*Painted Patterns
+*Golden Egg
+*Spring-Time
+*Still Hip
+|gender=Male
+|pronouns=He/Him
+|release_date=4/18/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Eggson|extra=Egg|Date=April 18, 2025|with={{CI|Bassie|name=true}}, {{CI|Cocoa|name=true}}, and {{CI|Flyte|name=true}}|Pronoun=He|event=Easter|store=Bassie's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Eggson is a halved brown, hard boiled egg. The white and yolk of the egg are visible, and he sports a small pair of round glasses with yellow lenses and a gentle smile. He wears a droopy, yellow, lemniscate shaped bow tie, and a striped, buttoned shirt that is colored orange and yellow around the torso, white on the sleeves, and yellow on the cuffs with black buttons. He also wields an orange cane, which has a yellow stripe on it, and a black base. In his Introduction Card, his cane is entirely brown.
+|-|Vintage=
+Vintage Eggson has a gray shell, a light gray white, and white yolk. His eyes are also pie-cut left, seen in his hurt face. Gray-lensed glasses sit on his head, and the yellow and orange on his shirt is swapped with light gray and black respectively and his cuffs and bow tie are light gray. His cane is now dark gray with a light gray stripe.
+|-|Painted Patterns=
+Painted Patterns Eggson is recolored a light pink color. His shell is painted with three darker pink, wave-like stripes, has a lighter yellow yolk, and bears an expression more like the one on his Introduction Card. The lower part of his legs are decorated with a similar curved stripe and his feet are topped with the same shade of pink. A four-petaled, pointed flower now sits on the right side of his head, colored light blue on the top and bottom and teal on the sides. Similar hues are also featured on his turquoise checkered shirt, as well as his bow tie, cuffs, and glasses with pink lenses. The cane he holds, now without a stripe, is now pastel yellow like his yolk and is white at the base.
+|-|Golden Egg=
+Golden Egg Eggson is an orange color, with a yellower yolk and white sparkles and spots on the front of his head and the back of his hands. On top of his head is a gold crown with six spikes, a red oval ornamenting each. The bow tie is also now a red and four sided, double loop bow. His cuffs are recolored red, his glasses have red lenses, and his shirt is yellow with a slightly darker stripe above the hem and white sparkles scattered on the front and back. He wears red pants, striped with vertical, lighter red lines and now wears black shoes. His cane appears red with the stripe being slightly lighter shade. He also emits a faint golden glow, along with small yellow twinkles.
+|-|Spring-Time=
+[[Spring-Time Cosmetic Pack|Spring-Time]] Eggson has a slightly paler shell color and a much paler yolk. His glasses are reskinned to have an olive green frame and pink lenses and his smile includes a small mark on the left. He now wears a pinstriped, sage green, long-sleeve shirt with cream colored buttons and a white, scalloped shirt underneath that pokes out from the cuffs and hem. He wears a bow with teardrop-shaped sides that has a pink, diagonal gingham pattern, alongside pants of the same color and pattern. He also wears a warm brown pair shoes with bright yellow feet bands. His cane is light brown with a soft yellow stripe, a light green base, and a vine adorned with a single leaf, with a lighter line in the middle, now wraps around the cane. He produces semi-visible pink and purple flowers with yellow pistils and green stems that sprout around him and disappear quickly as well as tiny, greenish, pollen-like specks from his torso. When moving, a transparent trail of flowers and leaves colored with a green to pink gradient expands and then fades away.
+|-|Still Hip=
+Still Hip Eggson is given a lighter toned, yellowish pigment and has a smile line on the left of his grin. He wears a pair of black sunglasses with large, white shines on his forehead. He wears a red tee shirt with an orange and yellow fire pattern and a white, long sleeved undershirt with the collar sticking out. He wears blue jeans with a light blue button and bottom hems. He also wears red sneakers with black laces, a white toe box, and white tongue. Instead of a cane, he possesses a skateboard with black wheels, orange trucks, and a pattern similar to his shirt's. Yellow and orange flame particles generate near him and shrink into nothing.
+</tabber>
+
+==Personality==
+Eggson is portrayed as the stereotypical elder he is, using phrases such as, "Back in my day," sometimes referring to [[Toons]] as young man/lady or little one, and talks in a refined manner. He is very thoughtful and looks out for others' best interest, checking in on Toons and is pleased to hear when they are happy and taking good care of themselves, even valuing a simple smile as "something of the utmost importance." Considering that he is an elder with lots of wisdom and knowledge, he shares advice and stories of past experiences, especially to Toons who he feels may not be doing their best so they can calm down and feel better.
+
+He typically has his mind on eggs, as seen in various dialogues mentioning eggs, or just saying, "eggs." Even his hobbies consist primarily of activities involving eggs, especially evident in his dialogue with {{CI|Brightney|name=true}}, though he does have standards regarding eggs despite his passion for them, based on his interaction with {{CI|Flutter|name=true}}. Egg hunting is one of his most notable pastimes, being known as the previous Egg Hunt Champion, and hopes to participate in egg hunts every chance he gets, often wondering if eggs are hidden in the [[Elevator]]. He even desperately asks {{CI|Cosmo|name=true}} to let him take the eggs out of the fridge so he can hide them for Cosmo to find, despite being rejected every time he requests to do so.
+
+==Mastery==
+{{Mastery|Finish 30 [[Machines]]|Pick up 30 [[Research Capsules]]|Survive 25 [[Floors]]|Activate this [[Toon]]'s Passive [[Ability]] 80 times|Pick up 35 [[Items]]|Travel 50000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first and fourth|Machine}}|{{MastStrat|second and fifth|Collect and use|Caps}}|{{MastStrat|third|Reach/do floors}}|{{MastStrat|sixth|Meters|3Star}}}}
+==Requirement Strategies==
+*For the first and only requirement, focus on picking up {{II|Baskets|name=true}} and extracting [[Machines]]. The Machine and Basket count increases the further you descend, so you can earn more Baskets.
+
+==Golden Skin [[Quests]]==
+{{GQ|Encounter {{CI|Twisted Eggson|name=true}} '''{{Color|10|#93f525}}''' times as Eggson.}}
+{{GQ|Complete an [[Easter Floor]] '''{{Color|15|#93f525}}''' times as Eggson.}}
+{{GQ|Use this [[Toon]]'s [[Ability]] '''{{Color|10|#93f525}}''' times on a [[machine]].}}
+
+Reward: {{Skin|Golden Egg Eggson}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Easter Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', play normally until you see {{CI|Twisted Eggson|name=true}} on the [[Floor]]. Then, either encounter him normally or ask the distractor to bring Twisted Eggson to the Elevator.
+*'''For the second quest''', play normally to Floor 5 or 10, complete the floor, then rejoin and do it all over again. Continuous gameplay will waste time as the higher Floors will take longer to complete.
+*'''For the third quest''', try and touch every available Machine on the floor. If a Machine is already being extracted by another player, try to ask them to let you tap it with the chat feature or the {{SI|Can I extract?|name=true}} Sticker. Additionally, you can just go to a solo round, tap all Machines, and leave, as that would be a bit quicker.
+
+==Strategies==
+Eggson is a balanced [[Toon]], but leans slightly into the role of extractor because of his [[Ability]], '''Fixer Upper''', which fills a [[Machine]] by 20% {{Small|(9 units)}}. While not much of an increase, this isn't forced onto the first Machine you find on the start of the [[Floor]], so you can try extending your Ability to other Machines. The Ability also stacks for multiple Eggsons, useful if you're in a run with at least 5 Eggsons.
+
+What you can do at the start of a Floor is to get to all the Machines you see and activate your Ability. If other Toons reach a Machine before you, you can ask for the Machine, use your Ability, and leave, though if you are asking a high Extraction Speed Toon, this may actually take longer than leaving them be. Additionally, doing a Machine by yourself will generally be much faster and wastes less [[Stamina]] and reduced the risk of you getting seen by other [[Twisteds]] while finding Machines. Therefore, it is much safer and quicker to just do any unoccupied Machine and boost any nearby ones.
+
+You can use his Ability on Machines where slow extractors such as {{CI|Pebble|name=true}}, {{CI|Shrimpo|name=true}}, {{CI|Bassie|name=true}}, or {{CI|Goob|name=true}} are extracting, making Machines finish much quicker.
+
+The average Machine completion time for Eggson is uniquely 28 seconds, as he only ever has to fill 80% of a Machine (36 units), thanks to his Ability.
+
+Due to his average stat spread, he doesn't have clear deficits nor strength in any of his stats. Support your weaknesses with aiding [[Trinkets]]; be wary of faster moving Twisteds like {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Toodles|name=true}}, and {{CI|Twisted Shelly|name=true}} as your average Stamina and Movement Speed may pose an issue depending on your style of gameplay. If you have trouble with these Twisteds' speeds, using a Trinket like {{TI|Pink Bow|name=true}} may lessen your problems.
+
+===Machine Times with Fixed Upper===
+{{MSpeed}}
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Eggson:
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket helps Eggson to outrun all Twisteds outside of Panic Mode besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve run speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Eggson to take full advantage over his 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(20.45 avg/18.60 with Tech Savvy)}};
+***'''{{TI|Wrench|name=true}}''', in the case that you don't have Vee's Remote, also synergizes well with his Passive [[Ability]].
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+==Dialogues==
+{{Eggson Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:EggsonPassive.mp3|left|thumb]]
+|The sound that plays when Eggson's '''Fixer Upper''' [[Ability]] activates
+|}
+
+==Trivia==
+*Eggson is the only [[Easter]] [[Holiday Toon]] who has no interaction with the [[Christmas]] or [[Halloween]] Holiday Toons.
+*Eggson is the second [[Toon]] to not be considered as an unknown adult age, instead being older than all of the others, with the first and third being {{CI|Toodles|name=true}} and {{CI|Gourdy|name=true}} respectively, with them being children.
+*Eggson shares the same [[Stat]] spread with the starters and other {{Type|Common}} [[Event Toons]] {{Small|(3 {{Star}} in all stats)}}.
+*One of his interactions with {{CI|Flyte|name=true}} is a reference to the [[W:C:roblox:Egg hunt|Egg Hunt]] and [[W:C:roblox:The Hunt: First Edition|The Hunt]] events.
+**He and [[Dandy]] are the only Toons who break the 4th wall (Dandy in particular directly mentions Robux as a currency).
+*Eggson is the second [[Toon]] as of now to speak more than once consecutively in a dialogue, speaking thrice, the first being {{CI|Looey|name=true}}. This occurs in his second dialogue with {{CI|Rodger|name=true}}.
+*Eggson has one of the shortest descending dialogues, simply saying: "{{Text|Eggs.}}"
+*Prior to [[Changelog|v0.17.1]], Eggson would only complete 10% of a [[Machine]] with his Passive [[Ability]], and for an unknown reason, his Ability did not work on [[Treadmill Machines]]. The latter may have been due to Treadmill Machines coming out after Eggson was released.
+**Eggson's Ability would however work on [[Circle Machines]], even though they were also added after his release.
+*As seen in the "'''Happy Easter!🌷- Dandy’s World'''" video, Eggson sleeps on a rocking chair. It is likely that this is a common habit of his, and not merely a one-time occurrence, following the common stereotype of old people and rocking chairs.
+*Despite being featured in the song [[Wilting]], Eggson and [[Flyte]] do not have any lines.
+*Eggson is the only [[Toon]] with a custom idle animation that's exclusive to a [[Skin]], this being the {{Skin|Still Hip}} Skin, where he spins his skateboard instead of fixing his glasses like his default idle.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Male]]
+[[Category:Easter Event]]

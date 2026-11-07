@@ -1,0 +1,178 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#a5562f,#a5562f,#7EFED1,#C3FE84,#E582FC); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Cosmo Render.png|Render
+Cosmo Full Render.png|Full Render
+Cosmo Icon.png|Icon
+Cosmo Full Icon.png|Full Icon
+Cosmo Information Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|1}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|4}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|{{AI|Cosmo|name=true}}<br>{{Small|''(Active)''}}}}<br>
+This Toon can give one of his own Hearts to heal a targeted Toon. Cannot be used when at 1 Heart. Has a Cooldown of 60.
+|requirement_1=1000 [[Ichor]]
+|requirement_2=Own 4 or more [[Toons]]
+|skins=*Vintage
+*Caramel Drizzle
+*Berry Roll
+*Dessertful Scientist
+*Snow-Time
+*Sweet Roll
+*Carrot Cake
+*Share Bear
+|gender=Male
+|pronouns=He/Him
+|designation=SC-001
+|release_date=08/14/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Cosmo|extra=Pastry|Date=August 14th, 2024|with={{CI|Finn|name=true}}, {{CI|Glisten|name=true}}, and {{CI|Sprout|name=true}}|Pronoun=He}}
+
+==Appearance==
+Cosmo is a brown pastry resembling a chocolate Swiss Roll. He has white icing drizzled in a squiggly pattern on the top of his head, which is paired with 6 cyan, pink, and lime star-shaped sprinkles on his cheeks, resembling freckles. He wears a white, sleeveless hoodie with black drawstrings and a white hemming on the bottom. He has striped socks the same color as his sprinkle freckles, the socks completely cover his legs. Cosmo has confirmed that his star sprinkles on his cheeks do not come off, being part of his design, said in a conversation with {{CI|Glisten|name=true}}.
+
+==Personality==
+Cosmo is a helpful, yet cautious [[Toon]]. True to {{CI|Dandy|name=true}}'s dialogue when buying Cosmo's Toon License, Cosmo stands out with his sweet and caring personality. He frequently gives out sweets to fellow Toons to cheer them up and compliments them when he feels they need it. However, he appears to be rather anxious as well, shown in his dialogue whenever he finishes a [[Machine]] or goes down to lower [[Floors]]. Cosmo's hobby of baking can be assumed to stem from both a source of comfort and a desire to help others.
+
+He is clueless on some jokes and can be rather gullible to teasing, such as in his interactions with {{CI|Finn|name=true}} and {{CI|Gigi|name=true}}, but he always makes sure to care for his friends and encourage them when they most need it. It should be noted that though Cosmo can be rather soft-spoken and anxious, he is by no means a pushover, as demonstrated in his firm refusal to {{CI|Rodger|name=true}}'s prods at asking questions regarding his best friend, {{CI|Sprout|name=true}}, and telling {{CI|Eggson|name=true}} he can't hide the eggs for him to find. Cosmo's sensitive side is mentioned in {{CI|Flutter|name=true}} and Sprout's interaction dialogue, as Sprout mentions Cosmo cried for a whole week when the gumball eyes melted on the cookies they made of Flutter's face. This is also why, in {{CI|Poppy|name=true}}'s dialogue, he says, "{{Text|Never again.}}"
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 25 times|Survive 30 [[Floors]]|Travel 60000 Meters|Pick up 35 [[Items]]|Survive 5 Floors with 3 other Players in your round|Use 35 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60|To actually use this Ability, either do it with another Cosmo (recommended) or a {{CI|Poppy|name=true}}/{{CI|Looey|name=true}}, as they all need Hearts to complete their Mastery. You can also bring a {{CI|Yatta|name=true}} to finish your fourth and sixth tasks by harvesting her candy.}}|{{MastStrat|second|Reach/do floors}}|{{MastStrat|third|Meters|3Star}}|{{MastStrat|fourth and sixth|Collect and use|Use}}|{{MastStrat|fifth|Play with Toons}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, try to farm a good amount of Ichor, and buy Toons that cost less Ichor, you can have {{CI|Boxten|name=true}} or {{CI|Poppy|name=true}} for free so you can buy 3 more Toons like:{{CI|Shrimpo|name=true}}, {{CI|Finn|name=true}}, {{CI|Tisha|name=true}} and {{CI|Toodles|name=true}}.
+
+==Strategies==
+Cosmo is a supporter whose Active [[Ability]], {{AI|Cosmo|name=true}}, gives one of his {{Heart}} to another damaged [[Toon]]. As one of only four Toons capable of healing at the moment, his Ability is nice in situations where a teammate is low on Hearts or at risk. Be cautious though, giving out too many Hearts will quickly put you in danger and might even cause harm to teammates in an attempt to save you.
+
+With a good set of [[Stats]], the main issue for Cosmo is his 1{{Star}} [[Skill Check]]. The small window makes them much more difficult, and the value given makes them not very rewarding when landing them. Even though Cosmo is the fastest at extraction compared to {{CI|Bassie|name=true}}, {{CI|Blot|name=true}}, and {{CI|Shrimpo|name=true}}, all four of them still have 1 Star Skill Check, making it arduous to even get a good result on the [[Machine]]. This disadvantage can be managed by using Skill Check [[Trinkets]] like {{TI|Mime Makeup|name=true}}, {{TI|Thinking Cap|name=true}}, or {{TI|Blue Bandana|name=true}} (though note Blue Bandana slows progress down by a bit and is only recommended to newer players). On the other hand, Cosmo's above-average [[Stealth]] and mobility makes it much easier to go and heal Distractors, as outside of turning corners, distracted [[Twisteds]] will not switch targets, and even so, he can easily escape them. If you fail Skill Checks often, extracting from Treadmill Machines can be quite good, especially thanks to his higher Stamina. Due to Cosmo not filling any other niche (other than support), it is recommended for you to just wander around the map for {{Tape|name=true}} (assuming no Tape-reliant Toons are present and need them) and healing [[Items]] for later use. If the map has been scavenged already, check for teammates low on Health or find Machines to do.
+
+He's well-suited to runs with a lot of {{Type|Main}} Toons present due to his Ability to stretch {{II|Health Kit|name=true}} twice as far for them. His long range normally can make it a bit difficult to heal the right teammate, though if in the aforementioned team setup, any heal will go towards a Toon on 1 Heart.
+
+Cosmo's best benefit over the other healers is his Ability's secondary effect: highlighting selected teammates through walls and showing which animation they're in. Since his range is extremely long, you can keep tabs on others from a great distance. This is helpful to detect other players, such as distractors or players in need of assistance.
+
+When looking for Items, focus on Health Kits and {{II|Bandage|name=false}}s so you can make use of your Ability more often. Since Cosmo can redistribute Hearts on the fly, consider asking your teammates to alert you if they see any so you can bring the Hearts to distractors or save them for later Floors. Also allow those in need of healing to take Items since Cosmo's higher Stamina and Stealth leave him in less danger. Since Health Kits and Bandages are quite rare, you can also look for more common but helpful Items such as {{II|Stopwatch|name=false}}es to make his Skill Check more bearable. The extra Tapes received from them can also be used to buy healing Items when they are being sold. If a non-{{Type|Main}} teammate is on 1 Heart, it is recommended to let them take a Health Kit if they happen to find it on the floor, as it instantly heals them as compared to your heal of 1 Heart.
+
+If Bassie is in your group, try to prioritize Health Kits and give them any Bandages. The more people capable of delivering healing, the faster ailing Toons receive aid. You can also rely on Bassie to hold onto most healing Items and to heal you once your Health is low, as she out-speeds you. Leaving your heals with a Bassie can also be very beneficial in the event that {{CI|Twisted Gigi|name=true}} spawns on the floor as Bassie can repeatedly deposit and pick up the Items, rendering Twisted Gigi unable to take them with good timing.
+
+Cosmo is great when paired with {{CI|Ginger|name=true}}, as Ginger can heal him while at low Health, essentially making him an infinite healing machine. This, however, would require a lot of Tape income for Ginger, depending on how much your team loses Hearts, so it isn't as optimal as it seems. He can also pair up with {{CI|Sprout|name=true}} but less effectively, as he can only heal with 1 Heart with his Ability for the same cost.
+
+Overall, Cosmo's Stats make him most preferably played as a healer who utilizes his longest range out of the three to heal from a safe place, but still also decently contribute with roughly any Machine types (primarily if you don't struggle with his 1 Star Skill Check). He acts somewhat like an all-rounder in comparison to the other healers.
+
+===Trinket Combinations===
+{{Preference}}
+Some [[Trinkets]] sets for Cosmo includes:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Cosmo to outrun all Twisteds before [[Panic Mode]] besides {{CI|Twisted Dyle|name=true}} as well as reaching teammates at max speed faster {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with;
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', although quite situational, can help if there is a distractor with 4{{Star}} [[Stealth]] such as {{CI|Bassie|name=true}} so you can safely go near them to collect heals while they distract;
+***'''{{TI|Savory Charm|name=true}}''', to be a tad bit safer if on 1{{Heart}}, due to Cosmo's frequent Heart loss, despite the usage of this Trinket only working once;
+***'''{{TI|Train Whistle|name=true}}''', to help Cosmo avoid losing Hearts during an [[Ichor Leak]], or while {{CI|Twisted Vee|name=true}} on the Floor;
+***Any of the Trinkets in the '''Extraction Section'''; etc.
+
+====Extraction====
+*The following Trinkets help Cosmo extract by dealing with his main deficiency, which is his 1{{Star}} [[Skill Check]] {{Small|(50 skill check size)}} and 3 Star [[Extraction Speed]] {{Small|(1.00 extraction speed)}}:
+**'''{{TI|Vee's Remote|name=true}}''', to instantly complete [[Machines]] in dangerous locations, such as dead ends and open areas;
+**'''{{TI|Mime Makeup|name=true}}''', to more safely extract by removing the danger of missing Skill Checks;
+**'''{{TI|Thinking Cap|name=true}}''', to increase Skill Check Size, helping to fail less Skill Checks, though Mime Makeup can be more beneficial in some cases;
+*If the player has no issues with small Skill Checks, they may consider using '''{{TI|Magnifying Glass|name=true}}''' or '''{{TI|Participation Award|name=true}}''' to help with [[Machine]] extraction more easily, even if the Skill Check window is far smaller. Though, do note that if the player has lag/missing frames, they may want to consider other Trinkets for team progression.
+**Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Cosmo|name=true}}'s [[Ability]] cooldown {{Small|(55s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Sharing is Caring'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(50.2s)}}.
+*'''{{TI|Memory Locket|name=true}}''', to help highlight any healing [[Items]] on the Floor, making it easier to heal other teammates;
+**This Trinket is best used in unorganized runs where heals may be easily taken by other players.
+*'''{{TI|Dandy Plush|name=true}}''', to help you buy healing Items if a [[Toon]] that needs {{Tape|name=true}} (e.g. {{CI|Ginger|name=true}}) is present, letting you still have sufficient Tapes from usual activities for healing Items.
+
+'''Note: It isn't recommended to use Tape-giving Trinkets such as {{TI|Fancy Purse|name=true}}, as it is a one-time use Trinket, and wastes a Trinket slot if {{CI|Dandy|name=true}} does not sell a {{II|Health Kit|name=false}} or {{II|Bandage|name=false}} on an earlier floor before you have 100 Tapes. Trinkets such as Dandy Plush are more beneficial in the long run, as their effects last the whole run.'''
+
+==Dialogues==
+{{Cosmo Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+! Description
+|-
+![[File:Activate_Healing_Sound.mp3|left|thumb]]
+|The sound that plays when Cosmo activates his {{AI|Cosmo|name=true}} [[Ability]]
+|-
+![[File:Healing_Sound.mp3|left|thumb]]
+|The sound that plays when a [[Toon]] receives Cosmo's {{AI|Cosmo|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Cosmo's name and design is derived from the dessert food {{wp|Cosmic Brownies}}, as he has colorful, star-shaped sprinkles sporting his cheeks similar to Cosmic Brownies. Also, the word "cosmo" is the noun form of the adjective, "cosmic". The term "cosmo" is also derived from the name for a celestial object—whether a planet, star or galaxy—a "cosmos".
+**According to his dialogue with {{CI|Glisten|name=true}}, the sprinkles on his cheeks are not makeup.
+**The sprinkles on his body are also possibly a reference to the stars scattered across the cosmos, making his connection to them even stronger.
+**Alternatively, it could be derived from the word 'cosmopolitan', which means "including or containing things from many different areas", which could reflect how you need ≥4 [[Toons]] to buy him or his generosity.
+**On top of that, Cosmo is admittedly a mix of a {{wp|Swiss Roll}} and a Cosmic Brownie.
+*Cosmo is {{CI|Sprout|name=true}}'s best friend, which has been established and shown in dialogues, [[Posters]], and other miscellaneous things that allude to it, like how:
+**Cosmo and Sprout have matching bracelets for Trinkets ({{TI|Sweet Charm|name=true}} and {{TI|Savory Charm|name=true}}).
+**Cosmo and Sprout have multiple matching [[Skins]], such as {{Skin|Caramel Drizzle Cosmo}} & {{Skin|Salted Caramel Sprout}}) and {{Skin|Berry Roll Cosmo}} & {{Skin|ChocoBerry Sprout}}.
+**Cosmo and Sprout's corresponding [[Twisteds]] have similar [[Ichor]] patterns; Cosmo only has Ichor on his right arm and eye, while Sprout has Ichor everywhere except his right arm and eye.
+**Cosmo's Twisted's [[Research]] description mentions Cosmo twisting due to seperation from his best friend, referring to Sprout.
+**Their [[Abilities]] are able to heal a [[Toon]] by 1{{Heart}}.
+**They were optimized on the same [[Update]].
+***Sprout and Cosmo are the first [[Toons]] that were not released in [[Changelog|v0.1]] to receive an optimized model.
+****Additionally, Cosmo, alongside [[Poppy]] and [[Boxten]] are the first Common Toons to get optimized.
+**They share similar hobbies: baking/cooking.
+**Both of them are based of foods and are the second Toons to be so, with the first being {{CI|Shrimpo|name=true}}, the third being {{CI|Ginger|name=true}}, the fourth being {{CI|Eggson|name=true}} and {{CI|Cocoa|name=true}}, and the fifth being {{CI|Gourdy|name=true}}.
+**When [[Twisted Sprout]] follows [[Twisted Cosmo]] around, he stops to let Twisted Sprout catch up.
+*Cosmo and [[Ginger]] are cousins.
+**Their relativity follows the pattern of {{Type|Uncommon}} [[Event Toons]] being related to a base game [[Toon]].
+*Cosmo likes to stargaze sometimes, as stated in a QnA stream by [[Qwel]].
+*Cosmo might not be too good with the oven. This can be implied through his interaction with {{CI|Toodles|name=true}} as well as his and [[Sprout]]'s TV animation and CCTV footage, when the oven set on fire, which also could've led to his dream about fire mentioned in his interaction with [[Astro]].
+*Prior to his optimization, Cosmo's cookies that appeared when he healed someone used to match his color and had sprinkles that matched the color of his star-shaped sprinkles on his cheeks for each of his [[Skins]] he had at the time.
+*As said by [[Qwel]] during the 2025 New Years stream, Cosmo can't sleep sideways due to the shape of his head.
+*It is possible that the reason at least one of Cosmo's hands are almost always holding onto his head is because it's too big for his body, thus possibly causing some issues. This has yet to be confirmed or denied in any way possible, however, as in a lot of artworks and TV animations he's seen just fine with his hands in a different position.
+**This could be a result of cartoon logic not being exactly applicable to the real world, hence why he only seems to do this in his 3d model.
+**Another possible explanation of this could be the animators not caring about this and wanting Cosmo to use both hands, especially as the constant drawing of holding his head is unneeded.
+*Cosmo seems to be shaken up about having gumballs for eyes on cookies, as mentioned in an interaction between [[Sprout]] and {{CI|Flutter|name=true}}, and Cosmo's interaction with {{CI|Poppy|name=true}} where he refuses to make cookies of her with gumballs for eyes.
+**This may likely be a reference to [https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_Popsicle?file=Popsicle-fails-spongebob-22.jpg Spongebob popsicles], specifically the ones with gumball eyes. The popsicles with gumball eyes are known to come out majorly deformed and melt. This is what happened with the [[Flutter]] cookies, its eyes melting, extra designs cracking, and the overall appearance causing Cosmo to cry "for a whole week" (stated in [[Sprout]]'s interaction with [[Flutter]]).
+*Cosmo and [[Ginger]]'s [[Abilities]] used to be nearly identical, with the only differences being Cosmo having a shorter cooldown and range than Ginger.
+**However since the [[2025 Christmas Event]], Ginger has gotten a rework to heal full [[Hearts]] by holding the Ability for 5 seconds, needing 100 {{Tape|name=true}}, and having a very short range.
+***Because of this, Cosmo has gotten Ginger's large range before rework.
+*Cosmo is one of seven [[Toons]] to have one of their dialogues shown behind the scenes, with the other six being {{CI|Boxten|name=true}}, [[Connie]], [[Flutter]], [[Glisten]], [[Shrimpo]], and {{CI|Vee|name=true}}.
+*Cosmo is the first [[Toon]] to extract with one hand.
+*Cosmo's head is somewhat polygonal. While this isn't very noticeable, if you look sideways, you'll notice his eyes somewhat clip on the edges.
+*Cosmo's [[Sweet Charm]] from his idle animation is stored in his body, only taken out when the idle is used.
+**[[Sprout]] and his [[Savory Charm]] do the same.
+*Although Cosmo is one of the main cooks of [[Gardenview]], he specializes on sweets and desserts more, mainly baking cookies for the [[Toons]], as seen in some interactions and his [[Ability]], though other stuff like cakes have been made by him. Him being a cake roll/brownie and his "soft" personality compliments this too.
+*Cosmo's Active [[Ability]] has a small detail where his hands touch his chest before he heals someone. This makes it look like he gives '''his Heart''' to another [[Toon]].
+*Cosmo was the first created Side Character [[Toon]], which is confirmed in [[Bobette]]'s [[gossip]] about him and the "[[:File:Sprout Opens up to Astro|Sprout opening up to Astro]]" CCTV footage, making his designation '''SC-001'''.
+**This makes him the second non-Main Character [[Toon]] to have a confirmed designation without a [[Roleplay]] room, the first being {{CI|Yatta|name=true}}, whose designation was revealed in a real-life event.
+***The reason for his early creation was due to [[Sprout]] pestering [[Arthur]] or [[Delilah]] to create Cosmo first before starting to create the Side Characters, as Sprout felt disconnected with his Show memories.
+*Cosmo is the first non-[[Event Toon]] with a seasonal [[Gamepass]] [[Skin]], being part of the [[Snow-Time Cosmetic Pack]].
+**This is likely because of his relations to [[Ginger]], a Christmas Toon.
+**He is also technically the first [[Toon]] to be in a Skin pack with minimal similarities with the other [[Toons]]; [[Star-Time]] has all the [[Main Character]] Toons, [[Show-Time]] has all the Toons correlating with shows, and [[Snow-Time]] should have all the Christmas Toons.
+*Cosmo is the only male [[Toon]] to have 4 Star [[Stealth]].
+*He is the third non-[[Main Character|Main]] Toon to have an official deluxe plush version of himself, with the first being [[Cocoa]], the second being [[Goob]], and the forth one being [[Gigi]].
+**Cosmo's plush is currently the only [[Toon]] with a different facial expression from his default, with the plush having a smile, much like a large portion of his skins, while his in-game design has a frown.
+*Cosmo's {{Skin|Berry Roll}} [[Skin]] has a bug where his left hand is tilted wrongly during his running animation.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

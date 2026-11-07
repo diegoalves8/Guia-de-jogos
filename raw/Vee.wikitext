@@ -1,0 +1,192 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(palegreen,#67FF5F,black); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1=Vee Version 1
+|image1=<gallery>
+Vee Render.png|Render
+Vee Full Render.png|Full Render
+Vee Icon.png|Icon
+Vee Full Icon.png|Full Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|2}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|5}}
+|ability_1={{Center|{{AI|Vee|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can highlight all Twisteds and Machines on the Floor for 5 seconds. Has a Cooldown of 50.
+|ability_2={{Center|'''Camera Hijack'''<br>{{Small|''(Passive)''}}}}<br>This Toon will have the 2 nearest uncompleted Machines highlighted for them.
+|requirement_1=4500 [[Ichor]]
+|requirement_2=100% [[Research]] on {{CI|Twisted Vee|name=true}}
+|requirement_3=Complete all [[Mastery]] Quests on {{CI|Brightney|name=true}}
+|skins=
+*Vintage
+*Cosmic Signal
+*Star-Time
+*Show-Time
+*Zapped Creation
+*Holiday Special
+*Vee-ster Bunny
+|gender=Female
+|pronouns=<!--Do not change pronouns to She/They!-->She/Her
+|designation=M-005
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+{{DialogueQuote|Vee|<choose uncached><option>Found the solution!</option><option>As simple as binary code!</option><option>Testing... Testing!</option><option>Alright, next question!</option></choose>|One of Vee's various dialogues}}
+
+{{ToonInfo|type=Main|Toon=Vee|extra=Version 1|Date=June 14, 2024|Pronoun=She}}
+
+==Appearance==
+Vee is a pistachio green [https://en.wikipedia.org/wiki/Television TV] with a black screen. She has two black antennas topped with gray spheres, with her right antenna being bent in a sort of zigzag line (left in our perspective) while the other is straight. Her facial features are lime green with a confident smirk on her face. Her torso is the same color as her TV head, while her bow tie is a slightly more vivid shade of lime green. Her limbs are a darker gray and, as seen in some artworks and her idle animations, she is revealed to have a retractable tail with a microphone topper. The microphone has a dark green handle with a gray grill. During [[Blackouts]], she gives off a green glow. When hit by a [[Twisted]], a blue error screen appears on her, which her glow and attacked face changes depending on what skin she's wearing.
+
+==Personality==
+Vee is a straightforward and blunt [[Toon]] who sometimes acts arrogant and superior. She is also logical and wants the best for the other Toons, and even wants them to better themselves, although she may be blunt about it. Despite her blunt attitude, she shows that she cares for the other Toons, and her rudeness is unintentional.
+
+Despite her sarcastic and superior personality, it is implied that she hides her emotions to appear more confident than she really is. This is implied in {{CI|Cosmo|name=true}}'s interaction with Vee where Vee gets defensive when he found out she wasn't doing the best.
+
+Vee is a sentient Toon and dislikes when she is not seen as more than her code or as if she doesn't have emotions, such as when {{CI|Rodger|name=true}} was planning to use her knowledge for something. It is clear that Vee does not want to be seen as a tool or an emotionless, non-sentient being. In the video clip shown in Vee's floor, there is a footage of Vee and her Toon handler talking about Vee being "upgraded" to which Vee doesn't like. This further shows Vee's insecurities.
+
+At times Vee is shown to have a protective personality when it comes to Toons she cares about, especially towards {{CI|Astro|name=true}}. This can be shown in a conversation with Rodger where she asks him to stop bothering Astro. She also tries to assure Astro that she’s ready to help him and defend him at any time.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 150 times|Finish 150 [[Machines]]|Pick up 100 [[Items]]|Experience 12 [[Blackouts]]|Encounter 75 [[Twisteds]]|Travel 150000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Collect and use}}|{{MastStrat|fourth|Encounter Blackouts}}|{{MastStrat|fifth|Encounter Twisteds}}|{{MastStrat|sixth|Meters|2Star}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up Research Capsules and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more [[Ichor]].
+*For the second requirement, have a Distractor Toon bring {{CI|Twisted Vee|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive Ability. This will be easier if Twisted Vee is on the [[Daily Twisted Board]].
+*For the third requirement, play as {{CI|Brightney|name=true}} and try to complete her Mastery Quests by going on multiple runs. It is recommended to go on an organized Run or do specific quests in certain runs.
+
+==Strategies==
+Vee is one of the best extractors in the game (only being outclassed by {{CI|Gourdy|name=true}} and {{CI|Soulvester|name=true}}), having 4{{Star}} [[Skill Check]] and 5 Star [[Extraction Speed]], making her optimal for those who desire to grind for {{TI|Ichor|name=true}} or simply just want to extract [[Machines]] with ease. However, those powered [[Stats]] come at the cost of being one of the worst at escaping [[Twisteds]], as she possesses below-average Stealth and below-average mobility.
+
+As a slow Toon with subpar survivability, Vee requires some support for it, whether it's from other Toons, [[Trinkets]], or [[Items]]. With that being said, keeping {{II|Box o' Chocolates|name=false|plural=a}}, {{II|Smoke Bomb|name=false}}s, and {{II|Bandage|name=false}}s in your inventory when playing as her can be extremely helpful, and having support Toons like {{CI|Astro|name=true}} or {{CI|Tisha|name=true}} around is even better when trying to get to places and [[Machines]] that are much farther from the [[Elevator]].
+
+If on a solo or alone, Vee will require assistance from other sources, and have to pay attention to her surroundings in order to not have an unpleasant encounter with any dangerous Twisteds that she struggles to outrun. With that being said, it's best to keep in mind that [[Stamina]] management is important. Only use Stamina when Twisteds are around, and save up to 60 Stamina in the case of being noticed by one or more Twisteds ever happens. You should also be aware of your Stealth in such scenarios.
+
+Some of Vee's best qualities and benefits come in the form of her [[Abilities]]. Vee's Active Ability, {{AI|Vee|name=true}}, serves many purposes, being helpful for both distractors and extractors alike. Her Ability shows the location of all Twisteds and Machines on the map, allowing distractors to locate and gather Twisteds easier, and allowing extractors to locate Machines more efficiently. In terms of usage, Mic Check doesn't really need to be saved for specific times, considering it will be beneficial to all whenever you use it, though it can be slightly better utilized at the start of a [[Floor]]. Alongside her Active, Vee has a much similar Passive Ability, that being '''Camera Hijack''', which highlights two Machines that are nearest to her location. Although seemingly being a worse version of her Active Ability, it can be helpful at times where her Ability is on cooldown. It also helps her locate Machines before anyone else in her team does (this is important considering Vee's lower mobility would hinder her locating Machines faster), or even locate Machines for her teammates at times when her Ability is on cooldown. Both of her Abilities can allow her to point stealthier extractors to more open Machines, or higher mobility extractors to Machines far from the elevator, enabling her to keep out of the way of distractors or just general danger, while still contributing to overall extraction indirectly. Do note that Duo Machines will only be highlighted with a white outline (meaning they're being extracted) if a Toon is extracting on the left attachment, so you may have to look for the [[Ichor]] inside the Machine to see if it's being filled, if only the right attachment is being extracted from.
+
+Another small upside to Vee is her light-production during [[Blackouts]]. Though it isn't much, Vee will produce a light during such event, which helps her see better during Blackouts. She can also use this light radius to guide other teammates, though due to her low speed, this may not be the safest strategy.
+
+Overall, Vee is a great support and extractor Toon, though has both downsides and upsides. Additionally, playing as her requires carefulness and attention to your surroundings, so it's best to train your senses before trying to play as her during planned or serious runs. She requires patience and can punish reckless traversal, though her {{AI|Vee|name=true}} can be extremely helpful in gathering information about the floor.
+
+===Trinket Combinations===
+{{Preference}}
+Vee has a lot of good [[Trinket]] combinations. Some of them include:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options''' 
+**This Trinket enables Vee to outrun all [[Twisteds]] but {{CI|Twisted Pebble|name=true}} during [[Panic Mode]] {{Small|(24.2 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Run Speed and outrun Twisted Pebble before Panic Mode {{Small|(25.4 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except {{CI|Twisted Bobette|name=true}} or similar/higher speed Twisteds during Panic Mode and assist teammates {{Small|(31.4 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not interfere with 2{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in your team.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her average Stamina and fast extraction;
+***The Trinkets in the '''Extraction''' section, to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Vee to take full advantage over her 5{{Star}} [[Extraction Speed]] {{Small|(1.5 Extraction Speed)}} and 4 Star [[Skill Check]] {{Small|(134 Skill Check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting her 4{{Star}} [[Skill Check]] {{Small|(19.07 avg/16.95 with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit;
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with mobility.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Vee|name=true}} [[Ability]] cooldown {{Small|(45s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Mic Check'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(41s)}}, especially if they're afraid a Floor will have dangerous Twisteds such as {{CI|Twisted Scraps|name=true}}, {{CI|Twisted Goob|name=true}}, or any {{Type|Main}} Twisteds.
+
+====Other====
+*'''{{TI|Spare Bulb|name=true}}''', to further increase Vee's already large light radius for maximum visibility, although it may cause some slight lag for older devices;
+*'''{{TI|Party Popper|name=true}}''', to assist her during [[Blackouts]] when extracting, somewhat serving as a weaker version of {{AI|Vee|name=true}}.
+'''Note: It is NOT recommended to use {{TI|Fishing Rod|name=true}} on Vee, as both of her Abilities already highlight Machines.'''
+
+==Dialogues==
+{{Vee Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Veeabilityaudio.mp3|left|thumb]]
+|The sound that plays when Vee uses her {{AI|Vee|name=true}} [[Ability]]
+|-
+![[File:Veetalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Vee's head
+|}
+
+==Trivia==
+===Lore===
+*Vee's [[Toon Handler]] is {{CI|Veronica Hurley|name=true}}.
+*Vee is the host of a quiz show. Said quiz show is implied to be popular among [[Toons]], with some even competing in them. The game show is also quite popular to the kids, with some Episodes dedicated to her quiz show.
+*Vee's designation is M-005 with the '''M''' most likely standing for {{Type|Main}}.
+*Vee seems to be unhappy that {{CI|Scraps|name=true}} keeps winning all her game show prizes, as seen in the [[:File:Vee, Scraps and Brightney TV Animation|Vee, Scraps, and Brightney TV Animation]] and their interactions together.
+*Vee most likely hides any other emotions she is feeling by keeping up her sarcastic and superiority personality. This is suggested in an interaction with {{CI|Cosmo|name=true}}, where she gets defensive when Cosmo was told by {{CI|Sprout|name=true}} that she hasn't been feeling the best.
+*Vee seems to have a mutual dislike of {{CI|Dandy|name=true}}, and this is further implied in one of her interactions with {{CI|Sprout|name=true}} where she says that she tries to argue with Dandy. Further proof of her negative attitude towards Dandy is in one of her finishing extraction lines, "I bet Dandy couldn't do this!". There are also many things that further prove this, such as:
+**Dandy's dialogue when buying Vee: "{{Text|Oh… Vee.}}";
+**In [[Dandy's Store]], during the [[Easter Event]], Vee's themed Easter egg is seen in the garbage bin;
+**In [[Vee's Floor]], where a small Dandy Plush is seen in a garbage can in one of the side rooms backstage;
+**In the [[Gift Shop]] map, Vee's cutout is knocked down on the floor, but Dandy's is still standing up;
+**Dandy makes fun of her for thinking she can be more popular than him in his [[Gossip]] about her;
+**{{CI|Dyle|name=true}} reveals that Dandy decries Vee while talking to him in his Gossip, even explicitly stating "he does not enjoy her company", emphasizing the mutual resentment.
+**A couple official (non-canon) doodles reflect this dynamic. Vee talks herself up while punching down Dandy in front of him, as Dandy from afar tells {{CI|Astro|name=true}} "I want to kill her".
+**Vee's rivalry with Dandy and Sprout (two plant-based [[Toons]]) could overall be a reference to the "Nature vs Technology" trope.
+*Vee has trouble complimenting others without it coming off as backhanded, as shown in one of her Interactions with {{CI|Brightney|name=true}}.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1254149700878336122</ref>
+*{{CI|Delilah|name=true}} and {{CI|Arthur|name=true}} had plans to upgrade Vee to Vee Version 2, but it's likely this never happened due to [[Gardenview]] closing down before Vee was upgraded.
+**If a player plays as Vee and gets close to the monitor that plays the very clip proving this statement, she will respond with "{{Text|. . .|Vee}}".
+***This makes it the first [[Floor]]-based interaction, where [[Toons]] speak without Active [[Ability]] usage, [[Machine]] completion, or being in the [[Elevator]].
+*Vee appears to show an interest towards {{CI|Blot|name=true}}. In one of her interactions with him, she asks him if he'd rather keep performing for his troupe, implying that she's possibly offering him to work with her. She even insists somewhat after he turned her down.
+**She's not, however, interested in him as a Circus Troupe member, as in her second interaction with him, she firmly shuts down the idea of having the troupe perform during one of her shows.
+*It is possible that because Vee is both a [[Main Character]] and the TV show host of a famous gameshow, {{CI|Glisten|name=true}} is envious of all the attention Vee gets and tries to compete with Vee and her gameshow, or Glisten genuinely admires Vee and wants to become a gameshow host like her, or possibly even some mix of both. Based on their interactions, they also seem to know each other in some way.
+**Vee also says that Glisten, in one of their interactions, "couldn't make a good game show, even if he tried," possibly hinting at Glisten mentioning wanting to have a gameshow before. However, this might be Vee reprimanding Glisten for his egotistical personality.
+***The two also appear in a cartoon together, talking in a backstage area.
+*Vee runs on batteries, as seen in the "Don't forget to recharge!" short, with Vee losing power on her batteries and [[Brightney|{{CI|Brightney|name=true}}]] bringing batteries to recharge her.
+**This was implied a bit earlier in the "The Vee Virus" [[poster]], where Brightney is seen with batteries, likely to fix her.
+===General===
+*Vee's name is derived from the pronunciation of TV (Tee''Vee'').
+*Vee's full name was revealed in an 11/14/2024 QnA stream.
+*When hit, Vee's face changes to a blue "Rebooting" screen. Furthermore, her hurt face shows a different screen depending on which [[Skin]] she's wearing.
+**When using the {{Skin|Vintage}} Skin, a black and white screen with the words "The End" appears.
+**When using the {{Skin|Cosmic Signal}} Skin, it changes to a blue screen with the text "Signal Error" next to a signal tower symbol.
+**{{Skin|Star-Time Vee}}'s hurt face changes to a black screen with "Please Wait…", a crescent moon, a line in the middle, and two X's; one above the line and one below.
+**When using the {{Skin|Show-Time}} Skin, the screen changes to a black screen with an eye and the text "Are You Entertained".
+**Using her {{Skin|Zapped Creation}} Skin displays a symbol on her screen similar to the {{CDI|Electrician|name=true}} [[Card]], with the word "DANGER" at the top and "HIGH VOLTAGE" at the bottom.
+**{{Skin|Holiday Special}} shows a Christmas tree with presents around it.
+**{{Skin|Vee-ster Bunny}} shows a picture of a pink rabbit facing the front.
+*Vee is one of the characters that glows a different color during [[Blackouts]], with the other five being [[Astro]], {{CI|Connie|name=true}}, {{CI|Rudie|name=true}}, {{CI|Eclipse|name=true}}, and {{CI|Soulvester|name=true}}.
+*Vee used to only have 2{{Star}} in [[Stamina]]; however, it was changed to 3 Stars in [[Changelog|v0.2]].
+*Vee is currently the only [[Toon]] to have a custom font in her chatbox, that being the "[https://fonts.google.com/specimen/Press+Start+2P Press Start 2P]" font.
+*Vee was the second [[Toon]] to have an [[easter egg]] in another game not owned by [[BlushCrunch]], able to be found in [[w:c:piggy|Piggy]]. You could find her on a monitor in the lobby of the [[w:c:piggy:Decay|Decay]] chapter, with the previous character with an Easter egg being {{CI|Pebble|name=true}}, who has an available morph in [https://www.roblox.com/games/15025355743/SBRP?gameSetTypeId=100000003&homePageSessionInfo=e19e5d0d-c3db-494a-9173-e36054d9f4d5&isAd=false&numberOfLoadedTiles=46&page=sortDetailPageHome&placeId=15025355743&position=28&universeId=5174194165 Storybook Roleplay], with the Bin Codes being /mbin2162 respectively.
+*Vee's favorite contestant is [[Brightney|{{CI|Brightney|name=true}}]], as seen from their dialogues and confirmed by [[Qwel]] during the 2025 New Years stream.
+*Vee's microphone used to be stored inside her torso when not in use. However, as of [[Changelog|v0.9.1]], this has since changed as with her updated model, her microphone is now stored inside her head.
+*[[Qwel]] confirmed in the New Year QnA Stream that both Vee and [[Rodger]] don't have mouths and don't need to eat, but they both can eat the food items because of gameplay reasons.
+*Vee hints some parts of her [[statistics]] in one of her interactions with [[Astro]].
+**When she says "Or if you need to have a [[Machine]] done faster!", she refers to her having high extraction rates with 4 Star [[Skill Check]] and 5 Star [[Extraction Speed]] compared to Astro's 2 Star Skill Check and 3 Star Extraction Speed, defining that she is a regular extractor and a sort of supporter for Astro.
+**When she says, "OR if a [[Twisted]] tries anything!" this could be a reference to her 2 Star [[Stealth]] and Astro's 5 Star Stealth with Vee being able to take Twisteds off him to protect him, acting as a semi-distractor for Astro, despite the fact she isn't a regular distractor due to her below average Movement Speed stat.
+*Vee used to be the Main (and [[Toon]] in general) with the most extractability in the game if not counting [[Dandy]] and [[Dyle]], having 4 Star Skill Check and 5 Star Extraction Speed. She was later dethroned by {{CI|Gourdy|name=true}} and [[Soulvester|{{CI|Soulvester|name=true}}]], topping her with 5 Stars in both Skill Check and Extraction Speed.
+**However, since they are both {{HT|Halloween}} exclusive, she still has the best extraction stats out of the year-round Toons.
+*Prior to [[Changelog|v0.26.1]], Vee and [[Scraps]] had the longest interaction in the game, with 7 lines.
+**This dialogue is now the second-longest, with the longest ones being [[Brusha]]'s dialogues with [[Rodger]] and {{CI|Toodles|name=true}}, with 8 lines each.
+*Vee is mistakenly referred to with they/them pronouns in her [[Ability]]'s description.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1330900639366250608</ref>
+*Vee is the third [[Main Character]] [[Toon]] to have their own [[Floor]] (not counting [[Holiday Floors]]), after [[Astro]] and [[Shelly]].
+*Vee's remodel gave both her Toon and {{CI|Twisted Vee}}[[Twisted Vee|Twisted counterpart]] a static overlay on her screen, making her more like a TV.
+*Vee is the first [[Main]] [[Toon]] and the first Toon in general to get two [[Gamepass]] [[Skins]].
+*Vee's [[Show-Time]] [[Skin]] seems to be based on an [[Unused Content#Red_Vee|unused]] Vee skin concept which also had a white screen and red as the main color.
+*Before [[Changelog|v0.10.1]], Vee's {{AI|Vee|name=true}} cooldown was 60 seconds. This was reduced to 50.
+**Additionally, her Camera Hijack ability was buffed, now highlighting 2 [[Machines]] rather than 1.
+**'''Mic Check''' got a further buff in v0.13.1, now highlighting all Machines alongside [[Twisteds]].
+*Vee is the second [[Toon]] to use one hand to extract, the first being [[Cosmo]] and the third being [[Razzle & Dazzle]].
+*Whenever a [[Machine]] is highlighted by her [[Abilities]], if its status changes (like if a Toon leaves a Machine), the highlight doesn't change until it reactivates/glows again.
+*Vee is one of the first 3 [[Main Characters]] to be added, along with [[Astro]] and [[Pebble]]. She is the only female to do so.
+*Weirdly, a [[Duo Machine]] is considered occupied by Vee's [[Abilities]] only when someone is extracting the left side.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Female]]

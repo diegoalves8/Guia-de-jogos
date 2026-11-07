@@ -1,0 +1,178 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#4696D1,#B5DFFF); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{TOTW}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Finn Render.png|Render
+Finn Full Render.png|Full Render
+Finn Render Old.png|Old Render
+Finn Icon.png|Icon
+Finn Introduction Card Artwork.png|Introduction Card Artwork
+Finn TOTW Art.png|TOTW Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|'''Reel In'''<br>{{Small|''(Passive)''}}}}<br>
+This Toon gains a 35% Movement Speed boost when any [[Machine]] is completed for 10 seconds.
+|requirement_1=500 [[Ichor]]
+|requirement_2=Finish 15 [[Machines]]
+|skins=*Vintage
+*Prismatic Pal
+*Tacky Sweater
+*Ice Fisher
+*Flowery Punch
+*Golden Fishbowl
+*Reef Explorer
+*Swimmy Finn
+*Potion Glass
+|gender=Male
+|pronouns=He/Him
+|release_date=08/14/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Finn|extra=Fish Bowl|Date=August 14th, 2024|with={{CI|Cosmo|name=true}}, {{CI|Glisten|name=true}}, and {{CI|Sprout|name=true}}|Pronoun=He}}
+
+==Appearance==
+Finn is a light blue fishbowl that's filled with water. He has an outline that's colored a darker shade of blue, and he wears an orange life jacket and white trousers with orange stripes. He also has a missing tooth.<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1276202099147018301</ref> During his walking animation, he spills water out of his head (possibly indicating that his contents are not vital to his survival). It is mentioned in multiple interactions of his that there is a toy fish named [[Barnaby Wilikers]] in his head. In his 2nd idle, Swimmy Barnaby Machines, and extraction animations, Barnaby is visible as a striped, purple wind-up toy fish.
+
+==Personality==
+Finn is an energetic and extroverted [[Toon]]. He has an interest in sea life and likes to talk about it with the other Toons, especially in the form of fish puns. He sometimes can go overboard on it and continue making puns, even if a Toon doesn't like it, based on his interaction with {{CI|Glisten|name=true}}. He seems to struggle picking up on social cues or noticing another Toon's feelings, to the point of making {{CI|Squirm|name=true}} distressed, though he isn’t malicious, merely unintentionally annoying or upsetting others. He can also be somewhat forgetful, such as forgetting not to get too close to {{CI|Vee|name=true}}, based on their interaction together.
+
+Finn appears to be a people pleaser based on the VHS in the [[Aquatic Floor]]. He loves to educate and tell jokes, though in the video where he interacts with {{CI|Razzle & Dazzle|name=true}}, coming up with jokes with Razzle's help, he explains that the kids and customers want more jokes, giving in but wishing they’d listen to his facts too. In a cartoon clip, {{CI|Shelly|name=true}} tries to talk to Finn about fossils, but Finn shows no interest until she brings up shark fossils and/or underwater fossils, showing that Finn has little to no interest in anything else besides marine biology. He gets very excited when his interest in marine biology is acknowledged as shown when {{CI|Shrimpo|name=true}} accidentally reveals he listens to the facts or when {{CI|Rodger|name=true}} compliments his intelligence in the field followed by bringing up a fact he recalls.
+
+Overall, Finn is a joyful Toon who tries his best to make others laugh with his jokes or amazed at his facts that may be unappealing or annoying to some, likely telling the jokes to stay on other Toon's good side.
+
+==Mastery==
+{{Mastery|Purchase 5 [[Items]] from [[Dandy's Elevator Shop]]|Pick up 30 Items|Travel 55000 Meters|Finish 45 [[Machines]]|Survive 30 [[Floors]]|Use 30 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Buy Items}}|{{MastStrat|second and sixth|Collect and use|Use}}|{{MastStrat|third|Meters|3Star|Additionally, with Finn's Passive Ability, you can have high Extraction Speed Toons extract so you get heightened speed, finishing faster.}}|{{MastStrat|fourth|Machine}}|{{MastStrat|fifth|Reach/do floors}}}}
+
+==[[Toon of the Week]] Quests==
+{{TOTWQuests|Encounter {{CI|Twisted Finn|name=true}} 3 times.|Encounter the [[Ichor Leak]] Event while playing as Finn.|Complete 10 [[Machines]] in a run with the {{TI|Fishing Rod|name=true}} [[Trinket]] equipped.}}
+
+===Rewards===
+*1 Quest completed: {{AT|Finn Fan}} [[Title]]
+*2 Quests completed: {{SI|Golden Finn!|name=true}} [[Sticker]]
+*3 Quests completed: {{Skin|Golden Fishbowl|toon=Finn}} [[Skin]]
+
+===Strategies===
+*For the first Quest, it is recommended to just play normally, as {{Type|Uncommon}} [[Twisteds]] like him are still fairly common on the early Floors. However, when you reach a high Floor like 25, it is recommended to restart, as Uncommons get rarer the farther you go. This can also be done with {{CI|Twisted Finn|name=true}} on the [[Daily Twisted Board]].
+*For the second Quest, play normally as Finn, but skip out on the {{CDI|Piping Tape|name=true}} and pick {{CDI|Electrician|name=false}}, giving you the highest chance of an [[Ichor Leak]].
+*For the third Quest, alongside {{TI|Fishing Rod|name=true}}, it is recommended to use a speed boosting Trinket like {{TI|Pull Toy|name=true}} or having a [[Toon]] speed you up when a [[Floor]] starts, like {{CI|Tisha|name=true}}. This can help you reach [[Machines]] quickly. You can also use extraction boosting Trinkets like {{TI|Vee's Remote|name=true}} to be able to extract more Machines. With how Fishing Rod synergizes with this Quest, it should be done quickly. It can be more easy in a solo run, as you'll have dibs on all Machines, you’ll only need to reach Floor 4 to extract 10 Machines if you choose to do this instead.
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, you can go into multiple runs and do as many machines as you can. To do this, focus on using a [[Toon]] that has a fast Extraction Speed or Big Skill Check, You can also use trinkets that increase your Skill Check or Extraction.
+
+==Strategies==
+Finn is a beginner friendly [[Toon]] that serves greatly for those who want to practice their skills if they struggle with extracting, whilst also providing great escapability with his Passive [[Ability]], '''Reel In'''. His Passive Ability can help with his main weaknesses, average speed and subpar [[Stamina]], gaining a 35% [[Movement Speed]] increase for 10 seconds, every time a [[Machine]] is completed. This makes it a great survival tool for him given the amazing speeds it gives when multiple Machines are finished at once, with 4 Machines completed allowing him to outwalk {{CI|Twisted Dyle|name=true}} outside of [[Panic Mode]]. To see these speeds in full for every Machine that can be possibly finished at a time, see the table below.
+{{SFSpeedTable|Finn}}
+
+While his Passive Ability is active, [[Twisteds]] such as {{CI|Twisted Vee|name=true}} (normally lowers speed by -25%, fully countered to a 1.2% speed boost while Ability is active) are reduced threats. [[Ichor Leaks]] can also be less of an issue, as walking through Ichor Puddles won't be as dangerous (normally lowers speed by -15%, fully countered with a 14.7% speed boost).
+
+Since Finn will always receive a speed boost during Panic Mode, it's a good idea to preserve a little Stamina for it. Given that Finn's Stamina is lower than average, choosing the {{CDI|Well-Paced/Endurance|name=true}} cards will provide a significant increase to his strength and allow him to make use of his ability more often, and his above average extractability makes him great for completing {{CDI|TIME'S UP}}[[Dyle's Floor]] with ease. If otherwise unable to do these, prioritizing Stamina Items and managing Stamina by not running as much when not being chased can be great alternatives.
+
+Finn's Passive Ability gives him the potential to be a decent distractor for teams with good extractor Toons, especially in Floors with high Machine counts. However, his less than great Stamina should be noted, alongside with the fact that, even if using {{TI|Speedy Shoes|name=true}} or {{TI|Dog Plush|name=true}}, Finn is unable to out-walk most of the Twisteds in the game unless the Machine completion is timed correctly, so only distract as him as a backup distractor or use better Toons that are more fit for the role. He can still help other Toons make it to the [[Elevator]] in [[Panic Mode]] due to his buff when the last Machine is completed, and can distract the Twisteds that are near the Elevator until all the Toons have made it in.
+
+Overall, Finn is a great survivalist and extractor, in spite of his lower Stamina, his Ability helps remedy it. He's a very good Toon in teams, due to the increased opportunities for Ability activation, though he has a fair potential in solo runs.
+
+===Trinket Combinations===
+{{Preference}}Some [[Trinket]] sets that are recommended are:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Finn to outrun all Twisteds except {{CI|Twisted Dyle|name=true}} at maximum speed before [[Panic Mode]], and during Panic Mode with '''Reel In''' active {{Small|(26.9/36.3 run speed)}}. Here are some options to pair Pink Bow with: 
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.1/38.1 run speed)}}; 
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to increase Run Speed and Walk Speed, though it only works half the time {{Small|(16.5/22.3 walk speed, 29.7/39.9 run speed)}};
+****They can be paired together and give an equal boost of Movement Speed {{Small|(16.5/22.3 walk speed, 27.5/37.1 run speed)}}; 
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35/47.2 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***'''{{TI|Cooler|name=true}}''', to increase Finn's Stamina pool;
+****'''Do not''' use this Trinket combination if you don't struggle with Stamina management.
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his subpar Stamina and slow extraction;
+***Any of the Trinkets in the '''Extraction Section''', to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Finn to take full advantage over his 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and 4 Star [[Skill Check]] {{Small|(134 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote, and gain a near-immediate speed boost;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting his 4 Star Skill Check {{Small|(24.19 avg/21.98 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+==Dialogues==
+{{Finn Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:FinnPassive.mp3|left|thumb]]
+|The sound that plays when Finn's '''Reel In''' [[Ability]] activates
+|}
+
+==Trivia==
+*In Finn's head lies {{CI|Barnaby Wilikers|name=true}}, a purple-striped plastic wind-up fish toy, visible in his Idle animation quirk and his current extraction animation.
+**Currently, only him and [[Blot]] have a [[Minor Character]] ''with'' them, them being Barnaby Wilikers and {{CI|Blot Jr.|name=true}}, respectively.
+***They are paired together in their own [[Stickers]].
+***Similarly to Blot Jr., Barnaby's [[Skin]] changes in some of Finn's Skins.
+**This makes Finn the first [[Toon]] capable of carrying an object and/or a Toon in their head, with the second being {{CI|Gigi|name=true}} and the third being {{CI|Bassie|name=true}}.
+**According to {{CI|Dandy|name=true}} in a [[gossip]], Barnaby can blink, move suspiciously fluid, and respond to Finn. Dandy himself and {{CI|Gourdy|name=true}} are only Toon that's aware of this. It's also unknown if he appeared in the original [[Show]].
+***Barnaby is likely a robot, given the wind key on his neck and since he really can move by himself, while still being framed as a toy at the same time. 
+***According to Finn's dialogue with {{CI|Sprout|name=true}}, Finn considers him as "more than just a toy fish", implying that Dandy was completely right.
+***One [[Sticker]] shows Barnaby in a thinking pose alongside Finn. While the Sticker isn't part of the lore, it can still show elements of it and therefore ''could'' support Dandy's gossip.
+***In an official [https://youtube.com/shorts/o_P_iqzPGrY?si=fu-FYJKsUcP5X9OC video] posted featuring Dandy and Finn, Barnaby can also be seen having a shocked expression for a second when Finn jumps. This might support Dandy's gossip too.
+*It is unknown how, when, and why Finn lost his tooth.
+*Finn and {{CI|Teagan|name=true}} have some similarities:
+**Both were surprise [[Toons]] with no prior promotion and got released in updates with 4 Toons each.
+***Coincidentally, both of them also appeared in a thumbnail for the [[Changelog|v0.3]] alongside {{CI|Twisted Goob|name=true}}.
+***They were the {{Type|Uncommon}} Toons of their updates.
+**Both are the only Toons who have liquids in their heads and have to use a comically large cork while sleeping, due to it being quite funny<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1300070907372634152</ref> and likely because it makes sense with being cartoon characters, even though they've never been seen doing this at all, not even in the official illustrations.
+**They share similar [[Stats]], swapping [[Stamina]], [[Stealth]], and [[Skill Check]].
+**They were optimized in v0.13.14.
+*Finn's name was likely chosen because Finn sounds very similar to 'fin', a body part most fish have.
+*The first line that Finn says in one of his interactions with [[Shrimpo]] may be a reference to the "Why So Serious" line from Joker in ''The Dark Knight'', and also the meme of the same name.
+*Finn's icon has white buckles on his vest, while his model and Introduction Card artwork have black buckles. This is likely a minor art/coloring mistake.
+*Finn drinks exclusively water, as confirmed in an interaction with [[Teagan]].
+**This could be Finn worrying drinking any other liquid could contaminate either Barnaby or the liquid inside his head, as possibly implied by his {{CI|Twisted Finn}}[[Twisted Finn|Twisted counterpart]] and his [[Skins]], despite that one of them, being his Flowery Punch skin having fruit punch in his head with no ill effects.
+*While walking or running, water can be seen splashing out of Finn's head every few seconds.
+**Prior to his optimization, this small particle effect was only visible to the Finn user; no one else could see it.
+*The outline effect visible on Finn's head and arms is created by having a blue-colored surface surrounding these parts of him. The surface can only be seen from the inside, so his arms and head are visible through it, but since it is slightly enlarged, some of its inside can be seen surrounding Finn, creating the outline.
+**This technique is also used for the outlines on {{CI|Poppy|name=true}}, as well as both Toons' [[Twisted]] counterparts.
+*Finn and {{CI|Shelly|name=true}} are very similar, with both having almost the same Passive [[Ability]] (Shelly getting 25% speed while Finn gets 35%) and similar [[Stats]] (Finn lacks 1{{Star}} in Skill Check compared to her). They both also have a topic they specialize and center around, with Finn specializing around marine biology and Shelly around paleontology.
+**Ironically, they both remind {{CI|Brightney|name=true}} of something, that being a goldfish and a Troodon.
+*Finn talks with all of the base game [[Toons]]; the [[Event Toons]] except [[Bobette]] are all excluded.
+*Finn, along with {{CI|Blot|name=true}}, {{CI|Brusha|name=true}}, [[Gigi]], and {{CI|Yatta|name=true}}, is one of the few [[Toons]] to not have a revealed full icon.
+*Finn's friends include {{CI|Razzle|name=true}} and possibly [[Shrimpo]].
+**In Finn's lore video, Razzle expresses support towards Finn's desire to share more marine life facts, rather than focusing on solely puns and jokes due to {{CI|Arthur|name=true}}'s demand. He also tries to comfort him after noticing his sadness. Razzle also proclaims that Finn is his "best friend", with both of them having some shared enjoyment of comedy.
+**Shrimpo's and Finn's possible friendship may be hinted at in a [[Gossip]] with [[Dandy]]. This could also be implied by their matching Christmas [[Skins]], Ice Fisher and Bundled Up, respectively.
+**Finn is the first Toon to not mind [[Shrimpo]]'s bullying and responds positively.
+*Finn is the third [[Toon]] that was not released during the game's launch to be optimized, with the first two being [[Cosmo]] and [[Sprout]], and the second being [[Glisten]] and [[Shelly]].
+**Coincidentally, all of them, except Shelly, released in the same update (v0.3).
+***However, since the other three were mentioned in the Welcome To Gardenview poster, before [[Changelog|v0.13.14]], he was also one of the three unoptimized toons to not be featured and any posters during the Launch prior to release, with the other two being [[Gigi]] and [[Teagan]].
+*If you enter the [[Aquatic Floor]] map as Finn and go to his section, he will say "{{Text|...I really do miss when these tanks were filled with critters.}}".
+**If you approach the Lore Video with Finn and {{CI|Razzle & Dazzle|name=true}}, he will say "{{Text|Haha... this isn't so funny.}}".
+*The sound used for Finn's '''Reel In''' Ability originates from Flood Escape 2. It is uploaded on the Roblox Audio Library as "[https://create.roblox.com/store/asset/7815311416/Flood-escape-Splash-sound Flood escape Splash sound.wav]".
+*Finn is the second [[Toon]] in general and the first non-[[Main]] Toon to have a [[Toon of the Week]]. With this, he is the first non-Main Toon to:
+**Have a Golden and Robux-exclusive [[Skin]] while not being [[Event]] exclusive.
+**Have a dedicated Lore video.
+**Have 2 dialogues in one Floor.
+***Finn is the second one to receive dialogue in a map they previously never had dialogue in, with the first being {{CI|Bassie|name=true}}.
+**Have their own [[Title]].
+***He is also the only Toon to have their own [[Machine]] Type.
+*Erroneously, in [[Changelog|v0.23.1]], Finn would have {{TTDI|Barnaby|name=true}}<ref>[[File:TwistedBarnabyinFinn'sFishbowl.png|200px]]</ref> inside his head when working on an arcade machine instead of the regular [[Toon]] counterpart due to a bug.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

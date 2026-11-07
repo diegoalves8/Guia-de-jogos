@@ -1,0 +1,29 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#E002B4,#4C0A69,#FFF9BA,#E5A35C); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Purchasable}}{{Limited}}{{Gamepass
+|{{PAGENAME}}
+|image1=Spooky-Time Gamepass Icon.png
+|caption-image1=The Gamepass' icon
+|robux_price=200
+}}
+
+The '''Spooky-Time Cosmetic Pack''' is an active [[Gamepass]] featuring 5 exclusive skins regarding the '''[[Halloween Toons]]''' and {{CI|Connie|name=true}} in [[Dandy's World]]. It was introduced in [[Changelog|v0.29.1]] as the eigth gamepass available in [[Dandy's Store]].
+
+==Description==
+This gamepass features 5 exclusive skins for: Gourdy, Eclipse, Soulvester, Connie, and Ribecca! These skins feature unique particles, trails and ability effects. All features are cosmetic and do not affect gameplay.
+
+==Effect==
+Players who purchased this gamepass are rewarded 600 [[Ichor]] and receive the 5 matching skins for {{CI|Gourdy|name=true}}, {{CI|Eclipse|name=true}}, {{CI|Soulvester|name=true}}, {{CI|Connie|name=true}}, and {{CI|Ribecca|name=true}}.
+
+==Skins==
+<gallery>
+Spooky-Time Gourdy.png|{{Skin|Spooky-Time|toon=[[Gourdy]]}}
+Spooky-Time Eclipse.png|{{Skin|Spooky-Time|toon=[[Eclipse]]|}}
+Spooky-Time Soulvester.png|{{Skin|Spooky-Time|toon=[[Soulvester]]}}
+Spooky-Time Connie.png|{{Skin|Spooky-Time|toon=[[Connie]]}}
+Spooky-Time Ribecca.png|{{Skin|Spooky-Time|toon=[[Ribecca]]}}
+</gallery>
+
+{{GamepassNav}}
+
+[[Category:Gamepasses]]
+[[Category:Skins]]
+[[Category:Halloween Event]]

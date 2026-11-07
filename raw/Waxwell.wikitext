@@ -1,0 +1,186 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#8571A2,#A36B98,#DC6686,#EDA47B); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Waxwell Render.png|Render
+Alt Waxwell Full Render.png|Full Profile Render
+Waxwell Icon.png|Icon
+Waxwell Full Icon.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|5}}
+|movement_speed={{StatComp|Move|5}}
+|stamina={{StatComp|Stam|1}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Waxwell|name=true}}<br>{{Small|''(Active)''}}}}<br>
+This [[Toon]] ignites his flame, removing his Tired II debuff for 10 seconds. While ignited, he leaves a flame trail while moving. Toons who touch the trail gain the Ignited buff, causing their ability cooldowns to recover twice as fast for 5 seconds. Does not affect any Waxwell, and cannot stack. Has a cooldown of 60.
+|requirement_1={{Currency|Research|50% Research}} on {{CI|Twisted Waxwell|name=true}}
+|requirement_2=Complete 3 [[Mastery]] Quests on {{CI|Goob|name=true}}
+|requirement_3={{Currency|Ichor|3500}}
+|skins=*Vintage
+*Villainous Casual
+*Toxic Experiment
+|gender=Male
+|pronouns=He/Him
+|release_date=08/07/2026
+}}
+
+{{DialogueQuote|Waxwell|I think other Toons don't understand US antagonists... With our DARK AND EVIL thoughts...|From Waxwell's various dialogues}}
+{{ToonInfo|Toon=Waxwell|extra=Candle|Date=August 7th, 2026|type=|Pronoun=He}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Waxwell appears to be a purple candle with tons of wax dripping off, acting as his hair. The top of his head has a white wick which has a large, orange flame on top when his [[Ability]] is active, making him glow brighter in [[Blackouts]]. He wears a white-spiked, red collar around his neck, a short, dark gray, bell-sleeved cloth with a jagged hem, and red boots. He also appears to have eye bags under his eyes.
+
+|-|Vintage=
+Vintage Waxwell is gray with his eyes pie-cut to the left and has a black wick that produces a white flame. His collar spikes and cloth are black, and his collar and boots are white.
+
+|-|Villainous Casual=
+Villainous Casual Waxwell has the wax become a medium warm gray instead of purple, and gives him a bright red headband with two horns. He now wears a bright red sweater, with black sleeve cuffs, alongside some red and white sneakers. His spiked collar now has a black base instead of a red one, and he dons two black loops on each of his thighs. He gains a light gray pair of pants, with ripped knees, and has one black triangle under each eye. His wick now generates a red flame.
+
+|-|Toxic Experiment=
+Toxic Experiment Waxwell's wax is a notably warmer shade of purple than before, and his eye bags have become a bright magenta, alongside his boots. He has more wax on his head, acting as fluffy bangs, alongside a set of black goggles, with green lenses inside. These lenses have a mint green to lime green gradient. Instead of a spiked collar, he now wears a pastel green turtle-neck sweater and some pitch black pants. He wears a white lab coat as well, which is visibly worn and stained with pale red. His flame is now a bright green instead of orange.
+</tabber>
+
+==Personality==
+Waxwell is a mischievous [[Toon]], though unlike {{CI|Gigi|name=true}}, he takes slightly more drastic measures, doing pranks with seemingly more malicious intent like stealing {{CI|Toodles|name=true}}' {{TI|Dog Plush|name=true}} and attempting to burn it. He has also added extra things to {{CI|Sprout|name=true}} and {{CI|Cosmo|name=true}}'s baked goods with the intent of ruining the recipes, only for Sprout to thank him for supposedly helping them in their interaction. Apparently, these pranks always backfire, either by him messing up or other Toons accepting it, sometimes even reacting positively. When things don't go as planned, he throws a tantrum, trying to either downplay his failures or twist the situation to make it seen like his antics worked, as seen in multiple interactions. Waxwell also tries to ignore things to make his claims work sometimes, like when he denied research about dinosaurs in dialogue with {{CI|Shelly|name=true}}. He also makes attempts to immolate other Toons and their stuff, like how he jokingly considered burning {{CI|Flutter|name=true}}'s wings, only for her to immediately berate him for that. 
+
+It seems like he has a softer side or at least is not as malicious or "evil" as he tries to act. When {{CI|Goob|name=true}} offers to hug him, he considers it, but immediately backtracks and threatens Goob. He is also self conscious of the fact his plans always backfire and how he never seemed to succeed in the [[Show]], as is evident while talking with {{CI|Glisten|name=true}} and {{CI|Vee|name=true}}. This is likely the reason of his almost-constant tiredness, only being relieved of it when attempting a [[Abilities|''prank'']], but continuing to fail repeatedly, despite {{CI|Dandy|name=true}}'s belief that Waxwell is not impacted by the constant failure of his pranks. Suggested by his {{CI|Twisted Waxwell}}[[Twisted Waxwell|Twisted counterpart]]'s scrawny, seemingly starved appearance, he may have burned so much energy into trying to conduct a successful prank, that he deprived his body of sufficient support to a greater extent than visible in his Toon form.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 80 times|Experience 8 [[Blackouts]]|Complete 60 Duo Machines with another Player|Complete Floor 10 with the {{TI|Cherished Blanket|name=true}} equipped|Travel 111000 Meters|Use 30 Instructions}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Encounter Blackouts}}|{{MastStrat|third|find a friend (preferably multiple) and play together, reaching as high of a [[Floor]] as possible while doing any [[Duo Machine]] with a friend. You can equip Extraction or Skill Check-boosting [[Trinkets]] to speed this up}}|{{MastStrat|fourth|Meters}}|{{MastStrat|fifth|just get to Floor 10 to finish the quest. You can use the opportunity to support your teammates and even help them with their [[Ability]] Mastery Quests}}|{{MastStrat|sixth|try to get as many {{Tape|name=true}} as possible and keep going through Floors to get as many [[Dandy's Store]] rerolls. You can also have a {{CI|Bassie|name=true}} come and buy the {{II|Instructions|name=true}} so they can give to you, speeding up the process. You can also use the {{TI|Crayon Set|name=true}} to give you a 20% chance in getting the Instructions Item on the start on every Floor if you have an inventory slot open}}}}
+
+==Requirement Strategies==
+*For the first requirement, you need to walk into {{CI|Twisted Waxwell|name=true}} to obtain [[Research]]. Playing as {{CI|Rodger|name=true}} also helps getting it faster because of his Passive [[Ability]]. This will be easier if Twisted Waxwell is on the [[Daily Twisted Board]].
+*For the second requirement, play as {{CI|Goob|name=true}} and try to complete 3 of his [[Mastery]] Quests by going on multiple runs. Since you only need to complete half of the total mastery quests to buy Waxwell, choose some specific missions, preferably the easiest ones.
+*For the third requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+==Strategies==
+Waxwell, if used properly, is a really versatile [[Toon]], being a great distractor, decent extractor, and adequate support.
+
+Waxwell's 5{{Star}} [[Movement Speed]] and 2 Star [[Stealth]] makes him an almost perfect Distractor, not having the problems other great distractors have, like {{CI|Pebble|name=true}}'s 3 Star Stealth or {{CI|Looey|name=true}}'s need to get hit to be faster. However, he has a major drawback: his Stamina. On top of 1 Star Stamina, his (almost) constant {{Debuff|Tired|II}} makes Stamina an extremely limited resource. Although this could be fine with good Stamina management, hard [[Twisted]] combinations will be a lot harder, as things like sprint-tapping, maneuvering, or rounding up Twisteds will use up a large chunk of Waxwell's Stamina. Additionally, during [[Panic Mode]], reaching the [[Elevator]] will be difficult, especially if really far away, risking death, even with your 5 Star Movement. However, you could have Toons like {{CI|Astro|name=true}} or {{CI|Tisha|name=true}} help with mobility, either reducing the need for Stamina or numbing the consequences of using it. You can also use mobility or Stamina [[Trinkets]] like {{TI|Dog Plush|name=true}} or {{TI|Cooler|name=true}} to ease the weakness. It can be really beneficial to select both {{CDI|Well-Paced/Endurance|name=true}} Cards, as his capacity will be increased to 120. Additionally, his [[Ability]], {{AI|Waxwell|name=true}}, can help these Toons use their Abilities more often, letting them help other Toons more efficiently or help you more often. This also removes his Tired II, so you reap more benefits, getting support and more reliable Stamina regeneration. His 2 Star Stealth also lets him solar-kite with {{CI|Bobette|name=true}} (albeit a Stealth-affecting Trinket is needed), somewhat fixing his Stamina problem and letting him move quick, but certain combos can still be quite dangerous and difficult to handle.
+
+If you want to use Waxwell for extracting, his 5 Star Skill Check still makes him really good with [[Machines]], though his Extraction Speed is quite low. Because of this, he relies on his Skill Checks to let him progress through the Machines, so Trinkets like {{TI|Magnifying Glass|name=true}} or {{TI|Participation Award|name=true}} can help him finish faster. He could also use his Ability to reduce the cooldowns of Toons like {{CI|Shelly|name=true}} or {{CI|Squirm|name=true}}'s Abilities, letting them use their Abilities more and quickening Machine completion. On top of that, his high Movement Speed makes Treadmill Machines also quickly done, albeit the low Stamina makes sprinting on them less common, making it slightly slow. Barnaby Machines are also less of a risk with his high Skill Check, and the coins give a high value, making his low Extraction Speed less of an issue. However, do note the 2 Star Stealth is an issue if you aren't distracting, and certain Machines could be out of reach due to distractors.
+
+Finally, his Ability makes supporting others really easy, with the only downside being his 60 second cooldown and the need to move around. If a player were to stand in the flame trail for the minimum 10 seconds (+5 seconds of lingering), they would have approximately 30 seconds cut from their cooldown, though they could cut even more time if they follow the entire trail, as each flame lasts for 10 seconds (for an overall duration of around 20 seconds, from the first flame spawning, to the last few flames disappearing), meaning a player could theoretically cut down nearly 50 seconds. This maximized cooldown reduction is of course really situational, being reliant on the Waxwell moving for the entirety that his Ability is active, and only really useful on select Toons (e.g. a Toon with a healing Ability, who needs to heal a teammate or multiple, but is held back by their cooldown), as otherwise this could take up time away from extracting from fast extractors. 
+
+With his Ability activated, he also glows in [[Blackouts]] (albeit really little) and loses the Tired II, letting him move around more quickly and spread his trail. When his Ability is active, you should try running around as much as possible, covering as much area as possible so Toons know where the trail is. You can also put it in a small space and tell Toons where it is so they can simply stay still or move around in the trail. This can especially be done while distracting, though high Stealth Toons will be the only ones able to get to him without endangering the rest. Since he loses his Tired II while his Ability is active, you could use it after being chased to recover Stamina a bit faster, though this should usually only be done if nobody is in need of the cooldown reduction, or won't be affected by it. You could also use it during Panic Mode or a particularly dangerous moment when you absolutely need to recover a bit more Stamina than you otherwise would with the Tired II.
+
+He can be great on [[Dyle's Floor]] due to his versatility. His maximum Skill Check means failing is less likely, which can make {{CI|Twisted Dyle|name=true}} less of a threat, and even if someone fails a Skill Check, Waxwell has the speed to make a quick getaway. He can take care of Treadmill Machines rather efficiently and can use his Ability on certain Toons to get through Machines faster. Plus, the extra +50 Stamina capacity given for completing the Floor can improve his survivability, especially when combined with both Well-Paced/Endurance Cards, since he'll have a capacity of 170, nearly 4 Stars.
+
+In solo runs, his strengths become a lot more apparent. His 5 Star Movement Speed lets him escape almost all of the Twisteds, though without anyone distracting, regenerating and managing Stamina will be harder. His high Skill Check makes doing Machines easier too, also lessening the amount of Skill Check failures and Twisted attractions, albeit the low Extraction Speed makes you stay on them for a while longer. Despite his Ability's main purpose of decreasing others' cooldowns being useless in a solo scenario, the temporary removal of the Tired II Debuff as well as the light produced from the flames can still provide great benefits.
+
+Overall, despite his shortcomings, he is able to adequately do everything so long as you play right. He's really capable of many tasks, but is reliant on good skill and knowledge of the game as well as experience with distracting if you decide to do so with him. He's a very good choice for solo runs due to his high speed and above average extraction, though you'll have to keep an eye on his shortcomings.
+
+===Trinket Combinations===
+{{Preference}}With Waxwell's 5{{Star}} [[Movement Speed]] and [[Skill Check]] and contrastingly subpar [[Stats]], recommended [[Trinket]] combinations for him are:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(22 Walk Speed)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Waxwell to outwalk [[Twisteds]] slower than {{CI|Twisted Glisten|name=true}} (enraged) and {{CI|Twisted Pebble|name=true}} {{Small|(23.1 Walk Speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to outwalk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(24.2 Walk Speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active, though his low Stamina may reduce this Trinket's use {{Small|(39 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in, especially with his low Stamina;
+***'''{{TI|Friendship Bracelet|name=true}}''', to be able to sprint for longer periods without a speed debuff, though reliant on multiple alive players;
+***'''{{TI|Diary|name=true}}''', to support 2{{Star}} distractors without taking off Twisteds' aggro;
+****Only use this Trinket combination if your distractor has 2 Star Stealth.
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 2 Star [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 2 Star [[Stealth]], or if you're solar distracting with a {{CI|Bobette|name=true}} lacking [[Diary]].
+***'''{{TI|Whispering Flower|name=true}}''', to slightly counteract the {{Debuff|Tired|II}} Debuff he has with his Items;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his low Stamina and fast extraction, also neutralizing his Debuff;
+***The Trinkets below the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Waxwell to take full advantage over his 5{{Star}} [[Skill Check]] {{Small|(167.5 skill check size)}}, especially with his really low [[Extraction Speed]]. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting his 5 Star Skill Check (24.86 avg/22.59 with Tech Savvy);
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Waxwell|name=true}}'s [[Ability]] cooldown {{Small|(55s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Ignite'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(50.2s)}};
+*'''{{TI|Cherished Blanket|name=true}}''', to increase the amount of time his Ability spans;
+**Any Trinkets listed in '''Mobility''' or '''Extraction''', to be able to help in other fields.
+
+==Dialogues==
+{{Waxwell Dialogues}}
+
+<!--==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+!
+|
+|} -->
+
+==Trivia==
+*Waxwell's name could be a portmanteau of the word "Wax" and the name "Maxwell".
+*Waxwell is the first [[Toon]] to have a name starting with and containing the letter W.
+*Waxwell is the second non-[[Main]] [[Toon]] to have permanent 5{{Star}} in two [[Stats]], with the first being {{CI|Soulvester|name=true}}.
+**Additionally, he is the first non-Main '''and''' non-[[Event]] Toon to have this trait.
+**Coincidentally, he shares 5 Stars in Skill Check and 1 Star in Stamina with Soulvester.
+*Waxwell is the first [[Toon]] with 5 Stars in [[Movement Speed]] to:
+**Not be a {{Type|Main}}.
+***Though you can argue that {{CI|Razzle & Dazzle|name=true}} and {{CI|Looey|name=true}} can have 5 Stars in Movement Speed, Razzle & Dazzle only get 5 Star Speed on odd Floors and Looey needs to be at 1 Heart to achieve an approximation of 5 Star Speed. Waxwell has it exactly and consistently.
+****You could also argue that Looey's speed is also consistent, but once he gets healed, he loses speed.
+**Not have 4 Stars in [[Stamina]].
+**Have above average Skill Check.
+**Not have an [[Ability]] related to [[Items]], nor a Passive Ability.
+**Not have a [[Gamepass]] [[Skin]].
+**Not have a [[Mastery]] Quest requiring reaching [[Floor]] 20.
+*Waxwell, alongside {{CI|Glisten|name=true}}, is one of the few [[Toons]] who applies a [[Status Effect]] to themself.
+**Waxwell is the first to have a Debuff constantly applied to himself.
+**Waxwell is also the first one to inflict Buffs (positive Status Effects) to other Toons.
+*Waxwell and {{CI|Squirm|name=true}} have some similarities.
+**They have new letters no other [[Toons]] have in their name.
+**They both frequently show negative emotions, with Waxwell being "malice" and Squirm being distressed.
+**They have 5 Stars on an Extracting [[Stat]].
+**Their Twisteds are {{Type|Rares}}.
+**Both require 50% [[Research]] of their [[Twisted]] counterparts to obtain.
+**They both have 2 Stars in [[Stealth]].
+**They were the only Toons released in 2026.
+***Although 2026 hasn't ended yet, with the coming months being unlikely to release a full-fledged Toon, they are most likely to be the only ones releasing.
+**They have the ability to speed up an [[Ability]]'s cooldown by 2 times.
+***These affects stack too; Having Squirm affected by {{Debuff|Ignited}} while eating books reduces his cooldown 4 times faster.<ref>[[File:x4 Ability Cooldown.gif]]</ref>
+**They had prior teasers that showed a vague sense of what they were (Squirm's silhouette and Waxwell's candlewick), before getting a short that fully revealed them a few days before their releases.
+*Waxwell is the first [[Toon]] to need the use of a [[Trinket]] to complete a [[Mastery]] quest. He is additionally the first Toon to require extracting a specific [[Machine]] type, and the second to require using a specific [[Item]].
+*Waxwell is so far the longest [[Toon]] to be in development before their release, taking 662 days. Before, many ideas for his character were teased around by [[Qwel]].
+**The idea for his personality was shared on October 15, 2024.<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1296100038203805698</ref>
+**The idea for his gimmick<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1385976852790906940</ref>(his {{Debuff|Tired|II}} Debuff) and Movement Speed [[Stat]] wasn't shared till June 20, 2024.
+**His early concept art was created around March/April 2026.<ref>https://x.com/Aaron_Margolin/status/2083996147098816889?s=20</ref>
+*Waxwell is the third [[Toon]] whose [[Introduction Card]] did not come with him upon his release, with the first being {{CI|Yatta|name=true}} and the second being {{CI|Brusha|name=true}}.
+**Additionally, he's the first male Toon to not have an Introduction Card come upon his release.
+*Waxwell, along with [[Yatta]], [[Brusha]], {{CI|Blot|name=true}}, {{CI|Finn|name=true}}, and {{CI|Gigi|name=true}} are one of the only [[Toons]] to not have a full icon.
+*Waxwell is the first [[Toon]] to have multiple light radii in [[Blackouts]], with [[Ability]]-activation changing his glow from the default white to a larger red (or other colors depending on [[Skin]]).
+**He is the first Toon to not have a light bulb icon signifying the Light-Producing Aux. [[Statistics#Auxiliary Statistics|Stat]], but still glow in Blackouts.
+***He shares this trait with {{CI|Ribecca|name=true}} (though for her, it's [[Ichor Puddle]] Immunity), as she also doesn't have a signifying icon either, but still effectively has the associated Aux. Stat.
+**He is the only one with a temporary and activatable radius, as all other Light-Producing Toons are permanently and passively glowing in Blackouts.
+*Waxwell is the first [[Toon]] to have a trail [[Ability]].
+**This also means that he is currently the only Toon to be affected by his [[Trinket]], {{TI|Cherished Blanket|name=true}}.
+*Like other recent [[Toons]], Waxwell does not have interactions with nearly half of the Toons despite not being [[Event]]-exclusive, just like [[Blot]] and [[Brusha]].
+**Considering that the two mentioned above have had more dialogue added over time, it's possible that Waxwell will also have some, probably in his [[Toon of the Week]].
+*Waxwell and {{CI|Bobette|name=true}} have multiple similarities.
+**They have unique [[Ability]] types and can have them affected by their respective [[Trinkets]] ([[Cherished Blanket]] and {{TI|Toy Kit|name=true}}).
+***They are also the only ones with those Ability types and therefore the only one able to use said Trinkets.
+**They have 5 Stars in a mobility [[Stat]], 2 Stars in [[Extraction Speed]], and 2 Stars in [[Stealth]].
+***In fact, prior to Bobette's stat change, they both had 5 Stars in Skill Check as well.
+**They have Abilities that affect Stamina in a way.
+*Waxwell technically needs 2 different [[Toons]] to be unlocked, as you can only purchase {{CI|Goob|name=true}} if you have 3 quests on {{CI|Scraps|name=true}}'s [[Mastery]] done.
+**This makes him the third Toon to require two different Toons' Mastery quests to be purchased, the first being [[Blot]], and the second being Yatta (requiring Poppy's masteries to acquire Looey).
+*Waxwell's [[Ability]] could play into his nature, with his ignition being him trying to cause trouble and his trail giving {{Debuff|Ignited}} to [[Toons]] being the backfiring of his pranks.
+*Waxwell is the second confirmed antagonist of the [[Show]], the first being {{CI|Shrimpo|name=true}}.
+*Waxwell is one of two [[Toons]] with a different render for their Character Card Profile "(image)", the other one being [[Shrimpo]].
+*Waxwell and {{CI|Dyle|name=true}} seem to be the only [[Toons]] whose teeth can seemingly change from being flat and sharp. Waxwell has flat teeth in his model and render, but he can be seen with sharp teeth in his [[Sticker]] and a part in the Queens of Mischief music video where he tries to make the power go out.
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

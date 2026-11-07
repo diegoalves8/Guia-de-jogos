@@ -1,0 +1,170 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#aafffc,#2f4edd,#41a9ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{ToonOfTheWeek}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Tisha Render.png|Render
+Tisha Full Render.png|Full Render
+Tisha Render Old.png|Old Render
+Tisha Icon.png|Icon
+Tisha Full Icon.png|Full Icon
+Tisha Introduction Card Artwork.png|Introduction Card Artwork
+Tisha TOTW Art.png|TOTW Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Tisha|name=true}}<br>{{Small|''(Active)''}}}}<br>This [[Toon]] can create a pulse that increases the [[Movement Speed]] of Toons around her by 25% for 5 seconds. This pulse also removes any [[Ichor]] puddles within its radius. Has a Cooldown of 50.
+|requirement_1=500 [[Ichor]]
+|skins=*Vintage
+*Lavender Maid
+*Winter Mint
+*Spring Cleaning
+*Golden Tissues
+*Swift Service
+*Dreary Muse
+*Mossy Stone
+|gender=Female
+|pronouns=She/Her
+|release_date=07/12/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Tisha|extra=Tissue Box|Date=July 12, 2024|with={{CI|Flutter|name=true}}, {{CI|Shelly|name=true}}, and {{CI|Teagan|name=true}}|Pronoun=She}}
+
+==Appearance==
+Tisha is a light cyan anthropomorphic tissue box. She has three freckles on each cheek and between her eyes, and two eyelashes on both her upper and lower lids. A white tissue comes out the top of her head, and a smaller one is fastened on her neck, resembling a jabot. Her dress is a dark blue bell-shape, with a rounded, light blue trim.
+
+In her Info Card and ability animation, she wields a small wooden {{TI|Feather Duster|name=true}} with a black handle and deep brown feathers with light brown edges. When hurt by a [[Twisted]], she has a somewhat worried look on her face.  
+
+==Personality==
+Tisha is a chipper [[Toon]] who is obsessed with cleaning, and dislikes mess. She overworks and stresses herself, as implied in her interactions with {{CI|Astro|name=true}}, {{CI|Razzle & Dazzle|name=true}}, and {{CI|Cosmo|name=true}}. Despite this, she refuses an offer of help from {{CI|Cocoa|name=true}}. Other Toons often ask her to clean or organize for them, which she can enjoy—but she can also get quite frustrated with, and even refuse, repetitive cleaning requests, seen in her interaction with {{CI|Sprout|name=true}} and Astro. She wishes the other Toons were tidier and didn't create as much work for her, often asking or begging them to be more mindful. She can be hostile towards those who don't appreciate what she does, like  {{CI|Vee|name=true}}. She also likes to be punctual.
+
+She speaks politely in most cases and values some level of etiquette. When not upset, she tries to avoid causing any issues, changing the subject or reassuring others, if something she says causes certain reactions. She acts a bit more blunt or accusatory when she’s frustrated or stressed, but it isn’t a common occurrence, sometimes apologizing.
+
+Her relationship with {{CI|Brusha|name=true}} is complicated and strained, and she can be seen ignoring her. Shortly after [[Gardenview]] shut down, she had a falling out with Brusha, accusing her of pretending to be friends when they're not, despite it not being entirely her fault, and expressing that their friendship only existed because of the [[Show]], and that they didn't have to follow the show's rules anymore. She still cares about Brusha, and shows extreme guilt for scarring her emotionally, unable to get past her own irritation and hurt from the event. It seems to be a common behavior of her to give the silent treatment when upset, as she also does it towards Vee, likely to avoid snapping again at worst.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 30 Times|Finish 30 [[Machines]]|Survive 25 [[Floors]]|Pick Up 30 [[Items]]|Survive 5 Floors with 3 other Players in your round|Travel 50000 Meters}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Reach/do floors}}|{{MastStrat|fourth|Collect and use}}|{{MastStrat|fifth|Play with Toons}}|{{MastStrat|sixth|Meters}}}}
+
+==[[Toon of the Week]] Quests==
+{{TOTWQuests|Clean 3 Ichor Puddles with Tisha's "Tidy Up!" [[Ability]].|Restore 300 Stamina with the {{TI|Feather Duster|name=true}} [[Trinket]].|Encounter {{CI|Twisted Tisha|name=true}} 5 times.}}
+
+===Rewards===
+*1 Quest completed: {{AT|Tisha Fan}} [[Title]]
+*2 Quests completed: {{SI|Golden Tisha!|name=true}} [[Sticker]]
+*3 Quests completed: {{Skin|Golden Tissues|toon=Tisha}} [[Skin]]
+
+===Strategies===
+*For the first Quest, use Tisha and play until you either encounter an [[Ichor Leak]] or {{CI|Twisted Finn|name=true}}, then use her [[Ability]] as much as possible near Ichor Puddles. It’s recommended to use {{TI|Sweet Charm|name=true}} and/or {{TI|Ghost Snakes In A Can|name=true}}, as well as picking the {{CDI|Practice|name=true}} and/or {{CDI|Rehearsal|name=true}} [[Cards]] to reduce the 50 second cooldown.
+*For the second Quest, play as Pebble or Coal with {{TI|Feather Duster|name=true}}, pick up all Items you see or find, also try to run to use up your Stamina, to allow the [[Trinket]] to regenerate. {{CI|Cocoa|name=true}}, {{CI|Yatta|name=true}}, and {{CI|Gigi|name=true}} all have Abilities that spawn Items, allowing for more opportunities to get Stamina. The best Toon however would be {{CI|Bassie|name=true}} if you have her, as she can simply use her Ability to spam drop and pick up Items, quickly refilling her Stamina after running.
+*For the third Quest, it is recommended to just play normally, as {{Type|Common}} [[Twisteds]] like her are still fairly common on the early Floors. However, when you reach a high Floor like 25, it is recommended to restart, as Commons get rarer the farther you go. If there's a distractor (and you aren't one), ask them to bring [[Twisted Tisha]] to the [[Elevator]] during [[Panic Mode]] so you can encounter her.
+
+==Requirement Strategies==
+*For the first and only requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+
+==Strategies==
+Tisha is a great all-rounder due to her versatile Stats, with high [[Skill Check]], [[Movement Speed]], and a good support [[Ability]]. This means she is easily able to switch between supporting other Toons, extracting, and helping or being the primary distractor. Her 4{{Star}} Skill Check allows her to complete [[Machines]] at the average rate despite her 2 Star [[Extraction Speed]], and her 4 Star Movement Speed can nearly negate her 2 Star [[Stamina]] when used strategically.
+
+Tisha's Active Ability, {{AI|Tisha|name=true}}, can support Toons that need a speed boost. Some ways this Ability can be used include:
+*Boosting a Toon that is close to getting hit by a [[Twisted]];
+*Boosting a Toon who is out of Stamina (though this would require good communication, as she can't see if a Toon is low on Stamina, unlike {{CI|Astro|name=true}});
+*Using '''Tidy Up!''' at the start to support other Toons in finding Machines/Twisteds (especially viable, as the radius is about as big as the [[Elevator]]);
+*Supporting a Toon in getting to the Elevator during [[Panic Mode]];
+*Boosting a Distractor to help them distract more easily, especially if they are dealing with the {{Debuff|Slow|}} [[Debuff]];
+*Boosting a Toon who is extracting on Treadmill Machine.
+
+Be aware of '''Tidy Up!'''<nowiki/>'s pulse radius, as it can be difficult to land the boost if Tisha is too far away from her targets—but, depending on the teammate's [[Stealth]], she shouldn't get too close, either, or risk taking a hit herself. If multiple Toons could use an assist but are too far apart to fit in her pulse radius, prioritize boosting lower mobility Toons over ones with higher mobility, as Toons with low Movement Speed and Stamina will need it the most.
+
+To boost a distractor, land her pulse and make a quick getaway. She should be able to boost them with little to no issues if her Distractor has 1-2 Star Stealth (granted they don't cut a sharp corner), but if they have 3 Star Stealth, keep a bit of distance. If they are looping around an island or near an object, Tisha can hide behind the obstruction and then boost them, as her pulse works through barriers. This same tactic can be applied with Distractors that have more than 3 Star Stealth, but be more cautious. If possible, she can also stand behind a wall they pass close to and sweep when they're in range; this is a safer but more difficult method.
+
+Another core part of Tisha's Ability is the fact it can clean/remove certain Debuff sources. [[Ichor Leaks]] are less of a problem when she's on the team, as her Ability will clean up Ichor Puddles within her radius. She could prioritize puddles in a path to Machines, in a route to the Elevator during Panic Mode, or in a distractor's preferred distraction area, though less Ichor Puddles on the Floor is beneficial no matter what. The best time to do this is when also boosting a Toon to make use of the Ability, especially with how Ichor Puddles (from Ichor Leaks) reappear after some time and her long cooldown making boosting others hard. These strategies can also be applied when {{CI|Twisted Finn|name=true}}, who spawns permanently cleanable Ichor Puddles, is on the Floor; she also has the ability to force {{CI|Twisted Barnaby|name=true}} out of puddles. If {{CI|Twisted Tisha|name=true}} is on the same Floor as an Ichor Leak or Twisted Finn, Tisha can clean up any Ichor Puddles that are increased in size from her Twisted Counterpart's ability, reducing the threat and danger. {{CI|Twisted Brusha|name=true}}'s graffiti can also be removed from Machines, removing any sort of hindrance towards extraction (especially for Skill Check focused Toons or those with certain Trinkets); this isn't always necessary, though it can be somewhat helpful as long as the current circumstances don't prompt saving the speed boost for later.
+
+If there's multiple Tishas, you could split up the tasks, in order to ensure there's always at least one who can provide a potentially lifesaving speed boost, while another can focus on cleaning when needed.
+
+Tisha is a great early Toon for garnering large amounts of [[Ichor]]. Her speed can allow her to more easily survive on higher Floors as well as encounter most Twisteds safely; her extraction is decent enough (especially with Trinkets like {{TI|Magnifying Glass|name=true}} or {{TI|Participation Award|name=true}}) which allows her to complete a good amount of Machines fairly quickly; her Active Ability will give her an extra +5 Ichor per Floor if it's used. Within teams, her speed boost can keep teammates alive, therefore making it more efficient and easy to reach higher Floors, resulting in larger rewards of Ichor.
+
+Overall, she is a good starter Toon who can help make Ichor Leaks less of a problem. Even without supporting, she can do just fine in a solo run, cleaning Ichor Puddles for her own benefit, and having good all-round Stats. Getting her early on is a good idea if you intend on grinding Ichor more quickly.
+
+===Tidy Up Effect===
+*{{StatCmpr|stat=Movement Speed|change=25|affector={{AI|Tisha|name=true}}}}
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Tisha are:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(19.3 walk speed)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Tisha to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 walk speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Diary|name=true}}''', to support 3{{Star}} distractors without taking off Twisteds' aggro;
+****Only use this Trinket combination if your distractor has 3 Star Stealth.
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 3 Star [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***Any of the Trinkets in the '''Extraction Section''', to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Tisha to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and 4 Star [[Skill Check]] {{Small|(134 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting her 4 Star Skill Check making her an overall decent extractor {{Small|(26.32 avg/23.95 with Tech Savvy)}};
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Tisha|name=true}}'s [[Ability]] cooldown {{Small|(45s)}}:
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Tidy Up!'''<nowiki/>'s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(41s)}}.
+
+==Dialogues==
+{{Tisha Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Tisha Ability.mp3|left|thumb]]
+|The sound that plays when Tisha uses her {{AI|Tisha|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Tisha's [[Ability]] used to give a 33% [[Movement Speed]] boost, but it was later nerfed to 25% Movement Speed in [[Changelog|v0.2.1]].
+**It used to not clean up [[Ichor]] related [[Debuff]] sources until v0.24.1.
+*Although the exact reason is unknown, {{CI|Vee|name=true}} and Tisha appear to potentially have tension with one another, as seen in their dialogues.
+*Tisha and {{CI|Shelly|name=true}} are friends, as she often tags along with Shelly, mainly in the latter finding and cleaning fossils.
+**Coincidentally, Tisha's [[Mastery]] is needed to complete one of the three requirements to buy Shelly.
+**They both also have 2{{Star}} Stamina and high Skill Check.
+**Both of their Abilities also grant a large boost to one of their teammates' [[Stats]] (Tisha boosting Movement Speed and Shelly boosting Extraction Speed).
+*Tisha has a closet full of {{TI|Feather Duster|name=true}}s, as stated by [[Qwel]] on the 17 October 2024 art stream.
+*Tisha is one of the few [[Toons]] whose [[Ability]] ends with an exclamation mark.
+*When Tisha uses her Active [[Ability]], she sometimes says, "{{Text|Gotta Sweep!}}". This dialogue is based on the character Gotta Sweep from {{wp|Baldi's Basics}}, as they share a similar personality.
+*Tisha makes an appearance in [[w:c:battlefordreamisland:🥚|BFDIA 19]]. While the recommended characters are chasing [[w:c:battlefordreamisland:Book|Book]], Tisha can be seen chasing her. She was recommended by [https://www.youtube.com/@GUITARY_CONNIE GUITARY_CONNIE] and appears at 15:33.
+*Tisha's release, along with [[Shelly]], was the first appearance of 2 Star [[Stamina]] if not counting [[Vee]].
+*Tisha has the most interactions with another [[Toon]], having four with {{CI|Brusha|name=true}}. She is one of the first Toons to have more than 2 interactions with another.
+*Tisha is ex-friends with [[Brusha]], with Tisha being the one to end the relationship.
+**This was previously hinted at from a picture in the Brusha Teaser and in their interactions.
+***The polaroid picture in the thumbnail has Tisha crossed out, probably by Brusha, as it is the same color as Brusha's paint on their head.
+*Tisha was the last {{Type|Common}} [[Toon]] to be optimized.
+**She is also the first Common (and female) to have a [[Toon of the Week]].
+*Tisha is the second [[Toon]] to have the same walk and run animation with a slight difference after her optimization, with the first being {{CI|Shrimpo|name=true}}.
+*The feather duster used in Tisha's [[Ability]] is invisible until her Ability is activated.
+*If you enter the [[Art Gallery]] as Tisha and go to [[Brusha]]'s area, she will say "{{Text|...Wow.}}".
+**If you approach the Lore Video featuring [[Brusha]] and Tisha, she will say "{{Text|No... no, no... not this-}}".
+*Tisha and {{CI|Astro|name=true}} have the same dialogue box color.
+*Using Tisha's [[Ability]] updates the player's light position in low graphics, making it useful for [[Blackouts]].
+*Tisha's {{Skin|Mossy Stone}} [[Skin]] is most likely inspired by monstrous depictions of gargoyles, maybe also drawing inspiration from [[wp:Weeping Angels|Weeping Angels]] from [[wp:Doctor Who|Doctor Who]].
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

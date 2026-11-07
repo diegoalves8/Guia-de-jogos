@@ -1,0 +1,160 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#FFF,#BF3065,#86435C); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Brightney Render.png|Render
+Brightney Full Render.png|Full Render
+Brightney Icon.png|Icon
+Brightney Full Icon.png|Full Icon
+Brightney Information Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|1}}
+|extraction_speed={{StatComp|Extract|4}}
+|ability_1={{Center|{{AI|Brightney|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can shine lights on Twisteds to make them visible during Blackouts for 8 seconds. Has a Cooldown of 45.
+|requirement_1=1250 [[Ichor]]
+|requirement_2=Experience 5 [[Blackouts]]
+|skins=*Vintage
+*Antique Shade
+*Cozy Lighting
+*Bright Dawn
+*Batty Shade
+|gender=Female
+|pronouns=She/Her
+|designation=SC-005
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Single|Toon=Brightney|extra=Lamp|Date=June 14, 2024|Pronoun=She}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Brightney is a magenta, scalloped bell lampshade with a white trim on top. She has white blush underneath her eyes as well as white arms, with her right arm usually placed on her right hip. She has a slightly snatched waist, and her trapezoidal body & tips of her feet are slightly darker than the magenta on her lampshade. Her legs are the same shade of magenta as her lampshade, and underneath her lampshade is a white light bulb suspended by darker magenta poles and a long, white neck. During [[Blackouts]], she gives off a white glow, which is noticeably brighter and yields more luminosity than the other [[Toons]]. Though her shoulders appear wider than the other female Toons, her {{Skin|Antique Shade}} Skin deconfirms this, revealing her body is built like the typical female Toon's body if the scarf were to be removed.
+|-|Vintage=
+Vintage Brightney is
+|-|Antique Shade=
+Antique Shade Brightney is
+|-|Cozy Lighting=
+Cozy Lighting Brightney is
+|-|Bright Dawn=
+Bright Dawn Brightney is
+|-|Batty Shade=
+Batty Shade Brightney is
+</tabber>
+
+==Personality==
+As shown in her dialogue and [[Introduction Card]], Brightney is a smart and helpful [[Toon]]. Like her Active [[Ability]] suggests, she is skilled at solving problems, as well as helping Toons out. However, she may likely be overworked at times.
+
+Brightney seems to show her overworked side when she says, "{{Text|There's always something on my mind, {{CI|Boxten|name=true}}!}}" and "{{Text|Always have to be three steps ahead of those [[Twisteds]]!}}" which, when paired with the note in her [[Roleplay Mode|Roleplay room]] with a to-do list, and the messiness of said room, suggests a deeper side of being overworked. Despite this, she's always ready to help with whatever her fellow Toons ask of her, showing her personality as a hardworking and friendly Toon. She actively looks out for {{CI|Rodger|name=true}} and has a history of helping him with his work, open to any investigations. She seems to be sensitive when it comes to insults, which is shown in her interactions with both {{CI|Shelly|name=true}} and {{CI|Finn|name=true}}—in which she gets defensive and seemingly jumps to conclusions of people insulting her when her intellect is compared to other matters. Furthermore, in her and {{CI|Vee|name=true}}'s second interaction, it is shown that she craves validation and reassurance that she is intelligent when saying, "{{Text|Wait, like I'm truly talented as opposed to "un-truly" talented?|}}", showing a bit of possible self-doubt and ascertaining the fact that she is considered intelligent despite Vee's words being very clear. Fortunately, Rodger frequently compliments her in their interactions, making her feel more at peace with her own wit.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 50 times|Finish 50 [[Machines]]|Travel 80000 Meters|Experience 15 [[Blackouts]]|Pick up 60 [[Items]]|Use 60 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first and fourth|Active|-60|Avoid voting for {{CDI|Electrician|name=true}} and play when {{CI|Twisted Brightney|name=true}} is on the [[Daily Twisted Board]], as her presence increases the [[Blackout]] chance, so you can actually use it, while also completing the fourth task.}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Meters|3Star}}|{{MastStrat|fifth and sixth|Collect and use|Use}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, go to multiple runs and avoid choose the {{CDI|Electrician|name=true}} card, since it reduces the chances of a [[Blackout]] occurring.
+
+==Strategies==
+Brightney is a great All-Rounded [[Toon]] who is best utilized by those familiar with the game. It's recommended to use her if you feel confident in your skills, as her biggest drawback, while potent, can be turned into a strength if used well. Her low [[Stealth]] can also be used to save Toons who have a harder time getting out of chases, such as {{CI|Soulvester|name=true}}, {{CI|Vee|name=true}}, {{CI|Rodger|name=true}}, and {{CI|Gigi|name=true}}.
+
+Brightney works best during [[Blackouts]]. Her Active [[Ability]], {{AI|Brightney|name=true}}, is an incredibly useful Blackout-exclusive tool. It counters the primary threat of Blackouts, information loss, and helps teammates stay alive in the dangerous environment. Brightney's light during Blackouts is also notably brighter and larger than all other Toons, granting her high visibility and giving teammates a great source of light. Brightney is ultimately the best Toon for countering Blackouts survival-wise (though Vee comes extremely close), and can be crucial in helping the team. However, Vee may be a better option for the extraction side of things, since she can highlight both [[Twisteds]] and Machines, albeit for only three seconds shorter than Brightney can highlight. Vee's cooldown is also five seconds longer, but that really doesn't affect much.
+
+Brightney's Blackout-countering Ability, high extraction, and above-average mobility makes her one of, if not '''the''' best Toon for solo runs, as her low Stealth becomes nearly (but not completely) a non-factor with the absence of other players dragging Twisteds to your location. It is recommended to use run speed [[Trinkets]] to boost survivability as her Extraction is already good. On later [[Floors]], knowing which Twisteds are present, and their locations is crucial for knowing how to tackle the Floor.
+
+Not every Floor is a Blackout, but Brightney can still be useful outside them. She has a great [[Stat]] pool, with high Stamina and Extraction Speed at the cost of Stealth. To counteract her poor Stealth, Brightney can use her high Stamina to dash in and out of dangerous situations. Additionally, Brightney can temporarily help with diverting Twisteds using her high Stamina and low Stealth to help lure the Twisteds away from other Toons. With high skill, she can even be used to distract normal Twisteds indefinitely and can distract most Twisteds as well. It's also way easier to bring Twisteds to Distractors (namely {{CI|Pebble|name=true}}) since they'll lock onto you until you get out of their sight in most cases. However, you could get unneeded attention of dangerous Twisteds that are wandering around or being distracted, especially {{Type|Main}} Twisteds. The ones you should take most caution around are {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Coal|name=true}} (in a Blackout), {{CI|Twisted Bobette|name=true}}, and {{CI|Twisted Vee|name=true}} (situational due to {{TI|Train Whistle|name=true}} existing) since the prior three have almost the same speed as you, which will make them extremely hard to even outrun due to Brightney's 3 {{Star}} [[Movement Speed]], so having Items such as {{II|Speed Candy|name=true|plural=a}}, {{II|Protein Bar|name=false}}s, or {{II|Box o' Chocolates|name=false|plural=a}} can potentially help you escape. If you want to extract safely, check your surroundings and Distractor's location frequently to avoid getting cornered. Do note there also aren't any common Trinkets or Items that can aid Brightney's Stealth, due to it being 0 and all Stealth Trinkets and Items being percentage based, therefore providing no effect. The only Items that can help with Brightney's Stealth are {{II|Smoke Bomb|name=false}} and {{II|Eject Button|name=false}}, both of which are in the ultra rare tier and best saved for near-death situations, or to avoid using up Stamina. If there is a distractor, try to keep tabs on their location and stay away from them. If you do happen to be seen by the Twisteds, cut line of sight as fast as possible for the distractor to re-retrieve the Twisteds. However, her low Stealth can be used to help slower Toons struggling with fast Twisteds, or to help the distractor should they run out of Stamina. Speaking of Stamina, even though Brightney has a lot of it, you should manage it carefully. It's fine to sprint tap around the map to traverse faster, but don't waste all of it should your low Stealth get you in a chase.
+
+Brightney can really help with completing [[Dyle's Floor]]. Her Stats allow her to extract all Machine types efficiently, though the low Stealth can endanger her if {{CI|Twisted Dyle|name=true}} becomes enraged, and other Toons without the same Stealth can easily lead Twisteds onto her. During Blackouts, she will be able to highlight where Twisted Dyle and the other Twisteds are, which can be extremely helpful as players can otherwise get caught off guard; her incredibly bright light radius can also make it a bit easier to navigate the Floor. The +50 Stamina gained from completing the Floor may not be so useful on paper since Brightney already has 175 Stamina, but her Stealth means she's more likely to get chased by Twisteds, which can especially be a problem on later Floors with more dangerous Twisteds. 
+
+Brightney is one of the Toons with no best set of Items. She can mostly be used as a blank slate due to her above-average Stats. However, Stamina-restoring Items, such as Protein Bars and {{II|Stamina Candy|name=false|plural=a}}, are useful, as they'll help to maintain her above-average Stamina. Healing Items also tend to be useful, so it's good to keep them in your inventory if needed without clogging it. If you're not used to her abysmal Stealth, taking hits is near-guaranteed.
+
+Overall, Brightney is pretty great at many things; whether it be extracting, gathering Twisteds, or protecting teammates. She's a great counter to Blackouts survival-wise, but also requires patience and communication if you wish to avoid taking Twisted aggro as much as possible.
+
+===Trinket Combinations===
+{{Preference}}
+Some good [[Trinket]] sets for Brightney include:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Brightney to outrun all Twisteds but {{CI|Twisted Dyle|name=true}} before [[Panic Mode]] as well as luring them away from teammates {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Brightney to take full advantage over her 4{{Star}} [[Extraction Speed]] {{Small|(1.2 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing her Skill Check Extraction {{Small|(22.96 avg/20.83 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Brightney|name=true}}'s [[Ability]] c<nowiki/>ooldown {{Small|(40s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Night Light'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(36.4s)}}, especially if they're afraid a Floor will have dangerous Twisteds such as {{CI|Twisted Scraps|name=true}}, {{CI|Twisted Goob|name=true}}, or any {{Type|Main}} Twisteds.
+
+====Other====
+*'''{{TI|Spare Bulb|name=true}}''', to further increase Brightney's already large light radius for maximum visibility, although it may cause some slight lag for older devices;
+*'''{{TI|Party Popper|name=true}}''', to assist her during [[Blackouts]] when extracting, somewhat serving as a weaker version of {{AI|Brightney|name=true}}.
+
+'''Note: {{TI|Diary|name=true}} or {{TI|Scrapbook|name=true}} are <u>not</u> recommended Trinkets for Brightney as they do not affect her [[Stealth]] Stat, since her 1 Star Stealth means 0 Stealth units, and multiplication of 0 will always be 0.'''
+
+==Dialogues==
+{{Brightney Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Twinkle Magic.ogg|left|thumb]]
+|The sound that plays when Brightney uses her {{AI|Brightney|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Brightney's name is a mixture of the feminine English name, "Britney" and the word, "bright". She fits both definitions of bright—as in literally emitting light from her lightbulb, and intellectually.
+**Lightbulbs in cartoons also are often associated with ideas and intelligence.
+*Similar to {{CI|Gigi|name=true}}, Brightney doesn't wear shoes, as the lighter color is actually the soles of her feet.
+*Brightney's low [[Stealth]] most likely references to how her bright light gives her away to [[Twisteds]], similarly to her {{CI|Twisted Brightney}}[[Twisted Brightney|Twisted Counterpart]]'s light.
+**Brightney's interactions with {{CI|Sprout|name=true}} and {{CI|Shrimpo|name=true}}, along with {{CI|Dandy|name=true}}'s [[Gossip]] about her reaffirm this.
+*Brightney has stated she is in a book club, the other [[Toons]] in this Book Club are {{CI|Astro|name=true}} and {{CI|Razzle & Dazzle}}[[Dazzle]].
+**Brightney is the president of said book club, as proven by her interaction with {{CI|Tisha|name=true}}.
+**{{CI|Squirm|name=true}} used to be in the book club, but likely due to his bad habit of eating books, he was kicked out with no hard feelings.
+*As revealed by {{CI|Bobette|name=true}}'s [[Gossip]], Brightney is able to direct the power within [[Gardenview]] despite the fact that it should logically be weaker after such a long time since the shutdown. The way she's able to do this is unknown.
+**[[Dandy]]'s Gossip brings up Brightney doing unknown activities during late night hours. While the two pieces of Gossip may not be linked up, they both paint Brightney as a potentially suspicious character, or someone who knows something others don't.
+*Brightney uses an incandescent light bulb, as shown in an interaction with {{CI|Flutter|name=true}}.
+*{{CI|Twisted Rodger|name=true}} isn't highlighted when using Brightney's Active [[Ability]]. This remains true even when he is active.
+*Brightney is {{CI|Vee|name=true}}'s favorite contestant, and the two seem to be on good terms.
+**It is also implied that Brightney has back up batteries for Vee. In the Toon Rooms in [[Roleplay]] mode she has batteries on her nightstand, and in the "The Vee Virus" Episode [[Poster]], Brightney is seen carrying a box with the same batteries. This is also shown in the "Don't forget to recharge! 🔋" video, where she recharges Vee by putting batteries into her.
+***With all of this as well as Brightney's general knowledge in technology and electricity, it's established that she takes care of Vee.
+**Vee needing Brightney's completed [[Mastery]] could reaffirm their friendship.
+***This could also reflect their Active [[Abilities]] similarities, both highlighting [[Twisteds]], them being Light-Producing [[Toons]], and their Statistic similarities (high extractability with low Stealth).
+*As seen in an interaction with {{CI|Poppy|name=true}}, Brightney considers her lampshade to be red, not pink.
+*According to her dialogue with {{CI|Pebble|name=true}}, Brightney seems to pertain an interest in geology.
+*If you look inside her hollow head, Brightney's lampshade is not connected to her lightbulb in any way.
+*According to Brightney, if she really wanted to, she can change the color in which her lightbulb emits as shown in an interaction with {{CI|Rudie|name=true}}, meaning it isn't a vital part of her body.
+*Brightney's eyes glow in the dark, as seen in the TV animation for [[Vee's Floor]].
+*Before [[Changelog|v0.4]], {{TI|Diary|name=true}} could have actually worked on Brightney, as it used to add 2.5 units to her Stealth [[Stat]] instead of a 25% multiplier.
+**Now, the [[Trinket]] does not affect her Stealth and remains at 0 units.
+*Brightney, [[Pebble]], and [[Razzle & Dazzle]] (because of '''Comedy/Tragedy'''), are one of the first [[Toons]] to have 1{{Star}} on a Statistic and to not be [[Shrimpo]].
+*Brightney likely wears glasses, as seen in an official doodle and in her {{Skin|Antique Shade}} and {{Skin|Cozy Lighting}} [[Skins]].
+**Since she doesn't always seem to wear them, it's possible they're specifically reading glasses, as opposed to a pair she needs to wear constantly.
+*Despite Brightney looking like she has a neck, it is actually the rod that holds her light bulb up.
+*Brightney, {{CI|Goob|name=true}}, and {{CI|Scraps|name=true}} are the last [[Toons]] to get optimized. She is also the last {{Type|Uncommon}} Toon to be optimized.
+*Brightney's {{Skin|Cozy Lighting}} and {{Skin|Batty Shade}} [[Skins]] are currently her only ones that glow a color other than white in [[Blackouts]].
+*Brightney was the only non-{{Type|Main}} [[Toon]] to be Light-Producing, until {{CI|Connie|name=true}} was added.
+*Despite Brightney's to-do list in her [[Roleplay|Roleplay room]] including a task written as "Help {{CI|Rodger|name=true}} organize", her room is very messy, with trash (such as crumpled paper) and books cluttered around. This could be the reason Rodger requests for {{CI|Tisha|name=true}}'s assistance with organizing, despite a deeper level of trust between him and Brightney, even stating "{{Text|Yes, well, some of my trusted friends don't know how to organize well.|}}".
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

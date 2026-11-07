@@ -1,0 +1,29 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#91A652,#A2CC85,#FA82AA,#DE5D88); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Purchasable}}{{Limited}}{{Gamepass
+|{{PAGENAME}}
+|image1=Spring-Time Gamepass Icon.png
+|caption-image1=The Gamepass' icon
+|robux_price={{Price|Pack}} <sub>(Currently Offsale)</sub>
+}}
+
+The '''Spring-Time Cosmetic Pack''' is an active [[Gamepass]] featuring 5 exclusive skins regarding the '''[[Easter Toons]]''' and {{CI|Flutter|name=true}} in [[Dandy's World]]. It was introduced in [[Changelog|v0.17.1]] as the fifth gamepass available in [[Dandy's Store]].
+
+==Description==
+This gamepass features 5 exclusive skins for: Bassie, Cocoa, Eggson, Flutter, and Flyte! These skins feature unique particles, trails and ability effects. All features are cosmetic and do not effect gameplay.
+
+==Effect==
+Players who purchased this gamepass are rewarded 600 [[Ichor]] and receive the 5 matching skins for {{CI|Bassie|name=true}}, {{CI|Cocoa|name=true}}, {{CI|Eggson|name=true}}, {{CI|Flutter|name=true}}, and {{CI|Flyte|name=true}}.
+
+==Skins==
+<gallery>
+Spring-Time Bassie.png|{{Skin|Spring-Time|toon=[[Bassie]]}}
+Spring-Time Cocoa.png|{{Skin|Spring-Time|toon=[[Cocoa]]|}}
+Spring-Time Eggson.png|{{Skin|Spring-Time|toon=[[Eggson]]}}
+Spring-Time Flutter.png|{{Skin|Spring-Time|toon=[[Flutter]]}}
+Spring-Time Flyte.png|{{Skin|Spring-Time|toon=[[Flyte]]}}
+</gallery>
+
+{{GamepassNav}}
+
+[[Category:Gamepasses]]
+[[Category:Skins]]
+[[Category:Easter Event]]

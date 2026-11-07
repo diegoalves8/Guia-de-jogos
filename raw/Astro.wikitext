@@ -1,0 +1,241 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#8EFCFF,#33226D,#7062E1); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{TOTW}}{{Toons
+|title1=Astro Novalite
+|image1=<gallery>
+Astro Render.png|Render
+Astro Full Render.png|Full Render
+Astro Render Old.png|Old Render
+Astro Full Render Old.png|Old Full Render
+Astro Icon.png|Icon
+Astro Full Icon.png|Full Icon
+Astro TOTW Art.png|TOTW Artwork
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|5}}
+|extraction_speed={{StatComp|Extract|4}}
+|ability_1={{Center|{{AI|Astro|name=true}}<br>{{Small|''(Active)''}}}}<br>Hold to release a pulse that fully restores Stamina to nearby Toons and increases their Stamina regeneration to 50% for 10s. Restores the User's Stamina 20% for each Toon reached. Collect Star Pillows to grow its range, carrying up to 10. Nap Time spends up to 5 pillows when used. Has a cooldown of 55.
+|ability_2={{Center|'''Well Rested'''<br>{{Small|''(Passive)''}}}}<br>This Toon regenerates Stamina 50% faster, {{Tooltip|can see Toons below 50% Stamina around the map|can see the specific percentage of Stamina left}}, and can tell when those Toons are being chased by a Twisted.
+|requirement_1={{Currency|Ichor|5000}}
+|requirement_2={{Currency|Research|100% Research}} on {{CI|Twisted Astro|name=true}}
+|requirement_3=Encounter {{CI|Twisted Dandy|name=true}}
+|skins=*Default
+*Vintage
+*Starry Night
+*Star-Time
+*Bedtime Bear
+*Scarlet Night
+*North Star
+*Soothing Pollen
+*Dreamweaver 
+*Golden Crescent
+|gender=Male
+|pronouns=He/Him
+|designation=M-002
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+{{DialogueQuote|Astro|<choose uncached><option>Sweet dreams...</option><option>Am I dreaming?</option><option>Let's get some rest.</option></choose>|From Astro's various dialogues}}
+
+{{ToonInfo|type=Main|Toon=Astro|extra=Novalite|Date=June 14, 2024|Pronoun=He}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Astro is a light aqua [[Toon]] with his face resembling a waning crescent moon. The right side of his face is pitch-black with a white cross-shaped eye. He wears a cornflower blanket wrapped around his torso, obscuring his four arms to the point that they can be just seen as faint furrows in the blanket. However, his blanket is still short enough that it reveals his legs which are the same color as the crescent moon side of his face. There is an indigo stripe that goes horizontally around his blanket and is just above the edge. He uses glowing, neon cyan sparkles as hands, which are seen in some of his animations, with the right "hand" being star-shaped and the left being a larger, hollow star. Underneath his blanket, he wears medium black shorts that are barely visible due to the blanket covering them, but previous versions of him never had the shorts. He wears a dangling sleeping cap the same color as the stripe on his blanket, with a light blue trim and a light blue pom-pom at the tip. During [[Blackouts]], he emits a blue glow.
+|-|Vintage=
+Vintage Astro's light aqua face and legs are now light gray and his right eye is pie-cut to the right. His blanket is gray with a dark gray stripe, and his sleeping cap is dark gray with a light gray trim and pom-pom. His sparkles and glow are also now white.
+|-|Starry Night=
+Starry Night Astro has his light blue face recolored pastel yellow. His eyebrow is curved downward, he has a squiggly frown, and has dark pink blush lines in between his eyes, which gives him an embarrassed expression. His blanket is a pinkish-purple color with a soft, light yellow blend on the upper half, and there are white dots scattered across. The blanket also has white fur lining on the hem, and his sparkle "hands" are pastel yellow. His sleeping cap is also pinkish-purple with a light yellow blend and white dots. The cap has white fur lining on the hem, and its pom-pom is light yellow and star-shaped, with a darker yellow center and two white dots on both sides. His shorts are white, and his legs are pastel yellow with white socks that have dark pink toes and heels. His glow is the same color of his sparkles.
+|-|Star-Time=
+[[Star-Time Cosmetic Pack|Star-Time]] Astro's face appears closer to an actual moon, being light bright gray with three darker spots on his forehead and between his eyes, two on the lower corner of his face, and a cheek-like one on the right of his regular eye. His blanket is dark bluish-gray with a lighter stripe and cyan and yellow tassels on the edge. The smaller star-shaped sparkle is colored a lighter cyan, while the larger one is yellow. His sleeping cap is dark bluish-gray like his cape and also has a yellow trim and pom-pom, and has a white clip decorated by a cyan star that is placed on the left of the trim. The cap is significantly longer, so long that it almost touches the ground, and the lower half of the cap is curved so that it doesn't. His legs are bright gray and have three darker spots on the shins, while he wears a yellow slipper on the left foot and a cyan on the right. He leaves behind a transparent, azure-yellow gradient trail when walking, and it consists of stars, moons, dots, and smaller versions of the shapes. He also produces white twinkles around his head.
+|-|Bedtime Bear=
+[[w:c:carebears:Bedtime Bear|Bedtime Bear]] Astro has a slightly darker, star-shaped cheek mark and has his eyelid, which is coated with shiny, teal eyeshadow, curved downward. He bears a warm smile and his blanket is sky blue with a light blend on the upper half, and it also has a a white, fluffy collar. Furthermore, the blanket has a pom-pom in the center of the back, a dark blue heart toward the right of it, and a white spot in the front with a light blue, sleeping crescent moon that has a yellow star next to it. His sleeping cap is also sky blue with a white fluff trim, along with a white cloud pattern on the upper half and a yellow, bear head-shape on the tip of the cap. His star "hands" are colored sky blue. He wears white slippers, each decorated with a yellow star. When moving, he leaves behind a translucent, rainbow gradient trail of hearts, rainbows, clovers, rainclouds, and various sparkles. He also produces light blue twinkles around his head.
+|-|Scarlet Night=
+Scarlet Night Astro has a vermillion red face and a tired expression, with his eyebrow curved downward and situated directly above his right eye. Its upper eyelid is lowered and has crimson colored eyeshadow with two lighter, shiny lines, along with red makeup underneath that fades towards the right where three darker red spots are situated. A fang sticks out from the left of his mouth, and his left eye is "X" shaped. His blanket gradates from dark gray to muted red, and has jagged edges along with five jagged ends near the back of his neck, forming a collar. His sleeping cap has the same color scheme as his blanket, but with the pom-pom being a vermillion droplet shape that represents blood. His star-shaped hands are colored red, but without the glow. He wears a five-pointed tiara, with the middle and end points being larger than the two in between, and is colored crimson like his eyelids with similar shines. He now wears crimson pants with lighter stripes on the legs, followed by purely black footwear. The glow he emits is recolored to red.
+|-|North Star=
+North Star Astro is light cornflower, and has a deeper shade for his eyeshadow with two lighter lines resembling shines, the same color as the makeup under the eye. His right eye's upper lid is curved downward, and his frown is close-mouthed, giving him a drowsy appearance. His left star eye appears as a snowflake, with a cross shape and four smaller diagonal lines in between, along with a small cross and two dots more towards the left. His blanket has a dark blue to cornflower gradient, white dots and cross-shaped stars on the lower half, and a white, fluffy edge with a faint gray-blue blend. His sparkles are white, but with a light blue glow. He wears a striped white and baby blue scarf with a wavy tail that has a white, cloud-shaped end and the tail sways on the right side of his back. His sleeping cap, now about twice as long, appears similar to his blanket, having the same pattern and fluff, and in place of a pom-pom, he has a light blue, diamond-like star with white lining on the edges. His shorts are dark blue, and he wears long, white socks with baby blue toes.
+|-|Soothing Pollen=
+Soothing Pollen Astro is a light lavender color with and has a slightly darker cheek with yellow freckles his standard eye. His blanket is purple with a scalloped edge and has a light purple design of smaller scallops on the upper half. The cape also has a flower-shaped collar colored light yellow. His hat has a light yellow, more spherical pom-pom, and has the same design of his blanket. He sports a purple, five-petal flower on the left of his head with two black pistils, each topped with light yellow pollen. His shorts are dark purple and he wears white socks, along with light yellow slippers. His star "hands" and glow are now light purple.
+|-|Dreamweaver=
+WIP
+|-|Golden Crescent=
+WIP
+</tabber>
+
+==Personality==
+Astro is an introverted, shy, and calm [[Toon]] who likes to interact with his fellow Toons, albeit without leading conversations. He enjoys peace and quiet and could get agitated or standoffish when disturbed, but has really only lost it with {{CI|Connie|name=true}}'s behavior and nobody else's.
+
+He speaks formally but has a playful, humorous side, despite appearing not to, suggesting that [[Rodger]] tries to find more hobbies in a mocking tone, and laughing whenever [[Waxwell]] repeatedly yells about giving people nightmares.
+
+He's open to helping his friends with their issues, especially their dreams, but sometimes tries to turn down help offered to him, preferring to be the one lending a helping hand or four. But he does easily doubt some of them, yet remains calm as ever when he does so. Repeatedly talking about something or worrying for him can irritate Astro, and he finds it odd. Toons like [[Looey]] are why his skepticism sometimes goes too far, and he needs to double check his thoughts and not be overreliant on his own mind.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Purchase 25 [[Items]] from [[Dandy's Elevator Shop]]|Travel 150000 Meters|Experience 12 [[Blackouts]]|Pick up 125 Items|Use 125 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Buy Items}}|{{MastStrat|third|Meters|3Star}}|{{MastStrat|fourth|Encounter Blackouts}}|{{MastStrat|fifth and sixth|Collect and use|Use}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Astro|name=true}} to the [[Elevator]] to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Astro is on the [[Daily Twisted Board]].
+*For the third requirement, join a run which mainly focuses on Dandy runs. Do '''NOT''' buy from [[Dandy's Shop]] for every even Floor. You can also let a distractor bring {{CI|Twisted Dandy|name=true}} to the Elevator during [[Panic Mode]].
+
+==[[Toon of the Week]] Quests==
+{{TOTWQuests|Subdue {{CI|Twisted Astro|name=true}} from his nightmare 5 times.|Recover 10,000 total stamina for any [[toon]] as Astro.|Collect 20 of Toon Astro's Star Pillows.}}
+
+===Rewards===
+*1 Quest completed: {{AT|Astro Fan}} [[Title]]
+*2 Quests completed: {{SI|Golden Astro|name=true}} [[Sticker]]
+*3 Quests completed: {{Skin|Golden Crescent Astro}} [[Skin]]
+
+===Strategies===
+*For the first Quest, play until {{CI|Twisted Astro|name=true}} spawns, then allow him to chase you until he falls asleep. Afterwards, run around the map gathering every Twisted Star Pillow to stop the nightmare. Alternatively, if you are playing as Astro, you can use your ability to instantly stop the nightmare without needing to pick up the Twisted Star Pillows. You can do this quest with only one Twisted Astro encounter, so don't worry about having to constantly hunt him.
+*For the second Quest, play with Toons with high Stamina, such as {{CI|Brightney|name=true}} or {{CI|Sprout|name=true}}, and have them run around the map constantly, then use your Ability to restore their Stamina. It's highly recommended to equip the {{TI|Star Pillow|name=true}} Trinket to both increase your Star Pillow collectables each Floor as well as your ability's range, and to have your teammates grab as many as they see to further increase the range.
+*For the third Quest, enter a run with any player playing as Astro (can either be a teammate or yourself), then run around the floor to search for Star Pillows. It's easier to complete this if there are multiple Astros in the same run, as more collectables spawn.
+
+==Strategies==
+Astro excels at Stealth, snowballing and supporting others, so it's important to capitalize on that, considering a below-average [[Health]] stat. Due to having the highest [[Stealth]] in game, Astro can easily support [[Toons]] being chased by using {{AI|Astro|name=true}}, and make a quick getaway without risking damage. On top of that, after or while escaping a [[Twisted]], Astro can regain lost [[Stamina]] much more quickly with his Passive [[Ability]], '''Well Rested''', which gives 3.6/s Stamina regeneration (from 0 Stamina, he would fully regenerate in 34.72~ seconds compared to usual 52.08~ for other Toons with 2 {{Star}} Stamina).
+
+Astro's main weaknesses are his low Health, which is due to him being a {{Type|Main}}, his below average [[Skill Check]] Stat, and his below average Stamina capacity. This means he's above average when it comes to extracting Machines, but can fall behind if you struggle with hitting the somewhat small Skill Checks. Due to this, it is wise to take full advantage of Astro's high Stealth to avoid being chased in the first place, trying not to take any damage, and completing unsafe Machines right underneath Twisted's noses. As long as a Twisted has its eyes set on someone else (besides {{CI|Connie|name=true}} or another Astro, or when the said someone turns a sharp corner around Astro), it will effectively never re-target onto Astro unless he is the only viable target left. This doesn't mean that Astro should always avoid partaking in chases—his higher Stamina regen allows him to last a little longer than other Toons if managed well, so if you find an opportunity to lift a Twisted off of a teammate, don't let fear stop you. Do be careful though, as not only is Astro's capacity below average, but if your teammate is still in the Twisted's circular vision, it may immediately reaggro onto them, resulting in an accidental sabotage in an attempt to save; good positioning and adjusting based on the islands or corners used by your chased teammate should help minimize this risk.
+
+'''Well Rested'''<nowiki/>'s secondary effect should be applied similarly to {{CI|Sprout|name=true}}'s '''Overprotective''': use it to keep tabs on other Toons, considering movement patterns to determine if they need aid or not. Since '''Well Rested''' is not fully reliable, it's less successful than Sprout's strategies, but still has potential. Remember that it kicks in when a Toon reaches 50% Stamina, not zero, so apply '''Nap Time''' depending on the Toon. A Toon like {{CI|Gigi|name=true}} may need immediate attention while a Toon like Sprout could wait until the 30% mark or longer. Always factor in a Toon's [[Movement Speed]] and Stamina Stats; high Stamina/Movement Speed Toons need a refill less desperately than a Toon with low Stamina/Movement Speed. You can also pay attention to the skill levels of your teammates and [[Twisteds]] involved to decide if they're actually at risk. When monitoring others with '''Well Rested''', consider the intricacies of how they are moving (i.e. if they stop sprinting or are moving slowly and the direction) when trying to determine their identity and whether they need help, as well as whether they're being chased. It is helpful to use it when waiting near (but not at) the [[Elevator]] to support teammates low on Stamina, but as '''Nap Time''' can only be applied once during [[Panic Mode]], pay attention to who is still missing, how long they tend to take, and how much percentage of Stamina they have left. If you have already used it but notice stragglers, convey this information to teammates quickly so they can try to assist.
+
+Additionally, '''Nap Time''' permeates barriers. If you cannot run around an obstacle in time, act as if it is not there and get as close to your targets as possible before activating it. This factor is essential when supporting teammates that are distracting {{CI|Twisted Pebble|name=true}} or other significantly fast Twisteds (unless they never break line of sight)—whenever possible, '''do not enter line of sight'''. Stickers can be used to convey your intentions. However, this is where an additional mechanic of Astro's Active comes in, being collectable {{TI|Star Pillow|name=true}}s that spawn around the Floor. If you collect one, it will add a charge to your Active, therefore increasing its range, with a maximum of 10 charges. You can at most use up 5 charges, which creates an incredibly large radius, enough to fill some of the bigger rooms on Floors, and with the potential to easily regenerate the Stamina of a large amount of your teammates. Try to search for the Star Pillows in order to make your Ability more effective, allowing you to avoid having to get too close to distractors. Make sure you don't spend all of your time searching though, as Astro's above average extraction can allow him to contribute with Machines, try to search in between extracting, or on the way to certain locations like the broken Elevator. Other players can also pick these up for you, as they fly directly to their corresponding Astro, so you can request others to pick them up for you if they see them.
+
+'''Nap Time''' can also be used to immediately subdue {{CI|Twisted Astro|name=true}}'s nightmares and put {{CI|Twisted Razzle & Dazzle|name=true}} back to sleep if they've been triggered, making Astro an excellent choice to have around to avoid having to either collect Twisted Astro's Star Pillows or teammates being forced to find alternate routes around Twisted Razzle & Dazzle if they're awake.
+
+As mentioned before, some Toons benefit more from your Ability than others. If you have multiple teammates who are highlighted by '''Well Rested''', or out of Stamina (and they aren’t close enough to each other for your Ability to reach all of them); the generally recommended priority of whom you should help, from highest priority to lowest, is as follows:
+*Distractors, or solar distracting {{CI|Bobette|name=true}};
+*Toons actively being chased by a Twisted they cannot outwalk, or being chased by a ranged Twisted;
+*Toons actively being chased by a Twisted they 'can' outwalk;
+*Toons with 2 Star or lower Stamina/3 Star or lower Movement Speed who aren't being chased;
+*Toons with 3 Star or higher Stamina/4 Star or higher Movement Speed who aren't being chased;
+*Toons extracting from a Treadmill Machine.
+Toons far from the Elevator or being chased by Twisteds during Panic Mode can have varying priority depending on their Stats and Abilities, so use your best judgement and knowledge on each Toon's attributes, in order to help in the most effective way. Focusing on slower Toons or those without mobility/survival Abilities is best since they may struggle to get into the Elevator before the timer ends. You should also take into mind your own survival, as if regenerating Stamina of a teammate means your death to Panic Mode, it may not be worth it in the end.
+
+If you struggle in [[Blackouts]], use Skins that have white/light-colored light radii, specifically his {{Skin|Vintage}}, {{Skin|Bedtime Bear}}, or his default Skin. This makes his light radius very effective in Blackouts and makes it easier to see farther. Using any other Skin can make it a bit harder to see in them, with the exception of his Star-Time Skin (since his glow is very similar to his default).
+
+As for [[Items]], Astro doesn't need many Stamina boosts because of his '''Well Rested''' Passive Ability, which is basically a permanent {{II|Stamina Candy|name=false}}. Astro can still take advantage of Stamina boosters (and in fact can do a lot with said Stamina Candies because the buffs are multiplicative), but it's better to leave them for teammates early on. It's best to prioritize Items that help with mobility so that you aren't caught off guard, especially if the below average Stamina capacity causes issues, or Items that will help you with Machine extraction, such as {{II|Jumper Cable|name=false|plural=a}} and {{II|Instructions|name=false}}. Astro also benefits from healing Items, but as he's a Main Character with only 2 max Health, {{II|Bandage|name=false}}s should be prioritized, and {{II|Health Kit|name=false}}s should be left for your non-Main teammates unless you desperately need to heal or they don't need it.
+
+Overall, Astro is a great Toon when it comes to survival, support, and being a stealthy extractor. His struggles with Stamina capacity and Skill Checks can be a bit of an issue, but managing those weakness can allow him to really shine.
+
+===Trinket Combinations===
+{{Preference}}
+Some good [[Trinket]] sets for Astro include:
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Astro to outrun all Twisteds except {{CI|Twisted Dyle|name=true}} at max speed before Panic Mode, as well as reach teammates faster {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Astro's mobility {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to allow you to support during [[Panic Mode]] efficiently by being able to outrun every Twisted except [[Twisted Dyle]] during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Friendship Bracelet|name=true}}''', to gain more Stamina capacity per living player, synergizing with both of his [[Abilities]] and further rewarding the usage of his Ability to save teammates;
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***The Trinkets listed in the '''Extraction''' section, to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Astro to take full advantage over his 4{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and 2 Star [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(24.19 avg/21.51 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Astro|name=true}}'s [[Abilities|Abili]]<nowiki/>[[Abilities|ty]] cooldown {{Small|(50s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Nap Time'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(45.6s)}}.
+***This specific combination is very useful in a run where a distractor intends to distract [[Twisted Dyle]] without {{CI|Yatta|name=true}}'s on the team (whose {{II|Box o' Chocolates|name=false}} can maintain Stamina), as they'll only be running, needing consistent maintenance to their Stamina.
+*'''{{TI|Star Pillow|name=true}}''', to increase your Ability range, and spawn an extra Star Pillow to charge up your Ability more quickly. Will additionally increase Stamina regeneration while extracting, stacking with Astro's '''Well Rested''' and supporting his below average Stamina capacity, while synergizing with his high extraction.
+'''Note: It isn't recommended to use {{TI|Moon Pack Heirloom|name=true}} on Astro, as his Passive already highlights teammates.'''
+
+==Dialogues==
+{{Astro Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:AstroActiveAbility.mp3|left|thumb]]
+|The sound that plays when Astro uses his {{AI|Astro|name=true}} [[Ability]]
+|-
+![[File:Astrotalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Astro's head
+|}
+
+==Trivia==
+*Astro is designation M-002, with the '''M''' likely standing for {{Type|Main}}.
+*Astro's [[Toon Handler]] is {{CI|Austin Russo|name=true}}.
+*Astro's speech sound originates from [[w:C:Deltarune|Deltarune]] upon entering the [[w:C:Deltarune:Dark World|Dark Worlds]] in [[w:C:Deltarune:Chapter 2|Chapter 2]]. (This can be seen in [https://youtu.be/4ADeYLkC3Mc?t=378 this video], but in-game that sound is reproduced many times. Clear version of this sound can be seen in [https://youtu.be/mtVnm_OPHRU?t=1008 this video])
+*Astro, {{CI|Dazzle|name=true}} and formerly {{CI|Squirm|name=true}} are a part of {{CI|Brightney|name=true}}'s Book Club.
+*Based on a 1988 [[Astro/Gallery#Lore|photo]] found in the [[Greenhouse]] [[Floor]], Astro and {{CI|Dandy|name=true}} are heavily implied to be long-time friends. Their friendship is stated to be healthy, even after [[Gardenview]]'s downfall.
+**This is also implied in a secret image found on the old official [[Merchandise]] website called [https://www.imsohappytheyrefriends.com/ imsohappytheyrefriends], where [[Dandy]] and Astro were looking at stars. This seems to be taking place in the Gardenview Lobby before it was painted and possibly before Gardenview opened.
+***The image was updated on July 3, 2025, which altered the image with only one light on, [[Ichor]] leaking out of 2 off lights, [[Arthur]]'s and [[Delilah]]'s portraits are blacked out with what looks to be Ichor vines growing out of them, and there is text hidden in the dark reading "Wake up it wasn't like this". [https://web.archive.org/web/20241208045238/https://www.imsohappytheyrefriends.com/ Here] is the original version.
+**They might still be friends as they still talk to each other, even during the Ichor operation, as implied in one of his interactions with {{CI|Pebble|name=true}} and {{CI|Teagan|name=true}}, as well as some of the other [[Toon]] interactions such as {{CI|Vee|name=true}} and {{CI|Sprout|name=true}}, but it isn't appreciated by all of them.
+**According to his dialogue with {{CI|Connie|name=true}}, he and [[Dandy]] often chat about past episodes together, much to her lack of amusement. Astro appears nervous or worried about certain conversations that Connie may not have observed.
+*It is theorized that Astro caught [[Dandy]] in his {{CI|Twisted Dandy}}[[Twisted Dandy|Twisted form]], due to Astro's obtainment requirements and Dandy's dialogue when buying Astro, in addition to his dialogue with [[Pebble]].
+**When buying Astro from the shop, Dandy will say "{{Text|...}}", which may imply that Astro actually ''knows'' exactly what happened and what Dandy did, all because he caught him during the Ichor incident, but is afraid to talk to him about it out of that sinking feeling, even though Dandy himself is afraid of doing this because he thinks doing so would put their friendship at risk.
+*He has many motifs themed around outer space, astronomy and magic.
+**His name is a prefix used to describe stars, celestial bodies, and outer space in general.
+**His face resembles the moon.
+**The flash of a camera severely hinders healthy sleep, explaining his aversion to photography.
+**Him having four arms (confirmed by [[Tisha]] and his official plushie), magical powers and outer space motifs vaguely but likely unintentionally implies he might be an alien.
+**His connection with [[Dandy]] could be a reference to aliens and their interest in Earth.
+**He can glow in the dark.
+**He has telekinesis and [[w:c:powerlisting:Dream Manipulation|oneirokinesis]] (dream manipulation), two magic-related superpowers.
+*Astro used to not be able to see the [[Toons]]' [[Stamina]] when they were under 50%, but the addition was made in [[Changelog|v0.4]].
+**In [[Changelog|v0.13.14]], Astro's Active [[Ability]] cooldown was decreased from 75 seconds to 60 and his Passive Ability got the ability to see the exact percentage of Stamina a Stamina-deficient Toon has left.
+*Astro used to have 2{{Star}} in [[Movement Speed]], before being bumped up to 3 Stars in [[Changelog|v0.2]].
+**Similarly, his Active [[Ability]], {{AI|Astro|name=true}}, used to restore 50% Stamina of a user.
+**In [[Changelog|v0.30.1]], he had a {{Star}}Star in [[Stamina]] moved over to [[Extraction Speed]].
+***This makes Astro the only toon to have their stats changed in more than one update. 
+*Astro is the first {{Type|Main}} that doesn't require [[Mastery]] on a [[Toon]] to be obtained and the only base-game Main to do so.
+*Astro's full name was confirmed in the 10/18/2024 art stream.
+*Astro enjoys sitting down and drinking hot chocolate (and iced tea, according to his [[Teagan]] interaction) from time to time.
+*Before its release, Astro's {{Skin|Starry Night}} [[Skin]] had a slight model difference where his 'normal eye' was instead looking in the direction of his star eye instead of looking forward like the rest of his models do. The reason for this change is unknown.
+*People playing as Astro used to experience chat bubbles being astronomically higher than their normal position, especially while using his Star-Time [[Skin]]. This is because Roblox included the actual size of Astro's hat (without the mesh) to be part of his height. This is more easily seen in Astro's T-Pose model, where the hat stands straight on Astro's head.
+*Astro is the only [[Main Character]] and the first [[Toon]], along with {{CI|Scraps|name=true}}, whose requirement is to encounter a [[Twisted Dandy|specific Twisted]] who is not their [[Twisted Astro|Twisted counterpart]].
+**This makes Astro the only Toon so far to require [[Research]] on two specific Twisteds.
+**Additionally, he currently requires the lowest Research of a single requirement, being only 1% on [[Twisted Dandy]]. This means that it's not necessary to be seen by him in order to obtain Astro.
+*The stars seen in Astro's extraction, Active [[Ability]], and 2nd idle animations are kept inside his body when walking around, though before his optimization in [[Changelog|v0.12.1]], they were stored in his head.
+*Astro has the highest amount of Dialogues in-game, having 56. He is also the Toon that interacts most with other Toons, with the only exceptions being {{CI|Cocoa|name=true}}, {{CI|Flyte|name=true}}, and {{CI|Ginger|name=true}}.
+*Astro is one of the [[Toons]] that has an official [[Merchandise]] plush as of now, with the others being {{CI|Boxten|name=true}}, [[Dandy]], {{CI|Poppy|name=true}}, [[Pebble]], [[Shelly]], [[Sprout]], [[Vee]], [[Gourdy]], {{CI|Bassie|name=true}}, [[Cocoa]], {{CI|Dyle|name=true}}, {{CI|Goob|name=true}}, [[Cosmo]], [[Gigi]], and {{CI|Eclipse|name=true}}.
+**Additionally, the [[Skins]] {{Skin|Dino Snore}} Shelly, {{Skin|Lost Prince}} Gourdy, and {{Skin|Extra Cheese}} Pebble also have plushes.
+*According to [[Qwel]], if Astro attempted to breakdance, he'd get hurt doing so, and make no further attempts to do so from that moment on. {{Small|(Needs citation)}}
+*Astro's relationship with [[Boxten]] is implied heavily to be a fluctuating one in the [[Notes|lore notes]] and their interactions.
+*Astro has more than one nightcap, shown in dialogue between him and {{CI|Gigi|name=true}}.
+*In the new "Astro in Stage Fright" poster, the rest of the Book Club members are part of the audience. Only [[Dazzle]] appears there, as Razzle doesn't participate in the club's activities and instead sleeps for the duration of the club.
+*In Astro's interaction with {{CI|Looey|name=true}}, Astro says that he sometimes gets stage fright. This is also shown in the "Astro in Stage Fright" [[poster]], where he (Looey) is only barely visible with one of his ears peaking out (though only because he's a background character, and not as an actual reference to Looey's shared phobia).
+*Astro is the first [[Toon]] to wear a hat by default, and the first character to alongside his [[Twisted Astro|Twisted]] counterpart.
+*After [[Changelog|v0.12.1]], Astro's design was slightly changed to include the black shorts seen in his [[Main]] [[Poster]].
+**Weirdly, his in-game plushie didn't change, still missing his black shorts. However, his Care Bear plushie did have the shorts, so it is likely [[Qwel]] had forgotten to update the regular plushie.
+*Astro and [[Shelly]] are the final [[Main Characters]] to be optimized post-release.
+**[[Pebble]] got his optimizations in [[Changelog|v0.7.1]], [[Vee]] got her optimizations in v0.9.1, [[Sprout]] got his optimizations in v0.11.1, and finally Astro and Shelly got theirs in v0.12.1.
+*Astro does not want to get changed out of his blanket due to how cozy he finds it, as seen in his interaction with {{CI|Brusha|name=true}}.
+*Astro is the only [[Main Character]] that released in [[Changelog|v0.1]] to appear in the game icon.
+*Astro, {{CI|Shrimpo|name=true}}, and [[Shelly]] are one of the few [[Toons]] to have received [[Skins]] in the [[2025 Care Bears Collab]] and will never be unlockable again.
+*Astro and [[Connie]] share some similarities:
+**They are the only [[Toons]] to have 5 Star Stealth.
+**Their light radius is the same.
+***Due to all these similarities, some of Astro's code was used to make Connie. However, this brought over the 50% Stamina regeneration Astro gets from '''Well Rested''' into Connie's code as well. This was fixed later on.
+**Their [[Twisted]] counterparts both seem to have sad expressions and cry (if not counting [[Twisted Connie]]'s attack face).
+*In the [[Changelog|v0.12.1]] icon, Astro had a different texture in his face than the one used in his normal texture. This has also happened to [[Gigi]], [[Connie]], [[Razzle & Dazzle]], {{CI|Yatta|name=true}}, {{Skin|Grumpy Bear}} [[Shrimpo]], {{CI|Rodger|name=true}}, {{Skin|Wish Bear}} Gigi, {{CI|Finn|name=true}}, and {{CI|Waxwell|name=true}} in v0.4.1, v.0.5.1, v0.7.1, v0.10.1, v0.12.7, v0.13.14, v0.21.1, v0.22.1, and v0.25.1 respectively.
+*Astro is the only [[Main Character]] to not have double letters in their full name, unlike [[Pebble|Pe'''bb'''le Dancifer Jr.]], [[Vee|V'''ee''' Version 1]], [[Shelly|She'''ll'''y Fo'''ss'''ilian]], [[Sprout|Sprout S'''ee'''dly]], [[Bobette|Bobe'''tt'''e Caroly'''nn'''e]], [[Bassie|Ba'''ss'''ie Bl'''oo'''mington]], and [[Gourdy|Gourdy Ho'''ll'''oway]].
+*Astro is one of three [[Main Characters]] to be in the game on release, the other two being [[Pebble]] and [[Vee]].
+*Astro appears to be friends with [[Vee]], [[Razzle & Dazzle]], and [[Brightney]] as implied by their dialogue.
+*Astro acts as the guide for [[Dandy's World]]'s quest for [[The Hollow]] 2026, trying to get us out of the nightmare that is the quest.
+*Astro was the only Book Club member to not get a [[Halloween]] [[Skin]] in [[Changelog|v0.29.10]], mostly due to him having a [[Skin]] already from the [[2025 Halloween Event]].
+*Astro is the sixth [[Toon]] to get a [[Toon of the Week]], as well as the second [[Main Character]], and third male to do so.
+**He is additionally the first Toon of the Week to have their [[Stats]] reworked.
+*Astro is the second non-[[Holiday Toon]] to get an official song, the first being [[Connie]], but he is the first Non-Event [[Main Character]] to get one.
+*Astro is the first [[Toon]] to have their [[Stats]] reworked twice.
+*Astro is the second [[Toon]] to have his [[Ability]] go from an instant-use Active to a wind-up, the first being [[Ginger]].
+*Astro is the first [[Toon]] to have many of his dialogues replaced.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Male]]

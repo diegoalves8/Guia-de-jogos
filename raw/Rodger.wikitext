@@ -1,0 +1,137 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#7F6A5A,#7E75F1,#302A6C); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Rodger Render.png|Render
+Rodger Full Render.png|Full Render
+Rodger Icon.png|Icon
+Rodger Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|2}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|4}}
+|ability_1={{Center|'''Detective'''<br>{{Small|''(Passive)''}}}}<br>
+This Toon gains twice the amount of Research from Capsules and encountering Twisteds.
+|requirement_1=1000 [[Ichor]]
+|requirement_2=50% [[Research]] on any [[Twisted]]
+|skins=*Default
+*Vintage
+*Alpha Sleeper
+*Ebony Detective
+*Festive Detective
+*List Maker
+*Research-mobile
+*Violet Debonair
+*Mysterious Spy
+|gender=Male
+|pronouns=He/Him
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Single|Toon=Rodger|extra=Magnifying Glass|Date=June 14, 2024|Pronoun=He}}
+
+==Appearance==
+Rodger is a brown magnifying glass with a single eye resting in the middle of his lens. His eye is perpetually squinted from above (perhaps in exhaustion, disdain, or focus). He has no visible mouth, but he is still able to speak. His handle has a light purple-ish blue band that goes around it. He wears a gray, almost-black tuxedo jacket with dark blue lapels and cuffs, as well as a white undershirt, and a frilly jabot that is the same color as the band around his handle. He also seems to have no noticeable trousers at the bottom.
+
+In his full icon, he carries a brown suitcase with him.
+
+==Personality==
+Rodger is a clever and logical [[Toon]]. He formally carries himself and is generally polite and well-spoken. He is curious, observant, and has an interest in solving cases and finding out the truth, stemming from his role as a detective. This interest leads to him often interrogating and conducting interviews with the other Toons, resulting in him coming off as nosy or even pushy at times. Such cases can be seen in his interactions with {{CI|Astro|name=true}} and {{CI|Sprout|name=true}}, saying, "It may be safer, but uncovering truths is more rewarding!" and, "How about later? I could ask you after this!" even after being turned down.
+
+Despite Rodger's pushiness and dedication to his work, he is by no means aloof and is actually quite caring towards his peers. In his dialogues, Rodger frequently compliments {{CI|Brightney|name=true}}, obtains help from her with his work, and looks out for her; much like she does for him. Additionally, he inquires about the well-being of other toons, and in one instance, even offers advice for calming down {{CI|Boxten|name=true}}. He has adopted some of {{CI|Glisten|name=true}}'s personality traits, according to one of his dialogues with {{CI|Eggson|name=true}}. Based on their interactions, it is clear that Rodger generally keeps things "behind closed doors", considering only a few toons like Brightney as trusted friends, and keeping  {{CI|Tisha|name=true}} strictly limited to his work.
+
+In some official artwork and doodles (such as on the poster with him, Boxten, {{CI|Goob|name=true}}, {{CI|Razzle & Dazzle|name=true}}), Rodger seems to be photogenic, as his singular eye expresses happiness whenever he's looking at the camera.
+
+==Mastery==
+{{Mastery|Collect 1000% of [[Twisted Research]]|Encounter 100 Twisteds|Pick up 125 [[Research Capsules]]|Pick up 60 [[Items]]|Travel 75000 Meters|Use 60 Items}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|it's recommended to get encounters and [[Research Capsules]]. This is useful if you are finding a specific [[Twisted]], as you both get the Twisted's research and get extra research from other Twisteds. In fact, this could be done accidentally when doing other tasks.}}|{{MastStrat|second|Encounter Twisteds||Doing this task could also help speed up the completion of the first task.}}|{{MastStrat|third, fourth, and sixth|Collect and use|CapsAndUse|Doing the third task could also help speed up the completion of the first task.}}|{{MastStrat|fifth|Meters|2Star}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring any [[Twisted]] to the elevator to you so you can get aggro. It is recommended to get Research for {{Type|Common}} Twisteds, since they have a higher chance of appearing during the [[Floors]]. Another option is to get research is from the Twisted that is on the [[Daily Twisted Board]].
+
+==Strategies==
+Rodger's main purpose lies in collecting [[Research]] (and for lack of other proficiencies, {{TI|Ichor|name=true}}). He makes a good training character as using him is most beneficial for new players: his low Movement Speed helps players learn to regulate Stamina and his extra Research gain is most beneficial to those that don't have much. The rest of this section should be considered with the fact that he is ''more aptly-applied with the inexperienced'' in mind.
+
+Rodger's main [[Stat]], which is his [[Extraction Speed]] (4{{Star}}), is above average and will help with completing [[Machines]] faster. The only downside is his low [[Movement Speed]], which means finding and using Speed [[Items]] will help with traversing around the [[Floor]] better (although you may wish to save them for emergencies). He is not very efficient as an extractor compared to other [[Toons]] with the inclination due to his propensity for seeking research and the hindrance of having difficulty traversing the map. 
+
+Rodger's '''Detective''' Passive grants him double the Research percentages from collecting [[Research Capsules]] and encountering [[Twisteds]]. Normally, you would gain '''1%''' from Research Capsules and '''5%''' from encountering Twisteds, but with his Passive Ability, it's doubled to '''2%''' and '''10%'''. This makes Rodger useful for collecting Research much faster on a Twisted that isn't fully Researched yet. However, this effectively renders him ability-less (similarly to {{CI|Boxten|name=true}}). For that reason, if you have no motivation to collect Research (either because you have all of it or don't want it), Rodger probably isn't the best Toon for the job. If you do want Research, no other Toon surpasses him—so long as you have the teammates to back it up.
+
+If one is using him primarily to search for Research, Movement Speed [[Trinkets]] may help to locate capsules before the Floor expires. Alternatively, Trinkets like Vee's Remote can be equipped to pass Floors faster to encounter more of your target Twisted. {{TI|Research Map|name=true}} can help you know where the Capsules are, so that you don't need to waste Stamina going to empty rooms.
+
+===Trinket Combinations===
+{{Preference}}
+For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/Options''' 
+**This Trinket enables Rodger to outrun all [[Twisteds]] but {{CI|Twisted Pebble|name=true}} before [[Panic Mode]] {{Small|(24.2 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Run Speed and outrun Twisted Pebble before Panic Mode {{Small|(25.4 run speed)}}; 
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except {{CI|Twisted Bobette|name=true}} during Panic Mode and assist teammates {{Small|(31.4 run speed)}}; 
+***'''{{TI|Diary|name=true}}''', to not interfere with 3{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Rodger to take full advantage over his 4{{Star}} [[Extraction Speed]] {{Small|(1.2 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up Machine completion by maximizing Skill Check extraction {{Small|(22.96 avg/20.83 with Tech Savvy)}};
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+====Ability====
+*'''{{TI|Research Map|name=true}}''', to find capsules for Twisteds, Ichor, and for his [[Mastery]].
+
+==Dialogues==
+{{Rodger Dialogues}}
+
+==Trivia==
+*Despite popular belief caused by a rumor, Rodger does not lower {{Type|Main}} [[Twisted]] chances when in a round.
+*Before [[Changelog|v0.4.1]], Rodger had a bug where picking up a [[Research Capsule]] as him would not give 2% if you hadn't encountered the [[Twisted]] before.
+*You can look through before the glass in Rodger's head to see through [[Blackouts]] clearer like how you can with {{CI|Gigi|name=true}}'s plastic lid, as Roblox's rendering works poorly with fog seen through transparent objects.
+*Assuming you enter a chase with a [[Twisted]] and collect their two [[Research Capsules]], it takes 8 encounters with a Twisted to get 100% [[Research]] on them, or technically 7.2 encounters, though there is no natural way to get a decimal amount of encounters.
+*Rodger's eye and lens are layered on top of some effects ([[Stats]] boosts, username, [[Ichor]] from [[Machines]], etc.).
+*Rodger's introduction card used to say that he was a spyglass. It was later corrected to say that he is a magnifying glass.
+*Rodger's name is likely either a reference to {{wp|Roger Bacon}}, the inventor of the magnifying glass, or the saying "Roger that."
+*Rodger's head is a circle, but the low-poly count on the 3D model turns it into an {{wp|octadecagon}}, which has 18 sides.
+*Rodger's interaction with {{CI|Poppy|name=true}} reveals he is considering a monocle to add to his look.
+*Rodger's tense dynamic with most of the [[Main Characters]] seems to stem from his interrogation attempts being considered pushy and obnoxious by them, but he gets along with [[Shelly]] just fine.
+*Rodger is friends with {{CI|Toodles|name=true}}, {{CI|Brightney|name=true}}, and, {{CI|Glisten|name=true}} based on their interactions.
+**Contrary to popular belief, Rodger is not Toodles' father. However, he still seems to go along with her, making sure to look after and protect her, and be someone to look up to.
+**Rodger and Brightney have a mutual respect for each other, with Rodger often complimenting the latter's intelligence. Additionally, Brightney has helped Rodger with his cases and continues to offer assistance, showing a deep level of trust as Rodger's investigations are often confidential.
+**Glisten often vents to Rodger and they're shown to be close enough to engage in some banter with each other, with Rodger also adopting the former's tendency to point out minor smudges on glass. One of Glisten's notes in his [[Roleplay]] room also expresses wanting to spend more time with him.
+*It was confirmed in the New Year QnA Stream that both {{CI|Vee|name=true}} and Rodger don't have mouths and don't need to eat, but they can eat the in-game food items for gameplay purposes. Nothing related to this was said about the other mouthless Toons.
+*Rodger is one of the four [[Toons]] who has a [[Skin]] ({{Skin|Ebony Detective}}) designed by someone else other than the developers, with the others being {{Skin|Dapperly Festive|toon={{CI|Looey|name=true}}}}, {{Skin|Special Spaghetti|toon={{CI|Goob|name=true}}}}, and {{Skin|Choco Cones|toon={{CI|Yatta|name=true}}}}.
+*In [[Changelog|v0.9.1]], Rodger was given a buff to where if he would encounter a [[Twisted]] for the first time in the Floor, he would receive 20 {{Tape|name=true}} instead of the usual 5. This was later reverted in v0.9.4.
+*Rodger is the first [[Toon]] whose corresponding [[Trinket]] (the {{TI|Magnifying Glass|name=true}}) is the same species as him, the second being {{CI|Coal|name=true}}.
+**However, unlike Rodger, Coal's Trinket shares the same color as her body and the same name.
+***His Trinket is stowed in his torso when not serving as part of his Passive Ability animation, like how Vee's microphone is stowed in her head when not being used for an idle animation.
+*The 8/10/2025 QnA Art Stream revealed Rodger and {{CI|Dyle|name=true}} aren't related. This is further emphasized by Dyle revealing via [[Gossip]] that he isn't allowed to talk to Rodger.
+*Rodger is the last [[Toon]] with a teased optimization to actually receive one, with other Toons like [[Vee]], [[Shelly]] and {{CI|Astro|name=true}} getting theirs prior to his in [[Changelog|v0.13.14]].
+*Rodger had an old icon pose that resembled {{CI|Boxten|name=true}}'s information card pose. This was probably a placeholder before the developers could start working on it.
+*When collecting [[Research]], Rodger will inspect the [[Capsule]] with a small [[Magnifying Glass|magnifying glass]]. This visual quirk was added in his optimization in [[Changelog|v0.13.14]].
+**As it can be assumed that this is Rodger's [[Trinket]], this is the fourth instance of a Trinket having its own in-game model, with the first being with {{TI|Blue Bandana|name=true}} for [[Boxten]] and {{TI|Pink Bow|name=true}} for [[Poppy]], the second being with {{TI|Feather Duster|name=true}}, present in {{CI|Tisha|name=true}}'s Active [[Ability]], and the third being with the {{TI|Sweet Charm|name=true}} and the {{TI|Savory Charm|name=true}}, both in the idle animations of {{CI|Cosmo|name=true}} and {{CI|Sprout|name=true}}, respectively.
+*Rodger is one of the few [[Toons]] to have their default pose changed following optimization, since he originally had his hands in front of his chest, and now he has them behind his back similar to [[Tisha]].
+*The {{Skin|Ebony Detective}} [[Skin]] was redone after his optimization, making it more distinct than just a recolor.
+*Sometimes, when spawning/resetting in the lobby, {{Skin|Alpha Sleeper Rodger}} will lose his glass.
+**This is the only Rodger [[Skin]] this can happen to.
+*Rodger and [[Gigi]] are the fourth [[Toons]] to appear twice in 2 separate thumbnails, being from [[Changelog|v0.11]] and v0.13.14, the first being {{CI|Pebble|name=true}}, the second being {{CI|Shrimpo|name=true}}, the third being [[Toodles]], the fifth being {{CI|Bobette|name=true}}, and the sixth being the rest of the [[Christmas Toons]].
+*Rodger's full icon/[[Introduction Card]] actually has design differences compared to his model, with the icon having a vest with a V shaped bottom and the his magnifying glass' handle being smaller with a shorter strap.
+*It is highly likely Rodger knows all the [[Main Characters]]' full names, as he refers to them by their last name sometimes. Additionally, in [[Bobette]] and [[Toodles]] interaction, Bobette is aware that Rodger knows her full name.
+*Rodger is the second Toon to get a [[Code]] [[Skin]], the first being {{CI|Yatta|name=true}}.
+*Rodger appears to be cross dominant. He uses his right hand to hold his magnifying glass and to hold a flashlight in the "Lights Out Investigation" episode poster. Meanwhile, he uses his left hand to carry his briefcase and to extract when his {{Skin|Research-mobile}} is equipped.
+*Rodger's {{Skin|Research-mobile}} [[Skin]] is based on a popular joke within the fandom where Rodger has an obsession with [[Research]], and a tendency for players to play as him when a new [[Toon]] or [[Event]] is released. Its main inspiration was also a drawing where Rodger is riding a capsule-shaped mobile.<ref>[[File:Research-mobile Origin.png|200px]]</ref>
+*Rodger's {{Skin|Mysterious Spy}} [[Skin]] may be inspired by The Invisible Man, though he lacks the dark glasses of the specific lookalike incarnation.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

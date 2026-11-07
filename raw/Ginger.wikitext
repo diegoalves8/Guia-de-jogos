@@ -1,0 +1,199 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#FFFFFF,#D88762,#FB92B8,#F03A55); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Ginger Render.png|Render
+Ginger Full Render.png|Full Render
+Ginger Icon.png|Icon
+Ginger Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|2}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|4}}
+|extraction_speed={{StatComp|Extract|3}}
+|requirement_1={{Currency|Ornaments|700}}
+|requirement_2={{Currency|Research|50% Research}} on {{CI|Twisted Ginger|name=true}}
+|ability_1={{Center|{{AI|Ginger|name=true}}<br>{{Small|''(Active)''}}}}<br> This toon can heal a nearby targeted [[Toon]] to full [[Hearts]] for 100 [[tapes]] with a cooldown of 100. For every extra Ginger, the cost increases by 50 Tapes and the Cooldown increases by 30.
+|skins=*Vintage
+*Minty Pine
+*Sugar Cookie
+*Snow-Time
+*Golden Cookie
+*New Years
+|gender=Female
+|pronouns=She/Her
+|release_date=1/10/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Ginger|extra=Cookie|Date=January 10, 2025|with={{CI|Bobette|name=true}}, {{CI|Coal|name=true}}, and {{CI|Rudie|name=true}}|Pronoun=She|event=Christmas|store=Bobette's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Ginger is a light brown cookie with a darker color between the front and back of her head, and the right side of her face being bitten off, removing her right eye. She has reddish-pink eyeshadow with two sets of eyelashes and pink, circular blush underneath her left eye. She has white, long frosting hair, the left third of it being a large curl that extends to her dress, the middle third being a shorter, rounded chunk, and her right third being a slightly smaller chunk that extends to her shoulder, along with a frosting swirl on the left of her forehead and a smaller, bitten piece on the right, with three stubs on the end of it. She also has three reddish-pink dots on the front and back of the long third of her hair and the front of her frosting swirl. She wears a reddish-pink sleeveless dress with lighter reddish-pink vertical stripes and has white, rounded lapels as well as pink and white striped stirrup tights. When hurt by a [[Twisted]], she looks forlorn.
+|-|Vintage=
+Vintage Ginger is colored light gray, with the middle piece being a slightly darker gray. Her eye is pie-cut on the left and has dark gray eyeshadow along with lighter gray makeup. The dots on her frosted hair are colored gray. Her dress is black with gray lines, and the pink stripes on her tights are light gray.
+|-|Minty Pine=
+Minty Pine Ginger a is slightly redder light brown and the back of her head is colored white. She has a cat-like smile and shamrock green eyeshadow, while her makeup is pastel green with three white freckles. The dots on her hair are colored pastel green and are shaped as two triangles and a star. Her dress is shamrock green with a lighter Christmas tree design on it that has five white dots and a star on top. It also has lengthy sleeves the same lighter color. Lastly, her stirrup tights are pastel green with white polka-dots.
+|-|Sugar Cookie=
+Sugar Cookie Ginger is a paler color, her eyeshadow is pastel pink, and her blush is pastel blue. The long portion of her hair evenly lengthens down to her waist, and the lower half is slightly wider with four circular ends, while the center of the hair is concave. Instead of dots on her hair, there are many large, cylindrical sprinkles spread on top of it, colored in pastel shades of blue and pink. She wears a thin bow tie the same color as her hair, her dress has a scalloped hem and is pastel pink with a lighter sprinkle pattern on the lower half, and the pink stripes on her socks are pastel blue.
+|-|Snow-Time=
+[[Snow-Time Cosmetic Pack|Snow-Time]] Ginger's skin color is now light purple and she has purple eyeshadow with three white freckles replacing the blush. Her frosting hair is shortened to her waist and ends in five scallops, with the end scallops curved toward the sides. The hair has a light blue fade on the lower half, while the upper half has star-shaped and spherical sprinkles also colored light blue. Her dress has a much wider skirt, long sleeves, and a white pocket apron tied around the waist and her neck. It appears with a light blue to purple gradient, a decorative squiggle around it, and a white star and dot pattern rotating in a northwest direction. It also has white fluff on the collar, hem, and sleeves. The pink color on her stirrup tights is swapped out for a light blue hue. She radiates light blue dots, sparkles, and asterisk-shaped snowflakes with two additional branches on each end. When moving, a line of more detailed dendrite snowflakes can be seen accompanied by smaller dots and crosses like the ones on her dress, along with a soft light green and magenta glow representing northern lights.
+|-|Golden Cookie=
+Golden Cookie Ginger is slightly yellowish and wears a gold crown with six points, a red oval ornamenting each. Her eyeshadow is even redder, and her makeup is yellow with three large, white freckles. The dots on her hair are colored yellow and are also slightly larger. Her dress is yellow with two red buttons and scallops on the hem, making it slightly longer. It has two slightly darker sets of curved lines above the scallops. She wears scalloped, reddish-orange gloves, and the white on her tights is now reddish-orange, while the pink is red.
+|-|New Years=
+New Years Ginger is slightly oranger with darker blush and azure blue eyeshadow. Her hair is shaped braid-like, with the circular part on the back of the head followed by a smaller oval shape and another slightly smaller oval ending in three scallops. The hair has azure, cross-shaped sprinkles with dots around them, with some on the large curl on her forehead, on the front and back’s upper right sides for the first segment, left sides for the second segment, and right sides for the third segment. Behind her head, she wears a dark blue bow with lighter blends and white dots, stars, and lines arranged to look like fireworks. Her dress is knee-length and has an azure bodice along with a scalloped skirt with a similar pattern to her bow, while a slightly longer white layer can be seen beneath. Her tights are colored azure and she wears dark blue flats on her feet. She produces small, snowflake-esque sparkles and azure slivers fall from her like raindrops.
+</tabber>
+
+==Personality==
+Ginger is a shy [[Toon]], as stated in her introduction card. She seems somewhat insecure (as suggested in her dialogue with {{CI|Bobette|name=true}}), and is slightly socially awkward. However, she seems to love baking as much as {{CI|Sprout|name=true}} and {{CI|Cosmo|name=true}} do, and cares for her cousin (Cosmo), despite being unable to always be there for him and the other Toons, as she is a [[Holiday Toon]]. She also tries to look for entertainment to keep herself busy outside of the holidays, proven in her interaction with {{CI|Vee|name=true}}.
+
+Unlike her cousin, she's said to be a rather atrocious baker, but has impressive decorating skills, as stated in her introduction card.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 25 times|Pick up 35 [[Items]]|Survive 30 [[Floors]]|Survive 10 Floors with 2 other Players in your round|Travel 55000 Meters|Use 35 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|+60|You could also equip {{TI|Fancy Purse|name=true}} and {{TI|Coin Purse|name=true}} and have someone get hit. After that, try gathering up some [[Items]], encounter [[Twisteds]], and finish [[Machines]] to gain around 70 more {{Tape|name=true}}. After that, it is recommended to just die and restart the run as collecting another 100 Tapes would be really time-consuming. This could go well with the second and sixth task.}}|{{MastStrat|second and sixth|Collect and use|Use}}|{{MastStrat|third|Reach/do floors}}|{{MastStrat|fourth|Play with Toons}}|{{MastStrat|fifth|Meters|2Star}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Ornaments|name=true}} and extracting [[Machines]]. The Machine and Ornament count increases the further you descend, so you can earn more Ornaments.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Ginger|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Ginger is on the [[Daily Twisted Board]].
+
+==Golden Skin [[Quests]]==
+{{GQ|Encounter {{CI|Twisted Ginger|name=true}} {{Color|10|#93f525}} times as Ginger.}}
+{{GQ|Complete {{Color|[[Floor]] 20|#93f525}} as Ginger.}}
+{{GQ|Heal any non-[[Main]] [[Toon]] on 1 Heart {{Color|20|#93f525}} times as Ginger.}}
+
+Reward: {{Skin|Golden Cookie Ginger}} [[Skin]] {{Small|''(Exclusively obtainable while the [[Christmas Event]] is active)''}}
+
+===Golden Skin Strategies===
+*'''For the first task''', play normally until you find {{CI|Twisted Ginger|name=true}}, get in her sight, then try to find her again in another [[Floor]]. It should be noted that you'll likely have better luck when she is on the [[Daily Twisted Board]].
+*'''For the second task''', try and join a good run, or if you're skilled enough, do a solo run as the game will be fairly easier. Using {{TI|Vee's Remote|name=true}} and {{TI|Magnifying Glass|name=true}} helps to speed up the [[Machine]] completion progress. A good way is to have a friend or two play the game as if you never existed, coming to you as express healing. This does force the need to have your friends have the skill to reach [[Floor]] 20, though having people you trust will be beneficial. You can also play on an alt account and have your main account be the Ginger.
+*'''For the third task''', the optimal strategy is to equip {{TI|Fancy Purse|name=true}} and have a friend or alt account get to 1 {{Heart}}, then heal. After that, you can either equip {{TI|Coin Purse|name=true}} as well and try going for a second heal or immediately restart the run. Collecting 100 {{Tape|name=true}} is really time consuming, and taking an extra few minutes to restart a run will be a lot more worth it. If you consider that strategy to be too time consuming, you can try to join a full run, better if they're below-average, and try playing with them. Their constant need of  heals make healing opportunities abundant, though if you can't collect Tapes fast enough, you may waste a lot more time.
+To complete all tasks in tandem, play with a few friends and have them get to Floor 20 for you. When possible, try getting seen by Twisted Ginger if she spawns, and be utilized as a walking {{II|Health Kit|name=true}} for your team.
+
+==Strategies==
+On paper, Ginger has one of, if not, the best healer [[Abilities]] in-game, being a direct upgrade to {{CI|Sprout|name=true}}'s Ability with the bonus of average extracting potential. Her Ability, {{AI|Ginger|name=true}}, heals any Toon to full [[Health]] with 100 {{Tape|name=true}}, a really good Ability, capable of making your team last longer than normal. However, Tape collection, low mobility, low range, and the need to wind up your heal can have major setbacks, to the point that in most situations, she is the worst healer option in the game.
+
+Usually, it's best to use your Ability when someone is at 1{{Heart}}, as any other Health level wastes some of Ginger's potential. However, there are other situations where that would not be ideal. A distracting {{CI|Looey|name=true}} would benefit from a lost Heart, so a {{CI|Cosmo|name=true}} or Sprout would be a better fit for him. Another situation would be a run with {{Type|Main}} Toons being the majority. In that case, Cosmo can substitute if the team worries about {{II|Health Kit|name=true}} wastage and Sprout can substitute to utilize Tapes in a beneficial way, as well as having the capability of distracting in a pinch.
+
+Unlike Sprout or Cosmo, Ginger's low mobility means [[Twisteds]] are an even bigger threat, with Twisteds like {{CI|Twisted Dyle|name=true}} being extra difficult. This also makes traversal difficult, so [[Machine]] or [[Item]] opportunities will be scarce, and therefore makes Tape collection a hurdle. However, if your team is kind enough, you may have a decent shot at collecting the Tapes. Sprout's high mobility gives him a bonus of being able to back-up distract for his team, while Ginger's only other role is extracting. Though Sprout's bad extraction does force him to only be a distractor, so if the Floor is too risky or the Sprout is too scared, his last available role, extracting, would make the run a bit long unless there’s Treadmill Machines. However, Ginger doesn't deal with the problem of bad extraction and can finish most Machines at a decent pace, though it still would be faster to let a nearby Extractor such as Shelly or Yatta do the machine instead. Despite this, if the run is operational with quick, 1 Heart heals, Sprout would still be better suited.
+
+Due to her Stats, your form of tape collection should be different from the other 3 Toons with Tape requiring Abilities. Picking up niche or common [[Items]], as well as Tapes near the [[Elevator]] or near the distractor, when you know nobody else needs them, is a safe option, but take care that it isn't your number one priority. Pick up Tapes or Items on the way to a destination like an injured Toon, Machine, or the Elevator—use them as a supplemental income rather than a primary income. Since Ginger's speed is low, she benefits from mobility based Items, which means she can use them to move around more easily while also gaining Tapes, without it feeling like wastage. Taking advantage of your Stealth to focus on extracting in open areas or Machines near a distractor's looping area is a good choice too; other Toons with lower Stealth will be less inclined to extract such Machines, since they could be more susceptible to being chased or taking aggro. Each Machine gives you 10 Tapes if you fully fill it, so it's recommended to hone your focus on extracting, especially with the aforementioned Stealth. You can also stand just outside of the Elevator during Panic Mode to gain Tapes from encountering Twisteds, immediately running inside once you get them. Toons like {{CI|Bassie|name=true}}, {{CI|Cocoa|name=true}}, and {{CI|Yatta|name=true}} can facilitate Item grinding, since they can drop Items near Ginger, keeping her from wandering slowly and excessively using up Stamina.
+
+Something to note is that unless you have the 100 Tapes, you can't highlight any Toons and even with the Tapes, can only highlight the nearest Toon granted they're close to you. Therefore, if you need to heal someone, calling out your availability makes it easier. Another way is to tell someone you want to heal them, and ask them to stay back. Running to a Toon to heal them, especially if they are quite fast, will just be a waste of time and Stamina. 
+
+Be aware healing distractors would be quite difficult, as they usually need a lot of space, not being able to stand still to let Ginger heal them, so following the distractor would be one of the only options. The other option would be to circle the object the distractor is circling in the opposite direction, though this may still prove unsafe if there are faster Twisteds. Even so, the distractors are likely going to be faster than you, so the attempt could waste a lot of Stamina, not to mention looping distractors might make the Twisteds lock onto you and risk a Heart, especially if the Twisteds being distracted include ones that generally must be looped, such as {{CI|Twisted Pebble|name=true}} and {{CI|Twisted Scraps|name=true}}. It is better to just wait for the Floor to end and heal them after the next Floor starts, but if the Distractor is in urgent need of healing, Ginger's various drawbacks often make it nearly impossible to heal them appropriately or in time before the Distractor dies. This could be combated if there is an available backup distractor to take over while the main one loses the Twisteds to get healed by Ginger, but if one isn't available, it could be very risky for Twisteds to be loose, especially faster ones.
+
+One of the only situations where Ginger might be able to heal the distractor in action safely is if a distractor such as {{CI|Eclipse|name=true}} or {{CI|Goob|name=true}} is solar system distracting with Bobette. This strategy often does not require an island or much space to circle around, so a Ginger could stand next to Bobette or follow Bobette's path (depending on if Bobette is still or moving) and heal that way, however there is still a chance that the distractor leaves Ginger's range due to how small it is.
+
+Generally, Ginger isn't the best healer in more dangerous scenarios, so its a good idea to bring a Sprout or Cosmo (Cosmo is more recommended) to heal in dangerous situations, while Ginger can offer more effective healing at resting points, especially the [[Break Room]]. She acts somewhat like a medical station or hospital in comparison to the other healers. However, experience with slower Toons can make her a really good Toon.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Ginger:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Ginger to outrun nearly all Twisteds except {{CI|Twisted Pebble|name=true}} and any twisteds that have adjacent speeds to him before [[Panic Mode]] {{Small|(24.2 run speed)}} and helps her retain hearts. Here are some options to pair Pink Bow with: 
+***'''{{TI|Speedy Shoes|name=true}}''', to outrun Twisted Pebble before Panic Mode {{Small|(25.4 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except {{CI|Twisted Bobette|name=true}} or similar/higher speed Twisteds during Panic Mode and assist teammates {{Small|(31.4 run speed)}};
+***'''{{TI|Bone|name=true}}''', to help quickly scout for Items at the start of a new floor and allow you to collect Items faster;
+***'''{{TI|Diary|name=true}}''', although quite situational, can help if there is a distractor with 4{{Star}} [[Stealth]] such as {{CI|Bassie|name=true}} so you can safely go near them to collect heals while they distract;
+***'''{{TI|Train Whistle|name=true}}''', to help Ginger avoid Twisteds during an [[Ichor Leak]], or while {{CI|Twisted Vee|name=true}} on the Floor;
+***Any of the Trinkets in the '''Extraction Section'''; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Ginger to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote, and better {{Tape|name=true}} collection;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(25.57 avg/23.26 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Sweet Charm|name=true}}''', to reduce {{AI|Ginger|name=true}}'s [[Ability]] cooldown {{Small|(92s)}}.
+**'''{{TI|Ghost Snakes In A Can|name=true}}''', to further reduce '''Baked with Care!'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(87s)}}.
+*'''{{TI|Dandy Plush|name=true}}''', to help you buy healing Items if a [[Toon]] that needs {{Tape|name=true}} is present, letting you still have sufficient Tapes from usual activities for healing Items.
+
+'''Note: It isn't recommended to use {{II|Tape|name=true}}-providing Trinkets such as {{TI|Fancy Purse|name=true}} as it only provides enough for one heal, but can be useful if a teammate takes a hit on earlier floors before you have 100 Tapes. You can also use it to buy a heal from [[Dandy's Store]] should it appear, as you cannot heal yourself. Although this Trinket can be used, it is highly recommended to use a Trinket from the Mobility or Extraction sections as the Fancy Purse's effect is one-time use.'''
+
+==Dialogues==
+{{Ginger Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Activate Healing Sound.mp3|left|thumb]]
+|The sound that plays when Ginger activates her {{AI|Ginger|name=true}} [[Ability]]
+|-
+![[File:Healing Sound.mp3|left|thumb]]
+|The sound that plays when a Toon receives Ginger's {{AI|Ginger|name=true}} [[Ability]]
+|-
+![[File:Ginger_Finish_Ability.mp3|left|thumb]]
+|The sound that plays when the {{AI|Ginger|name=true}} [[Ability]] has finished
+|}
+
+==Trivia==
+*Ginger and {{CI|Cosmo|name=true}} are cousins, as confirmed by [[Qwelver]].<ref>https://discord.com/channels/969934252844138496/970049062608961560/1325989419341189130</ref>
+**Ginger and Cosmo are three out of the five sets of [[Toons]] in-game to have a canonical biological relationship, the other three being {{CI|Scraps|name=true}} & {{CI|Goob|name=true}}, {{CI|Razzle & Dazzle|name=true}}, {{CI|Flutter|name=true}} & {{CI|Flyte|name=true}}, and {{CI|Connie|name=true}} & {{CI|Soulvester|name=true}}.
+*Ginger is much more different from the other {{Type|Uncommon}} [[Event Toons]] (those being [[Flyte]] and [[Soulvester]]).
+**She is the only one whose [[Mastery]] doesn't require her to play with her relative.
+***This is likely because {{CI|Sprout|name=true}} needs [[Cosmo]] in his [[Mastery]] already.
+****However, {{CI|Yatta|name=true}} is required for both of  {{CI|Blot|name=true}} and {{CI|Cocoa|name=true}}'s Masteries, so it may be for a different reason.
+**She is the only one whose color palette and chatbox color doesn't include cyan as a predominant color.
+**She is the only one who is a female.
+***She is also the only one whose relative is a male.
+**She is the only one who has an [[Ability]] that is fully support oriented, and can't use it for her own benefit (Flyte's speed boost can affect others but also himself, and Soulvester's Passive gives himself an extra heart and immunity to most ranged attacks).
+***However, since [[Flutter]] and [[Connie]]'s Abilities are selfish, while [[Cosmo]]'s is support, it could just be a consequence of mimicking their sibling's Ability functions.
+**She is the only one who technically doesn't share the same species as their relative.
+***This is because Cosmo and Ginger are cousins, not siblings.
+****This would also make her the only Uncommon Event Toon who doesn't have a sibling.
+***However, you could count "sweet pastries" as a species rather than "brownie" and "gingerbread man" being separate.
+*Ginger, {{CI|Coal|name=true}}, and {{CI|Rudie|name=true}} are the first [[Toons]] to not cost {{TI|Ichor|name=true}}.
+*Ginger is one of the first Event [[Toons]] added to the game, along with {{CI|Bobette|name=true}}, [[Coal]], and [[Rudie]].
+*Ginger is the fourth [[Toon]] to have eyeshadow, with the first being [[Flutter]], the second being {{CI|Teagan|name=true}}, and the third being {{CI|Gigi|name=true}}.
+*Ginger is one of the few [[Toons]] whose [[Ability]] ends with an exclamation mark; some other Toons who also have an exclamation mark in their Ability's name include [[Gigi]], [[Goob]], {{CI|Tisha|name=true}}, and {{CI|Pebble|name=true}}.
+*Ginger binges {{CI|Vee|name=true}}'s gameshow episodes, as confirmed in their dialogue.
+*Prior to [[Changelog|v0.14.1]], Ginger and [[Cosmo]]'s [[Abilities]] used to be nearly identical, with the only differences being Ginger's longer cooldown and range compared to Cosmo. However, it was changed and became more similar to [[Sprout]]'s Ability, with the differences being that Ginger heals to full [[Health]] and has a much smaller range needing to wind it up.
+*Originally, when Ginger's Vintage [[Skin]] was equipped, she would have an angry expression when getting hurt instead of having her usual sad expression, this was changed in [[Changelog|v0.6.2]].
+*Ginger shares the same requirements as [[Flyte]] and [[Soulvester]], with that being 700 of the respective [[Event]]'s [[currency]] and 50% [[Research]] on their respective [[Twisted]] counterparts.
+**This might happen to other [[Holiday Toons]] whose Twisted counterpart is designated as {{Type|Uncommon}}.
+*It is currently unknown why, when, and how Ginger's right eye got bitten off, let alone who or what did it, and no one, both in the development team and in universe questions this.
+**It's not likely her eye was bitten off by a [[Toon]], considering the bite is quite large, much bigger than the size of an average Toon's mouth.
+**She could possibly be bit by a [[Twisted]], but this is unlikely due to there not being [[Ichor]] on her face if so. This is, however, shown in her [[Twisted Ginger|Twisted counterpart]]'s design.
+*Ginger is the fourth [[Toon]] in the game whose [[Ability]] requires {{Tape|name=true}} to use, with the first being [[Teagan]], the second being [[Sprout]], and the third being [[Blot]].
+**She is the only [[Event Toon]] whose Active [[Ability]] requires [[Tapes]]. 
+**She is the first [[Holiday Toon]] to do so.
+**She's the only one to have her Ability changed into a Tape costing one.
+**She ties with Sprout for the most expensive Ability, needing 100 Tapes.
+*If you enter the "Lore Room" on the [[Seasonal Room]] as Ginger, she will say "{{Text|Oh [[Bobette]]...}}", making her the third [[Toon]], along with all the other [[Christmas Toons]], with dialogue outside of being in the [[Elevator]], using an [[Ability]] or finishing a [[Machine]], with the first being [[Vee]], and the second being {{CI|Gourdy|name=true}}.
+**Ginger, along with the other 2 non-{{Type|Main}} Christmas Toons, are the first Toons to have these dialogues in a "Lore Room" that is not theirs, being Bobette's instead.
+***They are also the first non-Main Character Toons to have dialogues in a "Lore Room".
+*Ginger is the first and currently only [[Toon]] whose Active [[Ability]] works on the [[Elevator]], granted it's not in intermission.
+*Despite Ginger's [[Ability]] requiring [[Tapes]] to heal like [[Sprout]], and having the same increase of cooldown and Tape cost per Ginger like Sprout, she does not trigger the "Global Heal Cooldown" like Sprout does.
+*Ginger and [[Rudie]] are the first [[Toons]] to have exclusive Golden [[Skin]] [[Quests]].
+**Both of their first quests are the same: to encounter their [[Twisted]] counterparts 10 times.
+*In [[Changelog|v0.14.10]], the sound Ginger makes when {{AI|Ginger|name=true}} is activated was updated to include an oven ding sound.
+*Ginger is one of the three first [[Toons]] to have official voices which appeared in [[The Perfect Christmas]] song, with Ginger's voice actor being [[Qwel]], the other two Toons with voices are [[Rudie]] as AXIE and [[Bobette]] as Milk in the Microwave.
+*Ginger, [[Rudie]], and [[Coal]] are the sixth [[Toons]] to appear in 2 separate thumbnails, appearing in the [[Changelog|v0.14]] and v0.14.10 thumbnails, with the first being [[Pebble]], the second being {{CI|Shrimpo|name=true}}, the third being {{CI|Toodles|name=true}}, the fourth being {{CI|Rodger|name=true}} and {{CI|Gigi|name=true}}, and the fifth being [[Bobette]].
+*Akin to how [[Sprout]], [[Cosmo]], and maybe even [[Sam]] having a kitchen for them to bake in [[Sprout's Floor]], Ginger is likely to own and cook in the kitchen found in the [[Seasonal Room]], with a pink apron seemingly for her.
+*Ginger's cookies are often compared to [[Cosmo]]'s, because they seemingly don't taste as good as his. This can be seen in [[The Perfect Christmas]] and in her interactions with [[Goob]] and [[Toodles]].
+*For some reason, Ginger's {{Skin|New Years}} [[Skin]] has a bald spot on the top of her head. 
+**For another reason, Ginger’s {{Skin|Golden}}, {{Skin|Snow-Time}}, and {{Skin|Sugar Cookie}} have altered run animations, with her head looking down. This might to be prevent clipping, however, the hair probably can’t clip into it.
+*Ginger is the first [[Toon]] to not have any interactions with {{CI|Astro|name=true}}.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Toons with Relatives]]
+[[Category:Christmas Event]]

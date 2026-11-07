@@ -1,0 +1,180 @@
+{{DISPLAYTITLE:'''<span style="color: #FFFFF0;">Razzle</span> <span style="color: #92352E;">&</span> <span style="color: #656565;">Dazzle</span>'''}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Razzle & Dazzle Render.png|Render
+Razzle & Dazzle Full Render.png|Full Render
+Razzle & Dazzle Icon.png|Icon
+Razzle & Dazzle Full Icon.png|Full Icon
+Razzle & Dazzle Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed='''Odd Floors''':<br>{{StatComp|Move|5}}<br>'''Even Floors''':<br>{{StatComp|Move|1}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed='''Odd Floors''': <br>{{StatComp|Extract|1}}<br>'''Even Floors''':<br>{{StatComp|Extract|5}}
+|ability_1={{Center|'''Comedy/Tragedy'''<br>{{Small|''(Passive)''}}}}<br>
+This Toon swaps between [[Movement Speed]] on odd numbered Floors, and [[Extraction Speed]] on even numbered Floors.
+|requirement_1=2000 [[Ichor]]
+|skins=*Vintage
+*SeaFoam
+*Show-Time
+*Radiant Dream
+*Matcha Morning
+*Cozy Christmas
+*Giftwrap and Ribbons
+*Spring Formal
+*Curious Stranger
+|pronouns=He/Him {{Small|(Both)}} <!--Do not add He/They in this part, as Razzle does not canonically use those pronouns. If he did, it would've been otherwise stated by Qwelver with linked proof.-->
+|gender=Male {{Small|(Both)}}
+|designation=SC-008A & SC-008B
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|type=RnD}}
+
+==Appearance==
+Razzle & Dazzle's heads are comedy and tragedy masks. Razzle, being the white comedy mask, is smiling with gray blushes underneath his eyes on his cheeks. Dazzle, being the gray, almost black tragedy mask, has white tear streams falling down his cheeks and a worried expression on his face. Both masks are U-shaped, with rounded bottoms and pointed top, sharp edges. 
+
+Their appearance is akin to conjoined twins (specifically fraternal or non-identical twins due to their somewhat different appearances), conjoined by the neck but sharing the same body. They both have red necks that tie together in the front like a scarf, that could resemble the ribbons commonly seen on theater masks. Their outfit consists of a simple, sleeveless black shirt that slightly exposes the bottom of their torso. Moreover, their torso and limbs are split down the middle, with the right leg and arm being white like Razzle and the left leg and arm being gray like Dazzle.
+
+==Personalities==
+Razzle and Dazzle both have extremely different personalities, which represent their respective theatre masks.
+
+Razzle is a rather excitable, friendly [[Toon]]. He appears to be eager to spend time with the others, as well as enjoying the spotlight. He states, "Couldn't be better!" when asked about how he's doing, which is reflective of his optimistic, happy personality. He is always bursting with energy, outgoing and very curious about the world. He will always try to defend and stand up for his brother though, and try to cheer up other toons as well.
+
+Dazzle, on the other hand, is a rather gloomy, pessimistic Toon. He appears to have a rather negative outlook and a slightly depressive personality, dismissing positive comments about him. After being complimented by {{CI|Boxten|name=true}}, Dazzle says, "I wish my best was enough..." which further suggests this. He also might be slightly anxious, as in his old extracting animation, he is shown looking nervously to the side. He also shows fear around {{CI|Pebble|name=true}} and {{CI|Coal|name=true}} in his interactions with them. However, he doesn't reach the same degree of distress as {{CI|Squirm|name=true}}, even reacting a bit awkwardly to his outbursts and trying to ease his pessimism. Nevertheless, he is friendly also, and cares about other Toons' well-being, as shown in his dialogue with {{CI|Tisha|name=true}}, where he acts concerned and tells her not to overwork herself.
+
+However, despite being so different, neither twin fights, as described in their dialogue with {{CI|Gigi|name=true}}. Instead being open and accepting of each other in spite of their opposing personalities.
+
+==Mastery==
+{{Mastery|Purchase 10 [[Items]] from [[Dandy's Elevator Shop]]|Finish 50 [[Machines]]|Pick up 100 Items|Survive 75 [[Floors]]|Travel 100000 Meters|Use 100 Items}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Buy Items||Doing this Mastery Task will also assist with finishing the third and sixth tasks.}}|{{MastStrat|second|Machine||It's recommended to do this task in even numbered Floors, as they're when Razzle & Dazzle gain the most [[Extraction Speed]].}}|{{MastStrat|third and sixth|Collect and use|Use}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|fifth|Meters||It's recommended to do this task during odd numbered Floors, which is when Razzle & Dazzle gain the most [[Movement Speed]].}}}}
+
+==Requirement Strategies==
+*For the first and only requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+
+==Strategies==
+Razzle & Dazzle have a vacillating playstyle. Their varying [[Stats]] give them great potential, enabling them to demonstrate two extreme builds with their hybrid playstyle of swapping between distracting and extracting. In the following segments, Razzle and Dazzle are referred to as '''Razzle''' when they are on '''odd [[Floors]]''' (speed) and '''Dazzle''' on '''even Floors''' (extraction).
+
+Their Passive [[Ability]] causes the user to swap their strengths between Extraction and Distraction/Survival on Even and Odd Numbered Floors respectively. Razzle's high Movement Speed (5{{Star}}) is perfect for Distracting [[Twisteds]] on odd-numbered Floors or duo distracting with Pebble and other fast toons, and Dazzle's high Extraction Speed is great for Extracting [[Machines]] on even-numbered Floors. The major disadvantage of playing Razzle & Dazzle is Dazzle's extremely low Movement Speed, which is much lower than other similar extractors, and Razzle's subpar Extraction Speed. It's due to this factor that it's recommended to play Razzle & Dazzle on a team as opposed to playing on your own, as Dazzle's speed deficit is often fatal if they're chased by a Twisted, and machines will take approximately 1 minute when on odd floors. Razzle & Dazzle's Ability allows them to assume the most powerful stats of a {{Type|Main}} across each Floor. Their Ability breaks Floors up a little more to make things more exciting, but it comes at a large opportunity cost.
+
+As for [[Items]], Razzle & Dazzle can use anything well. It's recommended to take Healing Items, as those are always generally useful, and to collect Movement Speed/Stamina Items during Razzle's turn to make Dazzle's safer.
+
+The main thing determining Razzle & Dazzle's Ability is their Trinkets. Movement Speed-boosting Trinkets (such as {{TI|Ribbon Spool|name=true}}, {{TI|Clown Horn|name=true}}, etc.) are highly recommended as they can boost their mobility, which is helpful for both, and extraction-boosting Trinkets ({{TI|Vee's Remote|name=true}}, {{TI|Magnifying Glass|name=true}}, etc.) can help them extract nicely. Although there's no best set of Trinkets for Razzle & Dazzle, but it's best to use two speed Trinkets or one movement and one extraction, as this can help flesh out one of their Roles better. It's better to pick Trinkets that synergize with one another. 
+
+Razzle & Dazzle's best support looks like another distractor that handles Dazzle's Floors. If this is the case, the Razzle user may wish to equip Clown Horn and {{TI|Dog Plush|name=true}} and the other Toon can equip Ribbon Spool in place of Clown Horn. While this is a common setup for duo distracting, it comes with the benefits of Razzle & Dazzle's extra heart compared to Pebble and extra Extraction during downtime. Downsides include an extreme lack of survivability if your other distractor dies, an inability to take over/backup distract if they're low on Health, and being devoid of a good way to gather Items downtime normally provides. 
+
+Razzle's speed is sufficient to distract all singular Twisteds (including {{CI|Twisted Pebble|name=true}}, though combinations may get dicey) so their user might opt to instead solely equip Trinkets that benefit Dazzle. 
+
+Overall it is really only recommended to play Razzle & Dazzle if you're experienced and can deal with their constant-changing Statistics.
+
+===Trinket Combinations===
+{{Preference}}For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/{{TI|Clown Horn|name=true}}'''
+**This set gives Razzle & Dazzle the highest [[Movement Speed]] in odd floors, he will out-walk almost all Twisteds and have the same walk speed as {{CI|Twisted Pebble|name=true}} {{Small|(24 walk speed)}}.
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/{{TI|Ribbon Spool|name=true}}'''
+**This Trinket combination really helps Dazzle's lackluster speed {{Small|(23.5 run speed)}}. Here are some other Trinkets if you want to replace any of them:
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Dazzle's Run Speed {{Small|(22.6 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', so Dazzle can more easily traverse the map during Panic Mode {{Small|(26 run speed)}};
+***'''{{TI|Clown Horn|name=true}}''', to out-walk Twisted Glisten and Twisted Vee when you are inflicted with the {{Debuff|Slow|II}} [[Debuff]] when active and on an odd numbered Floor {{Small|(24.2 walk/33 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not interfere with 3{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Train Whistle|name=true}}''', to simultaneously make Twisted Vee significantly easier to distract as Razzle, {{Debuff|Slow}} in general less dangerous for Dazzle, and [[Ichor Leaks]] less dangerous all together;
+***Any of the Trinkets in the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Razzle & Dazzle to take full advantage over his 1/5{{Star}} [[Extraction Speed]] {{Small|(odd:0.75, even:1.5 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(odd:29.8 avg/27.21 with Tech Savvy, even:19.91 avg/17.7 with Tech Savvy)}};
+***Any of the Trinkets in the '''Distraction/Mobility''' section, to help with mobility; etc.
+
+==Dialogues==
+{{Razzle & Dazzle Dialogues}}
+
+==Trivia==
+*When looking at Razzle & Dazzle's [[Stats]], you will see their Movement Speed and Extraction Speed is written as 3{{Star}}. However, you never actually play with him with those Stats. That's because Razzle & Dazzle apply modifiers to turn it into 1/5 Star Stats.
+**Specifically, Movement Speed is adjusted by ±5.00 and Extraction Speed is adjusted by ±0.375, depending on the [[Floor]].
+***That means Razzle & Dazzle's base Extraction Speed is 1.125, which is approximately 3.67 Stars.
+*Razzle & Dazzle are the second [[Toons]] featured in a thumbnail who is not running away from a [[Twisted]]. Instead, they are shown to be standing next to {{CI|Twisted Blot|name=true}}.
+*Razzle & Dazzle's name is used to describe a showy act that draws attention. This could be their name because of how comedy and tragedy masks represent the two main types of theatrical literature.
+*Razzle & Dazzle are currently the only [[Toons|Toon]]<nowiki/>[[Toons|s]] that share a body.
+*Dazzle is the most beloved, as evidenced by a poll in the [[BlushCrunch]] Discord server.<ref>https://discord.com/channels/969934252844138496/999038660701859900/1284980581599412245</ref>
+*Dazzle is part of {{CI|Brightney|name=true}}'s Book Club, along with {{CI|Astro|name=true}}. Razzle is not in the Book Club, however, as he is said to fall asleep during any Book Club gatherings.
+*Dazzle is stated to be a fan of astronomy, as shown in their interaction with [[Astro]], as well as an astronomy book that can be found in their room in [[Roleplaying Mode]] (presumably the same one that Astro had given them).
+*Razzle is friends with {{CI|Finn|name=true}}; Dazzle's friends seem to include [[Astro]] and {{CI|Squirm|name=true}}; both are friends with {{CI|Glisten|name=true}}.
+**Razzle and Finn are "best buddies" as stated by their dialogue. It is shown that Razzle loves Finn's jokes, but Dazzle doesn't. This friendship is also shown in Finn's lore video, where Razzle and Finn come up with jokes, with Razzle (and Dazzle somewhat) encouraging Finn to express his personal passion over pleasing customers.
+**Dazzle was gifted an astronomy book by Astro, enjoys his company, and is openly excited to spend time with him.
+**Dazzle comforts Squirm and tries to quell his distress, as well as responds affirmatively to Squirm's idea of catching up with each other again after the latter's banning from the book club.
+**Razzle & Dazzle are friends with Glisten, as mentioned in their dialogue, and Glisten's note stating 'I guess Razzle and Dazzle are fine.'
+*Razzle & Dazzle seem to be a fan of {{CI|Vee|name=true}} and her Game Show, as seen in the note written to her that can be found in their Room in [[Roleplaying Mode]], and their interaction with Vee.
+*Although not confirmed, Dazzle seems to have a fear of dogs, as seen in his interactions with [[Pebble]] and {{CI|Coal|name=true}}.
+*In {{CI|Yatta|name=true}} and Razzle & Dazzle's interaction, it is stated that Dazzle does not like attending parties due to there being too many people.
+*Razzle is the one who moves fast, while Dazzle is the one who extracts fast. This can be confirmed through their interaction with {{CI|Boxten|name=true}} and their extracting animations.
+**This interaction implies that each of them is capable of controlling the majority of their body and not just their individual sides.
+**Their personalities could also be a clue, with Razzle being an extroverted, impulsive person, explaining the high Movement Speed and low Extraction Speed, and Dazzle being shy, but also quite calm and thoughtful, explaining the low Movement Speed but high Extraction Speed.
+*Razzle & Dazzle are designations ''SC-008A'' and ''SC-008B'', with the '''SC''' standing for Side Character.
+**Something interesting is that the two don't share the same experiment name. Razzle's experiment name is ''SC-008A'' and Dazzle's experiment name is ''SC-008B''. This could be because each of them are 2 separate Toons with their own consciousness, so they need separate experiment names.
+*Before [[Changelog|v0.3]], Razzle & Dazzle were the most expensive non-{{Type|Main}} [[Toon]] in the game before getting dethroned by [[Glisten]].
+**However, Razzle & Dazzle are still the most expensive Toon that only costs [[Ichor]].
+*Razzle & Dazzle are the fourth tallest [[Toon]], the tallest being {{CI|Flyte|name=true}}, the second tallest being [[Sprout]], and the third being {{CI|Looey|name=true}}.
+*Razzle & Dazzle are one of the only [[Toons]] that have necks, the other three being [[Brightney]], {{CI|Scraps|name=true}} and {{CI|Brusha|name=true}}.
+*{{CI|Goob|name=true}} and Razzle & Dazzle's dialogue is one of [[Qwel]]'s favorite new dialogues from v0.7.1.<ref>https://discord.com/channels/969934252844138496/1338250624558567498/1350491068155564122</ref>
+*Razzle loves the {{wp|Stegosaurus}} as stated in his interaction with [[Shelly]]. Dazzle's favorite dinosaur isn't specified, but it ''could'' be a species of {{wp|Sauropod}}.
+*Razzle & Dazzle are one of the only [[Toons]] whose {{CI|Twisted Razzle & Dazzle}}[[Twisted Razzle & Dazzle|Twisted counterpart]] has no roaming or chasing animation that can be seen in the main game, the other three being {{CI|Rodger|name=true}}, [[Blot]], and [[Squirm]].
+*As shown by their letter to [[Vee]], Razzle is probably right-handed, and Dazzle could possibly be left-handed (both by force) since they both wrote.
+**This is further suggested in their revamped extracting animations, as Razzle extracts with his right hand during odd floors and Dazzle extracts with his left hand during even floors.
+*According to [[Qwel]], Razzle & Dazzle's Passive [[Ability]] was going to be reworked into a Toggle Ability in a future update, but this idea was [[scrapped]].<ref>https://discord.com/channels/969934252844138496/969934252844138499/1371930858562261063</ref>
+*[[Skill Check]] and [[Extraction Speed]] combined, Dazzle, tied with [[Yatta]] and {{CI|Squirm|name=true}}, is the third fastest non-[[Main Character]] [[Toon]] at Extraction without any additional [[Trinkets]] used.
+*Razzle almost has the same stats as [[Pebble]], only missing 1 Star in Stamina.
+*Razzle & Dazzle, alongside {{CI|Dandy|name=true}}, were the only [[Toons]] without Head UGCs for a while, being the last two get theirs.
+*While never mentioned by developers or in-universe, Razzle & Dazzle are anatomically {{wp|Dicephalic Parapagus}} type conjoined twins.
+*Razzle & Dazzle's SeaFoam [[Skin]] used to be named Seafoam, making him one of two [[Toons]] to have their Skins renamed in-game, the other being {{CI|Rudie|name=true}} whose BlueBell Rudie Skin was formerly labeled as Blue Bell.
+*Razzle & Dazzle are one of the first non-[[Main]] [[Toons]] to get a [[Gamepass]] [[Skin]] with the other Toons being [[Blot]], [[Looey]], and [[Yatta]].
+*Razzle & Dazzle are the first and only [[Toon]] to have two separate sets of animations, these animation changes will trigger between odd and even Floors. They are also the first and only Toon to have two separate extracting animations.
+**[[Rodger]] could count since his April Fools [[Skin]] has a unique extracting animation, but Razzle & Dazzle always have two animations in one game.
+*Razzle & Dazzle are the third male [[Toons]] to appear in the game icon (excluding [[Dandy]]). the first being [[Sprout]], the second being [[Blot]], the fourth being {{CI|Dyle|name=true}}, the fifth being [[Astro]], the sixth being [[Shrimpo]] (with the Grumpy Bear [[Skin]]), the seventh being [[Gourdy]], the eighth being [[Rodger]], the ninth being [[Goob]], the tenth being [[Squirm]], and the eleventh being [[Finn]].
+*Although Razzle & Dazzle aren't in the Circus Troupe, they share similarities with them.
+**They are part of the [[Show-Time Cosmetic Pack]].
+**They are the first non-[[Main]] [[Toons]] to have an optimized model (excluding Holiday Toons).
+**They technically have high Movement Speed (on odd floors) and high Extraction Speed (on even floors), being able to do distracting and extracting roles.
+**They have a Passive Ability that "aids" in distracting/extracting.
+**Theater masks (what Razzle & Dazzle are) can fit in well with performance acts and stages being quite alike to circus acts.
+*Razzle & Dazzle are the first [[Toons]] to have both their normal Counterpart and their Twisted Counterpart appear in the game's thumbnail, the other being [[Blot]].
+**Razzle & Dazzle and [[Twisted Blot]] appear together in the v0.10 banner.
+**The only times Razzle & Dazzle appeared in the game's thumbnail was always with a Circus Troupe member.
+*Razzle & Dazzle are the third [[Toons]] to extract with one hand. The first being [[Cosmo]] and the other being [[Vee]].
+*Razzle & Dazzle have the longest name of any [[Toon]], having 13 letters (the second being [[Soulvester]] with 10 letters).
+*Razzle & Dazzle are the first [[Toons]] to not release in an update other than Alpha release yet still show up on the game's icon, with the second being [[Astro]] and third being [[Shrimpo]].
+*Razzle & Dazzle do not blink separately despite being conjoined twins.
+*Despite Razzle & Dazzle's pronouns both being 'he/him',<ref>https://discord.com/channels/969934252844138496/969934252844138499/1393236934582865920</ref> [[Brightney]] refers to Razzle as 'they' in one of her interactions with Razzle & Dazzle. This is most likely an error.
+*Razzle always speaks first before Dazzle in all of their dialogues. This is probably because of how their dialogues are formatted, with Dazzle's words pushed after Razzle's, separated with parentheses.
+**Additionally, if only Razzle speaks, Dazzle's dialogue is displayed as '{{Text|(…)}}'.
+**This speech pattern can also be interpreted as a friendly, quirky twin tradition the two consistently use.
+*Razzle & Dazzle are the first non-Main Character Toons to have 5 Star Movement Speed.
+**However, this isn't listed in their Stats and it happens half the time, so it technically can't be counted stat-wise.
+**This also applies with [[Looey]] and {{CI|Eclipse|name=true}}—their Passive grants them around 5 Star [[Movement Speed]] under different conditions, though in a percentage, not affecting their base Stats. Additionally, unlike Razzle & Dazzle, they don't get exactly 5 Star Movement Speed, instead having 1 extra walk speed unit and 5 extra run speed units.
+**{{CI|Waxwell|name=true}} on the other hand has this speed consistently and exactly.
+*In a dialogue with [[Blot]], it is shown that [[Dazzle]] can partly understand Blot's speech, while Razzle can't understand him at all.
+*Razzle & Dazzle are the only optimized [[Toons]] (excluding other [[Event Toons]]) that didn't get a {{HT|Halloween}} [[Skin]] in the [[2025 Halloween Event]].
+*Razzle & Dazzle are the last optimized [[Toon]] to use unconnected joints.
+*Razzle & Dazzle's {{Skin|Curious Stranger}} [[Skin]] may be based on Dr Jekyll and Mr Hyde.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

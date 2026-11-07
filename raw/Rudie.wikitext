@@ -1,0 +1,166 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#7D1122,#755239,#A27F69); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Rudie Render.png|Render
+Rudie Full Render.png|Full Render
+Rudie Icon.png|Icon
+Rudie Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|requirement_1={{Currency|Ornaments|300}}
+|ability_1={{Center|{{AI|Rudie|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon uses his antlers to quickly charge forward in a short burst, helping him escape tricky situations.
+|skins=*Vintage
+*BlueBell Rudie
+*Holly Jolly
+*Snow-Time
+*Golden Antlers
+|gender=Male
+|pronouns=He/Him
+|release_date=1/10/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Rudie|extra=Reindeer|Date=January 10, 2025|with={{CI|Bobette|name=true}}, {{CI|Coal|name=true}}, and {{CI|Ginger|name=true}}|Pronoun=He|event=Christmas|store=Bobette's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Rudie is an anthropomorphic brown reindeer with a rounded physique, unguligrade legs and a large, red nose. He has lighter patches of brown on his face, insides of his ears and on his torso. His hooves, spots and neck fur are dark brown, and he has red and white candy cane-like antlers on the top of his head. During [[Blackouts]], his nose glows red.
+
+|-|Vintage=
+Vintage Rudie gains a monochromatic color palette, as well as two triangle cuts in his pupils, one in each on the left side. During [[Blackouts]], instead of red, his nose glows white.
+
+|-|Blue Bell=
+Blue Bell Rudie is a much lighter shade of brown, with white head spots and neck fur instead of dark brown. He gains a pair of jingle bell-covered bracelets, with blue bases. His nose is also blue. His hooves become a slightly warmer brown, and his antlers become this same shade and stripe-less. During [[Blackouts]], his nose glows blue.
+
+|-|Holly Jolly=
+Holly Jolly Rudie is a much redder, brighter color than before, with a piece of holly on his left ear. His neck fluff is replaced by a red-and-green striped scarf, which shares colors with his antlers. His head spots, hooves, and new-found freckles are all a darker, very warm brown.
+
+|-|Snow-Time=
+Snow-Time Rudie is a light grey and white reindeer, with purple pants and head spots. Instead of neck fluff, he now wears a light blue, purple, and white shawl. This shawl has a large, white-and-blue bow on the front. He also now dons a cape, which fades from purple to light blue, with white fluff at the end. His hooves and antlers now fade from a very light cyan to purple, with his hooves and cape carrying a moving pattern. He has light blue marks under his eyes. During [[Blackouts]], his nose glows a very light blue.
+
+|-|Golden Antlers=
+Golden Antlers Rudie is a warm brown, with three white freckles on each cheek. His ear tips, hooves, neck fur, and antlers are all golden. He now wears a golden crown on his right antler, which is adorned with red ovular gems. He also has a large, red bow on the back of his neck fur.
+</tabber>
+
+==Personality==
+Rudie is a cheerful and friendly [[Toon]] who has a passion for the holidays. He has a very jolly and happy personality, and is always in a festive spirit. True to how he was in the [[Dandy's World (Show)|Show]], he's an extreme enthusiast of Christmas to the point of thinking it is every day, and getting upset when anyone denies it; but when it comes to him talking to [[Bobette]], he tells her that his favorite holiday is still every day "in [his] heart", technically somewhat confirming he's only pretending to be a Christmas enthusiast for entertainment's sake. Towards children, he always asks them if they're on the nice list, making him have a Santa Claus-esque role.
+
+== Mastery ==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 60 times|Finish 30 [[Machines]]|Pick up 35 [[Items]]|Survive 25 [[Floors]]|Travel 50000 Meters|Use 30 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Machine}}|{{MastStrat|third and sixth|Collect and use|Use}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|fifth|Meters}}}}
+==Requirement Strategies==
+*For the first and only requirement, focus on picking up {{II|Ornaments|name=true}} and extracting [[Machines]]. The Machine and Ornament count increases the further you descend, so you can earn more Ornaments.
+
+==Golden Skin [[Quest]]==
+{{GQ|Encounter {{CI|Twisted Rudie|name=true}} '''{{Color|10|#93f525}}''' times as {{CI|Rudie|name=true}}.}}
+{{GQ|{{Tooltip|Complete the new [[Holiday Floor]] '''{{Color|15|#93f525}}''' times as Rudie.|Any Christmas Floor counts here.}}}}
+{{GQ|Use this [[Toon]]'s [[Ability]] '''{{Color|30|#93f525}}''' times while being chased (by a [[Twisted]]).}}
+
+Reward: {{Skin|Golden Antlers Rudie}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Christmas Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first task''', play normally until you find {{CI|Twisted Rudie|name=true}}, get in his sight, then try to find him again in another [[Floor]].
+*'''For the second task''', try to join good runs to get far. If you are really good, you could join a Discord run, because upon completing [[Floor]] 60, you will complete the task. Alternatively, you could just keep doing runs and restart after Floor 5 until you complete the quest.
+*'''For the third task''', you could just use {{TI|Sweet Charm|name=true}} and/or {{TI|Ghost Snakes In A Can|name=true}} and keep spamming your ability while getting chased.
+To complete all tasks in tandem, keep playing until Floor 11, hoping you get a Twisted Rudie. Also, use your Ability as much as possible.
+
+==Strategies==
+Rudie is pretty well-rounded due to his fully 3 {{Star}} [[Stats]], being able to extract quite well and having high potential when it comes to mobility.
+
+Rudie's Active [[Ability]], {{AI|Rudie|name=true}}, allows him to dash forward by increasing both his [[Movement Speed]] by 50 units, giving him 65 Walk Speed and 75 Run Speed. You can utilize this to get around or avoid danger, like for example, when you end up getting cornered in some way, using his Ability can help you get out of the area unscathed. His cooldown is also very short, meaning it's easy to get around places and escape situations at almost any time, especially with [[Trinkets]] like {{TI|Ghost Snakes In A Can|name=true}}. In [[Panic Mode]], you can dash into the [[Elevator]] making it easier to avoid dying to the Panic Mode timer and the [[Twisteds]] who get faster during that period.
+
+Rudie's Ability gives him the ability to perhaps be a decent distractor if one has the skill to do so. Given its short cooldown and powerful speed boost, as well as his average Movement Speed and Stamina, things like the usual Distractor Trinkets like {{TI|Dog Plush|name=true}} alongside cooldown reducing Trinkets and [[Cards]] are recommended. It should be noted that, even with Dog Plush, Rudie is only able to out-walk {{CI|Twisted Shrimpo|name=true}} at best, so a better option for Distracting would be {{CI|Flutter|name=true}} due to her similar Ability and better mobility Stats. You can also simply divert Twisteds away from teammates, or bring Twisteds to distractors, using your Ability to facilitate escape or passing.
+
+{{TI|Peppermint Icing|name=true}} is a really good choice to use with him. The short cooldown makes it so gaining Stamina would be a lot faster, and seeing as how the Ability would be used in traversal/escaping, a time where Stamina would be appreciated, the added Stamina can help prolong sprinting and make the situations easier. You can also sprint on [[Treadmill Machines]] and periodically stop extracting to use his Ability, regenerating the 30 Stamina and allowing for more sprinting, thus faster extraction of Treadmill Machines.
+
+Overall, Rudie is a great all-rounder, with incredible mobility and survivability. He's decent at extracting and has a potential to distract. He's a fairly good Toon in solo runs, especially due to his Ability.
+
+===Trinket Combinations===
+{{Preference}}For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Rudie to outrun all Twisteds outside of [[Panic Mode]] besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.1 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Rudie to take full advantage over his 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(25.57 avg/23.26 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}/{{TI|Peppermint Icing|name=true}}'''
+**The cooldown reduction synergizes with Peppermint Icing, allowing Rudie to regain Stamina more often. With the {{CDI|Rehearsal/Practice|name=true}} cards, {{AI|Rudie|name=true}} reaches a cooldown of 8 seconds, which means you can gain a very potent amount of mobility.
+***These Trinkets can additionally be used separately if you want to solely maximize either his Stamina or his cooldown.
+
+====Other====
+*'''{{TI|Spare Bulb|name=true}}''', to further increase Rudie's light radius for maximum visibility, although it may cause some slight lag for older devices.
+
+==Dialogues==
+{{Rudie Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+|[[File:Wind-Related Abilities.ogg|left|thumb]]
+|The sound that plays when Rudie uses his {{AI|Rudie|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Rudie is one of the first [[Holiday Toons]] added in the game, along with {{CI|Bobette|name=true}}, {{CI|Coal|name=true}}, and {{CI|Ginger|name=true}}.
+**He is also the first male Holiday Toon to be released, and also the only male Christmas Toon.
+*Rudie, {{CI|Cocoa|name=true}} and {{CI|Eclipse|name=true}} are all anthropomorphic [[Toons]] with non-plantigrade legs (Rudie is unguligrade, while Eclipse and Cocoa are digitigrade). Rudie is the first Toon with this trait.
+**Coincidentally enough, they are all [[Holiday Toons]], each one being from a different [[Event]].
+**He is the only {{Type|Common}} and male Toon to do so.
+*It might be implied that the reason Rudie thinks every day is Christmas is because of how the [[Christmas]] [[Holiday Toons]] naturally isolate themselves when it's not winter, leading him to be constantly excited or yearning for said [[Event]].
+**However, according to [[Bobette]]'s [[Gossip]], Rudie has had this habit in the [[show]], so Rudie's constant delusion could also be because he never left his old personality/role in the show: a Christmas enthusiast.
+*Rudie, {{CI|Flutter|name=true}}, and {{CI|Flyte|name=true}} share the same [[Ability]] sound.
+*Rudie was the first [[Holiday Toon]] to be teased.
+*Rudie shares the same [[Stat]] spread with the starters and other {{Type|Common}} [[Event Toons]] {{Small|(3 {{Star}} in all stats)}}.
+**Rudie is the only one out of these five [[Toons]] to have an Active [[Ability]].
+*Rudie has the third shortest ''Active'' [[Ability]] cooldown (if not counting {{CI|Bassie|name=true}}), being beat by {{CI|Brusha|name=true}} and {{CI|Soulvester|name=true}}.
+**When choosing the {{CDI|Rehearsal/Practice|name=true}} Cards while using {{TI|Ghost Snakes In A Can|name=true}} and {{TI|Sweet Charm|name=true}}, and walking in {{CI|Waxwell|name=true}}'s {{AI|Waxwell|name=true}} trail, you will get an even shorter Ability cooldown of about 3.1 seconds.
+**Unlike Brusha, he's always had his current Active Ability cooldown, originally having the shortest one.
+*Rudie's appearance and name are heavily based off the famous Christmas character, {{Wp|Rudolph the Red-Nosed Reindeer}}.
+*Despite Rudie being stated to be a male, male reindeer shed their antlers during the winter months, while the females retain their antlers.
+*One of his renders for the [[Ornament]] store implies that he knows how to juggle.<ref>[[File:Rudie Purchase 2.png|200px]]</ref>
+*Rudie's BlueBell Rudie<ref>[[File:BlueBell Rudie Rudie.png|200px]]</ref> [[Skin]] used to be named Blue Bell, making him one of two [[Toons]] to have their Skins renamed in-game, the other being {{CI|Razzle & Dazzle|name=true}} whose SeaFoam Skin was formerly labeled as Seafoam.
+**This also makes Rudie the only [[Toon]] with their name in a [[Skin]].
+*Rudie is the third [[Toon]] in the game to be an actual living thing, rather than an object, being a reindeer.
+*Rudie is the only [[Christmas Toon]] to not receive any major [[Ability]] changes or reworks in the [[2025 Christmas Event]].
+*If you enter the "Lore Room" on the [[Seasonal Room]] as Rudie, he will say "{{Text|Woah...}}", making him the third [[Toon]], along with all the other [[Christmas Toons]], with dialogue outside of being in the [[Elevator]], using an [[Ability]] or finishing a [[Machine]], with the first being {{CI|Vee|name=true}}, and the second being {{CI|Gourdy|name=true}}.
+**Rudie, along with the other 2 non-{{Type|Main}} Christmas Toons, are the first Toons to have these dialogues in a "Lore Room" that is not theirs, being [[Bobette]]'s instead.
+***They are also the first non-Main Character Toons to have dialogues in a "Lore Room".
+*Sometimes, there will be a bug where Rudie has an apparent Passive [[Ability]].
+*Rudie and [[Ginger]] are the first [[Toons]] to have exclusive Golden Skin [[Quests]].
+*Rudie's {{AI|Rudie|name=true}} [[Ability]] cannot be used to walk past {{CI|Twisted Rodger|name=true}} when he is activated.
+*Rudie is one of the three first [[Toons]] to have official voices which appeared in [[The Perfect Christmas]] song with Rudie's voice actor being AXIE, the other two Toons with voices are [[Bobette]] and [[Ginger]].
+*However, these aren't confirmed to be canon.
+*Rudie, [[Ginger]], and [[Coal]] are the sixth [[Toons]] to appear in 2 separate thumbnails, appearing in the [[Changelog|v0.14]] and v0.14.10 thumbnails, with the first being {{CI|Pebble|name=true}}, the second being [[Shrimpo]], the third being {{CI|Toodles|name=true}}, the fourth being {{CI|Rodger|name=true}} and {{CI|Gigi|name=true}}, and the fifth being [[Bobette]].
+*Some time during the [[2026 Easter Event]], Rudie's [[Ability]] description was changed to be more ambiguous about its effects, removing the cooldown, potency, and its duration from the description.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Male]]
+[[Category:Christmas Event]]

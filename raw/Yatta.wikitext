@@ -1,0 +1,230 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(#FDD965,#FDD965,#FE81B6,#62B6FE,#62B6FE); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Long}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Yatta Render.png|Render
+Yatta Full Render.png|Full Render
+Yatta Icon.png|Icon
+Yatta Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|1}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|5}}
+|requirement_1=2000 [[Ichor]]
+|requirement_2=Own 15 or more [[Toons]]
+|requirement_3=50% [[Research]] on {{CI|Twisted Yatta|name=true}}
+|ability_1={{Center|'''Piñata Party'''<br>{{Small|''(Passive)''}}}}<br>This Toon drops 2 random candy [[items]] after completing a machine, and 4 random candy items when injured.
+|skins=*Vintage
+*Colorful April
+*Blossom Buddy
+*Show-Time
+*Guess What I Eat
+*Choco Cones
+*Infected Candy
+*Crinkled Confetti
+*Notta Phase
+|gender=Female
+|pronouns=She/Her
+|designation=SC-019
+|release_date=03/14/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Single|Toon=Yatta|extra=Piñata|Date=March 14, 2025|Pronoun=She}}
+
+==Appearance==
+Yatta is a piñata clad in vibrant yellows, azures, and a somewhat-light magenta, with a very complex design. Two fringed "horns" with bright yellow and azure ribbons stand straight up from her head, in a similar shape to her {{CI|Twisted Yatta}}[[Twisted]]'s [[Research]] [[Trinket]], {{TI|Party Popper|name=true}}. Her face is composed of three layers of the aforementioned colors, with bright yellow on top, a circular dash of magenta in the middle of that resembles the letter M, and an azure on the bottom, which matches with the ruffled collar with a frayed texture around her neck of the same color. A layer of fringed paper-like hair on the back and top of her head follows this same color pattern. Her face is also composed of large, circular, black eyes with two eyelashes on each side and a wide, toothy grin with three sharp teeth visible. Her body is mostly bright yellow, with two magenta and azure stripes on each arm that resemble bracelets. Her legs have a single, slightly larger azure stripe that leads down to flared azure sections with frayed hems, where her magenta feet are visible. She has four long, flat magenta tails, with two upper tails that are slightly longer than the lower two.
+
+==Personality==
+Yatta is an energetic, generous, hyper, and loud [[Toon]], with the role of an acrobat in the Circus Troupe, including her friends, {{CI|Looey|name=true}} and {{CI|Blot|name=true}}. She wears her heart on her sleeve, but she still puts her friends in a positive light and thinking highly of them, As seen in conversations with {{CI|Brightney|name=true}} and {{CI|Teagan|name=true}}. Yatta is jittery and hates staying still, on top of being somewhat impatient, which is shown in one of her interactions with {{CI|Connie|name=true}}. She also doesn't fall easily for tricks, as seen in her dialogue with {{CI|Gigi|name=true}}. In one of her interactions with {{CI|Pebble|name=true}}, she seems to not want him to ask for candy, as {{CI|Dandy|name=true}} does not allow him to.
+
+Additionally, Yatta is more attentive and clever than she initially seems, managing to pick up on an interest {{CI|Shelly|name=true}} has (other than dinosaurs) from {{CI|Tisha|name=true}} and bringing it up to her, or complimenting {{CI|Shrimpo|name=true}}'s strength in a way that enrages him further. However, her behavior can make other Toons concerned for her, as seen in her interactions with Tisha and {{CI|Sprout|name=true}}.
+
+Yatta is obsessed with candy and likely eats it excessively, as seen in her interactions with Sprout. She also seems somewhat oblivious to social conventions, as some Toons dislike how she suddenly pops up in conversations without warning or occasionally scares them with her habit of crawling around in Gardenview's vents, shown in her interactions with Shelly and {{CI|Toodles|name=true}}. As seen in Blot's interaction, Yatta also stores her candy in said vents.
+
+In Dandy's Gossip about her, she seems to not get sick from the amount of candy she eats, showing that candy doesn't seem to impact her at all.
+
+==Mastery==
+{{Mastery|Finish 85 [[Machines]]|Pick up 50 [[Research Capsules]]|Pick up 120 [[Items]]|Survive 20 Floors with {{CI|Looey|name=true}} in your run|Travel 45000 Meters|Use 120 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Machine}}|{{MastStrat|second, third, and sixth|Collect and use|CapsAndUse}}|{{MastStrat|fourth|Toon in run|{{CI|Looey|name=true}}}}|{{MastStrat|fifth|Meters}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, since Yatta requires 15 other [[Toons]] to be obtained, try to farm as much Ichor as possible, and try starting by buying Toons that cost less Ichor, such as {{CI|Poppy|name=true}}, {{CI|Boxten|name=true}}, {{CI|Shrimpo|name=true}}, and {{CI|Tisha|name=true}}. Over time, you can complete requirements for other Toons by doing multiple runs.
+*For the third requirement, have a Distractor Toon bring {{CI|Twisted Yatta|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive Ability. This will be easier Since Twisted Yatta is a {{Type|Common}} Twisted,  so she has a higher chance of appearing on [[Floors]].
+
+==Strategies==
+Yatta is an extremely good hybrid [[Toon]], due to her high [[Movement Speed]] and [[Extraction Speed]], along with her low [[Stealth]]. Her Passive [[Ability]], '''Piñata Party''', is useful for both self-sustain and support. What Candy [[Items]] she can drop is based on a probability system; Yatta can drop all Candy Items, excluding {{II|BonBon|name=false}}s. Candies she can drop are {{II|Chocolate|name=false}}, {{II|Gumballs|name=false}}, {{II|Stamina Candy|name=false}}, {{II|Stealth Candy|name=false}}, {{II|Extraction Speed Candy|name=false}}, {{II|Skill Check Candy|name=false}}, {{II|Speed Candy|name=false}}, {{II|Jawbreaker|name=false}}, and {{II|Box o' Chocolates|name=false}}, with a Box o' Chocolates having a 5.88% chance to drop while all other Candy Items each have an 11.76% chance to drop. 2 or 4 Items will drop depending on if she finishes a Machine (2) or gets hit (4), which roughly would mean around 1 Box o' Chocolates every 10 Machines, or around a 20% chance upon getting hit. If you are working on a Machine and see Yatta nearby, consider priming it and letting her finish it to activate her Passive more easily, giving your team access to extra Items.
+
+Due to her horrid [[Stamina]] capacity, saving Items such as Chocolates is rather decent as it can increase her Stamina and Walk Speed for a short time, and other Stamina-related Items, such as Pop, or Bottle o' Pop, are also helpful to accommodate her Stamina. Voting for {{CDI|Well-Paced/Endurance|name=true}} can also help with her low Stamina, raising her total to 120, close to the 2 Star Stamina level of 125. Completing [[Dyle's Floor]] is a priority for Yatta players.
+
+Yatta's Ability works nicely with the Toons mentioned below:
+*Having a Yatta in your team with a {{CI|Sprout|name=true}} or {{CI|Ginger|name=true}} can help with the {{II|Tape|name=true}} earning, as she can drop worthless candy for Sprout/Ginger to pick up for extra Tapes, or candy that has use and which grants more Tapes, like Box o' Chocolates or Jawbreakers, helping them heal [[Toons]] faster. Yatta's Items are also a good Tape source for {{CI|Teagan|name=true}} and {{CI|Blot|name=true}}, although they don't need to prioritize Tape gathering as much.
+*Pebble and {{CI|Coal|name=true}}'s Item-finding Abilities can help detect the Items Yatta produces much easier, if they land above ground and/or are lodged inside of an object.
+*{{CI|Bassie|name=true}} can carry the Items Yatta produces, preventing them from taking up other Toons' inventory slots. This also allows Bassie to distribute them strategically (e.g. Skill Check Candies to those working on Machines, Box o' Chocolates to help distractors or Toons that are slow/have low stamina) to avoid waste.
+
+Because Yatta's Passive frequently generates Items, it's easy for your inventory to fill up quickly. To avoid this, try to dedicate at least one inventory slot to her candy drops. If your inventory is full, consider leaving Items like Speed Candies or Boxes o' Chocolates for slower teammates who can benefit instead.
+
+Yatta can also be good for distracting with her 4{{Star}} Movement Speed and 2 Star Stealth. Although Stamina management is hard, equipping the {{TI|Dog Plush|name=true}}/{{TI|Speedy Shoes|name=true}} combo lets you outwalk a little over half of the Twisteds in-game and match 5 Star Movement Speed. However, if it's a serious issue, either get Stamina Items from her Ability or use a Stamina Trinket. She's better suited as a backup distractor in most cases anyway, considering she'd be able to utilize her 5 Star Extraction Speed and Ability more frequently, and the fact other Toons like {{CI|Goob|name=true}} (whose stats are a direct increase for purely distracting) may be more viable for the role.
+
+Yatta is great for solos, with her excellent extraction Stats and mobility. Despite her high speed, her low Stamina can be dangerous if getting chased for a long period of time, especially with fast Twisteds such as {{CI|Twisted Shelly|name=true}} and {{CI|Twisted Toodles|name=true}}. Using {{TI|Pink Bow|name=true}} will give her enough Run Speed to get away from Twisteds before losing most of her Stamina, though the capacity makes it used seldomly.
+
+Yatta's Passive can help a lot by providing a consistent source of Tapes from candy, as well as the candy itself providing benefits. However, your inventory could be filled up quite quickly, and even if it's with good drops like Box o' Chocolates, always save space for other useful Items like Bandages/Health Kits, escaping Items, and/or Valves.
+
+If playing with a 2 Star Stealth distractor, Yatta can afford to fill 1 or 2 slots with Stealth Candies, as she's easily able to recover heaps of decent Items to refill the slots with and will continue to generate Stealth Candies over time.
+
+Yatta's Colorful April [[Skin]] is slightly advantageous in a Spring Fever, as its tails can be used to gauge which effect Gumballs or a Jawbreaker have given the player under the color-altered conditions.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Yatta:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(19.3 walk speed)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Yatta to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}'''/'''{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 walk speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Friendship Bracelet|name=true}}''', to be able to sprint for longer periods without a speed debuff, though reliant on multiple alive players. Can take advantage of Yatta's Candy Item spawning, maintaining survivability of the team;
+***'''{{TI|Diary|name=true}}''', to support 2{{Star}} distractors without taking off Twisteds' aggro;
+****Only use this Trinket combination if your distractor has 2 Star Stealth.
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 2{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 2 Star [[Stealth]], or if you're solar distracting with a {{CI|Bobette|name=true}} lacking [[Diary]].
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her low Stamina and fast extraction; 
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+*'''{{TI|Bone|name=true}}/Options'''
+**This Trinket allows Yatta to take advantage of the candy she drops. Here are some other options to pair Bone with:
+***'''{{TI|Glazed Fondant Bag|name=true}}''', to make Yatta's candy duration time longer, as she can take advantage of it. She can also gain twice the speed if picking up a speed candy and using it at the same time;
+***'''{{TI|Feather Duster|name=true}}''', to easily regain Stamina, can be handy when in the need to escape a Twisted after being hit and low on Stamina;
+***'''{{TI|Whispering Flower|name=true}}''', to regenerate Stamina with the number of Items in your inventory, this can be handy along with her Passive [[Ability]].
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Yatta to take full advantage over her 5{{Star}} [[Extraction Speed]] {{Small|(1.5 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(19.91 avg/17.7 with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, supporting her 5 Star Extraction Speed and stacking with associated candy boosts;
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+==Dialogues==
+{{Yatta Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:BlotJrAbility.mp3|left|thumb]]
+|The sound that plays when Yatta's '''Piñata Party''' [[Ability]] gets activated.
+|}
+
+==Trivia==
+*Yatta is the first [[Toon]] featured in a thumbnail who is not running away from a [[Twisted]]. Instead, she is shown working on a [[Machine]], next to {{CI|Twisted Razzle & Dazzle|name=true}}.
+*Yatta was meant to be released in a later update but was released early as an apology for not finishing the optimized {{Type|Main}} [[Toons]]' models for the [[Changelog|v0.7.1]] update, except for [[Pebble]] and his {{CI|Twisted Pebble}} [[Twisted Pebble|Twisted counterpart]]'s optimized model.<ref>https://discord.com/channels/969934252844138496/970049062608961560/1344802320482959371</ref> It is likely her and {{CI|Blot|name=true}} were meant to release together as they are both Circus Troupe members and both their [[Introduction Cards]] were released alongside Blot.
+*Yatta is the first [[Toon]] to not have an [[Introduction Card]] at release due to her early launch. However it was later added in a reworked map.
+**She and {{CI|Brusha|name=true}} share this trait as well as:
+***Being female.
+***Having to travel less than 50,000 meters for their [[Masteries]].
+***Sharing a similar color scheme for their Halloween [[Skins]].
+*Yatta is part of a three-[[Toon]] circus act simply known as the '''Circus Troupe''', with her role being that of an acrobat. The other two members are [[Blot]] (a mime) and {{CI|Looey|name=true}} (a clown).
+*It is most likely that Yatta is {{wp|Hispanic}}, which would make her the first [[Toon]] to have a specified real-world ethnicity. This is because when making Yatta [[Qwel]] had researched Hispanic history.<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1350851131475103765</ref>
+**Yatta is based on the traditional 7-point piñata, which culturally symbolizes breaking free from sin and temptation<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1350850126771392612</ref> and is a staple of Hispanic culture.
+**Yatta was planned to say a line in Spanish upon being added to the game, but because of Roblox's automatic translations, the line could have been miscommunicated. Qwel thought it would be safer to wait until she can get a more official translations in the future before adding any other languages to characters.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1350852340160135178</ref>
+*Yatta crawls around through [[Gardenview]]'s ventilation system in order to get around, as proven in her interactions with {{CI|Shelly|name=true}}, {{CI|Toodles|name=true}}, and {{CI|Vee|name=true}}. Some [[Toons]] can hear her in the walls.
+**She also hides some candy in the vents, as seen in her interaction with [[Blot]].
+***She calls it her "SUPER SECRET candy stash" in her interaction with {{CI|Gigi|name=true}}.
+**Yatta is very flexible in her movement, which is how she is able to fit into the vents, as proven in her interaction with Vee.
+***This may parallel her 4{{Star}} [[Movement Speed]] and her role as an acrobat in the Circus Troupe.
+*Yatta is the second [[Toon]] to be released by herself, and the only {{Type|Common}} with this trait.
+*There is a bug where any candy dropped by Yatta can get stuck inside of walls, inside of the floor, on top of [[Machine]]s and other objects, or under objects.
+*According to an interaction with {{CI|Scraps|name=true}}, Yatta loves cats.
+*Yatta is the fifth non-[[Main Character]] with a 5 Star [[Stat]], and the third with 5 Star [[Extraction Speed]].
+*The strings on Yatta's back are tails, according to {{CI|Twisted Yatta|name=true}}'s description and seen in one of {{CI|Boxten|name=true}}'s interactions with [[Looey]].
+**They also appear to be prehensile, based on her Information Card and {{Skin|Guess What I Eat}}, where her tail(s) hold candy and forks respectively.
+*Yatta was the first [[Toon]] to have a [[Skin]] that can be earned through a [[code]], that being {{Skin|Colorful April}}.
+**The code used to obtain this Skin, "APRIL1", is a reference to the April Fools day and the Skin itself, as it had a tag mentioning "April 1".
+**The Skin was made available again on April Fools 2026, however, it was moved to [[Dyle's Store]] for 600 {{TI|Ichor|name=true}}.
+***In addition, the texture of the Skin was slightly changed, with the word "April" in the ribbon being replaced with symbols.
+**There were 2 other Skins Yatta could have gotten, with them being {{Skin|Guess What I Eat Yatta}} and {{Skin|[[Looey]] Color|#fcd86d,#8af276,#ba76f2}}.
+***Similar to how Guess What I Eat Yatta was added soon after, Looey Color Yatta will be added in a future update.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1356681712700096685</ref>
+****Looey Color would be the second Skin based off another [[Toon]], with the first being {{Skin|Berry Roll|toon=[[Cosmo]]}} & {{Skin|ChocoBerry|toon=[[Sprout]]}}.
+*****{{Skin|Gourd Guard|toon=[[Soulvester]]}} could also count, although there's no direct reference of {{CI|Gourdy|name=true}} and it could just be resembling a pumpkin.
+****Ironically, when Qwel was asking about color palettes for the Skin, the [[Looey]] color scheme was picked first.<ref>https://discord.com/channels/969934252844138496/999038660701859900/1353039155067883652</ref>
+*Yatta's extraction animation is a reference to [[Looey]]'s bugged extraction animation, which was later fixed. This bug had Looey bouncing up and down while working on a [[Machine]].
+*Yatta's name is derived from the word "Piñata" and the phrase "Yada yada".
+*Before the April Fool's update, there was a bug that made Yatta the only [[Toon]] with 20% [[Skill Check]] chance.
+**This has been fixed, and her Skill Check chance is now 25%.
+**This is the second time Skill Check chance wasn't consistent among Toons, with the first time being {{CI|Shrimpo|name=true}}, having a 50% Skill Check chance on release, and the third time being {{CI|Squirm|name=true}}, who had 30% chance.
+*Before [[Changelog|v0.8.4]], Yatta's text box was yellow instead of pink. It was changed to make it easier to see who is talking in her interactions with [[Looey]].<ref>https://discord.com/channels/969934252844138496/969934252844138499/1364346936479711312</ref>
+*Yatta is the most expensive [[Toon]] whose [[Twisted Yatta|Twisted counterpart]] is in the Common tier.
+**Additionally, she is the only Toon whose Twisted counterpart is in the Common tier to have three unlock requirements.
+***One of those requirements is 50% [[Research]] on her Twisted counterpart, making Yatta the first of the only Common Toons to require Research on their Twisted counterpart, with the second being [[Brusha]].
+**She is the first Common Toon to cost more than 1000 {{TI|Ichor|name=true}}.
+*It is likely that Yatta and {{CI|Goob|name=true}} are friends, due to them excitedly calling each other's names in both their interactions.
+**Additionally, she seems to like hugs as well, as seen in one of their interactions.
+*Yatta is the second [[Toon]] to have a unique number of Stars in each [[Stat]], with the first being [[Connie]], and the third being [[Blot]].
+*Yatta is the second [[Toon]] to have 2 different idles.
+*Yatta is slightly different compared to the other Circus Troupe members.
+**She is the only female.
+**Her requirements do not need another [[Toon]]'s [[Mastery]].
+**She requires [[Research]] on her [[Twisted Yatta|Twisted counterpart]] to be unlocked.
+**She does not wear any clothing.
+**Her Introduction Card did not release with her.
+**The update she was released in did not add any new [[Floors]].
+**She doesn't say "Womp womp" in her dialogues with other Toons (specifically [[Connie]]).
+**She is required for an [[Event Toon]]'s Mastery (being {{CI|Cocoa|name=true}}).
+*Yatta is one of the first non-[[Main Character]] [[Toons]] to get a [[Gamepass]] [[Skin]], with the other Toons being [[Blot]], [[Looey]], and [[Razzle & Dazzle]].
+*Yatta used to have the most Skins for a while, tying with [[Pebble]] in [[Changelog|v0.10]] and overtaking him in v0.11-v0.14, where she tied with him, along with [[Razzle & Dazzle]] and Shelly, before being deranked in v0.17.
+*Yatta speaks with almost all of the base game [[Toons]], with {{CI|Waxwell|name=true}} being the only exception.
+**Yatta doesn't speak with any of the [[Halloween Toons]].
+**Yatta talks with the second most [[Event Toons]] in the Circus Troupe.
+***She talks with {{CI|Coal|name=true}}, [[Cocoa]], and {{CI|Flyte|name=true}}; [[Looey]] talks with {{CI|Bassie|name=true}}, {{CI|Eclipse|name=true}}, Flyte, and {{CI|Rudie|name=true}}; and Blot only talks with Cocoa and Rudie.
+****She used to have the most until Looey got his interaction with Bassie in the [[2026 Easter Event]].
+*Yatta, along with [[Blot]], {{CI|Finn|name=true}} and [[Gigi]], are some of the only [[Toons]] to not have a full icon.
+**However, she could not be counted due to her full icon actually being shown, just with a [[Skin]].
+*Yatta used to need to travel the fewest meters in a [[Mastery]], being 45,000, until [[Brusha]] was added, who needs only 40,000 meters.
+**Yatta still needs to move the second lowest meters.
+*Yatta is one of four [[Toons]] to have a fan-made [[Skin]], hers being Choco Cones, the other three being {{Skin|Dapperly Festive|toon=[[Looey]]}}, {{Skin|Ebony Detective|toon=[[Rodger]]}}, and {{Skin|Special Spaghetti|toon=[[Goob]]}}.
+*Yatta had the best extraction stats as a non-[[Main Character]] [[Toon]], tying with [[Dazzle]], before being dethroned by [[Soulvester]], though she still has the best extraction out of the non-Main Character base game Toons.
+*Yatta, {{CI|Eclipse|name=true}}, and [[Goob]] are the only [[Toons]] to have sharp teeth.
+*After her release, 2 of her [[Skins]] were always released together in a month until November 2025, with the exception of August and October 2025, releasing 1 Skin.
+**{{Skin|Colorful April}} and {{Skin|Blossom Buddy}} released in April, and {{Skin|Show-Time}} and {{Skin|Guess What I Eat}} released in July. {{Skin|Choco Cones}} and {{Skin|Infected Candy}} were the only Skins to release in August and October 2025, respectively.
+**In fact, you could count March 2025, releasing her default Skin and Vintage Skin.
+*There is a small error on Yatta on the DANCE DANCE TOON arcade screen, where her feet are yellow instead of pink.
+*Yatta's color scheme somewhat matches the {{wp|Pansexual}} flag color palette.
+**Additionally, some of her [[Skins]] seem to match the colors of some pride flags (e.g. {{Skin|Blossom Buddy Yatta}} sharing similar colors to the {{wp|Transgender}} pride flag).
+***Yatta is '''NOT''' canonically {{wp|Queer}} however (as far as we know right now) as [[Qwel]] hasn't confirmed it, and is possibly just a coincidence.
+*The sound Yatta makes when dropping candy is the exact same as when [[Blot]] uses his [[Ability]].
+*In Yatta's interaction with [[Cocoa]], it was briefly implied that Yatta wanted to ''eat'' her, suggesting that Cocoa was made out of real chocolate.
+*Yatta coincidentally released on {{wp|Pi day}}, March 14.
+*Yatta is designation ''SC-019'', with the '''SC''' standing for Side Character.<ref>[[File:Yatta Card.jpeg|200px]]</ref>
+**She is the first [[Toon]] to have a confirmed designation while not having a room in [[Roleplay Mode]], with her designation revealed in a real life event. The second Toon to do so is [[Cosmo]], with his revealed in {{CI|Bobette|name=true}}'s [[gossip]] about him.
+*Yatta is the first Common [[Toon]] to be featured in a game icon, she is additionally the only one to be featured without a [[Skin]] and for it to not be a [[Toon of the Week]] icon.
+*Yatta did not receive any [[Skins]] during the [[2025 Christmas Event]] due to [[Qwel]]'s decision to put a halt on making Skins for her for some time. This decision was made because Yatta already has many Skins.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1449832795949236394</ref>
+**This is the second instance where an optimized [[Toon]] didn't receive any Skins during an [[Event]], with the first being [[Razzle & Dazzle]] during the [[2025 Halloween Event]].
+*Yatta does not get any ill effects from eating candy for some unknown reason, according to a gossip from [[Dandy]].
+*Yatta is the first [[Toon]] to be able to drop [[Items]], with [[Bassie]] and [[Cocoa]] being second.
+**She is the only one to:
+***Drop Items in certain conditions.
+***Passively drop Items rather than from an active input.
+***Drop multiple Items at a time.
+***Not be released in the [[2025 Easter Event]].
+***Not be able to choose the dropped Item(s), with it being randomized.
+*Yatta's [[Ability]] sound is shared with the [[Trick or Treat Door]]'s "Candy" and "Happy Halloween" Treats.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

@@ -1,0 +1,224 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#A2745B,#9C5D3E,#766FD1,#FFCDF5,#A0E89E); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1=Bassie Bloomington
+|image1=<gallery>
+Bassie Render.png|Render
+Bassie Full Render.png|Full Render
+Bassie Icon.png|Icon
+Bassie Full Icon.png|Full Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|1}}
+|movement_speed={{StatComp|Move|5}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|4}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Bassie|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can drop items from her inventory, sharing them with other Toons.
+|ability_2={{Center|'''Easter Basket'''<br>{{Small|''(Passive)''}}}}<br>This Toon's basket provides her with an extra inventory slot for carrying 1 extra item.
+|requirement_1={{Currency|Baskets|3000}}
+|requirement_2={{Currency|Ichor|2500}}
+|requirement_3={{Currency|Research|100% Research}} on {{CI|Twisted Bassie|name=true}}
+|skins=*Default
+*Vintage
+*Belle Basket
+*Egg Hunting
+*Golden Basket
+*Spring-Time
+*Sunflower Patch
+|gender=Female
+|pronouns=She/Her
+|release_date=4/18/2025
+}}
+{{DialogueQuote|Bassie|<choose uncached><option>Hello... Let me know how I can help...!</option><option>Right, a Toon License... take a look.</option><option>Changing your look? That sounds nice...!</option></choose>|Dialogue in [[Bassie's Shop]]}}
+
+{{ToonInfo|type=Event Main|Toon=Bassie|extra=Bloomington|Date=April 18, 2025|with={{CI|Cocoa|name=true}}, {{CI|Eggson|name=true}}, and {{CI|Flyte|name=true}}|Pronoun=She|event=Easter|store=Bassie's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Bassie is a light brown wicker basket with two darker brown handles on each side, along with two eyelashes underneath her eyes as her mouth is formed into a small, cat-like smile. The inside of her head is decorated to the brim with pressed flowers that appear to be purple and pink with yellow pistils, donning green and lighter green leaves sprouting outside. She wears a purple tank-top with a bell-shaped skirt that appears to be made out of four pink flower petals. Finally, she wears green and light green striped stirrup socks.
+|-|Vintage=
+Vintage Bassie is gray colored with darker gray handles and she has eyes pie-cut on the left. Her tank top, pistils, and purple flowers are light gray, while her pink flowers and skirt are black. Her green parts are a light gray similar to her formerly purple parts but slightly darker. Her light green parts are dark gray similarly to her handles but slightly lighter.
+|-|Belle Basket=
+Belle Basket Bassie is a more beige color with three white freckles on her cheeks. The purple flowers are recolored light blue and the pink ones white, while their pistils are a slightly darker blue. Her skirt, with an additional, shorter blue petal layer over it, now appears as a dress, being white like the upper half with long, saggy bell sleeves that poke through a light blue vest.
+|-|Egg Hunting=
+Egg Hunting Bassie is lighter brown with reddish-brown handles and round cheeks. She has more leaves in her head and which now colored pastel green, along with six pastel eggs painted in three different patterns, two of which are pink with a yellow zig-zag stripe, another yellow with a pink zig-zag stripe, and the other two pink with two yellow horizontal lines. She wears a sleeveless cloth striped with pastel yellow, pastel pink, and pastel green and has white scallops around the armholes. She wears a bluish-purple dress with white, rounded flaps on the hemline, along with darker stitches slightly above the hemline and a darker pocket with lighter stitches on its uppermost side. She wears a bluish-purple backpack with darker stitching around it, a reddish-brown bottom part without stitching, and a bluish-purple pocket with a lighter-stitched dark flap that has a light yellow button in the center with dark stitches forming an "X” shape. The backpack also has a light pink "B" on the upper half, has darker straps with buttons like the flaps, and is dark around the sides. Her stirrup socks are now colored with a pattern like her cloths. She produces leaf particles similar to the ones in her head that appear to jump out from it, and she also produces small, white, star-like particles from her head and torso.
+|-|Golden Basket=
+Golden Basket Bassie is a more orangish shade along with her darker handles and has three white freckles on her cheeks. She has red eyelids with red eyeshadow being shiny with lighter lines, and they form a sleepy expression. All her flowers are yellow with red pistils and her leaves are a darker golden shade, like the crown, which is placed on the right of her head, and has six points, a red oval ornamenting each. She wears three golden leaves made on her back appearing cape-like and is held together by a yellow flower on the front. She wears a dress composed of a red bodice and a white skirt with a lighter red layer on the upper half as part of the pattern. She also has a golden waistband with lighter lines that make it appear shiny like her eyeshadow, and she also wears two shiny, golden bracelets similar in appearance. The light yellow replaces the darker green on the stirrup socks and the golden yellow replaces the lighter green on them.
+|-|Spring-Time=
+[[Spring-Time Cosmetic Pack|Spring-Time]] Bassie is a tanner brown shade with burnt orange handles, lighter cheeks that have three white freckles, and reddish lipstick beneath her mouth. She wears a curved, Victorian-esque bonnet with white petal-like ends and a pink gingham pattern, bound to her head by a pink band with two similarly patterned leaf-shaped tails. The inside of her head is filled with sage green, four-leaved clovers with a lighter cross on the centers and two curled vines on the sides of her head. She wears white, scalloped gloves with two light pink stitches and also has short, white puffy sleeves attached to a sage green shirt with lighter vertical stripes. There are four white straps attached to a white waistline which holds a pink gingham skirt. The skirt has white, rounded flaps on the hemline and a scalloped apron, decorated with a light pink heart with a darker outline in the center. Her pants are sage green and striped like her shirt and she wears white shoes with pink collars and crescentic gaps on the vamps. She produces semi-visible pink and purple flowers with yellow pistils and green stems that sprout around her and disappear quickly as well as tiny, greenish, pollen-like specks from her torso. When moving, a transparent trail of flowers and leaves colored with a green to pink gradient expands and then fades away.
+|-|Sunflower Patch=
+Sunflower Patch Bassie is a yellowish-orange shade of brown with darker handles and round cheeks that are a similar, albeit slightly lighter color. Her head has more leaves which are now colored like green, and the pressed flowers are replaced with four amber-colored, eight-petalled sunflowers, each with a lighter shade on the tips and a brown center with three lighter dots. Her dress is made up of long, yellow sleeves that fade into amber at the jagged cuffs, a notched, amber bodice exposing a lime green cloth underneath, a green waistband, and eight yellow petals with amber tips for the skirt. Her stirrup socks are brown with three lighter dots above the left knee and on the right foot. She also wears two green bracelets on both of her legs.
+</tabber>
+
+==Personality==
+Bassie is a shy and timid [[Toon]], being apparent at first glance due to the fact she fidgets during her idle animation. She also feels envy towards {{CI|Cocoa|name=true}}, who is the fan favorite and who is the better picking for the Easter {{Type|Main}} class, as said by {{CI|Delilah Keen|name=true}} in a note to {{CI|Arthur|name=true}}. However, she does not hate Cocoa, as shown in "[[Wilting]]," where she is seen hugging her and possibly creating a gift for her. In Bassie's interactions with Cocoa, as well as the [[Gossip]] about her, she instead acts anxious and envious, with no real apparent hatred. In her Gossip about {{CI|Shrimpo|name=true}}, she expresses care and protectiveness over all of the other [[Easter Toons]], referring to them as "friends." There does come a breaking point however, when she discovers the sheer amount of Cocoa plushies that were created, which are usually reserved for Main Characters. This combines with her already negative mindset, leading to a peak of rage mixed with sadness, eventually becoming {{CI|Twisted Bassie}}[[Twisted Bassie|Twisted]].
+
+In her dialogues, she is seen laughing uncontrollably whenever she feels like she is not keeping up with others' expectations of her, which often makes other Toons feel uncomfortable or weirded out. As also seen in her dialogues, Bassie constantly compares herself to the other "Main" friends, saying how she hopes to be kind as {{CI|Sprout|name=true}} and intelligent as {{CI|Vee|name=true}}, as she possibly has a fear of being replaced. This is because she knows that if anyone were to replace her, it'd be Cocoa, further hinted at in Bassie's interaction with {{CI|Bobette|name=true}}.
+
+Bassie is also known to be quite animated and defensive when confronted with certain matters, such as in her dialogue with {{CI|Astro|name=true}}. She apologizes for raising her voice after doing so, showing that she doesn't mean to come off as rude or blunt; however, it's something she cannot help.
+
+As in seen in her descending & [[Machine]] completion dialogues, as well as her Gossips about {{CI|Gigi|name=true}} and {{CI|Pebble|name=true}}, she tries to be as helpful as possible. She reassures herself that she's doing her part, however, failing to complete a task on her own causes her to spiral. Bassie does have the ability to stand by her own opinions however, such as refusing {{CI|Flutter|name=true}}'s request to tell {{CI|Flyte|name=true}} not to worry so much about her, believing it's a family matter.
+
+Bassie also has a high level of social anxiety, which usually causes her to lose control or make mistakes. Her social anxiety makes her come off as cold and she sometimes laughs uncontrollably. This anxiety also causes her to worry a lot, and she tries to keep herself controlled, though underneath there is too much pressure.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 120 times|Reach [[Floor]] 20|Travel 160000 Meters|Finish 110 [[Machines]]|Survive 65 Floors|Use 130 [[Items]]}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|you can quickly spam the Ability if you are safe. Bassie's Ability has no cooldown, which allows this quest to be easily completed even if you don't have any Items in your inventory}}|{{MastStrat|second and fifth|Reach/do floors}}|{{MastStrat|third|Meters}}|{{MastStrat|fourth|Machine}}|{{MastStrat|sixth|Collect and use|Use}}}}
+==Requirement Strategies==
+*For the first and second requirements, focus on picking up [[Research Capsule]]/[[Basket]] and extracting [[Machine]]. The Machine, Capsule and Basket count increases the further you descend, so you can earn more [[Ichor]] and Baskets.
+*For the third requirement, ask a Distractor [[Toon]] to bring {{CI|Twisted Bassie|name=true}} to you, so you can get her to aggro on you. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Bassie is on the [[Daily Twisted Board]].
+
+==Golden Skin [[Quest]]==
+{{GQ|Encounter {{CI|Twisted Bassie|name=true}} '''{{Color|10|#93f525}}''' times as Bassie.}}
+{{GQ|Complete '''{{Color|[[Floor]] 20|#93f525}}''' as Bassie with {{TI|Whispering Flower|name=true}} [[Trinket]] equipped.}}
+{{GQ|Experience the [[Spring Fever]] [[Floor Events|Event]] '''{{Color|15|#93f525}}''' times as Bassie.}}
+
+Reward: {{Skin|Golden Basket Bassie}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Easter Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', try going towards Floor 20+, since Twisted Bassie is guaranteed to spawn every [[Floor]] that is a multiple of 20, not to mention Twisted Bassie being able to spawn before Floor 20 too. You can play with a distractor such as {{CI|Looey|name=true}} or {{CI|Eclipse|name=true}} to make the progression easier and to let them bring Twisted Bassie to the elevator for the encounter, though despite the difficulty you can still do this solo.
+*'''For the second quest''', you should find a team with good players and play, or you can have a few friends carry you. If you plan on helping with extracting, or if you plan on going solo, equip Trinkets like {{TI|Mime Makeup|name=true}} to minimize the risk of any loose Twisteds coming after you.
+*'''For the third quest''', you can just join a run, but refrain from voting the {{CDI|Air Freshener|name=true}} Card, instead go for {{CDI|Piping Tape|name=true}} and the {{CDI|Electrician|name=true}} Cards, as they would heighten the chance for [[Spring Fever]] Floors.
+
+==Strategies==
+At first glance, Bassie seems to fit into the role of a distractor, having maximum [[Movement Speed]] and very high [[Stamina]]. However, because of her unique [[Abilities]] and 4{{Star}} [[Stealth]], she is best played as a survivalist/support [[Toon]] rather than a pure distractor. With that said, she may fit into the role of a backup distractor depending on your team's average Stealth and how experienced they are. She makes an extremely good survivalist due to her superior mobility stats, Stealth, and additional [[Item]] slot.
+
+Due to Bassie's abysmal Extraction Speed and Skill Check stats, it is recommended to mostly avoid [[Machines]] and instead use her excellent survivability for your team's benefit. However, if there are any [[Treadmill Machines]], Bassie is one of the best extractors for them, due to her extremely potent mobility Stats. She can also help with Duo Machines, though preferably only if you are good at hitting her tiny [[Skill Checks]], as her below average [[Extraction Speed]] would be combined with another [[Toon]]'s Extraction Speed, together totaling to a great minimum about the equivalent of 5 Stars or more.
+
+Because of her Abilities that grant four inventory slots and enable her to drop Items without penalty, Bassie is an amazing team supporter and offers new ways for Toons to approach Floors. This is primarily done by storing Items for future Floors, or helping out fellow Toons by gifting them important Items such as {{II|Box o' Chocolates|name=false|plural=a}}, {{II|Health Kit|name=false}}s, or {{II|Smoke Bomb|name=false}}s.
+
+It's beneficial to give [[Toons]] Items that aid with their weaknesses, such as giving {{CI|Rodger|name=true}} a {{II|Speed Candy|name=false}}, or collecting 'worthless' Items for a {{CI|Sprout|name=true}}/{{CI|Ginger|name=true}} to get more {{Tape|name=true}}. Furthermore, a strategy is to gather all Items on the Floor and leave them at certain locations, such as leaving {{II|Skill Check Candy|name=false|plural=a}} and {{II|Extraction Speed Candy|name=false|plural=a}} next to incomplete Machines, and leaving all other Items nearby the Elevator for others to grab during [[Panic Mode]]. Additionally, if {{CI|Twisted Gigi|name=true}} is on the [[Floor]], you can either drop your valuable Items in a safe spot or simply in front of the [[Elevator]] to avoid them being taken, though you either need Twisted Gigi occupied or your Items guarded due to her ability to take Items off the floor, rearrange them to let least valuable Items go first, or embrace it and act as delivery for any lost Items, maybe even transport Items between Toons more conveniently.
+
+Stamina, Speed, and survival Items should be dropped in the loops/in front of struggling Toons/distractors, especially if they use an Item, freeing up space. They should also be provided to low-mobility Toons after they escape, as they may need more immediately afterwards. Leave any extras near the Elevator so Toons can reach them in time. You can also put these near Treadmill Machines so Toons can finish them faster.
+
+As for heals, Bassie should be used to deliver {{II|Bandage|name=false}}s and Health Kits to distractors so they don't have to leave their loops. She acts as storage for these, similarly to Cosmo, even if she can't "split" Health Kits. She should always buy heals when able. Generally, Bassie should prioritize Bandages and Cosmo should prioritize Health Kits if either of the Toons are present, but making them split these Items makes access to healing Items more efficient for your teammates, so try not to let one of them hog all of the healing Items. When in doubt, Bassie can always drop them for Cosmo later, can pick them up faster, and can hold onto more Items safely, so she can function as their second inventory.
+
+Extraction Items can be delivered to Toons you notice working on Machines (especially if they free up space) or held onto if you intend to work on Machines yourself. {{II|Jumper Cable|name=false}}s and {{II|Valve|name=false}}s can be used yourself, as they offer the same value no matter who uses them. In fact, you can sprint to a Machine near a distractor and use them there so Toons don't need to go there/stay there for less time.
+
+Due to her Ability synergizing with Trinkets related to picking up Items, Bassie has the potential to become very mobile, as she can constantly drop and pick up Items in order to activate either {{TI|Bone|name=true}}'s 25% Movement Speed bonus or {{TI|Feather Duster|name=true}}'s 20 Stamina unit regeneration. Bone's increase has the potential to make her one of the fastest Toons in the game, outpacing even the likes of {{CI|Looey|name=true}} at 1{{Heart}} or {{CI|Eclipse|name=true}} in a [[Blackout]] with really good timing, as picking up too often (yet also not often enough) can drop your speed boost down to 6.7%. Feather Duster can basically give Bassie infinite Stamina, but this is of course once again dependent on timing. Overall, doing this can require a lot of focus, so try to practice before using these techniques in a proper run.
+
+Bassie is incredible at support and survival, with a strong emphasis on team gameplay. She is a great choice if you can stay on top of supporting and communicating with teammates. Being able to adapt practically any Item into being useful by giving it to the right Toon.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended Trinket combinations for Bassie:
+
+====Mobility====
+*'''{{TI|Bone|name=true}} and {{TI|Feather Duster|name=true}}/Any'''
+**With these Trinkets, by dropping and picking up [[Items]] quickly, Bassie gains extraordinary amounts of speed. This combination is often used to distract as Bassie, though it's only recommended in specific teams that have [[Toons]] with higher [[Stealth]].
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket alone allows Bassie to outwalk anything besides {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Glisten|name=true}} when enraged, {{CI|Twisted Coal|name=true}} when a [[Blackout]] is present, and some others {{Small|(22 walk speed)}}. It's also an alternative to Bone and Feather Duster if one does not have the ability to constantly pick up Items to gain speed easily. Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve walk speed, more preferable for those new to distracting as Bassie {{Small|(23.1 walk speed)}};
+***'''{{TI|Feather Duster|name=true}}''', to further improve stamina management if you do not have Bone, more preferable when against fast [[Twisteds]] like {{CI|Twisted Pebble|name=true}} for those new to distracting as Bassie;
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to also out-walk before Panic Mode Twisted Glisten, Twisted Pebble, and Twisted Vee when you are inflicted with the {{Debuff|Slow|II}} [[Debuff]] when active {{Small|(24.2 walk/33 run speed)}}. Also good if you plan on duo-distracting;
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract;
+***'''{{TI|Vanity Mirror|name=true}}''', to more easily and safely gather any secret stashed items during Panic Mode {{Small|(39 run speed)}};
+****This is only recommended if you have unorganized teammates and must stash your items far away from the Elevator;
+***'''{{TI|Scrapbook|name=true}}''', to avoid other 4{{Star}} [[Stealth]] Toons taking away the Twisteds' aggro;
+****Do note that this Trinket will not lower your Stealth enough to be able to distract around 3 Star Stealth and below [[Toons]].
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*The following Trinkets help Bassie deal with her main deficiency, that being her 1{{Star}} [[Skill Check]] and 2 Star [[Extraction Speed]]:
+**'''{{TI|Vee's Remote|name=true}}''', to instantly complete Machines in dangerous locations, such as dead ends and open areas;
+**'''{{TI|Mime Makeup|name=true}}''', to more safely extract by removing the danger of missing Skill Checks;
+**'''{{TI|Thinking Cap|name=true}}''', to increase Skill Check Size, helping to fail less Skill Checks, though Mime Makeup can be more beneficial in some cases;
+*If the player has no issues with small Skill Checks, they may consider using '''{{TI|Magnifying Glass|name=true}}''' or '''{{TI|Participation Award|name=true}}''' to help with [[Machine]] extraction more easily, even if the Skill Check window is far smaller. Though, do note that if the player has lag/missing frames, they may want to consider other Trinkets for team progression, as Bassie is typically better with Treadmill Machines.
+**Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Support====
+*'''{{TI|Dandy Plush|name=true}}''', to allow Bassie to stock up on important Items earlier and continuously for half the cost so they can be shared with her teammates;
+*'''{{TI|Memory Locket|name=true}}''', to help Bassie find and store healing Items for her team.
+'''Note: Do not use {{TI|Sweet Charm|name=true}} or {{TI|Ghost Snakes In A Can|name=true}} on Bassie, as they do not lower her cooldown. Additionally, {{TI|Peppermint Icing|name=true}} does not work with her Ability.'''
+
+==Dialogues==
+{{Bassie Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:BassieActiveAbility.mp3|left|thumb]]
+|The sound that plays when Bassie activates her {{AI|Bassie|name=true}} [[Ability]]
+|-
+![[File:BassieAbilityUsed.mp3|left|thumb]]
+|The sound that plays when Bassie places down an item
+|-
+![[File:BassieTalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Bassie's head {{Small|(Sped-up in-game)}}
+|}
+
+==Trivia==
+*Bassie is the third {{Type|Main}} to have the requirement of reaching [[Floor]] 20 for her [[Mastery]], the previous two being {{CI|Pebble|name=true}} and {{CI|Bobette|name=true}}.
+*Upon release, Bassie's Active [[Ability]] was labeled as a ''Passive Ability''. This was later changed because a [[Main Character]] [[Toon]] should only have one Passive Ability.
+**This made Bassie the first Main Character (and Toon in general) to have 2 Passive Abilities.
+*Bassie is the only [[Event]] {{Type|Main}} [[Toon]] who never had 5{{Star}} in more than one [[Stat]] upon being added in game. {{CI|Gourdy|name=true}} has permanent 5 Stars in two Stats and [[Bobette]] formerly had 5 Stars in two Stats before having 1 Star from her [[Skill Check]] moved to [[Movement Speed]].
+*Bassie's name could possibly be a portmanteau of the word "Basket" and the name "Cassie" or "Bessie".
+*According to her dialogue with {{CI|Glisten|name=true}}, Bassie's favorite flowers are tulips, hyacinths, and lily flowers.
+**Coincidentally, they are all toxic to bunnies, which could reflect Bassie's negative relationship with {{CI|Cocoa|name=true}}, though this may be unintentional.
+**Additionally, yellow hyacinths are known to represent jealousy, envy, and contempt which may represent Bassie's complicated feelings.
+*Bassie's friends appear to be {{CI|Flyte|name=true}}, {{CI|Shelly|name=true}}, {{CI|Eggson|name=true}}, and possibly [[Glisten]], based on her interactions or Gossips.
+**Her relationship with [[Cocoa]] is one-sided, Bassie herself has a very conflicted perspective, seemingly not viewing her as a friend and instead a rival.
+**Additionally, there is a common misconception that Bassie "hates" Cocoa, this concept being false. This is enforced by Bassie treating Cocoa kindly with actions such as hugs in the "[[Wilting]]" music video, and not showing any major signs of aggression until the final conclusion. Bassie simply feels an intense jealousy towards Cocoa that drives her to act beyond what she can control.
+*Bassie is the first [[Toon]] to have an Active [[Ability]] with no cooldown.
+**By spamming the Active Ability button, you would already have completed one of her 6 [[Mastery]] quests, along with granting an immediate 5 {{TI|Ichor|name=true}} upon use every floor.
+**She is also the first [[Toon]] who doesn't speak when using their Active Ability.
+*Bassie's [[Ability]] does not work with {{TI|Peppermint Icing|name=true}} likely because her Ability does not have a cooldown.
+*Bassie is the second [[Holiday Toon]] to cost {{TI|Ichor|name=true}}, the first being [[Bobette]], and the third being [[Gourdy]].
+**This is likely because the three are [[Event]] [[Main]] [[Toons]], and their requirements are the same: 3000 of their respective Event's [[Currency]], 2500 [[Ichor]], and 100% [[Research]] on their [[Twisted]] counterparts.
+*Bassie is the third [[Toon]] to have 1 Star Skill Check, the first being {{CI|Shrimpo|name=true}}, the second being {{CI|Cosmo|name=true}}, and the fourth being {{CI|Blot|name=true}}.
+*Bassie may be afraid of being replaced by [[Cocoa]] being the {{HT|Easter}} {{Type|Main}}, foreshadowed by one of her interactions with [[Bobette]], and the [[Notes#Delilah Keen|note]] from [[Delilah]] found on the [[Easter Floor]].
+**The reason for this is likely because Cocoa is a lot more social, confident and outgoing, making her more appealing to the kids at [[Gardenview]].
+**This is very likely referenced with the release of her official plush, being released alongside a Cocoa plush. Additionally, in a promo image for the plushies on the merch site, the Cocoa plush is front and center, while the Bassie plush is off to the side.
+**Coincidentally, Bassie shares many similarities with Cocoa. They both have 4 Star Stealth and 2 Star Extraction Speed, along with [[Abilities]] involving dropping [[Items]]. They are both brown and 2 eyelashes on the underside of their eyes. They have similarly shaped mouths, though with Cocoa's appearing more like a squiggly smile, while Bassie's looks more cat or even rabbit-like. Bassie's handles could also somewhat resemble bunny ears. This however may be unintentional.
+***It is also unknown if Bassie can lift her handles up to that extent on her own.
+*Upon release, Bassie's [[Statistics|Skill Check]] size looked roughly 4 Stars, due to her having 135 Skill Check size for no reason. This was later fixed.
+*Currently, Bassie, [[Pebble]], and {{CI|Waxwell|name=true}} are the only [[Toons]] to have 5 Star [[Movement Speed]], if not counting {{CI|Razzle & Dazzle|name=true}} on odd floors.
+**The former two, alongside the other Holiday [[Main Characters]], are the only Main Characters to not have a [[Toon Handler]].
+**Bassie is the only Toon with this Stat Star value to:
+***Be an [[Event Toon]].
+***Be female.
+***Have above average [[Stealth]].
+***Have below average [[Skill Check]].
+***Not have an [[Ability]] with a 60 second cooldown.
+*According to her interaction with {{CI|Gigi|name=true}}, Bassie collects pressed flowers. Pressing flowers is a hobby of hers, based on her interaction and [[Gossip]] about [[Flyte]] and the fact she carries pressed flowers in her head.
+*In [[Bassie's Shop]], if the player has purchased a Toon License for every [[Easter Toon]] but her, her smile turns into a sad frown. But if you buy her after that, she gets confused, then happy again.
+*Bassie's plushie looks slightly different compared to her main model. The green socks she wears is missing on her plushie's model.
+*Despite {{TI|Fishing Rod|name=true}} before [[Changelog|v0.22.1]] saying it gave 3 random [[Items]], it gave Bassie 4 Items due to her Passive [[Ability]].
+*According to her dialogue with {{CI|Brightney|name=true}}, Bassie may be afraid of the dark.
+*Bassie has 2 different idle animations, one where she touches her basket handle, and another where she brushes off her skirt, similar to [[Bobette]].
+**This makes her the third [[Toon]] to have 2 idles. The first being [[Glisten]], the second being {{CI|Yatta|name=true}}, and the fourth being [[Blot]].
+*Currently, Bassie and [[Blot]] are the second slowest extractors in the game, with [[Shrimpo]] being the slowest.
+*Bassie's last name is Bloomington, confirmed by [[Qwel]] in a stream on June 14, 2025.
+**She was the first [[Event Main Character]] to have their last name revealed.
+*Bassie is the sixth [[Toon]] to have them and their {{CI|Twisted Bassie}}[[Twisted Bassie|Twisted counterpart]] be in 2 separate thumbnails that were at one point used, with {{CI|Razzle & Dazzle|name=true}} & {{CI|Blot|name=true}} being first, {{CI|Sprout|name=true}} & [[Pebble]] being second, [[Shelly]] being third, {{CI|Gourdy|name=true}} being fourth, {{CI|Coal|name=true}} being fifth, {{CI|Goob|name=true}} being seventh, {{CI|Squirm|name=true}} being eighth, {{CI|Brusha|name=true}} being ninth if counting her {{Skin|Messy Canvas}} [[Skin]], {{CI|Ribecca|name=true}} being tenth if counting her {{Skin|QoM|toon=Ribecca}} [[Skin]], and eleventh being {{CI|Dandy|name=true}}.
+**If counting unused thumbnails, [[Brightney]] would be the actual sixth.
+*For some reason, the walking animations for {{Skin|Sunflower Patch}}, {{Skin|Egg Hunting}}, and {{Skin|Spring-Time}} are slower than Bassie's other [[Skins]]. Her arms also swing in a more lively way in her running animation. This might be a bug in-game.
+**This appears to be a trend with [[Event]] [[Main Characters]] or just general reruns, as [[Bobette]]'s Skins added in the [[2025 Christmas Event]] (with the exception of her {{Skin|Hot Chocolate}} Skin) alter her animations somewhat.
+*Bassie is the only [[Event]] [[Main]] [[Toon]] with a public full Icon.
+*Bassie, like [[Gourdy]] and [[Bobette]], has her own holiday-related song, that being [[Wilting]].
+**This song also reveals that Bassie has an official voice actor, which is OR30.
+***This makes her the second [[Toon]], alongside [[Cocoa]], to have an official voice actor, the first three being the [[Christmas Toons]] (excluding [[Coal]]).
+*Bassie is the fourth [[Toon]] who uses their head to store or contain something, being pressed flowers she collects.
+*Currently, Bassie and [[Gourdy]] are the only two {{Type|Main}} [[Toons]] that don't have an interaction with each other. It is unknown if they will have interaction dialogues.
+**This may also be because she is possibly scared of Gourdy, due to being a child and a Main Character, with her possibly having a negative mindset about herself being worse than a child.
+***This also applies to [[Coal]] and {{CI|Cocoa|name=true}} (with {{CI|Eclipse|name=true}}), [[Flyte]] and {{CI|Ginger|name=true}} (with {{CI|Soulvester|name=true}}), with them possibly being afraid to interact with them due to being Halloween Toons.
+*Bassie may have a negative opinion of [[Dandy]] based on her [[Gossip]] about him, where she openly makes a rude comment in reference to him.
+**She could share this trait with {{CI|Vee|name=true}}, though not to the same extent, as well as a lack of known mutual dislike.
+**However, this could've just been due to a lack of social awareness and bluntness, with her intention not being to insult him.
+*Bassie still keeps her fourth inventory slot when she gets a non-[[Dandy]] mask in the [[Haunted Gala]], likely due to the complications of having that extra slot disappear.
+*Bassie, alongside [[Bobette]], are the first Holiday Toons to have a dialogue with the Halloween Toons whose rarities are dissimilar from each other.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Easter Event]]
+[[Category:NPC]]

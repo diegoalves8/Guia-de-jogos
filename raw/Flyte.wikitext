@@ -1,0 +1,166 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#008B8B,#B4FCFF,#B4fCFF,#FFACE3,#FFACE3); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Flyte Render.png|Render
+Flyte Full Render.png|Full Render
+Flyte Icon.png|Icon
+Flyte Information Card Artwork.png|Information Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|4}}
+|ability_1={{Center|{{AI|Flyte|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon places a 'Gust' at Flyte's location that lasts for 10 seconds. Any Toon that walks into the Gust receives a 15% Movement Speed boost while in the Gust and for 3 seconds after leaving. Has a cooldown of 50 seconds.
+|requirement_1={{Currency|Baskets|700}}
+|requirement_2={{Currency|Research|50% Research}} on {{CI|Twisted Flyte|name=true}}
+|skins=*Vintage
+*Spring Sky
+*Golden Wings
+*Luna Moth
+*Spring-Time
+|gender=Male
+|pronouns=He/Him
+|release_date=4/18/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Flyte|extra=Butterfly|Date=April 18, 2025|with={{CI|Bassie|name=true}}, {{CI|Cocoa|name=true}}, and {{CI|Eggson|name=true}}|Pronoun=He|event=Easter|store=Bassie's}}
+
+==Appearance==
+Flyte is a tall butterfly, tall enough to be the tallest of all the [[Toons]]. He has pastel cyan skin and a head shaped like an upside-down teardrop or egg. Atop his head, he has two antennae that end in dark cyan clovers. He wears pink makeup under his eyelids and a long, dark cyan cloak which is the same color as his antennae. He sports pink fluff around his neck, and pastel pink wings with a sharp structure. Each wing has clover markings of a darker shade of pink on them on the upper halves. He has no visible arms or mouth. Flyte chooses to walk on foot instead of flying, but he can indeed fly, being much more obvious with {{CI|Twisted Flyte}}[[Twisted Flyte|his Twisted counterpart]], and eventually fully confirmed as of the music video for "[[Wilting]]" (as he is shown flying to grab a crate filled with eggs in one of the scenes).
+
+==Personality==
+Flyte is portrayed as an outgoing, caring, down to earth and friendly [[Toon]] who frequently checks up on the others to make sure they are okay. However, when some check up on him to see if he's okay or simply ask him certain questions, he tries to change the conversation. Much like a stereotypical older brother, he loves and cares deeply for his little sister {{CI|Flutter|name=true}}, but his worrying for her annoys her, and she gets frustrated whenever he tries to convince her to give her wings a break, which in turn leads to her teasing him for not using his own. The sibling-like bickering is practically at a very little amount, so they predominantly love and care about each other. Befitting his guardian-like nature, his protectiveness extends beyond his sister, as he actively looks out for Toons such as {{CI|Cocoa|name=true}} and {{CI|Rodger|name=true}}, trying to make sure that they don't get hurt.
+
+The descriptions of some of his [[UGC Items]] state that he has a snarky attitude, but such a side of him has never been displayed anywhere (with the possible exception of him and his sister talking about how much he flies compared to her).
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 85 times|Reach [[Floor]] 12|Survive 5 Floors with {{CI|Flutter|name=true}} in your round|Finish 60 [[Machines]]|Survive 45 Floors|Travel 90000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active}}|{{MastStrat|second and fifth|Reach/do floors}}|{{MastStrat|third|Toon in run|{{CI|Flutter|name=true}}}}|{{MastStrat|fourth|Machine}}|{{MastStrat|sixth|Meters}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Baskets|name=true}} and extracting [[Machines]]. The Machine and Basket count increases the further you descend, so you can earn more Baskets.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Flyte|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Flyte is on the [[Daily Twisted Board]].
+
+==Golden Skin [[Quests]]==
+{{GQ|Encounter {{CI|Twisted Flyte|name=true}} {{Color|10|#93f525}} times as Flyte.}}
+{{GQ|Complete {{Color|[[Floor]] 20|#93f525}} as Flyte.}}
+{{GQ|Use Flyte's [[ability]] to support other [[Toons]] {{Color|50|#93f525}} times.}}
+
+Reward: {{Skin|Golden Wings Flyte}} [[Skin]] {{Small|''(Exclusively obtainable while the [[Easter Event]] is active)''}}
+
+===Golden Skin Strategies===
+*'''For the first quest''', play normally until you see {{CI|Twisted Flyte|name=true}} on the [[Floor]]. Then, either encounter him normally or ask the distractor to bring Twisted Flyte to the Elevator. It is easier to do this when he's on the [[Daily Twisted Board]]. Additionally, you should only play until around Floors 5-10, as those are when {{Type|Uncommon}} Twisteds are the most common.
+*'''For the second quest''', you should do a run with a good distractor or have friends that are willing to carry you. Once you reach Floor 21, you may leave if you want. Use survival Trinkets like {{TI|Dog Plush|name=true}} to help you, or use {{TI|Vee's Remote|name=true}} to quicken Floor progression.
+*'''For the third quest''', put down a gust and ask people to run through it. If you can't say that to them, make them do it subconsciously by putting it in useful spots like near the [[Elevator]] or next to the distractor.
+
+==Strategies==
+Flyte is an excellent All-Rounder [[Toon]] with 4{{Star}} [[Movement Speed]], 3 Star [[Stealth]], and 4 Star [[Extraction Speed]]. His [[Ability]], {{AI|Flyte|name=true}}, is quite beneficial, increasing Movement Speed for other Toons.
+
+Flyte's 4 Star Movement Speed and 4 Star Extraction Speed means that he can distract and extract better than most other Toons. However, because these increases come at a cost of their other [[Stat]] counterpart (Stamina and Skill Check), there are still some things that get impeded. With 2 Star Stamina, escaping faster [[Twisteds]]/sprint tapping will be slightly harder to do as you lose around 2.5 seconds of Stamina that could be used by a 3 Star Stamina Toon. However, his 4 Star Movement Speed and Ability can make this slightly easier to deal with. On the extracting side, 2 Star Skill Check makes using common Skill Check [[Trinkets]] like {{TI|Magnifying Glass|name=true}} riskier due to the smaller size you have to hit. 4 Star Extraction Speed is fine, but if it repeatedly gets halted by Skill Check failures, it won't be as good. However, practicing small sizes or using other Trinkets like {{TI|Thinking Cap|name=true}} can help.
+
+Though also generally useful, his Active Ability can come in handy for 1 Star Movement Speed Toons like {{CI|Connie|name=true}}, {{CI|Soulvester|name=true}}, and {{CI|Shrimpo|name=true}}, since they may have trouble getting away from fast Twisteds like {{CI|Twisted Cocoa|name=true}} and {{CI|Twisted Shelly|name=true}}. In addition, the gust can affect himself, unlike other speed boosting Abilities that can only affect Toons other than the user; this is one of the biggest pros of Gust despite its relatively low potency.
+
+Other applications for Flyte's Ability include:
+*Escaping Twisteds, being able to be used like {{CI|Flutter|name=true}}'s {{AI|Flutter|name=true}} Ability;
+*Using it in front of other Toons to both boost them and insert oneself in front of the Twisteds to take aggro. Positioning matters; try not to put your boost behind them;
+*To grant a speed boost to teammates at the start of a Floor to give your distractor an early start and generally to get the most out of it;
+*Helping others get to the [[Elevator]] in time, by putting it a decent distance away (so other Toons get the most use out of it) if possible. Pay attention to who's outside/approaching and time it when most of them are close, as the gust does disappear after a while. Therefore, try to save your Ability for [[Panic Mode]] once a majority of [[Machines]] have been completed;
+*Boosting the distractor while they're dealing with dangerous scenarios. Try not to randomly boost them without warning; the speed may throw them off if they're not dealing with specific threats. Use your Ability on distractors at the beginning of Floors, near the Elevator during Panic Mode, when they're dealing with {{CI|Twisted Vee|name=true}}/{{CI|Twisted Pebble|name=true}}, and if they seem to be struggling or to take aggro from them if you're backup. Try not to "help" them otherwise unless they communicate differently. When boosting them, try to anticipate their path and put it there before they even get close so that you don't get in their way unless your Stealth is higher. This tactic can also be used if you are distracting.
+*Placing the gust on a Treadmill Machine to make himself or another Toon more efficient at extracting them.
+*Placing the gust under a Toon who is low on Stamina or ran out of Stamina, to allow them to safely walk faster while regenerating, though this requires good communication. This can also be applied to himself.
+*Placing it in blackouts to light up the paths.
+
+Flyte's Ability affects other Toons equally, acting as a physical "power-up" that others must touch to receive the buff. His Ability works on himself as well, making it easy to use during chases where multiple Toons are at risk. Note that a 15% Movement Speed boost for 3 seconds won't always be enough to escape Twisteds.
+
+Flyte's gust during a [[Blackout]] can also produce light. While it's not much light, it can still help other players navigate through the Floors or make it easier for players to know where an [[Item]] could be like a {{II|Bandage|name=false}} or a {{II|Health Kit|name=false}} if they had a hard time trying to find the Item in the dark. Highlighting the Elevator or correct path during Panic Mode may be helpful for new players with low graphics settings.
+
+During [[Ichor Leaks]], you could try to place the gust by Ichor Puddles in order to reduce the slowness applied by them. This can especially help if any puddles are in an important path, such as a distractor's looping area, a safe way back to the Elevator, and a healer's route to an injured Toon. Do note that this won’t fully neutralize or counter the slowness (Toons will still get -2% Movement Speed), but it can reduce it to a minor inconvenience.
+
+Good Items to focus on are Movement Speed Items to allow Flyte to outwalk Twisteds temporarily with his 4 Star speed, or to stack with his Ability's boost. Stamina Items can help with the below average capacity, making things a bit safer especially as a distractor. Extraction related Items, particularly if they boost Extraction Speed like {{II|Instructions|name=false}} will help improve Flyte's above average extraction. 
+
+Overall, he functions pretty similarly to other Toons with speed boosting support Abilities, just without certain traits like an effective counter to Ichor Leaks or a way to directly help with Stamina. He still has his own strengths and advantages, being a great Toon in solo runs.
+
+===Gust Effect===
+*{{StatCmpr|stat=Movement Speed|change=15|affector=Gust}}
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Flyte:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder {{Small|(19.3 Walk Speed)}}. Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Flyte to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 Walk Speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 Walk Speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', so you can distract {{CI|Twisted Vee|name=true}} without being slowed, and prevents being slowed by [[Ichor Leaks]];
+***'''{{TI|Diary|name=true}}''', to support 3{{Star}} distractors without taking off Twisteds' aggro;
+****Only use this Trinket combination if your distractor has 3 Star Stealth.
+***'''{{TI|Scrapbook|name=true}}''', to avoid other 3{{Star}} [[Stealth]] Toons taking away the Twisteds' aggro;
+****Only use this Trinket combination if your teammates are unorganized or have 3{{Star}} and below [[Stealth]].
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Flyte to take full advantage over his 4{{Star}} [[Extraction Speed]] {{Small|(1.2 extraction speed)}} and 2 Star [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+****This combination is also good for shorter solo runs, as Vee's Remote speeds up Floor progression significantly during early Floors, but becomes less effective once you reach higher Floors.
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(24.19 avg/21.51 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease.
+***Any Trinkets listed in the '''Distraction/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Flyte|name=true}}'s [[Ability|Abili]]<nowiki/>[[Ability|ty]] cooldown {{Small|(45s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Gust''''<nowiki/>s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(43)}}.
+
+==Dialogues==
+{{Flyte Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Wind-Related Abilities.mp3|left|thumb]]
+|The sound that plays when Flyte uses his {{AI|Flyte|name=true}} [[ability]]
+|}
+
+==Trivia==
+*Flyte being {{CI|Flutter|name=true}}'s older brother makes them the fourth set of in-game [[Toons]] to have a canonical biological relationship.
+*Flyte and Flutter share many similarities and contrasting points, both of which work together to unify their connection;
+**Their names are ways of referring to a group of butterflies, and describing how they fly (a flutter and a flight).
+**Their color palettes both involve the use of pink and turquoise.
+***Flyte's color palette is the opposite of Flutter's, having a dominant blue and secondary pink compared to the reverse for Flutter.
+**Their [[Twisted]] alternates never stop actively moving when roaming the map.
+**Their body shapes and heights seem to add on to a duo trope where one member is short and plump, while the other is tall and lanky.
+**They share the same [[Ability]] sound.
+**Their Abilities involve spinning and boosting Movement Speed.
+**Flyte's clover motifs seem to be carried over from old concept art of Flutter, with her having the same clover pattern on her wings as Flyte (albeit all over).
+*As of v0.8.1, Flyte is the tallest [[Toon]] in the game, being even taller than {{CI|Sprout|name=true}} (the original tallest Toon prior to Flyte's introduction).
+*Before the changes in the [[Changelog|v0.8.4]] Easter Patch, there used to be a bug where Flyte's {{AI|Flyte|name=true}} [[Ability]] will make any nearby [[Twisteds]] stop chasing him, along with preventing long-ranged Twisteds from using their abilities properly, due to his Ability acting like an obstacle where the Twisteds' line of sight is completely prevented, essentially turning him into a living [[Smoke Bomb]].
+*Flyte has a model error in the form of a dent in the left side of his head. This is usually not visible in-game but can be seen in certain lighting.
+*Flyte shares the same requirements as [[Ginger]] and [[Soulvester]]; 700 of the [[Event]]'s [[Currency]], and 50% [[Research]] on their own [[Twisted Flyte|Twisted]].
+*Flyte is the fourth [[Toon]] in the game to be an actual living thing, rather than an object (a butterfly).
+*Flyte's {{Skin|Luna Moth}} [[Skin]] is inspired by and named after the real-life {{wp|luna moth}} species. [[Flutter]]'s {{Skin|Rosy Maple Moth}} Skin follows the exact same logic, as the {{wp|rosy maple moth}} is also a real species. Alongside their Spring-Time Skins, this means they have two sets of matching Skins and not just one.
+*The "Happy Easter!" video depicts what looks like Flyte standing upright while sleeping, but he also appears to simply lean with his back against the wall.<ref>[[File:Happy_Easter!🌷-_Dandy’s_World|200x200px]]</ref> Regardless of whatever he's truly doing, Flutter can most likely do the same thing.
+*Despite being featured in the song [[Wilting]], Flyte and [[Eggson]] do not have any lines.
+*Flyte's full render does not match his in-game model.
+*His skins for the 2026 easter event all have a texture error that makes his face too big.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Male]]
+[[Category:Easter Event]]
+[[Category:Toons with Relatives]]

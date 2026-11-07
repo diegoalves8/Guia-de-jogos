@@ -1,0 +1,175 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#282828,#4D4D4D); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Coal Render.png|Render
+Coal Full Render.png|Full Render
+Coal Full Render Old.png|Old Full Render
+Coal Icon.png|Icon
+Coal Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|2}}
+|requirement_1={{Currency|Ornaments|1500}}
+|requirement_2=Own 15 or more [[Trinkets]]
+|ability_1={{Center|{{AI|Coal|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can sniff out items across the map, causing items to be highlighted for all Toons for 10 seconds. Has a cooldown of 30.
+|skins=*Vintage
+*Pretty Present
+*Snowy Rescue
+*Snow-Time
+*Golden Dust
+|gender=Female
+|pronouns=She/Her
+|release_date=1/10/2025
+}}
+''For the Christmas Event [[Trinket]] with the same name, see {{TI|Coal (Trinket)|name=true}}.''
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Coal|extra=Pet Rock|Date=January 10, 2025|with={{CI|Bobette|name=true}}, {{CI|Ginger|name=true}}, and {{CI|Rudie|name=true}}|Pronoun=She|event=Christmas|store=Bobette's}}
+<!-- Despite pets taking after their owner's last name, the Toons don't seem to conform to this. Adding on, Qwel has said ONLY MAIN CHARACTER TOONS ARE ELIGIBLE TO HAVE LAST NAMES. Therefore, Coal is not "Coal Carolynne Jr.". It is just Coal. -->
+
+==Appearance==
+<tabber>
+|-|Default=
+Coal is a dark grey dog-like rock the shape and size of a boulder, with four dark, stubby legs, a similarly rock-like tail and blackish snowflake marks on her cheeks. Her dark eyelids form a bored, tired, somewhat cross expression on her face, having dark circles under her eyes (which pop out like {{CI|Pebble|name=true}}'s but not as intensely) and thick, furrowed, darker squarish brows. Her nose is also somewhat squarish. She wears a red two-sided satchel over her back with darker stitches on the flap and strap, triangle-shaped closures colored dark yellow with lighter stripes making them appear shiny, and pinkish bars striped with three white diagonal lines. She has a shiny yellow flag pole similar to her closures and is on the right side of her head and bears a white, triangular flag with a pinkish snowflake design on the front and back, similar to the marks on her face which is positioned so low on her that it makes her forehead appear large.
+|-|Vintage=
+Vintage Coal is now a very dark gray with her legs and eyebrows being the same color as the rest of her body and has even darker face markings and eyes pie-cut on opposite ends. Her satchel is light gray with slightly darker stitching, the same darker shade of gray as her closures and flag pole which have light gray shines. The bars on her satchel are black, as well as the snowflakes on her flag.
+|-|Pretty Present=
+Pretty Present Coal is a deep shade of royal purple with darker heart-shaped cheek marks, the same color of her eyebrows, eyelids, eye bags, and legs. Towards the left of her forehead, she sports a loopy, flower-shaped, bow colored pink with two yellow tails, and sports and inversely colored bow towards the right. She has a ribbon with pink and yellow stripes that is tied into a large bow on top of her with long, curved tails sticking out from the center.
+|-|Snowy Rescue=
+Snowy Rescue Coal is tan colored and has a splotch of white snow on her back and tail. Her cheeks are cross-shaped and a darker tan like her eyebrows, eyelids, and feet. There are now brownish-orange barrels with two brown bilge hoops and heads that are attached to a vermillion strap with white fluff on the sides. There are vermillion squares with six white dots arranged in a circle on the sides of the barrels. This pattern is also present of her flag of the same vermillion color that has a brown pole.
+|-|Snow-Time=
+[[Snow-Time Cosmetic Pack|Snow-Time]] Coal's back is white and fades into a pastel blue shade at her underside. Her snowflake cheek marks are light blue, rotated diagonally, and include a dot and cross in the markings, similarly to the marks behind her satchel. Her feet surrounded by white fluff and eyebrows are light blue like her markings, while her eyelids have shining, purple eyeshadow. She has two short, rock-like, horns on her forehead and tail, which have light blue-purple gradient, a fluffy base, a white, loopy line, and a white star and dot pattern rotating in a northwest direction, with one on the tail being shorter. Her satchel has white, fluffy lining on the sides of the strap and flaps as well as white, decorative loops and a rotating pattern. The pouches have rectangular, silver closures, and are mostly purple with a faint blend of pink and blue on top of them, while the strap is cyan with a bluer fade in the middle and has bars that are shiny and silver like the closures. She radiates light blue dots, sparkles, and asterisk-shaped snowflakes with two additional branches on each end. When moving, a line of more detailed dendrite snowflakes can be seen accompanied by smaller dots and crosses like the ones on her horn and satchel, along with a soft light green and magenta glow representing northern lights.
+|-|Golden Dust=
+Golden Dust Coal is brown with three white freckles instead of snowflake cheeks and has a splotch of gold dust on her back and tail with lighter, wavy squiggles along with white stars and dots varying in size. Her dark gray parts are now a darker brown, except for eyelids which are golden with two lighter lines each, giving them a shiny appearance. Her satchel is a brighter red with golden yellow stitching and rectangular closures without shines, with the golden bars bearing them instead. Her flag pole is a golden yellow without shines. Her flag is longer and more ribbon-like, and its design now consists of a gold yellow "X" and a trail of three dots. On the left side of her back, she has a golden crown with six points, a red oval ornamenting each. She also emits a faint golden glow, along with small golden twinkles
+</tabber>
+
+==Personality==
+Coal always comes across as grumpy, frequently growling at a low tone. She generally isn't excited about many things, even including the holiday season (as shown in her dialogue with {{CI|Rudie|name=true}}, her [[Introduction Card]], and {{CI|Bobette|name=true}}'s [[gossip]] about her). She grows a little happier when {{CI|Cocoa|name=true}} promises her to give her treats, because Cocoa sees Coal tired and hungry when interacting with her. According to {{CI|Teagan|name=true}}, Coal is usually well-behaved (though this might only be because she isn't as hyperactive as her fellow dog friend {{CI|Pebble|name=true}}).
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Pick up 85 [[Research Capsules]]|Pick up 120 [[Items]]|Survive 5 [[Floors]] with {{CI|Pebble|name=true}} in your round|Travel 90000 Meters|Use 85 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second, third, and sixth|Collect and use|Use}}|{{MastStrat|fourth|Toon in run|{{CI|Pebble|name=true}}}}|{{MastStrat|fifth|Meters}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Ornaments|name=true}} and extracting [[Machines]]. The Machine and Ornament count increases the further you descend, so you can earn more Ornaments.
+*For the second requirement, you can get Trinkets in two ways: Completing [[Twisteds]] Research or buying at [[Dandy's Store]], to do this, go on multiple runs and try to farm as much Ichor as possible, collecting Research Capsules or extracting machines, and if you can buy from Dandy's Store, start by the cheapest ones, like {{TI|Coin Purse|name=true}} and {{TI|Research Map|name=true}}.
+
+==Golden Skin [[Quests]]==
+{{GQ|Encounter {{CI|Twisted Coal|name=true}} {{Color|10|#93f525}} times as Coal.}}
+{{GQ|Complete {{Color|[[Floor]] 10|#93f525}} as Coal with the {{TI|Coal|name=true}} [[Trinket]] equipped.}}
+{{GQ|Pick up {{Color|200 [[Items]]|#93f525}} as Coal.}}
+
+Reward: {{Skin|Golden Dust Coal}} [[Skin]] {{Small|''Exclusively obtainable while the [[Christmas Event]] is active''}}
+
+===Golden Skin Strategies===
+*'''For the first task''', play normally until you find {{CI|Twisted Coal|name=true}}, get in her sight, then try to find her again in another [[Floor]]. It should be noted that you'll likely have better luck when she is on the [[Daily Twisted Board]]. It's also important to consider that the odds for encountering Rare Twisteds go up the higher you go, so try going as high as possible.
+*'''For the second task''', try and get a good team to help you reach your goal. You should also try and equip a [[Movement Speed]] or [[Stealth]] [[Trinket]] like {{TI|Dog Plush|name=true}} or {{TI|Diary|name=true}} to try and negate some of {{TI|Coal (Trinket)}}[[Coal (Trinket)|Coal]]'s effects. Diary is the best pick here if you are in a public run, so that you don't take Twisteds to yourself due to your lowered Stealth.
+*'''For the third task''', you should try and use {{TI|Sweet Charm|name=true}} and/or {{TI|Ghost Snakes In A Can|name=true}} to lower Coal's Ability cooldown, so you can highlight and pick up most of the [[Items]] on [[Floors]]. Then, try and prioritize {{II|Box o' Chocolates}}Boxes o' Chocolates and {{II|Gumballs}}Gumballs, as they help you use Items more. If you're having trouble with people taking all the Items, you should try to either communicate with them or do a solo run. You could invite people to play as one of the few Item-dropping Toons, being {{CI|Yatta|name=true}}, {{CI|Cocoa|name=true}} or {{CI|Bassie|name=true}}, and collect the Items they drop.
+To complete all tasks in tandem, do one run with Coal and reach Floor 10. Then, repeatedly reach Floor 5-10 and restart the run, as those Floors are when Twisted Coal are the most likely to spawn. While playing, take Items on the Floor as you progress.
+
+==Strategies==
+Coal is a decent distractor and support [[Toon]]. With 4{{Star}} [[Movement Speed]] and [[Stamina]], she has the capability to be a good distractor if used correctly. Her [[Statistics]] are exactly the same as {{CI|Flutter|name=true}}'s, however, her Active [[Ability]], {{AI|Coal|name=true}}, does not help much with distraction, unless certain [[Trinkets]] are being used, like {{TI|Peppermint Icing|name=true}}.
+
+Coal, with her '''Scout''' Ability, can help find {{Tape|name=true}} for {{CI|Sprout|name=true}}, {{CI|Blot|name=true}}, {{CI|Ginger|name=true}}, and {{CI|Teagan|name=true}}, help locate {{II|Health Kit}}[[Items|Health Kits]] and {{II|Bandage}}Bandages for {{CI|Cosmo|name=true}} and {{CI|Bassie|name=true}}, find helpful Items for Toons with lower stats, and is overall very useful during [[Events]]. Her Ability is similar to {{CI|Pebble|name=true}}'s Passive Ability, '''Fetch!''', though Pebble's Ability is constant with nearby items (only highlighted for himself) whilst Coal's is temporary (but highlighted for everyone in the run).
+
+Coal is best used in a team as opposed to runs with few players, as her Active Ability is great at benefiting the whole team. Pebble's Active Ability is better for survivability than support, but can be used for such. Usually, the average Coal player uses their Active Ability when a new [[Floor]] starts, but sometimes it's best to not use it on scarier Floors or in [[Blackouts]] as people usually won't pay attention or notice it. It may be a great idea to use Scout during the middle-to-end of a Floor, to ensure no items or tapes have been missed (this is especially beneficial to Sprout and Teagan, as they can locate Tapes and [[Items]] they may have forgotten to pick up).
+
+Her Ability benefits when players set unique highlight colors in the accessibility settings, since they'll be more easily differentiated and apparent. Since you can change your settings in-game, if you're in a team with or as Coal, you can set the Items, healing Items, Tapes, and Research Capsules as separate highlight colors. If you're a Toon that benefits from any of the aforementioned categories of Items, you can easily beeline straight to them since with the right colors, their outlines will stick out prominently. If you have a teammate who doesn't have custom outlines, struggles with seeing the outlines on bigger Floors, or struggles to remember, you can try to lead them to the specific Items you do see and remember.
+
+Coal is usually outclassed by other [[Toons]], as Flutter is a better distractor and Pebble is better at finding Items/generally contributing. Coal's Ability can be very lackluster despite revealing all Items; the information overload often results in players either missing the bark or not noticing relevant Items, and once it's over you need to wait for it to recharge, which may not be an issue due to her low cooldown duration. As Sprouts and Teagans are likely to try to navigate the entire map anyway, Pebble is superior for them. With Pebble, you don't have to rely on memory to locate Items. Coal ''can'' be used to find Health Kits and {{II|Box o' Chocolates}}Boxes o' Chocolates more easily due to their larger sizes (if you don't miss spotting them), but the fact that they're revealed to all players can result in fighting or sub-optimal snatching as Coal isn't made for non-public runs.
+
+===Trinket Combinations===
+{{Preference}}
+Some good [[Trinket]] sets for Coal include:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket unlocks the role of distractor to the holder {{Small|(19.3 walk speed)}}. Here are some options to pair Dog Plush with.
+***'''{{TI|Speedy Shoes|name=true}}''', to out-walk fast Twisteds and gain the ability to loop {{CI|Twisted Pebble|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}'''/'''{{TI|Ribbon Spool|name=true}}''', to outrun during [[Panic Mode]] all Twisteds but {{CI|Twisted Dyle|name=true}} at max speed {{Small|(21.2 walk/30.3 run speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 3{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***'''{{TI|Peppermint Icing|name=true}}''', to help her maintain her higher Stamina while distracting more dangerous Twisteds;
+***Any of the Trinkets in the '''Extraction''' section; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Coal to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''' - This set allows for quicker [[Floor]] progression, especially if other teammates also carry Vee's Remote.
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(29.8 avg/27.21 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}},''' to reduce {{AI|Coal|name=true}}'s [[Ability]] cooldown {{Small|(25s)}}
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Scout'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(22.6s)}}.
+
+'''Note: It is NOT recommended to use Trinkets that highlight Items such as {{TI|Memory Locket|name=true}}, {{TI|Research Map|name=true}}, and {{Type|Common}} Event Trinkets, as Coal can already see Items with her Active Ability.'''
+
+==Dialogues==
+{{Coal Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:CoalTalk.mp3|left|thumb]]
+|The sound that plays when Coal uses her {{AI|Coal|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Coal, {{CI|Ginger|name=true}}, {{CI|Rudie|name=true}}, and her owner {{CI|Bobette|name=true}} are the first [[Holiday Toons]] to be added to the game.
+*Coal is the first female [[Toon]] to not have eyelashes because the hypothetical combination of that and her eyes being 3D would not work properly.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1330898262395195442</ref>
+*Coal's Active [[Ability]] ({{AI|Coal|name=true}}) is similar to {{CI|Pebble|name=true}}'s old Active Ability ({{AI|Old Pebble|name=true}}) with the difference being that [[Items]] are highlighted for everyone rather than just herself.
+**Coal's Ability also used to have a cooldown of 100 seconds, but in the [[2025 Christmas Event]], the cooldown was reduced to 30 seconds.
+***This is the largest decrease in Ability cooldown so far in the [[Game]]'s history.
+*Coal's interaction with {{CI|Connie|name=true}} implies [[Bobette]] overfeeds her, and her interaction with {{CI|Cocoa|name=true}} further adds to this, as Coal barks out of implied happiness when promised treats. It can also be implied she might be overweight, even if she were to be coded after a naturally large dog breed, and might be even more rotund than all the other confirmed chubby [[Toons]].
+*Coal is the only [[Christmas Toon]] to not have been teased prior to the [[Christmas Event]].
+**This makes her one of the few [[Toons]] that came out as a surprise, sharing this trait with {{CI|Finn|name=true}} or {{CI|Teagan|name=true}}, as they were not teased prior to their respective updates either.
+*Coal is the second [[Toon]] (after [[Pebble]]) to have 3D eyes as opposed to the usual 2D eyes.
+*When [[Bobette]] gossips about [[Pebble]], it's revealed him and Coal are friends. Their friendship is further emphasized with how one of Coal's [[Mastery]] quests include surviving 5 rounds with him. Coal and Pebble aren't related<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1327780196002037830</ref>.
+*Coal is the first [[Toon]] to have a {{Type|Main}} Toon involved with one of their [[Mastery]] quests, with the second being {{CI|Gourdy|name=true}}.
+**However, Coal requires a specific Main Character Toon for her Mastery, [[Pebble]], while Gourdy requires any Main Character Toon.
+*When [[Bobette]] interacts with [[Pebble]], she reveals Coal was tiny when first receiving her. How tiny specifically is unknown.
+*Coal and [[Cocoa]] both had difficult transitions from 2D to 3D.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1366508342805139526</ref> Despite their small, simple shape, Coal's eyebrows took approximately 6 to 8 attempts to model.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1366508509012820069</ref>
+*Coal's {{Skin|Pretty Present}} leg models are shorter than her Vintage and Default Skins', making her legs disconnect from her body when she runs.
+*Coal's Active [[Ability]] highlights {{CI|Twisted Rodger|name=true}} as a normal capsule. This stays true even when he is active, as the 'capsule' indicator clips through his lower body, and is intentional to further trick players into waking him up.
+*Coal is the second [[Toon]] to have her [[Trinket]] be the same object as herself, with {{CI|Rodger|name=true}} being the first (though his {{TI|Magnifying Glass}}[[Magnifying Glass|Trinket]] is the same name as his humanoid).
+*If you enter the Lore Room on the [[Seasonal Room]] as Coal, her dialogue reads "{{Text|(Whine whine)}}", making her the third [[Toon]] (along with all the other [[Christmas Toons]]) with dialogue outside of being in the [[Elevator]], using an [[Ability]] or finishing a [[Machine]], with {{CI|Vee|name=true}} being the first, and [[Gourdy]] being the second.
+**Coal and the other 2 non-[[Main Character]] Christmas Toons are the first Toons to have these dialogues in a "Lore Room" that is not theirs (being [[Bobette|her owner]]'s instead). They are also the first non-[[Main Character]] Toons to have dialogues in a "Lore Room".
+*All of the canine [[Toons]] (Coal, [[Pebble]], and {{CI|Eclipse|name=true}}) are implied to have staring problems according to various interactions.
+*Coal shares some similarities with {{CI|Flutter|name=true}}.
+**Both of their [[Twisted]] counterparts are {{Type|Rare}}.
+**They are the first duo of [[Toons]] to share the exact same [[Statistics]].
+**They and their respective duo members ([[Pebble]] and [[Flyte]]) are inspired by animals (Coal and [[Pebble]] are dog-coded and Flutter and Flyte are butterflies). The larger members of each duo are more laid-back than the smaller, much giddier ones, but despite their differences, they get along well and are patient with each other.
+**They were both released with 3 other Toons, one for each rarity.
+*Coal is the fifth [[Toon]] to have both themselves and their {{CI|Twisted Coal}}[[Twisted Coal|Twisted counterpart]] be in a thumbnail, being the [[Changelog|v0.6]] and v0.14 thumbnails.
+*According to Bobette's [[gossip]] and Coal's interaction with [[Rudie]], she does not like the holiday she represents.
+*Coal's cheeks and flag (only visible in her full render) were updated in [[Changelog|v0.14.1]], with the tips of the "snowflakes" changed to have points more faithful to snowflakes instead of hearts. This led her to getting a new full render in [[Changelog|v0.27.1]].
+**This made her the first eligible [[Toon]], along with [[Bobette]], to have a chance to have her render updated, along with their [[Twisted]] counterparts, unless you count [[Rodger]] and his repose.
+*Coal is the only {{Type|Rare}} [[Event Toon]] to completely be an animal, as compared to being anthropomorphic like [[Cocoa]] and [[Eclipse]].
+*Coal, [[Ginger]], and [[Rudie]] are the sixth [[Toons]] to appear in 2 separate thumbnails, appearing in the [[Changelog|v0.14]] and v0.14.10 thumbnails.
+*The snow in {{GoldenColor|Snowy Rescue Coal}} is in the same position as the dust in her {{GoldenColor|Golden Dust}} [[Skin]].
+*Coal and [[Shrimpo]] are the only [[Toons]] that have never been seen smiling nor making any other face expressions at all, both in-game or in any official doodles.
+*There was a bug that affected Coal, [[Pebble]], and [[Flutter]], where they would say [[Soulvester]]'s [[Ability]] dialogue while wearing his mask during the [[Haunted Gala]] [[Floor Event]]. Coal and Pebble shouldn't be able to talk English due to their dog-like behavior, so the bug was eventually fixed to prevent them from breaking character in [[Changelog|v0.29.5]].
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Christmas Event]]
+[[Category:Toons with Relatives]]

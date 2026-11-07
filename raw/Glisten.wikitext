@@ -1,0 +1,185 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#FFDC9F,#FDB9FF,#FFFFFF); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Glisten Render.png|Render
+Glisten Full Render.png|Full Render
+Glisten Icon.png|Icon
+Glisten Full Icon.png|Full Icon
+Glisten Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|5}}
+|ability_1={{Center|{{AI|Glisten|name=true}}<br>{{Small|''(Active)''}}}}<br>This [[Toon]] can travel through a mirror, instantly teleporting to a targeted Toon regardless of line of sight and can inflict {{Debuff|Confused|III}} on himself. Has a cooldown of 100.
+|requirement_1=2500 [[Ichor]]
+|requirement_2=50% [[Research]] on {{CI|Twisted Glisten|name=true}}
+|requirement_3=Finish 300 [[Machines]]
+|skins=*Vintage
+*Cozy Sweater
+*Crimson Imp
+*Wrapped Chic
+*Sparkling Snow
+*Perfect Petals
+|gender=Male
+|pronouns=He/Him
+|designation=SC-007
+|release_date=08/14/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Glisten|extra=Mirror|Date=August 14th, 2024|with={{CI|Cosmo|name=true}}, {{CI|Finn|name=true}}, and {{CI|Sprout|name=true}}|Pronoun=He}}
+
+==Appearance==
+Glisten is a circular mirror with a smirk on his face and a light pale golden border and body. His border swirls at the top of his head, giving the appearance of hair and he has light pink blush underneath his eyes. He has a large pink bow behind him that is tied around his chest and wears white leg warmers with pink glitter spots. He can also be seen holding a microphone in his artwork. When hit by a Twisted, his expression changes to one of exasperation or discomfort—he squints his eyes, furrows his eyebrows, and grits his teeth.
+
+==Personality==
+Outwardly, Glisten is a charismatic, prideful, and outgoing [[Toon]]. He enjoys being the center of attention and being included by the other Toons, and is obsessed with appearing perfect in both his appearance and capabilities. Even though his ego may get in the way at times, he's still nice and cares for other Toons, complimenting other Toons like {{CI|Bassie|name=true}}, {{CI|Cosmo|name=true}}, and {{CI|Teagan|name=true}}.
+
+However, underneath his flamboyant persona, Glisten is rather insecure, as implied in many of his interactions, notably with {{CI|Sprout|name=true}}, {{CI|Toodles|name=true}}, {{CI|Rodger|name=true}}, and {{CI|Astro|name=true}}, becoming defensive when they point out his shortcomings. He often overworks himself in maintaining his flawless facade, which is best showcased in 2 of the notes lying on the floor of his room in [[Roleplay Mode]]. It is quite clear that beneath his dashing facade is a Toon striving for validation and attempts to cover any flaws to receive this admiration. One of these flaws is his clumsiness—as other Toons like Rodger and {{CI|Dyle|name=true}} noticed Glisten running into objects by accident.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 60 times|Pick up 60 [[Items]]|Travel 100000 Meters|Finish 100 [[Machines]]|Survive 50 [[Floors]]|Use 60 Items}}
+
+Reward: {{Vintage}} [[Skin]]
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|+60}}|{{MastStrat|second and sixth|Collect and use|Use}}|{{MastStrat|third|Meters|3Star|Note that teleporting will count as moving, so try inviting a Toon to finish faster.}}|{{MastStrat|fourth|Machine}}|{{MastStrat|fifth|Reach/do floors}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, you can walk near {{CI|Twisted Glisten|name=true}} while he is in his Passive state to obtain Research. Playing as {{CI|Rodger|name=true}} also helps getting it faster because of his Passive [[Ability]]. This will be easier if Twisted Glisten is on the [[Daily Twisted Board]].
+*For the third requirement, you can go into multiple runs and do as many machines as you can. To do this, focus on using a Toon that has a fast Extraction Speed or Big Skill Check, you can also use [[Trinkets]] that increase your Skill Check or Extraction.
+
+==Strategies==
+Glisten has the highest [[Extraction Speed]] in the game, making him one of the best extractor [[Toons]]. While Glisten's small [[Skill Check]] may make the rest superior strictly in terms of extracting, Glisten's average [[Movement Speed]], [[Stamina]], and easy getaway [[Ability]] make him arguably a better [[Toon]]. However, both his lackluster Skill Check and shared low [[Stealth]] can become issues. 
+
+Glisten's Active Ability, {{AI|Glisten|name=true}}, allows him to easily get away from [[Twisteds]] that are chasing you, out of dead ends, or to cover ground quickly. Line of Sight isn't required to use this Ability, so it makes it even easier. However, watching your Active Ability's cooldown is necessary, as using it at the wrong time can make you unable to escape tricky situations later. For example, if you're on the [[Library Floor]] and you were to do the last [[Machine]] in a room adjacent to the [[Elevator]], you can teleport through the walls and save a lot of Stamina. However, there is a risk that the target Toon that you teleport to has a Twisted chasing them or near them, which could attract the Twisted's attention to you instead. You should also note Glisten doesn't have an extremely long range for his Ability. It's also worth noting that, when Glisten is afflicted with the -75% Extraction Speed [[Debuff]] from using his ability, he is left with 0.375 Extraction Speed for 10 seconds (passively filling only 3.75 units compared to his usual 15 units in that time).
+
+Conversely, you may also use this Ability to ''attract'' Twisteds' attention. His low Stealth and average Speed/Stamina make it possible to use Reflection to save teammates, though caution must be taken. Using Glisten's ability can be disorienting, so really try to think through any complicated maneuvers you try to pull off.
+
+Some ideas for the usage of Glisten's Ability could be:
+*Skipping long hallways/staircases;
+*Accessing [[Items]] or [[Machines]] more quickly;
+*Making it to the [[Elevator]] faster during [[Panic Mode]];
+*Avoiding stealing aggro from Distractors or easily passing Twisteds off to them;
+*Saving higher-stealth/lower-speed teammates;
+*Escaping {{CI|Twisted Razzle & Dazzle|name=true}} or {{CI|Twisted Rodger|name=true}} if a teammate activates them;
+*Passing through {{CI|Twisted Blot|name=true}}'s hands (not recommended);
+*Getting out of dead ends;
+*Baiting {{CI|Twisted Vee|name=true}}/ranged Twisteds to give Distractors a head-start;
+*Luring Twisteds away from the Elevator during Panic Mode and teleporting back in order to give teammates better chances of making it;
+*Spending more time collecting Items or completing objectives by using your Ability as a fail-safe on large maps;
+*Teleporting to a Toon working on a Duo Machine with an empty slot.
+
+Take note that Glisten's Ability can be difficult to aim and may put you directly into danger if used on the wrong person—try to get used to using it on the correct teammate before using it in high-pressure situations. In addition, Twisteds do not immediately forget your position after you teleport; their normal attention span still applies and they will continue to head towards you if they do not spot a different teammate, so try to teleport to a Toon far enough or is blocked by walls for effective escape.
+
+It's best to have distractors like {{CI|Eclipse|name=true}}, {{CI|Goob|name=true}}, or {{CI|Looey|name=true}} to make sure that Twisteds don't bother Glisten while he's extracting, since they have the same, if not lower Stealth as him. However, other distractors can work, as long as you are out of the way. Watching Glisten's Stealth Stat and distance to the Twisteds is necessary because of this.
+
+Glisten most benefits from Items that are centered towards extraction like {{II|Instructions|name=false}} and {{II|Jumper Cable|name=false|plural=a}}. He can also make use of mobility Items such as {{II|Speed Candy|name=false|plural=a}} as backups when his Ability is on cooldown, or no Toons are in range for him to teleport.
+
+Overall, Glisten is a pretty great extractor, although his Skill Check and Stealth require some patience. He has an edge when it comes to survival thanks to his Ability, but note the cooldown and range. He struggles a bit in solo runs since his Ability is completely unusable, so he may not be the best choice for such a run.
+
+===Trinket Combinations===
+{{Preference}}
+Some [[Trinket]] sets may include:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options
+**This Trinket enables Glisten to outrun all Twisteds outside of [[Panic Mode]] besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.1 run speed)}}; 
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not disturb 2{{Star}} [[Stealth]] distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in your team.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his average Stamina and fast extraction;
+***The Trinkets in the '''Extraction''' section, to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Glisten to take full advantage over his 5{{Star}} [[Extraction Speed]] {{Small|(1.5 extraction speed)}} and 2 Star [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(20.83 avg/18.87 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with mobility.
+*'''{{TI|Stress Ball|name=true}}/Options'''
+**This Trinket to speed up [[Machine]] completion by maximizing Extraction Speed from the 5% gain from each successful Skill Check which stacks.
+
+====Ability====
+*'''{{TI|Sweet Charm|name=true}}''', to reduce {{AI|Glisten|name=true}}'s [[Ability]] cooldown {{Small|(92s)}}.
+**'''{{TI|Ghost Snakes In A Can|name=true}}''', to further reduce '''Reflection'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(87s)}}.
+
+==Dialogues==
+{{Glisten Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:GlistenUsingHisAbilityAudio.mp3|left|thumb]]
+|The sound that plays when Glisten uses his {{AI|Glisten|name=true}} [[Ability]] (sped up in-game)
+|}
+
+==Trivia==
+*Despite popular belief due to his flamboyant personality, Glisten is not canonically homosexual, as confirmed by [[Qwelver]].<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1280670014147530773</ref>
+*Glisten was originally a [[w:c:donthugme|Don't Hug Me I'm Scared]] OC that [[Qwelver]] made.
+*Glisten is the second non-{{Type|Main}} [[Toon]] to have 5{{Star}} on a [[Stat]].
+*Glisten owns a wired microphone. He is shown holding it in his info card artwork and mentions it breaking to [[Vee]] in one of their dialogues.
+*Glisten and [[Scraps]] have a similar Active [[Ability]], going to a [[Toon]]'s location quickly, with the differences being that Scraps' Ability needs direct line of sight to use and works on [[Machines]], while Glisten's doesn't and has a cooldown 4 times longer.
+*His name, Glisten, means "to reflect a sparkling light or a faint intermittent glow", reflecting his status as a mirror.
+**Before that, he was originally going to be called "Mirror"<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1261326631029444689</ref>, with the name change being quite obvious: Mirror would be quite a boring name.
+*Glisten is designation ''SC-007'' with the '''SC''' standing for Side Character.
+*Glisten receives the {{Debuff|Confused|III}} [[Debuff]] upon using his Active [[Ability]].
+**According to a note from the [[Roleplaying Mode]], Glisten gets the Debuff from using his Active Ability because it disorients him and makes him feel dizzy, causing him to bump into things. Glisten's dialogue with {{CI|Rodger|name=true}} and gossip from {{CI|Dyle|name=true}} confirms this.
+***This could also be a potential reason on top of his insecurities on why he is so concerned about his appearance and often asks other [[Toons]] if he looks good in his dialogues like {{CI|Sprout|name=true}}'s or {{CI|Boxten|name=true}}'s.
+**This makes him the first Toon to obtain a visible Debuff from an Ability.
+*Glisten's bedroom shares a floor with [[Boxten]], {{CI|Brightney|name=true}}, {{CI|Goob|name=true}}, {{CI|Poppy|name=true}}, {{CI|Razzle & Dazzle|name=true}}, [[Scraps]], and {{CI|Shrimpo|name=true}} in [[Roleplay Mode]].
+**Glisten is the only post [[Changelog|v0.1]] [[Toon]] to have a Roleplay room.
+*Glisten's insecurity about himself and obsession with appearing perfect to the others may tie in to his {{CI|Twisted Glisten}}[[Twisted Glisten|Twisted counterpart]]'s autophobia (fear of being abandoned and/or all alone).
+**Notes that can be found in Glisten's Room in the [[Roleplaying Mode]] hints at this, both of which involve him overworking himself in some way.
+***In one of the notes, Glisten mentions that he repeatedly practices his mirror trick to the point of becoming dizzy. He admits that he hides that fact from the others, as he doesn't want them to think he can't "handle everything."
+***Another letter has scribbled text that says, "I just wish everyone could see that (I'm there at the best times)", implying that Glisten believes his efforts are still not good enough for the other [[Toons]].
+**As Twisted Glisten, he's the most insecure in this state and desperate for company. The majority of his dialogue usually consists of a plea for companionship or anguish of being left all alone once his loneliness meter maxes out.
+**In his conversation with {{CI|Toodles|name=true}}, he is shown getting defensive when Toodles mentions him crying and complaining to [[Rodger]], this could indicate Glisten has told him of his insecurities, or at least some parts of it.
+*Glisten is implied to be friends with [[Razzle & Dazzle]], as shown in their Dialogue.
+**This is further explained by one of his letters, stating 'I guess Razzle & Dazzle are fine.'
+*Glisten seems to dislike {{CI|Finn|name=true}} and his puns, based on their interaction and one of Glisten's notes in his room saying, "I'm just happy it isn't Finn!"
+*There is a glitch that if two or more Glistens teleport to each other, all the Confused III effects can be given to one of the Glistens stacking the effect, causing a major amount of [[Debuffs]].
+*In a Discord Poll, it was decided that Glisten has a better side Profile than [[Rodger]].
+*Glisten shares many similarities with [[Vee]].
+**Both have a bow (Vee on her neck and Glisten on his waist), similar facial expressions (that also resemble their similar personalities), both cross their arms in their idle poses, same Extraction Speed, Stealth and Stamina (5 Stars, 2 Stars and 3 Stars respectively), and both owning a microphone (Glisten's microphone is seen in his Introduction Card and mentioned in his dialogue with Vee).
+***This reflects how Glisten sees Vee as an inspiration to him.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1372557120393842759</ref>
+****Glisten also has Vee's "Smile" poster in his room.
+*****Also, as seen in the video "[https://www.youtube.com/shorts/eJPtxkaDI7I Don't forget to recharge!]", Glisten is very worried when he sees Vee on the ground, probably because Vee is his inspiration and he doesn't want to lose her.
+******If you look closely in the part where Glisten cries when trying to wake Vee, Glisten can be seen crying small amounts of [[Ichor]].
+*Glisten harbors a dislike for clowns and likely {{CI|Looey|name=true}}'s Circus Troupe by extension, based off his dialogue with [[Yatta]] and Looey.
+*Glisten often uses laughter as a means of covering up his stress and insecurity as seen in many of his dialogues, specifically with {{CI|Astro|name=true}}, [[Brightney]], {{CI|Cosmo|name=true}}, {{CI|Rudie|name=true}}, {{CI|Tisha|name=true}}, and [[Toodles]] and in one of his solo dialogues in the [[elevator]], making him somewhat similar to Looey (who serves as an example of being a performer who entertains others to cloak his sorrow).
+**His more self-centered comments often also appear in similar scenarios, especially when [[Toons]] are checking in on him (e.g. [[Rodger]] and [[Sprout]]) when he gets something wrong such as in his dialogue with Cosmo or when Toons are teasing/insulting him such as [[Scraps]] and [[Vee]].
+*Up until [[Changelog|v0.9.1]], Glisten was the most expensive non-{{Type|Main}} [[Toon]] in the game before getting replaced by [[Blot]].
+*Glisten was the first [[Toon]] to have 2 idle animations, him checking his hand and his bow wiggling. The second being [[Yatta]], the third being {{CI|Bassie|name=true}}, the fourth being [[Blot]] and the fifth being [[Razzle & Dazzle]].
+**After his optimization in [[Changelog|v0.12.1]], his two idle animations were combined to make one. As such, [[Yatta]] is now the first Toon to have 2 idle animations currently.
+**He is the first one to not have optimizations upon his release, the other being Razzle & Dazzle.
+***However, Razzle & Dazzle received the 2 idles after their optimizations, so Glisten was the only non-optimized Toon to have 2 idle animations.
+*After [[Changelog|v0.10.1]], the "[[Astro]] in Stage Fright" poster is removed from Glisten's room, being replaced by the "SMILE!" poster instead.
+*Glisten is the first {{Type|Rare}} [[Toon]] to get his optimizations post-release.
+**He is also the only non-{{Type|Main}} to receive an optimization in [[Changelog|v0.12.1]].
+**He is the only Rare Toon to not be optimized in pairs.
+*Glisten is the first base game [[Toon]] to receive more than one Holiday [[Skin]] in a singular [[Event]], being Crimson Imp and Wrapped Chic in the [[2025 Halloween Event]]. The second ones are [[Rodger]] and [[Toodles]].
+*Using Glisten's [[Ability]] to teleport to a [[Toon]] on the opposite side of an Ichor puddle will still give the {{Debuff|Illness|III}} [[Debuff]].
+*Glisten is one of the few [[Toons]] where their [[Stats]] may be an all-round reflection of their character. In this case, Glisten has a strong desire to be perfect, thus his [[Extraction Speed]] is 5 Stars, possibly wanting to complete the Machines quickly to impress the other Toons. This is at the cost of harder [[Skill Check]]s, which may reflect the finer details and smaller room for mistakes involved with attempted perfection. He is a mirror, which are known to be very reflective of light, as represented with his 2 Star [[Stealth]].
+*Glisten may have vision problems or a deficit in spatial awareness, based on his tendency to bump into walls or objects.
+**The first point is also possibly referenced in the fact he didn't know that [[Cosmo]] has star freckles in all of the posters around [[Gardenview]], assuming he was wearing makeup instead. However, he could've simply never really noticed or didn't pay much attention.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

@@ -1,0 +1,195 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#B5B5B5,#787878); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1=Pebble Dancifer Jr.
+|image1=<gallery>
+Pebble Render.png|Render
+Pebble Full Render.png|Full Render
+Pebble Icon.png|Icon/Full Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|5}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|1}}
+|ability_1={{Center|{{AI|Pebble|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can bark loudly, drastically decreasing Stealth to a value of -40 and alerting any Twisteds nearby to his location. Has a cooldown of 60. 
+|ability_2={{Center|'''Fetch!'''<br>{{Small|''(Passive)''}}}}<br>
+{{Center|This Toon can sniff out items, causing them to be highlighted when in the Toon's vicinity.}}
+|requirement_1=3750 [[Ichor]]
+|requirement_2=100% [[Research]] on {{CI|Twisted Pebble|name=true}}
+|requirement_3=Complete all [[Mastery]] Quests on {{CI|Toodles|name=true}}
+|skins=*Vintage
+*Loyal Bud
+*Thorned Geode
+*Star-Time
+*Served Eggy
+*Extra Cheese
+*Gleeful Gift
+*Bunny Wabbit
+|gender=Male
+|pronouns=He/Him/His
+|designation=M-001
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{DialogueQuote|Pebble|<choose uncached><option>Bark! Arf!</option><option>Arf Arf!!</option><option>Grrr...</option</choose>|Pebble in various dialogues}}
+
+{{ToonInfo|type=Main|Toon=Pebble|extra=Dancifer Jr.|Date=June 14, 2024|Pronoun=He}}
+
+==Appearance==
+Pebble is a small pet rock [[Toon]] that has a faceted model with smoothed-out sides, underbelly, and back. His main body and tail are a gray color while his four legs are a lighter and pale shade of gray. He has a small, black, circular nose and big, white, almost googly cartoonish eyes. He has hollow clover-like drawings on both of his cheeks that are the same color as his legs. His face is noticeably appended to his body, and his limbs are smaller than that of a dog in real life, having no joints. His tail is hexagon-shaped,  and he is noticeably lacking limbs compared to his Twisted counterpart, not having a neck nor legs and also missing his counterpart's paws and claws. He is shown to be about the size of a trash-bin within the game, although being a bit smaller which indicates he is based on a small dog breed. 
+
+==Personality==
+Pebble is dog-coded, affectionate and playful towards most [[Toons]]. He also seems to show concern for his owner {{CI|Dandy|name=true}}, according to one of his interactions with {{CI|Astro|name=true}}. He obviously cannot speak English but seems to be able to comprehend it. He also seems to have a somewhat short temper, as he often growls and barks loudly at Toons. However, Astro, {{CI|Gigi|name=true}}, {{CI|Shelly|name=true}} and {{CI|Vee|name=true}}'s dialogues with Pebble suggest his barks function as a substitute for words and can convey meaning {{Small|(though knowing Vee, she might've been being sarcastic)}}. This is also suggested with his friend, {{CI|Coal|name=true}}, who seemingly has a conversation with him through mutual barks.
+
+Pebble seems to have staring problems according to {{CI|Sprout|name=true}}, {{CI|Rodger|name=true}}, {{CI|Toodles|name=true}}, Vee, possibly {{CI|Razzle & Dazzle}}[[Dazzle]], and {{CI|Bassie|name=true}}. The other dog Toons (Coal and {{CI|Eclipse|name=true}}) have staring problems just like he does. Similarly to real dogs, Pebble enjoys playing fetch and eating treats, maybe even a little too much, though not quite to the same extent as Coal. 
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 145 times|{{Tooltip|Encounter 80 [[Twisteds]]|Originally 'Activate this Toon's Passive Ability 30 times!' before the removal of the Survival Instincts Passive Ability in v0.3.0.}}|Pick up 200 [[Items]]|Reach [[Floor]] 20|Survive 75 Floors|Travel 175000 Meters}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Encounter Twisteds}}|{{MastStrat|third|Collect and use}}|{{MastStrat|fourth and fifth|Reach/do floors}}|{{MastStrat|sixth|Meters}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Pebble|name=true}} to the [[Elevator]] to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Pebble is on the [[Daily Twisted Board]].
+*For the third requirement, play as {{CI|Toodles|name=true}} and try to complete her [[Mastery]] Quests by going on multiple runs. It is recommended to go on an organized Run or do specific quests in certain runs.
+
+==Strategies==
+If you like zooming around the place, Pebble is the one for you. Having the highest [[Movement Speed]] in the game (5{{Star}}) and high [[Stamina]] (4 Stars), Pebble possesses both high survivability and the ability to distract Twisteds proficiently. It is not recommended to focus on extraction with this [[Toon]] as his [[Extraction Speed]] is significantly lower than other Toons, although having a 3 Star [[Skill Check]] makes it a little more bearable.
+
+Pebble is an ideal distractor due to his Movement Speed and [[Stamina]], but if you are in a difficult situation, you are more likely to get hit if you are not careful. If you are distracting multiple {{Type|Main}} Twisteds, you will need to sprint if {{CI|Twisted Vee|name=true}} inflicts the {{Debuff|Slow|II}} [[Debuff]], {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Glisten|name=true}} when enraged; etc. It is recommended to have an {{CI|Astro|name=true}} by your side when distracting a difficult combination of Twisteds and use his Active Ability to help regenerate your Stamina faster. Only sprint if a fast Twisted catches up to you, even if you are turning corners, do not sprint unless they're about to hit you. You should not have other Twisteds that are significantly slower than others on you when distracting, as they may lose line of sight of you and you will have to go out of your way to regather them, which may lead to some hits or they could turn the other way and hit you. Stay in one area away from [[Machines]] or Items so Twisted Pebble will not lose aggro on you and chase after any other Toons who pass through the area where you are distracting.
+
+Pebble's Active Ability is a very useful tool while distracting Twisteds. '''Speak!''' is able to help save other Toons being chased by Twisteds by forcing the Twisteds to chase you instead. It alerts Twisteds to your location (like a failed Skill Check; most must be nearby to notice) and also lowers your Stealth by 50 units. This means that to steal aggro from other players you will still need to be in the Twisted's detection range, so be careful not to use it from too far behind if chasing a Twisted. If you are distracting in a narrow area and see that a Toon with lower or equal Stealth is attempting to get through the area, consider using '''Speak!''' to reduce the risk. '''Speak!''' is most useful when in a sticky situation while distracting, allowing for you to take the aggro off of most Toons and safely allow them to pass. Another alternative to '''Speak!''' could be collecting {{II|Air Horn|name=true}}s that you find around the map, as they are a great replacement for the Ability if it not able to be used at the moment.
+
+Pebble's Passive Ability can assist you with finding Items quicker. '''Fetch!''', like the name says, assists you with finding Items scattered around the floor by highlighting them, allowing you to find useful Items such as healing or speed Items, the former of which should be pointed out to teammates if unneeded. '''Fetch!''' is also great if you're searching for [[Research Capsules]] to grind [[Ichor]] or [[Research]], but be careful to continue paying attention to your surroundings, as '''Fetch!''' will still highlight the fake {{CI|Twisted Rodger|name=true}} capsule.
+
+Pebble is an excellent pick for grinding [[Event]] [[Currencies]]/Research due to high mobility and the ability to detect Event Items and capsules/attract Twisted aggro easily. With the right Trinkets, he can also make a good extractor or solo Toon, making up for any deficits with near-unmatched speed. It can help to have {{CI|Shelly|name=true}} or {{CI|Brusha|name=true}} on your team to heat up your extraction, especially when combined with Trinkets and Items. You can also focus on taking care of Treadmill Machines or assisting with Duo Machines, covering possible weak spots of other extractors, or simply to get Floors completed faster overall. When extracting as Pebble, you should still try to support your team using your Abilities and Stats; use your mobility to gather Twisteds for a distractor (if there is one) and to protect slower teammates; use the bark to alert Twisteds away from a Machine, the Elevator, or a vulnerable teammate without having to directly take aggro; use the bark to save low Stealth teammates when a distractor or other Toons can't; use the Item highlight to lead {{CI|Sprout|name=true}} or {{CI|Ginger|name=true}} to {{Tape|name=true}}, lead {{CI|Cosmo|name=true}} or injured teammates to healing Items, lead vulnerable teammates to survival Items like {{II|Smoke Bomb|name=false|plural=a}}, or just bring yourself to find Items to help in survival or extracting.
+
+Overall, Pebble is a great distractor Toon, a good support, and also has somewhat of a capacity to be an extractor, though if you aren't aware of your surroundings, he won't be good at any of these.
+
+===Trinket Combinations===
+{{Preference}}
+For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket alone allows Pebble to outwalk anything besides {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Glisten|name=true}} when enraged, {{CI|Twisted Coal|name=true}} when a [[Blackout]] is present, and some others {{Small|(22 walk speed)}}. Keep in mind that Dog Plush will make Pebble much faster than slower Twisteds such as {{CI|Twisted Shrimpo|name=true}}, which would make him lose them more easily. Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve walk speed, more preferable for those new to distracting as Pebble {{Small|(23.1 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to also out-walk before Panic Mode Twisted Glisten, Twisted Pebble, and Twisted Vee when you are inflicted with the {{Debuff|Slow|II}} [[Debuff]] when active {{Small|(24.2 walk/33 run speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(39 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 3{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***'''{{TI|Megaphone|name=true}}''', to give access to what is essentially Pebble's Active Ability more easily;
+****Only use these Trinket combinations if your teammates are unorganized or have 3 Star and below [[Stealth]].
+***Any of the Trinkets in the '''Extraction Section''', to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Pebble to take full advantage over his 1{{Star}} [[Extraction Speed]] {{Small|(0.75 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(29.8 avg/27.21 with Tech Savvy)}};
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Pebble|name=true}}'s [[Ability|Abilit]]<nowiki/>[[Ability|y]] cooldown {{Small|(55s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Speak!'''<nowiki/>'s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(50.2s)}}.
+
+'''Note: It is NOT recommended to use Trinkets that highlight Items such as {{TI|Memory Locket|name=true}}, {{TI|Research Map|name=true}}, and {{Type|Common}} Event Trinkets, as Pebble can already see Items with his Passive Ability.'''
+
+==Dialogues==
+{{Pebble Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:pebblespeak.mp3|left|thumb]]
+|The sound that plays when Pebble uses his {{AI|Pebble|name=true}} [[Ability]]
+|-
+![[File:pebbletalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Pebble's head
+|}
+
+==Trivia==
+*Pebble's [[Toon Handler]] is {{CI|Devan Reed|name=true}}, with the latter also being {{CI|Dandy|name=true}}'s Toon Handler.
+*Pebble is [[Dandy]]'s pet rock. <ref>[[Dandy#Quotes|"Hey, that's my pet rock! Take good care of him will ya?"]]</ref>
+**The clover-like markings on his cheeks likely represent Dandy in some way, subtly restating that Pebble is Dandy's pet rock.
+**Moreover, in his {{Skin|Loyal Bud}} [[Skin]], Pebble sports a flower bud on his back with the colors of the petals mirroring Dandy's, further highlighting that Pebble is Dandy's pet rock.
+***The name of the skin itself is a clever pun: "bud" refers not only to the flower bud. but by playing on the word "buddy", it once again reiterates the fact he is Dandy's pet rock.
+**His owner, {{CI|Dyle|name=true}}, and {{CI|Gourdy|name=true}}'s [[Gossips]] about Pebble and his full name reaffirm that Pebble is Dandy's pet rock.
+*Pebble met [[Dandy]] in 8/24/1987, which implies Pebble was created before that date.
+*Pebble and {{CI|Coal|name=true}} are confirmed to be friends, as seen by the fact she has to survive 5 rounds with Pebble for her [[Mastery]], and {{CI|Bobette}}[[Bobette|her owner]] directly confirms in her gossip that she and him are friends.
+*His name is used to describe a small rock, which is exactly what he is. His design may be a pun on rockhounding, a slang term for {{wp|amateur geology}}.
+*Pebble is designation M-001 with the '''M''' standing most likely for {{Type|Main}}. The -001 means he was the first Main Character to be created by [[Delilah]], with him being made sometime before the 24th of August 1987, and was the second [[Toon]] overall to be created after [[Dandy]].
+*Pebble, {{CI|Waxwell|name=true}}, and {{CI|Bassie|name=true}} are the only Toons with 5{{Star}} [[Movement Speed]] (though {{CI|Razzle|name=true}} can reach the equivalent on odd Floors, and {{CI|Looey|name=true}} can roughly reach their speed or even outspeed all of them when missing any {{Heart}}). 
+**However, Pebble, Waxwell and Bassie are the only Toons to consistently have this speed, as the Twin Masks and Looey are situational.
+***Pebble is the only one of the three to:
+****Be in the game on release.
+****Release unoptimized.
+****Not be humanoid.
+****Have 1 Star [[Extraction Speed]]
+****Have any 3 Star [[Stat]] at all.
+****Have [[Mastery]] requiring [[Twisteds]] in some way.
+****Not have Mastery requiring Machines in any regard.
+****Not have Mastery requiring using any [[Items]].
+*Pebble was the only [[Toon]] with a "Reach [[Floor]]" [[Mastery]] requirement before [[Bobette]], [[Bassie]], {{CI|Flutter|name=true}}, and {{CI|Flyte|name=true}} were added, making their Mastery some of the most difficult to complete.
+*Pebble's [[Star-Time]] [[Skin]] has a bigger tail than any of his other skin models. This was likely intentional to fit all the stickers on it.
+*Pebble is the first [[Toon]] to have his [[Abilities]] completely scrapped and changed, the second being {{CI|Soulvester|name=true}}. During the same update, his [[Mastery]] was also altered, causing anyone who had completed the old requirement to lose it and those with the completed Mastery to revert to 5/6 progress on him and lose the icon sparkles.
+**However, they still retained access to the {{Skin|Vintage}} [[Skin]]. The new requirement is 'Encounter 80 [[Twisteds]]'.
+**Pebble's old Active Ability has been reworked into [[Coal]]'s Active Ability.
+***Coal's ability highlights for everyone instead of just herself.
+**Pebble's old Passive Ability ('''Survival Instincts''') increased his stealth and stamina by 25% whenever he was on one {{Heart}}.
+*If you looked inside Pebble, you would see a 3D modeled tongue, which would've been used for animations but ended up being unused (all the way to [[Changelog|v0.6.4]]). Two of Pebble's [[Skins]], {{Skin|Loyal Bud}} and {{Skin|Thorned Geode}}, had a different colored tongue, except for his [[Star-Time]] Skin, while his {{Skin|Vintage}} Skin had a colored one. The tongue was removed in v0.7.1, but {{CI|Twisted Pebble|name=true}} retains his.
+*All of the dog characters (him, [[Coal]], and {{CI|Eclipse|name=true}}) have staring problems. Pebble's in particular are directly pointed out by {{CI|Sprout|name=true}} and {{CI|Ribecca|name=true}}, though the latter is significantly unluckier due to being made of bones.
+*[[Twisteds]] with 9999 hearing radius, like {{CI|Twisted Vee|name=true}}, are alerted to Pebble's {{AI|Pebble|name=true}} [[Ability]] from anywhere on the map.
+*Pebble is stated directly to be a {{wp|Pet Rock}}.
+*Excluding [[Holiday Toons|Event Main Characters]], Pebble is the cheapest {{Type|Main}} [[Toon]], costing 3750 [[Ichor]].
+*When Pebble uses his Active [[Ability]], the sound will be lower pitched on the user's side, but normal-pitched when heard by another player.
+*Pebble is one of the few [[Toons]] without typical hands (or lacking hands entirely).
+*Pebble is the first [[Toon]] to have a visible nose.
+*Pebble is the only base-game [[Main]] [[Toon]] that haven't appeared in any of the episode storyboards currently.
+*Pebble used to be the only one with the most Skins in [[Changelog|v0.9.5]] and earlier, until he tied with {{CI|Yatta|name=true}} in v0.10.1, fell when v0.11.1 released, and then tied again with her, Razzle & Dazzle, and {{CI|Shelly|name=true}} in v0.14.10, before getting another Skin with Razzle & Dazzle.
+*Pebble can perform a backflip, confirmed by [[Dandy]] in his gossip dialogue. At some point, he landed on his back akin to a turtle when he did a flip, but didn't mind his predicament despite being assisted by his owner anyway.
+*If you used both {{II|Air Horn|name=true}} and '''Speak''' [[Ability]], Pebble would have '''-90.00''' [[Stealth]]. This gives him Stealth similar to {{CI|Shrimpo|name=true}}'s, only being -9 units away.
+*Pebble's full name is "Pebble Dancifer Jr.". He is the only pet to inherit a last name from their owner.
+*According to their dialogues, {{CI|Scraps|name=true}} and Pebble do not seem to like each other, likely referencing the classic rivalry between cats and dogs.
+**Meanwhile, {{CI|Goob|name=true}} and Pebble are friendly towards each other, and Goob doesn't understand their feud.
+***This could be due to Goob having a few dog-like qualities in behavior and personality, and maybe they can relate to each other.
+*Pebble's stats are nearly identical to that of [[Razzle]]'s, only being 1{{Star}} higher in Stamina.
+*Prior to the release of [[Sprout]], Pebble used to have the shortest [[Ability]] cooldown of any main, being 30 seconds. Due to his Ability rework, he's now tied with [[Astro]] and [[Shelly]] at 60 seconds.
+*Pebble is one of the few [[Toons]] whose [[Ability]] ends with an exclamation mark.
+*Pebble used to have 2 Star Skill Check, making him the second slowest extractor ([[Shrimpo]] being the slowest) before being bumped up to 3 Stars.
+**This makes Pebble the only [[Main]] Toon to have 3 Star Skill Check.
+**At that time, Pebble was still the second slowest extractor, until the [[2025 Easter Event]] update, when [[Bassie]] was added.
+*Pebble's [[Ability]] is essentially that of a failed [[Machine]] Skill Check, as [[Twisteds]] play their failed Skill Check detection noise when you use it. However, it also lowers his [[Stealth]].
+*Pebble is the second [[Main]] to have updated models and animations, the first being [[Bobette]].
+**He is the first one to be from the base game and to originally not have one.
+*In [[Changelog|v0.7.2]], Pebble got a remodel and new idle animation where he twirls around on the spot. [[Twisted Pebble]] got new animations as well.
+*The "{{Skin|Served Eggy}}" [[Skin]] for Pebble was originally dark gray during development, but was changed to a dark orange when it released.<ref>https://discord.com/channels/969934252844138496/970049062608961560/1369071169185124422</ref> That and "{{Skin|Extra Cheese}}" make Pebble the first non-Holiday {{Type|Main}} to have an Event-exclusive skin.
+*Pebble was designed to be a slow extractor with extremely high survivability. The role of distractor was created by the community with the Dev team following along with an Ability change.
+*Pebble is currently the shortest [[Toon]], roughly reaching most of the [[Toons]]' hips.
+*When [[Yatta]] is hit, killed or completes a Machine within '''Fetch!'''<nowiki/>'s range, Pebble is able to see the [[Items]] moving as they spawn and scatter.
+*Pebble and {{CI|Brightney|name=true}} are one of the first non-[[Shrimpo]] Toons to have 1 Star on a [[Stat]].
+**He's also the first {{Type|Main}} to have 1 Star on a Statistic, the second being [[Bassie]] and the third being [[Gourdy]].
+*Pebble, {{CI|Toodles|name=true}}, and [[Blot]] are one of the few [[Toons]] to be predominantly grayscale.
+*Pebble is going to be the last Main Character to get their own themed map, if he ends up getting one.
+*Pebble and [[Sprout]] are the second [[Toons]] to have both their normal and Twisted counterparts appear in the game's thumbnail, with [[Razzle & Dazzle]] and [[Blot]] being first, [[Shelly]] being third, fourth being [[Gourdy]], and fifth being [[Coal]].
+*Pebble and [[Bassie]] need to travel more meters for their [[Masteries]] than the other [[Mains]].
+**Pebble actually needs to travel the most, being 175,000, making him need the most meters to complete a Mastery as a Main Character and a [[Toon]] in general, with Bassie being the second (requiring 160,000, 15,000 meters less).
+*Pebble is the second [[Toon]], alongside [[Sprout]], to have both themselves and their [[Twisted Pebble|Twisted counterpart]] be in a thumbnail, being the [[Changelog|v0.1.0]] and v0.14 thumbnails.
+*Pebble is the first [[Toon]] to be featured in 2 separate thumbnails, being in [[Changelog|v0.11]] and v0.12, with [[Shrimpo]] being second, [[Toodles]] being third, [[Gigi]] and {{CI|Rodger|name=true}} being fourth, [[Bobette]] being fifth, and the sixth being the rest of the [[Christmas Toons]].
+*Pebble is one of three [[Main Characters]] to be in the game on release, the other two being [[Astro]] and [[Vee]].
+*There was a bug that affected Pebble, {{CI|Flutter|name=true}}, and [[Coal]], where they would say [[Soulvester]]'s [[Ability]] dialogue while wearing his mask during the [[Haunted Gala]] [[Floor Event]]. Pebble and Coal naturally shouldn't be able to talk English due to their dog-like behavior. so the bug was eventually fixed to prevent them from going out of character in [[Changelog|v0.29.5]].
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

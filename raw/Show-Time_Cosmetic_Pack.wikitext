@@ -1,0 +1,32 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,darkred,#FFDC8F,#FFFFFF,#026970); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Purchasable}}{{Infobox_Gamepasses|title={{PAGENAME}}|image=Show-Time Cosmetic Pack.png|price={{Price|Pack}}|availability=Purchasable|type=Permanent|total_skins=5}}
+
+The '''Show-Time Cosmetic Pack''' is an active [[Gamepass]] featuring 5 exclusive skins regarding the '''Circus Troupe''' [[Toons]], {{CI|Razzle & Dazzle|name=true}}, and {{CI|Vee|name=true}} in [[Dandy's World]]. It was introduced in the [[Changelog|v0.10.1]] update as the second gamepass available in [[Dandy's Store]].
+
+==Description==
+This gamepass features 5 exclusive skins for: Blot, Looey, Razzle & Dazzle, Vee and Yatta! These skins feature unique particles, trails and Blot's ability effect. All features are cosmetic and do not affect gameplay.
+
+==Effect==
+Players who purchased this gamepass receive the 5 matching Skins for {{CI|Looey|name=true}}, {{CI|Yatta|name=true}}, {{CI|Blot|name=true}}, {{CI|Razzle & Dazzle|name=true}}, and {{CI|Vee|name=true}}.
+
+==Gallery==
+<gallery>
+ShowTimeYattaTeaser.jpeg|A teaser of {{CI|Yatta|name=true}}'s Show-Time skin shown by [[Qwel]] on the first anniversary stream
+ShowtimeRnD.png|A teaser of {{CI|Razzle & Dazzle|name=true}}'s Show-Time skin shown by Qwel on the first anniversary stream
+Show-TimeVee.png|A teaser of {{CI|Vee|name=true}}'s Show-Time skin shown by Qwel on the first anniversary stream
+Show-Time Vee Back.jpg|Ditto, but on the back side
+Show-Time Trail.jpg|The trail that appears on Vee's skin when she moves
+</gallery>
+
+==Skins==
+<gallery>
+Show-Time Blot.png|{{Skin|Show-Time|toon=[[Blot]]}}
+Show-Time Looey.png|{{Skin|Show-Time|toon=[[Looey]]}}
+Show-Time Razzle & Dazzle.png|{{Skin|Show-Time|toon=[[Razzle & Dazzle]]}}
+Show-Time Vee.png|{{Skin|Show-Time|toon=[[Vee]]}}
+Show-Time Yatta.png|{{Skin|Show-Time|toon=[[Yatta]]}}
+</gallery>
+
+{{GamepassNav}}
+
+[[Category:Gamepasses]]
+[[Category:Skins]]

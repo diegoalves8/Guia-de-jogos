@@ -1,0 +1,213 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#79CDD3,#C2FAFE,#FFF); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1=Boolynski/Connie
+|image1=<gallery>
+Connie Render.png|Render
+Connie Full Render.png|Full Render
+Connie Icon.png|Icon
+Connie Full Icon.png|Full Icon
+Connie Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|1}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|5}}
+|extraction_speed={{StatComp|Extract|4}}
+|ability_1={{Center|{{AI|Connie|name=true}}<br>{{Small|''(Active)''}}}}<br>
+This Toon uses her ability to become invisible for 5 seconds. Twisteds will not be able to notice her during this time, unless she is up against a {{Type|Lethal}} Twisted which will still see her. Has a cooldown of 50.
+|requirement_1=2000 [[Ichor]]
+|requirement_2=50% [[Research]] on {{CI|Twisted Connie|name=true}}
+|skins=*Default
+*Vintage
+*Frosty Mittens
+*Lilac Haunting
+*Ghastly Glow
+*Brisk Breeze
+*Christmas Past
+*Dawn Clouds
+*Spooky-Time
+*QoM (Queens of Mischief)
+|gender=Female
+|pronouns=She/Her
+|release_date=12/06/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Connie|extra=Ghost|Date=December 6th, 2024|with={{CI|Looey|name=true}}|Pronoun=She|othernames='''Boolynski''' (real name) or '''Miss. Boolynski''' by {{CI|Rodger|name=true}} and the [[Halloween Toons]],}}
+
+==Appearance==
+Connie is an anthropomorphic, light blue ghost that possesses a wispy, ghost like tail, lacking legs. A white visor hat rests atop of her head. Her hair is a darker shade of blue, it contains 2 parts of her bangs pointing outwards and two strands underneath to frame her face. Connie's hair is long and is just as wispy as her tail. Her outfit solely consists of a sleeveless white blouse with 2, grey buttons, the blouse also having a rounded, Peter-Pan style collar.
+
+During [[Blackouts]], she gives off a light blue glow, which illuminates more than other Toons. This glow changes depending on the Skin equipped.
+
+==Personality==
+Connie is a charismatic, mischievous, and snarky ghost who tends to lie about her achievements.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1293182530719055872</ref> She enjoys teasing and pranking other [[Toons]], and becomes bored easily when they aren't fazed by her. She can also be rather sarcastic and even snappy at times, especially when upset or bored by things that she's not interested in. Despite that, she is not malicious in nature, and is said to care for close friends like {{CI|Gigi|name=true}}. In particular she has a soft spot for children, never showing any snark towards them and even adoring {{CI|Toodles|name=true}}' love for her {{TI|Dog Plush|name=true}}.
+
+Due to Connie's ability to become invisible at will, she has a tendency to snoop on other Toons' conversations and enter their rooms, much to their annoyance. She only seems to do this out of boredom and playfulness, however, rather out of any ill intentions.
+
+In her interaction with {{CI|Rodger|name=true}}, she seems annoyed and even despises her previous name, Boolynski, and berates him for this. However when the [[Halloween Toons]] call her by this name, she is more forgiving towards them, likely due to her closer bond with them, and the fact they still struggle to adjust to her new name.
+
+Connie also seems to have a sibling rivalry with her twin brother, {{CI|Soulvester|name=true}}, evidenced by how in one of their dialogues she says he is "larping as a knight," and their remarks about wishing they didn't see each other for a longer period of time. She also seems to think he's too serious, while he doesn't think she's serious enough. Despite this, they don't seem to actually dislike each other, even if they do have a sibling rivalry, as Connie tells {{CI|Bobette|name=true}} that Halloween should last longer. She also expresses an appreciation for Soulvester's guardianship and care for {{CI|Gourdy|name=true}}, albeit with a minor jab at first.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Survive 50 [[Floors]]|Travel 55000 Meters|Finish 50 [[Machines]]|Survive 5 Floors with 2 other Players in your round|Use 50 [[Items]]}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Reach/do floors}}|{{MastStrat|third|Meters|1Star}}|{{MastStrat|fourth|Machine}}|{{MastStrat|fifth|Play with Toons}}|{{MastStrat|sixth|Collect and use|Use}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, just get close to {{CI|Twisted Connie|name=true}} if she's on a [[Floor]] so you can get her Research. Playing as {{CI|Rodger|name=true}} also helps to get Research faster because of his Passive [[Ability]], '''Detective'''. This will be easier if Twisted Connie is on the [[Daily Twisted Board]].
+
+==Strategies==
+Connie could be considered the best survivalist [[Toon]] in the game, having the highest [[Stealth]] in the game alongside an [[Ability]] that's quite helpful against escaping dangerous [[Twisteds]]. She also has above average [[Extraction Speed]], making her great for those who want to extract more efficiently. However, Connie possesses low mobility [[Statistics]], that being 1{{Star}} [[Movement Speed]] and an average [[Stamina]] capacity, along with below average [[Skill Check]], needing some skill to play her safely.
+
+Connie's lowest Stat, being Movement Speed, is something that should be mitigated in a way or another, as by herself, she cannot outrun most Twisteds in the game. For that reason alone, keeping Movement Speed [[Items]] like {{II|Box o' Chocolates|name=false|plural=a}} or {{II|Speed Candy|name=false|plural=a}} in your inventory, using [[Trinkets]] such as {{TI|Pink Bow|name=true}}, and getting speed boosts from support Toons is a few of the the things you could do in order to make her better to move around more easily.
+
+Focusing on her main Ability, {{AI|Connie|name=true}}, one can see it's potential in helping the player out of sticky situations, such as being chased by a Twisted that Connie can't out-run (eg. {{CI|Twisted Shelly|name=true}} or {{CI|Twisted Toodles|name=true}}). Her Ability is, in a way, an infinite source of {{II|Smoke Bomb|name=false|plural=a}}, having a somewhat short cooldown with a short duration. Though great on the surface, some issues may arise from it, as it does not work on [[:Category:Ranged Twisteds|Ranged]] or {{Type|Lethal}} Twisteds, so instead of using her Ability on them, hiding or avoiding being seen by any of those in the aforementioned categories can save you a life.
+
+However, Connie is more than her Ability. In addition to having the highest Stealth in the game, she has immunity to [[Ichor Leaks]] and produces light during [[Blackouts]], making her even better for wandering around as well as surviving during [[Floor Events]]. On top of those, her good extractability makes her great for extracting Machines that are near distractors and other Machines that are in dangerous spots, so long as you don't miss a Skill Check or more, given that the Stat is subpar. Her Ichor Puddle Immunity in general is also useful when it comes to {{CI|Twisted Finn|name=true}} and {{CI|Twisted Tisha|name=true}} (situationally), as their special abilities can make traversal or extraction more difficult due to the [[Debuffs]]. {{Debuff|Illness}} would normally be an issue, especially with Connie's 2 Star Skill Check, but she can't be affected by the -50% size decrease, and thus no worry of an involuntary, significant size decrease. 
+
+Despite all of the upsides mentioned above, Connie is less than adequate for completing [[Dyle's Floor]], because, as aforementioned, her Ability doesn't work on {{CI|Twisted Dyle|name=true}}, and nor does she have a chance at escaping him if in his line of sight for too long. While completing his Floor as her is not impossible, it's definitely a hard task, and there are better options out there if you wish to complete his Floor with ease. Even if you somehow escape, her increased Stamina can't be utilized to the max, as although she can sprint more, she can't sprint faster, so running away from faster Twisteds is still harder.
+
+Overall, Connie is a great survivalist and decent extractor, yet struggles with mobility, which can be somewhat alleviated in one way or another.
+
+===Trinket Combinations===
+{{Preference}}
+For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Connie to outrun some Twisteds before [[Panic Mode]] {{Small|(21.5 run speed)}}. Here are some options to pair Pink Bow with;
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Run Speed {{Small|(22.6 run speed)}}, making her be able to outrun all average speed Twisteds even on Panic Mode, albeit by a tiny amount;
+***'''{{TI|Vanity Mirror|name=true}}''', to be able to outrun every Twisted except {{CI|Twisted Pebble|name=true}} during Panic Mode {{Small|(27.9 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to survive;
+***'''{{TI|Peppermint Icing|name=true}}''', to give her a bit of extra Stamina to get to a safe spot away from Twisteds while invisible;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her average Stamina and fast extraction;
+***The Trinkets listed in the '''Extraction''' section, to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Connie to take full advantage over her 4{{Star}} [[Extraction Speed]] {{Small|(1.2 extraction speed)}} and 2 Star [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(24.19 avg/21.51 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Connie|name=true}}'s [[Ability]] cooldown {{Small|(45s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Haunting Escape'''<nowiki/>'s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(41s)}}.
+
+==Dialogues==
+{{Connie Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Haunting Escape Sound Effect.mp3|left|thumb]]
+|The sound that plays when Connie uses her {{AI|Connie|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Connie is the first [[Toon]] to publicly be known to have been delayed due to a major scandal at [[BlushCrunch Studio]], thus forming a gap in the development team. She is also the first Toon to be remodeled for that same reason.
+*Connie is the only [[Toon]] to not have legs; she has a ghost-like tail.
+*Connie shares some similarities with {{CI|Flutter|name=true}}.
+**They have one [[Event Toon]] sibling ({{CI|Soulvester|name=true}} and {{CI|Flyte|name=true}}, respectively).
+***They also float, though only when they're [[Twisted]].
+***Their mouths cannot be seen, although in Soulvester's case, it's because his chin guard obscures it.
+***They're both of the {{Type|Uncommon}} rarity.
+**They hover over the ground.
+***This also makes them immune to the [[Ichor Leaks]] puddles.
+**They have 2{{Star}} [[Skill Check]].
+**Their [[Abilities]] aid in surviving.
+**It is implied that both of their favorite colors are their main colors/speech bubbles' colors.
+***This is seen in one of their interactions with each other.
+*Similar to {{CI|Dandy|name=true}}, {{CI|Glisten|name=true}} and {{CI|Goob|name=true}}, she was originally a personal OC of [[Qwel]]'s,<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1293181655099506829</ref> being based on {{wp|Epic Mickey}}.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1293188689383653538</ref>
+**Connie was first seen back on January 30, 2024, when she was still an Epic Mickey OC.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1201913393032990731</ref>
+**This is likely the reason why her name is not alliterative and not a reference to the object she is inspired by, unlike most of the other [[Toons]].
+*Connie was one of four [[Toons]] that was going to release for the 2024 [[Halloween Event]] and is the only one that ended up being added to the game. The other Toons that were scrapped and won't be added are [[Harvey]], [[Countess]], and [[Duke]].
+**According to [[Dandy]]'s [[gossip]], she ''was'' originally a {{HT|Halloween}} Toon, but due to popularity she was brought into the regular series. This is likely a studio in-joke about that series of events. She could possibly be the first and currently only [[Holiday Toon]] to lose that title.
+***{{CI|Eclipse|name=true}} was created to replace Connie after she came into the year-round show, as seen in her interaction with Connie, as well as the [[Posters]] promoting "Queens of Parties!", a musical created to send off Connie and introduce Eclipse.
+****This could mean that Connie was the {{Type|Rare}} of the Halloween Toons before she got transferred to the base Toons.
+****If everything else was the same, {{CI|Twisted Connie|name=true}} would've been the first stationary Rare [[Twisted]], with the real first being {{CI|Twisted Blot|name=true}}.
+*Connie has a twin brother named [[Soulvester]],<ref>https://discord.com/channels/969934252844138496/969934252844138499/1424041671519240273</ref> making them the fifth set of [[Toons]] with a canonical biological relationship, with the others being [[Flutter]] and [[Flyte]] (younger sister, older brother), {{CI|Scraps|name=true}} and [[Goob]] (older sister, younger brother), {{CI|Razzle & Dazzle|name=true}} (conjoined twin brothers), and {{CI|Cosmo|name=true}} and {{CI|Ginger|name=true}} (cousins).
+*Connie, alongside {{CI|Looey|name=true}}, were both released with a functioning blink and custom run animation early, as to show what's in store for the rest of the [[Toons]] while they're being updated over time. This makes them the first Toons in general to have optimized animations.
+*Connie is one of six [[Toons]] to have one of their dialogues shown behind the scenes, with the other five being {{CI|Boxten|name=true}}, [[Flutter]], [[Glisten]], {{CI|Shrimpo|name=true}}, and {{CI|Vee|name=true}}.
+*Connie is the fourth non-{{Type|Main}} [[Toon]] to have 5 Stars on a Stat, and the only one with 5 Star Stealth.
+**Coincidentally, Connie and [[Soulvester]] are the only {{Type|Uncommon}} Toons with the former trait.
+*Connie and {{CI|Astro|name=true}} share some similarities.
+**They both have 5 Star Stealth, 4 Star Extraction Speed, and 2 Star Skill Check.
+***They are the only [[Toons]] to have the former (except the developer-exclusive Toons).
+***The shared 4 Star Extraction Speed used to not be the case, being 3 Star Extraction Speed for Astro prior to his [[Toon of the Week]].
+**They glow the same light blue with the same radius in [[Blackouts]].
+***Because of these gameplay similarities, Connie had a Stamina regeneration of 50% due to [[Qwel]] using Astro's code to make her and forgetting to remove Astro's Passive [[Ability]]'s function. This bug got fixed in the v0.5.2 update.
+**They wear hats by default.
+**They are predominantly blue.
+**Additionally, both of their [[Twisteds|Twisted counterparts]] affect [[Machines]].
+*Despite what her [[Ability]] description says, {{CI|Twisted Goob|name=true}}, {{CI|Twisted Scraps|name=true}}, and {{CI|Twisted Gigi|name=true}} can still use their long-ranged attacks while {{AI|Connie|name=true}} is active, unlike {{CI|Bobette|name=true}}'s {{AI|Bobette}}'''Precious Packaging'''.
+**In Twisted Goob's case, however, he'll be unable to hit you, but will still grab you like normal.
+*Connie seems to be good friends with [[Gigi]].
+**This can be implied by one of their interactions with each other, as well as their similar personalities, with both frequently pranking other [[Toons]] and overall being non-serious and smug.
+*Connie's Active [[Ability]], '''Haunting Escape''', has the same sound effect as {{II|Smoke Bomb|name=true}}.
+**This is because both the Smoke Bomb and her Ability effectively do the same thing: help the user escape from [[Twisteds]] by disrupting their line of sight.
+**This is the third time an Ability shares the same sound effect with something else.
+***However, this is the first and only time an Ability shares the same sound effect as an [[Item]] being used.
+*Connie seems to have an awkward relationship with {{CI|Brightney|name=true}}, as seen in their dialogues.
+**This is further hinted in a dialogue with [[Vee]], where she threatens to tell Brightney on her if she haunts her.
+*Connie's name can be interpreted to be a pun, with "con" being a reference to her prankster-like nature.
+*Connie and [[Scraps]] are so far the only [[Toons]] to retaliate [[Shrimpo]]'s bullying angrily, with Connie yelling at him and irritably questioning his bad response.
+*Even though Connie is a ghost and is already 'dead', she can still get hurt and killed, mostly by [[Twisteds]]. It connects to the lore, but can't be elaborated on for gameplay reasons, so her being able to get hurt and killed isn't supposed to happen.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1326549848450793544</ref>
+**Her interaction with {{CI|Shelly|name=true}} could support this, to where Shelly tries to confess to her that she's already dead, only to shut down the conversation to avoid a negative response from her.
+*{{CI|Rodger|name=true}} refers to Connie as "Miss Boolynski" in their interaction, and Connie berates him for this; Boolynski is Connie's real name. Based on their interaction, Connie is embarrassed by her name and prefers her nickname instead.
+**Connie's full name was Connie Boolynski back when she was an Epic Mickey OC. When she was converted into a Dandy's World character, Boolynski became her first name and Connie became a nickname, since only [[Main Character]] [[Toons]] have last names.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1368384206430015498</ref>
+**The [[Halloween Toons]] (except [[Soulvester]], calling her "sister") have also called her that, albeit cutting themselves off before finishing, with Connie being quite forgiving. Connie does not snap at them for this, presumably because they did not do this intentionally, how little they get to see each other and them occasionally referring to her as that before, as opposed to Rodger.
+**[[Dandy]]'s [[gossip]] also makes a remark about Connie's real name being Boolynski.
+*Connie is the first non-{{Type|Main}} [[Toon]] to require [[Research]] on her [[Twisted Connie|Twisted counterpart]] that isn't a {{Type|Rare}} or [[Event Twisted]] (being a {{Type|Uncommon}} base game [[Twisted]] instead), with the second being [[Yatta]], and the third being {{CI|Brusha|name=true}}.
+**She is currently the only Uncommon Toon to do this.
+*{{Skin|Brisk Breeze}} was Connie's first and only [[Dyle's Store]] [[Skin]].
+*Connie is the first [[Toon]] to have a unique number of Stars in each Stat, with the second being [[Yatta]], and the third being [[Blot]].
+**She is the only of these to not be in the Circus Troupe, nor to have 4 Star Movement Speed.
+**However, you could count pre-[[Stat]] rework {{CI|Pebble|name=true}} as the first Toon to do so.
+*Connie can be seen invisible hiding behind [[Flutter]] if looked closely at the "SNEAKY [[Gigi|GIGI]]" arcade machine screen.
+**It's likely due to Flutter talking to [[Brightney]] on screen, who Connie has an awkward relationship with.
+*In the 1 Year Anniversary Stream, it was confirmed that Connie gets very happy when [[Halloween]] comes around, probably because she gets to see her [[Halloween Toon]] friends again.
+*Connie and [[Astro]] are currently the only [[Toons]] to wear hats. Unlike Astro, however, Connie has a Skin without a hat, that being the {{Skin|Frosty Mittens}} Skin.
+*Connie is the first {{Type|Uncommon}} base game [[Toon]] to have an optimized model.
+*Connie is the only [[Toon]] with a human-like appearance; this is because of the fact that most ghosts in fiction are portrayed as human-like.
+**It's unknown whether or not Connie was reborn from an already dead Toon or whether she was just made to look like a ghost for the sake of it.
+**[[Soulvester]] also could have a human-like appearance considering he and Connie are twins, so they are very likely to look alike.
+*Connie says she doesn't read anything at all in her interaction with [[Razzle & Dazzle]].
+*Connie's mobility [[Stats]], 1 Star Movement Speed and 3 Star Stamina, may have been taken from [[Gigi]]'s old mobility Stats.
+*Connie, alongside [[Blot]], [[Soulvester]], {{CI|Ribecca|name=true}}, and [[Flutter]], are immune to the effects of the [[Ichor Leak]] [[Floor]] Event. In Connie and Flutter's cases, they float.
+*Connie and [[Soulvester]] are currently the only [[Toons]] to have two [[Auxiliary Stat]]<nowiki/>s: during [[Blackouts]], they glow, and [[Ichor Puddles]], have no affect on them.
+*Connie and [[Dandy]] are the only [[Toons]] to have a nickname and to not have their actual name be what they're referred to in-game.
+*She may be able to haunt [[Machines]] just like her [[Twisted Connie|Twisted counterpart]] due to one of her dialogues when extracting.
+*Connie is the first female [[Toon]] to have a twin, with [[Soulvester]] and [[Razzle & Dazzle]] all being male.
+*Connie uses a hairbrush, as proved in [[Bassie]]'s [[Gossip]] about [[Gigi]].
+**This makes her and [[Soulvester]] the only [[Toon|Toons]] with hair, though this could be proven false since they are ghosts and it not counting.
+*Connie is banned from {{CI|Teagan|name=true}}'s tea parties because she once haunted the kettle for an hour and sprayed [[Dazzle]] in the face with hot tea while spinning around, as confirmed by their dialogue.
+**Ironically, Connie tells [[Brusha]] that Brusha is not invited to parties in their interaction despite not being allowed to go to Teagan's.
+*Connie is the last '''Non-Event''' {{Type|Uncommon}} [[Toon]] to release in 2024.
+**She also one of the last Toons to be added in [[Dandy's Store]] in 2024, alongside {{CI|Looey|name=true}}.
+**She is also the most recent Uncommon Toon in general.
+***If counting Events, [[Soulvester|her twin brother]] is the most recent Uncommon Toon.
+*Connie is the only [[Toon]] to have a publicly known scrapped render.
+**Weirdly, when [[Profiles]] were added to the game, her old render was used for them, before being changed in a later update.
+*Connie gained more interactions with other [[Toons]] and [[Event]] [[Stickers]] in the [[2026 Halloween Event]], likely due to her tight relationship with the [[Halloween Event]], being an ex-[[Halloween Toon]] and having a [[Soulvester|twin brother]] there.
+**She is the only playable base-game Toon to have Event Stickers.
+*According to the Queens of Mischief music video and [[Changelog|v0.29.7]] thumbnail, Connie can play an electric bass.
+*Connie is the only base-game [[Toon]] to have 2 [[Event]] [[Gamepass]] [[Skins]], that being {{Skin|Spooky-Time}} and {{Skin|QoM}}, also being the only non-[[Main]] to have 2 Gamepass Skins in general.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Toons with Relatives]]
+[[Category:Female]]

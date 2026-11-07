@@ -1,0 +1,180 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#5A8FF7,#FF5B65); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Goob Render.png|Render
+Goob Full Render.png|Full Render
+Goob Icon.png|Icon
+Goob Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Goob|name=true}}<br>{{Small|''(Active)''}}}}<br>
+This Toon can pull other Toons towards his position. Needs direct line of sight. 30 second cooldown.
+|requirement_1=1750 [[Ichor]]
+|requirement_2=Complete 3 [[Mastery]] Quests on {{CI|Scraps|name=true}}
+|skins=*Vintage
+*Fun Partygoer
+*Special Spaghetti
+*Neapolitan
+*Garden Blossoms
+*Fuzzy Beast
+|gender=Male
+|pronouns=He/Him
+|designation=SC-014
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+{{Description}}
+{{ToonInfo|Toon=Goob|extra=Fluffy Craft|Date=June 14th, 2024|type=Single|Pronoun=He}}
+==Appearance==
+<tabber>
+|-|Default=
+Goob is a wheat-colored craft with a rounded, square-shaped head featuring tufts of fluff on the forehead and cheeks. He sports light yellowish-orange blush beneath his typically-crossed, misaligned googly eyes, complimented by blue freckles above the blush on the left side and red freckles on the right. His torso is also light yellowish orange, adorned with tufts of fluff around the neck. Goob's arms are long and flexible, resembling black, cable-like strings. His hands are large, rounded and mismatched; his left hand is blue on the right side with red claws, while his right hand is red on the left side with blue claws. Additionally, his knees and ankles are marked with light yellowish-orange stripes.
+|-|Vintage=
+Vintage Goob is mostly light gray with a slightly darker gray for his darker parts. His red and blue are respectively swapped out for white and black, and his eyes are pie-cut to the right.
+|-|Fun Partygoer=
+Fun Partygoer Goob is light blue and has a cone-shaped party hat on his head with light purple and light pink stripes. He has white cheeks with his left having two hollow, light pink triangle marks on the topmost side of the cheek with a light purple on the bottommost side, and vice versa for the right cheek. His torso is light blue and his stomach is white with a pink triangle on the right side of his chest, a purple one on the left side, another pink one near the center of his torso, and another purple one to the left of it. The stripes on his knees and ankles are also now white. His hands are white with light pink middle claws and thumbs, while the remaining claws are light purple. On the palm of his left hand, he has a design of broken heart halves with the left half being light purple and the right half being light pink; vice versa on the right hand.
+|-|Special Spaghetti=
+Special Spaghetti Goob is colored cream and has slightly darker cheeks with olive green freckles and leg stripes. He has a wavy layer covering his forehead along with its tuft and all over his neck fluff, colored muted red with lighter spots, giving it a tomato sauce-esque appearance. His cream arms are also thinner, resembling noodles. His hands and toes are brown with both lighter and darker spots, resembling meatballs, and his claws are slightly darker, similarly to his sauce.
+|-|Neapolitan=
+Neapolitan Goob is vanilla colored with a white forehead tuft, pink left cheek tuft, and brown right cheek tuft. His cheeks are light brown with darker hashtag-shaped markings. He has melting Neapolitan ice cream on the left of his head with a light brown cone that has markings similar to his cheeks'. The ice cream is patterned with the pink layer on the left, the white layer on the middle, and the brown layer on the right. His neck fluff also resembles a blob of dripping, Neapolitan ice cream, and is patterned complementary to the ice cream on his head. His legs are light brown with darker stripes, the same color of his arms. His hands have light brown claws and large vanilla spots on the palms, with the left hand colored brown and the right pink.
+|-|Garden Blossoms=
+Garden Blossoms Goob is pastel green with a hair-like, slightly darker scallop pattern across his forehead, and his tufts of fluff are colored the same. He appears to have two brown whiskers on each of his cheeks. He also sports five-petal flowers with yellow pistils, with a coral pink flower on the upper right corner of his head and on the left of the back of his head, while there are light pink flowers slightly towards the lower right of the coral pink flowers, along with one placed on top of his head, near the corner flower. His neck fluff is a slightly dark, pastel green with a smaller pair of a coral pink and light pink flowers, which are towards the left of the fluff. His arms are brown with hands that are also a slightly dark, pastel green. The hands have brown claws, light pink heart markings on the palms, and a pair of coral and light pink flowers on the back. His legs' lower halves are slightly darker to the pastel green, with an outward curving pattern on the sides. His feet have two brown lines, making him look as if he has toes.
+|-|Fuzzy Beast=
+Fuzzy Beast Goob is a slightly yellowish green with a round, lighter marking on the lower half of his face. His tufts of fluff are a little spikier and his cheeks are teal with the freckles recolored cream. He has cream colored, layered horns on the upper sides of his head, with the left one curved downward and the right one curved upward. His torso has a lighter stomach and two teal stripes on the back. He now has a small, dinosaur-esque tail overlapping the lower stripe, and it has three cream spikes across the top. He also has teal, bat-like wings on the upper stripe and his neck fluff is jagged and colored teal. His left leg is the lighter yellowish green, while the right leg is teal. Both have darker green stripes and cream toes with black outlining, giving him toes. His left hand is teal and his right the lighter yellowish green, both of which have cream claws.
+</tabber>
+
+==Personality==
+Goob is a cheerful [[Toon]] known for his energy and innocence, but he is known even more for his iconic love of giving hugs and how much he looks up to [[Scraps]], his older sister. Adding on to the hugs, his interaction with {{CI|Rodger|name=true}} reveals that he genuinely thinks that hugs are simply what others need, rather than using them strategically.
+
+His interactions with Toons like {{CI|Razzle & Dazzle|name=true}} imply he is naïve and simple-minded, but he is actually far smarter than many realize, capable of understanding and recognizing complex social cues and emotions rather easily (for example, he assumes [[Sprout]]  and {{CI|Bassie|name=true}} are "tense" instead of simply just sad), making him function as a therapist of sorts.
+
+Still, he does have his clumsy, comical moments from time to time, which makes him appear to live up to his name on the outside, but in reality, his heart and smart are balanced evenly.
+
+==Mastery== 
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Survive 3 [[Floors]] with 4 other Players in your round|Travel 100000 Meters|Pick up 80 [[Items]]|Survive 25 Floors with {{CI|Scraps|name=true}} in your round|Use 80 Items}}
+
+Reward: {{Vintage}} [[Skin]]
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Play with Toons}}|{{MastStrat|third|Meters}}|{{MastStrat|fourth and sixth|Collect and use|Use}}|{{MastStrat|fifth|Toon in run|{{CI|Scraps|name=true}}}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, play as {{CI|Scraps|name=true}} and try to complete 3 of her [[Mastery]] Quests by going on multiple runs. Since you only need to complete half of the total mastery quests to buy Goob, choose some specific missions, preferably the easiest ones.
+
+==Strategies==
+Goob is a supporter [[Toon]] with excellent mobility and survivability, having 4{{Star}}[[Movement Speed]] and [[Stamina]], which allows Goob to be able to out-walk most of the {{Type|Common}}, {{Type|Uncommon}}, {{Type|Rare}}, and even {{Type|Main}} [[Twisteds]] with the use of speed [[Trinkets]], excluding {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Bobette|name=true}}, {{CI|Twisted Gourdy|name=true}}, {{CI|Twisted Glisten|name=true}} (enraged), and {{CI|Twisted Dyle|name=true}}. Goob also has 2 Star [[Stealth]], which is the same as some Toons such yet as low as many others, making him a great candidate for one of the best distractors in the game.
+
+Goob's main bonus is his Active [[Ability]], {{AI|Goob|name=true}}. This Ability allows him to bring another [[Toon]] towards himself as long as they are in his line of sight. This can be useful in many ways, from saving lives to helping other Toons get around:
+*Pulling a Toon away from a Twisted;
+*Pulling a Toon into the [[Elevator]] during [[Panic Mode]], including AFK players;
+*Pulling a Toon away from a distractor if they're too close or passing Twisteds;
+*Pulling a low Movement Speed Toon to help them travel faster;
+*Pulling a high Extraction Speed Toon over to a [[Machine]] or Duo Machine to work with them;
+*Pulling a Toon away from {{CI|Twisted Razzle & Dazzle|name=true}}'s circle, {{CI|Twisted Rodger|name=true}}'s range when opened, {{CI|Twisted Blot|name=true}}'s hands, and such others;
+*Pulling a Toon before they get hit/grabbed by {{CI|Twisted Scraps|name=true}} or {{CI|Twisted Goob|name=true}};
+*Pulling Healers/low Health Toons to healing Items;
+*Pulling Toons away from Twisted Dyle if being chased by him or if he's nearby.
+
+'''Hug!''' is a generally useful tool for helping out teammates when used correctly. Goob can take advantage of his high Movement Speed and Stamina to get into good places to use his Ability, and with its broad usage, he can make use of it often enough to be worth it. In situations where a Twisted is between you and your hug target, you can use your Ability to pull them directly through the Twisted to safety, as Goob's target is invincible during the pull. Do note that it can be difficult to aim properly, and his pull cancels if line of sight is blocked by an obstacle, so keep in mind that even though there may be no targets on the screen, Goob's Ability may still activate on a nearby Toon if they are in line of sight, making it slightly dangerous if you are being chased/distracting.
+
+As for [[Items]], Goob doesn't need many Speed Items due to his already great mobility, but it could be useful to take Stamina-Restoring Items, such as a {{II|Bottle o' Pop|name=false}}, {{II|Pop|name=false}}, {{II|Stamina Candy|name=false}}, or {{II|Protein Bar|name=false}}. Health items are also great for Goob, as being a Distractor means he is at frequent risk of getting hit. Stamina should be preserved for Panic Mode whenever possible. {{II|Valve|name=false}} and {{II|Jumper Cable|name=false}} are also useful situationally, to help your team with Machines, best used at the start of the floor (if distracting).
+
+Despite Goob's main usage as a distractor, his average Skill Check can make him a possible Extractor if he needs to be, such as if a different player requests to be in the role of distraction or if you're not proficient with it. He's still a proficient supporter if his Ability is used effectively, and can additionally take care of Treadmill Machines with ease. Prioritizing Barnaby Machines can also be efficient since the coins ("Great Job!" Skill Checks) can appear frequently enough to make up for Goob's lower Extraction Speed, especially if you start and stop consistently to get a coin in the first pair of seaweed.
+
+Overall Goob is a great supporter, with a good capability of distracting and survival. He is rather capable at extracting with the right Trinkets and strategy, being a good Toon to have on a team.
+
+===Trinket Combinations===
+{{Preference}}
+Because of Goob's low [[Stealth]] and fast [[Movement Speed]], it's recommended to use [[Trinkets]] that are able to boost your Movement Speed in order to help more with distracting, so the best Trinket sets for Goob include:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(19.3 walk speed)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Goob to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 walk speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 2{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 2 Star [[Stealth]], or if you're solar distracting with a {{CI|Bobette|name=true}} lacking {{TI|Diary|name=true}}.
+***Any of the Trinkets in the '''Extraction Section''', to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Goob to take full advantage over his 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(27.95 avg/24.84 with Tech Savvy)}};
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Goob|name=true}}<nowiki/>'s [[Ability]] cooldown {{Small|(25s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Hug!'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(22.6s)}}.
+
+==Dialogues==
+{{Goob Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Goob Hug.ogg]]
+|The sound that plays when Goob uses his {{AI|Goob|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Goob used to be one of 4 characters which were original characters before being added to [[Dandy's World]].
+**The exact type of OC Goob was based on is currently unknown.
+**His name was originally E.G.G., (Especially Good Guy), his feet looked similar to roller skates, he had a tank possibly filled with ichor behind his back, and he even had a feminine human design.<ref>[[File:E.G.G (Old Goob's Design).jpg|200px]]</ref>
+*Goob is the younger brother of {{CI|Scraps|name=true}}.
+**Despite that, he was created first, with him being SC-014 and Scraps being SC-015.
+*Goob's name may be derived from the word "goober," meaning a foolish person. His carefree personality, cross-eyed expression, and slightly clumsy walk are some attributes that can earn him this name, but his understanding and thoughtfulness drive him away from being foolish.
+*Goob used to be able to intentionally pull [[Toons]] from the [[Elevator]] into dangerous situations with his [[Ability]], causing them to either take damage or die. If a Goob was caught doing this intentionally, they would likely receive a ban due to the rule of '''No Foul Play/Griefing''' (though if you did so accidentally, it wouldn't be a bannable offense). This is no longer possible in [[Changelog|v0.3]] and beyond.
+*{{CI|Shelly|name=true}} and {{CI|Toodles|name=true}} point out that Goob has sharp teeth, being much more obvious when he is hurt and in the mouth of his {{CI|Twisted Goob}}[[Twisted Goob|Twisted counterpart]].
+**He, {{CI|Yatta|name=true}}, and {{CI|Eclipse|name=true}} all have sharp teeth, but his are hidden.
+*Goob's arms do not highlight when hovered over with an [[Ability]], likely because of how Goob's hands are technically not a part of his model.
+**This also happens for [[Scraps]] and her {{CI|Twisted Scraps}}[[Twisted Scraps|Twisted counterpart]].
+*Goob's 'fingers' are actually claws. This is confirmed in one of his dialogues after he finishes a [[Machine]].
+**This makes Goob (and [[Scraps]]) the first [[Toon]] with claws, with the second being {{CI|Gourdy|name=true}}.
+*In [[Roleplay Mode]], Goob and [[Scraps]] share the same room due to their familial relationship.
+**It could be implied that them and {{CI|Razzle & Dazzle|name=true}} are the only related [[Toons]] to share the same room, since all the other related duos have an [[Event Toon]] relative whom they don't get to see when it isn't time.
+*Goob has an unique extraction animation where he flops his hands onto the valve and down repeatedly.
+*When using his [[Ability]], Goob can say "{{Text|Come here!}}" or "{{Text|Get over here! Hehe!}}", referencing Scorpion from Mortal Kombat; he shouts those quotes when using his iconic grapple pull attack.
+*Goob, {{CI|Gigi|name=true}}, {{CI|Ginger|name=true}}, [[Pebble]], and {{CI|Tisha|name=true}} all have [[Abilities]] that end with an exclamation mark.
+*Unlike [[Scraps]], Goob is not based on any animal in specific. However, due to the shape of bits of fluff on the sides of his head, many believe this to lead to a dog-like design as opposed to Scraps having a feline one. He does have some animal traits, such as being fluffy, shedding (mentioned in his interaction with [[Tisha]]), dreaming about chasing his tail—a behavior typically associated with dogs, even though he doesn't actually have one (mentioned in his interaction with {{CI|Astro|name=true}}), as well as having sharp teeth, claws, and paw-like hands.
+**Goob is most likely based on a monster, due to his crossed eyes ([https://en.wikipedia.org/wiki/Strabismus strabismus]) which resemble googly eyes. something that is frequently seen in monster-based crafts, but this depiction is a rarity in the community.
+***Due to this, he could be inspired by the term "tickle monster," with the hugs he gives out being somewhat akin to tickling, especially since his hugs are received in mixed ways and are occasionally spontaneous, however this may just be a coincidence.
+*{{CI|Poppy|name=true}} and Goob seem to be good friends, as they engage in a friendly shouting match in their interaction. [[Yatta]] also appears to get along with him, as they also yell each other's names when they see each other.
+*Goob may have wobbly hands as implied with his interaction with [[Teagan]] in which he mentions that he dropped the teacup last time. This is further implied by his animation whenever he extracts a [[Machine]] as he has to lift his hands constantly, and his dialogue in the [[Art Gallery|Art Floor]] (where he mentions he spilled paint there a while ago). It's unknown if this is due to the material of his arms, or a deficit in motor skills.
+*Goob is one of four [[Toons]] that has a fan-made [[Skin]], his being Special Spaghetti. The other three are Dapperly Festive {{CI|Looey|name=true}}, Ebony Detective [[Rodger]], and Choco Cones [[Yatta]].
+**Goob's Special Spaghetti skin used to have a glitch with the texture files. The fluff on top of his head matched the same color as his base skin, not the pasta sauce. This was eventually fixed.
+*According to [[Dandy]]'s [[gossip]] about Goob, he used to give more hugs than he does now, or rather, he just doesn't hug Dandy as much anymore.
+*Goob is the first [[Toon]] to require only half (3 quests) of [[Scraps|another Toon]]'s [[Mastery]], with the second being {{CI|Waxwell|name=true}}. 
+**This could reflect how Scraps also needs only half of Goob's [[Twisted Goob|Twisted counterpart]]'s [[Research]].
+*Goob is the first [[Toon]] to need another Toon for his Active [[Ability]] to be used.
+**[[Scraps]] was on this list, until her Ability was reworked in [[Changelog|v0.7.1]], when she could grapple onto [[Machines]] now.
+*Goob, [[Scraps]], and {{CI|Brightney|name=true}} were the last [[Toons]] to get optimized. He is also the last male Toon to receive this treatment.
+*Goob is the only [[Toon]] to blink one eye at a time, which can also be referred to as "frog blinking."
+**That also makes him the first Toon to have 2 extra blink textures due to this.
+***Goob's Special Spaghetti skin is the only Goob skin to not have a right eye blink texture. Instead, he reuses the left eye blink texture twice when blinking. This is very likely a bug.
+*After Goob's optimization, his {{Skin|Special Spaghetti}} [[Skin]]'s arms were made thinner in order to resemble spaghetti more.
+*When Goob uses his {{AI|Goob|name=true}} Ability with the {{Skin|Special Spaghetti}} or {{Skin|Neapolitan}} [[Skins]] equipped, his arms will become black instead of the actual skin color.
+*Prior to his optimization, his arms used the default Roblox Studio rope.
+*He is the second non-[[Main Character|Main]] Toon to have an official deluxe plush version of himself.
+*Goob may have been the one to create the {{TI|Cardboard 'Armor'|name=true}} [[Trinket]], with him mentioning creating armor out of cardboard in his interaction with {{CI|Soulvester|name=true}} and it needing 100% [[Research]] on his [[Twisted Goob|Twisted counterpart]].
+*Goob seems inconsistent with his arms. Sometimes, he can use them normally like hugging or his idle animation, but other times, he moves them flimsily, like his extracting and other animations. This inability to use them properly could just be from his derpy personality and from laziness.
+**In fact, Goob seems to be very physically strong, being able to pull all of the [[Toons]] (of which are various sizes and weights) towards himself with ease ([[Looey]] & {{CI|Ribecca|name=true}} even complain about being squeezed too tightly, though this could be because of their fragile bodies).
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

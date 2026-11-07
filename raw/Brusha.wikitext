@@ -1,0 +1,250 @@
+{{DISPLAYTITLE:<span style="font-family: Fredoka; background:linear-gradient(90deg,#5C0C74,#5C0C74,#FFF,#FFF,#9E8675,#9E8675); -webkit-background-clip:text; -webkit-text-fill-color:transparent; font-weight: bold;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Brusha Render.png|Render
+Brusha Full Render.png|Full Render
+Brusha Icon.png|Icon
+Brusha Introduction Card Artwork.png|Introduction Card Artwork
+Brusha TOTW Art.png|TOTW Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|{{AI|Brusha|name=true}}<br>{{Small|''(Active)''}}‎}}<br>This Toon can paint her artwork on nearby machines, inspiring extracting Toons with 25% faster Extraction speed and a {{Tooltip|15% higher Skill Check chance.|15% of the base Skill Check chance, does not add to it like other chance increase sources}} Has a cooldown of 15.
+|requirement_1=1250 [[Ichor]]
+|requirement_2=25% [[Research]] on {{CI|Twisted Brusha|name=true}}
+|skins=*Vintage
+*Gloomy Sleeper
+*Scary Stylish
+*Autumn Palette
+*Figure Painter
+*Eggcelent Decorator
+*Messy Canvas 
+*Golden Bristles
+|gender=Female
+|pronouns=She/Her
+|release_date=8/08/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Brusha|extra=Paint Brush|Date=August 8, 2025|with={{CI|Dyle|name=true}}|Pronoun=She}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Brusha is a dull beige paintbrush. Her bristles droop over her face, and are dipped in three colors including purple, burgundy, and dull pink paint. She has an uninterested/bored looking expression. She wears a white turtleneck sweater and a purple apron. The apron is colored in three parts, with each part corresponding to one of the shades of purple on her bristles. Her eyes appear as semicircles, as the tops of them are covered by the base of her brush. She also has three eyelashes on the bottom of each eye. When hurt, Brusha appears to have a more visibly frustrated/annoyed expression with one of her eyes squint closed.
+|-|Vintage=
+Vintage Brusha is
+|-|Gloomy Sleeper=
+Gloomy Sleeper Brusha is
+|-|Scary Stylish=
+Scary Stylish Brusha is
+|-|Autumn Palette=
+Autumn Palette Brusha is
+|-|Figure Painter=
+Figure Painter Brusha is
+|-|Eggcelent Decorator=
+Eggcelent Decorator Brusha is
+|-|Messy Canvas=
+Messy Canvas Brusha is
+|-|Golden Bristles=
+Golden Bristles Brusha is
+</tabber>
+
+==Personality==
+Brusha is an outwardly proud and arrogant [[Toon]], who is an introverted, and emotionally complex recluse. She values skill, recognition, and especially her art highly. Her interactions reveal layers of frustration, hurt, and occasional defensiveness. Although irritable, defensive, and socially cautious with others, she has depth: her affection for art, her desire for recognition, and her subtle reactions to others' emotions demonstrate a sensitive Toon beneath the surface.
+
+Brusha has a very complicated relationship with {{CI|Tisha|name=true}} in particular. Brusha and Tisha used to be friends, according to a Teaser for Brusha's release, where there's a photo with her and Tisha holding hands and smiling, and a lore video in the [[Art Gallery]]. In the video, Brusha tries to console Tisha about her sadness of the [[Gardenview]] closure at first until Tisha snaps and says their friendship was made for the [[Show]] and that Brusha had to let go, despite it not being her fault for this. This hurt Brusha so badly and put her in a bad state of mind that it likely made her more irritable towards others, something mentioned in  {{CI|Dandy|name=true}}'s [[Gossip]]. This is also likely why a purple smudged out "X" over Tisha's face is on the photo. It's seen that they still care about each other to some extent, but their argument made approaching each other awkward, with the other person always dismissing them. This fight likely also caused Brusha to start calling out Toons and their personalities for being fake, manifesting in instances like telling {{CI|Sprout|name=true}} that he only helps and cares about others because the Show said so.
+
+Soon after, a blackout appeared, startling Brusha. However, noticing the security camera, she suspects she is always being watched over. After that, she is confronted by a mysterious Toon by the initial "D", where they ask her to talk to someone. This incident is what causes her frequent eye motifs in her painting, something noted by {{CI|Rodger|name=true}}. It could also be a partial reason for her defensive attitude towards some Toons.
+
+Based on her interactions with {{CI|Vee|name=true}}, she seems to cause conflict easily by arguing the topic further. Though this might be unintentional, and also, like Vee, she has a hard time with complimenting others, like when she interacts with {{CI|Finn|name=true}}. This evidence shows that she might be slightly egotistic and is shown to occasionally speak in a condescending tone. She has also demonstrated this with {{CI|Scraps|name=true}} as she shows off her superiority by saying her art is better than Scraps' "childish" art in their interactions. She does seem to show some sort of regret or remorse at moments for her actions or words, often shown stumbling over her words in some of her interactions. This could be the aftermath of the 'sessions' Brusha has been doing with {{CI|Teagan|name=true}}. However, she doesn’t outwardly apologize, such as when undermining Sprout's caring nature.
+
+Regarding these issues, Brusha seems to be trying to move on from this mindset, as shown in her and Teagan's interaction. She still cares for others under the surface, shown when she asks if Teagan would like a painting from her or when she tries to continue being friendly to Tisha.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Finish 65 [[Machines]]|Survive 5 Floors with {{CI|Tisha|name=true}} in your round|Purchase 20 [[items]] from [[Dandy's Elevator Shop]]|Survive 25 [[Floors]]|Travel 40000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active||As to where to find [[Machines]], you can use a [[Trinket]] like {{TI|Fishing Rod|name=true}} or have a [[Toon]] like {{CI|Vee|name=true}} to find them. Additionally, having a {{CI|Twisted Tisha|name=true}} can help with letting you reuse a Machine over and over.}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Toon in run|{{CI|Tisha|name=true}}}}|{{MastStrat|fourth|Buy Items}}|{{MastStrat|fifth|Reach/do floors}}|{{MastStrat|sixth|Meters|3Star}}}}
+
+==[[Toon of the Week]] Quests==
+{{TOTWQuests|Visit the [[Art Gallery]] [[floor]] 3 times.|Complete a [[machine]] debuffed by {{CI|Twisted Brusha|name=true}}.|Complete 20 machine buffs using '''{{AI|Brusha|name=true}}.}}
+
+===Rewards===
+*1 Quest completed: {{AT|Brusha Fan}} [[Title]]
+*2 Quests completed: {{SI|Golden Brusha!|name=true}} [[Sticker]]
+*3 Quests completed: {{Skin|Golden Bristles|toon=Brusha}} [[Skin]]
+
+===Strategies===
+*For the first Quest, you should just play normally, progressing through [[Floors]]. However, once you reach a high Floor like Floor 15, you should restart a run, as those early-run Floors spawn less the higher you go.
+*For the second Quest, just keep playing until you see {{CI|Twisted Brusha|name=true}} on your Floor. Then, just wait for her to vandalize a [[Machine]] and do it. It is recommended to play with friends/alone so this opportunity isn't stolen by others.
+*For the third Quest, play as Brusha and just repeatedly paint Machines you see.
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor Toon bring {{CI|Twisted Brusha|name=true}} to the [[Elevator]] to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive Ability. This will be easier Since Twisted Brusha is a {{Type|Common}} Twisted, she has a higher chance of appearing during the [[Floors]], and you only need 25% research to be able to obtain Brusha.
+
+==Strategies==
+Brusha is rather well-rounded, having 4{{Star}} [[Skill Check]] at the cost of lower [[Stealth]], with a specialization in extraction and support thanks to her [[Ability]], {{AI|Brusha|name=true}}.
+
+'''Artistic Inspiration''' works somewhat like a fusion of other Skill Check and Extraction Speed boosts, granting a +15% Skill Check chance boost and a +25% Extraction Speed boost to any [[Toons]] who extract from a painted [[Machine]]. This is quite useful—it can help the extraction of Toons with low Extraction Speed, or it can further boost those with already high extraction. The Extraction Speed boost is potent enough that it can roughly add a Star worth to any Toon, possibly even being more than a Star. Unlike other non-[[Trinket]] sources, this boost is infinite and applied to Machines themselves, which can be very beneficial as it means players can't waste it if they get spotted by a [[Twisted]] or get off the Machine to fulfill a different task. If Brusha only ever extracts buffed Machines, she has an average completion time the ''near'' equivalent of a Toon with 4 Stars in Skill Check and 5 Stars in Extraction Speed.
+
+Since her Ability passively highlights Machines nearby with a white highlight and white paintbrush icon, even through walls, she may be able to find them a bit more quickly than other Toons, especially ones in blind spots. She can also use her Ability to mark certain Machines as they'll be marked with an occasional pink highlight and orange paintbrush icon when buffed/painted, no matter how far away she is; the latter of which specifically is shown to all players, even through walls. These icons could for example be used to mark a primed/99% filled Machine. Do note that the buff does not have any effect on Treadmill Machines, as they only utilize [[Movement Speed]] and [[Stamina]], with Skill Checks having a set frequency irrespective of chance; you you can still mark them so others know where they are, particularly those that excel with Treadmill Machines.
+
+There are a few things you should note when it comes to the painting minigame. For one, check your surroundings before initiating it, as you could get caught off guard while painting. Moving too far away from the Machine you're attempting to buff will cancel the minigame and reset your cooldown to 0, making your Ability immediately ready again. {{TI|Peppermint Icing|name=true}} activates when the minigame is initiated, not when you buff a Machine; with this in mind you could activate the minigame and cancel it multiple times back to back, in order to regenerate a large amount of Stamina, since the cooldown is reset if you don’t buff a Machine. You can also run by a Machine while being chased by a Twisted, and then initiate the minigame to regain Stamina in order to escape more easily, or even divert Twisteds away from teammates. When you complete the minigame and buff a Machine, {{TI|Party Popper|name=true}} will activate as if you began extracting a Machine, which could prove useful as you can know if there's any Twisteds nearby who could interrupt extracting, or block a path to a different Machine you plan to buff next.
+
+Brusha can really shine when extracting with another Toon on a Duo Machine, as her Ability's boost will be applied to both herself and her teammate. Even if she herself doesn't extract from a buffed Duo Machine, she can still really heat up the extraction of two other players on one. She can also be really good when paired up with {{CI|Shelly|name=true}}. A painted Machine's 25% boost stacks with Shelly's 75% boost from {{AI|Shelly|name=true}}, totaling to a whopping 118.8%, meaning a team would practically have an infinite supply of {{II|Instructions|name=false}} and more. Plus, both of their boosts work pretty well with each other's Stat spreads.
+
+Artistic Inspiration's biggest weakness is when {{CI|Twisted Brusha|name=true}} and/or {{CI|Twisted Tisha|name=true}} is on the [[Floor]]. Both of the aforementioned Twisteds can change painted Machines into vandalized or normal states respectively, therefore removing the buff. On the other hand, you are able to simply re-paint them, though it can be inconvenient. You can however disrupt their special abilities by grabbing their attention, or have a distractor to maintain the painted Machines. These Twisteds are both {{Type|Common}}, meaning they'll show up more on early Floors rather than later, so in the long term this shouldn't be too big of an issue.
+
+Brusha can be a good Toon to have on the team if you plan on spawning {{CI|Twisted Dyle|name=true}}, as she can very easily buff Machines, therefore allowing [[Dyle's Floor]] to be completed faster. Her higher Skill Check makes her extract at an above average pace, while also reducing the risk of failing Skill Checks. The +50 Stamina capacity gained from completing the Floor is useful, as Brusha can afford to run more often while scouting for and buffing Machines, or running away from Twisteds (something she has more risk of due to her Stealth).
+
+Any [[Items]] can help make Brusha better at her tasks, extraction related Items work with her above average extraction Stats, and stack with her painted Machine boosts. Mobility Items can allow her to move quickly and easily navigate a Floor, or even protect teammates with her lower Stealth. Healing Items might be slightly more useful considering she has lower Stealth, which results in a higher likelihood of being chased by Twisteds, and thus more potential of losing {{Heart}}.
+
+Overall, Brusha is quite well-rounded, with a versatile Ability that can support others and boost herself. She can be pretty good in solo runs since she'll always boost Machines she herself will extract. It’s recommended to be cautious as her average speed and lower Stealth can still make certain Twisteds particularly dangerous, or cause excess Stamina loss.
+
+===Artistic Inspiration Effect===
+*{{StatCmpr|stat=Extraction Speed|change=25|affector=Artistic Inspiration}}
+Skill Check chance is increased from 25% to 28.8%.
+
+===Machine Times with {{AI|Brusha|name=true}}===
+{{MSpeed}}
+
+===Trinket Combinations===
+{{Preference}}With her generally all-rounded [[Stats]] and support/self boosting oriented playstyle, recommended [[Trinket]] combinations for Brusha include:
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Brusha to outrun all [[Twisteds]] outside of [[Panic Mode]] except for {{CI|Twisted Dyle|name=true}} at max speed, as well as protect teammates {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode. {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not interfere with 2{{Star}} [[Stealth]] distractors while buffing [[Machines]] or extracting;
+****Only use this Trinket set if there is a distractor that meets such criteria in your team.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Brusha to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and 4 Star [[Skill Check]] {{Small|(134 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting her 4{{Star}} Skill Check {{Small|(24.19 avg/21.98 with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, though it's only primarily effective while extracting painted Machines, since it stacks;
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Brusha|name=true}} [[Ability]] cooldown {{Small|(10s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Artistic Inspiration''''s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(8.8s)}};
+*'''{{TI|Peppermint Icing|name=true}}''', to regenerate 30 Stamina after initiating the minigame, allowing you to keep your Stamina in check while beelining between Machines, after chases, or during chases;
+*'''{{TI|Fishing Rod|name=true}}''', to reveal the location of all [[Machines]] at the start of the [[Floor]], facilitating buffing all/most of them;
+**Don't use this Trinket if you already know the Machine layout of most Floors, or have {{CI|Vee|name=true}} on your team.
+*'''{{TI|Paint Bucket|name=true}}''', to gain a speed boost after using your Ability to be able to travel between Machines faster or just benefit from buffing Machines in general;
+**Any Trinkets in '''Mobility''' or '''Extraction''', to have more versatility.
+
+
+==Dialogues==
+{{Brusha Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Brusha Ability.mp3|left|thumb]]
+|The sound that plays when Brusha uses her {{AI|Brusha|name=true}} [[Ability]]
+|-
+|}
+
+==Trivia==
+*Brusha and {{CI|Tisha|name=true}} are the first and currently only [[Toons]] to have more than two dialogues with another, that being four.
+*Brusha is the first [[Toon]] to release alongside a {{Type|Lethal}} Toon (excluding {{CI|Dandy|name=true}} as he was added upon release of the game), that being {{CI|Dyle|name=true}}.
+*Brusha shares the same [[Stats]] with {{CI|Looey|name=true}}.
+**This is the second time 2 [[Toons]] have shared the same Stats and didn't have base Stats, with the first instance being {{CI|Coal|name=true}} and {{CI|Flutter|name=true}}.
+*Brusha is the third [[Toon]] to not mind {{CI|Shrimpo|name=true}}'s bullying and react positively, thinking his bullying is praise to her art, with the first being {{CI|Finn|name=true}}, and the second being {{CI|Gigi|name=true}}.
+**This is surprisingly weird since Brusha usually starts arguments in some of her interactions, and the reason why she did this is unknown. However, it is possible she's hiding her insecurities behind this reaction.
+*Brusha likes to brag about her art. shown in some interactions like with {{CI|Scraps|name=true}}.
+*While Brusha is using {{AI|Brusha|name=true}}, she is shown painting the same painting that was in her Teaser, containing a purple background with purple eyes all over it.
+**This is the same condition with her Vintage [[Skin]], but in a monochrome color scheme and pie slit eyes.
+***However, Brusha's other Skins are shown painting a different portrait with the eyes crying or sad, except for Brusha's Figure Painter Skin, which is shown painting happier eyes, and Golden Bristles Skin with a variety of eyes.
+****Before [[Changelog|v0.14.1]] Brusha's Scary Stylish and Autumn Palette [[Skins]] used her default painting texture, before being changed to match the Skins.
+**The painting that is created in the minigame changes depending on the Skin Brusha has. The appearance of buffed/painted [[Machines]] also correlates to the equipped Skin.
+*Brusha and {{CI|Bobette|name=true}} share a few similarities, those being:
+**Having support based [[Abilities]] that boost two [[Stats]] at the same time.
+**They both have 2{{Star}} [[Stealth]], 4 Star [[Skill Check]] and 3 Star Movement Speed;
+**They're both females whose names start with "B";
+**Both of them have considerably different body types from the other Toons.
+**Both have had aura Abilities at one point, with Bobette still having her aura.
+*Brusha is the second [[Toon]] whose [[Introduction Card]] did not come with her upon her release, with the first being {{CI|Yatta|name=true}}, third being {{CI|Waxwell|name=true}}.
+*The models for Brusha's notebook and paintbrush are actually stored inside her head when '''Artistic Inspiration''' is not in use, similar to Vee's microphone also being stored in her head. This can been seen in-game if you zoom into Brusha while facing against a wall or go into her with another [[Toon]].
+*In [[Changelog|v0.11.4]], Brusha's [[Ability]] was "nerfed" to only give the Skill Check boost for 10 seconds, though it never worked.
+**This description was reverted in v0.11.5, probably indicating it was cancelled.
+**In v0.12.1, Brusha's Ability was buffed from giving a 25% Skill Check '''size''' boost to a 50% Skill Check boost. In v0.14.1, the Skill Check '''chance''' boost was also increased to 50%. In v0.26.1, it was completely reworked to its current mechanic.
+***However, before v0.14.1, the description said both would increase by 50%.
+***This could have been a glitch in her code setting both Skill Check chance and size to 50% instead of increasing it.
+***This makes her Ability one of the most modified, with 5 changes (the nerf, the revert of the nerf, the two buffs, and finally the complete rework). {{CI|Vee|name=true}} is right behind her with 2 Ability modifications to {{AI|Vee|name=true}} (her cooldown reduction in v0.10.1 and the addition of [[Machine]] highlights in v0.13.1).
+*According to her interaction with {{CI|Connie|name=true}}, Brusha isn't usually included in parties.
+**The reasons for this are unknown, but it may be due to her more introverted personality or other [[Toons]]' judgement on her hyper-fixation for art.
+**Another reason for this, based on that interaction itself, could be her arrogance to other Toons, and her habit of implying, or sometimes outright stating that they do not have the intelligence to understand her art. This might make Toons paint her in a narcissistic way.
+**Based on the Queens of Mischief music video, this could also be due to her reclusiveness after her fight with [[Tisha]] and meeting "[[D]]". She appears to voluntarily not show up to the band's performance, despite being invited at the time.
+*Brusha is left-handed, as seen in her [[Ability]]'s animation.
+*Brusha and [[Gigi]] are the only [[Toons]] to have their eyes naturally half-lidded due to their head shapes.
+*Brusha has a skinnier and taller body compared to most [[Toons]].
+**This was done intentionally by [[Qwel]] to branch out with more unique body types.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1419403862896541746</ref>
+**This makes her the first Toon in general to have a body type that's not the default or chubby type.
+*As of now, Brusha has the third lowest cooldown for an [[Ability]] out of any [[Toon]] in the game, having a cooldown of 15 seconds. {{CI|Bassie|name=true}} is the first place holder, with her Ability having a 0 second cooldown, while {{CI|Soulvester|name=true}} is the second with 3 seconds.
+*Brusha's Cooldown will only ever go down to 5 Seconds. Even with {{CDI|Rehearsal/Practice|name=true}} And {{TI|Ghost Snakes In A Can|name=true}}.
+*Brusha most likely painted the paintings in the small house section in the [[Halloween Floor]], as the painting she makes in her teaser and her [[Ability]] animation follows the same color scheme and abstract form the paintings have.
+*Brusha is the second [[Toon]] to have a visible neck, with the first being [[Scraps]].
+**{{CI|Brightney|name=true}} and {{CI|Razzle & Dazzle|name=true}} are both excluded from this, with Brightney's neck being a rod holding her lightbulb, while Razzle & Dazzle's neck is a ribbon strand.
+*Brusha used to not have interactions with nearly half of the [[Toons]] despite not being [[Event]]-exclusive.
+**{{CI|Blot|name=true}} also had a similar situation, but after [[Changelog|v0.10.1]], he had more interactions added, this was the same case for her as she got more interactions after v0.26.1, her 2026 [[Toon of the Week]], occurred.
+***Even so, unlike Blot, she still doesn't interact with [[Brightney]], {{CI|Poppy|name=true}}, [[Razzle & Dazzle]], and {{CI|Shelly|name=true}}.
+**This makes Brusha the second Toon that hasn't had at least one interaction with each base-game Toon in her release since v0.9.1, with the first being Blot.
+*Brusha's {{Skin|Figure Painter}} [[Skin]] is the first time Brusha is seen smiling while being playable, with her Golden Bristles Skin being the second time she can be seen smiling.
+*Brusha is the fourth [[Toon]] with dialogue outside of being in the [[Elevator]], using an [[Ability]] or finishing a [[Machine]].
+*Apparently, as indicated by [[Dandy]]'s [[Gossip]] and many images from [[Gardenview]] for [[Dandy's World (Show)|Dandy's World]], Brusha underwent a personality change after a certain point, probably shortly after her debut on the show. This is mainly indicated by the fact that Brusha is always smiling in any image, and how she is described in her [[Introduction Card]], where it is said that her friends "are always there to compliment her next big showcase", while it seems that nobody cares much about her works.
+*She is the last '''Non-Event''' {{Type|Common}} and last to appear in [[Dandy's Store]] in 2025.
+*Brusha's scream in the "[https://www.youtube.com/shorts/Nu7vgV2CIO8 Tapes 📼 | Dandy's World]" video is the [[w:c:soundeffects:Wilhelm_Scream|Wilhelm Scream]].
+*Ironically enough, Brusha and [[Tisha]] share some similarities.
+**Both of them have [[Abilities]] that generally support the players around them and have had changes, of which made them also self-beneficial.
+***Their Abilities additionally give a 25% boost to at least one [[Stat]].
+**Both have 4 Star [[Skill Check]].
+**Both seem to have a complicated relationship with [[Vee]].
+**Both of their names end with "sha".
+**Both of their [[Twisted]] counterparts are {{Type|Common}}.
+***They're also direct counters to their respective Twisted counterparts.
+*Brusha is the fourth [[Toon]] to get a [[Toon of the Week]], as well as the second female, and second Common to get one.
+**The Toon before Brusha was [[Tisha]], making this a technical "sequel" to her Toon of the Week.
+***Brusha is also the first Toon to get a [[Toon of the Week]] that had been fully optimized upon her initial release.
+*Brusha was the only [[Toon]] to have a Toggle [[Ability]] prior to her getting her own [[Toon of the Week]]. This also makes her the first Toon to have their Ability type change.
+*According to her interaction with [[Waxwell]], she loves the color purple, something seen throughout her artwork and her default design, and it is even confirmed to be her favorite color as seen in her interaction with {{CI|Toodles|name=true}}.
+*In a piece of footage with Brusha, there is a character who goes by the initials "[[D]]" and speaks a German/French-esque accent or possibly with a lisp, who approaches Brusha and her painting. They are unknown at the moment.
+**If one looks closely at the footage, a pair of the character's legs can be seen in the shot wearing black boots and tan/grey pants.
+***You can also see the mysterious figure running into the Art Gallery in the dark around the time Brusha notices the camera recording her upon further inspection.
+*Brusha has animations where she pulls out/puts away her notepad and paintbrush. These animations went unused until her [[Ability]] was reworked in her 2026 [[Toon of the Week]].
+*Brusha's interactions with {{CI|Rodger|name=true}} and [[Toodles]] are the longest ones, with 8 lines each.
+*Brusha's [[Toon of the Week]] is the first one to:
+**Not have [[Twisted]] encounterance as a quest.
+**Not change [[Toon]] renders (due to her releasing optimized).
+**Repeat a rarity ([[Tisha]], a Common, and then Brusha, a Common).
+**Be directly after a relative's (Tisha, being her 'friend') Toon of the Week.
+***This technically makes it a sequel to Tisha's Toon of the Week, following up the splitting of Tisha and Brusha.
+**Overhaul a Toon's [[Ability]] completely.
+*It is likely Brusha has changed out her paintings in her Gallery even after [[Gardenview]] had shutdown due to her dialogue when talking about her painting of her and [[Tisha]], one of the last ones she decided to display. There are also paintings of eyes displayed, which are linked to "[[D]]", who she met after the shutdown.
+*Brusha's graffiti on [[Machines]] glow, albeit really slightly.
+*Brusha is the second [[Toon]] to not speak when using their Active [[Ability]].
+*Brusha seems to neglect sleep for her art, as seen in her interactions with {{CI|Ribecca|name=true}} and possibly [[Tisha]]. Her {{Skin|Gloomy Sleeper}} [[Skin]] was her first Skin, featuring her with eyebags and wearing pajamas. Additionally, in "The End of the Beginning" video she seems to have worked on her artwork so much to the point she looks like she's about to pass out or at least is in a state of fatigue. This seems to have only started happening after meeting "[[D]]".
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

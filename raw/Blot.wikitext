@@ -1,0 +1,250 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#555c72,#101114,#d6d6d8); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Long}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Blot Render.png|Render
+Blot Full Render.png|Full Render
+Blot Icon.png|Icon
+Blot Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|1}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|5}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Blot|name=true}}<br>{{Small|''(Active)''}}}}<br>This [[Toon]] places a decoy that attracts nearby [[Twisteds]] and has 1 [[Heart]]. This ability costs 10 [[Tapes]] and has a cooldown of 60 seconds. For each extra Blot on a team the cost of the decoy costs an additional 10 tapes.
+|requirement_1={{Currency|Ichor|3000}}
+|requirement_2=Complete all [[Mastery]] Quests on {{CI|Looey|name=true}}
+|requirement_3=Complete all [[Mastery]] Quests on {{CI|Yatta|name=true}}
+|skins=*Vintage
+*Show-Time
+*Cozy Pink
+*Sanguine Silence
+*Chilly Penguin
+*Fancy Frosting
+*Inky Skull
+|gender=Male
+|pronouns=He/Him
+|release_date=5/23/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Blot|extra=Ink Blob|type=Single|Pronoun=He|store=Dandy's|Date=May 23, 2025}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Blot is a slate gray ink blob. His head is teardrop shaped and has parts of it dripping down the left side of his face and the right side of his head, giving it a hair-like appearance. He also has light shines shaped as bubble-like, upside-down exclamation marks on both ends of his hair and a longer one on top of his head, making him appear glossy. The ink also drips around his neck. He wears mime makeup around his singular right eye, along with triangular marks above and below the eye, and his cheeks are a darker shade of gray. He also has no visible mouth. He wears a black and white striped shirt and white gloves with two light gray stitches. His legs gradually darken with a slightly darker wavy layer below the knees and an even darker one below for his feet which seem to melt into the ground, being cone shaped and leaving an ink trail. When attacked, he has a forlorn face.
+|-|Vintage=
+Vintage Blot is now purely gray without any subtle blue hues and has an additional layer of gradually darkening ink in between the second and third. His shirt is also now black with white stripes and his gloves black with white stitches. His singular eye is also pie-cut to the right.
+|-|Show-Time=
+[[Show-Time Cosmetic Pack|Show-Time]] Blot is dark cyan with legs that darken into a midnight blue, while the tip behind his head is slightly longer with a similar pattern to his feet. He has white face paint with teal makeup around his eye and additional dark blue paint marks, specifically an upside-down arch above his eye resembling an eyebrow and a teardrop below. His shirt has also been recolored cream yellow with light orange stripes and his gloves have red stitching. He wears a bright red beret with a loop pattern colored the same light yellow and a darker red lower half and tail. He now wears shorts that sport a similar pattern, but they are primarily maroon with the lighter red below the loops. Instead of ink on his neck, there is a red bandana with two short tails that have darker tips and a soft yellow stripe separates it from the rest of the bandana. Similarly, he wears a satchel with a dark red handle that hangs on his right shoulder while the other components, consisting of a dark flap, red body, and a deep cyan droplet in a gold frame that seals the satchel, rest under his left arm. His inky trail is also now the thick, blue shade used for his feet. He has an additional orange and blue gradient trail of tickets labeled "TICKET," circus tents, circles, triangles, squares, arches, and squiggles. He also produces star shaped twinkles that are similarly colored.
+|-|Cozy Pink=
+Cozy Pink Blot is burgundy pink with darker shades for his makeup and feet. He also has three light freckles on his cheek, similar to the speckles on his legs. He wears a light pink bandana over his head with a white, scalloped pattern on the end of it. His shirt is also light pink and has mauve colored horizontal and vertical stripes, which are white where they intersect. The stitching on his gloves are also light pink.
+|-|Sanguine Silence=
+Sanguine Silence Blot is dark gray with blacker layers on his feet and similar layers on his hair. His eye appears with an angry expression and red makeup under it. He wears a black vampire cape with a red interior, a long, halved, cone-like collar, and four reverse-scallops at the edge. The cape also has seven evenly placed darker red stripes on the inside. He wears a crimson button shirt with two black buttons, and the sleeves are colored black.
+|-|Chilly Penguin=
+Chilly Penguin Blot is periwinkle with white face paint and a yellowish-orange cheek, while his legs turn into darker shades of periwinkle. He also dons a pair of earmuffs with a dark periwinkle headband and cups that are covered in white fluff. He wears a shirt with white fluff on the hem and collar and is as light as his shines with a dark periwinkle penguin design on it with a white, heart-shaped face, two dotted eyes colored black, and a yellowish-orange bill.
+|-|Fancy Frosting=
+Fancy Frosting Blot is pink with white face face paint, along with pastel purple makeup and pastel pink cheeks. His legs have lighter layers instead of darker, and his hair is now colored with similar lighter layers, leaving only the top of his head with a shine. His shirt has vertical stripes in pastel shades of pink, turquoise, yellow, and purple, and his sleeves are pastel yellow with white, scalloped cuffs. His gloves' stitching is also now pastel pink, and he wears white, puffy, scalloped shorts. He wears a standard bow tie colored pastel turquoise on his neck where ink would normally be situated, and also wears one on the right of his beret placed on the right side of his head. The beret has a white, petallike base and is light purple with a six-petaled, light yellow flower outline on the center with the inside being light pink and the button-shaped tail being light green.
+|-|Inky Skull=
+Inky Skull Blot is gray with legs and hair darkening to black, and the shine on the left side of his hair is longer like the top of his head, while the right side’s is arch-shaped. He now appears angry and has orange makeup around his eye, along with white face paint with three tooth-like markings on its lower half, resembling a skeleton skull. On his head, he sports a pair of dark gray headphones with orange ear pads and a black headband. He wears a black tee shirt with a white skull design on it, and his longer sleeves underneath are orange with black stripes, while the stitching on his gloves are colored black.
+</tabber>
+
+==Personality==
+Despite what his looks might entail, Blot is actually quite a silly, funny, witty, and decently friendly mime-like [[Toon]] that is featured in the Circus Troupe, including his friends {{CI|Looey|name=true}} and {{CI|Yatta|name=true}}, as it is hinted by his walking and running animations, along with his dialogues. He's only capable of speaking backwards. He often uses this quirk of his to quip with the other Toons, whether it's to make fun of them without them knowing and making sarcastic remarks (even being seen talking in the third person when referring to Toons he's actively interacting with), or to simply toy with their understanding of what he's actually saying, showing his silly side. Sometimes this does backfire when said Toons shut down these quips by questioning him. Even so, he still shows a degree of concern and empathy towards Toons that he thinks are not doing well, and tries his best to cheer them up, as seen in his interactions with {{CI|Astro|name=true}} and {{CI|Boxten|name=true}}. As he is a mime, he seems to love {{wp|pantomiming}}, also shown while discussing act ideas with Looey and reacting with intrigue when {{CI|Brightney|name=true}} mentions performing arts literature.
+
+Alongside his cheerful personality, he also seems to demonstrate a more mature and cynical side. He seems to thoroughly dislike extracting and runs in general, as shown in his "finishing extraction" lines, "descending to the next floor" lines, and some of his interactions. His dislike of extracting might reflect on his poor extraction stats. He appears to want to keep close tabs on his troupe, as hinted at by his interactions with {{CI|Vee|name=true}}, Looey, and Yatta, acting somewhat like the "parent" of the group. He seemingly has a bit of a love-hate relationship with Yatta in particular: sometimes he screams out demands at her when he's fed up with her carelessness, and other times he seems to find amusement in her antics.
+
+Even though his troupe (mostly Yatta) seems to throw him around for a loop more often than not, he still seems to not want to replace his friends for the world, as proven in his interactions with Vee. This confirms that he deeply cares about his friends despite their setbacks.
+
+The same cannot be said for Toons such as {{CI|Glisten|name=true}}, {{CI|Finn|name=true}}, and {{CI|Scraps|name=true}}. Their way of being and odd requests seem to tick him off to the point of tiring him out, showing his more cynical side.
+
+Overall, Blot is a witty and sarcastic backwards-speaking Toon who occasionally finds enjoyment in making fun of others. He gets exhausted in regards to Toons whose antics he's not a fan of, but he's also mature enough to know when to drop the act when someone's not doing well, and to care for his close friends in the Circus Troupe.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 40 times|Pick up 100 [[Research Capsules]]|Survive 30 [[Floors]]|Survive 10 Floors with {{CI|Looey|name=true}} and {{CI|Yatta|name=true}} in your round|Travel 120000 Meters|Use 100 [[Items]]}}
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second and sixth|Collect and use|CapsAndUse}}|{{MastStrat|third|Reach/do floors}}|{{MastStrat|fourth|Toon in run|{{CI|Looey|name=true}} and {{CI|Yatta|name=true}}}}|{{MastStrat|fifth|Meters}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second and third requirements, try completing {{CI|Looey|name=true}} and {{CI|Yatta|name=true}}'s [[Masteries]] by going on multiple runs, doing what each quest tells you to do, It is recommended that you go on an organized Run, so you can go further and complete more progress on each quest.
+
+==Strategies==
+Due to his poor Extraction stats, Blot is best utilized as a Distractor due to his high mobility, having 4{{Star}} [[Movement Speed]] and 5 Star [[Stamina]]. However, he can also be proficient in the Support and Survivalist category due to his unique Active [[Ability]], {{AI|Blot|name=true}}, which can potentially even save you or your teammates from death if used correctly. In general, Blot can be a pretty good Distractor/Support/Survivalist, with his only main downsides being his 1 Star [[Skill Check]] and 2 Star [[Extraction Speed]].
+
+Blot's main specialty is his Ability. '''Blot Jr.''' is a decoy that diverts [[Twisteds]] attention on activation; This also takes aggro off of other [[Toons]], even {{CI|Shrimpo|name=true}}, as '''Blot Jr.''' has an astoundingly low -999 [[Stealth]]. This can basically be used as a "stun" tool, since when Blot Jr. is killed by a Twisted, that Twisted's attack waiting time will apply as if it attacked a regular Toon, giving you time to run away. Do note that if a {{Type|Main}} or {{Type|Lethal}} Twisted kills '''Blot Jr.''', their attack sound plays, so be sure to tell your teammates that it was your decoy, and not an actual Toon, as this can temporarily cause panic. It should also be noted that, if you have multiple Twisteds chasing you and activate '''Blot Jr.''', they will all start going toward the decoy, but their attention will immediately divert back to you; only the Twisted who attacked Blot Jr. will be "stunned." It's recommended to get a decently large distance away, then activate '''Blot Jr.''' and go around a corner of an island nearby. If Blot Jr. is undisturbed, he will automatically die after 10 seconds; if you plan on placing him at a location ahead of time, make sure to time it so he can actually grab aggro when a teammate passes by a certain area (for example, near the [[Elevator]] to help a distractor or teammates in a chase more safely enter).
+
+It's important to remember that Blot Jr. won't save you or others from long-ranged Twisted attacks ({{CI|Twisted Goob|name=true}}, {{CI|Twisted Gigi|name=true}}, and {{CI|Twisted Scraps|name=true}}), {{CI|Twisted Squirm|name=true}}'s grab, activated {{CI|Twisted Razzle & Dazzle|name=true}}, activated {{CI|Twisted Rodger|name=true}}, {{CI|Twisted Blot|name=true}}'s hands, or placed traps ({{CI|Twisted Sprout|name=true}} and {{CI|Twisted Bassie|name=true}}). However, Blot Jr. can put the 3 long-ranged Twisted's attacks on cooldown if they hit him, which could be useful if they threaten to corner anyone, or are near the [[Elevator]]. He can also use Blot Jr. to force Twisted Sprout into spawning a tendril, controlling the location to prevent it from being somewhere inconvenient or dangerous (such as under a Machine).
+
+It is advised not to use '''Blot Jr.''' near where your distractor is distracting unless you are given express permission (like [[Panic Mode]]), as it can pull the Twisteds away from them, which could potentially endanger the team.
+
+'''Blot Jr.''' can be used in a specific few ways, such as: 
+*"Stunning" a Twisted chasing you or someone else, giving you/them time to escape;
+*At Panic Mode, to divert a Twisted's attention away from Toons trying to get in the Elevator;
+*As a less effective {{II|Air Horn|name=true}}, as you can place Blot Jr. behind a Toon being chased to "stun" the Twisted, and then take aggro. Note this is less effective than using an actual Air Horn, especially with multiple Twisteds;
+*Taking aggro of Twisteds away from a Toon, and then using '''Blot Jr.''' to run away. Don't do this for a Distractor though, as this can mess up their loop;
+*Rounding up the Twisteds, placing your decoy and giving them to your distractor so they don't waste Stamina gathering them;
+*If you're attempting the {{CDI|TIME'S UP|name=true}} challenge card, your decoy can reset {{CI|Twisted Dyle|name=true}}'s speed, and/or buy time for you or your teammates to escape.
+
+'''Blot Jr.''' costs 10-80 {{Tape|name=true}} depending on how many alive Blots there are in a round, so it's not a good idea to have a significant amount of them in a run. This can also cause resource strain if {{CI|Sprout|name=true}} is present, as the already large amount of Tapes he needs, combined with the fact each Blot in-game will need a larger amount of tapes for decoys, is likely to result in Tapes having to be spread out evenly, meaning both Sprout and each Blot in-game will get fewer Tapes. However, if there's only 1-3 Blots present (cost being at 30 if 3 are present), then this shouldn't be too much of an issue, since '''Blot Jr.''' will be decently cheap and be usable almost immediately.
+
+Blot can be a good distractor in [[Ichor Leaks]] due to his immunity to the {{Debuff|Slow|I}} and Ichor Stains, negating the risk of lost speed, as well as obscured vision. This is all without the need for {{TI|Train Whistle|name=true}} (though it can still help when distracting {{CI|Twisted Vee|name=true}}). Therefore you could volunteer to distract in Ichor Leaks, if you’re a backup distractor, giving the main distractor a break or letting them handle slower Twisteds.
+
+Blot has more advantages compared to other Toons in Dyle runs. His high Movement Speed and Stamina stats provide great survivability, and as said above he can reset Twisted Dyle's speed meter in sticky situations and buy time. While his subpar extraction stats can hinder him, especially his 1 Star Skill Check, this can be easily negated with {{TI|Mime Makeup|name=true}}, eased with {{TI|Thinking Cap|name=true}}, and ignorable altogether with [[Treadmill Machines]].
+
+Overall, Blot is a good pick for Distracting and Surviving (due to his Stats being very similar to other survivalists and distractors), as well as Supporting.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Blot:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket unlocks the role of distractor to the holder {{Small|(19.3 walk speed)}}. Here are some options to pair Dog Plush with;
+***'''{{TI|Speedy Shoes|name=true}}''', to out-walk most [[Twisteds]] outside of [[Panic Mode]] {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to be able to be faster {{Small|(21 walk speed)}}, though this only works half the time;
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract;
+***'''{{TI|Scrapbook|name=true}}''', to take aggro more easily from 3{{Star}} Stealth Toons;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***Any of the Trinkets in the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+*The following Trinkets help Blot extract by dealing with his main deficiency, which is his 1{{Star}} [[Skill Check]] {{Small|(50 skill check size)}} and 2 Star [[Extraction Speed]] {{Small|(0.85 extraction speed)}}:
+**'''{{TI|Vee's Remote|name=true}}''', to instantly complete [[Machines]] in dangerous locations, such as dead ends and open areas, as well as gain 10 immediate {{Tape|name=true}}/1 '''Blot Jr.''' usage;
+**'''{{TI|Mime Makeup|name=true}}''', to more safely extract by removing the danger of missing Skill Checks;
+**'''{{TI|Thinking Cap|name=true}}''', to increase Skill Check Size, helping to fail less Skill Checks, though Mime Makeup can be more beneficial in some cases;
+*If the player has no issues with small Skill Checks, they may consider using '''{{TI|Magnifying Glass|name=true}}''' or '''{{TI|Participation Award|name=true}}''' to help with [[Machine]] extraction more easily, even if the Skill Check window is far smaller. Though, do note that if the player has lag/missing frames, they may want to consider other Trinkets for team progression, as Blot is typically better with Treadmill Machines.
+**Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Blot|name=true}}'s [[Ability]] cooldown {{Small|(55s)}} to protect teammates.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Blot Jr'''<nowiki/>'s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(50.2s)}}.
+
+====Other====
+*'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his high [[Stamina]] and slow extraction.
+'''Note: It is NOT recommended to use {{TI|Blushy Bat|name=true}} or {{TI|Soul Sword|name=true}} on '''{{AI|Blot|name=true}} '''as they don't work with it.'''
+
+==Dialogues==
+<font size="2">Hover your cursor/tap on Blot's textbox to view his non-reversed dialogues. This doesn't work in some devices.</font>
+{{Blot Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:BlotJrAbility.mp3|left|thumb]]
+|The sound that plays when Blot uses his {{AI|Blot|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Blot is part of a Three [[Toon]] Circus Act known as the '''Circus Troupe''', with his role being that of a mime. The other two members are {{CI|Looey|name=true}} (a clown) and {{CI|Yatta|name=true}} (an acrobat).
+**Blot seems to be the calmest and most responsible member with helping Looey find his juggling pins, as seen in their interaction and Blot telling {{CI|Vee|name=true}} that Yatta and Looey need him.
+*Blot was first officially mentioned in [[Changelog|v0.7.1]] during an interaction between [[Yatta]] and {{CI|Glisten|name=true}}.
+**He's also briefly mentioned in an interaction between [[Looey]] and {{CI|Teagan|name=true}}.
+**Blot's earliest hint dates back to December 7, 2024, when [[Qwel]] reacted to someone asking about if the Circus Troupe includes a mime.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1314958870237675591</ref>
+*Blot is [[Qwel]]'s favorite Circus Troupe [[Toon]] design.<ref>https://discord.com/channels/969934252844138496/1338250424926343289/1353052614870175827</ref>
+*Blot is the third [[Toon]] to get released by himself, as well as the first male {{Type|Rare}} Toon.
+*Blot is the third [[Toon]] to feature two different idle animations, with the first being [[Glisten]], and the second being {{CI|Razzle & Dazzle|name=true}}.
+**[[Yatta]] and {{CI|Bassie|name=true}} could count, though their other animation is very consistent and possibly too fast for it to be counted as a separate idle/fidget.
+*Blot leaves a trail of ink when he moves. He is currently the only [[Toon]] to have a trail in their default [[Skin]]. The trail itself is similar to the [[Ichor]] trails left by some {{Type|Main}} [[Twisteds]] and {{CI|Twisted Gigi|name=true}}.
+*Blot is the sixth non [[Main Character]] [[Toon]] to have a 5{{Star}} in a Stat, and the second with 5 Stars in Stamina specifically, with the first being {{CI|Scraps|name=true}} in the latter case.
+*[[Blot Jr.]]'s eye drawing is also used as {{CI|Twisted Blot|name=true}}'s pupil.
+*It is implied that Blot knows how to do shadow puppets since [[Twisted Blot]]'s hands resemble that of the shadow of a shadow dog puppet when scouting out players.
+*Blot is the second [[Toon]] to wear gloves/hand coverings by default, with the first being {{CI|Teagan|name=true}}, and the third being [[Soulvester]].
+*In the TV [[Show]], Blot does not speak as confirmed in one of {{CI|Dandy|name=true}}'s [[Gossip]] dialogue. This likely meant Blot was able to teach himself or was taught how to speak (even if it was backwards) and explains why he knows sign language since that's how he would have communicated. At the same time, it could have been because they didn't want Blot to speak in the show due to the difficulty in understanding his reversed speech, and Blot might've always known how to speak.
+**This makes him and {{CI|Flutter|name=true}} the only mute characters within the [[Show]].
+*Blot is currently the second anthropomorphized [[Toon]] to talk differently compared to everyone else, the first being [[Flutter]].
+**He is also the only Toon to talk backwards, and the reason why he talks this way is unknown.
+**Unlike Flutter, not all Toons can understand Blot: the only ones that can are {{CI|Gourdy|name=true}}, [[Looey]], [[Yatta]], [[Vee]], and [[Dazzle]]. The others have a harder time understanding him. However, he's still able to communicate with other Toons if he uses short and simple sentences so that the other Toons can understand Blot's words, as seen in {{CI|Boxten|name=true}}'s dialogue.
+***[[Vee]] uses a built-in translator, and [[Dazzle]] can only understand him somewhat, not to the same degree as [[Yatta]] or [[Looey]]. Razzle, on the other hand, has no idea what he's saying. {{CI|Cosmo|name=true}} and {{CI|Sprout|name=true}} also understand him sometimes, but he usually uses short phrases for talking. Gourdy seems to fully understand him like Yatta and Looey.
+****Cosmo and Sprout's reason could also be their helpful personality making them want to learn how to understand him so they can cater to his needs.
+***Blot would often use this gimmick as an excuse or an advantage to mock, tease, or make sarcastic remarks on other Toons without them knowing. Of course, this doesn't always work as he would expect, and that said Toons would usually shut down his comments by asking him what he was really saying.
+*Blot does the art of pantomiming and general miming.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1375116135346737172</ref>
+*Blot's [[Ability]] name, {{AI|Blot|name=true}}, was changed to '''Decoy''' for some reason shortly after his release. It was changed back the same day.
+*Blot is the third Toon to have an ability that costs {{Tape|name=true}}, the previous two being [[Teagan]] and [[Sprout]].
+**His Ability was the only one to not cost 100 Tapes prior to [[Changelog|v0.10.1]], as in that update Teagan's ability price went from 100 Tapes to 75. (Though, Blot still has the lowest tape price, unless there is 8 Blots.)
+*Blot, {{CI|Shrimpo|name=true}}, [[Cosmo]], and [[Bassie]] are the only Toons with 1{{Star}} Skill Check.
+**Blot and Bassie are the second slowest extractors, with Shrimpo being the slowest.
+**Blot was the last to release out of the four, with the first being Shrimpo, the second being Cosmo, and the third being Bassie.
+*Blot is the third non-[[Main Character]] [[Toon]] that requires [[Mastery]] of another Toon (which are [[Looey]] and [[Yatta]]) to unlock them, with the first being {{CI|Goob|name=true}}, and the second being [[Looey]].
+**He is the second non-Main Character to require *full* Mastery, after Looey.
+**He is also currently the only Toon that requires 2 complete Masteries to be unlocked, needing full Mastery on Looey and Yatta.
+*Blot, [[Scraps]], [[Sprout]], and {{CI|Bobette|name=true}} have 5 Stars on [[Stamina]].
+*Blot is the third [[Toon]] to have a unique number of stars in each [[Stat]], with the first being [[Connie]], and the second being [[Yatta]].
+**He is the only male to do so.
+*Blot is currently the second most expensive non-{{Type|Main}} [[Toon]] in the game, costing 3,000 [[Ichor]] to unlock.
+**His total cost makes him the most expensive Toon; to unlock Blot, [[Looey]] and [[Yatta]] need finished [[Masteries]], with Yatta's requirements being to have at least 15 other Toons. This makes it cost a minimum of 18,000 Ichor to unlock him if one just started the game.
+***If all the [[Event Toons]] (except the [[Mains]]) are included, the minimum Ichor required goes down to 7200 and 2500 of each Event [[Currency]].
+*Blot has similar mechanics and gameplay to [[Sprout]] in terms of both their [[Abilities]] and [[Twisteds]]. 
+**They share almost the same [[Stats]], with Blot having one less Star in [[Skill Check]].
+**Their [[Abilities]] both require the use of [[Tapes]] and the cost increases when more of them are in the round.
+***They also can save a [[Toon]].
+**Their [[Twisted]] counterparts spawn black traps that damage [[Toons]] close to them.
+***However, unlike {{CI|Twisted Sprout|name=true}}, [[Twisted Blot]] is stationary.
+***Their [[Twisteds|Twisted counterparts]] also appear in the game's thumbnail.
+*Blot's voting icon had his arms extend past his leg which have been shortened.
+*Blot is the fourth [[Toon]] after {{CI|Astro|name=true}}, {{CI|Rodger|name=true}}, and {{CI|Ginger|name=true}} to only have one eye. This was proved in a storyboard artwork found in the [[Artist]] [[Floor]] featuring Blot, [[Looey]] and [[Yatta]], where Blot lifts his "hair" covering the left side of his face (right in our perspective), revealing no second eye, and in his interaction with Rodger. Why he has one eye is currently unknown.
+**This also means that he is the second Toon to only have an eye for their face, after Rodger, and if counting, the {{TI|Whispering Flower|name=true}} [[Trinket]].
+*Blot is the fourth Toon after [[Rodger]], [[Flutter]], and {{CI|Flyte|name=true}} to not have visible mouths.
+**{{CI|Soulvester|name=true}} could technically count, but the only reason is because of his helmet covering his face.
+*Blot is the third [[Toon]] to have an [[Ability]] that loses LoS (Line of Sight) of [[Twisteds]], with the first being [[Connie]], second being [[Bobette]], and the fourth being [[Soulvester]].
+**His is the only one to not affect Twisteds chasing him.
+*Blot is quite different compared to the other Circus Troupe members.
+**He doesn't have a predominant yellow color and any secondary colors, like [[Looey]]'s green and purple and [[Yatta]]'s blue and pink.
+**He doesn't have a Passive [[Ability]].
+**He doesn't have 2 Star Stealth.
+**He is based off an ink blot, something not usually found in parties like Looey as a balloon or Yatta as a piñata.
+**His [[Twisted Blot|Twisted counterpart]] isn't {{Type|Common}}.
+**He doesn't have a fan made [[Skin]], like {{Skin|Dapperly Festive Looey}} and {{Skin|Choco Cones Yatta}}.
+***Although {{Skin|Chilly Penguin Blot}} wasn't designed by [[Qwel]], the person who designed this skin is currently on the development team, which doesn't make this skin fanmade.
+**His name is only 4 letters long and not 5, like Looey and Yatta.
+***His name has no repeating/double letters unlike L'''oo'''ey and Ya'''tt'''a. He also has no Y in his name either.
+**He has below average extraction, an antithesis to the other members's above average extraction.
+**He has 2 idle fidgets.
+**He does not have a custom damage effect.
+**He has a special way of speaking unlike Looey and Yatta.
+**His Ability doesn't directly interact with the [[Health]] system.
+*If timed correctly, [[Blot Jr.]] can be placed in the elevator door, and when the door closes, it will still be there.
+*Blot is one of the first non-[[Main Character]] [[Toons]] to get a [[Gamepass]] [[Skin]], with the other Toons being [[Looey]], [[Razzle & Dazzle]], and [[Yatta]].
+**He is the first Toon to have a [[Gamepass]] [[Skin]] as one of their first Skins, being from the [[Show-Time Cosmetic Pack]].
+*Blot is one of the first [[Toons]] to have both his normal counterpart and [[Twisted Blot|Twisted counterpart]] in a thumbnail, the other being [[Razzle & Dazzle]].
+**Both Twisted Blot and Razzle & Dazzle are in the [[Changelog|v0.10]] banner.
+*Blot has the highest permanent mobility compared to all of the non-[[Main Character]] [[Toons]] when ignoring [[Abilities]], having 9 Stars in [[Movement Speed]] and Stamina combined. However, Toons like [[Looey]] or [[Flutter]] can go much faster or further than Blot with the help of their Abilities.
+**Therefore, Blot needs to travel the most meters for a non-Main Character for his [[Mastery]], with 120,000 meters.
+*[[Blot Jr.]] does not work on long-ranged attacks from [[Twisteds]] such as {{CI|Twisted Goob|name=true}}. However, it will cause [[Twisted Sprout]] to summon a tendril at his location and {{CI|Twisted Bassie|name=true}} to shoot out vines towards him.
+*Blot knows sign language according to a [[Minor Characters|kid]]'s drawing about him, where it talks about Blot using sign language with him, and when [[Gourdy]] asks Blot to teach him how to sign. This is reflective of real mimes who don't really talk, and use other forms of communication instead of speech such as gesticulation.
+**It could also be the fact he never spoke in the [[show]], so other communication forms were needed and learned.
+*His ink quality causes some trouble for him, like him leaving footprints around or staining things. Some even take advantage of this, with it being a running gag that all the artist characters ({{CI|Brusha|name=true}}, {{CI|Ribecca|name=true}}, and [[Scraps]]) request for his help with their work, much to his annoyance.
+*Blot wears 3 layers of gloves as his ink seeps through them easily, as confirmed in one of Blot's interactions with [[Razzle & Dazzle]].
+*In a dialogue with [[Teagan]], Blot explains how he feels annoyed with [[Finn]] and [[Scraps]], but [[Teagan]] doesn't understand him correctly.
+*Blot, along with [[Finn]], [[Gigi]], [[Yatta]], and [[Brusha]] are one of the only [[Toons]] to not have a full icon.
+*Blot, along with {{CI|Pebble|name=true}} and [[Toodles]], is one of the only [[Toons]] to be predominantly grayscale.
+**Unlike them, for his {{Skin|Vintage}} design, he was given a lighter color rather than a darker one.
+*Blot seems to hate going on runs due to the fact that it involves extracting [[Machines]], which he finds boring and stressful. His minimal extraction [[Stats]] might be a factor to this.
+*Along with [[Connie]], {{CI|Soulvester|name=true}}, [[Ribecca]], and [[Flutter]], Blot is one of the 5 [[Toons]] to be immune to the {{Debuff|Illness|III}} and {{Debuff|Slow|I}} [[Debuffs]], as well as [[Ichor]] Stains from [[Ichor Puddles]]. 
+*Blot is the first [[Toon]] capable of "stunning" [[Twisteds]], even if it is only one at a time and if from an [[Ability]] or, more specifically, their attack cooldown. The second to have this capability is [[Soulvester]] (with his adding extra time to the base attack cooldown).
+*The sound Blot makes when he uses '''Blot Jr.''' is the same as the sound [[Yatta]] makes when '''Piñata Party''' is activated.
+*Blot's {{Skin|Sanguine Silence}} [[Skin]] is the first and currently only Blot Skin to make a [[Blot Jr.]] with a different design, with Blot wearing a black cape while Blot Jr has bat wings and ears.
+*In development, Blot's name could have been "Blott" (with two T's at the end), since multiple parts of the code refer to him as Blott, even after his release.
+**In fact, a bit after his release, when a player attempted to purchase him without all requirements met (resulting in an unsuccessful purchase), an error appears saying "You do not meet the requirements for the Blott!".
+***Additionally, when getting research from [[Twisted Blot]], the [[Capsule]] used to say "Twisted Blott".
+*Blot is the last '''Non-Event''' {{Type|Rare}} to be in 2025.
+*Blot reveals in dialogue with [[Gourdy]] that his mime performances are proficient enough for them to become a way of communicating with others. Gourdy himself is also practicing this talent, with Blot as his teacher. The Queens of Mischief music video also reveals he can use this talent of his as a dance move.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]
+[[Category:Toons with Relatives]]

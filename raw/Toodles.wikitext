@@ -1,0 +1,147 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#434343,#2B2B2B,white); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Toodles Render.png|Render
+Toodles Full Render.png|Full Render
+Toodles Icon.png|Icon
+Toodles Full Icon.png|Full Icon
+Toodles Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|4}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Toodles|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can roll for a 15% boost to a random Stat that lasts for 10 seconds. Has a cooldown of 25.
+|requirement_1=350 [[Ichor]]
+|requirement_2=Survive 15 [[Floors]]
+|skins=*Default
+*Vintage
+*Junior Detective
+*Candy Critter
+*Dog Plush Onesie
+*Festive Dress
+*Little Helper
+*Tea Party Guest
+|gender=Female
+|pronouns=She/Her
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Toodles|extra=Eight Ball|Date=June 14, 2024|Pronoun=She|type=Single}}
+
+==Appearance==
+Toodles' head is a deep gray, almost black 8-ball with a white spot on her forehead and a light gray number "8" stamped on it. She has black circle-shaped blush underneath her eyes on her cheeks and wears a white, sleeveless dress with a gray hood and two black drawstrings hanging from it. She usually has a playful grin on her face that reveals her teeth. In her Introduction Card artwork, she is seen holding a purple balloon.
+
+==Personality==
+Toodles is an energetic and optimistic [[Toon]] who likes to help out and prove herself capable for her age. She doesn't like to admit her weaknesses, such as her fear of the dark, as shown in her interaction with {{CI|Brightney|name=true}} and in one of her dialogues when descending to the next floor. She shows her fear more in her interaction with {{CI|Shrimpo|name=true}}, where she says she finds elevators scary, or when bringing up {{CI|Goob|name=true}}'s sharp teeth and reacting in evident fear from {{CI|Shelly|name=true}}'s description of dinosaurs. She can also be quite curious, and wants to help and doesn't like it when {{CI|Rodger|name=true}} doesn't allow her to help him in his cases. 
+
+However, she shows a smug side when it comes to Toons like {{CI|Scraps|name=true}} and {{CI|Glisten|name=true}}, as she makes savage remarks about them both, teasing Scraps by saying her tail is better than her dress, and exposing Glisten's constant complaining to her [[Rodger|father figure]]. Sometimes these comments don’t seem to be intentional, and instead come from a place of immaturity and social unawareness.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 75 times|Finish 30 [[Machines]]|Survive 30 [[Floors]]|Use 35 [[Items]]|Pick up 35 [[Items]]|Travel 52500 meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active}}|{{MastStrat|second|Machine}}|{{MastStrat|third and sixth|Collect and use|Use}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|fifth|Meters|3Star}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, focus on going on multiple runs and try to survive as many [[Floors]] as you can, a solo run can also be useful, or just go on an organized Run and go through as many Floors as you can, at least survive until Floor 16.
+
+==Strategies==
+Toodles is a decent starter [[Toon]] with basic [[Stats]] and [[Ability]]. She leans into the Survivalist playstyle, though her slightly lower [[Extraction Speed]] makes her below average at extracting. Her [[Stealth]] in particular, along with her cheap price and easily achievable requirement, makes her useful to new players.
+
+Toodles' Ability, {{AI|Toodles|name=true}}, grants her +15% to a random Stat for 10 seconds, which is an important part of her playstyle. The buff granted is indicated by the color of the particles Toodles gains. Below are the buffs that she can gain and their colors:
+*{{Color|'''Orange - Skill Check'''|#C89363}} (Increases chance & size only) (40% chance and 172.5 size)
+*{{Color|'''Yellow - Movement Speed'''|#CFCE6E}} (17.25 walk speed/28.75 run speed)
+*{{Color|'''Green - Stamina'''|#7BCA6B}} (Increases Stamina capacity only) (173 capacity)
+*{{Color|'''Blue - Stealth'''|#6891CA}} (17.25 Stealth)
+*{{Color|'''Purple - Extraction Speed'''|#7E56C9}} (0.978 Extraction Speed (9.775 units filled in 10 seconds))
+
+Toodles needs to have a good amount of adaptability to make use of her Ability. Depending on the situation, it could grant something useful or useless, which has to be kept in mind. It's generally good to use it either as often as possible or whenever you're in danger (depending on how risky the current [[Floor]] is), since the worst it can do is nothing. You shouldn't rely on the Ability due to its unpredictable nature, but it's definitely a useful tool.
+
+Since Toodles' Ability can either grant her something that aids in Extraction or escape ([[Skill Check]] and Extraction Speed vs. [[Movement Speed]], [[Stamina]] Capacity, and Stealth) you really have a 3/5 chance of getting something helpful for your current activity. Just be sure to keep the possibility of a Stealth increase in mind as it can cause [[Twisteds]] to switch targets if you're near Toons such as {{CI|Cosmo|name=true}} or {{CI|Ginger|name=true}}. Her above-average Stealth can help her bring Twisteds to distractors though. Since her [[Ability]] might not be helpful and doesn't last long enough to switch activities, it's much less potent than most (about as powerful as {{II|Gumballs|name=true}}). Its extremely short cooldown does offer some value though, with [[Trinkets]] like {{TI|Peppermint Icing|name=true}}. Toodles can benefit a lot from the {{CDI|Rehearsal/Practice|name=true}} [[Cards]] as taking both will reduce her cooldown to 15 seconds, a much more useful frame.
+
+Her Ability can become more useful through strategy, by standing near a non-[[Treadmill Machine]] and Treadmill Machine, or a mixed Duo Machine with a treadmill attachment before using your Ability, you can apply your boost (minus Stealth) to whichever Machine will make better use of it (Movement Speed and Stamina for treadmills, Extraction Speed and Skill Check for other types).
+
+Generally prioritizing Treadmill Machines, Barnaby Machines, and extracting Duo Machines with other players can help make Toodles' subpar extraction more bearable. If you run enough, you'll likely finish Treadmill Machines faster than Default or Circle Machines. With Duo Machines (not including Treadmill attachments), as long as you're extracting with another player, you both collectively would at minimum complete a Machine in a baseline of 28~ seconds, or at maximum a baseline of 19~ seconds. Barnaby Machines are inherently the fastest Machines to complete thanks to the frequency of their coins (golden Skill Checks), and they work well with Toodles' lean towards the Skill Check Stat, though note these can be difficult.
+
+On the Stealth side of things, you can be very helpful to a team by taking care of Machines far from the Elevator, out in the open, or near a distractor. Other Toons with lower Stealth can be in a chase, but won't risk switching aggro to you unless they cut a corner; take advantage of that to handle Machines other Toons may struggle with–you make up for your lacking extraction by avoiding getting interrupted and chased in the first place. However, if a teammate is really struggling or vulnerable (i.e low on Stamina, on 1 Heart, out-sped by a Twisted you can outrun), you could try to take a Twisted away from them, though keep an eye on your Stamina and don't rely on your Ability to give you a mobility boost every time.
+
+Overall, Toodles is good for starters, but for late game she is outclassed by most if not all Toons who have better extraction and Abilities. In terms of high Stealth Toons, she has a pretty decent capability survival-wise, but doesn't have any other particularly potent strengths compared to those with equal or higher Stealth.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Toodles:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Toodles to outrun all Twisteds outside of Panic Mode besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Run Speed {{Small|(28.1 Run Speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Toodles to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(27.95 avg/24.84 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}/{{TI|Peppermint Icing|name=true}}'''
+**The cooldown reduction synergizes with Peppermint Icing, allowing Toodles to regain Stamina more often. With the {{CDI|Rehearsal/Practice|name=true}} cards, {{AI|Toodles|name=true}} reaches a cooldown of 10 seconds, which means you can stay the whole game refreshing the boost as soon as it ends.
+***These Trinkets can additionally be used separately if you want to solely maximize either her Stamina or her cooldown.
+
+====Other====
+*'''{{TI|Lucky Coin|name=true}}''', to give her an extra boost, given that this [[Trinket]] synergizes quite well with her [[Ability]]. If stacked, the boost totals to 28.8%.
+**The stacked boosts would result in {{Small|(193.2 Skill Check Size & 54% Chance), (19.32 Walk Speed/32.2 Run Speed), (193 Stamina Capacity), (19.32 Stealth), or (1.095 Extraction Speed (10.95 units filled in 10 seconds))}}. In all such cases Toodles nearly gains an extra {{Star}} or 2, albeit temporarily.
+
+==Dialogues==
+{{Toodles Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Banana Peel Gear.mp3|left|thumb]]
+|The sound that plays when Toodles activates her {{AI|Toodles|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Toodles and {{CI|Gourdy|name=true}} are both children, and the rest of the [[Toons]] are grown-ups.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1273990141131886695</ref>
+**{{CI|Eggson|name=true}} is also an adult, but is elderly, and therefore older than all the others.
+**This fact and their Active [[Abilities]] similarities (both boosting a random [[Stat]]) point to her and Gourdy being friends.
+***{{CI|Dyle|name=true}} and Gourdy's gossips about Toodles, the [[Changelog|v0.13]] thumbnail (that shows them possibly playing around), and their interaction with each other reinforce their friendship. However, based off of Toodles' Information Card, Toodles is likely younger than Gourdy.
+**Because her [[Introduction Card]] calls her "the youngest of [[Dandy's World]]", this technically means Gourdy is older than her, making her the youngest Toon in the entire game.
+*Toodles and {{CI|Gigi|name=true}} live on the same floor, as confirmed in their interaction with each other.
+*Toodles used to cost 500 {{TI|Ichor|name=true}} before the [[Changelog|v0.2.0]] update.
+*Contrary to popular belief, {{CI|Rodger|name=true}} is not Toodles' father, instead looking up to him and his profession, thinking of assisting him/being a detective of her own, as seen in her {{Skin|Junior Detective}} [[Skin]].
+*Toodles frequently pet-sits {{CI|Pebble|name=true}}, as shown in {{CI|Dandy|name=true}}'s [[gossip]] about her.
+*Toodles' favorite toy is her {{TI|Dog Plush|name=true}}, as seen in her interaction with {{CI|Connie|name=true}}. She is her favorite because she has a spot on her head like she does.
+**Toodles' Dog Plush Onesie [[Skin]] could reflect this.
+*Toodles and [[Gigi]] used to have the same [[Ability]] sound, due to the same luck motifs. This was changed however, when Gigi got her [[Toon of the Week]] in [[Changelog|v0.28.1]].
+**The sound originates from the [[W:C:roblox:Catalog:Banana Peel|Banana Peel]] Gear when stepping on it.
+*Toodles' interaction with {{CI|Finn|name=true}} reveals that octopi are her favorite sea creature and overall animal because they have 8 limbs, matching the number on her forehead.
+*Toodles is strangely taller than [[Pebble]], {{CI|Coal|name=true}}, {{CI|Shelly|name=true}}, and {{CI|Cosmo|name=true}}.
+**Cosmo and Shelly are the only humanoid Toons out of them.
+*Toodles is the third [[Toon]] to be present in 2 different thumbnails, being in the [[Changelog|v0.11]] and v0.13 thumbnails.
+*Toodles is the first [[Toon]] to receive optimizations during an [[Event]], being the [[2025 Halloween Event]].
+**She is additionally the first and only Toon to get optimized on a holiday, getting her optimizations on October 31, or Halloween.
+**She is also the second Toon to get an optimization in a patch, with the first being {{CI|Shrimpo|name=true}}.
+*Toodles seems to have trouble sleeping at night, instead spying on a [[Toon]]'s late-night activities, even if it is considered private to the Toon, as seen in an interaction with [[Gigi]].
+*Coincidentally, the only [[Stickers]] Toodles is featured say "[Item] here!" in their captions, likely relating to her usual eagerness to help.
+*Toodles' {{Skin|Dog Plush Onesie}} [[Skin]] was the only one from the [[Changelog|v0.13.14]] update with no relation to the fall season.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

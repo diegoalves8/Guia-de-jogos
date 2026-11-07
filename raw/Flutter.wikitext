@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#BE8DFF,#FFB9F9,#AAFFFC); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Flutter Render.png|Render
+Flutter Full Render.png|Full Render
+Flutter Icon.png|Icon
+Flutter Full Icon.png|Full Icon
+Flutter Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Flutter|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can dash forward, drastically increasing her Movement Speed for 0.75 seconds. Has a cooldown of 45 seconds.
+|requirement_1=1300 [[Ichor]]
+|requirement_2=100% [[Research]] on {{CI|Twisted Flutter|name=true}}
+|skins=*Vintage
+*Vivid Monarch
+*Frosty Fluff
+*Spring-Time
+*Rosy Maple Moth
+*Shadow Moth
+|pronouns=She/Her
+|release_date=7/12/2024
+|gender=Female
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Flutter|extra=Butterfly|Date=July 12, 2024|with={{CI|Shelly|name=true}}, {{CI|Teagan|name=true}}, and {{CI|Tisha|name=true}}|Pronoun=She}}
+
+==Appearance==
+Flutter is a butterfly with a heart-shaped head and pink skin. She has two thin black antennae topped with purple hearts by the tips. She has cyan eyeshadow above her eyes and two eyelashes at the bottom of each eye. She wears a simple, light purple dress and has dark purple fur going around her neck (which is confirmed by {{CI|Tisha|name=true}} to be part of her body). Her wings are cyan with white heart outline details on the forewings and two small hindwings stylistically connected to the larger ones. She has no visible mouth or arms. Although her torso is colored a deep purple, it is unknown whether it's a shading illusion to represent the underside of her dress, her actual torso color, or a piece of clothing.
+
+==Personality==
+On her [[Introduction Card]] and her [[UGC Items]], Flutter is described as cheerful and caring, taking the "social butterfly" metaphor to a literal degree of sorts, but while interactions with some Toons adhere to the peppy traits, others reveal she actually isn't as joyous as they describe her. In fact, she easily gets frustrated over rather small things, such as still to this day being upset about the many losses she suffered on {{CI|Vee|name=true}}'s Game Show (even complaining in front of Vee herself about it), abruptly whining about her troubles in front of {{CI|Razzle & Dazzle|name=true}}, immediately either berating or being horrified by {{CI|Waxwell|name=true}} for jokingly talking about burning her wings, and getting upset over {{CI|Boxten|name=true}}'s occasional inability to understand a currently unknown part about her, whether he was referring to her preferably silent way of communication<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1274866196155469836</ref> being unintelligible at times, or her emotions being difficult to read deeply and thoroughly. {{CI|Cosmo|name=true}} and {{CI|Blot|name=true}} tell her that she's more helpful than she comes across as initially, but is usually not credited for it, even when Toons like {{CI|Astro|name=true}} compliment her endurance. Despite her tendency to be frustrated or upset, she's said to be good at making others laugh, even if she didn't mean to. She is also shown to have a risk-taking side of herself in her interactions with {{CI|Connie|name=true}}, {{CI|Scraps|name=true}} and {{CI|Yatta|name=true}}, where all three of them described her potential ideas as so extreme, even they wouldn't want to do them.
+
+Her dynamic with her older brother {{CI|Flyte|name=true}} is that of care, understanding and fun; his constant worrying for her annoys her, but he does at least agree to not go too far with it, and despite pointing out each other's differences frequently, they love and care deeply for each other.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Reach [[Floor]] 12|Travel 90000 Meters|Pick up 60 [[Items]]|Survive 45 Floors|Use 60 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second and fifth|Reach/do floors}}|{{MastStrat|third|Meters}}|{{MastStrat|fourth and sixth|Collect and use|Use}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Flutter|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Flutter is on the [[Daily Twisted Board]].
+
+==Strategies==
+Flutter is a decent distractor [[Toon]] with above average [[Movement Speed]] and [[Stamina]], with her low extractability [[Stats]] and mobility based Active [[Ability]] further inducing those who want to play as her to distract. The main issue with Flutter is her average [[Stealth]], which may cause issues given that most Toons in the [[game]] either have the same or lower Stealth.
+
+With [[Trinkets]] like {{TI|Speedy Shoes|name=true}} and {{TI|Dog Plush|name=true}}, Flutter is able to outwalk most Twisteds in the game, save for {{CI|Twisted Pebble|name=true}}, {{CI|Twisted Glisten|name=true}} (when enraged), and a few others. For that reason, looping the said Twisteds around an island or sprint-tapping may be a viable choice, with Stamina management being the main issue, which is where Flutter's Active Ability comes into place.
+
+Flutter's Ability, {{AI|Flutter|name=true}}, is quite useful for surviving and escaping dangerous [[Twisteds]], such as {{CI|Twisted Vee|name=true}} when she applies the {{Debuff|Slow|II}} [[Debuff]] or {{CI|Twisted Pebble|name=true}} and also saving up Stamina when low at it, given the distance she gets and the amount of that's recovered during that time. Her Ability can also be used to dash away from Twisteds when [[Panic Mode]] begins, causing most of them to stay behind even with their speed buff. Do note the Ability's cooldown however, as its long enough to screw you up if you're relying on it for distance.
+
+Since the Ability gives her  67.5 Walk Speed/77.5 Run Speed, it’ll allow her to outwalk and outrun every Twisted for less than a second, which can help her escape Twisteds like Twisted Pebble, or even max speed {{CI|Twisted Dyle|name=true}}, though it’s not always the most reliable. Cutting corners with her Ability is best if you’re specifically trying to escape, as you simultaneously build distance and break line of sight.
+
+With her immunity to Ichor Puddles spawned by [[Ichor Leaks]], she can excel at distracting in them. Due to the fact the puddles won't slow her down or cover valuable information, she can easily loop in an area, even if it's full of Ichor Puddles.
+
+Overall, Flutter possesses great skills for distraction, though also has slight potential for survival, even if it comes at the cost of her extraction.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Flutter include:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket boosts the role of distractor for the holder. Here are some options to pair Dog Plush with {{Small|(19.3 walk speed).}} 
+***'''{{TI|Speedy Shoes|name=true}}''', to out-walk fast Twisteds and gain the ability to loop {{CI|Twisted Pebble|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to outrun during [[Panic Mode]] all Twisteds but Pebble when active {{Small|(21.2 walk/30.3 run speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 3{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***Any of the Trinkets in the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Flutter to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1{{Star}} Window Size {{Small|(29.8 avg/27.21 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Flutter|name=true}}'s [[Ability]]<nowiki/> cooldown {{Small|(40s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Floaty Dash''''<nowiki/>s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(36.4s)}}.
+
+==Dialogues==
+{{Flutter Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Wind-Related Abilities.ogg|left|thumb]]
+|The sound that plays when Flutter uses her {{AI|Flutter|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*It is unknown how all the [[Toons]] are capable of understanding Flutter despite the fact she never talks and only occasionally uses physical gestures (though in {{CI|Boxten|name=true}}'s case, his interaction with her either meant he can't understand what she's saying or her emotions are what was hard to understand about her). It is also unknown whether or not humans or non-Toon entities in general can understand her.
+**Any dialogue she has that needs to be transcribed is always in the form of punctuation, like in a storyboard with her and {{CI|Dandy|name=true}}, in {{CI|Gigi|name=true}}'s lore tape, and in all of her dialogue, implying that Flutter cannot make ''any'' noise at all, other than from fluttering her wings.
+***Flutter's dialogue has never once been translated into actual words and/or sentences for unknown reasons, and likely never will be.
+*According to [[Dandy]]'s [[gossip]] about Flutter, she is able to sneeze despite her lack of a nose, further emphasizing the [[w:c:powerlisting:Cartoon Physics|cartoon logic]] all the [[Toons]] possess.
+*Flutter's 3D model uses [[Dandy]]'s torso and legs, making her appear chubby. She has also frequently been drawn with a wider torso than most of the other female [[Toons]], which could imply this is her canon body shape.
+*Flutter and her older brother {{CI|Flyte|name=true}} have numerous motifs and themes, whether similar or different, that establish their connection;
+**Their names are ways of referring to a group of butterflies, and describing how they fly (a flutter and a flight).
+**They have fur around their thoraxes, which is traditionally a trait moths have instead of butterflies.
+**Their color palettes both involve the use of pink and turquoise.
+**Their [[Twisted]] alternates never stop actively moving when roaming the map.
+**Their body shapes and heights seem to add on to a duo trope where one member is short and plump, while the other is tall and lanky.
+**Their Abilities involve spinning and boosting Movement Speed.
+**Flutter is energetic and mostly peppy, while Flyte is more relaxed and laid-back.
+*It's heavily implied Flutter can't use her wings as arms unlike Flyte, hence why she flies most of the time.
+**A prominent example of evidence leading to this is that {{CI|Goob|name=true}} agrees to give hugs on her behalf because her wings are either too short, used too much for flying or cannot physically bend enough to wrap around anyone's bodies.
+***Flutter also has a more rounded shape to her wings as opposed to Flyte's pointier, more avian wings. The pointed tips are likely better for articulation, possibly making it easier to grip onto things.
+****In the [[poster]] art for the episode "Future and Past", Flutter can at least wave with her wings to greet others, as she does so to the viewer while up in a tree.
+**As of the [[2026 Easter Event]], Flyte claims that he struggles to use his wings to hold a paintbrush (though likely only when it comes to painting small items, such as eggs), but he is talented at managing the (likely smaller) contents inside his {{TI|Scrapbook|name=true}}. He also claims that his wings are delicate when talking to {{CI|Yatta|name=true}}.
+*Flutter is currently the only non-{{Type|Main}} [[Toon]] to need 100% [[Research]] on her {{CI|Twisted Flutter}}[[Twisted Flutter|Twisted counterpart]] to buy her.
+*In her early concept art, Flutter used to have a {{wp|proboscis}}, a tongue-like organ that real butterflies use to suck nectar out of flowers. [[Twisted Flutter]]'s proboscis was turned into a snare trap in her concept art. As [[Twisted]] mechanics usually relate back to the original [[Toon]] in some way, this likely suggests that instead of constantly roaming the map at high speeds, Flutter's ability would've pulled Toons to her instead of lunging forward to fly faster, an ability that [[Goob]] has in the alpha release.
+**Twisted Flutter hiding on a surface with her lower body being hidden is a trait {{CI|Twisted Squirm|name=true}} ended up receiving.
+**[[Qwelver]] likely had no idea it's even called a proboscis when confirming Flutter does actually have a mouth after all, but even less likely meant she does truly have a legit mouth that cannot be seen on her design. Regardless of what was meant, Flutter has a mouth, one way or another.
+*Flutter was almost [[scrapped]], but the staff liked her design so much that they brought her back, meaning she would have been the first Toon to be scrapped over how many staff members liked her.
+*{{CI|Waxwell|name=true}} threatening to burn Flutter's wings likely marks the first depiction of what it looks like when she "screams". It is unknown whether she was furious or horrified at the time.
+*Flutter and {{CI|Connie|name=true}} don't walk, but Flutter is the one who can walk if she wants<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1342652352330600589</ref> as she has legs and Connie doesn't.
+**Their respective siblings also have the ability to alternate between walking and flying (seen more prominently in their [[Twisted]] counterparts). [[Flyte]] in particular flaps his wings enough to not only form a tornado-like Gust of wind, but also propel himself off the ground for the duration of his wing movement. It is unknown if {{CI|Soulvester|name=true}} can fly even with his legwear and boots on, but as a {{CI|Twisted Soulvester}}[[Twisted Soulvester|Twisted]] he does due to not wearing them, exposing his ghostly tail in the process.
+*Flutter and [[Gigi]] are close enough friends for the former to trust the latter to write in and hold onto her {{TI|Diary|name=true}} for her, but she disapproves of Gigi's thieving tendencies. Ironically, Flutter has never snitched or told on Gigi for it.
+*Flutter was one of the few [[Toons]] who had their dialogue shown behind the scenes.
+*One of her interactions with [[Connie]] reveals her favorite color is pink, but she gets upset when other people don't agree with her.
+*Flutter and {{CI|Coal|name=true}} share the same [[Statistics]].
+*Flutter is immune to the effects of the [[Ichor Leak]] [[Floor Event]] because she flies.
+*Flutter is the cheapest {{Type|Rare}} [[Toon]] at 1300 [[Ichor]] solely when considering the currency; {{CI|Scraps|name=true}} is in second place at 1500.
+*When Flutter got optimized in [[Changelog|v0.13.14]], she was given more mid-air animations, hovering higher off the ground and positioning one's username higher up than normal.
+*Flutter and [[Flyte]] are the last semi-[[Event]] relative duo to receive a set of matching [[Skins]] in an Event Shop. In fact, they actually have two sets of matching [[Skins]] ({{Skin|Spring-Time}} and the Skins inspired by real-life moth species).
+*Despite Flutter and {{CI|Shelly|name=true}} debuting in the same update, Shelly was designed after Flutter.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1262809726681485413</ref>
+*Flutter is the second non-[[Event Toon]] with a seasonal [[Gamepass]] [[Skin]], being part of the [[Spring-Time Cosmetic Pack]].
+*Outside of gameplay, Flutter flaps her wings rapidly whenever feeling shock or other strong emotions. She does this to [[Gigi]] twice in the same lore tape focused on the latter (over Gigi's thievery tendencies and for taking a diary that wasn't hers, both implicitly). This is the first and currently only time Flutter's emotions can be understood via physical gestures and not just dialogue from others.
+*There was a bug that affected her and the pet rocks where they would say [[Soulvester]]'s [[Ability]] dialogue while wearing his mask during the [[Haunted Gala]] [[Floor Event]]. While Pebble and Coal obviously can't talk at all due to being animal-coded, Flutter refuses to talk at all due to personal preference, so the bug was eventually fixed to prevent them from breaking character.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]
+[[Category:Toons with Relatives]]

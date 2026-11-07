@@ -1,0 +1,204 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#8AF277,#F2D874,#B978F4); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Looey Render.png|Render
+Looey Full Render.png|Full Render
+Looey Icon.png|Icon
+Looey Full Icon.png|Full Icon
+Looey Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|3}}{{Small|<br>'''2 Hearts'''<br>(Walk 18/Sprint 30)<br>'''1 Heart'''<br>(Walk 21/Sprint 35)}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|'''Heart of Helium'''<br>{{Small|''(Passive)''}}}}<br>
+For each missing heart this Toon has, they gain 20% more walk and run speed multiplier. At one heart, this Toon gains 40% more speed multiplier. His speed is reduced back when healed.
+|requirement_1={{Currency|Ichor|1000}}
+|requirement_2=Complete all [[Mastery]] Quests on {{CI|Poppy|name=true}}
+|skins=*Default
+*Vintage
+*Dapperly Festive
+*Swirling Mix Up
+*Show-Time
+*Creepy Clown
+*Marching Band
+*Funny Bunny
+*Pastel Patterns
+*Scribbled Prank
+|gender=Male
+|pronouns=He/They<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1316750915570761838</ref>
+|release_date=12/06/2024
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Looey|extra=Balloon|Date=December 6, 2024|with={{CI|Connie|name=true}}|Pronoun=He}}
+<!--Despite the pronouns, it is recommended to use male pronouns, as he is commonly known as a male.-->
+
+==Appearance==
+<tabber>
+|-|Default=
+Looey is made out of balloons, with his head and torso being yellow. He has light lime green and purple mismatched cheeks, limbs, and balloon ears which are tied shut dark gray rubber bands. The left ear, left leg, right cheek and right arm are purple, while the right ear, right leg, left cheek and left arm are green. He has a yellow balloon tail tied by a dark gray rubber band, and wears a white cropped turtleneck (the neck part hides a black string connecting his head and body, but only [[Twisted Looey|as a Twisted]] does this prominently show) with a green and purple polka dot pattern. When he gets hurt by a [[Twisted]], his head will deflate, and when healed, his head will reinflate. His ears also cartoonishly disconnect from his head as it gets smaller.
+|-|Vintage=
+Vintage Looey is a black-and-white recolor of the Default with eyes pie-cut left. His yellow parts are light gray, his lime green colors are a medium gray, and his purple ones are dark gray.
+|-|Dapperly Festive=
+Dapperly Festive Looey's smile is "U"-shaped and he has a bright gray head, torso, and tail. His red left ear, right arm, left leg, right cheek, and three left freckles are colored vermillion red, while his right ear, left arm, right leg, left cheek, and three right freckles are fern green. He wears a dark green top hat the same color as the rubber bands tying his ears and tail and his turtleneck is now slightly longer and colored pine green with lighter stripes.
+|-|Swirling Mix Up=
+Swirling Mix Up Looey is mauve with his lime green balloons recolored light pink and his purple balloons coral pink. He has two wavy stripes on his ears and shoulders, which are colored pastel purple on the light pink parts and violet on the coral pink parts. He also has a pastel purple spiral on his light pink cheek and a violet spiral on the other. His turtleneck has a pastel purple and violet checkered pattern and he has black suspenders that are connected to white shorts with light gray stitches on the waist.
+|-|Show-Time=
+[[Show-Time Cosmetic Pack|Show-Time]] Looey is a slightly oranger shade for his yellow parts and his lime green parts are while his purple ones are midnight blue. The left ear's band is dark cyan, the right ear's is midnight blue, and the tail which is bent into a lightning-bolt-esque shape has a red band. His smile is arch-shaped and he wears white face paint and a red clown nose. He also wears a white, ruffled collar and smaller white ruffles on his wrists. His turtleneck is longer and dark red, and he has white suspenders with golden, star-shaped adjusters that hold large, red trousers with yellowish polka dots. He has an orange and blue gradient trail of tickets labeled "TICKET," circus tents, circles, triangles, squares, arches, and squiggles. He also produces star-shaped twinkles that are similarly colored.
+|-|Creepy Clown=
+Creepy Clown Looey's head, torso, and tail are made up of white balloons, while his green balloons are blue, and the balloons parallel are yellow. The bands on the ears and tail are now red. His eyebrow is curved downward and he sports a grin of sharp teeth, giving him a mischievous look. He also has a blue zig-zag on his left cheek, a yellow zig-zag on his right cheek, a crimson clown nose, and what appears to be [[Ichor]] tears under his eyes. He also has Ichor-like splotches on his feet. He wears a puffy shirt with a white, ruffled collar, two white pom-poms, and crimson red stripes that are outlined with vermillion lines.
+|-|Marching Band=
+Marching Band Looey is cream colored with three green freckles on his cheeks. His ears and tail are white with green stripes and golden colored bands. In between his ears, he dons a red shako with a yellow center and darker bands around it. He wears a red marching band suit with a golden trim on the notched collar and the center, along with six gold buttons on each side, a black string connecting to each. The suit also has large, red sleeves and a golden trim, and he wears white gloves. He wears crimson pants with darker, vertical stripes, and red boots with a golden trim.
+|-|Pastel Patterns=
+Pastel Patterns Looey's cheeks are pink and his yellow balloons are white, while his right ear is pastel pink and left ear pastel green, and he now sports pastel yellow eyeshadow on top of his right eye and pastel purple eyeshadow on the left. His legs and arms respectively are colored alike, but the left colors are right colors and vice versa. He has a double-layered, light turquoise, ruffled collar and his turtleneck's dots are pastel shades of pink, green, yellow, and purple. His rubber bands are also dark pink, and he has light turquoise bows with a tissue-like tail on his pink ear and on the base of his tail. He wears pink pants with dark pink vertical stripes, puffy lower halves, and light turquoise ruffles as hems. He produces falling confetti particles in various shades of pink from his torso.
+|-|Funny Bunny=
+Funny Bunny Looey is mostly white with with light orange limbs and cheeks. He has ears resembling carrots, being orange with two lighter stripes and green-yellow, jagged, leafy ends. He has a red spiral shape on his left cheek, a cyan star shape on his right cheek, and three orange lines on top of his right eye, resembling eyelashes His turtleneck is green like his "leaves" and has more polka dots, all of which are the predominant orange shade of his ears. His tail, tied by an orange band, is shortened to a sphere, much like a rabbit's tail, and appears more rabbit-like with his buck-toothed smile, followed by more gleeful eyes.
+|-|Scribbled Prank=
+Scribbled Prank Looey is pastel yellow with a cyan left ear, right arm, and left leg, while the opposite parts are red. He has an orange scribble on the lower half of his turtleneck and an orange stripe on the collar. An orange note with the text "KICK ME" written in black is taped with a piece of gray tape on his back. His red parts have a cyan zig-zag stripe, while his cyan parts have a red wavy stripe. 
+</tabber>
+
+==Personality==
+Looey is a jolly, comical [[Toon]] who's a part of a circus troupe alongside his friends {{CI|Yatta|name=true}} and {{CI|Blot|name=true}}. Though he may be a clown, he knows when things must be taken seriously. Despite being a performer, capable of entertaining live audiences with his hard work, he very ironically seems to have a more shy and nervous side that is most noticeable within his extraction lines and dialogues.
+
+Even more ironically, Looey is hinted to have stage fright, something a performer should not have (his dreams revealing this to {{CI|Astro|name=true}}, him changing the subject when {{CI|Cosmo|name=true}} shows interest in watching Looey juggle, and hoping nobody was watching him finish extracting). He also seems to not enjoy being laughed at despite the overall purpose of clowns being to make people laugh at them. His [[Posters|Info card]] either further implies this with the "They're laughing with you" quote, or simply serves as a motivational short speech for the in-universe audience.
+
+As yet another ironic contradiction to his supposed disliking of socializing and general anxiousness, he seems to genuinely enjoy getting along with the other Toons and making sure they're happy. Contradictions aside, he seems to be themed after the trope where a comical character masks their rough inner workings behind a wall of laughter, joy and surprises.
+
+==Mastery==
+{{Mastery|Finish 30 [[Machines]]|Activate this [[Toon]]'s Passive [[Ability]] 30 times|Pick up 50 [[Research Capsules]]|Pick up 45 [[Items]]|Survive 30 [[Floors]]|Travel 80000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Machine}}|{{MastStrat|second|you can start multiple solo runs and get repeatedly hit by [[Twisteds]] until you die, and then repeat. Let Healer Toons (maybe more than one) like {{CI|Cosmo|name=true}} (recommended), {{CI|Sprout|name=true}} (with {{TI|Fancy Purse|name=true}} equipped), or {{CI|Ginger|name=true}} join your run and heal you to be able to get hit again and speed up the time. This strategy helps both yours '''and''' the Healer's masteries (if uncompleted)}}|{{MastStrat|third and fourth|Collect and use|Caps}}|{{MastStrat|fifth|Reach/do floors}}|{{MastStrat|sixth|Meters||Also, get hit twice for the highest Movement Speed possible, though be careful of the Twisteds.}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, play as {{CI|Poppy|name=true}} and try to complete her [[Mastery]] Quests by going on multiple runs. It is recommended to go on an organized Run or do specific quests in certain runs.
+
+==Strategies==
+Looey is an excellent All-Rounded [[Toon]] that can distract or extract. With low [[Stealth]] and a great Passive [[Ability]] that increases his [[Movement Speed]] per lost {{Heart}}, he's excellent at leading [[Twisteds]] around, and his above-average [[Skill Check]] [[Stat]] is helpful for extracting [[Machines]].
+
+His Passive Ability, '''Heart of Helium''', greatly increases distracting capabilities, however, it also increases the risk factor while using him. '''Heart of Helium''' increases his speed by 20% for each [[Heart]] that he's currently missing, allowing him to reach higher speeds than even {{CI|Pebble|name=true}} under certain circumstances. Looey is also faster than average at completing Machines, giving him a great utility on a team even if he plays as a distractor.
+
+On only one Heart, Looey is the fastest Toon in the game and can easily outrun {{CI|Twisted Pebble|name=true}} and other fast Twisteds if the player has good [[Trinkets]] in use. The most used Trinket on Looey is {{TI|Dog Plush|name=true}}, which gives him 10% extra Walk Speed, and even more when paired with {{TI|Speedy Shoes|name=true}} (15.5%), {{TI|Ribbon Spool|name=true}}, or {{TI|Clown Horn|name=true}} (both 21% depending on [[Floor]] number). Even without Trinkets, Looey can already out-walk average or slow Twisteds on 2 Hearts, and can almost do the same to every Twisted on one Heart (outside of [[Panic Mode]]) aside from {{CI|Twisted Bobette|name=true}}, enraged {{CI|Twisted Glisten|name=true}}, {{CI|Twisted Coal|name=true}} in a [[Blackout]], and Twisted Pebble. However, {{CI|Twisted Vee|name=true}} and her {{Debuff|Slow|II}} could make it a bit harder to distract, especially when on 1 Heart, the exception is if Looey has {{TI|Train Whistle|name=true}} equipped making Twisted Vee more easy to distract on 2 Hearts. Additionally, long-ranged Twisteds like {{CI|Twisted Goob|name=true}} could be problematic, so it's suggested to have a backup distractor deal with them; if Looey chooses to distract them, {{TI|Cardboard 'Armor'|name=true}} may help if they struggle to distract ranged Twisteds, as his play-style can put him at more risk of death. Do note its single use per Floor though.
+
+Using {{TI|Savory Charm|name=true}} or having a {{CI|Soulvester|name=true}} is quite useful, especially if you are a risky player. Despite keeping 2 Hearts being the meta, some people will opt for 1 Heart for ensured out-walking. However, this does make a hit fatal. Savory Charm and Soulvester's Ability aids this, by protecting you from a small mistake, saving you from lag spikes or cornering and also alerting you to be more cautious. Since you'd likely have a far easier time distracting Twisteds like Twisted Pebble and {{CI|Twisted Gourdy|name=true}} with 1 Heart, potentially being able to out-walk some of the fastest Twisteds, having Soulvester constantly guarding you can eliminate the risk of death if you mess up or lag occurs; this is especially good in longer runs due to the increased Main Character Twisted spawn rate. Do realize Savory Charm's one time use and Soulvester's bad survivability and need for Hearts to use the Ability. You'd want a healer on the team if you intend to distract to higher Floors with a Soulvester supporting you.
+
+Looey is a great pick if you're trying to learn to distract Twisteds using Toons with 3{{Star}} Movement Speed. His Ability provides a great buffer against trickier targets, helping you when you're in trouble, and upon being healed the user can return to their learning. His low Stealth greatly aids in keeping Twisteds' attention, which is again, great for beginners. However, compared to {{CI|Goob|name=true}} and other such distractor Toons, Looey carries more risk for more reward—weigh your preferences.
+
+The user might also elect to immediately voluntarily reduce their Hearts to two or even one {{Small|(the prior being preferred)}} for an immediate speed boost, but this effectively turns him into a {{Type|Main}} with one Ability instead of two (or zero if you don't consider the speed boost as a sufficient enough Ability due to it technically accounting for a Main's extra Star). Still, even this method has unique Stats to offer compared to other Toons, so it's not beyond consideration—just be sure to trust your skill level before trying. If you elect to aim for 3 Hearts, Looey still makes a great back-up distractor and can extract during downtime, especially if a healer like {{CI|Sprout|name=true}} is in your party.
+
+Speaking of healers, be sure to communicate with teammates what your preferred heart total is, as everyone has their own ideal amount. Even if your party lacks a healer, let others know ahead of time; You may end up wasting a heal [[Card]] if they worry for you, or worse, avoiding a needed heal because they assume you prefer low HP. Looey has a harder time sustaining health than other Distractors due to his Ability—heal Cards are often wasted, half of a {{II|Health Kit|name=true}}'s value must be sacrificed to retain 2 Hearts status, and occasionally Looey will take intentional damage to deal with tough Twisteds, needing to use additional healing to regain a safe HP level.
+
+As an extractor, Looey can extract most Machines at an above average pace, and if injured, he can additionally extract Treadmill Machines fairly quickly. You can purposefully get hit during Panic Mode when everyone else is in the Elevator, or get hit by certain Twisted like {{CI|Twisted Squirm|name=true}} and {{CI|Twisted Blot|name=true}}, if you want to have a consistent higher speed. Take note of your Stealth as it can make it easier for other teammates to swap Twisted aggro onto you, or risk getting in the way of distractors. Since without speed Trinkets Looey can still reach a high enough Movement Speed to outspeed various Twisteds, you can help gather Twisteds for a distractor and protect teammates, though only if you know what you're doing–you could end up causing problems or accidentally sabotaging teammates.
+
+The best [[Items]] to look out for as a distractor are mobility Items and healing Items. Movement Speed Items can stack with Looey's speed boost and temporarily let you regenerate Stamina in preparation for Panic Mode or changing your distracting location. Stamina Items can help you keep your Stamina up, something important considering the risk involved with having less Hearts. Healing Items will ensure you stay alive, though you should usually focus on having at least 1 {{II|Bandage|name=false}}, since you can better control your speed, while also not wasting the value. When extracting, Looey can make good use of Items like {{II|Skill Check Candy|name=false|plural=a}} owing to his high Skill Check Stat, though Items like {{II|Instructions|name=false}} are still very useful for completing Machines faster. You can also use speed or Stamina related Items for Treadmill Machines though only if they're more common, as it could end up being a waste otherwise.
+
+Overall, Looey is an excellent Toon to play as, with distraction being his best occupation, reaching higher speeds, though depleted Health makes him a high-risk-high-reward Toon. Even so, his decent extraction keeps him as a solid Toon, especially when it comes to Treadmill Machines.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Looey:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket unlocks the role of distractor to the holder. Here are some options to pair Dog Plush with; {{Small|(16.5 walk speed at 3 hearts, 19.8 walk speed at 2 hearts and 23.1 at 1 heart)}}
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Looey (on 1 Heart) to out-walk every Twisted (except {{CI|Twisted Gourdy|name=true}} (enraged), {{CI|Twisted Bobette|name=true}}, {{CI|Twisted Coal|name=true}} (in [[Blackouts]]) and {{CI|Twisted Dyle|name=true}} at full speed) {{Small|(17.25/26.3 speed at 3 hearts, 20.8/31.5 speed at 2 hearts, and 24.25/36.8 speed at 1 heart)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', if your team is taking turns distracting {{Small|(18.15/27.5 speed at 3 hearts, 21.8/33 speed at 2 hearts, and 25.4/38.5 speed at 1 heart)}}. '''This is the only build that can out-walk [[Twisted Bobette]] and [[Twisted Coal]] (in Blackouts).'''
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(32.5 run speed at 3 hearts, 39 run speed at 2 hearts, 45.5 run speed at 1 heart)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 2{{Star}} [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 2 Star [[Stealth]], or if you're solar distracting with a {{CI|Bobette|name=true}} lacking {{TI|Diary|name=true}}.
+***'''{{TI|Cardboard 'Armor'|name=true}}''', to slightly reduce the risk when distracting {{CI|Twisted Scraps|name=true}} and/or {{CI|Twisted Goob|name=true}};
+****Only use this Trinket combo if you struggle with dodging, lack healers, or tend to distract on 1 Heart without safety measures. Note it only activates once per Floor.
+***'''{{TI|Savory Charm|name=true}}''', to be a bit safer while distracting on 1 Heart;
+****Only use this Trinket combo if you're new to distracting, or prone to making mistakes, as more experienced players may benefit from other Trinkets. Note it only activates once in an entire run.
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Looey to outrun all Twisteds outside of Panic Mode besides {{CI|Twisted Dyle|name=true}} at max speed, can outrun all Twisteds besides Twisted Dyle during Panic Mode on 2 Hearts {{Small|(26.9 run speed at 3 Hearts, 32.25 run speed at 2 Hearts, 37.63 run speed at 1 Heart)}}. Here are some options to pair Pink Bow with:
+***'''Speedy Shoes''', to further improve run speed {{Small|(28.2 run speed at 3 Hearts, 33.86 run speed at 2 Hearts, 39.5 run speed at 1 Heart)}};
+***'''Vanity Mirror''', to outrun every Twisted except Twisted Dyle during Panic Mode, can outrun all Twisteds on 1 Heart with Suppression {{Small|(35 run speed at 3 Hearts, 41.93 run speed at 2 Hearts, 48.91 run speed at 1 Heart)}};
+***'''Train Whistle''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Looey to take full advantage over his 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and 4 Star [[Skill Check]] {{Small|(134 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing [[Skill Check]] extraction, supporting his 4 Star Skill Check {{Small|(24.19 avg/21.98 with Tech Savvy)}};
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+==Dialogues==
+{{Looey Dialogues}}
+
+==Trivia==
+*Looey is the only [[Toon]] to have their [[Introduction Card]] have a quote and to be made up of two bodies of text.
+*Looey's head will be shrunken if you are on 2{{Heart}}, and even more if 1 Heart. During then, his ears cartoonishly disconnect from his head.
+**However, the ears disconnecting could just be a modeling error.
+*Looey on 1 [[Heart]] with the [[Movement Speed]] buff from {{TI|Lucky Coin|name=true}} and {{TI|Ribbon Spool|name=true}} or {{TI|Clown Horn|name=true}} gives a Run Speed multiplier of 72.48%, which gives a Run Speed of 43.12, making him the fastest [[Toon]] in the game without any [[Items]] and/or supports.
+**When given 3 {{II|Jawbreaker|name=true}}s with the Movement Speed buff and 7 of {{CI|Tisha|name=true}}'s [[Ability]], you would get a theoretical Run Speed multiplier of 2675.76%, which gives a run speed of 668.94.
+*Previously, his [[Ability]] was intended to increase 1{{Star}} for [[Movement Speed]] (2.5 units) for each missing [[Heart]], but a bug caused Looey to increase Movement Speed by 20% (3 units for Walk Speed and 5 units for Run Speed). The Ability's description was later changed, making it an actual feature. This makes him faster than {{CI|Pebble|name=true}}, {{CI|Bassie|name=true}}, and {{CI|Razzle & Dazzle|name=true}} (on odd floors) at 1 Heart.
+**If their Ability did add 1 Star for each missing Heart (in percentage values), at 2 Hearts their Movement Speed would need to be increased by ≈16.67% (Walk Speed) and 10% (Run Speed). While at 1 Hearts his Movement Speed would need to be increased by ≈33.34% (Walk Speed) and 20% (Run Speed).
+*Looey was the hardest character to balance; figuring out how much speed Looey would get after getting hit was the most challenging part. It would get to the point where it would be impossible for any [[Twisted]] to damage him.<ref>https://youtu.be/KctAr8qwcSU&t=1107 (18:27)</ref>
+*Looey and {{CI|Poppy|name=true}} are friends.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1314757242465026139</ref> Poppy's [[Mastery]] being needed to unlock Looey, their Passive [[Abilities]] similarities (Movement Speed boosts from taking damage), their material similarities (pop-able balls), and the fact one of their interactions is nothing but them repeatedly saying "pop" can also reflect this.
+*Looey is part of the '''Circus Troupe''' with {{CI|Blot|name=true}} and {{CI|Yatta|name=true}}. He takes on the role of a clown and the leader, but he ironically seems to not want to be the leader, despite him being one in the [[Show]]. When he attempts to employ {{CI|Flyte|name=true}} as a fourth member of the circus, it could be likely that Looey was actually trying to get Flyte to replace him.
+**Additionally, he tells {{CI|Astro|name=true}} that he has stage fright, something state performers should not have (or at least have overcome), maybe due to others laughing at him (despite that being a clown's role).
+*Looey is one of two non-[[Christmas Toons]] to be the first to have a {{HT|Christmas}} [[Skin]], the other being {{CI|Connie|name=true}}.
+**This is because they were the only non-Christmas Toons with optimized models as of [[Changelog|v0.5.1]].
+**Despite already having Christmas Skins, Looey and Connie received one new Skin each.
+*Looey is one of the four non-[[Easter Toons]] to be the first to have an [[Easter]] [[Skin]], the others being [[Yatta]], [[Pebble]], and [[Connie]].
+**This is because they were the only non-Easter Toons with optimized models as of [[Changelog|v0.7.1]].
+*Upon getting killed, Looey has a pop sound effect along with the [[Ichor]] splash. Looey has visible air bursts upon getting hit or killed. He is the first one to have an effect when dying, followed by [[Yatta]].
+*Looey's tail wags when he's happy, while {{CI|Scraps|name=true}}' tail wags when she's angry, as confirmed by their dialogue together.
+*Looey is the first [[Toon]] to be unofficially revealed, having his model shown in [[i manimator]]'s inventory. Their inventory was then later privated due to the accident. His upcoming appearance was teased after the incident, allowing fanarts of the Toon to be made.
+*Looey, alongside [[Connie]], were released with a functioning blink and custom run animation early, as to show what's in store for the rest of the [[Toons]] while they're being updated over time. This makes them the first Toons to have optimized animations.
+*Looey is the third [[Toon]] to have more than one set of pronouns, the first being {{CI|Dandy|name=true}} and the second being {{CI|Teagan|name=true}}.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1316750915570761838</ref>
+*Initially upon the update release of [[Connie]] and Looey, when extracting with Looey, there were bugs where his character would tilt forward down into the [[Machine]], this little bug was later referenced in [[Yatta]]'s extraction animation.
+*Looey had two concept arts, with the only difference being the first concept art had no eyebrow and the second concept art having a single eyebrow added.<ref>https://discordapp.com/channels/969934252844138496/1251545388259741768/1321280368716025937</ref>
+*Looey is one of four [[Toons]] who had one of their [[Skins]] designed by someone else other than [[Qwel]] or [[Ramblesnake]], his being {{Skin|Dapperly Festive}}. The others being {{CI|Rodger|name=true}} with {{Skin|Ebony Detective}}, {{CI|Goob|name=true}} with {{Skin|Special Spaghetti}}, and [[Yatta]] with {{Skin|Choco Cones}}.
+*{{CI|Flutter|name=true}} exposes Looey for writing in a diary when she interacts with him.
+*Looey is the second non-[[Main]] [[Toon]] that requires [[Mastery]] of a Toon (which is [[Poppy]]) to unlock them, the first being [[Goob]], and the third being [[Blot]].
+**However, Looey is the only non-Main Toon that requires full mastery on a single Toon, as Goob only requires half of [[Scraps]]' Mastery, and Blot requiring mastery of both Looey and [[Yatta]].
+*Despite being a base-game [[Toon]], Looey has six [[Event]] [[Skins]] in the game, more than any other Toon.
+*Looey is the first [[Toon]] as of now to speak more than once consecutively in a dialogue, speaking thrice in his dialogue with [[Flutter]], the second being {{CI|Eggson|name=true}}.
+*During intermission, Looey's [[Ability]] description will have a different description, reading "''Each time Looey loses a heart, he gains a star in speed, up to a max of 5 stars at his last heart. The lower his health, the faster he floats around, like a balloon on a breeze.''"
+**This is the first time there were 2 versions of a [[Toon]]'s Ability description.
+*On the 3rd of June 2025 QnA Stream, someone had the idea that Looey would have {{wp|"Weird Al" Yankovic}}'s voice, and the idea was positively received even by staff. However, nothing was said about this being his true, in-universe voice.
+**{{CI|Bobette|name=true}}, {{CI|Ginger|name=true}}, {{CI|Rudie|name=true}}, [[Bassie]], {{CI|Cocoa|name=true}}, [[Connie]], {{CI|Eclipse|name=true}}, {{CI|Ribecca|name=true}} and [[Astro]] would go on to follow similar fates in their respective music videos, with nothing being said about Qwelver or anybody else at the BlushCrunch development team about their portrayed voices being how they would canonically sound.
+*Looey hinted to [[Blot]] being a mime, as seen in an interaction with [[Teagan]].
+*Looey is slightly different compared to the other Circus Troupe members.
+**He was released with [[Connie]], not alone.
+**The update he was released in didn't revamp any maps.
+**He wasn't released in 2025.
+**He never showed up in the game's icon in the update he released in.
+**He doesn't show up on any visible banners for the game's page.
+***Therefore, he doesn't show up with any form of [[Razzle & Dazzle]] in the banners.
+**He doesn't have 3 requirements.
+**His [[Mastery]] doesn't require another [[Toon]] to be played with.
+**He didn't receive a new [[Skin]] from Dandy's Store on the v0.10 update.
+**He doesn't have 4 Star Movement Speed.
+**He doesn't have a unique number of Stars in each of his [[Stats]].
+***One could argue that Looey gains 4 Star Speed at 2 Hearts and 5 Star Speed at one. However, it is just a multiplier and therefore doesn't count. Plus, he is slightly faster at 2 Hearts compared to 4 Star Movement Speed and also a bit faster at 1 Heart compared to 5 Star Movement Speed.
+*Looey is one of the first non-[[Main]] [[Toons]] to get a [[Gamepass]] [[Skin]] with the other Toons being [[Blot]], [[Razzle & Dazzle]] and [[Yatta]] with the [[Show-Time Cosmetic Pack]].
+*When the "Astro in Stage Fright" [[Poster]] was updated, Looey was added in the audience, though only one of his ears is visible.
+*Looey shares the same [[Stats]] as {{CI|Brusha|name=true}}, making this the second instance 2 [[Toons]] shared the same Stats and didn't have base Stats; {{CI|Coal|name=true}} and [[Flutter]] are the first instance.
+*There is an error in Looey's "{{SI|Good Job|name=true}}" [[Sticker]], where his right hand is yellow instead of purple.
+*Looey and {{CI|Boxten|name=true}} are the only [[Toons]] to be able to have permanent, though situational [[Multipliers|boosts]] in an entire run, with Boxten's [[Extraction Speed]] Boost per person and Looey's [[Movement Speed]] buff per hit.
+*The [[Easter Event]] is the only [[Event]] to immediately release Looey's Event [[Skin]]; the rest released them in a later patch.
+*[[Skins]] starting from Creepy Clown onward have Looey not slightly floating on his animations. This is most likely an animation correction, making his knees properly bend.
+*According to New York Comic Con art and his {{CI|Twisted Looey}}[[Twisted Looey|Twisted counterpart]], Looey's head is connected to his body through a string and his head can be disconnected from his body.
+*Looey is the last base-game {{Type|Common}} [[Toon]] to be in 2024.
+**He and [[Connie]] are the last Toons to be added in [[Dandy's Store]] in 2024.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

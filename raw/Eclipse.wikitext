@@ -1,0 +1,156 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#25415A,#445D77,#8B9CB2,#F0676A); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{MissingInformation|*Eclipse's howl when highlighting Twisteds}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Eclipse Render.png|Render
+Eclipse Full Render.png|Full Render
+Eclipse Icon.png|Icon
+Eclipse Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|4}}<br>'''[[Blackout]]'''<br>{{Small|(Walk 21/Sprint 33)}}
+|stamina={{StatComp|Stam|3}}<br>'''Blackout'''<br>{{Small|(240)}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|'''Total Eclipse'''<br>{{Small|''(Passive)''}}}}<br>This Toon transforms into a werewolf in blackouts, giving off a glow, gaining {{Tooltip|2 Stamina Stars|Actually multiplies Stamina Capacity by 1.6}}, a 20% Movement Speed boost, and briefly highlighting all Twisteds on the floor.
+|skins=*Vintage
+*Full Moon
+*Little Red
+*Howling Moonstone
+*Spooky-Time
+*QoM (Queens of Mischief)
+|requirement_1={{Currency|Pumpkins|1500}}
+|requirement_2=Own 5 or more [[Toons]]
+|gender=Female
+|pronouns=She/Her
+|release_date=10/10/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Eclipse|extra=Werewolf|Date=October 10, 2025|with={{CI|Gourdy|name=true}}, {{CI|Ribecca|name=true}}, and {{CI|Soulvester|name=true}}|Pronoun=She|event=Halloween|store=Gourdy's}}
+
+==Appearance==
+Eclipse is a blue-gray {{wp|werewolf}} with a sea pink crescent moon on her forehead that seems to glow in the dark. Her snout, the front of her torso, the end of her tail, and her inner ears are a lighter shade of gray, while the tips of her ears and paws are a dark blue. She wears a short black shawl with a sea pink trim around her shoulders, along with her grin revealing one of many of her sharp teeth. In the presence of a [[Blackout]], her pupils become slits, she becomes a little bit bulkier, her ears become fluffier, and her smile reveals sharp teeth.
+
+==Personality==
+Eclipse is very overly excited and scatterbrained, as seen in her interactions with other [[Toons]] such as {{CI|Gourdy|name=true}} and {{CI|Ribecca|name=true}}. She tries to get everyone more hyped and psyched up for the deeper [[Floors]], yet ends up making some other Toons weirded out. She thinks of the other Toons as pack members, wanting to be friends with others on the basis of potentially doing wolf related activities, like howling at the moon together.
+
+When she's in a [[Blackout]] though, she seems to be more aggressive and unhinged, as shown with her expression and according to Gourdy's [[Gossip]] about her. This is probably due to her werewolf form taking over in Blackouts, making her hunting instincts and physical capabilities stronger, as well as harder to control.
+
+Eclipse is also shown to have a fascination with lights, the moon, and stars, often bringing them up in conversations. This is most prevalent with {{CI|Brightney|name=true}}, where she expresses enthusiastic interest in the former's bright lightbulb, or when she acts overly gregarious towards {{CI|Astro|name=true}}, a crescent moon; both of which lead to awkward responses.
+
+==Mastery==
+{{Mastery|Experience 15 [[Blackouts]]|Survive 50 [[Floors]]|Travel 100000 Meters|Encounter 75 [[Twisteds]]|Survive 3 Floors with 7 other Players in your round|Use 80 [[Items]]}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Encounter Blackouts}}|{{MastStrat|second|Reach/do floors}}|{{MastStrat|third|Meters}}|{{MastStrat|fourth|Encounter Twisteds}}|{{MastStrat|fifth|Play with Toons}}|{{MastStrat|sixth|Collect and use}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Pumpkins|name=true}} and extracting [[Machines]]. The Machine and Pumpkin count increases the further you descend, so you can earn more Pumpkins.
+*For the second requirement, try to farm a good amount of Ichor, and buy Toons that cost less Ichor; you get {{CI|Boxten|name=true}} or {{CI|Poppy|name=true}} for free, so you only need to get 4 more Toons. Some Toons who are easy to get and have lower Ichor requirements can include {{CI|Shrimpo|name=true}}, {{CI|Finn|name=true}}, {{CI|Tisha|name=true}}, {{CI|Toodles|name=true}}, and {{CI|Ribecca|name=true}}.
+==Golden Skin [[Quest]]==
+===Quests===
+{{GQ|Encounter {{CI|Twisted Eclipse|name=true}} '''{{Color|5|#93f525}}''' times as Eclipse.}}
+{{GQ|Experience the Blackout event '''{{Color|5|#93f525}}''' times as Eclipse.}}
+{{GQ|Complete '''{{Color|35|#93f525}}''' total Floors as Eclipse.}}
+
+Reward: {{Skin|Golden Wolf Eclipse}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Halloween Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', play normally until you see {{CI|Twisted Eclipse|name=true}} on the [[Floor]]. Then, either encounter her normally or ask the distractor to bring Twisted Eclipse to the Elevator. It is easier to do this when she's on the [[Daily Twisted Board]]. Additionally, you should aim for higher Floors, since {{Type|Rare}} [[Twisteds]] become more common.
+*'''For the second quest''', play normally but avoid voting for {{CDI|Electrician|name=true}} and try to open all [[Trick or Treat Doors]] on each Floor yourself, or have teammates do so. By doing this you can improve your odds, as there is a chance one of the doors will give the "Did the lights just flicker?" trick, giving you a [[Blackout]].
+*'''For the third quest''', get in a team with fast extractors such as {{CI|Shelly|name=true}} or {{CI|Squirm|name=true}} to pass the floors quickly, do this multiple times to get this quest completed fast. You can also choose to play in multiple solo runs, as Eclipse is a very capable solo Toon.
+
+==Strategies==
+Due to Eclipse's high [[Movement Speed]] and low [[Stealth]], she works primarily as a distractor. However, her Skill Check and Extraction Speed are average, with 3 {{Star}} on both, letting her do [[Machines]] at moderate speed.
+
+Her Passive [[Ability]], '''Total Eclipse''', increases her max Stamina by 60% and Movement Speed by 20% while in a [[Blackout]], along with giving her a slightly bigger glow. With these buffs combined, Eclipse gains 240 base Stamina and 21/33 base Movement Speed, allowing her to surpass {{CI|Pebble|name=true}} and especially {{CI|Waxwell|name=true}}'s speed and Stamina, and reach the same speed as 1 {{Heart}} {{CI|Looey|name=true}}. Beware however, as she is immobile for 5 seconds when a Blackout starts (due to her transformation animation). During this time she can not be detected and will lose aggro of any [[Twisted]] that had spotted her prior. After this transformation, she highlights all Twisteds on the [[Floor]] for 5 seconds and the player regains control. During Blackouts, her speed can allow her to easily outrun Twisteds like {{CI|Twisted Pebble|name=true}} and {{CI|Twisted Gourdy|name=true}}; using [[Trinkets]] like {{TI|Clown Horn|name=true}} or {{TI|Ribbon Spool|name=true}} can allow her to outwalk Twisted Pebble, though it may not be worth it due to the chance of Blackouts being random (unless you duo distract with another Eclipse).
+
+Even without Trinkets, Eclipse can outwalk all Twisteds during Blackouts (outside of [[Panic Mode]]) aside from {{CI|Twisted Bobette|name=true}}, enraged {{CI|Twisted Glisten|name=true}}, {{CI|Twisted Coal|name=true}} in a Blackout, and Twisted Pebble. However, {{CI|Twisted Vee|name=true}} and her {{Debuff|Slow|II}} could make it a bit harder to distract, especially with limited vision. Also, long-ranged Twisteds like {{CI|Twisted Goob|name=true}} could be problematic so it's suggested to have a backup distractor deal with them.
+
+She's still quite capable at extracting thanks to her average extraction Stats. In such a case, using extraction Trinkets like {{TI|Magnifying Glass|name=true}} or {{TI|Vee's Remote|name=true}} can enhance her capabilities to a more potent extent. Her speed can let her reach Machines more quickly and make it back to the [[Elevator]] during Panic Mode, if she extracts far away from it. She can also utilize her speed to extract Treadmill Machines quite quickly, especially in Blackouts where she could finish them in around 15 seconds, if she only runs. Even while focusing on extracting, she can protect teammates, pass Twisteds to distractors, or help take certain problematic Twisteds like {{CI|Twisted Scraps|name=true}} and distract them, even outside of Blackouts since her non-Blackout speed is still good. Her Ability highlighting Twisteds at the start of a Blackout can also allow her to support her team a bit while being an extractor.
+
+Her larger light radius makes her also capable of surviving and distracting in the dark, though there are other Toons with a larger light radius. Eclipse's higher mobility when combined with having the Light-Producing Aux. Stat makes her one of the best Toons for Blackouts. Though she may not be able to highlight Twisteds throughout the duration of a Floor, she can protect teammates or just generally thrive in Blackouts with little issue.
+
+The best [[Items]] to get depends on how you play as Eclipse. If you're distracting, try to keep at least one Stamina/speed related Item on hand, such as {{II|Pop|name=false|plural=a}} and {{II|Box o' Chocolates|name=true}} in case you have to sprint tap or get afflicted with [[Debuffs]]; keeping a healing Item on hand is also crucial since distracting puts you in harm's way constantly. If you're extracting, getting {{II|Instructions|name=true}} and {{II|Jumper Cable|name=true|plural=a}} can make Eclipse a great extractor, especially if they're paired with extraction Trinkets.
+
+Overall, Eclipse is quite versatile, excelling at distracting, especially in Blackouts. Though, she is also quite capable at extracting. She has great survivability, which combined with the decent extraction makes her a great Toon for solo runs.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Eclipse:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(19.3 walk speed, 23.1 in blackout)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Eclipse to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 walk speed/24.25 in blackout)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 walk speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed/42.9 in blackout)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Scrapbook|name=true}}''', to be able to distract without other 2 Star [[Stealth]] Toons taking aggro off you;
+****Only use this Trinket combo if most of the players in your run have 2 Star [[Stealth]], or if you're solar distracting with a {{CI|Bobette|name=true}} lacking or not including [[Diary]] with their trinket combination.
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Eclipse to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(25.57 avg/23.26 with Tech Savvy)}};
+***Any Trinkets listed in the '''Distraction''' section, to help with survival.
+
+====Other====
+*'''{{TI|Spare Bulb|name=true}}''', to further increase Eclipse's light radius for maximum visibility, although it may cause some slight lag for older devices.
+
+==Dialogues==
+{{Eclipse Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+!TBA
+|The sound that plays when Eclipse highlights all [[Twisteds]] after transforming into her werewolf form
+|}
+
+==Trivia==
+*Eclipse, {{CI|Rudie|name=true}}, and {{CI|Cocoa|name=true}} are all anthropomorphic [[Toons]] with non-plantigrade legs (Eclipse and Cocoa are digitigrade, while Rudie is unguligrade). Eclipse is the third Toon with this trait.
+*Eclipse is the third [[Toon]] to have sharp teeth, after {{CI|Goob|name=true}} and {{CI|Yatta|name=true}}.
+*Eclipse is the first and currently only Rare [[Toon]] to have a Passive [[Ability]] instead of the usual Active ability.
+*Despite her [[Ability]] description saying she receives an extra 2 {{Star}} into Stamina in [[Blackouts]] (which would total to 200 Stamina), her Stamina instead increases by 60%, essentially giving her about four extra stars instead by default.
+**It is unknown whether this is a bug or an Ability description mistake.
+**If her Ability did add 2 Stars during Blackouts, her Stamina would need to be increased by 1/3, or around 33% as a [[Multiplier]].
+*Eclipse is capable of getting the highest maximum Stamina amount in the entire game.
+**If an Eclipse were to pick both {{CDI|Well-Paced/Endurance|name=true}}, complete [[Dyle's Floor]] and end up in a [[Blackout]] afterwards, she will gain (150+20+50)*1.6 maximum Stamina, or a Stamina capacity of 352. That is the equivalent of having 11 Stars Stamina with 2 extra units.
+***Combining this with both {{TI|Cooler|name=true}} and maxed {{TI|Friendship Bracelet|name=true}} will give her (150+20+50+50+40)*1.6 or 496 Stamina capacity, nearly 17 Star Stamina (16.84 Stars to be exact).
+*Eclipse uses the same walk and run animation as her normal self when she is extracting a [[Treadmill Machine]] while in her transformed form.
+**She also uses the same extracting animation in this form, which makes her head clip inside of the Machine and hands float over the valve.
+*There was a bug where if Eclipse got hit by a [[Twisted]] on a non-[[Blackout]], her face texture couldn't change from default to transformed and vice versa if hurt on a Blackout with no prior damage.
+*After {{CI|Connie|name=true}} left the [[Halloween]] cast, Eclipse served as her replacement.
+*There used to be a bug where if Eclipse used {{TI|Vee's Remote|name=true}} while transforming in a [[Blackout]], she wouldn't be able to do that [[Machine]].
+*Eclipse likes to howl at the moon as said in her dialogue with {{CI|Astro|name=true}} and {{CI|Looey|name=true}}, making sense with her werewolf nature.
+*Eclipse, {{CI|Pebble|name=true}}, and {{CI|Coal|name=true}} are canine [[Toons]] with staring problems. When talking to [[Ribecca]], she either genuinely was just zoned out, or was enticed by the fact her entire body is made of bones.
+*Eclipse is the first [[Toon]] whose face changes when her [[Ability]] is active.
+**{{CI|Cosmo|name=true}} could count, but his face changes to his hurt expression since his Ability requires him to sacrifice a {{Heart}}.
+*Eclipse is the second [[Toon]] to have an [[Ability]] that only works during [[Blackouts]] and [[Floor Events]] in general, the other being {{CI|Brightney|name=true}}.
+*Eclipse and [[Ginger]] have reflected and flipped [[Stats]].
+**When you take the opposite modification of Eclipse's Stats (+1 Star to Movement Speed -> -1), you get Ginger's Stats, making them reflective.
+**When you flip over the Star amount in Eclipses Stats (Movement Speed Stars to Stealth, vice versa), they also become Ginger's.
+*When talking to [[Brightney]], {{CI|Gigi|name=true}}, and {{CI|Vee|name=true}}, Eclipse makes it clear that she envies bright lights, which parallels her larger light radius and her being a werewolf, always looking to the moon.
+*Despite being a werewolf (man-wolf, by its etymology), Eclipse has no human form, only having a normal and feral version.
+*Eclipse and [[Ribecca]] are the only [[Halloween Toons]] to not get a mask in the [[Haunted Gala]], likely due to her [[Ability]] only working in [[Blackouts]] and those spawning really rarely in the Haunted Galas, as well as the fact it's a Passive Ability.
+*Eclipse's 2 Star [[Stealth]] likely reflects her tendency to howl, while the [[Movement Speed]] and [[Stamina]] gained when she transforms in [[Blackouts]] reflects her increased bulk during such [[Floor Events]].
+**Her Stealth Stat is further supported by her {{CI|Twisted Eclipse}}[[Twisted Eclipse|Twisted counterpart]]'s ability to attract other wandering [[Twisteds]] through howling.
+*Eclipse is the only [[Toon]] to have two separate sets of Emotes in her {{Skin|QoM}} [[Skin]]:
+**Normally, she plays an air guitar while bobbing to the beat of the song, followed by leaning back, before posing with her wrists bent and a leg raised. In her werewolf form, she plays the air guitar more aggressively, followed by headbanging and holding up a hand in a similar style to putting up the sign of the horns, before posing with her arms out in front of her while leaning forward.
+*According to the Queens of Mischief music video and [[Changelog|v0.29.7]] thumbnail, Eclipse can play the electric guitar.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Halloween Event]]

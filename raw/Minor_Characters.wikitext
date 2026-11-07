@@ -1,0 +1,574 @@
+{{Lore}}
+
+''This is a list of Minor Characters. They are characters that don't play a significant role in-game and are only mentioned once or a few times. These characters have little to no appearances in the game itself.''
+
+==Minor Toons & Twisteds==
+====Barnaby Wilikers & Twisted Barnaby====
+<tabber>
+Barnaby=
+{{Toons
+|title1=Barnaby Wilikers
+|image1=<gallery>
+Barnaby Icon.png|Icon
+Barnaby Artwork.png|Artwork
+</gallery>
+|heart1=Main Heart
+|heart2=Main Heart
+|heart3=Main Heart
+|ability_1=N/A
+|skins=*Vintage 
+*Prismatic Pal
+*Tacky Sweater
+*Ice Fisher
+*Flowery Punch
+*Golden Fishbowl
+*Reef Explorer
+*Swimmy Barnaby
+*Potion Glass
+|gender=Male
+|pronouns=He/Him
+|release_date=8/14/2024 {{Small|Lore-wise}}<br>11/26/2025 {{Small|In-game}}
+}}
+
+{{DialogueQuote|Finn|<choose uncached><option>GASP! Not my toy Barnaby Wilikers...</option><option>He is so much more to me!!!</option></choose>|Finn talking about Barnaby to [[Scraps]] or [[Sprout]] in their dialogues.}}
+
+'''Barnaby Wilikers''', also known as '''Barnaby''', is one of the 4 Minor [[Toons]] in [[Dandy's World]]. He is a toy fish, and he resides inside of {{CI|Finn|name=true}}'s fishbowl head.
+
+====Appearance====
+Barnaby is a small purple fish with wiggly light purple stripes on his body and tail, short fins, puckered up lips, purple blush, and large eyes. He has a gray wind-up key on his back.
+
+====Gallery====
+{{#tag:tabber|In-Game=
+<gallery>
+Barnaby.png|Barnaby model
+Finn Idle 2.gif|Barnaby in [[Finn]]'s 2nd idle animation
+Finn Extracting.gif|Barnaby in Finn's extract animation
+Prismatic Pal Idle 2 Old.gif|Default Barnaby in Prismatic Pal Finn's 2nd idle animation (Old)
+Prismatic Pal Extracting Old.gif|Barnaby in Prismatic Pal Finn's extract animation (Old)
+Tacky Sweater Idle 2 Old.gif|Default Barnaby in Tacky Sweater Finn's 2nd idle animation (Old)
+Tacky Sweater Extracting Old.gif|Barnaby in Tacky Sweater Finn's extract animation (Old)
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Skins=
+{{#tag:tabber|Vintage=
+<gallery>
+Vintage Barnaby.png|Vintage Barnaby model
+Vintage Finn Idle 2.gif|Vintage Barnaby in Vintage [[Finn]]'s 2nd idle animation
+Vintage Finn Extracting.gif|Vintage Barnaby in Vintage Finn's extract animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Vintage Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Prismatic Pal=
+<gallery>
+Prismatic Pal Barnaby.png|Prismatic Pal Barnaby model
+Prismatic Pal Idle 2.gif|Prismatic Pal Barnaby in Prismatic Pal Finn's 2nd idle animation
+Prismatic Pal Extracting.gif|Prismatic Pal Barnaby in Prismatic Pal's extract animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Prismatic Pal Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Tacky Sweater=
+<gallery>
+Tacky Sweater Barnaby.png|Tacky Sweater Barnaby model
+Tacky Sweater Idle 2.gif|Tacky Sweater Barnaby in Tacky Sweater Finn's 2nd idle animation
+Tacky Sweater Extracting.gif|Tacky Sweater Barnaby in Tacky Sweater's extract animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Tacky Sweater Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Ice Fisher=
+<gallery>
+Ice Fisher Barnaby.png|Ice Fisher Barnaby model
+Ice Fisher Idle 2.gif|Ice Fisher Barnaby in Ice Fisher Finn's 2nd idle animation
+Ice Fisher Extracting.gif|Ice Fisher Barnaby in Ice Fisher Finn's extract animation 
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Ice Fisher Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Flowery Punch=
+<gallery>
+Flowery Punch Barnaby.png|Flowery Punch Barnaby model
+Flowery Punch Idle 2.gif|Flowery Punch Barnaby in Flowery Punch [[Finn]]'s 2nd idle animation
+Flowery Punch Extracting.gif|Flowery Punch Barnaby in Flowery Punch Finn's extract animation 
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Flowery Punch Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Golden Fishbowl=
+<gallery>
+Golden Fishbowl Barnaby.png|Golden Fishbowl Barnaby model
+Golden Fishbowl Idle 2.gif|Golden Fishbowl Barnaby in Golden Fishbowl Finn's 2nd idle animation
+Golden Fishbowl Extracting.gif|Golden Fishbowl Barnaby in Golden Fishbowl Finn's extract animation 
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Golden Fishbowl Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Reef Explorer=
+<gallery>
+Reef Explorer Barnaby.png|Reef Explorer Barnaby model
+Reef Explorer Idle 2.gif|Reef Explorer Barnaby in Reef Explorer Finn's 2nd idle animation
+Reef Explorer Extracting.gif|Reef Explorer Barnaby in Reef Explorer Finn's extract animation 
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Reef Explorer Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Swimmy=
+<gallery>
+Swimmy Finn Barnaby.png|Swimmy Barnaby model
+Swimmy Idle 2.gif|Swimmy Barnaby in Swimmy Finn's 2nd idle animation
+Swimmy Extracting.gif|Swimmy Barnaby in Swimmy Finn's extract animation 
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Swimmy Barnaby Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Potion Glass=
+<gallery>
+Potion Glass Barnaby.png|Potion Glass Barnaby model
+Potion Glass Idle 2.gif|Potion Glass Barnaby in Potion Glass Finn's 2nd idle animation 
+Potion Glass Extracting.gif|Potion Glass Barnaby in Potion Glass Finn's extract Animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=<gallery widths="150">
+Potion Glass Barnaby Texture.png|Texture
+</gallery>}}
+}}
+{{!}}-{{!}}
+
+Stickers=
+<gallery>
+Something is fishy... Sticker.png|Barnaby and [[Finn]] featured in the "Something is fishy..." [[Sticker]]
+</gallery>
+{{!}}-{{!}}
+
+Lore=
+<gallery>
+Swimmy Barnaby Machine.png|Barnaby and [[Finn]] on an arcade cabinet named "Swimmy Barnaby!"
+Swimmy Barnaby! Fixed.png|Swimmy Barnaby! arcade sign
+Swimmy Barnaby!.png|Ditto, but old
+Swimmy Barnaby Screen.png|Swimmy Barnaby! arcade screen
+Barnaby Swimming Painting.png|Painting of Barnaby swimming
+Aquatic Floor Wall Texture.png|Wall texture of the [[Aquatic Floor]] featuring Barnaby
+Finn and Razzle & Dazzle Making Puns
+</gallery>
+{{!}}-{{!}}
+
+Videos=
+<gallery>
+LVL UP EXPO 🤝 Dandy’s World
+</gallery>
+{{!}}-{{!}}
+
+Development=
+<gallery>
+9-19-24artstream.png|Barnaby concept art seen in the September 19, 2024 livestream
+Finn Something's Fishy Sketch.png|Sketch of the "Something is fishy..." [[Sticker]] featured Barnaby and [[Finn]]
+Finn Something's Fishy Sketch Option A.png|Ditto, but alternate version
+Finn Something's Fishy Sketch Option B.png|Ditto, but another alternate version
+Finn Idle 2 Teaser.gif|Barnaby appearing in Finn's new 2nd idle animation during development
+</gallery>
+}}
+
+====Trivia====
+*Barnaby is the first non-{{Type|Main}} [[Toon]] to have a last name, with the second being Mr & Mrs Holloway.
+**This could imply that {{CI|Finn|name=true}}'s last name is also Wilikers, since pets tend to take the last name of their owners, though because only Main Character Toons can have last names (with the exception of Mr. and Mrs. Holloway and possibly {{CI|Coal|name=true}}), the last name addition may just be a name-based choice.
+*Blot Jr. and Barnaby have [[Stickers]], despite not being actual [[Toons]], though they have their corresponding Toon with them.
+*Barnaby is heavily implied to be a sentient [[Toon]] since he can blink and move suspiciously fluid for a toy, as mentioned in one of {{CI|Dandy|name=true}}'s [[Gossip]] dialogues.
+**This hints that Finn was right that Barnaby is in fact more than just a toy, in his interaction with {{CI|Sprout|name=true}}.
+**Barnaby is most likely a robot, since he can move on his own while still being framed as a toy.
+*Akin to Blot Jr., Barnaby changes his appearance depending on [[Finn]]'s [[Skin]].
+*Barnaby is the second non-playable Toon since [[Dandy]], followed by Blot Jr. and [[Dyle]]. While Dandy and Dyle are not playable to the public, Barnaby and Blot Jr. are not playable at all.
+*Barnaby initially did not have a [[Twisted]] counterpart when he was first revealed, and lacked a counterpart up until [[Changelog|v0.22.1]], which introduced Twisted Barnaby.
+*If Finn is extracting from a Barnaby Machine, Barnaby will jump every time the player interacts in the minigame.
+
+|-|Twisted Barnaby=
+{{Twisted
+|title1=Twisted Barnaby
+|image1=<gallery>
+Twisted Barnaby Render.png
+</gallery>
+|type={{Type|Uncommon}}
+|speed=None (Static)
+|mechanic= Twisted Barnaby will swim inside a large puddle made by Twisted Finn. When a player steps on the puddle, Twisted Barnaby will latch onto the player for a few seconds (10 for solo, 15 for 2-4 players, 20 for 4+), with their location being revealed to Twisted Finn at all times.
+|attention_span=10 seconds (1 Player)<br> 15 seconds (2-4 Player)<br> 20 seconds (5-8 Player) 
+|detection_range=TBA {{Small|(circular vision)}}
+}}
+
+{{Quote
+|Watch out for his Twisted sidekick Barnaby!
+|Twisted Barnaby being mentioned on Twisted Finn Description
+}}
+
+'''Twisted Barnaby''' is currently the only Minor [[Twisted]] in [[Dandy's World]]. He was introduced on June 12th, 2026. He resides in {{CI|Twisted Finn|name=true}}'s head.
+
+====Appearance====
+Twisted Barnaby very closely resembles his [[Toon]] counterpart, except for having eyes with red sclerae and having half of his body being completely covered in Ichor, with Ichor tears.
+
+====Mechanic====
+When {{CI|Twisted Finn|name=true}} is on the Floor and he creates an [[Ichor Puddle]], there is a chance for Twisted Barnaby to be dropped inside one of these puddles. When a [[Toon]] walks over the puddle, Twisted Barnaby will latch onto that Toon for 10 seconds for a solo run, 15 seconds for 2-4 player runs, and 20 seconds for larger runs. While he is on you, Twisted Finn will be attracted to you, darting towards you until Twisted Barnaby releases with an indefinite attention span. Another Toon is able to pull Twisted Barnaby off of a Toon to prematurely end the chase. Finally, he will drop down into the floor and wait to be dropped into another puddle.
+
+====Gallery====
+<gallery>
+Twisted Barnaby.png|Twisted Barnaby's model
+Twisted Barnaby Glow.png|Ditto, During Blackout
+Twisted Barnaby Puddle.gif|Twisted Barnaby inside an [[Ichor Puddle]]
+Twisted Barnaby Latched.gif|Twisted Barnaby latched onto a player
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Twisted Barnaby Texture.png|Texture
+</gallery>}}
+
+====Trivia====
+*Twisted Barnaby currently holds the record for the smallest [[Twisted]] in the [[Game]], with that record originally belonging to {{CI|Twisted Finn|name=true}}, ironically.
+**He also holds the record of being the first and only Minor Twisted in the game.
+*Because {{CI|Flyte|name=true}} and {{CI|Flutter|name=true}} have no arms, Twisted Barnaby latches on to their heads.
+</tabber>
+
+===Blot Jr.===
+''This section is about the Minor Character, Blot Jr. If you're looking for the <u>Toon</u>, look [[Blot|here]]''
+{{Toons
+|title1=Blot Jr.
+|image1=<gallery>
+Blot Jr. Fanmade Icon.png|Icon
+Blot Jr. Artwork.png|Artwork
+</gallery>
+|heart1=Main Heart
+|heart2=Main Heart
+|heart3=Heart
+|stealth={{Star}}<br>{{Small|(-999)}}
+|requirement_1=Must be playing as {{CI|Blot|name=true}}
+|requirement_2=10 to 80 {{Tape|name=true}}
+|ability_1=N/A
+|skins=*Vintage
+*Show-Time
+*Cozy Pink
+*Sanguine Silence
+*Chilly Penguin
+*Fancy Frosting
+|gender=None
+|pronouns=He/Him<ref>https://discord.com/channels/969934252844138496/969934252844138499/1383977008853418085</ref><ref>https://discord.com/channels/969934252844138496/970049062608961560/1389244505118740532</ref>
+|release_date=5/23/2025
+|caption-image1=}}
+
+{{DialogueQuote|Blot|<choose uncached><option>{{Tooltip|!em inim A|A mini me!}}</option><option>{{Tooltip|.rJ tolB|Blot Jr.}}</option></choose>|Blot talking about Blot Jr. to Glisten}}
+
+'''Blot Jr.''' is one of the 4 Minor [[Toons]] in [[Dandy's World]]. He was introduced on May 23, 2025. He can be summoned by Blot for 10 to 80 [[Tapes]], which scales depending on the number of Blots in a round (10 Tapes per Blot).
+
+====Appearance====
+Blot Jr. is a gray, limbless ink blob. His head is shaped like [[Blot|his creator]]'s, with the left side of his head having a large drip reaching towards the ground and the right side of his head having a smaller drip that's half the size of the left drip. He has a piece of paper taped to the right side of his head with a drawn-on eye. His stem gradually darkens into black and ends in a small puddle on the ground.
+
+====Audio====
+{|class="article-table" cellspacing="0" style="width:calc(100%-300px);"
+!Audio
+!Description
+|-
+![[File:BlotJrAbility.mp3|left|thumb]]
+|The sound that plays when [[Blot]] summons Blot Jr.
+|}
+
+====Gallery====
+<tabber>
+|-|In-Game=
+<gallery>
+Blot Jr.png|Blot Jr. model
+Blot Ability.gif|[[Blot]] summoning Blot Jr.
+Vintage Blot Ability Old.gif|Vintage Blot summoning a default Blot Jr. (Old)
+Blot Jr Death.gif|Death/despawning animation
+Blot Ability Icon.png|Blot Jr. featured in Blot's [[Ability]] icon
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Blot Jr. Texture.png|Texture
+</gallery>}}
+
+|-|Skins=
+{{#tag:tabber|Vintage=
+<gallery>
+Vintage Blot Jr.png|Vintage Blot Jr. model
+Vintage Blot Ability.gif|Vintage Blot summoning Vintage Blot Jr.
+Vintage Blot Jr Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Vintage Blot Jr. Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Show-Time=
+<gallery>
+Show-Time Blot Jr.png|Show-Time Blot Jr. model
+Show-Time Blot Ability.gif|Show-Time Blot summoning Show-Time Blot Jr.
+Show-Time Blot Jr. Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Show-Time Blot Jr. Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Cozy Pink=
+<gallery>
+Cozy Pink Blot Jr.png|Cozy Pink Blot Jr. model
+Cozy Pink Ability.gif|Cozy Pink Blot summoning Cozy Pink Blot Jr.
+Cozy Pink Blot Jr. Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Cozy Pink Blot Jr. Texture.png|Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Sanguine Silence=
+<gallery>
+Sanguine Silence Blot Jr.png|Sanguine Silence Blot Jr. model
+Sanguine Silence Ability.gif|Sanguine Silence Blot summoning Sanguine Silence Blot Jr.
+Sanguine Silence Blot Jr Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Sanguine Silence Blot Jr. Texture.png|Sanguine Silence Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Chilly Penguin=
+<gallery>
+Chilly Penguin Blot Jr.png|Chilly Penguin Blot Jr. model
+Chilly Penguin Ability.gif|Chilly Penguin Blot summoning Chilly Penguin Blot Jr.
+Chilly Penguin Blot Jr Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Chilly Penguin Blot Jr. Texture.png|Chilly Penguin Texture
+</gallery>}}
+{{!}}-{{!}}
+
+Fancy Frosting=
+<gallery>
+Fancy Frosting Blot Jr.png|Fancy Frosting Blot Jr. model
+Fancy Frosting Ability.gif|Fancy Frosting Blot summoning Fancy Frosting Blot Jr.
+Fancy Frosting Blot Jr Death.gif|Death/despawning animation
+</gallery>
+{{GalleryTab|title=Texture Files|gallery=
+<gallery widths="150">
+Fancy Frosting Blot Jr. Texture.png|Fancy Frosting Texture
+</gallery>}}
+{{!}}-{{!}}
+}}
+
+|-|Stickers=
+<gallery>
+Jr incoming! Sticker.png|Blot Jr. and [[Blot]] featured in the "Jr incoming!" [[Sticker]]
+</gallery>
+
+|-|Doodles=
+<gallery>
+Blot and Blot Jr. Sketch.png|Doodle of Blot holding Blot Jr.
+</gallery>
+
+|-|Development=
+<gallery>
+0.10.1 Teaser.png|Teaser of Show-Time Blot Jr. in the [[Artist]] [[Floor]]
+Vintage Blot Jr. Teaser.png|Teaser for Vintage Blot Jr. model
+Blot Jr. Held Sketch.png|A Sketch of the "Jr incoming" [[Sticker]] featuring Blot Jr. and [[Blot]]
+</gallery>
+</tabber>
+
+====Trivia====
+*Blot Jr.'s eye drawing is also used as {{CI|Twisted Blot|name=true}}'s pupil.
+*There is evidence that Blot Jr. is sentient, just like Barnaby, due to his eye drawing changing expressions as shown in the official doodles, although this is most likely someone like Blot switching the drawing with another similar one.
+*{{CI|Twisted Razzle & Dazzle|name=true}}, {{CI|Twisted Rodger|name=true}}, {{CI|Twisted Connie|name=true}}, and [[Twisted Blot]]'s arms won't target or attack Blot Jr. at all.
+**Even though [[Twisted Glisten]] will attack Blot Jr., he won't affect his meter while he is passive.
+*Ranged Twisteds such as {{CI|Twisted Goob|name=true}} and {{CI|Twisted Scraps|name=true}} can still target Blot Jr.; However, their ranged attacks won't target Blot Jr., delaying them instead. Blot Jr. also can't prevent {{CI|Twisted Gigi|name=true}} from taking items from your inventory.
+*{{CI|Twisted Sprout|name=true}} can summon his [[Ichor]] tendril onto Blot Jr., but the tendrils will not kill it.
+*Blot Jr. has the lowest [[Stealth]] in [[Dandy's World]], even lower than {{CI|Shrimpo|name=true}}. Shrimpo, however, still stands as the [[Toon]] with the lowest Stealth, as Blot Jr. is not considered a Toon.
+*If correctly positioned, Blot Jr. can be placed in the [[Elevator]] door, and when the door closes, he will still be there.
+*In [[Changelog|v0.17.11]], Blot Jr. had been given a Vintage [[Skin]] in order to match with Vintage [[Blot]], which was 276 days after Vintage Blot Jr. was revealed.
+*[[Blot]]'s [[Skin]] also corresponds to Blot Jr.
+*Blot Jr. and Barnaby have [[Stickers]], despite not being actual [[Toons]], though they have their corresponding Toon with them.
+*Blot Jr. and Barnaby are the only [[Toons]] that can't be played with at all in-game, not even in [[Roleplay]] or by the development team.
+
+===Mr & Mrs Holloway===
+{{Toons
+|title1=Mr Holloway & Mrs Holloway
+|image1=<gallery>
+Mr & Mrs Holloway Icon.png
+</gallery>
+|heart1=Main Heart
+|heart2=Main Heart
+|heart3=Main Heart
+|ability_1=N/A
+|gender=Male (Mr. Holloway)
+Female (Mrs. Holloway)
+|pronouns=He/Him (Mr. Holloway)
+She/Her (Mrs. Holloway)
+|release_date=10/10/2025
+|caption-image1=}}
+
+{{DialogueQuote|Gourdy|I-I just- the two of them, they were there- they felt so... so... familiar|[[Gourdy]] mentioning his parents in his [[Gossip]] on [[Astro]]}}
+
+Mr and Mrs Holloway are 2 of the 4 minor [[Toons]]. They are {{CI|Gourdy|name=true}}'s parents and are absent in [[Gardenview]] due to [[Arthur]] deeming them "not commercially viable" for being stern in children's eyes and Delilah talking about "removing" them after she created them early and Arthur cancelled them. This left Gourdy with mere memories of them, only being portrayed through drawings.
+
+It is certain Gourdy is unable to even remember their appearances, as seen in drawings where Gourdy scribbles out his parents' faces for not looking right. His {{TI|Memory Locket|name=true}}, some of his & his {{CI|Twisted Gourdy}}[[Twisted Gourdy|Twisted counterpart]]'s dialogue and his drawings in his bedroom all express his huge desire to remember what they look like, but nothing else is known about them.
+
+====Appearances====
+=====Mr Holloway=====
+Mr Holloway's head is elongated and at the top he has a stem and two leaves, giving him a middle part. He has large paws for hands and feet, with 4 claws on each hand and three on his feet, and a long spindly tail, with a leaf at the end of it. His head, torso, and hands are dark orange, while his arms, legs, claws, and tail are green. His mouth is a zigzag, akin to the mouths of jack-o-lanterns.
+
+=====Mrs Holloway=====
+At the top of her head (which is shaped like her son's), Mrs Holloway has a stem and 2 leaves, one facing out, one falling on her face. She has large paws for hands, with four claws on each hand, stick legs, and a purple bandanna with dark purple spirals. Her head, torso, and hands are a pale tan, while her arms, legs, claws, and tail are dark green.
+
+====Gallery====
+<tabber>
+|-|In-Game/Lore=
+<gallery>
+Pumpkin Family Room.png|[[Gourdy]]'s bedroom next to his Parents' bedroom which has no sign
+Gourdy's Parents Room Sign.png|The missing sign for Mr & Mrs Holloway's bedroom on a high shelf
+Mr & Mrs Holloway Bedroom Sign.png|Mr & Mrs Holloway bedroom sign
+Gourdy Drawing Wall.png|Gourdy's drawings of his parents in his bedroom wall
+Gourdy Drawing 1.png|Gourdy's drawing of Mr & Mrs Holloway and Gourdy holding hands
+Gourdy Drawing 2.png|Ditto, but a drawing of Mrs Holloway
+Gourdy Drawing 3.png|Ditto, but a drawing of Mr Holloway
+Gourdy Drawing 4.png|Ditto, but a drawing of Mr Holloway's tail leaf
+Gourdy Drawing 5.png|Ditto, but a drawing of Mr Holloway
+Gourdy Drawing 6.png|Ditto, but a drawing of Mrs Holloway as 3 different colored pumpkins with text reading "MAMA"
+Gourdy Drawing 7.png|Ditto, but a drawing of Mrs Holloway with text reading "Not HER"
+Gourdy Drawing 8.png|Ditto, but a drawing of Mr Holloway and Mrs Holloway saying "WE MISS YOU"
+Gourdy Drawing 9.png|Ditto, but a drawing of Mr Holloway, Mrs Holloway and Gourdy with text reading "No Not RIGHT"
+Gourdy Drawing 10.png|Ditto, but a drawing of Mrs Holloway with text reading "WHERE IS SHE"
+Gourdy Drawing 11.png|Ditto, but a drawing of Mr Holloway's and Gourdy's hands with text reading "HIS HAND, MINE"
+Gourdy Drawing 12.png|Ditto, but a drawing of Mrs Holloway's purple bandanna with text reading "SHE HAD IT"
+Gourdy Drawing 13.png|Ditto, but a drawing of Mr Holloway and Gourdy with text reading "COME BACK"
+Memory Locket.png|Mr & Mrs Holloway seen in the [[Memory Locket]] [[Trinket]] covered in [[Ichor]]
+Found in the Woods 🗡️ - Dandy's World Animation|Mr & Mrs Holloway mention as being Not Commercially Viable
+Locked Away Room.png|Locked Away key gate room
+Real Mr and Mrs Holloway.png|Official designs likely created by [[Arthur]]
+Delilah and Arthur discuss about Gourdy's parents|Arthur and [[Delilah]] talking about removing Mr & Mrs Holloway from the [[Show]] and the [[Gardenview]] facilities
+</gallery>
+
+|-|Merchandise=
+<gallery>
+Gourdy Merch Banner.png|Gourdy merch banner with the plush version of the [[Memory Locket]]
+Gourdy Deluxe Plush.png|Gourdy Deluxe Plush
+Gourdy Plush 3.png|Ditto, but standing
+Gourdy Plush 6.png|Ditto, but just the Memory Locket
+The Lost Locket 🧡 - Dandy's World|Advert for Lost Prince Gourdy Deluxe Plush with features a [[Skin]] matching Memory Locket
+Lost Prince Deluxe Plush.png|Lost Prince Gourdy Deluxe Plush with a Skin matching Memory Locket
+Lost Prince Plush 2.png|Ditto, but standing
+</gallery>
+</tabber>
+
+====Trivia====
+*They are the second non-{{Type|Main}} [[Toons]] to have a last name due to their relation to {{CI|Gourdy|name=true}}, with the first being Barnaby Wilikers.
+**{{CI|Connie|name=true}} used to have a last name, but Boolynski was changed to her real first name in the game's official sources, since only [[Main Characters]] can have last names.
+*[[Gourdy]] inherits his parents' traits, taking:
+**His father's hand and feet paws, mouth shape, and the light green claws, tail leaf color, and arms.
+**His mother's head shape, tail color, and feet type.
+**Both of their body colors, making a lighter shade of orange.
+**Both of their stem leaves and leg colors with them being a light to dark green gradient.
+**The only trait not inherited was the stem leaf amount being 1 instead of 2, though likely due to his youth.
+*[[Gourdy]] seems to have forgotten his mother's tail, color, and paws.
+*[[Gourdy]]'s parents are the first [[Toons]] and characters in general to be in a confirmed romantic relationship.
+**They are also the second Toons to have an offspring, with the first being {{CI|Blot|name=true}}, who has Blot Jr.
+*As seen in the lore tape and "Found in the Woods" animation, [[Gourdy]]'s parents were not deemed viable for creation by [[Arthur]], but [[Delilah]] had turned them into living Toons ahead of schedule, so she proposed a "removal" to be in line with the [[show]].
+**"Removing" Gourdy's parents likely meant murdering their real life Toon counterparts. Arthur's furious response to Delilah's abrupt, impulsive actions supports this. It could also be likely that "removal" was said to censor "kill".
+**They were deemed commercially unviable due to audiences complaining about how frequently they intervened with Gourdy's life to deliver repetitive advice. The declaration was likely made last-minute, as there is a painting of their heads in what is likely their bedroom.
+*With the Lost Prince Plushie and a redesigned {{TI|Memory Locket|name=true}} to match it, this technically gives Mr and Mrs Holloway a [[Skin]].
+*Mr & Mrs Holloway were created in the year 1991 around August, before being removed somewhere between August 13 and October 1, 1991.
+**How long it took for [[Gourdy]] to become aware of his parents' nonexistence is unclear. 
+
+==Characters mentioned in Drawings==
+<tabber>
+Named Children=
+{{#tag:tabber|
+{{!}}-{{!}}Kayla=
+'''Kayla''' is a character that appears in a drawing made for {{CI|Dandy|name=true}}, showing the two holding hands with balloons surrounding them. Going off of her drawing, she has a warm brown complexion and long, dark brown hair styled into two ponytails with longer pieces framing her face. She wears a purple skirt and a teal shirt with blue stripes.
+<gallery>
+Flower man meets child.png|Kayla's note written to Dandy
+</gallery>
+
+
+{{!}}-{{!}}Julia=
+'''Julia''' is one of the kids that appears in two notes; one written to {{CI|Astro|name=true}} (assuming he has no hands when in reality he has four) and another to {{CI|Vee|name=true}} (thanking her for a new toy). She is not drawn onto the page like other kids and is instead just the name. She was stated to be 7 years old in a livestream, and is the only child with a confirmed age.
+<gallery>
+New Astro Drawing.png|Julia's note written to Astro, where she incorrectly assumes he lacks hands
+THANKSFORTHEPRIZESVEE.jpg|Julia's note written to Vee
+</gallery>
+
+{{!}}-{{!}}Timmy=
+'''Timmy''' is a character that appears in an underlined note written to {{CI|Boxten|name=true}}, asking and hoping if it's any fun "to be a box". He is not drawn onto the page like other kids and is instead listed by name.
+<gallery>
+Timmy'sBoxtenNote.png|Timmy's note written to Boxten
+</gallery>
+}}
+
+|-|Unnamed Children=
+<!-- Despite the similarities, do not label Child 1 and 2 as Alex and Steve from Minecraft. -->
+{{#tag:tabber|
+{{!}}-{{!}}Unnamed Child #1=
+'''Unnamed Child #1''' is a character that appears in a note they've written to {{CI|Astro|name=true}}, reassuring him that he makes them happy despite usually not being happy himself. They have ivory skin, a few freckles on their face, and short curly red/orange hair. Their only visible article of clothing is a green shirt with wide sleeves.
+<gallery>
+Orangekidsnote.png|The note written to [[Astro]]
+</gallery>
+
+{{!}}-{{!}}Unnamed Child #2=
+'''Unnamed Child #2''' is a character mentioned in a note they've written to {{CI|Dandy|name=true}}, high-fiving him and thanking him for "giving [them] smiles". They have a tan complexion, curly dark hair, and wears a turquoise tank top over a pair of long, blue-indigo pants. They are most likely male.
+<gallery>
+Picture drawing.png|The note written to [[Dandy]] by the Unknown Character
+</gallery>
+
+{{!}}-{{!}}Unnamed Child #3=
+'''Unnamed Child #3''' is a character mentioned in a note that pictures both them and {{CI|Sprout|name=true}}, having been cheered up by him after he gave them a cupcake. They have pale skin, rosy red cheeks, and long brown hair. They wear a bright cyan shirt with red shorts. They are most likely female.
+<gallery>
+SProUT.png|The note mentioning [[Sprout]]
+</gallery>
+
+{{!}}-{{!}}Unnamed Child #4=
+'''Unnamed Child #4''' is a character mentioned in a note that pictures both them and {{CI|Blot|name=true}}. They "talk with [their] hands", implying they want to be a mime just like Blot, and is using this way of communication as training for their aspiring career. They have dark skin, dark brown cheeks, and long black hair. They wear a purple shirt with horizontal pink stripes and purple pants. They are most likely female.
+<gallery>
+Kid'sBlotDrawing.png|The note mentioning [[Blot]]
+</gallery>
+
+{{!}}-{{!}}Unnamed Child #5=
+'''Unnamed Child #5''' is a character mentioned in a note that pictures both them and {{CI|Yatta|name=true}}, expressing how much they both love candy. They have dark skin and short, dark brown hair. Their only visible article of clothing is a navy blue hoodie with vertical purple stripes. They are most likely male.
+<gallery>
+Kid'sYattaDrawing.png|The note mentioning [[Yatta]]
+</gallery>
+
+{{!}}-{{!}}Unnamed Child #6=
+'''Unnamed Child #6''' is a character mentioned in a note that pictures both them and {{CI|Flutter|name=true}}, wishing they could fly like she can. They have light skin and long brown hair styled into a ponytail. They also wear a bright pink shirt and navy blue pants. They drew themself with rainbow-colored wings, their desired preference. They are most likely female.
+<gallery>
+Kid'sFlutterDrawing.png|The note mentioning [[Flutter]]
+</gallery>
+}}
+</tabber>
+===Trivia===
+*Julia is the only child who created two works.
+*Despite all the children having individual identities, the drawings all appear to look as though the same child drew and wrote various different things due to the overall art style.
+*Going off of the drawings that only have or mention children, [[Dandy]] and [[Astro]] are the only two who received two drawings each.
+
+{{References}}
+{{LoreNav}}
+
+[[Category:Humans]]
+[[Category:Toons]]
+[[Category:Characters]]

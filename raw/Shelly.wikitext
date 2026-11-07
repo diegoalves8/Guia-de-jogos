@@ -1,0 +1,171 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#ffe1b9,#ffcf8f,#745545 80%); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1=Shelly Fossilian
+|image1=<gallery>
+Shelly Render.png|Render
+Shelly Full Render.png|Full Render
+Shelly Icon.png|Icon
+Shelly Full Icon.png|Full Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|5}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|{{AI|Shelly|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can boost the Extraction Speed of a selected Toon by 75% for 15 seconds. Has a cooldown of 60.
+|ability_2={{Center|'''Problem Solver'''<br>{{Small|''(Passive)''}}}}<br>This Toon gains a 25% Movement Speed boost when any Machine is completed for 10 seconds.
+|requirement_1=4250 [[Ichor]]
+|requirement_2=100% [[Research]] on {{CI|Twisted Shelly|name=true}}
+|requirement_3=Complete all [[Mastery]] Quests on {{CI|Tisha|name=true}}
+|skins=*Default
+*Vintage
+*Dino Snore
+*Star-Time
+*Cheer Bear
+*Violet Caster
+*Fall Stroll
+*Prehistoric Peppermint
+*Painted Eggshells
+|gender=Female
+|pronouns=She/Her
+|designation=M-004
+|release_date=7/12/2024 EST
+}}
+
+{{DialogueQuote|Shelly|<choose uncached><option>What a historical event!</option><option>Hooray, I'm not extinct!</option><option>Teamwork makes the dream work!</option></choose>|From Shelly's various dialogues}}
+
+{{ToonInfo|type=Main|Toon=Shelly|extra=Fossilian|Date=July 12, 2024|with={{CI|Flutter|name=true}}, {{CI|Teagan|name=true}}, and {{CI|Tisha|name=true}}|Pronoun=She}}
+
+==Appearance==
+Shelly is a beige {{wp|ammonite}} shell with a black opening seen on the left side of her head. She has orange blush and two bottom lashes underneath each eye. She wears a dark brown overall dress with a light brown sleeveless undershirt. When hurt, her eyes squint closed, and her smile turns into a grimace.
+
+==Personality==
+Shelly is a very extroverted [[Toon]], who enjoys talking about her interest in dinosaurs and other forms of prehistoric life, but she has other hobbies as well, such as sewing, which is shown in her dialogues with {{CI|Bobette|name=true}}, {{CI|Sprout|name=true}}, and {{CI|Yatta|name=true}}. She is always bursting with energy and tries her best to get along with others, even to the point of twisting cruelty towards her into awkward kindness; shown in her conversation with {{CI|Shrimpo|name=true}}. She is highly supportive and kind towards others, as hinted at through her Active Ability, possibly due to the influence of her [[Toon Handler]] or natural energy.
+
+She's often surprised and even excited when other Toons show an interest in her, especially {{Type|Mains}}, demonstrated in her dialogues with {{CI|Astro|name=true}}, {{CI|Vee|name=true}}, {{CI|Yatta|name=true}}, {{CI|Rodger|name=true}}, and {{CI|Bassie|name=true}}, possibly because she often goes unnoticed or ignored by the others. For unknown reasons, Shelly is the most ignored Toon out of all the Main Characters, and this has been implied multiple times in the game and in her {{CI|Twisted Shelly}}[[Twisted Shelly|Twisted counterpart]]'s description. This seems to greatly upset her, but she does try to keep up her optimistic and positive facade despite this, instances of which are shown in her dialogues with {{CI|Teagan|name=true}} and {{CI|Tisha|name=true}}.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 125 times|Pick up 100 [[Items]]|Survive 15 [[Floors]] with 4 or more Players in your round|Finish 150 [[Machines]]|Survive 80 Floors|Travel 150000 Meters}}
+
+
+===Mastery Strategy===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Collect and use}}|{{MastStrat|third|Play with Toons}}|{{MastStrat|fourth|Machine}}|{{MastStrat|fifth|Reach/do floors}}|{{MastStrat|sixth|Meters|3Star}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}. To maximize Ichor, It's heavily recommended to play solo, allowing you to gain larger amounts from extracting, whereas in a team where other extractors may be present. Playing as a [[Toon]] with an Active [[Ability]] that can be used without any perquisites will give you 5 Ichor every Floor.
+*For the second requirement, have a distractor Toon bring {{CI|Twisted Shelly|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Shelly is on the [[Daily Twisted Board]].
+*For the third requirement, play as {{CI|Tisha|name=true}} and try to complete her [[Mastery]] Quests by going on multiple runs. It is recommended to go on an organized Run or do specific quests in certain runs.
+
+==Strategies==
+Shelly has the highest [[Skill Check]] [[Stat]] available, being 5{{Star}}, which gives her an aptitude for extraction. Her Active [[Ability]], {{AI|Shelly|name=true}}, is capable of drastically increasing the [[Extraction Speed]] of a selected [[Toon]] by a whole 75%. As Shelly, you can either find an extractor using or near a [[Machine]] and boost them, or go off on your own and extract Machines, boosting those that pass you on the off-chance that they'll stumble across a Machine before the boost wears off. Upon any Machine's completion, her Passive, '''Problem Solver''', solves one of her other problems, that being slightly-below average movement stats that hinder travel by giving her a boost of 25% in [[Movement Speed]] until the 10 seconds wear off (18.75 Walk Speed/31.25 Run Speed). This boost can stack.
+
+Shelly's '''Inspiration''' boost is really effective, being able to make 1-2 Star Extraction Speed Toons extract almost as fast as a 5 Star Extraction Speed Toon. Generally, unless duoing, it's best to boost anyone extracting that you can find on low Floors, though note that with multiple targets, you have to think carefully about who you are boosting, like prioritizing a Toon that has just started a Machine over one that's nearly completing it. Toons with high extraction Stats get to have more out of the buff as it lets them find another Machine to complete faster, but if most of the Machines are done, the Floor will finish faster if you buff a slow extractor or the person with the least completion on their Machine. If you're being chased, you can buff a teammate who's almost done with a Machine to get a speed boost out of it. Shelly's boost also stacks with other Extraction Speed buffs, so it can turn things like {{II|Instructions|name=false}} or {{TI|Stress Ball|name=true}} into a real force if you've seen someone bring them or if a Machine is in a risky spot. Lastly, don't buff a Toon that's priming, as it could mess them up. To make the best use out of her Active, memorizing Machine placements is very helpful. Doing this can help you predict if a Toon notices and wants to extract a Machine, therefore giving them a boost earlier.
+
+Shelly's Passive Ability, '''Problem Solver''', is a great survival tool for Shelly given the amazing speeds it gives when multiple Machines are finished at once, with 5 Machines completed allowing her to outwalk {{CI|Twisted Dyle|name=true}} outside of [[Panic Mode]]. To see these speeds in full for every Machine that can be possibly finished at a time, see the table below.
+{{SFSpeedTable|Shelly}}
+
+In organized runs such as 'Mach Crushers' (runs with 4+ Shellies), a strategy called Duoing is used to capitalize on Shelly's strengths and cooldown, though you can do this if you have a partner to play with you. Duoing has pairs of Shellies stay together, prioritizing one side of the map (left or right) to cover the most ground without being redundant. They try to only boost each other unless there is a Machine near the distractor in need of completing, they can't find their duo/an extraction Machine, or other teammates are doing the last Machines. This strategy is used in more experienced runs and becomes very productive if {{TI|Vee's Remote|name=true}} is used, as the Shellies can combo with each other early on. Generally, one Shelly "leads", using Vee's Remote first, and the other finds their own Machine to do. Then, when the leader finds another Machine, they boost each other, with the other finding their own Machine. This helps to avoid confusion and to utilize your cooldowns well. Also, Shelly's Passive reduces the need to prime, speeding up Floors further. Again, note that this strategy is used mostly in more organized runs. Duos can also match [[Skins]] to coordinate better, but matching colors reduces ambiguity (i.e. green for {{Skin|Fall Stroll}} and {{Skin|Prehistoric Peppermint}}).
+
+Shelly can pair up really well with {{CI|Brusha|name=true}} for many reasons. For one, a painted Machine's 25% boost stacks with Shelly's 75% boost, totaling to a whopping 118.8%, meaning a team would practically have an infinite supply of Instructions and more. Plus both of their boosts really work with each other's Stat spreads.
+
+Shelly's main weakness is her low [[Stamina]] stat. She just has 2 Star Stamina (125 units), resulting in some troubles with Stamina management if not careful. It's recommended to not get below 50 units unless you have some sort of support (an Item, support Toons, experience, or reliable distractors). However, the Stamina problem becomes mitigated once she gains the 70 extra units of Stamina from [[Dyle's Floor]] and both Stamina [[Cards]], putting her at 195 units. Even though her Movement Speed is average while ignoring her Passive, she will have trouble running from [[Twisteds]] that outpace her in prolonged chases.
+
+As for Items, because she leans towards Extraction, a very obvious choice would be picking and using Extraction Items, allowing her to extract Machines faster for the team. Stamina and Speed Items are good choices too, helping her extract [[Treadmill Machines]] with or without her Passive and keep her Stamina while searching for Machines or for urgent situations, like needing to get to the Elevator while extracting far from it. Generally, Shelly benefits from all Items, so don't be shy to pick some up if you don't have a {{CI|Sprout|name=true}}. Like every other Toon, she benefits from healing, but as a {{Type|Main}}, {{II|Bandage|name=false}}s are better over {{II|Health Kit|name=false}}s. Unless you can rely on others for support, it's a good idea to preserve at least one slot for escape Items.
+
+===Inspiration Effect===
+*{{StatCmpr|stat=Extraction Speed|change=75|affector=Inspiration|time=15}}
+
+===Machine Times with {{AI|Shelly}}Inspiration===
+{{MSpeed}}
+
+===Trinket Combinations===
+{{Preference}}
+Some [[Trinket]] sets that are recommended are:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Shelly to outrun all Twisteds except {{CI|Twisted Dyle|name=true}} at maximum speed before [[Panic Mode]], and during Panic Mode with '''Problem Solver''' active {{Small|(26.9/33.6 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further increase Run Speed {{Small|(28.1/35.16 run speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to increase Run Speed and Walk Speed, though it only works half the time {{Small|(16.5/20.6 walk speed, 29.7/36.95 run speed)}};
+****They can be paired together and give an equal boost of [[Movement Speed]] {{Small|(16.5/20.6) walk speed, 27.5/34.38 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35/40.63 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}} Debuff easier without losing much Stamina;
+***'''{{TI|Cooler|name=true}}''', to increase Shelly's Stamina pool;
+****'''Do not''' use this Trinket combination if you don't struggle with Stamina management.
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her subpar Stamina and slow extraction;
+***Any of the Trinkets in the '''Extraction Section''', to help with Floor progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Shelly to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 Extraction Speed)}} and 5 Star [[Skill Check]] {{Small|(167.5 Skill Check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote, and gain a near-immediate speed boost;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting her 5{{Star}} [[Skill Check]] {{Small|(22.96 avg/20.83 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Shelly|name=true}}'s [[Ability]] cooldown {{Small|(55s)}}.
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''Inspiration'''<nowiki/>'s cooldown, though only by a medium amount as the Trinket works with percentages {{Small|(50.2s)}}.
+
+==Dialogues==
+{{Shelly Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:ShellyAbility.mp3|left|thumb]]
+|The sound that plays when Shelly uses her {{AI|Shelly|name=true}} [[Ability]]
+|-
+![[File:Shellytalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Shelly's head
+|}
+
+==Trivia==
+*Shelly's [[Toon Handler]] is {{CI|Shanon Mendez|name=true}}.
+*Shelly's friends include {{CI|Bassie|name=true}}, {{CI|Sprout|name=true}}, {{CI|Tisha|name=true}}, and {{CI|Yatta|name=true}}. 
+**Sprout's friendship with her is proven by the fact that she introduced Sprout to {{CI|Cosmo|name=true}}<ref>[[File:S1 Ep3 with better quality.png|200px]]</ref> as shown in a storyboard and has also talked to him about ancient plants a couple of times, and that she likes to clean fossils with Tisha and acts friendly towards her.
+**Tisha and Yatta also seem to be one of the first [[Toons]] to know about her sewing hobby, with Yatta being enthusiastic at the idea of being taught how to sew by Shelly. 
+**Bassie says in her [[Gossip]] about Shelly that they get along well, saying that she even wishes she was an [[Easter Toon]]. Furthermore, {{CI|Cocoa|name=true}} tells Shelly to keep hanging out with Bassie more.
+*Shelly is a paleontologist, as she studies and preserves ancient remains rather than treating them as decorations as seen in [[Shelly's Floor|her map]], which is filled with dinosaur and ancient fossils, and also the animation on the TV in the same map, which shows her cleaning a fossil.
+*Shelly and {{CI|Vee|name=true}} have a focus episode together advertised in a [[Poster]] called Future and Past, where Shelly represents the past and Vee represents the future.
+*Shelly's designation is M-004 with the '''M''' standing most likely for {{Type|Main}}.
+*Shelly's name is most likely derived from the word "shell" since she is an ammonite, an extinct species of {{wp|cephalopods}} that lived in a shell.
+*Shelly, alongside {{CI|Gigi|name=true}}, {{CI|Gourdy|name=true}}, {{CI|Soulvester|name=true}}, {{CI|Waxwell|name=true}}, {{CI|Dandy|name=true}}, and {{CI|Dyle|name=true}} (the latter two being unplayable developer [[Toons]]) currently have the largest Skill Checks in the game, being 5{{Star}} (Skill Check size: 250, Skill Check value: 3.00, Skill Check chance: 25%, and Skill Check speed: 5).
+**She is the only publicly playable [[Toon]] without 1 Star Stamina.
+*Shelly's full name was revealed by [[Qwelver]] when she was doing a livestream on Discord.
+*Shelly is ignored by most [[Toons]] such as {{CI|Looey|name=true}} (in their dialogues).
+**In the [[Gift Shop]] [[Floor]], none of Shelly's plushies were sold besides three, compared to the rest of the {{Type|Main}} Toon plushies, implying she is unpopular among children too.
+**This may be a subversion of expectations, as dinosaurs are a common interest among children in the real world.
+*{{Citation|Shelly cannot do a handstand, confirmed by [[Qwel]] in a 10/17/2024 QnA stream.}}
+*Shelly is one of the [[Toons]] that has an official [[merchandise]] plush as of now, with the others being [[Astro]], [[Bassie]], [[Bobette]], {{CI|Boxten|name=true}}, [[Cocoa]], [[Dandy]], [[Gourdy]], [[Pebble]], {{CI|Poppy|name=true}}, [[Sprout]], and [[Vee]].
+*Shelly is learning how to sew from a friend, as stated in her dialogues with [[Sprout]] and {{CI|Bobette|name=true}}, whose name isn't stated.
+**This is further proved according to a conversation with [[Yatta]] in which she mentions how [[Tisha]] said Shelly could sew.
+*Shelly shares quite similar stats with [[Gigi]] and {{CI|Finn|name=true}}, having 1 extra Star on Stamina compared to Gigi and 1 extra Star on Skill Check compared to Finn.
+*Shelly is the second [[Main Character]] [[Toon]] to have her [[Shelly's Floor|own Floor]], the first one being [[Astro]] with [[Astro's Floor|his Floor]], the third being [[Vee]] with [[Vee's Floor|her Floor]], and the fourth being [[Sprout]] with [[Sprout's Floor|his Floor]].
+*Shelly's favorite dinosaur changes every week.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1348673720989913191</ref>
+*Shelly is the first female [[Toon]] to appear on the game icon, and the first Toon in general to appear alongside [[Dandy]] on it.
+*Shelly's Stats are the first appearance of 5 Star Skill Check and 2 Star Stamina.
+**[[Tisha]], who was released with her, also had the first appearance of 2 Star Stamina.
+***Technically, [[Vee]] originally had 2 Star Stamina, but it was increased to 3 Stars. Therefore, Shelly and Tisha are the first [[Toons]] to have consistent 2 Stars in Stamina, but not the first ones to have it.
+***[[Dandy]] also always had 5 Star Skill Check, but because he is developer-exclusive, Shelly is the first Toon to have 5 Star Skill Check and be accessible to everyone.
+*The sound used for Shelly's {{AI|Shelly|name=true}} [[Ability]] originates from the {{wp|Microsoft Windows 3.1}}'s startup sound or simply known as the 'Tada' sound.
+**It is uploaded on the Roblox Audio Library as "[https://create.roblox.com/store/asset/12222253/victorywav victory.wav]".
+*Shelly is the second shortest [[Main Character]] [[Toon]] and the third shortest overall, the shortest being [[Pebble]].
+**She is actually a tad bit shorter than {{CI|Toodles|name=true}}, probably due to the flat nature of her head.
+*Shelly is one of the last [[Main Characters]] to be optimized, along with [[Astro]].
+**[[Pebble]] got his optimizations in [[Changelog|v0.7.1]], [[Vee]] got her optimizations in v0.9.1, [[Sprout]] got his optimizations in v0.11.1, and finally Shelly and Astro got theirs in v0.12.1.
+*Shelly is one of the 3 [[Toons]] to have a [[Skin]] in the first [[Dandy's World]] [[Collab]], the [[2025 Care Bears Collab]], the others being [[Astro]] and {{CI|Shrimpo|name=true}}. This Skin will also never be unlockable again.
+*Shelly's Cheer Bear [[Skin]] is one of the first 3 Skins to have official renders shown in-game.
+*Shelly is the third [[Toon]] to have both their Toon and {{CI|Twisted Shelly}}[[Twisted Shelly|Twisted counterpart]] in a thumbnail, with the first being [[Razzle & Dazzle]] & {{CI|Blot|name=true}}, the second being [[Sprout]] & [[Pebble]], the fourth being [[Gourdy]], the fifth being {{CI|Coal|name=true}}, and the sixth being [[Bassie]].
+**She is the only one to be wearing a [[Skin]].
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Female]]

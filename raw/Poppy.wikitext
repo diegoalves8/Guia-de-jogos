@@ -1,0 +1,148 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#ff84dc,#ff84dc,#62f2ff,#62f2ff); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Poppy Render.png|Render
+Poppy Full Render.png|Full Render
+Poppy Icon.png|Icon
+Poppy Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}<br>'''When Activating Ability'''<br>{{Small|(Walk 22.5/Sprint 37.5)}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|'''Panic Pop'''<br>{{Small|''(Passive)''}}}}<br>This Toon receives a 50% Speed boost for 3 seconds when attacked.
+|requirement_1=*Obtain for free when first starting the game
+*100 {{TI|Ichor|name=true}} (if {{CI|Boxten|name=true}} was chosen instead)
+|skins=*Default
+*Vintage
+*Sapphire Dots
+*Picnic Outing
+*Bowful Beauty
+*Double Bubble
+*Confident Caroler
+*Floral Suds
+|gender=Female
+|pronouns=She/Her
+|designation=SC-003
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}''This article is about the '''Toon''', Poppy. If you are looking for the '''Item''', "Pop", click [[Items|here]].''
+
+{{Description}}
+
+{{ToonInfo|Toon=Poppy|extra=Bubble|Pronoun=She|Date=June 14th, 2024|type=Single}}
+
+==Appearance==
+Pоppy is a cyan bubble with lighter inner highlights. She has two eyelashes on the outside corners of each eye and a smaller bubble on the lower back of her head that resembles a bun. Her body is outlined in a slightly darker cyan. An oversized, pink bow with a yellow middle piece is on top of her head, and she wears a pink dress that consists of a simple sleeveless bodice and bell-shaped skirt. Additionally, she wears yellow thigh high socks with pink stripes.
+
+==Personality==
+Poppy is a bubbly and energetic [[Toon]], loud and often speaking with multiple exclamation marks or even in caps. She is self-confident, not easily fazed, and she describes herself not as happy, but "optimistic". Her appearance is kept with care and modesty, and she frequently compliments others, sometimes suggesting additions and changes. She is prone to ditziness, believing {{CI|Vee|name=true}} about an improbable prize, not hearing {{CI|Shelly|name=true}}, and forgetting {{CI|Brightney|name=true}}'s lampshade color. It is also confirmed that she is great friends with {{CI|Looey|name=true}}.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1314757242465026139</ref>
+
+It is heavily implied that Poppy is addicted to {{II|Pop|name=true}}, a brand that she is seemingly used as a mascot or advertisement for. This can be seen in her room in the [[Roleplay Mode]], where there are multiple {{II|Bottle o' Pop|name=false|plural=a}} and Pops in the shelves behind her bed's headboard, and also in her dialogue with {{CI|Astro|name=true}}, where he is worried she is losing sleep due to her addiction, whereas she replies with no care for her health.
+
+==Mastery==
+{{Mastery|Finish 30 [[Machines]]|Activate This [[Toon]]'s Passive Ability 30 times|Pick Up 30 [[Items]]|Survive 25 [[Floors]]|Use 30 Items|Travel 50000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Machine}}|{{MastStrat|second|you can start multiple solo runs and get repeatedly hit by [[Twisteds]] until you die, and then repeat. Let healer [[Toons]] (maybe more than one) like {{CI|Cosmo|name=true}} (recommended), {{CI|Sprout|name=true}} or {{CI|Ginger|name=true}} join your run and heal you to be able to get hit again and speed up the time. This strategy helps both yours '''and''' the healer's [[Masteries]] (if uncompleted). Doing this task may also help with the '''sixth task''' if you walk around while being hit}}|{{MastStrat|third and fifth|Collect and use|Use}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|sixth|Meters|3Star}}}}
+
+==Requirement Strategies==
+*For the first and only requirement, since Poppy is one of the starter [[Toons]], you can just select her for free on the Start Toon Selection screen.
+*If {{CI|Boxten|name=true}} was chosen instead, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increase the further you descend, so you can earn more {{TI|Ichor|name=true}}.
+
+==Strategies==
+Poppy is a great choice for beginning players. Her [[Stealth]] and [[Movement Speed]], along with her [[Ability]], '''Panic Pop''', provide good recovery from mistakes, making her ideal for learning the basics. As an all-rounder [[Toon]], she does not specialize as a Distractor or Extractor but leans towards being a Survivalist with her Ability to outrun [[Twisteds]]. For optimal performance, it is recommended to equip her with Extraction-based [[Trinkets]] such as {{TI|Wrench|name=true}} and speed-enhancing Trinkets like {{TI|Pink Bow|name=true}}. This combination effectively improves her Movement and [[Extraction Speed]], and is easily accessible early on in the game, making it ideal for new players. Other helpful Trinkets that new players will find easy to acquire include {{TI|Speedy Shoes|name=true}} and {{TI|Party Popper|name=true}}.
+
+Her Ability really helps against specific Twisteds like {{CI|Twisted Razzle & Dazzle|name=true}}, {{CI|Twisted Rodger|name=true}}, or {{CI|Twisted Vee|name=true}}, since the huge speed boost can make escape far easier. Twisted Razzle & Dazzle's circle is quite large, so escaping it when they're enraged could be quite difficult without potentially taking multiple hits (whether from multiple Twisteds or the aforementioned twins themselves) for some other Toons, but Poppy can escape the circle with ease when injured. Twisted Rodger and Twisted Vee can slow Poppy to the point where she can't outrun certain threats, but her speed boost can counteract the {{Debuff|Slow}}, allowing her to avoid taking multiple hits. While these are advantages she has, other Toons can have a similar experience thanks to their Abilities or Stats, and certain Trinkets like {{TI|Train Whistle|name=true}} could also help make things easier without needing to take a hit in the first place.
+
+This Toon is less advantageous for experienced players, since her Ability only activates upon losing a Heart, limiting its overall viability and contributions. It is most effective for experienced players when dealing with large swarms of Twisteds, especially if multiple healers are present. If you are confident in your kiting abilities and tend to adapt quickly to new games, consider selecting {{CI|Boxten|name=true}} as your starter instead. For those who enjoy playing as Poppy, transitioning to {{CI|Looey|name=true}} might be the next step to take to enhance your experience.
+
+If a teammate cannot escape a Twisted—whether because they are playing as a slower Toon, being chased by a fast Twisted like {{CI|Twisted Pebble|name=true}}, or are low on [[Stamina]]—it may be a viable strategy to intervene by taking a hit from the chasing Twisteds. This is especially effective if {{TI|Blushy Bat|name=true}} and/or {{TI|Soul Sword|name=true}} is equipped. By doing this, the player can provide both themself and their teammate an opportunity to escape, even if significant Stamina has been expended to reach them. This strategy may not be as efficient as using an {{II|Air Horn|name=true}} or good positioning—since it sacrifices a Heart to ensure their escape—but it is worthwhile in situations where low-health {{Type|Main}} Toons like {{CI|Shelly|name=true}} or {{CI|Sprout|name=true}} are in clear danger. Their Abilities are invaluable to the team, with Sprout even being able to heal the player afterward, mitigating the cost of the sacrifice. Inexperienced players '''should not''' attempt this strategy, as there are many intricacies that may turn this into sabotage rather than a rescue. Instead, wait and learn; surviving is enough in the beginning.
+
+If a player find themself in a situation where they cannot reach the [[Elevator]] in time during [[Panic Mode]], it is advisable to walk in order to conserve or regenerate Stamina before intentionally taking a hit. Afterward, they can sprint to the Elevator. Failing to reach the Elevator in time results in an instant death, whereas losing one or two Hearts to Twisteds provides an opportunity for survival.
+
+Note Poppy isn't the best choice for runs attempting to spawn {{CI|Twisted Dyle|name=true}}. Her Ability becomes far less useful due to his insta-kill and {{Type|Common}} Twisteds being easier to avoid than others. Her Stats don't provide any specific strengths by base either, with mediocre extraction or average mobility.
+
+Due to her all-rounded Stats, any [[Items]] can be useful for her. Mobility Items such as {{II|Pop|name=false|plural=a}} and {{II|Speed Candy|name=false|plural=a}} can make escape easier, keeping her Ability as a last resort. Extraction Items like {{II|Instructions|name=false}} and {{II|Skill Check Candy|name=false|plural=a}} can improve her average extraction, filling Machines more efficiently. Healing Items can help for newer players who get hit more often (unless there's a healer on the team), or to make a body blocking playstyle more safe (though this can eat through heals).
+
+Overall, Poppy is a good starter Toon, but is heavily outclassed later in the game by Toons who have better extraction and escapability. She has a couple niches, but struggles to really shine when other Toons can more effectively fulfill them.
+
+===Trinket Combinations===
+{{Preference}}For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Poppy to outrun all Twisteds outside of Panic Mode besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed/40.3 when attacked)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve run speed {{Small|(28.2 run speed/42.34 when attacked)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed/52.4 when attacked)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Poppy to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(25.57 avg/23.26 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Other====
+*'''{{TI|Blushy Bat|name=true}}/Any'''
+**Blushy Bat synergizes incredibly well with Poppy's Passive Ability. Due to its accessibility, this Trinket is a must-have for newer players, giving them a generous amount of time to get distance from Twisteds after a hit. Experienced players are more likely to benefit more from the other recommended Trinkets above.
+*'''{{TI|Soul Sword|name=true}}/Any'''
+**Soul Sword, like Blushy Bat, synergizes greatly with Poppy's Ability. Its speed boost will assist her in escaping Twisteds while Soul Sword slows them down, allowing for easy escapes. This Trinket could also be paired with Blushy Bat to almost guarantee safe escapes, though it does take both Trinket slots, and the Trinkets can counteract each other a bit.
+
+==Dialogues==
+{{Poppy Dialogues}}
+
+==Trivia==
+*At the end of the [[Poppy/Gallery#Development|Meet Poppy Teaser Video]], morse code can be heard that translates to "KEEP YOUR ALLIES CLOSE."
+**This is also one of the texts that can appear when starting a new run {{Small|(at the bottom of the elevator screen)}}.
+**In the same video, {{CI|Dandy|name=true}} is seen with Poppy and the former's {{CI|Twisted Dandy}}[[Twisted Dandy|Twisted counterpart]]'s song can be heard throughout the video.
+*Poppy appears to be a marketing mascot for a soft drink company, as she is printed on every vending machine in all of the [[Floors]]. The company is also trademarked as "'''Poppy Pop'''".
+**This could be the reason she likes drinking {{II|Pop|name=true}}, something seen in her room in the [[Roleplay Mode]].
+*Her name, Poppy, is a pun on both the feminine name Poppy and her status as a bubble, which not only pops easily when touched but also produces a popping sound.
+*Poppy's favorite tea is {{wp|bubble tea}}, as shown in her interaction with {{CI|Teagan|name=true}}.
+**This could reflect herself, as a bubble.
+*Poppy is designation ''SC-003'', with the '''SC''' standing for Side Character.
+**Before [[Changelog|v0.12]], she used to be ''C-001'', with C maybe meaning {{Type|Common}}, possibly hinting she may have been the first Common [[Toon]] made.
+***Since the [[2025 Christmas Event]], {{CI|Cosmo|name=true}} was revealed as the actual first Common Toon made in {{CI|Bobette|name=true}}'s [[Gossip]] about him.
+*Poppy doesn't know how to drive, as confirmed in her interaction with {{CI|Vee|name=true}}.
+*Poppy is not good at cleaning, as confirmed in her interaction with {{CI|Tisha|name=true}}.
+*A small doodle of her and {{CI|Toodles|name=true}} can be found pinned on her vanity mirror in her room over on [[Roleplay Mode]]. This could possibly hint at a close relationship between the two.
+**{{CI|Boxten|name=true}}'s interaction with Toodles implies that Toodles was the one who drew it.
+*Though Poppy and [[Boxten]] seem to be good friends, [[Qwel]] has said they have no confirmed relations.
+**They share a lot of similarities.
+***Most (if not all) of their similarities are due to them being the starters [[Toons]] of the game.
+****Whoever isn't chosen as the player's first Toon costs 100 {{TI|Ichor|name=true}}, therefore, they both have no other requirements except for a certain amount of Ichor.
+*****The Price use to be 250 Ichor each before being reduced at an unknown time.
+***They both have 3{{Star}} on all of their [[Stats]] and share the same Stat spread with all of the {{Type|Common}} [[Event Toons]].
+****{{CI|Razzle & Dazzle|name=true}} could also count if not considering their [[Abilities]], though only in the Toon selection.
+***Both of their [[Twisted]] counterparts are {{Type|Common}}, have average Stats, and no special abilities to aid them.
+***They both have an official [[merchandise]] plush.
+***Both their respective [[Trinkets]], respectively {{TI|Pink Bow|name=true}} and {{TI|Blue Bandana|name=true}}, are present in their models and have mechanics that resemble their Abilities, even being able to directly stack with their Ability boosts.
+***They have 4 [[Mastery]] quests in common, being "Pick 30 [[Items]]!", "Survive 25 [[Floors]]!", "Use 30 Items!", and "Travel 50000 Meters!".
+****For their other quests, Boxten needs to finish 20 more [[Machines]] than Poppy does, and Poppy needs to activate her Ability 30 times, while Boxten needs to survive a Floor with all 8 players alive (which also reflects his Ability, since it's where he would get to his full potential).
+***They both have [[Skins]] whose skin color doesn't change, being {{Skin|Sapphire Dots}} and {{Skin|Creepy Chord}} respectively.
+***Both their [[Christmas]] Skins, respectively {{Skin|Confident Caroler}} and {{Skin|Quiet Caroler}}, are probably meant to match for being both "carolers".
+***They both have 2 interactions with {{CI|Looey|name=true}}.
+***They got optimized in the same [[update]], along with [[Cosmo]], {{CI|Sprout|name=true}}, and [[Dandy]].
+***When bought in [[Dandy's Store]], Dandy says "_ is a great choice!" for both of them.
+***They both have "Meet _" teaser videos with morse code at the end of each one.
+*Poppy is one of the first Common [[Toons]] that weren't previously optimized to receive an optimized model, with the others being [[Boxten]] and [[Cosmo]].
+**She is also the first female Toon to do so.
+*Poppy and [[Looey]] are friends.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1314757242465026139</ref>
+**Poppy's [[Mastery]] being needed to unlock Looey, their Passive [[Abilities]] similarities (both gaining additional [[Movement Speed]] by taking damage), their material similarities (fragile spheres), and their respective [[Trinkets]]' mechanics similarities can also reflect this.
+*Poppy is the first [[Toon]] to activate/use an [[Ability]] by taking damage, with the second being [[Cosmo]], the third being [[Looey]], and the fourth being {{CI|Yatta|name=true}}.
+**{{CI|Pebble|name=true}} was also the first before his rework in [[Changelog|v0.3]].
+***{{CI|Ginger|name=true}} was the fourth before her rework in the [[2025 Christmas Event]].
+*In the starter [[Toon]] menu added in [[Changelog|v0.22.1]], Poppy's face is comprised of multiple 3D assets for her eyes and mouth instead of 2D textures. This was likely to make the facial expressions easier to do without tons of textures being needed.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

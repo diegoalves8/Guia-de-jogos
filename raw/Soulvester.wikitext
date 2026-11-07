@@ -1,0 +1,226 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#494949,#80D6B2,#81D7B3,#C7FFE5); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Soulvester Render.png|Render
+Soulvester Full Render.png|Full Render
+Soulvester Icon.png|Icon
+Soulvester Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|5}}
+|movement_speed={{StatComp|Move|1}}
+|stamina={{StatComp|Stam|1}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|5}}
+|ability_1={{Center|{{AI|Soulvester|name=true}}<br>{{Small|''(Active)''}}}}<br> This Toon spends a heart to guard an ally, teleporting to block the next damage they would take and stunning the attacking Twisted for 1.5s. This Toon gains 1-Star Speed boost while guarding and 3-Star Speed boost for 2s after defending.
+|skins=*Vintage
+*Haunted Flame
+*Gourd Guard
+*Spooky-Time
+*Golden Knight
+*QoM (Queens of Mischief)
+*Found Knight
+|requirement_1={{Currency|Pumpkins|700}}
+|requirement_2={{Currency|Research|50% Research}} on {{CI|Twisted Soulvester|name=true}}
+|gender=Male
+|pronouns=He/Him
+|release_date=10/10/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Soulvester|extra=Ghostly Knight|Date=October 10, 2025|with={{CI|Eclipse|name=true}}, {{CI|Gourdy|name=true}}, and {{CI|Ribecca|name=true}}|Pronoun=He|event=Halloween|store=Gourdy's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Soulvester is a pale green ghost haunting a suit of armor. He wears a large gray helmet, which obscures most of his face. The helmet features a visor with three rectangular gaps and a notched base with a teal, rhombus-shaped gem that has pale green lining along the sides. On top of his helmet is a long, teal, droplet-shaped piece that pokes out from a circular base in a similar fashion to that of a ponytail. His armor also consists of a breastplate, gauntlets, greaves, and darker sabatons, all of which are gray. His dialogue with {{CI|Ribecca|name=true}} reveals that there are actually scratches on his armor, despite there being none visible on his model. He wears black cloth, covering the parts of his torso and legs that are not armored. It is currently unknown what he looks like without his armor. During [[Blackouts]], he emits a teal glow.
+|-|Vintage=
+Vintage Soulvester's armor pieces are now a darker gray color and his eyes visible through the helmet are pie-cut along the left. The teal parts of him, being his helmet's ponytail-esque piece and gem, are now gray while his lighter teal parts, including his arms, the lining on the sides of his gem, and his eyelids, are now white. The glow he emits is now white.
+|-|Haunted Flame=
+Haunted Flame Soulvester wears a dark, muted purple armor suit with droplet-shaped slits on the visor and has splotches of [[Ichor]] on the ends of the breastplate, gauntlets, greaves, and seemingly all over his arms. The ends of his gauntlets and top of his helmet where his teardrop-shaped piece pokes out are covered with white, fluffy chunks of candle wax. His ponytail and cloth are now white and fade into pink and the ends. The glow he emits is now pink.
+|-|Gourd Guard=
+Gourd Guard Soulvester has orange armor with darker stripes on the helmet, breastplate, and greaves, resembling that of a pumpkin, along with his helmet top, gauntlets, and sabatons with an even deeper shade of orange. His visor has a jagged, smile-like gap and his ponytail-esque piece is green and gradients into a slightly darker shade at the tip. He lacks a helmet base and is replaced with a green cape that comes with a more rounded base and a lighter stripe resembling a curled vine with leaves, placed near the ends' front and back. Its gem is green with two short, curled vines coming out from it. The glow he emits is now orange.
+|-|Golden Knight=
+Golden Knight Soulvester has yellow armor. His visor is shiny with a deeper, golden yellow color and is crown-shaped with small, elliptical gaps, the center slightly larger. He wears a gold crown with six spikes, a red oval ornamenting each, around his ponytail-esque piece, which is red with a gold fade and it's also decorated with yellow stars. He wears a reddish-orange shawl with white, red-dotted, cloudy lining connected by a red oval gem. He wears a cape of the same hue and it ends in the same lining. His breastplate is a gold yellow with two yellow stars on the left, while his gauntlets and greaves have a golden trim. On his greaves, he has red gems similar to the one on his helmet, slightly below the trim. He also emits a faint golden glow, along with small yellow twinkles. The glow he emits is now gold yellow.
+|-|Spooky-Time=
+[[Spooky-Time Cosmetic Pack|Spooky-Time]] Soulvester wears multi-colored armor. His helmet, without the base, is a light purple with a darker visor that has three narrower, rounded line gaps, with the middle being slightly longer and a horizontal line crossing though the visor, making the gap resemble a stitch. The ponytail-esque piece on his helmet is pink with an amber gradient at the end and also has rotating pattern of spider webs and dots, colored with a pink and yellow gradient. The helmet has shiny bolts on the sides, with an amber blot on the left and a dark purple on the right. His gem is now an amber lightning-bolt shape attached to jagged, cream colored fluff collar which is part of a cape. The cape also has jagged cream fluff around it, and it's also notably larger at the left, where it forms a pad over his left shoulder. The exterior and interior design are a solid dark purple and amber-pink gradient respectively, with both sides using the web and dot pattern like the helmet's top piece. His breastplate, left gauntlet, right greave and sabaton are amber, while his right gauntlet, left greave and sabaton are faded purple. He also now wears a round, amber pauldron on his right shoulder. Both greaves have a black stitch and amber bolts with dark purple covers on the sides, and his sabatons have black soles. The black cloth also now covers his arms, and he wears two magenta belts, one of which with a golden buckle and overlaps the other while sagging toward the right; vice versa for the other belt. When moving, he creates a transparent, pink and yellow trail of waves and spider webs that expands and then fades away. He produces spider web fragments of the same color that grow into full webs before disappearing.
+|-|QoM=
+[[Queens of Mischief Cosmetic Pack|QoM]] Soulvester has armor colored a faded purple hue and mint green arms. The ponytail-esque piece of his helmet is mint colored with a gradually whitening end and appears more hair-like, being made up of multiple strands. More jagged, greener strands also poke out from the top of the piece slightly towards the right, the left side of the piece, and a much smaller one underneath the piece. He sports large, dark purple headphones with lighter ear cushions, gleaming outer shells, and a microphone speaker attached to the boom on the left. Replacing his breastplate is a magenta tee-shirt with the [[Queens of Mischief]] logo, except it has a darker fade on the upper and lower parts of it instead of a checker pattern. He wears a green and magenta glow bracelet on each of his hands and feet, specifically in that order except for his left leg with the order reversed. When moving, he leaves behind three different trails, all of which have a mint to magenta gradient and are transparent. One is a wavy pair of measures divided in three sections. The upper measure has a treble clef, whole rest, quarter rest, beamed eighth note on the "B" line and "E" space, and a tie for the first section. The second section has a quarter note on the "E" space, another quarter note on the same space, an eighth note on the "D" line, and a dotted quarter note on the "B" line. For the third section, a quarter rest, eighth rest, eighth note on the "B" line, and a sixteenth note with its first head on the "D" line, its second head on the "C" space, and its other heads on the "B" line. The lower measure is similar to the upper, except for the first section, the beamed eighth note is positioned two lines lower and has a natural. For the second section, the quarter note is on the "G" line, the next quarter note is on the "A” space, the eighth note is on the "B" line, and the dotted quarter note is on the "G" line and has a natural. For the third section, the last two notes are lowered by three lines. The other trails are a bouncing group of quarter notes, beamed eighth notes, and beamed sixteenth notes and a cross-bone pattern.
+|-|Found Knight=
+Found Knight Soulvester has light sand colored armor. His helmet's visor has a spade-shaped gap in the center, while the left and right gaps are "3"-shaped, resembling {{CI|Gourdy|name=true}}'s leaf. The ponytail-esque piece on his helmet is dark gray with a black gradient and white dots at the tip. His gem is light sand like his armor, with lighter lining along the sides. His gauntlets and greaves have an olive green trim with darker stripes. On the greaves are gems like his helmet's slightly below the greave trims, while the soles of his sabatons are burnt orange. His cloth is dark gray with a dark taupe color for his arms and the lower halves of his legs. He wears a dark gray shawl with a burnt orange stripe above the edge and an olive-light olive striped interior. He wears a cape with the same dark gray color and olive interior, and it has curvy, leaf-shaped ends. He also has a curled, olive vine with three star-shaped leaves on his right arm.
+</tabber>
+
+==Personality==
+Soulvester is a [[Toon]] who accurately lines up with a real knight, speaking perfectly fluent Early Modern English and having a heroic nature. He even shrugs off claims about him not being a real knight and takes offense whenever his behavior gets referred to as dorky. He's often seen offering help to the other Toons, whether it's providing them with protection, gathering supplies or just giving them general advice, but he's oddly quick to turn down any help offered to him, likely lining up with his heroism (but he gets quite defensive when asked to remove his armor for mundane reasons). This knightly attitude is especially apparent towards {{CI|Gourdy|name=true}}, as Soulvester tries to protect him from the cruel reality and circumstances he and the other Toons have been subjected to, such as not being able to protect Gourdy or his parents from losing each other.
+
+Unlike with the other related Toons, Soulvester's relationship with his twin sister {{CI|Connie|name=true}} is on worse terms, to the point where he seems to actually be glad to see her less often. He does not however like when other Toons such as {{CI|Teagan|name=true}} speak lowly of Connie, showing that the ghostly duo does in fact care for each other, just like how the others do (although it is shown even less than it would traditionally be).
+
+In summary, Soulvester may be tough and heroic, acting intensely accurately to a real knight, but all armor pieces have something inside of them.
+
+==Mastery==
+{{Mastery|Experience 5 [[Blackouts]]|Finish 100 [[Machines]]|Survive 30 [[Floors]]|Survive 10 Floors with {{CI|Connie|name=true}} in your round|Travel 50000 Meters|Use 50 [[Items]]}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Encounter Blackouts}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Reach/do floors}}|{{MastStrat|fourth|Toon in run|{{CI|Connie|name=true}}}}|{{MastStrat|fifth|Meters|1Star}}|{{MastStrat|sixth|Collect and use|Use}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Pumpkins|name=true}} and extracting [[Machines]]. The Machine and Pumpkin count increases the further you descend, so you can earn more Pumpkins.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Soulvester|name=true}} to the [[Elevator]] to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Soulvester is on the [[Daily Twisted Board]].
+==Golden Skin [[Quest]]==
+{{GQ|Encounter {{CI|Twisted Soulvester|name=true}} '''{{Color|10|#93f525}}''' times as Soulvester.}}
+{{GQ|Complete '''{{Color|20|#93f525}}''' floors alongside at least one Halloween [[Toon]] Or {{CI|Connie|name=true}} as Soulvester.}}
+{{GQ|Protect another [[Toon]] from taking damage '''{{Color|10|#93f525}}''' times.}}
+
+Reward: {{Skin|Golden Knight Soulvester}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Halloween Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', play normally until you see {{CI|Twisted Soulvester|name=true}} on the [[Floor]]. Then, either encounter him normally or ask the distractor to bring Twisted Soulvester to the [[Elevator]]. It is easier to do this when he's on the [[Daily Twisted Board]]. Additionally, you should only play until around Floors 5-10, as those are when {{Type|Uncommon}} [[Twisteds]] are the most common.
+*'''For the second quest''', you should do a run with a good distractor or have friends that are willing to carry you, while having a [[Halloween Toon]] or {{CI|Connie|name=true}}. It is advised to only do [[Floors]] up to Floor 5-10, as the game gets progressively harder and it will take longer to do a Floor.
+*'''For the third quest''', have two friends play as {{CI|Ginger|name=true}} with {{TI|Fancy Purse|name=true}} equipped, then protect one and have them get hit, repeating the process until you can't use your ability anymore. Then, let the Gingers heal you so you can use your [[Ability]] again, making the quest finish quickly. It is highly recommended to do this with {{TI|Soul Sword|name=true}} equipped so you have an extra use of your ability before needing a heal.
+==Strategies==
+Soulvester has the best extraction in game, with 5{{Star}} in both [[Skill Check]] and [[Extraction Speed]], along with a very strong Ability that can save teammates. However, this comes at the cost of being one of the worst [[Toons]] in terms of mobility, having 1 Star [[Movement Speed]] and [[Stamina]], matching mobility [[Stats]] with {{CI|Shrimpo|name=true}}. Therefore, playing recklessly is much more risky than it usually would be, so caution and patience will be key to playing Soulvester right.
+
+Soulvester may be best used in a team with a distractor present. This will allow him to fully utilize his high extraction stats and keep him away from danger, though his life could be in jeopardy if the distractor dies. In general, caution should be taken with faster [[Twisteds]] like {{CI|Twisted Shelly|name=true}} and {{CI|Twisted Toodles|name=true}} as it can be hard to escape them. A good strategy is to always check corners and behind walls, and position your camera in a position where you can easily spot [[Twisteds]] while doing Machines.
+
+Where Soulvester can really shine outside of his incredible extraction is his [[Ability]], {{AI|Soulvester|name=true}}. Soulvester sacrifices a {{Heart}} to protect a teammate (or himself in a solo run) from one Twisted attack, preserving their Hearts (or the rest of his own Hearts). When his Ability is used, the targeted Toon is given {{Debuff|Guarded}} (and constantly highlighted to Soulvester), while Soulvester himself gets {{Debuff|GuardStance|I}} (speed increased to 12.5 walking/22.5 running); both of these [[Buff]]<nowiki/>s will be removed when the Toon with Guarded is attacked by a Twisted. Take note that the indicator icon above your Ability button will tell you whether the Guarded Toon is in a chase or not, the background will turn red in a chase; valiant music will also play during the Guarded Toon's chase, fading out once the chase has ended. After Soulvester's Ability successfully defends from an attack and he teleports to the defended Toon, he gains {{Debuff|GuardBurst}} (speed increased to 17.5 walking/27.5 running) for 2 seconds and {{Debuff|Untargetable}} for 3 seconds; use this time to get away from Twisteds or get into the [[Elevator]] if it's [[Panic Mode]]/almost Panic Mode. When hit by a Twisted normally, Soulvester gains {{Debuff|HurtBurst}} (increasing speed to 15 walking/25 running) for 2 seconds.
+
+Twisteds are stunned for an extra 1.5 seconds (stacked with their attack cooldown) after attacking a defended Toon, so it could be a viable strategy to use the Guarded Buff and get attacked on purpose to stun particularly dangerous Twisteds like {{CI|Twisted Pebble|name=true}}. In general though, be careful about giving your Hearts out too quickly (unless there is a healer Toon who can heal you, though this could potentially be a waste), as not only could you end up giving your Hearts to players who die quickly despite the protection; you can put yourself on 1 Heart too quickly (not only leaving you in danger, but also preventing you from defending your teammates since the Ability can't be used on 1 Heart). If you receive a protection from a Soulvester teammate, be careful about how you use it, since you could end up wasting it and endangering him when he teleports to you. {{CI|Goob|name=true}} can be a good teammate to have on a team, as he can pull Soulvester away from a Twisted after stunning them. Please note that {{Type|Lethal}} Twisteds will still kill a Guarded Toon. If Soulvester is far from the Elevator, without the means to make it back during Panic Mode, it's a viable strategy for the Guarded Toon to get attacked by a Twisted near the Elevator on purpose, as Soulvester will get teleported to safety.
+
+When guarding someone, keep in mind that you can only guard one person at a time, and each Toon can only have one Soulvester guarding them (the Ability will not work if another Soulvester is already guarding your target). If you change who you are defending, or the person you're currently defending leaves the game, you will not be refunded any spent health, so you have to be very careful to not waste it.
+
+Guarded Toons are immune to being hurt by {{CI|Twisted Goob|name=true}} and {{CI|Twisted Scraps|name=true}}'s ranged attacks, making them much less of a threat, especially Twisted Scraps, as she doesn't have Goob's longer attention span (and ability to displace) which should still be noted. Taking this into consideration, Guarded Toons can safely bait ranged attacks from Twisted Scraps/Goob to put the Twisted(s) on cooldown if they're near the [[Elevator]]; the Guarded Toon can also force the ranged attack cooldown if they and/or their teammates are about to be cornered, allowing for an escape, especially with the stun.
+
+Using the Ability on distractors (especially {{CI|Looey|name=true}} on 1 Heart), {{Type|Main}} Toons, and healers can be a good choice as they are invaluable to the team or vulnerable. Healers can heal you up after you protect them or another Toon too, but be careful since you could eat through healers' Abilities (which all require either Hearts or {{Tape|name=true}}, limited resources). Additionally, with Looey, he can get to 1 Heart and get protected to basically have 2 Hearts, making distracting really easy. Do remember that since Soulvester will teleport, he could take aggro away from distractors after the Untargetable runs out, so equipping {{TI|Diary|name=true}} can be a good idea if you intend on defending any 3 Star Stealth distractors. Also note that this teleport can pull him away from a Machine he's extracting, which could be a bit jarring. The Twisted stun could potentially also screw up a distractor, but it may be worth it if it means saving their life. Getting into the Elevator as soon as possible during Panic Mode will prevent you from being teleported far away if the Guarded Toon gets attacked. If you block damage from within the Elevator, your Ability will be on cooldown until the next Floor. 
+
+Like {{CI|Connie}}[[Connie|his sister]], Soulvester has more advantages in [[Floor Events]] compared to other Toons, being Light-Producing in [[Blackouts]] and possessing immunity to the {{Debuff|Illness|III}}, {{Debuff|Slow|I}}, and Ichor Stains applied by [[Ichor Leaks]] (as well as immunity to {{CI|Twisted Finn|name=true}}'s Ichor Puddles). Overall, he's a nice option if Floor Events are difficult.
+
+If you regularly play Connie and adapt to her similarly poor Movement Speed, transitioning to Soulvester could be a good idea, because you'd not only know how to deal with his 1 Star Movement Speed, but also receive the bonuses mentioned before (max extraction, stunning Ability, speed increasing Ability, etc.). Remember this comes at the cost of less survivability compared to Connie (2 less Stars in both Stamina and Stealth compared to her, plus no invisibility Ability), as well as a more support oriented play-style so be aware.
+
+Due to his low mobility, you may consider spawning {{CI|Twisted Dyle|name=true}}. However, it would be quite difficult. His awful mobility will not just be hard to manage against Twisted Dyle, but also the {{Type|Common}} Twisteds that spawn alongside him. However, his max extraction can make the Floor go faster, so he could be an asset, though wandering too far from the Elevator would be risky, so it is advised to have the faster/stealthier Toons disperse while you finish up the closer Machines. When completing [[Dyle's Floor]], you will finally gain the needed Stamina. The extra Stamina can allow him to use his speed boost from his Ability more often too.
+
+If intending to play in a solo run as Soulvester, making use of his Ability will take care of his mobility. It's best to save the Ability for when you either are getting low on Stamina, are being chased by an extremely fast Twisted, or are being chased by a Twisted with a really high attention span. By saving the Ability for chases, you'll keep your Health up for longer while being able to stun Twisteds who actually need to be stunned. You could also choose to just use the Ability immediately, giving yourself the equivalent of 2 Star Movement Speed near constantly, but note that this can mean putting yourself on 2 Hearts (effectively becoming a Main Character Stat-wise) or even 1 Heart. Even though in solo runs Soulvester doesn't do a cutscene for defending from an attack, he still will get the Untargetable Buff for 3 seconds, which can let you escape more easily when combined with the stun. Either way, a lot of patience is required when soloing as Soulvester, as the mobility can drag things out, or make it difficult to avoid Twisteds; for this reason, it's recommend to really only solo as him if you have the patience or even actively enjoy playing as lower speed Toons.
+
+The best [[Items]] to focus on are those that can help with Movement Speed and Stamina, in order to remedy Soulvester's minimal mobility. Anything helps, even the extra 25 Stamina capacity from a {{II|Chocolate|name=true}} could mean the difference between life and death. Try to stay consistently stocked up on at least one or two mobility based Items, as his extraction is already extremely potent. Using extraction related Items like {{II|Instructions|name=false}} can be pretty great too, as they'll multiply with his high extraction Stats, resulting in finishing Machines very quickly, just make sure you still prioritize mobility. Staying stocked up on at least one Healing Item is a good idea, so you can support teammates more often (or use the Ability on yourself without as much risk). A {{II|Bandage|name=false}} may be less useful than a Health Kit, since the latter can heal 2 (3 with {{TI|Soul Sword|name=true}}) Hearts immediately while the Bandage provides 1 Heart only, though if you take a Bandage you can use it immediately without wasting it, opening up space for mobility Items; in the end it depends on whether you want an immediate heal after using your Ability, or to have a larger sum of Hearts in storage for multiple Ability usages. Healing Items in general are also just useful due to Soulvester's minimal mobility, with either of the two Items being good to keep on hand, though it's preferable to take Health Kits if there are {{Type|Main}} teammates, since they would otherwise waste the Hearts given.
+
+Overall, Soulvester is a decent Toon to go as, though ensuring you reach higher Floors requires a bit of assistance from other teammates. He is a great supporter who can save those in need, but this does mean sacrificing his own Hearts. He has a few resistances, immunities, and advantages, only really being held back by his mobility. Careful gameplay, awareness, being smart with how you sacrifice your Hearts, and making every piece of Stamina count is the optimal way to ensure Soulvester is able to utilize his strengths.
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Soulvester:
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Soulvester to outrun some Twisteds before [[Panic Mode]] {{Small|(21.5 run speed/24.2 while guarding/26.9 when attacked/29.6 after defending)}}. Here are some options to pair Pink Bow with;
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve run speed ({{Small|22.6 run speed/25.4 while guarding/28.2 when attacked/31 after defending}});
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except {{CI|Twisted Pebble|name=true}} during Panic Mode as well as luring them away from teammates, or as a fail-safe if you get teleported before reaching the Elevator {{Small|(27.9 run speed/31.4 while guarding/35 when attacked/38.4 after defending)}};
+***'''{{TI|Friendship Bracelet|name=true}}''', to be able to sprint for longer periods without a speed debuff, though reliant on multiple alive players;
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to survive;
+***'''{{TI|Blushy Bat|name=true}}''', to prevent sequences of hits for running out of Stamina by sparing more time to gain distance from Twisteds, this can also stack with Soulvester's stun;
+***'''{{TI|Soul Sword|name=true}}''', to slow the Twisteds down when you get hit so you can escape from them quicker, as well as gain a fourth Heart (useful when planning to make the most out of Soulvester's Ability);
+***'''{{TI|Diary|name=true}}''', to not interfere with or support 3{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, remedying his low Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Soulvester to take full advantage over his 5{{Star}} [[Extraction Speed]] {{Small|(1.5 extraction speed)}} and [[Skill Check]] {{Small|(167.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting his 5{{Star}} [[Skill Check]] {{Small|(19.91 avg/17.7 with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, supporting his 5 Star Extraction Speed;
+***Any of the trinkets in the '''Survivability/Mobility''' section.
+
+'''Note: Do not use {{TI|Sweet Charm|name=true}} or {{TI|Ghost Snakes In A Can|name=true}} on Soulvester, as they do not lower his cooldown.'''
+
+==Dialogues==
+{{Soulvester Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Soulvester Ability Sound.ogg]]
+|The sound that plays when Soulvester activates his {{AI|Soulvester|name=true}} [[Ability]]
+|-
+![[File:Soulvester Ability Guarded Full.ogg]]
+|The sound that plays when Soulvester defends a {{Debuff|Guarded}} Toon
+|-
+![[File:Soulvester Ability Guarded 1.ogg]]
+|Ditto
+|-
+![[File:Soulvester Ability Guarded 2.ogg]]
+|Ditto
+|-
+![[File:Soulvester Ability Guarded 3.ogg]]
+|Ditto
+|-
+![[File:Soulvester Ability Guarded 4.ogg]]
+|Ditto
+|-
+![[File:Soulvester Ability Theme.mp3]]
+|The music that plays while a Guarded Toon is in a chase
+|}
+
+==Trivia==
+*Soulvester and {{CI|Connie|name=true}} being twin siblings<ref>https://discord.com/channels/969934252844138496/969934252844138499/1424041671519240273</ref> makes them the fifth set of [[Toons]] with a canonical biological relationship.
+*Soulvester has longer hair than [[Connie|his sister]], meaning that he has the longest hair in-game.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1423184461918371891</ref>
+**Despite this, in one piece of halloween decor in the [[Lobby]], Soulvester's helmet is placed with his "hair" on it like a plume.
+*Soulvester is the first non-{{Type|Main}} [[Holiday Toon]] to have 5 {{Star}} in two [[Stats]] (Extraction and Skill Check).
+**He also shares these stats with {{CI|Gourdy|name=true}}.
+**He and Gourdy are also the only Toons to have 1 Star in two Stats, while having a normal amount of Stars.
+***He is the first non-Main Character Event Toon to have 1 Star on a Stat.
+**This also makes him the seventh non-Main Character Toon to have 5 Stars in a Stat.
+*Soulvester is the second [[Toon]] to wear footwear by default, after {{CI|Dyle|name=true}}, the second Toon to wear gloves by default, after [[Blot]], and the third Toon to wear some type of head accessory by default, after {{CI|Astro|name=true}} & {{CI|Poppy|name=true}}, and [[Connie]].
+*Soulvester's name is a portmanteau of the word "Soul", "Vessel", and the name Sylvester.
+*In one of Soulvester's dialogues with [[Connie]] and {{CI|Gigi|name=true}}, they mention that he is "larping as a knight", which implies he is not actually one. Even if he may not actually be one, he seems to have a heavy belief otherwise, due to his protective nature and the fact he wears armor.
+*Soulvester's low Movement Speed and Stamina is due to his heavy armor, as stated in an interaction between him and {{CI|Eclipse|name=true}}. His low Movement Speed could also reference his [[Connie|sister]]'s speed.
+*For some odd reason, before a certain update, {{Skin|Vintage Soulvester}} glowed the same color as his default [[Skin]] (being cyan) instead of white. This would've made him the only Light-Producing [[Toon]] that glows a different color that isn't white in his Vintage Skin.
+**Similarly, this was also the case for his {{Skin|Golden Knight}} where it glowed cyan before being given a more suitable golden glow.
+*Soulvester is the second [[Holiday Toon]] to appear in the thumbnail not escaping from a [[Twisted]], instead giving {{CI|Twisted Gourdy|name=true}} a {{II|Stealth Candy|name=true}}.
+*Soulvester is the second [[Toon]] with 2 [[Auxiliary Stat]]<nowiki/>s (Light-Production and [[Ichor Puddle]] Immunity), akin to his [[Connie|sister]] who has the same Aux. Stats.
+**He is also the only [[Event Toon]] with this trait.
+*Soulvester is the first [[Toon]] to:
+**Have custom music playing while his [[Ability]] is active.
+**Have a stun Ability.
+***This was something [[Qwel]] actually pushed back on, due to it ruining the danger of facing [[Twisteds]].<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1340011638941683765</ref>
+**Be able to bring a Toon's [[Health]] above their usual maximum, as {{AI|Soulvester|name=true}} adds an extra, blue heart to the targets Health, regardless of if they're already at max.
+**Have a selfless Ability that becomes a selfish counterpart in solos.
+*Prior to his rework in the [[2026 Halloween Event]], Soulvester was the only [[Toon]] to have 4 {{Heart}} due to his original [[Ability]] giving him an extra Heart along with being immune to some ranged attacks.
+**However, if you equip the {{TI|Soul Sword|name=true}} on him, Soulvester's heart total will be increased back to the previous 4 Hearts, though immunity to {{CI|Twisted Scraps|name=true}} and {{CI|Twisted Goob|name=true}}'s ranged attacks only returns when he uses his [[Ability]] in a solo run.
+*Soulvester is the second [[Toon]] to have an [[Ability]] category change (Passive to Active), the first being {{CI|Brusha|name=true}}.
+**Both of them had their Abilities change into an Active Ability.
+*As [[Aaron]] stated on his X account, the book Soulvester is looking for in his interaction with {{CI|Squirm|name=true}} is 'Le Morte d'Arthur' (The Death of Arthur) by Sir Thomas Malory.<ref>https://x.com/Aaron_Margolin/status/2114076843209007379</ref>
+*Soulvester shares the same smoke-like particle effect with [[Connie]], the difference being that it appears when he teleports, while hers appears when she turns invisible.
+*Soulvester has the second lowest [[Ability]] cooldown at only 3 seconds, being beat by {{CI|Bassie|name=true}}, who has 0 seconds.
+**This is likely at least one of the reasons {{TI|Ghost Snakes In A Can|name=true}} and {{TI|Sweet Charm|name=true}} don't reduce his cooldown.
+*Soulvester has the most complex singular [[Ability]] by far, as it has many mechanics to it:
+**The {{Debuff|HurtBurst}} [[Buff]] he gets from being hit by a [[Twisted]];
+**The {{Debuff|GuardStance|I}} Buff he gets from using his Ability;
+**The {{Debuff|Guarded}} Buff he can give to another [[Toon]];
+**The stun he gives to Twisteds after defending a Guarded Toon;
+**The {{Debuff|GuardBurst}} and {{Debuff|Untargetable}} Buffs he gets after defending a Guarded Toon;
+**The teleportation and cutscene he does when defending a Guarded Toon that isn't himself;
+**Tracking whether a Toon is in a chase or not.
+*When Soulvester's [[Ability]] first got reworked, it was possible for him to teleport out of the [[Elevator]] to stun [[Twisteds]] during [[Panic Mode]]. This was later changed so that he can't teleport if he's inside the Elevator during Panic Mode, due to the unfair possibility of Soulvester not being able to get back in the Elevator in time after stunning a Twisted.
+*Soulvester is the first non-[[Main Character]]/{{Type|Lethal}} to have an interactable NPC counterpart (albeit without dialogue).
+**NPC Soulvester uses the Rock Out emote on loop there, but when you use 'Start Band' as any [[Toon]] from the [[Queens of Mischief Cosmetic Pack]], if he is in the ring, he will automatically join your band and dance, despite not being an actual player. Ending it reverts him back to Rock Out.
+*Soulvester is the second [[Toon]] to have the capability to teleport, the first being {{CI|Glisten|name=true}}.
+**However, while Glisten can teleport at the user's input, Soulvester has to guard a Toon and have them get hit so Soulvester teleports to their position (assuming that Soulvester isn't in the [[Elevator]] during [[Panic Mode]]).
+*In the [[Soundtrack|Queens Of Mischief]] music video, Soulvester has a texturing error where his arms become gray instead of teal.
+*Soulvester is currently the only [[Toon]] to have an [[Ability]] that purely increases in full Stars rather than a percentage boost.
+**{{CI|Razzle & Dazzle|name=true}}'s Ability seemingly increases by Stars, but while it does affect [[Movement Speed]] (15) by 2 Stars, [[Extraction Speed]] (1.125) changes by 0.375 units, not a full Star value. Soulvester only increases by the defined value per Star (2.5 units per Star for Movement Speed).
+*Soulvester's printable [[Haunted Gala]] mask has an error where the dark rectangle surrounding his eyes disappear.
+**Additionally, his name was written incorrectly, being called "Soulvestor".
+*Soulvester (and effectively {{CI|Ribecca|name=true}}) is the only [[Toons]] to get [[Ichor Puddle]] Immunity after its release.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Male]]
+[[Category:Halloween Event]]
+[[Category:Toons with Relatives]]

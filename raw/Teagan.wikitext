@@ -1,0 +1,164 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#FFD8B1,#FF9900); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Teagan Render.png|Render
+Teagan Full Render.png|Full Render
+Teagan Emoji.png|Icon
+Teagan Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|4}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|{{AI|Teagan|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can spend 75 Tapes to heal themself by 1 Heart. Has a Cooldown of 100.
+|requirement_1=1250 [[Ichor]]
+|requirement_2=Buy 25 [[Items]] from [[Dandy's Elevator Shop]]
+|skins=*Default
+*Vintage
+*Purple Elegance
+*Shining Wreath
+*Pastel Porcelain
+*Camomile Sleeper
+*Steeped Shadow
+|gender=Female<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1261659312896344115</ref>
+|pronouns=She/They<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1316750915570761838</ref>
+|release_date=7/12/2024 EST
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Teagan|extra=Teacup|Date=July 12, 2024|with={{CI|Flutter|name=true}}, {{CI|Shelly|name=true}}, and {{CI|Tisha|name=true}}|Pronoun=She}}
+
+==Appearance==
+Teagan is a white teacup with a light yellow base, scalloped edge, and body. She has golden eyeshadow and droopy, black eyes with two eyelashes on the bottom. She wears a long, V-necked dress the same shade as her eyeshadow with three tiny, light gold stars in the top right, bottom right, bottom left, and back of the dress. She wears two golden gloves and holds a fluffy white boa shawl around her neck. She has sweet tea inside of her head (confirmed in her dialogue with {{CI|Finn|name=true}}) and also a black bottom lipstick. A wistful expression is on her face in her 3D model. In her Introduction Card Artwork, she appears to have a closed-mouth smile.
+
+==Personality==
+Teagan is a kind, polite, and elegant [[Toon]] who likes to invite the other Toons to their tea gatherings. She knows how to make the teas suitable for the other Toons, and has memorized their favorite kinds of tea, which is stated in their introduction card and proven by their interactions. She is also calm and composed, and she seems to like to keep etiquette, based on their interaction with {{CI|Rodger|name=true}}, where she said she makes sure no [[Ichor]] gets on her boa.
+
+She is shown to be very accommodating and understanding of Toons' needs. She offers {{CI|Goob|name=true}} straws due to his wobbly arms causing him to drop cups, and suggest a different kind of party that can accommodate to {{CI|Yatta|name=true}}'s hyperactivity. She also offers to serve {{CI|Finn|name=true}} water instead of tea, due to it being the only drink he consumes.
+
+She schedules tea party sessions with individual Toons like {{CI|Brusha|name=true}} to discuss any problems or issues, or simply to help them relax. This plays into a more parental-like side of her, looking after the other Toons and guiding them to certain solutions or paths.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active Ability 25 times|Encounter 25 [[Twisteds]]|Travel 75000 Meters|Purchase 15 [[Items]] from [[Dandy's Elevator Shop]]|Pick up 60 Items|Use 60 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|+60}}|{{MastStrat|second|Encounter Twisteds}}|{{MastStrat|third|Meters|3Star}}|{{MastStrat|fourth|Buy Items||Doing this task will also assist with the below tasks.}}|{{MastStrat|fifth and sixth|Collect and use|Use}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, focus on going on multiple runs, collect many {{Tape|name=true}} as you can, and buy as many items as possible at [[Dandy's Shop]]. Going to {{CI|Dandy|name=true}} Runs is not recommended since the objective is the complete opposite.
+
+==Strategies==
+Teagan is a pretty versatile All-Rounded [[Toon]], but doesn't exactly focus on a certain niche as a result. She can be good for solo runs due to her impressive survivability, and also the fact that her playstyle can vary based on what you want. The only real issue is her 2 Star [[Stealth]], which may result in her taking away the [[Twisteds]] from a distractor and being encountered easily by them, meaning you'll have to be wary of your surroundings when playing as her.
+
+Teagan's Active [[Ability]], {{AI|Teagan|name=true}}, makes her a great choice for inexperienced players or those who may end up dying more easily during runs. This Ability allows the player to heal themself at the cost of 75 {{Tape|name=true}}, which, during certain types of runs, won't be so hard to gather, though do note her longer Ability cool down, as it can hinder your survivability if you aren't aware of it.
+
+Teagan can be a great protector thanks to their [[Stats]] and Ability, with the capability of guarding any teammates who are extracting and have equal or higher Stealth. They can also hover around teammates on 1 [[Heart]], bait ranged Twisted attacks to give distractors a head start, and escort slower teammates to the elevator during [[Panic Mode]]. They can easily take a hit for others, healing back up with her Ability.
+
+Due to her Tape requiring Ability, players must gain as many Tapes as they can throughout the floors. As Tapes can be found everywhere on the map, mobility and exploration are key to using her effectively. It's important to note that {{II|Health Kit|name=true}}s and {{II|Bandage|name=false}}s are quite scarce in the first place, and by the time you reach around [[Floor]] 12+, you have a lot of Tapes that you have not spent, so asking teammates to let you pick up extra Tapes will help turn the excess into a very big help.
+
+Other activities that produce Tapes are picking up Items, encountering each Twisted for the first time on the Floor, using her Ability (though it's not sustainable as a source), finishing [[Machines]], and surviving the Floor. Thus, it is recommended to pick up any Items that aren't valuable to your teammates if you have room in your inventory to immediately use them ({{II|Gumballs|name=false}}, {{II|Skill Check Candy|name=false|plural=a}}, and {{II|Stealth Candy|name=false|plural=a}} being some of the least useful) and complete as many [[Machines]] as possible. Picking up {{II|Jumper Cable|name=false}}s is a great option, while buying a {{II|Valve|name=false}} from the pre-game shop and/or using {{TI|Vee's Remote|name=true}} or {{TI|Wrench|name=true}} may be even more helpful. It is not recommended to go out of your way to encounter Twisteds, but waiting by the [[Elevator]] during [[Panic Mode]] and stepping out quickly once all of your teammates are safe to aggravate them and then getting back to safety can help get you the extra you need.
+
+Whatsoever, having a {{CI|Sprout|name=true}} or {{CI|Ginger|name=true}} in your run might seem complicated, as both require even more Tapes to use their Active [[Abilities]]. Because Sprout and Ginger have to distribute heals out to a lot more people, allow them to pick up Tapes as you should get enough simply by doing tasks while playing the game. You can still obtain Tapes from encountering Twisteds, doing Machines or simply surviving the Floor. Infact, Teagan can even be somewhat helpful to healer Toons, as they have one less Toon to worry about (often) per individual Teagan. Teagan can still benefit from being healed by a healer if they are low on Tapes or on 1 Heart, but they overall have less of a need for it.
+
+Teagan excels at doing Dandy Runs, as Health Kits and Bandages are already pretty rare to find on Floors. Since she benefits from Tapes in a run that makes them useless, ask your teammates to leave all Tapes for her to pick up unless Sprout or Ginger are also present, as their Abilities also rely on Tapes.
+
+Teagan is a decent choice for completing [[Dyle's Floor]], as even though their extraction Stats are average, they are by no means terrible. Her above average Stamina can make her quite efficient on Treadmill Machines, and the Stealth can help with saving teammates. Do note that while her Ability can help with the relatively large amount of Twisteds, it’s ineffective against {{CI|Twisted Dyle|name=true}} due to his insta-kill. With the abundance of Machines, tape income will be high, and the +50 Stamina gained will make your survivability even more potent, even if it may be somewhat unnecessary on earlier Floors with the already above average Stamina. 
+
+Unless you are in a solo run, it is not recommended to take any Health Kits or Bandages as they are better left for your teammates due to Teagan's ability to heal herself. However, if you are low on health and Tapes, you can still take one.
+
+===Trinket Combinations===
+{{Preference}}
+Teagan's best [[Trinkets]] depend on what you want to use them for:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options''' 
+**This Trinket enables Teagan to outrun all [[Twisteds]], except {{CI|Twisted Dyle|name=true}} at max speed before Panic Mode {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with: 
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve run speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted during Panic Mode except the aforementioned Twisted {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not disrupt 2{{Star}} [[Stealth]] Distractors and scavenge Tapes easier;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Teagan to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote, and better {{Tape|name=true}} collection;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(25.57 avg/23.26 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Support====
+*'''{{TI|Soul Sword|name=true}}''' or '''{{TI|Blushy Bat|name=true}}''', to allow Teagan to slow a Twisted of her choice by getting hit by them. Then, with enough Tapes, she can heal herself and remove any damage done. This results in the Twisted being slightly easier to deal with for you and your teammates, and makes her function somewhat like a sentinel.
+**Do '''not''' use both Trinkets together, as Soul Sword's effect clashes quite unwell with Blushy Bat's.
+
+====Ability====
+*'''{{TI|Sweet Charm|name=true}},''' to reduce {{AI|Teagan|name=true}}'s [[Ability]] cooldown {{Small|(92s)}}:
+**'''{{TI|Ghost Snakes In A Can|name=true}}''', to further reduce '''Tea Time'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(87s)}}.
+
+====Other====
+*'''{{TI|Dandy Plush|name=true}}/Any''', to discount prices in [[Dandy's Shop]], saving you more Tapes to heal yourself during [[Floors]], since healing Items are more cost efficient {{Small|(Tapes per heart gained)}} than {{AI|Teagan|name=true}} {{Small|(75 tapes per heart)}}.
+
+'''Note: It is not recommended to use {{II|Tape|name=true}}-providing Trinkets such as {{TI|Fancy Purse|name=true}} as it only provides enough for one heal, making itself useless later into the run.'''
+
+==Dialogues==
+{{Teagan Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:TeaganAbility.mp3|left|thumb]]
+|The sound that plays when Teagan uses their {{AI|Teagan|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Teagan's name is most likely a nod to her being a teacup and having tea parties.
+**The name is also gender-neutral, fitting their pronouns.
+**Their name could also possibly be a play-on-words for "Tea" the name "Reagan", which can be considered a gender-neutral name.
+*Teagan is the second [[Toon]] to have more than one set of pronouns, with the first being {{CI|Dandy|name=true}}, and the third being {{CI|Looey|name=true}}.
+**She is the only female Toon to have such.
+*Teagan's interaction with {{CI|Finn|name=true}} confirms the tea in her head is sweet tea.
+**Since Finn only likes to drink water, the liquid in his head, it could be implied that Teagan prefers sweet tea, though in her case the preference most likely is not exclusive.
+*Since Teagan spills some tea when using her {{AI|Teagan|name=true}} [[Ability]], it can be inferred that her cup's contents are not vital to their survival.
+*Teagan is the first [[Toon]] to use {{Tape|name=true}} for their Active [[Ability]], with the second being {{CI|Sprout|name=true}}, the third being {{CI|Blot|name=true}}, and the fourth being {{CI|Ginger|name=true}} (since the [[2025 Christmas Event]]).
+**Before [[Changelog|v0.10.1]], Teagan's '''Tea Time''' Ability costed as much as Sprout and Ginger's, until it was reduced from 100 to 75 Tapes.
+*Teagan is currently the only [[Toon]] who has the [[Ability]] to directly heal themself.
+**You could count {{CI|Gigi|name=true}} using her {{AI|Gigi}}'''Surprise!''' Ability and getting a {{II|Bandage|name=true}} or a {{II|Health Kit|name=false}}, even though it is not guaranteed, and the items themselves are actually what heal.
+*Teagan and [[Finn]] have a few similarities:
+**Both released in an update as a "surprise [[Toon]]" with no prior promotion.
+***Coincidentally, they also showed up in a thumbnail for the August 14th update.
+**Both are the only Toons with liquids in their heads and use a large cork when sleeping.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1300070907372634152</ref>
+**Both of their [[Twisted]] counterparts are {{Type|Uncommon}}.
+*Teagan is the only [[Toon]] (and character overall) who uses lipstick in their default model, as {{Skin|Spring Outing|toon=[[Cocoa]]}} and {{Skin|Spring-Time|toon=[[Bassie]]}} also do.
+*Teagan and {{CI|Flutter|name=true}} are the first [[Toons]] to have an eyeshadow by default, with the second being [[Gigi]], the third being [[Ginger]], the fourth being {{CI|Dyle|name=true}}, and the fifth being {{CI|Ribecca|name=true}}.
+*{{CI|Rodger|name=true}} and Teagan both say "{{Text|Simply marvelous!}}" when finishing a [[Machine]].
+*Teagan's neck is light yellow in her model, despite it being white in her [[Introduction Card]] and voting icon.
+*Just as her Introduction Card shows, Teagan knows all the [[Toons]]' favorite tea.
+**{{CI|Boxten|name=true}} seems to prefer herbal tea, their interaction implies that it helps Boxten calm down.
+**{{CI|Poppy|name=true}}'s favorite tea is bubble tea, reflective on how Poppy is a bubble herself.
+**{{CI|Astro|name=true}} likes iced tea, as implied with their interaction.
+**[[Finn]] only drinks water and thus wouldn't have a favorite tea, likely instead being served such by Teagan.
+**{{CI|Vee|name=true}} can't consume beverages or food, so she wouldn't have a favorite tea.
+**It is likely Teagan's favorite tea is sweet tea, as her head is filled with it.
+*Teagan, {{CI|Coal|name=true}}, [[Rodger]], [[Blot]], and {{CI|Gourdy|name=true}} have one of the shortest interactions in the game, having three lines of dialogue.
+*In an interaction between them and [[Rodger]], Teagan is said to be good at dodging, probably explaining her higher [[Stamina]]. Their lower [[Stealth]] may also be referenced, as the designs or shapes of teacups tend to be eye catching and decorative.
+*As stated in [[Dandy]]'s [[Gossip]], Teagan has a list of [[Toons]] blacklisted from her tea parties. The Toons that are known to be on this list are {{CI|Connie|name=true}}, due to possessing a teapot and getting hot tea on {{CI|Razzle & Dazzle}}[[Dazzle]], and Dandy himself for an unknown reason.
+*When Teagan got her optimization in [[Changelog|v0.13.14]], there was a bug where her head had collision with other [[Toons]] in the [[Lobby]] and was quickly patched.
+*Teagan was one of the three unoptimized [[Toons]] before [[Changelog|v0.13.14]] to not be featured in any posters, the others being [[Finn]] and [[Gigi]].
+*In Teagan's interaction with {{CI|Tisha|name=true}}, when she says "{{Text|How have your tea party sessions with ''her'' been?}}", the "{{Text|her}}" is most likely {{CI|Brusha|name=true}}, due to the fact that Brusha has some issues and Tisha, despite having some rivalries, still slightly cares for her.
+*Teagan's {{Skin|Steeped Shadow}} [[Skin]] turns her boa into a vermiform creature with a striking resemblance to sandworms from Beetlejuice.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]

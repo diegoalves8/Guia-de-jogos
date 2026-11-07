@@ -1,0 +1,168 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#FEFEFE,#975C3D,#975C3D,#280F05); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Cocoa Render.png|Render
+Cocoa Full Render.png|Full Render
+Cocoa Icon.png|Icon
+Cocoa Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|4}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Cocoa|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon places a Bonbon candy item that can be picked up and used by anyone. When used, the Bonbon boosts extraction speed (+50%) and movement speed (+25%) for 10 seconds. Has a cooldown of 40.
+|requirement_1={{Currency|Baskets|1500}}
+|requirement_2={{Currency|Research|100% Research}} on 5 [[Twisteds]]
+|skins=*Vintage
+*Spring Outing
+*Golden Bunny
+*Spring-Time
+*Wildberry Delight
+*Strawberry Paws
+|gender=Female
+|pronouns=She/Her
+|release_date=4/18/2025
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Event|Toon=Cocoa|extra=Chocolate Bunny|Date=April 18, 2025|with={{CI|Bassie|name=true}}, {{CI|Eggson|name=true}}, and {{CI|Flyte|name=true}}|Pronoun=She|event=Easter|store=Bassie's}}
+
+==Appearance==
+Cocoa is a light brown colored chocolate bunny, with a brown heart-shaped nose, and brown cheeks, as well as 2 sets of 2 eyelashes underneath her eyes and a darker brown drizzle of chocolate between her eyes. Her ears are long, droopy, and dark on the inside, and are tied together by a white scrunchie, resembling a ponytail. She has a white tail and white fluff around her neck, which seem to be made of whipped cream. Her arms and legs have a gradient from light to darker brown to the paws, which are dark brown and heart shaped.
+
+==Personality==
+Cocoa is a kind, energetic and jolly [[Toon]] who is always trying to be helpful and assist the other Toons as much as possible. She believes that even the "wrong" types of Toons need help at times, even if they don't ask for it. As shown in an interaction with {{CI|Eggson|name=true}}, she is always overworking herself to help others. She sometimes is even seen pushing help on others before finally backing off as seen in a few interactions. She seems to be persistent in what she believes in. In Cocoa's dialogues with {{CI|Bassie|name=true}}, she is still seen viewing her as her friend, likely not knowing about Bassie's resentment and envy towards her.
+
+==Mastery==
+{{Mastery|Finish 65 [[Machines]]|Pick up 135 [[Items]]|Survive 20 [[Floors]] with {{CI|Yatta|name=true}} in your round|Travel 90000 Meters|Use 120 Items|Use 35 {{II|BonBons|name=false}}}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Machine}}|{{MastStrat|second and fifth|Collect and use|Use}}|{{MastStrat|third|Toon in run|{{CI|Yatta|name=true}}}}|{{MastStrat|fourth|Meters}}|{{MastStrat|sixth|focus on only using your Ability to yourself, as this over time will complete the task}}}}
+==Requirement Strategies==
+*For the first requirement, focus on picking up {{II|Baskets|name=true}} and extracting [[Machines]]. The Machine and Basket count increases the further you descend, so you can earn more Baskets.
+*For the second requirement, try to play normally whilst also focusing on collecting as much [[Research]] as you can. Primarily focus on {{Type|Common}} [[Twisteds]], as they are, as their rarity implies, more common than others. Also play as {{CI|Rodger|name=true}} to make this process easier.
+
+==Golden Skin [[Quest]]==
+{{GQ|Encounter {{CI|Twisted Cocoa|name=true}} {{Color|10|#93f525}} times as Cocoa.}}
+{{GQ|Complete {{Color|35|#93f525}} total [[Floors]] as Cocoa.}}
+{{GQ|Use Cocoa's [[ability]] to place {{Color|40|#93f525}} {{II|BonBon|name=true|plural=a}} that are picked up by other [[Toons]].}}
+
+Reward: {{Skin|Golden Bunny Cocoa}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Easter Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', play normally until you see {{CI|Twisted Cocoa|name=true}} on the [[Floor]]. Then, either encounter her normally or ask the distractor to bring Twisted Cocoa to the Elevator. It is easier to do this when she's on the [[Daily Twisted Board]]. Additionally, you should try to reach higher Floors, since that is where {{Type|Rare}} [[Twisteds]] become more common.
+*'''For the second quest''', get in a team with fast extractors such as [[Shelly]] or [[Squirm]] to pass the Floors quickly, do this multiple times to get this quest completed fast.
+*'''For the third quest''', equip {{TI|Ghost Snakes In A Can|name=true}} and {{TI|Sweet Charm|name=true}} as Cocoa. Get one or more other player(s) and spam your BonBon [[Ability]] at the Elevator and have the other teammates use them. If you can't tell them that, use the {{SI|Here, for you!|name=true}} [[Sticker]]. You can also invite someone in a duo run and spam your Ability while you both are at an AFK spot of the map.
+
+==Strategies==
+Given her above average [[Movement Speed]] and [[Stealth]], Cocoa is seemingly made to lean into being a support [[Toon]] rather than a distractor or extractor. With her [[Ability]], {{AI|Cocoa|name=true}}, Cocoa is able to give other players a slight boost with the {{II|BonBons|name=true}} she drops, whether it's a boost for [[Extraction Speed]] or Movement Speed.
+
+Placing down BonBons near players on Machines with slow [[Extraction Speed]] or when slow [[Movement Speed]] Toons are being chased is a way to help out your team, or placing down unneeded BonBons when your team doesn't need any to a {{CI|Sprout|name=true}} or a {{CI|Ginger|name=true}} is another way on using Cocoa's Ability as it helps with gathering {{Tape|name=true}} for their Abilities. Essentially, placing her BonBons next to [[Machines]] and around the map can be helpful for other players and even herself.
+
+Remember that Cocoa's Ability can also benefit herself as well. You can use BonBons from her Ability to boost her slower Extraction Speed frequently, speeding up Floor progression. Her BonBons can also provide her with a speed boost equivalent to the boost of a {{II|Speed Candy|name=false}} for a double duration, which can help her escape chases easier, especially with her already high mobility. This can also help Cocoa conserve Stamina, which is very helpful due to her below-average [[Stamina]] capacity.
+
+Cocoa, despite her Stealth, is capable of being a decent distractor given her BonBons' speed boost. She can place down BonBons and use them to give herself distance from faster [[Twisteds]], mitigate the {{Debuff|Slow|}} Debuff, to escape a chase when [[Panic Mode]] is active, or anything else. If planning to distract as her with ease, arrange a run with various 4{{Star}} and above Stealth Toons as it's much easier to get Twisteds off of them this way, and also equip the usual distractor [[Trinkets]], such as {{TI|Dog Plush|name=true}} and {{TI|Speedy Shoes|name=true}} or {{TI|Train Whistle|name=true}}.  If you don’t want or need to use the Trinkets suggested, her Ability is always good for speed, though note its fairly long cooldown.
+
+Below are the values of the BonBons' Movement Speed and Extraction Speed boosts on different Star counts.
+<tabber>
+|-|Movement Speed=
+The total amount of Movement Speed gained from Cocoa's BonBon can approximate to:
+*{{Star}} (10 Walk/20 Run) → (12.50 Walk/25 Run)
+*{{StarRow|2}} (12.50 Walk/22.50 Run) → (15.625 Walk/28.125 Run)
+*{{StarRow|3}} (15 Walk/25 Run) → (18.75 Walk/31.25 Run)
+*{{StarRow|4}} (17.50 Walk/27.50 Run) → (21.875 Walk/34.375 Run)
+*{{StarRow|5}} (20 Walk/30 Run) → (25 Walk/37.50 Run)
+
+|-|Extraction Speed=
+The total amount of Extraction Speed gained from a BonBon can approximate to:
+*{{StarRow|1}} (0.75) → 1.125 (11.25 units filled in 10 seconds)
+*{{StarRow|2}} (0.85) → 1.275 (12.75 units filled in 10 seconds)
+*{{StarRow|3}} (1) → 1.5 (15 units filled in 10 seconds)
+*{{StarRow|4}} (1.2) → 1.8 (18 units filled in 10 seconds)
+*{{StarRow|5}} (1.5) → 2.25 (22.5 units filled in 10 seconds)
+</tabber>
+
+Overall, while Cocoa leans mostly into support, she can be a good extractor or distractor, being able to use her BonBons to her advantage. She can be really great in teams or in solo runs, with a somewhat versatile set of Stats and Ability.
+
+===Trinket Combinations===
+{{Preference}}
+Given she has high speed with lower Stamina, high Stealth, and low Extraction Speed, recommended [[Trinket]] combinations for Cocoa include:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This [[Trinket]] will unlock the role of distractor to the holder, or, if one doesn't desire to distract, just further improves Cocoa's mobility {{Small|(19.3 Walk Speed)}}. Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Cocoa to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 Walk Speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster [[Twisteds]]. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 Walk Speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', so you can distract {{CI|Twisted Vee|name=true}} or during [[Ichor Leaks]] without being slowed;
+***'''{{TI|Scrapbook|name=true}}''', to avoid other 4{{Star}} [[Stealth]] Toons taking away the Twisteds' aggro;
+****Do note that this Trinket will not lower your Stealth enough to be able to distract around 3 Star Stealth and below [[Toons]].
+***'''{{TI|Bone|name=true}}/{{TI|Feather Duster|name=true}}''', to gain a slight speed or Stamina boost for every {{II|BonBons|name=true}} collected;
+***'''{{TI|Whispering Flower|name=true}}''', to gain more Stamina regeneration by stocking up on {{II|BonBons|name=true}};
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Cocoa to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction {{Small|(27.95 avg/24.84 with Tech Savvy)}};
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}''', to reduce {{AI|Cocoa|name=true}}<nowiki/>'s [[Ability]] cooldown {{Small|(35s)}};
+**'''{{TI|Sweet Charm|name=true}}''', to further reduce '''BonBon'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with percentages {{Small|(32s)}}.
+*'''{{TI|Glazed Fondant Bag|name=true}}''', to give a boost to the [[BonBon]] that Cocoa drops. More useful in solos or runs with multiple Cocoas;
+
+==Dialogues==
+{{Cocoa Dialogues}}
+
+==Audio==
+{| class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:BonBonCocoaSFX.wav]]
+|The sound when Cocoa uses her {{AI|Cocoa|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*Cocoa, {{CI|Rudie|name=true}} and {{CI|Eclipse|name=true}} are all anthropomorphic [[Toons]] with non-plantigrade legs (Cocoa and Eclipse are digitigrade, while Rudie is unguligrade). Cocoa is the second Toon with this trait.
+*Cocoa used to be able to spawn as many {{II|BonBons|name=true}} as she wanted at a time, but this was changed in [[Changelog|v0.8.4]] so that there could only be 10 BonBons on the floor at once.
+**This was implemented to prevent players from spawning excessive BonBons on one Floor to farm {{Tape|name=true}} or [[Machines]], and also to stop them from drawing or writing inappropriate content.
+***This however could be countered by having a {{CI|Bassie|name=true}} pick up the BonBons and place them back down, which would essentially reset the intended limit until [[Changelog|v0.25.1]].
+*BonBons are Cocoa's favorite sweets, as seen through her dialogues, her Active [[Ability]], and her and {{CI|Cosmo|name=true}}'s interaction.
+*Cocoa's friendship with [[Bassie]] is very complex, with Bassie seeming to act cold towards Cocoa despite how friendly she is towards her. This is seen in shared dialogues with her. 
+**This is due to Bassie being secretly envious of Cocoa, due to [[Delilah]] likely wanting her to be a {{Type|Main}} instead of Bassie.
+*Cocoa could be friends with {{CI|Yatta|name=true}}, as she requires surviving 20 [[Floors]] with Yatta for her [[Mastery]] and because their interactions show them being friendly to each other.
+**In her interaction with Yatta, Yatta stated that she wanted to eat her, all because Cocoa was supposedly made out of chocolate.
+*Cocoa is the first non-[[Main Character]] Toon that has a plush version of herself, as seen in the [[Easter Floor]].
+**This may be because [[Delilah]] wanted her to be the [[Easter]] Main Character.
+**She's also the first non-Main Character to have an official plush in real life.
+*Cocoa has a chubbier body compared to most [[Toons]], similarly to {{CI|Dandy|name=true}}, [[Rudie]], and {{CI|Bobette|name=true}}.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1366613814665150515</ref>
+**That makes Cocoa the third Toon that is canonically chubby.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1377836498782650408</ref>
+*Cocoa was one of the most difficult [[Toons]] to turn from 2D art to a 3D model, essentially due to her snout, the other one being {{CI|Coal|name=true}}.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1366508342805139526</ref>
+**Additionally, it took more than 7 to 9 attempts to try to model her snout.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1366508509012820069</ref>
+*Cocoa's Active [[Ability]] is labeled as "Bonbon" in the [[Lobby]] and [[Bassie's Store]]. However, in Elevator intermission before a round, there was a bug where it was labeled as "Chocolate Bunny". This has been fixed, and it's now labeled as "Bonbon".
+*Cocoa's name is a reference to the seed of the cacao tree, which is used to make chocolate. Given that she is a chocolate Easter bunny, the name fits.
+*Cocoa is the first [[Toon]] whose [[Mastery]] doesn't require the use of her Active [[Ability]].
+**Even though one quest is to eat 35 BonBons, another Cocoa can help spawn one for you, technically making Cocoa's Mastery completable without using her Active Ability.
+***Another way, although much, much less reliable due to RNG and limited usage per run, would be through the Blind Grab and Lost and Found [[Cards]].
+*Cocoa's official voice actor is Toastymarshmellow as she sings in the song [[Wilting]].
+**This makes her the fifth Holiday [[Toon]], alongside [[Bassie]], to have an official voice actor, the first three being the [[Christmas Toons]] (excluding [[Coal]]).
+*Cocoa was the first Non-Main [[Toon]] to get a Security Recording without the presence of other [[Toons]].
+*It's implied that Cocoa was the non-direct reason Bassie became a [[Twisted]], as Cocoa took on the responsibility of decorating better than Bassie, who can be seen accidentally dropping decorations. Bassie, having a fear of being replaced, was presumably jealous of this, clenching her fist when {{CI|Eggson|name=true}} and {{CI|Flyte|name=true}} seemingly celebrate or congratulate Cocoa as seen in the [https://youtu.be/gukB89e5O_Y?si=zZN-nhEb_QnhUGGH Wilting music video].
+**Bassie could also be the reason Cocoa turned twisted, but there is minimal evidence for this, aside from possibly the ending scene of the [https://youtu.be/gukB89e5O_Y?si=zZN-nhEb_QnhUGGH Wilting music video] and her {{CI|Twisted Cocoa}}[[Twisted Cocoa|Twisted counterpart]]'s seemingly injured appearance.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Easter Event]]

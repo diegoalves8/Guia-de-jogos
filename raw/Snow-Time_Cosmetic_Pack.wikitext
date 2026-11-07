@@ -1,0 +1,25 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,purple,lightblue,white,lightblue,purple); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Purchasable}}{{Limited}}{{Gamepass
+|image1=Snow-Time Gamepass Icon.png
+|description=This gamepass features 5 exclusive skins for: {{CI|Bobette|name=true}}, {{CI|Coal|name=true}}, {{CI|Ginger|name=true}}, {{CI|Rudie|name=true}}, and {{CI|Cosmo|name=true}}! These skins feature unique particles, trails and ability effects. All features are cosmetic and do not effect gameplay.
+|robux_price={{Price|Pack}} (Currently Offsale)
+}}
+
+The '''Snow-Time Cosmetic Pack''' is an active [[Gamepass]] featuring 5 exclusive skins regarding the [[Christmas Toons]] and {{CI|Cosmo|name=true}} in [[Dandy's World]]. It was introduced in [[Changelog|v0.14.1]] as the fourth Gamepass available in [[Dandy's Store]].
+
+==Effect==
+Players who purchased this gamepass are rewarded 600 [[Ichor]] and receive the 5 matching skins for {{CI|Bobette|name=true}}, {{CI|Coal|name=true}}, {{CI|Cosmo|name=true}}, {{CI|Ginger|name=true}}, and {{CI|Rudie|name=true}}.
+
+==Skins==
+<gallery>
+Snow-Time Bobette.png|{{Skin|Snow-Time|toon=[[Bobette]]}}
+Snow-Time Coal.png|{{Skin|Snow-Time|toon=[[Coal]]}}
+Snow-Time Cosmo.png|{{Skin|Snow-Time|toon=[[Cosmo]]}}
+Snow-Time Ginger.png|{{Skin|Snow-Time|toon=[[Ginger]]}}
+Snow-Time Rudie.png|{{Skin|Snow-Time|toon=[[Rudie]]}}
+</gallery>
+
+{{GamepassNav}}
+
+[[Category:Gamepasses]]
+[[Category:Skins]]
+[[Category:Christmas Event]]

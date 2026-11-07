@@ -1,0 +1,236 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#FE4C5C,#FDFDFF,#4CB661); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Long}}{{Limited}}{{Toons
+|title1=Bobette Carolynne
+|image1=<gallery>
+Bobette Render.png|Render
+Bobette Full Render.png|Full Render
+Bobette Full Render Old.png|Old Full Render
+Bobette Icon.png|Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|4}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|5}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|2}}
+|requirement_1={{Currency|Ornaments|3000}}
+|requirement_2={{Currency|Ichor|2500}}
+|requirement_3={{Currency|Research|100% Research}} on {{CI|Twisted Bobette|name=true}}
+|ability_1={{Center|{{AI|Bobette}}'''Precious Packaging'''<br>{{Small|''(Active)''}}}}<br>This Toon can duck and cover herself into a gift box for 8 seconds, in which she is invincible yet unable to move.
+|ability_2={{Center|'''Festive Aura'''<br>{{Small|''(Passive)''}}}}<br>The festive aura of this Toon passively gives those around her 50% faster stamina regeneration and a 25% speed boost that lasts for 5 seconds.
+|skins=*Vintage
+*Eve Sleeper
+*Holly Lace
+*Snow-Time
+*Golden Bauble
+*Hot Chocolate
+|gender=Female
+|pronouns=She/Her
+|release_date=1/10/2025
+}}
+{{DialogueQuote|Bobette Store|<choose uncached><option>Happy Holidays! What can I help you with?</option><option>Ooo~ Some Toon Licenses! Good choice!</option><option>ME! ? I mean, I-if you'd like my help, I'll try my best...</option></choose>|Dialogue in [[Bobette's Store]]}}
+
+{{ToonInfo|type=Event Main|Toon=Bobette|extra=Carolynne|Date=January 10, 2025|with={{CI|Coal|name=true}}, {{CI|Ginger|name=true}}, and {{CI|Rudie|name=true}}|Pronoun=She|event=Christmas|store=Bobette's}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Bobette is a seemingly chubby red bauble with darker red markings on her face and feet. She has a metal ornament cap that attaches to a hook on her head. She wears a sweater with a white fur lining at the ends and a variety of shades of green for the patterns, spread across the sweater is a repetitive cross shaped snowflake with three branches on each end. Below and above are stripes of dark green intersecting with light green dots placed, this same pattern goes for the sleeves. However, more striping is on the sleeves than the body of the sweater. When hurt by a [[Twisted]], her face has a shocked or surprised appearance. When using her [[Ability]], she appears as a large, red present with a green ribbon wrapping around each side and forming a bow on top. Her ring is white with a narrow, dark gray outline and appears to be composed of five inward-facing, brace-like shapes formed in a circle, each connected by a thin line with a spiky rhombus in the center.
+|-|Vintage=
+Vintage Bobette is a light gray bauble with medium gray markings and eyes pie-cut on opposite sides. Her sweater is dark gray with darker gray stripes and black dots and snowflakes, along with light gray dots on the fur lining. Her present form is white with a black ribbon.
+|-|Eve Sleeper=
+Eve Sleeper Bobette appears baby blue with lighter markings, white cheek marks, a coral pink bauble cap, and a smile bearing teeth. Instead of a sweater, she wears a light pink tee-shirt with a darker pink present outline on the front and short sleeves. Her body is also made more visible due to this. She wears red shorts with a pattern of white snowflakes and stars spread about. She also wears a red and white striped scarf with part of it hanging behind her, along with white socks with pastel pink stripes. Her present form is sky blue with a hot pink ribbon.
+|-|Holly Lace=
+Holly Lace Bobette is olive green with darker markings. Her cap is a pinkish-red color and has three similarly colored holly berries with a lighter blend and two light green, ribbon-like tails. She also has holly berries centered on the collar of a reddish-pink dress she now wears, which is shaped like the initial sweater, except it has a slightly longer round skirt with a white, wavy and curled line with leaf outlines on the lower half and wider fur lining on the hem without dots like the rest of the lining. She wears long, white socks with a pinkish-red stripe on the upper half and lighter pinkish-red shoes, each with straps that have two darker buttons on each side. Her present form is reddish-pink with an olive green ribbon.
+|-|Snow-Time=
+[[Snow-Time Cosmetic Pack|Snow-Time]] Bobette is a silver bauble with curved eyelids coated in a shining, purple eyeshadow, giving her a rather sleepy expression. Behind her head is a large, long-ribboned bow with a purple center and a bright purple to light blue gradient, and vice versa for the tails but with teal tips. It also has a white star and dot pattern rotating in a northwest direction. The sleeveless dress she now wears, lengthened to her patternless feet, shows a similar design, also being light blue and fading into purple with a diagonally moving sparkle pattern, complete with a white decorative squiggle on the bodice and skirt. The dress also has a fuzzy waistline with strings of fluff that divide the lower half into fourths. The fur lining remains on the dress, but the upper fur lining curves downward, and the lime green spots are recolored light purple. She also wears long purple gloves that have a lighter wave and star pattern on the ends. She radiates light blue dots, sparkles, and asterisk-shaped snowflakes with two additional branches on each end. When moving, a line of more detailed dendrite snowflakes can be seen accompanied by smaller dots and crosses like the ones on her bow and dress, along with a soft light green and magenta glow representing northern lights. Her present form is light gray with a violet ribbon.
+|-|Hot Chocolate=
+Hot Chocolate Bobette is tan colored with lighter markings, and her upper eyelids and eyelashes are lowered, giving her a relaxed expression. She has three brown freckles on her cheeks, and her cap is now recolored the same brown. Her eyelids are also brown, but with lighter lines that give it a shiny appearance. Her sweater is brown, has brown dots, and has larger sleeves with larger fur lining. The pattern is changed to have lighter dots across the upper half, white, marshmallow-shaped squares in the center, and a wavy line lighter brown slightly below, while the rest of the lower half is lighter, separated from the wavy line by a thin, brown one. She also wears brown gloves and shoes and wide pants that have a white-tan gradient. She produces small, bouncing marshmallow particles around her which fade away quickly. Her present form is brown with a white ribbon.
+|-|Golden Bauble=
+Golden Bauble Bobette is yellow with darker markings and has three white freckles on each of her cheeks. Her cap is golden yellow and she wears a gold crown with six points, a red oval ornamenting each, which envelops around the cap. Her sweater is recolored red and at the lower part, it fades into a scarlet shade used for the dots on her fur lining. The pattern on her sweater now consists of two scarlet wavy lines in the center with a row of dots colored alike above the waves while a redder row is below. Her sleeves also feature this pattern. She also emits a faint golden glow, along with small golden twinkles. Her present form is red with a yellow ribbon.
+</tabber>
+==Personality==
+Bobette is an enthusiastic and cheerful [[Toon]] who thrives in the festive spirit of Christmas. She is affectionate, playful, and constantly spreads joy to others, often making light-hearted comments and involving herself in holiday-themed activities. Bobette's friendly nature shines through in her interactions with others, whether she's encouraging friends like {{CI|Sprout|name=true}} to team up with {{CI|Ginger|name=true}} for gingerbread house-making or inviting {{CI|Vee|name=true}} to join in on cozy traditions like hot cocoa and cookies in their interactions. She is upbeat, optimistic, and seems genuinely grateful for her experiences, embodying the fun and warmth of the holiday season. Her love for Christmas is infectious, and she enjoys sharing that cheer with everyone around her. 
+
+Although, her Twisted form's description suggests she is hiding envy, and that it breaks free in her {{CI|Twisted Bobette}}[[Twisted Bobette|Twisted counterpart]], being further proven by the fact Twisted Bobette's description says that she will go to the location of where an [[Item]] has been picked up to find whoever she deems "greedy." It was revealed that Bobette feels under appreciated and feels like she never has any time to be with her friends due to the overload of giving and wrapping gifts to children to make them happy every year. Based on her dialogue with {{CI|Shelly|name=true}}, it's evident she has little free time due to this. In a note that can be found in her lore room on the [[Seasonal Room]] map, she reveals that she believes it is her own fault for feeling the way she does and hates that she feels this way.
+
+Contrastingly to her outwardly festive spirit, Bobette feels overloaded with responsibilities that she, as one Toon, cannot handle. Revealed in "[[The Perfect Christmas]]," Bobette is grateful for the assistance of the other [[Christmas Toons]], but begins to take all the duties herself when they prove to be unable to help her. In this way, Bobette is not inherently disapproving of the others, but rather feels that she is alone and unable to be helped. She is stressed and overwhelmed, cementing her descent into becoming a [[Twisted]].
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 Times|Finish 120 [[Machines]]|Reach [[Floor]] 20|Survive 60 Floors|Travel 150000 Meters|Use 125 [[Items]]}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|+60}}|{{MastStrat|second|Machine}}|{{MastStrat|third and fourth|Reach/do floors}}|{{MastStrat|fifth|Meters|3Star}}|{{MastStrat|sixth|Collect and use|Use}}}}
+==Requirement Strategies==
+*For the first and second requirements, focus on picking up [[Research Capsules]]/{{II|Ornaments|name=true}} and extracting [[Machines]]. The Machine, Capsule and Ornament count increases the further you descend, so you can earn more {{II|Ichor|name=true}} and Ornaments.
+*For the third requirement, have a Distractor [[Toon]] bring {{CI|Twisted Bobette|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Bobette is on the [[Daily Twisted Board]].
+
+==Golden Skin [[Quests]]==
+{{GQ|Encounter {{CI|Twisted Bobette|name=true}} '''{{Color|10|#93f525}}''' times as Bobette.}}
+{{GQ|Complete '''{{Color|[[Floor]] 20|#93f525}}''' as Bobette with {{TI|Toy Kit|name=true}} [[Trinket]] equipped.}}
+{{GQ|Experience the [[Iced Over]] [[Floor Events|Event]] '''{{Color|15|#93f525}}''' times as Bobette.}}
+
+Reward: {{Skin|Golden Bauble Bobette}} [[Skin]] {{Small|''Exclusively obtainable while the [[Christmas Event]] is active''}}
+
+===Golden Skin Strategies===
+*'''For the first task''', play normally until you find {{CI|Twisted Bobette|name=true}}, get in her sight, then try to find her again in another [[Floor]]. It should be noted that you'll likely have better luck when she is on the [[Daily Twisted Board]]. You could also go in a run and aim for [[Floor]] 20, as it guarantees a Twisted Bobette spawn, and will also help with the '''second task'''. You can even go on a solo run since her survivability is quite high.
+*'''For the second task''', join a run and try to aim for Floor 20. You should pair {{TI|Magnifying Glass|name=true}} or {{TI|Vee's Remote|name=true}} alongside {{TI|Toy Kit|name=true}} for faster Floor progression. If there is a 2 {{Star}} [[Stealth]] distractor, you can use {{TI|Diary|name=true}} to solar distract with the distractor.
+*'''For the final task''', try to avoid voting {{CDI|Frost Shield|name=true}} and try to vote {{CDI|Piping Tape|name=true}} and {{CDI|Electrician|name=true}} instead, as it will enhance the chances of the Iced Over Floor Event happening. This task is best done during long runs.
+
+==Strategies==
+Bobette is a great all-rounder [[Toon]] due to her jack-of-all-trades kit. Her Active [[Ability]], {{AI|Bobette}}'''Precious Packaging''', can be extremely helpful in sticky situations, such as being chased by a {{Type|Lethal}} or [[:Category:Ranged Twisteds|Ranged]] [[Twisted]]. Unlike {{CI|Connie|name=true}}'s Ability and {{II|Smoke Bomb}}[[Items|Smoke Bombs]], Bobette's Ability is able to save her from the aforementioned Twisteds, which makes her a great pick for those who prefer to be survivalists. It should be noted that a Twisted may come to your location while you are still in the box, so you must be careful. It's usually safer to use this Ability around corners or against walls because of how Twisteds behave. This is because most do not stall, so they will either move forward or go the other way. Twisteds stop at predetermined locations, so knowledge of their pathing is helpful if you want to play her. The cooldown of her Active Ability won't start counting down until she stops hiding in the present, unless she is under the effects of {{Debuff|Ignited}}.
+
+In runs with multiple people or distractors, Bobette's Active Ability also allows her to assist distractors if they lose sight of any Twisteds by bringing them back to the distractor and using her Ability to force Twisteds to go after the distractor instead. When using this strategy, try to brush against their looping zone without being so close that you steal aggro immediately again. In certain cases, the distractor will be able to retrieve them themselves if they have an {{II|Air Horn|name=true}}, are playing {{CI|Pebble|name=true}} and use his {{AI|Pebble}}'''Speak!''' Ability, or if they are using {{TI|Scrapbook|name=true}} and their [[Stealth]] is equal or below 2 Stars, so if the above are the case, it's best to save her Ability than to use it immediately.
+
+Bobette is beneficial to have when it comes to many things. Her 4{{Star}} [[Skill Check]] [[Stat]] allows her to be a decent extractor (especially with {{TI|Magnifying Glass|name=true}}/{{TI|Participation Award|name=true}}), however her 2 Star [[Extraction Speed]] may hinder this, making her extraction stats the exact same as {{CI|Tisha|name=true}}'s. Her Mobility is above average with 5 Stars in [[Stamina]] and a 3 Stars in [[Movement Speed]], allowing her to escape Twisteds easily. Her great mobility [[Statistics]], alongside her above average Skill Check, make her a great Toon to extract [[Treadmill Machines]] with. It may be beneficial to help someone on a Treadmill Machine, as the Movement Speed and Stamina boost from her Passive Ability can help finish the Machine faster. This is especially applicable for Duo Machines, as Bobette is already quite capable at extracting all Machine types anyways, being able to support whoever is working with her, if they're on a treadmill attachment.
+
+Despite having 2 Star [[Stealth]], Bobette can be a very good solo Toon. She has the survivability and the (somewhat) good extraction to make it far in the right hands, although she does require some caution, given her status as a [[Main Character]] decreasing her heart count and her below-average Stealth equal to some Toons like {{CI|Vee|name=true}} and {{CI|Glisten|name=true}}.
+
+Bobette's '''Festive Aura''' grants a decent stamina regeneration source, as well as a good enough speed boost to escape Twisteds. It works like a combination of a {{II|Stamina Candy|name=false}} and {{II|Speed Candy|name=false}}, making Bobette a good Toon to help teammates get away from danger. Her only conflict with her Passive is her lower Stealth, but this can also be used to your advantage to take aggro from chasing Twisteds, giving your teammate a better chance to escape. When the Elevator opens at the start of a Floor, you can run in a small circle, or back and forth to give the entire team a speed boost. If you're inside the Elevator during [[Panic Mode]], you can still help your team by standing on the edge (behind the inner yellow line), as the aura is big enough to stick outside of the Elevator. Both of these applications are easier to do if you equip {{TI|Toy Kit|name=true}}, for you and your teammates.
+
+Bobette's '''Festive Aura''' can be used to help 2 Star Stealth distractors distract faster Twisteds with ease, like {{CI|Twisted Pebble|name=true}}. If a {{CI|Looey|name=true}}, {{CI|Eclipse|name=true}}, or {{CI|Goob|name=true}} intends to distract {{CI|Twisted Dyle|name=true}} with the help of Items, she can also use her Passive Ability to give them a speed boost. The above scenarios will only work if Bobette is using {{TI|Diary|name=true}}, or the distractor is using {{TI|Scrapbook|name=true}}. In either case, this allows Bobette to perform a strategy called solar system kiting, where the distractor goes clockwise or counterclockwise and Bobette circles the opposite direction, giving the distractor a consistent 25% speed boost and 50% stamina regeneration. Caution will need to be taken while doing this strategy, as the distractor needs to be careful to not take sharp corners to prevent Twisteds from aggroing on Bobette.
+
+When it comes to Items, those related with Stamina such as {{II|Protein Bar|name=false|plural=a}} or {{II|Pop|name=false}} are very helpful. Bobette's 5 Star Stamina can take a while to fully regenerate, and her 3 Star Movement Speed means she needs to run quite often, thus having Stamina Items on hand will allow her to take full advantage of her mobility. {{II|Jumper Cable|name=false|plural=a}}, {{II|Skill Check Candy|name=false|plural=a}}, {{II|Instructions|name=false}}, and {{II|Valve|name=false|plural=a}} are good extraction Items that can remedy Bobette's lower Extraction Speed or support her proficiency with Skill Checks. Since she is a Main Character, it's recommended to prioritize {{II|Bandage|name=false|plural=a}} due to them healing one Heart, avoiding any wastage. If you're solar kiting with a distractor, having at least one healing Item is strongly recommended due to the potential danger you're vulnerable to. Mobility Items can also help you keep up with your distractor, especially during Panic Mode.
+
+Overall Bobette is quite capable at practically anything. Extracting, surviving, scouting, supporting, and protecting are all tasks she can effectively fulfill. It's a good idea to choose [[Trinkets]] that primarily hone in on one task you wish you do, allowing Bobette to be more effective in that area. However, two separate Trinkets (such as a mobility and extraction Trinket) for different tasks can also be utilized to enhance a generalist playstyle, if that is what you are seeking with her instead.
+
+===Festive Aura Effect===
+<tabber>
+|-|Stamina=
+*The amount of time it takes to fully regenerate Stamina with Festive Aura can approximate to:
+*{{Star}} (100) → 27.78~ seconds
+*{{StarRow|2}} (125) → 34.72~ seconds
+*{{StarRow|3}} (150) → 41.67 seconds
+*{{StarRow|4}} (175) → 48.61~ seconds
+*{{StarRow|5}} (200) → 55.56~ seconds
+
+|-|Movement Speed=
+
+{{StatCmpr|stat=Movement Speed|change=25|affector=Festive Aura}}
+</tabber>
+
+===Trinket Combinations===
+{{Preference}}
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options''' 
+**This Trinket enables Bobette to outrun all [[Twisteds]], except {{CI|Twisted Dyle|name=true}} at max speed before Panic Mode {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with: 
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve run speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not disrupt 2{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her high Stamina and slow extraction.
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Bobette to take full advantage over her 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and 4 Star [[Skill Check]] {{Small|(134 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker [[Floor]] progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting her 4 Star Skill Check making her an overall decent extractor {{Small|(26.32 avg/23.95 with Tech Savvy)}};
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Sweet Charm|name=true}},''' to reduce {{AI|Bobette|name=true}}'s [[Ability]] cooldown {{Small|(82.8s)}}:
+**'''{{TI|Ghost Snakes In A Can|name=true}}''', to further reduce '''Precious Packaging'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(77.8s)}}.
+
+====Solar Kiting====
+*'''{{TI|Toy Kit|name=true}}/{{TI|Diary|name=true}}'''
+**With these Trinkets, to allow Bobette to be safely around 2-1 Star Stealth distractors like {{CI|Looey|name=true}},  {{CI|Eclipse|name=true}}, {{CI|Waxwell|name=true}}, {{CI|Gourdy|name=true}} or 3 Star [[Movement Speed]] low Stealth distractors while giving them a speed and Stamina regen boost with a large radius given by Toy Kit. Having Diary around means she can help gather [[Twisteds]] for said distractor to help lessen their time running around the map. Do note that Diary won't increase her Stealth to be as high as {{CI|Pebble|name=true}} or {{CI|Sprout|name=true}}'s. Although, this set alone isn't just for helping distractors—it can also be used to support other 2 Star Stealth [[Toons]] in your party while being less likely to take damage.
+***If the distractor has {{TI|Scrapbook|name=true}} or is using a 1{{Star}} [[Stealth]] Toon, Diary can be replaced with {{TI|Pink Bow|name=true}} for more run speed or {{TI|Vee's Remote|name=true}} to speed up [[Machine]] completion.
+
+==Dialogues==
+{{Bobette Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Precious Packaging Sound Effect.ogg|left|thumb]]
+|The sound that plays when Bobette uses her {{AI|Bobette}}'''Precious Packaging''' [[Ability]]
+|-
+![[File:Bobette Talking Sound.ogg|left|thumb]]
+|The sound that plays when a speech box appears over Bobette's head {{Small|(Sped-up in-game)}}
+|}
+
+==Trivia==
+*Bobette is the second chubby [[Toon]], with the first being {{CI|Dandy|name=true}}, and the third being {{CI|Cocoa|name=true}}, as confirmed by [[Qwelver]].<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1325977099370102877</ref> This is probably because she is the Toon equivalent of Santa, who is portrayed as chubby.
+*Bobette is one of the first [[Holiday Toons]] added to the game, along with {{CI|Coal|name=true}}, {{CI|Ginger|name=true}}, and {{CI|Rudie|name=true}}. She is also the first {{Type|Main}} [[Holiday Toon]].
+*Bobette had 5{{Star}} [[Skill Check]] and 2 Star [[Movement Speed]], but it was quickly swapped to 4 Star Skill Check and 3 Star Movement Speed.
+**She was the first [[Toon]] to have 5 Stars in two [[Stats]] until then.
+**She would have been the third Toon to have 5 Stars on Skill Check, with the first being {{CI|Shelly|name=true}}, the second being {{CI|Gigi|name=true}}, and the fourth being {{CI|Gourdy|name=true}} and {{CI|Soulvester|name=true}} if her old stats was kept.
+*Bobette is the only [[Holiday Main Character]] [[Toon]] to not have a 1 Star on any of her [[Stats]], with [[Bassie]]'s 1 Star Skill Check and [[Gourdy]]'s 1 Star Stamina and Stealth.
+*Bobette is the third [[Toon]] to have 5 Star Stamina, with the first being {{CI|Scraps|name=true}}, the second being {{CI|Sprout|name=true}}, and the fourth being {{CI|Blot|name=true}}.
+*Bobette's name could possibly be a portmanteau of the words "Bauble", "Bobsled" and the name "Bridgette" or "Odette".
+*Bobette's last name is Carolynne, after being confirmed by [[Qwel]] in a stream on 7/19/25.
+**Bobette's last name is based off of {{wp|carolling}}.
+*Due to her larger hitbox, Bobette cannot climb the benches in the lobby and can't hide in some small corners within some maps.
+**This is not the case for her {{Skin|Golden Bauble}} [[Skin]] however.
+*If you somehow use Bobette's {{AI|Bobette}}'''Precious Packaging''' inside the [[Elevator]] when [[Panic Mode]] ends, you will still die.
+*Bobette has a lot of similarities to [[Dandy]].
+**Bobette has a NPC/shopkeeper variant, who sells [[Holiday Toons]], similarly to Dandy, who sells base game [[Toons]].
+**They are both chubby, confirmed by [[Qwelver]].
+**Both of their [[Twisteds|Twisted]] counterparts have claws and are alerted by certain actions that don't alert any other Twisteds, with {{CI|Twisted Bobette|name=true}} being able to hear a player pick up an Item and {{CI|Twisted Dandy|name=true}} being able to hear a player complete a Machine.
+**Bobette has a pet rock: [[Coal]], similarly to Dandy's pet rock: {{CI|Pebble|name=true}}.
+***Pebble and Coal are seen to be friends.
+**Bobette would've been the second Toon to have multiple 5 Star [[Stats]] before she was changed.
+*Bobette shares various similarities to [[Bassie]] and [[Gourdy]].
+**They are all the [[Main Character]] [[Toons]] of their respective [[Events]].
+**In the Toons menu, their icons have halved gradients, with one side being the Main Character gradient and the other being their respective Event's gradient.
+**They are the only Main Character Toons to not have a [[Toon Handler]].
+**They have an NPC and [[Twisted]] variant.
+**They, as well as {{CI|Dyle|name=true}}, are also all shopkeepers, this being the NPC variant.
+***Unlike him, though, they also have a playable variant, since Dyle is only available in-game for developers and for everyone on [[Roleplay Mode]].
+**They all have the same requirements to be unlocked, requiring 100% [[Research]] on their Twisted counterparts, 3000 of the Event's currency and 2500 [[Ichor]], making them the first, second, and third Holiday Toons to require Ichor to be unlocked, respectively.
+**If it wasn't for her [[Statistics]] being changed, she would've been the first Toon to not have 3 Stars in any of her Stats, another similarity she would've shared with the two others.
+*Bobette's Passive [[Ability]], '''Festive Aura''', cannot be stacked, meaning that being in between two or more Bobettes will give you the effect from only one of them. 
+**The effects used to stack prior to the '''Festive Aura''' buff. The reason it can't stack anymore is likely for balancing reasons, as it would be able to give large amounts of speed if it could still stack.
+*Bobette is the last [[Main Character]] [[Toon]] to have an in-game plush version of herself, and the third Holiday Main Character Toon to have a plush version of themself.
+*Bobette's walk and run cycle when using {{Skin|Golden Bauble}}, {{Skin|Holly Lace Bobette}}, or {{Skin|Snow-Time Bobette}} is different than her other available [[Skins]]. When using any other Skin, her head wobbles when she runs and her arms are lowered nearer her hips when she walks. While using the [[2025 Christmas Event]] Skins, her head doesn't wobble and her arms are higher up.
+**This disparity was originally a difference between the [[game]] Skins and [[Roleplay]] Skins.
+*Bobette is the second Holiday [[Main Character]] [[Toon]] to have [[gossips]], with the first being [[Gourdy]].
+**Additionally, she is the first female Toon to have gossips.
+*If you enter the "Lore Room" on the [[Seasonal Room]] as Bobette, she will say "{{Text|…I don't remember leaving things like this.}}", making her the third [[Toon]], along with all the other [[Christmas Toons]], with dialogue outside of being in the [[Elevator]], using an Active [[Ability]] or finishing a [[Machine]].
+*Until the second [[2025 Christmas Event|Christmas Event]], Bobette's '''Precious Packaging''' didn't show the meter of when it was going to end, while Bobette's '''Festive Aura''' used to only apply the 50% Stamina regeneration and it was only applied if any [[Toon]] was in its area of effect, with no 5 second lingering like it currently is.
+*Some time shortly after the [[2024 Christmas Event]], the cooldown of 90 seconds was removed from Bobette's '''Precious Packaging''' description.
+*Bobette's favorite drinks are hot cocoa and eggnog, as seen in her [[gossip]] about {{CI|Teagan|name=true}}.
+*'''Precious Packaging'''<nowiki/>'s box color matches the [[Skin]] Bobette is using.
+**{{Skin|Holly Lace Bobette}}, however, has 'inverted' colors to Bobette's Default Skin, even though their box colors are similar.
+**The meter above the box and the glow around it are the same color for all of her Skins, green, matching her Default Skin's sweater and dialogue box.
+*Bobette seems to understand [[Gourdy]]'s situation, even making sure to not mention "family" in their dialogue.
+*Bobette is one of the only [[Toons]] to mention the shutdown of [[Gardenview]].
+*{{Skin|Hot Chocolate Bobette}} is one of the few Skins with a unique way to get it that is not from a Shop or Cosmetic Pack: you must log in the game all days from December 14th to December 25th during the 2025 Christmas Event.
+*If you look inside Bobette's box when her '''Precious Packaging''' is active, you will be able to see shield particles, the same ones that appear around a [[Toon]] when {{TI|Savory Charm|name=true}} is activated, reflecting invincibility.
+*In [[Changelog|v0.14.1]], the pattern on Bobette's sweater was updated, with the tips of the "snowflakes" having points more faithful to snowflakes instead of having hearts. This led her to getting a new full render in [[Changelog|v0.27.1]].
+**This made her the first eligible [[Toon]], along with [[Coal]], to have a chance to have her render updated, along with their [[Twisted]] counterparts, with the second probably being [[Dandy]], since [[Qwel]] has plans to change his render because it has an unused expression in the game.<ref>https://discord.com/channels/969934252844138496/969934252844138499/1454470543746269410</ref>
+**It's likely this change to Bobette and Coal's snowflakes was quite last minute in the development of the [[2025 Christmas Event]], as seen in a large portion of the event's new material retaining their old snowflake pattern, like [[Stickers]], Bobette's Plush, the Bobette and Coal animation in [[Bobette's Store]]'s TV, some textures in the game files, the "Snowy Adventure" [[Poster]], and the animated music video for "The Perfect Christmas".
+*Bobette is the fifth [[Toon]] to appear in 2 separate thumbnails, appearing in the [[Changelog|v0.6]] and v0.14 thumbnails.
+**With her inclusion in the v0.14.10 thumbnail, she is the first one to do it thrice.
+*Before Bobette's Golden [[Quests]] were revealed, her third quest would have needed her to encounter the "[[Iced Over|iced-over]] [[Ichor Leaks|ichor spill]] [[Floors#Floor Events|event]]". This was likely modified as the original quest would have been too hard.<ref>[[File:Bobette old golden quest.png|250px]]
+</ref>
+*There is a bug where Bobette's speech sound effect (when a dialogue bubble comes up) is highly pitched, and sounds like a little *BEEP*.
+*Bobette is one of the three first [[Toons]] to have official voices which appeared in [[The Perfect Christmas]] song with Bobette's voice actor being Milk In The Microwave, the other two Toons with voices are [[Rudie]] as AXIE and [[Ginger]] as Qwel.
+*Bobette is mostly made out of a fragile material, most likely glass. This is evidenced in [[The Perfect Christmas]], where Bobette falls down a Christmas tree, cracking her head open and becoming a {{CI|Twisted Bobette}}[[Twisted Bobette|Twisted]].
+*There is a small bug in [[Soundtrack|The Perfect Christmas]] MV where Bobette's clothes use the old texture. This is likely because the animator forgot to change the texture. This also happens to [[Coal]] and [[Twisted Bobette]].
+*Inside The Perfect Christmas, some things in her lore room, and her conversation with [[Arthur]], it's implied that she is a people pleaser.
+*In her interaction with [[Toodles]], it is implied that [[Rodger]] told her Bobette's full name, due to the fact that he has done this to [[Shelly]] by calling her, "Miss. Fossilian".
+*In [[w:c:battlefordreamisland:Say_Hijack|BFDIA 24]], there is a scene where [[w:c:battlefordreamisland:Book|Book]] asks recommended characters who they voted for. One of them looks like Bobette, recommended by 'Profiely_edits', and appears at 5:51, though the recommended character is named "Ornament" and is male.
+*She is the only [[Christmas]] [[Toon]] to be able to speak to both [[Easter]] and [[Halloween]] Toons, though this could just be because she is the Christmas [[Main]] Toon.
+*She is the only [[Holiday Main Character]] that interacts with all other [[Main Character]] [[Toons]]. As [[Bassie]] and [[Gourdy]] don't interact with eachother.
+*When Bobette is pulled by {{CI|Goob|name=true}} or {{CI|Twisted Goob|name=true}}, her aura ring follows her with a slight delay.
+*Bobette is the only [[Toon]] to have multiple styles of dialogue bubbles, with her [[Bobette's Shop|Shop]] NPC color being a darker green than her Toon version.
+*Despite [[Coal]] being a pet rock to her, Bobette still gives her a role to play, as seen in [[Soundtrack|The Perfect Christmas]], when Rudie says, "{{Text|You gave a job to the.. rock?}}". It is unknown if [[Dandy]] makes [[Pebble]] work too.
+*When Bobette is inflicted with {{Debuff|ShrinkRig}}, her ring shrinks with her, but the range of which it affects [[Toons]] remains the same.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Holiday Toons]]
+[[Category:Female]]
+[[Category:Christmas Event]]
+[[Category:Toons with Relatives]]
+[[Category:NPC]]

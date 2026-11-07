@@ -1,0 +1,221 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#518EBE,#9FD47E,#3BBE99); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Squirm Render.png|Render
+Squirm Full Render.png|Full Render
+Squirm Icon.png|Icon
+Squirm Introduction Card Artwork.png|Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|2}}
+|stealth={{StatComp|Stealth|2}}
+|extraction_speed={{StatComp|Extract|5}}
+|ability_1={{Center|{{AI|Squirm|name=true}}<br>{{Small|''(Active)''}}}}<br>Hold down your ability to eat books, gaining 100% extraction speed for 10 seconds. Proximity to a bookshelf makes this Toon's cooldown recover twice as fast. Cooldown of 80.
+|requirement_1=50% [[Research]] on {{CI|Twisted Squirm|name=true}}
+|requirement_2=Own 3+ [[Titles]]
+|requirement_3=3000 [[Ichor]]
+|skins=*Default
+*Vintage
+*Spring Quilt
+*Reluctant Rocker
+*Web Weaver
+|gender=Male
+|pronouns=He/Him
+|release_date=02/27/2026
+}}
+
+{{Description}}
+
+{{ToonInfo|type=Single|Toon=Squirm|extra=Book Worm|Date=February 27, 2026|Pronoun=He}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Squirm is a bookworm [[Toon]] with six body segments, which alternates in color between blue and dark mint. He features antennae on top of his head, which are also colored mint. The second segment of his body is shaped like a dewlap, while the third, fourth, and fifth segments of his body have a pair of limbs, specifically two arms and four thick bipedal legs. The final sixth segment is a slightly smaller, curved blob, functioning as a tail. His limbs are a greenish-yellowish color, the same color as the heart shaped part of his face. He also has three spots along both sides of each section, interchanging mint to blue, with the first appearing as freckles, being situated closer to his cheeks. His facial expression consists of droopy eyes, often with a squiggly frown on his face. His design is very caterpillar like, which leads him to believing he is one himself.
+|-|Vintage=
+Vintage Squirm's eyes are pie-cut to the left and his colors are replaced with grayscale hues, with his blue being dark gray, his green-yellow being light gray, his freckles being black, and his other mint colors being a medium gray.
+|-|Spring Quilt=
+Spring Quilt Squirm is recolored from blue to a pastel yellow, mint to a pastel pink, and green-yellow to a lighter butter yellow. A pastel green bow tie featuring a white knot and pair of tails with two rounded ends is positioned below his dewlap. He now wears a light pink flower with five petals and a yellow center on the right of his forehead, while a smaller, reversely colored flower rests on the left of his second layer. He also wears a checkered, light lime and pink quilt on his back, spread with three pink flowers and two yellow ones, varying in size.
+|-|Reluctant Rocker=
+Reluctant Rocker Squirm's blue, dark mint, and lime green hues are respectively swapped out for pistachio green, grayish-teal, and deep blue, with the exception of his heart-shaped face marking, covered in white face paint, and his antennae which are deep blue instead of grayish-teal. The dots on his sides are now triangular, and the first pair is no longer visible, being coated over. He has shiny, bright green eyeshadow and black mascara under his eyes, giving him a pair of visible, sharp eyelashes. There are neon green spikes along his backside, with there being three on his first and fifth segments and one on his tail. On both arms, he wears black bracelets with four spikes similar to the aforementioned ones, as well as a black shirt with a jagged hem and set of sleeves.
+|-|Web Weaver=
+Web Weaver Squirm is a slightly pinkish shade of brown with darker antennae and limbs, a lighter face, third segment, and fifth segment, and an even lighter second layer. The dots on his first and seconds layers are removed, while the remaining are lighter dots with the darker layers and vice versa. He has a fanged frown, and two red bumps on his forehead and on each of his cheeks, with the cheeks' being slightly smaller. He wears a dark brown cape with a red hourglass on it and two spider-like arms that are attached to his real arms by black strings.
+</tabber>
+
+==Personality==
+Squirm can be described as pessimistic, anxious, and openly self-deprecating. He can be seen as immature, though in a much more saddening way, compared to most other Toons' spirited or composed attitudes. He has persistent anxiety which can go as far to the point of even screaming and/or crying if he gets very emotional, expressed by his tendency to sniffle a lot during his elevator interactions with other [[Toons]] and his own dialogues when descending to another [[Floor]]. He's also known to get awkward at moments, like when he gets a hug from {{CI|Goob|name=true}}, or invited to scrapbook with {{CI|Flyte|name=true}}.
+
+As seen by his interaction with {{CI|Shelly|name=true}}, Squirm describes himself as "useless", nearing tears most of the time when he gets even slightly upset and even agrees with {{CI|Shrimpo|name=true}} in their dialogue together when Shrimpo berates him. It's also notable that he has an appetite for books, which could be the reason he is banned from {{CI|Brightney|name=true}}'s book club (mentioned in their dialogue), and also that eating books is his coping mechanism. Squirm is also extremely sensitive, especially to inadvertent insults; shown in his conversation with {{CI|Yatta|name=true}}.
+
+Aside from the surface, he appears to have a crisis involving his identity, as seen in his interaction with {{CI|Flutter|name=true}} and {{CI|Dyle|name=true}}'s [[Gossip]] about him. He sees himself as a caterpillar, with Flutter being implied to agree with this (likely due to her also being an insect from the {{wp|lepidoptera}} order), however he was assigned as a bookworm by {{CI|Arthur|name=true}}, believing that a "bookworm" is a type of worm rather than larvae. Shrimpo additionally insults him for not looking like a worm, which seems to only amplify his identity conflict.
+
+Squirm seems to be hesitant in doing things he's not certain of, this proves to be a fact with his interaction with {{CI|Gigi|name=true}}. Because he is always so tense, Squirm also can overthink things. This proves to be a fact with his dialogues when descending to another Floor, where he tends to think the floors will introduce greater threats and his interaction with {{CI|Looey|name=true}}.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Finish 100 [[Machines]]|Eat from 100 Bookshelves|Survive 30 [[Floors]]|Survive 5 Floors with {{CI|Brightney|name=true}} in your round|Travel 60000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active}}|{{MastStrat|second|Machine}}|{{MastStrat|third and sixth|Meters|3Star|While walking around, don't forget to pass by some bookshelves to do the third task.}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|fifth|Toon in run|{{CI|Brightney|name=true}}}}}}
+
+==Requirement Strategies==
+*For the first requirement, you need to walk under {{CI|Twisted Squirm|name=true}} and get caught by him to obtain [[Research]]. Playing as {{CI|Rodger|name=true}} also helps getting it faster because of his Passive [[Ability]]. This will be easier if Twisted Squirm is on the [[Daily Twisted Board]].
+*For the second requirement, you will need to complete 3 [[Achievements]] and redeem its Medal in order to get its Title. It is recommended to get 3 of any Bronze Achievements as they are the easiest to get.
+*For the third requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+
+==Strategies==
+Squirm is considerably one of the best non-{{Type|Main}} and non-[[Event]] extractors in the game, having 5{{Star}} [[Extraction Speed]] alongside an average 3 Star in [[Skill Check]].
+
+With his Active [[Ability]], {{AI|Squirm|name=true}}, Squirm can be considered the best extractor in the game. His Ability significantly increases the speed he completes a [[Machine]] (doubling his Extraction Speed), making the usual 25.2 second average of Machine completion time go down to an average of 17.53. For the full 10 second duration of his Ability's boost, 30 units of a Machine will be filled. While this makes him the fastest extractor in the game, do note it has a cooldown, hence why a Squirm player should likely stay close to bookshelves around the map, as they make his cooldown deplete twice as fast. This also means he has advantages in certain maps, specifically the [[Library Floor]] or [[Rainbow Rooms]]. However, maps with less bookshelves, especially the [[Diner]] [[Floors]] and [[Sprout's Floor]] (some of the Diner variants and Sprout's Floor have none), can be less beneficial for Squirm. However, do not waste your time finding and idling next to bookshelves if you don't see the need to do so. By default you’d have to idle by a bookshelf for 40 seconds to fully reduce his cooldown, with one/both cooldown reducing cards you’d have to idle for 37.5/35 seconds respectively. Thus, try to stick by bookshelves for only a fraction of that time, unless all other Machines are currently being extracted. Generally, only idle by bookshelves if you are sure your team has a Machine left for you, and even so, Squirm's normal Extraction Speed is still more than fine. It is possible to eat some bookshelves from the side or back, as well as through certain walls, meaning you are able to hide from [[Twisteds]] or distractors while reducing your cooldown.  Also, note that if you just use his Ability right as you go on a Machine, by the time Squirm's Extraction boost wears off, you are most likely done with the Machine, so refrain from using it midway unless you are afflicted with {{Debuff|Confused}} or otherwise hindered extraction-wise.
+
+Squirm's main disadvantages are his Stealth and Stamina, both of which can cause trouble when escaping Twisteds or trying to avoid distractors. Though there aren't many ways to mitigate his Stealth, issues with his Stamina can be dulled with the {{CDI|Well-Paced/Endurance|name=true}} [[Cards]], as well as completing {{CDI|TIME'S UP}}[[Dyle's Floor]], and, though not recommended, using [[Trinkets]] like {{TI|Cooler|name=true}} or {{TI|Speedometer|name=true}}. Though below average, his Statistics are never too big of an issue unless in certain situations, so the best recommendation is to keep notice of where you are going or what dangers are near you in order to be safer. It is also worth noting that winding up his Ability will decrease his [[Movement Speed]] by 50% or half (7.5 Walk Speed/12.5 Run Speed), thus it is important to be cautious with when you wind it up, especially if there are ranged Twisteds or fast Twisteds on the Floor; you'd delay your reaction, which can prevent you from breaking line of sight fast enough to avoid damage or using up excess Stamina.
+
+Good [[Items]] to focus on are those related to mobility. Stamina Items like {{II|Pop|name=false|plural=a}} and {{II|Protein Bar|name=false|plural=a}} especially can help maintain Squirm's below average Stamina, especially since he relies on it quite a bit with his average speed. Movement Speed boosting Items can help with escaping from Twisteds, reducing the need to use his Stamina somewhat. Extraction related Items like {{II|Instructions|name=false}} and {{II|Skill Check Candy|name=false|plural=a}} can make his high extraction even better, especially if they boost Extraction Speed, since that can stack with his Ability. Infact, you can use Instructions as a stand-in for his Ability if it's on cooldown.
+
+Overall, Squirm is a great extractor Toon with little to no downsides, making him a great pick for those who desire to have a great Extraction experience.
+
+===Trinket Combinations===
+{{Preference}}
+Some good [[Trinket]] sets for Squirm include:
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Squirm to outrun all Twisteds but {{CI|Twisted Dyle|name=true}} before [[Panic Mode]] as well as luring them away from teammates {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.2 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted (save for Twisted Dyle) during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not disturb 2{{Star}} [[Stealth]] distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in your team.
+*** '''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Squirm to take full advantage over his 5{{Star}} [[Extraction Speed]] {{Small|(1.5 extraction speed)}} and 3 Star [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check Extraction {{Small|(19.91 avg/17.7 with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, supporting his 5 Star Extraction Speed and stacking with his Ability;
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Sweet Charm|name=true}},''' to reduce {{AI|Squirm|name=true}}'s [[Ability]] cooldown {{Small|(73.6s/36.8s while eating from bookshelves)}};
+**'''{{TI|Ghost Snakes In A Can|name=true}},''' to further reduce '''Distressed Delicacy'''<nowiki/>'s cooldown {{Small|(68.6s/34.3s while eating from bookshelves)}}.
+
+==Dialogues==
+{{Squirm Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Squirm Eating 1 Sound.mp3|left|thumb]]
+|The sound that plays when Squirm uses his {{AI|Squirm|name=true}} [[Ability]] and eating books from the Shelves
+|-
+![[File:Squirm Eating 2 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 3 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 4 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 5 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 6 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 7 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 8 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 9 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 10 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 11 Sound.mp3|left|thumb]]
+|Ditto
+|-
+![[File:Squirm Eating 12 Sound.mp3|left|thumb]]
+|Ditto
+|}
+
+==Trivia==
+*The word Squirm means to wriggle the body side-to-side, referencing Squirm being a worm-like animal.
+**Additionally, in some definitions, the wriggling comes from nervousness, discomfort, or mostly any negative emotions, something that likely references Squirm's distressed personality.
+**The word 'Worm' could be heard when pronouncing Squirm, something that, again, parallels with Squirm being a book worm.
+*Squirm is the first [[Toon]] to be released in 2026.
+*Squirm is the first [[Toon]] to cry in his dialogues, and the first character to do so overall.
+**Although {{CI|Razzle & Dazzle}}[[Dazzle]] appears to be crying, it is more than likely either makeup or a natural part of his appearance.
+*Despite looking like a caterpillar, which is a part of a {{wp|lepidoptera}}'s life cycle, Squirm is in fact a book worm, not related to {{CI|Flutter|name=true}} and {{CI|Flyte|name=true}},<ref>https://discordapp.com/channels/969934252844138496/969934252844138499/1474917227240231046</ref> and is an adult.<ref>https://discordapp.com/channels/969934252844138496/969934252844138499/1474916246809219092</ref> 
+**Interestingly, his {{CI|Twisted Squirm}}[[Twisted Squirm|Twisted counterpart]] can be seen inside of a cocoon, which is the third stage of a lepidoptera's life cycle.
+***The term "book worm" is a metaphor/umbrella term for insects or larva that eat/damage books (or less commonly, wood in general), including certain moth caterpillars. Thus, it is possible that he is in fact a caterpillar, or of a moth specifically.
+**In his interaction with Flutter and {{CI|Dyle|name=true}}'s [[Gossip]] about him, it might be implied Squirm is actually a caterpillar or just believes that he is one, despite being told by [[Arthur]] that he is a book worm, meaning he's probably one in name only.
+*Squirm is the first [[Toon]] to receive their first [[Stickers]] that were not made by [[Qwel]], instead made by [[Ramblesnake]].
+*Squirm is the first [[Toon]] to have an [[Ability]] that can affect and interact with a decoration on some [[Floors]].
+*Squirm used to be in {{CI|Brightney|name=true}}'s book club, but was likely kicked for eating books. Brightney catching him at the library as shown on the thumbnail and reveal video is what was implied to have lead to this.
+**However, they seem to still be on good terms, and Brightney tries to help him manage his stress and compulsive book eating.
+*Squirm appears to be good friends with [[Flutter]], who he spends time with and who agrees with his identity as a caterpillar rather than a bookworm. He’s also friends with [[Dazzle]] (and possibly Razzle), who he finds comfort in being around and wants to "catch up" with after his banning from the book club, missing their time spent together. [[Flyte]] also appears to be good friends with him, as they act very friendly towards eachother, and Flyte suggests scrapbooking with him.
+*Squirm can eat one of six books when using his [[Ability]], five being based on a {{Type|Main}} and one being based on {{CI|Dandy|name=true}}. These books are {{CI|Astro|name=true}} Bedtime Stories, Dandy Stories, {{CI|Pebble}}[[Pebble|Pet Rock]] Care Guide, {{CI|Shelly}}[[Shelly|Fossils]], {{CI|Sprout}}[[Sprout|Cook Book]], and {{CI|Vee|name=true}}-[[Vee-Mail|Mail]] Console. There's also an additional book that's simply named "Squirm".
+**In the [[Lobby]] and [[Roleplay Mode]], the book model uses a unique texture, being a lavender book with a light blue spine, and a drawing of Squirm on it with his name underneath.
+*Squirm is the second [[Toon]] to have 6 limbs, the first being [[Astro]].
+**Contrasting Astro's 4 arms and 2 legs, Squirm has 4 legs and 2 arms.
+*Squirm is the first [[Toon]] who can decrease the cooldown time of their [[Ability]] without the need of [[Trinkets]] or [[Cards]].
+*Squirm is the second [[Toon]] with an Active [[Ability]] that requires a wind-up period before it is activated, the first being {{CI|Ginger|name=true}}.
+**However, Squirm is the first Toon whose Ability was always this way, as Ginger's Ability was reworked in [[Changelog|v0.14.1]].
+**Squirm is also the first Toon whose wind-up prerequisite Ability doesn't require [[Tapes]] to work and only affects himself instead of others.
+*It is implied Squirm is very stressed likely caused by an identity crisis as hinted in Dyle's [[Gossip]] on him. His stress is also shown with his {{TI|Stress Ball|name=true}} [[Trinket]] being burst open due to the amount stress Squirm is under, stress-eating books as seen in multiple interactions, and in his dialogue and interactions, he has a negativity bias and thinks of what else could go wrong and thinks of the worst possible outcome.
+**That, his book obsession, Gardenview shutting down, eating other people's books and being kicked out of the Book Club likely just amplified his stress.
+*On his release, Squirm had 30% [[Skill Check]] Chance and 135 Skill Check Size.<ref>[[File:Squirm_Stats_v16.6.jpeg|200px]]<br>'''NOTE:''' Skill Check chance and size was modified with {{TI|Participation Award|name=true}}, hence why it's 55% Skill Check chance. Also, this was during a time where the 10% size decrease wasn't working for Participation Award, hence the 135 couldn't come from Participation Award</ref> Somewhere after his release, his Skill Check Chance was changed back to 25%.
+**A similar bug has happened with {{CI|Yatta|name=true}}, who had 20% Skill Check Chance upon release, [[Bassie]], who had 150 Skill Check Size, and {{CI|Shrimpo|name=true}}, who had 50% Skill Check Chance, all upon their initial release.
+*Squirm is the only one of the 4 recent base-toons ({{CI|Blot|name=true}}, {{CI|Brusha|name=true}}, and {{CI|Waxwell|name=true}}) that has at least one dialogue with all the other base-toons since his release.
+*Squirm is the eighth non-[[Main Character]] [[Toon]] to have 5{{Star}} on a stat.
+*Squirm is the fourth [[Toon]] to be released by himself.
+*Squirm is the first [[Toon]] to have 2 [[Floor]] Dialogues, with one on the [[Library Floor]] in his Jr. Reading Nook area, and the other being in the [[Gift Shop]] in the Trading Card area.
+*On the texture of the book pages when Squirm is eating a book or a bookshelf, the pages are all the same, and seem to be a poem from the game called "STILL GOING", which reads:
+**"The caterpillar was always late. When it tried to climb, it fell. When it dreamed of flying, someone laughed. While the others moved on, it stayed behind, thinking it was made wrong. One day it built its cocoon. It broke. Like everything else. But from the ground, for the first time, no one was looking down on it. When it came out, it didn't fly high. Or beautifully. But it kept going. And for it, that was enough."
+**The poem seems to be about how Squirm became a [[Twisted Squirm|Twisted]] with no one looking down on him, since he is on the ceiling, how Twisted Squirm is in a broken cocoon, wasn't given the ability to fly, and did not become "beautiful" after he came out.
+***It is possible Squirm tried to form a cocoon at some point, but likely got attacked by another Twisted or some other means, which caused him to turn twisted.
+*Squirm's favorite pie is apple pie, as mentioned in his interaction with [[Sprout]].
+*If you haven't redeemed a title in the [[Journal]] yet and go to the Titles section, there will be a sticky note reading "Did Squirm eat them?".<ref>[[File:Titles Page.png|250px]]</ref>
+*Squirm is the third [[Toon]] to be an insect, the first being [[Flutter]], and the second being [[Flyte]].
+**He is the only one who doesn't have the letter "F" in the start of his name. This is because Flutter and Flyte's names relate to how a butterfly flies, as well as referencing a group (a group of butterflies is called both a "flutter" and a "flight"), whilst Squirm's name refers to a motion that caterpillars generally do.
+**Coincidentally, they are all a member of {{wp|lepidoptera}}.
+*Squirm is the first [[Toon]] to have an [[Achievement]] dedicated to them, that being {{TTI|Fine Dining|name=true}}.
+*Squirm is the first and currently only [[Toon]] to have the letter Q in their name.
+*Weirdly, when you put Squirm next to a bookshelf and he starts eating, the texture of the bookshelf makes it seem as though he ate the spines of the bookshelf makes, rather than eating one whole book at a time like in his [[Ability]] animation.
+*Squirm and [[Yatta]] share some similarities.
+**They have almost the same [[Stat]] spread, only Squirm has lower Movement Speed and higher Stamina.
+**They have an [[Ability]] that gives a boost (Yatta's candies do this indirectly), relates to extracting, and technically interacts with the map around them (Yatta's candies spawn around her when she finishes a [[Machine]] or gets attacked, and Squirm eats bookshelves to lower his cooldown).
+**They were the first base-game Toons to release in their respective years.
+**They had incorrect Skill Checks values on release.
+**They cost a large amount of {{TI|Ichor|name=true}}, need 50% on their [[Twisted]] counterparts, and require you to own something.
+***Ironically, their personalities contrast, with Yatta being hyper and positive, while Squirm is more distressed and negative.
+*For some reason, Squirm's [[Ability]] gives 5 {{TI|Tapes|name=true}} every time the Ability is used successfully, instead of the usual 3 on the first use of the Floor. This means that Squirm can basically farm Tapes very easily by earning 5 every 40-80 seconds.
+*Squirm is the third [[Toon]] with an atypical body shape (not default, chubby, or slim), the first being [[Pebble]], and the second being {{CI|Coal|name=true}}.
+*When eating from a bookshelf while having {{Debuff|Ignited}}, Squirm's cooldown will speed up by 4x instead of 2x, with the graphic also showing "x4".
+*Squirm and {{CI|Waxwell|name=true}} have some similarities.
+**They have new letters no other [[Toons]] have in their name.
+**They both frequently show negative emotions, with Waxwell being "malice" and Squirm being distressed.
+**They have 5 Stars on an Extracting [[Stat]].
+**Their Twisteds are '''{{Type|Rare}}'''s.
+**Both require 50% [[Research]] of their Twisted counterparts to obtain.
+**They both have 2 Stars in [[Stealth]].
+**They were released in 2026.
+**They have the ability to speed up an [[Ability]]'s cooldown by 2 times.
+**They had prior teasers that showed a vague sense of what they were (Squirm's silhouette and Waxwell's candlewick), before getting a short that fully revealed them a few days before their releases.
+*Weirdly, all [[Ability]] warning messages (like being in cooldown or in the [[Elevator]]) are displayed similarly to [[Research]] text for Squirm rather than the regular text next to the Ability button.
+<!-- *Squirm is the second [[Toon]] to get a [[Skin]] in all 3 [[Events]] ([[Easter]], [[Halloween]], and [[Christmas]]) and his first [[Dyle's Store]] Skin in the span of one year (2026), the first being {{CI|Connie|name=true}}. -->
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

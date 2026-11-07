@@ -1,0 +1,286 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#ff767e,#e63641,#92e39f); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Long}}{{TOTW}}
+{{Toons
+|title1=Sprout Seedly
+|image1=<gallery>
+Sprout Render.png|Render
+Sprout Full Render.png|Full Render
+Sprout Render Old.png|Old Render
+Sprout Full Render Old.png|Old Full Render
+Sprout Icon.png|Icon
+Sprout Full Icon.png|Full Icon
+Sprout TOTW Art.png|TOTW Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|5}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|2}}
+|ability_1={{Center|{{AI|Sprout|name=true}}<br>{{Small|''(Active)''}}}}<br>This [[Toon]] can heal a targeted Toon by 1 [[Heart]] at the cost of 100 {{Tape|name=true}}. Has a cooldown of 100. Tape cost scales with the number of Sprouts in the round.
+|ability_2={{Center|'''Overprotective'''<br>{{Small|''(Passive)''}}}}<br>This Toon can see where all the other alive Toons are, along with their current Health status.
+|requirement_1=4500 {{II|Ichor|name=true}}
+|requirement_2=100% [[Research]] on {{CI|Twisted Sprout|name=true}}
+|requirement_3=Complete all [[Mastery]] Quests on {{CI|Cosmo|name=true}}
+|skins=*Default
+*Vintage
+*Salted Caramel
+*Star-Time
+*ChocoBerry
+*Berry Beast
+*Sugary Shortcake
+*Tasty Carrot
+*Chef Sprout
+*Golden Berry
+*Tenderheart Bear
+|gender=Male
+|pronouns=He/Him
+|designation=M-003
+|release_date=08/14/2024
+}}
+
+{{DialogueQuote|Sprout|<choose uncached><option>Three, two, one, DING! A perfect complete machine!</option><option>Did I remember to turn off the oven? Hope so!</option><option>Fresh out of the oven!</option></choose>|One of Sprout's various dialogues}}
+
+{{ToonInfo|type=Main|Toon=Sprout|extra=Seedly|Date=August 14, 2024|with={{CI|Cosmo|name=true}}, {{CI|Finn|name=true}}, and {{CI|Glisten|name=true}}|Pronoun=He}}
+
+==Appearance==
+Sprout is a tall strawberry who wears solely a white scarf with thin pink stripes wrapped around his neck and draped over his back. He is usually depicted as having eight pastel green, simple leaves, three of which rest atop his head while another 3 cover his forehead in resemblance to bangs, and the last two drape over the back of his head; He has dark red blush complemented with three black freckles on each cheek resembling seeds, which adds up to a total of 6 freckles. His limbs are a reddish pink color, being lighter than his torso and head.
+
+==Personality==
+Sprout is a straightforward, overprotective, and pragmatic [[Toon]], as shown in his Passive [[Ability]], being coined as "Overprotective". He often brings up {{CI|Cosmo|name=true}} in his interactions, due to the latter's status as his best friend, and both have an interest in baking and cooking.
+
+However, unlike Cosmo, he doesn't fall for tricks as easily, as shown in his encounter with {{CI|Gigi|name=true}}, and may also be pushy, but with good intentions. He is mostly quiet and introverted, especially when it comes to interacting with Toons he isn't too comfortable with. Sprout's more open and excitable to the Toons he is closer with, like when he is with Cosmo or {{CI|Ginger|name=true}}. Because of this, Sprout is not the best Toon at socializing, shown in the interaction with {{CI|Vee|name=true}}. He assures if she's okay, but inadvertently points out one of her insecurities. This can also be shown in other conversations.
+
+Though he isn't as gullible, he seems to be clumsy or forgetful sometimes, as seen in a TV recording where he leaves the oven unattended, causing a fire that {{CI|Sam|name=true}} then hurriedly puts out. Mentioned in a log on one of the [[Warehouse]] [[Floors]], this seemed to happen frequently, as Sam said they are always busy watching him to make sure nothing burns down. This seems to be reflected in his descending dialogue, as he may say "Did I remember to turn off the oven? Hope so!".
+
+Sprout's bluntness and no-nonsense attitude may make him come off as stern at times, despite his soft appearance. But at his core, he is very protective and caring, if a bit overbearing towards the other Toons. In multiple instances, he always looks out for their well-being, such as in his dialogue with {{CI|Looey|name=true}}, firmly reassuring him that he is "never a waste of anything." This care is particularly potent with his best friend Cosmo, with Sprout going so far as becoming mad when {{CI|Shrimpo|name=true}} states that he hates Cosmo's cooking. According to his interactions with {{CI|Squirm|name=true}}, he seems to have kindness towards the insecure toons, telling him that he would bake an apple pie for him. Sometimes he even appears to panic at the thought of any Toons being in a perceived peril, as shown when {{CI|Poppy|name=true}} yells out his name, causing him to immediately ask if she's okay. This however doesn't prevent him from teasing his fellow Toons, pushing it too far in the cases of {{CI|Vee|name=true}} and {{CI|Glisten|name=true}}.
+
+Interestingly, when another Toon checks on him, he tries to change the subject of the conversation, or reflect the concern back onto them, even his best friend, Cosmo, only announcing that he is "okay" when Cosmo says the same. He also shrugs off help, such as when {{CI|Goob|name=true}} offers to carry him.
+
+Sprout has a deep and clingy attachment to Cosmo, likely stemming from his existential crisis due to having false memories of the show, and false memories of Cosmo, who, along with the other side characters, wasn't created until a while after the Main Characters were. Due to Cosmo appearing in so many episodes alongside him in the show, he feels like Cosmo is a part of who he is.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active Ability 50 times|Survive 75 [[Floors]]|Pick up 85 [[Items]]|Survive 15 Floors with 4 other Players in your round|Survive 30 Floors with {{CI|Cosmo|name=true}} in your round|Travel 150000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|+60|You could also ask someone to repeatedly lose {{Heart}}, and then heal them afterwards. This, however, will require you to collect many {{Tape|name=true}}, so also try to collect [[Items]] and use them, as they'll increase your Tape count. This will also assist with the third task.}}|{{MastStrat|second|Reach/do floors}}|{{MastStrat|third|Collect and use}}|{{MastStrat|fourth and fifth|Play with Toons||You could also ask someone in your team to play as {{CI|Cosmo|name=true}}, which will likely lengthen the team's survivability due to the amount of healers and also help with the fifth task.}}|{{MastStrat|sixth|Meters}}}}
+
+==[[Toon of the Week]] Quests==
+{{TOTWQuests|Encounter {{CI|Twisted Sprout|name=true}} 3 times.|Complete [[Floor]] 10 as Sprout or with at least 1 Sprout in your run.|Activate the {{TI|Savory Charm|name=true}} [[Trinket]] on [[Floor]] 10 or higher.}}
+
+===Rewards===
+*1 Quest completed: {{AT|Sprout Fan}} [[Title]]
+*2 Quests completed: {{SI|Golden Sprout!|name=true}} [[Sticker]]
+*3 Quests completed: {{Skin|Golden Berry|toon=Sprout}} [[Skin]]
+
+===Strategies===
+*Play until you reach [[Floor]] 5 then restart multiple times or try to get as far as you can until you encounter {{CI|Twisted Sprout|name=true}} 3 times in a single run. This is easier by doing an organized Run or on days where Twisted Sprout is on the [[Daily Twisted Board]].
+*You don't have to play as Sprout in order to do this quest. As long as you have at least one Sprout on your team, and complete [[Floor]] 10, you should be able to do it. This may be easier with other healer Toons, as Sprout cannot heal himself with his Ability.
+*You don't have to play as Sprout in order to do this quest. As long as you have the {{TI|Savory Charm|name=true}} equipped, and activate it when you reach [[Floor]] 10, you should be able to do it. Try to stock up on [[Health|Healing]] [[Items]] or play as {{CI|Teagan|name=true}} to ensure you don't get to one heart before Floor 10.
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Sprout|name=true}} to the elevator or seek him out so you can get 5% aggro Research. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Sprout is on the [[Daily Twisted Board]].
+*For the third requirement, play as {{CI|Cosmo|name=true}} and try to complete his [[Mastery]] Quests by going on multiple runs. It is recommended to go on an organized Run or do specific quests in certain runs.
+
+==Strategies==
+Sprout is a great supporter and a superb [[Toon]] for many types of runs. His mobility is above average: with 4{{Star}} Movement Speed and 5 Star Stamina, the highest in the game tied with {{CI|Blot|name=true}}. Sprout makes for a very capable distractor. The only real downside to playing Sprout is his low Extractability (2 Stars for both Extraction Speed and Skill Check), but this can be mitigated with [[Trinkets]] such as {{TI|Vee's Remote|name=true}} or {{TI|Stress Ball|name=true}}.
+
+If you have other distractors in your lobby, such as {{CI|Pebble|name=true}} or {{CI|Flutter|name=true}}, it's suggested to allow them to fill up that role instead. The reason Sprout's utility overshadows his use as a distractor is his Active [[Ability]], {{AI|Sprout|name=true}}, which allows Sprout to heal any other hurt Toon in range for 1{{Heart}} at the cost of 100 {{Tape|name=true}}. It can still complement his role as a distractor by also allowing him to heal Toons in an emergency situation. This will be a lifesaver for your teammates. So, while distracting is a great use of Sprout's talents, scavenging for Tapes and [[Items]] instead is very helpful to heal other players in your team. Additionally, if a {{CI|Bassie|name=true}} is in the team, she can help Sprout search for Items before dropping them with her Ability. This makes Sprout better-applied as a backup distractor than the main one despite his excellent stats. He can still contribute outside of distracting by extracting [[Treadmill Machines]] rather efficiently and working with others on Duo Machines.
+
+Since Tapes may be hard to come by, it's suggested to prioritize healing distractors, healers, and Toons on one heart—otherwise, save around 200 Tapes for emergencies unless the [[Floor]] is particularly dangerous and you're concerned for your teammates. Having multiple Sprouts in the same run is inefficient, as the Ability cost increases by 50 Tapes per Sprout in your party. Additionally, there is a global healing cooldown of 30s that will interfere with other Sprouts' gameplay.
+
+Do note that his Ability is not the most efficient method of Healing. Healing Items like {{II|Health Kit|name=true|plural=a}} can heal for Sprout at the same price or less, and {{II|Bandage|name=false}}s for nearly half. Due to Sprout's value, try to save some Tapes in case a Bandage appears in [[Dandy's Elevator Shop]], since if one does, your teammates will also have a chance to buy it, making the loss of Tapes less risky. Having enough Tapes at all times for a possible heal in Dandy's Shop or to heal someone else is important. Because of this, it may be wise to ensure that other players have around 80 Tapes at the beginning of a run before Sprout takes them all, so that all players would be able to buy any heals or useful Items that come along. As Sprout cannot heal himself without bandages/health kits or a {{CI|Cosmo|name=true}} present, it's understandable to pursue any type of healing he can get.
+
+Sprout works well with Cosmo, as the latter's higher Stealth stat + shorter cooldown can allow him to deliver Hearts more easily to those in peril. Sprout can 'reimburse' him for any Hearts lost, and he can in turn give Hearts to Sprout, making their teamwork very effective. If {{CI|Teagan|name=true}} is in the party it allows Sprout to have one less Toon to worry about, making resources easier to manage for the others, but Tape division could be a hurdle. This may not be a huge issue though, considering Teagan only needs 75 Tapes to heal herself, which is just 15 more than a Bandage.
+
+Another great pairing is Sprout and {{CI|Cocoa|name=true}}. Cocoa can drop BonBons for Sprout, which is equivalent to 5 Tapes, essentially giving 5 Tapes every 21.8-40 seconds depending on the Trinkets and Cards. Even though this isn't extremely effective, it can be very helpful if other teammates are taking Tapes and not letting you do the Machines.
+
+Sprout's pairing with Bassie is also an excellent option. Bassie's ability to drop items can help Sprout gain Tapes more efficiently, especially if she buys more common Items from Dandy's Shop, practically buying Tapes for him. However, if Bassie's inventory is filled with rare items or healing items on later Floors, it is not a reliable option for long runs. Nonetheless, it can be a good boost early on.
+
+Sprout can also make a good team with {{CI|Yatta|name=true}} as she can drop Items from completing Machines for Sprout to use for Tapes. This strategy reaches its full potential with rarer drops like {{II|Jawbreaker|name=false}}s or in smaller runs where less people take the dropped Items. It allows an infinite supply of Tapes, as long as the Yatta completes Machines. She also drops more Items when being hit, but it is discouraged to ask them to get hit so you can earn more Tapes, unless they wish to use up a heal. Although the {{II|Box o' Chocolates|name=false}} she drops can also be used to earn 8 Tapes, it is recommended to leave them for your team due to Sprout's already high mobility.
+
+Sprout's Passive Ability, '''Overprotective''', shows you how many hearts a Toon has and where each of them are. This is great for locating injured Toons and determining which of them need healing the most. However, this can be used for more than tracking hearts.
+#'''Optimizing routes.''' While distracting, it can be used to change your route on a dime without running as much risk of running into teammates. It will also let you know if any damaged teammates are drawing near so you can initiate emergency maneuvers ahead of time. This can help you roam and collect Tapes while distracting (though caution should still be taken).
+#'''Tracking Movement for clues.''' Noticing if a certain heart keeps running in circles or is stagnating in a specific location can clue you in that, that Toon is either distracting a [[Twisted]] in the former's case or could be working on a Machine for the latter. If there's no backup distractor and you notice a teammate has been distracting for a while, it could be a good idea to run over and relieve them. This can also help you identify those who are AFK.
+#'''Seeing how many people are at the [[Elevator]].''' Sprout excels at finishing the last Machine even at a distance due to this trait and his superior Movement Stats. It only takes a quick glance to see if most Toons have made it, which has the potential to save you from popping the Machine too early and a chance to put them in danger. If you notice Hearts that are very far from the Elevator, ensure they're okay before initiating [[Panic Mode]].
+#'''Monitoring individuals.''' Since a different graphic is used when at full Hearts, partial Health, and one Heart, respectively, if only one of your teammates is at a certain Heart level it's possible to track them specifically. The best use cases for this tactic are when {{CI|Shrimpo|name=true}} is in your party, a Looey at one heart is distracting, or your party is very small, but despite being a niche tool, this advantage can be helpful.
+#'''Reporting danger.''' If a teammate dies or is critically injured, a keen-eyed Sprout might be the first to realize who and where it was. Using clues from tracking Movement and individual monitoring, it can easily become evident if a distractor dies or switches locations. This information can be crucial and is not always reported, so do your best to keep your team updated. Letting any Cosmos or Gingers know about important changes can save your teammates even if your own Ability/Stamina is recharging.
+As stated before, Sprout should mainly focus on finding/gaining Tapes to achieve multiple heals in a run, which can be mainly done by: 
+*Scavenging for and using Items on the ground (preferably Common/Uncommon Items)
+*Some recommended Items to use to grind Tapes include common Items like a {{II|Stealth Candy|name=false}} or {{II|Gumballs|name=false}}, or Items that speed Machine completion like {{II|Skill Check Candy}}Skill Check Candies, {{II|Jumper Cable|name=false}}s, or {{II|Instructions|name=false}}. However, during Panic Mode, it's safe to use any Items your teammates have left behind for Tapes.
+
+Alongside Sprout's Passive Ability being helpful for reporting danger, if there are no Cosmos or Gingers in the current team, but there's a Bassie, it's better to alert them who needs healing as they can carry heals for heal storing for future Floors where the team gets hurt.
+
+There are many ways Sprout is able to get Tapes:
+*Encountering Twisteds;
+*Completing Machines;
+*Using {{CDI|Penny Pincher/Spare Change|name=true}} cards:
+**Using {{CDI|Blind Grab/Lost and Found|name=false}} and {{CDI|Avaricious/Covetous|name=false}} Cards are also slightly more advantageous for Sprout.
+*Using [[Items]], especially rarer ones.
+{{CI|Ginger|name=true}}, however, is really similar to Sprout, with her Ability being more potent and having average extraction potential at the cost of having low mobility and hurdles in the healing process. If you are playing in a team that can withstand 1 Heart Heals ({{Type|Main}} Toons or a distracting {{CI|Looey|name=true}}) or might need a backup distractor, Sprout would be a better pick, while if the team can handle distracting but are short some extractors and Healers and would be kind enough to help you, Ginger would be good.
+
+Overall, Sprout is really good at on-field healing thanks to his mobility. He can respond to injuries very quickly due to his Passive notifying him. He act somewhat like an ambulance and paramedic in comparison to the other healers.
+
+===Trinket Combinations===
+{{Preference}}
+Here below are some [[Trinket]] combinations that Sprout can use:
+
+====Distraction====
+*'''{{TI|Dog Plush|name=true}}/{{TI|Speedy Shoes|name=true}}'''
+**The current meta distractor set. Sprout will outwalk fast Twisteds and gain the ability to loop {{CI|Twisted Pebble|name=true}} {{Small|(20.2 walk speed)}}.
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket unlocks the role of distractor to the holder {{Small|(19.3 Walk Speed)}}. Here are some options to pair Dog Plush with;
+***'''{{TI|Dandy Plush|name=true}}''', to be able to buy healing and other useful Items without sacrificing too many {{Tape|name=true}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to be able to be faster {{Small|(21 walk speed)}}, though this only works half the time;
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Bone|name=true}}''', to help quickly scout for Items at the start of a new floor and allow you to collect Items faster;
+***'''{{TI|Diary|name=true}}''', to be able to pass through distractors like {{CI|Pebble|name=true}} without getting harmed;
+****Only use this Trinket combination if your distractor has 3 Star Stealth.
+***'''{{TI|Scrapbook|name=true}}''', to take aggro more easily from 3 {{Star}} Stealth Toons;
+****Only use this Trinket combo if most of the players in your run have 3 Star [[Stealth]].
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his high Stamina and slow extraction;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Sprout to take full advantage over his 2{{Star}} [[Extraction Speed]] {{Small|(0.85 extraction speed)}} and [[Skill Check]] {{Small|(67 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote, and better {{Tape|name=true}} collection;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1 Star Window Size {{Small|(29.8 avg/27.21 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Distraction/Mobility''' section, to help with distraction or just mobility in general
+
+====Ability/Support====
+*'''{{TI|Sweet Charm|name=true}}''', to reduce {{AI|Sprout|name=true}}'s [[Ability]] cooldown {{Small|(92s)}}.
+**'''{{TI|Ghost Snakes In A Can|name=true}}''', to further reduce '''Baked Sweets'''<nowiki/>'s cooldown, though only by a small amount as the Trinket works with units {{Small|(87s)}}.
+
+'''Note: It isn't recommended to use {{II|Tape|name=true}}-providing Trinkets such as {{TI|Fancy Purse|name=true}} as it only provides enough for one heal, but can be useful if a teammate takes a hit on earlier floors before you have 100 Tapes. You can also use it to buy a heal from [[Dandy's Store]] should it appear, as you cannot heal yourself. Although this Trinket can be used, it is highly recommended to use a Trinket from the Mobility or Extraction sections as the Fancy Purse's effect is one-time use. Additionally, it is also unrecommended to use {{TI|Moon Pack Heirloom|name=true}} on Sprout as his Passive already highlights teammates.'''
+
+==Dialogues==
+{{Sprout Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+![[File:Activate_Healing_Sound.mp3|left|thumb]]
+|The sound that plays when Sprout activates his {{AI|Sprout|name=true}} [[ability]]
+|-
+![[File:Healing_Sound.mp3|left|thumb]]
+|The sound that plays when a Toon receives Sprout's {{AI|Sprout|name=true}} [[ability]]
+|-
+![[File:Sprouttalk.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Sprout's head
+|}
+
+==Trivia==
+*Sprout's [[Toon Handler]] is {{CI|Sam Mclaughlin|name=true}}. 
+**Sprout's Toon Handler is confirmed by [[Qwelver]] to be non-binary. He is the only {{Type|Main}} to not share the same gender as his Toon Handler.
+*Sprout is {{CI|Cosmo|name=true}}'s best friend, as confirmed in various dialogues with Sprout mentioning Cosmo.
+**They have matching bracelets for [[Trinkets]], those being {{TI|Sweet Charm|name=true}} and {{TI|Savory Charm|name=true}}.
+**They have many matching [[Skins]], such as {{Skin|Caramel Drizzle Cosmo}} & {{Skin|Salted Caramel Sprout}} and {{Skin|Berry Roll Cosmo}} & {{Skin|ChocoBerry Sprout}}.
+**Cosmo and Sprout's corresponding [[Twisteds]] also have similar [[Ichor]] patterns; Cosmo only has Ichor on his right arm and eye, while Sprout has Ichor everywhere except his right arm and eye.
+**Their [[Abilities]] heal a [[Toon]] by 1{{Heart}}.
+**They share similar hobbies: baking/cooking.
+**Additionally, both of them are based of foods and are the second Toons to be so, with the first being {{CI|Shrimpo|name=true}}, the third being {{CI|Ginger|name=true}}, the fourth being {{CI|Eggson|name=true}} and {{CI|Cocoa|name=true}}, and the fifth being {{CI|Gourdy|name=true}}.
+**They were optimized on the same [[Update]].
+***Sprout and [[Cosmo]] are the first [[Toons]] that were not released in [[Changelog|v0.1]] to receive an optimized model.
+****Additionally, Sprout is the third base game [[Main Character]] Toon to receive an optimized model, with the first being {{CI|Pebble|name=true}}, the second being {{CI|Vee|name=true}}, and the fourth being {{CI|Astro|name=true}} and {{CI|Shelly|name=true}}.
+*****Sprout is the first non-Release Main Character to get optimized.
+****Sprout is the fifth Main Character Toon (in general) to have an optimized model.
+**{{CI|Twisted Sprout|name=true}} can be heard saying Cosmo's name when he sees a player or loses interest. He also occasionally follows {{CI|Twisted Cosmo|name=true}} if he is on the current floor.
+*According to one of the lore videos in [[Sprout's Floor]], Sprout had an idea and knew what [[Cosmo]]'s appearance and personality was, but Cosmo wasn't created or made at that time, which caused Sprout to beg for [[Delilah]] to make Cosmo real.
+*Sprout's experiment name is M-003, with the '''M''' standing most likely for {{Type|Main}}.
+*Sprout is the last base-game [[Main Character]] to be released.
+*Sprout is said to be overprotective with his friends, made obvious by his Passive [[Ability]] and his interactions with other [[Toons]].
+*Sprout's full name was announced in the Halloween 2024 stream, which is '''Sprout Seedly'''.
+**Sprout is shameful of his last name, as said by [[Qwelver]] in the same stream<ref>https://www.youtube.com/live/XaSI55o0P5o?t=4329</ref>. This is further proven in his interaction with {{CI|Gourdy|name=true}}, where the former suggests the latter call him by his first name due to his disliking of it.
+*If there is more than one Sprout in a round, the price for Sprout's {{AI|Sprout|name=true}} [[Ability]] increases by 50 {{Tape|name=true}} and the cooldown increases by 30 seconds per Sprout.
+**This means that, in a game with 7 other Sprouts, '''Baked Sweets''' will cost 450 Tapes and its cooldown will be 310 seconds.
+**On release, however, Sprout's cooldown and Tape count didn't increase depending on how many other Sprouts were present.
+**The same happens to [[Ginger]]'s {{AI|Ginger}}'''Baked with Care!''' Ability.
+*Prior to his optimization, Sprout's cupcakes matched his [[Skins]]' color scheme, with the wrapper alike his scarf's design, the frosting matching his limbs' color, and the sprinkles colored like his head and torso.
+**His [[Star-Time]] Skin was the only skin that changed the cupcake, albeit not in the same way as the other skins, with the frosting colored cyan and the sprinkles colored yellow, instead of a cyan-white gradient, although the wrapper had his scarf's design.
+*Sprout seems to tend to forget to turn off the oven when he bakes, based on one of his dialogues when descending the [[Elevator]] and the TV animation of him and [[Cosmo]] baking.
+**This is also shown in a sketch by [[Qwelver]], showing Cosmo, Sprout and their [[Twisted]] counterparts.
+*Sprout, alongside {{CI|Scraps|name=true}}, {{CI|Bobette|name=true}}, and {{CI|Blot|name=true}} have the greatest Stamina value—200 Stamina units.
+*Sprout is one of the [[Toons]] that has an official [[Merchandise]] plush as of now, with the others being [[Astro]], {{CI|Boxten|name=true}}, {{CI|Dandy|name=true}}, {{CI|Poppy|name=true}}, [[Pebble]], [[Shelly]], [[Vee]], [[Gourdy]], {{CI|Bassie|name=true}}, [[Cocoa]], {{CI|Dyle|name=true}}, {{CI|Goob|name=true}}, and [[Cosmo]].
+*As said by [[Qwel]] during the 2025 New Year stream, Sprout likes to occasionally style his leaves, yet it remains the same as it originally is.
+*Sprout is currently the only [[Toon]] to intimidate {{CI|Shrimpo|name=true}}]] and shut down his angry behavior, due to the latter trying to state he hated [[Cosmo]]'s cooking. The exact reason how though remains unknown.
+**He is therefore one of the only Toons to be genuinely angry towards him, though it is most likely more of an annoyed expression, due to the lack of actual aggression, implying that Sprout must have been in a previous conflict with Shrimpo before.
+**According to him, Shrimpo has been eating their cooking despite hating it.
+*Up until [[Changelog|v0.8.1]], Sprout was the tallest [[Toon]] in-game before being beaten by {{CI|Flyte|name=true}}.
+**However, Sprout is still the tallest [[Main Character]] Toon in the game.
+**This might reflect his [[Twisted Sprout|Twisted counterpart]] being the tallest [[Twisted]] in the game.
+*Sprout is the fourth [[Toon]] with their [[Sprout's Floor|own map]], as well as the last one to currently have a [[Floor]] solely themed after them.
+**His was the first and only one to not spawn after Floor 15, instead spawning after Floor 11 and so on, before the Floor spawning mechanics were modified.
+*Sprout and [[Blot]] share some similarities.
+**They are both male.
+**They share almost the same [[Stats]], with Blot only having one less {{Star}} on Skill Check.
+***They consequently both have 5 Stars in Stamina (200 stamina).
+**Both their Active [[Abilities]] cost [[Tapes]], can help someone (Sprout's heals and Blot's attracts [[Twisteds]]), and have 3D models for them (Sprout's cupcake and Blot's {{CI|Blot Jr.|name=true}}).
+**Both their Twisted counterparts summon black traps that, if approached, could damage you.
+***However, [[Twisted Sprout]] isn't stationary while {{CI|Twisted Blot|name=true}} is.
+***Additionally, both them and their Twisted counterparts appear in separate thumbnails.
+**They both have 2 interactions with [[Astro]], [[Cosmo]], {{CI|Glisten|name=true}}, [[Shelly]], and [[Vee]].
+**For all of their similarities, Sprout is the first, with the second being Blot.
+*Sprout and [[Teagan]] were tied for having the most expensive [[Ability]], until Teagan's Ability was reduced to 75 [[Tapes]], making Sprout have the most expensive Ability.
+**This may have happened as healing for the team is much more important than self-healing and therefore should be costlier.
+**With [[Ginger]]'s Ability rework, she ties with Sprout.
+*Sprout is the second [[Toon]], alongside [[Pebble]], to have both themselves and their {{CI|Twisted Sprout}}[[Twisted Sprout|Twisted counterpart]] be in a thumbnail, being the [[Changelog|v0.4.0]] and v0.14 thumbnails.
+*After [[Changelog|v0.11]], there was a brief moment where Sprout's Vintage [[Skin]] was accidentally put up for sale in [[Dyle's Store]].
+**If someone bought the Skin in that time period, they would have still have it, even after it got removed from the shop.
+**This quickly got patched and everyone who bought the Skin got it removed from their inventory and had their {{TI|Ichor|name=true}} refunded.
+*Sprout is the second [[Toon]] to have both their Toon and [[Twisted Sprout|Twisted counterpart]] appear in the game's thumbnail, along with [[Pebble]], with the first being {{CI|Razzle & Dazzle|name=true}} & [[Blot]], the third being [[Shelly]], the fourth being [[Gourdy]], the fifth being [[Coal]], and the sixth being {{CI|Bassie|name=true}}.
+*Sprout is inferred to be left-handed, as seen in his idle animation.
+*There is an error in Sprout's (and [[Cosmo]]'s) "Team work" [[Sticker]] where his arms are the same color as his body instead of light red.
+*Sprout's [[Savory Charm]] from his idle animation is stored in his body, only taken out when the idle is used.
+**This is the same case with other [[Toons]] that carry Items with their model for a certain animation, though Sprout and [[Cosmo]]'s (with the [[Sweet Charm]]) cases are the only ones where a [[Trinket]] is shown during an idle animation. 
+*Sprout is the second [[Toon]] to be a plant, (being a strawberry), with the first being [[Dandy]] (a flower), and the third being [[Gourdy]] (a pumpkin).
+*Sprout is the only base-game [[Main Character]] [[Toon]] who doesn't have an emotions sheet.
+*Sprout has the longest [[Ability]] cooldown, with it being 100 seconds long, tying with [[Ginger]], [[Glisten]], and [[Teagan]].
+**Sprout has the longest Ability cooldown for a [[Main Character]].
+*Sprout is the only [[Main Character]] whose name doesn't end with a vowel.
+*Sprout and [[Ginger]] have many gameplay similarities.
+**They both have an [[Ability]] that costs 100 [[Tapes]] to heal other [[Toons]], followed with a 100 second cooldown.
+***The cooldown is increased by 30 seconds and the price is increased by 50 Tapes per extra Sprout/Ginger.
+**They both have an equal number of Stars in [[Skill Check]] and [[Extraction Speed]].
+**They both have one more Star in their [[Stamina]] than their [[Movement Speed]].
+***To counter the latter fact, they have an even amount Stars of Movement Speed and an odd amount Stars of Stamina.
+*In [[Changelog|v0.18]], Sprout was given many new things, making him the first [[Toon]] to:
+**Get a changed render.
+**Be featured in the [[Toon of the Week]].
+***He was also the first Main Character and male Toon to be featured in a [[Toon of the Week]].
+**Have a Robux-[[Skin]] that doesn't come from a [[Gamepasses|Skin pack]].
+**Have a [[Quests|Golden]] Skin and not be an [[Event Toon]].
+**Appear in more than 1 VHS recording.
+**Receive an [[Achievement]] for being a fan of said Toon.
+**Additionally, he was the second one to receive in-Floor dialogue after not having one on said Floor, with [[Bassie]]'s dialogue in the [[Easter Floor]] being the first.
+***{{CI|Gigi|name=true}} could instead be considered the first. However, she gained her dialogue in a fully reworked version of a Floor, rather than a (mostly) unchanged Floor.
+*Sprout is the first base-game male [[Toon]] that isn't [[Dandy]] to appear on a game icon twice.
+**If counting female [[Event]] Toons, he is the third if you count [[Bobette]] and [[Bassie]].
+***He is the only one to have a different render between appearances.
+*Sprout currently has the most [[Skins]] in the game, having 10 Skins in total.
+**However, this is mostly due to Sprout gaining 2 Skins for his [[Toon of the Week]], and another Skin in the [[2026 Care Bears Collab]]. Therefore, when the other [[Toons]] get their own Toon of the Week, he is likely going to be tied/get deranked by other Toons.
+*In a similar fashion to [[Teagan]], Sprout wants to remember every [[Toon]]'s favorite cupcake flavor, going on to list off various flavors in an interaction with {{CI|Looey|name=true}}.
+**Looey's might be strawberry, coincidentally what Sprout is.
+**Sprout lists 6 different flavors, but without any Toons' names attached.
+*Starting with {{Skin|ChocoBerry}} in [[Changelog|v0.11]], Sprout's [[Skins]]' pupils would begin to be slightly smaller than before.
+**This change was only made to Sprout's Default Skin, so his other Skins keep the original larger pupils.
+*Starting with {{Skin|Berry Beast}} in [[Changelog|v0.13]], Sprout's [[Skins]]' head would begin to be positioned slightly higher than before.
+**This change wasn't made to any of his previous Skins, which kept the original lower placed head.
+*Sprout is the only {{Type|Main}} to have both [[Abilities]] reliant on other living players, in order for any effect to occur.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Main Character]]
+[[Category:Male]]

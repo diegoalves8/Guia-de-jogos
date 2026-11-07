@@ -1,0 +1,245 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#BE4D02,#ED7C30,#7EA94D,#395023); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}{{Limited}}{{Toons
+|title1=Gourdy Holloway
+|image1=<gallery>
+Gourdy Render.png|Render
+Gourdy Full Render.png|Full Render
+Gourdy Icon.png|Icon
+</gallery>
+|heart1=Main Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|5}}
+|movement_speed={{StatComp|Move|4}}
+|stamina={{StatComp|Stam|1}}
+|stealth={{StatComp|Stealth|1}}
+|extraction_speed={{StatComp|Extract|5}}
+|ability_1={{Center|{{AI|Gourdy|name=true}}<br>{{Small|''(Active)''}}}}<br>This [[Toon]] applies a {{Tooltip|random 20% boost|Stat boost excluding Stealth; 50% boost to Skill Check chance instead}} for 15 seconds to all Toons within range. Has a cooldown of 35.
+|ability_2={{Center|'''Sugar Rush'''<br>{{Small|''(Passive)''}}}}<br>Provides a 20% speed boost to all Players for 5 seconds when the [[Elevator]] opens and when [[Panic Mode]] begins.
+|skins=*Vintage
+*Midnight Sleeper
+*Crinkling Leaves
+*Lost Prince
+*Fresh Fall
+*Spooky-Time
+*QoM (Queens of Mischief)
+*Golden Pumpkin
+*Unearthed Spirit
+|requirement_1={{Currency|Pumpkins|3000}}
+|requirement_2={{Currency|Ichor|2500}}
+|requirement_3={{Currency|Research|100% Research}} on {{CI|Twisted Gourdy|name=true}}
+|gender=Male
+|pronouns=He/Him
+|release_date=10/10/2025
+}}
+{{DialogueQuote|Gourdy|<choose uncached><option>Step right up... plenty of treats to go around.</option><option>Wear it well. Happy Halloween.</option><option>Me? Well... someone has to keep the lanterns lit.</option></choose>|Dialogue in [[Gourdy's Store]]}}
+
+{{ToonInfo|type=Event Main|Toon=Gourdy|extra=Holloway|Date=October 10, 2025|with={{CI|Eclipse|name=true}}, {{CI|Ribecca|name=true}}, and {{CI|Soulvester|name=true}}|Pronoun=He|event=Halloween|store=Gourdy's}}
+
+==Appearance==
+Gourdy is a young, anthropomorphic pumpkin. At the top of his head, he has a stem and curled leaf, and a seam separates this from the rest of his head. He sports a fanged grin, and his eyes are uniquely distinct in that he has a black sclera and white pupil, resembling the carved eyes of a jack-o'-lantern. He has large paws for hands, with four  claws on each hand, and a long, slim tail (which is curved in-game), with a slightly bent leaf on the tip. His head, torso, and hands are orange, while his arms, legs, claws, and tail are green. His legs gradient into a darker green, matching the tail, and have 6 slim stripes of the original green, resembling a pumpkin vine.
+
+==Personality==
+Gourdy is shown to be a very excitable, friendly [[Toon]], with a huge love for Halloween. However, he is also shown to be quite insecure, as he constantly misses his [[Gourdy's Parents|parents]], evidenced by the drawings of them in his bedroom, his Trinket {{TI|Memory Locket|name=true}},  his [[Gossip]] dialogues, and his dialogue when entering the locked lore room in the second Halloween map. In one of said gossip dialogues, he has also pointed out that he tries really hard to be the best face and mascot for Gardenview's Halloween events, alongside the expectations placed upon him as a {{Type|Main}} Toon playing an additional factor into this.
+
+Gourdy demonstrably idolizes the Main Character Toons, perhaps even seeing them as superior to him, an example being his dialogue with {{CI|Vee|name=true}} and his gossip about {{CI|Shelly|name=true}} revealing his deep admiration for the Toons. His room even features plush toys of all the Main Characters, further supporting this. Gourdy also seems to be polite and well-mannered, as evidenced in his dialogue where he frequently addresses other Toons as Mr. or Ms., and calls the Mains by their last names, unless instructed otherwise, with the exception of {{CI|Bobette|name=true}}, though this could be due to them being Main Characters from different holidays. Despite this he tries to like Shelly but doesn't seem to like her as much as the other Mains as seen with his gossip about her.
+
+In one of Gourdy's gossip dialogues about {{CI|Toodles|name=true}}, he seems to be trying to hide how upset he is about his lack of parents, loneliness, and [[Gardenview]] shutting down. He clearly cares more about his friend now that he can't even remember his parents, as well as the fact the Toons are by themselves, so it's likely interacting with Toodles comforts him since they are both children and therefore relate more to each other. He speaks about not seeing her often but tries to stay upbeat and happy about it, though you can clearly sense his anxiety and fear of losing her.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 120 times|Finish 175 [[Machines]]|Pick up 100 [[Items]]|Survive 70 [[Floors]]|Survive 30 Floors with any [[Main]] in your round|Travel 150000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active}}|{{MastStrat|second|Machine}}|{{MastStrat|third|Collect and use}}|{{MastStrat|fourth|Reach/do floors}}|{{MastStrat|fifth|Toon in run|a [[Main Character]]|Joining "Main Only" runs makes it easier as the entire team will be Main Characters so you don't need to rely on only one [[Toon]].}}|{{MastStrat|sixth|Meters}}}}
+==Requirement Strategies==
+*For the first and second requirements, focus on picking up [[Research Capsule]]/[[Pumpkin]] and extracting [[Machine]]. The Machine, Capsule and Pumpkin count increases the further you descend, so you can earn more [[Ichor]] and Pumpkins.
+*For the third requirement, have a Distractor [[Toon]] bring {{CI|Twisted Gourdy|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps getting Research faster because of his Passive [[Ability]]. This will be easier if Twisted Gourdy is on the [[Daily Twisted Board]]. Or, as Twisted Gourdy is guaranteed to spawn on floor 20, do a solo run, or a run with other people who know the goal, and get to floor 20 to guarantee research.
+==Golden Skin [[Quest]]==
+===Quests===
+{{GQ|Encounter {{CI|Twisted Gourdy|name=true}} '''{{Color|5|#93f525}}''' times as Gourdy.}}
+{{GQ|Complete Floor '''{{Color|20|#93f525}}''' as Gourdy with the {{TI|Memory Locket|name=true}} [[Trinket]] equipped.}}
+{{GQ|Open '''{{Color|20|#93f525}}''' Trick or Treat doors as Gourdy.}}
+
+Reward: {{Skin|Golden Pumpkin Gourdy}} [[Skin]] ''{{Small|(Exclusively obtainable while the [[Halloween Event]] is active)}}''
+
+===Golden Skin Strategies===
+*'''For the first quest''', try going towards Floor 20+, since Twisted Gourdy is guaranteed to spawn every [[Floor]] that is a multiple of 20, not to mention Twisted Gourdy being able to spawn before Floor 20 too. You can play with a distractor such as {{CI|Looey|name=true}} or {{CI|Eclipse|name=true}} to make the progression easier and to let them bring Twisted Gourdy to the Elevator for the encounter, or you can choose to solo.
+*'''For the second quest''', playing in a team can be good as both of Gourdy's Abilities are primarily suited for selflessness, and can make things more efficient. {{TI|Memory Locket|name=true}} will always highlight healing Items when you're on one Heart, so take advantage of its mechanic to ensure you don't die before completing Floor 20.
+*'''For the third quest''', just try to open at least one Trick or Treat Door every Floor and you should be able to complete this quest fairly quickly. You may instead find it easier to play in a solo run so you can open every Trick or Treat Door that spawns.
+
+==Strategies==
+With max extraction thanks to 5 {{Star}} in both Skill Check and Extraction Speed (tied with {{CI|Soulvester|name=true}}), alongside 4 Star [[Movement Speed]] and 1 Star [[Stealth]], Gourdy is suitable for almost any role, being an amazing and extremely versatile all-rounder. His only genuine con is his 1 Star Stamina (and his 1 Star Stealth if you intend to play him as an extractor, since you could interfere with your distractor often), but this can be easily mitigated with {{TI|Cooler|name=true}} or simply good Stamina management, especially if you have played [[Toons]] with similar Stats, and the 1 Star Stealth can be a non-factor by being aware of how to manage [[Twisteds]].
+
+Gourdy's Active [[Ability]], {{AI|Gourdy|name=true}}, functions similarly to {{CI|Toodles|name=true}}' Active Ability, however it is slightly more potent (+5% extra compared to {{AI|Toodles}}'''Beginner's Luck''') and gives the boost to surrounding teammates within a small radius instead of boosting himself, in addition to it having an extra 10 seconds of cooldown. Unlike most random-effect boosts, it will actually show what the effect is (at least on your target's screen) making it easier to figure out what to do with the buff. His Ability's randomness means it shouldn't be fully relied on to help teammates (ex. giving Skill Check to a Toon being chased), but it is still a helpful tool if you roll something good for your team. Also note his radius is quite small, so you have to practically hug your target, but his 1 Star Stealth can help if you want to boost a teammate who is being chased by taking aggro away from them. Try not to boost distractors (unless in [[Panic Mode]]!); you'll take aggro away from them by accident unless your distractor is playing {{CI|Pebble|name=true}} and {{AI|Pebble}}'''Speak!''' is active, they use an {{II|Air Horn|name=true}}, or they're playing as a 1 Star Stealth Toon (which you may still take aggro from if you get too close, due to percentage based Stealth decreasing Trinkets like {{TI|Scrapbook|name=true}} not affecting them). His Ability could be used through a wall or obstacle near the distractor, but due to the boost that he gives being randomized, it isn't worthwhile unless they're struggling. Ask teammates to group around you before the [[Elevator]] opens to boost a lot of players at once. Try to use '''Trick or Treat''' on extracting Toons as you pass them—your 1 Star Stealth makes it easy even while distracting as long as you understand line of sight. You can also ask teammates to run up to you if they pass while you're extracting so you can boost them.
+
+His Passive Ability, '''Sugar Rush''', grants everyone (including himself) a +20% Movement Speed boost for 5 seconds at the beginning of a [[Floor]] and at Panic Mode, functioning much like a global {{TI|Pull Toy|name=true}} and {{TI|Alarm|name=true}}. This is very useful, especially for slow Toons who have trouble reaching the elevator, since a +20% Movement Speed boost is decently potent. It also can help you (or your distractor, depending on how you wish to play Gourdy) find Twisteds faster at the start of a Floor and conserve a bit of Stamina at Panic Mode, and also help with reaching [[Machines]] faster.
+
+Gourdy also has great distracting capabilities. He has 1 Star Stealth, meaning he can passively grab aggro from any Toon (besides {{CI|Brightney|name=true}}, who he may have to get closer to grab aggro from, and {{CI|Shrimpo|name=true}}), which is extremely helpful for distracting. Unlike Brightney, he has 4 Star Movement Speed, giving him a better distraction playstyle. His Stamina is much lower than hers in comparison though, so be careful and only sprint/sprint-tap when needed.
+
+Given Gourdy's extreme general potential, there is no specific recommended playstyle for him. As such, given his relatively easy requirements compared to other Mains, he is a very good pick for anyone experienced with using [[Main Characters]]. There is no "wrong" way to play Gourdy, as his only three deficits (Stealth, Health, and Stamina) can mostly be mitigated by strategy, so feel free to give yourself leeway in trying different [[Trinket]] combinations, since there really isn't much punishment gameplay-wise if you lean into a specific role.
+
+Overall, Gourdy is great in teams and selflessness with great extracting, distracting, and supporting potential, with a bit of a struggle in solo runs, though he can still be a good pick as you can easily make his Ability self-sufficient with a Trinket like {{TI|Peppermint Icing|name=true}} and {{TI|Ghost Snakes In A Can|name=true}}.
+
+===Trick or Treat Effect===
+<tabber>
+|-|Skill Check=
+{{StatCmpr|stat=Skill Check Size|change=20|affector=Trick or Treat}}
+Chance is increased from 25% to 75%
+
+|-|Movement Speed=
+{{StatCmpr|stat=Movement Speed|change=20|affector=Trick or Treat}}
+
+|-|Stamina=
+The total amount of Stamina regeneration gained from Trick or Treat is 2.88/s. The amount of Stamina regenerated for the full 15 second duration would approximately be 43 (compared to the default 36).
+
+|-|Extraction Speed=
+{{StatCmpr|stat=Extraction Speed|change=20|affector=Trick or Treat|time=15}}
+</tabber>
+
+===Trinket Combinations===
+{{Preference}}
+Because of Gourdy's 1{{Star}} Stealth, good mobility, and high Extraction [[Stats]], recommended [[Trinket]] combinations for Gourdy are:
+
+====Mobility====
+*'''{{TI|Dog Plush|name=true}}/Options'''
+**This Trinket will unlock the role of distractor to the holder. {{Small|(19.3 walk speed)}} Here are some options to pair Dog Plush with:
+***'''{{TI|Speedy Shoes|name=true}}''', to allow Gourdy to outwalk Twisteds slower than {{CI|Twisted Toodles|name=true}} and {{CI|Twisted Shelly|name=true}} {{Small|(20.2 walk speed)}};
+***'''{{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}}''', to out-walk even faster Twisteds. Keep in mind this only works half the time, and is best used when duo-distracting {{Small|(21 walk speed)}};
+****Do note this Trinket combo is best used when duo-distracting with another player.
+***'''{{TI|Vanity Mirror|name=true}}''', to out-run almost all Twisteds during [[Panic Mode]] while active, also supporting his '''Sugar Rush''' Passive Ability {{Small|(35.75 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to completely nullify the {{Debuff|Slow|}} Debuff, making {{CI|Twisted Vee|name=true}} significantly easier to distract, and [[Ichor Leaks]] much easier to distract in;
+***'''{{TI|Friendship Bracelet|name=true}}''', to be able to sprint for longer periods without a speed debuff, though reliant on multiple alive players;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of his low Stamina and fast extraction;
+***The Trinkets below the '''Extraction Section''', to help with floor progression; etc.
+
+====Extraction====
+
+* '''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Gourdy to take full advantage over his 5{{Star}} [[Extraction Speed]] {{Small|(1.5 extraction speed)}} and [[Skill Check]] {{Small|(167.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction, supporting his 5{{Star}} [[Skill Check]] {{Small|(19.91 avg/17.7 with Tech Savvy)}};
+***
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, supporting his 5 Star Extraction Speed;
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+====Ability/Support====
+*'''{{TI|Ghost Snakes In A Can|name=true}}/{{TI|Peppermint Icing|name=true}}'''
+**The cooldown reduction synergizes with Peppermint Icing, allowing Gourdy to regain Stamina more often. With {{CDI|Rehearsal/Practice|name=true}} cards, {{AI|Gourdy|name=true}} reaches a cooldown of 20 seconds, which means you can consistently support your team and keep your low Stamina in-check.
+***These Trinkets can additionally be used separately if you want to solely maximize either his Stamina or his cooldown.
+
+'''Note: {{TI|Diary|name=true}} or {{TI|Scrapbook|name=true}} are <u>not</u> recommended Trinkets for Gourdy as they do not affect his Stealth Stat since his 1 Star Stealth means 0 Stealth units, and multiplication of 0 will always be 0.'''
+
+==Dialogues==
+{{Gourdy Dialogues}}
+
+==Audio==
+{|class="mw-collapsible article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description
+|-
+|[[File:BassieActiveAbility.mp3|left|thumb]]
+|The sound that plays when Gourdy activates his {{AI|Gourdy|name=true}} [[ability]]
+|-
+|[[File:gourdydialouge.mp3|left|thumb]]
+|The sound that plays when a speech box appears over Gourdy's head
+|}
+
+==Trivia==
+*Gourdy and {{CI|Soulvester|name=true}} are the first [[Toons]] to have retroactive 5 {{Star}} in two [[Stats]] (both sharing [[Skill Check]] and Extraction Speed).
+**This trait also gives them the highest base extractability in-game.
+**They are also the only Toons to have 1 Star in two Stats.
+*Gourdy's last name is Holloway, confirmed in various dialogues from him.
+**His last name is a mix on the words Holiday and Halloween.
+***It is also similar to the surname "Halloway".<ref>https://www.houseofnames.com/uk/halloway-family-crest</ref>
+**His last name is also in one of the [[Show]]'s Episode titles, being called "Holloway Haunting".
+**He is the first [[Holiday Toons|Event]] {{Type|Main}} [[Toon]] to have his last name revealed immediately after his release.
+***His last name was revealed by his dialogues and the "Holloway Haunting" Poster, meanwhile {{CI|Bobette|name=true}} and {{CI|Bassie|name=true}}'s last names were revealed in [[Qwel]]'s livestreams.
+*Gourdy is the second [[Toon]] to be a child, with the first being {{CI|Toodles|name=true}}.
+**Gourdy and Toodles are also friends, which makes sense considering they are both children and therefore would likely relate to each other more and/or have similar interests.
+**However, with Toodles' [[Introduction Card]] showing Toodles as the youngest Toon in [[Gardenview]], this technically means Gourdy is the second youngest.
+**Additionally, he is the first [[Main Character]] and male Toon to be a child.
+*Unlike other [[Holiday Main Characters]], Gourdy does not have an established relationship with the Event {{Type|Rare}} ({{CI|Eclipse|name=true}}), instead he appears to be closer to [[Soulvester]]. 
+**They play pretend, Gourdy looks up to Soulvester, and Soulvester speaks to Gourdy as if he were royalty. If the short is canon, "Found in the woods 🗡️" also shows Soulvester comforting and hugging Gourdy after the latter's revelation of his nonexistent (or possibly disposed of) [[Minor Characters|parents]]. These all point to Soulvester possibly acting as a guardian towards Gourdy.
+***If the aforementioned short is canon, this would also mean Soulvester is the first known [[Toon]] to have explicitly prevented another Toon from becoming [[Twisted]], as his comfort seemed to prevent Gourdy's breakdown from leading into transformation.
+*Gourdy is the second [[Toon]] to have eyes that do not have white sclerae and black pupils, with the first being {{CI|Vee|name=true}}.
+*Gourdy is the only [[Toon]] to have inset eyes. This makes him as if he's looking at the viewer's perspective from multiple angles. 
+**This might have been inspired by the pre-release version of {{CI|Dandy|name=true}}.
+*Gourdy is the only [[Holiday Toons|Event]] [[Main Character]] [[Toon]] whose [[Mastery]] does not include reaching [[Floor]] 20.
+*Gourdy is the third [[Main Character]] [[Toon]] to have 1 Star on at least one of their stats, the first being {{CI|Pebble|name=true}} with his 1 Star Extraction Speed and the second being [[Bassie]] with her 1 Star Skill Check.
+*Gourdy is one of the 4 [[Toons]] to lack a 3 Star Stat, the others being [[Bassie]], {{CI|Shrimpo|name=true}}, and {{CI|Waxwell|name=true}}.
+*Gourdy is the third [[Holiday Main Character]] to be released, the first and second being [[Bobette]] and [[Bassie]].
+**Additionally, he is the first and only Holiday Main Character to be male.
+**In-fact, he is the first Holiday Main to have Gossips.
+**Gourdy is currently the only Holiday Main Character to not have 2 Star Extraction Speed.
+*Gourdy shares the same [[Ability]] sound with [[Bassie]].
+*Gourdy, alongside [[Shrimpo]], [[Soulvester]], and {{CI|Boxten|name=true}} have concept art hidden in their [[Halloween Event#Skins|Halloween Event Skin]] texture sheets. Fresh Fall Gourdy's concept art can also be seen in Boxten's texture sheet.
+**Fresh Fall is the only Skin to be unintentionally leaked prior to release. Infected Candy {{CI|Yatta|name=true}} was also technically leaked, however the design was made by a developer prior to being in the dev team.
+*Gourdy is the third [[Toon]] to have visible fingers, after {{CI|Goob|name=true}} and {{CI|Scraps|name=true}}.
+**Additionally, his hands are very similar to Goob's.
+*Gourdy is the first [[Toon]] to have an official song in collaboration with the YouTuber [https://www.youtube.com/@CG5/videos CG5] called [[Locked Away]].
+*Gourdy is the first [[Toon]] in general to have confirmed biological parents, currently known as [[Mr & Mrs Holloway]].
+**He carries a mix of his parents' features, taking:
+***Mr Holloway's hand and feet paws, mouth shape, and the light green claws, tail leaf color, and arms.
+***Mrs Holloway's head shape, tail color, and feet type.
+***Both of Mr Holloway and Mrs Holloway's body colors, making a lighter shade of orange.
+***Both of Mr Holloway and Mrs Holloway's stem leaves and leg colors with them being a light to dark green gradient.
+***The only trait not inherited was the stem leaf amount being 1 instead of 2, though likely due to his youth.
+*Gourdy is the first [[Holiday Toon]] who is shown to not be running away from a [[Twisted]] in the thumbnails, instead playing with [[Toodles]], followed by [[Soulvester]], who appears giving [[Twisted Gourdy]] a {{II|Stealth Candy|name=true}}.
+*His name, Gourdy, is a reference to the word gourd, which means a hard-shelled fruit part of the {{wp|Cucurbitaceae}} family, which include pumpkins.
+**Additionally, while Gourdy's legs look like pumpkin vines, they can also be interpreted as looking a bit like small cucumbers or some other green organism from said family, which gives him a stronger connection to gourds as a whole, even while he himself is a pumpkin.
+*He is the second [[Toon]] to get a marketable plushie, the first being [[Dandy]].
+**Additionally, he's the first [[Holiday Toon]] to have one.
+*If you play as Gourdy and enter the secret bedroom and stay in it for a few seconds, his dialogue will pop up saying "{{Text|I shouldn't stay here much longer...}}", which in turn makes him the second playable [[Toon]] with dialogue without using [[Ability]] or being in the [[Elevator]].
+*Gourdy seems to like drawing, as seen in {{CI|Ribecca|name=true}}'s dialogue, his gossip about {{CI|Brusha|name=true}}, and in the [[Locked Away]] music video.
+*Gourdy is the second [[Toon]] to be teased in-game before their release, as seen in {{CI|Dyle|name=true}}'s gossip dialogue talking about [[Toodles]], with {{CI|Blot|name=true}} being the first Toon.
+**[[Yatta]] could also count, being slightly hinted through one of {{CI|Looey|name=true}}'s dialogues with {{CI|Teagan|name=true}}.
+**Additionally, he is the first [[Holiday Toon]] and [[Main Character]] to be teased this way.
+*Contrary to popular belief, Gourdy has dialogue sound, it is just extremely soft, sometimes inaudible if there is background ambience like the [[Elevator]].
+*Gourdy is one of the 5 [[Toons]] to have a flaccid tail, with the first Toons being [[Vee]] and [[Scraps]], the second being {{CI|Connie|name=true}} (debatable) and the third being [[Yatta]].
+*Gourdy's Lost Prince [[Skin]] has a slightly different idle fidget than his other Skins. In his other Skins his head seems to tilt towards the side of whichever one of his hands go up, but in his Lost Prince Skin the side his head tilts towards seems to align (movement wise) with his hands.
+**If the situation calls for it, it is a common feature for Skins to have slightly different animations or positions as to not interfere with additionally added features (e.g Fairy Godmother [[Shrimpo]] has his arms further apart to not touch the dress, to avoid his arms clipping in the skirt), though why it is different and whether or not it is an instance of this is unknown.
+*Funnily enough, Gourdy gets paler with the release of each of his [[Skins]] (excluding Vintage), with Midnight Sleeper having him slightly pale, Crinkling Leaves making the paleness more noticeable, Lost Prince making him a noticeable palish-yellowish color, and finally Fresh Fall having a similar limeish color.
+*Gourdy, [[Eclipse]], and [[Soulvester]] are the first [[Holiday Toons]] to have more than 1 Holiday [[Skin]], having 4, 3, and 2 respectively.
+*Gourdy has the most amount of [[Event]] [[Skins]], with 6, tying with [[Bobette]] and {{CI|Ginger|name=true}}.
+*Gourdy's [[Skins]] may be based on his [[Gourdy's Parents|parents]], with the colors and traits on some of them looking quite similar to them, or allude to them in some way.
+**In his {{Skin|Midnight Sleeper}} Skin, Gourdy is a paler version of his default color, looking more like Mrs. Holloway's color while still keeping Mr. Holloway's more vibrant orange tone. In addition, he has more leaves like Mr. Holloway (two on the stem), but they have Mrs. Holloway's darker green and shape.
+**In his {{Skin|Crinkling Leaves}} Skin, Gourdy looks like a dried out pumpkin, making his color look more like Mrs. Holloway and his leaves look more like Mr. Holloway.
+*In his {{Skin|Midnight Sleeper}} Skin, Gourdy's arms are slightly raised compared to his other skins. Why this change was made is unknown.
+*Gourdy is the fourth [[Toon]] to have their Toon and [[Twisted]] counterparts in two separate thumbnails.
+*According to Gourdy's gossip about [[Eclipse]], he has a small flame in his head.
+**However, he doesn't glow in [[Blackouts]], as the flame would be too small to emit any useful light.
+*Gourdy's Active [[Ability]], {{AI|Gourdy|name=true}}, doesn't give [[Stealth]].
+*Similar to {{CI|Astro|name=true}}, the aura that is produced when Gourdy uses his Active [[Ability]] is actually a 3d model.
+*Gourdy is the [[Main Character]] with the shortest [[Ability]] Cooldown (if not counting [[Bassie]]), with it being 35 seconds.
+*Gourdy is the only [[Halloween]] [[Holiday Toons|Toon]] to be able to speak to a [[Christmas]] Toon.
+**This is likely due to him and [[Bobette]] being [[Main Characters]], so they have a guaranteed chance to interact with other Holiday Toons.
+*Even though his Active [[Ability]] description says it provides a 20% boost, it actually adds 50% to Skill Check chance (totaling to 75% instead of 45%).
+*Gourdy received a special Quest labeled '''Gourdy's Quest''' in the [[2026 Halloween Event|Halloween Event]], giving you {{TTI|Locked Away|name=true}}  and a key that unlocks the secret door in the [[Holiday Floors|Halloween Seasonal Floor]].
+*Gourdy is the first Shopkeeper [[Toon]] to have a dramatic change to his [[Gourdy's Shop|shop]] dialogues. In the first run of the [[2025 Halloween Event|Halloween Event]], all of his dialogue reflected his excited, child-like nature; in the second run of the [[2026 Halloween Event|Halloween Event]] however, he is noticeably less enthused, using almost no exclamation marks. This could be due to the revelation and new lore drops of his [[Gourdy's Parents|parents]], causing him to become depressed, or him trying to act more mature to fulfill his desire of being a strong leader to the rest of the Halloween Toons and being a [[Main Character]], but the true cause of this is unknown.
+**Interestingly, other dialogue outside of his shop wasn't changed, even any dialogue releasing after the change.
+*Gourdy may be the other [[Toon]] {{CI|Astro|name=true}} talks about when {{CI|Sprout|name=true}} opens up to him about missing a part of him. This makes sense with how both were missing a core person in their personality, with Sprout missing {{CI|Cosmo|name=true}} and Gourdy missing his parents.
+*Gourdy's walk animation may be based off of {{CI|Twisted Bobette|name=true}} but sped up, as it is very similar.
+*Gourdy is the only [[Main Character]] to lack a selfish Ability, as both of his Abilities benefit his teammates.
+*Gourdy often refers to [[Toons]] with honorifics, likely to show respect for his elders. Despite this, he doesn't do so for all of them. As for the base-game [[Main Characters]], he refers to them by their last name as well, except for [[Pebble]] and [[Vee]].
+**The other [[Halloween Toons]], [[Connie]], and [[Toodles]] are his friends, so he'd naturally speak more casually with them. Additionally, Toodles is a child like Gourdy.
+**[[Bobette]] is a [[Christmas Toon]], leading to a more disconnected and awkward relationship between the two, as they're from different Holidays.
+**Pebble is the equivalent of a dog, which aren't typically referred to with honorifics.
+**It's unknown whether Vee's last name (Version 1) or Gourdy's sheer excitement was the reason for the lack of an honorific for her.
+**Gourdy directly states that he drank a large quantity of {{II|Pop|name=false}} prior to speaking to {{CI|Poppy|name=true}}, with the sheer hyperactivity caused by the beverage possibly disrupting his polite demeanor.
+*Gourdy is the first [[Toon]] to have one of their [[Skins]] released as a plush in the official store.<ref>https://dandysworld.gg/collections/gourdy/products/lost-prince-gourdy-deluxe-plush</ref>
+**Additionally, the plush comes with a variation of his [[Trinket]], [[Memory Locket]], so he is the first one to have an alternate version of their Trinket come out, albeit it's not in-game.
+**There is also a {{Skin|Dino Snore|toon={{CI|Shelly|name=true}}}} plush in some stores, though it isn't sold in the official Dandy's World Store.
+*As revealed in the Queens of Mischief music video and [[Changelog|v0.29.7]] thumbnail, Gourdy can play a drum kit.
+*Gourdy's dialogue with {{CI|Squirm|name=true}} references the [https://www.roblox.com/bundles/201/Headless-Horseman Headless Horseman] bundle.
+*Gourdy's dialogue with [[Blot]] reveals that the two of them can use the latter's mime performances as a way of communication, though the former is still learning.
+*Gourdy's dialogue with [[Toodles]] reveals that he wants to play the role of the villain, though this is likely done in a playful manner to trick the other toons rather than out of malice, proven by [[Gourdy's Shop#Gossip|Gourdy's Shop Gossip]] about [[Squirm]], saying that he wants to be fun-scary, not scary-scary.
+
+{{References}}
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Holiday Toons]]
+[[Category:Halloween Event]]
+[[Category:Toons with Relatives]]
+[[Category:Main Character]]
+[[Category:NPC]]
+[[Category:Male]]

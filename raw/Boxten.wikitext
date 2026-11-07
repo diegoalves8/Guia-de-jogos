@@ -1,0 +1,169 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(120deg,#6B1D65,#903A8C,#66AFDB); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Boxten Render.png|Render
+Boxten Full Render.png|Full Render
+Boxten Icon.png|Icon
+Boxten Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|3}}
+|movement_speed={{StatComp|Move|3}}
+|stamina={{StatComp|Stam|3}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp||3}}{{Small|(1.06)}}
+|ability_1={{Center|'''Wind-Up'''<br>{{Small|''(Passive)''}}}}<br>
+{{Tooltip|This Toon gains 6% more Extraction Speed for every alive Toon in the round. Maxes at 48%.|The extra Extraction Speed compounds, so instead of maxing out at 48%, it maxes out at ~59.4%.}}
+|requirement_1=*Obtained for free when first starting the game
+*{{Currency|Ichor|100}} (if {{CI|Poppy|name=true}} was chosen instead)
+|skins=*Default
+*Vintage
+*Cloudy Dream
+*Passionate Wisteria
+*Creepy Chord
+*Quiet Caroler
+*Winged Chords
+|gender=Male
+|pronouns=He/Him
+|designation=SC-004
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Boxten|extra=Music Box|Pronoun=He|Date=June 14th, 2024|type=Single}}
+
+==Appearance==
+<tabber>
+|-|Default=
+Boxten is a purple music box with a darker purple lid. A silver clasp, with two lighter lines across it to make it appear shiny, seals the lid shut on the front; an also shiny, silver turning key is on the back of his head, on top of a circular, dark purple base. Each edge of the box's sides, other than the lid, is lined with light purple—on the corners, where the lines meet, there are short light purple lines facing inward. He wears a sleeveless, dark purple shirt and a {{TI|Blue Bandana|name=true}} around his neck. His tights are the same blue with two darker stripes.
+|-|Vintage Boxten=
+Vintage Boxten is now dark gray with lighter gray lining and also has eyes pie-cut on his right. His lid, key base, and shirt are deeper gray, while his bandana and pants are white, with the latter's stripes being black.
+|-|Cloudy Dream=
+Cloudy Dream Boxten is light purple with a dark lid and key base, silver parts recolored white, and lighter lining. He has two white clouds decorated on each of his non-lid sides, with the face having smaller, puffier cheek-like clouds. He wears a short-sleeved, pale turquoise shirt with darker pinstripes and bow-shaped lapels underneath a box pleat in the center that has two white buttons. Instead of tights, wears dark teal shorts, making legs visible which now have has white, cloud-like markings on the feet.
+|-|Passionate Wisteria=
+Passionate Wisteria Boxten is a light lavender color with a darker lid and lining, the lining having white hearts outlined with the darker purple, in place of the lines. His silver parts are slightly more darkish-purple compared the lid and lining, and its shine lines are pink. The base his key rests on his reddish-pink. He wears a reddish-pink shirt with a darker polka-dot pattern, hem, and pair lengthy sleeves. His bandana is the purplish shade of his silver parts and is decorated with pink clovers and white dots. His tights have a darkish-purple color with a pink gradient on the lower half, and the stripes, now colored white, are directly above and below his knees.
+|-|Creepy Chord=
+Creepy Chord Boxten has a wavy cat-like smile, slightly more saturated shades of purple, and silver parts with a more brass-like color. He also wears a two-tailed, yellow scarf with darker, orangish stripes, and a burnt orange, long-sleeved shirt with the design of a light orange jack-o'-lantern face. His tights are black, and he wears yellow socks with darker, orangish toes and heels.
+|-|Quiet Caroler=
+Quiet Caroler Boxten is a faded maroon color with a darker lid and base, lighter lining, and round, red cheeks. His silver parts are also now recolored golden. He wears a white sweater with black cuffs, and a design of two black stripes across the center of the body and sleeves, along with a black beamed eighth note on the front and back. Instead of a bandana, he wears a fern green scarf with a red stripe slightly above the tail, which hangs from the left of his back. His tights are also now colored black, and he wears fern green boots with white, fuzzy collar lining and red soles.
+|-|Winged Chords=
+Winged Chords Boxten is periwinkle colored with darker lines, even darker pairs of three freckles, and a white lid and key base, while his silver components are now pastel yellow. He wears a puffy, long sleeved shirt the same color as his lining with a lighter clover-like pattern and a "V"-shaped collar colored dark like his freckles. A white cloth can also be seen underneath. He has light yellow butterflies with darker wing borders and black antennae varying in size, with a large one on the top right corner of his face, three small ones on the right side of his right eye, near the bottom right corner on the backside of his head, and one on his white cloth, along with two medium-sized ones beside the freckles on his left cheek and near the top left corner of his head's backside. He wears dark periwinkle shorts, and his tights are white with a pastel yellow stripe above the knees.
+</tabber>
+
+==Personality==
+Boxten is an uncertain and somewhat shy [[Toon]] that is easily frightened, seen in his dialogue with {{CI|Connie|name=true}} and {{CI|Gourdy|name=true}}'s gossip. He shows pessimism toward himself and his capabilities when finishing [[Machines]], but is encouraging towards others, although he lacks assertiveness and backs down easily. When he speaks, he often has a stutter and is written using a lot of ellipses. To add onto this anxious nature, his sleep is troubled due to frequent nightmares, and he suspects {{CI|Astro|name=true}} may be the one to blame for them.
+
+Aside from this, Boxten is a big fan of {{CI|Vee|name=true}} because of her gameshow, as he loves trivia. He is close to {{CI|Glisten|name=true}}, as well as {{CI|Cosmo|name=true}}, who is teaching him how to bake. His interaction with {{CI|Sprout|name=true}} implies they may be friends, too, and his interaction with {{CI|Toodles|name=true}} implies the same of {{CI|Poppy|name=true}}.
+
+==Mastery==
+{{Mastery|Finish 50 [[Machines]]|Survive 25 [[Floors]]|Travel 50000 Meters|Pick up 30 [[Items]]|Survive 1 Floors with 7 other Players in your round|Use 30 Items}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Machine}}|{{MastStrat|second|Reach/do floors}}|{{MastStrat|third|Meters|3Star}}|{{MastStrat|fourth and sixth|Collect and use|Use}}|{{MastStrat|fifth|Play with Toons}}}}
+
+==Requirement Strategies==
+*For the first and only requirement, since Boxten is one of the starter toons, you can just select him for free on the Start [[Toon]] Selection screen.
+*If {{CI|Poppy|name=true}} was chosen instead, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increase the further you descend, so you can earn more {{II|Ichor|name=true}}.
+
+==Strategies==
+Boxten's strength lies in Extraction. His [[Extraction Speed]] ranges from 1.06 to 1.594; this makes it above average ''at its lowest'' and 0.094 more than 5{{Star}} Extraction Speed at its highest, unless you are using Extraction Speed [[Trinkets]]. This makes him a good choice to earn {{TI|Ichor|name=true}} through [[Machines]] when starting out. However, since he is heavily dependent on teammates for maximum Extraction Speed, if you prefer playing with a small team (1-4 players), other [[Toons]] such as {{CI|Glisten|name=true}}, {{CI|Yatta|name=true}}, or {{CI|Vee|name=true}} will be better suited in this occasion. His [[Ability]], '''Wind-Up''', allows access to over 5 Star Extraction Speed, but since these Stats are obtainable without using the Ability slot (which is a source of bonus Ichor), it's similar to playing without any Ability at all. Worse than that is the fact that his Ability relies on factors out of your control, which makes Boxten outclassed by a lot of Toons.
+
+Assuming you're in a team with enough players (around 5-8), you can be a very efficient stealthy extractor, especially if there's a distractor with 2 or 3 Star [[Stealth]]. Using {{TI|Diary|name=true}} furthers this by allowing you to extract near 3 Star Stealth teammates with little to no risk involving [[Twisteds]]. This all could make him more viable than low Stealth, high Extraction Speed Toons such as Glisten, {{CI|Squirm|name=true}}, and Yatta, due to the ability to extract quickly near a variety of distractors.
+
+Generally, it's recommended to use Boxten in games with a lot of Toons to get the most value out of his Ability. Though, he is quite iffy for solo runs, due to his Ability relying solely on other teammates, wasting it. He is a great option for long runs however, because if his teammates can stay alive, it gives him quite a bit more than 5 Star Extraction Speed, with decent Stats across the others.
+
+Boxten benefits from being on a team with Toons that can boost his Extraction Speed, such as {{CI|Brusha|name=true}}, {{CI|Shelly|name=true}}, or {{CI|Cocoa|name=true}}. The boosts multiply with Boxten's passive, creating a particularly potent stacked increase that could allow him to fill Machines in no time, while also getting more use out of the boosts, minimizing potential wastage.
+
+He can benefit from survival [[Items]], helping his average [[Movement Speed]], which can make escape from Twisteds tedious, especially for newer players. [[Stamina]] items can help remedy poor Stamina management or improve his mobility. Extraction Speed or Skill Check increasing items can further improve his variably decent-phenomenal extraction. This is especially the case for percentage based Extraction Speed boosts from Items such as {{II|Extraction Speed Candy|name=false}} or {{II|Instructions|name=false}}, as their boosts will multiply with Wind Up's boost.
+
+His average Stat spread means that while he has no true deficits, he also doesn't have the most potent strengths. Supplementing your personal weaknesses with Trinkets is best while using him. Using Trinkets that stack with his Extraction Speed can also work, such as {{TI|Stress Ball|name=true}} (where he can reach upwards of 83.3% as a boost with 8 living players).
+
+Overall, Boxten is a pretty good starter Toon, but can sometimes be outclassed by other Toons with better Extraction, except possibly those with lower Stealth.
+
+===Machine Times with Wind-Up===
+{{MSpeed/Boxten}}
+
+===Trinket Combinations===
+{{Preference}}
+Recommended [[Trinket]] combinations for Boxten:
+
+====Mobility====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Boxten to outrun all Twisteds outside of [[Panic Mode]] besides {{CI|Twisted Dyle|name=true}} at max speed {{Small|(26.9 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to further improve Run Speed {{Small|(28.1 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Dyle during Panic Mode {{Small|(35 run speed)}};
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***Any of the Trinkets in the '''Extraction Section''', to help with floor progression; etc.
+*'''{{TI|Friendship Bracelet|name=true}}/Options'''
+**This Trinket has the same activation requirement as his Passive Ability, allowing Boxten to gain even more boosts from having alive teammates.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Boxten to take full advantage over his 3{{Star}} [[Extraction Speed]] {{Small|(1.06-1.594 extraction speed)}} and [[Skill Check]] {{Small|(100.5 skill check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up machine completion by maximizing [[Skill Check]] extraction {{Small|(24.73 avg-min/22.47 avg-min with Tech Savvy, 19.12 avg-max/17.29 avg-max with Tech Savvy)}};
+***'''{{TI|Stress Ball|name=true}}''', to increase Extraction Speed gradually every successful Skill Check hit, can also stack with '''Wind-Up''' to garner very large boosts;
+****Only use this if you know that your team is going to last for long.
+***Any Trinkets listed in the '''Mobility''' section, to help with survival.
+
+==Dialogues==
+{{Boxten Dialogues}}
+
+==Trivia==
+*At the end of the [[Boxten/Gallery#Development|Meet Boxten Teaser Video]], morse code can be heard that translates to "FIND THE {{Tape}}[[Tapes|TAPES]]."
+**This is also one of the texts that can appear when starting a new run {{Small|(at the bottom of the elevator screen)}}.
+*Boxten's name could originate from a combination of the name "Boston" and "Box", though it could be a play on the phrase "Boxed In" as well.
+*Boxten loves trivia, according to his interaction with {{CI|Vee|name=true}}.
+*Boxten worries a lot, which is pointed out by {{CI|Poppy|name=true}} in one of their interactions, his interaction with {{CI|Rodger|name=true}}, and some of his dialogue.
+**{{CI|Cosmo|name=true}} and {{CI|Teagan|name=true}}'s interactions with him might also be considered as hinting at Boxten worrying a lot.
+*Though Boxten and [[Poppy]] seem to be good friends, [[Qwel]] has said that they have no confirmed relations.
+**They share a lot of similarities.
+***Most (if not all) of their similarities are due to them being the starters [[Toons]] of the game.
+****Whoever isn't chosen as the player's first Toon costs 100 {{TI|Ichor|name=true}}, therefore, they both have no other requirements except for a certain amount of Ichor.
+*****The Price use to be 250 Ichor each before being reduced at an unknown time.
+***They both have 3{{Star}} on all of their [[Stats]] and share the same Stat spread with all of the {{Type|Common}} [[Event Toons]].
+****However, since Boxten's [[Ability]] affects himself as well, it always allows him to have at least slightly higher Extraction Speed than them.
+****{{CI|Razzle & Dazzle|name=true}} could also count if not considering their Abilities.
+***Both their [[Twisted]] counterparts are {{Type|Common}}, have average stats, and no mechanic to aid them.
+***They both have an official [[merchandise]] plush.
+****They are the only non-{{Type|Rare}}, non-{{Type|Main}}, and non-{{Type|Lethal}} Toons to have so.
+***Both their respective [[Trinkets]], respectively {{TI|Blue Bandana|name=true}} and {{TI|Pink Bow|name=true}}, are present in their models and have mechanics that resemble their Abilities.
+***They have 4 [[Mastery]] quests in common, being "Survive 25 [[Floors]]!", "Travel 50000 Meters!", "Pick 30 [[Items]]!", and "Use 30 Items!".
+****For their other quests, Boxten needs to finish 20 more [[Machines]] than Poppy does, and Poppy needs to activate her Ability 30 times, while Boxten needs to survive a Floor with all 8 players alive (which also reflects his Ability, since it's where he would get to his full potential).
+***They both have [[Skins]] whose skin color doesn't change, being {{Skin|Creepy Chord}} and {{Skin|Sapphire Dots}} respectively.
+***Their [[Christmas]] Skins, respectively {{Skin|Quiet Caroler}} and {{Skin|Confident Caroler}}, are probably meant to match for being both "carolers".
+***They both have 2 interactions with {{CI|Looey|name=true}}.
+***They got optimized in the same [[update]], along with [[Cosmo]], {{CI|Sprout|name=true}}, and {{CI|Dandy|name=true}}.
+***When bought in [[Dandy's Store]], Dandy says "{{Text|_ is a great choice!}}" for both of them.
+***They both have "Meet _" teaser videos with morse code at the end of each one.
+***They were one of the first Toons to get [[merchandise]] plushes after the [[Main Characters]].
+*Boxten might not be very good with grammar, as seen on the note in Boxten's room in [[Roleplay Mode]].
+*The key on the back of Boxten's head turns when he's focused, as shown in his former and current extracting animation, and in his interactions with [[Cosmo]] and {{CI|Ginger|name=true}}.
+**Boxten's key also spins almost rapidly while running as seen in his {{CI|Twisted Boxten}}[[Twisted Boxten|Twisted counterpart]], likely alluding to this as well.
+*Boxten, at a very early point in the game {{Small|(about one week after the public release)}}, would only receive a 5% [[Extraction Speed]] boost per alive [[Toon]], maxing at 40% or 1.40 units.
+*According to [[Cosmo]]'s interaction with Boxten, he has a bit of knowledge with baking.
+**This is further proven in one of [[Sprout]]'s interactions with [[Shelly]], saying that Cosmo is teaching Boxten how to bake.
+*Other [[Toons]] tend to notice Boxten's square head, as shown in his interactions with {{CI|Goob|name=true}} and [[Looey]].
+*Boxten, along with [[Looey]], are the only [[Toons]] that can roughly reach 17 Stars in their [[Stat]] pool without any [[Cards]] or [[Items]]. Boxten is ahead by 0.094% in Extraction Speed and Looey is behind by 6.67% in Walk Speed and 20% in Run Speed (Looey gains 20% Movement Speed for every {{Heart}} missing).
+*Boxten, [[Poppy]], and [[Cosmo]] are the first Common [[Toons]] that weren't previously optimized to receive an optimized model.
+*Boxten can't entirely understand {{CI|Flutter|name=true}}, having stated such himself in an interaction with her.
+**Despite this, he is still shown to be decent at it in this interaction and his other interaction with Flutter, where he asks how she's doing, and ends apologizing after her response. In the latter example, however, it's possible he was just going off of her tone and her obviously being upset.
+**As Boxten can play music (as confirmed in [[Dandy]]'s [[gossip]] about him and implied in his interaction with {{CI|Shrimpo|name=true}}) and Flutter's wings are implied to be loud (in one of her interactions with Shrimpo), this could contribute to Boxten not hearing her very well, due to him hearing his music and Flutter's wings at the same time, though this is just speculation.
+*Boxten is the only [[Toon]] to not have his base [[Extraction Speed]] units be in one decimal place, with his usually being in two unless 4 other Toons are with him.
+*If not counting his {{Skin|Vintage}} [[Skin]], {{Skin|Quiet Caroler}} is the first and only Boxten Skin whose skin color is not a shade of purple, being a dark red instead.
+*Boxten is the first [[Toon]] whose head can open up, with the second being {{CI|Gigi|name=true}}.
+**Their [[Twisted]] counterparts both have [[Ichor]] hands going through those parts.
+*Since [[Changelog|v0.15.17]], while Boxten's Passive [[Ability]] says it caps at 48%, it actually caps at 59.4% in game. This is due to his Ability now adding to the Extraction Speed Multiplier rather than his base Extraction Speed directly. The reason for this was to make his Ability match its description more accurately, though its description hasn't been changed.
+*Due to his [[Ability]], Boxten has the potential to have the highest consistent [[Extraction Speed]]. This is done by playing with 7 other players, using both [[Blue Bandana]] & {{TI|Lucky Coin|name=true}}, and getting a [[Dandy]] mask from either a [[Haunted Gala]] or the "Dandy Mask!" Treat from [[Trick or Treat Doors]]. His Extraction Speed will be almost 2.88 (≈18 seconds).
+**He will also extract faster if {{CDI|Tech Savvy|name=true}} is chosen, though only because it decreases the amount of units a [[Machine]] needs to be completed by 5 units, rather than directly affecting Extraction Speed.
+*In the starter [[Toon]] menu added in [[Changelog|v0.22.1]], Boxten's face is comprised of multiple 3D assets for his eyes and mouth instead of 2D textures. This was likely to make the facial expressions easier to do without tons of textures being needed.
+*Boxten acts as the representative [[Toon]] for the "Toons" option in the highlight accessibility settings. He mirrors this trait with his [[Twisted Boxten|Twisted counterpart]], who is the representative [[Twisted]] for an analogous option.
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Male]]

@@ -1,0 +1,172 @@
+{{DISPLAYTITLE:<span style="background:linear-gradient(90deg,#E8429D,#FFC567); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;">'''{{PAGENAME}}'''</span>}}{{Gallery Navigation|Twisted}}
+{{Toons
+|title1={{PAGENAME}}
+|image1=<gallery>
+Scraps Render.png|Render
+Scraps Full Render.png|Full Render
+Scraps Icon.png|Icon
+Scraps Full Icon.png|Full Icon/Introduction Card Artwork
+</gallery>
+|heart1=Heart
+|heart2=Heart
+|heart3=Heart
+|skill_check={{StatComp|Skill|2}}
+|movement_speed={{StatComp|Move|2}}
+|stamina={{StatComp|Stam|5}}
+|stealth={{StatComp|Stealth|3}}
+|extraction_speed={{StatComp|Extract|3}}
+|ability_1={{Center|{{AI|Scraps|name=true}}<br>{{Small|''(Active)''}}}}<br>This Toon can pull herself towards another Toon or {{Tooltip|Machine's|Includes Twisted Gigi's claw machine}} targeted position. Needs direct line of sight. 25 second cooldown.
+|requirement_1=1500 [[Ichor]]
+|requirement_2=50% [[Research]] on {{CI|Twisted Goob|name=true}}
+|skins=*Vintage
+*Pastel Paper
+*Crafty Calico
+*Rainbow Sherbet
+*Garden Bouquet
+*Wicked Stitch
+|gender=Female
+|pronouns=She/Her
+|designation=SC-015
+|release_date=06/14/2024 {{Small|(Alpha Release)}}
+}}
+
+{{Description}}
+
+{{ToonInfo|Toon=Scraps|extra=Paper Craft|Pronoun=She|Date=June 14th, 2024|type=Single}}
+
+==Appearance==
+Scraps is a yellow paper craft that resembles a paper origami cat. Her head is flat-ish hexagonal with pointed, salmon-colored ears that each have a vertical fold down the middle. She has two vertical, stick-like or scar-like darkish salmon-colored lines under her eyes that are fully visible when they are shut. She wears a white dress resembling an upside-down cupcake liner and has a tail poking through it. Her tail is yellow, thin, and has a darkish salmon-colored solo cup with white lining at the tip. On each of her limbs, she has round salmon-colored paws with three sharp darkish salmon-colored claws and a clawed thumb on both of her hand paws.
+
+==Personality==
+Scraps is a kind and artistic [[Toon]] who loves making arts & crafts and cares about the well-being of the other Toons, especially her younger brother, {{CI|Goob|name=true}}. She is sometimes airheaded and forgets to do things, such as in her interactions with {{CI|Brightney|name=true}} and {{CI|Tisha|name=true}}. She also looks for multiple ways to get materials for her art, such as with {{CI|Blot|name=true}} for his ink and even asked {{CI|Sprout|name=true}} about using ketchup as an alternative (to which both have refused to that). Despite not quite being a cat, she has many tendencies of one, such as liking yarn, hissing in some of her dialogues, getting on all fours when startled, liking fish, disliking water (though this may also be due to her being made of paper), and wagging her tail when annoyed or angry. She also may get somewhat aggressive and act a bit immature in some situations, such as in her interactions with {{CI|Pebble|name=true}} and another with {{CI|Shrimpo|name=true}}. She also may have a slight grudge towards Shrimpo, as she mentions him in her interactions with {{CI|Boxten|name=true}} and {{CI|Flyte|name=true}}.
+
+Overall, she is a mature Toon for the most part and cares about her brother, Goob, making sure that she is there for him.
+
+==Mastery==
+{{Mastery|Use this [[Toon]]'s Active [[Ability]] 100 times|Purchase 12 [[Items]] from [[Dandy's Elevator Shop]]|Encounter 25 [[Twisteds]]|Pick up 60 Items|Use 60 Items|Travel 85000 Meters}}
+
+===Mastery Strategies===
+{{MastComp|{{MastStrat|first|Active|-60}}|{{MastStrat|second|Buy Items}}|{{MastStrat|third|Encounter Twisteds}}|{{MastStrat|fourth and fifth|Collect and use|Use}}|{{MastStrat|sixth|Meters|2Star}}}}
+
+==Requirement Strategies==
+*For the first requirement, focus on picking up [[Research Capsules]] and extracting [[Machines]]. The Machine and Capsule count increases the further you descend, so you can earn more {{II|Ichor|name=true}}.
+*For the second requirement, have a Distractor [[Toon]] bring {{CI|Twisted Goob|name=true}} to the elevator to you so you can get aggro. Playing as {{CI|Rodger|name=true}} also helps you get Research faster because of his Passive [[Ability]]. This will be easier if Twisted Goob is on the [[Daily Twisted Board]].
+
+==Strategies==
+Scraps possesses the best Stamina stat in the game (tied with {{CI|Sprout|name=true}}, {{CI|Bobette|name=true}}, and {{CI|Blot|name=true}}) and an [[Ability]] that has the potential to help her escape from [[Twisteds]] or to quickly get to the [[Elevator]] during [[Panic Mode]] or get to Machines faster—granted there's another [[Toon]] or [[Machine]] nearby. These traits make her best suited to Survival. While her below-average [[Movement Speed]] does partially negate her large Stamina pool, [[Items]] like {{II|Speed Candy}}Speed Candies or {{II|Box o' Chocolates}}Boxes o' Chocolates and [[Trinkets]] such as {{TI|Pink Bow|name=true}} are more than capable of turning her into a force to be reckoned with. Otherwise, she doesn't excel at anything in particular.
+
+Hovering your mouse over nearby Toons on PC or being in their proximity on Mobile can quickly identify players or Machines with a white outline to grapple onto them. This is useful for noticing teammates through walls, but remember that her {{AI|Scraps|name=true}} Ability requires line of sight, however, if the target moves behind an object, you will continue to move to their location when you had initially grappled anyways. This could also work on Machines, but it is less efficient as you cannot rely on Machines to spawn in the right spots every run and grappling on Machines should more often than not be used if planning to extract them, but it is still a helpful tool. On later Floors, where Machine count increases, escape becomes easier due to the abundance of things to grapple onto. However, do keep in mind that in [[Blackouts]], there may be Twisteds near the Machine that may hit you right after using your Ability due to its slight endlag. It also takes about ~0.8 seconds for you to move towards the Machine after activating the Ability, so a bit of distance if you are being chased is welcome.
+
+While she does have 5{{Star}} Stamina, her 2 Star Movement Speed can conflict a lot, making her only outrun the Twisteds by a little bit as well as making it hard to lose sight of them. It is heavily recommended to use Run Speed Trinkets such as Pink Bow (24.2 run speed), {{TI|Speedy Shoes|name=true}} (23.125 run speed). With this, she can have lots of Stamina to run as well as having enough Run Speed to get away. Using {{TI|Clown Horn|name=true}}/{{TI|Ribbon Spool|name=true}} together is also good, but it will take both of your Trinket slots, though it comes at the benefit of 24.75 Run Speed, almost 3 Star Run Speed. Though, if you still want a Trinket slot open for something else, Pink Bow would probably be the best option out of these in terms of consistency. {{TI|Ghost Snakes In A Can|name=true}} can also be a good choice, especially in later Floors where more Machines spawn, allowing for even quicker travel across Floors, and taking advantage of the invincibility frames more often through her Ability, though it doesn't directly boost her Movement Speed, only general traversal.
+
+One niche Scraps is very good at is passing Twisteds to distractors, primarily coming down to her average Stealth and Ability. Since the most common distractor choices have 2 or 3 Stars in Stealth, she can easily pass Twisteds to them. When passing to 3 Star Toons, she can bring the Twisted towards their distraction area or near the distractor directly, before grappling to a faraway Machine or player, thus swapping the distance priority. Due to her invincibility frames while grappling, this can also allow her to pass faster Twisteds and ranged Twisteds more safely. When passing to 2 Star Stealth Toons, she could instead opt to grapple directly to the distractor. If she has {{TI|Diary|name=true}} equipped, she can use this exact strategy for 3 Star Stealth distractors as well. When combined with a Movement Speed increase from an Item or Trinket (such as Pink Bow), and her 5 Star Stamina, she can pass practically any Twisted to a distractor. This may not be applicable with a distractor who has 4+ Stars in Stealth, but she could possibly bring the Twisteds to the distractor, followed by U-turning around a corner or island by grappling. Although {{CI|Glisten|name=true}} and {{CI|Flutter|name=true}} could theoretically outdo her with this, thanks to their higher speeds, and Glisten's teleportation through walls, both of them don't get invincibility frames with their Abilities, have longer cooldowns, and Glisten has lower Stealth.
+
+Since Scraps' Ability gives her invincibility frames while she's grappling, it does allow her to make certain moves that many other Toons can't. She can bait or pass by long-ranged Twisteds ({{CI|Twisted Goob|name=true}} and {{CI|Twisted Scraps|name=true}}) without having to hide behind cover, since she could just grapple to a Machine/player. She can quickly leave the ranges of {{CI|Twisted Rodger|name=true}} and {{CI|Twisted Razzle & Dazzle|name=true}}, though the 2 Star Movement Speed could still be an issue. She can also pass straight through {{CI|Twisted Blot|name=true}}'s hands and {{CI|Twisted Sprout|name=true}}'s tendrils. Keep in mind that these do require a Machine or other Toon that is close enough to be in range.
+
+Scraps isn't the best Toon for completing [[Dyle's Floor]]; her lower mobility and [[Skill Check]] both pose large disadvantages, as she will struggle to get away from Twisteds (though this is somewhat mitigated by her [[Stamina]] [[stat]]) and her 2 Star Skill Check could put you at risk if you aren't good at hitting them, not to mention the +50 Stamina the Floor gives is really unnecessary for her. Though, she does have a niche at the same time, as the abundant amount of [[Machines]] scattered around the Floor can allow for quick traversal and escapes, thanks to her Ability's cooldown. If you struggle with survivability in terms of Movement Speed, [[Glisten]] may be a better alternative, as he has 3 Star Movement Speed and can extract much faster. His Ability's much longer cooldown, as well it not working on Machines, the 2 Star [[Stealth]] stat and shared Skill Check stat could make the switch kind of iffy.
+
+If you want to enhance Scraps' Extraction, using {{TI|Vee's Remote|name=true}} is a great option as the Floor can progress faster. Her below-average extractability makes extracting quite difficult for her, so, if other extractors are present, ask them to do your Machine, and use the time saved to find other Machines or run to the Elevator before Panic Mode begins.
+
+Note that Scraps' stat spread is quite medicore. 2 Star Skill Check coupled with 3 Star Extraction makes the extraction process a bit slow, and 2 Star Movement Speed makes her high Stamina less beneficial (being able to run for longer won't help if you can't outrun a fast Twisted like {{CI|Twisted Pebble|name=true}}). While these weaknesses can be mitigated with Trinkets and awareness, Scraps is generally overshadowed by most Toons who can extract faster and possess even better survival. Scraps' main advantage over others is her Stamina, but Stamina isn't a good stat to invest Stars in due to both Well-Paced and Endurance cards giving 20 Stamina and TIMES UP with 50, adding up to almost 3 extra Stars in Stamina. Additionally, though Scraps can traverse faster via Crafty Grapple, one may be better off with higher movement speed instead.
+
+===Trinket Combinations===
+{{Preference}}
+For specific [[Trinket]] recommendations, here are some possible combinations:
+
+====Survivability====
+*'''{{TI|Pink Bow|name=true}}/Options'''
+**This Trinket enables Scraps to outrun all Twisteds but {{CI|Twisted Bobette|name=true}}, {{CI|Twisted Gourdy|name=true}}, and {{CI|Twisted Dyle|name=true}} before [[Panic Mode]] {{Small|(24.2 run speed)}}. Here are some options to pair Pink Bow with:
+***'''{{TI|Speedy Shoes|name=true}}''', to outrun Twisted Bobette before Panic Mode {{Small|(25.3 run speed)}};
+***'''{{TI|Vanity Mirror|name=true}}''', to outrun every Twisted except Twisted Bobette during Panic Mode except for Twisted Gourdy (without Suppression) and Twisted Dyle {{Small|(31.4 run speed)}};
+***'''{{TI|Diary|name=true}}''', to not interfere with 3{{Star}} [[Stealth]] Distractors;
+****Only use this Trinket set if there is a distractor that meets such criteria in the first place.
+***'''{{TI|Train Whistle|name=true}}''', to make escaping with the {{Debuff|Slow|}}Debuff easier without losing much Stamina;
+***'''{{TI|Star Pillow|name=true}}''', to regenerate [[Stamina]] faster while extracting, taking advantage of her high Stamina and slow extraction;
+***Any of the Trinkets in the '''Extraction Section''', to help with [[Floor]] progression; etc.
+
+====Extraction====
+*'''{{TI|Magnifying Glass|name=true}}/Options'''
+**This Trinket allows Scraps to take full advantage over her 3{{Star}} [[Extraction Speed]] {{Small|(1.00 Extraction Speed)}} and 2 Star [[Skill Check]] {{Small|(67 Skill Check size)}}. Here are some options to pair Magnifying Glass with:
+***'''{{TI|Vee's Remote|name=true}}''', to allow for quicker Floor progression, especially if teammates also carry Vee's Remote;
+***'''{{TI|Participation Award|name=true}}''', to speed up [[Machine]] completion by maximizing Skill Check extraction. However, it leaves you with a near 1 Star Window Size {{Small|(27.11 avg/24.1 with Tech Savvy)}};
+***'''{{TI|Thinking Cap|name=true}}''', to increase [[Skill Check]] size, helping you hit your Skill Checks easier if you struggle with such;
+***'''{{TI|Mime Makeup|name=true}}''', to avoid attracting Twisteds to your location when you miss a Skill Check, also helps if you desire to complete [[Dyle's Floor]] at ease;
+***Any Trinkets listed in the '''Survivability/Mobility''' section, to help with survival.
+
+====Ability====
+*'''{{TI|Ghost Snakes In A Can|name=true}}/{{TI|Peppermint Icing|name=true}}'''
+**The cooldown reduction synergizes with Peppermint Icing, allowing Scraps to regain Stamina more often. With the {{CDI|Rehearsal/Practice|name=true}} cards, {{AI|Scraps|name=true}} reaches a cooldown of 10 seconds.
+***These Trinkets can additionally be used separately if you want to solely maximize either her Stamina or her cooldown;
+***[[File:Waxwell Render.png|frameless|25x25px]] [[Waxwell]] can also mitigate the cooldown to 5 seconds temporarily with his Buff, lengthened with  [[File:Cherished Blanket.png|frameless|25x25px]] [[Cherished Blanket]].
+
+==Dialogues==
+{{Scraps Dialogues}}
+
+==Audio==
+{|class="article-table" cellspacing="0" style="width:100%;"
+!Audio
+!Description 
+|-
+![[File:Scraps Ability Sound.ogg]]
+|The sound that plays when Scraps uses her {{AI|Scraps|name=true}} [[Ability]]
+|}
+
+==Trivia==
+*In [[Changelog|v0.7.1]], Scraps' [[Ability]] {{AI|Scraps|name=true}} was buffed to allow her to grab onto [[Machines]] as well, instead of just [[Toons]].
+**In that update, a bug where grappling onto a Toon moving behind an object made her Ability fail and make her stuck was patched.
+*Scraps is {{CI|Goob|name=true}}'s older sister.
+*There was a Scraps [[Introduction Card]] under the [[Elevator]] in-game, used for the arrows to know where to point during [[Panic Mode]].
+*Though her appearance is cat-like, she has stated that she isn't an actual cat and just has a feline appearance.
+**Despite this, Scraps claims to have an appetite for fish (which can be seen in a dialogue with {{CI|Finn|name=true}}) and hisses in some lines of dialogue (one with {{CI|Shrimpo|name=true}}, one with {{CI|Pebble|name=true}} and one with {{CI|Eclipse|name=true}} [as she made her hiss on purpose]).
+***She also likes yarn, as stated in {{CI|Tisha|name=true}}'s dialogue, which can be seen in her room—a common stereotype for cats.
+***Similar to a real cat, her tail wags/thrashes when she's annoyed or angry, as shown in her interaction with {{CI|Looey|name=true}}.
+****Seen in an animation with {{CI|Vee|name=true}}, her tail might give a small swish if she's happy/excited.
+***In an animation, she jumps on the buzzer scared when [[Vee]] appears next to her, with her pose being similar to how cats react when they are scared by something in cartoons.
+*Her name, Scraps, is a term used to describe small, leftover pieces of materials, especially taken from a bigger piece. This name may have been given to her due to her being a paper craft, which are usually made from scraps of paper.
+**Her cobbled-together appearance may also be a reason for this name, being a mixture of materials rather than just one type (paper, plastic cup, crayon, etc).
+**Another reason for this name could be that Scraps is a feline-like name.
+*Scraps does not mind {{CI|Dandy|name=true}}, but wants him to not let [[Pebble]] into the [[Elevator]], as stated in one of her interactions with Pebble.
+*Scraps has apparently won every prize [[Vee]] has given away on her show by giving lucky guesses for every answer.
+**This implies that Scraps can be very lucky, which is mentioned in an interaction with Vee. Cats are often tied to luck, which is likely the source of this trait.
+*In [[Roleplaying Mode]], Scraps shares the same room with [[Goob]] because they are siblings.
+*Scraps is designation '''SC-015''', with the '''SC''' standing for Side Character.
+**Despite being older than [[Goob]], Goob was oddly created before Scraps.
+*Scraps is the first non-[[Main Character]] [[Toon]] to have 5{{Star}} on a [[Stat]].
+**She was the only one to have it up until [[Changelog|v0.3]].
+*If Scraps and [[Goob]] use their [[Abilities]] on each other simultaneously, they will cancel out and the Scraps doesn't move.
+**If 2 Scraps use their Abilities on each other, they meet up in the middle.
+*[[Goob]] and Scraps have a similar [[Ability]], with Goob's letting him drag [[Toons]] toward him, and Scraps being able to drag herself towards Toons.
+*The magenta lines over Scraps' eyes are actually crayon makeup.
+**It is also likely that her [[Trinket]], {{TI|Crayon Set|name=true}}, was used to draw the lines.
+*Scraps was originally male in old concept art, being visible in some posters where she has no eyelashes and missing spaces between pronouns on her info card.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1266027125719302185</ref>
+**She is not canonically transgender, however.
+*Scraps was originally not going to be [[Goob]]'s sister when [[Qwel]] was designing her.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1305307327943016569</ref> But this was changed since Qwel thought it'd be a nice connection, and put the two together as siblings, mostly given that they're both crafts.<ref>https://discord.com/channels/969934252844138496/1251545388259741768/1305307423707500584</ref>
+*Originally, Scraps was not intended to be cat-like. Her 'cat ears' were initially intended on being horns, but they resembled cat ears strongly enough that [[Qwel]] decided to cave in with the cat look.
+**In a QnA stream, Qwel referred to Scraps' ears as horns on accident.
+**This might explain why [[Shrimpo]] says "{{Text|AND I DON'T LIKE YOUR EAR, HORN, THINGYS!!}}" in one of his dialogues with her.
+*Scraps would be nervous if someone else is watching her draw, as confirmed by [[Qwel]] in a New Years QnA stream.
+*Due to a bug after the [[2024 Christmas Event]], her {{Skin|Cutesy Calico}} [[Skin]] was completely removed from [[Dandy's Store]]. This bug was fixed and the skin returned later in a patch.
+*There was a bug where her {{Skin|Cutesy Calico}} [[Skin]] had no right foot on June 25, 2025. This was fixed shortly after.
+*Prior to [[Changelog|v0.26.1]], Scraps and [[Vee]] had the longest interaction in the game, with 7 lines.
+**This dialogue is now the second-longest, with the longest ones being [[Brusha]]'s dialogues with [[Rodger]] and {{CI|Toodles|name=true}}, with 8 lines each.
+*Scraps has acrophobia (fear of heights) seen in her interaction with {{CI|Flutter|name=true}}.
+**This is rather ironic considering her feline nature, since most cats instinctually seek higher ground and are able to withstand greater fall damage.
+*Despite her head being a hexagon, in the storyboard for Season 2, Episode 8, her head is an octagon, very likely a mistake.
+*In Scraps' dialogue with {{CI|Brusha|name=true}}, it seems Scraps believes Brusha's art isn't as real as her own art, as seen between the dialogue between the two. It also seems as if the two aren't on good terms as Brusha calls Scraps 'Glitter Glue painting'.
+*Scraps is one of the few [[Toons]] to actually fight back against [[Shrimpo]]'s bullying, albeit with hissing, with {{CI|Connie|name=true}} and [[Pebble]] being the only other Toons to fight back.
+*Scraps, [[Goob]], and {{CI|Brightney|name=true}} are the last Toons to get optimized.
+*Strangely, Scraps lacks eyelashes when she blinks, though this only applies to her Default Skin. This is very likely an editing mistake.
+*Scraps is the first [[Toon]] to have ears, the second being [[Looey]], the third being {{CI|Rudie|name=true}}, the fourth being {{CI|Cocoa|name=true}}, and the fifth being [[Eclipse]].
+*Scraps is currently the only playable [[Toon]] with 5{{Star}} [[Stamina]] to not have 2 Star [[Extraction Speed]], excluding {{CI|Dyle|name=true}} and [[Dandy]] since they are both developer exclusive.
+*Scraps' {{Skin|Cutesy Calico}} [[Skin]] was replaced by the {{Skin|Crafty Calico}} Skin for an unknown reason in [[Changelog|v0.20.1]].
+*Scraps is the first [[Toon]] to have a redesigned [[Skin]] along with [[Flutter]]'s {{Skin|Vivid Monarch}} Skin.
+*When using Scraps' [[Ability]] over an [[Ichor Leak]] puddle, you will still be inflicted with the {{Debuff|Illness|III}} and {{Debuff|Slow|I}}.
+*Scraps' {{Skin|Wicked Stitch}} [[Skin]] appears to be a reference to the "magical girl" archetype in Japanese fantasy media. Her tail in particular resembles the staff/wand that such a character typically wields.
+
+{{References}}
+
+{{ToonNav}}
+
+[[Category:Toons]]
+[[Category:Female]]
+[[Category:Toons with Relatives]]

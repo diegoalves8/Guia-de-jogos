@@ -1,0 +1,523 @@
+{{Long}}{{Thumbnail
+|image1=<gallery>
+Completed Mastery Stars.png
+</gallery>}}
+
+'''Mastery''' is a set of challenges for each [[Toon]]. The reward for completion is the Toon's {{Skin|Vintage}} [[Skin]], and Mastery on certain Toons is a requirement to purchase other ones (as of {{GameVersion}}). The loading menu suggests that additional lore will be unlocked through Mastery in future updates.
+
+==Uses==
+Uses for Mastery are:
+*Obtaining the Toon's Vintage [[Skin]]
+*Prerequisite to buy a [[Toon]]
+
+==Description==
+Each [[Toon]] comes with 6 quests to accomplish known as "Mastery quests". The tasks can be things like traveling a certain distance, surviving a number of [[Floors]], or finishing a number of [[Machines]]. The quests are usually catered to the Toon's specific strengths and [[Abilities]]. Completing all 6 Mastery quests on a Toon grants their Vintage [[Skin]]. All Vintage Skins change the Toon's color palette to monochrome and add highlight slits to their eyes (similar to old cartoons). However, the Vintage Skins are not a 1:1 grayscale version of their normal colors and often modify their brightness; if the Toon was already black and white (such as {{CI|Blot|name=true}}), most or all colors will change shades. Once Mastery is obtained, the Toon will gain two small, yellow sparkles on the top-right corner of their icon in the Toons menu. Mastery quests for any particular Toon only gain progress while that specific Toon is being used.
+
+Certain Toons require you to complete or partially complete Mastery on another Toon before you can purchase them. For example, you must fully master {{CI|Brightney|name=true}} to be able to purchase {{CI|Vee|name=true}}. This means you must complete all 6 quests for Brightney (which requires purchasing her) to fulfill that unlock requirement.
+
+You can see your Mastery by going to 'Toons' (in the [[Lobby]]) then clicking on the Toon, then clicking on 'Mastery' or clicking 'Stats' in a run. Alternatively, you can also check your Mastery by checking the Mastery TV inside the [[Elevator]] during a run. Once you have completed the Mastery, you must click 'CLAIM' (a green button underneath the Toon's Mastery) to claim their Vintage Skin. 
+
+Mastery is frequently onerous to acquire on a {{Type|Main}}.
+
+<table-progress-tracking table-id="1" unique-column-index="1" header-label="Completed?">
+{|class="fandom-table"
+|+Toon Mastery Requirements
+!rowspan="2"|Toon
+!colspan="6"|Quests
+|-
+!1st
+!2nd
+!3rd
+!4th
+!5th
+!6th
+|-
+|{{ToonBox|Astro|type=main}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Purchase 25 [[Items]] from [[Dandy's Elevator Shop]]!
+|Travel 150000 Meters!
+|Experience 12 [[Blackouts]]!
+|Pick up 125 Items!
+|Use 125 Items!
+|-
+|{{ToonBox|Bassie|type=eastermain}}
+|Use this [[Toon]]'s Active [[Ability]] 120 times!
+|Reach [[Floor]] 20!
+|Travel 160000 Meters!
+|Finish 110 [[Machines]]!
+|Survive 65 Floors!
+|Use 130 [[Items]]!
+|-
+|{{ToonBox|Blot|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 40 times!
+|Pick up 100 [[Research Capsules]]!
+|Survive 30 [[Floors]]!
+|Survive 10 Floors with {{CI|Looey|name=true}} and {{CI|Yatta|name=true}} in your round!
+|Travel 120000 meters!
+|Use 100 [[Items]]!
+|-
+|{{ToonBox|Bobette|type=christmasmain}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Reach [[Floor]] 20!
+|Travel 150000 Meters!
+|Finish 120 [[Machines]]!
+|Survive 60 Floors!
+|Use 125 [[Items]]!
+|-
+|{{ToonBox|Boxten|type=regular}}
+|Finish 50 [[Machines]]!
+|Survive 25 [[Floors]]!
+|Travel 50000 Meters!
+|Pick up 30 [[Items]]!
+|Survive 1 Floors with 7 other Players in your round!
+|Use 30 Items!
+|-
+|{{ToonBox|Brightney|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 50 times!
+|Finish 50 [[Machines]]!
+|Travel 80000 Meters!
+|Experience 15 [[Blackouts]]!
+|Pick up 60 [[Items]]!
+|Use 60 Items!
+|-
+|{{ToonBox|Brusha|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Finish 65 [[Machines]]!
+|Survive 5 [[Floors]] with {{CI|Tisha|name=true}} in your round!
+|Purchase 20 [[Items]] from [[Dandy's Elevator Shop]]!
+|Survive 25 Floors!
+|Travel 40000 Meters!
+|-
+|{{ToonBox|Coal|type=christmas}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Pick up 120 [[Items]]!
+|Travel 90000 Meters!
+|Pick up 85 [[Research]] Capsules!
+|Survive 5 [[Floors]] with {{CI|Pebble|name=true}} in your round!
+|Use 85 Items!
+|-
+|{{ToonBox|Cocoa|type=easter}}
+|Finish 65 [[Machines]]!
+|Survive 20 [[Floors]] with {{CI|Yatta|name=true}} in your round!
+|Use 120 [[Items]]!
+|Pick up 135 Items!
+|Travel 90000 Meters!
+|Use 35 BonBons!
+|-
+|{{ToonBox|Connie|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Survive 50 [[Floors]]!
+|Travel 55000 Meters!
+|Finish 50 [[Machines]]!
+|Survive 5 Floors with 2 other Players in your round!
+|Use 50 [[Items]]!
+|-
+|{{ToonBox|Cosmo|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 25 times!
+|Survive 30 [[Floors]]!
+|Travel 60000 Meters!
+|Pick up 35 [[Items]]!
+|Survive 5 Floors with 3 other Players in your round!
+|Use 35 Items!
+|-
+|{{ToonBox|Eclipse|type=halloween}}
+|Experience 15 [[Blackouts]]!
+|Survive 50 [[Floors]]!
+|Travel 100000 Meters!
+|Encounter 75 [[Twisteds]]!
+|Survive 3 Floors with 7 other Players in your round!
+|Use 80 [[Items]]!
+|-
+|{{ToonBox|Eggson|type=easter}}
+|Finish 30 [[Machines]]!
+|Pick up 30 [[Research]] Capsules!
+|Survive 25 [[Floors]]!
+|Activate this [[Toon]]'s Passive [[Ability]] 80 times!
+|Pick up 35 [[Items]]!
+|Travel 50000 Meters!
+|-
+|{{ToonBox|Finn|type=regular}}
+|Purchase 5 [[Items]] from [[Dandy's Elevator Shop]]!
+|Pick up 30 Items!
+|Travel 55000 Meters!
+|Finish 45 [[Machines]]!
+|Survive 30 [[Floors]]!
+|Use 30 Items!
+|-
+|{{ToonBox|Flutter|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Reach [[Floor]] 12!
+|Travel 90000 Meters!
+|Pick up 60 [[Items]]!
+|Survive 45 Floors!
+|Use 60 Items!
+|-
+|{{ToonBox|Flyte|type=easter}}
+|Use this [[Toon]]'s Active [[Ability]] 85 times!
+|Reach [[Floor]] 12!
+|Survive 5 Floors with {{CI|Flutter|name=true}} in your round!
+|Finish 60 [[Machines]]!
+|Survive 45 Floors!
+|Travel 90000 Meters!
+|-
+|{{ToonBox|Gigi|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 50 times!
+|Finish 65 [[Machines]]!
+|Travel 85000 Meters!
+|Purchase 30 [[Items]] from [[Dandy's Elevator Shop]]!
+|Pick up 150 Items!
+|Use 200 Items!
+|-
+|{{ToonBox|Ginger|type=christmas}}
+|Use this [[Toon]]'s Active [[Ability]] 25 times!
+|Survive 30 [[Floors]]!
+|Travel 55000 Meters!
+|Pick up 35 [[Items]]!
+|Survive 10 Floors with 2 other Players in your round!
+|Use 35 Items!
+|-
+|{{ToonBox|Glisten|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 60 times!
+|Pick up 60 [[Items]]!
+|Travel 100000 Meters!
+|Finish 100 [[Machines]]!
+|Survive 50 [[Floors]]!
+|Use 60 Items!
+|-
+|{{ToonBox|Goob|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Survive 3 [[Floors]] with 4 other Players in your round!
+|Travel 100000 Meters!
+|Pick up 80 [[Items]]!
+|Survive 25 Floors with {{CI|Scraps|name=true}} in your round!
+|Use 80 Items!
+|-
+|{{ToonBox|Gourdy|type=halloweenmain}}
+|Use this [[Toon]]'s Active [[Ability]] 120 times!
+|Pick up 100 [[Items]]!
+|Survive 30 Floors with any Main in your round!
+|Finish 175 [[Machines]]!
+|Survive 70 [[Floors]]!
+|Travel 150000 Meters!
+|-
+|{{ToonBox|Looey|type=regular}}
+|Finish 30 [[Machines]]!
+|Pick up 50 [[Research Capsules]]!
+|Survive 30 [[Floors]]!
+|Activate this [[Toon]]'s Passive [[Ability]] 30 times!
+|Pick up 45 [[Items]]!
+|Travel 80000 Meters!
+|-
+|{{ToonBox|Pebble|type=main}}
+|Use this [[Toon]]'s Active [[Ability]] 145 times!
+|Pick up 200 [[Items]]!
+|Survive 75 [[Floors]]!
+|Encounter 80 [[Twisteds]]!
+|Reach Floor 20!
+|Travel 175000 Meters!
+|-
+|{{ToonBox|Poppy|type=regular}}
+|Finish 30 [[Machines]]!
+|Pick up 30 [[Items]]!
+|Travel 50000 Meters!
+|Activate this [[Toon]]'s Passive [[Ability]] 30 times!
+|Survive 25 [[Floors]]!
+|Use 30 Items!
+|-
+|{{ToonBox|Razzle & Dazzle|type=regular|textsize=11|margin=4}}
+|Purchase 10 [[Items]] from [[Dandy's Elevator Shop]]!
+|Pick up 100 Items!
+|Travel 100000 Meters!
+|Finish 50 [[Machines]]!
+|Survive 75 [[Floors]]!
+|Use 100 Items!
+|-
+|{{ToonBox|Ribecca|type=halloween}}
+|Purchase 25 [[Items]] from [[Dandy's Elevator Shop]]!
+|Experience 5 [[Ichor Spills]]!
+|Travel 50000 Meters!
+|Finish 30 [[Machines]]!
+|Pick up 35 Items!
+|Use 35 Items!
+|-
+|{{ToonBox|Rodger|type=regular}}
+|Collect 1000% of [[Twisted Research]]!
+|Pick up 125 [[Research Capsules]]!
+|Travel 75000 Meters!
+|Encounter 100 [[Twisteds]]!
+|Pick up 60 [[Items]]!
+|Use 60 Items!
+|-
+|{{ToonBox|Rudie|type=christmas}}
+|Use this [[Toon]]'s Active [[Ability]] 60 times!
+|Pick up 35 [[Items]]!
+|Travel 50000 Meters!
+|Finish 30 [[Machines]]!
+|Survive 25 [[Floors]]!
+|Use 30 Items!
+|-
+|{{ToonBox|Scraps|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Encounter 25 [[Twisteds]]!
+|Travel 85000 Meters!
+|Purchase 12 [[Items]] from [[Dandy's Elevator Shop]]!
+|Pick up 60 Items!
+|Use 60 Items!
+|-
+|{{ToonBox|Shelly|type=main}}
+|Use this [[Toon]]'s Active [[Ability]] 125 times!
+|Pick up 100 [[Items]]!
+|Survive 15 Floors with 4 other Players in your round!
+|Finish 150 [[Machines]]!
+|Survive 80 [[Floors]]!
+|Travel 150000 Meters!
+|-
+|{{ToonBox|Shrimpo|type=regular}}
+|Finish 30 [[Machines]]!
+|Survive 30 [[Floors]]!
+|Travel 50000 Meters!
+|Pick up 30 [[Items]]!
+|Survive 5 Floors with 2 other Players in your round!
+|Use 30 Items!
+|-
+|{{ToonBox|Soulvester|type=halloween}}
+|Experience 5 [[Blackouts]]!
+|Survive 50 [[Floors]]!
+|Travel 50000 Meters!
+|Finish 100 [[Machines]]!
+|Survive 10 Floors with {{CI|Connie|name=true}} in your round!
+|Use 50 Items!
+|-
+|{{ToonBox|Sprout|type=main}}
+|Use this [[Toon]]'s Active [[Ability]] 50 times!
+|Survive 75 [[Floors]]!
+|Survive 30 Floors with {{CI|Cosmo|name=true}} in your round!
+|Pick up 85 [[Items]]!
+|Survive 15 Floors with 4 other Players in your round!
+|Travel 150000 Meters!
+|-
+|{{ToonBox|Squirm|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 100 times!
+|Finish 100 [[Machines]]!
+|Eats from 100 Bookshelves!
+|Survive 30 [[Floors]]!
+|Survive 5 Floors with {{CI|Brightney|name=true}} in your round!
+|Travel 60000 Meters!
+|-
+|{{ToonBox|Teagan|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 25 times!
+|Encounter 25 [[Twisteds]]!
+|Travel 75000 Meters!
+|Purchase 15 [[Items]] from [[Dandy's Elevator Shop]]!
+|Pick up 60 Items!
+|Use 60 Items!
+|-
+|{{ToonBox|Tisha|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 30 times!
+|Pick up 30 [[Items]]!
+|Survive 5 Floors with 3 other Players in your round!
+|Finish 30 [[Machines]]!
+|Survive 25 [[Floors]]!
+|Travel 50000 Meters!
+|-
+|{{ToonBox|Toodles|type=regular}}
+|Use this [[Toon]]'s Active [[Ability]] 75 times!
+|Pick up 35 [[Items]]!
+|Travel 52500 Meters!
+|Finish 30 [[Machines]]!
+|Survive 30 [[Floors]]!
+|Use 35 Items!
+|-
+|{{ToonBox|Vee|type=main}}
+|Use this [[Toon]]'s Active [[Ability]] 150 times!
+|Finish 150 [[Machines]]!
+|Pick up 100 [[Items]]!
+|Experience 12 [[Blackouts]]!
+|Encounter 75 [[Twisteds]]!
+|Travel 150000 Meters!
+|-
+|{{ToonBox|Waxwell|type=regular}}
+|Use this Toon's Active [[Ability]] 80 times!
+|Experience 8 [[Blackouts]]!
+|Complete 60 [[Duo Machines]] with another Player!
+|Complete Floor 10 with the {{TI|Cherished Blanket|name=true}} equipped!
+|Travel 111000 Meters!
+|Use 30 [[Instructions]]!
+|-
+|{{ToonBox|Yatta|type=regular}}
+|Finish 85 [[Machines]]!
+|Pick up 120 [[Items]]!
+|Travel 45000 Meters!
+|Pick up 50 [[Research Capsules]]!
+|Survive 20 [[Floors]] with {{CI|Looey|name=true}} in your round!
+|Use 120 Items!
+|}
+</table-progress-tracking>
+
+==Strategies==
+This will give you tips to complete the most frequent Mastery quests that usually show up for a Toon. For more detailed tips on how to complete a specific quest for a specific Toon, go to their own articles instead.
+===Item Usage/Obtainment===
+*For this quest, it's recommended to use [[Trinkets]] that grant you Items early on {{TI|Crayon Set|name=true}}, {{TI|Megaphone|name=true}} and {{TI|Pop Pack|name=true}}.
+*It's also a good idea to have a [[Toon]] joining you that can help you by generating more Items like {{CI|Cocoa|name=true}} or {{CI|Yatta|name=true}}, or a Toon that can help you find Items quicker like {{CI|Pebble|name=true}}, {{CI|Coal|name=true}}, or {{CI|Bassie|name=true}}.
+*Prioritize {{II|Gumballs|name=false}} and {{II|Box o' Chocolates|name=false}} for the use x Items quests, since they will provide more uses for an Item due to being multi-use.
+*Note buying Items from [[Dandy's Shop]] counts as picking up an Item, so Tape gaining Trinkets like {{TI|Fancy Purse|name=true}} can be viable.
+*You can also use the {{SI|Over here!|name=true}} Sticker to alert other players of Items and {{SI|Candy here!|name=true}} for specifically candy Items, and the {{SI|Bandage here!|name=true}} and {{SI|Medkit here!|name=true}} Stickers for healing Items. You can also use the {{SI|Golden Brick|name=true}} or {{SI|Golden Sprout!|name=true}} Sticker as they are seen by everyone and can make traversal easier.
+
+===Meters Travelled===
+*It is advised to equip speed [[Trinkets]] (recommended {{TI|Clown Horn|name=true}} and another Trinket like {{TI|Speedy Shoes|name=true}}, {{TI|Dog Plush|name=true}}, or {{TI|Pink Bow|name=true}}), and move around the first [[Floor]] as much as possible without leaving the Floor.
+*If the [[Toon]] you need to complete this quest has 3+ {{Star}} [[Movement Speed]], you can also try to distract for your team to make it less boring.
+*If the Toon is slow, you could use {{TI|Cooler|name=true}} with Clown Horn to sprint for longer without losing a lot of speed.
+*Find [[Items]] like {{II|Speed Candy|name=false}}, {{II|Eject Button|name=false}}, and {{II|Box o' Chocolates|name=false}} to move faster and a {{II|Stamina Candy|name=false}}, {{II|Protein Bar|name=false}}, {{II|Pop|name=false}}, and {{II|Bottle o' Pop|name=false}} to sprint for longer.
+*You can invite {{CI|Astro|name=true}} to help refill your Stamina so you can sprint for longer, {{CI|Tisha|name=true}} & {{CI|Flyte|name=true}} to help you move faster, {{CI|Yatta|name=true}} & {{CI|Cocoa|name=true}} to drop speed-related Items, {{CI|Bobette|name=true}} for her Stamina and speed-enhancing Passive Ability, and {{CI|Gourdy|name=true}} to speed you up for a few seconds when the Elevator opens.
+*During the [[Iced Over]] or [[Spring Fever]] Floor Events, it also greatly helps with the Mastery as it grants every Toons a speed boost as well, though be careful of the challenge that these events also bring up.
+
+===Active Ability Usage===
+*Just equip both {{TI|Ghost Snakes In A Can|name=true}} and {{TI|Sweet Charm|name=true}} and try to use your [[Ability]] as much as possible.
+*Voting on {{CDI|Rehearsal/Practice|name=true}} can also help to reduce the Toon's Active Ability cooldown.
+*You can have a {{CI|Waxwell|name=true}} consistently place his trail to remove a chunk of your cooldown, though you’ll have to make sure to stand in it until the flames disappear in order to get the most of the 2x countdown speed.
+*If the [[Toon]] you need to complete this Mastery quest is a healer Toon, try to invite someone in a duo run and ask them to take as many hits as possible. {{CI|Poppy|name=true}} and {{CI|Looey|name=true}} are more recommended for this as they have a quest to activate their Passive Abilities, which requires them to lose a {{Heart}}.
+**If you need it on {{CI|Cosmo|name=true}}, then another strategy is to ask another Cosmo to join a duo run and have one of you intentionally take a hit. After that, just keep healing each other back and forth until you (both) have the quest progress done.
+**You can also invite a {{CI|Yatta|name=true}} so when she gets hit, you can take the candies and finish your Item Masteries.
+*If the Toon needs {{Tape|name=true}} to use their Ability, swap one of the Trinkets out for {{TI|Fancy Purse|name=true}} and, if you run out of Tapes, restart and do a new run.
+**You can also ask a {{CI|Cocoa|name=true}} to give you {{II|BonBon|name=true}}s for more Tape income.
+*Keep in mind that {{CI|Bassie|name=true}} has no cooldown for her Active Ability, so you can easily complete this quest by finding a safe spot and spam drop/pick up an Item repeatedly.
+
+===Floors Reached/Survived===
+*Just try to find a good team to go to the highest [[Floor]] as you can faster.
+*If you want, you can use {{TI|Savory Charm|name=true}} to save yourself from a fatal attack if you tend to die early on. Keep in mind this is a '''one-time use''' and will not save you from a {{Type|Lethal}} attack.
+*Vote on {{CDI|First Aid/Medical Attention|name=true}} when on low Health to survive longer.
+*Leave {{Tape|name=true}} for {{CI|Sprout|name=true}} so they can use their Active [[Ability]], or Bassie so she can buy more Items from Dandy's Shop for you and your teammates, and prioritize healing Items for healer Toons like {{CI|Cosmo|name=true}} so he can heal you and your teammates in situations where you are low on Health.
+
+===Blackout Experience===
+*Similar to the quest above, as higher [[Floors]] increase [[Blackout]] chances, and try not to vote on the {{CDI|Electrician|name=true}} Card. Instead, vote for {{CDI|Piping Tape|name=true}} as soon as it shows up to maximize the Blackout probability.
+*Try to progress on this when no other events like [[Easter Event]] or [[Christmas Event]] are active, as their exclusive Floor Events, [[Spring Fever]] and [[Iced Over]], can further reduce the probability of Blackouts to occur when they are chosen to be picked instead.
+*It's also easier to progress on this one if {{CI|Twisted Brightney|name=true}} occupies the [[Daily Twisted Board]], since her appearance can increase the chance of Blackouts occurring on the Floors she resides in.
+
+===Twisted Encounters===
+*Similar to survive x [[Floors]], just try to encounter as many [[Twisteds]] as you can as you go through each Floor.
+*If you are in a run and a distractor is present, it is recommended to wait in the [[Elevator]] during [[Panic Mode]], ask the distractor to bring the Twisteds, and step out when the distractor is about to go in.
+
+===[[Machine]] Completion===
+*It's recommended to use [[Extraction Speed]] or [[Skill Check]] [[Trinkets]] for this, like {{TI|Vee's Remote|name=true}}, {{TI|Magnifying Glass|name=true}}, {{TI|Participation Award|name=true}}, etc. to extract Machines much faster.
+*You can also have another [[Toon]] to prime the Machines and complete them yourself.
+*Vote on {{CDI|Tech Savvy|name=true}} whenever you get a chance to speed up the quest progression even more.
+*Invite Toons like {{CI|Shelly|name=true}} or {{CI|Brusha|name=true}} to be able to extract faster.
+*Use [[Items]] like a {{II|Jumper Cable|name=false}}, a {{II|BonBon|name=false}}, {{II|Instructions|name=false}}, or an {{II|Extraction Speed Candy|name=false}} to make extraction faster. The Toons above are capable of finding/providing the Items for you.
+**You could also buy a {{II|Valve|name=false}} from the pre-game menu if you have at least 200 [[Ichor]].
+*If you are {{CI|Yatta|name=true}}, you could consider inviting some Toons that need to finish their Item Mastery as the Items you drop from doing Machines can help with those without losing {{Heart}}.
+*If you are skilled enough, it is quite recommended to do a solo run, as you guarantee that you will be doing all the Machines on the Floor.
+
+===Item Purchases from [[Dandy's Shop]]===
+*Use [[Trinkets]] like {{TI|Fancy Purse|name=true}} and/or {{TI|Coin Purse|name=true}} to get {{Tape|name=true}} early on. Additionally, {{TI|Dandy Plush|name=true}} can also be used to give you a 50% discount on all Dandy's Shop Items, which is more beneficial than the previously mentioned Trinkets.
+*Try to get [[Toons]] like  {{CI|Yatta|name=true}} and {{CI|Cocoa|name=true}} who can generate [[Items]] for you, as using Items can give you more Tapes to buy from {{CI|Dandy|name=true}}. Note higher rarity Items give more Tapes upon use.
+*Try using Extraction or Skill Check based Trinkets to extract [[Machines]] fast, as each Machine grants +10 Tapes upon fully completing it yourself.
+*Voting on these [[Cards]] below can help with this Mastery quests:
+**{{CDI|Blind Grab/Lost and Found|name=true}} will give everyone a random Item, which also gives some extra Tapes when you use them.
+**{{CDI|Penny Pincher/Spare Change|name=false}} will give everyone an extra 45 Tapes.
+**{{CDI|Frugal|name=false}} will give your whole team a 10% discount on Dandy's Shop Items.
+**{{CDI|Avaricious/Covetous|name=false}} will make the rarer Items spawn more likely on the Floor, which will also give more Tapes when you use them. Keep in mind that this can also be a disadvantage as it also increases the rarity of Dandy's Shop Items, which can make them more costly to buy.
+
+==Gallery==
+<gallery>
+Completed Boxten Mastery.png|[[Boxten]]'s completed Mastery
+Elevator TV Completed Mastery.png|Ditto, showing the Mastery on the TV between intermissions
+Boxten Skin List.png|Boxten's [[Skins]] list after completing his Mastery and collecting the reward
+Completed Mastery Stars.png|The completed Mastery icon
+BoxtenMasteryIcon.png|Boxten's icon with complete Mastery
+Not enough for the vintage cocoa.png|Unseeable Red Text saying "You do not have enough mastery for the VintageCocoa!", only viewable through lagging inputs while spamming the claim button for the Mastery Skin
+</gallery>
+
+==Skins==
+<gallery>
+Vintage Astro.png|[[Astro]]'s Vintage [[Skin]]
+Vintage Bassie.png|[[Bassie]]'s Vintage [[Skin]]
+Vintage Blot.png|[[Blot]]'s Vintage [[Skin]]
+Vintage Bobette.png|[[Bobette]]'s Vintage [[Skin]]
+Vintage Boxten.png|[[Boxten]]'s Vintage [[Skin]]
+Vintage Brightney.png|[[Brightney]]'s Vintage [[Skin]]
+Vintage Brusha.png|[[Brusha]]'s Vintage [[Skin]]
+Vintage Coal.png|[[Coal|Coal]]'s Vintage [[Skin]]
+Vintage Cocoa.png|[[Cocoa]]'s Vintage [[Skin]]
+Vintage Connie.png|[[Connie]]'s Vintage [[Skin]]
+Vintage Cosmo.png|[[Cosmo]]'s Vintage [[Skin]]
+Vintage Eclipse.png|[[Eclipse]]'s Vintage [[Skin]]
+Vintage Eggson.png|[[Eggson]]'s Vintage [[Skin]]
+Vintage Finn.png|[[Finn]]'s Vintage [[Skin]]
+Vintage Flutter.png|[[Flutter]]'s Vintage [[Skin]]
+Vintage Flyte.png|[[Flyte]]'s Vintage [[Skin]]
+Vintage Gigi.png|[[Gigi]]'s Vintage [[Skin]]
+Vintage Ginger.png|[[Ginger]]'s Vintage [[Skin]]
+Vintage Glisten.png|[[Glisten]]'s Vintage [[Skin]]
+Vintage Goob.png|[[Goob]]'s Vintage [[Skin]]
+Vintage Gourdy.png|[[Gourdy]]'s Vintage [[Skin]]
+Vintage Looey.png|[[Looey]]'s Vintage [[Skin]]
+Vintage Pebble.png|[[Pebble]]'s Vintage [[Skin]]
+Vintage Poppy.png|[[Poppy]]'s Vintage [[Skin]]
+Vintage Razzle & Dazzle.png|[[Razzle & Dazzle]]'s Vintage [[Skin]]
+Vintage Ribecca.png|[[Ribecca]]'s Vintage [[Skin]]
+Vintage Rodger.png|[[Rodger]]'s Vintage [[Skin]]
+Vintage Rudie.png|[[Rudie]]'s Vintage [[Skin]]
+Vintage Scraps.png|[[Scraps]]' Vintage [[Skin]]
+Vintage Shelly.png|[[Shelly]]'s Vintage [[Skin]]
+Vintage Shrimpo.png|[[Shrimpo]]'s Vintage [[Skin]]
+Vintage Soulvester.png|[[Soulvester]]'s Vintage [[Skin]]
+Vintage Sprout.png|[[Sprout]]'s Vintage [[Skin]]
+Vintage Squirm.png|[[Squirm]]'s Vintage [[Skin]]
+Vintage Teagan.png|[[Teagan]]'s Vintage [[Skin]]
+Vintage Tisha.png|[[Tisha]]'s Vintage [[Skin]]
+Vintage Toodles.png|[[Toodles]]' Vintage [[Skin]]
+Vintage Vee.png|[[Vee]]'s Vintage [[Skin]]
+Vintage Waxwell.png|[[Waxwell]]'s Vintage [[Skin]]
+Vintage Yatta.png|[[Yatta]]'s Vintage [[Skin]]
+</gallery>
+
+==Trivia==
+*On August 14, 2024, one of {{CI|Pebble|name=true}}'s Mastery requirements was changed from 'activate this [[Toon]]'s Passive [[Ability]] 30 times' to 'encounter 80 [[Twisteds]].' Those who had mastered Pebble still retained access to his Vintage Skin, but the sparkles disappeared from his icon until he was fully re-mastered.
+**Before the update, Pebble and {{CI|Poppy|name=true}} were the only Toons requiring Passive Abilities to be used for Mastery requirements.
+*[[Pebble]], {{CI|Bobette|name=true}}, and {{CI|Bassie|name=true}}'s Mastery requirements of reaching [[Floor]] 20 is widely considered to be the hardest Mastery requirement in the game. 
+**Pebble, Bobette, Bassie, {{CI|Flutter|name=true}}, and {{CI|Flyte|name=true}} are the only [[Toons]] whose requirements necessitate reaching a certain Floor, the latter two requiring Floor 12.
+**{{CI|Gourdy|name=true}} is the only [[Event]] {{Type|Main}} to not have a Mastery requirement of reaching Floor 20, and Pebble is the only base-game Main Character that requires you to reach Floor 20.
+*{{CI|Goob|name=true}}, {{CI|Sprout|name=true}}, {{CI|Coal|name=true}}, {{CI|Yatta|name=true}}, [[Flyte]], {{CI|Cocoa|name=true}}, {{CI|Blot|name=true}}, {{CI|Brusha|name=true}}, [[Gourdy]], {{CI|Soulvester|name=true}}, and {{CI|Squirm|name=true}} are the only [[Toons]] that require you to have another Toon with them for a certain amount of [[Floors]]. {{CI|Scraps|name=true}} is needed for Goob, {{CI|Cosmo|name=true}} is needed for Sprout, [[Pebble]] is needed for Coal, {{CI|Looey|name=true}} is needed for Yatta, Flutter is needed for Flyte, Yatta is needed for Cocoa, both Yatta and Looey are needed for Blot, {{CI|Tisha|name=true}} is needed for Brusha, any [[Main Character]] is needed for [[Gourdy]], {{CI|Connie|name=true}} is needed for Soulvester, and {{CI|Brightney|name=true}} is needed for Squirm.
+**Blot, Goob and Sprout require Mastery on the latter to be obtained while Coal, Yatta, Flyte, Cocoa, Brusha and Soulvester do not.
+**Blot's Mastery quest of having Yatta and Looey survive a certain amount of Floors with him is the only occurrence of a Toon requiring 2 Toons present for this type of Mastery.
+***Additionally, they must both be present for the Mastery quest to progress.
+*[[Brusha]], {{CI|Eggson|name=true}}, [[Flyte]], [[Gourdy]], [[Looey]], [[Pebble]], {{CI|Shelly|name=true}}, [[Sprout]], [[Tisha]], and  {{CI|Vee|name=true}} are the only [[Toons]] that don't require the usage of [[Items]]. 
+**However, all of these Toons do still require you to pick up Items.
+**{{CI|Astro|name=true}} is the only base [[Main Character]] that does require Item usage.
+**[[Gourdy]] is the only event Main Character that doesn't require Item usage for his Mastery.
+*The [[Skins]] that are obtained from these quests were the only original Skins, before the introduction of Skins available in [[Dandy's Store]] (later [[Dyle's Store]]).
+*Many [[Toons]] require Mastery on another Toon to unlock.
+**[[Shelly]] requires 100% Mastery on [[Tisha]].
+**[[Pebble]] requires 100% Mastery on {{CI|Toodles|name=true}}.
+**[[Sprout]] requires 100% Mastery on [[Cosmo]].
+**[[Vee]] requires 100% Mastery on [[Brightney]].
+**[[Goob]] requires 50% Mastery on [[Scraps]].
+**{{CI|Waxwell|name=true}} requires 50% Mastery on Goob.
+***Waxwell and Goob are the only Toons to need 50% Mastery for a Toon, compared to the usual 100%.
+**[[Looey]] requires 100% Mastery on [[Poppy]].
+**[[Blot]] requires 100% Mastery on both [[Looey]] and [[Yatta]].
+*[[Astro]] is the first Main Character [[Toon]] that doesn't require Mastery on another Toon, instead he requires an encounter with {{CI|Twisted Dandy|name=true}}.
+**Additionally, none of the [[Event Main Characters]] require Mastery on another Toon. Instead, they require 3000 of their respective Event Currency.
+*[[Pebble]], {{CI|Rodger|name=true}}, [[Vee]], {{CI|Teagan|name=true}}, [[Scraps]] and {{CI|Eclipse|name=true}} are the only [[Toons]] with Masteries that require you to encounter a certain amount of [[Twisteds]].
+*[[Looey]], [[Blot]], [[Waxwell]], and [[Goob]] are the only non-Main Character [[Toons]] that require Mastery on another Toon(s) to unlock.
+*Mastery can currently be checked on a TV in the [[Elevator]] and opening your STATS button.
+*{{CI|Shrimpo|name=true}} has one of the more annoying Masteries, as his abysmal Extraction Speed makes completing the required 30 [[Machines]] extremely slow. He also has to travel a lot of meters, something his 1{{Star}} Movement Speed and Stamina makes tedious.
+**Completing Machines can be made much easier by equipping [[Vee's Remote]] or having someone prime all the Machines and letting you finish them.
+**Not to mention, other [[Toons]] need to walk the same or even less with more Movement Speed, like [[Poppy]] or [[Yatta]].
+*[[Cocoa]] is the first [[Toon]] to have a Mastery requirement to use a specific Item, that being {{II|BonBon|name=true}}; the second is [[Waxwell]], who needs {{II|Instructions|name=false}}.
+**Cocoa is also the only Toon to not need her Active Ability to finish her Mastery, despite having one.
+***One could argue that the Ability is the only way to get the BonBons, but it can be obtained from either another Cocoa or the {{CDI|Blind Grab/Lost and Found|name=true}} Cards.
+*[[Blot]] is the first and currently only [[Toon]] who requires Mastery on two different Toons to be obtained, that being [[Looey]] and [[Yatta]].
+**Additionally, he is also the first and currently only Toon to require two Toons present in a run for a Mastery Quest, also being Looey and Yatta.
+*Every [[Toon]] requires traveling a certain amount of meters for their Mastery.
+**[[Brusha]] needs to travel the least, with 40,000 meters, [[Blot]] needs the most as a non-[[Main Character]] with 120,000, and [[Pebble]] needs the most at 175,000.
+***Pebble and [[Bassie]] are the only Main Character Toons to need to move more than 150,000 meters, with Bassie needing 160,000.
+****The amount of meters a Toon needs to travel in a Mastery is extremely unbalanced and tedious to complete due to various hindrances.
+*****Brusha, for example, who has 3 Star in [[Movement Speed]], only needs 40,000 meters, as stated above.
+*****[[Yatta]], in spite of her high mobility, actually has the second-least meters to travel, being behind Brusha at 45,000 meters. Some would argue that this is quite unbalanced compared to Toons who have worse mobility compared to Yatta and have to travel more meters, like {{CI|Ginger|name=true}}, or Toons with similar mobility stats traveling a lot more meters, like [[Tisha]]. Yatta's Passive Ability being able to drop Box o' Chocolates or Speed Candies gives her even more of an unfair advantage.
+*{{CI|Dandy|name=true}} and {{CI|Dyle|name=true}} are the only Toons to not have Mastery Quests as they are only accessible by developers. However, they could still get [[Toon of the Week]] Quests if they have one.
+*Coincidentally, back when [[Brusha]] still had her Toggle [[Ability]], her Mastery tracked the Ability as "Active". This was indirectly fixed after her Ability rework in [[Changelog|v0.26.1]], turning it to an actual Active Ability.
+
+{{MechanicNav}}
+[[Category:Mechanic]]
+[[Category:Long Article]]
