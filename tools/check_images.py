@@ -3,10 +3,12 @@ import json, pathlib, sys, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 urls = set()
+pages = set()  # links de loja: precisam abrir (HTTP 200)
 def walk(o):
     if isinstance(o, dict):
         for k, v in o.items():
             if k in ("image", "vintageImage", "cover") and isinstance(v, str) and v.startswith("http"): urls.add(v)
+            elif k == "storeUrl" and isinstance(v, str) and "play.google.com" in v: pages.add(v)
             else: walk(v)
     elif isinstance(o, list):
         for v in o: walk(v)
@@ -25,8 +27,17 @@ def check(u):
             last = str(e)
     return f"{u} -> {last}"
 
+def check_page(u):
+    try:
+        with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=20) as r:
+            return None if r.status == 200 else f"{u} -> {r.status}"
+    except Exception as e:
+        return f"{u} -> {e}"
+
 with ThreadPoolExecutor(8) as ex:
     fails = [x for x in ex.map(check, sorted(urls)) if x]
+    fails += [x for x in ex.map(check_page, sorted(pages)) if x]
+print(f"Links de loja verificados: {len(pages)}")
 print(f"Imagens verificadas: {len(urls)} | com problema: {len(fails)}")
 for x in fails: print("  ✗", x)
 sys.exit(1 if fails else 0)

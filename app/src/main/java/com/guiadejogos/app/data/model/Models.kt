@@ -13,7 +13,11 @@ data class GamesIndex(
     val contentVersion: Int,
     val updatedAt: String,
     val games: List<GameSummary>,
+    /** Novidades do app (mostradas na aba Novidades). */
+    val news: List<NewsItem>,
 )
+
+data class NewsItem(val date: String, val title: String, val body: String)
 
 /** Resumo de um jogo (card na lista de jogos). */
 data class GameSummary(
@@ -30,6 +34,15 @@ data class GameSummary(
     val cover: String,
     /** Números para o painel (personagens, skins/itens). */
     val stats: GameStats,
+    val developer: String,
+    /** Gêneros usados nos filtros da Home (Terror, Aventura, Roblox...). */
+    val genres: List<String>,
+    /** Selos como "Popular" e "Novo no app". */
+    val badges: List<String>,
+    val longDescription: String,
+    val storeUrl: String,
+    val storeLabel: String,
+    val compatibility: String,
 )
 
 data class GameStats(

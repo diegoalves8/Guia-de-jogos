@@ -12,6 +12,7 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawingPadding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
@@ -45,7 +46,7 @@ fun HomeScreen(onEnter: () -> Unit) {
             .fillMaxSize()
             .background(
                 Brush.verticalGradient(
-                    listOf(AppColors.Primary.copy(alpha = 0.35f), AppColors.Background, AppColors.Background),
+                    listOf(AppColors.Primary.copy(alpha = 0.22f), AppColors.Secondary.copy(alpha = 0.08f), AppColors.Background),
                 ),
             )
             .safeDrawingPadding(),
@@ -100,7 +101,12 @@ private fun Title(alignStart: Boolean, compact: Boolean) {
         Modifier.fillMaxWidth(),
         horizontalAlignment = if (alignStart) Alignment.Start else Alignment.CenterHorizontally,
     ) {
-        Text("🎮", fontSize = if (compact) 56.sp else 84.sp)
+        androidx.compose.foundation.layout.Box(
+            Modifier
+                .size(if (compact) 72.dp else 96.dp)
+                .background(Brush.linearGradient(listOf(AppColors.Primary, AppColors.Secondary)), RoundedCornerShape(if (compact) 22.dp else 28.dp)),
+            contentAlignment = Alignment.Center,
+        ) { Text("🎮", fontSize = if (compact) 36.sp else 48.sp) }
         Spacer(Modifier.height(8.dp))
         Text("GUIA DE JOGOS", style = MaterialTheme.typography.displayLarge, color = AppColors.TextPrimary, textAlign = align)
         Spacer(Modifier.height(12.dp))
@@ -118,14 +124,14 @@ private fun Title(alignStart: Boolean, compact: Boolean) {
 private fun EnterButton(onEnter: () -> Unit) {
     Button(
         onClick = onEnter,
-        shape = RoundedCornerShape(28.dp),
+        shape = RoundedCornerShape(50),
         colors = ButtonDefaults.buttonColors(containerColor = AppColors.Primary),
-        elevation = ButtonDefaults.buttonElevation(defaultElevation = 10.dp),
+        elevation = ButtonDefaults.buttonElevation(defaultElevation = 0.dp),
         modifier = Modifier
             .fillMaxWidth()
             .heightIn(min = 104.dp),
     ) {
-        Text("ENTRAR", fontSize = 36.sp, style = MaterialTheme.typography.displayLarge, color = AppColors.TextPrimary)
+        Text("ENTRAR", fontSize = 32.sp, style = MaterialTheme.typography.headlineLarge, color = androidx.compose.ui.graphics.Color.White)
     }
 }
 

@@ -6,15 +6,19 @@ import coil.ImageLoaderFactory
 import coil.disk.DiskCache
 import coil.memory.MemoryCache
 import com.guiadejogos.app.data.repository.ContentRepository
+import com.guiadejogos.app.data.repository.FavoritesStore
 
 /** Application: cria as dependências compartilhadas uma única vez. */
 class GuiaDeJogosApp : Application(), ImageLoaderFactory {
     lateinit var repository: ContentRepository
         private set
+    lateinit var favorites: FavoritesStore
+        private set
 
     override fun onCreate() {
         super.onCreate()
         repository = ContentRepository(this)
+        favorites = FavoritesStore(this)
     }
 
     /** Carregador de imagens com cache em memória e em disco (funciona offline após a 1ª vez). */

@@ -17,7 +17,7 @@ android {
         // No GitHub Actions cada build ganha um número novo (usado pela atualização dentro do app).
         val buildNumber = System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 0
         versionCode = 100 + buildNumber
-        versionName = "1.3.$buildNumber"
+        versionName = "1.4.$buildNumber"
 
         // URL base do conteúdo remoto (atualização sem gerar novo APK).
         // Deixe "" para usar somente o conteúdo embutido no app.

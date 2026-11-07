@@ -16,12 +16,40 @@ def dump(path, obj):
 
 ROBLOX_SEARCH = "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World"
 
+
+ROBLOX_PLAY = "https://play.google.com/store/apps/details?id=com.roblox.client"
+ROBLOX_COMPAT = "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
+META = {
+  "dandys-world": {"developer": "BlushCrunch Studio", "genres": ["Terror", "Roblox"], "badges": [],
+     "longDescription": "Jogo de terror cooperativo (estilo mascot horror) do Roblox. Você escolhe um Toon, conserta máquinas em cada andar do Gardenview Center e tenta escapar dos Twisteds. Cada Toon tem habilidades, missões de Maestria e skins.",
+     "storeUrl": "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World", "storeLabel": "Abrir no Roblox", "compatibility": ROBLOX_COMPAT},
+  "brawl-stars": {"developer": "Supercell", "genres": ["Estratégia", "Ação"], "badges": ["Popular"],
+     "longDescription": "Jogo de batalhas rápidas 3 contra 3 e Battle Royale da Supercell. Você desbloqueia e evolui Brawlers, cada um com ataque, Super, Gadgets, Star Powers e Hipercarga.",
+     "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars", "storeLabel": "Baixar na Play Store", "compatibility": "Android e iOS."},
+  "free-fire": {"developer": "Garena", "genres": ["Ação", "Aventura"], "badges": ["Popular"],
+     "longDescription": "Battle royale para celular da Garena: até 50 jogadores numa ilha, com personagens que têm habilidades próprias, pets e muitos modos de jogo.",
+     "storeUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth", "storeLabel": "Baixar na Play Store", "compatibility": "Android e iOS."},
+  "murder-mystery": {"developer": "Nikilis", "genres": ["Terror", "Roblox"], "badges": ["Popular"],
+     "longDescription": "Jogo de mistério do Roblox: a cada rodada um jogador é o Assassino, outro o Xerife e o resto Inocentes. Tem um dos maiores sistemas de troca de facas e armas do Roblox.",
+     "storeUrl": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery%202", "storeLabel": "Abrir no Roblox", "compatibility": ROBLOX_COMPAT},
+  "blox-fruits": {"developer": "Gamer Robot Inc", "genres": ["Aventura", "Roblox"], "badges": ["Popular", "Novo no app"],
+     "longDescription": "RPG de aventura do Roblox inspirado em One Piece. Você navega por três mares, sobe de nível, coleta frutas com poderes, espadas e estilos de luta.",
+     "storeUrl": "https://www.roblox.com/discover/?Keyword=Blox%20Fruits", "storeLabel": "Abrir no Roblox", "compatibility": ROBLOX_COMPAT},
+}
+NEWS = [
+  {"date": "2026-11-07", "title": "Visual novo", "body": "Interface redesenhada no estilo Play Store, com busca, favoritos e layout pensado para a tela horizontal da multimídia BYD."},
+  {"date": "2026-11-07", "title": "Blox Fruits chegou", "body": "51 frutas com preço em Beli e Robux, estilos de luta, espadas e raças."},
+  {"date": "2026-11-07", "title": "4 jogos completos", "body": "Brawl Stars (107 Brawlers), Free Fire (49 personagens), Murder Mystery 2 (156 armas) e criadores de conteúdo em todos os jogos."},
+  {"date": "2026-11-07", "title": "Atualização dentro do app", "body": "Em Configurações dá para baixar a versão nova do app e o conteúdo mais recente sem sair dele."},
+  {"date": "2026-11-07", "title": "Toons do Dandy's World", "body": "40 Toons com foto, custo, Maestria, 264 skins e mini tutorial animado."},
+]
 OS = json.load(open("/home/claude/scripts/others_stats.json"))
 DW_COVER = "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/" + json.load(open("/home/claude/wiki/images.json"))["images"]["Dandy Full Render.png"]["url"].split("/images/")[1].replace("/revision/latest", "/revision/latest/scale-to-width-down/400", 1)
 def st(gid): o = OS[gid]; return {"characters": o["characters"], "skins": o["skins"], "label": o["label"]}
 index = {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "updatedAt": TODAY,
+  "news": NEWS,
   "games": [
     {"id": "dandys-world", "name": "Dandy's World", "subtitle": "Terror cooperativo com Toons", "platform": "Roblox",
      "emoji": "🌼", "color": "#F59E0B", "status": "available", "file": "games/dandys-world.json", "cover": DW_COVER,
@@ -36,6 +64,9 @@ index = {
      "emoji": "🍈", "color": "#22C55E", "status": "available", "file": "games/blox-fruits.json", "cover": OS["blox-fruits"]["cover"], "stats": st("blox-fruits")},
   ],
 }
+for g in index["games"]:
+    g.update(META[g["id"]])
+    g["cover"] = g["cover"].replace("/scale-to-width-down/400", "/scale-to-width-down/800")
 dump(os.path.join(root, "games.json"), index)
 
 dandy = {

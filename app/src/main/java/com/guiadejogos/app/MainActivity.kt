@@ -11,10 +11,10 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        val repository = (application as GuiaDeJogosApp).repository
+        val app = application as GuiaDeJogosApp
         setContent {
             GuiaDeJogosTheme {
-                AppNavHost(repository = repository)
+                AppNavHost(repository = app.repository, favorites = app.favorites)
             }
         }
     }

@@ -12,6 +12,7 @@ import com.guiadejogos.app.data.model.GameSummary
 import com.guiadejogos.app.data.model.GamesIndex
 import com.guiadejogos.app.data.model.InfoItem
 import com.guiadejogos.app.data.model.LevelGroup
+import com.guiadejogos.app.data.model.NewsItem
 import com.guiadejogos.app.data.model.Section
 import com.guiadejogos.app.data.model.Toon
 import com.guiadejogos.app.data.model.ToonSkin
@@ -46,7 +47,17 @@ object ContentParser {
                     stats = g.optJSONObject("stats").let { st ->
                         GameStats(st?.optInt("characters") ?: 0, st?.optInt("skins") ?: 0, st?.optString("label").orEmpty())
                     },
+                    developer = g.optString("developer"),
+                    genres = g.optJSONArray("genres").strings(),
+                    badges = g.optJSONArray("badges").strings(),
+                    longDescription = g.optString("longDescription"),
+                    storeUrl = g.optString("storeUrl"),
+                    storeLabel = g.optString("storeLabel"),
+                    compatibility = g.optString("compatibility"),
                 )
+            },
+            news = root.optJSONArray("news").objects().map { n ->
+                NewsItem(n.optString("date"), n.optString("title"), n.optString("body"))
             },
         )
     }

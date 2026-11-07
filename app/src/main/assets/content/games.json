@@ -1,6 +1,33 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "updatedAt": "2026-11-07",
+  "news": [
+    {
+      "date": "2026-11-07",
+      "title": "Visual novo",
+      "body": "Interface redesenhada no estilo Play Store, com busca, favoritos e layout pensado para a tela horizontal da multimídia BYD."
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Blox Fruits chegou",
+      "body": "51 frutas com preço em Beli e Robux, estilos de luta, espadas e raças."
+    },
+    {
+      "date": "2026-11-07",
+      "title": "4 jogos completos",
+      "body": "Brawl Stars (107 Brawlers), Free Fire (49 personagens), Murder Mystery 2 (156 armas) e criadores de conteúdo em todos os jogos."
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Atualização dentro do app",
+      "body": "Em Configurações dá para baixar a versão nova do app e o conteúdo mais recente sem sair dele."
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Toons do Dandy's World",
+      "body": "40 Toons com foto, custo, Maestria, 264 skins e mini tutorial animado."
+    }
+  ],
   "games": [
     {
       "id": "dandys-world",
@@ -11,12 +38,22 @@
       "color": "#F59E0B",
       "status": "available",
       "file": "games/dandys-world.json",
-      "cover": "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/3/34/Dandy_Full_Render.png/revision/latest/scale-to-width-down/400?cb=20250201223857",
+      "cover": "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/3/34/Dandy_Full_Render.png/revision/latest/scale-to-width-down/800?cb=20250201223857",
       "stats": {
         "characters": 40,
         "skins": 264,
         "label": "Toons"
-      }
+      },
+      "developer": "BlushCrunch Studio",
+      "genres": [
+        "Terror",
+        "Roblox"
+      ],
+      "badges": [],
+      "longDescription": "Jogo de terror cooperativo (estilo mascot horror) do Roblox. Você escolhe um Toon, conserta máquinas em cada andar do Gardenview Center e tenta escapar dos Twisteds. Cada Toon tem habilidades, missões de Maestria e skins.",
+      "storeUrl": "https://www.roblox.com/discover/?Keyword=Dandy%27s%20World",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
     },
     {
       "id": "brawl-stars",
@@ -27,12 +64,24 @@
       "color": "#FACC15",
       "status": "available",
       "file": "games/brawl-stars.json",
-      "cover": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest/scale-to-width-down/400?cb=20251013023733",
+      "cover": "https://static.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest/scale-to-width-down/800?cb=20251013023733",
       "stats": {
         "characters": 107,
         "skins": 802,
         "label": "Brawlers"
-      }
+      },
+      "developer": "Supercell",
+      "genres": [
+        "Estratégia",
+        "Ação"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "longDescription": "Jogo de batalhas rápidas 3 contra 3 e Battle Royale da Supercell. Você desbloqueia e evolui Brawlers, cada um com ataque, Super, Gadgets, Star Powers e Hipercarga.",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+      "storeLabel": "Baixar na Play Store",
+      "compatibility": "Android e iOS."
     },
     {
       "id": "free-fire",
@@ -43,12 +92,24 @@
       "color": "#F97316",
       "status": "available",
       "file": "games/free-fire.json",
-      "cover": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest/scale-to-width-down/400?cb=20230131043654",
+      "cover": "https://static.wikia.nocookie.net/freefire/images/d/dd/Free_Fire.jpg/revision/latest/scale-to-width-down/800?cb=20230131043654",
       "stats": {
         "characters": 49,
         "skins": 0,
         "label": "Personagens"
-      }
+      },
+      "developer": "Garena",
+      "genres": [
+        "Ação",
+        "Aventura"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "longDescription": "Battle royale para celular da Garena: até 50 jogadores numa ilha, com personagens que têm habilidades próprias, pets e muitos modos de jogo.",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+      "storeLabel": "Baixar na Play Store",
+      "compatibility": "Android e iOS."
     },
     {
       "id": "murder-mystery",
@@ -59,12 +120,24 @@
       "color": "#EF4444",
       "status": "available",
       "file": "games/murder-mystery.json",
-      "cover": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9f/Murder-Mystery-2.png/revision/latest/scale-to-width-down/400?cb=20220209144621",
+      "cover": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9f/Murder-Mystery-2.png/revision/latest/scale-to-width-down/800?cb=20220209144621",
       "stats": {
         "characters": 156,
         "skins": 156,
         "label": "Armas"
-      }
+      },
+      "developer": "Nikilis",
+      "genres": [
+        "Terror",
+        "Roblox"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "longDescription": "Jogo de mistério do Roblox: a cada rodada um jogador é o Assassino, outro o Xerife e o resto Inocentes. Tem um dos maiores sistemas de troca de facas e armas do Roblox.",
+      "storeUrl": "https://www.roblox.com/discover/?Keyword=Murder%20Mystery%202",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
     },
     {
       "id": "blox-fruits",
@@ -75,12 +148,25 @@
       "color": "#22C55E",
       "status": "available",
       "file": "games/blox-fruits.json",
-      "cover": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest/scale-to-width-down/400?cb=20250731190159",
+      "cover": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/52/BloxFruitsHeader.png/revision/latest/scale-to-width-down/800?cb=20250731190159",
       "stats": {
         "characters": 51,
         "skins": 0,
         "label": "Frutas"
-      }
+      },
+      "developer": "Gamer Robot Inc",
+      "genres": [
+        "Aventura",
+        "Roblox"
+      ],
+      "badges": [
+        "Popular",
+        "Novo no app"
+      ],
+      "longDescription": "RPG de aventura do Roblox inspirado em One Piece. Você navega por três mares, sobe de nível, coleta frutas com poderes, espadas e estilos de luta.",
+      "storeUrl": "https://www.roblox.com/discover/?Keyword=Blox%20Fruits",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox)."
     }
   ]
 }

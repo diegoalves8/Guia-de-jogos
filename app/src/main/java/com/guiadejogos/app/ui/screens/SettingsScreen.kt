@@ -47,6 +47,18 @@ import com.guiadejogos.app.data.repository.ContentRepository
 import com.guiadejogos.app.data.update.AppUpdater
 import com.guiadejogos.app.ui.components.AppScreen
 import com.guiadejogos.app.ui.theme.AppColors
+import com.guiadejogos.app.ui.theme.Dimens
+import com.guiadejogos.app.ui.components.ChartEntry
+import com.guiadejogos.app.ui.components.DonutChart
+import com.guiadejogos.app.ui.components.HorizontalBarChart
+import com.guiadejogos.app.ui.components.PrimaryButton
+import com.guiadejogos.app.ui.components.SecondaryButton
+import com.guiadejogos.app.ui.components.compactNumber
+import com.guiadejogos.app.ui.components.rememberScreenInfo
+import androidx.compose.material.icons.filled.BarChart
+import androidx.compose.material.icons.filled.DeleteSweep
+import androidx.compose.material.icons.filled.Info
+import androidx.compose.material.icons.filled.Storage
 import kotlinx.coroutines.launch
 import java.io.File
 
@@ -59,9 +71,10 @@ private sealed interface AppUpdateUi {
     data class Problem(val message: String) : AppUpdateUi
 }
 
-/** Aba Atualizar: atualiza o app (APK) e o conteúdo, tudo por dentro do aplicativo. */
+@OptIn(coil.annotation.ExperimentalCoilApi::class)
+/** Aba Configurações: atualização do app e do conteúdo, armazenamento, estatísticas e sobre. */
 @Composable
-fun UpdatesScreen(repository: ContentRepository) {
+fun SettingsScreen(repository: ContentRepository, onBack: (() -> Unit)? = null) {
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
     var app by remember { mutableStateOf<AppUpdateUi>(AppUpdateUi.Checking) }
@@ -80,8 +93,10 @@ fun UpdatesScreen(repository: ContentRepository) {
         }
     }
     LaunchedEffect(Unit) { check() }
+    val stats by rememberLoad(Unit) { repository.loadIndex().games }
+    var cacheMsg by remember { mutableStateOf("") }
 
-    AppScreen(title = "Atualizar", onBack = null, inShell = true) { padding ->
+    AppScreen(title = "Configurações", onBack = onBack, inShell = onBack == null) { padding ->
         LazyColumn(
             contentPadding = PaddingValues(start = 20.dp, end = 20.dp, top = padding.calculateTopPadding() + 4.dp, bottom = 28.dp),
             verticalArrangement = Arrangement.spacedBy(18.dp),
@@ -96,7 +111,7 @@ fun UpdatesScreen(repository: ContentRepository) {
                         }
                         AppUpdateUi.UpToDate -> {
                             Text("✅ Você já está com a versão mais nova.", style = MaterialTheme.typography.bodyLarge, color = AppColors.TextPrimary)
-                            OutlinedButton(onClick = { check() }, modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp)) { Text("Procurar de novo") }
+                            SecondaryButton("Procurar de novo", Icons.Filled.Refresh, Modifier.fillMaxWidth()) { check() }
                         }
                         is AppUpdateUi.Available -> {
                             Text("🎉 Nova versão disponível: ${s.info.versionName}", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary)
@@ -131,7 +146,7 @@ fun UpdatesScreen(repository: ContentRepository) {
                         }
                         is AppUpdateUi.Problem -> {
                             Text(s.message, style = MaterialTheme.typography.bodyLarge, color = AppColors.TextSecondary)
-                            OutlinedButton(onClick = { check() }, modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp)) { Text("Tentar de novo") }
+                            SecondaryButton("Tentar de novo", Icons.Filled.Refresh, Modifier.fillMaxWidth()) { check() }
                         }
                     }
                 }
@@ -158,6 +173,37 @@ fun UpdatesScreen(repository: ContentRepository) {
                 }
             }
             item {
+                UpdateCard(Icons.Filled.Storage, "Armazenamento", "Imagens salvas para uso offline", AppColors.Secondary) {
+                    Text("As fotos ficam guardadas no aparelho para abrir rápido e sem internet. Limpe se quiser liberar espaço.", style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary)
+                    SecondaryButton("Limpar imagens salvas", Icons.Filled.DeleteSweep) {
+                        val loader = coil.Coil.imageLoader(context)
+                        loader.memoryCache?.clear()
+                        loader.diskCache?.clear()
+                        cacheMsg = "Imagens apagadas. Elas serão baixadas de novo quando você abrir as telas."
+                    }
+                    if (cacheMsg.isNotBlank()) Text(cacheMsg, style = MaterialTheme.typography.bodyMedium, color = AppColors.TextPrimary)
+                }
+            }
+            (stats as? LoadState.Success)?.data?.let { games ->
+                item {
+                    UpdateCard(Icons.Filled.BarChart, "Conteúdo do guia", "${games.size} jogos", AppColors.Primary) {
+                        val bars = games.mapIndexed { i, g -> ChartEntry(g.name, g.stats.characters.toFloat(), AppColors.Chart[i % AppColors.Chart.size]) }
+                        Text("Personagens por jogo", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary)
+                        HorizontalBarChart(bars)
+                        val slices = games.filter { it.stats.skins > 0 }.mapIndexed { i, g -> ChartEntry(g.name, g.stats.skins.toFloat(), AppColors.Chart[i % AppColors.Chart.size]) }
+                        if (slices.isNotEmpty()) {
+                            Text("Skins e itens", style = MaterialTheme.typography.titleMedium, color = AppColors.TextPrimary)
+                            DonutChart(slices, compactNumber(games.sumOf { it.stats.skins }), "no total", wide = rememberScreenInfo().widthDp >= 600)
+                        }
+                    }
+                }
+            }
+            item {
+                UpdateCard(Icons.Filled.Info, "Sobre", "Guia de Jogos ${BuildConfig.VERSION_NAME}", AppColors.TextSecondary) {
+                    Text("Dados e imagens vêm de wikis da comunidade (Fandom, licença CC BY-SA) e de fontes oficiais. Marcas e personagens pertencem aos seus donos. Este app não é oficial de nenhum dos jogos.", style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary)
+                }
+            }
+            item {
                 Text(
                     "As atualizações vêm do repositório do projeto no GitHub. O Android sempre pede sua confirmação antes de instalar.",
                     style = MaterialTheme.typography.bodyMedium, color = AppColors.TextSecondary.copy(alpha = 0.8f),
@@ -173,8 +219,8 @@ private fun UpdateCard(icon: ImageVector, title: String, subtitle: String, accen
     Column(
         Modifier
             .fillMaxWidth()
-            .background(Brush.linearGradient(listOf(accent.copy(alpha = 0.22f), AppColors.Surface)), RoundedCornerShape(24.dp))
-            .padding(20.dp),
+            .background(AppColors.Surface, RoundedCornerShape(Dimens.CardRadius))
+            .padding(22.dp),
         verticalArrangement = Arrangement.spacedBy(14.dp),
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
@@ -191,14 +237,5 @@ private fun UpdateCard(icon: ImageVector, title: String, subtitle: String, accen
 
 @Composable
 private fun BigButton(text: String, icon: ImageVector, color: Color, onClick: () -> Unit) {
-    Button(
-        onClick = onClick,
-        colors = ButtonDefaults.buttonColors(containerColor = color),
-        shape = RoundedCornerShape(18.dp),
-        modifier = Modifier.fillMaxWidth().heightIn(min = 58.dp),
-    ) {
-        Icon(icon, null)
-        Spacer(Modifier.width(10.dp))
-        Text(text, style = MaterialTheme.typography.labelLarge)
-    }
+    PrimaryButton(text, icon, Modifier.fillMaxWidth(), onClick)
 }
