@@ -1,0 +1,22 @@
+# Coleta dados de Brawl Stars, Free Fire, Murder Mystery 2 e Blox Fruits.
+# Grava na branch "game-data". Rodar: Actions → Collect Games → Run workflow.
+name: Collect Games
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/collect_games.py /tmp/game-data
+      - name: Gravar na branch game-data
+        run: |
+          cd /tmp/game-data
+          git init -q -b game-data && git add -A
+          git -c user.name="collector" -c user.email="actions@users.noreply.github.com" commit -q -m "Coleta $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" game-data
