@@ -1,0 +1,101 @@
+{
+ "universes": [
+  9826885587
+ ],
+ "games": [
+  {
+   "id": 9826885587,
+   "rootPlaceId": 134381727982611,
+   "name": "Evomon[🎃S4 StarUp]",
+   "description": "✨Catch. Battle. Explore. The adventure never ends.\nStep into a world of wild Evomons and hidden treasures.\n\n💫 Chase Shiny & Sparkle Evomons up to 200+\n🐾 Catch 'em, train 'em, and take on the world\n⚔️ Master skills and strategy to dominate every battle\n🦄 Ride legendary Evomons wherever you go\n👥 Team up with friends and conquer dungeons\n\n📢 Join our community for updates and exclusive codes!\n🎁Previous Codes: 2K-LIKES, THXFOR5K, 12klikes, 20000LIKES, 30K-LIKES, EVO60SPARK, EVO120HYPE, 240evoRISE\n👍Next code at 400K likes!\n\n🏷Tags: Open World, Pet Collection, Egg Hatching, Multiplayer, Role-playing, Adventure, PVE, Strategy, Turn-based",
+   "sourceName": null,
+   "sourceDescription": null,
+   "creator": {
+    "id": 665060893,
+    "name": "Evomon Devs",
+    "type": "Group",
+    "isRNVAccount": false,
+    "hasVerifiedBadge": true
+   },
+   "price": null,
+   "allowedGearGenres": [
+    "All"
+   ],
+   "allowedGearCategories": [],
+   "isGenreEnforced": false,
+   "copyingAllowed": false,
+   "playing": 3683,
+   "visits": 160403238,
+   "maxPlayers": 12,
+   "created": "2026-03-03T02:13:13.86Z",
+   "updated": "2026-11-06T01:48:38.865Z",
+   "studioAccessToApisAllowed": false,
+   "createVipServersAllowed": false,
+   "universeAvatarType": "MorphToR15",
+   "genre": "All",
+   "genre_l1": "Adventure",
+   "genre_l2": "",
+   "untranslated_genre_l1": "adventure",
+   "isAllGenre": true,
+   "isFavoritedByUser": false,
+   "favoritedCount": 378554,
+   "canonicalUrlPath": "/games/134381727982611/Evomon",
+   "isContentRestricted": false,
+   "isOfficiallyLicensed": false,
+   "isCommunityLicensed": false
+  }
+ ],
+ "icons": [
+  {
+   "targetId": 9826885587,
+   "state": "Completed",
+   "imageUrl": "https://tr.rbxcdn.com/180DAY-46b8d81af149a2c19c8d698127f81b58/512/512/Image/Png/noFilter",
+   "version": "TN3"
+  }
+ ],
+ "thumbnails": [
+  {
+   "universeId": 9826885587,
+   "error": null,
+   "thumbnails": [
+    {
+     "targetId": 137429006199091,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-43e63528aeba863fc3c6164575c7bedb/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 114890324351428,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-d099c463e01bd23167e29945bfd1366e/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 76159884736629,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-038125f59c17ae9761ab2fe16892ceb3/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 96539349595944,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-55214c1d1231d05fe2ea20f499a019ac/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 103822811047017,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-291e9fe3f88df05ec1a4f39404cbe5e6/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    }
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "id": 9826885587,
+   "upVotes": 313075,
+   "downVotes": 9124
+  }
+ ]
+}

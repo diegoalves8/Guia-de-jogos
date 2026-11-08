@@ -1,0 +1,101 @@
+{
+ "universes": [
+  97314177
+ ],
+ "games": [
+  {
+   "id": 97314177,
+   "rootPlaceId": 221718525,
+   "name": "Ninja Tycoon (v4.8)",
+   "description": "\nLike Demon Slayer? try my tycoon: https://www.roblox.com/games/6490016198/GRAND-OPENING-Slayer-Tycoon\n------------------------------\nE - Dash (Button on mobile) (Y button on console)\nDouble Space - Double Jump\nJump on Wall - Wall Climbing\n*Activate Gamepass Modes in the Robux GUI, click the one you own\n------------------------------\nJoin the discoard to read the update log.\n------------------------------\nBe aware that this game doesn't save tycoons and weapons. It was not designed to be that way.\n-----------------------------------\nDEVS:\nColdjason (Me) - Creator\nAzuriteStorm - Builder + Modeler\n",
+   "sourceName": null,
+   "sourceDescription": null,
+   "creator": {
+    "id": 6781227,
+    "name": "Coldjason",
+    "type": "User",
+    "isRNVAccount": false,
+    "hasVerifiedBadge": false
+   },
+   "price": null,
+   "allowedGearGenres": [
+    "All"
+   ],
+   "allowedGearCategories": [],
+   "isGenreEnforced": true,
+   "copyingAllowed": false,
+   "playing": 891,
+   "visits": 586928589,
+   "maxPlayers": 9,
+   "created": "2015-02-28T15:10:40.33Z",
+   "updated": "2026-11-05T01:01:01.474Z",
+   "studioAccessToApisAllowed": false,
+   "createVipServersAllowed": false,
+   "universeAvatarType": "MorphToR6",
+   "genre": "All",
+   "genre_l1": "Simulation",
+   "genre_l2": "Tycoon",
+   "untranslated_genre_l1": "simulation",
+   "isAllGenre": true,
+   "isFavoritedByUser": false,
+   "favoritedCount": 1265142,
+   "canonicalUrlPath": "/games/221718525/Ninja-Tycoon",
+   "isContentRestricted": false,
+   "isOfficiallyLicensed": false,
+   "isCommunityLicensed": false
+  }
+ ],
+ "icons": [
+  {
+   "targetId": 97314177,
+   "state": "Completed",
+   "imageUrl": "https://tr.rbxcdn.com/180DAY-21ac2ac18c5470dde98ee80e62149013/512/512/Image/Png/noFilter",
+   "version": "TN3"
+  }
+ ],
+ "thumbnails": [
+  {
+   "universeId": 97314177,
+   "error": null,
+   "thumbnails": [
+    {
+     "targetId": 125557940376004,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-478cf166b1844239a77d67053545595f/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 7534080290,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-07912b7927b281f902838b7868b1edec/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 6673958545,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-4e526bb2fe23d585158a1b91bc228639/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 5985519341,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-81cb1d664ba13415a66b210c17a09af0/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 5985518228,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-104caf1cba107f1fd15366bea06d041d/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    }
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "id": 97314177,
+   "upVotes": 427053,
+   "downVotes": 50159
+  }
+ ]
+}

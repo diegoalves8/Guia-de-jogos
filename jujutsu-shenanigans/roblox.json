@@ -1,0 +1,95 @@
+{
+ "universes": [
+  3508322461
+ ],
+ "games": [
+  {
+   "id": 3508322461,
+   "rootPlaceId": 9391468976,
+   "name": "[🎃] Jujutsu Shenanigans",
+   "description": "\"what are you doing\"\n\"im doing some jujutsu shenanigans\" (tell that to your friends)\n\nM1 - melee combo\n1,2,3,4 - skills\nQ - dash (use in stun to escape)\nF - block\nR - special\nW+W - sprint (automatically avoids obstacles)\nG - awaken\n\ncombat based off many battleground games\ndestruction inspired by combat mayhem\n\nBest Action Experience RIA 2026",
+   "sourceName": null,
+   "sourceDescription": null,
+   "creator": {
+    "id": 16357742,
+    "name": "Jujutsu Shenanigans!",
+    "type": "Group",
+    "isRNVAccount": false,
+    "hasVerifiedBadge": false
+   },
+   "price": null,
+   "allowedGearGenres": [
+    "Ninja"
+   ],
+   "allowedGearCategories": [],
+   "isGenreEnforced": true,
+   "copyingAllowed": false,
+   "playing": 129363,
+   "visits": 7901084229,
+   "maxPlayers": 25,
+   "created": "2022-04-17T04:51:12.57Z",
+   "updated": "2026-11-05T05:29:22.772Z",
+   "studioAccessToApisAllowed": false,
+   "createVipServersAllowed": false,
+   "universeAvatarType": "MorphToR6",
+   "genre": "Fighting",
+   "genre_l1": "Action",
+   "genre_l2": "Battlegrounds & Fighting",
+   "untranslated_genre_l1": "action",
+   "isAllGenre": false,
+   "isFavoritedByUser": false,
+   "favoritedCount": 3246714,
+   "canonicalUrlPath": "/games/9391468976/Jujutsu-Shenanigans",
+   "isContentRestricted": false,
+   "isOfficiallyLicensed": false,
+   "isCommunityLicensed": false
+  }
+ ],
+ "icons": [
+  {
+   "targetId": 3508322461,
+   "state": "Completed",
+   "imageUrl": "https://tr.rbxcdn.com/180DAY-d050b3c50d30c76d215accd60ddbb1c5/512/512/Image/Png/noFilter",
+   "version": "TN3"
+  }
+ ],
+ "thumbnails": [
+  {
+   "universeId": 3508322461,
+   "error": null,
+   "thumbnails": [
+    {
+     "targetId": 15874942242,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-decec85a41b80e4ac0beca8bc2952a7f/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 109893847909470,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-a178607f37f81c9ffc263e1632f88952/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 114648930169353,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-1afada1f2148cc07c1ed6a14ae9df856/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    },
+    {
+     "targetId": 75713219276135,
+     "state": "Completed",
+     "imageUrl": "https://tr.rbxcdn.com/180DAY-5c155751d56d75efe88078cb3e747216/768/432/Image/Png/noFilter",
+     "version": "TN3"
+    }
+   ]
+  }
+ ],
+ "votes": [
+  {
+   "id": 3508322461,
+   "upVotes": 2731266,
+   "downVotes": 433173
+  }
+ ]
+}
