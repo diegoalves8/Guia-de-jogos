@@ -1,0 +1,1748 @@
+{
+ "id": "ninja-tycoon",
+ "name": "Ninja Tycoon",
+ "emoji": "🥷",
+ "color": "#F97316",
+ "cover": "https://raw.githubusercontent.com/diegoalves8/Guia-de-jogos/main/media/roblox/ninja-tycoon/thumb1.jpg",
+ "description": "Tycoon de ninjas do Roblox inspirado em Naruto: monte sua base, compre jutsus e lute.",
+ "credits": [
+  "Criado por Coldjason, com AzuriteStorm na construção e modelagem.",
+  "No Roblox desde fevereiro de 2015 (antes chamado Naruto Tycoon)."
+ ],
+ "categories": [
+  {
+   "id": "codigos",
+   "title": "Códigos",
+   "emoji": "🎁",
+   "description": "O jogo tem códigos?",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "O Ninja Tycoon não tem sistema de códigos: desde 2015 o criador nunca lançou um código de recompensa. Os botões do jogo levam às lojas."
+    },
+    {
+     "type": "codes",
+     "title": "Códigos",
+     "codes": []
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Cuidado com sites e vídeos que prometem \"códigos do Ninja Tycoon\": eles não funcionam. Novidades oficiais saem no Discord do criador (Coldjason)."
+    }
+   ]
+  },
+  {
+   "id": "transformacoes",
+   "title": "Transformações",
+   "emoji": "🦊",
+   "description": "8 transformações de Robux com preço, bônus e golpes.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Transformações são modos que deixam o ninja mais forte (mais vida, velocidade e golpes novos). A maioria é comprada com Robux; algumas com Ryo. O jogo tem 17 transformações; aqui estão as da wiki com detalhes."
+    },
+    {
+     "type": "toons",
+     "title": "Com Robux (8)",
+     "toons": [
+      {
+       "id": "baryon-mode",
+       "name": "Baryon mode",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/ab/Baryon_mode.png/revision/latest/scale-to-width-down/300?cb=20230417161627",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "976 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Baryon mode",
+         "text": "Transformação inspirada em Naruto e Kurama fundidos (Boruto).",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/ab/Baryon_mode.png/revision/latest/scale-to-width-down/300?cb=20230417161627"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 976 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/ab/Baryon_mode.png/revision/latest/scale-to-width-down/300?cb=20230417161627"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/ab/Baryon_mode.png/revision/latest/scale-to-width-down/300?cb=20230417161627"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/ab/Baryon_mode.png/revision/latest/scale-to-width-down/300?cb=20230417161627"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Baryon+mode+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 976 Robux",
+          "Inspirado em: Naruto e Kurama fundidos (Boruto)"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "rinnegon-sosuke-rikudou-narotu",
+       "name": "Rinnegon Sosuke & Rikudou Narotu",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/2/2e/RIKUDO.png/revision/latest/scale-to-width-down/300?cb=20220825011351",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "876 Robux (só em dezembro e janeiro, ou em datas especiais)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Rinnegon Sosuke & Rikudou Narotu",
+         "text": "Transformação inspirada em Sasuke com Rinnegan e Naruto Modo Seis Caminhos.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/2/2e/RIKUDO.png/revision/latest/scale-to-width-down/300?cb=20220825011351"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 876 Robux (só em dezembro e janeiro, ou em datas especiais). Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/2/2e/RIKUDO.png/revision/latest/scale-to-width-down/300?cb=20220825011351"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/2/2e/RIKUDO.png/revision/latest/scale-to-width-down/300?cb=20220825011351"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/2/2e/RIKUDO.png/revision/latest/scale-to-width-down/300?cb=20220825011351"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Rinnegon+Sosuke+&+Rikudou+Narotu+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 876 Robux (só em dezembro e janeiro, ou em datas especiais)",
+          "Inspirado em: Sasuke com Rinnegan e Naruto Modo Seis Caminhos"
+         ]
+        },
+        {
+         "title": "🌀 Golpes e modos",
+         "items": [
+          "Hover",
+          "Truth Seeking Orbs",
+          "Truth Pillars",
+          "Six Paths Ultra Rasenshuriken",
+          "Super Beast Rasenshuriken",
+          "Magnet Rasengan",
+          "Majestic Armored Beast",
+          "Amenote Swift",
+          "Deity Arrow",
+          "Aura Vision",
+          "Onyx Chidori",
+          "Blaze Pull"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "karma",
+       "name": "Karma",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/af/Karma.png/revision/latest/scale-to-width-down/300?cb=20211001025643",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "616 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Karma",
+         "text": "Transformação inspirada em Modo Karma de Boruto e Kawaki.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/af/Karma.png/revision/latest/scale-to-width-down/300?cb=20211001025643"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 616 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/af/Karma.png/revision/latest/scale-to-width-down/300?cb=20211001025643"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/af/Karma.png/revision/latest/scale-to-width-down/300?cb=20211001025643"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/a/af/Karma.png/revision/latest/scale-to-width-down/300?cb=20211001025643"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Karma+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 616 Robux",
+          "Bônus de vida: Grande",
+          "Bônus de velocidade: Médio",
+          "Inspirado em: Modo Karma de Boruto e Kawaki"
+         ]
+        },
+        {
+         "title": "🌀 Golpes e modos",
+         "items": [
+          "Joegan",
+          "Black Emerge",
+          "Karma Blast: Zone",
+          "Space time portal",
+          "Hover",
+          "Emperor Rasengan",
+          "Karma Blast: Beam",
+          "Impact Modi"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "toad-sage-mode",
+       "name": "Toad Sage Mode",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/c/c5/TSM.png/revision/latest/scale-to-width-down/300?cb=20221015031134",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "26 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Toad Sage Mode",
+         "text": "Transformação inspirada em Modo Sábio dos Sapos (Naruto e Jiraiya).",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/c/c5/TSM.png/revision/latest/scale-to-width-down/300?cb=20221015031134"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 26 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/c/c5/TSM.png/revision/latest/scale-to-width-down/300?cb=20221015031134"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/c/c5/TSM.png/revision/latest/scale-to-width-down/300?cb=20221015031134"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/c/c5/TSM.png/revision/latest/scale-to-width-down/300?cb=20221015031134"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Toad+Sage+Mode+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 26 Robux",
+          "Inspirado em: Modo Sábio dos Sapos (Naruto e Jiraiya)"
+         ]
+        },
+        {
+         "title": "🌀 Golpes e modos",
+         "items": [
+          "Rasenrengan",
+          "Giant Rasengan",
+          "Sage Toad",
+          "Frog Singing Illusion"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "demon-fox-cloak",
+       "name": "Demon Fox Cloak",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/9/93/Demon_Fox_Cloak.png/revision/latest/scale-to-width-down/300?cb=20210730191144",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "126 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Demon Fox Cloak",
+         "text": "Transformação inspirada em Mantos da Kurama usados por Naruto.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/9/93/Demon_Fox_Cloak.png/revision/latest/scale-to-width-down/300?cb=20210730191144"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 126 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/9/93/Demon_Fox_Cloak.png/revision/latest/scale-to-width-down/300?cb=20210730191144"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/9/93/Demon_Fox_Cloak.png/revision/latest/scale-to-width-down/300?cb=20210730191144"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/9/93/Demon_Fox_Cloak.png/revision/latest/scale-to-width-down/300?cb=20210730191144"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Demon+Fox+Cloak+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 126 Robux",
+          "Bônus de vida: Médio",
+          "Bônus de velocidade: Pequeno",
+          "Inspirado em: Mantos da Kurama usados por Naruto"
+         ]
+        },
+        {
+         "title": "🌀 Golpes e modos",
+         "items": [
+          "Rage Rasangun",
+          "Beast Bomb",
+          "Beast Blast"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "eight-inner-gates",
+       "name": "Eight Inner Gates",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/e/e0/Eightinnergates.png/revision/latest/scale-to-width-down/300?cb=20221015040057",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "116 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Eight Inner Gates",
+         "text": "Transformação inspirada em Os Oito Portões (Guy e Lee).",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/e/e0/Eightinnergates.png/revision/latest/scale-to-width-down/300?cb=20221015040057"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 116 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/e/e0/Eightinnergates.png/revision/latest/scale-to-width-down/300?cb=20221015040057"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/e/e0/Eightinnergates.png/revision/latest/scale-to-width-down/300?cb=20221015040057"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/e/e0/Eightinnergates.png/revision/latest/scale-to-width-down/300?cb=20221015040057"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Eight+Inner+Gates+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 116 Robux",
+          "Bônus de vida: Moderado a pequeno",
+          "Bônus de velocidade: Grande (o modo mais rápido)",
+          "Inspirado em: Os Oito Portões (Guy e Lee)"
+         ]
+        },
+        {
+         "title": "🌀 Golpes e modos",
+         "items": [
+          "Hiru Tiger",
+          "Elephant Blast",
+          "Reverse Lotus",
+          "Night Guy"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "snake-sage-mode",
+       "name": "Snake Sage Mode",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/3/3b/Modo_Sabio_de_las_serpientes_.png/revision/latest/scale-to-width-down/300?cb=20240907064853",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "156 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Snake Sage Mode",
+         "text": "Transformação inspirada em Modo Sábio das Cobras (Kabuto e Mitsuki).",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/3/3b/Modo_Sabio_de_las_serpientes_.png/revision/latest/scale-to-width-down/300?cb=20240907064853"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 156 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/3/3b/Modo_Sabio_de_las_serpientes_.png/revision/latest/scale-to-width-down/300?cb=20240907064853"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/3/3b/Modo_Sabio_de_las_serpientes_.png/revision/latest/scale-to-width-down/300?cb=20240907064853"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/3/3b/Modo_Sabio_de_las_serpientes_.png/revision/latest/scale-to-width-down/300?cb=20240907064853"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Snake+Sage+Mode+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 156 Robux",
+          "Bônus de vida: Médio",
+          "Bônus de velocidade: Médio",
+          "Inspirado em: Modo Sábio das Cobras (Kabuto e Mitsuki)"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "curse-mark",
+       "name": "Curse Mark",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Curse_Mark.png/revision/latest/scale-to-width-down/300?cb=20210730174350",
+       "vintageImage": "",
+       "kind": "Transformação · Robux",
+       "cost": "6 Robux",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Curse Mark",
+         "text": "Transformação inspirada em Selo Amaldiçoado do Sasuke.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Curse_Mark.png/revision/latest/scale-to-width-down/300?cb=20210730174350"
+        },
+        {
+         "title": "1. Compre o gamepass",
+         "text": "Custa 6 Robux. Compre pelo botão de Robux no jogo ou na página do Roblox.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Curse_Mark.png/revision/latest/scale-to-width-down/300?cb=20210730174350"
+        },
+        {
+         "title": "2. Ative",
+         "text": "Abra o pergaminho do lado esquerdo da tela, toque no símbolo de Robux e escolha a transformação.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Curse_Mark.png/revision/latest/scale-to-width-down/300?cb=20210730174350"
+        },
+        {
+         "title": "3. Compre os golpes",
+         "text": "Os golpes do gamepass ficam no 2º andar da loja de habilidades e custam Cash.",
+         "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Curse_Mark.png/revision/latest/scale-to-width-down/300?cb=20210730174350"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Curse+Mark+Ninja+Tycoon+Roblox",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Preço: 6 Robux",
+          "Bônus de vida: Pequeno",
+          "Bônus de velocidade: Nenhum",
+          "Inspirado em: Selo Amaldiçoado do Sasuke"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "items",
+     "title": "💰 Compradas com Ryo",
+     "items": [
+      {
+       "name": "Hallow Beast",
+       "tags": [
+        "Só no Halloween",
+        "Nota B"
+       ],
+       "description": "Golpes: Toilet Paper Bind, Pumpkin Jack, Trick or Treat",
+       "fields": {}
+      },
+      {
+       "name": "Sage of Six Bowls",
+       "tags": [
+        "1000 Ryo",
+        "Nota A"
+       ],
+       "description": "Golpes: Ramengan, Ramen Burst Bomb, Ramen Shop Seal",
+       "fields": {}
+      },
+      {
+       "name": "Paper Angel",
+       "tags": [
+        "2400 Ryo",
+        "Nota A"
+       ],
+       "description": "Golpes: Hover, Heavenly Lance, Messiah of Paper, Paper Dance, Paper En Masse",
+       "fields": {}
+      },
+      {
+       "name": "Explosion Artist",
+       "tags": [
+        "600 Ryo",
+        "Nota B+"
+       ],
+       "description": "Golpes: Mine Spiders, Bomb Birds, Clay Bird Flight, C4 Destruct (One Use)",
+       "fields": {}
+      },
+      {
+       "name": "Lava Release",
+       "tags": [
+        "500 Ryo",
+        "Nota A"
+       ],
+       "description": "Golpes: Lava Punch, Molten Rock",
+       "fields": {}
+      },
+      {
+       "name": "Yellow Flash",
+       "tags": [
+        "Drop by Mission",
+        "Nota A"
+       ],
+       "description": "Golpes: Flash Kunai, Yellow Instinct, Blitz",
+       "fields": {}
+      },
+      {
+       "name": "Akatsuke Showdown",
+       "tags": [
+        "Drop by Mission",
+        "Nota B+"
+       ],
+       "description": "Golpes: Puppet of Iron Sand, Elemental Grudge, Cursed Scythe",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clas",
+   "title": "Clãs (Bases)",
+   "emoji": "🏯",
+   "description": "Os 9 clãs para escolher no começo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Escolher um clã é o primeiro passo. Depois de escolher, não dá para trocar. Cada clã tem a própria base (tycoon), roupa, 3 acessórios e 3 golpes exclusivos. Os nomes são versões \"parecidas\" dos clãs de Naruto."
+    },
+    {
+     "type": "items",
+     "title": "Os 9 clãs",
+     "items": [
+      {
+       "name": "Akatsuke",
+       "tags": [
+        "Inspirado em: Akatsuki"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Hyago",
+       "tags": [
+        "Inspirado em: Hyuga"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Sonju",
+       "tags": [
+        "Inspirado em: Senju"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Uchika",
+       "tags": [
+        "Inspirado em: Uchiha"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Hotate",
+       "tags": [
+        "Inspirado em: Hatake"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Otsutsushi",
+       "tags": [
+        "Inspirado em: Otsutsuki"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Uzumonki",
+       "tags": [
+        "Inspirado em: Uzumaki"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Kazeka",
+       "tags": [
+        "Inspirado em: Kazekage"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Sarikobi",
+       "tags": [
+        "Inspirado em: Sarutobi"
+       ],
+       "description": "",
+       "fields": {}
+      }
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "O que toda base tem",
+     "items": [
+      "15 droppers que geram dinheiro (total de cerca de $60.000).",
+      "Portão e escudo que eliminam quem tenta invadir quando estão ligados.",
+      "Recarregador de vida instantâneo.",
+      "Teleporte para as áreas Norte, Sul, Leste, Oeste, Loja e Raid.",
+      "Dois bonecos de treino (um de madeira e um vermelho que pode ser destruído)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dinheiro",
+   "title": "Cash, Ryo e Droppers",
+   "emoji": "💵",
+   "description": "Como ganhar e gastar dinheiro.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "As duas moedas",
+     "items": [
+      {
+       "name": "Cash ($)",
+       "tags": [
+        "Não salva"
+       ],
+       "description": "Vem dos droppers da base. Compra droppers, paredes, armas e jutsus. Também dá para comprar com Robux.",
+       "fields": {}
+      },
+      {
+       "name": "Ryo",
+       "tags": [
+        "Salva"
+       ],
+       "description": "Vem dos pergaminhos que chefes e NPCs deixam cair (10% de chance). Compra os modos de Ryo. É a única coisa que continua salva quando você sai.",
+       "fields": {}
+      }
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "Droppers (ordem de compra)",
+     "items": [
+      "Dropper Primary  (clique): grátis, dá $1 por clique",
+      "Dropper Shuriken: $70",
+      "Dropper Kunai: $150",
+      "Dropper Forehead protector: $300",
+      "Dropper Katana: $600",
+      "Dropper Sharingan: $1.200",
+      "Dropper Byakugan: $2.400",
+      "Dropper MS: $4.800",
+      "Dropper RInnegan: $12.000",
+      "Dropper Tenseigan: $28.000"
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "Pergaminhos de Ryo por rank",
+     "items": [
+      "F: Rogue Ninja e Reanimated Ninja",
+      "E: Mizouki (Mizuki)",
+      "D: Oroshimaro (Orochimaru)",
+      "C: Pain",
+      "B: Juubito (Obito)",
+      "A: Nadara (Madara)",
+      "S: Kaguyai, Jigan, Tenth Beast e Coldjason"
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Importante: o jogo não salva a base (tycoon) nem as armas quando você sai. O próprio criador avisa isso na página do jogo. Só o Ryo fica salvo."
+    }
+   ]
+  },
+  {
+   "id": "armas",
+   "title": "Armas e Jutsus",
+   "emoji": "🗡️",
+   "description": "Preço e dano das armas e jutsus da loja.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "🗡️ Armas e jutsus (74)",
+     "items": [
+      {
+       "name": "Kunai",
+       "tags": [
+        "$600 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 4, golpe forte: 12 · Arremesso: 10",
+       "fields": {}
+      },
+      {
+       "name": "Shuriken",
+       "tags": [
+        "$300 (Cash)"
+       ],
+       "description": "Dano: 5 cada, 25 no máximo",
+       "fields": {}
+      },
+      {
+       "name": "Paper Bomb Kunai",
+       "tags": [
+        "$3.000 (Cash)"
+       ],
+       "description": "Dano: 25",
+       "fields": {}
+      },
+      {
+       "name": "Fangs",
+       "tags": [
+        "$25.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 7, golpe forte: 20 Thunder Strike: 50",
+       "fields": {}
+      },
+      {
+       "name": "War Fan",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 8, golpe forte: 22 Tornado Wave: 40",
+       "fields": {}
+      },
+      {
+       "name": "Demon Wind Shuriken",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: 20 Shadow Substitute troca de lugar (teleporte).",
+       "fields": {}
+      },
+      {
+       "name": "Sewing Needle",
+       "tags": [
+        "$21.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 7, golpe forte: 20. Sewing String: 40",
+       "fields": {}
+      },
+      {
+       "name": "Helmet Splitter",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 7, golpe forte: 20. Split Slam: 60",
+       "fields": {}
+      },
+      {
+       "name": "Kusemagi Blade",
+       "tags": [
+        "$13.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 7, golpe forte: 20. Chitari Blade: 2 primeiros golpes: 14, golpe forte: 30.",
+       "fields": {}
+      },
+      {
+       "name": "7 Sword Style",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: 30 cada",
+       "fields": {}
+      },
+      {
+       "name": "Shuriken Clones",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: 20 cada",
+       "fields": {}
+      },
+      {
+       "name": "Kiri Club",
+       "tags": [
+        "$22.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 3 primeiros golpes: 8, golpe forte: 22. Water Discs: 40 cada hit",
+       "fields": {}
+      },
+      {
+       "name": "Splash",
+       "tags": [
+        "$27.000 (Cash)"
+       ],
+       "description": "Dano: Corpo a corpo: 2 primeiros golpes: 8, golpe forte: 22. Detonation: 40",
+       "fields": {}
+      },
+      {
+       "name": "Shark Skin",
+       "tags": [
+        "$35.000 (Cash)"
+       ],
+       "description": "Dano: Acima da média",
+       "fields": {}
+      },
+      {
+       "name": "Twin Greatsword",
+       "tags": [
+        "$32.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Sokatana",
+       "tags": [
+        "$24.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "True Flames Daze",
+       "tags": [
+        "$35.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Great Flame Obliteration",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Phoenix Volley",
+       "tags": [
+        "$25.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Fireball",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Dragon Flame Bomb",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Rasenshuriken",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Breakthrough",
+       "tags": [
+        "$10.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Wind Rasengan",
+       "tags": [
+        "$8.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Great Tornado",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Vanishing Rasengan",
+       "tags": [
+        "$8.500 (Cash)"
+       ],
+       "description": "Dano: Pequeno a médio",
+       "fields": {}
+      },
+      {
+       "name": "Kiraffe",
+       "tags": [
+        "$50.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Chidori Blade",
+       "tags": [
+        "$13.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Chitari",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Chidori Senbon",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Chidori Elso",
+       "tags": [
+        "$32.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Chidori Nagashi",
+       "tags": [
+        "$35.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Thunder Field",
+       "tags": [
+        "$21.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Mud Wall",
+       "tags": [
+        "$7.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Boulder Throw",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Fist Rock",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Rock Clap",
+       "tags": [
+        "$48.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Water Sharks",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Water Bullet",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Water Prison",
+       "tags": [
+        "$9.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Sleepy Fist",
+       "tags": [
+        "$10.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Leaf Whirlwind",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Primary Lotus",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Triple Kick",
+       "tags": [
+        "$12.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Fang Driller",
+       "tags": [
+        "$31.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Shadow Clone",
+       "tags": [
+        "$10.000 (Cash)"
+       ],
+       "description": "Dano: Pequeno",
+       "fields": {}
+      },
+      {
+       "name": "Multi Shadow Clones",
+       "tags": [
+        "$60.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "1000 Years of Death",
+       "tags": [
+        "$5.000 (Cash)"
+       ],
+       "description": "Dano: Pequeno",
+       "fields": {}
+      },
+      {
+       "name": "Substitution",
+       "tags": [
+        "$3.500 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Particle Dismantle",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Particle Vaporize",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Shadow Control",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Rasengan",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Camouflage Jutsu",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Mystic Healing Palm",
+       "tags": [
+        "$3.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Ice Death Senbons",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Bugs",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Soft Physique Modification",
+       "tags": [
+        "$30.000 (Cash)"
+       ],
+       "description": "Dano: Médio, longo alcance",
+       "fields": {}
+      },
+      {
+       "name": "Transformation Jutsu",
+       "tags": [
+        "$200 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Ice Mirrors",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Supreme Kami Illusion",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Crow Flicker",
+       "tags": [
+        "$35.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Amaternal Flame",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Blaze Control",
+       "tags": [
+        "$36.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Ribcage",
+       "tags": [
+        "$12.000 (Cash)"
+       ],
+       "description": "Dano: Sem dano (utilidade)",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Skeleton",
+       "tags": [
+        "$17.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Human",
+       "tags": [
+        "$23.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Armored",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Perfect",
+       "tags": [
+        "$90.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Seishanoo: Ultimate",
+       "tags": [
+        "$125.000 (Cash)"
+       ],
+       "description": "Dano: Grande",
+       "fields": {}
+      },
+      {
+       "name": "Fireball Minigun",
+       "tags": [
+        "$40.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Chakra Saber",
+       "tags": [
+        "$15.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      },
+      {
+       "name": "Ninja Gauntlet",
+       "tags": [
+        "$18.000 (Cash)"
+       ],
+       "description": "Dano: Médio",
+       "fields": {}
+      },
+      {
+       "name": "Mirror Drones",
+       "tags": [
+        "$20.000 (Cash)"
+       ],
+       "description": "Dano: Médio a grande",
+       "fields": {}
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Os preços são em Cash. O dano vem da wiki da comunidade e pode mudar com atualizações."
+    }
+   ]
+  },
+  {
+   "id": "missoes",
+   "title": "Missões e Chefes",
+   "emoji": "👹",
+   "description": "Chefes das missões, chances de Cash e Ryo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Missões pedem para derrotar chefes, do rank E ao S, e dão Cash e Ryo. Quanto maior o rank, maior a chance de prêmio."
+    },
+    {
+     "type": "items",
+     "title": "Chefes das missões",
+     "items": [
+      {
+       "name": "Mizouki",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/0/05/Mizouki.png/revision/latest/scale-to-width-down/200?cb=20251115050817",
+       "tags": [
+        "Missão rank E"
+       ],
+       "description": "15% de chance de dar Cash e 8% de chance de dar Ryo.",
+       "fields": {}
+      },
+      {
+       "name": "Oroshimaro",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/7/77/Oroshimaro.png/revision/latest/scale-to-width-down/200?cb=20251115051353",
+       "tags": [
+        "Missão rank D"
+       ],
+       "description": "18% de chance de dar Cash e 10% de chance de dar Ryo.",
+       "fields": {}
+      },
+      {
+       "name": "Pain",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/54/Pain.png/revision/latest/scale-to-width-down/200?cb=20251115052011",
+       "tags": [
+        "Missão rank C"
+       ],
+       "description": "21% de chance de dar Cash e 13% de chance de dar Ryo.",
+       "fields": {}
+      },
+      {
+       "name": "Juubito",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/51/Juubito.png/revision/latest/scale-to-width-down/200?cb=20251115052522",
+       "tags": [
+        "Missão rank B"
+       ],
+       "description": "25% de chance de dar Cash e 18% de chance de dar Ryo.",
+       "fields": {}
+      },
+      {
+       "name": "Nadara",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/5/5c/Nadara.png/revision/latest/scale-to-width-down/200?cb=20251115053037",
+       "tags": [
+        "Missão rank A"
+       ],
+       "description": "30% de chance de dar Cash e 21% de chance de dar Ryo.",
+       "fields": {}
+      }
+     ]
+    },
+    {
+     "type": "items",
+     "title": "Raid Boss",
+     "items": [
+      {
+       "name": "Jigan",
+       "image": "https://static.wikia.nocookie.net/ninja-tycoon/images/f/f3/Screenshot_2023-04-20_3.15.11_PM.png/revision/latest/scale-to-width-down/200?cb=20230420191611",
+       "tags": [
+        "Raid · Cachoeira"
+       ],
+       "description": "Um dos dois Raid Bosses, aparece na Cachoeira. Tem cerca de 2.000 de vida e, na metade, se transforma em Isshiki. Muito difícil sem gamepasses.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "controles",
+   "title": "Controles e Mecânicas",
+   "emoji": "🎮",
+   "description": "Teclas e status do jogador.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "steps",
+     "title": "Controles",
+     "items": [
+      "E: dash (espera de 3 segundos). No celular é um botão; no console, o botão Y.",
+      "Espaço duas vezes: pulo duplo.",
+      "Pular na parede: escalar.",
+      "Q: habilidade (só em transformações e alguns golpes).",
+      "Modos de gamepass: ative no menu de Robux, tocando no que você tem."
+     ]
+    },
+    {
+     "type": "items",
+     "title": "Status iniciais",
+     "items": [
+      {
+       "name": "Vida",
+       "tags": [
+        "100"
+       ],
+       "description": "",
+       "fields": {}
+      },
+      {
+       "name": "Velocidade",
+       "tags": [
+        "16"
+       ],
+       "description": "",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guias",
+   "title": "Guias por Nível",
+   "emoji": "🧭",
+   "description": "Do primeiro dropper ao Raid Boss.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "levels",
+     "title": "Dicas por nível",
+     "levels": [
+      {
+       "level": "Iniciante",
+       "tips": [
+        "Escolha seu clã com calma: depois não dá para trocar.",
+        "Compre os droppers na ordem, do mais barato ao mais caro, e colete o dinheiro sempre.",
+        "Ligue o escudo da base quando sair para lutar, para ninguém invadir.",
+        "Compre primeiro armas baratas, como Shuriken e Kunai, para derrotar os NPCs fáceis."
+       ]
+      },
+      {
+       "level": "Intermediário",
+       "tips": [
+        "Faça as missões dos ranks E e D para juntar Cash e os primeiros Ryo.",
+        "Guarde Ryo: ele é a única coisa que fica salva.",
+        "Compre jutsus fortes da loja, como Rasengan e Chidori.",
+        "Complete o segundo andar de droppers (Sharingan em diante) para ganhar muito mais rápido."
+       ]
+      },
+      {
+       "level": "Avançado",
+       "tips": [
+        "Use Ryo nos modos de Ryo (Sage of Six Bowls, Paper Angel e outros).",
+        "Treine combos com transformação para o PvP.",
+        "Junte amigos para enfrentar o Jigan, o Raid Boss mais difícil.",
+        "Lembre: como a base não salva, jogue sessões longas para aproveitar o que comprou."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "termos",
+   "title": "Termos do Jogo",
+   "emoji": "📖",
+   "description": "Dicionário para iniciantes.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "Tycoon",
+       "tags": [],
+       "description": "Sua base: você compra peças que geram dinheiro sozinhas.",
+       "fields": {}
+      },
+      {
+       "name": "Dropper",
+       "tags": [],
+       "description": "Máquina da base que gera Cash.",
+       "fields": {}
+      },
+      {
+       "name": "Cash",
+       "tags": [],
+       "description": "Dinheiro normal do jogo (não salva).",
+       "fields": {}
+      },
+      {
+       "name": "Ryo",
+       "tags": [],
+       "description": "Moeda rara dos pergaminhos dos chefes (salva).",
+       "fields": {}
+      },
+      {
+       "name": "Transformação / Modo",
+       "tags": [],
+       "description": "Forma mais forte, com mais vida, velocidade e golpes.",
+       "fields": {}
+      },
+      {
+       "name": "Gamepass",
+       "tags": [],
+       "description": "Item comprado com Robux.",
+       "fields": {}
+      },
+      {
+       "name": "Raid Boss",
+       "tags": [],
+       "description": "Chefe muito forte para enfrentar em grupo.",
+       "fields": {}
+      },
+      {
+       "name": "Jutsu",
+       "tags": [],
+       "description": "Técnica ninja comprada na loja.",
+       "fields": {}
+      },
+      {
+       "name": "PvP",
+       "tags": [],
+       "description": "Luta contra outros jogadores.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "atualizacoes",
+   "title": "Atualizações",
+   "emoji": "🛠️",
+   "description": "Versões do jogo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Versão atual: 4.8 (atualizado no Roblox em 05/11/2026). As notas completas saem no Discord do criador. Abaixo, as versões registradas na wiki."
+    },
+    {
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "Versão 4.0 (08/12/2021)",
+       "tags": [
+        "Notas da wiki (inglês)"
+       ],
+       "description": "• Rikudou Naruto and Rinnegan Sasuke is back until 1/2/22\n• Moves changed (animations and some abilities)\n• Multi Shadow Clone Jutsu added\n• Blaze Control/ Inferno Style: Flame Control added\n• New clan (Hotake/Hatake)",
+       "fields": {}
+      },
+      {
+       "name": "Versão 3.9 (22/09/2021)",
+       "tags": [
+        "Notas da wiki (inglês)"
+       ],
+       "description": "• Added Karma gamepass\n• Added new weapons/jutsus\n• Sokatana\n• Particle Dismantle\n• Particle Vaporize\n• Frog Singing Ilussion\n• True Flames Daze\n• Remade Weapons\n• Great Tornado\n• War Fan/Gunbai",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "criadores",
+   "title": "Criadores de Conteúdo",
+   "emoji": "📺",
+   "description": "Criador do jogo e vídeos em português.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "creators",
+     "title": "Para acompanhar",
+     "creators": [
+      {
+       "name": "Coldjason (criador do jogo)",
+       "country": "Oficial",
+       "about": "Criador do Ninja Tycoon e do Slayer Tycoon. As notas de atualização saem no Discord dele.",
+       "youtube": "https://www.youtube.com/results?search_query=Coldjason+Ninja+Tycoon",
+       "tiktok": "",
+       "source": "Página do jogo no Roblox"
+      },
+      {
+       "name": "Vídeos de Ninja Tycoon em português",
+       "country": "Brasil",
+       "about": "Busca no YouTube com dicas e transformações em português.",
+       "youtube": "https://www.youtube.com/results?search_query=Ninja+Tycoon+Roblox+português",
+       "tiktok": "",
+       "source": "Busca do YouTube"
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Ainda não confirmamos um criador brasileiro focado em Ninja Tycoon. Se você acompanha algum, avise que a gente adiciona com o link direto."
+    }
+   ]
+  },
+  {
+   "id": "novidades",
+   "title": "Novidades",
+   "emoji": "📰",
+   "description": "Últimas notícias do jogo, com fonte.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Notícias de Ninja Tycoon reunidas da semana (Semana de 01/11 a 07/11/2026) e do mês (Novembro de 2026)."
+    },
+    {
+     "type": "items",
+     "title": "📰 Últimas notícias",
+     "items": [
+      {
+       "name": "Ninja Tycoon chega à versão 4.8",
+       "tags": [
+        "05/11/2026"
+       ],
+       "description": "O Ninja Tycoon foi atualizado para a versão 4.8 em 05/11. As notas completas saem no Discord do criador, Coldjason.",
+       "fields": {
+        "Fonte": "Página do jogo no Roblox",
+        "Link": "https://www.roblox.com/games/221718525/Ninja-Tycoon"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Ninja Tycoon chega à versão 4.8 (Página do jogo no Roblox)",
+       "url": "https://www.roblox.com/games/221718525/Ninja-Tycoon",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true
+  },
+  {
+   "id": "semana",
+   "title": "Coisas da Semana",
+   "emoji": "📅",
+   "description": "O que está acontecendo nesta semana.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "🗓️ Semana de 01/11 a 07/11/2026",
+     "items": [
+      {
+       "name": "Ninja Tycoon chega à versão 4.8",
+       "tags": [
+        "05/11/2026"
+       ],
+       "description": "O Ninja Tycoon foi atualizado para a versão 4.8 em 05/11. As notas completas saem no Discord do criador, Coldjason.",
+       "fields": {
+        "Fonte": "Página do jogo no Roblox",
+        "Link": "https://www.roblox.com/games/221718525/Ninja-Tycoon"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Ninja Tycoon chega à versão 4.8 (Página do jogo no Roblox)",
+       "url": "https://www.roblox.com/games/221718525/Ninja-Tycoon",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true
+  },
+  {
+   "id": "info",
+   "title": "Links",
+   "emoji": "🔗",
+   "description": "Página do jogo e wiki.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Ninja Tycoon no Roblox",
+       "url": "https://www.roblox.com/games/221718525/Ninja-Tycoon",
+       "official": true
+      },
+      {
+       "label": "Wiki da comunidade (Fandom)",
+       "url": "https://ninja-tycoon.fandom.com/wiki/Ninja_Tycoon_Wiki",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

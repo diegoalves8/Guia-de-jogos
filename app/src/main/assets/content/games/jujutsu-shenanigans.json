@@ -1,0 +1,3183 @@
+{
+ "id": "jujutsu-shenanigans",
+ "name": "Jujutsu Shenanigans",
+ "emoji": "👊",
+ "color": "#EF4444",
+ "cover": "https://raw.githubusercontent.com/diegoalves8/Guia-de-jogos/main/media/roblox/jujutsu-shenanigans/thumb1.jpg",
+ "description": "Jogo de luta (battlegrounds) do Roblox inspirado em Jujutsu Kaisen.",
+ "credits": [
+  "Criado por Tze (@AlsoNot_Tze) e publicado pelo grupo Jujutsu Shenanigans! no Roblox.",
+  "Inspirado no anime e mangá Jujutsu Kaisen."
+ ],
+ "categories": [
+  {
+   "id": "codigos",
+   "title": "Códigos e Como Resgatar",
+   "emoji": "🎁",
+   "description": "Códigos atuais, expirados e o passo a passo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "steps",
+     "title": "Como resgatar",
+     "items": [
+      "Entre no jogo (não precisa de tutorial).",
+      "Toque no ícone da loja (Shop) no canto superior esquerdo.",
+      "Abra a aba Rewards (Recompensas), no fim da página principal da loja.",
+      "Digite o código e toque em Redeem."
+     ]
+    },
+    {
+     "type": "codes",
+     "title": "Códigos",
+     "codes": [
+      {
+       "code": "RIA2026",
+       "reward": "Emote RIA2026",
+       "status": "active",
+       "note": "Comemora o prêmio de Melhor Experiência de Ação (RIA 2026). Confirmado pela Dexerto em 26/10/2026."
+      },
+      {
+       "code": "A7D2L26RNEPG74A3Q",
+       "reward": "Conquista Nep e emote Woven Insight",
+       "status": "active",
+       "note": "Confirmado pela Dexerto em 26/10/2026."
+      },
+      {
+       "code": "SLATECONCRETE",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "X6X31F47UN8JM1NEP",
+       "reward": "",
+       "status": "expired",
+       "note": "Valia só para os 100 primeiros."
+      },
+      {
+       "code": "WHYEMOTEDISSAPEAR",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "JJS1YEAR",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "WHYISTHISCODEHIDDEN",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "370MVISITS",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "120MVISITS",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      },
+      {
+       "code": "20MVISITS",
+       "reward": "",
+       "status": "expired",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Os códigos do Jujutsu Shenanigans costumam durar pouco. Resgate assim que sair."
+    }
+   ]
+  },
+  {
+   "id": "personagens",
+   "title": "Personagens",
+   "emoji": "👊",
+   "description": "30 personagens com golpes, vida e despertar.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "30 personagens da wiki. Os personagens normais são grátis. Os novos começam em Acesso Antecipado (gamepass) e ficam grátis quando o kit fica pronto."
+    },
+    {
+     "type": "toons",
+     "title": "Completos (14)",
+     "toons": [
+      {
+       "id": "blood-manipulator",
+       "name": "Blood Manipulator",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c6/Bigbhosostandsonbigbuisness.png/revision/latest/scale-to-width-down/300?cb=20260907194625",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Blood Manipulator",
+         "text": "Baseado em Choso (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c6/Bigbhosostandsonbigbuisness.png/revision/latest/scale-to-width-down/300?cb=20260907194625"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c6/Bigbhosostandsonbigbuisness.png/revision/latest/scale-to-width-down/300?cb=20260907194625"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Convergence, Piercing Blood, Flowing Red Scale, Flowing Red Scale: Stack, Supernova, Blood Edge.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c6/Bigbhosostandsonbigbuisness.png/revision/latest/scale-to-width-down/300?cb=20260907194625"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Duty as a Brother\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c6/Bigbhosostandsonbigbuisness.png/revision/latest/scale-to-width-down/300?cb=20260907194625"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Blood+Manipulator+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Duty as a Brother",
+          "Baseado em: Choso (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Convergence",
+          "Piercing Blood",
+          "Flowing Red Scale",
+          "Flowing Red Scale: Stack",
+          "Supernova",
+          "Blood Edge"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Duty as a Brother",
+          "Convergence",
+          "Slicing Exorcism",
+          "Wing King",
+          "Blood Rain",
+          "Plasma Wave"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Supernova",
+          "Blood Edge",
+          "Slicing Exorcism"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "cursed-partners",
+       "name": "Cursed Partners",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/38/Superbum.png/revision/latest/scale-to-width-down/300?cb=20260908204713",
+       "vintageImage": "",
+       "kind": "Completo · 90 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Cursed Partners",
+         "text": "Baseado em Yuta Okkotsu e Rika Orimoto (Jujutsu Kaisen). Vida: 90.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/38/Superbum.png/revision/latest/scale-to-width-down/300?cb=20260908204713"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/38/Superbum.png/revision/latest/scale-to-width-down/300?cb=20260908204713"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Swordsmanship, Rika, Severing Path, Veilstep, Resolute Slash, Resolute Black Flash.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/38/Superbum.png/revision/latest/scale-to-width-down/300?cb=20260908204713"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"True Love\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/38/Superbum.png/revision/latest/scale-to-width-down/300?cb=20260908204713"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Cursed+Partners+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 90",
+          "Como liberar: Grátis",
+          "Despertar: True Love",
+          "Baseado em: Yuta Okkotsu e Rika Orimoto (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Swordsmanship",
+          "Rika",
+          "Severing Path",
+          "Veilstep",
+          "Resolute Slash",
+          "Resolute Black Flash",
+          "Outburst",
+          "Second Wind"
+         ]
+        },
+        {
+         "title": "🔥 Base com Rika",
+         "items": [
+          "Rika Smash",
+          "Rika Launch",
+          "Rika Haymaker"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "True Love",
+          "<span style=\"background: linear-gradient(#000000, #000000, #FFFFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #FFFFFF; text-shadow: 0 0 5px",
+          "Steel Arm",
+          "Rika",
+          "Elbow Rush",
+          "Copy",
+          "Energy Ripple",
+          "Fakeout",
+          "Authentic Mutual Love",
+          "Jacob's Ladder"
+         ]
+        },
+        {
+         "title": "🔥 Awakened Rika",
+         "items": [
+          "Rika Downslam",
+          "Rika Slam",
+          "True Love Beam",
+          "Rika Throw"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "defense-attorney",
+       "name": "Defense Attorney",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/06/YHigurumaBase.jpg/revision/latest/scale-to-width-down/300?cb=20260907170109",
+       "vintageImage": "",
+       "kind": "Completo · 90 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Defense Attorney",
+         "text": "Baseado em Hiromi Higuruma (Jujutsu Kaisen). Vida: 90.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/06/YHigurumaBase.jpg/revision/latest/scale-to-width-down/300?cb=20260907170109"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/06/YHigurumaBase.jpg/revision/latest/scale-to-width-down/300?cb=20260907170109"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Judge Gavel, No Escape, Extended Swings, Justice Served, Judgement's Reach, Grapple.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/06/YHigurumaBase.jpg/revision/latest/scale-to-width-down/300?cb=20260907170109"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Defense+Attorney+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 90",
+          "Como liberar: Grátis",
+          "Baseado em: Hiromi Higuruma (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Judge Gavel",
+          "No Escape",
+          "Extended Swings",
+          "Justice Served",
+          "Judgement's Reach",
+          "Grapple",
+          "Pressing Charges"
+         ]
+        },
+        {
+         "title": "🔥 Despertar de Domínio",
+         "items": [
+          "Deadly Sentencing"
+         ]
+        },
+        {
+         "title": "🔥 Despertar Verdadeiro",
+         "items": [
+          "Death Penalty",
+          "Executioner's Sword",
+          "Domain Amplification",
+          "Execution",
+          "Final Judgement",
+          "Verdict",
+          "Triple Sentence"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Extended Swings",
+          "Justice Served",
+          "Judgement's Reach",
+          "Grapple",
+          "Pressing Charges",
+          "Execution",
+          "Triple Sentence"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "disaster-plants",
+       "name": "Disaster Plants",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f8/Disasterplantsfield.png/revision/latest/scale-to-width-down/300?cb=20260908203301",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Disaster Plants",
+         "text": "Baseado em Hanami (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f8/Disasterplantsfield.png/revision/latest/scale-to-width-down/300?cb=20260908203301"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f8/Disasterplantsfield.png/revision/latest/scale-to-width-down/300?cb=20260908203301"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Arm Wrap, Lasso, Plant Guidance, Root Swarm, Surging Thorns, Bud Shot.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f8/Disasterplantsfield.png/revision/latest/scale-to-width-down/300?cb=20260908203301"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Unwrap\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f8/Disasterplantsfield.png/revision/latest/scale-to-width-down/300?cb=20260908203301"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Disaster+Plants+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Unwrap",
+          "Baseado em: Hanami (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Arm Wrap",
+          "Lasso",
+          "Plant Guidance",
+          "Root Swarm",
+          "Surging Thorns",
+          "Bud Shot",
+          "Defense Response",
+          "Flower Patch"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Unwrap",
+          "Energy Absorb",
+          "Flower Beam",
+          "Root Rampage",
+          "Thorn Rampage",
+          "Flower Field",
+          "Cursed Buds",
+          "Shining Sea of Growing Branches"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Surging Thorns",
+          "Flower Beam"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "head-of-the-hei",
+       "name": "Head of the Hei",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/32/Headofthehei2.png/revision/latest/scale-to-width-down/300?cb=20260908203134",
+       "vintageImage": "",
+       "kind": "Completo · 90 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Head of the Hei",
+         "text": "Baseado em Naoya Zenin (Jujutsu Kaisen). Vida: 90.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/32/Headofthehei2.png/revision/latest/scale-to-width-down/300?cb=20260908203134"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/32/Headofthehei2.png/revision/latest/scale-to-width-down/300?cb=20260908203134"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Projectionism, Frame Freeze, Projection Sorcery, Projection Breaker, Bleedout, Decisive Strike.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/32/Headofthehei2.png/revision/latest/scale-to-width-down/300?cb=20260908203134"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Vengeance\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/32/Headofthehei2.png/revision/latest/scale-to-width-down/300?cb=20260908203134"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Head+of+the+Hei+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 90",
+          "Como liberar: Grátis",
+          "Despertar: Vengeance",
+          "Baseado em: Naoya Zenin (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Projectionism",
+          "Frame Freeze",
+          "Projection Sorcery",
+          "Projection Breaker",
+          "Bleedout",
+          "Decisive Strike",
+          "Cursory Impact"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Vengeance",
+          "Acceleration",
+          "Top Speed",
+          "Flash Freezing",
+          "Tendril Grab",
+          "Time Cell Moon Palace"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Projection Breaker",
+          "Bleedout",
+          "Decisive Strike",
+          "Flash Freezing"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "honored-one",
+       "name": "Honored One",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/b6/Honored_One.png/revision/latest/scale-to-width-down/300?cb=20260908204412",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Honored One",
+         "text": "Baseado em Satoru Gojo (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/b6/Honored_One.png/revision/latest/scale-to-width-down/300?cb=20260908204412"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/b6/Honored_One.png/revision/latest/scale-to-width-down/300?cb=20260908204412"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Infinity, Limitless, Face Grater, Lapse Blue, Reversal Red, Rapid Punches.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/b6/Honored_One.png/revision/latest/scale-to-width-down/300?cb=20260908204412"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Six Eyes / 0.2 Domain\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/b6/Honored_One.png/revision/latest/scale-to-width-down/300?cb=20260908204412"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Honored+One+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Six Eyes / 0.2 Domain",
+          "Baseado em: Satoru Gojo (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Infinity",
+          "Limitless",
+          "Face Grater",
+          "Lapse Blue",
+          "Reversal Red",
+          "Rapid Punches",
+          "Twofold Kick"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Six Eyes",
+          "0.2 Domain",
+          "Limitless",
+          "Lapse Blue MAX",
+          "Unlimited Purple",
+          "Reversal Red MAX",
+          "Hollow Purple",
+          "Infinite Void"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Lapse Blue",
+          "Reversal Red",
+          "Rapid Punches",
+          "Twofold Kick",
+          "0.2 Domain",
+          "Lapse Blue MAX",
+          "Unlimited Purple",
+          "Reversal Red MAX",
+          "Hollow Purple"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "perfection",
+       "name": "Perfection",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/Perfectt.png/revision/latest/scale-to-width-down/300?cb=20260907194151",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Perfection",
+         "text": "Baseado em Mahito (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/Perfectt.png/revision/latest/scale-to-width-down/300?cb=20260907194151"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/Perfectt.png/revision/latest/scale-to-width-down/300?cb=20260907194151"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Self Transfiguration, Soul Reserves, Blade Mode, Club Mode, Stockpile, Soul Fire.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/Perfectt.png/revision/latest/scale-to-width-down/300?cb=20260907194151"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Essence of the Soul\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/Perfectt.png/revision/latest/scale-to-width-down/300?cb=20260907194151"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Perfection+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Essence of the Soul",
+          "Baseado em: Mahito (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Self Transfiguration",
+          "Soul Reserves",
+          "Blade Mode",
+          "Club Mode",
+          "Stockpile",
+          "Soul Fire",
+          "Focus Strike",
+          "Chainwhip",
+          "Homerun",
+          "Body Repel"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Essence Of The Soul",
+          "Sparks of Black",
+          "Self Transfiguration",
+          "Idle Transfiguration",
+          "Body Disfigure: Drill Splitter",
+          "Body Disfigure: Heart Piercer",
+          "Body Disfigure: Force Grab",
+          "Spike Wrath",
+          "Embodiment of Self Perfection"
+         ]
+        },
+        {
+         "title": "🔥 Super Despertar",
+         "items": [
+          "Instant Spirit Body Of Distorted Killing",
+          "Sinister Spurs",
+          "Distorted Dash",
+          "Widespread Strikes",
+          "Face Blitz",
+          "Crushing Rushdown",
+          "Head Splitter"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Blade Mode",
+          "Stockpile",
+          "Focus Strike",
+          "Homerun",
+          "Distorted Dash",
+          "Widespread Strikes"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "puppet-master",
+       "name": "Puppet Master",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a8/Puppet_Master.png/revision/latest/scale-to-width-down/300?cb=20260907201643",
+       "vintageImage": "",
+       "kind": "Completo · 85 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Puppet Master",
+         "text": "Baseado em Kokichi Muta (Jujutsu Kaisen). Vida: 85 (175 no Despertar).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a8/Puppet_Master.png/revision/latest/scale-to-width-down/300?cb=20260907201643"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a8/Puppet_Master.png/revision/latest/scale-to-width-down/300?cb=20260907201643"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Ultimate Proxy, Energy Reserves, Offload, Übercharge, Puppet Barrage, Ultra Spin.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a8/Puppet_Master.png/revision/latest/scale-to-width-down/300?cb=20260907201643"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Absolute\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a8/Puppet_Master.png/revision/latest/scale-to-width-down/300?cb=20260907201643"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Puppet+Master+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 85 (175 no Despertar)",
+          "Como liberar: Grátis",
+          "Despertar: Absolute",
+          "Baseado em: Kokichi Muta (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Ultimate Proxy",
+          "Energy Reserves",
+          "Offload",
+          "Übercharge",
+          "Puppet Barrage",
+          "Ultra Spin",
+          "Boost On",
+          "Ultra Cannon",
+          "Ultimate Cannon",
+          "Heat Emission"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Absolute",
+          "Mode: Absolute",
+          "Energy Output",
+          "Miracle Cannon",
+          "Pigeon Viola",
+          "Absolute Destruction",
+          "Technique Charge"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Ultra Spin",
+          "Boost On",
+          "Ultimate Cannon |360 Blockable=y|Bypasses Ragdoll=y",
+          "Heat Emission |Unblockable=y|Bypasses Ragdoll=y",
+          "Miracle Cannon",
+          "Absolute Destruction"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "restless-gambler",
+       "name": "Restless Gambler",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/31/Res.png/revision/latest/scale-to-width-down/300?cb=20260908213335",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Restless Gambler",
+         "text": "Baseado em Kinji Hakari (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/31/Res.png/revision/latest/scale-to-width-down/300?cb=20260908213335"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/31/Res.png/revision/latest/scale-to-width-down/300?cb=20260908213335"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Door Guard, Reserve Balls, Shutter Doors, Rough Energy, Fever Breaker, Fever Crush.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/31/Res.png/revision/latest/scale-to-width-down/300?cb=20260908213335"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Restless+Gambler+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Baseado em: Kinji Hakari (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Door Guard",
+          "Reserve Balls",
+          "Shutter Doors",
+          "Rough Energy",
+          "Fever Breaker",
+          "Fever Crush"
+         ]
+        },
+        {
+         "title": "🔥 Despertar de Domínio",
+         "items": [
+          "Idle Death Gamble",
+          "Renewal"
+         ]
+        },
+        {
+         "title": "🔥 Despertar Verdadeiro",
+         "items": [
+          "Jackpot",
+          "Rhythm",
+          "Lucky Volley",
+          "Lucky Rushdown",
+          "Overwhelming Luck",
+          "Energy Surge"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Shutter Doors",
+          "Lucky Volley",
+          "Lucky Rushdown"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "salaryman",
+       "name": "Salaryman",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3d/SalarymanNew.png/revision/latest/scale-to-width-down/300?cb=20260907201925",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Salaryman",
+         "text": "Baseado em Kento Nanami (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3d/SalarymanNew.png/revision/latest/scale-to-width-down/300?cb=20260907201925"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3d/SalarymanNew.png/revision/latest/scale-to-width-down/300?cb=20260907201925"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Blunt Cleaver, Ratio Black Flash, Ratio Point, Cleaving Whirlwind, Severance Kick, Reverse Kick.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3d/SalarymanNew.png/revision/latest/scale-to-width-down/300?cb=20260907201925"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Overtime\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3d/SalarymanNew.png/revision/latest/scale-to-width-down/300?cb=20260907201925"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Salaryman+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Overtime",
+          "Baseado em: Kento Nanami (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Blunt Cleaver",
+          "Ratio Black Flash",
+          "Ratio Point",
+          "Cleaving Whirlwind",
+          "Severance Kick",
+          "Reverse Kick",
+          "Blunt Cut",
+          "Cross Cut",
+          "Stabilize"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Overtime",
+          "Wall of Stone",
+          "Working Overtime",
+          "Ratio Black Flash",
+          "Ratio Point",
+          "Ratio Breaker I",
+          "Ratio Breaker II",
+          "Ratio Breaker III",
+          "Ratio Breaker IV",
+          "Sharpen",
+          "Erosion",
+          "Interrogate"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Ratio Black Flash",
+          "Cleaving Whirlwind",
+          "Severance Kick",
+          "Blunt Cut",
+          "Cross Cut",
+          "Ratio Breaker IV",
+          "Sharpen",
+          "Erosion",
+          "Interrogate",
+          "Collapse"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "switcher",
+       "name": "Switcher",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/28/Switcher%28Todo%29.png/revision/latest/scale-to-width-down/300?cb=20260907194930",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Switcher",
+         "text": "Baseado em Aoi Todo (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/28/Switcher%28Todo%29.png/revision/latest/scale-to-width-down/300?cb=20260907194930"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/28/Switcher%28Todo%29.png/revision/latest/scale-to-width-down/300?cb=20260907194930"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Boogie Woogie, Boogie Woogie: Item Swap, Boogie Woogie: Fakeout, Boogie Woogie: Perfect Swap, Boogie Woogie: Target Swap, Swift Kick.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/28/Switcher%28Todo%29.png/revision/latest/scale-to-width-down/300?cb=20260907194930"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"False Memories\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/28/Switcher%28Todo%29.png/revision/latest/scale-to-width-down/300?cb=20260907194930"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Switcher+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: False Memories",
+          "Baseado em: Aoi Todo (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Boogie Woogie",
+          "Boogie Woogie: Item Swap",
+          "Boogie Woogie: Fakeout",
+          "Boogie Woogie: Perfect Swap",
+          "Boogie Woogie: Target Swap",
+          "Swift Kick",
+          "Slide Kick",
+          "Brute Force",
+          "Brutal Impact",
+          "Pebble Throw",
+          "Gut Punch",
+          "Blazing Star"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "False Memories",
+          "Boogie Woogie",
+          "Idol's Debut",
+          "Climax Jumping",
+          "Dreams",
+          "Brothers"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Brute Force",
+          "Brutal Impact",
+          "Elbow Drop"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "ten-shadows",
+       "name": "Ten Shadows",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/35/Ten_Shadows.png/revision/latest/scale-to-width-down/300?cb=20261006184452",
+       "vintageImage": "",
+       "kind": "Completo · 85 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Ten Shadows",
+         "text": "Baseado em Megumi Fushiguro (Jujutsu Kaisen). Vida: 85.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/35/Ten_Shadows.png/revision/latest/scale-to-width-down/300?cb=20261006184452"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/35/Ten_Shadows.png/revision/latest/scale-to-width-down/300?cb=20261006184452"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Lurking Shadow, Rabbit Escape, Nue, Toad, Well's Unknown Abyss, Divine Dog: Totality.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/35/Ten_Shadows.png/revision/latest/scale-to-width-down/300?cb=20261006184452"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Insanity\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/35/Ten_Shadows.png/revision/latest/scale-to-width-down/300?cb=20261006184452"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Ten+Shadows+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 85",
+          "Como liberar: Grátis",
+          "Despertar: Insanity",
+          "Baseado em: Megumi Fushiguro (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Lurking Shadow",
+          "Rabbit Escape",
+          "Nue",
+          "Toad",
+          "Well's Unknown Abyss",
+          "Divine Dog: Totality"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Insanity",
+          "Switch",
+          "Lurking Shadow",
+          "Max Elephant",
+          "Great Serpent",
+          "Shadow Swarm",
+          "Chimera Shadow Garden",
+          "Mahoraga",
+          "Unprecedented Outcome"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Rabbit Escape",
+          "Nue",
+          "Divine Dog: Totality",
+          "Max Elephant"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "true-cannon",
+       "name": "True Cannon",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3b/TrueCannon%28JaneJuilet%29.png/revision/latest/scale-to-width-down/300?cb=20260908203420",
+       "vintageImage": "",
+       "kind": "Completo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça True Cannon",
+         "text": "Baseado em Ryu Ishigori (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3b/TrueCannon%28JaneJuilet%29.png/revision/latest/scale-to-width-down/300?cb=20260908203420"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3b/TrueCannon%28JaneJuilet%29.png/revision/latest/scale-to-width-down/300?cb=20260908203420"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Cursed Energy Discharge, Overheat, Restyle |Interruptible=y, Restyle, Granite Blast, Unsatisfied.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3b/TrueCannon%28JaneJuilet%29.png/revision/latest/scale-to-width-down/300?cb=20260908203420"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Every Last Drop.\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3b/TrueCannon%28JaneJuilet%29.png/revision/latest/scale-to-width-down/300?cb=20260908203420"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=True+Cannon+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Every Last Drop.",
+          "Baseado em: Ryu Ishigori (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Cursed Energy Discharge",
+          "Overheat",
+          "Restyle |Interruptible=y",
+          "Restyle",
+          "Granite Blast",
+          "Unsatisfied",
+          "Second Helping",
+          "Appetizer"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Every Last Drop.",
+          "Decadence",
+          "Restyle",
+          "What are you after?",
+          "I had no idea...",
+          "This is what dessert is like!",
+          "You weren't invited."
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Granite Blast",
+          "Second Helping",
+          "Appetizer",
+          "You weren't invited."
+         ]
+        }
+       ]
+      },
+      {
+       "id": "vessel",
+       "name": "Vessel",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ea/Vessel.png/revision/latest/scale-to-width-down/300?cb=20260919225139",
+       "vintageImage": "",
+       "kind": "Completo · 85 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Vessel",
+         "text": "Baseado em Yuji Itadori e Ryomen Sukuna (Jujutsu Kaisen). Vida: 85.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ea/Vessel.png/revision/latest/scale-to-width-down/300?cb=20260919225139"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ea/Vessel.png/revision/latest/scale-to-width-down/300?cb=20260919225139"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Combat Instincts, Cursed Strikes, Crushing Blow, Divergent Fist, Black Flash, Black Flash Chain.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ea/Vessel.png/revision/latest/scale-to-width-down/300?cb=20260919225139"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"King Of Curses\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ea/Vessel.png/revision/latest/scale-to-width-down/300?cb=20260919225139"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Vessel+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Completo",
+          "Vida: 85",
+          "Como liberar: Grátis",
+          "Despertar: King Of Curses",
+          "Baseado em: Yuji Itadori e Ryomen Sukuna (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Combat Instincts",
+          "Cursed Strikes",
+          "Crushing Blow",
+          "Divergent Fist",
+          "Black Flash",
+          "Black Flash Chain",
+          "Manji Kick"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "King of Curses",
+          "Shrine",
+          "Cleave",
+          "Dismantle",
+          "World Cutting Slash",
+          "Open",
+          "Rush",
+          "We'll See Something Interesting",
+          "Malevolent Shrine"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Cursed Strikes",
+          "Crushing Blow",
+          "Divergent Fist",
+          "Black Flash",
+          "Black Flash Chain",
+          "Manji Kick",
+          "Cleave",
+          "Dismantle",
+          "World Cutting Slash",
+          "Open"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Só forma base (7)",
+     "toons": [
+      {
+       "id": "aspiring-mangaka",
+       "name": "Aspiring Mangaka",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/Mangaka.png/revision/latest/scale-to-width-down/300?cb=20260920001150",
+       "vintageImage": "",
+       "kind": "Só forma base · 85 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Aspiring Mangaka",
+         "text": "Baseado em Charles Bernard (Jujutsu Kaisen). Vida: 85.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/Mangaka.png/revision/latest/scale-to-width-down/300?cb=20260920001150"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/Mangaka.png/revision/latest/scale-to-width-down/300?cb=20260920001150"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "G-Warstaff, Oracle, Clairvoyance, Clairvoyance: Prediction, Despair, Shut Up!.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/Mangaka.png/revision/latest/scale-to-width-down/300?cb=20260920001150"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Foresight\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/Mangaka.png/revision/latest/scale-to-width-down/300?cb=20260920001150"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Aspiring+Mangaka+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 85",
+          "Como liberar: Grátis",
+          "Despertar: Foresight",
+          "Baseado em: Charles Bernard (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "G-Warstaff",
+          "Oracle",
+          "Clairvoyance",
+          "Clairvoyance: Prediction",
+          "Despair",
+          "Shut Up!",
+          "Eye Catching",
+          "Sacrilege"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Foresight"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Despair",
+          "Foresight"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "black-death",
+       "name": "Black Death",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/78/Black_Death_V4.png/revision/latest/scale-to-width-down/300?cb=20260908205313",
+       "vintageImage": "",
+       "kind": "Só forma base · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Black Death",
+         "text": "Baseado em Kurourushi (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/78/Black_Death_V4.png/revision/latest/scale-to-width-down/300?cb=20260908205313"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/78/Black_Death_V4.png/revision/latest/scale-to-width-down/300?cb=20260908205313"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Demon of the Modern Era, Iron-Rich, Festering Life Sword, Earthen Insect Trance, Festering Strikes, Fierce Strikes.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/78/Black_Death_V4.png/revision/latest/scale-to-width-down/300?cb=20260908205313"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Parthenogenesis\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/78/Black_Death_V4.png/revision/latest/scale-to-width-down/300?cb=20260908205313"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Black+Death+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Parthenogenesis",
+          "Baseado em: Kurourushi (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Demon of the Modern Era",
+          "Iron-Rich",
+          "Festering Life Sword",
+          "Earthen Insect Trance",
+          "Festering Strikes",
+          "Fierce Strikes",
+          "Detach",
+          "Reattach",
+          "Detach/Reattach",
+          "Chokehold",
+          "Roach Swarm"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Parthenogenesis",
+          "Bugnado",
+          "Invasion"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Chokehold",
+          "Roach Swarm"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "crow-charmer",
+       "name": "Crow Charmer",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6c/Crow_Charmer.png/revision/latest/scale-to-width-down/300?cb=20260908204855",
+       "vintageImage": "",
+       "kind": "Só forma base · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Crow Charmer",
+         "text": "Baseado em Mei Mei e Ui Ui (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6c/Crow_Charmer.png/revision/latest/scale-to-width-down/300?cb=20260908204855"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6c/Crow_Charmer.png/revision/latest/scale-to-width-down/300?cb=20260908204855"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Bird Strike\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6c/Crow_Charmer.png/revision/latest/scale-to-width-down/300?cb=20260908204855"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Crow+Charmer+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Bird Strike",
+          "Baseado em: Mei Mei e Ui Ui (Jujutsu Kaisen)"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "locust-guy",
+       "name": "Locust Guy",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/07/CleverBoy.png/revision/latest/scale-to-width-down/300?cb=20261024191901",
+       "vintageImage": "",
+       "kind": "Só forma base · 90 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Locust Guy",
+         "text": "Baseado em Ko-Guy (Jujutsu Kaisen). Vida: 90.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/07/CleverBoy.png/revision/latest/scale-to-width-down/300?cb=20261024191901"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/07/CleverBoy.png/revision/latest/scale-to-width-down/300?cb=20261024191901"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Naturally Selected, Fluttering Pounce, Clever, Black Mucus, Crushing Jaws, Wing Throw.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/07/CleverBoy.png/revision/latest/scale-to-width-down/300?cb=20261024191901"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Directed Poison\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/0/07/CleverBoy.png/revision/latest/scale-to-width-down/300?cb=20261024191901"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Locust+Guy+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 90",
+          "Como liberar: Grátis",
+          "Despertar: Directed Poison",
+          "Baseado em: Ko-Guy (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Naturally Selected",
+          "Fluttering Pounce",
+          "Clever",
+          "Black Mucus",
+          "Crushing Jaws",
+          "Wing Throw"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Directed Poison"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Crushing Jaws"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "lucky-coward",
+       "name": "Lucky Coward",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f2/Luckycoward.png/revision/latest/scale-to-width-down/300?cb=20260908210316",
+       "vintageImage": "",
+       "kind": "Só forma base · 65 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Lucky Coward",
+         "text": "Baseado em Haruta Shigemo (Jujutsu Kaisen). Vida: 65.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f2/Luckycoward.png/revision/latest/scale-to-width-down/300?cb=20260908210316"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f2/Luckycoward.png/revision/latest/scale-to-width-down/300?cb=20260908210316"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Shoot!, Miracles, Miracle, Taunt, Helping Hand, Ambush.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f2/Luckycoward.png/revision/latest/scale-to-width-down/300?cb=20260908210316"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Jawbreaker\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f2/Luckycoward.png/revision/latest/scale-to-width-down/300?cb=20260908210316"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Lucky+Coward+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 65",
+          "Como liberar: Grátis",
+          "Despertar: Jawbreaker",
+          "Baseado em: Haruta Shigemo (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Shoot!",
+          "Miracles",
+          "Miracle",
+          "Taunt",
+          "Helping Hand",
+          "Ambush",
+          "Stinger",
+          "Million Stab",
+          "Ankle Cutter",
+          "Backstab",
+          "High Time",
+          "Trip"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Jawbreaker"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Ambush",
+          "Ankle Cutter",
+          "Backstab",
+          "Cheap Shot",
+          "Dirty Play"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "sky-bender",
+       "name": "Sky Bender",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e9/SkyAssassin.png/revision/latest/scale-to-width-down/300?cb=20261005223452",
+       "vintageImage": "",
+       "kind": "Só forma base · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Sky Bender",
+         "text": "Baseado em Takako Uro (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e9/SkyAssassin.png/revision/latest/scale-to-width-down/300?cb=20261005223452"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e9/SkyAssassin.png/revision/latest/scale-to-width-down/300?cb=20261005223452"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Sky Manipulation, Temper, Sky Veil, Blind Rage, Sky Distortion, Turbulence.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e9/SkyAssassin.png/revision/latest/scale-to-width-down/300?cb=20261005223452"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Temper\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e9/SkyAssassin.png/revision/latest/scale-to-width-down/300?cb=20261005223452"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Sky+Bender+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Temper",
+          "Baseado em: Takako Uro (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Sky Manipulation",
+          "Temper",
+          "Sky Veil",
+          "Blind Rage",
+          "Sky Distortion",
+          "Turbulence",
+          "Thin Ice Breaker"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Temper"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Blind Rage",
+          "Turbulence",
+          "Thin Ice Breaker",
+          "Temper"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "star-rage",
+       "name": "Star Rage",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6d/Mrsbassdada.png/revision/latest/scale-to-width-down/300?cb=20260908205054",
+       "vintageImage": "",
+       "kind": "Só forma base · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Star Rage",
+         "text": "Baseado em Yuki Tsukumo (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6d/Mrsbassdada.png/revision/latest/scale-to-width-down/300?cb=20260908205054"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6d/Mrsbassdada.png/revision/latest/scale-to-width-down/300?cb=20260908205054"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Unrestricted Density\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6d/Mrsbassdada.png/revision/latest/scale-to-width-down/300?cb=20260908205054"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Star+Rage+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Só forma base",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Unrestricted Density",
+          "Baseado em: Yuki Tsukumo (Jujutsu Kaisen)"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Novos (2)",
+     "toons": [
+      {
+       "id": "hired-hunter",
+       "name": "Hired Hunter",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/93/HiredKiller7.png/revision/latest/scale-to-width-down/300?cb=20261024214630",
+       "vintageImage": "",
+       "kind": "Novo · 100 de vida",
+       "cost": "Acesso Antecipado (gamepass de 345 Robux)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Hired Hunter",
+         "text": "Baseado em Toji Fushiguro (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/93/HiredKiller7.png/revision/latest/scale-to-width-down/300?cb=20261024214630"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Acesso Antecipado (gamepass de 345 Robux)",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/93/HiredKiller7.png/revision/latest/scale-to-width-down/300?cb=20261024214630"
+        },
+        {
+         "title": "2. Golpes (Split Soul Katana)",
+         "text": "Unrestricted, Hidden Inventory, Brig of Dread, Trick, Flourish, The Wrath.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/93/HiredKiller7.png/revision/latest/scale-to-width-down/300?cb=20261024214630"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Puppet of Carnage\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/93/HiredKiller7.png/revision/latest/scale-to-width-down/300?cb=20261024214630"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Hired+Hunter+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Novo",
+          "Vida: 100",
+          "Como liberar: Acesso Antecipado (gamepass de 345 Robux)",
+          "Despertar: Puppet of Carnage",
+          "Baseado em: Toji Fushiguro (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "🔥 Split Soul Katana",
+         "items": [
+          "Unrestricted",
+          "Hidden Inventory",
+          "Brig of Dread",
+          "Trick",
+          "Flourish",
+          "The Wrath",
+          "The Greed",
+          "The Pride",
+          "Debilitate"
+         ]
+        },
+        {
+         "title": "🔥 Inverted Spear of Heaven",
+         "items": [
+          "Unrestricted",
+          "Hidden Inventory",
+          "Heaven's Gift",
+          "Transcend",
+          "Ascend",
+          "Rupture",
+          "Paradise",
+          "Reincarnation"
+         ]
+        },
+        {
+         "title": "🔥 Chain of a Thousand Miles",
+         "items": [
+          "Unrestricted",
+          "Hidden Inventory",
+          "Chains of Sin",
+          "Impulse / Intent",
+          "Lasso",
+          "Whiplash",
+          "Twirling Strike",
+          "Puppet of Carnage",
+          "Transcend",
+          "Rupture"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "register",
+       "name": "Register",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/fa/CapitalOneCloak.png/revision/latest/scale-to-width-down/300?cb=20260908204115",
+       "vintageImage": "",
+       "kind": "Novo · 100 de vida",
+       "cost": "Grátis",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Register",
+         "text": "Baseado em Reggie Star (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/fa/CapitalOneCloak.png/revision/latest/scale-to-width-down/300?cb=20260908204115"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Grátis Escolha na lista de personagens, no canto superior esquerdo (fora de combate).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/fa/CapitalOneCloak.png/revision/latest/scale-to-width-down/300?cb=20260908204115"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Contractual Re-Creation, Discard, Gushing Wound, Homerun, Littering, Pole Vault.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/fa/CapitalOneCloak.png/revision/latest/scale-to-width-down/300?cb=20260908204115"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Con Artistry\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/fa/CapitalOneCloak.png/revision/latest/scale-to-width-down/300?cb=20260908204115"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Register+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Novo",
+          "Vida: 100",
+          "Como liberar: Grátis",
+          "Despertar: Con Artistry",
+          "Baseado em: Reggie Star (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Contractual Re-Creation",
+          "Discard",
+          "Gushing Wound",
+          "Homerun",
+          "Littering",
+          "Pole Vault",
+          "Leverage",
+          "Coupon",
+          "Piano Drop",
+          "Garage Sale",
+          "Blunt Trauma",
+          "Drone Strike"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Con Artistry",
+          "Discard",
+          "Mayhem",
+          "Road Rage",
+          "Big Moves",
+          "132-Square-Foot Two-Story House"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Homerun",
+          "Piano Drop",
+          "Blunt Trauma",
+          "Fleche",
+          "Speed Crash",
+          "Drone Strike",
+          "Big Moves",
+          "132-Square-Foot Two-Story House"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Secretos (2)",
+     "toons": [
+      {
+       "id": "mahoraga",
+       "name": "Mahoraga",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/25/Subjugation.png/revision/latest/scale-to-width-down/300?cb=20260907193853",
+       "vintageImage": "",
+       "kind": "Secreto · 150 de vida",
+       "cost": "Use com sucesso o golpe \"Mahoraga\" do Ten Shadows durante a luta.",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Mahoraga",
+         "text": "Baseado em Mahoraga (Jujutsu Kaisen). Vida: 150.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/25/Subjugation.png/revision/latest/scale-to-width-down/300?cb=20260907193853"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Use com sucesso o golpe \"Mahoraga\" do Ten Shadows durante a luta.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/25/Subjugation.png/revision/latest/scale-to-width-down/300?cb=20260907193853"
+        },
+        {
+         "title": "2. Golpes (Moves)",
+         "text": "Eight-Handled Divergent Sila Divine General, Ritual, Adaptation Wheel, Attack Mode: Sword of Extermination, Defense Mode: Parry, Special Mode: Sword of Extermination.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/25/Subjugation.png/revision/latest/scale-to-width-down/300?cb=20260907193853"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Ritual\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/25/Subjugation.png/revision/latest/scale-to-width-down/300?cb=20260907193853"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Mahoraga+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Secreto",
+          "Vida: 150",
+          "Como liberar: Use com sucesso o golpe \"Mahoraga\" do Ten Shadows durante a luta.",
+          "Despertar: Ritual",
+          "Baseado em: Mahoraga (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "🔥 Golpes",
+         "items": [
+          "Eight-Handled Divergent Sila Divine General",
+          "Ritual",
+          "Adaptation Wheel",
+          "Attack Mode: Sword of Extermination",
+          "Defense Mode: Parry",
+          "Special Mode: Sword of Extermination",
+          "Divine Pummel",
+          "Ground Pitch",
+          "Earthquake",
+          "Takedown",
+          "Adaptation",
+          "World Slash"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Ground Pitch",
+          "World Slash"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "the-fallen",
+       "name": "The Fallen",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f6/The_Fallen_Awakening.png/revision/latest/scale-to-width-down/300?cb=20261024024619",
+       "vintageImage": "",
+       "kind": "Secreto · 100 de vida",
+       "cost": "Cancele o Mahoraga do Ten Shadows usando o Rush do Vessel.",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça The Fallen",
+         "text": "Baseado em Ryomen Sukuna (Jujutsu Kaisen). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f6/The_Fallen_Awakening.png/revision/latest/scale-to-width-down/300?cb=20261024024619"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Cancele o Mahoraga do Ten Shadows usando o Rush do Vessel.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f6/The_Fallen_Awakening.png/revision/latest/scale-to-width-down/300?cb=20261024024619"
+        },
+        {
+         "title": "2. Golpes (Shrine)",
+         "text": "We'll See Something Interesting, Fall from Grace, Nitoryū, Lurking Shadow, Dismantle, Cleave.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f6/The_Fallen_Awakening.png/revision/latest/scale-to-width-down/300?cb=20261024024619"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Remember when I said...\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f6/The_Fallen_Awakening.png/revision/latest/scale-to-width-down/300?cb=20261024024619"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=The+Fallen+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Secreto",
+          "Vida: 100",
+          "Como liberar: Cancele o Mahoraga do Ten Shadows usando o Rush do Vessel.",
+          "Despertar: Remember when I said...",
+          "Baseado em: Ryomen Sukuna (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "🔥 Shrine",
+         "items": [
+          "We'll See Something Interesting",
+          "Fall from Grace",
+          "Nitoryū",
+          "Lurking Shadow",
+          "Dismantle",
+          "Cleave",
+          "Spiderweb",
+          "Rush",
+          "Cursed Strikes"
+         ]
+        },
+        {
+         "title": "🔥 Ten Shadows",
+         "items": [
+          "We'll See Something Interesting",
+          "Fall from Grace",
+          "Nitoryū",
+          "Lurking Shadow",
+          "Rabbit Escape",
+          "Nue",
+          "Toad",
+          "Well's Unknown Abyss",
+          "Cleave",
+          "Spiderweb"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "toons",
+     "title": "Especiais (5)",
+     "toons": [
+      {
+       "id": "cursed-child",
+       "name": "Cursed Child",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/300?cb=20261008224812",
+       "vintageImage": "",
+       "kind": "Especial · 100 de vida",
+       "cost": "Não disponível para jogadores",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Cursed Child",
+         "text": "Baseado em Chara (Undertale). Vida: 100 (250 como chefe).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/300?cb=20261008224812"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Não disponível para jogadores",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/300?cb=20261008224812"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"SINCE WHEN WERE YOU THE ONE IN CONTROL?\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/300?cb=20261008224812"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Cursed+Child+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Especial",
+          "Vida: 100 (250 como chefe)",
+          "Como liberar: Não disponível para jogadores",
+          "Despertar: SINCE WHEN WERE YOU THE ONE IN CONTROL?",
+          "Baseado em: Chara (Undertale)"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "mokou",
+       "name": "Mokou",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9c/Screenshot_2025-09-01_at_1.44.37_pm.png/revision/latest/scale-to-width-down/300?cb=20260907214511",
+       "vintageImage": "",
+       "kind": "Especial · 100 de vida",
+       "cost": "Só para desenvolvedores",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Mokou",
+         "text": "Vida: 100 (não confirmado).",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9c/Screenshot_2025-09-01_at_1.44.37_pm.png/revision/latest/scale-to-width-down/300?cb=20260907214511"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Só para desenvolvedores",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9c/Screenshot_2025-09-01_at_1.44.37_pm.png/revision/latest/scale-to-width-down/300?cb=20260907214511"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Restoration, Blazing Soar, Phoenix Maelstrom, Aetherflare Talon, Scorchrise, Hexflare Charm.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9c/Screenshot_2025-09-01_at_1.44.37_pm.png/revision/latest/scale-to-width-down/300?cb=20260907214511"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Immortal Blaze\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9c/Screenshot_2025-09-01_at_1.44.37_pm.png/revision/latest/scale-to-width-down/300?cb=20260907214511"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Mokou+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Especial",
+          "Vida: 100 (não confirmado)",
+          "Como liberar: Só para desenvolvedores",
+          "Despertar: Immortal Blaze"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Restoration",
+          "Blazing Soar",
+          "Phoenix Maelstrom",
+          "Aetherflare Talon",
+          "Scorchrise",
+          "Hexflare Charm"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Immortal Blaze",
+          "Danmaku",
+          "Blue Danmaku",
+          "Flight"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "monkey-kid",
+       "name": "Monkey Kid",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/Getohatesthesepeople.png/revision/latest/scale-to-width-down/300?cb=20260908212312",
+       "vintageImage": "",
+       "kind": "Especial · 100 de vida",
+       "cost": "Só em servidores privados (personagem superpoderoso)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Monkey Kid",
+         "text": "Baseado em Goku (Dragon Ball). Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/Getohatesthesepeople.png/revision/latest/scale-to-width-down/300?cb=20260908212312"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Só em servidores privados (personagem superpoderoso)",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/Getohatesthesepeople.png/revision/latest/scale-to-width-down/300?cb=20260908212312"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Child Of The Clouds, Instant Transmission, Kamehameha, Staff Uppercut, Staff Extend, Ki Spam.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/Getohatesthesepeople.png/revision/latest/scale-to-width-down/300?cb=20260908212312"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Monkey\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/Getohatesthesepeople.png/revision/latest/scale-to-width-down/300?cb=20260908212312"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Monkey+Kid+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Especial",
+          "Vida: 100",
+          "Como liberar: Só em servidores privados (personagem superpoderoso)",
+          "Despertar: Monkey",
+          "Baseado em: Goku (Dragon Ball)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Child Of The Clouds",
+          "Instant Transmission",
+          "Kamehameha",
+          "Staff Uppercut",
+          "Staff Extend",
+          "Ki Spam"
+         ]
+        },
+        {
+         "title": "🔥 Despertar",
+         "items": [
+          "Monkey"
+         ]
+        },
+        {
+         "title": "💥 Finalizadores",
+         "items": [
+          "Kamehameha",
+          "Staff Uppercut",
+          "Staff Extend"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "strongest-of-history",
+       "name": "Strongest Of History",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/TrueHeian.png/revision/latest/scale-to-width-down/300?cb=20260908211759",
+       "vintageImage": "",
+       "kind": "Especial",
+       "cost": "Só em servidores privados (personagem superpoderoso)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Strongest Of History",
+         "text": "Baseado em Ryomen Sukuna (Jujutsu Kaisen). ",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/TrueHeian.png/revision/latest/scale-to-width-down/300?cb=20260908211759"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Só em servidores privados (personagem superpoderoso)",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/TrueHeian.png/revision/latest/scale-to-width-down/300?cb=20260908211759"
+        },
+        {
+         "title": "2. Golpes (Base)",
+         "text": "Pinnacle Of Jujutsu Sorcery, Incantation, Dismantle Net, Strong Dismantle, Dismantle Barrage, Disgraced Sovereign.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/TrueHeian.png/revision/latest/scale-to-width-down/300?cb=20260908211759"
+        },
+        {
+         "title": "3. Desperte (tecla G)",
+         "text": "Com a barra de Despertar cheia, aperte G para ativar \"Incomplete Shrine\" e ganhar golpes novos.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/TrueHeian.png/revision/latest/scale-to-width-down/300?cb=20260908211759"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Strongest+Of+History+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Especial",
+          "Como liberar: Só em servidores privados (personagem superpoderoso)",
+          "Despertar: Incomplete Shrine",
+          "Baseado em: Ryomen Sukuna (Jujutsu Kaisen)"
+         ]
+        },
+        {
+         "title": "⚔️ Golpes da forma base",
+         "items": [
+          "Pinnacle Of Jujutsu Sorcery",
+          "Incantation",
+          "Dismantle Net",
+          "Strong Dismantle",
+          "Dismantle Barrage",
+          "Disgraced Sovereign",
+          "World Cutting Slash",
+          "Open FURNACE",
+          "Cleave Rush",
+          "Kamutoke"
+         ]
+        },
+        {
+         "title": "🔥 Golpe de Despertar",
+         "items": [
+          "Incomplete Shrine"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "super-tze",
+       "name": "Super TZE",
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c7/SuperTzeGoingSuper.png/revision/latest/scale-to-width-down/300?cb=20261008233331",
+       "vintageImage": "",
+       "kind": "Especial · 100 de vida",
+       "cost": "Só o criador do jogo (Tze)",
+       "requirements": [],
+       "mastery": [],
+       "skins": [],
+       "tutorial": [
+        {
+         "title": "Conheça Super TZE",
+         "text": "Vida: 100.",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c7/SuperTzeGoingSuper.png/revision/latest/scale-to-width-down/300?cb=20261008233331"
+        },
+        {
+         "title": "1. Como liberar",
+         "text": "Só o criador do jogo (Tze)",
+         "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/c7/SuperTzeGoingSuper.png/revision/latest/scale-to-width-down/300?cb=20261008233331"
+        }
+       ],
+       "videoUrl": "https://www.youtube.com/results?search_query=Super+TZE+Jujutsu+Shenanigans+combo",
+       "infoBlocks": [
+        {
+         "title": "📋 Ficha",
+         "items": [
+          "Tipo: Especial",
+          "Vida: 100",
+          "Como liberar: Só o criador do jogo (Tze)"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "controles",
+   "title": "Controles e Combate",
+   "emoji": "🎮",
+   "description": "Teclas e o básico da luta.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "steps",
+     "title": "Controles (PC)",
+     "items": [
+      "M1 (clique): sequência de socos.",
+      "1, 2, 3 e 4: os golpes do personagem.",
+      "R: especial.",
+      "Q: dash (use no atordoamento para escapar).",
+      "F: bloquear.",
+      "W + W: correr (desvia de obstáculos sozinho).",
+      "G: Despertar (quando a barra estiver cheia)."
+     ]
+    },
+    {
+     "type": "text",
+     "title": "No celular",
+     "body": "Os mesmos comandos aparecem como botões na tela. Para trocar de personagem, saia do combate e toque em \"Characters\" no canto superior esquerdo."
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "O combate é inspirado nos jogos \"battlegrounds\" e a destruição do mapa, no Combat Mayhem (descrição oficial do jogo)."
+    }
+   ]
+  },
+  {
+   "id": "skins",
+   "title": "Skins",
+   "emoji": "🎭",
+   "description": "43 skins da Kogane, itens e personagens.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Skins são só visuais: não mudam os golpes. Saem na loja de forma aleatória por $250 (dinheiro do jogo) ou 25 Robux, e dá para comprar 5 ou 10 de uma vez. Também dá para presentear amigos."
+    },
+    {
+     "type": "gallery",
+     "title": "Kogane (29)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/5f/SkinKoganeBlush.png/revision/latest/scale-to-width-down/300?cb=20261026151913",
+       "caption": "Blush",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3f/SkinKoganeClownNose.png/revision/latest/scale-to-width-down/300?cb=20261026152618",
+       "caption": "Clown Nose",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/99/SkinKoganeMustache.png/revision/latest/scale-to-width-down/300?cb=20261026153645",
+       "caption": "Mustache",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/be/SkinKoganeStitches.png/revision/latest/scale-to-width-down/300?cb=20261026155010",
+       "caption": "Stitches",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/6/6f/SkinKoganeSwitcher.png/revision/latest/scale-to-width-down/300?cb=20261026155340",
+       "caption": "Switcher",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/ef/SkinKoganeVessel.png/revision/latest/scale-to-width-down/300?cb=20261027203713",
+       "caption": "Vessel",
+       "subtitle": "Face"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/4/40/SkinKoganeFangsT.webp/revision/latest/scale-to-width-down/300?cb=20261026225252",
+       "caption": "Fangs",
+       "subtitle": "Face · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/39/Kogane-Masked.png/revision/latest/scale-to-width-down/300?cb=20261105170049",
+       "caption": "Hockey Mask",
+       "subtitle": "Face · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/b/be/SkinKoganeCowboy.png/revision/latest/scale-to-width-down/300?cb=20261027203449",
+       "caption": "Cowboy",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/39/SkinKoganeHeadset.png/revision/latest/scale-to-width-down/300?cb=20261026160320",
+       "caption": "Fahooey Headset",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/d/df/SkinKoganeImed.png/revision/latest/scale-to-width-down/300?cb=20261026161208",
+       "caption": "Imed",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/d/d6/SkinKoganePro.png/revision/latest/scale-to-width-down/300?cb=20261027203451",
+       "caption": "Propeller",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/30/SkinKoganePurpleCap.png/revision/latest/scale-to-width-down/300?cb=20261026161330",
+       "caption": "Purple Cap",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/3/3a/SkinKoganeTinPot.png/revision/latest/scale-to-width-down/300?cb=20261026161443",
+       "caption": "Tin Pot",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/9b/SkinKoganeTze.png/revision/latest/scale-to-width-down/300?cb=20261027203450",
+       "caption": "Tze",
+       "subtitle": "Hat"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/5b/SkinKoganeAxe.png/revision/latest/scale-to-width-down/300?cb=20261026225829",
+       "caption": "Axe",
+       "subtitle": "Hat · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f9/SkinKoganeGhostT.webp/revision/latest/scale-to-width-down/300?cb=20261027202752",
+       "caption": "Ghost",
+       "subtitle": "Hat · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/73/SkinKoganePirateT.webp/revision/latest/scale-to-width-down/300?cb=20261027202751",
+       "caption": "Pirate Hat",
+       "subtitle": "Hat · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/7f/SkinKoganePumpkinT.webp/revision/latest/scale-to-width-down/300?cb=20261026225250",
+       "caption": "Pumpkin",
+       "subtitle": "Hat · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/ca/SkinKoganeWitchT.webp/revision/latest/scale-to-width-down/300?cb=20261026225249",
+       "caption": "Witch",
+       "subtitle": "Hat · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/9/92/SkinKoganeFahooeyTie.png/revision/latest/scale-to-width-down/300?cb=20261026225655",
+       "caption": "Fahooey Tie",
+       "subtitle": "Neckwear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/4/47/SkinKoganeFrostScarf.png/revision/latest/scale-to-width-down/300?cb=20261026161828",
+       "caption": "Frost Scarf",
+       "subtitle": "Neckwear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/53/SkinKoganeTodoNecklace.png/revision/latest/scale-to-width-down/300?cb=20261026161943",
+       "caption": "Switcher Necklace",
+       "subtitle": "Neckwear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/2/2c/SkinKoganeRedTie.png/revision/latest/scale-to-width-down/300?cb=20261026162030",
+       "caption": "Red Bowtie",
+       "subtitle": "Neckwear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/4/43/SkinKoganeCandyBucket.png/revision/latest/scale-to-width-down/300?cb=20261026170108",
+       "caption": "Candy Bucket",
+       "subtitle": "Neckwear · Limitada"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/e/e2/SkinKoganeBlindfold.png/revision/latest/scale-to-width-down/300?cb=20261026165822",
+       "caption": "Blindfold",
+       "subtitle": "Eyewear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/ad/SkinKoganeCoolGlasses.png/revision/latest/scale-to-width-down/300?cb=20261026162255",
+       "caption": "Cool Glasses",
+       "subtitle": "Eyewear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/73/SkinKoganeFrostVisor.png/revision/latest/scale-to-width-down/300?cb=20261026162344",
+       "caption": "Frost Visor",
+       "subtitle": "Eyewear"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/54/SkinKoganeGlasses.png/revision/latest/scale-to-width-down/300?cb=20261026165941",
+       "caption": "Glasses",
+       "subtitle": "Eyewear"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Items (2)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/d/dd/SkinSniperAWP.png/revision/latest/scale-to-width-down/300?cb=20261026170514",
+       "caption": "AWP",
+       "subtitle": "Sniper"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/cb/SkinSniperAsiimoy.png/revision/latest/scale-to-width-down/300?cb=20261026170725",
+       "caption": "AWP Asiimov",
+       "subtitle": "Sniper"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Honored One (1)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/d/d5/SkinGojoShades.png/revision/latest/scale-to-width-down/300?cb=20261026171143",
+       "caption": "Shades",
+       "subtitle": "Eyewear"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Ten Shadows (2)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/4/45/SkinMegGubby.gif/revision/latest/scale-to-width-down/300?cb=20261026171517",
+       "caption": "Gubby",
+       "subtitle": "Rabbit"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f7/SkinMahoPumpkin.png/revision/latest/scale-to-width-down/300?cb=20261026171650",
+       "caption": "Pumpkin",
+       "subtitle": "Mahoraga Hat · Limitada"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Puppet Master (3)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a4/SkinMechaWood.png/revision/latest/scale-to-width-down/300?cb=20261026182516",
+       "caption": "Wood",
+       "subtitle": "Puppet"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/c/cc/SkinULTRAWithered.png/revision/latest/scale-to-width-down/300?cb=20261026182927",
+       "caption": "Withered",
+       "subtitle": "Absolute"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/70/SkinULTRAPumpkin.png/revision/latest/scale-to-width-down/300?cb=20261026183136",
+       "caption": "Pumpkin",
+       "subtitle": "Absolute Hat · Limitada"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Salaryman (2)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/7/7f/SkinNanFormal.png/revision/latest/scale-to-width-down/300?cb=20261026172158",
+       "caption": "Formal",
+       "subtitle": "Tie"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/5/5e/SkinNanPres.png/revision/latest/scale-to-width-down/300?cb=20261026172233",
+       "caption": "Presidential",
+       "subtitle": "Tie"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "title": "Register (4)",
+     "images": [
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a9/SkinRegRBX.png/revision/latest/scale-to-width-down/300?cb=20261026181839",
+       "caption": "Robux",
+       "subtitle": "Receipts"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/8/8d/SkinRegSticky.png/revision/latest/scale-to-width-down/300?cb=20261026181946",
+       "caption": "Sticky Notes",
+       "subtitle": "Receipts"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/a/a3/SkinRegTix.png/revision/latest/scale-to-width-down/300?cb=20261026181755",
+       "caption": "Tix",
+       "subtitle": "Receipts"
+      },
+      {
+       "image": "https://static.wikia.nocookie.net/jujutsu-shenanigans/images/f/f5/SkinRegTruePole.png/revision/latest/scale-to-width-down/300?cb=20261026182100",
+       "caption": "True Pole",
+       "subtitle": "Pole Vault"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gamepasses",
+   "title": "Gamepasses",
+   "emoji": "💎",
+   "description": "O que dá para comprar com Robux.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "text",
+     "title": "",
+     "body": "Fora o Acesso Antecipado, nenhum gamepass muda as lutas: são só extras visuais e de conforto."
+    },
+    {
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "Early Access",
+       "tags": [
+        "345 Robux"
+       ],
+       "description": "Libera personagens em desenvolvimento antes de ficarem grátis para todos. É permanente.",
+       "fields": {}
+      },
+      {
+       "name": "Custom Kill Sound",
+       "tags": [
+        "100 Robux"
+       ],
+       "description": "Muda o som que toca quando você finaliza um jogador.",
+       "fields": {}
+      },
+      {
+       "name": "More Emote Slots",
+       "tags": [
+        "150 Robux"
+       ],
+       "description": "Mais espaços para equipar emotes.",
+       "fields": {}
+      },
+      {
+       "name": "Awakening Outfits",
+       "tags": [
+        "100 Robux"
+       ],
+       "description": "Roupas especiais para o Despertar.",
+       "fields": {}
+      },
+      {
+       "name": "+1 Emote Page",
+       "tags": [
+        "175 Robux"
+       ],
+       "description": "Mais uma página de emotes.",
+       "fields": {}
+      },
+      {
+       "name": "More Build Saves",
+       "tags": [
+        "125 Robux"
+       ],
+       "description": "Mais espaços para salvar criações no Build Mode.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "modos",
+   "title": "Modos de Jogo",
+   "emoji": "🏟️",
+   "description": "Duelos, Roleta, Creator Clash e mais.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "Lupa na barra de cima",
+     "items": [
+      {
+       "name": "Servidores públicos",
+       "tags": [],
+       "description": "O jogo normal, onde você nasce ao entrar.",
+       "fields": {}
+      },
+      {
+       "name": "Duelos",
+       "tags": [],
+       "description": "1 contra 1, 2 contra 2 e 3 contra 3 em mapas aleatórios, no modo Casual ou Ranqueado.",
+       "fields": {}
+      },
+      {
+       "name": "Roleta",
+       "tags": [],
+       "description": "Minijogos rápidos escolhidos por votação.",
+       "fields": {}
+      },
+      {
+       "name": "Creator Clash",
+       "tags": [],
+       "description": "Lutas com golpes personalizados criados pelos jogadores no Workshop.",
+       "fields": {}
+      },
+      {
+       "name": "Servidores personalizados",
+       "tags": [],
+       "description": "Servidores privados criados por jogadores.",
+       "fields": {}
+      },
+      {
+       "name": "Entrar com um amigo",
+       "tags": [],
+       "description": "Vai direto para o servidor de um amigo, se tiver vaga.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guias",
+   "title": "Guias por Nível",
+   "emoji": "🧭",
+   "description": "Do primeiro soco ao Ranqueado.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "levels",
+     "title": "Dicas por nível",
+     "levels": [
+      {
+       "level": "Iniciante",
+       "tips": [
+        "Comece com personagens completos e simples, como Vessel ou Honored One, que têm combos fáceis.",
+        "Aprenda a bloquear (F): muitos golpes são punidos se você só atacar.",
+        "Não gaste o dash à toa: ele é sua fuga quando você está atordoado.",
+        "Encha a barra de Despertar lutando e use o G na hora certa para virar a luta."
+       ]
+      },
+      {
+       "level": "Intermediário",
+       "tips": [
+        "Treine trocas de M1: quem acerta primeiro começa o combo.",
+        "Use golpes de longe para se aproximar com segurança.",
+        "Guarde o \"ragdoll cancel\" para escapar de combos longos, em vez de usar logo.",
+        "Teste personagens no Dummy (boneco de treino) antes de levar para a luta."
+       ]
+      },
+      {
+       "level": "Avançado",
+       "tips": [
+        "Leia o adversário: finja um golpe (feint) para provocar o bloqueio ou o contra-ataque.",
+        "Domine o Black Flash do Vessel e as extensões de combo.",
+        "Aprenda a sair de Domínios: alguns golpes quebram a borda do Domain Expansion.",
+        "Jogue Duelos Ranqueados para treinar contra gente do seu nível."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "termos",
+   "title": "Termos do Jogo",
+   "emoji": "📖",
+   "description": "Dicionário para iniciantes.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "M1",
+       "tags": [],
+       "description": "O ataque básico com clique (sequência de socos).",
+       "fields": {}
+      },
+      {
+       "name": "Despertar (Awakening)",
+       "tags": [],
+       "description": "Modo mais forte do personagem, ativado com G quando a barra enche.",
+       "fields": {}
+      },
+      {
+       "name": "Domain Expansion (Domínio)",
+       "tags": [],
+       "description": "Golpe que cria uma cúpula onde o ataque do usuário acerta quase sempre.",
+       "fields": {}
+      },
+      {
+       "name": "Black Flash",
+       "tags": [],
+       "description": "Acerto crítico especial, famoso no Vessel.",
+       "fields": {}
+      },
+      {
+       "name": "Ragdoll",
+       "tags": [],
+       "description": "Quando o personagem cai mole depois de um golpe forte.",
+       "fields": {}
+      },
+      {
+       "name": "Ragdoll cancel",
+       "tags": [],
+       "description": "Usar o dash para sair do ragdoll e escapar do combo.",
+       "fields": {}
+      },
+      {
+       "name": "Feint",
+       "tags": [],
+       "description": "Fingir um golpe e cancelar, para enganar o adversário.",
+       "fields": {}
+      },
+      {
+       "name": "Block break",
+       "tags": [],
+       "description": "Golpe que quebra o bloqueio do adversário.",
+       "fields": {}
+      },
+      {
+       "name": "Acesso Antecipado",
+       "tags": [],
+       "description": "Gamepass que libera personagens novos antes de ficarem prontos e grátis.",
+       "fields": {}
+      },
+      {
+       "name": "Kogane",
+       "tags": [],
+       "description": "O mascote que dá emotes, carinho diário ($5 a $15) e o placar do servidor.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "atualizacoes",
+   "title": "Atualizações",
+   "emoji": "🛠️",
+   "description": "Últimas versões do jogo.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Última atualização na página do Roblox: 05/11/2026. Notas abaixo vêm do Update Log da wiki."
+    },
+    {
+     "type": "items",
+     "title": "",
+     "items": [
+      {
+       "name": "Versão 1.83.2",
+       "tags": [
+        "Notas da wiki (inglês)"
+       ],
+       "description": "• Visual effects of others are no longer visible if out of range while spectating or within a match.\n• Added universal limits to visual effects.\n• Fixed particles not emitting when the Creator Clash Visual Limits setting is turned on.",
+       "fields": {}
+      },
+      {
+       "name": "Versão 1.83.1",
+       "tags": [
+        "Notas da wiki (inglês)"
+       ],
+       "description": "• Added Sky Assassin's animations.\n• Brought back old destruction.\n• Fixed Roulette.\n• Fixed not being able to close the top bar on mobile.\n• Fixed Workshop.",
+       "fields": {}
+      },
+      {
+       "name": "Versão 1.83",
+       "tags": [
+        "Notas da wiki (inglês)"
+       ],
+       "description": "• Released to the public.\n• Added a new move: Turbulence.\n• Added a new special: Sky Veil.\n• Added a finisher to Blind Rage.\n• Added new Temper variants to Thin Ice Breaker.\n• Aerial Sky Distortion now moves you slightly forward when starting the skill.\n• Blind Rage's hitbox linger duration reduced.\n• Improved the visual and sound effects of certain skills.\n• Blind Rage and Thin Ice Breaker can no longer hit ragdolled players.\n• Sky Distortion no longer keeps you in the air if you do not hit a target.",
+       "fields": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "criadores",
+   "title": "Criadores de Conteúdo",
+   "emoji": "📺",
+   "description": "Criador do jogo e vídeos em português.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "creators",
+     "title": "Para acompanhar",
+     "creators": [
+      {
+       "name": "Tze (criador do jogo)",
+       "country": "Oficial",
+       "about": "Desenvolvedor do Jujutsu Shenanigans. Novidades e códigos saem no X (Twitter) e no Discord oficial.",
+       "youtube": "",
+       "tiktok": "",
+       "source": "Deltia's Gaming / Dexerto"
+      },
+      {
+       "name": "Vídeos de Jujutsu Shenanigans em português",
+       "country": "Brasil",
+       "about": "Busca no YouTube com combos, tier lists e guias em português.",
+       "youtube": "https://www.youtube.com/results?search_query=Jujutsu+Shenanigans+combo+português",
+       "tiktok": "",
+       "source": "Busca do YouTube"
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Tze no X (Twitter)",
+       "url": "https://x.com/AlsoNot_Tze",
+       "official": true
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Ainda não confirmamos um criador brasileiro focado em JJS. Se você acompanha algum, avise que a gente adiciona com o link direto."
+    }
+   ]
+  },
+  {
+   "id": "novidades",
+   "title": "Novidades",
+   "emoji": "📰",
+   "description": "Últimas notícias do jogo, com fonte.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Notícias de Jujutsu Shenanigans reunidas da semana (Semana de 01/11 a 07/11/2026) e do mês (Novembro de 2026)."
+    },
+    {
+     "type": "items",
+     "title": "📰 Últimas notícias",
+     "items": [
+      {
+       "name": "Jujutsu Shenanigans atualizado com tema de Halloween",
+       "tags": [
+        "05/11/2026"
+       ],
+       "description": "O jogo foi atualizado em 05/11 e está com o evento de Halloween 2026. A última versão com notas na wiki é a V1.83.2.",
+       "fields": {
+        "Fonte": "Página do jogo no Roblox · Jujutsu Shenanigans Wiki",
+        "Link": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans"
+       }
+      },
+      {
+       "name": "Novo código RIA2026",
+       "tags": [
+        "26/10/2026"
+       ],
+       "description": "O código RIA2026 dá um emote e comemora o prêmio de Melhor Experiência de Ação do Roblox (RIA 2026).",
+       "fields": {
+        "Fonte": "Dexerto",
+        "Link": "https://www.dexerto.com/roblox/jujutsu-shenanigans-codes-december-2026-3293390"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Jujutsu Shenanigans atualizado com tema de Halloween (Página do jogo no Roblox · Jujutsu Shenanigans Wiki)",
+       "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+       "official": false
+      },
+      {
+       "label": "Novo código RIA2026 (Dexerto)",
+       "url": "https://www.dexerto.com/roblox/jujutsu-shenanigans-codes-december-2026-3293390",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true
+  },
+  {
+   "id": "eventos",
+   "title": "Eventos",
+   "emoji": "🎉",
+   "description": "Eventos ativos e próximas datas.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "🎉 Eventos e datas importantes",
+     "items": [
+      {
+       "name": "Jujutsu Shenanigans atualizado com tema de Halloween",
+       "tags": [
+        "05/11/2026"
+       ],
+       "description": "O jogo foi atualizado em 05/11 e está com o evento de Halloween 2026. A última versão com notas na wiki é a V1.83.2.",
+       "fields": {
+        "Fonte": "Página do jogo no Roblox · Jujutsu Shenanigans Wiki",
+        "Link": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans"
+       }
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Datas de eventos podem mudar. Confira sempre no próprio jogo."
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Jujutsu Shenanigans atualizado com tema de Halloween (Página do jogo no Roblox · Jujutsu Shenanigans Wiki)",
+       "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true
+  },
+  {
+   "id": "semana",
+   "title": "Coisas da Semana",
+   "emoji": "📅",
+   "description": "O que está acontecendo nesta semana.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "items",
+     "title": "🗓️ Semana de 01/11 a 07/11/2026",
+     "items": [
+      {
+       "name": "Jujutsu Shenanigans atualizado com tema de Halloween",
+       "tags": [
+        "05/11/2026"
+       ],
+       "description": "O jogo foi atualizado em 05/11 e está com o evento de Halloween 2026. A última versão com notas na wiki é a V1.83.2.",
+       "fields": {
+        "Fonte": "Página do jogo no Roblox · Jujutsu Shenanigans Wiki",
+        "Link": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Jujutsu Shenanigans atualizado com tema de Halloween (Página do jogo no Roblox · Jujutsu Shenanigans Wiki)",
+       "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true
+  },
+  {
+   "id": "info",
+   "title": "Links",
+   "emoji": "🔗",
+   "description": "Página do jogo e wiki.",
+   "status": "available",
+   "updatedAt": "2026-11-07",
+   "sections": [
+    {
+     "type": "links",
+     "title": "",
+     "links": [
+      {
+       "label": "Jujutsu Shenanigans no Roblox",
+       "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+       "official": true
+      },
+      {
+       "label": "Wiki da comunidade (Fandom)",
+       "url": "https://jujutsu-shenanigans.fandom.com/wiki/Jujutsu_Shenanigans_Wiki",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

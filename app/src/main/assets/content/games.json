@@ -1,7 +1,12 @@
 {
-  "contentVersion": 7,
+  "contentVersion": 8,
   "updatedAt": "2026-11-07",
   "news": [
+    {
+      "date": "2026-11-07",
+      "title": "Novos jogos: Evomon, Jujutsu Shenanigans e Ninja Tycoon",
+      "body": "Três jogos do Roblox com códigos, personagens com foto, golpes, guias por nível, termos e novidades. Chegam pelo botão Atualizar conteúdo."
+    },
     {
       "date": "2026-11-07",
       "title": "Visual novo e abas de novidades",
@@ -189,11 +194,117 @@
         "Desenvolvido pela Gamer Robot Inc.",
         "Criado pelos irmãos mygame43 e rip_indra."
       ]
+    },
+    {
+      "id": "evomon",
+      "name": "Evomon",
+      "subtitle": "Capture, treine e evolua monstrinhos",
+      "platform": "Roblox",
+      "emoji": "🐾",
+      "color": "#38BDF8",
+      "status": "available",
+      "file": "games/evomon.json",
+      "cover": "https://raw.githubusercontent.com/diegoalves8/Guia-de-jogos/main/media/roblox/evomon/thumb1.jpg",
+      "stats": {
+        "characters": 101,
+        "skins": 0,
+        "label": "Evomons"
+      },
+      "developer": "Evomon Devs",
+      "genres": [
+        "Aventura",
+        "Roblox"
+      ],
+      "badges": [
+        "Popular",
+        "Novo no app"
+      ],
+      "longDescription": "Jogo de capturar monstrinhos no Roblox, no estilo Pokémon. Você explora ilhas, captura Evomons de 17 elementos, treina, evolui, monta neles e enfrenta dungeons com amigos. Tem variantes raras Shiny e Sparkle.",
+      "storeUrl": "https://www.roblox.com/games/134381727982611/Evomon",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Desenvolvido e publicado pelo grupo Evomon Devs no Roblox.",
+        "Lançado para todos em 17/06/2026."
+      ]
+    },
+    {
+      "id": "jujutsu-shenanigans",
+      "name": "Jujutsu Shenanigans",
+      "subtitle": "Luta battlegrounds de Jujutsu Kaisen",
+      "platform": "Roblox",
+      "emoji": "👊",
+      "color": "#EF4444",
+      "status": "available",
+      "file": "games/jujutsu-shenanigans.json",
+      "cover": "https://raw.githubusercontent.com/diegoalves8/Guia-de-jogos/main/media/roblox/jujutsu-shenanigans/thumb1.jpg",
+      "stats": {
+        "characters": 30,
+        "skins": 43,
+        "label": "Personagens"
+      },
+      "developer": "Tze",
+      "genres": [
+        "Ação",
+        "Roblox"
+      ],
+      "badges": [
+        "Popular",
+        "Novo no app"
+      ],
+      "longDescription": "Jogo de luta do Roblox inspirado em Jujutsu Kaisen. Você escolhe um personagem, luta com 4 golpes e um especial e, com a barra cheia, Desperta para ganhar golpes novos. Venceu o prêmio de Melhor Experiência de Ação do Roblox (RIA 2026).",
+      "storeUrl": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Criado por Tze (@AlsoNot_Tze) e publicado pelo grupo Jujutsu Shenanigans! no Roblox.",
+        "Inspirado no anime e mangá Jujutsu Kaisen."
+      ]
+    },
+    {
+      "id": "ninja-tycoon",
+      "name": "Ninja Tycoon",
+      "subtitle": "Base ninja, jutsus e transformações",
+      "platform": "Roblox",
+      "emoji": "🥷",
+      "color": "#F97316",
+      "status": "available",
+      "file": "games/ninja-tycoon.json",
+      "cover": "https://raw.githubusercontent.com/diegoalves8/Guia-de-jogos/main/media/roblox/ninja-tycoon/thumb1.jpg",
+      "stats": {
+        "characters": 8,
+        "skins": 74,
+        "label": "Transformações"
+      },
+      "developer": "Coldjason",
+      "genres": [
+        "Simulação",
+        "Roblox"
+      ],
+      "badges": [
+        "Novo no app"
+      ],
+      "longDescription": "Tycoon de ninjas do Roblox inspirado em Naruto. Você escolhe um clã, monta sua base com droppers que geram dinheiro, compra armas e jutsus, enfrenta chefes e usa transformações como Modo Sábio e Modo Baryon.",
+      "storeUrl": "https://www.roblox.com/games/221718525/Ninja-Tycoon",
+      "storeLabel": "Abrir no Roblox",
+      "compatibility": "Jogo do Roblox: Android, iOS, PC, Xbox e PlayStation (precisa do app Roblox).",
+      "credits": [
+        "Criado por Coldjason, com AzuriteStorm na construção e modelagem.",
+        "No Roblox desde fevereiro de 2015 (antes chamado Naruto Tycoon)."
+      ]
     }
   ],
   "weeklyNews": {
     "period": "Semana de 01/11 a 07/11/2026",
     "items": [
+      {
+        "game": "free-fire",
+        "date": "2026-11-07",
+        "title": "Codiguins de novembro confirmados",
+        "body": "A Garena confirmou 4 itens de codiguin para novembro: Conjunto Pulso Cósmico e Conjunto Aura Cósmica (07 a 19/11), AWM Núcleo Cósmico (14/11 a 10/12) e Invoque a Bandeira! (09/11 a 11/12). Resgate só no site oficial.",
+        "source": "Free Fire Mania (programa FFCP)",
+        "url": ""
+      },
       {
         "game": "dandys-world",
         "date": "2026-11-06",
@@ -201,6 +312,38 @@
         "body": "O evento de Halloween (02/10 a 06/11) acabou e a atualização \"Astro's Week\" (Alpha 0.30.1) removeu o conteúdo do evento. Astro é o Toon da Semana até 13/11.",
         "source": "Dandy's World Wiki (Changelog)",
         "url": ""
+      },
+      {
+        "game": "free-fire",
+        "date": "2026-11-06",
+        "title": "Começam as Finais Globais do FFWS",
+        "body": "As Finais Globais do Free Fire World Series começam em 06/11, em Bangcoc (Tailândia), com 24 equipes ao longo de quatro fins de semana.",
+        "source": "Garena (site oficial)",
+        "url": "https://ff.garena.com/pt/article/1607/"
+      },
+      {
+        "game": "evomon",
+        "date": "2026-11-06",
+        "title": "Evomon atualizado: Temporada 4 \"StarUp\"",
+        "body": "O jogo recebeu atualização em 06/11 e está na Temporada 4 (StarUp), com tema de Halloween. O código da temporada é EVOS4LIVE.",
+        "source": "Página do jogo no Roblox · evomon.wiki",
+        "url": "https://www.roblox.com/games/134381727982611/Evomon"
+      },
+      {
+        "game": "jujutsu-shenanigans",
+        "date": "2026-11-05",
+        "title": "Jujutsu Shenanigans atualizado com tema de Halloween",
+        "body": "O jogo foi atualizado em 05/11 e está com o evento de Halloween 2026. A última versão com notas na wiki é a V1.83.2.",
+        "source": "Página do jogo no Roblox · Jujutsu Shenanigans Wiki",
+        "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans"
+      },
+      {
+        "game": "ninja-tycoon",
+        "date": "2026-11-05",
+        "title": "Ninja Tycoon chega à versão 4.8",
+        "body": "O Ninja Tycoon foi atualizado para a versão 4.8 em 05/11. As notas completas saem no Discord do criador, Coldjason.",
+        "source": "Página do jogo no Roblox",
+        "url": "https://www.roblox.com/games/221718525/Ninja-Tycoon"
       },
       {
         "game": "dandys-world",
@@ -235,20 +378,20 @@
         "url": ""
       },
       {
-        "game": "free-fire",
-        "date": "2026-11-06",
-        "title": "Começam as Finais Globais do FFWS",
-        "body": "As Finais Globais do Free Fire World Series começam em 06/11, em Bangcoc (Tailândia), com 24 equipes ao longo de quatro fins de semana.",
-        "source": "Garena (site oficial)",
-        "url": "https://ff.garena.com/pt/article/1607/"
+        "game": "murder-mystery",
+        "date": "2026-11-03",
+        "title": "Halloween retrô continua até 16/11",
+        "body": "O evento de Halloween segue até 16/11. Destaques: a Godly Embersickle (0,2% na caixa), o Ancient Emberbow (nível 30 do passe), a criação do Emberscythe no Caldeirão e as primeiras Chroma Ancients do jogo. Não há código ativo.",
+        "source": "Murder Mystery 2 Wiki · G2A",
+        "url": ""
       },
       {
-        "game": "free-fire",
-        "date": "2026-11-07",
-        "title": "Codiguins de novembro confirmados",
-        "body": "A Garena confirmou 4 itens de codiguin para novembro: Conjunto Pulso Cósmico e Conjunto Aura Cósmica (07 a 19/11), AWM Núcleo Cósmico (14/11 a 10/12) e Invoque a Bandeira! (09/11 a 11/12). Resgate só no site oficial.",
-        "source": "Free Fire Mania (programa FFCP)",
-        "url": ""
+        "game": "evomon",
+        "date": "2026-11-03",
+        "title": "Códigos do Evomon continuam valendo",
+        "body": "Nenhum código do Evomon expirou até agora. O próximo sai quando o jogo bater 400 mil likes.",
+        "source": "GamesRadar · página do jogo no Roblox",
+        "url": "https://www.gamesradar.com/games/rpg/evomon-codes/"
       },
       {
         "game": "free-fire",
@@ -265,14 +408,6 @@
         "body": "O evento de Halloween (Update 30 \"Magnet\") começou em 31/10 e vai até 15/11/2026, às 22h de 14/11 no horário de Brasília. Traz a mutação Hellfire do Gas, caça às abóboras e o Spooky Gacha.",
         "source": "Timesaver · U7BUY",
         "url": ""
-      },
-      {
-        "game": "murder-mystery",
-        "date": "2026-11-03",
-        "title": "Halloween retrô continua até 16/11",
-        "body": "O evento de Halloween segue até 16/11. Destaques: a Godly Embersickle (0,2% na caixa), o Ancient Emberbow (nível 30 do passe), a criação do Emberscythe no Caldeirão e as primeiras Chroma Ancients do jogo. Não há código ativo.",
-        "source": "Murder Mystery 2 Wiki · G2A",
-        "url": ""
       }
     ]
   },
@@ -280,35 +415,11 @@
     "period": "Novembro de 2026",
     "items": [
       {
-        "game": "dandys-world",
-        "date": "2026-11-13",
-        "title": "Próxima atualização e troca do Toon da Semana",
-        "body": "A wiki aponta um novo patch (versão Alpha 0.30) e a troca do Toon da Semana para sexta, 13/11. O próximo grande evento esperado é o de Natal.",
-        "source": "Dandy's World Wiki",
-        "url": ""
-      },
-      {
-        "game": "blox-fruits",
-        "date": "2026-11-15",
-        "title": "Fim do evento de Halloween",
-        "body": "O evento termina em 15/11 às 01:00 UTC (22h de 14/11 em Brasília).",
-        "source": "Lista oficial de eventos do Roblox (via Timesaver)",
-        "url": ""
-      },
-      {
-        "game": "murder-mystery",
-        "date": "2026-11-16",
-        "title": "Fim do Halloween 2026",
-        "body": "O evento acaba em 16/11 às 18:00 UTC (15h em Brasília). Depois disso as armas do evento só por troca.",
-        "source": "Lista oficial de eventos do Roblox (via allthings.how)",
-        "url": ""
-      },
-      {
-        "game": "brawl-stars",
-        "date": "2026-11-19",
-        "title": "Nova temporada do Ranqueado",
-        "body": "A próxima temporada do Ranqueado começa em 19/11, já com as novas regras.",
-        "source": "BrawlZone",
+        "game": "free-fire",
+        "date": "2026-11-30",
+        "title": "FFWS durante todo o mês",
+        "body": "As Finais Globais do FFWS seguem por quatro fins de semana em novembro. A Loja e a Loja Prime de novembro vão até 30/11.",
+        "source": "Garena · Free Fire Mania",
         "url": ""
       },
       {
@@ -320,11 +431,35 @@
         "url": ""
       },
       {
-        "game": "free-fire",
-        "date": "2026-11-30",
-        "title": "FFWS durante todo o mês",
-        "body": "As Finais Globais do FFWS seguem por quatro fins de semana em novembro. A Loja e a Loja Prime de novembro vão até 30/11.",
-        "source": "Garena · Free Fire Mania",
+        "game": "brawl-stars",
+        "date": "2026-11-19",
+        "title": "Nova temporada do Ranqueado",
+        "body": "A próxima temporada do Ranqueado começa em 19/11, já com as novas regras.",
+        "source": "BrawlZone",
+        "url": ""
+      },
+      {
+        "game": "murder-mystery",
+        "date": "2026-11-16",
+        "title": "Fim do Halloween 2026",
+        "body": "O evento acaba em 16/11 às 18:00 UTC (15h em Brasília). Depois disso as armas do evento só por troca.",
+        "source": "Lista oficial de eventos do Roblox (via allthings.how)",
+        "url": ""
+      },
+      {
+        "game": "blox-fruits",
+        "date": "2026-11-15",
+        "title": "Fim do evento de Halloween",
+        "body": "O evento termina em 15/11 às 01:00 UTC (22h de 14/11 em Brasília).",
+        "source": "Lista oficial de eventos do Roblox (via Timesaver)",
+        "url": ""
+      },
+      {
+        "game": "dandys-world",
+        "date": "2026-11-13",
+        "title": "Próxima atualização e troca do Toon da Semana",
+        "body": "A wiki aponta um novo patch (versão Alpha 0.30) e a troca do Toon da Semana para sexta, 13/11. O próximo grande evento esperado é o de Natal.",
+        "source": "Dandy's World Wiki",
         "url": ""
       },
       {
@@ -334,6 +469,22 @@
         "body": "Voltaram os Toons Gourdy, Soulvester, Eclipse e Ribecca, com loja de Pumpkins, missões de skins Douradas, a skin Toxic Experiment do Waxwell e a música oficial \"Queens of Mischief\".",
         "source": "X (Twitter) · Gaming Route",
         "url": ""
+      },
+      {
+        "game": "evomon",
+        "date": "2026-10-29",
+        "title": "Começa a Temporada 4 do Evomon",
+        "body": "A Temporada 4 começou no fim de outubro, com o código EVOS4LIVE (poções de Trait, Nature e Talent Vector).",
+        "source": "evomon.wiki · GamesRadar",
+        "url": "https://www.evomon.wiki/codes"
+      },
+      {
+        "game": "jujutsu-shenanigans",
+        "date": "2026-10-26",
+        "title": "Novo código RIA2026",
+        "body": "O código RIA2026 dá um emote e comemora o prêmio de Melhor Experiência de Ação do Roblox (RIA 2026).",
+        "source": "Dexerto",
+        "url": "https://www.dexerto.com/roblox/jujutsu-shenanigans-codes-december-2026-3293390"
       }
     ]
   },
