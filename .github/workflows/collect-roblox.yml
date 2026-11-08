@@ -1,0 +1,25 @@
+# Coleta dados de Evomon, Jujutsu Shenanigans e Ninja Tycoon (wikis Fandom + API do Roblox).
+# Grava na branch "roblox-data". Roda sozinho quando o coletor muda, ou em Actions → Collect Roblox → Run workflow.
+name: Collect Roblox
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/collect_roblox.py", ".github/workflows/collect-roblox.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/collect_roblox.py /tmp/roblox-data
+      - name: Gravar na branch roblox-data
+        run: |
+          cd /tmp/roblox-data
+          git init -q -b roblox-data && git add -A
+          git -c user.name="collector" -c user.email="actions@users.noreply.github.com" commit -q -m "Coleta $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" roblox-data
