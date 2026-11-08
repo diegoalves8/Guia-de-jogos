@@ -132,8 +132,28 @@ def collect_roblox(game, cfg):
     return out
 
 
+def download(url, path):
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=40) as r:
+            data = r.read()
+        path = os.path.join(OUT, path); os.makedirs(os.path.dirname(path), exist_ok=True)
+        open(path, "wb").write(data)
+        return True
+    except Exception as e:
+        print("falha ao baixar", url, e)
+        return False
+
+
 for game, cfg in GAMES.items():
     w = collect_wiki(game, cfg["wikis"])
     save(f"{game}/pages.json", w)
-    save(f"{game}/roblox.json", collect_roblox(game, cfg))
+    rb = collect_roblox(game, cfg)
+    save(f"{game}/roblox.json", rb)
+    # Ícone e capas do jogo (as URLs do Roblox expiram; o app usa cópias guardadas no repositório)
+    for ic in rb.get("icons", [])[:1]:
+        if ic.get("imageUrl"): download(ic["imageUrl"], f"{game}/media/icon.png")
+    for th in rb.get("thumbnails", [])[:1]:
+        for i, t in enumerate(th.get("thumbnails", [])[:5]):
+            if t.get("imageUrl"): download(t["imageUrl"], f"{game}/media/thumb{i + 1}.png")
 print("fim")
