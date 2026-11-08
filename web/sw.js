@@ -1,5 +1,5 @@
 // Service worker: deixa o Guia de Jogos funcionar offline depois da primeira visita.
-const VERSION = "gj-v2";
+const VERSION = "gj-v3";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon.svg"];
 
 self.addEventListener("install", (e) => {

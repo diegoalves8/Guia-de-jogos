@@ -11,8 +11,8 @@ const $tabbar = document.getElementById("tabbar");
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const nl2br = (s) => esc(s).replace(/\n/g, "<br>");
 const fmtDate = (d) => (d || "").split("-").reverse().join("/");
-const C = { primary: "#4285F4", secondary: "#8B7CF6", success: "#5CC593", accent: "#E8B75C", danger: "#E5737A", text2: "#A5AFBF" };
-const CHART = ["#4285F4", "#8B7CF6", "#3CC6C2", "#5CC593", "#E8B75C", "#6FA8FF"];
+const C = { primary: "#3D8BFF", secondary: "#8B7CF6", success: "#5CC593", accent: "#E8B75C", danger: "#E5737A", text2: "#8792A6" };
+const CHART = ["#3D8BFF", "#8B7CF6", "#3CC6C2", "#5CC593", "#E8B75C", "#6FA8FF"];
 const pill = (t, c = C.text2) => `<span class="pill" style="--c:${c}">${esc(t)}</span>`;
 const isWide = () => innerWidth >= 760;
 
@@ -104,19 +104,25 @@ const sectionHead = (title, sub = "", action = "", href = "") => `
   <div class="section-head"><div class="grow"><h2>${esc(title)}</h2>${sub ? `<div class="muted small">${esc(sub)}</div>` : ""}</div>
   ${action ? `<a class="link-btn" href="${href}">${esc(action)}</a>` : ""}</div>`;
 const empty = (e, t, m) => `<div class="empty"><div class="e">${e}</div><h3>${esc(t)}</h3><div class="muted">${esc(m)}</div></div>`;
-const media = (image, title, { badge = "", detail = "", href = "", tall = false } = {}) => `
-  <${href ? `a href="${href}"` : "div"} class="card media press">
+const media = (image, title, { badge = "", detail = "", href = "", tall = false, fav = null } = {}) => { if (fav) FAVDATA[fav.key] = fav; return `
+  <${href ? `a href="${href}"` : "div"} class="card media press" style="position:relative">${fav ? favHeart(fav.key) : ""}
     ${image ? `<div class="img ${tall ? "tall" : ""}">${img(image, title)}</div>` : ""}
     <div class="body ${image ? "" : "noimg"}"><h3 class="clamp2">${esc(title)}</h3>${badge ? `<div>${pill(badge, C.secondary)}</div>` : ""}${detail ? `<div class="muted small clamp3">${esc(detail)}</div>` : ""}</div>
-  </${href ? "a" : "div"}>`;
+  </${href ? "a" : "div"}>`; };
+const favHeart = (key, extra = "") => `<button class="fav-btn ${Fav.has(key) ? "on" : ""}" data-fav="${esc(key)}" ${extra} aria-label="Favoritar">${Fav.has(key) ? ICON.heart : ICON.heartO}</button>`;
+const gameFav = (g) => ({ key: "game:" + g.id, title: g.name, subtitle: g.developer, image: g.cover, route: `#/game/${g.id}`, type: "game" });
 const gameCard = (g) => `
-  <a class="card game-card press" href="#/game/${g.id}">
+  <div class="card game-card press" data-href="#/game/${g.id}" role="link" tabindex="0">
+    ${favHeart("game:" + g.id, `data-game="${g.id}"`)}
     <div class="art-box">${img(g.cover, g.name, "ok")}</div>
-    <div class="row" style="padding:16px">${gameIcon(g, 56)}<div class="grow"><h3 style="font-size:20px" class="ellipsis">${esc(g.name)}</h3>
-      <div class="muted small ellipsis">${esc([g.developer, (g.genres || [])[0]].filter(Boolean).join(" • "))}</div></div></div>
-    <div class="stack" style="padding:0 16px 16px;gap:10px"><div class="muted small clamp2">${esc(g.subtitle)}</div>
-      <div class="pills">${g.stats?.characters ? pill(`${g.stats.characters} ${g.stats.label}`, C.primary) : ""}${badges(g)}</div></div>
-  </a>`;
+    <div class="gc-body">
+      <div class="gc-top">${gameIcon(g, 44)}<div class="grow"><h3 class="ellipsis">${esc(g.name)}</h3>
+        <div class="muted small ellipsis">${esc([g.developer, g.stats?.characters ? `${g.stats.characters} ${g.stats.label}` : ""].filter(Boolean).join(" · "))}</div></div></div>
+      <div class="muted small clamp2 gc-desc">${esc(g.subtitle)}</div>
+      <div class="gc-foot"><div class="pills grow" style="gap:6px">${(g.genres || []).slice(0, 1).map((x) => pill(x, C.secondary)).join("")}${g.platform && !(g.genres || []).includes(g.platform) ? pill(g.platform, C.primary) : ""}</div>
+        <span class="go">${ICON.right}</span></div>
+    </div>
+  </div>`;
 
 // ---------------------------------------------------------------- blocos de conteúdo
 function renderSection(s, ctx) {
@@ -135,7 +141,7 @@ function renderSection(s, ctx) {
       return `<div class="item ${exp ? "exp" : ""}"><div class="head" ${exp ? 'data-toggle="1"' : ""}>${it.image ? `<img class="thumb ok" src="${esc(it.image)}" loading="lazy" referrerpolicy="no-referrer" alt="">` : ""}
         <div class="grow stack" style="gap:6px"><strong style="font-weight:500">${esc(it.name)}</strong>${(it.tags || []).length ? `<div class="pills">${it.tags.map((t) => pill(t, C.secondary)).join("")}</div>` : ""}</div>${exp ? ICON.chev : ""}</div>
         ${it.description ? `<div style="margin-top:8px">${nl2br(it.description)}</div>` : ""}
-        ${exp ? `<div class="fields">${f.map(([k, v]) => `<div><div class="label">${esc(k)}</div><div>${nl2br(v)}</div></div>`).join("")}</div>` : ""}</div>`; }).join("")}</div>`);
+        ${exp ? `<div class="fields">${f.map(([k, v]) => `<div><div class="label">${esc(k)}</div><div>${/^https?:\/\//.test(v) ? `<a href="${esc(v)}" target="_blank" rel="noopener" style="color:var(--primary);word-break:break-all">${esc(v)}</a>` : nl2br(v)}</div></div>`).join("")}</div>` : ""}</div>`; }).join("")}</div>`);
     case "levels": return box(`<div class="stack" style="gap:10px">${(s.levels || []).map((l) => `<div class="level" data-toggle="1"><div class="row"><strong class="grow" style="font-weight:500">${esc(l.level)}</strong>${pill(`${l.tips.length} dicas`)}${ICON.chev}</div>
       <ul>${l.tips.length ? l.tips.map((t) => `<li>${esc(t)}</li>`).join("") : "<li class='muted'>Dicas deste nível em breve.</li>"}</ul></div>`).join("")}</div>`);
     case "links": return box(`<div class="stack" style="gap:10px">${(s.links || []).map((l) => `<a class="lnk press" href="${esc(l.url)}" target="_blank" rel="noopener"><div class="grow stack" style="gap:4px"><strong style="font-weight:500">${esc(l.label)}</strong>
@@ -151,10 +157,24 @@ function renderSection(s, ctx) {
   }
 }
 // Interações dos blocos (expandir itens, copiar códigos)
+const FAVDATA = {}; // dados de favoritos registrados pelas telas (chave -> objeto)
 document.addEventListener("click", (e) => {
+  const fv = e.target.closest("[data-fav]");
+  if (fv) {
+    e.preventDefault(); e.stopPropagation();
+    const key = fv.dataset.fav; let data = FAVDATA[key];
+    if (!data && fv.dataset.game && DB.index) data = gameFav(DB.index.games.find((g) => g.id === fv.dataset.game));
+    if (!data) return;
+    const on = Fav.toggle(data);
+    document.querySelectorAll(`[data-fav="${CSS.escape(key)}"]`).forEach((b) => { b.classList.toggle("on", on); b.innerHTML = on ? ICON.heart : ICON.heartO; });
+    toast(on ? "Adicionado aos favoritos" : "Removido dos favoritos"); return;
+  }
+  const card = e.target.closest("[data-href]"); if (card && !e.target.closest("a,button")) { location.hash = card.dataset.href; return; }
   const cp = e.target.closest("[data-copy]"); if (cp) { e.preventDefault(); copy(cp.dataset.copy); return; }
   const tg = e.target.closest("[data-toggle]"); if (tg) { (tg.classList.contains("level") ? tg : tg.closest(".item")).classList.toggle("open"); }
 });
+
+document.addEventListener("keydown", (e) => { if (e.key === "Enter" && e.target.dataset?.href) location.hash = e.target.dataset.href; });
 
 // ---------------------------------------------------------------- telas
 const TABS = [["home", "Início", ICON.home], ["games", "Jogos", ICON.games], ["favorites", "Favoritos", ICON.heart], ["news", "Novidades", ICON.news], ["settings", "Configurações", ICON.settings]];
@@ -163,7 +183,13 @@ function setTabs(active) {
   $tabbar.hidden = !show; document.body.classList.toggle("no-tabs", !show);
   if (show) $tabbar.innerHTML = `<div class="tabs">${TABS.map(([r, l, ic]) => `<a class="tab ${r === active ? "on" : ""}" href="#/${r}"><span class="ind">${ic}</span><span class="l">${l}</span></a>`).join("")}</div>`;
 }
-function goBack() { if (history.length > 1) history.back(); else location.hash = "#/home"; }
+const NAV = { last: 0 };
+function parentRoute() {
+  const p = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
+  if (p[0] === "game" && p.length > 2) return "#/" + p.slice(0, p.length - 2).join("/");
+  return "#/home";
+}
+function goBack() { if ((history.state?.d || 0) > 0) history.back(); else { NAV.replacing = true; location.replace(parentRoute()); } }
 window.goBack = goBack;
 
 const state = { homeFilter: "Todos os jogos", gamesFilter: "Todos os jogos", gamesQuery: "" };
@@ -173,7 +199,7 @@ function welcome() {
   $app.innerHTML = `<div class="welcome"><div class="box fade"><div class="logo">🎮</div><h1>GUIA DE JOGOS</h1>
     <div class="muted" style="font-size:18px">Códigos, dicas, guias, skins, novidades e informações dos seus jogos favoritos — tudo em um só lugar.</div>
     <button class="enter" id="enter">ENTRAR</button><div class="muted small" style="margin-top:16px">Versão web · Criado por Gustavo Bezerra</div></div></div>`;
-  document.getElementById("enter").onclick = () => { try { sessionStorage.setItem("gj-in", "1"); } catch (_) {} location.hash = "#/home"; };
+  document.getElementById("enter").onclick = () => { try { sessionStorage.setItem("gj-in", "1"); } catch (_) {} NAV.replacing = true; location.replace("#/home"); };
 }
 
 async function home() {
@@ -181,27 +207,39 @@ async function home() {
   const idx = await loadIndex();
   const featured = idx.games.filter((g) => g.cover);
   const favs = Fav.list();
-  $app.innerHTML = `<div class="wrap stack page" style="gap:24px">
+  const week = (idx.weeklyNews?.items || []).slice(0, 3);
+  const byId = Object.fromEntries(idx.games.map((g) => [g.id, g]));
+  const quick = [["#/games", "Jogos", ICON.games, `${idx.games.length} guias`], ["#/favorites", "Favoritos", ICON.heart, favs.length ? `${favs.length} salvos` : "Seus salvos"],
+    ["#/news", "Novidades", ICON.news, "Semana e mês"], ["#/search", "Pesquisar", ICON.search, "Tudo do guia"]];
+  $app.innerHTML = `<div class="wrap stack page" style="gap:22px">
     <div class="home-head"><div class="logo">🎮</div><span class="brand">Guia de Jogos</span>
-      <a class="search press grow" href="#/search">${ICON.search}<span class="ellipsis">Pesquisar jogos, personagens, skins…</span></a>
-      <a class="icon-btn" href="#/settings" aria-label="Configurações" style="color:${C.text2}">${ICON.settings}</a></div>
-    <div><div class="banner" id="banner"></div><div class="banner-dots" id="dots"></div></div>
-    ${favs.length ? `<div class="stack">${sectionHead("Seus favoritos")}<div class="hscroll">${favs.map((f) => `<div style="width:150px">${media(f.image, f.title, { detail: f.subtitle, href: f.route })}</div>`).join("")}</div></div>` : ""}
-    <div class="stack" style="gap:18px">${sectionHead("Explorar", "Escolha uma categoria")}<div id="hchips"></div><div id="hlist"></div></div>
+      <a class="search press grow" href="#/search">${ICON.search}<span class="ellipsis">Pesquisar jogos, personagens, skins...</span></a>
+      <a class="icon-btn" href="#/settings" aria-label="Configurações" style="color:var(--text2)">${ICON.settings}</a></div>
+    <div><div class="banner" id="banner">${featured.map((g, k) => `
+      <div class="slide ${k === 0 ? "on" : ""}" data-href="#/game/${g.id}">
+        ${img(g.cover, "", "art ok")}<div class="shade"></div>
+        <div class="txt">${pill("★ Em destaque", C.primary)}<h2>${esc(g.name)}</h2>
+          <div class="meta">${esc([(g.genres || []).join(" · "), g.developer].filter(Boolean).join("  •  "))}</div>
+          <div class="desc clamp2">${esc(g.subtitle || g.longDescription)}</div>
+          <div style="margin-top:6px"><a class="btn btn-primary" href="#/game/${g.id}">${ICON.book} Ver guia</a></div></div>
+      </div>`).join("")}</div>
+      <div class="banner-dots" id="dots">${featured.map((_, k) => `<span class="dot ${k === 0 ? "on" : ""}" data-dot="${k}"></span>`).join("")}</div></div>
+    <div class="quick">${quick.map(([h, l, ic, sub]) => `<a class="card press" href="${h}"><span class="qi">${ic}</span><div class="grow"><strong>${l}</strong><div class="muted small ellipsis">${sub}</div></div></a>`).join("")}</div>
+    ${favs.length ? `<div class="stack">${sectionHead("Seus favoritos", "", "Ver todos", "#/favorites")}<div class="hscroll">${favs.map((f) => `<div style="width:148px">${media(f.image, f.title, { detail: f.subtitle, href: f.route })}</div>`).join("")}</div></div>` : ""}
+    <div class="stack" style="gap:16px">${sectionHead("Jogos", "Escolha uma categoria e toque em um jogo", "Ver catálogo", "#/games")}<div id="hchips"></div><div id="hlist"></div></div>
+    ${week.length ? `<div class="stack">${sectionHead("Novidades da semana", idx.weeklyNews.period || "", "Ver todas", "#/news")}
+      <div class="news-mini">${week.map((n) => `<a class="card press" href="#/news">${byId[n.game] ? `<div>${pill(byId[n.game].name, C.secondary)}</div>` : ""}<h3 class="clamp2">${esc(n.title)}</h3><div class="muted small clamp2">${esc(n.body)}</div><div class="muted small">${fmtDate(n.date)}</div></a>`).join("")}</div></div>` : ""}
   </div>`;
-  // Banner de destaque (troca a cada 6 s)
-  let i = 0; const b = document.getElementById("banner"), dots = document.getElementById("dots");
-  const show = () => {
-    const g = featured[i];
-    b.innerHTML = `<img class="art fade" src="${esc(g.cover)}" alt="" referrerpolicy="no-referrer"><div class="shade"></div>
-      <div class="txt fade">${pill("★ Em destaque", C.primary)}<h2>${esc(g.name)}</h2>
-      <div class="muted" style="font-size:17px">${esc([g.developer, (g.genres || []).join(" · ")].filter(Boolean).join("  •  "))}</div>
-      <div class="muted clamp2">${esc(g.longDescription || g.subtitle)}</div>
-      <div><a class="btn btn-primary" href="#/game/${g.id}">${ICON.book} Ver guia</a></div></div>`;
-    b.onclick = (e) => { if (!e.target.closest("a")) location.hash = `#/game/${g.id}`; };
-    dots.innerHTML = featured.map((_, k) => `<span class="dot ${k === i ? "on" : ""}"></span>`).join("");
-  };
-  show(); clearInterval(home._t); home._t = setInterval(() => { if (!document.getElementById("banner")) return clearInterval(home._t); i = (i + 1) % featured.length; show(); }, 6000);
+  // Carrossel: troca suave a cada 6 s, toque nos pontos ou arraste para o lado
+  let i = 0; const slides = [...document.querySelectorAll("#banner .slide")], dots = [...document.querySelectorAll("#dots .dot")];
+  const show = (k) => { i = (k + slides.length) % slides.length; slides.forEach((x, n) => x.classList.toggle("on", n === i)); dots.forEach((x, n) => x.classList.toggle("on", n === i)); };
+  const restart = () => { clearInterval(home._t); home._t = setInterval(() => { if (!document.getElementById("banner")) return clearInterval(home._t); show(i + 1); }, 6000); };
+  dots.forEach((d) => (d.onclick = () => { show(+d.dataset.dot); restart(); }));
+  const bn = document.getElementById("banner"); let x0 = null;
+  bn.addEventListener("pointerdown", (e) => (x0 = e.clientX));
+  bn.addEventListener("pointerup", (e) => { if (x0 != null && Math.abs(e.clientX - x0) > 50) { show(i + (e.clientX < x0 ? 1 : -1)); restart(); bn._swiped = true; setTimeout(() => (bn._swiped = false), 50); } x0 = null; });
+  bn.addEventListener("click", (e) => { if (bn._swiped) e.stopPropagation(); }, true);
+  restart();
   const renderList = () => {
     document.getElementById("hchips").innerHTML = chips(FILTERS, state.homeFilter, "hf");
     const list = applyFilter(idx.games, state.homeFilter);
@@ -224,40 +262,72 @@ async function games() {
     const list = applyFilter(idx.games, state.gamesFilter).filter((g) => !q || [g.name, g.developer, g.subtitle, (g.genres || []).join()].join(" ").toLowerCase().includes(q));
     document.getElementById("glist").innerHTML = list.length ? list.map((g) => `<a class="card game-row press" href="#/game/${g.id}">${gameIcon(g, 60)}
       <div class="grow"><strong style="font-weight:500">${esc(g.name)}</strong><div class="muted small ellipsis">${esc([g.developer, (g.genres || []).join(" · ")].filter(Boolean).join(" • "))}</div></div>
-      ${g.stats?.characters ? pill(`${g.stats.characters} ${g.stats.label}`, C.primary) : ""}<span class="muted">${ICON.right}</span></a>`).join("") : empty("🔎", "Nada encontrado", "Tente outra palavra ou outra categoria.");
+      ${g.stats?.characters ? pill(`${g.stats.characters} ${g.stats.label}`, C.primary) : ""}${favHeart("game:" + g.id, `data-game="${g.id}" style="position:static;background:none"`)}<span class="muted">${ICON.right}</span></a>`).join("") : empty("🔎", "Nada encontrado", "Tente outra palavra ou outra categoria.");
     document.querySelectorAll("[data-gf]").forEach((c) => (c.onclick = () => { state.gamesFilter = c.dataset.gf; render(); }));
   };
   document.getElementById("gq").oninput = (e) => { state.gamesQuery = e.target.value; render(); };
   render();
 }
 
+// Agrupa as seções do guia para a página do jogo ficar organizada (funciona para qualquer jogo novo).
+const SECTION_GROUPS = [
+  ["Comece por aqui", ["info", "codigos", "guias", "dicas", "iniciante", "como-jogar"]],
+  ["Coleção", ["toons", "brawlers", "personagens", "skins", "douradas", "maestria", "vintage", "como-conseguir-skins", "pets", "armas", "frutas", "estilos", "espadas", "racas", "papeis", "ancient", "godly", "como-desbloquear"]],
+  ["Novidades e eventos", ["semana", "novidades", "atualizacoes", "eventos"]],
+  ["Comunidade e termos", ["criadores", "termos", "links"]],
+];
+function groupCategories(cats) {
+  const used = new Set(); const out = [];
+  SECTION_GROUPS.forEach(([title, ids]) => {
+    const list = cats.filter((c) => !used.has(c.id) && ids.some((k) => c.id === k || c.id.startsWith(k)));
+    list.forEach((c) => used.add(c.id)); if (list.length) out.push([title, list]);
+  });
+  const rest = cats.filter((c) => !used.has(c.id)); if (rest.length) out.push(["Mais seções", rest]);
+  return out;
+}
+
 async function gamePage(id) {
   setTabs(null);
   const idx = await loadIndex(); const s = idx.games.find((g) => g.id === id); const g = await loadGame(id);
-  const favKey = "game:" + id;
+  const favKey = "game:" + id; FAVDATA[favKey] = gameFav(s);
   const toonsCat = g.categories.find((c) => c.sections.some((x) => x.type === "toons"));
   const preview = toonsCat ? toonsCat.sections.filter((x) => x.type === "toons").flatMap((x) => x.toons).slice(0, 14) : [];
+  const codes = g.categories.flatMap((c) => c.sections.filter((x) => x.type === "codes").flatMap((x) => x.codes));
+  const activeCodes = codes.filter((c) => c.status === "active").length;
+  const codesCat = g.categories.find((c) => c.sections.some((x) => x.type === "codes"));
+  // Destaque da semana (ex.: Toon da Semana e skins Douradas no Dandy's World)
+  const weekCat = g.categories.find((c) => ["douradas", "semana"].includes(c.id) && c.sections.length);
+  const weekNote = weekCat?.sections.find((x) => x.type === "notice" || x.type === "text");
   const favBtn = () => Fav.has(favKey) ? `${ICON.heart} Nos favoritos` : `${ICON.heartO} Favoritar`;
-  $app.innerHTML = `${topbar(s.name)}<div class="wrap stack page">
+  const tile = (c) => { const soon = c.status === "coming_soon" && !c.sections.length;
+    const tag = c.id === codesCat?.id && activeCodes ? pill(`${activeCodes} ativos`, C.success) : soon ? pill("Em breve") : "";
+    return `<a class="card tile press" href="#/game/${id}/c/${c.id}" style="${soon ? "opacity:.6" : ""}"><span class="tag">${tag}</span><div class="ico">${esc(c.emoji)}</div><strong style="font-weight:500">${esc(c.title)}</strong><div class="muted small clamp2">${esc(soon ? "Em preparação" : c.description)}</div></a>`; };
+  $app.innerHTML = `${topbar(s.name)}<div class="wrap stack page" style="gap:20px">
     <div class="hero">${img(s.cover, "", "art ok")}<div class="shade"></div>
-      <div class="info">${gameIcon(s, 88)}<div class="stack" style="gap:4px"><h2 style="font-size:30px">${esc(s.name)}</h2>
-      <div style="color:${C.primary};font-weight:500">${esc(s.developer)}</div><div class="pills">${(s.genres || []).map((x) => pill(x)).join("")}${badges(s)}</div></div></div></div>
+      <div class="info">${gameIcon(s, 80)}<div class="stack" style="gap:4px"><h2 style="font-size:clamp(24px,3vw,30px)">${esc(s.name)}</h2>
+      <div style="color:var(--primary);font-weight:500">${esc(s.developer)}</div><div class="pills">${(s.genres || []).map((x) => pill(x, C.secondary)).join("")}${s.platform && !(s.genres || []).includes(s.platform) ? pill(s.platform, C.primary) : ""}${badges(s)}</div></div></div></div>
     <div class="pills" style="gap:12px">${s.storeUrl ? `<a class="btn btn-primary" href="${esc(s.storeUrl)}" target="_blank" rel="noopener">${ICON.open} ${esc(s.storeLabel || "Abrir o jogo")}</a>` : ""}
-      <button class="btn btn-secondary" id="fav">${favBtn()}</button></div>
+      <button class="btn btn-secondary" id="fav">${favBtn()}</button>
+      ${codesCat ? `<a class="btn btn-secondary" href="#/game/${id}/c/${codesCat.id}">🎁 Códigos${activeCodes ? ` (${activeCodes})` : ""}</a>` : ""}</div>
+    <div class="stats-row">
+      <div class="card stat"><b>${s.stats?.characters || 0}</b><span>${esc(s.stats?.label || "personagens")}</span></div>
+      <div class="card stat"><b>${s.stats?.skins || 0}</b><span>skins e itens</span></div>
+      <div class="card stat"><b>${g.categories.length}</b><span>seções do guia</span></div>
+      <div class="card stat"><b style="color:${activeCodes ? C.success : "inherit"}">${activeCodes}</b><span>códigos ativos</span></div></div>
+    ${weekNote ? `<a class="card week press" href="#/game/${id}/c/${weekCat.id}"><span class="wi">${esc(weekCat.emoji || "⭐")}</span><div class="grow stack" style="gap:4px"><strong style="font-size:18px;font-weight:600">${esc(weekCat.title)}</strong><div class="muted clamp3">${esc(weekNote.body || "")}</div></div><span style="color:var(--primary)">${ICON.right}</span></a>` : ""}
+    ${preview.length ? `<div class="stack">${sectionHead(toonsCat.title, toonsCat.description, "Ver tudo", `#/game/${id}/c/${toonsCat.id}`)}
+      <div class="hscroll">${preview.map((t) => `<div style="width:150px">${media(t.image, t.name, { badge: (t.kind || "").split(" · ")[0], href: `#/game/${id}/c/${toonsCat.id}/t/${t.id}` })}</div>`).join("")}</div></div>` : ""}
+    ${sectionHead("Seções do guia", `${g.categories.length} seções`)}
+    ${groupCategories(g.categories).map(([title, list]) => `<div class="group-title">${esc(title)}</div><div class="tiles">${list.map(tile).join("")}</div>`).join("")}
     <div class="two-col">
       <div class="card pad stack" style="gap:10px"><h3 style="font-size:20px">Sobre o jogo</h3><div class="muted">${esc(s.longDescription || g.description)}</div>
         ${(s.credits || []).length ? `<h3 style="font-size:17px;margin-top:6px">Quem criou</h3>${s.credits.map((c) => `<div class="muted">• ${esc(c)}</div>`).join("")}` : ""}</div>
       <div class="card pad stack" style="gap:12px"><h3 style="font-size:20px">📱 Compatibilidade</h3><div class="muted">${esc(s.compatibility || s.platform)}</div>
         <div class="muted small">Este guia funciona no celular, no tablet, no computador e na multimídia do carro.</div></div>
     </div>
-    ${preview.length ? `<div class="stack">${sectionHead(toonsCat.title, toonsCat.description, "Ver tudo", `#/game/${id}/c/${toonsCat.id}`)}
-      <div class="hscroll">${preview.map((t) => `<div style="width:160px">${media(t.image, t.name, { badge: (t.kind || "").split(" · ")[0], href: `#/game/${id}/c/${toonsCat.id}/t/${t.id}` })}</div>`).join("")}</div></div>` : ""}
-    ${sectionHead("Seções do guia", `${g.categories.length} seções`)}
-    <div class="tiles">${g.categories.map((c) => { const soon = c.status === "coming_soon" && !c.sections.length;
-      return `<a class="card tile press" href="#/game/${id}/c/${c.id}" style="${soon ? "opacity:.6" : ""}"><div class="ico">${esc(c.emoji)}</div><strong style="font-weight:500">${esc(c.title)}</strong><div class="muted small clamp2">${esc(soon ? "Em breve" : c.description)}</div></a>`; }).join("")}</div>
   </div>`;
   document.getElementById("fav").onclick = (e) => {
-    const on = Fav.toggle({ key: favKey, title: s.name, subtitle: s.developer, image: s.cover, route: `#/game/${id}`, type: "game" });
+    const on = Fav.toggle(FAVDATA[favKey]);
     e.currentTarget.innerHTML = favBtn(); toast(on ? "Adicionado aos favoritos" : "Removido dos favoritos");
   };
 }
@@ -269,7 +339,9 @@ async function categoryPage(id, catId) {
   const collection = c.sections.some((x) => x.type === "toons" || x.type === "gallery");
   const groups = c.sections.filter((x) => (x.type === "toons" || x.type === "gallery") && x.title);
   let q = "", grp = "Todos";
-  $app.innerHTML = `${topbar(c.title)}<div class="wrap stack page ${collection ? "" : "narrow"}" style="gap:20px">
+  const gk = `guide:${id}/${catId}`; const idxG = (await loadIndex()).games.find((x) => x.id === id);
+  FAVDATA[gk] = { key: gk, title: c.title, subtitle: idxG?.name || "", image: idxG?.cover || "", route: `#/game/${id}/c/${catId}`, type: "guide" };
+  $app.innerHTML = `${topbar(c.title, true, favHeart(gk, 'style="position:static;background:none;width:56px;height:56px"'))}<div class="wrap stack page ${collection ? "" : "narrow"}" style="gap:20px">
     <div class="card row" style="padding:18px 22px;gap:18px"><div class="tile" style="padding:0;min-height:0"><div class="ico" style="width:56px;height:56px">${esc(c.emoji)}</div></div>
       <div class="grow"><h2 style="font-size:22px">${esc(c.title)}</h2><div class="muted small clamp2">${esc(c.description)}</div></div></div>
     ${collection ? `<label class="search">${ICON.search}<input id="cq" placeholder="Pesquisar em ${esc(c.title.toLowerCase())}"></label>${groups.length > 1 ? `<div id="cchips"></div>` : ""}` : ""}
@@ -334,7 +406,7 @@ async function toonPage(id, catId, toonId) {
         <div class="grow stack" style="gap:10px;min-width:240px">${t.mastery.map((m, i) => `<div class="step"><div class="num">${i + 1}</div><div style="padding-top:5px">${esc(m)}</div></div>`).join("")}
         ${t.vintageImage ? `<div>${pill(`🎁 Recompensa: skin Vintage ${t.name}`, C.success)}</div>` : ""}</div></div>`)}</div>`;
     } else {
-      el.innerHTML = `<div class="grid-media fade">${t.skins.map((s) => media(s.image, s.name, { badge: s.category, detail: s.howTo, tall: true })).join("")}</div>`;
+      el.innerHTML = `<div class="grid-media fade">${t.skins.map((s) => media(s.image, s.name, { badge: s.category, detail: s.howTo, tall: true, fav: { key: `skin:${id}/${toonId}/${s.name}`, title: s.name, subtitle: `${t.name} · ${s.category || "Skin"}`, image: s.image, route: `#/game/${id}/c/${catId}/t/${toonId}`, type: "skin" } })).join("")}</div>`;
     }
   };
   render();
@@ -370,10 +442,13 @@ function startTutorial(steps) {
 
 function favorites() {
   setTabs("favorites");
-  const all = Fav.list(); const gs = all.filter((f) => f.type === "game"), cs = all.filter((f) => f.type !== "game");
-  $app.innerHTML = `${topbar("Favoritos", false)}<div class="wrap stack page">${!all.length ? empty("♡", "Nenhum favorito ainda", "Toque no coração na página de um jogo ou personagem para guardar aqui e achar rápido depois.") : `
-    ${gs.length ? `${sectionHead("Jogos", `${gs.length} salvos`)}<div class="stack" style="gap:12px">${gs.map((f) => `<a class="card game-row press" href="${f.route}"><div class="game-icon" style="width:60px;height:60px">${img(f.image, "", "ok")}</div><div class="grow"><strong style="font-weight:500">${esc(f.title)}</strong><div class="muted small">${esc(f.subtitle)}</div></div><span style="color:${C.danger}">${ICON.heart}</span></a>`).join("")}</div>` : ""}
-    ${cs.length ? `${sectionHead("Personagens", `${cs.length} salvos`)}<div class="grid-media">${cs.map((f) => media(f.image, f.title, { badge: (f.subtitle || "").split(" · ")[0], href: f.route })).join("")}</div>` : ""}`}</div>`;
+  const all = Fav.list();
+  const groups = [["game", "Jogos"], ["character", "Personagens e Toons"], ["skin", "Skins"], ["guide", "Guias e seções"]];
+  all.forEach((f) => (FAVDATA[f.key] = f));
+  $app.innerHTML = `${topbar("Favoritos", false)}<div class="wrap stack page">${!all.length ? empty("♡", "Nenhum favorito ainda", "Toque no coração em um jogo, personagem, skin ou guia para guardar aqui. Fica salvo mesmo se você fechar o app.") :
+    groups.map(([tp, label]) => { const l = all.filter((f) => (f.type || "game") === tp); if (!l.length) return "";
+      if (tp === "game" || tp === "guide") return `${sectionHead(label, `${l.length} salvos`)}<div class="stack" style="gap:12px">${l.map((f) => `<a class="card game-row press" href="${f.route}"><div class="game-icon" style="width:56px;height:56px">${img(f.image, "", "ok")}</div><div class="grow"><strong style="font-weight:500">${esc(f.title)}</strong><div class="muted small">${esc(f.subtitle)}</div></div>${favHeart(f.key, 'style="position:static;background:none"')}</a>`).join("")}</div>`;
+      return `${sectionHead(label, `${l.length} salvos`)}<div class="grid-media">${l.map((f) => media(f.image, f.title, { detail: f.subtitle, href: f.route, fav: f })).join("")}</div>`; }).join("")}</div>`;
 }
 
 async function news() {
@@ -436,7 +511,7 @@ async function settings() {
 
 async function search() {
   setTabs(null);
-  $app.innerHTML = `${topbar("Pesquisar")}<div class="wrap stack page"><label class="search">${ICON.search}<input id="sq" placeholder="Jogos, personagens, skins, seções…" autofocus></label><div id="sres"></div></div>`;
+  $app.innerHTML = `${topbar("Pesquisar")}<div class="wrap stack page"><label class="search">${ICON.search}<input id="sq" placeholder="Pesquisar jogos, personagens, skins..." autofocus></label><div id="sres"></div></div>`;
   const pairs = await allGames(); const hits = [];
   pairs.forEach(([g, d]) => {
     hits.push({ type: "Jogos", title: g.name, sub: [g.developer, (g.genres || []).join(" · ")].join(" • "), image: g.cover, href: `#/game/${g.id}` });
@@ -445,19 +520,25 @@ async function search() {
       c.sections.forEach((s) => {
         if (s.type === "toons") s.toons.forEach((t) => hits.push({ type: "Personagens", title: t.name, sub: `${g.name} · ${t.kind}`, image: t.image, href: `#/game/${g.id}/c/${c.id}/t/${t.id}` }));
         if (s.type === "gallery") s.images.forEach((im) => hits.push({ type: "Skins e itens", title: im.caption, sub: g.name, image: im.image, href: `#/game/${g.id}/c/${c.id}` }));
+        if (s.type === "toons") s.toons.forEach((t) => (t.skins || []).forEach((sk) => hits.push({ type: "Skins e itens", title: sk.name, sub: `${g.name} · ${t.name}`, image: sk.image, href: `#/game/${g.id}/c/${c.id}/t/${t.id}` })));
+        if (s.type === "codes") s.codes.forEach((cd) => hits.push({ type: "Códigos", title: cd.code, sub: `${g.name} · ${cd.status === "active" ? "Ativo" : cd.status === "expired" ? "Expirado" : "Não verificado"}${cd.reward ? " · " + cd.reward : ""}`, emoji: "🎁", href: `#/game/${g.id}/c/${c.id}` }));
+        if (s.type === "items") s.items.forEach((it) => hits.push({ type: c.id === "termos" ? "Termos" : "Guias e dicas", title: it.name, sub: `${g.name} · ${c.title}`, image: it.image || "", emoji: c.emoji, href: `#/game/${g.id}/c/${c.id}` }));
+        if (s.type === "levels") s.levels.forEach((l) => hits.push({ type: "Guias e dicas", title: `${c.title}: ${l.level}`, sub: g.name, emoji: c.emoji, href: `#/game/${g.id}/c/${c.id}` }));
+        if (s.type === "creators") s.creators.forEach((cr) => hits.push({ type: "Criadores", title: cr.name, sub: `${g.name} · ${cr.country || ""}`, emoji: "📺", href: `#/game/${g.id}/c/${c.id}` }));
       });
     });
   });
+  { const seen = new Set(); for (let k = hits.length - 1; k >= 0; k--) { const h = hits[k], id = h.type + "|" + h.title + "|" + (h.image || h.sub); if (seen.has(id)) hits.splice(k, 1); else seen.add(id); } }
   const inp = document.getElementById("sq"); inp.value = search._q || ""; inp.focus();
   const render = () => {
     const q = (search._q = inp.value).trim().toLowerCase(); const el = document.getElementById("sres");
     if (q.length < 2) { el.innerHTML = empty("🔍", "O que você procura?", 'Digite pelo menos 2 letras. Ex.: "Shelly", "Vintage", "Dragon", "códigos".'); return; }
-    const res = hits.filter((h) => h.title.toLowerCase().includes(q) || h.sub.toLowerCase().includes(q)).slice(0, 120);
+    const res = hits.filter((h) => h.title.toLowerCase().includes(q) || h.sub.toLowerCase().includes(q)).slice(0, 160);
     if (!res.length) { el.innerHTML = empty("🤔", "Nada encontrado", "Tente outro nome ou confira a ortografia."); return; }
-    el.innerHTML = ["Jogos", "Personagens", "Skins e itens", "Seções"].map((tp) => { const l = res.filter((h) => h.type === tp); if (!l.length) return "";
+    el.innerHTML = ["Jogos", "Personagens", "Skins e itens", "Códigos", "Guias e dicas", "Termos", "Criadores", "Seções"].map((tp) => { const l = res.filter((h) => h.type === tp); if (!l.length) return "";
       const cards = tp === "Personagens" || tp === "Skins e itens";
       return `<div class="stack" style="margin-bottom:24px">${sectionHead(tp, `${l.length} resultados`)}${cards ? `<div class="grid-media">${l.map((h) => media(h.image, h.title, { detail: h.sub, href: h.href })).join("")}</div>`
-        : `<div class="stack" style="gap:12px">${l.map((h) => `<a class="card game-row press" href="${h.href}"><div class="game-icon" style="width:52px;height:52px">${h.image ? img(h.image, "", "ok") : esc(h.emoji || "🎮")}</div><div class="grow"><strong style="font-weight:500">${esc(h.title)}</strong><div class="muted small">${esc(h.sub)}</div></div>${pill(tp === "Seções" ? "Seção" : "Jogo")}</a>`).join("")}</div>`}</div>`; }).join("");
+        : `<div class="stack" style="gap:12px">${l.map((h) => `<a class="card game-row press" href="${h.href}"><div class="game-icon" style="width:52px;height:52px">${h.image ? img(h.image, "", "ok") : esc(h.emoji || "🎮")}</div><div class="grow"><strong style="font-weight:500">${esc(h.title)}</strong><div class="muted small">${esc(h.sub)}</div></div>${pill({ "Seções": "Seção", "Jogos": "Jogo", "Códigos": "Código", "Termos": "Termo", "Criadores": "Criador" }[tp] || "Guia")}</a>`).join("")}</div>`}</div>`; }).join("");
   };
   inp.oninput = render; render();
 }
@@ -465,10 +546,13 @@ async function search() {
 // ---------------------------------------------------------------- roteador
 async function router() {
   stopTutorial();
+  // Cada entrada do histórico guarda sua profundidade: o "voltar" do app nunca sai do site.
+  if (history.state?.d == null) history.replaceState({ d: !router._ran ? 0 : NAV.replacing ? NAV.last : NAV.last + 1 }, "");
+  NAV.last = history.state.d; NAV.replacing = false; router._ran = true;
   const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   let entered = false; try { entered = sessionStorage.getItem("gj-in") === "1"; } catch (_) { entered = true; }
   if (!entered && !parts.length) return welcome();
-  if (!parts.length) { location.replace("#/home"); return; }
+  if (!parts.length) { NAV.replacing = true; location.replace("#/home"); return; }
   $app.innerHTML = `<div class="spinner"></div>`;
   scrollTo(0, 0);
   try {
@@ -482,7 +566,7 @@ async function router() {
     else if (p0 === "game" && p1 && p2 === "c" && p3 && p4 === "t" && p5) await toonPage(p1, p3, p5);
     else if (p0 === "game" && p1 && p2 === "c" && p3) await categoryPage(p1, p3);
     else if (p0 === "game" && p1) await gamePage(p1);
-    else location.replace("#/home");
+    else { NAV.replacing = true; location.replace("#/home"); }
   } catch (err) {
     setTabs(null);
     $app.innerHTML = `${topbar("Ops")}<div class="wrap">${empty("⚠️", "Algo deu errado", err.message || "Erro ao carregar")}<div style="text-align:center"><a class="btn btn-secondary" href="#/home">Voltar ao início</a></div></div>`;

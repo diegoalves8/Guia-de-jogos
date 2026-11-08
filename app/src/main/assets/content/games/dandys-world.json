@@ -5249,25 +5249,226 @@
    "id": "novidades",
    "title": "Novidades",
    "emoji": "📰",
-   "description": "Últimas notícias do jogo.",
-   "status": "coming_soon",
-   "sections": []
+   "description": "Últimas notícias do jogo, com fonte.",
+   "status": "available",
+   "sections": [
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "info",
+     "body": "Notícias de Dandy's World reunidas da semana (Semana de 01/11 a 07/11/2026) e do mês (Novembro de 2026)."
+    },
+    {
+     "type": "items",
+     "title": "📰 Últimas notícias",
+     "items": [
+      {
+       "name": "Fim do evento de Halloween e começa a semana do Astro",
+       "tags": [
+        "06/11/2026"
+       ],
+       "description": "O evento de Halloween (02/10 a 06/11) acabou e a atualização \"Astro's Week\" (Alpha 0.30.1) removeu o conteúdo do evento. Astro é o Toon da Semana até 13/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki (Changelog)"
+       }
+      },
+      {
+       "name": "Novo código AD2026",
+       "tags": [
+        "03/11/2026"
+       ],
+       "description": "O código AD2026 dá o Profile Print \"American Dream 2026\". O código QoM expirou em 06/11.",
+       "fields": {
+        "Fonte": "GamesRadar",
+        "Link": "https://www.gamesradar.com/games/survival/dandys-world-codes/"
+       }
+      },
+      {
+       "name": "Fim da missão The Hollow",
+       "tags": [
+        "03/11/2026"
+       ],
+       "description": "A missão do Dandy's World no evento The Hollow, do Roblox, deixou de ser jogável em 03/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki"
+       }
+      },
+      {
+       "name": "Próxima atualização e troca do Toon da Semana",
+       "tags": [
+        "13/11/2026"
+       ],
+       "description": "A wiki aponta um novo patch (versão Alpha 0.30) e a troca do Toon da Semana para sexta, 13/11. O próximo grande evento esperado é o de Natal.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki"
+       }
+      },
+      {
+       "name": "Resumo: Halloween 2026",
+       "tags": [
+        "06/11/2026"
+       ],
+       "description": "Voltaram os Toons Gourdy, Soulvester, Eclipse e Ribecca, com loja de Pumpkins, missões de skins Douradas, a skin Toxic Experiment do Waxwell e a música oficial \"Queens of Mischief\".",
+       "fields": {
+        "Fonte": "X (Twitter) · Gaming Route"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Novo código AD2026 (GamesRadar)",
+       "url": "https://www.gamesradar.com/games/survival/dandys-world-codes/",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true,
+   "updatedAt": "2026-11-07"
   },
   {
    "id": "eventos",
    "title": "Eventos",
    "emoji": "🎉",
-   "description": "Eventos ativos e futuros.",
-   "status": "coming_soon",
-   "sections": []
+   "description": "Eventos ativos e próximas datas.",
+   "status": "available",
+   "sections": [
+    {
+     "type": "items",
+     "title": "🎉 Eventos e datas importantes",
+     "items": [
+      {
+       "name": "Fim do evento de Halloween e começa a semana do Astro",
+       "tags": [
+        "06/11/2026"
+       ],
+       "description": "O evento de Halloween (02/10 a 06/11) acabou e a atualização \"Astro's Week\" (Alpha 0.30.1) removeu o conteúdo do evento. Astro é o Toon da Semana até 13/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki (Changelog)"
+       }
+      },
+      {
+       "name": "Fim da missão The Hollow",
+       "tags": [
+        "03/11/2026"
+       ],
+       "description": "A missão do Dandy's World no evento The Hollow, do Roblox, deixou de ser jogável em 03/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki"
+       }
+      },
+      {
+       "name": "Próxima atualização e troca do Toon da Semana",
+       "tags": [
+        "13/11/2026"
+       ],
+       "description": "A wiki aponta um novo patch (versão Alpha 0.30) e a troca do Toon da Semana para sexta, 13/11. O próximo grande evento esperado é o de Natal.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki"
+       }
+      },
+      {
+       "name": "Resumo: Halloween 2026",
+       "tags": [
+        "06/11/2026"
+       ],
+       "description": "Voltaram os Toons Gourdy, Soulvester, Eclipse e Ribecca, com loja de Pumpkins, missões de skins Douradas, a skin Toxic Experiment do Waxwell e a música oficial \"Queens of Mischief\".",
+       "fields": {
+        "Fonte": "X (Twitter) · Gaming Route"
+       }
+      }
+     ]
+    },
+    {
+     "type": "notice",
+     "title": "",
+     "tone": "warning",
+     "body": "Datas de eventos podem mudar. Confira sempre no próprio jogo."
+    }
+   ],
+   "auto": true,
+   "updatedAt": "2026-11-07"
   },
   {
    "id": "semana",
    "title": "Coisas da Semana",
    "emoji": "📅",
-   "description": "O que está rolando nesta semana.",
-   "status": "coming_soon",
-   "sections": []
+   "description": "O que está acontecendo nesta semana.",
+   "status": "available",
+   "sections": [
+    {
+     "type": "items",
+     "title": "⭐ Toon da Semana",
+     "items": [
+      {
+       "name": "Astro",
+       "image": "https://static.wikia.nocookie.net/dandys-world-robloxhorror/images/9/92/Astro_Render.png/revision/latest/scale-to-width-down/400?cb=20261106202427",
+       "tags": [
+        "06/11 a 13/11/2026"
+       ],
+       "description": "Esta é a semana do Astro (atualização \"Astro's Week\", versão Alpha 0.30.1, lançada em 06/11/2026).",
+       "fields": {
+        "O que é o Toon da Semana": "A cada semana um Toon fica em destaque, com missões próprias. Algumas semanas dão skins Douradas como recompensa.",
+        "Próxima troca": "Sexta-feira, 13/11/2026, às 16h (horário de Brasília)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "items",
+     "title": "🗓️ Semana de 01/11 a 07/11/2026",
+     "items": [
+      {
+       "name": "Fim do evento de Halloween e começa a semana do Astro",
+       "tags": [
+        "06/11/2026"
+       ],
+       "description": "O evento de Halloween (02/10 a 06/11) acabou e a atualização \"Astro's Week\" (Alpha 0.30.1) removeu o conteúdo do evento. Astro é o Toon da Semana até 13/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki (Changelog)"
+       }
+      },
+      {
+       "name": "Novo código AD2026",
+       "tags": [
+        "03/11/2026"
+       ],
+       "description": "O código AD2026 dá o Profile Print \"American Dream 2026\". O código QoM expirou em 06/11.",
+       "fields": {
+        "Fonte": "GamesRadar",
+        "Link": "https://www.gamesradar.com/games/survival/dandys-world-codes/"
+       }
+      },
+      {
+       "name": "Fim da missão The Hollow",
+       "tags": [
+        "03/11/2026"
+       ],
+       "description": "A missão do Dandy's World no evento The Hollow, do Roblox, deixou de ser jogável em 03/11.",
+       "fields": {
+        "Fonte": "Dandy's World Wiki"
+       }
+      }
+     ]
+    },
+    {
+     "type": "links",
+     "title": "Fontes",
+     "links": [
+      {
+       "label": "Novo código AD2026 (GamesRadar)",
+       "url": "https://www.gamesradar.com/games/survival/dandys-world-codes/",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "auto": true,
+   "updatedAt": "2026-11-07"
   },
   {
    "id": "info",

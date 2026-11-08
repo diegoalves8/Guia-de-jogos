@@ -1,7 +1,12 @@
 {
-  "contentVersion": 6,
+  "contentVersion": 7,
   "updatedAt": "2026-11-07",
   "news": [
+    {
+      "date": "2026-11-07",
+      "title": "Visual novo e abas de novidades",
+      "body": "Interface mais organizada, cards menores e consistentes, favoritos de skins e guias, pesquisa de códigos e termos, e as abas Novidades, Eventos e Coisas da Semana do Dandy's World preenchidas."
+    },
     {
       "date": "2026-11-07",
       "title": "Visual novo",

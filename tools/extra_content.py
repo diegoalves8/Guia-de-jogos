@@ -156,3 +156,6 @@ for g in gj["games"]:
     g["credits"] = CREDITS[g["id"]]
 json.dump(gj, open(os.path.join(ROOT, "games.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 print("ok", len(WEEK["items"]), len(MONTH["items"]), "douradas", len(gold))
+
+# Abas Novidades/Eventos/Semana de cada jogo a partir das notícias acima
+import runpy; runpy.run_path(os.path.join(os.path.dirname(__file__), "fill_game_news.py"))
